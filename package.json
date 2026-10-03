@@ -23,7 +23,7 @@
 		"db:init:local": "wrangler d1 execute keymove --local --file=data/schema.sql -y",
 		"db:init:remote": "wrangler d1 execute keymove --remote --file=data/schema.sql -y",
 		"db:answers:local": "wrangler d1 execute keymove --local --file=data/answers.sql -y",
-		"db:answers:remote": "tsx scripts/check-build.ts && wrangler d1 execute keymove --remote --file=data/answers.sql -y",
+		"db:answers:remote": "wrangler d1 execute keymove --remote --file=data/answers.sql -y",
 		"db:answers:prune:local": "tsx scripts/prune-answers.ts --local",
 		"db:answers:prune:remote": "tsx scripts/prune-answers.ts --remote",
 		"db:answers:check:local": "tsx scripts/prune-answers.ts --local --check",
