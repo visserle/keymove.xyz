@@ -13,10 +13,7 @@
   <p><em>Chess Compositions for Connoisseurs</em></p>
 </div>
 
-
-keymove.xyz is a website for solving chess compositions. A chess composition is a puzzle created by a composer using the rules of chess. Rather than representing a position from a real game, it is a work of art designed to showcase a beautiful, surprising, or highly logical sequence of moves.
-
-The key move is the first move of the solution. keymove.xyz keeps the solution back until you enter the correct key move of the composition which in turn unlocks the full solution.
+keymove.xyz is a website for solving chess compositions. A chess composition is a puzzle created by a composer using the rules of chess. Rather than representing a position from a real game, it is a work of art designed to showcase a beautiful and surprising sequence of moves. The first move of the solution is called the key move.
 
 keymove.xyz draws extensively from the [lichess.org codebase](https://github.org/lichess-org/lila).
 
