@@ -334,9 +334,18 @@ function answersSql(list: Row[]): string {
 	return `${chunks.join("\n\n")}\n`;
 }
 
+/**
+ * Rewrites a row only when the movetext changed. Everything else about a
+ * composition is `build/catalogue.json`, which the deploy publishes as a static
+ * asset, so a push that edited only tags still used to rewrite all 12,713 rows to
+ * store the two columns it already had. Deletions are `scripts/prune-answers.ts`'s
+ * half of the same drift, and stay after the deploy for the reason its header
+ * gives.
+ */
 const UPSERT = `ON CONFLICT(composition_id) DO UPDATE SET
   key_san  = excluded.key_san,
-  solution = excluded.solution`;
+  solution = excluded.solution
+WHERE key_san IS NOT excluded.key_san OR solution IS NOT excluded.solution`;
 
 /**
  * The public projection: everything about a composition a visitor may read, and
