@@ -18,7 +18,7 @@ keymove.xyz is a website for solving chess compositions. A chess composition is 
 
 The key move is the first move of the solution. keymove.xyz keeps the solution back until you enter the correct key move of the composition which in turn unlocks the full solution.
 
-keymove.xyz draws extensively from on the [lichess.org codebase](https://github.org/lichess-org/lila).
+keymove.xyz draws extensively from the [lichess.org codebase](https://github.org/lichess-org/lila).
 
 ## Running it locally
 
