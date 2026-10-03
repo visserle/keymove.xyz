@@ -1,0 +1,13 @@
+[Event "Ceskoslovensky Sach#548"]
+[Source "Ceskoslovensky Sach/1"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Katetov, Miroslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5B2/8/5P2/3p2p1/6P1/6PK/3p4/6k1 w - - 0 1"]
+
+1. Bc5+ $1 (1. f7 $2 d1=Q $1 2. Bc5+ d4 $1 3. f8=Q Qd2 $1) d4 $1 (Kh1 2. f7 d1=Q 3. f8=Q Qd3 4. Qf7 Qd1 5. Bd4 $1 Qxd4 6. Qf1+ Qg1 7. Qf3+ Qg2+ 8. Qxg2#) 2. Bxd4+ Kh1 3. f7 d1=N $1 4. f8=R $1 (4. f8=Q $2 Nf2+ 5. Bxf2 (5. Qxf2)) 1-0

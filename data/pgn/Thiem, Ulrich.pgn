@@ -1,0 +1,13 @@
+[Event "Schach Echo#11086"]
+[Source "Schach Echo/4"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Thiem, Ulrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/7p/3p3p/p2P1K1R/p3pP1P/8/8/8 w - - 0 1"]
+
+1. Kf6 $1 (1. Rxh6 $2 a3 2. Rxd6 a2 3. h5 (3. Kf6 a1=Q+) a1=Q (h6 4. Kg6) 4. h6 Kg8 5. Ke6 Qa3 6. Rd8+ Qf8 7. Rxf8+ Kxf8 8. d6 Ke8 9. f5 e3 10. f6 e2 11. f7+ Kf8 12. d7 e1=Q+) a3 2. Re5 $1 dxe5 3. d6 $1 a2 4. d7 a1=Q 5. d8=Q# 1-0

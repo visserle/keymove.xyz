@@ -1,0 +1,26 @@
+[Event "source unknown"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Shkril, Vladimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5K1p/7k/4R3/8/3b2P1/1p6/8 w - - 0 1"]
+
+1. g4 $1 Bg6+ 2. Kf6 b1=Q 3. Rh5+ Bxh5 4. g5# 1-0
+
+[Event "4.hm Shakhmaty v SSSR#11 (c)"]
+[Source "Shakhmaty v SSSR/3 EG#05992. (c): Shkril=V Shakhmaty v SSSR/9 1983."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Shkril, Vladimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5r1k/PRP5/7n/7K/8/8/P2r4/8 w - - 0 1"]
+
+1. Rb8 $1 Rh2+ 2. Kg5 Rg2+ 3. Kh5 (3. Kh4 $2 Rfg8 4. c8=Q Rh2+ 5. Qh3 Nf5+) Rfg8 4. Rxg8+ Rxg8 5. Kxh6 Ra8 (Rf8 6. Kg6 Kg8 7. a4) 6. Kg6 Rf8 7. a3 $1 Kg8 8. a4 Kh8 (Re8 9. Kf6 Kf8 10. a5) 9. a5 Kg8 10. a6 Kh8 11. a8=Q Rxa8 12. Kf6 Re8 13. a7 Kg8 14. a8=Q Rxa8 15. Ke7 1/2-1/2

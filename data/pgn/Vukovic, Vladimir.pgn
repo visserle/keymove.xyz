@@ -1,0 +1,39 @@
+[Event "source unknown"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Vukovic, Vladimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/8/8/8/1p6/p4R1K/8/8 w - - 0 1"]
+
+1. Rf8+ $1 Kg7 2. Ra8 Kf6 3. Ra4 1-0
+
+[Event "Sahovski Glasnik (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - XI-75 2012."]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Vukovic, Vladimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/k2K4/6R1/2p5/4p3/5p2/6p1/8 w - - 0 1"]
+
+1. Kc6 $1 f2 2. Rg7+ Ka6 3. Rxg2 e3 4. Rh2 Ka5 5. Kxc5 Ka4 6. Rh4+ Kb3 7. Rf4 e2 8. Rf3+ Ka4 9. Rf4+ 1/2-1/2
+
+[Event "source unknown"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Vukovic, Vladimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/k3p1R1/2K5/2p5/3p4/4p3/5p2/8 w - - 0 1"]
+
+1. Rf7 $1 (1. Rxe7+ $2 Ka6 2. Rf7 e2 3. Rf8 Ka5 4. Kxc5 Ka4 5. Kc4 e1=Q 6. Ra8+ Qa5) c4 (d3 {<main>} 2. Rxe7+ Ka6 3. Re8 Ka5 4. Kxc5 Ka4 5. Kc4 Ka3 6. Kc3 Ka2 7. Rf8 d2 8. Kc2 Ka3 {<eg>} 9. Kd1 Kb4 10. Ke2 Kc5 11. Rd8) 2. Rf5 e5 (Ka6 3. Rf8) (e2 3. Ra5+ Kb8 4. Rb5+ Kc8 5. Ra5) 3. Rf7+ Ka6 4. Rf8 Ka5 5. Kc5 Ka4 6. Kxc4 Ka3 7. Kd3 Kb4 {<eg>} (e4+ 8. Ke2) 8. Ke2 Kc5 9. Rc8+ Kd5 10. Rd8+ Ke4 11. Rd7 d3+ 12. Kf1 d2 13. Ke2 Kf4 14. Rf7+ 1/2-1/2

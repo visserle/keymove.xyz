@@ -1,0 +1,69 @@
+[Event "Beginner ty Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/4 1956"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Afonin, Sergei"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/K7/8/4k3/4p2p/4P3/7P/8 w - - 0 1"]
+
+1. Kb6 $1 (1. Ka6 $2 h3 2. Kb5 Kf5 3. Kc4 Kg4 4. Kd5 Kf3 5. Kd4 Kg2) Kd5 (Kf5 2. h3 Ke5 3. Kc5 Ke6 4. Kd4) 2. Kb5 h3 3. Kb4 $1 Kd6 4. Kc4 Ke5 5. Kc5 Ke6 6. Kd4 Kf5 7. Kd5 Kg5 $1 8. Ke5 $1 (8. Kxe4 $2 Kg4 9. Kd3 Kf3 10. e4 Kg2) Kh5 9. Kf5 $1 (9. Kf4 $2 Kh4) Kh4 10. Kf4 $1 Kh5 11. Kg3 $1 Kg5 12. Kxh3 1-0
+
+[Event "Shakhmaty v SSSR (c)"]
+[Source "Shakhmaty v SSSR/12 (c): Korolkov=V Shakhmaty v SSSR/12 1956."]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Afonin, Sergei"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/8/8/4p1p1/2k3P1/5P2/8/8 w - - 0 1"]
+
+1. Kg7 $1 Kd3 2. Kf6 (2. Kg6 $2 Ke3 3. Kxg5 Kxf3) Kd4 (Ke3 3. Kxe5) 3. Kf5 $1 Ke3 4. Kxe5 Kxf3 5. Kf5 1-0
+
+[Event "Bulletin Central Chess Club USSR#16"]
+[Source "Bulletin Central Chess Club USSR/11"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Afonin, Sergei"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1k6/1p6/p7/2P5/2PK4/8 w - - 0 1"]
+
+1. Kc1 $1 Kc5 2. Kb1 $1 Kd5 (a3 { <main>} 3. Ka1 $1 Kd5 4. Kb1 $1 Kc5 5. Ka1 $1 Kc4 6. Ka2) 3. Ka2 $1 Kc4 4. Kb2 a3+ 5. Ka2 $1 Kxc3 6. Kxa3 1/2-1/2
+
+[Event "Shakhmaty v SSSR#34"]
+[Source "Shakhmaty v SSSR/9"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Afonin, Sergei"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/3pp3/8/1K6/2P5/2P5/8/8 w - - 0 1"]
+
+1. c5 $1 Kd8 2. Kc4 Kc7 3. Kd3 $1 (3. Kd4 $2 Kc6 4. c4 e6) (3. Kd5 $2 e6+ $1 4. Kd4 Kb7 $1 5. Ke5 Kc6 6. Kd4 Kb5) Kc6 (Kb7 4. Ke4 $1 Ka6 $1 5. Ke5 $1 Ka5 6. c6 $1 dxc6 7. Ke6) 4. Kd4 e6 5. c4 $1 e5+ $1 6. Ke4 $1 Kxc5 7. Kxe5 1/2-1/2
+
+[Event "sp.hm Shakhmaty v SSSR#45"]
+[Source "Shakhmaty v SSSR/12"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Afonin, Sergei"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3p2K1/8/1k1p4/8/1PP5/8 w - - 0 1"]
+
+1. Kf6 $1 (1. Kf5 $2 Kc5 $1 2. Kg4 Kb4 3. Kf3 d3 $1) Kb5 $1 2. Kf7 $1 Kc4 3. Ke6 Kc5 (d3 4. cxd3+ Kxd3 5. Kd5 $1) 4. Ke7 $1 Kc6 5. Kd8 $1 Kb5 6. Kd7 $1 Kc5 7. Kc7 Kd5 8. Kb6 Kc4 9. Kc6 1-0

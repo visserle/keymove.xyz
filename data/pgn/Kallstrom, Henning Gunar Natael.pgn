@@ -1,0 +1,179 @@
+[Event "Tidskrift for Schack#0884"]
+[Source "Tidskrift for Schack/12"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Kallstrom, Henning Gunar Natael"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5n2/8/3p4/P3Pk2/2p5/5B1p/K7/8 w - - 0 1"]
+
+1. a6 $1 Nd7 2. e6 Kxe6 3. Bg4+ Ke5 4. Bxd7 h2 5. Bc6 d5 6. Bxd5 Kxd5 7. a7 h1=Q 8. a8=Q+ Kd4 9. Qxh1 1-0
+
+[Event "Tidskrift for Schack#0909 (c)"]
+[Source "Tidskrift for Schack/6-7 (c): Garcia=M Estudios Artisticos de Ajedrez - V-18 2012."]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Kallstrom, Henning Gunar Natael"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/8/rP6/1N1N4/5p2/8/6k1/8 w - - 0 1"]
+
+1. b7 $1 Rh6 2. Nxf4+ (2. Kb8 $2 Rh8+ 3. Ka7 f3) Kf2 3. Ne6 $1 Rxe6 4. Nd6 $1 Rg6 (Rxd6 5. b8=Q) 5. Kd8 $1 Rxd6+ 6. Kc7 $1 Rh6 7. b8=Q 1-0
+
+[Event "3.hm Uppsala Nya Tidning"]
+[Source "EG#00095."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Kallstrom, Henning Gunar Natael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/8/PK2P3/8/8/8/1pp5/4R3 w - - 0 1"]
+
+1. a7+ $1 Ka8 2. e7 b1=Q+ 3. Rxb1 cxb1=Q+ 4. Kc7 Qb7+ 5. Kd8 Qb6+ 6. Kc8 Qc6+ 7. Kd8 Qd6+ 8. Kc8 Qc6+ 9. Kd8 Qd6+ 10. Kc8 Qxe7 1/2-1/2
+
+[Event "Schackbulletinen"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Kallstrom, Henning Gunar Natael"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/4p3/b2pPP1P/7P/5p2/7p/1pp2pP1/5NbK w - - 0 1"]
+
+1. f7 $1 hxg2+ 2. Kxg2 Bxf1+ 3. Kf3 Be2+ 4. Ke4 Bd3+ 5. Kd5 Bc4+ 6. Kc6 Bb5+ 7. Kb7 Ba6+ 8. Ka8 Bb7+ 9. Kb8 1-0
+
+[Event "Tidskrift for Schack#1131"]
+[Source "Tidskrift for Schack/10"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Kallstrom, Henning Gunar Natael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2n5/4RB2/2P1P3/5r2/1k6/8/2p5/2K5 w - - 0 1"]
+
+1. Rd7 $1 Kc3 2. Rd3+ Kxd3 3. Bg6 Ne7 4. Bh7 (4. c7 $2 Nxg6 5. c8=Q Rf1+ 6. Kb2 Rb1+ 7. Ka2 c1=Q 8. Qa6+ Ke3 9. Qa7+ Kf3 10. Qa8+ (10. Qf7+ Nf4) Kg3) Kc3 5. Bxf5 Nxf5 6. c7 Ne7 7. c8=Q+ Nxc8 8. e7 Nd6 9. e8=Q Nxe8 1/2-1/2
+
+[Event "5.hm Schackbulletinen"]
+[Source "14.p Sweden champ 1963-1965."]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Kallstrom, Henning Gunar Natael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2R5/8/k7/5Bp1/1K6/5p2/6p1/8 w - - 0 1"]
+
+1. Rc6+ $1 Ka7 2. Rc1 $1 f2 3. Rc7+ Kb8 4. Rc8+ Ka7 5. Rc7+ Ka6 (Kb6 6. Rb7+ $1 Ka6 7. Bd3+ Kxb7 8. Be4+ Kc7 9. Bxg2) 6. Bd3+ Kb6 7. Rb7+ $1 Kxb7 8. Be4+ Kc7 9. Bxg2 1/2-1/2
+
+[Event "Tidskrift for Schack#1179 (c)"]
+[Source "Tidskrift for Schack/6 (c): Garcia=M Estudios Artisticos de Ajedrez - V-10 2012."]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Kallstrom, Henning Gunar Natael"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3N4/4n3/k7/4b2B/8/8/p1K2p2/1R6 w - - 0 1"]
+
+1. Be2+ $1 Ka7 2. Rb7+ Ka8 3. Rxe7 a1=Q 4. Bf3+ Kb8 5. Nc6+ Ka8 6. Nxe5+ Kb8 7. Nc6+ Ka8 8. Na7+ Kb8 9. Rb7+ Ka8 {<eg>} 10. Rb1+ Kxa7 11. Rxa1+ 1-0
+
+[Event ".c Problemista"]
+[Source "Die Schwalbe/6 1964 EG#00278. also 1.hm Die Schwalbe#053 1964-1965."]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Kallstrom, Henning Gunar Natael"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1B2R3/8/8/3N1p2/q7/k7/7K w - - 0 1"]
+
+1. Bd5+ $1 Kb1 2. Re1+ Kb2 3. Re2+ Kc1 4. Nb3+ Kd1 5. Bf3 $1 Qxb3 6. Re3+ Kc2 7. Bd1+ $1 Kxd1 8. Rxb3 1-0
+
+[Event "Tidskrift for Schack#1364"]
+[Source "Tidskrift for Schack/3"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Kallstrom, Henning Gunar Natael"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "q7/2Pp1K1k/2p4b/1p4pQ/8/8/5P1r/8 w - - 0 1"]
+
+1. Qg6+ $1 Kh8 2. Qf6+ Kh7 3. Qf5+ (3. Qd8 $2 Qxd8 4. cxd8=Q Rxf2+) Kh8 4. Qe5+ Kh7 5. Qe4+ Kh8 6. Qd4+ (6. Qe8+ $2 Qxe8+ 7. Kxe8 Rxf2) Kh7 7. Qd3+ Kh8 8. Qc3+ Kh7 9. Qc2+ Kh8 10. Qb2+ Kh7 11. Qb1+ Kh8 12. Qa1+ Qxa1 13. c8=Q+ Kh7 14. Qg8# 1-0
+
+[Event "Tidskrift for Schack#1419 (c)"]
+[Source "Tidskrift for Schack/1 (c): Garcia=M Estudios Artisticos de Ajedrez - V-17 2012."]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Kallstrom, Henning Gunar Natael"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2N5/2P5/8/1p3N2/N1p5/kr6/4K3 w - - 0 1"]
+
+1. Ncb5 $1 (1. Nab5 $2 Rb1+ 2. Ke2 c2 3. Nd3 c1=Q 4. Nxc1+ Rxc1) bxa3 2. Nxc3+ (2. c7 $2 Rb1+ 3. Ke2 c2 4. Nc3+ Kb3 5. Nd3 c1=Q 6. Nxc1+ Rxc1 7. c8=Q Rxc3) Kb3 3. Nfe2 a2 (Rc2 4. Nd4+ Kxc3 5. Nxc2 Kxc2 6. c7) 4. Nxa2 Kxa2 5. Nc3+ Ka1 6. c7 Rb8 7. cxb8=B $1 (7. cxb8=Q $2) (7. cxb8=R $2) (7. cxb8=N $2 Kb2) 1-0
+
+[Event "Tidskrift for Schack#1617"]
+[Source "Tidskrift for Schack/8"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Kallstrom, Henning Gunar Natael"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K3k/B6p/5P1P/3p4/8/8/1br3p1/8 w - - 0 1"]
+
+1. f7 $1 g1=Q (Bg7 2. Bd4) 2. Bxg1 Rg2 3. Bc5 $1 Rg8+ (d4 4. f8=Q+ Rg8 5. Ke7) 4. Ke7 d4 5. f8=Q Rxf8 6. Kxf8 d3 7. Kf7 $1 (7. Bb4 $2 d2 8. Bxd2 Ba3+ 9. Kf7 Bb4 $1) d2 8. Bf8 d1=Q 9. Bg7+ Bxg7 10. hxg7# 1-0
+
+[Event "Tidskrift for Schack#2428"]
+[Source "Tidskrift for Schack/5"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Kallstrom, Henning Gunar Natael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6r1/8/7P/8/k7/2R5/8/1b4bK w - - 0 1"]
+
+1. Rc4+ $1 Kb3 2. h7 $1 Bxh7 (Rh8 3. Rc1) 3. Rc3+ (3. Rh4 $2 Bf5) Kb2 4. Rc2+ Kb3 5. Rc3+ Kb4 6. Rc4+ Kb5 7. Rh4 $1 Rg7 8. Rg4 $1 Rxg4 1/2-1/2
+
+[Event "Springaren#06374"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Kallstrom, Henning Gunar Natael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6R1/8/1K4P1/1R6/1b6/5nk1/4p3/6r1 w - - 0 1"]
+
+1. Re8 $1 e1=Q 2. Rxe1 Bxe1 3. Rg5+ Nxg5 4. g7 Bf2+ 5. Kb7 (5. Kc6 $2 Rc1+ 6. Kd7 Rc7+ 7. Kxc7 Ne6+) Rb1+ 6. Ka8 Ra1+ 7. Kb8 Rb1+ 8. Ka8 Ra1+ 9. Kb8 Ba7+ 10. Kb7 1/2-1/2

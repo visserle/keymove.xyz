@@ -1,0 +1,149 @@
+---
+export const prerender = false;
+
+import Base from "../layouts/Base.astro";
+import {
+	DEFAULT_SORT,
+	matches,
+	pageHref,
+	PER_PAGE,
+	renderCatalogue,
+	sortList,
+	type State,
+} from "../lib/catalogue";
+import { levelLabel } from "../lib/display";
+
+import {
+	accountFromHeaders,
+	applySessionCookies,
+	libraryProgress,
+} from "../lib/progress";
+import { runtimeCorpus } from "../lib/corpus";
+import { LEVELS } from "../lib/types";
+
+const [corpus, resolved] = await Promise.all([
+	runtimeCorpus(Astro.url),
+	accountFromHeaders(Astro.request.headers),
+]);
+applySessionCookies(Astro.response.headers, resolved.cookies);
+const account = resolved.account;
+const userId = account?.userId ?? null;
+const params = Astro.url.searchParams;
+const requestedPage = Number(params.get("page"));
+const requestedSort = params.get("sort");
+const requestedStatus = params.get("status");
+const state: State = {
+	stip: params.get("stip") || "all",
+	status:
+		userId &&
+		(requestedStatus === "unsolved" ||
+			requestedStatus === "in-progress" ||
+			requestedStatus === "solved")
+			? requestedStatus
+			: "",
+	composer: params.get("composer") || "",
+	level:
+		params.get("level") === "unrated"
+			? "unassigned"
+			: params.get("level") || "",
+	sort:
+		requestedSort === "year" || requestedSort === "level"
+			? requestedSort
+			: DEFAULT_SORT,
+	page:
+		Number.isFinite(requestedPage) && requestedPage >= 1
+			? Math.floor(requestedPage)
+			: 1,
+};
+const composers = corpus.composers;
+const matchingProgress = state.status
+	? await libraryProgress(userId)
+	: new Map<string, "in-progress" | "solved">();
+const filtered = sortList(
+	corpus.list.filter((composition) =>
+		matches(composition, state, matchingProgress),
+	),
+	state.sort,
+);
+const pages = Math.max(1, Math.ceil(filtered.length / PER_PAGE));
+const visiblePage = Math.min(state.page, pages);
+const visibleIds = filtered
+	.slice((visiblePage - 1) * PER_PAGE, visiblePage * PER_PAGE)
+	.map((composition) => composition.id);
+const progress = await libraryProgress(userId, visibleIds);
+const page = renderCatalogue(
+	filtered,
+	state,
+	(n) => pageHref(Astro.url.search, n),
+	progress,
+);
+---
+
+<Base
+	section="library"
+	title="keymove.xyz • Library"
+	description="Browse the keymove.xyz catalogue of chess compositions and studies — filter by stipulation, difficulty and theme — then solve each one on the board."
+	accountSession={account}
+>
+  <h1 class="sr-only">Library</h1>
+
+  <div id="catalogue">
+    <form class="filters" id="filters" method="get" action="/library">
+      <div class="field">
+        <span class="field__label">Stipulation</span>
+        <div class="seg" role="radiogroup" aria-label="Stipulation">
+          <label><input type="radio" name="stip" value="" checked={state.stip === "all"} /><span>All</span></label>
+          <label><input type="radio" name="stip" value="mate" checked={state.stip === "mate"} /><span>Mate</span></label>
+          <label><input type="radio" name="stip" value="win" checked={state.stip === "win"} /><span>Win</span></label>
+          <label><input type="radio" name="stip" value="draw" checked={state.stip === "draw"} /><span>Draw</span></label>
+        </div>
+      </div>
+
+      <label class="field">
+        <span class="field__label">Composer</span>
+        <select name="composer">
+          <option value="" selected={state.composer === ""}>Any composer</option>
+          {composers.map((name) => <option value={name} selected={state.composer === name}>{name}</option>)}
+        </select>
+      </label>
+
+      {userId && (
+        <label class="field">
+          <span class="field__label">Progress</span>
+          <select name="status">
+            <option value="" selected={state.status === ""}>Any status</option>
+            <option value="unsolved" selected={state.status === "unsolved"}>Unsolved</option>
+            <option value="in-progress" selected={state.status === "in-progress"}>In Progress</option>
+            <option value="solved" selected={state.status === "solved"}>Solved</option>
+          </select>
+        </label>
+      )}
+
+      <label class="field">
+        <span class="field__label">Level</span>
+        <select name="level">
+          <option value="" selected={state.level === ""}>Any level</option>
+          {LEVELS.map((level) => <option value={level} selected={state.level === level}>{levelLabel(level)}</option>)}
+          <option value="unassigned" selected={state.level === "unassigned"}>Unassigned</option>
+        </select>
+      </label>
+
+      <label class="field">
+        <span class="field__label">Sort</span>
+        <select name="sort">
+          <option value="composer" selected={state.sort === "composer"}>Composer</option>
+          <option value="year" selected={state.sort === "year"}>Year</option>
+          <option value="level" selected={state.sort === "level"}>Level</option>
+        </select>
+      </label>
+    </form>
+
+    <p class="resultline" id="result" set:html={page.result}></p>
+    <div class="cards" id="cards" set:html={page.cards}></div>
+    <nav class="pager" id="pager" aria-label="Pages" set:html={page.pager}></nav>
+  </div>
+
+  <script>
+    import '../scripts/catalog';
+  </script>
+</Base>

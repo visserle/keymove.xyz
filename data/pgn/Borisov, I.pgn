@@ -1,0 +1,13 @@
+[Event "sp.p Roycroft JT EG (pl)"]
+[Source "EG/7 1979 EG#03858. = game Goldshtein -."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Borisov, I"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4R3/8/2p5/1P1b4/3k4/5pp1/8/6K1 w - - 0 1"]
+
+1. bxc6 $1 Bxc6 (f2+ 2. Kf1 Bc4+ 3. Re2) 2. Re2 Be4 (fxe2) 3. Rg2 fxg2 (f2+ {<main>} 4. Rxf2 gxf2+ 5. Kxf2) 1/2-1/2

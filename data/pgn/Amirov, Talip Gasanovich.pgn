@@ -1,0 +1,13 @@
+[Event "Stella Polaris#5090 (s)"]
+[Source "Stella Polaris/12"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Amirov, Talip Gasanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "KR6/1R1p4/k2p4/p7/P7/P7/2p2b2/4r3 w - - 0 1"]
+
+1. Rxd7 $1 Rd1 (Re6 2. Rc7) 2. Rc8 c1=Q 3. Rxc1 Rxc1 4. Ra7+ Kb6 (Bxa7) 5. Rb7+ Kc6 6. Rc7+ Kxc7 1/2-1/2

@@ -1,0 +1,12 @@
+[Event "1.hm Zivot"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Steis, Rudolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1n2p3/3PPN2/4p3/P7/1P2P2P/1P5p/1K3k2 w - - 0 1"]
+
+1. dxe7 $1 Nd6 2. e8=Q Nxe8 3. Nxe8 h1=Q 4. e7 Qe4+ (Qb7 5. Nc7) (Qxh3 5. Nf6) (Ke2+ 5. Ka2 Kd2 6. Nc7 Kc2 7. e8=Q Qb1+ 8. Ka3 Qxb2+ 9. Kb4 Qxb3+ 10. Ka5) 5. Ka2 Qh7 (Qb4 6. Nd6) (Qh4 6. Nf6) 6. Ng7 1-0

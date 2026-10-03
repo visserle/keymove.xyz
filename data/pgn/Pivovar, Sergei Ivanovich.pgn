@@ -1,0 +1,137 @@
+[Event "Shakhmaty (Riga)#107"]
+[Source "Shakhmaty (Riga)/6"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Pivovar, Sergei Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1p6/1p6/8/KpR1P3/b3k3 w - - 0 1"]
+
+1. Kb1 $1 b3 2. Rd2 $1 Kxd2 3. e4 Kc3 4. e5 Kb4 5. e6 Ka3 $1 6. e7 b4 7. e8=R $1 (7. e8=Q $2) Ka4 8. Re5 Ka3 9. Ra5# 1-0
+
+[Event "Szachy#698"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Pivovar, Sergei Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/b7/1p6/1p6/1P6/3PP3/3k2BK w - - 0 1"]
+
+1. Bb6 $1 Kxe2 $1 2. d4 Kf3 $1 3. Kh2 $1 (3. d5 $2 Ke4 4. d6 Kd5 5. d7 Kc6 6. d8=R (6. d8=Q) Kxb6 7. Rc8 Ka7 8. Rc2 Kb8 9. Ra2 Kc7 10. Kg2 Kc6 11. Kf3 Kd5 12. Ke3 Ke5 13. Ra1 Kd5 14. Kd3 Ke5) Ke4 4. Kg3 Kd5 5. Kf4 Kc6 6. Ke5 Kxb6 7. Kd6 Ka5 8. Kc7 b6 9. d5 Bb7 10. d6 1-0
+
+[Event "Szachy#793"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Pivovar, Sergei Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/p2p4/P1P5/r2P1p2/P1p2P2/5p2/2P2Pp1/6K1 w - - 0 1"]
+
+1. c7 $1 Rc5 2. d6 Rc6 $1 3. a5 c3 4. Kh2 Rc4 5. Kg1 Rb4 $1 6. c8=Q+ Rb8 7. Qh8 $1 Rxh8 1/2-1/2
+
+[Event "Sachové Umenie#2561"]
+[Source "Sachové Umenie/10"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Pivovar, Sergei Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1R6/1P5k/p1p2p1p/Ppp1pP1R/7p/PKP5/7q/b7 w - - 0 1"]
+
+1. Rh8+ $1 Kg7 2. Rg8+ Kf7 3. Rf8+ Ke7 4. Re8+ Kd7 5. Rd8+ Kxd8 6. b8=Q+ Kd7 7. Qb7+ Kd6 8. Qb8+ Kd5 9. Qg8+ Ke4 10. Rxh4+ Qxh4 11. Qc4+ bxc4+ 12. Ka4 Qe1 1/2-1/2
+
+[Event "Problem#236 (c)"]
+[Source "Problem/2 (c): Pivovar=S Revista de Romana de Sah#0714 2/1976."]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Pivovar, Sergei Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7n/5p1P/7p/7P/5p1k/1P3Pp1/P4B1p/7K w - - 0 1"]
+
+1. Bg1 $1 Kh3 $1 2. Bxh2 gxh2 3. a4 $1 (3. b4 $2 f5 $1 4. b5 Nf7 5. h8=Q Nxh8 6. b6 Nf7 7. b7 Ne5 8. b8=R $1 Nd3 $1) f5 4. a5 Nf7 5. h8=Q $1 Nxh8 6. a6 Nf7 7. a7 Ne5 8. a8=R $1 (8. a8=Q $2 Nd3 9. Qa2 Nf2+ 10. Qxf2) Nd3 9. Ra2 1-0
+
+[Event "Tidskrift for Schack#1552"]
+[Source "Tidskrift for Schack/12"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Pivovar, Sergei Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1R6/3p4/1K2kq2/3R4/8/2N1p3/8 w - - 0 1"]
+
+1. Rd5+ $1 (1. Ne3 $2 Qb1+ $1 2. Kc6 Qxb7+ 3. Kxb7 e1=Q) (1. Rc7 $2 e1=Q 2. Nxe1 Kxd4+ $1) (1. Rc4 $2 Ke6+ 2. Kc6 Qxc2 3. Rxc2 e1=Q) (1. Rd2 $2 Kf6+ 2. Kc6 Qxc2+ 3. Rxc2 e1=Q) (1. Re7+ $2 Kf6+ $1) Kxd5 2. Ne3+ Ke6+ (Ke4+ 3. Nxf5 Kd3 4. Re7 Kd2 5. Nh4 e1=Q 6. Nf3+) 3. Nxf5 e1=Q 4. Re7+ Kd5 $1 5. Ne3+ (5. Rxe1 $2) Kd4 6. Nc2+ Kd5 7. Nxe1 1-0
+
+[Event "Magyar Sakkélet#0865"]
+[Source "Magyar Sakkélet/6"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Pivovar, Sergei Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2N5/B1Pp3K/b2p4/8/6pk/3N4/8 w - - 0 1"]
+
+1. Bf1+ $1 (1. Bc8+ $2 Kg2 2. Nxd5 Bxd2+ 3. Kg6 Kh2) (1. Nf3 $2 Bxc7) g2 (Kh2 2. Nf3+ Kh1 3. Nxd5 g2 4. Bxg2+ Kxg2 5. Nd4 $1) (Kg4 2. Nxd5 Bxd2+ 3. Kg6 Ba5 4. Bg2) 2. Bxg2+ Kxg2 3. Ne6 (3. Nxd5 $2 Bxd2+ 4. Nf4+ Bxf4+ 5. Kg6 d5 $1) Bxd2+ 4. Nf4+ $1 Bxf4+ 5. Kg6 (5. Kh5 { <or>}) (5. Kh7 {<or>}) (5. Kg7 {<or>}) d4 6. c7 1-0
+
+[Event "Sachové Umenie#2340 (c)"]
+[Source "Sachové Umenie/4 (c): Garcia=M Estudios Artisticos de Ajedrez - VIII-28 2012."]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Pivovar, Sergei Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6n1/7p/7P/6B1/1p6/pKp4N/1p6/k3N3 w - - 0 1"]
+
+1. Nc2+ $1 Kb1 2. Nxb4 c2 $1 3. Nxc2 a2 4. Na3+ Ka1 5. Kc3 Ne7 6. Nf4 Nd5+ (b1=Q 7. Nc2+ Qxc2+ 8. Kxc2 Nd5 9. Ne2 Nb4+ 10. Kb3) 7. Nxd5 b1=Q 8. Bf6 Qb2+ 9. Kd3 Qxf6 10. Nxf6 Kb2 11. Nc2 a1=Q 12. Nxa1 {<eg>} Kxa1 13. Nxh7 1-0
+
+[Event "Shakhmatna Misl#022"]
+[Source "Shakhmatna Misl/2"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Pivovar, Sergei Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "b2k4/K3R3/8/8/3P4/b3P3/8/5n2 w - - 0 1"]
+
+1. Rf7 $1 Bg2 2. Rf2 Nxe3 3. Re2 Bc1 4. Re1 Bd2 5. Re2 Bc3 6. Rxe3 Bxd4+ 7. Kb8 Bxe3 1/2-1/2
+
+[Event "Sachové Umenie#3549"]
+[Source "Sachové Umenie/5"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Pivovar, Sergei Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "RK6/P5p1/P5P1/8/5p2/6Pb/8/4b2k w - - 0 1"]
+
+1. Kc7 $1 Ba5+ 2. Kd6 Bb4+ 3. Ke5 Bc3+ 4. Kxf4 Bd2+ 5. Ke5 Bc3+ 6. Kd6 Bb4+ 7. Kc7 Ba5+ 8. Kc6 Bg2+ 9. Kb5 Bxa8 10. Kxa5 Kg2 11. Kb6 Kf3 12. Kc7 Ke4 13. Kb8 Bd5 14. a8=Q Bxa8 15. Kxa8 1-0

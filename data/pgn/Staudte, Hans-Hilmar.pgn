@@ -1,0 +1,25 @@
+[Event "Deutsche Schachblätter"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Staudte, Hans-Hilmar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/1BN5/p4kP1/1p3p1K/1pp2P2/1P3P2/8 w - - 0 1"]
+
+1. g6 $1 (1. Nd4+ $2 Kg6 $1 2. Nxb3 a4 3. Bd4 axb3 4. Be5 Kf5) fxg6 (Kxg6 {<main>} 2. Ne5+ Kf5 3. Nd3 a4 $1 4. Bd4 $1 c2 5. Nc1 $1 Ke6 6. Kg4 Kd5 7. Bf6 Kc4 8. Kxf4 a3 $1 9. Ke3 a2 10. Nxa2 bxa2 11. b3+ Kxb3 12. Kd2 a1=Q $1 13. Bxa1 Ka2 14. Kxc2 (14. Bh8 $2 Kb1 $1) Kxa1 15. Kb3 Kb1 16. f4 $1) 2. Bd4 $1 (2. Nd4+ $2 Ke5 3. Nxb3 a4 4. Bd4+ Kd5 5. bxc3 axb3 6. Bf6 bxc3 7. Bxc3 Kc4 8. Bf6 Kd3 9. Kg4 Ke2 10. Kxf4 Kxf2 11. Kg4 g5 $1) c2 3. Bh8 $1 Ke6 4. Nd4+ Kd5 5. Nxb3 1-0
+
+[Event "Aachener Anzeiger"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Staudte, Hans-Hilmar"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/1k6/p1p5/3P2N1/K1p5/8 w - - 0 1"]
+
+1. Ne2 $1 (1. dxc4+ $2 Kxc4 2. Ne2 (2. Kb2 Kd3 3. Ne2 a3+) Kd3 3. Nc1+ (3. Kb2 a3+) Kd2 4. Kb2 a3+) cxd3 2. Nd4+ Kc4 3. Nxc2 dxc2 4. Kb2 Kd3 5. Kc1 Kc3 (a3 {<main>}) 1/2-1/2

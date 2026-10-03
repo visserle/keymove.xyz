@@ -1,0 +1,13 @@
+[Event "Magyar Sakkélet#1253"]
+[Source "Magyar Sakkélet/8"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Heinrich, F"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p1K/6NP/pp1nBR1P/1qp5/1P1k4/P2P4/3n4 w - - 0 1"]
+
+1. Bd6 $1 Qxd6 2. Rxd5+ Qxd5 3. Nf4+ Kxd2 (Kd4 4. Nxd5 Kxd5 5. Kg7) 4. Nxd5 Ne3 5. Nxe3 Kxe3 6. Kg7 c3 7. h7 c2 8. h8=Q c1=Q 9. Qh6+ 1-0

@@ -1,0 +1,13 @@
+[Event "The Chess Amateur#0791"]
+[Source "The Chess Amateur/6"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Bigelow, Horace Ransom"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6bq/4Pp1k/7p/5p1K/5p1P/5P2/5P2/8 w - - 0 1"]
+
+1. e8=Q $1 Qc3 $1 (Qg7 2. Qxg8+ Kxg8 (Qxg8)) 2. Qa8 $1 (2. Qc6 $2 Qg7 $1) Kg7 (Kh8 3. Qc6 $1 Qg7 4. Qf6 $1) (f6 3. Qb7+ Kh8 4. Qg7+ Kxg7) 3. Qa1 f6 (Qf6 4. Qxf6+ Kxf6 5. Kxh6) 4. Qg1+ (4. Qxc3 $2 Bf7#) Kf8 5. Qg7+ Kxg7 1/2-1/2

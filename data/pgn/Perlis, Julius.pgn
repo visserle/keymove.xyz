@@ -1,0 +1,13 @@
+[Event "Wiener Schachzeitung#38"]
+[Source "Wiener Schachzeitung/2"]
+[Date "1901.??.??"]
+[Round "?"]
+[Composer "Perlis, Julius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/K1kb3P/1pN1q3/1P2P3/PP1PN3/8/8 w - - 0 1"]
+
+1. Nc4 $1 bxc4 2. d4 Qxd4 (Bxc5 3. dxe5 Bd4 4. h7 Bxe5 5. bxc4) 3. b5+ Kxc5 4. b4# 1-0

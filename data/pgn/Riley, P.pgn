@@ -1,0 +1,13 @@
+[Event "The Chess Amateur#1299"]
+[Source "The Chess Amateur/4"]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Riley, P"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3r4/6pP/1N1b4/3pkP2/6K1/4P3/8/8 w - - 0 1"]
+
+1. Nd7+ $1 Ke4 (Rxd7 2. h8=Q) 2. Nf6+ gxf6 (Kxe3 3. Ng8) 3. h8=Q Rxh8 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "The Chess Amateur#1095"]
+[Source "The Chess Amateur/9"]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "Pepler, C"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/4kq2/5b1K/8/3RP3/3B4 w - - 0 1"]
+
+1. Rd5+ $1 Kxd5 2. e4+ Qxe4 (Kxe4 3. Bc2+) 3. Bf3 Qxf3 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "9.p USSR team champ IX (tt)"]
+[Source "EG#03428. USSR team champ IX 1975-1976."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Budryavichus, K"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/k7/N1P5/2Np4/8/3K4/p1p1p1p1/8 w - - 0 1"]
+
+1. c7 $1 c1=N+ (e1=N+ 2. Ke2 g1=N+ 3. Kf1) 2. Kc2 e1=N+ (a1=N+ 3. Kb1) 3. Kd1 a1=Q 4. c8=N+ Ka8 5. Nb6+ Ka7 6. Nc8+ Ka8 7. Nb6+ 1/2-1/2

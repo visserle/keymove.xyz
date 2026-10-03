@@ -1,0 +1,12 @@
+[Event "Casino di Saragossa#26"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Erdos, Geza"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5kP1/1p4rp/p4N2/P1P1K3/1P6/8/8 w - - 0 1"]
+
+1. g8=Q+ $1 Kxg8 2. Ne7+ Kf7 3. Nxg6 Kxg6 4. b4 axb4 (Kf6 5. c5 Ke6 (bxc5 6. bxc5) 6. cxb6 Kd6 7. bxa5) 5. c5 bxc5 (b3 6. Kd3) 6. a5 1-0

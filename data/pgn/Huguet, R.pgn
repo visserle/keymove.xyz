@@ -1,0 +1,38 @@
+[Event "6.p L'Italia Scacchistica#587"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Huguet, R"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/7p/1P6/P1P4P/5K2/1r6/8/8 w - - 0 1"]
+
+1. a6 $1 Kc8 2. a7 Kb7 3. c6+ Ka8 4. c7 Rc3 5. h6 $1 Kb7 6. Ke4 (6. Ke5 $2 Re3+ 7. Kd5 Re8 $1) Rc5 7. Kd4 Rc1 8. Kd5 Rc6 $1 9. Ke5 $1 (9. a8=Q+ $2 Kxa8 10. Kxc6) Ka8 $1 10. Ke4 Rc5 11. Kd4 Rc6 12. Ke5 $1 Kb7 13. Kd5 Ka8 14. b7+ Kxb7 15. a8=Q+ Kxa8 16. Kxc6 1-0
+
+[Event "Schach Echo#084"]
+[Date "1955.07.20"]
+[Round "?"]
+[Composer "Huguet, R"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/3p2bp/6P1/4P1BK/3pB3/4p3/8/8 w - - 0 1"]
+
+1. gxh7+ $1 Kh8 $1 (Kf7 2. Bd5+ Ke8 3. Bf6 e2 (Bxf6 4. exf6 e2 5. h8=Q#) 4. Bxg7 e1=Q 5. h8=Q+ Ke7 6. Qf8#) 2. e6 $1 (2. Bf4 $2 e2 3. Bg3 e1=Q $1 4. Bxe1 Bxe5) dxe6 (e2 3. e7 e1=Q 4. e8=Q+ Bf8 5. Qxf8#) 3. Bd3 Bf8 $1 (e5 4. Be4 $1) 4. Kg6 Bg7 5. Kf7 Be5 6. Bh6 e2 7. Bd2 $1 (7. Bxe2 $2 d3 $1) Bg3 $1 8. Bg5 $1 (8. Bxe2 $2 d3 $1 9. Bc3+ (9. Bxd3 Be5) Kxh7 10. Bf3 (10. Bxd3+ Kh6) e5 $1 11. Bd2 Bf4 $1) Be5 9. Bh4 Bg7 10. Bg3 e5 11. Be4 $1 d3 12. Be1 Bf6 $1 (Bh6 13. Bxd3 $1 Bg7 (e4 14. Bc3+ Kxh7 15. Bxe4#) 14. Be4 Bf6 $1 15. Bg3 Bg7 16. Bh4 e1=Q 17. Bxe1) 13. Bxd3 $1 (13. Kxf6 $2 d2 14. Bxd2 e1=Q 15. Bxe1) e4 14. Kxf6 exd3 15. Kg6 d2 16. Bh4 (16. Bxd2 $2 e1=Q 17. Bxe1) d1=Q 17. Bf6# 1-0
+
+[Event "Schach Echo#101"]
+[Date "1956.01.20"]
+[Round "?"]
+[Composer "Huguet, R"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "b1BN4/k1pK1p1p/1p4p1/1P4P1/1P4R1/7p/p7/8 w - - 0 1"]
+
+1. Rg1 $1 h2 2. Ra1 h1=Q 3. Rxa2+ Kb8 4. Rxa8+ $1 Kxa8 (Qxa8 5. Nc6+) 5. Bb7+ Qxb7 6. Nc6 $1 (6. Nxb7 $2 Kxb7 7. Ke7 c5 8. bxc6+ Kxc6 9. Kxf7 Kb5 10. Kg7 Kxb4 11. Kxh7 Ka3 12. Kxg6 b5 13. Kf7 b4 14. g6 b3 15. g7 b2 16. g8=Q b1=Q) Qb8 7. Nxb8 Kxb8 8. Ke7 Kb7 {<eg>} 9. Kxf7 c5 10. bxc6+ Kxc6 11. Kg7 Kb5 12. Kxh7 Kxb4 13. Kxg6 Ka3 {<eg>} 14. Kf7 b5 15. g6 b4 16. g7 b3 17. g8=Q 1-0

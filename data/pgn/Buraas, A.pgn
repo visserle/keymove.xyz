@@ -1,0 +1,41 @@
+[Event "Tidskrift for Schack#1518"]
+[Source "Tidskrift for Schack/2"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Buraas, A"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2P2p1p/k3b3/6P1/7K/2N5/3n4/8 w - - 0 1"]
+
+1. Ne4 $1 Nxe4 (Nf3+ 2. Kg3 Nxg5 3. Nc5+ Kb6 4. Nxe6 Ne4+ 5. Kf4 Nd6 6. Ng5) (Kb7 2. Nxd2 Bf5 $1 3. Kg3 Kxc7 4. Kf4 Bg6 5. Ke5 Kd7 6. Kf6 Kd6 7. Nf3 Kd7 8. Nh2 Ke8 9. Ng4 Kd7 10. Nh6) 2. g6 $1 hxg6 3. c8=Q+ Bxc8 1/2-1/2
+
+[Event "2.c Tidskrift for Schack#2010"]
+[Source "Tidskrift for Schack/12 EG#04107."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Buraas, A"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p3p/p7/1b2PPP1/8/2P5/1k1K4/8 w - - 0 1"]
+
+1. e6 $1 dxe6 2. g6 $1 hxg6 3. f6 Be8 4. c4 a5 5. c5 a4 6. c6 a3 7. f7 $1 (7. c7 $2 a2 8. c8=Q a1=Q 9. Qb7+ Ka2 10. Qa7+ Kb1 $1) Bxf7 8. c7 a2 9. c8=Q a1=Q 10. Qb7+ Ka3 11. Qa6+ Kb2 12. Qb5+ Ka3 13. Qa5+ Kb2 14. Qb4+ Ka2 15. Kc2 1-0
+
+[Event "Tidskrift for Schack#2089"]
+[Source "Tidskrift for Schack/12"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Buraas, A"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/n2r2P1/6N1/4p3/1P4K1/3N3p/6k1 w - - 0 1"]
+
+1. Nh3+ $1 Kh1 2. Nxe4 Rxg6+ (Rd3+ {<main>} 3. Kf2 Rxb3 4. Ng3+ Rxg3 5. Kxg3 Nc5 6. g7 Ne4+ 7. Kf3 Nf6 8. Kf2 Ne4+ 9. Ke1 $1 Kg2 10. g8=Q+ Ng3 11. Nf2) 3. Kf3 Rg2 4. Nef2+ Rxf2+ 5. Kxf2 Nc5 6. Ng5 $1 Nd3+ 7. Kf1 Nc5 8. b4 c6 9. Nh3 Ne4 10. Nf2+ Nxf2 11. Kxf2 c5 12. b5 c4 13. b6 c3 14. b7 c2 15. b8=Q c1=Q 16. Qb7+ 1-0

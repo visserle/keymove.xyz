@@ -1,0 +1,13 @@
+[Event "Szachy (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - V-22 2012."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Kaplan, M. D."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5n2/5k2/8/4PB2/5pK1/p3B3/4n1N1/5b2 w - - 0 1"]
+
+1. e6+ $1 Nxe6 2. Bxe6+ Kxe6 3. Nxf4+ Ke5 4. Nxe2 Bxe2+ 5. Kh4 a2 6. Bh6 Kf6 7. Bd2 a1=Q 8. Bc3+ Qxc3 1/2-1/2

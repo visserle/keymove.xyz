@@ -1,0 +1,15 @@
+[Event "tp30#2697"]
+[Source "(Correction par Iglésisas 2006 , la Tour initalement en f4 est déplacée en h4 pour éviter une seconde solution)"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[Composer "Hauchard, Arnaud"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5p2/8/4k3/4p2R/2pp2P1/2p5/4KB1R w K - 0 1"]
+[PlyCount "29"]
+
+1. Rxe4+ Kxe4 (Kf6 $144 2. Rf4+ Ke7 3. Rh7 c1=Q+ 4. Kf2 Qxf4+ 5. gxf4 c2 6. Bxd3 c1=Q $11) 2. Bxd3+ Kxd3 3. O-O f5 (Kc4 $144 4. Kf2 Kb3 5. Ke3 Kb2 6. Kd3 c1=Q 7. Rxc1 Kxc1 8. Kxc3 $11) (Kd2 $144 4. Rf2+ Kc1 5. Rxf7 Kb2 6. Rb7+ Ka2 7. Ra7+ Kb3 8. Rb7+ Ka4 9. Ra7+ (9. Ra7+ Kb5 $4 10. Ra1 $18)) 4. Kg2 $1 (4. g4 $143 fxg4 5. Kg2 Kc4 6. Kg3 Kb3 $19) Ke3 $1 5. Rf3+ $1 (5. Kg1 $143 Kd2 $1 6. Rf2+ Kc1 7. Rxf5 (7. g4 $144 Kb1 8. Rxc2 Kxc2 9. gxf5 Kd3 10. f6 c2 11. f7 c1=Q+ $19) Kb2 8. Rb5+ Ka2 9. Ra5+ Kb3 10. Ra1 Kb2 $19) Kd2 6. Rf2+ Kc1 7. g4 $1 fxg4 (Kb1 $144 8. Rxc2 Kxc2 9. gxf5 Kd3 10. f6 c2 11. f7 c1=Q 12. f8=Q $11) 8. Rf8 $1 Kb2 9. Rb8+ Ka3 10. Ra8+ Kb4 11. Rb8+ Ka5 12. Ra8+ Kb6 13. Ra1 Kb5 14. Rc1 Kb4 15. Rxc2 $11 1/2-1/2

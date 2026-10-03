@@ -1,0 +1,136 @@
+[Event "Découvertes sur le Cavalier-23"]
+[Date "1837.??.??"]
+[Round "?"]
+[Composer "Von Janisch, Carl Friedrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/5pNp/8/8/5K1k w - - 0 1"]
+
+1. Kf2 $1 f3 2. Kf1 h3 (f2 3. Kxf2 h3 4. Kf1 h2 5. Nf2#) 3. Kf2 h2 4. Kf1 f2 5. Nxf2# 1-0
+
+[Event "Découvertes sur le Cavalier-31"]
+[Date "1837.??.??"]
+[Round "?"]
+[Composer "Von Janisch, Carl Friedrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p1p/8/8/8/5N1K/8/7k w - - 0 1"]
+
+1. Kg3 $1 f5 2. Kf2 h5 (f4 3. Kf1 h5 (h6 4. Kf2 h5 5. Kf1 h4 6. Kf2 h3 7. Kf1 h2 8. Ng5 f3 9. Nh3 f2 10. Nxf2#) 4. Kf2 h4 5. Kf1 h3 6. Ne5 Kh2 (f3 7. Ng4 f2 8. Nxf2+ Kh2 9. Ne4 $1 Kh1 10. Kf2 Kh2 11. Nd2 Kh1 12. Nf1 h2 13. Ng3#) 7. Kf2 Kh1 8. Ng4 f3 9. Kf1 f2 10. Nxf2+ Kh2 11. Ne4 Kh1 12. Kf2 Kh2 13. Nd2 Kh1 14. Nf1 h2 15. Ng3#) 3. Kf1 f4 4. Kf2 h4 5. Kf1 h3 6. Ne5 (6. Kf2 $2 h2 7. Ng5 f3) Kh2 (h2 7. Ng4) (f3 7. Ng4) 7. Kf2 Kh1 8. Ng4 f3 9. Kf1 f2 10. Nxf2+ Kh2 11. Ne4 Kh1 12. Kf2 Kh2 13. Nd2 Kh1 14. Nf1 h2 15. Ng3# 1-0
+
+[Event "Découvertes sur le Cavalier-67 (v)"]
+[Date "1837.??.??"]
+[Round "?"]
+[Composer "Von Janisch, Carl Friedrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/5p1p/5Kp1/8/p5N1/8/8/8 w - - 0 1"]
+
+1. Nh6 $1 a3 2. Kxf7 a2 3. Kf8 a1=Q 4. Nf7# 1-0
+
+[Event "Schachzeitung (tw) (v)"]
+[Source "Schachzeitung/6 (v): Theorie und Praxis der Endspiele (1890)#019 1890."]
+[Date "1850.??.??"]
+[Round "?"]
+[Composer "Von Janisch, Carl Friedrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p2R1/3P4/2r3pp/5P2/6kp/8/7K w - - 0 1"]
+
+1. Rxg5+ $1 Rxg5 2. fxg5 h2 3. g6 h4 4. g7 Kh3 5. g8=N $1 (5. g8=Q $2) 1-0
+
+[Event "Schachzeitung (tw) (v)"]
+[Source "Schachzeitung/6"]
+[Date "1850.??.??"]
+[Round "?"]
+[Composer "Von Janisch, Carl Friedrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/3P3Q/2r3pp/5P2/6kp/8/7K w - - 0 1"]
+
+1. Qxg5+ $1 Rxg5 2. fxg5 h2 3. g6 h4 4. g7 Kh3 5. g8=N $1 (5. g8=B $2 Kg4 6. Be6+ Kf4 7. Bxd7 Ke5) (5. g8=Q $2) Kg4 6. Ne7 1-0
+
+[Event "Schachzeitung (tw)"]
+[Source "Schachzeitung/6 EG#10456."]
+[Date "1850.??.??"]
+[Round "?"]
+[Composer "Von Janisch, Carl Friedrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7Q/2r3pp/5P2/p5kp/P7/7K w - - 0 1"]
+
+1. Qxg5+ $1 Rxg5 2. fxg5 h2 3. g6 h4 4. g7 Kh3 5. g8=B $1 (5. g8=N $2 Kg3 6. Nf6 Kf3 7. Nd5 Ke4 8. Nc3+ Kd3 9. Nb5 Kc2 10. Nxa3+ Kb2) (5. g8=Q $2) 1-0
+
+[Event "Schachzeitung (tw) (v)"]
+[Source "Schachzeitung/6"]
+[Date "1850.??.??"]
+[Round "?"]
+[Composer "Von Janisch, Carl Friedrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/7p/6P1/p6p/P6k/5K2 w - - 0 1"]
+
+1. g5 $1 Kg3 2. Kg1 h2+ 3. Kh1 Kg4 4. g6 Kh3 5. g7 h4 6. g8=B (6. g8=Q $2) 1-0
+
+[Event "Schachzeitung (tw) (v)"]
+[Source "Schachzeitung/6 (v): Theorie und Praxis der Endspiele (1922)#017 1922."]
+[Date "1850.??.??"]
+[Round "?"]
+[Composer "Von Janisch, Carl Friedrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6R1/8/2r3pp/5P2/p5kp/P7/7K w - - 0 1"]
+
+1. Rxg5+ $1 Rxg5 2. fxg5 h2 3. g6 Kh3 4. g7 h4 5. g8=B $1 (5. g8=Q $2) (5. g8=N $2 Kg3 6. Nf6 Kf4 7. Ne8 Ke4 8. Nc7 Kd3 9. Nb5 Kc2 10. Nxa3+ Kb2) Kg3 6. Be6 h3 7. Bd7 Kh4 8. Kxh2 1-0
+
+[Event "Schachzeitung (tw)"]
+[Source "Schachzeitung/6 EG#10457."]
+[Date "1850.??.??"]
+[Round "?"]
+[Composer "Von Janisch, Carl Friedrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7Q/2r3pp/1p3P2/pP4kp/P7/7K w - - 0 1"]
+
+1. Qxg5+ $1 Rxg5 2. fxg5 h2 3. g6 h4 4. g7 Kh3 5. g8=N $1 (5. g8=Q $2) 1-0
+
+[Event "Schachzeitung (cr)"]
+[Source "Schachzeitung/5"]
+[Date "1858.??.??"]
+[Round "?"]
+[Composer "Von Janisch, Carl Friedrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k1r5/P7/K7/1p6/3N3p/3p3P/N3b3/2R5 b - - 0 1"]
+
+Rxc1 $1 2. Nxc1 d2 3. Ncxe2 d1=Q 4. Kb6 Qf1 5. Nxb5 Qf6+ 6. Ka5 Qd8+ 7. Ka6 Qc8+ 8. Ka5 Qxh3 9. Nec3 Qg2 10. Na4 Qa2 11. Kb6 Qe6+ 12. Ka5 Qa2 13. Kb6 1/2-1/2

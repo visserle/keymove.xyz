@@ -1,0 +1,40 @@
+[Event "EG"]
+[Source "EG/10 EG#03478."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Speelman, Jonathan Simon"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/1P4p1/6P1/K7/7P/8/8/2n5 w - - 0 1"]
+
+1. h5 $1 Nb3+ (Nd3 2. h6 Ne5 3. hxg7 Nc6+ 4. Ka6 (4. Kb6 $2 Ne7) Ne7 5. Kb6 Ng8 6. Kc6 Nf6 7. Kc5 Kxb7 8. Kd4 Kc6 9. Ke5 Ng8 10. Ke6 Kc7 11. Kf7) 2. Kb6 Nd4 3. h6 Ne6 4. h7 Nf8 5. h8=B (5. h8=Q $2) Ne6 (Nxg6 6. Bxg7) (Nd7+ 6. Ka6 Nc5+ 7. Kb5 Nxb7 (Nd7 8. Bxg7) 8. Kc6 Kc8 9. Bxg7 Na5+ 10. Kb5 Nb7 (Nb3 11. Bc3) 11. Bf8) 6. Kc6 (6. Ka6 $2 Nc7+ 7. Ka5 Kxb7 8. Bxg7 Kc6 9. Bb2 Ne6) Nd4+ (Nd8+ 7. Kd7) (Ka7 7. Bxg7) 7. Kc5 Nf5 8. Kb6 1-0
+
+[Event "Endgame Preparation#005"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Speelman, Jonathan Simon"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2p5/K1P1p3/4Pk2/8/3pB3/8 w - - 0 1"]
+
+1. Kb6 $1 Kxe4 2. Kxc6 Ke3 3. Bd1 e4 4. Kd5 Kd3 5. Ba4 $1 e3 6. Bb5+ Kc2 7. Ke4 d1=Q 8. Ba4+ 1-0
+
+[Event "EG"]
+[Source "EG/5 EG#04554."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Speelman, Jonathan Simon"]
+[White "Speelman, J"]
+[Black " Whitworth, T."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5R2/2K5/k3N2B/r7/4p3/5b2/3Pp3/8 w - - 0 1"]
+
+1. Kc6 $1 (1. Be3 $2 e1=Q 2. Kc6 Qc1+ 3. Nc5+ Rxc5+ 4. Bxc5 e3+ 5. Rxf3 Qh1) (1. Rb8 $2 e1=Q 2. Rb6+ Ka7 3. Be3 (3. Rb7+ Ka6) Qg3+) (1. Ra8+ $2 Kb5 2. Rb8+ Kc4 3. Rb1 Ra6 4. Rc1+ Kb3 5. Kd7 Bg4) e3+ 2. Rxf3 Re5 (e1=Q 3. Nc7+ Ka7 4. Bxe3+) (Ra1 3. Rxe3 e1=Q 4. Rxe1 Rxe1 5. Kd5) 3. Rxe3 Rxe3 4. Nc5+ (4. dxe3 $2 e1=Q 5. Nc5+ Ka7) (4. Bxe3 $2 e1=Q 5. Nc5+ Ka5) Ka5 (Ka7 5. Bxe3 e1=Q 6. Nd3+) 5. dxe3 e1=Q 6. e4 1-0

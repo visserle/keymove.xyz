@@ -1,0 +1,97 @@
+[Event "4.c UV CSTV"]
+[Source "EG#02921."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Sivak, Bohuslav"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/2q5/8/3pp3/3BP1K1/kBN5 w - - 0 1"]
+
+1. Nb3+ $1 Kxb1 2. Nxc5 exd2 3. Ne4 d1=Q 4. Nc3+ Kc1 5. Nxd1 dxe2 6. Nb2 e1=Q 7. Nd3+ 1/2-1/2
+
+[Event "3.p Pravda (Bratislava)"]
+[Source "EG#02428."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Sivak, Bohuslav"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/p7/8/R4K2/7k/1p3n2/8 w - - 0 1"]
+
+1. Ra3+ $1 (1. Rb4 $2 Nd3+) Kg2 2. Rb3 Nd1 $1 (Nd3+ 3. Ke3) 3. Ke4 a5 $1 (Nc3+ 4. Kd4 b1=Q 5. Rxb1 Nxb1 6. Kc5) 4. Kd3 a4 $1 5. Kc2 $1 (5. Rxb2+ $2 Nxb2+ 6. Kc3 a3 $1 7. Kb3 Nc4 $1) axb3+ 6. Kb1 Kf2 1/2-1/2
+
+[Event ".c Pravda (Bratislava)"]
+[Source "EG#02433."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Sivak, Bohuslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1kPP4/1P6/4n1K1/8/8/8 w - - 0 1"]
+
+1. d7 $1 Nf6+ (Kc7 2. b6+ Kd8 3. b7) 2. Kf5 Nxd7 3. cxd7 Kc7 4. Ke6 Kd8 5. Kd5 Kxd7 6. b6 Kd8 7. Kd6 1-0
+
+[Event "Sachové Umenie#3951"]
+[Source "Sachové Umenie/7"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Sivak, Bohuslav"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/1kB4B/rp4N1/1K5b w - - 0 1"]
+
+1. Be6+ $1 Kxc3 2. Bxa2 (2. Kxa2 $2 Bxg2 3. Bf5 Bd5+) Bxg2 3. Bd5 $1 Bf1 4. Bc4 Bh3 5. Be6 Bxe6 1/2-1/2
+
+[Event "2.p Pravda (Bratislava)"]
+[Source "EG#02427."]
+[Date "1974.06.30"]
+[Round "?"]
+[Composer "Sivak, Bohuslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5b2/5K1R/8/7N/7k/3p3r/2P5/8 w - - 0 1"]
+
+1. Nf4+ $1 Kg4 2. Rxh3 $1 (2. Nxh3 $2 dxc2 3. Nf2+ Kf3 4. Nd3 Ke4 $1 5. Nc1 Ba3 6. Rh4+ Kd5 $1 7. Rh1 Kc4 8. Rh4+ Kd5 $1 9. Rh1 Kc4) dxc2 3. Rc3 $1 (3. Rh1 $2 Kxf4 4. Kxf8 Ke3) c1=Q (Bb4 {<main>} 4. Rxc2 Kxf4 5. Rc4+ Ke3 6. Rxb4) 4. Rxc1 Bh6 5. Rg1+ Kxf4 6. Kg6 Bf8 7. Rf1+ Ke5 8. Rxf8 1-0
+
+[Event ".hm Tipografia"]
+[Source "EG#03570."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Sivak, Bohuslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p2p4/3p4/1PpP1k1p/2Pp3P/3P2pP/3P2P1/6K1 w - - 0 1"]
+
+1. Kf1 $1 Ke5 (Kf4 2. Ke2 Ke5 3. Kf3) 2. Ke1 (2. Ke2 $2 Kf4 3. Kd1 Kf5 4. Kc1 Kg6 5. Kb2 Kf7 6. Kc2 Kf6 7. Kb3 Ke7 8. Kb2 Kf7) Kf5 3. Kd1 Ke5 4. Kc1 (4. Kc2 $2 Kf6 5. Kb3 Ke7) Kf6 5. Kc2 Kg6 6. Kb3 1-0
+
+[Event "2.p Nedelna Pravda#1008"]
+[Source "EG#03590."]
+[Date "1978.08.04"]
+[Round "?"]
+[Composer "Sivak, Bohuslav"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k4/3P4/3P4/1K1P4/2P4p/1p5P/8/8 w - - 0 1"]
+
+1. Kc6 $1 (1. c5 $2 Kxd7) b2 2. c5 b1=B $1 3. Kb7 $1 (3. Kb5 $2 Bf5 (Kxd7 $2 4. Kc4 Bf5 5. Kd4) 4. Kc4 Bxh3 5. Kd4 Bf1 6. Ke3 h3 7. Kf2 h2) (3. Kb6 $2 Kxd7 (Bf5 $2 4. c6 Bxh3 5. Kb7) 4. c6+ Kxd6 5. c7 Bf5 6. Kb7 Bxh3) Be4 (Kxd7 4. c6+ Kxd6 5. c7 Bf5 6. c8=Q Bxc8+ 7. Kxc8 Kxd5 8. Kc7 Ke5 9. Kc6) 4. c6 $1 (4. Kc6 $2 Bg2 5. Kb6 Kxd7 6. c6+ Kxd6 7. c7 Bxh3) (4. Kb6 $2 Kxd7 5. c6+ Kxd6 6. c7 Bf5) Bxd5 5. Kb6 Bg2 (Bf3 6. Kc5 $1) (Be4 6. Kc5 Bg2 7. Kd4 Bxh3 8. Ke3 Bg2 9. Kf4) 6. Kb7 (6. Kc5 $2 Bxh3 7. Kd4 Bxd7) Be4 7. Kb6 Bf5 8. Kb7 Be4 9. Kb6 1/2-1/2

@@ -1,0 +1,26 @@
+[Event "ABC des Échecs"]
+[Date "1868.??.??"]
+[Round "?"]
+[Composer "Grosdemange, Etienne"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/5p1p/5P1k/2N1p2P/1p4K1/8 w - - 0 1"]
+
+1. Nb1 $1 e2 2. Nd2 e1=N+ (e1=Q 3. Nf3#) 3. Kh2 b1=Q 4. Nxb1 1/2-1/2
+
+[Event "ABC des Échecs (m)"]
+[Source "(m): Mesman=H De Artistieke Schaakstudie, deel III-205 2001."]
+[Date "1868.??.??"]
+[Round "?"]
+[Composer "Grosdemange, Etienne"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/5p1p/4pP1k/7P/Np4K1/8 w - - 0 1"]
+
+1. Nc3 $1 e3 2. Nb1 e2 3. Nd2 $1 e1=N+ $1 4. Kh2 b1=Q 5. Nxb1 1/2-1/2

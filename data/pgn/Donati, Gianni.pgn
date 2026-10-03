@@ -1,0 +1,13 @@
+[Event "Chess Life & Review#0859"]
+[Source "Chess Life & Review/6"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Donati, Gianni"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/5k1P/8/8/1B6/p4Pb1/P7/8 w - - 0 1"]
+
+1. f4 $1 (1. Bc3 $2 Bf4 $1 2. Bd4 Bc1 3. f4 Bb2 4. Be5 Kf8 $1) Bxf4 (Bf2 2. Bc3 Be3 3. f5 Bc1 4. f6 Bb2 5. Bd4) 2. Bd6 Bg5 3. Be7 Kxe7 4. Kg8 Bf6 5. h8=Q Bxh8 6. Kxh8 Kf6 7. Kh7 1/2-1/2

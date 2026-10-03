@@ -1,0 +1,138 @@
+[Event "Tidskrift for Schack#1148"]
+[Source "Tidskrift for Schack/12"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Badai, Boris Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1PknN3/8/1rP5/1N6/3p4/8/4K3 w - - 0 1"]
+
+1. Na6+ $1 (1. Nbd5+ $2 Kb8 $1 2. c6 Rxb7) (1. Ned5+ $2 Kxb7 2. c6+ Kc8 $1) (1. c6 $2 Rxb4 2. cxd7 Kxd7) Kxb7 2. c6+ Kxa6 3. cxd7 Rb8 4. Nc8 d2+ $1 (Rb1+ 5. Kd2 Rb2+ 6. Kc3 Rc2+ 7. Kb3) 5. Kd1 Rb1+ 6. Kxd2 Rb5 7. Nb6 $1 (7. d8=Q $2 Rd5+ 8. Qxd5) Rxb6 (Kxb6 8. d8=Q+) 8. d8=Q 1-0
+
+[Event "Ceskoslovensky Sach#063"]
+[Source "Ceskoslovensky Sach/7"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Badai, Boris Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/kp5p/p1p4p/7P/1pB2P2/nP1p4/3K3P/8 w - - 0 1"]
+
+1. f5 $1 Nb5 2. Bxb5 (2. f6 $2 Nd6 3. f7 Nxf7 4. Bxf7 Kb6) (2. Kxd3 $2 Nd6 3. f6 b5 4. Be6 Kb6 5. Kd4 a5 6. f7 Nxf7 7. Bxf7 a4) cxb5 $1 3. f6 Kb6 4. f7 Ka5 5. f8=N $1 (5. f8=Q $2 b6 6. Ke3 d2 7. Qf2 (7. Qf1 d1=Q 8. Qxd1) d1=N+ $1 8. Ke2 Nxf2 9. Kxf2) b6 (Kb6 6. Nxh7 Kc5 7. Ng5 Kd4 8. Nf7 a5 9. Nxh6 a4 10. Nf5+) 6. Ng6 $1 hxg6 7. hxg6 h5 8. g7 h4 9. g8=N $1 (9. g8=Q $2 h3) h3 10. Ke3 d2 11. Ne7 d1=Q 12. Nc6# 1-0
+
+[Event "Ceskoslovensky Sach#054 (c)"]
+[Source "Ceskoslovensky Sach/6 (c): Badai=B Ceskoslovensky Sach#060 6/1964."]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Badai, Boris Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/8/3P4/4P3/5P2/1p2k3/8/Bb2r3 w - - 0 1"]
+
+1. Bd4+ $1 Kxf4 2. d7 Rh1+ $1 (b2 3. d8=Q Rh1+ 4. Kg7) 3. Kg8 (3. Kg7 $2 Rh7+) b2 $1 4. Bxb2 (4. d8=Q $2 Ba2+ 5. Kg7 b1=Q 6. Be3+ Ke4 $1 7. Qa8+ Bd5) Rd1 5. e6 (5. Kf8 $2 Rxd7 6. e6 Rd8+ $1 7. Kg7 Ba2 8. e7 Rg8+ 9. Kf6 Ke4) Ba2 $1 6. Kf8 $1 (6. Kf7 $2 Rxd7+ 7. Kf6 Rh7) Bxe6 7. d8=Q Rxd8+ 8. Ke7 Rb8 9. Be5+ Kxe5 1/2-1/2
+
+[Event "Revista de Romana de Sah#0517"]
+[Source "Revista de Romana de Sah/11"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Badai, Boris Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3b4/P7/7q/2p4k/2K1R2p/6P1/3N1B2 w - - 0 1"]
+
+1. g3+ $1 (1. Re4+ $2 Kg3 2. Re3+ Kh2) Kg5 2. Re5+ Bf5 3. Rxf5+ $1 Kxf5 4. g4+ Kxg4 $1 5. Be2+ Kg3 6. Bxh5 h2 7. Nf2 $1 (7. Bf3 $2 Kxf3 $1 8. a7 h1=Q 9. a8=Q+ Ke2 $1 10. Qa2+ (10. Qxh1) Kf3 11. Qf2+ Ke4 12. Qd4+ Kf5) Kxf2 8. Bf3 $1 Kxf3 9. a7 h1=Q 10. a8=Q+ Kf2 11. Qxh1 1-0
+
+[Event "Tidskrift for Schack#1228a (tw)"]
+[Source "Tidskrift for Schack/12"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Badai, Boris Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/5N2/8/1p6/7k/P2P4/Pp1B1PP1/8 w - - 0 1"]
+
+1. Bg5+ $1 Kg4 (Kh5 2. Ne5 Kxg5 3. Nf3+ Kf5 4. Nd2 Ke5 5. a4 bxa4 6. Nc4+) 2. Ne5+ Kf5 3. Ke7 b1=Q 4. f4 Qb4+ 5. Kf7 $1 (5. axb4 $2) 1-0
+
+[Event "2.hm Szachy"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Badai, Boris Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "rk3K2/1p6/7P/1P4N1/p7/8/8/8 w - - 0 1"]
+
+1. b6 $1 Ra5 2. h7 Rc5 3. Ke7 Rc8 4. Nf7 a3 5. Nd8 Rxd8 6. Kxd8 a2 7. h8=Q a1=Q 8. Qg8 Qa2 9. Qe8 Qa4 10. Qe5+ Ka8 11. Qh8 1-0
+
+[Event "3.p Schakend Nederland#1032"]
+[Source "Schakend Nederland/11 EG#00802."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Badai, Boris Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3R4/8/k3n3/6p1/2b1K3/8/1N4r1/8 w - - 0 1"]
+
+1. Rd6+ $1 Kb5 2. Nxc4 Kxc4 3. Kf3 $1 (3. Rxe6 $2 Re2+ 4. Kf5 Rxe6 5. Kxe6 g4) (3. Ke5 $2 Nf4 4. Kf5 Ne2 5. Rg6 Nd4+ 6. Kf6 $1 Nf3 7. Rg8 Kd4) (3. Rd1 $2 Kc3 4. Kf3 Rd2 5. Re1 Nd4+ 6. Kg4 Rg2+ 7. Kh3 Kd2 8. Re5 Rg1) Nf4 $1 4. Rd4+ $1 Kxd4 (Kc5 5. Rxf4) 1/2-1/2
+
+[Event "4.hm Isenegger MT National Zeitung"]
+[Source "EG#00503."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Badai, Boris Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/7N/3p3R/4P3/1q6/p5N1/2P3P1/K7 w - - 0 1"]
+
+1. Nf6+ $1 (1. Ng5+ $2 Kg8 $1 2. Rg6+ Kf8 3. Ne6+ Kf7 4. Rf6+ Ke8 5. Ng7+ Kd7 6. Rxd6+ Kc8 7. Rc6+ Kb7) Kg7 2. Nf5+ Kf7 $1 (Kf8 3. Rh8+ Kf7 4. Nxd6+ Kg6 (Ke6 5. Re8#) 5. Rg8+ Kh6 6. Nf5#) 3. e6+ $1 (3. Nxd6+ $2 Ke6 $1) (3. Rh7+ $2 Ke6 4. Ng7+ Kxe5 5. Nd7+ Kd5 6. Rh5+ Kc6 7. Ne5+ Kb7 $1) Kxe6 4. Nd5+ (4. Ng7+ $2 Kf7) Kxd5 5. Ne7+ Kc5 $1 6. Rh5+ d5 7. Rxd5+ Kb6 8. Rd6+ $1 Kb7 $1 9. Rd7+ $1 Ka6 10. Ra7+ Kxa7 11. Nc6+ Kb6 12. Nxb4 1-0
+
+[Event "Problem#156"]
+[Source "Problem/6"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Badai, Boris Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2N5/2b1K3/p1P5/1P2k3/2p3p1/8/8/8 w - - 0 1"]
+
+1. b6 $1 Bb8 (Bxb6 2. Nxb6 g3 3. Nxc4+ Kf4 4. Ne3 Kxe3 5. c7 g2 6. c8=Q g1=Q 7. Qc5+) 2. c7 Bxc7 3. bxc7 g3 4. Nd6 g2 5. Nf7+ Kf4 (Kd5 6. c8=Q g1=Q 7. Qa8+ Kc5 8. Qa7+) 6. Ng5 Kg3 (Kxg5 7. c8=Q g1=Q 8. Qg8+) 7. Nh3 Kxh3 8. c8=Q+ 1-0
+
+[Event "1.p Szachy#571"]
+[Source "Szachy/4 EG#00590."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Badai, Boris Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p1p2B2/1p3B2/2PP4/8/8/5rk1/K7 w - - 0 1"]
+
+1. d6 $1 cxd6 2. c6 Rxf6 (Rc2 3. Bb3 Rc5 4. Be7 Rc3 5. Kb2 Rh3 6. c7 Rh8 7. Bd8) 3. c7 Rf1+ 4. Kb2 Rf2+ 5. Kb3 $1 (5. Kc3 $2 Rf5) Rf3+ 6. Kc4 $1 Rf1 (Rf5 7. Bd5+) 7. Kd3 $1 (7. Kd4 $2 Rd1+) Rf3+ 8. Kd4 Rf4+ 9. Kd5 Rf5+ 10. Kxd6 Rf6+ (Rc5 11. Bd5+ Kf2 12. Bc6) 11. Ke7 Rc6 12. Bd5+ Kg3 13. Bxc6 1-0

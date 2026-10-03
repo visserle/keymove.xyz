@@ -1,0 +1,13 @@
+[Event "Deutsche Schachzeitung#0379 (cr)"]
+[Source "Deutsche Schachzeitung/9 after game Paulsen=L - Metger=J Nurnberg 1888."]
+[Date "1888.??.??"]
+[Round "?"]
+[Composer "Paulsen, Ludwig"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/Bpk5/8/P2K4/8/8/8/8 w - - 0 1"]
+
+1. Kd4 $1 Kc6 2. Bb6 Kd6 3. Kc4 Kc6 4. Kb4 Kd6 5. Kb5 Kd7 6. Bg1 Kc7 7. Bh2+ Kc8 8. Kb6 1-0

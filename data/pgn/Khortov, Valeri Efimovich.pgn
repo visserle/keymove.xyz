@@ -1,0 +1,123 @@
+[Event "source unknown"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Khortov, Valeri Efimovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4bR2/3N4/k7/3K4/8/8/7p/8 w - - 0 1"]
+
+1. Nb8+ $1 Kb7 2. Rh8 Ba4 3. Kc5 $1 h1=Q 4. Rxh1 Kxb8 5. Rh4 $1 Bd1 6. Kb6 Kc8 7. Rc4+ Kd7 8. Rd4+ $1 Ke6 9. Rxd1 1-0
+
+[Event "3.hm Shakhmaty v SSSR (tt)"]
+[Source "Shakhmaty v SSSR/3 1963"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Khortov, Valeri Efimovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/4p2P/7p/8/8/8/1PP1r3/k7 w - - 0 1"]
+
+1. Kg7 $1 Rg2+ 2. Kf7 Rf2+ 3. Ke8 Rxc2 4. Kd7 Rd2+ 5. Kc7 Rc2+ 6. Kb7 Rxb2+ 7. Kc7 Rc2+ 8. Kd7 Rd2+ 9. Ke8 Rc2 10. h8=Q+ 1-0
+
+[Event "1.p All-Russian ty"]
+[Source "EG#02026.18.p USSR overall champ XI 1971-1972."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Khortov, Valeri Efimovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6N1/p7/P1p1p1p1/P1P3P1/Kpr1P1R1/5PP1/k6B/8 w - - 0 1"]
+
+1. e5 $1 Rxg4 2. f4 $1 (2. fxg4 $2 b3 3. Nf6 b2 4. Ne4 b1=Q 5. Nc3+ Kb2 6. Nxb1 Kxb1) b3 3. Nf6 b2 4. Ne4 Kb1 $1 5. Nc3+ Kc1 6. Kb4 $1 b1=Q+ 7. Nxb1 Kxb1 8. Kb3 $1 Kc1 9. Kc3 Kd1 10. Kd3 Ke1 11. Ke3 Rxg5 12. fxg5 $1 (12. g4 $2 Rxg4 13. Kf3 Rg5 $1 14. fxg5) Kf1 13. Kf3 $1 Ke1 14. Kg2 $1 Ke2 15. Bg1 Ke1 16. Be3 Ke2 17. Bf2 Kd3 18. Kf1 Kd2 19. Bg1 Kd3 20. Ke1 Kc2 21. Ke2 Kc1 22. Be3+ Kc2 23. Bd2 Kb2 24. Kd1 Kb1 25. Bc3 Ka2 26. Kc2 Ka3 27. Kb1 Kb3 28. Bb2 Kc4 29. Kc2 Kb4 $1 30. g4 $1 Kc4 31. Bc3 Kb5 32. Kb3 Kxa6 33. Ka4 Kb7 34. a6+ $1 1-0
+
+[Event "Zapas Soc. Zemi"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Khortov, Valeri Efimovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/P1n2K2/7k/6p1/6Pr/4P2B/5P2/6B1 w - - 0 1"]
+
+1. Bh2 $1 Na8 2. Bg2 Rxh2 3. Bxa8 Rxf2+ 4. Bf3 Rxf3+ 5. Kg8 Rxe3 6. a8=R (6. a8=Q $2 Re8+ 7. Qxe8) Re6 7. Kf7 1-0
+
+[Event "sp.p Shakhmaty v SSSR#10"]
+[Source "Shakhmaty v SSSR/3 19.p USSR overall champ XII 1973-1974."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Khortov, Valeri Efimovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6r1/k7/1N6/6p1/7N/8/4K1R1 w - - 0 1"]
+
+1. Nd6 $1 Re7+ (Rd7 2. Ne4) 2. Kf2 $1 (2. Kd2 $2 Rd7) Re6 $1 (gxh3 3. Ra1+ Kb6 4. Nc8+) (Rd7 3. Ne4 $1 (3. Ra1+ Kb6 4. Nc4+ Kb5 5. Ne5) gxh3 4. Nc5+) 3. Ra1+ Kb6 4. Nc4+ (4. Nc8+ $2 Kb7) Kc5 (Kb5 5. Na3+) 5. Nf4 (5. Ng5 $2 Rf6+) Re4 (Rf6 6. Ne5 $1 Rxf4+ 7. Ke3) 6. Ne5 $1 (6. Ra5+ $2 Kb4) Rxf4+ 7. Ke3 $1 (7. Kg3 $2 Re4) Rf5 $1 (Rf6 8. Nd7+) (Rf8 8. Nd7+) (Rb4 8. Nd3+) (Rd4 8. Nd3+) 8. Ke4 Rh5 $1 (Rg5 9. Ra5+) 9. Ra5+ Kb6 (Kb4 {<main>} 10. Nc6+ Kc4 11. Rxh5) 10. Nc4+ Kc6 11. Rxh5 1-0
+
+[Event "sp.p Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/10 EG#05278. after Katsnelson=L b6h8 1970."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Khortov, Valeri Efimovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5kr1/8/1K1R4/8/1b6/7B/2p2PP1/8 w - - 0 1"]
+
+1. Rd8+ $1 (1. Rc6 $2 Rg6 2. Be6 Rxe6) Kg7 2. Rd7+ Kh6 $1 3. Rc7 Rg6+ 4. Kb5 (4. Kb7 $2 Rg7 5. Bd7 Rxd7) Bc5 $1 5. Rxc5 Rg5 6. Bf5 $1 Rxf5 7. Rxf5 c1=Q 8. Rf6+ Kh7 9. Rf7+ Kh8 10. Rf8+ Kh7 11. Rf7+ Kh6 12. Rf6+ Kh5 13. Rf5+ Kg4 14. Rf3 $1 1/2-1/2
+
+[Event "3.hm Shakhmaty (Riga)#54"]
+[Source "Shakhmaty (Riga)/10 EG#05185."]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Khortov, Valeri Efimovich"]
+[White "Khortov, V"]
+[Black " Mitrofanov, L."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1n6/3P4/4P3/3K4/6r1/1kp5/8/5B2 w - - 0 1"]
+
+1. d8=Q $1 Rd4+ 2. Kxd4 Nc6+ 3. Kd5 Nxd8 4. Bc4+ Kb4 5. e7 Ne6 6. Kxe6 c2 7. e8=Q Kxc4 (c1=Q {<main>} 8. Qb5+ Kc3 9. Qb3+ Kd4 10. Qd3+ Kc5 11. Qd6+ Kxc4 12. Qc6+ Kd3 13. Qxc1) 8. Qh8 $1 Kb3 9. Qa1 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/4 after Evreinov=V h2h4 1961."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Khortov, Valeri Efimovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7r/8/6PP/8/8/7k/P7/7K w - - 0 1"]
+
+1. g7 $1 (1. h7 $2 Rb8 2. Kg1 Kg3 3. Kf1 Kf3 4. Ke1 Ke3 5. Kd1 Kd3 6. Kc1 Rc8+ 7. Kb2 Rb8+ 8. Ka3 $1 Kc3 9. Ka4 Kc4 10. Ka5 Kc5 11. Ka6 Kc6 12. Ka7 Rh8 $1 13. a4 Kd6 14. Kb6 Rb8+ 15. Ka6 Kc6 16. Ka7 Rh8 17. a5 Kd6 18. Kb7 Ke6 19. a6 Kf6 20. a7 Kxg6 21. a8=Q Rxa8 22. Kxa8 Kxh7) Rb8 2. Kg1 Kg3 3. Kf1 Kf3 4. Ke1 Ke3 5. Kd1 Kd3 6. Kc1 Rc8+ 7. Kb2 Rb8+ 8. Ka3 $1 Kc3 9. Ka4 Kc4 10. Ka5 Kc5 11. Ka6 Kc6 12. Ka7 Rg8 $1 13. a4 Kd6 14. Kb6 $1 (14. Kb7 $2 Ke6 15. a5 Kf6 16. a6 Kg6 17. a7 Kxh6) Rb8+ 15. Ka6 $1 Kc6 16. Ka7 Rg8 17. a5 $1 Kd6 18. Kb7 $1 Ke6 19. a6 Kf6 20. a7 1-0
+
+[Event "3.c Odessa ty (tt)"]
+[Source "EG#05914."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Khortov, Valeri Efimovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/5B2/2pp4/8/4p3/2K4k w - - 0 1"]
+
+1. Kd2 $1 d3 2. Ke1 Kg2 3. Bg4 c3 4. Bxe2 c2 5. Bd1 c1=Q 1/2-1/2

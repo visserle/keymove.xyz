@@ -1,0 +1,16 @@
+[Event "New York Sunday World#1"]
+[Source "also The Boy's Own Paper#332 5-11-1892."]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "?"]
+[Composer "Otten, Henry D"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/6b1/5k2/8/P3K1P1/8/8/8 w - - 0 1"]
+
+1. a5 $1 (1. Kf4 $2 Bh6+ 2. g5+) (1. g5+ $2 Ke7 2. g6) (1. Kd5 $2 Bh6 2. a5) (1. Kf3 $2 Bh6 2. a5) (1. Kd4 Bh6 2. a5) Bf8 2. Kd5 (2. a6 $2 Bc5 3. a7 $10) (2. g5+ $2 Ke6 3. a6) (2. Kf4 $2 Kg7 3. a6) (2. Kd4 $2 Bd6 3. a6) Bh6 3. g5+ $1 (3. Ke4 Bf8 $18 4. Kd5) (3. a6 $2 Be3 4. a7 $10) (3. Kd4 $2 Bd2 4. a6) (3. Kc6 $2 Bg5 4. a6) (3. Kd6 $2 Bg5 4. a6) (3. Kc4 Bg5 4. a6) (3. Kc5 Bg5 4. a6) Bxg5 (Kxg5 4. a6) 4. Ke4 (4. a6 $2 Be3 5. a7 $10) (4. Kd4 $2 Kg7 5. a6) (4. Kc6 $2 Kg7 5. a6) (4. Kd6 $2 Bh4 5. a6) (4. Kc5 $2 Bh4 5. a6) (4. Kc4 Bh4 5. Kd5) Bh4 5. Kf3 $18 (5. Ke3 $2 Bg3 6. a6 $10) (5. Kf4 $2 Kg7 6. a6) (5. a6 $2 Bf2 6. a7) (5. Kd5 Bg3 6. a6) 1-0

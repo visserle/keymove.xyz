@@ -1,0 +1,41 @@
+[Event "The Problemist#0179"]
+[Source "The Problemist/4-6"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Becker, Carl"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/6pb/4B2p/3P2PK/5N1P/8/1p6/8 w - - 0 1"]
+
+1. g6 $1 b1=Q 2. gxh7 Qxh7 3. Ng6+ Ke8 4. d6 Kd8 5. Bf7 Kc8 6. Bg8 Qxg8 7. Ne7+ Kd7 8. Nxg8 g5 9. Nf6+ Kxd6 10. Ne4+ Ke7 11. Nxg5 hxg5 12. hxg5 Kf7 13. Kh6 Kg8 14. Kg6 1-0
+
+[Event "3.hm Gorgiev MT"]
+[Source "EG#03375."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Becker, Carl"]
+[White "Becker, C"]
+[Black " Gurgenidze, D."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3p4/K2Pp2P/8/4P3/3k4/8/2b5 w - - 0 1"]
+
+1. h7 $1 Bb2 2. e5 (2. Kb7 $2 Kxe4 3. Kc7 Kd5 4. Kxd7 Be5 $1) Bxe5 3. Kb7 Kd4 4. Kc8 Kc4 5. Kd8 $1 Kc5 6. Kc7 $1 Kd5 7. Kxd7 Bf6 8. Kc7 Be5 9. Kd7 1/2-1/2
+
+[Event "Chess Life & Review#1334"]
+[Source "Chess Life & Review/4"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Becker, Carl"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5p2/3Nn3/7P/7P/p7/4k2K w - - 0 1"]
+
+1. Nb4 $1 a1=Q 2. Nc2+ Kd2+ 3. Nxa1 Kc3 4. h5 Nf7 5. h6 $1 Nxh6 6. Kg2 Kb2 7. Kg3 Kxa1 8. Kh4 Kb2 9. Kh5 f5 10. Kg5 Kc3 11. h4 Kd4 12. Kxh6 f4 13. Kg7 f3 14. h5 f2 15. h6 f1=Q 16. h7 1/2-1/2

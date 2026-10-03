@@ -1,0 +1,27 @@
+[Event "Schach"]
+[Source "Schach/5"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Hesse, Peter"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4b3/4n2K/4PP2/8/7N/6N1/2k2p1p/8 w - - 0 1"]
+
+1. f7 $1 (1. Ng2 $2 Nf5 $1 2. f7 Bxf7 3. exf7 Nxg3 $1 4. f8=Q h1=Q+ 5. Kg8 Qxg2) (1. fxe7 $2 h1=Q 2. Nxh1 f1=Q 3. Ng3 Qf6 4. Ngf5 Kd3) Bxf7 2. exf7 h1=Q 3. Nxh1 (3. f8=Q $2 Qxh4+ 4. Qh6 Qxg3) f1=Q 4. Nf2 $1 (4. Kg7 $2 Qa1+ 5. Kf8 Nc6 6. Ke8 Qf6 $1) Qxf2 5. Nf3 $1 Qxf3 6. f8=Q $1 Qxf8 (Qh5+ 7. Kg7 Qg6+ 8. Kh8) 1/2-1/2
+
+[Event "Schach#05676"]
+[Source "Schach/4"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Hesse, Peter"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2P5/3P4/4Pb1k/pp6/5K2/P4P1P/8 w - - 0 1"]
+
+1. Kf4 $1 Be6 2. d7 $1 (2. Ke4 $2 b3 3. axb3 a3 4. d7 Bxd7 5. Kd5 Kg6 $1) (2. c8=Q $2 Bxc8 3. e6 Bxe6 4. Ke5 Bd7 5. Kd4 Bb5 $1 6. h3 Kg5 7. f3 Kf6 8. h4 a3 $1) Bxd7 3. e6 $1 Bxe6 4. Ke5 Bc8 $1 5. Kd4 Ba6 $1 6. h3 $1 (6. c8=Q $2 Bxc8 7. Kc4 b3 8. axb3 Be6+ 9. Kc3 axb3) (6. f3 $2 Kh4 7. h3 Kxh3) Kg5 7. f3 Kf6 8. h4 Kf5 9. h5 Kg5 10. f4+ Kxh5 11. f5 $1 Kg5 12. c8=Q $1 Bxc8 13. Kc4 b3 14. axb3 a3 15. Kc3 Bxf5 16. b4 Be6 17. b5 1/2-1/2

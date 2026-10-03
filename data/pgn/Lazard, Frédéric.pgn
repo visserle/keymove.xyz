@@ -1,0 +1,1113 @@
+[Event "2.hm tl20#461"]
+[Source "La Stratégie/7"]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1RB4k/1p6/5Kpp/8/8/8/6p1/1q6 w - - 0 1"]
+[PlyCount "13"]
+
+1. Be6+ $1 Kh7 2. Bg8+ Kh8 3. Bb3+ (3. Ba2+ $2 Kh7 4. Bg8+ (4. Bxb1 g1=Q 5. Rxb7+ Kh8) Kh8) Kh7 4. Rxb7+ Kh8 5. Rb8+ Kh7 6. Bg8+ Kh8 7. Rxb1 $18 1-0
+
+[Event "tr19"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "B7/8/P7/p7/8/K1p5/2k1r3/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. a7 Re8 2. Bc6 Rf8 3. a8=Q Rxa8 4. Bxa8 Kd3 5. Kb3 a4+ 6. Ka2 c2 7. Be4+ Kxe4 8. Kb2 Kd3 9. Kc1 $11 1/2-1/2
+
+[Event "us21"]
+[Site "?"]
+[Date "1911.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6Q1/8/1q3pp1/8/k7/3N4/2P5/n3K3 w - - 0 1"]
+[PlyCount "11"]
+
+1. Nb2+ Qxb2 (Kb4 $144 2. c3+ Kxc3 (Ka3 $144 3. Nc4+ $18) (Ka5 $144 3. Nc4+ $18) 3. Na4+ $18) (Kb5 $144 2. Qc4+ Ka5 3. Qa4#) 2. Qa8+ Kb4 3. Qb7+ Kc3 (Ka3 $144 4. Qa6+ Kb4 5. Qb6+ $18) 4. Qc6+ Kb4 5. Qb6+ Kc3 (Ka3 $144 6. Qa5#) 6. Qc5# 1-0
+
+[Event "6.p tl20#379"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "KB6/1PRp2P1/k7/r7/8/8/6rp/8 w - - 0 1"]
+[PlyCount "8"]
+
+1. Ba7 h1=Q (Rb5 $144 2. Rc1 Rxb7 3. Ra1+ Kb5 4. Kxb7 Rxg7 $11) (Rxg7 $144 2. Rc1 Rg8+ 3. b8=Q Rxb8+ 4. Kxb8 $11) 2. b8=N+ $1 Kb5 3. Rb7+ Ka4 4. g8=Q Rxg8 $11 1/2-1/2
+
+[Event "tl20#0341 {c}"]
+[Source "La Stratégie/9"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/1R6/1p6/4K3/6k1/7r/2pP4/8 w - - 0 1"]
+[PlyCount "9"]
+
+1. Rg7+ $1 (1. Rc7 $2 Rh5+ 2. Kd4 Rc5 3. Rg7+ Kf5 $19) (1. Kf6 c1=Q 2. Rg7+ Kf4) (1. Rh7 Rxh7) (1. Ke6 Rh6+ 2. Ke5 c1=Q) Kf3 (Kh5 2. Rc7 $10) (Kh4 2. Rg1 Rh2 3. Rc1 $1 Rxd2 4. Ke4) 2. Rc7 $1 (2. Rf7+ $2 Ke2 $19 3. Rf2+ Kxf2) (2. Rg1 $2 Rh2 $19 3. Rf1+ Ke2) (2. Rg6 Rh5+ 3. Ke6 c1=Q) (2. Rg8 c1=Q 3. Rf8+ Kg3) Rh5+ 3. Kd4 (3. Kf6 $2 Rc5 4. Rxc5 bxc5) (3. Kd6 $2 Rc5 4. Rf7+ Ke4) (3. Ke6 $2 Rc5 4. Rf7+ Ke2) Rc5 4. Rxc5 (4. Rf7+ $2 Ke2 5. Re7+ Kxd2 $19 6. Re2+ Kxe2) (4. Re7 $2 c1=Q 5. Rf7+ Ke2 $19) (4. Ra7 c1=Q 5. Rf7+ Ke2) (4. Rh7 c1=Q 5. Rf7+ Ke2) (4. Rd7 c1=Q 5. Rf7+ Ke2) (4. Rc6 Rxc6) (4. Rc8 Rxc8) (4. Rg7 c1=Q 5. Rf7+ Ke2) (4. Rb7 c1=Q 5. Rf7+ Ke2) bxc5+ 5. Kd3 $1 $11 (5. Kc3 $2 c1=Q+ 6. Kb3 Ke4 $19 7. d3+ Kd4) (5. Kxc5 $2 c1=Q+ 6. Kd5 Qxd2+ 7. Kc5 Qd7 $19) (5. Kc4 $2 c1=Q+ 6. Kb5 c4) (5. Kd5 c4 6. Kxc4 c1=Q+) c1=Q (c1=B 6. Kc4 Ba3 7. d4) (c1=R) 1/2-1/2
+
+[Event "tt23#185"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p1k3/8/1KP5/3R1N2/7b/2p1p3/8 w - - 0 1"]
+[PlyCount "10"]
+
+1. Re4+ Kd8 2. Rd4+ Kc8 3. Nxe2 Bf1 4. Rc4 Bxe2 5. Kc6 Bxc4 $11 1/2-1/2
+
+[Event "5.p ts67#10"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p7/p4k2/2R2p1p/8/P4K2/1p6/4N3 w - - 0 1"]
+[PlyCount "13"]
+
+1. Rc6+ $1 Kg5 (Ke7 $143 2. Rc7+ Kd6 3. Rb7 $18) 2. Kf2 b1=Q 3. Nf3+ Kg4 (Kf4 $144 4. Rc4+ Qe4 $11) 4. Rg6+ Kf4 5. Rd6 Qb2+ 6. Rd2 Qb6+ 7. Rd4+ $11 Qxd4+ 8. Nxd4 1/2-1/2
+
+[Event "ts67#20"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k1N1/K2p2p1/8/P2P2p1/8/3n4/8/8 w - - 0 1"]
+[PlyCount "8"]
+
+1. Kb6 $1 Nb4 (Kd8 2. a6 Nb4 3. a7 Nxd5+ 4. Kb7 Nc7 5. Ne7 g4 6. Nd5 Na8 7. Kxa8 Kc8 8. Nb6+ Kc7 9. Nd5+) 2. Kc5 Na6+ (g4 3. Kxb4 Kd8 4. a6 Kc7 5. d6+ Kb6 6. Ne7 g3 7. Nd5+ Kxa6 8. Ne3) 3. Kd6 g4 4. Nf6+ $1 gxf6 $11 (Kd8 5. Nxg4) 1/2-1/2
+
+[Event ".hm ts67#06"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/3p4/3P4/pP6/p4pp1/p2K4/P2P1P2/6k1 w - - 0 1"]
+[PlyCount "31"]
+
+1. b6 (1. Ke4 $4 f3 $19) (1. Ke2 $4 f3+ 2. Kd1 g3 $19) (1. Kc4 f3) g3 (Kxf2 $144 2. b7 g3 3. b8=Q g2 4. Qa7+ $1 Kf1 5. Qxd7 $1 g1=Q 6. Qf5 Qg3+ 7. Ke4 $18) 2. f3 (2. b7 $4 gxf2 3. b8=Q f1=Q+ $19) (2. fxg3 $2 f3 3. Ke3 $10) (2. Ke4 $4 gxf2 $19 3. Kxf4 f1=Q+) g2 3. b7 (3. Ke2 $4 Kh2 $19) (3. Kd4 $4 Kh2) (3. Ke4 Kf2) Kh2 $2 (Kf2 (Kh2 $144 4. b8=R $1 (4. b8=Q $143 g1=Q 5. Qh8+ Kg2 6. Qg7+ Kxf3 7. Qxg1 $11 (7. Qxd7 $144 $11)) g1=Q 5. Rh8+ Kg2 6. Rg8+ $18) 4. b8=B $3 $1 (4. b8=Q $2 $143 g1=Q 5. Qa7+ $10 (5. Qb6+ Kxf3 6. Qxg1 $18)) (4. b8=N $4 g1=Q 5. Nxd7 Qg6+) g1=Q (Kxf3 (g1=Q $144 $2 5. Ba7+ $18) 5. Ba7 Kg3 6. Bg1 $18 Kf3 7. Bh2 Kf2 (Kg4 $144 8. Ke4 Kh3 9. Bg1 Kg3 10. d3 Kg4 11. Bf2 f3 12. Ke3 $18) 8. Bxf4 Kf1 9. Be3 Ke1 10. Kc4 Kd1 11. Kb5 Kc2 12. Kxa5 Kc1 13. Kxa4 Kb2 14. Kb4 Kxa2 15. Bd4 Kb1 16. Kxa3 $18) 5. Ba7+ $18) 4. b8=R (4. b8=Q $2 g1=Q 5. Qh8+ Kg2 6. Qg8+ Kxf3 7. Qxg1) (4. b8=N $4 g1=Q 5. Nxd7 Qb1+) (4. Kd4 $4 g1=Q+ 5. Ke5 Qg5+) g1=Q 5. Rh8+ Kg2 6. Rg8+ $18 (6. Ke2 Qf1#) 1-0
+
+[Event "3.p wb09 tt06"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "N7/8/1B2N3/3p4/8/bp2K3/1p6/1k6 w - - 0 1"]
+[PlyCount "9"]
+
+1. Bd4 Kc2 2. Bxb2 Bxb2 3. Nb6 Bc1+ 4. Ke2 b2 5. Na4 $11 1/2-1/2
+
+[Event "ta18"]
+[Site "?"]
+[Date "1916.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/3p2p1/2p5/2K5/5P2/8/2P5/8 w - - 0 1"]
+[PlyCount "12"]
+
+1. Kd6 Kd8 2. f5 (2. c3 $143 g6 3. c4 Ke8 4. c5 Kd8 $19) Ke8 3. c3 (3. c4 $143 Kd8 4. c5 Ke8 5. f6 gxf6 6. Kc7 $19) Kd8 4. c4 Ke8 5. c5 Kd8 6. f6 gxf6 $11 1/2-1/2
+
+[Event "tl20#0720"]
+[Source "La Stratégie/9"]
+[Site "?"]
+[Date "1918.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5N2/1P5p/1r6/8/6K1/3k4/8/4b3 w - - 0 1"]
+[PlyCount "8"]
+
+1. Nd7 $1 Rg6+ $1 (Rxb7 $144 2. Nc5+ $11) 2. Kf5 $1 Bg3 3. Ne5+ $1 Bxe5 4. b8=Q Bxb8 $11 1/2-1/2
+
+[Event "tl20#0897"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3b3B/3P4/4Pp2/2P1p3/1K5p/8/2k3n1/8 w - - 0 1"]
+[PlyCount "12"]
+
+1. Bxf6 Bxf6 2. c6 Nf4 3. c7 Nd5+ 4. Kc4 $1 Nxc7 5. d8=Q Bxd8 6. e7 Bxe7 $11 1/2-1/2
+
+[Event "tl20#0896"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2kr2b1/p7/8/1R2BN2/4K3/8/6n1/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. Ne7+ Kd7 2. Rb7+ Ke6 (Ke8 $144 3. Nxg8 Rd1 (Kf8 $144 4. Nf6 $18) (Nh4 $144 4. Nf6+ $18) (Rc8 $144 4. Nf6+ Kd8 (Kf8 $144 5. Bd6#) 5. Rd7#) (Ra8 $144 4. Nf6+ Kd8 5. Rg7 Kc8 6. Ne8 $18) 4. Kf5 Rc1 5. Nf6+ Kd8 6. Ne4 Rc6 7. Nd6 Rc7 8. Nf7+ Rxf7+ 9. Rxf7 $18) 3. Ng6 Re8 4. Rxa7 Bf7 5. Re7+ Rxe7 6. Nf8# 1-0
+
+[Event "6.hm tl10#225"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/8/3Nn2n/8/7K/5k2/4N2b/8 w - - 0 1"]
+[PlyCount "6"]
+
+1. Nd4+ (1. Kh3 $2 Bxd6 2. Ng1+ Kf2 $19) (1. Nf5 $2 Nxf5+ 2. Kh3 Be5 $19 3. Ng1+ Kf2) (1. Ne4 $2 Kxe4 2. Nc3+ Kf5 $19) (1. Ng3 $2 Bxg3+ 2. Kh5 Bxd6 3. Kxh6 Kf4 $19) (1. Nf7 $2 Nxf7 $19 2. Nd4+ Nxd4) (1. Kh5 $2 Bxd6 2. Ng1+ Kg2) (1. Nc8 Kxe2) (1. Nb7 Kxe2) (1. Nb5 Kxe2 2. Nc3+ Kf3) Nxd4 2. Nf5 (2. Nc4 $2 Ng4 $19 3. Ne5+ Bxe5) (2. Kh5 $2 Bxd6 3. Kxh6 Ne6 $19) (2. Ne4 $2 Nhf5+ 3. Kh5 Kxe4) (2. Ne8 $2 Nf7 3. Kh5 Nh8) (2. Kg5 $2 Bxd6 3. Kxh6 Kg4 $19) Nhxf5+ 3. Kh3 $10 (3. Kg5 $2 Ng7 $19 4. Kf6 Ndf5) (3. Kh5 $2 Ne7) Bb8 $11 1/2-1/2
+
+[Event "tl10#267"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/5P2/rb3P2/1P3P2/5P2/5P2/5P1p/6RK w - - 0 1"]
+[PlyCount "15"]
+
+1. Rg8+ Kxf7 2. Rg7+ Kxf6 3. Rg6+ Kxf5 4. Rg5+ Kxf4 5. Rg4+ Kxf3 6. Rg3+ Kxf2 7. Rg2+ Kf3 8. bxa6 $18 1-0
+
+[Event "tl10#415 {v}"]
+[Source "L'Italia Scacchistica/3 (c): Bull. Fédération Française des Échecs 15-10-1926."]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "B1R5/p2p4/P2P1k2/8/3K4/7b/5p1b/8 w - - 0 1"]
+[PlyCount "10"]
+
+1. Rf8+ $1 Kg5 (Kg7 $144 2. Rxf2 Bg1 3. Ke3 Bg4 4. Kf4 $11) 2. Bg2 $1 (2. Rxf2 $143 $2 Bg1 3. Ke3 Bg4 4. Bb7 Kh4 5. Bf3 Bxf2+ (Kg3 6. Bxg4 Kxg4 7. Ke2 Bxf2 8. Kxf2 Kf4) 6. Kxf2 Bxf3 7. Kxf3 Kg5 $19) Bxg2 3. Rxf2 Bg1 4. Ke5 Bc6 (Bxf2 $144 $11) (Bh2+ 5. Kd4 Bg1 6. Ke5) 5. Rg2+ Bxg2 $11 1/2-1/2
+
+[Event "tl06"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5kB1/3p1P2/7K/2Pp1P1P/p6p/4P3/7P/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. Kg6 a3 2. h6 a2 3. h7 a1=Q 4. h8=Q Qxh8 5. f6 h3 (d4 $144 6. c6 dxc6 7. exd4 h3 8. Kg5 c5 9. d5 $18) 6. Kg5 d4 7. c6 $1 dxc6 8. exd4 c5 9. d5 $1 $18 1-0
+
+[Event "5.c tc06#564"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k1K2n/1p1p4/1Pp3p1/1N2b1P1/8/p4PR1/2P5/8 w - - 0 1"]
+[PlyCount "33"]
+
+1. f4 $1 a2 $1 2. Ra3 a1=Q 3. Ra8+ $3 Qxa8 4. Na7+ Kb8 5. fxe5 c5 $1 6. c4 $1 Qxa7 7. bxa7+ Kxa7 8. Kxd7 Nf7 9. e6 Ne5+ $1 10. Kd6 Nc6 11. Kxc5 Ne7 12. Kd6 Nf5+ 13. Kd7 Kb6 14. e7 Ng7 15. e8=Q Nxe8 16. Kxe8 Kc5 17. Kf7 $18 1-0
+
+[Event "bl18#107"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3b4/8/K7/8/p1RB4/k1r5 w - - 0 1"]
+[PlyCount "21"]
+
+1. Bc3+ (1. Rxc1+ $143 Kb2 $11) (1. Bxc1 $143 Kb1 2. Rb2+ Kxc1 $11) Kb1 2. Rb2+ Ka1 3. Bf6 $1 (3. Bg7 $143 Rc7 4. Rb7+ Rxg7 5. Rxg7 $11) (3. Bh8 $143 Rc8 $1 4. Rb8+ Rxh8 5. Rxh8 $11) Be7 4. Bg7 Bf8 5. Bh8 Bg7 (Rc7 $144 6. Rb7+ Bg7 7. Bxg7+ Rxg7 8. Rxg7 Kb1 9. Kb3 a1=N+ 10. Kc3 Nc2 11. Rg1+ $18) 6. Bxg7 Rc7 7. Rb7+ Rxg7 8. Rxg7 Kb2 9. Rg2+ Kb1 10. Kb3 a1=N+ 11. Kc3 $18 1-0
+
+[Event "tl28#05"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b4B1/8/b5K1/4N3/4N3/3p3R/4pppn/4rqkr w - - 0 1"]
+[PlyCount "10"]
+
+1. Ng5 Bxe5 (Bb7 $143 2. Re3 $18) 2. Rh7 Bc8 3. Rd7 Bxd7 4. Be6 Bxe6 5. Nf3+ Nxf3 $11 1/2-1/2
+
+[Event "tl05#18"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r7/kpPp4/N2P4/1P1p4/2p5/8/4b3/2K5 w - - 0 1"]
+[PlyCount "17"]
+
+1. Nb8 Rxb8 2. b6+ Ka8 3. Kd2 $1 (3. Kc2 $143 d4 $19) (3. Kb2 $143 d4 $19) Bg4 4. Kc3 Be6 5. Kd4 Rg8 6. Kc3 Rh8 7. Kd4 Rh4+ 8. Kc5 $1 (8. Kc3 $143 d4+ $19) Rh8 9. Kd4 $11 1/2-1/2
+
+[Event "tt22#0127"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2bN3k/1p1pp1pp/1P2P3/2P3P1/5p2/6p1/5p2/5K2 w - - 0 1"]
+[PlyCount "9"]
+
+1. Nf7+ Kg8 2. Nd6 exd6 (Kf8 $144 3. Nxc8 Ke8 4. exd7+ Kxd7 5. Nxe7 h5 6. Ng6 Kc6 7. Nxf4 h4 8. g6 h3 9. Nxh3 Kxc5 10. Nf4 Kxb6 11. Nh5 Kc7 12. Nxg7 Kd7 13. Nf5 Ke6 $11) 3. e7 Kf7 4. g6+ hxg6 5. cxd6 $11 1/2-1/2
+
+[Event "tl28#41"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7n/3K4/5B2/6P1/1k6/3p4/8/8 w - - 0 1"]
+[PlyCount "7"]
+
+1. g6 d2 (Nxg6 $144 2. Bg5 $11) 2. Bc3+ $3 (2. g7 $143 d1=Q+ 3. Kc7 Qc2+ 4. Kb8 Qh2+ 5. Kc8 Qh3+ 6. Kc7 Qg3+ 7. Kd7 Nf7 $19) Kxc3 3. g7 d1=Q+ 4. Kc7 $11 1/2-1/2
+
+[Event "tl05#15"]
+[Source "L'Échiquier de Paris/6"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3pkP1K/1Q6/4q3/3r4/1R3Pp1/8/8 w - - 0 1"]
+[PlyCount "9"]
+
+1. Re3 $1 Qxe3 (Rh4+ $144 2. Kg6 $18) (Kxf7 $144 2. Qg6+ $18) 2. Qf6+ Kxf6 3. f8=Q+ Ke5 (Kg5 $144 4. Qh6+ $18) (Ke6 $144 4. Qe8+ $18) 4. Qe7+ Kf4 5. Qf6# 1-0
+
+[Event "9.hm mb09 tl10#037"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5b2/1p1qP1k1/3P4/4pp2/5p2/7K/p1P5/7Q w - - 0 1"]
+[PlyCount "59"]
+
+1. Qg2+ Kf7 2. Qd5+ Kg7 (Kf6 $144 3. exf8=Q+ $18) 3. Qxe5+ Kf7 4. Qd5+ Kg7 5. Qd4+ Kf7 6. Qc4+ Kg7 7. Qc3+ Kf7 8. Qb3+ Kg7 9. Qb2+ Kf7 10. Qxa2+ Kg7 11. Qb2+ Kf7 12. Qb3+ Kg7 13. Qc3+ Kf7 14. Qc4+ Kg7 15. Qd4+ Kf7 16. Qd5+ Kg7 17. Qg2+ Kf7 18. Qg6+ Kxg6 19. exf8=N+ Kf7 20. Nxd7 Ke6 21. Nc5+ Kxd6 22. Nxb7+ Kd5 23. Na5 Kd4 24. Nb3+ Kc3 25. Na1 Kd2 26. c4 Ke2 27. Nb3 f3 28. Nc1+ (28. Nd4+ $143 Kd3 29. c5 Kxd4 30. c6 Ke3 31. c7 f2 32. Kg2 Ke2 33. c8=Q f1=Q+ $11) Ke3 29. c5 f2 30. Kg2 $18 1-0
+
+[Event "tl28#16"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "R7/4p1pq/4Ppp1/8/p2N1K1k/1p6/6P1/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. Nf3+ Kh5 2. g4+ Kh6 3. Ng5 fxg5+ 4. Ke5 b2 (a3 $144 5. Rxa3 Qh8 6. Rxb3 Kh7 7. Rh3+ Kg8 8. Rxh8+ Kxh8 9. Kd5 Kg8 10. Kc6 Kf8 11. Kd7 Kg8 12. Kxe7 $18) 5. Rb8 Qg8 (a3 $144 6. Rb3 $18) 6. Rxb2 $18 (6. Rxg8 $143 Kh7 7. Rb8 a3 $19) 1-0
+
+[Event "tl28#01"]
+[Source "Le Monde des Échecs/3"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K1kq1/6p1/6PP/4p1p1/1p2P2R/8/P3P3/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. Rf4+ $1 gxf4 2. h7 Qxa2 (Qh8 $144 3. Kd7 $18) 3. h8=Q+ Qg8 4. Qh3 Qa2 (Qc4 $144 5. Qd7 $18) 5. Qf5+ Kg8 6. Qc8 $1 Qa7 {<eg>} 7. Qe6+ Kh8 (Kf8 8. Qe8#) 8. Qe8# 1-0
+
+[Event "tl05#23"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7R/B2n4/P2r4/8/8/3PK3/7p/6k1 w - - 0 1"]
+[PlyCount "7"]
+
+1. Ke2+ Kg2 (Nb6 $144 2. Bxb6+ Rxb6 3. a7 Rb2+ (Re6+ $144 4. Kd2 Ra6 5. a8=Q Rxa8 6. Rxa8 h1=Q 7. Ra1+ $18) 4. Ke3 Ra2 5. a8=Q Rxa8 6. Rxa8 h1=Q 7. Ra1+ $18) 2. Rxh2+ $1 Kxh2 3. Bb8 Nxb8 4. a7 $18 1-0
+
+[Event "tl28#44"]
+[Source "Le Monde des Échecs/11"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p1p3/P3K3/2k5/2P5/1rP5/1N6/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. Na4+ $1 Kc6 2. a7 Rb7 3. a8=R $1 (3. a8=Q $143 $11 $2) Ra7 4. Nb6 $3 $1 Kxb6 5. c5+ Kb7 6. Rxa7+ $18 1-0
+
+[Event "tl05#093"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6Bk/5K2/3p4/5Np1/7p/1p6/bpp5/1NR5 w - - 0 1"]
+[PlyCount "15"]
+
+1. Nxh4 cxb1=Q 2. Rh1 Qf1+ 3. Rxf1 b1=Q 4. Rh1 $1 Qf1+ (Qh7+ $144 5. Bxh7 b2+ 6. Kf6 $18) 5. Rxf1 b2+ 6. Kf8 b1=Q (Bxg8 $144 7. Ng6+ Kh7 8. Ne7 $18) 7. Ng6+ Qxg6 8. Rh1+ $18 1-0
+
+[Event "tl05#247"]
+[Source "L'Échiquier de Paris/10"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4Q3/8/8/7q/R3p2p/6bK/1k5p/7n w - - 0 1"]
+[PlyCount "16"]
+
+1. Ra2+ $1 Kxa2 2. Qa4+ Kb2 3. Qb4+ Kc2 4. Qc4+ Kd2 5. Qd4+ Ke1 6. Qxe4+ Qe2 (Kf2 $144 7. Qf3+ Kxf3 $11) 7. Qxe2+ Kxe2 8. Kg2 Nf2 $11 1/2-1/2
+
+[Event "tl05#229"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/pp6/1pp2p1p/6p1/k1K1N3/4p3/1P6/8 w - - 0 1"]
+[PlyCount "21"]
+
+1. Nc3+ Ka5 2. b4+ Ka6 3. Nb5 $1 cxb5+ 4. Kd3 f5 5. Kxe3 h5 6. Kf2 f4 7. Kg1 h4 8. Kg2 g4 9. Kg1 f3 10. Kh2 h3 11. Kg3 $11 1/2-1/2
+
+[Event "tl05#249"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K2kn2/4p3/6P1/6Pq/8/1R6/8/5R2 w - - 0 1"]
+[PlyCount "15"]
+
+1. g7 Nd7+ (Qh2+ $144 2. Kb7 Qg2+ 3. Rff3 $18) 2. Ka7 Qxg5 3. Rf8+ Nxf8 4. Rb8+ Kd7 5. gxf8=N+ (5. gxf8=Q $143 Qa5+ 6. Kb7 Qb5+ $11) Kd6 6. Rb6+ Ke5 7. Rb5+ Kf4 (Kf6 $144 8. Nh7+ $18) 8. Ne6+ $18 1-0
+
+[Event "tr11#0453"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4n1Bb/3kp3/5P1N/2K1p3/1p2p3/8/8/8 w - - 0 1"]
+[PlyCount "31"]
+
+1. Be6+ (1. f7 $143 Bg7 2. Nf5 Bf8 3. fxe8=Q+ Kxe8 $11) Kd8 (Kxe6 2. f7 Nf6 3. f8=N#) 2. f7 Bg7 3. Nf5 Bf8 4. fxe8=Q+ Kxe8 5. Kxb4 Kd8 6. Kc3 Kc7 7. Kd2 Kc6 8. Ke3 Kc5 9. Kxe4 Kb4 10. Kxe5 Kc3 11. Kf4 Kd3 12. Kg5 Ke4 13. Kg6 Kf4 $1 14. Kf7 Ke5 15. Ne3 Kd6 16. Nc4+ $18 1-0
+
+[Event "3.hm te12"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2n2b2/1kp5/3P1p2/2P5/3p3N/3K4/8/8 w - - 0 1"]
+[PlyCount "21"]
+
+1. d7 Be7 2. c6+ (2. Nf5 $143 Nd6 3. Nxe7 Nf7 4. c6+ Kb6 5. Kxd4 Nd8 6. Kd5 f5 7. Nxf5 Nxc6 $11) Kb8 3. Nf5 Bd8 (Nd6 $144 4. Nxe7 Nf7 5. Kxd4 Nd8 6. Ke4 Ka7 7. Kf5 Kb6 8. Kxf6 Kc5 9. Kg7 Kd6 10. Kf8 Ne6+ (Nxc6 $144 11. Ke8 $18) 11. Kf7 Ke5 (Ng5+ 12. Ke8) (Nd8+ 12. Ke8) 12. Ke8 Ng7+ 13. Kd8 Ne6+ 14. Kc8 $18) 4. dxc8=Q+ Kxc8 5. Kxd4 Kb8 6. Kd5 Ka7 7. Ke6 Kb6 8. Kd7 Kc5 9. Ng7 Kb6 10. Ne6 Be7 11. Nxc7 $18 1-0
+
+[Event "tl05#246"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2n5/2p5/pPkPp3/2b5/2N5/2K5/8/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. d7 $1 (1. b7 $143 Bd4+ 2. Kxd4 (2. Kd3 $2 Kxb7 3. d7 Bf6) Kxb7 3. d7 (3. Na5+ Kb6 4. d7 c5+ 5. Kc3 Kc7) c5+ 4. Kxc5 Kc7 $11) (1. Na5+ $143 Kd7 2. b7 Ba7 3. Nc6 Nxd6 4. b8=N+ Bxb8 5. Nxb8+ $19) Bd4+ 2. Kd3 $1 {=Kb3} (2. Kxd4 $143 Kxd7 3. b7 c5+ $11) Kxd7 3. b7 Ba7 4. Ne5+ Kd8 5. Nc6+ Kd7 6. Nxa7 $18 1-0
+
+[Event "tl05#220"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5N2/K2P4/N1k5/n7/3n4/8/6p1/8 w - - 0 1"]
+[PlyCount "9"]
+
+1. d8=Q Nb5+ 2. Kb8 g1=Q 3. Nb4+ Kc5 4. Qb6+ Kxb6 5. Nd7# 1-0
+
+[Event "tl05#325"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "b7/1Q6/1R6/8/2p1K3/2k4p/1N6/r1n3n1 w - - 0 1"]
+[PlyCount "14"]
+
+1. Ke3 Bxb7 2. Nd1+ Kc2 3. Rb2+ Kxd1 4. Rd2+ Ke1 5. Re2+ Kf1 6. Rf2+ Ke1 7. Re2+ Ngxe2 $11 (Ncxe2 $144 $11) 1/2-1/2
+
+[Event "tl05#328"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K2b3/8/k5p1/1p6/1P1p4/5N1p/3P1Rp1/7r w - - 0 1"]
+[PlyCount "20"]
+
+1. Ng1 Kb6 2. Rf6+ Bc6 3. d3 h2 4. Rf7 g5 5. Rh7 (5. Rg7 $143 Be8 $19) (5. Re7 $143 Bd5 $19) g4 (Be8 $144 6. Rh6+ Bc6 $11) (hxg1=Q $144 6. Rb7+ $11) 6. Rf7 g3 7. Rh7 hxg1=Q 8. Rb7+ Ka6 9. Ra7+ Kb6 10. Rb7+ Bxb7 $11 1/2-1/2
+
+[Event "L'échiquier de Paris"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "n4k1K/1p2p2p/1P2P3/1p6/3p4/8/NR5p/q6B w - - 0 1"]
+[PlyCount "15"]
+
+1. Rf2+ Ke8 2. Bc6+ bxc6 3. b7 d3+ 4. Rb2 (4. Nc3 $143 Qa7 $19) Qxb2+ 5. Nc3 Qxc3+ 6. Kg8 Qa5 7. b8=Q+ Qd8 8. Qf4 $18 1-0
+
+[Event "Le Soleil de Marseille"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6Pk/8/7P/B6K/8/8/1b6 w - - 0 1"]
+[PlyCount "9"]
+
+1. h6 Ba2 2. Kg5 Bb3 3. Bd7 $1 (3. Bc6 $144 Bd5 4. Bd7 Be6 $18 {loss of time}) Be6 4. Kf6 Bxd7 5. Kf7 $18 1-0
+
+[Event "ts17#312"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K4br/N3P3/5p2/3P4/2k5/1p6/3P4/b2B4 w - - 0 1"]
+[PlyCount "11"]
+
+1. Be2+ (1. e8=Q $143 Be5+ 2. Kc8 Be6+ 3. dxe6 Rxe8+ 4. Kd7 $11 b2 5. Bc2 Rg8 $17) Kc5 2. e8=Q Be5+ 3. d6 $1 Bxd6+ 4. Kb7 Bd5+ 5. Nc6 Rxe8 6. d4# 1-0
+
+[Event "2.p tl11"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5b2/8/3P4/8/8/Bp2k2p/1Pp4P/2K5 w - - 0 1"]
+[PlyCount "17"]
+
+1. d7 $1 Bh6 2. Bf8 $1 Bf4 $1 (Bg5 $144 $2 3. Be7 Bxe7 4. d8=Q Bxd8 $11) 3. Bd6 Bxd6 $1 (Bg5 4. Be7) 4. d8=R $3 $1 (4. d8=Q $143 $2 Bf4 5. Qd2+ Kf3 $19 6. Qxf4+ Kxf4 $19) Bf4 (Bxh2 $144 5. Rd3+ $1 $11 {or Rb8} Kxd3) 5. Rd2 $1 Bg5 $1 (Kf3) 6. Rd5 $1 Kf4 7. Rd2 $1 Bh6 8. Rd6 Kg5 9. Rd2 $1 $11 Kg6 1/2-1/2
+
+[Event "2.p De Barbieri MT L'Italia Scacchistic"]
+[Source "L'Italia Scacchistica/9"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "q7/8/2p5/B2p2pp/5pp1/2N3k1/6P1/7K w - - 0 1"]
+[PlyCount "18"]
+
+1. Ne4+ $1 Kh4 (dxe4 $143 2. Be1#) 2. Ng3 $3 $1 Qf8 (fxg3 $144 3. Bb6 $11) (Kxg3 3. Be1#) 3. Be1 $1 fxg3 4. Bf2 $3 $1 d4 (Qa3 $144 5. Bd4 c5 6. Bxc5 $11) (Qxf2) (gxf2 5. g3+ Kh3) (Qf3 5. Bc5 Qf1+ 6. Bg1 Qf2 (Qxg1+ 7. Kxg1) 7. Bxf2 gxf2 8. g3+ Kxg3) 5. Bxd4 c5 6. Bxc5 Qf1+ (Qxc5) 7. Bg1 Qf2 8. Bxf2 gxf2 9. g3+ Kxg3 $11 1/2-1/2
+
+[Event "4.hm ts61#64"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2K2P2/8/1p1kP3/n5p1/4b3/N7 w - - 0 1"]
+[PlyCount "11"]
+
+1. f7 Bb5+ (g2 $144 2. f8=Q g1=Q 3. Qc5+ $18) 2. Kb6 $1 Nc4+ $1 3. Kc7 g2 4. f8=Q g1=Q 5. Qc5+ $3 Kxc5 6. Nb3# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1911.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "1r6/4P1P1/8/7k/8/7N/8/4K3 w - - 0 1"]
+
+1. Nf4+ (1. Ng5 $4 Kxg5 $19 2. g8=Q+ Rxg8) (1. Nf2 Kg6) Kh6 2. Ne6 (2. Nd5 $2 Kxg7 3. e8=Q) (2. Nh5 Kxh5 3. e8=Q+ Rxe8+ 4. Kd1 Kg5) Re8 3. g8=Q (3. Nd4 $2 Rg8 4. e8=Q $10) (3. Nc7 $2 Rxe7+ 4. Kd1 $10) (3. g8=N+ $2 Rxg8 $4 (Kg6 $5 $10) 4. Nf8 $18) (3. Kf2 $2 Kh7 4. g8=Q+) (3. Nf8 $4 Rxe7+ 4. Kd2 Kxg7 5. Ne6+ Rxe6) (3. Kd2 $2 Kh7 4. g8=Q+) (3. Kf1 $2 Rg8 4. e8=Q) (3. Ke2 $2 Kg6 4. g8=Q+) (3. Kd1 $2 Kg6 4. g8=Q+) Rxg8 4. Nf8 (4. Nd4 $2 Re8 5. Nc6 $10) (4. Nf4 $2 Re8 5. Nh3 $10) (4. Nc7 $2 Rc8 5. e8=Q) (4. Nd8 $2 Re8 5. Nf7+) (4. Kf2 Re8 5. Nd8) (4. Kd2 Re8 5. Nd8) Rg5 $1 5. Ng6 $18 (5. e8=Q $2 Re5+ 6. Qxe5) (5. Ne6 $4 Re5+ 6. Kd1 Rxe6 $19) (5. e8=R $2 Rf5 6. Nh7 $10) (5. Nd7 Rg1+ 6. Ke2 $18) (5. Kf2 $2 Rf5+ 6. Kg2) (5. Nh7 $4 Re5+ 6. Kd1 Kxh7) (5. Kd2 $2 Re5 6. Nd7) (5. Kd1 $2 Re5 6. Nd7) (5. Kf1 $2 Rf5+ 6. Kg1) (5. Ke2 $4 Re5+ 6. Kd2 Rxe7) 1-0
+
+[Event "5.hm L'Italia Scacchistica#142"]
+[Source "L'Italia Scacchistica/3 1921"]
+[Site "?"]
+[Date "1920.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/1p6/1Pp4B/K1P1qN2/P1k1p3/2p5/2P2P2/8 w - - 0 1"]
+
+1. Ne3+ $1 (1. Nd6+ $4 $2 Kd5 2. Nxb7 $10) (1. Nd4 $4 Qxc5+ 2. Nb5 Qb4#) (1. Ne7 Qxc5#) Kd4 $1 2. Bg7 $1 (2. Kb4 $4 Qxc5+ 3. Kb3 Qxb6+ 4. Ka2 Qb2#) (2. Bf8 $4 Qe8 3. Nf5+ Ke5) (2. Nf5+ Qxf5 3. Be3+ Kc4) (2. Ng2 Qxc5#) Kxc5 (Qxg7 3. Nf5+ Ke5 4. Nxg7) 3. Bf8+ $1 (3. Bxe5 $2) (3. f3 Qxg7 4. fxe4 Qf8) (3. Nc4 Qb8 4. Bd4+ Kxc4 5. Bxc3 Qa8#) (3. Ng4 Qxg7) (3. Nd5 Qxd5 4. Bd4+ Kc4+) Kd4+ 4. Kb4 (4. Nd5 $4 Kc4 5. f3 Qxd5+ 6. Bc5 Qxc5#) c5+ 5. Ka3 $1 (5. Kb5 $4 Qe8+ 6. Ka5 Qa8+ $19) (5. Kb3 $4 Qe6+ 6. Ka3 c4 $17 $19) (5. Ka5 $2 c4+ 6. Kb4 $10 Qd6+ $1 7. Bxd6) (5. Bxc5+ $4 Qxc5+ 6. Kb3 Qxb6+ 7. Ka2 Qb2#) Qg5 6. Bg7+ (6. Bh6 $18 Qxh6 7. Nf5+) Qxg7 7. Nf5+ $18 Ke5 8. Nxg7 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "B5k1/6P1/7P/n3K2p/2b4P/8/8/8 w - - 0 1"]
+
+1. Kf6 (1. Bd5+ $2 Bxd5 2. Kxd5 $10) (1. Be4 $2 Kf7 2. Kf5 $10) (1. h7+ $4 Kxg7 2. h8=Q+ Kxh8) (1. Kf5 Kh7 2. Kg5 (2. Be4 $4 Kxh6 3. Bf3) (2. Kf6 $4 Kxh6 3. Be4)) (1. Kd4 $2 Kh7 2. Bd5 $10) (1. Bf3 $2 Kh7 2. Bxh5 Kxh6 3. Bd1) (1. Kd6 Kh7 2. Bd5) Kh7 2. Kg5 (2. Be4+ $4 Kxh6 3. Bd3 $10) (2. Ke7 $4 Nb3 3. Be4+ Kxh6 $10) (2. Bf3 $4 Kxh6 3. Ke7) (2. Kf5 $4 Kxh6 3. Bf3) (2. Ke5 Kxh6 3. Bf3) (2. Bd5 Bxd5 3. g8=Q+ Bxg8) (2. Bg2 Kxh6 3. Be4) Nb7 $1 (Nb3 3. Be4+ Kg8 4. Kf6 $18) 3. Bxb7 (3. Kxh5 $2 Nd6 4. Kg5 $10) (3. Kf6 Nc5 4. g8=Q+) Bd5 4. Bc8 (4. Ba6 Bc4 5. Bc8 $18) (4. Ba8 $2 Bxa8 5. Kxh5 Bf3+ 6. Kg5 $10) (4. g8=Q+ $2 Bxg8 5. Bc6 $10) (4. Bxd5 $2) (4. Kf6 $2 Bxb7 5. Kg5 $10) (4. Kxh5 $2 Bxb7 5. g8=Q+) (4. Bc6 $2 Bxc6 5. Kxh5 Bf3+ 6. Kg5) (4. Kf4 Bxb7 5. Kg5) (4. Kf5 Bxb7 5. Kg5) Be6 $1 5. Kf6 (5. Ba6 Bc4 6. Bc8 Be6 $18) (5. Bb7 Bd5 $18 6. Bc8) (5. g8=Q+ $2 Bxg8 6. Kf4 $10 Kxh6 7. Bd7) (5. Kxh5 $2 Bxc8 6. g8=Q+) (5. Bxe6 $2) (5. Bd7 $2 Bxd7 6. Kxh5) Bxc8 6. Kf7 (6. g8=Q+ $2 Kxg8 7. Kg6) (6. Ke7 $2 Kg8 7. Ke8) (6. Kg5 $2 Bd7 7. Kxh5) Kxh6 7. g8=R (7. g8=Q $2 Be6+ 8. Kxe6) (7. g8=N+ $2 Kh7 8. Nf6+ $10) (7. Kf8 $4 Be6) (7. Ke7 Kxg7) (7. Ke8 Kxg7) (7. Kg8 Be6+ 8. Kf8 Bb3) (7. Kf6 Be6 8. Kxe6 Kxg7 9. Kf5) Bf5 8. Rh8+ Bh7 9. Rd8 Bf5 10. Kf6 Bg6 11. Rh8+ Bh7 12. Ke5 Kg7 13. Rd8 Bg6 14. Kf4 $18 1-0
+
+[Event "L'Univers Illustré"]
+[Source "also La Stratégie#412 La Stratégie/7 1900."]
+[Date "1900.06.09"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5nb1/P6k/5K2/8/1q6/b1R4N/4r3/8 w - - 0 1"]
+
+1. Ng5+ $1 Kh8 2. Rh3+ Nh7+ (Bh7 3. Nf7+ Kg8 4. Nh6+ Kh8 5. Nf7+) 3. Rxh7+ Bxh7 4. a8=Q+ Qf8+ 5. Qxf8+ Bxf8 6. Nf7+ Kg8 7. Nh6+ Kh8 8. Nf7+ Kg8 9. Nh6+ Bxh6 1/2-1/2
+
+[Event "La Stratégie#0385"]
+[Source "La Stratégie/12"]
+[Date "1912.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/N2p4/3p2B1/2pp4/2k2b2/P1P5/5Pp1/1K3N2 w - - 0 1"]
+
+1. Ne3+ $1 Bxe3 2. Kc2 d4 3. Bf7+ d5 4. Bg6 dxc3 5. fxe3 d4 6. Bf7+ d5 7. Bg6 dxe3 8. Bd3+ Kd4 9. Nc6# 1-0
+
+[Event "11.p La Stratégie#0376"]
+[Source "La Stratégie/11"]
+[Date "1912.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5K2/1q1b3p/2N4k/2p3p1/6P1/R7/8/8 w - - 0 1"]
+
+1. Nd8 $1 Qc8 2. Ra6+ Qxa6 (Bc6 3. Rxc6+ Qxc6 4. Nxc6) 3. Nf7+ Kg6 4. Ne5+ Kf6 5. Nxd7+ Ke6 6. Nxc5+ Kd5 7. Nxa6 1/2-1/2
+
+[Event "La Stratégie#0524"]
+[Source "La Stratégie/8"]
+[Date "1915.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K6k/1p5B/6P1/1p6/8/4n3/2P5/8 w - - 0 1"]
+
+1. c3 $1 Nd5 2. Kxb7 (2. Ka7 $2 Nxc3 3. Kb6 b4 4. Ka5 b3 5. Kb4 b2 6. Ka3 b1=Q 7. g7+ Kxg7 $1 (Kxh7 $2 8. g8=Q+ Kxg8) 8. Bxb1 Nxb1+ 9. Kb4 Nd2 10. Kb5 Ne4 11. Kb6 Nd6) Nxc3 3. Ka6 (3. Kc6 {<or>} b4 4. Kc5 b3 5. Kb4) (3. Kb6 {<or >}) b4 4. Ka5 b3 5. Kb4 b2 6. Ka3 b1=Q 7. g7+ Kxh7 8. g8=Q+ Kxg8 1/2-1/2
+
+[Event "4.hm L'Italia Scacchistica#226"]
+[Source "L'Italia Scacchistica/6"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5k1K/5B2/4R2n/8/1bp5/8 w - - 0 1"]
+
+1. Re6+ $1 Kxf5 2. Rc6 c1=Q+ 3. Rxc1 Bxc1+ 4. Kh5 Ng2 (Bg5) 1/2-1/2
+
+[Event "5.hm L'Italia Scacchistica#224"]
+[Source "L'Italia Scacchistica/6"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4N3/p3P3/2K5/4k3/1rP5/3b4/8/8 w - - 0 1"]
+
+1. Nd6 $1 Bg6 (Rb6+ {<main>} 2. Kc5 Bg6 3. Nf7+ Bxf7 4. e8=Q+ Bxe8) 2. Nf7+ Bxf7 3. e8=Q+ Bxe8+ 4. Kc5 Ra4 (Rb1) 1/2-1/2
+
+[Event "L'Italia Scacchistica#266 (pl)"]
+[Source "L'Italia Scacchistica/4 = Troitzky=A e1b5 1923."]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/R7/8/1k6/3p4/8/2rn4/4K3 w - - 0 1"]
+
+1. Kd1 $1 d3 $1 2. Rd7 Kc4 3. Rc7+ Kb3 4. Rxc2 dxc2+ 5. Kc1 Ne4 1/2-1/2
+
+[Event "Vossische Zeitung"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7p/rP3N2/8/8/3k3K/8/4b3 w - - 0 1"]
+
+1. b7 $1 Rb6 2. Nd7 Rh6+ 3. Kg4 $1 (3. Kg2 $2 Rg6+ 4. Kh1 Bg3 5. Ne5+ Bxe5 6. b8=Q Rh6+ $1 (Bxb8 $2)) Rg6+ 4. Kf5 Bg3 5. Ne5+ Bxe5 6. b8=Q Bxb8 1/2-1/2
+
+[Event "Le Soleil de Marseille (c)"]
+[Source "Le Soleil de Marseille/10 (c): Cheron=A Journal de Genève=43 21-2-1956."]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6Pk/8/7P/B3b2K/8/8/8 w - - 0 1"]
+
+1. h6 $1 Bd5 (Bc2 2. Bxc2+ Kxh6 3. g8=N+ $1) 2. Kg5 $1 Bb3 3. Bd7 $1 Be6 4. Kf6 $1 Bxd7 5. Kf7 1-0
+
+[Event "L'Italia Scacchistica#398"]
+[Source "L'Italia Scacchistica/1"]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7N/3bp3/6K1/p5pp/7k/8/Pp3PP1/RB6 w - - 0 1"]
+
+1. Bf5 $1 Bxf5+ $1 2. Kxf5 e6+ 3. Kxe6 $1 bxa1=Q 4. Ng6+ Kg4 5. Ne5+ Kf4 (Qxe5+ 6. Kxe5 h4 7. Ke4) 6. Nd3+ Ke4 7. Nc5+ Kf4 8. Nd3+ Kg4 9. Ne5+ Kh4 10. Ng6+ 1/2-1/2
+
+[Event ".hm Morgenzeitung"]
+[Date "1928.08.19"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k4/1pp5/p4P1p/P1p1KP1P/2P4p/7P/2P5/8 w - - 0 1"]
+
+1. Ke6 $1 Ke8 2. f7+ Kf8 3. Kf6 b6 4. axb6 cxb6 5. Kg6 a5 6. Kxh6 a4 (Kxf7 7. Kg5 a4 8. h6 a3 9. h7 a2 10. h8=Q) 7. Kg6 a3 8. h6 a2 9. h7 a1=Q 10. h8=Q+ $1 Qxh8 11. f6 b5 $1 12. cxb5 c4 13. b6 c3 14. b7 Qxf6+ 15. Kxf6 1/2-1/2
+
+[Event "Le Monde des Échecs#23"]
+[Source "Le Monde des Échecs/6"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6pk/5p1P/1p3PP1/1pq2Q2/ppp5/8/1K6 w - - 0 1"]
+
+1. g6+ $1 Kh8 2. Qb8+ Qg8 3. Qxg8+ Kxg8 4. h7+ Kh8 5. Ka1 b2+ (c2) (a2) 6. Kb1 a2+ (c2+ 7. Kxc2 b3+ 8. Kb1 b4) 7. Kxa2 b3+ 8. Kb1 b4 1/2-1/2
+
+[Event "Le Monde des Échecs#06"]
+[Source "Le Monde des Échecs/3"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r1q1k3/3R4/1K3P2/3RpP2/p2p4/P2P4/4P3/8 w - - 0 1"]
+
+1. f7+ $1 Kf8 2. Rd8+ Qxd8+ 3. Rxd8+ Rxd8 4. Kc7 Rd5 5. Kc6 Ra5 6. Kb6 Ra8 7. Kb7 Rd8 8. Kc7 1/2-1/2
+
+[Event "Le Monde des Échecs#34"]
+[Source "Le Monde des Échecs/9"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7p/5p2/7K/1B5p/8/4Nk2 w - - 0 1"]
+
+1. Nf3 $1 h2 2. Kg3 $1 (2. Nxh2+ $2 Kg2) h1=N+ (h1=Q 3. Bc4#) 3. Kh2 Kf2 (Nf2 4. Bc4+) 4. Ng1 Ng3 5. Nh3+ Kf3 6. Bd1+ Ne2 7. Ng1+ Kf2 8. Bxe2 1-0
+
+[Event "L'Échiquier de Paris#175"]
+[Source "L'Échiquier de Paris/12"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/N1ppk3/pP6/2K4p/PpP5/6b1/4P3/8 w - - 0 1"]
+
+1. Nc6+ $1 dxc6 2. b7 Bf2+ 3. e3 Bxe3+ 4. Kxb4 Ba7 5. c5 h4 6. Ka5 h3 7. Kxa6 Bb8 8. a5 h2 1/2-1/2
+
+[Event "3.p Hinds JT Suomen Shakki"]
+[Source "Suomen Shakki/4"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "Bk1n3q/p7/P1P5/1p6/1P2p3/4P3/1n6/K4Q2 w - - 0 1"]
+
+1. Qf4+ $1 Kxa8 2. Qh4 Qg8 (Qf8 {<main>} 3. c7 Nc6 (Qf1+ 4. Qe1 $1) (Nb7 4. Qf6 $1) 4. Qf6 $1 (4. Qxe4 $2 Qf1+ $1 5. Qb1 (5. Kxb2 Qa1+ 6. Kc2 Qb1+ 7. Kxb1) Qh3) Qe8 5. Qg6) (Qe8 {<main>} 3. c7 Nc6 4. Qg4 $1 Ne7 5. Qxe4+) 3. c7 Nc6 (Qg1+ 4. Qe1) 4. Qxe4 (4. Qf6 $2 Qg1+ $1 5. Ka2 Nxb4+) Qg1+ 5. Qb1 $1 Qxb1+ (Qg4 6. Qh1) (Qg8 6. Qg6 $1) 6. Kxb1 Ne7 7. Kxb2 Nc8 {<eg>} 8. e4 Ne7 9. e5 Nc8 10. e6 Ne7 11. Kc3 Nc8 12. Kd4 Ne7 13. Kc5 Nc8 14. Kxb5 Ne7 15. Kc5 Nc8 16. b5 Nb6 (Ne7 17. b6 axb6+ 18. Kxb6 Nc8+ 19. Kc6 Ne7+ 20. Kd7) 17. e7 Nc8 18. e8=B $1 1-0
+
+[Event "L'Échiquier de Paris#221"]
+[Source "L'Échiquier de Paris/2"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "kB3b2/1p6/1P3KR1/2p5/2P3p1/4p1p1/2P1PpP1/8 w - - 0 1"]
+
+1. Ke6 $1 f1=Q 2. Rf6 Qxf6+ (Qh1 3. Rxf8 Qh6+ 4. Rf6) (Qxe2 3. Rxf8) (Qb1 3. Bc7 Bg7 4. Rg6 Qb2 5. Kf7) 3. Kxf6 Kxb8 4. Kf7 Bh6 5. Kg6 Bf4 6. Kf5 Bd6 7. Ke6 Bf8 8. Kf7 1-0
+
+[Event "L'Échiquier de Paris#276"]
+[Source "L'Échiquier de Paris/12"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3k4/8/pR6/Kp6/p1p5/4N3 w - - 0 1"]
+
+1. Rd4+ $1 Kc5 2. Nxc2 bxc2 3. Kxa2 c1=Q 4. Rd5+ Kxd5 1/2-1/2
+
+[Event "L'Échiquier de Paris#274"]
+[Source "L'Échiquier de Paris/12"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/2pp2pp/P4p2/2PP2PP/3pp1Kp/8/8/8 w - - 0 1"]
+
+1. c6 $1 dxc6 2. d6 cxd6 3. h6 f5+ 4. Kf4 gxh6 5. g6 hxg6 6. a7+ Kb7 7. a8=Q+ Kxa8 1/2-1/2
+
+[Event "L'Échiquier de Paris#229"]
+[Source "L'Échiquier de Paris/4"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/8/8/5P1p/Pp2p3/4P3/8/5K2 w - - 0 1"]
+
+1. Ke2 $1 (1. Ke1 $2 h4 $1) b3 (h4 2. a5) 2. Kd2 (2. Kd1 $2 h4) b2 3. Kc2 b1=Q+ 4. Kxb1 h4 5. a5 h3 6. a6 h2 7. a7 h1=Q+ 8. Ka2 Qh2+ 9. Kb3 1/2-1/2
+
+[Event "3.p Problemas {SEPA}"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/6R1/1p3pB1/1K6/pp6/1k5N w - - 0 1"]
+
+1. Bf5+ $1 Ka1 $1 2. Bb1 axb1=N 3. Rg1 f3 4. Ng3 f2 5. Rh1 f1=Q 6. Nxf1 Na3 7. Nd2+ b1=Q+ 8. Nxb1 Nxb1 9. Rh2 1-0
+
+[Event "L'Échiquier de Paris#248"]
+[Source "L'Échiquier de Paris/10"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k1N3/8/P7/P7/8/K1p4p/4n2P/1b6 w - - 0 1"]
+
+1. a7 $1 Kb7 2. Nc7 Kxa7 3. Nb5+ Ka6 4. Nxc3 Nxc3 5. Kb2 Ne2 6. Kxb1 Nd4 7. Kc1 Nf3 8. Kd1 Nxh2 9. Ke2 Ng4 10. Kf3 Kxa5 11. Kg3 h2 12. Kg2 1/2-1/2
+
+[Event "L'Échiquier de Paris#327"]
+[Source "L'Échiquier de Paris/1-2"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p6p/2k4K/p7/P7/R7/1p6/N7 w - - 0 1"]
+
+1. Rc3+ $1 Kb6 2. Rb3+ Ka6 3. Nc2 b1=Q 4. Nb4+ axb4 5. Rxb1 Ka5 6. Kg5 Kxa4 7. Kf4 Ka3 8. Ke3 b3 9. Kd2 1-0
+
+[Event "L'Échiquier de Paris#332"]
+[Source "L'Échiquier de Paris/1-2"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3Kp3/3P4/3k1n2/2pp2pP/4P3/2PP3P/8 w - - 0 1"]
+
+1. e4+ $1 Kxe4 2. dxe7 Nxe7 3. Kxe7 d3 4. cxd3+ Kxd3 5. h5 Kxd2 6. h6 c3 7. h7 c2 8. h8=Q c1=Q 9. Qh6+ Kd1 10. Qxc1+ Kxc1 11. Kf6 1-0
+
+[Event "Sachové Umenie#146"]
+[Source "also L'Échiquier de France#119 1958."]
+[Date "1949.02.20"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/1N6/4qP2/4p1P1/3k4/R2P4/3K4 w - - 0 1"]
+
+1. Ra3+ $1 Kd4 2. Ra4+ Kd3 3. Nc4 Qb8 (Qd4 4. Ra3+ Kxc4 5. Ra4+ Kc5 6. Rxd4 Kxd4 7. Ke2 Kd5 (Ke5 8. Ke3) 8. g5 Ke5 9. f6 gxf6 10. g6 Ke6 11. Ke3 f5 12. Kf4 Kf6 13. g7 Kxg7 14. Kxf5 Kf7 15. Kxe4) (Qf6 4. g5 Qd4 5. Ra3+ Kxc4 6. Ra4+ Kd5 7. Rxd4+ Kxd4 8. f6) (Qb5 4. Rb4) 4. Rb4 Qxb4 5. Ne5+ Kd4 6. Nc6+ Kc4 7. Nxb4 1-0
+
+[Event "L'Échiquier de France#109 (ph)"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Lazard, Frédéric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4K1R1/8/6P1/4k1P1/5r2/4p3/8 w - - 0 1"]
+
+1. Ke8 $1 Re3 2. Re7+ Kf4 3. Rxe3 Kxe3 4. g6 e1=Q 5. g7 Kd4+ (Kf4+ 6. Kf7) 6. Kd7 1/2-1/2

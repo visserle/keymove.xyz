@@ -1,0 +1,25 @@
+[Event "Shakhmaty v SSSR"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Kiselev, V"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3B4/6p1/5P1k/r3p3/6Kp/5p2/7P/8 w - - 0 1"]
+
+1. f7 $1 Ra4+ 2. Kh3 $1 Rf4 3. Bg5+ $1 Kxg5 4. f8=Q $1 Rxf8 1/2-1/2
+
+[Event "Molodoj Leninets (Kurgan)"]
+[Date "1984.12.18"]
+[Round "?"]
+[Composer "Kiselev, V"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/p1p4p/k6P/p1K5/8/PP5P/8 w - - 0 1"]
+
+1. Kc5 $1 a3 2. b4+ Ka4 3. h3 a5 4. b5 cxb5 5. h4 b4 6. Kc4 b3 7. axb3# 1-0

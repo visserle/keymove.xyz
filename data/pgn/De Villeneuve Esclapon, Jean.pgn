@@ -1,0 +1,156 @@
+[Event "tl03"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[Composer "De Villeneuve Esclapon, Jean"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1qn5/3p3k/6p1/8/6P1/3P3K/2p5/Q1B5 w - - 0 1"]
+[PlyCount "19"]
+
+1. Bh6 Kxh6 2. Qh8+ Kg5 3. Qh4+ Kf4 4. Qg3+ Kg5 5. Qxb8 c1=Q 6. Qe5+ Kh6 7. Qh8+ Kg5 8. Qh4+ Kf4 9. Qf6+ Ke3 10. Qg5+ $18 1-0
+
+[Event "3.p tl08"]
+[Site "?"]
+[Date "1917.??.??"]
+[Round "?"]
+[Composer "De Villeneuve Esclapon, Jean"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/1B2p2K/1P5p/6r1/8/7b/7k/2R5 w - - 0 1"]
+[PlyCount "13"]
+
+1. Rh1+ (1. Ba6 $2 Bf5+ 2. Kh8 $10) (1. Bc6 $6 Bc8 2. Kxh6 $14) (1. Rc2+ $6 Kg1 2. Rc1+ $14) (1. Bc8 $2 Bxc8 2. Rxc8 $10) (1. Kxh6 $2 Rb5 2. Rc2+ $10) (1. Rc5 Rxc5) (1. Rg1 Rxg1) Kg3 2. Rxh3+ (2. Rg1+ $2 Kf4 3. Rxg5 hxg5 4. Kh6 $10) (2. Bc6 $2 Bf5+ 3. Kh8 $10) (2. Be4 $2 Bc8 3. Rc1) (2. Bf3 Rb5 3. Be4 Rxb6) (2. Rf1 Bxf1 3. Kxh6 Rb5) Kxh3 3. Bc6 (3. Bc8+ $4 Kh4 4. Kxh6 Rb5 $19) (3. Kxh6 $4 Rb5 4. Bc8+ Kg3 $19) (3. Bg2+ $4 Rxg2 4. Kxh6 e5 $19 5. b7 Rg8) (3. Ba6 $2 Rd5 4. b7 $10) (3. Be4 $4 Rb5 4. Kxh6 Rxb6+ 5. Kg5 Rf6) (3. Ba8 $4 Rb5 4. Kxh6 Kg3 5. Bh1 Rxb6+ 6. Kg5 Rb5+) (3. Bh1 $4 Rb5 4. Kxh6 Rxb6+ 5. Kh5 e5) (3. Bf3 Rb5 4. Kxh6 Rxb6+ 5. Kg7 Kg3) Rg3 4. Bd5 (4. Ba8 Rb3 5. Kxh6 Rxb6+ 6. Kg5 Kg3) Rg1 5. Be4 (5. Be6+ $4 Kg3 6. Kxh6 Kf4) (5. b7 $4 Rb1 6. Be6+ Kg3 $19) (5. Kxh6 $4 Kg4 6. Be6+ Kf4) (5. Ba2 $4 Rg2 6. Be6+ Kg3) (5. Bb3 $4 Rb1 6. Be6+ Kg3) (5. Bg2+ $4 Rxg2 6. Kxh6 Rg6+ 7. Kxg6) (5. Bc4 Rg7+ 6. Kxg7) Rg3 6. Bc2 (6. Bd5 Rg1 $18 7. Be4) (6. Bd3 Rxd3) (6. Bg2+ Kxg2 7. Kxh6 e5) (6. Bb1 Rb3 7. Bf5+ Kg3) Rg5 (Rg2 7. b7 Rxc2 8. b8=Q $18) (Rf3 7. b7 (7. Kg7 $4 Rf6 $19 8. Bf5+ Rxf5 9. Kxh6 Rh5+ 10. Kxh5) (7. Kg8 $4 Rf4 $19 8. Bf5+ Rxf5) (7. Be4 $4 Rb3 8. Kxh6 Rxb6+ 9. Kh5 Rf6 10. Bg2+ Kxg2) (7. Ba4 $4 Rf6 8. Bd7+ Kg3) (7. Bd1 $4 Rf6) (7. Kxh6 Kh4 8. b7 Rf6+) (7. Kg6 Rf6+ 8. Kg7 Rxb6) (7. Bf5+ Rxf5 8. Kxh6 Rh5+ 9. Kxh5) Rf8 8. Bf5+ (8. Kg7 $4 Rb8 9. Kxh6 Rxb7 10. Bf5+ Kh4) (8. Kxh6 $4 Kg4 $19 9. Bf5+ Kxf5) (8. Bd1 $4 Kg3 9. Kxh6 e5) (8. Be4 $4 Rb8) Kh4 9. Bc8 $18 (9. Bg6 $4 Rb8 $19 10. Kxh6 Rxb7) (9. Kxh6 $4 Rf6+ 10. Kg7 Rb6 $19 11. b8=Q Rxb8) (9. Bd7 $4 Rb8 $19 10. Kxh6 Rxb7) (9. Kg6 $4 Rf6+ 10. Kg7 Rb6) (9. Be6 $4 Rb8 10. Kxh6 Rxb7) (9. Be4 $4 Kg5) (9. Kg7 $4 Rb8)) 7. Bd3 (7. b7 $4 Rb5 8. Kxh6 Rxb7 9. Bf5+ Kh4) (7. Be4 $4 Rb5 8. Kxh6 Rxb6+ 9. Kh5 Rf6 10. Bg2+ Kxg2) (7. Bd1 $4 Rb5 8. Kxh6 Rxb6+ 9. Kh5 Rf6 $19) (7. Bf5+ $4 Rxf5 8. Kxh6 Rb5 $19 9. Kg6 Kg3) (7. Ba4 $4 Rg2 8. Kxh6 Kg4 9. Bd7+ Kf4) (7. Bb3 $4 Rb5 8. Be6+ Kg3) (7. Kxh6 $4 Rb5) (7. Bg6 Rb5) Rg3 (Rd5 8. b7 Rd8 9. Bf5+ Kh4 10. Bc8 $18) 8. b7 (8. Bc4 $18 Rg7+ 9. Kxg7) (8. Bc2 Rg5 9. Bd3 Rg3 $18) (8. Be4 $4 Rb3 9. Kxh6 Rxb6+ 10. Kh5 Rf6 11. Bg2+ Kxg2) (8. Bf5+ $4 Kh4 9. Kxh6 Rb3) (8. Bf1+ $4 Kg4 9. Be2+ Kg5) (8. Be2 Rb3 9. Kxh6 Rxb6+ 10. Kh5 e5) Rxd3 9. b8=Q $18 1-0
+
+[Event "Schweizerische Schachzeitung 1923, 1er "]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "De Villeneuve Esclapon, Jean"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/k5Br/7P/8/3n2K1/8/1b6/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. Kh5 (1. Kg5 $143 Ne6+ 2. Kg6 Rxg7+ $19) Nf5 (Ne6 $144 2. Bxb2 Rb7 3. Ba3 $1 {Le seul coup} Rb3 $1 4. Kg4 $1 $11 {Le seul coup} (4. h7 $143 Rg3 $1 $19 5. Kh4 $1 Rg1 $1) (4. Be7 $143 Rh3+ {par exemple} 5. Bh4 Nf8 $1 6. Kg4 Rh1 7. Bg5 Kb7 8. Kf5 Kc6 9. Ke4 Kd6 10. Bf4+ Ke6 11. Bg5 Rh5 12. Kf4 Nh7 $19)) 2. Bxb2 Rxh6+ 3. Kg5 Rh2 4. Be5 Rf2 5. Bf4 Nd4 6. Be3 Rf5+ 7. Kg4 Rd5 8. Kf4 Kb6 9. Ke4 Kc5 10. Kd3 $11 1/2-1/2
+
+[Event ".c Rigaer Tageblatt"]
+[Date "1909.??.??"]
+[Round "?"]
+[Composer "De Villeneuve Esclapon, Jean"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/n1P2P2/8/2K2N2/8/2p2b2/4k3 w - - 0 1"]
+
+1. Nd3+ $1 Kd2 2. f7 Bc5 $1 3. c7 Nxc7 4. Kxc5 Kxd3 5. Kd6 c1=Q 6. f8=Q Qa3+ 7. Ke5 Qxf8 1/2-1/2
+
+[Event "La Stratégie#0128"]
+[Source "La Stratégie/8"]
+[Date "1910.??.??"]
+[Round "?"]
+[Composer "De Villeneuve Esclapon, Jean"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3P4/2K5/3B3r/2N3k1/8/1n2r3 w - - 0 1"]
+
+1. d7 $1 Rxd4 $1 2. Kxd4 Nxc3 3. d8=Q Rd1+ 4. Ke3 Nd5+ (Rxd8) 5. Ke2 Nc3+ 6. Ke3 Rxd8 1/2-1/2
+
+[Event "La Stratégie#0212"]
+[Source "La Stratégie/7"]
+[Date "1911.??.??"]
+[Round "?"]
+[Composer "De Villeneuve Esclapon, Jean"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1q6/2p5/1p6/5N2/pP2k3/8/5Q2/4K3 w - - 0 1"]
+
+1. Ne7 $1 Kd3 (Qd8 {<main>} 2. Qf5+ Ke3 3. Qh3+ Kf4 4. Ng6+ Ke4 5. Qg4+ Ke3 6. Qe2+ Kd4 7. Qd2+) (b5 2. Ke2 Qb6 3. Qf5+ Kd4 4. Qf4+ Kc3 5. Nd5+ Kb3 6. Nxb6) (Qh8 2. Qe2+) 2. Qd2+ Kc4 3. Qc2+ Kb5 4. Qd3+ Kxb4 5. Nc6+ Kc5 6. Nxb8 1-0
+
+[Event "La Stratégie#0512"]
+[Source "La Stratégie/5"]
+[Date "1915.??.??"]
+[Round "?"]
+[Composer "De Villeneuve Esclapon, Jean"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3B4/q7/p2p1N2/3Pk3/4P3/3P2P1/K7/8 w - - 0 1"]
+
+1. Bb6 $1 Qg7 2. Be3 Qxf6 (a5 3. Ka3 a4 4. Ka2 a3 5. Kxa3) (Qxg3 3. Nd7#) (Qb7 3. Ng4#) 3. Bc1 Kd4 (Qf2+ 4. Bb2+) 4. Bb2+ Kxd3 5. Bxf6 Kxe4 6. g4 Kxd5 7. Bg5 Ke4 8. Bc1 1-0
+
+[Event "La Stratégie#0542"]
+[Source "La Stratégie/12"]
+[Date "1915.??.??"]
+[Round "?"]
+[Composer "De Villeneuve Esclapon, Jean"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6kr/2n1P2p/4pKpP/8/4B3/1P6/1pN5/1b6 w - - 0 1"]
+
+1. Bd3 $1 Ba2 2. Bc4 Ne8+ 3. Kxe6 Bxb3 4. Bxb3 b1=Q 5. Bc4 Qxc2 6. Ke5+ Qxc4 1/2-1/2
+
+[Event "La Stratégie#0990"]
+[Source "La Stratégie/2"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "De Villeneuve Esclapon, Jean"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k3K/5R2/8/Np6/8/8/1pr1N3/8 w - - 0 1"]
+
+1. Nb7+ $1 Kc8 2. Nd6+ Kb8 3. Nc3 Rxc3 (b4 4. Rb7+ Ka8 5. Nd5 Rc6 6. Rxb4 Rxd6 (Ka7 7. Nb5+ Ka8 8. Nbc7+ Ka7 9. Rxb2) 7. Nc7+ Ka7 8. Nb5+) 4. Rf8+ Rc8 5. Rxc8+ Ka7 6. Nxb5+ Kb7 7. Nd6+ Ka7 8. Rc7+ Ka6 9. Rb7 1-0
+
+[Event "L'Échiquier#017 (c)"]
+[Source "L'Échiquier/4 (c): Garcia=M Estudios Artisticos de Ajedrez - XII-27 2012."]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "De Villeneuve Esclapon, Jean"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/p7/2P5/8/7B/5r2/2Bk4/8 w - - 0 1"]
+
+1. Bf5 $1 (1. Bh7 $2 Rf8+ 2. Kg7 Rc8 $1 3. Be4 Ke3 4. Bg2 Kd4 5. Bf2+ Kc4 6. Kf7 Kb5 7. Bh3 Rxc6 8. Bd7 a5) Rxf5 2. Be7 Rh5+ 3. Kg8 Re5 4. c7 Rxe7 5. c8=Q 1-0
+
+[Event "2.p Pelayos ty"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "De Villeneuve Esclapon, Jean"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/7k/1P2n3/8/6P1/1R2Kb2 w - - 0 1"]
+
+1. g4+ $1 Kxg4 2. Kxf1 Nd2+ 3. Kg2 $1 Nxb1 4. b5 Nc3 5. b6 Na4 6. b7 1-0

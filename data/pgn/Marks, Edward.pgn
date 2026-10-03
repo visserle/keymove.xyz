@@ -1,0 +1,25 @@
+[Event "Croydon Guardian"]
+[Date "1884.??.??"]
+[Round "?"]
+[Composer "Marks, Edward"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5q2/8/2R5/3Rn1p1/5k2/5p2/5K2 w - - 0 1"]
+
+1. Rd3+ $1 (1. Rf5+ $2 Qxf5 2. Rd3+ Kf4 3. Rf3+ Ke5 $1) Kf4 2. Rf3+ gxf3 3. Rf5+ Ke3 $1 (Qxf5) (Kg3 4. Rxf3+) 4. Rxf3+ $1 Qxf3 (Kxf3) 1/2-1/2
+
+[Event "Croydon Guardian"]
+[Date "1884.11.19"]
+[Round "?"]
+[Composer "Marks, Edward"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3N4/8/8/1pPp1p2/2b1k3/8/5P2/4K3 w - - 0 1"]
+
+1. c6 $1 b4 2. Nb7 $1 Ba6 (Bb5 3. Nd6+) (d4 3. c7 Be6 4. Nc5+) (b3 3. Kd2) 3. Nc5+ Ke5 4. Nxa6 Kd6 5. Nxb4 1-0

@@ -1,0 +1,13 @@
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/10"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Khachikov, A"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k1N1/2K5/pP6/p7/8/r2P4/8/8 w - - 0 1"]
+
+1. Nf6+ $1 (1. b7 $2 Rc3+) Ke7 (Kf7 2. Nd5 Rb3 3. b7 Rxb7+ 4. Kxb7 Ke6 5. Kc6 Ke5 6. Kc5) 2. Nd5+ Ke6 3. b7 Rb3 4. Nb6 Rc3+ 5. Kd8 (5. Nc4 $2 Rb3 $1 6. Nxa5 Rxb7+) (5. Kb8 $2 Rc6 $1 6. Nc4 (6. Na4 Rc1) (6. Ka7 Rc7) Rc5) Rxd3+ 6. Ke8 Rh3 7. Nd7 Rb3 8. Nc5+ Kd6 9. Nxb3 Kc7 10. Nxa5 1-0

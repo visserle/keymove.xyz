@@ -1,0 +1,557 @@
+[Event "t001"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/p7/P5Pp/K4P1P/3p3P/3P4/ppBN1b2/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. Bb1 $1 (1. Nb1 $143 a1=Q+ 2. Kb5 Qa2 $19) (1. g7 $143 a1=Q+ 2. Kb5 Qg1 3. f6 $11) a1=Q+ 2. Kb5 Bg3 (Qa3 $144 3. g7 $18) 3. g7 Bb8 $1 4. g8=B $3 (4. g8=Q $143 Qa4+ 5. Kxa4 $11 {pat}) Bf4 5. Bga2 Bxd2 (Be5 $144 6. Ne4 Kb8 7. Kc6 Bg7 (Kc8 $144 8. f6 Kd8 9. Kb7 $18) 8. f6 Bf8 9. Nd6 $1 Qxb1 10. Bxb1 Ka8 11. Kc7 Be7 12. Kc8 Bd8 13. Ba2 b1=Q 14. Bd5+ Qb7+ 15. axb7#) 6. f6 $1 Bf4 7. f7 Bd6 8. Kc6 Bf8 9. Kc7 1-0
+
+[Event "t001"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3qB1p1/p1pppn2/k7/3NPR1P/1P2P3/P1K5/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. Bd8+ Kb4 (Qxd8 2. Nxc6+) 2. a3+ Kc5 (Kxa3 3. Ba5 e5 4. Rf1 Ka2 5. Bc3) 3. Rxf6 gxf6 4. Kc3 d5 5. e5 fxe5 6. Bc7 exd4+ (Qxc7 7. Nxe6+) 7. exd4+ Kb5 8. a4# 1-0
+
+[Event "4.p ts23"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r7/4p3/7K/p4p1P/6pk/5Pp1/PB4P1/8 w - - 0 1"]
+[PlyCount "18"]
+
+1. Bf6+ exf6 2. f4 Rh8+ 3. Kg7 $1 (3. Kg6 $2 Rxh5 4. Kg7 Rg5+ 5. Kh8 (5. Kh7 a4 6. a3 (6. Kh8 a3 7. Kh7 Kh5) Kh5 7. Kh8 Kg6 $1) Kh5 6. Kh7 Rg6 7. a3 Rh6+ 8. Kg7 a4) Rxh5 4. a4 Rg5+ 5. Kh8 $1 (5. Kh7 $2 Kh5) Rg6 6. Kh7 Kh5 7. Kh8 Rh6+ 8. Kg7 Rg6+ 9. Kh8 Kh6 1/2-1/2
+
+[Event "ts23"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2B2pPb/7k/4K3/3p2P1/8/8/8 w - - 0 1"]
+[PlyCount "21"]
+
+1. g8=N+ (1. g8=Q $2 f6+) Bxg8 2. Kf6 Kh7 3. g5 d3 4. Bf4 (4. Ba5 $2 Kh8 5. Bc3 Kh7) Kh8 5. Be5 Kh7 6. Bc3 d2 7. Bxd2 Kh8 8. Bc3 Kh7 9. Bb2 Kh8 10. g6 fxg6 11. Kxg6# 1-0
+
+[Event "Dubai 1997"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r2bk3/7p/p1P1K2P/6P1/p7/8/7B/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. g6 hxg6 (Bb6 $144 2. Bb8 $18 (2. g7 $143 {O-O-O Bd6 Rg8 Kf7} Be3 $11)) 2. h7 Bf6 3. Bb8 Rxb8 4. Kxf6 Kd8 5. h8=Q+ Kc7 6. Qh7+ $18 {This was comp osed at the Dubai Olympiad, where for the first time Smyslov was present neither as participant nor trainer. He helped Bob Wade produce the daily bulletin - and had time to compose.} 1-0
+
+[Event "sp.hm ts21"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/kp4K1/1N6/1P6/8/6N1/1p6/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. Nd5 $1 b1=Q 2. b6+ Ka6 (Kb8 3. Nh5 $1) 3. Ne2 $1 {The pair of drawing S-manoeuvres constitute an original echo.} 1/2-1/2
+
+[Event "sp.p ts21"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/p1b4p/P3P1pP/4p1P1/4P2K/8/6pp/2N3N1 w - - 0 1"]
+[PlyCount "17"]
+
+1. e7 Bb8 $1 (hxg1=Q 2. e8=Q+ Bb8 3. Qc6#) 2. Nce2 $1 (2. e8=Q $2 h1=Q+ 3. Kg3 Qh4+ 4. Kxh4) h1=Q+ 3. Kg3 $1 Qh5 4. Nf3 Qh1 5. Neg1 Qh5 6. Nh3 $1 g1=Q+ 7. Nhxg1 Qh1 8. e8=N $1 Qh5 9. Nh3 {"The seventh world champion returns to his first love, the composition of studies. The Q-domination by minor pieces is one of his favourite themes, shown here finally with a targeted bishop."} 1-0
+
+[Event "wm03"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/B7/1p4p1/4pp1p/pPP4k/4P2P/p4PK1/5N2 w - - 0 1"]
+[PlyCount "19"]
+
+1. Bb8 $1 (1. Bxb6 $2 Kg5) (1. Nd2 $2 Kg5) a1=Q 2. Bxe5 $1 Qxe5 3. Nd2 Qe4+ (Kg5 4. f4+) 4. Nxe4 fxe4 5. c5 bxc5 6. b5 a3 7. b6 a2 8. b7 a1=Q 9. b8=Q Kg5 10. Qf4# 1-0
+
+[Event "ts21"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/6p1/1K2P1P1/P7/1N4k1/1ppB4/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. Bc1 b1=Q 2. Kb4 a5+ (Qa2 3. a5) 3. Ka3 Kf3 4. e6 Ke2 5. e7 Kd1 6. e8=B $1 (6. e8=Q $2 Qa2+ 7. Kxa2) 1-0
+
+[Event "tn21"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K1k/2p3pp/4p3/2p2p1P/2p5/6P1/8/3N4 w - - 0 1"]
+[PlyCount "13"]
+
+1. Ne3 c3 2. h6 gxh6 3. g4 c2 (fxg4 4. Nxg4 h5 5. Nh6) 4. Nc4 h5 5. g5 c1=Q 6. Ne5 h6 7. g6 1-0
+
+[Event "tn21"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/6Pp/1K5p/1N5k/1pp1N2P/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. Nec1 b1=Q 2. Kc3 Kg4 3. g6 h3 4. g7 Kh4 5. g8=B (5. g8=Q $2 Qb2+ 6. Kxb2) Kg4 6. Bh7 Kf3 (Kf4 7. Bxc2 Qxc2+ 8. Kxc2 Ke3 9. Nd2 Kf2 10. Kd3 Kg2 11. Ke2 h4 (Kxh2 12. Kf2 h4 13. Nf1+ Kh1 14. Ne2 h2 15. Nfg3+ hxg3+ 16. Nxg3#) 12. Ke1 Kg1 13. Nf3+ Kg2 14. Nxh4+ Kxh2 15. Kf2 Kh1 16. Ne2 Kh2 17. Nf3+ Kh1 18. Ng3#) 7. Nd2+ (7. Bxc2 $2 Qxc2+ 8. Kxc2 Kg2) 1-0
+
+[Event "tn21"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/ppp5/1k1n4/3P3p/PP6/K4P2/2B5 w - - 0 1"]
+[PlyCount "15"]
+
+1. a4+ Ka5 2. Bd2+ Nb4+ 3. Ka3 c5 4. Bf4 Nd5 (cxd4 5. Bd2 b5 6. Bxb4+ Kb6 7. axb5 axb5 8. f3 $1) 5. Bg5 h3 6. Bd8 c4 (cxd4 7. Be7) 7. Bg5 c3 (Nb4 8. Bd2 b5 9. Bxb4+ Kb6 10. Bd6 Kc6 11. Be5 cxb3 12. Kxb3 bxa4+ 13. Kxa4 Kd5 14. Ka5 h5 15. Kxa6 h4 16. Kb5 h2 17. Bxh2 Kxd4 18. f4 Ke4 19. Kc5 Kf5 20. Kd4 Kg4 21. Ke3 Kh3 22. f5 Kxh2 23. f6 h3 24. f7 Kg2 25. f8=Q h2 26. Qf3+ Kg1 27. Qf2+ Kh1 28. Qf1#) 8. Be7 1-0
+
+[Event "ts21"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r2k4/8/8/1P4p1/8/p5P1/6P1/1R3K2 w - - 0 1"]
+[PlyCount "14"]
+
+1. b6 $1 (1. Ke2 $2 Kc7 $1 (a2 2. Ra1 Ra3 (Kc7 3. Kd3 Kb6 4. Ke4 $1 (4. Kc4 $2 g4 $1) Ra5 5. Kf5 Rxb5+ 6. Kg4 Ra5 7. Kh5) 3. Kd1 Kc7 4. Kc1 $1 (4. Kc2 $2 Rxg3) Kb6 5. Kb2 Ra5 6. Rxa2) 2. Kd3 Kb6 3. Kc4 (3. Ke4 Ra5 $1) g4 $1 4. Kd4 a2 5. Ra1 Kxb5 6. Ke4 Kb4 7. Kf4 Kb3 8. Kxg4 Kb2 9. Rxa2+ Kxa2) a2 2. Ra1 Kc8 3. g4 Kb7 4. g3 Kxb6 5. Kg2 Kb5 6. Kh3 Kb4 7. Rxa2 Rxa2 1/2-1/2
+
+[Event "tn21"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5R2/r7/8/6P1/8/3k4/pP4K1/3B4 w - - 0 1"]
+[PlyCount "11"]
+
+1. Bh5 a1=Q 2. Bg6+ Kc4 (Kd4 3. Rf4+) 3. Rf4+ Kb3 4. Rf3+ Ka2 (Kxb2 5. Rf2+ Kc3 6. Rf3+) 5. Rf1 Qxb2+ 6. Rf2 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7k/1p2qB1p/2p5/2P4p/8/3P4/6RK w - - 0 1"]
+[PlyCount "23"]
+
+1. Rg7+ Kh8 2. Ba1 Qe4+ 3. Kh2 Qc2 (Qf4+ $144 4. Kg1 $18) 4. Rg2+ Kh7 5. d3 Qb3 6. Rg7+ Kh8 7. Kh3 (7. Bf6 $143 h5 8. Kh3 Qb4 9. Ba1 b5 10. cxb5 c4 11. dxc4 Qc3+ 12. Bxc3 $11) Qb4 8. Rg1+ Kh7 9. Kxh4 h5 10. Kxh5 Qb3 11. Rg7+ Kh8 12. Kh6 $18 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3pk3/4p1bB/4Pp2/p4Pp1/6P1/3P1K1P/8 w - - 0 1"]
+[PlyCount "8"]
+
+1. Bg5+ Ke8 (Kf7 $144 2. Bd8 a3 3. Bb6 a2 4. Bd4 $11) 2. d4 a3 3. d5 a2 4. d6 a1=Q $11 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "KB1b4/4p3/B1R2p2/p5p1/7p/3p3k/3p4/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. Rc2 dxc2 (d1=Q $143 2. Bc8+ e6 3. Bxe6+ f5 4. Bxf5+ g4 5. Rh2#) 2. Bf1+ Kg4 3. Be2+ Kf5 4. Bd3+ Ke6 5. Bc4+ Kd7 6. Bb5+ Kc8 7. Ba6+ $11 1/2-1/2
+
+[Event "t001"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1r3k2/5p2/p1P1b1p1/2p5/2p1PP2/8/P7/2KR1B2 w - - 0 1"]
+[PlyCount "21"]
+
+1. f5 gxf5 2. Bh3 Re8 3. exf5 Bc8 4. f6 Bxh3 5. c7 c3 6. Rd8 Bf5 7. a4 a5 8. Kd1 c2+ 9. Kc1 c4 10. Kd2 c3+ 11. Kc1 1-0
+
+[Event "tp18"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5P2/8/2k2p1p/2B1p2P/6P1/2b2K2 w - - 0 1"]
+[PlyCount "17"]
+
+1. f7 Ba3 2. Bg7 (2. Bf6 $2 Kd3 3. Bxh4 Bc5 $1) f3 $1 3. gxf3 (3. f8=Q $2 Bxf8 4. Bxf8 e2+ 5. Kf2 fxg2) Kd3 4. f8=B $3 (4. f8=Q $2 e2+ 5. Kf2 Bc5+ 6. Qxc5 e1=Q+ 7. Kxe1) e2+ 5. Kf2 e1=Q+ 6. Kxe1 Ke3 7. f4 $1 (7. Bxa3 $2 Kxf3) Kxf4 8. Kf2 Bc1 9. Bh6+ 1-0
+
+[Event "1.c ob01"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/1p2B2p/1P2K1p1/3p3P/8/4b1P1/1pP2N2/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. Kf7 Bd4 2. h6 b1=Q 3. Bf8 Qa1 4. Nd1 Be5 5. g4 Qd4 6. Ne3 Qf4+ 7. Nf5 gxf5 8. Bg7+ Bxg7 9. hxg7# 1-0
+
+[Event "5.hm ts23"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/1P3kp1/5PN1/6PK/3p4/p2n4/3B3b/8 w - - 0 1"]
+[PlyCount "14"]
+
+1. Nh8+ (1. Nf4 $2 Nxf4+ 2. Kg4 Nd3 $19) (1. Ne5+ $2 Bxe5 2. g6+ Kxf6 $19) (1. Bf4 $2 Nxf4+ 2. Kg4 Nxg6 3. fxg7 Kxg7 $19) (1. Ne7 $2 a2 2. fxg7 Kxg7 3. Nf5+ Kf8 $19) (1. b8=Q $2 Bxb8 2. Nh8+ Kg8 $19) (1. Nh4 $2 a2 2. g6+ Kxf6 3. Bg5+ Ke6) (1. Nf8 Kxf8) (1. Kh4 Kxg6) Kf8 (Kg8 (Kf8 2. Ng6+ Ke8 3. fxg7 Kf7 4. Kh6) 2. f7+ Kf8 3. Kg6 $1 a2 $1 4. Kh7 a1=Q (g6 5. Nxg6+ Kxf7 6. Nf4) 5. g6 Qh1 6. Bh6 Bf4 7. b8=Q+ Bxb8) 2. Ng6+ (2. Kg6 gxf6 3. Kh7 fxg5 4. Ng6+ $14 $16) (2. Kg4 $10 a2 3. Ng6+) (2. g6 $2 a2 3. fxg7+ $2 (3. f7 $5 a1=Q $19) Kxg7 $19 4. Bh6+ Kxh8 5. g7+ Kg8) (2. Bb4+ $2 Nxb4 $19 3. Ng6+ Kf7) (2. b8=Q+ $2 Bxb8 3. Ng6+ Kf7 $19) (2. f7 $2 a2 3. Ng6+ (3. g6 $5 a1=Q $19) Kxf7 4. Nh8+ Ke8 $19) (2. Nf7 $2 Kxf7 3. fxg7 a2 4. g6+ Kxg7 5. Bh6+ Kg8) (2. Be3 dxe3 3. b8=Q+ Bxb8 4. Ng6+ Kf7) (2. Bf4 Nxf4+ 3. Kg4 Nd3) Kf7 (Kg8 3. Ne7+ (3. f7+ $4 Kxf7 4. Nh8+ Ke6 $19) (3. Ne5 $4 Bxe5 4. f7+ Kxf7 5. g6+ Kf6 $19) (3. Kh4 $6 Nc5 4. Ne7+ Kf7 $10) (3. Nh8 $4 a2 4. f7+ Kf8 5. Ng6+ Kxf7 6. Nh8+ Ke8 $19) (3. Bf4 $4 Nxf4+ 4. Nxf4 Bxf4 5. f7+ Kxf7 6. g6+ Ke6) (3. Nf4 $4 Nxf4+ 4. Kg4 Nd3) (3. Kg4 $6 Nc5 4. Ne7+) (3. Nf8 Kxf8) Kf7 4. fxg7 (4. Ng6 $4 a2 5. Nh8+ Kg8 $19) (4. Nf5 $4 g6+ 5. Kg4 a2 $19) (4. Nc6 a2 5. Nd8+ $10) (4. Nd5 $4 g6+ 5. Kg4 a2) (4. Ng8 $4 a2 5. Nh6+ gxh6 6. g6+ Kxf6) (4. Nc8 $4 a2 5. fxg7 Kxg7) (4. Bb4 g6+ 5. Nxg6 Nxb4 6. Nh8+ Kg8) (4. Kh4 gxf6) (4. Bf4 Nxf4+ 5. Kg4 Ng6) (4. Kg4 gxf6) Kxg7 5. Nf5+ $10) 3. Nh8+ (3. Nf4 $2 Nxf4+ 4. Kg4 Nd3 $19) (3. Ne5+ $2 Bxe5 4. g6+ Kxf6 $19) (3. Bf4 $2 Nxf4+ 4. Kg4 Nxg6 5. fxg7 Kxg7 $19) (3. Ne7 $2 a2 4. fxg7 Kxg7 5. Nf5+ Kf8 $19) (3. b8=Q $2 Bxb8 4. Nh8+ Kg8 $19) (3. Nh4 $2 a2 4. g6+ Kxf6 5. Bg5+ Ke6) (3. Nf8 Kxf8) (3. Kh4 Kxg6) Kg8 4. f7+ (4. Ng6 $2 a2 5. Ne7+ Kf7 $19) (4. fxg7 $2 a2 $19) (4. Kg6 Kxh8 $10 $15) (4. Nf7 $2 Kxf7 5. fxg7 a2 $19 6. g6+ Kxg7 7. Bh6+ Kg8) (4. g6 $2 a2 5. b8=Q+ Bxb8) (4. Kg4 a2 5. f7+ Kf8 6. Ng6+ Kxf7) (4. Kh4 Bb8 5. f7+ Kxh8 $2 (Kf8 $5 6. Be1) 6. g6) Kf8 5. Kg6 (5. g6 $2 a2 6. b8=Q+ Bxb8 $19) (5. Ng6+ $2 Kxf7 6. Nh8+ Ke6 $19) (5. Kg4 $2 a2 6. Ng6+ Kxf7 $19) (5. Bf4 $2 Nxf4+ 6. Kg4 Nd3 $19) (5. Bb4+ $2 Nxb4 6. Ng6+ Kxf7 7. Nh8+ Ke8) (5. Kh4 $2 Bd6 6. Ng6+ Kxf7 7. Nh8+ Kg8) (5. Ba5 a2 6. Ng6+ Kxf7 7. Nh8+ Ke6) a2 6. Kh7 (6. Bb4+ $2 Nxb4 7. b8=Q+ Bxb8 $19) (6. Kf5 $2 a1=Q 7. Ng6+ Kxf7 8. Nh8+ Kg8 $19) (6. Bf4 $2 Bxf4 7. b8=Q+ Bxb8) (6. Bc3 $2 dxc3 7. b8=Q+ Bxb8) (6. Ba5 $2 a1=Q 7. b8=Q+ Bxb8 8. Bb4+ Nxb4) (6. Bc1 a1=Q 7. Ba3+ Qxa3) a1=Q 7. g6 (7. Bb4+ $2 Nxb4 8. Ng6+ Kxf7 9. Nh8+ Ke6 $19) (7. Ng6+ $2 Kxf7 8. Nh8+ Ke8 $19) (7. b8=Q+ $2 Bxb8 8. Ng6+ Kxf7 9. Nh8+ Ke8 $19) (7. Bf4 $2 Bxf4 8. Ng6+ Kxf7 9. Nh8+ Ke8 $19) (7. Bc3 dxc3 8. Ng6+ Kxf7 9. Nh8+ Ke8) Qh1 8. Bh6 (8. b8=Q+ $2 Bxb8+ 9. Bh6 Qxh6#) Bf4 9. b8=Q+ (9. b8=R+ $10) Bxb8 1/2-1/2
+
+[Event "t001"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k5/p2p2qP/8/1Np5/2p1P3/K7/P2P4/4R1b1 w - - 0 1"]
+[PlyCount "13"]
+
+1. Nd6+ Kb8 2. Rb1+ Ka8 3. Ne8 Qg3+ 4. Ka4 Bd4 5. e5 Bxe5 (Qxe5 6. h8=Q Qxh8 7. Nc7#) 6. Nc7+ Bxc7 7. h8=Q+ {"Plachutta theme."} 1-0
+
+[Event "sp HM 64-Shakhmatnoe obozrenie"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4K3/p7/2P5/b7/6Pk/8/6P1/8 w - - 0 1"]
+[PlyCount "21"]
+
+1. Kd7 Bb6 2. Kc8 a5 3. Kb7 Bd8 4. Kc8 Bf6 (Bg5 $143 5. g3+ Kxg3 (Kxg4 $144 6. c7 $18) 6. c7 Bf4 7. g5 $18) 5. Kd7 Be5 6. Ke6 Bc7 7. Kf5 a4 8. g5 a3 9. g6 a2 10. g7 a1=Q 11. g8=Q $11 {"Figaro here! Figaro there! Another variation on the Reti theme."} 1/2-1/2
+
+[Event "tn21"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "q6k/8/6PK/6PP/7B/8/1p6/6R1 w - - 0 1"]
+[PlyCount "14"]
+
+1. g7+ (1. Rf1 $2 Kg8 $1 2. g7 Qa6+) Kg8 2. Rd1 $1 (2. Re1 $2 Qd8 3. Bg3 Qd7 4. Be5 Qd3) b1=Q (Qc6+ 3. g6 Qc1+ 4. Rxc1 bxc1=Q+ 5. Bg5) 3. Rxb1 Qa7 4. Rb8+ Qxb8 5. g6 Qe5 6. Bf6 Qc7 7. Be7 Qxe7 1/2-1/2
+
+[Event "tn21"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3p2p1/6Pk/3p1K2/3N4/4P1PP/2Bq4 w - - 0 1"]
+[PlyCount "5"]
+
+1. Kg3 (1. Kf3 $2 Kh4 2. Kf2 Qb3) d5 (Qh1 2. h3 $1 d5 3. Kf2 Qd1 4. Bf4 $1 (4. Kg3 $2 Qc2 5. h4 Qxd3+ 6. exd3) Qc2 5. Ne1 Qe4 6. Nf3 Qxf4 7. g4+ Qxg4 8. hxg4+ Kxg4 9. Nxd4) 2. Be3 dxe3 (Qh1 3. Bg1 Qxg1 4. Nf4+ Kxg5 5. Nh3+) 3. h4 (3. Nf4+ $2 Kxg5) 1-0
+
+[Event "Moi Etyudi #41"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5k1p/b3p3/2K3RP/5P2/8/p7/8 w - - 0 1"]
+[PlyCount "20"]
+
+1. Rg1 Bd3 2. h6 (2. Ra1 $2 Bb1 3. Kd6 (3. h6 Kg6 $1 4. Kd6 Kxh6 5. Kxe6 Kg6 6. Ke5 h5 7. f5+ Kg7 $1 8. Ke6 Kf8 $1 9. Ke5 Ke7 $1 10. Kf4 Kf6 11. Kg3 Kxf5 12. Kh4 Kg6 $19) (3. Kd4 Kf6 4. Ke3 Kf5 5. Kf3 e5 6. fxe5 Kxe5 7. Ke3 Kf5 $19) h6 $3 (Kf6 $2 4. h6 $1 $18 {see main line}) 4. Ke5 Ke7 5. Kd4 Kf6 6. Ke3 e5 7. Kf3 Kf5 8. fxe5 Kxe5 9. Kg4 Ke4 10. Kg3 Kf5 11. Kh4 Kf4 12. Kh3 Kg5 $19) Kf6 (Bb1 3. Rg7+ Kf6 4. Ra7 $10) 3. Ra1 (3. Kd6 $2 Bb1 4. Rg8 a1=Q 5. Rf8+ {mate Wissmann} Kg6) Bb1 4. Kd6 {Zugzwang} Kf5 (Kg6 5. Kxe6 Kxh6 6. Kf6 Kh5 7. Kg7 h6 8. f5 Bxf5 $8 9. Rxa2 $11) 5. Ke7 $1 (5. Kd7 $2 e5 $1 6. fxe5 Kxe5 7. Ke7 Kd4 8. Kf6 Kc3 9. Kg7 Kb2 10. Rxa2+ Kxa2 $19) Kxf4 6. Kxe6 (6. Kf6 e5 7. Kg7 Kg5 (e4 8. Kxh7 e3+ 9. Kg8 e2 10. h7 Bxh7+ (e1=Q 11. h8=Q Qe6+ 12. Kf8 Qd6+ 13. Kg8 Qb8+ 14. Kg7 Qe5+ 15. Kg8 $19 {??}) 11. Kxh7 Ke4 12. Kg6 Kd3 13. Kf5 Kc3 $1 $19) 8. Kh8 e4 9. Kxh7 e3+ 10. Kg8 e2 11. h7 e1=Q 12. h8=Q Qe8+ 13. Kg7 Qe7+ 14. Kg8 Kg6 $19) Kg5 (Ke4 7. Kf6 Kd3 8. Kg7 Kc3 9. Rxa2 Bxa2 10. Kxh7 Bb1+ 11. Kg7 $11) 7. Kf7 $1 (7. Ke5 $2 Kxh6 $19 8. Kf4 Kg6 (Kh5 9. Kg3 Kg5) 9. Kg4 h5+) Kxh6 8. Kg8 $1 Kg6 9. Kh8 h5 10. Rxa2 Bxa2 {stalemate} 1/2-1/2
+
+[Event "Moi Etyudi #44"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6p1/5p2/p1k2P2/8/P6P/4K3 w - - 0 1"]
+[PlyCount "10"]
+
+1. a3 (1. Kf2 $2 a3 $1 2. Ke3 Kc3 3. h3 Kc4 $1 (Kc2 4. Ke2 Kb2 $2 5. Kd2 Kxa2 6. Kc2 Ka1 7. Kc1 $11 a2 $4 8. h4 g5 9. h5) 4. Kf3 Kd3 5. Kf2 Ke4 6. Kg3 Ke3 7. Kh4 Kd2 8. Kg5 Kc2 9. Kxg6 Kb2 10. h4 Kxa2 11. h5 Kb3 12. h6 a2 13. h7 a1=Q $19) (1. Ke2 $2 a3 $1 2. Ke3 {zie 1.Kf2?}) (1. Kd2 $2 Kd4 $19) (1. h3 $2 {Van Beers} a3 $1) Kd3 (Kb3 2. Kd2 Kxa3 3. Kc3 $11 Ka2 4. Kc2 a3 5. h3 Ka1 6. Kc1 $11) 2. Kf2 Ke4 3. Kg3 (3. Ke2 $2 Kxf4 $19 4. Kf2 {= Van der Heijden/Wissmann} Kg4 (Ke4) (g5) 5. Kg2 f4 6. Kf2 Kh3 7. Kg1 g5 8. Kf2 g4 9. Kg1 f3 10. Kf1 Kxh2) Ke3 4. h3 Ke4 (Kd4 5. Kf2 $1 $11) (Kd3 5. Kf3 $1 $11) (g5 {Stellwagen} 5. fxg5 f4+ 6. Kh2 (6. Kg2 Ke2 7. g6 f3+ 8. Kh2 f2 9. g7 f1=Q 10. g8=Q $18 {??}) f3 7. g6 f2 8. g7 f1=Q 9. g8=Q $18 {??}) 5. Kh4 {plan 6.Kg5} Kxf4 $8 {stalemate} 1/2-1/2
+
+[Event "5.hm Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/P7/6p1/1K6/6R1/p2r1P2/1k6 w - - 0 1"]
+[PlyCount "21"]
+
+1. Rg1+ Kb2 2. f4 $1 (2. a7 $144 Rd4+ 3. Kb5 Rd8 4. f4 gxf4 $11 {transpose}) gxf4 (Rd4+ $144 3. Kb5 Rxf4 4. a7 Rf8 5. Rg2+ Kb3 6. Rg3+ $11) 3. a7 Rd4+ 4. Kb5 Rd8 5. Rg2+ Kb3 6. Rg1 f3 7. Rf1 f2 8. Kb6 Kc3 9. Kb7 Kb3 10. a8=Q Rxa8 11. Kxa8 $11 1/2-1/2
+
+[Event "Pravda"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/1p6/p7/P1PP1K2/3b4/2p5/8/4B3 w - - 0 1"]
+[PlyCount "17"]
+
+1. c6 (1. Ke6 $143 c2 2. d6 c1=Q 3. d7+ Kc7 4. Bg3+ Kc6 5. d8=Q Qc4+ (Qxc5 $143 6. Qd7# $18) 6. Kf5 (6. Ke7 $144 Qe2+ 7. Kf8 Qf3+ $19) Qf7+ 7. Kg4 Qd7+ 8. Qxd7+ Kxd7 $19) c2 $4 (bxc6 $142 $1 2. Ke6 cxd5 3. Kxd5 c2 4. Bd2 Bb2 5. Kc6 Kd8 6. Kd6 Ba3+ 7. Kc6 Ke7 8. Kb6 Kd6 9. Kxa6 Kc6 $19 {EGTB 6-men}) 2. Bd2 Bb2 3. d6 bxc6 4. Ke6 c1=B (c1=Q $144 5. d7+ Kc7 6. Bf4+ Qxf4 7. d8=Q+ Kxd8 $11) 5. d7+ Kc7 6. d8=Q+ Kxd8 7. Kd6 c5 8. Kxc5 Kc7 9. Be1 $11 1/2-1/2
+
+[Event "L'Italia Scacchistica"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3K4/p3np2/1P6/8/p4p2/8/1BP3k1/8 w - - 0 1"]
+[PlyCount "33"]
+
+1. b7 Nc6+ 2. Kc7 Nb4 3. Kb8 f3 4. Bd4 (4. Kxa7 $143 f2 5. Kb6 Na6 $19) a3 5. Kxa7 f2 (a2 $144 6. Kb6 $11) 6. Bxf2 Kxf2 7. Kb6 Na6 8. Kxa6 a2 9. b8=Q a1=Q+ 10. Kb7 Qb2+ 11. Ka8 Qxb8+ 12. Kxb8 Ke3 13. Kc7 f5 14. c4 Kd4 15. Kd6 Kxc4 16. Ke5 f4 17. Kxf4 $11 1/2-1/2
+
+[Event "special pr 64-Shakhmatnoe obozrenie"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4N3/pk6/1p5p/3P2pP/1P4Rp/8/3PK2p/8 w - - 0 1"]
+[PlyCount "37"]
+
+1. Nd6+ Ka6 (Kb8 $144 2. Rc4 $18) 2. b5+ Ka5 3. Ne4 h1=Q 4. Nc3 Qh2+ (Qa1 $144 5. Kf2 h3 6. Ra4+ Qxa4 7. Nxa4 Kxb5 8. d4 Ka6 9. Nc3 Kb7 10. Ne4 g4 11. Nd6+ Kc7 12. Nf7 b5 13. d6+ Kc8 14. d7+ Kxd7 15. Nxh6 b4 16. Nxg4 b3 17. Ne5+ $18) 5. Kd1 Qh1+ 6. Kc2 Qa1 7. d6 h3 8. d7 h2 9. d8=N Qxc3+ 10. dxc3 h1=Q 11. Rb4 Qg2+ 12. Kb1 (12. Kc1 $144) Qf1+ 13. Kb2 Qe2+ 14. Ka3 Qxb5 15. Rxb5+ (15. Nb7+ $143 Ka6 16. Rxb5 Kxb5 17. Nd6+ Kc5 18. Ne4+ (18. Nf5 $144 g4 19. Kb2 b5 20. Kc2 a5 $11) Kc4 19. Nxg5 Kxc3 20. Nf7 Kd4 21. Nxh6 Ke5 22. Ng4+ Kf5 23. h6 Kg6 24. Ka4 a5 $11) Kxb5 16. Nf7 g4 17. Nxh6 g3 18. Nf5 g2 19. Nd4+ $18 {"The 80-year-old sometime world champion continues to regale us with his output."} 1-0
+
+[Event "sp p. Mansarliisky-50JT"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6kr/p1p1qp1p/1p3ppB/5P2/P7/2N1N1P1/1KP4P/8 w - - 0 1"]
+[PlyCount "31"]
+
+1. Ncd5 (1. Ned5 $143 Qe5 2. Nb4 Qxf5 3. Nc6 Qe5 (Qe6 $143 4. Nd5 $18) 4. Nxe5 fxe5 5. Bg5 Kg7 6. Nd5 Rf8 7. Bf6+ Kh6 8. Bxe5 c5 9. h4 g5 $11) Qe5+ 2. c3 c6 3. Ng4 cxd5 4. Nxe5 fxe5 5. f6 g5 (e4 $144 6. Kc2 a6 7. h4 b5 8. axb5 axb5 9. Kd2 g5 10. h5 g4 11. Ke3 b4 12. cxb4 d4+ 13. Kd2 e3+ 14. Kd3 e2 15. Kxe2 d3+ 16. Kd1 d2 17. Bg7 $18) 6. h4 (6. h3 $143 a6 7. h4 gxh4 8. gxh4 b5 9. a5 e4 10. Kc2 e3 11. Kd3 d4 12. cxd4 b4 13. Kxe3 b3 14. Kd3 $11) gxh4 7. gxh4 a6 8. Kc1 (8. Kc2 $143 b5 9. a5 d4 10. cxd4 exd4 11. h5 b4 {z} 12. Kd2 b3 13. Kd3 b2 14. Kc2 d3+ 15. Kxb2 d2 16. Kc2 d1=Q+ 17. Kxd1 $11) (8. Kb1 $143 b5 9. a5 e4 10. Kc2 e3 11. Kd3 d4 12. cxd4 b4 13. Kxe3 b3 14. Kd3 $11) b5 9. a5 (9. axb5 $143 axb5 10. Kd1 d4 11. cxd4 exd4 12. Kc2 b4 13. h5 d3+ 14. Kxd3 b3 15. Bg7 b2 16. Kc2 h6 17. Bxh8 Kxh8 18. Kxb2 Kg8 19. Kc3 Kf8 20. Kd4 Ke8 21. Ke5 Kd7 22. Kd5 Kc7 $11) d4 (e4 $144 10. Kd2 e3+ 11. Kxe3 d4+ 12. cxd4 b4 13. d5 b3 14. d6 b2 15. d7 b1=Q 16. d8=Q#) 10. cxd4 exd4 11. Kc2 b4 12. h5 {ZZ réciproque} d3+ 13. Kxd3 b3 14. Bg7 b2 15. Kc2 h6 16. Bxh8 $18 {"My goodness, th is is hot even championship - spicy stuff with its thematic try, stalem ate, and reci-zug. A grea t effort bytheseventhworldchampion!"} 1-0
+
+[Event "3rd p. Novo-Voronezh NPS 40AT"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/r7/p7/6pp/3R4/7p/5P1P/7K w - - 0 1"]
+[PlyCount "35"]
+
+1. Rd8+ Kb7 2. f4 (2. Rh8 $143 a5 3. Rxh5 a4 4. Rxh3 a3 5. Rb3+ Kc6 6. Rb1 a2 7. Ra1 Kd5 8. Kg2 Ra3 9. f3 Ke5 10. Kg3 Kf5 11. Kf2 Kf4 12. Ke2 Ra4 13. Kf2 Ra5 14. Kg2 Ra3 15. h3 Ra5 16. Kf2 Ra4 17. Kg2 Ra3 $19) (2. Rg8 $143 g4 3. f3 a5 4. fxg4 hxg4 5. Rxg4 a4 6. Rg7+ Kb6 7. Rg6+ Kc5 8. Rg7 Ra5 9. Rg5+ Kb6 10. Rg6+ Kc7 11. Rg5 Ra8 12. Rg7+ Kd6 13. Rg8 Ra7 14. Rg6+ Ke5 15. Rg7 Ra6 16. Rg5+ Kf4 17. Rg6 Ra5 $19) gxf4 3. Rg8 a5 4. Rg7+ Kb6 5. Rg6+ Kc5 6. Rg7 (6. Rg5+ $143 Kd6 7. Rg6+ Ke5 8. Rg7 Ra6 9. Rg5+ Kf6 10. Rxh5 Rd6 11. Kg1 Rd1+ 12. Kf2 a4 13. Rxh3 Ra1 14. Rh6+ Ke5 15. Ra6 a3 16. Ra5+ Kf6 17. Ra6+ Kf5 18. Ra5+ Kg4 19. h3+ Kxh3 20. Kf3 Kh4 21. Kxf4 a2 $19) Ra6 7. Rg5+ Kc4 8. Rg6 Kb5 9. Rg5+ Kc6 10. Rg6+ Kb7 11. Rg7+ Kc8 12. Rg6 (12. Rg8+ $143 Kd7 $19) Ra8 13. Rg8+ Kb7 14. Rg7+ Kc6 15. Rg8 Ra7 16. Rg6+ Kd5 17. Rg7 Ra6 18. Rg5+ $11 {"Vasily Vasilevich still knows how to tickle our fancy!"} 1/2-1/2
+
+[Event "Moi Etyudi"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/p7/8/1P4P1/1p5p/1P1P3k/5K2 w - - 0 1"]
+[PlyCount "33"]
+
+1. Kf2 Kh1 2. d3 $1 (2. d4 $143 a5 3. b5 a4 4. b6 a3 5. b7 axb2 6. b8=Q b1=Q 7. Qb7+ Kh2 8. Qc7+ Kh1 9. Qc6+ Kh2 10. Qd6+ Kh1 11. Qd5+ Kh2 12. Qe5+ Kh1 13. Qd5+ $11) a5 (g5 $144 3. Kg3 a5 4. b5 a4 (Kg1 $144 5. Kxh3 a4 6. b6 a3 7. b7 axb2 8. b8=Q b1=Q 9. Qh2+ Kf1 10. Qh1+ $18) 5. b6 a3 6. b7 axb2 7. b8=Q b1=Q 8. Qb7+ Kg1 9. Qb6+ Kh1 10. Qc6+ Kg1 11. Qc5+ Kh1 12. Qd5+ Kg1 13. Qd4+ Kh1 14. Qe4+ Kg1 15. Qe2 $18) 3. b5 a4 4. b6 a3 5. b7 axb2 6. b8=Q b1=Q 7. Qb7+ Kh2 8. Qc7+ Kh1 9. Qc6+ Kh2 10. Qd6+ Kh1 11. Qd5+ Kh2 12. Qe5+ Kh1 13. Qe4+ Kh2 14. Qf4+ Kh1 15. Qf3+ Kh2 16. Qg3+ Kh1 17. Qxh3# 1-0
+
+[Event "My studies"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p1Bpp1p/1Pp1p3/8/bPK5/4P1k1/1P6/8 w - - 0 1"]
+[PlyCount "27"]
+
+1. Bc8 Bb5+ 2. Kb3 Ba6 3. Ka4 h5 4. Ka5 h4 5. b5 cxb5 (Bxb5 $144 6. Bxb7 h3 7. Ba8 h2 8. b7 h1=Q 9. b8=Q+ Kf2 10. Qxb5 $11) 6. b4 h3 7. Bxe6 $1 h2 (fxe6 $144 8. e4 h2 9. e5) 8. Bd5 e5 (Kf2 $144 9. Bh1 f5 10. e4 $1 $11) 9. Bh1 e4 $1 10. Bxe4 (10. Bg2 $143 f5 11. Bxe4 Kf2 12. Bh1 Kg1 $19) f6 $1 (f5 $144 11. Bh1 Kf2 12. e4 $1 $11) 11. Bd5 (11. Bh1 $143 f5 12. e4 f4 13. e5 f3 14. e6 f2 15. e7 f1=Q 16. e8=Q Qa1#) Kf2 12. Bh1 Kg1 13. Bf3 $1 f5 14. e4 $11 1/2-1/2
+
+[Event "My studies"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3R4/6Kp/8/8/2p5/4B3/pp6/kb6 w - - 0 1"]
+[PlyCount "17"]
+
+1. Rd1 $1 (1. Bd4 $143 Bc2 $1 2. Rb8 Bb3 3. Rf8 Kb1 4. Rf1+ Bd1 $1 5. Rxd1+ Kc2 $19) c3 (h5 $144 2. Bd4 h4 3. Rd2 $18) 2. Bh6 (2. Bd4 $143 c2 3. Rc1 h5 4. Kf6 h4 5. Ke5 h3 6. Kd5 h2 7. Kc4 h1=Q 8. Rxh1 c1=Q+ 9. Rxc1 $11) c2 3. Rc1 bxc1=Q 4. Bxc1 h5 5. Kf6 h4 6. Ke5 h3 7. Kd4 h2 8. Kc3 h1=Q 9. Bb2# 1-0
+
+[Event "Skakhmatnaja Nedelja {c}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[Composer "Smyslov, Vasily Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p5p1/p3pprp/Pp5k/3P1R2/6PP/4PP1K/8 w - - 0 1"]
+[PlyCount "23"]
+
+1. Rh4+ Kg5 2. f4+ Kf5 3. e4+ $1 Kxe4 4. f5+ $1 Kxf5 5. Rf4+ Kg5 6. h4+ $1 Kh5 7. d5 $1 f5 $1 (e5 $144 8. Rf5+ Kg4 9. d6 Kxf5 10. d7 $18) (exd5 $144 8. Kh3 $1 $18) 8. g4+ $1 fxg4 9. Kg3 $1 b4 10. d6 $1 (10. Rf2 $143 Rf6 $1 11. Rxf6 gxf6 12. d6 b3 13. d7 b2 14. d8=Q b1=Q 15. Qe8+ Qg6 $1 $19) b3 11. d7 b2 12. Rb4 $1 $18 1-0
+

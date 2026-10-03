@@ -1,0 +1,451 @@
+[Event "Schweizerische Schachzeitung#5283"]
+[Source "Schweizerische Schachzeitung/11"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/8/1b5P/kP6/8/5K2/1P6/8 w - - 0 1"]
+
+1. Ke4 $1 (1. h7 $2 Bd4 2. h8=Q $10) (1. b3 $2 Bc5 2. h7 $10) (1. b4+ $2 Kxb5 2. h7 $10) (1. Kf4 $2 Bc5 2. h7) (1. Kg4 Bc5 2. h7) Bd8 2. b6 $1 (2. Kf5 $2 Kxb5 (Bb6 3. Ke4 Bd8) 3. h7 $18) (2. Ke5 $2 Bg5 3. h7 $10 Bc1 $1 4. Kd5 Bxb2 5. Kc5 Bf6 6. b6 Ka6 7. Kc6 Be5 8. b7 Ka7) (2. h7 $2 Bf6 3. h8=Q $10) (2. Kd5 $2 Kxb5 3. h7 $10) (2. b4+ $2 Kxb5 3. h7) (2. Kd4 $2 Be7 3. h7) (2. Kd3 $2 Be7 3. h7) Ka6 $1 (Kxb6 3. Kf5 $18) (Bxb6 3. h7) 3. Ke5 $1 (3. Kf5 $2 Bxb6 4. h7 $10) (3. Kd5 $2 Kb7 4. h7 $10) (3. h7 $2 Bf6 4. h8=Q $10) (3. b4 $2 Kb7 4. h7) (3. b7 $2 Ka7 4. b8=Q+) (3. Kd4 $2 Be7 4. b7) (3. b3 $2 Be7 4. b7) Bg5 $1 4. h7 (4. Kf5 $2 Be3 5. b7 $10) (4. Kd6 Bf4+ 5. Kc6) (4. b3 Bd2 5. b7) (4. b7 Kxb7 5. h7) (4. Ke6 Be3 5. b7) Bc1 $1 5. Kd6 $1 (5. Kd5 $2 Bxb2 6. Kc6 Be5 $10) (5. b4 $2 Bb2+ 6. Kd5 $10) (5. Ke6 $2 Bxb2 6. h8=Q $10) (5. h8=Q $2 Bxb2+ 6. Ke6 $10) (5. Kd4 $2 Bxb2+ 6. Kc4 $10) (5. b3 $2 Bb2+ 6. Kd5 $10) (5. Kf5 $2 Bxb2 6. h8=Q $10) (5. Kf6 $2 Bxb2+ 6. Ke6 $10) (5. b7 $2 Bxb2+ 6. Kd5 $10) (5. Ke4 $2 Bxb2 6. h8=Q) Bxb2 6. Kc7 $1 (6. Kc6 $2 Be5 7. h8=R $10) (6. Kc5 $2 Ba1 7. h8=Q) (6. Ke7 $2 Ba1 7. h8=Q) (6. b7 $2 Kxb7 7. h8=Q) (6. Ke6 $2 Kxb6 7. h8=Q) (6. Kd7 Bd4 7. Ke8) (6. Kd5 Ba1 7. Kc5) Be5+ 7. Kc6 $1 (7. Kc8 $2 Kxb6 8. h8=Q $10) (7. Kd7 $2 Bd4 8. h8=Q) Ba1 (Bg7 8. b7 Ka7 9. Kc7 Be5+ 10. Kc8) 8. b7 (8. Kc7 Be5+ $18 9. Kc6) (8. Kc5 Bb2 9. Kc4) Ka7 9. Kc7 $18 1-0
+
+[Event "Berliner Schachzeitung"]
+[Date "1896.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/1p3p1p/5K1k/1P5p/8/1P4PP/8 w - - 0 1"]
+
+1. b5 $1 (1. h3 $2 b5 2. Kxf6 b6 3. Ke5 Kg5 (Kg6 $2 4. Kf4 Kf6 5. Kg4 Kg6 6. Kxh4) 4. Ke4 Kf6 5. Kf4 h5 6. b3 Kg6 7. Ke4 Kf6 8. Kd5 Kf5 9. Kc6 Kf4 10. Kxb5 Kg3 11. Kxb6 Kxg2 12. Kc5 Kxh3 13. b5 Kg2 14. b6 h3 15. b7 h2 16. b8=Q) h3 2. g4+ Kh4 3. b3 h5 4. g5 fxg5 5. b4 g4 6. Kf4 g3 7. hxg3# 1-0
+
+[Event "Berliner Schachzeitung (v)"]
+[Source "(v): British Chess Magazine-202 1909."]
+[Date "1896.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1p3p1p/5K1k/1P5p/8/1P4PP/8 w - - 0 1"]
+
+1. b5 $1 h3 2. g4+ Kh4 3. b3 h5 4. g5 fxg5 5. b4 g4 6. Kf4 g3 7. hxg3# 1-0
+
+[Event "Berliner Schachzeitung (v)"]
+[Source "EG#14052. (v): Tattersall's a Thousand End Games#001 1910."]
+[Date "1896.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p4p1p/5K1k/P6p/8/P5PP/8 w - - 0 1"]
+
+1. a5 $1 h3 2. g4+ Kh4 3. a3 h5 4. g5 fxg5 5. a4 g4 6. Kf4 g3 7. hxg3# 1-0
+
+[Event "National Zeitung"]
+[Date "1906.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p6k/8/3N4/PP1K4/7p/8 w - - 0 1"]
+
+1. Nf5+ $1 Kg5 2. Ng3 Kf4 3. Nh1 Kf3 4. b4 (4. a4 $2 a5 5. b4 axb4 6. a5 Kg2 7. a6 Kxh1 8. a7 Kg1) Kg2 5. Ke2 Kxh1 (a5 6. Nf2 $1) 6. Kf2 $1 a5 7. a4 $1 axb4 8. a5 b3 9. a6 b2 10. a7 b1=Q 11. a8=Q+ Qe4 12. Qxe4# 1-0
+
+[Event "Deutsches Wochenschach#1518"]
+[Source "EG#09200."]
+[Date "1917.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/6pP/1B4P1/pp6/1k1K4/8/8 w - - 0 1"]
+
+1. Be8 $1 a3 2. Bxg6 $1 hxg6 (a2 3. Bf7+ Kb2 4. Bxa2 Kxa2 5. g6 hxg6 6. h7 b3 7. h8=Q) (Kb2 3. Bf7 b3 4. g6 hxg6 5. h7 a2 6. h8=Q+ Kb1 7. Bxb3 a1=Q 8. Bc2+ Ka2 9. Qg8+ Kb2 10. Qg7+ Ka2 11. Qf7+) 3. h7 a2 4. h8=B $1 (4. h8=Q $2 a1=Q 5. Qxa1) 1-0
+
+[Event "Deutsches Wochenschach#1621"]
+[Date "1919.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2k5/6p1/4p3/3pKb1P/8/1B6/8 w - - 0 1"]
+
+1. h5 $1 (1. Bxd4 $2 exd4 2. Kxd4 Kd6 $1 (Bg3 $2 3. h5 $1 g5 4. Ke4) 3. Ke4 Bc1 4. h5 g5 5. Kf5 Ke7) gxh5 2. Bxd4 exd4 3. Kxd4 h4 4. Ke4 h3 5. Kf3 1/2-1/2
+
+[Event "Deutsches Wochenschach#1637"]
+[Date "1919.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6P1/8/1p6/8/Pb6/1Pk5/K7 w - - 0 1"]
+
+1. a4 $1 (1. g8=Q $2 Bxg8 2. b4 (2. a4 b4 $1) Kb3 $1) bxa4 $1 2. g8=Q Bxg8 3. b4 $1 (3. b3 {<or>}) axb3 1/2-1/2
+
+[Event "Deutsches Wochenschach#1638"]
+[Date "1919.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/pp6/5pp1/7p/3KPP1P/6P1/8/8 w - - 0 1"]
+
+1. g4 $1 Kc7 (hxg4 2. f5) 2. f5 $1 Kd6 (gxf5 3. gxh5) 3. fxg6 Ke7 4. gxh5 Kf8 {<eg>} 5. h6 a5 6. h7 Kg7 7. h5 a4 8. h6+ Kh8 9. Kc4 b6 10. Kb4 b5 11. Ka3 1-0
+
+[Event "Tidskrift for Schack#147"]
+[Source "Tidskrift for Schack/3-4"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/7p/2pp1p1P/1p3P1K/1P1P4/P7/8/8 w - - 0 1"]
+
+1. a4 $1 (1. d5 $2 cxd5 2. Kg4 (2. a4 d4 3. Kg4 d3 4. Kf3 bxa4 5. b5 a3 6. b6 d2 7. Ke2 d1=Q+ 8. Kxd1 a2) Kg8 3. a4 bxa4 4. b5 a3 5. b6 a2 6. b7 a1=Q 7. b8=Q+ Kf7) (1. Kg4 $2 d5) bxa4 2. d5 cxd5 3. b5 1-0
+
+[Event "Deutsche Schachblätter#292"]
+[Source "Deutsche Schachblätter/12"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/p2k2P1/1p2p3/4P1N1/P1K4p/8 w - - 0 1"]
+
+1. Kb3 $1 Ke6 2. Ka4 Kf7 3. Kxa5 Kg6 4. Kxb4 Kxg5 5. a4 Kg4 6. Nh1 Kf3 7. a5 Kg2 8. a6 Kxh1 9. a7 Kg1 10. a8=Q h1=Q 11. Qa1+ Kg2 12. Qxh1+ Kxh1 13. Kc4 Kg2 14. Kd5 Kf3 15. Kd4 1-0
+
+[Event "Tidskrift for Schack#145 (v)"]
+[Source "Tidskrift for Schack/3-4 (v): Wiener Schachzeitung#38 Wiener Schachzeitung=3 2/1924."]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/N4Pbp/8/P1p5/2P4p/8/5k2/8 w - - 0 1"]
+
+1. Nc6 $1 h3 2. Ne5 Kg3 3. Nf3 Kxf3 4. a6 h2 5. a7 Kg2 6. a8=Q+ Kg1 7. f8=Q Bxf8 8. Qa1+ Kg2 9. Qb2+ Kg1 10. Qb1+ Kg2 11. Qe4+ Kg1 12. Qg4+ Kf2 13. Qh3 Bd6 14. Qxh7 Kg2 15. Qe4+ Kg1 16. Qg4+ Kf2 17. Qf5+ Kg2 18. Qd5+ Kg1 19. Qxd6 h1=Q 20. Qd1+ Kg2 21. Qxh1+ Kxh1 {<eg>} 22. Kc7 1-0
+
+[Event "Schweizerische Schachzeitung#298 (c)"]
+[Source "Schweizerische Schachzeitung/5 (c): Garcia=M Estudios Artisticos de Ajedrez - VI-58 2012."]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/2P1p3/KP2P3/1B1p2p1/2bb2Pr/p7/P5N1/8 w - - 0 1"]
+
+1. Bxc4 $1 dxc4 2. Nxh4 gxh4 3. g5 h3 4. g6 h2 5. g7 Bxg7 6. b7+ Kxc7 7. Ka7 Bd4+ (h1=Q 8. b8=Q+ Kc6 9. Qb7+ Kd6 10. Qxh1) 8. Ka8 h1=Q 1/2-1/2
+
+[Event "Schweizerische Schachzeitung#299"]
+[Source "Schweizerische Schachzeitung/5"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/3Ppnk1/4K3/1pp2R2/6p1/5rP1/7R w - - 0 1"]
+
+1. Rxf6+ $1 (1. Rh6+ $2 Kxh6 2. Rxf6+ Kg7 $1) Rxf6 2. Rh6+ (2. d7 $2 Rf5+ 3. Kd6 Rd5+ 4. Ke7 c3) Kxh6 3. Kxf6 b3 $1 4. d7 b2 5. d8=Q b1=Q 6. Qf8+ $1 (6. Qh8+ $2 Qh7 7. Qf8+ Kh5 8. Qc5+ Qf5+) Kh5 7. Qh8+ Kg4 8. Qh3+ Kf4 9. Qh6+ Ke4 10. Qh7+ 1-0
+
+[Event "Schweizerische Schachzeitung#363"]
+[Source "Schweizerische Schachzeitung/10"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2p1K1p1/6Pp/3P3k/8/5P2/8 w - - 0 1"]
+
+1. Kf6 $1 Kg4 2. Kxg6 h4 3. d5 $1 cxd5 $1 4. Kf6 h3 5. g6 h2 6. g7 h1=Q 7. g8=Q+ Kf4 (Kf3 8. Qxd5+) (Kh3 8. Qg3#) (Kh4 8. Qg3+ Kh5 9. Qg5#) 8. Qg3+ Ke4 9. Qe3# 1-0
+
+[Event "Brandenburgischen Schachzeitung"]
+[Date "1925.05.31"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p2R4/2pP2p1/8/3P1pP1/1p3K1p/8/5k2 w - - 0 1"]
+
+1. Rb7 $1 h2 2. Rh7 Kg1 3. Rxh2 Kxh2 4. d7 b2 5. d8=Q b1=Q 6. Qh4+ Kg1 7. Qf2+ Kh1 8. Qg2# 1-0
+
+[Event "Brandenburgischen Schachzeitung"]
+[Date "1925.05.31"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/5p2/3K1Pk1/3P3p/7P/8/8 w - - 0 1"]
+
+1. Ke4 $1 (1. Kc5 $2 a5) (1. Ke6 $2 a5) Kh6 (a5 2. d5 a4 3. d6 a3 4. d7 a2 5. d8=Q a1=Q 6. Qg8+ Kh5 7. Qg6#) 2. d5 Kg7 3. d6 Kf7 4. Kd5 Ke8 (a5 5. Kc6) 5. Ke6 $1 a5 6. Kxf6 Kd7 (a4 7. Ke6 a3 8. f6) 7. Kg6 $1 (7. Kg7 $2 a4) a4 8. f6 a3 9. f7 a2 10. f8=Q a1=Q 11. Qe7+ Kc6 12. Qc7+ Kb5 (Kd5 13. d7) 13. d7 Qg1+ {<eg>} (Qa6+ 14. Kh7) (Qb1+ 14. Kh6) 14. Kh7 Qb1+ 15. Kh6 1-0
+
+[Event "Schweizerische Schachzeitung#393"]
+[Source "Schweizerische Schachzeitung/7"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7b/Pk6/1P3p1p/2P3p1/6B1/2K5 w - - 0 1"]
+
+1. Kd1 $1 h3 2. Bxh3 f3 3. Ke1 Bd2+ 4. Kf1 $1 Bxc3 5. Bg2 $1 fxg2+ 6. Kxg2 1/2-1/2
+
+[Event "Weltspiegel"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/1p6/8/2P5/P2k4/8/P7/8 w - - 0 1"]
+
+1. c6 $1 bxc6 2. a5 Kc5 3. a4 $1 Kd6 4. Kd8 c5 5. a6 Kc6 6. a5 $1 c4 7. Kc8 c3 8. a7 c2 9. a8=Q+ 1-0
+
+[Event "Pesti Hirlap"]
+[Date "1930.03.12"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2P1k3/3pB3/3K2p1/p7/8/8 w - - 0 1"]
+
+1. Kc5 $1 a2 (Kxe5 2. c7 a2 3. c8=Q a1=Q 4. Qh8+) 2. Bd4 g3 3. Kb6 g2 4. c7 a1=Q (g1=Q 5. c8=Q+ Kf7 (Kd6 6. Qc7+ Ke6 7. Qe5+) 6. Qb7+ Ke6 (Kg6 7. Qg7+) (Ke8 7. Qa8+ Ke7 8. Bxg1) 7. Qc6+ Ke7 8. Qf6+ Kd7 9. Bxg1) (Kd7 5. Kb7 g1=Q (a1=Q 6. c8=Q+ Kd6 7. Qc5+ Kd7 8. Bxa1) 6. c8=Q+ Ke7 7. Qc7+ Kf8 8. Qd8+ Kf7 9. Qf6+) 5. c8=Q+ Kf7 6. Qd7+ Kf8 (Kg6 7. Qg7+) 7. Qg7+ Ke8 8. Bxa1 1-0
+
+[Event "Schweizerische Schachzeitung#4938 (c)"]
+[Source "Schweizerische Schachzeitung/8 (c): Horning=G Josten=J Europa Rochade=6 6/ 2004."]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1N3k2/1P1p2p1/6Kp/8/3p4/8/8 w - - 0 1"]
+
+1. Nxd6+ $1 Ke6 2. b7 d2 3. b8=Q d1=Q 4. Qg8+ Ke5 5. Nc4+ Ke4 6. Qxg6+ Kf3 7. Qxh5+ Ke4 8. Qh4+ (8. Qxd1 $2) Kf3 9. Qg4+ 1-0
+
+[Event "Denken und Raten"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/pp3p2/3pk3/1K5P/5P2/8/8/8 w - - 0 1"]
+
+1. h6 $1 Kf6 2. f5 b6 3. Kc6 a5 4. Kd7 a4 5. Ke8 a3 6. Kf8 a2 7. h7 a1=Q 8. h8=Q+ 1-0
+
+[Event "Schweizerische Schachzeitung#5007 (v)"]
+[Source "Schweizerische Schachzeitung/11"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5q2/1pQ4p/6p1/pp4b1/5N2/1PP1k3/6KP/8 w - - 0 1"]
+
+1. Qb6+ $1 (1. Qe5+ $2 Kd2 $1) Ke4 (Kd2 2. Qf2+) 2. Qxb7+ Kf5 (Ke3 3. Qf3+ Kd2 4. Qf2+) 3. Qxb5+ Kf6 4. Qxg5+ Kxg5 5. Ne6+ Kf5 6. Nxf8 Ke4 7. Nxh7 1-0
+
+[Event "Neue Leipziger Zeitung#68"]
+[Date "1932.08.28"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k1q5/B7/pP6/5p2/1p4pP/1p1K4/5P2/Q7 w - - 0 1"]
+
+1. Qh1+ $1 Qb7 2. Qxb7+ Kxb7 3. Bb8 $1 Kxb8 4. h5 b2 5. Kc2 b1=Q+ 6. Kxb1 f4 7. h6 g3 8. fxg3 fxg3 9. h7 g2 10. h8=Q+ 1-0
+
+[Event "Schweizerische Schachzeitung#5285"]
+[Source "Schweizerische Schachzeitung/12"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6p1/6Pp/5p2/5P1K/2p5/3k3P/7N w - - 0 1"]
+
+1. Ng3 $1 c2 (h5 2. Nxf5 Kd3 3. Nxg7 c2 4. Nxh5 c1=Q 5. g7 Qc4 6. Nf6 Qxf4+ 7. Ng4) 2. Ne2 Kxe2 3. Kh5 c1=Q 4. h4 1/2-1/2
+
+[Event "Schweizerische Schachzeitung#5271"]
+[Source "Schweizerische Schachzeitung/11"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/kb1p3P/p7/2P5/3P1K2/8/8 w - - 0 1"]
+
+1. Ke4 $1 Bd8 2. c5 $1 Bf6 3. cxd6 a4 4. d7 a3 5. h7 a2 6. d8=Q a1=Q 7. Qa8+ Kb5 8. Qxa1 Bxa1 9. d4 1-0
+
+[Event "Schweizerische Schachzeitung#5345 (@2)"]
+[Source "Sch@eizerische Schachzeitung/5 î2: Ulrichsen=J HHdbIII#52785 27-5-2003."]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "b7/8/8/3p4/8/7Q/2kNK3/q7 w - - 0 1"]
+
+1. Qh7+ $1 Kb2 (Kc3 2. Qg7+ d4 3. Qc7+ Kb2 (Kb4 4. Qc4+) 4. Qb6+ Kc2 5. Qb3+ Kc1 6. Qd1+ Kb2 7. Nc4+ Ka2 8. Qc2+ Qb2 9. Qxb2#) 2. Qh8+ Ka2 3. Qxa8+ Kb2 4. Qb7+ Kc2 5. Qh7+ Kb2 6. Qg7+ Ka2 7. Qa7+ Kb2 8. Qd4+ Ka2 9. Qxd5+ Kb2 10. Qb3+ Kc1 11. Qd1+ Kb2 12. Nc4+ Ka2 13. Qc2+ (13. Qa4+ $1 {<minor dual JU>} Kb1 14. Qb3+ Kc1 15. Qd1#) Qb2 14. Qxb2# 1-0
+
+[Event "Magyar Sakkvilág#398"]
+[Source "Magyar Sakkvilág/8"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r4b2/4kP1R/3p4/P1pKp3/7N/8/8/8 w - - 0 1"]
+
+1. Ng6+ $1 Kf6 2. Nxf8 Rxf8 3. Rh2 $1 c4 4. a6 $1 c3 5. a7 Ke7 6. Rf2 c2 7. Rxc2 Kxf7 8. Rf2+ Ke7 9. Rxf8 Kxf8 10. a8=Q+ 1-0
+
+[Event "Deutsche Schachzeitung#1919 (c)"]
+[Source "Deutsche Schachzeitung/10 (c): Garcia=M Estudios Artisticos de Ajedrez - VI-58 2012."]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6R1/3k2P1/2p2Pn1/6K1/2r5/1p6/8 w - - 0 1"]
+
+1. Rb7 $1 Rc4+ 2. Kxg5 Rb4 3. Rxb4 cxb4 4. g7 b1=Q 5. g8=Q Qg1+ 6. Kf6 Qxg8 1/2-1/2
+
+[Event "Schackvärlden#084"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/7p/5k1p/5P1P/5K2/8 w - - 0 1"]
+
+1. Ke2 $1 Kg3 (Kf5 2. Ke3 Ke5 3. f4+ Kf5 4. Kf3 Kf6 5. Ke4 Ke6 6. f5+) 2. Ke3 Kxh3 3. Kf2 Kh2 4. f4 Kh1 5. f5 h3 6. f6 h2 7. f7 h4 8. f8=Q h3 {<eg>} 9. Qa8# 1-0
+
+[Event "Magyar Sakkvilág#425"]
+[Source "Magyar Sakkvilág/7-8"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "n7/p1k5/7r/PK5B/8/8/1P6/7R w - - 0 1"]
+
+1. Bf3 $1 Rxh1 2. Bxh1 Kb8 3. Bxa8 Kxa8 4. Ka6 Kb8 5. b3 $1 1-0
+
+[Event "Schackvärlden#078"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1K6/4PP2/2Nk4/n7/4p3/5P2/8 w - - 0 1"]
+
+1. Nxa4 $1 (1. e7 $2 Nxc5+) exf2 (e2 2. Nc3+) 2. e7 f1=Q 3. e8=Q Qxf6 4. Nb6+ Kd4 5. Qa4+ Kd3 6. Qd1+ Ke4 7. Qb1+ 1-0
+
+[Event "British Chess Magazine#0560"]
+[Source "British Chess Magazine/2 also Chess 1943."]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Lewitt, Moritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2N5/8/2b5/4P3/p1kP4/8/1PK5/8 w - - 0 1"]
+
+1. d5 $1 Bxd5 (Kxd5 2. Ne7+ Kc5 3. Nxc6 Kxc6 4. Kc3) 2. Nb6+ Kc5 3. Nxd5 Kxd5 4. Kb1 $1 (4. Kc3 $2 a3 $1 (Kxe5 $2 5. Kb4 Kd5 6. Kxa4 Kc6 7. Ka5 Kb7 8. Kb5) 5. bxa3 Kxe5) a3 (Kxe5 5. Ka2 Kd5 6. Ka3 Kc6 7. Kxa4 Kb6 8. Kb4) 5. b3 (5. b4 $2 Kxe5 6. Ka2 Kd5 7. Kxa3 Kc6) Kxe5 6. Ka2 Kd5 7. Kxa3 Kc6 8. Ka4 1-0

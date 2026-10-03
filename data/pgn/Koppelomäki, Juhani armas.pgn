@@ -1,0 +1,41 @@
+[Event "3.hm Ceskoslovensky Sach#099"]
+[Source "Ceskoslovensky Sach/10"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Koppelomäki, Juhani armas"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2B5/5k2/2PP4/1p3P2/4b3/8/1p6/4K3 w - - 0 1"]
+
+1. Be6+ $1 Ke8 2. Ba2 Bxf5 (b1=Q+ 3. Bxb1 Bxb1 4. f6) 3. Ke2 $1 (3. Kd2 $2 b4 $1 4. Kd1 (4. Be6 b1=Q) b3 $1) (3. Kd1 $2 b1=Q+ 4. Bxb1 Bxb1 5. Kd2 Be4 6. c7 Kd7 7. Kc3 Bc6 8. Kb4 Kc8 9. Kc5 Bd7) b4 (b1=Q 4. Bxb1 Bxb1 5. Ke3 Ba2 6. Kd4) 4. Kd2 $1 Kd8 (b3 5. d7+ $1 Kd8 6. Bb1 $1 Bxb1 7. Kc3) (Be4 5. c7 Kd7 6. Be6+ Kxd6 7. c8=Q b1=Q 8. Qc4) 5. Be6 $1 Bxe6 6. Kc2 Bd5 7. Kxb2 1/2-1/2
+
+[Event "3/4.hm Schach Echo#333"]
+[Source "EG#01692."]
+[Date "1962.01.08"]
+[Round "?"]
+[Composer "Koppelomäki, Juhani armas"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k3K3/6bn/P7/2P5/8/8/8/8 w - - 0 1"]
+
+1. c6 $1 Kb8 (Be5 2. Kd8 Nf8 (Kb8 3. a7+) 3. Ke7 Ng6+ 4. Kd8 Nf4 5. Kd7 Nd5 6. Ke6) 2. Kd8 $1 (2. Kd7 $2 Nf6+ 3. Kd6 (3. Kd8 Nd5 4. a7+ Kxa7 5. c7 Bf6+) Ne4+ 4. Kd5 Nc3+ 5. Kc4 Be5) Bf6+ 3. Kd7 Nf8+ 4. Ke8 Bg7 5. Ke7 $1 (5. Kf7 $2 Bh6) Nh7 (Bh6 6. Kf7) 6. Kd8 $1 Bf6+ 7. Kd7 Nf8+ 8. Ke8 Bg7 9. Ke7 $1 1/2-1/2
+
+[Event "2.p Parhi JT Lilja JT Stella Polaris"]
+[Source "Stella Polaris/11 1973 EG#02195."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Koppelomäki, Juhani armas"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2b5/2pk1p1N/8/4K3/8/5NB1/p7/3B4 w - - 0 1"]
+
+1. Ba4+ $1 c6 $1 (Ke7 2. Bh4+ f6+ 3. Bxf6+ Kf7 4. Kf4) (Kd8 2. Bh4+ f6+ 3. Bxf6#) 2. Bxc6+ Kd8 3. Kd6 (3. Bh4+ $2 Kc7) a1=Q 4. Bh4+ f6 5. Bxf6+ Qxf6+ 6. Nxf6 Bb7 $1 7. Bd7 (7. Bxb7 $2) Bxf3 (Bc8 8. Ba4) 8. Nh7 $1 (8. Ne8 $2 Bg4 $1) (8. Ng8 $2 Be2 9. Ne7 (9. Nf6 Bg4 $1 10. Nxg4 (10. Bxg4)) Bb5 $1 10. Bxb5) Bb7 9. Nf8 $1 (9. Ng5 $2 Bd5 10. Nh3 Bc4 11. Ng5 Bd5 12. Nh7 Bg8 13. Nf8 Bf7) Bd5 10. Ng6 Bc4 11. Ne5 Bd5 12. Kxd5 1-0

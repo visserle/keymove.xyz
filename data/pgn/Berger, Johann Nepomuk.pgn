@@ -1,0 +1,215 @@
+[Event "source unknown"]
+[Date "1889.??.??"]
+[Round "?"]
+[Composer "Berger, Johann Nepomuk"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/6R1/5q2/8/8/8/8/7k w - - 0 1"]
+
+1. Rh7+ $1 Kg2 2. Rg7+ Kh3 3. Rh7+ Kg4 4. Rg7+ Kh5 5. Rh7+ Kg5 6. Rg7+ Kh6 7. Rh7+ Kg6 8. Rh6+ $1 Kxh6 1/2-1/2
+
+[Event "Theorie und Praxis der Endspiele (1890)"]
+[Date "1890.??.??"]
+[Round "?"]
+[Composer "Berger, Johann Nepomuk"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1pp2k2/8/P1P2K2/8/8/8 w - - 0 1"]
+
+1. c5 $1 bxc5 (b5 2. a5) 2. a5 1-0
+
+[Event "Theorie und Praxis der Endspiele (1890)"]
+[Source "after Mendheim=J source unknown 1832."]
+[Date "1890.??.??"]
+[Round "?"]
+[Composer "Berger, Johann Nepomuk"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1P6/8/8/2K5/8/p1k5/8 w - - 0 1"]
+
+1. b8=Q $1 a1=Q 2. Qh2+ Kc1 3. Qg1+ Kb2 4. Qf2+ Ka3 5. Qe3+ Kb2 6. Qd2+ Kb1 (Ka3 7. Qb4+ Ka2 8. Qb3#) 7. Kb3 1-0
+
+[Event "Theorie und Praxis der Endspiele (1890)"]
+[Date "1890.??.??"]
+[Round "?"]
+[Composer "Berger, Johann Nepomuk"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/5R2/1pk5/b2n4/K7 w - - 0 1"]
+
+1. Rf3+ $1 Kd4 (Kc2 2. Rxb3 Kxb3) 2. Rf2 Kd3 3. Rxd2+ Kxd2 4. Kb2 1/2-1/2
+
+[Event "Theorie und Praxis der Endspiele (1890)"]
+[Source "(m): Berger=J Probleme Studien & Partien J. Berger#26 1914."]
+[Date "1890.??.??"]
+[Round "?"]
+[Composer "Berger, Johann Nepomuk"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/5R2/1pk5/b2n2n1/K7 w - - 0 1"]
+
+1. Rf3+ $1 Kb4 (Kc2 2. Rxb3 Bxb3 (Kxb3) (Nxb3+ 3. Kxa2) (Bb1 3. Rxb1)) (Kc4 2. Rf2 Kd3 (Ne3 3. Rxd2 Nc2+ 4. Kb2) 3. Rxg2) (Kd4 2. Rf2 Ke3 3. Rxg2 Kd3 (Nc4 4. Rxa2) 4. Rxd2+ Kxd2 5. Kb2) 2. Rf2 Ka3 (Kc3 3. Rf3+) 3. Rxd2 Ne1 4. Rxa2+ bxa2 1/2-1/2
+
+[Event "Theorie und Praxis der Endspiele (1890)"]
+[Date "1890.??.??"]
+[Round "?"]
+[Composer "Berger, Johann Nepomuk"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/8/p5p1/6p1/6P1/5P1P/6PK/8 w - - 0 1"]
+
+1. f4 $1 (1. h4 $2 gxh4 2. f4 Kc7 3. f5 Kd7 $1) (1. Kg3 $2 a5 $1 (Kc7 $2 2. Kf2 $1 (2. h4 $2 gxh4+ $1 (Kd7 $2 3. h5 $1 Ke7 4. Kf2 $1 Kf7 5. Ke3 Kg7 6. g3 Kh6 7. hxg6 Kxg6 8. f4) 3. Kf4 a5 4. Ke5 a4 5. Kd4 g5 $1 6. Kc4 Kd6 7. f4 gxf4) Kd6 3. Ke3 Ke5 4. g3 Kd5 5. h4 a5 6. f4 $1 a4 7. Kd3) 2. h4 gxh4+ 3. Kxh4 a4) Kc7 $1 (gxf4 2. h4) (a5 2. h4 gxh4 3. f5 gxf5 4. g5) 2. fxg5 $1 (2. f5 $2 Kd7) (2. h4 $2 Kd7) a5 3. Kg3 (3. h4 $2 Kd7 4. h5 Ke7) a4 4. Kh4 a3 5. g3 a2 1/2-1/2
+
+[Event "Theorie und Praxis der Endspiele (1890)"]
+[Source "(m): Courtney=H Chess=709-710 11/1974."]
+[Date "1890.??.??"]
+[Round "?"]
+[Composer "Berger, Johann Nepomuk"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/6p1/6p1/6P1/p4P1P/6PK/8/8 w - - 0 1"]
+
+1. f5 $1 a3 2. fxg6 $1 (2. f6 $2 gxf6 3. h5 (3. gxf6 Kd7 4. f7 Ke7) a2 4. hxg6 a1=Q 5. g7 Qh1+ 6. Kg4 f5+ $1 7. Kxf5 Qh7+ 8. Kf6 Qg8) a2 3. Kg4 a1=Q 4. Kh5 $1 Qg1 5. g4 Kd7 1/2-1/2
+
+[Event "Handbuch des Schachspiels (v.d. Lasa)"]
+[Date "1890.??.??"]
+[Round "?"]
+[Composer "Berger, Johann Nepomuk"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1P6/8/8/2K1k3/4r3/8/8 b - - 0 1"]
+
+Re1 $1 2. Kc5 $1 (2. b8=Q $2 Rc1+ 3. Kb3 Rb1+) Rb1 3. Kc6 1/2-1/2
+
+[Event "Theorie und Praxis der Endspiele (1890)"]
+[Date "1890.??.??"]
+[Round "?"]
+[Composer "Berger, Johann Nepomuk"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3pk3/8/4P3/2PK4/8/8 w - - 0 1"]
+
+1. Kd4 $1 Ke7 (Kd7 2. Kd5 Ke7 3. Kc6 Ke6 4. c4 Ke7 5. Kc7 Ke6 6. Kd8 Ke5 7. Kd7) 2. Kd5 Kd7 3. c4 Ke7 4. e5 dxe5 5. Kxe5 1-0
+
+[Event "source unknown (pl)"]
+[Source "= Stein=E b4a7 1789."]
+[Date "1890.??.??"]
+[Round "?"]
+[Composer "Berger, Johann Nepomuk"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6pk/8/6PP/6K1/8/8/8 w - - 0 1"]
+
+1. Kf5 $1 (1. g6+ $2 Kh6) Kg8 (g6+ 2. Kf6 gxh5 3. Kf7) (Kh8 2. Kg6 Kg8 3. h6 Kh8 4. hxg7+ Kg8 5. Kh6 Kf7 6. Kh7) 2. Kg6 Kh8 (Kf8 3. Kh7 Kf7 4. g6+ Kf8 5. Kh8) 3. Kf7 (3. h6 $2 Kg8) Kh7 4. h6 gxh6 (g6 5. Kf6) 5. g6+ 1-0
+
+[Event "source unknown"]
+[Date "1890.??.??"]
+[Round "?"]
+[Composer "Berger, Johann Nepomuk"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/1P6/P1P5/8/5p2/6p1/6Kp/8 w - - 0 1"]
+
+1. Kh1 $1 f3 2. a7+ Kxa7 3. b8=Q+ Kxb8 4. c7+ Kc8 1/2-1/2
+
+[Event "Theorie und Praxis der Endspiele (1890)"]
+[Source "after Heller=C b7d5 1873."]
+[Date "1890.??.??"]
+[Round "?"]
+[Composer "Berger, Johann Nepomuk"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6K1/2PP4/4k3/7N/8/2p5/8 w - - 0 1"]
+
+1. d7 $1 c1=Q 2. d8=Q Qxc6 3. Ng6+ Ke4 4. Qh4+ Ke3 5. Qe1+ Kd4 6. Qg1+ 1-0
+
+[Event "source unknown"]
+[Date "1895.??.??"]
+[Round "?"]
+[Composer "Berger, Johann Nepomuk"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/8/2K5/P5p1/1P6/8/8/4b3 w - - 0 1"]
+
+1. a6 $1 Bf2 2. b5 g4 3. b6 g3 4. a7 g2 5. a8=Q+ Ke7 (Kf7 6. Qa2+) 6. Qa3+ Ke8 7. b7 g1=Q 8. b8=Q+ Kf7 9. Qbf8+ 1-0
+
+[Event "Bohemia#395 (c)"]
+[Source "(c): Berger=J Bohemia=118 22-5-1921."]
+[Date "1915.05.02"]
+[Round "?"]
+[Composer "Berger, Johann Nepomuk"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/4n2p/4PR1P/2K5/5b2/5r2/4p3/4B3 w - - 0 1"]
+
+1. Rf8+ $1 Ng8 2. e7 Bd6+ (Bxh6 3. Rxg8+ Kxg8 4. e8=Q+ Bf8+ 5. Kc4 Rf6 6. Qxe2 Rg6 (Kf7 7. Qh5+) 7. Qe8 Rb6 8. Bc3) 3. Kxd6 Rxf8 (Rd3+ 4. Kc5 Rd5+ 5. Kc4 Rd4+ (Rc5+ 6. Kd3 Rd5+ 7. Ke3 Rd3+ 8. Kf2) 6. Kc3 Rd3+ 7. Kc2 Rd2+ 8. Bxd2 e1=Q 9. Rxg8+ Kxg8 10. Bxe1) 4. exf8=B $1 (4. exf8=Q $2) Nxh6 5. Bxh6 Kg8 6. Ke6 Kh8 7. Bc3+ Kg8 8. Kf6 e1=Q 9. Bxe1 Kh8 10. Bc3 Kg8 11. Bd4 Kh8 12. Kf7# 1-0
+
+[Event "Bohemia#395 (c)"]
+[Source "(c): Berger=J Deutsche Schachzeitung#1549 6/1915."]
+[Date "1915.05.02"]
+[Round "?"]
+[Composer "Berger, Johann Nepomuk"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/4n2p/4PR1P/p1K5/p4b2/P5p1/5rp1/6B1 w - - 0 1"]
+
+1. Rf8+ $1 Ng8 2. e7 Bd6+ (Bxh6 3. Rxg8+ Kxg8 4. e8=Q+ Bf8+ (Rf8 5. Qe6+) 5. Kb5) (Be3+ 3. Kb5 Bxh6 4. Rxg8+ Kxg8 5. e8=Q+ Bf8 6. Bxf2 gxf2 7. Qe6+) (Re2 3. Bd4+ Be5 4. Rxg8+) 3. Kxd6 Rxf8 (Rd2+ 4. Kc5 Rc2+ (Rd5+ 5. Kc4) 5. Kb5 Rb2+ 6. Kxa4) (Rf6+ 4. Rxf6 Nxf6 5. Ke6 Ne8 6. Kf7 Nd6+ 7. Kf8) 4. exf8=B (4. exf8=Q $2) (4. exf8=N $2 Nxh6 5. Ke5 Nf7+ $1) Nxh6 (Ne7 5. Bxe7) (Nf6 5. Bg7+ Kg8 6. Bxf6 Kf7 7. Ke5) 5. Bxh6 Kg8 6. Ke7 Kh8 7. Kf6 Kg8 8. Bd4 1-0
+
+[Event "Deutsche Schachzeitung#1640"]
+[Source "Deutsche Schachzeitung/7"]
+[Date "1918.??.??"]
+[Round "?"]
+[Composer "Berger, Johann Nepomuk"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5N1B/p6p/1p5q/1P1p1k1p/3PN3/7P/7K w - - 0 1"]
+
+1. Bg6 $1 Qxg6 (Qe2 2. Nd5+ Kg4 3. Bh5+ Kxh5 4. Nf4+) (Qf3+ 2. Ng2+ Kg4 3. Ne5+) 2. Nd5+ (2. Ng2+ $2 Qxg2+ 3. Kxg2 Ke3 4. Ne5 Ke2 $1 5. Kh3 Kd2 6. Kxh4 Kc3) Kf3 (Kf5 3. Ne7+ Kg4 4. Ne5+) 3. Ne5+ Ke2 4. Nf4+ Kd2 5. Nfxg6 1-0

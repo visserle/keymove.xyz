@@ -1,0 +1,511 @@
+[Event "?"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/8/8/4p3/1P3p2/5Rp1/8/5K1k w - - 0 1"]
+
+1. Rf2 (1. b5 $4 g2+ 2. Ke2 g1=Q $19 3. Rh3+ Kg2) (1. Ke2 $2 Kh2 2. Rf2+ $10) (1. Rxf4 $4 exf4 2. Ke2 g2) (1. Rc3 $4 g2+ 2. Ke1 g1=Q+ $19) (1. Ke1 $2 g2 2. Rh3+ $10) (1. Ra3 $4 g2+ 2. Ke1 g1=Q+) (1. Rd3 $4 g2+ 2. Ke1 g1=Q+) (1. Rb3 $4 g2+ 2. Ke1 g1=Q+) (1. Re3 $4 fxe3 2. Ke2 g2) gxf2 (f3 2. Rxf3 $1 (2. b5 $4 g2+ 3. Ke1 g1=Q+ $19) (2. Rd2 $4 e4 3. Rd5 g2+) (2. Ra2 $4 g2+ 3. Kf2 g1=Q+) (2. Ke1 $4 e4 3. Rf1+ Kg2) (2. Rc2 $4 e4 3. Rh2+ Kxh2) (2. Re2 $4 g2+ 3. Rxg2 fxg2+ 4. Ke2 g1=Q) (2. Rb2 $4 e4 3. Rh2+ Kxh2) (2. Rg2 fxg2+ 3. Ke1 g1=Q+) g2+ 3. Ke1 g1=Q+ 4. Rf1 $18) (e4 2. Rxf4 (2. Rg2 $18 e3 3. b5) (2. b5 $4 gxf2 3. b6 $18) (2. Ra2 $4 f3 $19 3. Rh2+ Kxh2) (2. Ke2 $4 f3+ 3. Ke3 Kg1) (2. Re2 f3 3. Rxe4 g2+) g2+ 3. Ke2 g1=Q 4. Rh4+ $18) 2. b5 (2. Kxf2 $2 e4 3. b5 $10) (2. Ke2 Kg1) e4 3. b6 (3. Kxf2 $2 e3+ 4. Kf3 e2 5. Kxe2 Kg2 6. b6 f3+ $10) (3. Ke2 Kg1) e3 4. b7 (4. Ke2 $4 Kg1 $19 5. Kd3 f1=Q+) f3 5. b8=R $18 (5. b8=Q $2 e2+ 6. Kxf2 e1=Q+ 7. Kxe1 f2+ 8. Kxf2) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "Kbk5/4p3/4p3/P7/B7/8/8/8 w - - 0 1"]
+
+1. Bd7+ (1. a6 $2 e5 2. a7 $10) (1. Bc6 $2 e5 2. a6 $10) (1. Bb3 $2 e5 2. a6 $10) (1. Be8 $2 e5 2. a6 $10) (1. Bb5 $2 e5 2. a6 $10) (1. Bc2 $2 e5 2. a6 $10) (1. Bd1 $2 e5 2. a6) Kc7 2. Bxe6 (2. a6 $2 e5 3. a7 $10) (2. Bc6 $4 Kxc6 3. Kxb8 Kb5 $19) (2. Ba4 $2 e5 3. a6) (2. Bb5 $2 e5 3. a6) (2. Bc8 Kxc8) Kc6 3. Bd7+ (3. Bd5+ $2 Kb5 4. a6 $10 Kxa6 5. Kxb8) (3. a6 $2 Bc7 4. a7 $10) (3. Bh3 $2 e6 4. a6) (3. Bf5 Bd6 4. Bd3) Kc7 4. Bb5 (4. a6 $2 e6 5. a7 $10 Bxa7 6. Bxe6) (4. Be6 Kc6 5. Bd7+ $18) (4. Be8 Kc8 5. Bd7+ $18) (4. Bc6 $2 Ba7 5. a6 Kxc6 6. Kxa7) (4. Ba4 Kc8 5. Bd7+ $18) (4. Bf5 Kc6 5. Bd7+) (4. Bg4 Kc6 5. Bd7+) (4. Bh3 Kc6 5. Bd7+) Kc8 (e5 5. Bd3 (5. a6 $2 e4 6. a7 $10) (5. Bc6 $4 Kxc6 6. Kxb8 Kb5 $19) (5. Be2 e4 6. Bf1 $18) (5. Ba6 e4 6. Bb7 $18) (5. Bf1 e4 6. Be2 $18) (5. Bd7 $2 Kxd7 6. Kxb8) (5. Bc4 e4 6. Be2) (5. Be8 $2 Kc8 6. Bb5) (5. Ba4 $2 Kc8 6. a6) Kc8 6. Ba6+ (6. Be4 $2 Bc7 7. a6 $10) (6. Bf5+ Kc7 7. Bd3 $18) (6. Bf1 $2 Bc7 7. a6 $10) (6. a6 $2 Kc7 7. Bb5) (6. Bb5 $2 Bc7 7. a6) (6. Bc2 $2 Bd6 7. a6) (6. Be2 $2 Bd6 7. a6) (6. Bc4 $2 Bc7 7. a6) (6. Bg6 $2 Bc7 7. a6) (6. Bh7 Bc7 7. Bf5+) Kc7 7. Bb7 $1 $18 (7. Bf1 e4 8. Be2 $18) (7. Be2 e4 8. Bc4 $18) (7. Bd3 Kc8 8. Ba6+ $18) (7. Bb5 e4 8. Bc4) (7. Bc4 e4 8. Be2)) 5. Ba6+ (5. Bf1 $2 Bc7 6. a6 $10) (5. Be2 $2 Bc7 6. a6 $10) (5. Bd7+ Kc7 6. Bb5 $18) (5. Bd3 $2 Bc7 6. a6) (5. a6 $2 Kc7 6. Bd7) (5. Bc6 $2 Bh2 6. a6) (5. Bc4 $2 Bc7 6. a6) (5. Ba4 $2 e5 6. Bb5) (5. Be8 e5 6. Bb5) Kc7 6. Bb7 $18 (6. Bc4 Kc8 7. Ba6+) (6. Bc8 Kxc8) (6. Bb5 Kc8 7. Ba6+) (6. Bd3 Kc8 7. Ba6+) (6. Be2 Kc8 7. Ba6+) 1-0
+
+[Event ".c Suomen Shakki#0059"]
+[Source "Suomen Shakki/11"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k2q/7n/4K3/8/5P2/8/1p6/5Q2 w - - 0 1"]
+
+1. Qb5+ $1 Kf8 2. Qb8+ Kg7 3. Qxb2+ Kg8 4. Qxh8+ $1 Kxh8 5. Kf7 $1 1-0
+
+[Event "Skakbladet"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K1k2/3Bp2p/8/7b/8/8/8/2B5 w - - 0 1"]
+
+1. Bh6+ $1 Kg8 2. Be6+ Bf7 (Kh8 3. Kxe7 Bf7 4. Kf8) 3. Kd7 Bxe6+ 4. Kxe6 Kh8 5. Kf7 e5 6. Bg7# 1-0
+
+[Event "Springaren"]
+[Source "Springaren/9"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7B/6Pr/5K1k/8/8/8/8 w - - 0 1"]
+
+1. g7 $1 Rg6 2. Bxg6+ Kh6 3. g8=N+ 1-0
+
+[Event "British Chess Magazine#0879 (c)"]
+[Source "British Chess Magazine/7 (c): Garcia=M Estudios Artisticos de Ajedrez - IV-50 2012."]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4n2r/R4pkN/6P1/3K1p2/5P2/5P2/8/8 w - - 0 1"]
+
+1. gxf7 $1 (1. Rxf7+ $2 Kxg6) Nf6+ 2. Ke6 $1 (2. Nxf6 $2 Kxf6) Nxh7 3. f8=Q+ Kxf8 4. Ra8+ Kg7 5. Rxh8 Kxh8 6. Kf7 $1 Ng5+ 7. fxg5 1-0
+
+[Event "sp.p De Vanföres Tidsskrift"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5bbK/8/8/2R5/6rk/1B6 w - - 0 1"]
+
+1. Rc6 $1 (1. Rf3 $2 Bg7+ $1 2. Kxg7 Be4+) (1. Rc1 $2 Bg5+) Bg7+ 2. Kxg7 Be4+ (Be8+ 3. Rg6) 3. Kh8 $1 Bxc6 4. Be4 $1 Bxe4 1/2-1/2
+
+[Event "sp.p De Vanföres Tidsskrift (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - IV-49 2012."]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1B5k/6rP/2R5/8/8/2p2bbK/8/8 w - - 0 1"]
+
+1. Rc8+ $1 (1. Rxc3 $2 Bg2+ 2. Kxg2 Be5+ 3. Kh1 Rxh7+ (Bxc3 $2 4. Be5 Bxe5)) Kxh7 2. Rxc3 Bg2+ 3. Kxg2 Be5+ 4. Kh1 Bxc3 5. Be5 $1 Bxe5 1/2-1/2
+
+[Event "Springaren"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/5p2/6B1/5K2/7p/7k w - - 0 1"]
+
+1. Bh3 $1 Kg1 2. Bg2 f4 3. Bh1 Kxh1 4. Kf2 f3 5. Kf1 f2 6. Kxf2 1/2-1/2
+
+[Event "Springaren#1087"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p1pp1/3P4/3P1P1p/4K2k/7p/7P/8 w - - 0 1"]
+
+1. f6 $1 gxf6 (g6 {<main>} 2. Kf4 g5+ 3. Kf3 (3. Kf5 {<or>}) g4+ 4. Kf4 g3 5. hxg3#) (g5 2. Kf3 g4+ 3. Kf4 g3 4. hxg3#) 2. Kf4 f5 3. Kxf5 f6 4. Kxf6 Kg4 5. Ke7 1-0
+
+[Event "1.hm Tidskrift for Schack#0480"]
+[Source "Tidskrift for Schack/12 19.p Sweden champ 1951-1953."]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1PR5/k1p1q3/Bp2P3/1b6/1p6/1p6/1K6 w - - 0 1"]
+
+1. Rxc6+ $1 Qxc6 (Kxb7 {<main>} 2. Rxe6 Bxa5 3. Rd6 $1 (3. Kxb2 $2 Kc7 4. Ra6 Be1 $1) Bc7 4. Rd5 Kc6 5. e6 $1 Bd6 6. Rd3) 2. b8=N+ $1 Kxa5 (Kb7 3. Nxc6 Kxc6 4. Bxb4 Kd5 5. Bd6) 3. Nxc6+ Ka4 (Kb6 4. Nxb4 Kc5 5. Nd3+) 4. Nxb4 Kxb4 5. e6 Ka3 $1 6. e7 b4 7. e8=R $1 (7. e8=Q $2) Ka4 {<eg>} 8. Re5 Ka3 9. Ra5# 1-0
+
+[Event "Tidningen Upsala"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/6pb/5P2/5P2/7K/8/8/8 w - - 0 1"]
+
+1. f7 $1 g5+ 2. fxg6 Bg8 $1 3. f8=R $1 (3. f8=Q $2) Kg7 4. Re8 $1 (4. Rb8 $2 Kh6 5. Kg4 Be6+ $1 6. Kf4 Kxg6) Kh6 5. Kg4 Bb3 6. Kf5 Bc2+ 7. Kf6 Bxg6 {<eg>} 8. Rh8+ Bh7 9. Kf7 $1 1-0
+
+[Event "Schweizerische Arbeiter-Schachzeitung#3"]
+[Source "Schweizerische Arbeiter-Schachzeitung/3"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/6PP/8/4p3/p1K5/k1n5 w - - 0 1"]
+
+1. h6 $1 e2 (Nd3 2. h7 Ne1+ 3. Kd1 Kb1 4. h8=Q a1=Q 5. Qxa1+ Kxa1 6. g6) 2. h7 e1=N+ $1 (e1=Q 3. h8=Q+) 3. Kxc1 (3. Kd1 $2 Kb1 4. h8=Q Ned3 $1 5. g6 (5. Qa8 a1=Q 6. Qxa1+ Kxa1 7. g6 Nf2+ 8. Kxc1 Ng4) Nb2+ 6. Kd2 a1=Q) Nd3+ 4. Kc2 Ne5 $1 (Nb4+ 5. Kb3 Kb1 6. h8=Q a1=Q 7. Qh1#) (Ne1+ 5. Kd1 Kb1 6. h8=Q a1=Q 7. Qxa1+ Kxa1 8. g6) 5. h8=R $1 (5. h8=Q $2) 1-0
+
+[Event "Springaren"]
+[Source "EG#00953."]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/2pBp3/2P1P3/8/8/3K4/8/8 w - - 0 1"]
+
+1. Bc8 $1 (1. Be8 $2 Kxe8 2. Kc4 Kd8 3. Kb5 Kc8 4. Ka6 Kb8) Kxc8 2. Ke4 Kd8 3. Kf5 Ke8 4. Kg6 Kf8 5. Kh7 $1 1-0
+
+[Event "Schweizerische Arbeiter-Schachzeitung#3"]
+[Source "Schweizerische Arbeiter-Schachzeitung/10"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/1b6/P1p5/K1p5/1P6/8/8/8 w - - 0 1"]
+
+1. bxc5 $1 (1. axb7 $2 c4 $1 2. Ka4 Kxb7 3. Ka3 Kc7 $1 (Kb6 $2 4. Kb2 Kb5 5. Kc3) 4. Kb2 Kd6 5. Kc2 Ke5 $1 6. Kc3 Kd5) Bc8 (Ba8 2. Kb6 Bb7 (Kc8 3. Ka7) 3. axb7) 2. Kb6 Bd7 3. a7+ Ka8 4. Kc7 Be8 5. Kb6 (5. Kd8 $2 Bh5 6. Kc7 Bf3 7. Kb6 Be4 8. Ka6 Bd3+ 9. Kb6 Bb5) Bd7 6. Kc7 1/2-1/2
+
+[Event "Springaren"]
+[Source "EG#00954."]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3k4/8/1P6/K7/8/8 w - - 0 1"]
+
+1. Ka4 $1 Kc6 2. Ka5 Kb7 3. Kb5 Ka7 4. Kc6 Ka6 5. b5+ Ka7 6. Kc7 Ka8 7. Kb6 $1 (7. b6 $2) Kb8 8. Ka6 $1 (8. Kc6 $2 Ka7 $1 9. b6+ Ka8) 1-0
+
+[Event "Uppsala Nya Tidning"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "b7/8/Kb6/2k5/8/n7/8/2B5 w - - 0 1"]
+
+1. Be3+ $1 (1. Bxa3+ $2 Kc6 2. Bb4 Bb7#) Kc6 2. Bxb6 Bb7+ 3. Ka7 Nb5+ 4. Kb8 Kxb6 1/2-1/2
+
+[Event "2.hm Schach Echo#081"]
+[Date "1955.06.20"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/1p1nP3/1p6/1PP5/2P2K2/8/8/8 w - - 0 1"]
+
+1. c6 $1 (1. cxb6 $2 Kxe7 $1 2. Ke4 Ke6) Nc5 $1 (Nb8 2. c7) (Kxe7 2. c7) (bxc6 2. bxc6 Nc5 3. c7 Ne6+ 4. Ke5 Nxc7 5. Kd6) 2. c7 $1 (2. cxb7 $2 Nxb7 3. Ke5 Kxe7) Ne6+ 3. Ke5 Nxc7 4. Kd6 Na8 5. Ke6 $1 Nc7+ 6. Kd6 Na8 7. Ke6 1/2-1/2
+
+[Event "Tidskrift for Schack#0693 (c)"]
+[Source "Tidskrift for Schack/11-12 (c): Garcia=M Estudios Artisticos de Ajedrez - IV-49 2012."]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/2p5/1Pk1p1N1/4P3/3rP3/7p/7P/8 w - - 0 1"]
+
+1. b7 $1 Ra4+ 2. Kb8 Rb4 3. Ka8 Rxb7 4. Ne7+ Kb6 5. Nc6 $1 Ka6 6. Nb4+ $1 Kb6 (Rxb4) 7. Nc6 Kxc6 1/2-1/2
+
+[Event "Tidskrift for Schack#0687"]
+[Source "Tidskrift for Schack/9-10"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7R/8/8/8/1kp5/8/1rn5/3K4 w - - 0 1"]
+
+1. Kc1 $1 c3 $1 2. Rb8+ Ka3 3. Rxb2 cxb2+ 4. Kb1 Ne3 (Kb3) 1/2-1/2
+
+[Event "Schach Echo#166"]
+[Date "1957.10.20"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6b1/5k2/8/1P5p/1p2K2P/8/8/8 w - - 0 1"]
+
+1. b6 $1 b3 2. b7 b2 3. b8=Q b1=Q+ $1 4. Qxb1 Bh7+ 5. Kf4 $1 Bxb1 6. Kg5 Bg6 7. Kh6 $1 Kf6 1/2-1/2
+
+[Event "1/2.hm Shakhmaty v SSSR#28"]
+[Source "Shakhmaty v SSSR/8"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/8/PN6/p1k5/3p2b1/1pP5/1P6/8 w - - 0 1"]
+
+1. Na4+ $1 Kb5 2. cxd4 (2. a7 $2 Bf3 3. cxd4 Kxa4 4. Kf7 Kb5) Be6+ (Kxa4 3. d5 $1 Bc8 4. a7 Bb7 5. d6) 3. Kf8 Kxa4 4. Ke7 Bc8 (Bd5 5. Kd6 Ba8 6. Kc5) 5. a7 Bb7 6. d5 $1 (6. Ke6 $2 Kb5 7. d5 Kb6 8. d6 Bc8+ $1 9. d7 Bxd7+ 10. Kxd7 Kxa7) Bxd5 7. Kd6 Bh1 8. Kc5 1/2-1/2
+
+[Event "Tidskrift for Schack#0902"]
+[Source "Tidskrift for Schack/3"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "Hildebrand, A"]
+[Black " Grzeban, G."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5p2/5Prp/7k/4BK2/4p1Pp/8 w - - 0 1"]
+
+1. Bf2+ $1 Rg3+ 2. Kf4 $1 e1=Q (h1=N {<main>} 3. Be1 $1 Nf2 4. Bxf2 e1=Q 5. Bxe1) 3. Bxe1 h1=N 4. Bf2 $1 Nxf2 1/2-1/2
+
+[Event "L'Italia Scacchistica#3292"]
+[Source "L'Italia Scacchistica/10"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/5N2/1p5P/3p1K1N/4p3/8/p7/8 w - - 0 1"]
+
+1. Ng5 $1 a1=Q 2. Nf6+ Kf8 3. Ke6 Qa7 4. Ngh7+ Qxh7 5. Nxh7+ Kg8 6. Ng5 e3 7. Kf6 e2 8. h7+ Kh8 9. Kg6 e1=Q 10. Nf7# 1-0
+
+[Event "Tidskrift for Schack"]
+[Source "Tidskrift for Schack/7-8"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1bPB4/8/3k4/8/8/5p1p/5Kb1 w - - 0 1"]
+
+1. c8=Q $1 (1. c8=B $2 Ba8 $1) Bxc8 2. Bxc8 Kc6 3. Bg4 $1 (3. Bf5 $2 h1=B $1 (h1=Q $2 4. Be4+ Qxe4)) h1=Q (h1=B 4. Bf3+ Bxf3) 4. Bf3+ Qxf3 1/2-1/2
+
+[Event "4.hm Shakhmaty v SSSR (tt) (c)"]
+[Source "Shakhmaty v SSSR/3 1963 (c): Garcia=M Krug=P Estudios Artisticos de Ajedrez - XVII-46 2015."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "Hildebrand, A"]
+[Black " Kallstrom, H."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1n6/1b3KP1/p1k5/P7/2P5/1B6 w - - 0 1"]
+
+1. Ba2+ $1 (1. g6 $2 Bd7+ 2. Ke5 Nc8 3. g7 Ne7 4. Kf6 Ng8+ 5. Kf7 (5. Kg5 Ne7 6. Ba2+ Kc5 7. Kf6 Kd6) Nh6+ 6. Kg6 Kc3 7. Kxh6 Be6) Kc5 (Kc3 2. g6 Nc4 3. g7 Kb2 4. g8=Q) (Kd4 2. g6 Bc6 3. g7 Be4+ 4. Kg5 Bh7 5. Kh6 Nc8 6. Kxh7 Ne7 7. Bf7) 2. g6 Nd5 3. Bxd5 Kxd5 4. g7 Bd7+ 5. Kf6 Be6 6. c4+ Kd6 7. c5+ Kd7 8. c6+ Kd6 9. c7 Kd7 10. c8=Q+ Kxc8 11. Kxe6 1-0
+
+[Event "Schach Echo#523a (tw)"]
+[Source "Schach Echo/11"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/4pb2/1K2N3/1n1B4/k7 w - - 0 1"]
+
+1. Nc2+ $1 Kb1 2. Na3+ (2. Bxf4 $2 Nc4 $1) Ka1 3. Bxf4 (3. Bc3 $2 Bc1 4. Bd4 e3 $1 5. Be5 e2 6. Bc3 e1=Q 7. Bxe1 Nd1) Nd3 4. Be3 $1 Nb2 5. Bd4 $1 e3 6. Bxb2# 1-0
+
+[Event "Tidskrift for Schack#1289a (tw) (c)"]
+[Source "Tidskrift for Schack/12 (c): Garcia=M Estudios Artisticos de Ajedrez - IV-45 2012."]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3b4/4N2B/8/2k3p1/8/N1r3B1/8/K7 w - - 0 1"]
+
+1. Bf2+ $1 Kb4 2. Nd5+ (2. Nb1 $2 Rc1 3. Nd5+ Kb3 4. Bg8 Rh1 5. Bd4 Kc4 6. Be3 Kd3) Kxa3 3. Nxc3 Bf6 4. Be1 Kb3 5. Bg8+ Kc2 6. Ka2 Bxc3 7. Bh7+ Kd1 8. Bxc3 1-0
+
+[Event "Tidskrift for Schack#1598 (c)"]
+[Source "Tidskrift for Schack/1 (c): Garcia=M Estudios Artisticos de Ajedrez - IV-43 2012."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5B1k/3PP3/3q2bp/3p3P/p2p3r/P2P1K1P/6P1/8 w - - 0 1"]
+
+1. Bg7+ $1 (1. e8=Q $2 Qf4+ 2. Ke2 Bxh5+ 3. Ke1 (3. Qxh5 Rxh5 4. d8=Q Re5+ 5. Kd1 Qf1+ 6. Kc2 Re2#) (3. g4 Bxg4+ 4. Ke1 Bxd7 5. Qxd7 Qxf8) Qc1+ 4. Kf2 Rf4+ 5. Kg3 Rf3+ $1 6. gxf3 Qg1+ 7. Kf4 Qg5#) Kxg7 (Kh7 2. hxg6+ Qxg6 3. e8=Q) 2. e8=N+ Bxe8 3. dxe8=N+ Kf7 4. Nxd6+ Ke6 5. Nf5 $1 Kxf5 6. g4+ Kf6 7. Kg2 Ke6 $1 8. Kh2 $1 (8. Kg3 $2 Ke5 $1 9. Kxh4 Kf4 10. g5 hxg5#) Kf6 9. Kg2 $1 (9. Kg3 $2 Kg5 10. Kg2 Kf4) 1/2-1/2
+
+[Event "Tidskrift for Schack#1598 (c)"]
+[Source "Tidskrift for Schack/1 (c): Garcia=M Keith=D Estudios Artisticos de Ajedrez - XV-23 2015."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5B1k/3PP3/3q2bp/3p3P/1p1p3r/1P1P1K1P/3P2P1/8 w - - 0 1"]
+
+1. Bg7+ $1 Kxg7 (Kh7 2. hxg6+ Qxg6 3. e8=Q Qxd3+ 4. Kf2 Qxd2+ 5. Kg1) 2. e8=N+ Bxe8 3. dxe8=N+ Kf7 (Kh7 4. Nxd6 Rxh5 5. Nb5 Rf5+ 6. Ke2 Re5+ 7. Kf2 Re8 8. Nxd4 Rc8 9. Ke3 Kg6 10. Nf3) 4. Nxd6+ Ke6 5. Nf5 $1 Kxf5 6. g4+ Ke6 7. Kg2 Kf6 (Ke5 8. Kg3) 8. Kh2 $1 (8. Kg3 $2 Ke5 9. Kxh4 Kf4 10. g5 hxg5#) Kg5 9. Kg3 Rxh5 10. gxh5 1/2-1/2
+
+[Event "Uppsala Nya Tidning"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/k7/1p6/1PP5/KP6/PP1p4/8/8 w - - 0 1"]
+
+1. c6 $1 (1. cxb6+ $2 Kb8 $1) d2 2. c7 d1=N (d1=Q 3. c8=Q $1) 3. c8=N+ $1 Kb7 4. Nxb6 Kxb6 1/2-1/2
+
+[Event "Tidskrift for Schack#2006"]
+[Source "Tidskrift for Schack/12"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p1p5/1B6/PkP5/8/1K6/8/8 w - - 0 1"]
+
+1. Bxa7 $1 (1. Bxc7 $2 Kxc5 2. Ka4 Kc6 3. Bb6 axb6 4. a6 Kc7 5. Kb5 Kc8 6. Kc6 Kb8 7. Kxb6 Ka8 8. a7) Kxa5 (Ka6 2. Kb4 Kxa7 3. Kb5) 2. Kc4 $1 (2. Bb6+ $2 Kb5) Ka6 3. Bb6 $1 cxb6 4. c6 Ka7 (b5+ {<main>} 5. Kc5) 5. Kb5 Ka8 $1 6. Ka6 $1 Kb8 7. Kxb6 Kc8 8. c7 Kd7 9. Kb7 1-0
+
+[Event "Expressen"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K2k/8/5N2/3n4/8/3q1P2/Q7/8 w - - 0 1"]
+
+1. Kf7 $1 Nxf6 2. Qh2+ Qh7+ (Nh7 3. Qe5+ Nf6 4. Qxf6+ Kh7 5. Qg7#) 3. Qxh7+ Nxh7 4. f4 $1 1-0
+
+[Event ".c Akerblom MT Tidskrift for Schack (c)"]
+[Source "Tidskrift for Schack/11 (c): Garcia=M Estudios Artisticos de Ajedrez - IV-42 2012."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4K3/7k/8/1R6/4p3/2p5/8/2b5 w - - 0 1"]
+
+1. Kf7 $1 (1. Re5 $2 e3 2. Kf7 Kh6) Bh6 (Bd2 2. Rh5+ Bh6 3. Rh2 $1 e3 4. Rc2 Bf4 5. Rxc3 e2 6. Rh3+ Bh6 7. Rh1) (Kh6 2. Rb1 Bd2 3. Kf6 Kh5 4. Kf5 Kh4 5. Kxe4) 2. Rc5 $1 e3 3. Rxc3 e2 4. Rg3 $1 e1=Q 5. Rg7+ Kh8 6. Rg8+ Kh7 7. Rg7+ Bxg7 1/2-1/2
+
+[Event "Tidskrift for Schack#2369 (m)"]
+[Source "Tidskrift for Schack/2 (m): Tidskrift for Schack=7 1984."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4K3/6rk/8/1nn2R2/5N2/8/8/8 w - - 0 1"]
+
+1. Rh5+ $1 (1. Rxc5 $2 Nd6+ 2. Kd8 Nb7+ 3. Ke8 Nxc5 4. Ne6 Rg8+) (1. Rf6 $2 Ne4 $1 2. Rg6 (2. Rb6 Nbd6+ 3. Kd8 Nc5) (2. Rc6 Ned6+ 3. Kd8 Nb7+ 4. Kc8 (4. Ke8 N5d6+) Na7+) Nbd6+ 3. Kd8 Rf7 $1 4. Rg4 Nc5 $1 5. Rh4+ Kg7 6. Rg4+ Kh6 $1 7. Rg6+ Kh7 8. Rxd6 Nb7+ 9. Ke8 Nxd6+) Kg8 2. Rxc5 $1 (2. Ne6 $2 Nd6+ 3. Kd8 Nxe6#) Nd6+ 3. Kd8 Nb7+ 4. Ke8 Nxc5 5. Ne6 $1 Nxe6 1/2-1/2
+
+[Event "Tidskrift for Schack#2416"]
+[Source "Tidskrift for Schack/1"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/b3K2k/6N1/3N4/4B3/5b2/8 w - - 0 1"]
+
+1. Nf7+ $1 Kg7 (Kg6 2. Ne5+) 2. Nf5+ $1 (2. Bxf2 $2 Bc4+) Kf8 (Kg6 3. Ne5+) 3. Bxf2 Bc4+ (Bc8+ {<main>} 4. Kf6 Bxf5 5. Bc5+ Kg8 (Ke8 6. Nd6+) 6. Nh6+ Kh7 7. Nxf5) 4. Kf6 Bxf7 5. Bc5+ Kg8 (Ke8 6. Nd6+) 6. Nh6+ (6. Ne7+ $2 Kf8) Kh7 7. Nxf7 1-0
+
+[Event ".hm Kazantsev JT 64 Shakhmatnoye Obozre"]
+[Source "EG#08078."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/2B5/k1P3B1/8/8/7p/6p1/5b2 w - - 0 1"]
+
+1. Bh2 $1 g1=Q $1 2. Bxg1 h2 $1 (Bg2 3. Bd3+ $1 Ka5 4. Kb7) 3. Bxh2 Bg2 4. Be8 Kb6 5. Bg1+ Kc7 6. Ka7 $1 Bxc6 7. Bh2+ Kd8 8. Bxc6 1-0

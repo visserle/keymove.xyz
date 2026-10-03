@@ -1,0 +1,26 @@
+[Event "Ilustrets Zurnals#16 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - VII-27 2012."]
+[Date "1923.08.03"]
+[Round "?"]
+[Composer "Behting, Carl"]
+[White "Behting, C"]
+[Black " Mattison, H."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4K3/7P/6Pk/4N3/1n3p2/8/4r2B/4q2b w - - 0 1"]
+
+1. Bxf4+ $1 (1. h8=Q+ $2 Kg5) Kg7 2. h8=Q+ $1 Kxh8 3. Kf8 Bd5 4. Nf7+ $1 Bxf7 5. Be5+ $1 Rxe5 6. gxf7 $1 (6. g7+ $2 Kh7 7. g8=Q+ Kh6 (Bxg8 $2)) Qh1 (Re8+ 7. fxe8=Q) 1/2-1/2
+
+[Event "Le Temps#380"]
+[Date "1934.03.04"]
+[Round "?"]
+[Composer "Behting, Carl"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/K7/8/2P1N3/n3k3/2p5/8/8 w - - 0 1"]
+
+1. c6 $1 (1. Nc4 $2 c2 2. Nd2+ Ke3 $1 3. Nb3 Nxc5 4. Nc1 Kd2 5. Na2 Nd3 6. Kb6 Nb4) c2 2. c7 $1 (2. Nd3 $2 Kxd3 3. c7 c1=R $1) c1=Q (c1=R { <main>} 3. Nc6 $1 (3. Kb7 $2 Nc5+ 4. Kb8 Na6+) (3. Kb8 $2 Rb1+ 4. Ka7 Nb6) Rxc6 4. Kb7 Rb6+ 5. Ka7 Rc6 6. Kb7) 3. Nc4 (3. Nc6 $2 Qc5+) Qxc4 (Qg1+ 4. Kb7 Nc5+ 5. Kc6 $1) 4. c8=Q Qxc8 1/2-1/2

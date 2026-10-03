@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Kofman, Rafael Moiseevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "6R1/1p3p2/1K3kNp/2p1p3/4P2P/2P5/2p5/8 w - - 0 1"]
+
+1. Ne7 (1. Rb8 c1=Q) c1=Q 2. Nd5+ (2. Rg6+ $4 fxg6 3. Nd5+ Ke6 $19) (2. Nf5 $4 Qb1+ 3. Kxc5 Qxe4) (2. Rh8 Kxe7 3. Kxc5 Qxc3+ 4. Kb5 Qe1) (2. Ng6 Qxc3 3. Kxb7 Qb4+) (2. Rf8 Kxe7) (2. c4 Kxe7 3. Kxc5 Qe3+) (2. Rd8 Kxe7) (2. Rg7 Kxg7 3. Nf5+ Kh7) Ke6 3. Kc7 (3. Rf8 Qb1+ 4. Kxc5 Qxe4 5. Re8+ Kf5) (3. Nf4+ exf4) (3. Ne3 Qxe3 4. Kxb7 Qxc3) (3. Rh8 f5 4. Kxb7 fxe4 5. Nc7+ Kf5) f5 4. Rf8 (4. Rg6+ $2 Kf7 5. exf5 $10) (4. Nb4 cxb4 5. Rg6+ Ke7) (4. Rg5 hxg5) (4. Ne3 Qxe3 5. Rg6+ Kf7) (4. Ra8 fxe4 5. Re8+ $2 (5. Nb6 $5 Qxc3) Kxd5 6. Rd8+ Kc4) fxe4 5. c4 (5. Rf6+ $4 Kxd5 6. Rd6+ Kc4 $19) (5. Nf6 $4 e3 $19) (5. Re8+ $4 Kxd5 6. Rd8+ Kc4 $19) (5. Rd8 $4 e3 6. Rd6+ Kf5) (5. Ne3 $4 Qxe3 6. Kxb7 Qxc3) (5. Nb6 $4 e3 6. Re8+ Kf5) (5. Rf7 Kxf7) Qxc4 6. Rf6+ (6. Ne3 $4 Qd3 7. Re8+ Kf7 $19) (6. Re8+ $4 Kxd5 7. Rd8+ Ke6 $19) (6. Rd8 $4 Qxd5 7. Re8+ Kf7) (6. Nb6 $4 Qb5 $19) (6. Nf4+ $4 exf4 7. Rxf4 Qd5) (6. Rf7 Kxf7) Kxd5 7. Rd6# (7. Kd7 $4 e3 8. Rd6+ Ke4) (7. Re6 Kxe6) (7. Rf5 e3) (7. Rc6 bxc6) 1-0

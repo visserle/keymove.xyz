@@ -1,0 +1,113 @@
+[Event "?"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Weinberger, Oscar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/8/3k1PR1/8/1K6/8/4b3/4n3 w - - 0 1"]
+
+1. f7+ (1. Rg1 $2 Nd3+ 2. Ka4 $10) (1. Ka5 Ke6 2. Kb4) (1. Ka4 Bd1+ 2. Ka3) Ke7 2. Re6+ (2. Rg7 $2 Nd3+ 3. Ka4 $10) (2. Rf6 $2 Nd3+ 3. Ka4 $10) (2. Rg1 $2 Nd3+ 3. Ka4) (2. Kc3 $2 Nd3 3. f8=Q+) (2. Rg5 $2 Nd3+ 3. Ka4) (2. Rg8 $2 Nd3+ 3. Ka4) (2. Kc5 Kxf7 3. Rg1) Kf8 3. Re8+ (3. Rxe2 $2 Nf3 4. Rd2 $10) (3. Rf6 $2 Nd3+ 4. Ka4) (3. Kc3 $2 Nd3 4. Rd6) (3. Re7 $4 Nd3+ 4. Kc4 Kxe7 5. f8=Q+ Kxf8) (3. Re3 $2 Nd3+ 4. Rxd3) (3. Kc5 Nd3+ 4. Kd4) Kxf7 4. Rxe2 (4. Re3 $2 Nd3+ 5. Rxd3 Bxd3 6. Ka4 $10) (4. Rf8+ Kxf8) Nd3+ 5. Kc4 (5. Kc3 $2 Nc5 6. Rd2 $10) (5. Kb5 $2 Kg7 6. Rd2) (5. Ka3 $2 Nc5 6. Rd2) (5. Kb3 $2 Nc5+ 6. Ka3) (5. Ka5 $2 Nc5 6. Rd2) Nf4 6. Rf2 $18 (6. Re4 $2 Ne6 7. Rd4) (6. Kd4 Ne6+ 7. Rxe6 Kxe6 8. Kc4) 1-0
+
+[Event "2.hm Magyar Sakkélet#0376"]
+[Source "Magyar Sakkélet/12 also British Chess Magazine#1358 British Chess Magazine/4 1961."]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Weinberger, Oscar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7p/p5NK/8/P7/8/4R1rk w - - 0 1"]
+
+1. Nf3 $1 (1. Rxg1+ $2 Kxg1 2. Ne6 Kf2 3. Nd4 Ke3 4. Nb3 Kd3 5. Nxa5 Kc3) Rxe1 2. Nxe1 Kg1 3. Nd3 Kf1 4. Nc1 $1 Ke1 5. Nb3 Kd1 (a4 6. Nc5 Kd2 7. Nxa4 Kc2 8. Nb2 $1) 6. Nxa5 Kc2 7. a4 Kc3 8. Nb3 $1 Kb4 9. a5 1-0
+
+[Event "2.hm Olympic ty Schach"]
+[Source "Schach/7"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Weinberger, Oscar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/5P2/4b1P1/8/k7/P7/7K w - - 0 1"]
+
+1. f7 $1 Bd6 2. Kg2 Kxa2 3. Kf3 Kb3 4. Ke4 $1 (4. Kg4 $2 g6 $1 5. Kf3 Kc4 6. Ke4 Kc5 7. f8=Q Bxf8 8. Ke5) Kc4 $1 (g6 5. Kd5 Ba3 6. Ke6 Kc4 7. Kf6 Kd5 8. Kxg6 Ke6 9. Kg7 Kf5 10. g6 Kg5 11. Kh7 Kf6 12. g7) 5. Kf5 Kd5 6. Kg6 Bf8 7. Kh7 Ke6 8. Kg8 Ke7 9. g6 $1 1-0
+
+[Event "Magyar Sakkélet#0428"]
+[Source "Magyar Sakkélet/3"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Weinberger, Oscar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1k4P1/4KP2/b7/b6p/7P/8/8 w - - 0 1"]
+
+1. f7 $1 Bb3+ 2. Ke7 $1 Bb4+ 3. Ke8 Ba4+ 4. Kd8 Ba5+ 5. Ke7 Bb4+ 6. Kf6 Bc3+ 7. Kg6 Bc2+ 8. Kh6 Bd2+ 9. Kh5 Bd1+ 10. Kxh4 Be1+ 11. Kg5 Bd2+ 12. Kf5 $1 Bc2+ 13. Kg4 $1 Bd1+ 14. Kg3 1-0
+
+[Event "Problem#138"]
+[Source "Problem/4"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Weinberger, Oscar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4N3/7k/6p1/4R1Pp/5p2/7K w - - 0 1"]
+
+1. Re5+ $1 Kg6 2. Nf8+ Kf6 3. Nd7+ Kg6 4. Re6+ Kg5 5. Rf6 1-0
+
+[Event "EG"]
+[Source "EG/7 EG#00371."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Weinberger, Oscar"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/2R2Pq1/8/N4K1B/4n3/8/3p2b1/8 w - - 0 1"]
+
+1. Rc8+ $1 Ke7 2. Re8+ (2. f8=Q+ $2 Qxf8+ 3. Rxf8 Ng3+ 4. Kg5 Nxh5) (2. Rc7+ $2 Kd8 3. Rc6 Qg5+) (2. Nc6+ $2 Kd7 3. Rd8+ Kxc6 4. f8=Q Ng3+ 5. Kf4 Qxf8+) Kd7 (Kd6 3. f8=Q+ Qxf8+ 4. Rxf8 Ng3+ 5. Kg5 Nxh5 6. Rd8+) 3. f8=N+ $1 (3. Rxe4 $2 d1=Q 4. Bxd1 Qxf7+ 5. Ke5 Qe7+) Qxf8+ (Kc7 4. Ne6+) (Kd6 4. Rd8+) 4. Rxf8 Ng3+ 5. Ke5 (5. Kf4 $2 Nxh5+) (5. Kg5 $2 Nxh5 6. Nb7 Bxb7) Nxh5 6. Nb7 (6. Nc6 $2 Bxc6 7. Rf1 Ba4) (6. Rg8 $2 d1=Q 7. Rxg2 Qe1+ 8. Kd5 Qxa5+) Bxb7 7. Rf1 Bf3 (Bc6 8. Rd1) (Ng3 8. Rd1 Ne4 9. Kd4) 8. Rxf3 d1=Q 9. Rd3+ Qxd3 1/2-1/2
+
+[Event "Problem#176"]
+[Source "Problem/1"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Weinberger, Oscar"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7B/2K5/6pp/5k2/7P/8 w - - 0 1"]
+
+1. Bg7 $1 g3 2. Be5 (2. h3 $2 g2 3. Bd4 Kg3 4. Bg1 Kxh3 5. Kd4 Kg3 6. Ke3 h3 7. Bf2+ Kh2) g2 3. Bd4 Ke2 4. Kd5 Kf1 5. Ke4 g1=Q 6. Bxg1 Kxg1 7. Ke3 Kxh2 8. Kf2 1/2-1/2
+
+[Event "Chess Life & Review#1051"]
+[Source "Chess Life & Review/3 also L'Apprenti Sorcier#032 L'Apprenti Sorcier=2 L'Apprenti Sorcier/10 1991."]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Weinberger, Oscar"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/2k5/8/K7/2pp4/p7/B7 w - - 0 1"]
+
+1. Kb3 $1 c2 2. Kb2 Kd5 3. Kc1 Ke4 4. Kd2 Kf3 5. Bc3 $1 Kf2 6. Bd4+ (6. Bb2 $2 c1=Q+ $1 7. Kxc1 Ke2) Kf1 7. Bc3 1/2-1/2

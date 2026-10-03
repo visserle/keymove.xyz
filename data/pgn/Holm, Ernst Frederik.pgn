@@ -1,0 +1,175 @@
+[Event "Ystads Allehanda"]
+[Date "1904.??.??"]
+[Round "?"]
+[Composer "Holm, Ernst Frederik"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/2B5/5k2/P2p3K/2p5/6N1 w - - 0 1"]
+
+1. Bf8 $1 Kg5 2. Bb4 c1=Q 3. Bd2+ $1 Qxd2 4. Nf3+ Kf4 5. Nxd2 Ke3 6. Nb3 Ke4 { <eg>} (d2 7. Nxd2 Kxd2 8. a4) 7. Kg2 Kd5 (Ke3 8. Kf1) 8. Kf3 Kc4 9. Nd2+ 1-0
+
+[Event "Sydsvenska Dagbladet Snällposten"]
+[Date "1911.??.??"]
+[Round "?"]
+[Composer "Holm, Ernst Frederik"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/4pK2/8/8/2R3P1/5P2/7p/r7 w - - 0 1"]
+
+1. g5 $1 h1=Q 2. Rc8+ Kh7 3. g6+ Kh6 4. Rh8+ Kg5 5. Rxh1 Rxh1 6. g7 Rh7 7. Kf8 Rxg7 8. Kxg7 Kf4 9. Kf7 e5 10. Kf6 (10. Ke6 {<or>}) 1/2-1/2
+
+[Event "2.p Budapest ty (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - IV-53 2012."]
+[Date "1911.??.??"]
+[Round "?"]
+[Composer "Holm, Ernst Frederik"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5p2/p2P4/p1PK4/p7/k7/3B4 w - - 0 1"]
+
+1. Kc3 $1 (1. d6 $2 Kb1 2. d7 a2 3. d8=Q a1=Q+ 4. Kc5 Qc3 5. Qb6+ Kc1 6. Bxa4 Qa3+ 7. Kb5 Qb4+) Kb1 2. Bc2+ Kc1 3. Bb3 $1 Kb1 (axb3 4. Kxb3) 4. Ba2+ $1 Kxa2 5. Kc2 f5 6. d6 f4 7. d7 f3 8. Kd2 (8. Kd3 {<or>}) (8. Kd1 {<or>}) (8. d8=Q $2 f2 9. Qd3 f1=Q 10. Qxf1) 1-0
+
+[Event "Sydsvenska Dagbladet Snällposten"]
+[Date "1911.??.??"]
+[Round "?"]
+[Composer "Holm, Ernst Frederik"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6k1/1B6/4n3/8/7p/8/3K4 w - - 0 1"]
+
+1. Bg1 $1 (1. Bd4 $2 Kf6 $1) Nf3 2. Bh2 $1 (2. Ke2 $2 Nxg1+ 3. Kf2 Ne2 $1) Nxh2 3. Ke2 $1 (3. Ke1 $2 Nf3+ 4. Kf2 Ng5) Ng4 (Kg6 4. Kf2 Ng4+ 5. Kg3 h2 6. Kg2) 4. Kf3 Kg6 5. Kg3 h2 6. Kg2 Kg5 7. Kh1 1/2-1/2
+
+[Event "Sydsvenska Dagbladet Snällposten (c)"]
+[Source "Sydsvenska Dagbladet Snällposten/8 (c): Horning=G Josten=G Europa Rochade=6 6/ 2002."]
+[Date "1912.??.??"]
+[Round "?"]
+[Composer "Holm, Ernst Frederik"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/8/3p4/4k3/1N2P3/6P1/1P1p1B2/8 w - - 0 1"]
+
+1. Nd3+ $1 Kxe4 (Ke6 2. Bd4 d1=Q (d5 3. Nf2) 3. Nf4#) (Kf6 2. Bd4+ Kg6 3. Nf2) 2. Be1 $1 d1=Q 3. Nf2+ 1-0
+
+[Event "La Stratégie#0378 (c)"]
+[Source "La Stratégie/11 (c): Holm=E Hvar 8 Dag 1922."]
+[Date "1912.??.??"]
+[Round "?"]
+[Composer "Holm, Ernst Frederik"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2n5/8/1PkP4/P4p2/1K6/7P/8/8 w - - 0 1"]
+
+1. d7 $1 (1. b7 $2 Kxb7 2. d7 Ne7 3. d8=N+ Ka6 4. Kc5 Ng6) Kxd7 2. Kc5 Ne7 3. a6 Kc8 4. Kd6 Ng6 (f4 5. Kxe7 f3 6. a7 Kb7 7. Kd6 f2 8. a8=Q+ Kxa8 9. Kc7 f1=Q 10. b7+ Ka7 11. b8=Q+ Ka6 12. Qb6#) 5. a7 Kb7 6. a8=Q+ Kxa8 7. Kc7 1-0
+
+[Event "Deutsche Schachzeitung#1390"]
+[Source "Deutsche Schachzeitung/1"]
+[Date "1913.??.??"]
+[Round "?"]
+[Composer "Holm, Ernst Frederik"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/3p4/P4P2/2P5/1K6/7b/8/8 w - - 0 1"]
+
+1. c6 $1 dxc6 2. Kc5 Bc8 3. a7 Bb7 4. Kd6 $1 (4. Kb6 $2 Ba8 5. Kc7 c5) Kf7 (c5 {<main>} 5. Ke7) 5. Kc7 Ba8 6. Kb8 1-0
+
+[Event "L'Eco degli Scacchi"]
+[Source "L'Eco degli Scacchi/11-12"]
+[Date "1917.??.??"]
+[Round "?"]
+[Composer "Holm, Ernst Frederik"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/N5P1/7P/7K/2k5/2p5/8 w - - 0 1"]
+
+1. Nb4 $1 Kxb4 $1 2. g7 c1=Q (c1=R 3. h6) 3. g8=Q Qh1+ 4. Kg5 Qg1+ 5. Kh6 Qxg8 1/2-1/2
+
+[Event "Tidskrift for Schack#078"]
+[Source "Tidskrift for Schack/3"]
+[Date "1918.??.??"]
+[Round "?"]
+[Composer "Holm, Ernst Frederik"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "kbn5/p7/Kp4Pp/1P3P1P/8/8/8/8 w - - 0 1"]
+
+1. f6 $1 Nd6 (Be5 2. g7 Bxf6 3. g8=Q Kb8 4. Qg3+ Ka8 5. Qc7) 2. f7 Ne8 $1 (Nxf7 3. g7 Nd8 4. g8=Q Nb7 5. Qg2) (Ne4 3. f8=Q) 3. fxe8=N $1 (3. fxe8=Q $2) Be5 4. g7 Bxg7 5. Nxg7 1-0
+
+[Event "Politiken (v)"]
+[Date "1918.??.??"]
+[Round "?"]
+[Composer "Holm, Ernst Frederik"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5b1p/3P3k/1KN3n1/8/8/8/8 w - - 0 1"]
+
+1. d7 $1 Ne6 2. Nxe6 Be8 3. dxe8=R (3. dxe8=Q $2) 1-0
+
+[Event "Hvar 8 Dag"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Holm, Ernst Frederik"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/P5PN/8/8/2bPK2p/6k1 w - - 0 1"]
+
+1. Ng3 $1 Kg2 2. Nh1 Bd3+ (Kxh1 3. Kf1 $1 Bd3+ 4. Kf2) 3. Ke3 Kxh1 (Kg1 4. Ng3 Kg2 5. Kf4 Kg1 6. Kf3) 4. Kf2 1-0
+
+[Event "Tidskrift for Schack#220"]
+[Source "Tidskrift for Schack/4"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Holm, Ernst Frederik"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/pR6/8/k2K4/p1p5/P2p2n1/8 w - - 0 1"]
+
+1. Kxc3 $1 (1. Kc5 $2 Ka5 $1) d1=Q 2. Rb4+ Ka5 3. Rb5+ $1 Ka4 4. Rb4+ Ka5 5. Rb5+ Kxb5 (axb5) 1/2-1/2
+
+[Event "3.c British Chess Federation ty#79"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Holm, Ernst Frederik"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K3b2N/8/2k3Np/7P/8/8/8/8 w - - 0 1"]
+
+1. Nf7 $1 Bxf7 (Kd5 2. Nxh6 Ke6 3. Ng4 Kf5 4. Ne7+ Ke6 5. h6 Kf7 6. Nf5 Kg6 7. Nf6) (Kc5 2. Nxh6 Bc6+ 3. Kb8 Bf3 4. Ng4 $1 Bxg4 5. h6) 2. Ne5+ Kd6 3. Nxf7+ Ke6 4. Nxh6 Kf6 5. Ng4+ Kg5 6. h6 1-0

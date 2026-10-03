@@ -1,0 +1,13 @@
+[Event "Beginner ty Shakhmaty v SSSR (c)"]
+[Source "Shakhmaty v SSSR/10 1955 (c): Korolkov=V Shakhmaty v SSSR/10 1955."]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Tevdoradze, O"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/5r1P/6k1/2b5/8/8/4B3/8 w - - 0 1"]
+
+1. Bh5+ $1 Kxh5 2. Kg8 Re7 $1 (Kg6 3. h8=N+) (Rf8+ 3. Kg7 Rb8 4. h8=Q+) 3. h8=Q+ Kg6 4. Qh7+ (4. Qh5+ $2 Kxh5) Rxh7 1/2-1/2

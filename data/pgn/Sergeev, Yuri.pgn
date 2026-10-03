@@ -1,0 +1,13 @@
+[Event "Shakhmaty v SSSR#05"]
+[Source "Shakhmaty v SSSR/2"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Sergeev, Yuri"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3R3r/8/8/2kp4/6p1/3P3p/2B1KPP1/8 w - - 0 1"]
+
+1. d4+ $1 (1. Rxh8 $2 hxg2 2. d4+ Kd6 $1) Kxd4 $1 (Kb6 2. Rxh8 hxg2 3. Rb8+) (Kc4 2. Rxh8 hxg2 3. Be4 $1 dxe4 4. Rc8+) 2. Rxh8 hxg2 3. Be4 $1 g1=Q (dxe4 4. Rd8+) (Kxe4 4. f3+ gxf3+ 5. Kf2) 4. Rh1 1-0

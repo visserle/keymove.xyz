@@ -1,0 +1,54 @@
+[Event "2.p Thèmes 64 (tw) (tt)"]
+[Source "Thèmes 64/4-6"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Roycroft, Arthur John"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/6PP/7P/8/8/p7/bk6/b7 w - - 0 1"]
+
+1. g8=R $1 (1. g8=Q $2 Kc1+ 2. Qg7 Bb2 3. Qxb2+ axb2 4. Kg7 b1=Q 5. h8=Q Qb2+ 6. Kh7 Bb1+ 7. Kg8 Qb8+ 8. Kg7 Qe5+ 9. Kg8 Qe8+ 10. Kg7 Qe7+ 11. Kg8 Ba2#) Kb3+ 2. Rg7 Kb4 1/2-1/2
+
+[Event "2.p Thèmes 64 (tw) (tt)"]
+[Source "Thèmes 64/4-6"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Roycroft, Arthur John"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/6PP/8/8/8/p7/bk6/b7 w - - 0 1"]
+
+1. g8=Q $1 (1. g8=R $2 Kc1+ 2. Rg7 Bb1 3. Kg8 Bxg7 4. Kxg7 Bxh7) Kc1+ 2. Qg7 Bb2 3. Qxb2+ axb2 4. Kg7 b1=Q 5. h8=Q Qb2+ 6. Kh7 Bb1+ 7. Kg8 Qb8+ 8. Kg7 Qe5+ 9. Kg8 Qe8+ 10. Kg7 Qe7+ 11. Kh6 $1 1/2-1/2
+
+[Event "Test Tube Chess#422"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Roycroft, Arthur John"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "q7/5p2/3R4/4k3/7P/2K4B/5R2/8 w - - 0 1"]
+
+1. Rd5+ $1 (1. Rd3 $2 Qa5+ 2. Kc4 Qa6+) Qxd5 (Kxd5 2. Bg2+) 2. Rf5+ Kd6 3. Rxd5+ Kxd5 4. h5 Ke5 5. h6 Kf6 6. Bf5 $1 Kxf5 7. h7 1-0
+
+[Event "4.p Golden Fleece ty"]
+[Source "EG#06605."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Roycroft, Arthur John"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3r2q1/2r3R1/K1k5/2N5/1B6/8/2B5/8 w - - 0 1"]
+
+1. Be4+ $1 (1. Ba4+ $2 Kd5 2. Bb3+ Kc6 3. Rxg8 Rxg8 4. Bxg8 Rc8) (1. Rxg8 $2 Rxg8 2. Ba4+ Kd6 3. Nd3+ Kd5 4. Bb3+ Kd4) Qd5 (Rd5 2. Rxg8) (Kd6 2. Nd7+ Ke6 3. Re7#) 2. Rg6+ Rd6 3. Rxd6+ $1 Kxd6 4. Nd3+ Ke6 (Kc6 5. Ne5#) (Kd7 5. Bxd5) 5. Nf4+ Ke5 6. Bxd5 (6. Nxd5 $2 Rd7 7. Nc3 Rd4) Rh7 (Kxf4 7. Bd6+) (Rc8 7. Bb7 Rc4 8. Nd5 Rd4 9. Bc3) (Rg7 7. Bc3+) (Rc2 7. Bb3 Rb2 8. Bc3+) (Rd7 7. Bc6 Rd4 (Rc7 8. Bb5 Kxf4 9. Bd6+) 8. Bc3) 7. Bg8 $1 Rh6+ (Rg7 8. Bc3+) (Rh4 8. Ng6+) 8. Kb5 Kxf4 9. Bd2+ Kf5 10. Bxh6 1-0

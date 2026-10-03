@@ -1,0 +1,13 @@
+[Event "British Chess Magazine#0547"]
+[Source "British Chess Magazine/11"]
+[Date "1942.??.??"]
+[Round "?"]
+[Composer "Ellinger, M"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5krr/4n1R1/1Pp3p1/5p2/7R/P4pP1/2K2P2/8 w - - 0 1"]
+
+1. Rxh8 $1 Rxh8 (Kxg7 2. Rxg8+ Kxg8 3. b7) 2. Rh7 Rxh7 (Rg8 3. b7) 3. b7 1-0

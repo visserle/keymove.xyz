@@ -1,0 +1,13 @@
+[Event "The Chess Amateur#0685 (c)"]
+[Source "The Chess Amateur/8 (c): Langstaff=W The Chess Amateur/11 1922."]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Langstaff, William"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2k5/6p1/PP3pP1/5Pp1/4p1K1/6P1/8 w - - 0 1"]
+
+1. b6+ $1 Kc6 2. a6 (2. b7 $2 Kxb7 3. a6+ Ka7 $1 4. Kh4 e2 5. g3 Kb6 6. a7 e1=N $1 7. a8=Q Nf3+ 8. Qxf3 gxf3) Kxb6 3. a7 Kxa7 4. Kh4 e2 5. g3 e1=Q 1/2-1/2

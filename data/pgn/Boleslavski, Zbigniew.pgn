@@ -1,0 +1,69 @@
+[Event "Trybuna Robotnicza"]
+[Source "also 3.hm Szachy#099 1957."]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Boleslavski, Zbigniew"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p6/1R5p/4pk2/3n4/6BK/2p5/7N w - - 0 1"]
+
+1. Be1 $1 c1=Q 2. Ng3+ Kf4 3. Bd2+ Qxd2 4. Rf6+ Ke3 5. Nf1+ Ke2 6. Nxd2 Kxd2 7. Rb6 e4 8. Rxb7 e3 9. Kg4 e2 10. Re7 e1=Q 11. Rxe1 Kxe1 12. Kh5 Nf5 13. Kg6 1/2-1/2
+
+[Event "Szachy#0436"]
+[Source "Szachy/2"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Boleslavski, Zbigniew"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7P/q7/1p6/k7/p1K1B3/P7/4R3 w - - 0 1"]
+
+1. h8=Q $1 Qa5+ 2. Kd3 $1 Qxe1 3. Qd4+ Qb4 (Ka5 4. Qa7+ Kb4 5. Bc5#) (b4 4. Qa7+ Kb5 5. Qb6+ Ka4 6. Qa6#) 4. Qxb4+ Kxb4 5. Bb6 $1 Ka4 6. Kc3 b4+ 7. Kc4 b3 8. axb3# 1-0
+
+[Event "Szachy#1427"]
+[Source "Szachy/8"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Boleslavski, Zbigniew"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5B2/1p1k2N1/p2p4/2RP3p/P1P1K3/6q1/8/8 w - - 0 1"]
+
+1. Rc7+ $1 Kxc7 (Kd8 2. Ne6+ Ke8 3. Re7#) 2. Bxd6+ Qxd6 3. Ne8+ Kd7 4. Nxd6 Kxd6 5. c5+ $1 Kxc5 (Kc7 6. a5 $1) 6. Ke5 h4 7. d6 h3 (Kc6 8. Ke6 h3 9. d7) 8. d7 h2 9. d8=Q h1=Q 10. Qd4+ Kc6 11. Qd6# 1-0
+
+[Event "Szachy#1558 (m)"]
+[Source "Szachy/1 (m): Garcia=M Estudios Artisticos de Ajedrez - II-8 2012."]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Boleslavski, Zbigniew"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5pp1/2p3pk/2P2P2/1p4PB/5pK1/5P2/8 w - - 0 1"]
+
+1. f6 $1 b3 2. Bg5+ $1 Kxg5 (Kh7 3. Bc1) 3. fxg7 b2 4. g8=Q b1=Q 5. Qd8+ Kh6 6. Qh8+ Kg5 7. Qh4# 1-0
+
+[Event "Szachy#026"]
+[Source "Szachy/3"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Boleslavski, Zbigniew"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/8/4P1kp/8/1p3PBP/5PP1/6K1 w - - 0 1"]
+
+1. e6 $1 b2 2. exd7 b1=Q+ 3. Kh2 Qd1 4. d8=Q+ Qxd8 5. Bh4+ Kxh4 6. f4 Qd2 7. g3# 1-0

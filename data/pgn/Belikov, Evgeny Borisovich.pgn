@@ -1,0 +1,54 @@
+[Event "Shakhmatnaya Moskva#03"]
+[Date "1964.01.25"]
+[Round "?"]
+[Composer "Belikov, Evgeny Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/1p4kp/8/6pP/6P1/4B3/p7/8 w - - 0 1"]
+
+1. Bd4+ $1 Kh6 $1 2. Kb8 $1 b5 3. Kc7 b4 4. Kd6 b3 5. Ke5 $1 Kg7 6. Ba1 Kh6 7. Kd4 Kg7 8. Kc3 Kh6 9. Kb2 Kg7 10. Kxb3+ Kh6 11. Kb2 Kg7 12. Kxa2+ 1-0
+
+[Event "Szachy#603"]
+[Source "Szachy/9"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Belikov, Evgeny Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6P1/4p3/3p3K/4p3/8/7k w - - 0 1"]
+
+1. Kg3 $1 Kg1 (d3 {<main>} 2. g7 d2 3. g8=Q d1=Q 4. Qa8+ Kg1 5. Qg2#) 2. g7 e2 3. g8=Q e1=Q+ 4. Kf3+ Kf1 5. Qg2# 1-0
+
+[Event "Shakhmaty v SSSR#13 (c)"]
+[Source "Shakhmaty v SSSR/4 (c): Belikov=E Shakhmaty v SSSR/12 1967."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Belikov, Evgeny Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B7/3p2p1/1k1p4/3P4/2P3K1/8/8/8 w - - 0 1"]
+
+1. Kf5 $1 Ka7 (Kc7 2. Kg6 Kb8 3. Bc6 dxc6 4. Kxg7) 2. Bc6 dxc6 3. c5 Kb7 4. Ke6 1-0
+
+[Event "1.p Bulletin Central Chess Club USSR"]
+[Source "Bulletin Central Chess Club USSR/10 EG#03089."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Belikov, Evgeny Borisovich"]
+[White "Belikov, E"]
+[Black " Kuznetsov, AG."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7n/1n1P3k/8/5p2/4P3/5P1b/3N4/7K w - - 0 1"]
+
+1. Kh2 $1 fxe4 2. Nxe4 (2. Kxh3 $2 e3 $1) Bf1 (Bf5 3. Nd6 $1) 3. Kg1 Be2 (Ba6 4. Nc5 $1) (Bc4 4. Nd6 $1) 4. Kf2 Bd1 5. Ke1 Bc2 (Ba4 6. Nc5) 6. Kd2 Bb1 7. Kc1 Ba2 8. Kb2 Bf7 9. Nd6 $1 (9. Ng5+ $2 Kg6 10. Nxf7 Nxf7 11. f4 Kf5 $1) Nd8 10. Nxf7 Nhxf7 11. f4 Kg6 12. f5+ 1/2-1/2

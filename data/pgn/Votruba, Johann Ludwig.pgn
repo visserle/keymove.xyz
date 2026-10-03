@@ -1,0 +1,12 @@
+[Event "Wiener Schachzeitung"]
+[Date "1887.??.??"]
+[Round "?"]
+[Composer "Votruba, Johann Ludwig"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/5p1p/5KPk/7p/7P/8/8 w - - 0 1"]
+
+1. g6 $1 fxg6+ 2. Kxf6 g5 3. Kf5 g4 4. hxg4# 1-0

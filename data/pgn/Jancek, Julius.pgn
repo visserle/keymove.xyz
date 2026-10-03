@@ -1,0 +1,13 @@
+[Event "Zivot"]
+[Source "Zivot/12"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Jancek, Julius"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/2P5/pb6/2qNN3/1pPk4/1K2pPB1/8 w - - 0 1"]
+
+1. Nxe2 $1 Kxe2 2. Bf1+ Kxf1 3. Nd2+ Kxf2 4. Nxc4 Bxc4 5. c7 Be6 6. c8=Q Bxc8 7. Kxb3 1/2-1/2

@@ -1,0 +1,12 @@
+[Event "Vossische Zeitung#35"]
+[Date "1929.11.17"]
+[Round "?"]
+[Composer "Riepenhausen, Bernhard Wilhelm Friedrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/7Q/Pb2p3/k3P3/1r2P3/K7 w - - 0 1"]
+
+1. Qh1 $1 Bc3 (Bd2 {<main>} 2. Qd1 Bxe3 3. Qd6+ (3. Qf1 $2 Rb3 4. Qf6 Bd2 5. Qd6+ Bb4) Rb4 4. Qg3 $1 Rb3 5. Qd6+) (Rb3 2. Qc1+ Kxa4 3. Qc2) 2. Qc1 Kb3 (Bf6 {<main>} 3. a5 (3. Qc5+ $2 Rb4+ $1) Kb3 4. Qd1+ Kc4 5. Qf1 (5. Qg1 {<or>}) (5. Qh1 {<or>}) Bc3 6. Qf7+ Kb4 7. Qf5 Ka3 8. Qc5+ Kb3 9. Qd5+) 3. Qd1+ Kc4 (Kb4 {<main>} 4. Qd6+ Kxa4 (Ka5 5. Qc5+ Kxa4 6. Qxc3) 5. Qa3+ $1 Kxa3 (Kb5 6. Qxb2+ Bxb2+ 7. Kxb2)) 4. Qf1 $1 Rb4+ (Rxe2+ 5. Kb1 Kd3 6. Kc1 Kxe3 7. Qh3+ Kd4 8. Qd7+ Kc4 9. Qb5+ Kd4 10. Qxe2) 5. Ka2 Rxa4+ 6. Kb1 Ra1+ 7. Kc2 Rxf1 1/2-1/2

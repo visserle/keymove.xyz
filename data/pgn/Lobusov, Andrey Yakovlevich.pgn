@@ -1,0 +1,13 @@
+[Event "Shakhmaty v SSSR#27"]
+[Source "Shakhmaty v SSSR/7"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Lobusov, Andrey Yakovlevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/8/2Pr1P2/K1p5/2P5/2P5/8/8 w - - 0 1"]
+
+1. f7+ $1 Kxf7 2. Kb6 Re6 $1 3. Kb7 Re7+ 4. c7 Ke6 $1 5. Kb8 Re8+ (Kd6 6. c8=N+ $1 (6. c8=Q $2 Re8 $1 7. Qxe8)) 6. c8=R $1 (6. c8=Q+ $2 Kd6 $1 7. Qxe8) 1-0

@@ -1,0 +1,38 @@
+[Event "Düna Zeitung#138"]
+[Date "1904.11.06"]
+[Round "?"]
+[Composer "Grunfeld, Max"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5q2/8/6pp/5P2/4B3/3P2K1/6pp/6Bk w - - 0 1"]
+
+1. Ba7 $1 (1. Be3 $2 Qb8+ 2. Kh3 Qb2) (1. Bb6 $2 Qd6+) (1. Bf2 $2 Qd6+ 2. Kh3 Qxd3+ 3. Bxd3 gxf5 4. Bxf5 g1=N+) Qd6+ 2. Kh3 Qxd3+ 3. Bxd3 g1=N+ (g1=Q 4. Be4+ Qg2+ 5. Bxg2#) (gxf5 4. Bxf5 g1=N+ 5. Kg3 Ne2+ {<eg>} 6. Kf2 Nc3) 4. Kg3 gxf5 5. Bxf5 Ne2+ 6. Kf2 Nc3 {<eg>} 7. Bd4 Nd1+ 8. Kf1 1-0
+
+[Event "Bohemia#138"]
+[Date "1907.02.17"]
+[Round "?"]
+[Composer "Grunfeld, Max"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2R5/5p2/2p4K/7b/6pp/2Nk3P/8 w - - 0 1"]
+
+1. Ne1 $1 Kxe1 (Ke2 2. Re7+ Kf1 3. Kxh4 gxh2 4. Nf3 h1=Q 5. Re1+ Kg2 6. Rxh1 Kxh1 7. Kxh3) 2. Kxh4 g2 (gxh2 3. Ra7 c4 4. Ra1+ Kd2 5. Kxh3 c3 6. Kxh2 c2 7. Ra2 f5 8. Rxc2+ Kxc2 9. Kg3) 3. Rxc5 Kd2 4. Rg5 $1 fxg5+ 5. Kxh3 g1=B (g1=Q) 6. Kg4 Be3 7. h4 1/2-1/2
+
+[Event "Bohemia#140"]
+[Date "1907.02.17"]
+[Round "?"]
+[Composer "Grunfeld, Max"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/Rp1r4/3k4/1p6/8/R7/2p2K2/8 w - - 0 1"]
+
+1. Rd3+ $1 Kc7 (Ke6 {<main>} 2. Rc3 Rd2+ 3. Ke3 b4 4. Kxd2 bxc3+ 5. Kxc2) 2. Rc3+ Kb8 3. Ra5 Rc7 4. Ra8+ Kxa8 5. Rxc7 1-0

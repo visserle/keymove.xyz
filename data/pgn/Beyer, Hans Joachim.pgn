@@ -1,0 +1,69 @@
+[Event "Schach Echo#10559"]
+[Source "Schach Echo/4"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Beyer, Hans Joachim"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6b1/8/3P4/p7/3K4/7r/8/2kN4 w - - 0 1"]
+
+1. d7 $1 Rh2 $1 (Rh1 2. d8=Q Rxd1+ 3. Kc3 Rxd8) (Rh4+ 2. Ke3 $1 Rh3+ 3. Ke4 $1) (Bc4 2. Ne3 $1 Rh8 3. Nxc4 a4 4. Kc3) 2. Nf2 $1 Rxf2 3. d8=Q Rd2+ 4. Kc3 $1 Rxd8 1/2-1/2
+
+[Event "Schach#09823"]
+[Source "Schach/7"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Beyer, Hans Joachim"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1P6/8/8/n1K1k3/8/5B1r w - - 0 1"]
+
+1. b7 $1 Rxf1 (Rh8 2. Kb2 $1) 2. b8=Q Rc1+ 3. Kb3 (3. Kb4 {<or> }) (3. Kb2 {<or>}) Rb1+ 4. Kc3 Rxb8 (Nb5+ 5. Kc2) 1/2-1/2
+
+[Event "Deutsche Schachzeitung"]
+[Source "Deutsche Schachzeitung/8 also Schweizerische Schachzeitung#152 Schweizerische Schachzeitung=9 Schweizerische Schachzeitung/9 1984."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Beyer, Hans Joachim"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5K2/kPP5/8/6p1/5n2/8/8 w - - 0 1"]
+
+1. c7 $1 (1. b7 $2 Ka7 2. Ke7 Ne5 $1 3. c7 Kxb7 4. Kd8 Nf7+ 5. Kd7 Nd6 $1 6. Kxd6 Kc8) Kb7 2. Ke6 Kc8 $1 (Ne5 3. Kxe5 g3 4. Kd6 g2 5. Kd7 g1=Q 6. c8=Q+) (g3 3. Kd7 Ne5+ 4. Kd8 Nc6+ 5. Kd7) 3. Kf5 $1 (3. Kd6 $2 g3 4. b7+ Kxb7 5. Kd7 Ne5+ 6. Kd8 Nc6+ 7. Kd7 Na7) g3 4. Kg4 g2 5. Kh3 g1=Q (g1=R 6. b7+ Kxb7 7. c8=Q+ Kxc8) (g1=B 6. Kg2) 6. b7+ Kxb7 7. c8=Q+ Kxc8 1/2-1/2
+
+[Event "Deutsche Schachzeitung"]
+[Source "Deutsche Schachzeitung/8"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Beyer, Hans Joachim"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "Rn2K2k/8/8/8/p7/8/6p1/8 w - - 0 1"]
+
+1. Ra5 $1 g1=Q (g1=R 2. Rxa4) 2. Rh5+ Kg7 3. Rg5+ Qxg5 1/2-1/2
+
+[Event "Schach Echo#11004"]
+[Source "Schach Echo/7"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Beyer, Hans Joachim"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p4b/4p3/P1p1p3/3P4/K7/2PPP3/k7 w - - 0 1"]
+
+1. d5 $1 (1. dxc5 $2 Bxc2 $1 2. d3 Bd1 $1 3. e4 Be2 4. a6 Bxd3) (1. d3 $2 Bg6 $1 2. a6 Be8 3. a7 Bc6 4. dxc5 e4 $1) exd5 (Be4 2. dxe6 Bc6 3. a6) 2. d4 $1 (2. a6 $2 d4 $1 3. d3 Bg8 4. c4 (4. e4 dxe3 5. c4 e2 6. a7 e1=Q 7. a8=Q Qb4#) dxc3 5. e4 c2 $1) cxd4 (Bf5 3. a6 Bc8 4. a7 Bb7 5. dxe5) 3. a6 $1 1-0

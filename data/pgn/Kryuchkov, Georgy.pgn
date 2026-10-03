@@ -1,0 +1,16 @@
+[Event "1.hm Shakhmaty#270"]
+[Source "Shakhmaty/2"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Kryuchkov, Georgy"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "6k1/7p/3P4/7B/7K/4b2N/5p1p/8 w - - 0 1"]
+
+1. d7 $1 (1. Nxf2 $2 Bxf2+ 2. Kh3 h1=Q+ $19) (1. Bf3 $2 f1=Q 2. Bd5+ Kg7 $19) (1. Be2 $2 h1=Q 2. Bc4+ Kg7 $19) (1. Ng5 $2 h1=Q+ 2. Nh3 f1=Q) (1. Nf4 $2 f1=Q 2. Bf7+ Kxf7) Bb6 2. Nxf2 (2. Ng5 $2 h1=Q+ 3. Nh3 f1=Q $19) (2. Bf3 $2 Bd8+ 3. Kg4 f1=Q) (2. Be2 $2 h1=Q 3. Bc4+ Kf8 $19) (2. Bf7+ $2 Kxf7 3. Nxf2 Bxf2+ 4. Kg4 h1=Q) (2. Nf4 $2 h1=Q+ 3. Nh3 Bd8+) (2. Kg3 $2 f1=Q 3. d8=R+ Bxd8) (2. Ng1 fxg1=Q 3. Bf7+ Kxf7 4. d8=N+ Bxd8+ 5. Kh5 h1=Q#) (2. Kg5 f1=Q 3. d8=Q+ Bxd8+ 4. Kg4 h1=Q) Bxf2+ 3. Kg5 (3. Kg4 $2 Bb6 4. d8=Q+ Bxd8 $19 5. Bf7+ Kxf7) (3. Kh3 $2 h1=Q+ 4. Kg4 Bb6 5. d8=R+ Bxd8 $19 6. Bf7+ Kxf7) Bh4+ $1 (Bb6 4. Bf3 $10) 4. Kh6 (4. Kxh4 $2 h1=Q+ 5. Kg4 Qd1+ $19) (4. Kf5 $2 h1=Q 5. d8=Q+ Bxd8 $19 6. Bf7+ Kxf7) (4. Kg4 $2 h1=Q $19 5. d8=R+ Bxd8 6. Bf7+ Kxf7) h1=Q (h1=B (h1=Q {<main>} 5. d8=Q+ Bxd8) (h1=N 5. Bd1) 5. Bf3 $1 (5. d8=Q+ $2 Bxd8 $19 6. Bf7+ (6. Bf3 Bg5+) Kxf7 7. Kxh7 Bg5) (5. Bf7+ $2 Kxf7 6. d8=N+ Bxd8 7. Kxh7 Bg5) (5. Be8 $2 Bd8 6. Bf7+ Kxf7 7. Kxh7 Bc6) (5. d8=N $2 Bxd8 $19 6. Bf7+ Kxf7 7. Kxh7 Bg5) (5. Bg6 $2 hxg6 6. Kxg6 Bd8) (5. Bg4 $2 Be4) (5. Be2 $2 Be4) (5. Bd1 $2 Be4) Bxf3 6. d8=Q+ (6. d8=R+ $10) Bxd8) (h1=N 5. Bd1 (5. Be2 Bg5+ $4 (Nf2 $5 $10) 6. Kxg5 h6+ $18 7. Kxh6) (5. Bf3 $2 Ng3 6. Bd5+ Kh8 $19) (5. Bf7+ $2 Kxf7 6. Kxh7 Ng3 $19) (5. Be8 $2 Ng3 6. Bf7+ Kxf7 7. Kxh7 Bg5) (5. Bg4 $2 Ng3 6. Be6+ Kh8 $19) (5. d8=Q+ $2 Bxd8 $19 6. Bf7+ Kxf7 7. Kxh7 Ng3) (5. Bg6 $2 hxg6 6. Kxg6 Ng3 $19) Nf2 6. Bc2 $10 (6. Bb3+ Kf8 7. d8=Q+ Bxd8 $10 8. Kxh7) (6. Be2 $2 Be7 7. Bc4+ Kh8 $19) (6. Bf3 $2 Bd8 7. Bd5+ Kh8 $19) (6. Bh5 $2 Be7 7. d8=R+ Bxd8 $19 8. Bf7+ Kxf7 9. Kxh7 Ng4) (6. d8=Q+ $2 Bxd8 $19 7. Bb3+ Kh8) (6. Bg4 $2 Nxg4+ 7. Kh5 Nf6+) (6. Kh5 $2 Bf6) (6. Ba4 $2 Bd8 7. Bb3+ Kh8)) 5. d8=Q+ (5. d8=R+ $10) (5. Bf3 $2 Qc1+ 6. Kh5 Qg5#) (5. Bf7+ $2 Kxf7 6. Kxh7 Bg5#) (5. Be2 $2 Bf6+ 6. Bh5 Qc1#) (5. Be8 $2 Bf6+ 6. Bh5 Qc1#) (5. Bg4 $2 Bf6+ 6. Bh3 Qxh3#) (5. Bg6 $2 Bf6+ 6. Bh5 Qc1#) (5. Bd1 $2 Bf6+ 6. Bh5 Qc1#) Bxd8 1/2-1/2

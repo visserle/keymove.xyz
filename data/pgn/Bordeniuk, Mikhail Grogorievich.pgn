@@ -1,0 +1,27 @@
+[Event "Problemas {SEPA}"]
+[Source "Problemas (SEPA /1-3"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Bordeniuk, Mikhail Grogorievich"]
+[White "Bordeniuk, M"]
+[Black " Kuznetsov, AP."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1R1B3K/4Pk2/1p6/n5P1/1p6/1p6/8 w - - 0 1"]
+
+1. g5+ $1 Kxg5 2. Rxb5+ Nc5 3. Rxc5+ Kh4 4. Rc4+ Kg5 5. Rg4+ Kxg4 6. e7+ Kf4 7. Bf5 $1 Kxf5 8. e8=Q b1=Q 9. Qg6+ Kf4 10. Qxb1 1-0
+
+[Event "All Union Team champ USSR ty (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - XII-33 2012."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Bordeniuk, Mikhail Grogorievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1p1B4/P7/k2p1K1b/np2P1R1/pP1N4/8 w - - 0 1"]
+
+1. Rg1 $1 Bf2 2. Ra1 Bxe3+ (Nb5 3. e4 Nxd6 4. a6 Nb5 5. Kf3 Bh4 6. e5 Be7 7. Ke4 Bc5 8. Rc1 Bb4 9. Nc4) 3. Ke4 Bxd2 4. Bxa3 bxa5 5. Kd3 Bb4 6. Kc4 Bxa3 7. Rxa2 bxa2 8. b3# 1-0

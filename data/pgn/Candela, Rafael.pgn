@@ -1,0 +1,13 @@
+[Event "Casino di Saragossa#07 (v)"]
+[Source "Casino di Saragossa/2"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Candela, Rafael"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/8/p7/8/2N5/8/pn1B4/1k6 w - - 0 1"]
+
+1. Na3+ $1 Ka1 2. Bh6 a5 3. Kh7 a4 4. Kg6 Nd3 5. Bg7+ Nb2 6. Kf6 Nd3 7. Kf5+ Nb2 8. Ke5 Nd3+ 9. Ke4+ Nb2 10. Kd4 Nd1 11. Kd3+ Nb2+ 12. Kc3 Nd1+ 13. Kc2+ Nb2 14. Bxb2# 1-0

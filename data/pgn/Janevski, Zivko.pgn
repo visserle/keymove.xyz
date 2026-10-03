@@ -1,0 +1,13 @@
+[Event "Problem Observer#158"]
+[Source "Problem Observer/10"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Janevski, Zivko"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1R4p1/r1pp1P1P/1p5p/pP2p3/K7/P5Pr/k7 w - - 0 1"]
+
+1. fxg7 $1 Rxg2 2. g8=Q Rxg8 3. Rg7 Raa8 4. h7 Rxg7 5. h8=Q Raa7 6. Qxg7+ Rxg7 1/2-1/2

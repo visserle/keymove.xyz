@@ -1,0 +1,12 @@
+[Event "Tbilisi ty"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Bakhtadze, V"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/1p3p2/1K5p/5P1k/5P2/5PP1/8 w - - 0 1"]
+
+1. Kc4 $1 b5+ 2. Kd3 b4 3. Ke2 b3 4. Kf1 b2 5. Kg1 b1=Q+ 6. Kh2 Qh1+ 7. Kxh1 f5 8. Kh2 f6 9. g3# 1-0

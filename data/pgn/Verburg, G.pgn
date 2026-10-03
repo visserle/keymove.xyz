@@ -1,0 +1,12 @@
+[Event "source unknown"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Verburg, G"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "n7/4p3/8/1K6/3P1P2/8/8/6k1 w - - 0 1"]
+
+1. Kc6 $1 e6 2. Kd6 Kf2 (Kg2 {<main>} 3. Kxe6 Kf3 4. f5 Ke4 5. f6 Nc7+ 6. Kd7 Nd5 7. f7 Nf6+ 8. Kc6 Nh7 9. d5 Ke5 10. d6 Ke6 11. d7 Ke7 12. Kc7) 3. d5 $1 exd5 4. f5 d4 5. f6 d3 6. f7 d2 7. f8=Q+ 1-0

@@ -1,0 +1,15 @@
+[Event "1.p Gurgenidze,D JT"]
+[Source "EG#17097"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[Composer "Loustau, J"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6b1/1p3R1p/5b2/k7/8/7K w - - 0 1"]
+[PlyCount "46"]
+
+1. Rxb5 Ka4 (Be4+ $144 2. Kg1 Be3+ (h4 $144 $11 3. Rh5) 3. Kh2 $11) 2. Rb2 Be4+ 3. Kg1 h4 4. Ra2+ Kb4 5. Rb2+ Kc4 6. Ra2 $1 Kb5 7. Rb2+ Ka4 8. Ra2+ Kb4 9. Rb2+ Kc5 (Kc3 $144 {<main>} 10. Rb5 $1 Bf3 11. Rf5 Be3+ 12. Kh2 Bg4 13. Rf7 $1 Bd4 14. Rh7 Bf6 15. Rh6 Bg5 16. Rg6 Bf4+ 17. Kg1 Bd7 18. Rg7 Bc8 19. Rg8 Bf5 20. Rf8 $11) 10. Ra2 h3 11. Ra5+ Kd6 12. Rh5 Bg2 13. Rf5 Be5 14. Rh5 Bd4+ 15. Kh2 Be5+ 16. Kg1 Bf4 (Ke6 $144 {<main>} 17. Rh4 Kf5 (Kf7 $144 18. Rh6 Bf4 19. Rh4 Be5 20. Rh6 Bf6 21. Kh2 Be5+ 22. Kg1 Bd4+ 23. Kh2 Be5+ 24. Kg1 Kg7 25. Rh4 Kf7 26. Rh6 $11 {positionnal draw}) (Kf6 $144 18. Ra4 Bc6 19. Rh4 Bd7 20. Rh7 Bc8 21. Rh8 Bd7 22. Rh7 Bf5 23. Rh5 Bg4 24. Rh4 Bc8 (Be6 $144 25. Rh6+ Ke7 26. Rxe6+ Kxe6 27. Kh1 $11) 25. Rh8 {positionnal draw} Be6 26. Rh6+ Kf7 27. Rxe6 Kxe6 28. Kh1 $11) 18. Rb4 $1 Bf3 19. Rh4 Bg2 20. Rb4 Bf4 21. Rb3 Kg5 22. Rg3+ Bxg3 $11 {model stalemate}) 17. Rf5 Be3+ 18. Kh2 Bd4 $1 19. Rh5 Be5+ 20. Kg1 Bf4 21. Rf5 Be3+ 22. Kh2 Ke6 23. Rf2 Bxf2 $11 {model stalemate The tourney's great surprise : two stalemates whith positionnal draw. Presentation is on a high technical level [Gurgenidze]}

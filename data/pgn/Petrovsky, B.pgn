@@ -1,0 +1,41 @@
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/7"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Petrovsky, B"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/8/5P1B/2rp4/5p2/p2K4/8/8 w - - 0 1"]
+
+1. f7 $1 Rc8 2. f8=Q+ Rxf8 3. Bxf8 a2 4. Ba3 $1 a1=Q (a1=B 5. Bd6 f3 6. Ke3) (Kh7 5. Bb2 Kg6 6. Ke2 Kf5 7. Kf3) 5. Bb2+ Qxb2 1/2-1/2
+
+[Event "Shakhmaty v SSSR (pl)"]
+[Source "Shakhmaty v SSSR/7 = Kubbel=L h2h4 1907."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Petrovsky, B"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1B6/8/6N1/kp2p3/8/K2p4/8 w - - 0 1"]
+
+1. Bc6+ $1 Ka5 2. Ba4 $1 Kxa4 3. Nxe4 d1=Q 4. Nc3+ bxc3 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/7"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Petrovsky, B"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p3p3/2p1P2p/3p4/3P3k/3P3B/6P1/7K w - - 0 1"]
+
+1. Kg1 $1 a5 2. Kf2 a4 3. Ke3 a3 4. Kf4 $1 Kh5 (a2 5. Bg4 a1=Q 6. g3#) (h5 5. Bf5 a2 6. g3#) 5. Kf5 Kh4 6. Kf4 1/2-1/2

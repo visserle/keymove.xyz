@@ -1,0 +1,13 @@
+[Event "3.hm Volzhskaja Zarja"]
+[Source "EG#06840."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Malyshev, Alexandr"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/b7/p7/4p3/1B6/K2N4/2kN4 w - - 0 1"]
+
+1. Nb1 $1 a4 2. Bxa4 e3 3. Nxe3 Bb5 4. Bb3 Bc4 5. Nd2 Bxb3+ 6. Nxb3# 1-0

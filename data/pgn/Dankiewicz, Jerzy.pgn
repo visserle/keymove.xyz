@@ -1,0 +1,13 @@
+[Event ".c Szachy#1336"]
+[Source "EG#04192."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Dankiewicz, Jerzy"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K6k/Prp5/5RPN/5p2/4b3/8/8/8 w - - 0 1"]
+
+1. Rf8+ $1 Kg7 2. Nxf5+ Kxf8 (Kxg6 3. Re8 $1 (3. Nd6 cxd6 4. Rf6+ Kg7 $1) Kxf5 (Bh1 4. Re1 Rb1+ 5. Rxh1 Rxh1 6. Kb7) 4. Re5+ Kxe5) 3. g7+ Kg8 (Kf7 4. Nd6+ $1 cxd6 5. g8=Q+ Kxg8) 4. Ne7+ Kxg7 5. Nc6 $1 (5. Nd5 $2 c6 $1 6. Kxb7 cxd5 7. Kb6 d4 8. Kc5 d3 9. Kd4 d2 10. Kxe4 d1=Q 11. a8=Q Qh1+) Rxa7+ (Bxc6) (Rb1) 6. Kxa7 Bxc6 7. Kb8 1/2-1/2

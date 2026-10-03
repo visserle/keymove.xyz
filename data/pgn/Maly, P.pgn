@@ -1,0 +1,13 @@
+[Event "Buletin Problemistic#254"]
+[Source "Buletin Problemistic/1-6"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Maly, P"]
+[White "Maly, P"]
+[Black " Mironenko, N."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k1p5/2P4p/3K2p1/6P1/7P/8/8 w - - 0 1"]
+
+1. Ke6 $1 Ka6 2. Kf6 (2. Kd7 $2 Kb6) Kb6 3. Kg6 Kxc6 4. Kxh6 Kd5 5. Kxg5 Ke4 (c5 6. Kf4 $1 Kd4 7. Kf3 c4 8. g5 c3 9. Ke2 $1) 6. h4 c5 7. h5 c4 8. h6 c3 9. h7 c2 10. h8=Q c1=Q+ 11. Kg6 $1 Qc6+ 12. Qf6 Qe8+ 13. Kh6 $1 1-0

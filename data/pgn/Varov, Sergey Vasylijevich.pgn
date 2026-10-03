@@ -1,0 +1,13 @@
+[Event "3.hm Armenia JT Shakhmatain Aiastan"]
+[Source "EG#04017."]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Varov, Sergey Vasylijevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2k1Kp2/4P3/5B2/3p4/3P4/8/5r2 w - - 0 1"]
+
+1. Bh3 $1 Rh1 2. Bg2 Rg1 3. exf7 Rxg2 4. f8=N (4. f8=Q $2 Re2+ 5. Kf7 Rf2+ 6. Kg7 Rxf8 7. Kxf8 Kd6) Re2+ (Kc6 {<main>} 5. Ne6 Rg4 6. Kf6 Kd5 7. Nc7+ Kd6 8. Ne6 Rh4 9. Kg5) 5. Ne6+ Kc6 6. Kf6 1/2-1/2

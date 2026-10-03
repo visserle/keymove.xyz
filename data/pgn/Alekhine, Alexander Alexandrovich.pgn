@@ -1,0 +1,14 @@
+[Event "tt23"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Alekhine, Alexander Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4kp2/4p1p1/2p1r3/PpP5/3R4/1P1K1PP1/8 w - - 0 1"]
+[PlyCount "9"]
+
+1. g4 Re4 (f5 $144 2. Re3 Rxe3 3. Kxe3 e5 4. b3 $18) 2. a5 Rxg4 3. a6 Rh4 (Rg1 $144 4. a7 Ra1 5. Ra3 $18) 4. Rd8 Kxd8 5. a7 $18 1-0

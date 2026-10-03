@@ -1,0 +1,12 @@
+[Event "64"]
+[Date "1969.07.25"]
+[Round "?"]
+[Composer "Komatzu, Akira"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2kpP3/1p3p2/8/R1P5/2Q3Pp/5q1P/7K w - - 0 1"]
+
+1. Ra7+ $1 (1. e8=N+ $2 Kb8) Kc6 2. Qxf6+ $1 Qxf6 3. Rc7+ $1 Kxc7 4. e8=N+ 1-0

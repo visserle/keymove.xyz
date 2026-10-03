@@ -1,0 +1,30 @@
+[Event "?"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Peckover, Joseph"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "2K5/2P5/1r6/8/7B/8/b3k3/8 w - - 0 1"]
+
+1. Kd8 (1. Kd7 $2 Be6+ 2. Ke7 Ke3 $19) (1. Be7 $2 Be6+ 2. Kd8 Rc6 3. Bh4 Ke3) (1. Bg3 $2 Be6+ 2. Kd8 Rc6 3. Ke7 Bf5) (1. Bf2 $2 Be6+ 2. Kd8 Kxf2) Rd6+ 2. Ke7 (2. Kc8 $2 Be6+ 3. Kb7 Rd4 $19 4. Be7 Rc4) (2. Ke8 $2 Be6 $19 3. Ke7 Rc6) Rc6 3. Kd7 (3. Kd8 $2 Rd6+ 4. Ke7 $10) (3. Bg3 $2 Be6 $19 4. Be5 Bf5) Rh6 4. Bf6 (4. Bg5 $2 Be6+ 5. Ke7 Rg6 $19 6. Bh4 Bf5) (4. Be7 $2 Be6+ 5. Kd6 Bc8+ $19) (4. Ke7 $2 Be6 $19) (4. Kc8 $2 Be6+ 5. Kb8 Rxh4 $19) (4. Bd8 $2 Be6+ 5. Kd6 Bc8+ $19) (4. c8=Q $2 Be6+ 5. Kc7 Bxc8 $19 6. Kxc8 Rxh4) (4. Bg3 $2 Be6+ 5. Ke7 Ke3 $19 6. Bf2+ Kxf2) (4. Kd8 $2 Rd6+ 5. Ke7 $10) (4. Be1 $2 Be6+ 5. Ke7 Kxe1) (4. Bf2 $2 Be6+ 5. Ke7 Kxf2) Bb1 5. Ke6 (5. Kd6 $2 Rxf6+ 6. Kd5 Bf5 7. Ke5 Rf7) (5. Be5 $2 Bf5+ 6. Kd8 Rg6 7. Bh2 Be6) Rh5 6. Bg5 (6. c8=Q $2 Bf5+ 7. Ke5 Bxc8+ 8. Ke4 Bg4) Rh8 7. Bd8 (7. Bf6 $2 Ra8 $19) (7. Be7 $2 Bd3 8. Bf6 Rh5) (7. Kd7 $2 Bf5+ 8. Kd6 Rh5 9. Bf4 Bc8) (7. Bh6 $2 Rxh6+ 8. Kd5 Ba2+) (7. Kf7 $2 Rh7+ 8. Ke6 Rxc7) (7. Ke5 Kf3) Rh5 8. Bg5 (8. c8=Q $2 Bf5+ 9. Ke5 Bxc8+ 10. Kd4 Kf3 11. Bf6 Be6) (8. Kf6 $2 Bf5 9. Kg7 Bd7 10. Kf7 Bc8) (8. Bf6 $2 Bf5+ 9. Ke7 Bg4) (8. Kd6 $2 Bf5 9. Bf6 Bc8) (8. Ke7 $2 Bf5 9. Kf7 Bc8) (8. Kf7 $2 Bf5 9. Be7 Bc8) (8. Kd7 $2 Bf5+ 9. Kd6 Bc8) (8. Be7 $2 Bf5+ 9. Kf7 Bc8) Rxg5 9. c8=Q (9. c8=R $10) (9. Kf6 $2 Rc5 10. c8=Q Rxc8) (9. Ke7 $2 Bf5 $19 10. Kf6 Rh5) (9. Kf7 $2 Rc5 10. c8=B Rxc8) (9. Kd6 $2 Bf5 10. Ke7 Bh3) (9. Kd7 Bf5+ 10. Ke7 Kf3) Bf5+ 10. Kf6 $10 (10. Ke5 $2 Bxc8+ 11. Ke4 Bb7+) 1/2-1/2
+
+[Event "1.p Szachy"]
+[Site "?"]
+[Round "?"]
+[Composer "Peckover, Joseph"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/8/4p3/4p3/4P3/4Rpk1/2K5/8 w - - 0 1"]
+
+1. Rd3 $1 (1. Re1 $2 f2 $19 2. Re3+ (2. Ra1 Kg2 3. Kd3 f1=Q+ 4. Rxf1 Kxf1) Kf4) (1. Ra3 $2 Kg2 2. Rxf3 Kxf3) (1. Kd3 $2 Kg2) Kg2 2. Rd2+ $1 (2. Rd8 $2 f2 3. Rg8+ Kf3) (2. Rd5 exd5 3. exd5 f2) (2. Rd1 $2 f2 3. Kd3 f1=Q+ 4. Rxf1 (4. Ke3 Qf3+ $1 (Qxd1 $2) 5. Kd2 Qxd1+ 6. Kxd1 Kf3) Kxf1 5. Ke3 Kg2) f2 3. Kd3 (3. Kd1 $2 Kf3 4. Rxf2+ Kxf2 $19) (3. Rd1 $2 f1=Q 4. Rxf1 Kxf1) (3. Kc3 $2 Kg1 $19 4. Rxf2 Kxf2) (3. Re2 $2 Kf3 4. Rxf2+ Kxf2) (3. Kc1 $2 Kg1 4. Rd1+ f1=Q) (3. Rd3 f1=Q) (3. Rd6 f1=Q) (3. Rd7 f1=Q 4. Rg7+ Kf2) (3. Kb3 Kg1) Kg1 4. Rd1+ $1 (4. Ke3 $2 f1=N+ $1 (f1=Q $2 5. Rd1 Qxd1) 5. Kd3 (5. Ke2 Nxd2) Nxd2 6. Kxd2 Kf2) (4. Ke2 $2 f1=Q+ 5. Ke3 Qf4+) (4. Rc2 $2 f1=Q+ 5. Re2 Qd1+) (4. Kc2 f1=Q) (4. Kc4 f1=Q+ 5. Kb3 Qb5+) f1=Q+ (f1=R 5. Rd2) 5. Ke3 $1 (5. Kd2 $2 Qxd1+ 6. Kxd1 Kf1 $19) (5. Kc2 $2 Qxd1+ 6. Kxd1 Kf2 $19) (5. Kc3 Qxd1) (5. Rxf1+ $2 Kxf1 6. Ke3 Ke1) Kg2 (Qxd1 (Kg2 {<main>} 6. Rxf1 Kxf1 7. Kf3 Kg1 8. Kg3 Kh1 9. Kh3 Kg1 10. Kg3 Kf1 11. Kf3 Ke1 12. Ke3 Kd1 13. Kd3 Kc1 14. Kc3 Kb1 15. Kb3)) 6. Rxf1 (6. Rd2+ $2 Kg3 $19 7. Rg2+ Kxg2) (6. Re1 $2 Qxe1+ 7. Kd3 Qc1 $19) (6. Rd6 $2 Qe1+ 7. Kd3 Qd1+) (6. Kd2 Qxd1+ 7. Kxd1 Kf3) (6. Rb1 Qxb1) (6. Ra1 Qxa1) Kxf1 7. Kf3 $10 (7. Kd3 $2 Kf2) (7. Kd2 $2 Kf2) 1/2-1/2

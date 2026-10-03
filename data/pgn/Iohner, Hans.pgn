@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Iohner, Hans"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "1q6/4R1N1/2pp1K2/8/1P1k3P/2pP4/2Pb4/8 w - - 0 1"]
+
+1. Re4+ (1. Nf5+ $2 Kd5 2. Re4 $10) (1. Re8 $2 Qxb4 2. Re4+ $10) Kd5 2. Rd4+ (2. Nf5 $2 Qh8+ 3. Kf7 $10) (2. Kg6 c5 3. bxc5 dxc5) Kxd4 3. Nf5+ (3. Ne6+ $4 Kd5 $19) (3. b5 $4 cxb5 4. Nf5+ Kd5 $19) (3. h5 $4 Qd8+ 4. Ke6 Qg8+ $19) (3. Ke6 $4 Qg8+ 4. Kf6 Qh8) (3. Ne8 Qxe8) Kd5 4. Ne7+ (4. Ke7 $4 Qg8 $19) (4. Nxd6 $4 Qxd6+ 5. Kg7 Bh6+ $19) (4. d4 $4 Qf8+ 5. Kg6 Qe8+) Kd4 5. Nxc6+ (5. Nf5+ Kd5 6. Ne7+ $16) Kd5 6. Nxb8 $18 1-0

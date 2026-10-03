@@ -1,0 +1,14 @@
+[Event "Deutsche Arbeiter Schachzeitung#226"]
+[Source "Deutsche Arbeiter Schachzeitung/7"]
+[Date "1914.??.??"]
+[Round "?"]
+[Composer "Scholz, Artur"]
+[Composer2 "Neukolln"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/4p1p1/1p1p1pP1/1P1P1P2/1k1K4/3B4 w - - 0 1"]
+
+1. Bc2 $1 Ka1 2. Kc1 Ka2 3. Bd1 Ka1 4. Kc2 Ka2 5. Be2 Ka1 6. Bf1 Ka2 7. Bg2 Ka1 8. Bh3 Ka2 9. Bf1 $1 Ka1 10. Be2 Ka2 11. Bd1 Ka1 12. Kc1 Ka2 13. Bc2 Ka1 (Ka3 14. Kb1) 14. Bb1 $1 1-0

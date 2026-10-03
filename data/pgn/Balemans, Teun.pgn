@@ -1,0 +1,69 @@
+[Event "3.c Schakend Nederland#1493"]
+[Source "Schakend Nederland/3 1976 EG#03108. also Tidskrift for Schack/1 1977."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Balemans, Teun"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/3P4/3k4/P7/5p2/5P2/2b3P1/8 w - - 0 1"]
+
+1. a6 $1 (1. Ke8 $2 Ba4) (1. Kc8 $2 Bf5) Ba4 2. a7 Bc6 3. a8=Q $1 Bxa8 4. Kc8 Bb7+ 5. Kb8 $1 (5. Kxb7 $2 Kxd7 6. Kb6 Kd6) Kxd7 6. Kxb7 Kd6 7. Kb6 Kd5 8. Kb5 Kd4 9. Kc6 Ke3 {<eg>} 10. Kd5 Kf2 11. Ke4 1-0
+
+[Event ".c New Statesman {and Nation} (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - I-17 2012."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Balemans, Teun"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7N/6bP/5n2/7P/8/2k5/p7/K7 w - - 0 1"]
+
+1. Ng6 $1 (1. Nf7 $2 Kb3 2. h6 Nd5+ 3. hxg7 Ne3 4. g8=Q Nc2#) Kb3 2. h6 Bh8 (Nd5+ 3. hxg7 Nb4 4. g8=Q+) 3. Ne5 Ka3 (Ne4) 4. Nc4+ Kb4 5. Nd2 (5. Ne5 $2 Kb3) (5. Na3 $2 Kb3) (5. Nb2 $2 Nd5 6. Kxa2 Nc3+ 7. Ka1 Na4) Ne4+ (Ka3 6. Nc4+ Kb3 7. Ne5) 6. Kxa2 Nxd2 1/2-1/2
+
+[Event "Schakend Nederland#1721"]
+[Source "Schakend Nederland/1 1980"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Balemans, Teun"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/2p5/8/2P5/6p1/6P1/2K3P1/8 w - - 0 1"]
+
+1. Kd2 $1 (1. Kd3 $2 Kd7 2. Ke4 (2. Kc3 Ke7 $1) (2. Kc4 Kc6 3. Kd4 Kb5) (2. Kd4 Ke6 3. Ke4 c6 4. Kf4 Kd5 5. Kxg4 Kxc5 6. Kh5 Kd6 7. g4 Ke7 8. Kh6 Kf7 9. Kh7 Kf6 10. Kh6 Kf7) Kc6 3. Kd4 Kb5 4. Kd5 Kb4 5. Kc6 Kc4 6. Kd7 Kb5 $1 7. Kxc7 Kxc5 8. Kd7 Kd5) (1. Kc3 $2 Ke7 2. Kc4 c6 3. Kd3 (3. Kd4 Kf6) Kf6 4. Kd4 Kf5 5. Kd3) Kd8 (Ke7 2. Ke3 Kd7 3. Kd3) 2. Ke3 Kd7 3. Kd3 (3. Kf4 $2 Kc6 4. Kxg4 Kxc5) Ke7 4. Ke4 Ke6 (c6 5. Kf5) 5. Kd4 Kd7 6. Kd5 Ke7 7. Kc6 (7. c6 $2 Kf6) Kd8 8. Kb7 Kd7 9. Kb8 Kc6 10. Kc8 Kb5 (Kd5 11. Kb7) 11. Kd7 Kxc5 12. Kxc7 1-0
+
+[Event "Schakend Nederland#1759"]
+[Source "Schakend Nederland/6 1980"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Balemans, Teun"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/3P4/2K2b2/1P4n1/8/8/8/8 w - - 0 1"]
+
+1. b6 $1 (1. d8=Q+ $2 Bxd8 2. b6 Bf6 $1) Ke7 (Nf7 2. Kb7 $1 Bd4 3. Ka6 Nd8 4. b7 Be5 5. Ka7 Nc6+ 6. Kb6 Nd8 7. Ka7 Ke7 8. b8=N) 2. b7 (2. Kc7 $2 Nf7 3. b7 Be5+ 4. Kc8 Nd6+ 5. Kb8 Nb5+ 6. Ka8 Nc7+ 7. Ka7 Bd4+ 8. Kb8 Nd5 9. Ka8 Nb6+ 10. Kb8 Nxd7+ 11. Kc8 Be5) Be5 3. b8=Q Bxb8 4. Kb7 Be5 5. Kc8 Nf7 6. d8=Q+ Nxd8 1/2-1/2
+
+[Event "En Passant"]
+[Source "En Passant/12"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Balemans, Teun"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p6p/8/3P4/3K4/7P/3n3P/7k w - - 0 1"]
+
+1. Kd3 $1 Nb3 (Nf3 2. Ke4 Ng5+ (Kg2 3. h4 Nxh4 4. d6 Nf3 5. h4) 3. Kf5 Nf7 (h6 4. h4 Nh7 5. Kg6 Nf8+ 6. Kxh6 a5 7. Kg7 Nd7 8. h5 a4 9. h6 Nf6 10. d6) 4. Ke6 Nd8+ 5. Kd7 Nb7 6. Kc6 Na5+ 7. Kb5 Nb3 8. Kc4 Nd2+ 9. Kd3) 2. Kc4 Na5+ 3. Kb5 Nb7 4. Kc6 Nd8+ 5. Kd7 Nf7 6. Ke6 Ng5+ 7. Kf5 Nf3 8. Ke4 Nd2+ 9. Kd3 Nf3 10. Ke4 Ng5+ (Kg2 11. h4 Nxh4 12. d6 Nf3 13. h4 $1) 11. Kf5 Nf7 (h6 12. h4 Nh7 13. Kg6 Nf8+ 14. Kxh6 a5 15. Kg7 Nd7 16. h5 a4 17. h6 Nf6 18. d6) 12. Ke6 Nd8+ 13. Kd7 Nb7 14. Kc6 Na5+ 15. Kb5 Nb3 16. Kc4 Nd2+ 17. Kd3 1/2-1/2

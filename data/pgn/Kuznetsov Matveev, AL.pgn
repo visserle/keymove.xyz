@@ -1,0 +1,12 @@
+[Event "FIDE revue#585"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Kuznetsov Matveev, AL"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r1kB4/p7/2p5/p2N4/K7/8/P7/8 w - - 0 1"]
+
+1. Nc7 $1 Kxd8 2. Nxa8 Kc8 3. Kxa5 Kb7 4. a4 Kxa8 5. Ka6 Kb8 6. a5 Kc7 (Ka8) 7. Kxa7 c5 8. a6 c4 9. Ka8 c3 10. a7 c2 1/2-1/2

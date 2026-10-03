@@ -1,0 +1,13 @@
+[Event "Tidskrift for Schack#0486"]
+[Source "Tidskrift for Schack/1"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Lindeberg, Martin F."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k2q4/2p5/2K1R3/pP1B4/8/1P6/4p3/8 w - - 0 1"]
+
+1. Re8 $1 Qxe8+ (Qb8 {<main>} 2. b6 $1 cxb6 3. Kb5+ Ka7 4. Re7+) (e1=Q {<main>} 2. Rxd8+ Ka7 3. Ra8+ $1 Kxa8 4. Kxc7+ Ka7 5. b6+ Ka6 6. Bc4#) 2. Kxc7+ Ka7 3. b6+ Ka6 4. Bc4+ Qb5 5. Bxb5+ Kxb5 6. b7 e1=Q 7. b8=Q+ Kc5 8. Qb6+ Kd5 9. Qd6+ Ke4 10. Qe6+ Kf3 11. Qxe1 1-0

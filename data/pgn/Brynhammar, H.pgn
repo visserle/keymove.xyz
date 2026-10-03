@@ -1,0 +1,13 @@
+[Event "Schackvärlden"]
+[Source "Schackvärlden/12"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Brynhammar, H"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/2N2BPk/1Pp2r2/2Pp3K/1p1P1P2/8/8 w - - 0 1"]
+
+1. g7 $1 Rf4+ 2. Kh3 Rxf3+ 3. Kg4 Rxf6 4. g8=Q $1 (4. g8=N+ $2 Kg6 5. Nxf6 b2) Rg6+ 5. Qxg6+ hxg6 $1 (Kxg6 6. Ne5+ Kf6 7. Nf3 b2 8. Nd2) 6. b6 b2 7. b7 b1=Q 8. b8=Q Qg1+ 9. Qg3 1-0

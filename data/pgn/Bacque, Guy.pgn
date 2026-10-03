@@ -1,0 +1,42 @@
+[Event "tt20#642"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[Composer "Bacque, Guy"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5R2/5N2/8/5KnN/7b/q4k2/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. Ne4+ (1. Nxg4+ $143 Bxg4 $19) Kf1 2. Rd7 (2. Ng3+ $143 Ke1 3. Nf3+ Kd1 4. Rd7+ Kc1 $19) Qa4 3. Rd1+ (3. Rd2 $143 $1 Nf6 $19) Qxd1 4. Ng3+ Ke1 5. Nf3+ Kf2 6. Ne4+ Kg2 7. Nh4+ $11 1/2-1/2
+
+[Event "Thèmes 64#4012"]
+[Source "Thèmes 64/7-9"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Bacque, Guy"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4P3/3bB1N1/5K2/3r1B1r/4p2k/8 w - - 0 1"]
+
+1. Kg4+ $1 (1. Kf5+ $2 Rg3) (1. Bxe2 $2 Bxe6) Kg1 (Rg3+ 2. Bxg3+ Kg1 3. Nh3+ Kf1 4. Bxe2+ Kxe2 5. Nf4+ Kd2 6. Nxd5) 2. Nxh3+ Kf1 3. Bxe2+ Kxe2 4. Nf4+ Ke3 $1 (Kd1 5. e7 $1 (5. Nxd3 $2 Bxe6+) (5. Nxd5 $2 Rxd5)) 5. Nxd5+ $1 Rxd5 6. Bf4+ $1 (6. Bc7 $2 Rd4+ $1 7. Kf5 Rh4 $1) Ke4 $1 7. e7 $1 (7. Bc7 $2 Rd4 $1 8. e7 Kd5+ $1 9. Kf5 Re4 $1) Rd8 8. exd8=N $1 (8. exd8=Q $2) 1-0
+
+[Event ".c Thèmes 64#4220"]
+[Source "Thèmes 64/10-12 EG#05976."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Bacque, Guy"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7R/6p1/4N1p1/8/4k2K/6PP/7p/8 w - - 0 1"]
+
+1. Ng5+ $1 Ke3 (Kd3 2. Rd8+ Kc2 3. Rd2+ Kxd2 4. Nf3+) 2. Re8+ Kf2 3. Ne4+ (3. Re1 $2 Kxe1 4. Nf3+ Kf2 5. Nxh2 Kg2 6. Ng4 g5+ 7. Kxg5 Kxh3 8. Kf4 g5+ 9. Kf3) Kg2 (Ke3 4. Nc3+ Kf2 5. Re2+) 4. Nd2 (4. Ng5 $2 h1=Q) Kf2 (h1=Q 5. Re2+ Kg1 6. Re1+) (g5+ 5. Kg4) 5. Rf8+ Ke2 6. Rf1 1-0

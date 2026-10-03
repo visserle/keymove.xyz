@@ -1,0 +1,12 @@
+[Event "Shakhmatna Misl#19"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Markov, B"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4p3/3kp2P/8/p3K3/5B2/8 w - - 0 1"]
+
+1. Be1 $1 Kc4 $1 2. Bg3 Kd5 3. h6 $1 a2 4. Bxe5 $1 Kxe5 5. h7 a1=Q 6. h8=Q+ 1-0

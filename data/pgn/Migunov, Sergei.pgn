@@ -1,0 +1,26 @@
+[Event ".c Shakhmaty v SSSR (tt)"]
+[Source "EG#04251."]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Migunov, Sergei"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1k2b3/8/3P4/8/n7/8/R3K2b w Q - 0 1"]
+
+1. d6 $1 Bxd6 (Nc2+ 2. Kd2 Nxa1 3. dxe7 Bc6 4. Kc3) 2. O-O-O $1 Bf4+ 3. Kb2 Nc4+ (Bf3 4. Rd7+ (4. Rf1 $2 Nc4+ 5. Kc3 Nd2) (4. Rd4 $2 Be5) (4. Rd3 $2 Nc4+ 5. Kc3 Ne5) Kc6 5. Rf7 Nc4+ 6. Ka2 $1 (6. Kc3 $2 Be5+ $1) (6. Kb3 $2 Be5 $1)) 4. Kc3 Bf3 5. Rd4 (5. Rf1 $2 Bd2+ $1 6. Kxc4 Be2+ 7. Kd4 Bxf1) (5. Rd7+ $2 Kc6 6. Rf7 Be5+ 7. Kxc4 Bd5+ 8. Kd3 Bxf7) Nb6 6. Rxf4 Nd5+ 7. Kd4 (7. Kd3 {<or>}) Nxf4 8. Ke3 1/2-1/2
+
+[Event "Molodoj Leninets (Kurgan)"]
+[Date "1984.10.04"]
+[Round "?"]
+[Composer "Migunov, Sergei"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/R7/2kp4/4P1N1/p5p1/K7 w - - 0 1"]
+
+1. Ne2 $1 d3 2. Ng1 d2 3. Ra4+ Kd3 4. Kb2 Kxe3 5. Kc2 Kf2 6. Nh3+ Ke1 7. Re4+ Kf1 8. Kxd2 a1=Q 9. Rf4# 1-0

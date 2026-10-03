@@ -1,0 +1,13 @@
+[Event "The Chess Amateur#0896"]
+[Source "The Chess Amateur/6"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Whitehead, F"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p2p2/P1k4p/2p1P1p1/2P1K3/8/3P4/8 w - - 0 1"]
+
+1. d4 $1 (1. Kf5 $2 Kb6 2. Kf6 g4) cxd4 (Kb6 2. d5 Kxa6 3. e6) 2. c5 g4 3. Kxd4 g3 4. Ke3 h5 5. Kf3 h4 6. Kg2 1-0

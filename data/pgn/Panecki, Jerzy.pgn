@@ -1,0 +1,13 @@
+[Event "Szachy#445"]
+[Source "Szachy/5"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Panecki, Jerzy"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6q1/6P1/8/3P2p1/2p1P1P1/6k1/3P3N/4K2R w K - 0 1"]
+
+1. O-O $1 Qxg7 2. Rf3+ Kh4 3. Kg2 Qc3 4. Rd3 Qxd3 5. Nf3+ Kxg4 6. Ne5+ Kf4 7. Nxd3+ Kxe4 8. d6 1-0

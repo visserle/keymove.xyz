@@ -1,0 +1,53 @@
+[Event "64#530"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Brenev, Georgy Evgenievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3N3N/8/8/6p1/4kr1p/7P/1B5K w - - 0 1"]
+
+1. Bd3 $1 (1. Kg1 $2 Ke2) Kxd3 2. Ne5+ Ke2 (Ke3 3. Nxf3 gxf3 4. Nf6) 3. Nxf3 gxf3 4. Ng5 f2 5. Nf3 $1 f1=Q+ 6. Ng1+ Kf2 1/2-1/2
+
+[Event "64#584"]
+[Source "64/3"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Brenev, Georgy Evgenievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/N1p5/4n3/7R/4K3/1b4p1/3k4 w - - 0 1"]
+
+1. Kf2 $1 g1=Q+ 2. Kxg1 Nf3+ 3. Kf1 Nxh4 4. Nb4 c5 5. Nd3 Bd4 6. Nxc5 Bxc5 1/2-1/2
+
+[Event "64"]
+[Source "64/5-6"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Brenev, Georgy Evgenievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/6K1/8/8/1P6/8/1P6/8 w - - 0 1"]
+
+1. Kf6 $1 Kd7 2. Ke5 Kc6 3. Kd4 Kb5 4. Kc3 Ka4 $1 5. b5 $1 (5. Kc4 $2) Kxb5 6. Kb3 1-0
+
+[Event "Shakhmaty (Riga)#259"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Brenev, Georgy Evgenievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p1Kp4/3P4/rp1P4/2P5/1kP5/8/8 w - - 0 1"]
+
+1. c5 $1 (1. Kxd7 $2 Kxc4 2. Ke7 b4 3. cxb4 Rxd5 4. d7 Rxd7+) (1. cxb5 $2 Rxb5 2. Kxd7 Rxd5) b4 2. cxb4 (2. c6 $2 dxc6 3. dxc6 bxc3 4. d7 Rd5 5. d8=Q Rxd8 6. Kxd8 c2) Kxb4 3. c6 dxc6 4. dxc6 (4. Kxc6 $2 Kc4) Rd5 $1 5. Kb7 $1 (5. d7 $2 Kc5 6. Kb7 a5) Rxd6 6. c7 Rd7 7. Ka6 Rxc7 1/2-1/2

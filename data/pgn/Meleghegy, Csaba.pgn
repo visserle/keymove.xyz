@@ -1,0 +1,41 @@
+[Event "1.c Ban MT Magyar Sakkélet#1506"]
+[Source "Magyar Sakkélet/2 1982 EG#04873."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Meleghegy, Csaba"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7k/3P3P/2B1p3/4Pp1Q/5q2/1p5K/8 w - - 0 1"]
+
+1. d7 $1 Qg3+ $1 2. Qxg3 fxg3+ 3. Kxg3 b1=Q 4. d8=Q Qxe4 5. Qd7+ $1 Kxh6 6. Bf8+ Kg5 7. Qg7+ Qg6 8. Qxe5+ Qf5 9. Qe3+ Kg6 10. Qh6+ Kf7 11. Qg7+ Ke6 12. Qe7+ Kd5 13. Qc5+ Ke4 14. Qc2+ Ke5 15. Bg7+ $1 Ke6 16. Qc8+ 1-0
+
+[Event "2.c Magyar Sakkélet#1427"]
+[Source "Magyar Sakkélet/9 EG#04611."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Meleghegy, Csaba"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3bPpP1/8/1N4K1/6p1/8/5k2 w - - 0 1"]
+
+1. Nc2 $1 (1. Nd5 $2 Kf2 2. Nf4 Bxf4 3. e7 g2 4. e8=Q g1=Q+ 5. Kh4 Qg5+ 6. Kh3 Qg3#) Kf2 2. Ne1 $1 Kxe1 (f5+ 3. Kxf5 Kxe1 4. g7 g2 5. g8=Q Kf2 6. Qd8) 3. Kf3 $1 Kf1 4. e7 $1 Bxe7 (g2 5. e8=Q g1=Q 6. Qe2#) 5. g7 g2 6. g8=Q g1=Q 7. Qc4+ Ke1 {<eg>} 8. Qe2# 1-0
+
+[Event "3.hm Magyar Sakkélet#1479"]
+[Source "Magyar Sakkélet/9 EG#04850."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Meleghegy, Csaba"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6p1/p1p5/1k6/1P5P/PK6/8 w - - 0 1"]
+
+1. a3+ $1 Kb5 2. Kc3 Kb6 (a4 3. bxa4+ Kxa4 4. h4 Kxa3 5. Kc4) (g5 3. a4+ Kb6 4. Kd3) 3. Kd3 (3. Kc4 $2 g5 $1) Kb5 4. h4 $1 Kc6 5. Kc4 Kb6 6. Kd5 Kb5 7. Kd6 $1 (7. Ke6 $2 a4 8. bxa4+ Kxa4 9. Kd5 Kb5 10. a4+ Kb4 11. a5 c4) c4 8. a4+ $1 Kb4 9. bxc4 Kxc4 10. Ke6 Kb4 11. Kf6 Kxa4 12. Kxg6 Kb3 13. h5 a4 14. h6 a3 15. h7 a2 16. h8=Q 1-0

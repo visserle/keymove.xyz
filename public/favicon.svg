@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="512" height="512" role="img" aria-label="keymove">
+  <title>keymove</title>
+  <rect width="96" height="96" rx="12" fill="#111111"/>
+  <!-- the Chiron mark (U+26B7), mirrored so the K bit is at the bottom and
+       scaled from public/keymark.svg to sit in the tile; the same vector is
+       inlined in the topbar -->
+  <g transform="translate(25.83 73.8) scale(0.088669)">
+    <path transform="translate(0,-582) scale(1,-1)" fill="#ffffff" d="M236 115C334 115 414 36 414 -63C414 -151 350 -226 266 -240V-432L415 -334L445 -381L266 -497V-500L445 -616L415 -663L266 -565V-697H208V-241C119 -228 55 -152 55 -63C55 36 135 115 236 115ZM236 57C167 57 113 3 113 -63C113 -132 167 -186 236 -186C301 -186 356 -132 356 -63C356 4 302 57 236 57Z"/>
+  </g>
+</svg>

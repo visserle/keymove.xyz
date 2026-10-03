@@ -1,0 +1,13 @@
+[Event "Ceskoslovensky Sach#268"]
+[Source "Ceskoslovensky Sach/2"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Hadac, Vratislav"]
+[White "Hadac, V"]
+[Black " Michal, V."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4P3/1p1p1P2/2P2p1b/KP6/4p3/3P4/2k5 w - - 0 1"]
+
+1. dxe3 $1 Be8+ 2. Kb3 Bf7+ 3. Kc3 dxc5 4. bxc5 bxc5 5. e4 fxe4 (f4 6. e5 f3 7. e6 f2 8. exf7) 6. e8=Q Bxe8 7. f7 Bxf7 1/2-1/2

@@ -1,0 +1,82 @@
+[Event "Rochade#0118"]
+[Date "1982.10.16"]
+[Round "?"]
+[Composer "Werner, Gregor"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5B1k/7p/5p1P/8/2p5/1rp3P1/2p2R2/7K w - - 0 1"]
+
+1. Rxc2 $1 Rb1+ 2. Kg2 $1 Rb2 3. Rf2 c2 4. Ba3 c1=Q (Ra2 5. Bc1) 5. Rxb2 $1 Qxh6 6. Rb8+ Kg7 7. Bf8+ Kg6 8. Bxh6 1-0
+
+[Event "Rochade#0160"]
+[Source "Rochade/5"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Werner, Gregor"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5kB1/8/8/p2P2Bp/p7/K7/P6p/8 w - - 0 1"]
+
+1. d6 $1 h1=Q 2. d7 (2. Bb3 $2 Qc6 $1 3. d7 Qc5+ 4. Kb2 Qxg5) Qh3+ 3. Bb3 Qxd7 4. Bh6+ Ke7 5. Bg5+ Kd6 6. Bf4+ Kc5 7. Be3+ Kd6 8. Bf4+ 1/2-1/2
+
+[Event ".c Europa Rochade#0477 (m)"]
+[Source "Europa Rochade/12 (m): Markov=E Zadachy i Etyudy=29 23-5-2003."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Werner, Gregor"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/2p4P/8/3pN3/8/kbK5 w - - 0 1"]
+
+1. Nc2+ $1 (1. h6 $2 d2+) Bxc2 2. h6 Bb1 $1 3. Kd2 c4 4. h7 c3+ 5. Kxc3 d2 6. h8=Q d1=Q 7. Kb4+ $1 Ka2 8. Qa8+ Kb2 9. Qa3+ Kc2 10. Qc3# 1-0
+
+[Event ".c Europa Rochade#0477"]
+[Source "Europa Rochade/12 EG#07806."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Werner, Gregor"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/2p4P/8/3p4/2b5/k1K5 w - - 0 1"]
+
+1. h6 $1 (1. Kd2 $2 Bb3) Bb1 2. Kd2 $1 (2. h7 $2 d2+) c4 3. h7 c3+ 4. Kxc3 (4. Kd1 $2 c2+ 5. Kd2 c1=Q+ 6. Kxc1 d2+) d2 5. h8=Q d1=Q (d1=N+ 6. Kb3+) 6. Kb4+ Ka2 7. Qa8+ Kb2 8. Qa3+ Kc2 9. Qc3# 1-0
+
+[Event "Die Schwalbe#05495"]
+[Source "Die Schwalbe/6"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Werner, Gregor"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7R/8/5p2/2k2p2/8/2n2K1B/2p5/8 w - - 0 1"]
+
+1. Rc8+ $1 Kd4 (Kb4 {<main>} 2. Rb8+ Ka5 3. Ra8+ Kb6 4. Ra1 $1 (4. Rb8+ $2 Ka7 $1) Nb1 5. Bxf5 c1=Q 6. Rxb1+ Qxb1 7. Bxb1) 2. Rd8+ Ke5 3. Re8+ Kd6 4. Re1 $1 (4. Rd8+ $2 Ke7 $1) Nd1 5. Ke2 c1=Q 6. Rxd1+ Qxd1+ 7. Kxd1 1/2-1/2
+
+[Event "Schakend Nederland#2160"]
+[Source "Schakend Nederland/10 also Schweizerische Schachzeitung#292 Schweizerische Schachzeitung=10 Schweizerische Schachzeitung/10 1988."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Werner, Gregor"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1n5R/8/8/1k1n2K1/N7/8/2p5/5N2 w - - 0 1"]
+
+1. Nc3+ $1 (1. Rxb8+ $2 Kc6 2. Rc8+ Nc7) Nxc3 2. Rxb8+ Ka6 (Kc5 {<main>} 3. Rc8+ Kd4 4. Rd8+ Ke5 5. Re8+ Kd6 6. Re1 Nd1 7. Ne3 c1=Q 8. Rxd1+ Qxd1 9. Nxd1) 3. Ra8+ Kb7 4. Ra1 Nb1 5. Nd2 $1 c1=Q 6. Rxb1+ Qxb1 7. Nxb1 1/2-1/2

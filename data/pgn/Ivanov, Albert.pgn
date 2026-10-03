@@ -1,0 +1,15 @@
+[Event "2.hm Shakhmatny Listok#209"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Ivanov, Albert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "B7/8/8/6pP/1K5P/8/1p6/kn6 w - - 0 1"]
+
+1. Be4 $1 (1. Ka4 Nc3+ 2. Kb3 b1=Q+) (1. Bb7 Nd2 2. hxg5 b1=Q+) (1. Kc4 Na3+ 2. Kd4 b1=Q) Nc3 $1 (Nd2 2. Bf5 Nf3 3. h6) 2. Kxc3 (2. Bf3 Na2+ 3. Kc5 b1=Q) gxh4 3. h6 (3. Kd2 $2 h3 4. h6) (3. Bf5 b1=N+ 4. Bxb1 Kxb1 5. h6) (3. Kd3 b1=Q+ 4. Ke3 Qc1+) (3. Kb3 h3) (3. Bb1 Kxb1) (3. Kd4 h3) h3 4. h7 (4. Bb1 h2) h2 5. h8=Q (5. h8=R $2 b1=Q 6. Bxb1) (5. h8=B $4 b1=Q 6. Kc4+ Ka2) (5. Kb3 $4 h1=Q 6. Bxh1 b1=Q+) b1=Q $1 6. Bxb1 (6. Qxh2 $2 Qc1+ 7. Bc2 $10) (6. Kd2+ $2 Qb2+ 7. Qxb2+ Kxb2 8. Bf3 $10) (6. Qa8+ $2 Qa2 7. Bf3 $10 Qa3+ $4 (Kb1 $5) 8. Qxa3+ Kb1 9. Be4#) (6. Qd4 h1=Q 7. Bxb1 Qxb1 8. Kc4+) h1=Q 7. Bh7 $18 $1 (7. Qd4 $2 Qxb1 8. Qc4 $10) (7. Qxh1 $2) (7. Qb8 $2 Qe1+ 8. Kd3) (7. Qh7 $2 Qg1 8. Ba2) (7. Qh2 Qxh2) (7. Kc4+ Qxh8) Qb7 8. Kc2+ Ka2 9. Bg8+ Ka3 10. Qa1+ 1-0

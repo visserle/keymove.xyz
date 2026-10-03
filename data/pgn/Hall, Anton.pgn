@@ -1,0 +1,53 @@
+[Event "Krenzisky 50 JT Schackvärlden"]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Hall, Anton"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p1p4/1P1qk1NN/8/K2PP3/8/8/8 w - - 0 1"]
+
+1. d5+ $1 Kf6 2. Ne5 Kxe5 (Qxe5 3. Ng4+ Kg5 (Ke7 4. Nxe5 Kd6 5. Nxd7 Kxd7 6. e5) 4. Nxe5 Kf4 5. Nxd7 Kxe4 6. Nc5+ Kxd5 7. Kb5) (Qe7 3. Ng8+ Kxe5 4. Nxe7 Kxe4 5. Kb5) 3. Nf7+ Kxe4 4. Nxd6+ Kxd5 5. Nf7 $1 Kc5 6. Ka5 d5 7. Nd8 1-0
+
+[Event "Sydsvenska Dagbladet Snällposten (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - IV-17 2012."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Hall, Anton"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7R/1pqp2R1/r5p1/1pP2k2/1P6/2N4P/6Pp/7K w - - 0 1"]
+
+1. Rf7+ $1 (1. Rf8+ $2 Kg5 $1) Ke5 2. Re8+ (2. Rf1 $2 Re6 3. Rh4 Qc6 4. Re4+ Qxe4 5. Nxe4 Kxe4 6. Rd1 Kf5 7. Rxd7 Re4 8. Rxb7 Rxb4 9. c6 Rc4 10. Rxb5+ Kf4 11. Kxh2 Rxc6) Re6 3. Rxe6+ Kxe6 4. Re7+ $1 Kf5 (Kxe7 5. Nd5+ Kd8 6. Nxc7 Kxc7 7. Kxh2) 5. Nxb5 $1 Qd8 (Qb8 {<main>} 6. Re8 $1 Qg3 (Qxe8 7. Nd6+ Kf4 8. Nxe8) 7. Nd6+ Kf4 8. Re4+ Kg5 9. Rg4+ Qxg4 10. hxg4) 6. Nd6+ Kf4 7. Re4+ Kg3 8. Re8 Qh4 9. Ne4+ Kf4 10. g3+ $1 Qxg3 11. Nxg3 1-0
+
+[Event "Tidskrift for Schack#1436"]
+[Source "Tidskrift for Schack/4-5"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Hall, Anton"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K1k/3R3r/2p3r1/8/5B2/8/8/8 w - - 0 1"]
+
+1. Be5+ $1 Rhg7 2. Bxg7+ Kh7 3. Be5+ Kh6 4. Bf4+ Kh5 5. Rh7+ Kg4 6. Kf7 Kf5 7. Rh5+ Kxf4 8. Kxg6 1-0
+
+[Event "Expressen"]
+[Date "1971.11.24"]
+[Round "?"]
+[Composer "Hall, Anton"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3B4/8/8/3NN3/4k3/6b1/4K3/8 w - - 0 1"]
+
+1. Nf6+ $1 Kxe5 2. Nh5 Bf4 (Bh2 3. Bc7+) 3. Bc7+ Kf5 4. Nxf4 (4. Bxf4 $2 Kg4) 1-0

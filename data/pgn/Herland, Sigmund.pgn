@@ -1,0 +1,68 @@
+[Event "Deutsches Wochenschach#1299"]
+[Source "also Shakhmaty Vestnik 1913."]
+[Date "1913.04.06"]
+[Round "?"]
+[Composer "Herland, Sigmund"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p1p3/2P1P3/P7/4P2p/1p5p/1P2Pp1b/5K1k w - - 0 1"]
+
+1. a6 $1 Bg1 $1 2. a7 h2 3. a8=N $1 h3 4. Nb6 $1 cxb6 5. c7 b5 6. c8=N $1 b4 7. Nd6 $1 exd6 8. e7 d5 9. e8=Q 1-0
+
+[Event "Wiener Schachzeitung#0803"]
+[Source "Wiener Schachzeitung/10 also 1.hm Revista de Romana de Sah#0141 Revista de Romana de Sah=12 22-12-1936."]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Herland, Sigmund"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/4p2N/6pp/Kp2p2P/5p2/6p1/4P3/2B5 w - - 0 1"]
+
+1. Ng5 $1 hxg5 (gxh5 2. Nh3) 2. hxg6 g2 3. Be3 $1 fxe3 4. Kb6 $1 (4. g7 $2 Kb7 $1) g1=Q 5. g7 1-0
+
+[Event "Revista de Romana de Sah#0083"]
+[Date "1927.04.15"]
+[Round "?"]
+[Composer "Herland, Sigmund"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2kn4/P7/1PP5/1K2p1p1/8/8/8 w - - 0 1"]
+
+1. a7 $1 Nb6 $1 (Kb7 2. c6+ Kxa7 3. cxd7) 2. cxb6+ Kb7 3. Kc5 e3 4. Kd6 $1 e2 5. a8=Q+ Kxa8 6. Kc7 e1=Q 7. b7+ Ka7 8. b8=Q# 1-0
+
+[Event "Revista de Romana de Sah#0124"]
+[Source "Revista de Romana de Sah/5"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Herland, Sigmund"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2p2P2/P7/2P4k/2K5/8/6bb w - - 0 1"]
+
+1. f7 $1 (1. a6 $2 c5 $1) Bc5 2. a6 Bf8 3. c5 $1 Bxc5 4. a7 Bxa7 5. f8=Q 1-0
+
+[Event "Neue Leipziger Zeitung"]
+[Source "also Revista de Romana de Sah#0382 Revista de Romana de Sah=9 Revista de Romana de Sah/9 1947."]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Herland, Sigmund"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/8/KpPN2P1/1P4p1/p2b2p1/6r1/8/2Bb4 w - - 0 1"]
+
+1. Bb2 $1 Bxb2 (Kb8 2. Bxd4 Rd3 (Kc7 3. Nf5 Rd3 4. Be5+) 3. Kxb6 Rxd4 4. c7+) (Rd3 2. Bxd4 Rxd4 3. c7) 2. c7 Rc3 3. g7 Bb3 4. Nc4 $1 Rxc4 (Bxc4 {<main>} 5. c8=Q#) 5. g8=Q# 1-0

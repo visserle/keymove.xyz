@@ -1,0 +1,13 @@
+[Event "New Statesman {and Nation}"]
+[Source "also Chess Life & Review#0765 Chess Life & Review=6 Chess Life & Review/6 1975."]
+[Date "1974.09.06"]
+[Round "?"]
+[Composer "Gray, M"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/P7/2K5/1P2p3/p7/b7/8/8 w - - 0 1"]
+
+1. b6 $1 Bb4 2. Kb5 $1 Kb7 3. Kxb4 e4 4. Kc5 e3 5. Kd6 e2 6. a8=Q+ Kxa8 7. Kc7 e1=Q 8. b7+ Ka7 9. b8=Q+ Ka6 10. Qb6# 1-0

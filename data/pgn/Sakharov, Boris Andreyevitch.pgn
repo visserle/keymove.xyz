@@ -1,0 +1,13 @@
+[Event "4.hm Prague problem ty Ceskoslovensky S"]
+[Source "Ceskoslovensky Sach/1 1954"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Sakharov, Boris Andreyevitch"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/7b/8/P4n1B/P1p5/1p6/pP6/K3N3 w - - 0 1"]
+
+1. Bf3+ $1 Ka7 2. Be4 Nd4 $1 (Ka6 3. Bxf5 Bxf5 4. Nd3 Kxa5 5. Nc1) 3. Bxh7 Ka6 (Kb7 4. Bg6 Kc6 5. Bh7 Kc5 6. Be4 Kb4 7. a6 $1 c3 8. a7 c2 (cxb2+ 9. Kxb2 Nc2 10. Nxc2+) 9. Nd3+ Kc4 10. Nc1) 4. Bb1 $1 Kxa5 5. Bxa2 $1 Nc2+ 6. Nxc2 bxc2 7. b4+ $1 cxb3 8. Bb1 $1 c1=R $1 (c1=Q) 9. Kb2 Re1 10. Ka3 $1 Rxb1 1/2-1/2

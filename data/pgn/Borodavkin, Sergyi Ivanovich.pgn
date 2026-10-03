@@ -1,0 +1,12 @@
+[Event "Zaporozhskaya Pravda"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Borodavkin, Sergyi Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B2K3/8/2N5/6k1/8/P7/2p5/8 w - - 0 1"]
+
+1. Nd4 $1 c1=Q 2. Bf4+ Qxf4 3. Ne6+ Kf5 4. Nxf4 Kxf4 5. Kd7 Ke4 6. Kc6 1-0

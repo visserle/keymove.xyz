@@ -1,0 +1,51 @@
+[Event "Tidskrift for Schack#3761"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Karlsson, Liss Olof"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k5/1p6/pPp5/K1P3p1/1P2p3/3pP1P1/3P4/8 w - - 0 1"]
+
+1. g4 $1 (1. Ka4 $2 g4 $1) Kd7 2. Ka4 Ke7 (Ke6 3. Kb3) 3. Ka3 $1 (3. Kb3 $2 Ke6 4. Kb2 Ke5 5. Ka2 Kd5 6. Kb3 Ke6 7. Kc3 Kd5) Kf6 4. Ka2 $1 Ke5 5. Kb2 Ke6 6. Kb3 Kf6 7. Kc3 Ke5 8. Kc4 1-0
+
+[Event "4.p Tidskrift for Schack#0118"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Karlsson, Liss Olof"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/7p/4p2P/4P2P/1p2P3/1Pp5/2P5/N6K w - - 0 1"]
+
+1. Kg1 $1 Ka7 (Kb8 2. Kg2 Kc8 3. Kg3 Kd8 4. Kg4 Ke8 5. Kf3 Kd7 6. Kf4) 2. Kf1 Ka6 3. Kg2 $1 Kb7 4. Kf2 Kc7 5. Kf3 Kd7 (Kc6 {<main>} 6. Ke3 Kb6 7. Kf4) 6. Kf4 Ke7 7. Ke3 1-0
+
+[Event "2.p Tidskrift for Schack#0103"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Karlsson, Liss Olof"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3r1n2/2N5/2PP4/4P3/3k4/8/3K4/8 w - - 0 1"]
+
+1. e6 $1 Nxe6 (Rxd6 2. e7 Ke5+ 3. Ke3) 2. Nxe6+ Ke5 3. c7 $1 (3. Nxd8 $2 Kxd6) Rxd6+ 4. Nd4 $1 Rxd4+ 5. Kc3 Rd1 6. Kc2 1-0
+
+[Event "Tidskrift for Schack#0111"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Karlsson, Liss Olof"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1r6/1N4p1/P7/1P2p3/1k4K1/3P4/8/8 w - - 0 1"]
+
+1. b6 $1 Kb5 (Rf8 2. Nd8) 2. Nc5 Rxb6 3. a7 Rg6+ 4. Kf5 $1 Rf6+ 5. Kxe5 Rf8 6. Ne6 Re8 7. a8=Q Rxa8 8. Nc7+ Kc6 9. Nxa8 g5 10. d4 g4 11. d5+ Kb7 (Kc5 12. Nc7 g3 13. Ne6+ Kc4 14. Nf4) 12. Kf4 Kxa8 13. Kxg4 Kb8 14. Kf5 Kc7 15. Ke6 Kd8 16. Kd6 1-0

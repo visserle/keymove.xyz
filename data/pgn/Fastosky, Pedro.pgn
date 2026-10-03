@@ -1,0 +1,54 @@
+[Event "2.p tl10#2023 {m}"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Fastosky, Pedro"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6np/2P1p1k1/6P1/8/4NB1K/8/1b4r1 w - - 0 1"]
+[PlyCount "10"]
+
+1. c7 Rc1 2. Nc2 $1 {Nowotny} Bxc2 (Rxc2 $144 3. Be4+ Kxg5 4. Bxc2 Bxc2 5. c8=Q Bf5+ 6. Kg2 Nh5 $11) 3. c8=Q Bf5+ 4. Kh4 $1 Rxc8 5. Bh5+ Nxh5 $11 1/2-1/2
+
+[Event "El Ajedrez Argentino"]
+[Source "El Ajedrez Argentino/1"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Fastosky, Pedro"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1n6/7P/2p5/2P5/p1K5/k7 w - - 0 1"]
+
+1. h6 $1 Nd5 2. h7 Nxc3 3. h8=R $1 (3. h8=Q $2) Nb1 4. Rh1 c3 5. Rh4 $1 Na3+ 6. Kxc3 Nb1+ 7. Kc2 Nd2 (Na3+ 8. Kb3 Nb1 9. Rd4 $1) 8. Rd4 $1 Nb1 9. Kb3 1-0
+
+[Event "6.hm L'Italia Scacchistica#631"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Fastosky, Pedro"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5Bb1/4N3/p7/3p4/P7/2k5/K3p3/8 w - - 0 1"]
+
+1. Nxd5+ $1 Bxd5+ 2. Ka3 a5 3. Bg7+ Kc2 4. Bc3 Kxc3 1/2-1/2
+
+[Event "L'Italia Scacchistica#3845"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Fastosky, Pedro"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2K3kr/1p2p2p/pP2P2P/P7/5p2/6pp/8/7B w - - 0 1"]
+
+1. Bxb7 $1 (1. Kxb7 $2 g2 2. Bxg2 hxg2 3. Kxa6 g1=Q 4. b7 Qf1+ $1 (Qb1 $2 5. b8=Q+ Qxb8) 5. Kb6 (5. Ka7 Qb5 6. a6 f3) Qf2+ 6. Ka6 Qe2+ 7. Kb6 Qxe6+) g2 2. Bxg2 hxg2 3. b7 g1=Q 4. b8=Q Qg7 $1 5. Kb7+ Qf8 6. Kxa6 $1 Qxb8 1/2-1/2

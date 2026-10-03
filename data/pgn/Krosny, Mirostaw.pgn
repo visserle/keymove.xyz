@@ -1,0 +1,26 @@
+[Event "Szachy#855"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Krosny, Mirostaw"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1ppk4/8/1pPKP3/p2P4/P7/3P4/8 w - - 0 1"]
+
+1. c6+ $1 (1. e6+ $2 Ke7) bxc6+ 2. Kc5 Ke6 3. d5+ $1 (3. Kxc6 $2 b4) cxd5 (Kxe5 4. dxc6 b4 5. Kxb4 Kd4 6. Kxa4 Kc5 7. Ka5 Kxc6 8. Ka6 Kc5 9. Kb7) 4. Kxb5 Kxe5 5. Kxa4 Kd4 $1 6. Kb5 (6. Kb4 $2 c5+ 7. Kb5 c4 8. a4 Kd3) c5 7. a4 c4 8. a5 Kd3 9. a6 Kxd2 10. a7 c3 11. a8=Q c2 {<eg>} 12. Qxd5+ Kc3 $1 13. Qe5+ Kd2 14. Qd4+ Kc1 15. Kb4 1-0
+
+[Event "4.c Gazeta Czestochowska (c)"]
+[Source "(c): Garcia=M Krug=P Estudios Artisticos de Ajedrez - XVII-59 2015."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Krosny, Mirostaw"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1np5/1p6/PPP1p3/K2k2p1/N1rP2P1/P3P3/8 w - - 0 1"]
+
+1. a6 $1 Nxc5+ 2. Kb4 Rxa3 (Ne6 3. a7 c5+ 4. bxc6 Rxa3 5. Kxa3 Nc7 6. Kb4 Kd5 7. a8=Q Nxa8 8. Kb5 Kd6 9. e3 Kd5 10. c7 Nxc7+ 11. Kxb6 Kd6 12. e4 Ne6 13. a4 Kd7 14. a5 Kc8 15. Kc6) 3. e3+ (3. Kxa3 $2 Kc3 4. e3 c6 5. d4 exd4 6. exd4 Ne6 7. Ka4 Kxd4 8. a7 Nc7 9. bxc6 Kc4) Kxd3 4. Kxa3 Kc3 5. a7 c6 6. a8=Q (6. bxc6 $2 b5 7. a8=Q b4#) cxb5 7. Qe4 $1 Nxe4 1/2-1/2

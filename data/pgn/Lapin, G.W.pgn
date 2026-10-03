@@ -1,0 +1,38 @@
+[Event "Shakhmatny Listok#133"]
+[Date "1925.12.05"]
+[Round "?"]
+[Composer "Lapin, G.W"]
+[White "Lapin, G"]
+[Black " Prytkin, S."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p3/1P3p2/pP2p3/p7/P1p5/K2k4/6B1 w - - 0 1"]
+
+1. Bd4 $1 exd4 2. b7 c2 3. b8=Q c1=Q 4. Qf4+ Kc2 5. Qxc1+ Kxc1 6. b6 d3 7. b7 d2 8. b8=Q d1=Q 9. Qb2# 1-0
+
+[Event "64#503"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Lapin, G.W"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5n2/8/3P2PK/3k2p1/8/8/8 w - - 0 1"]
+
+1. g6 $1 Nd6 $1 (g3 2. g7) 2. g7 Ne8 3. g8=Q Nf6+ 4. Kg5 $1 Nxg8 5. d6 g3 6. d7 g2 7. d8=Q+ 1-0
+
+[Event "64"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Lapin, G.W"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/k1p5/8/KP2B3/1P6/1p6/8/3n4 w - - 0 1"]
+
+1. Bd4+ $1 Kb7 2. b6 cxb6+ (c6 3. b5 c5 4. Be5 b2 5. Bxb2 Nxb2) 3. Kb5 b2 4. Bxb2 Nxb2 1/2-1/2

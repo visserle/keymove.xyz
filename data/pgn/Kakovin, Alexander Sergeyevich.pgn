@@ -1,0 +1,30 @@
+[Event "?"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/7B/7P/8/2k3b1/b7/N7/K7 w - - 0 1"]
+
+1. Bg8+ (1. Bd3+ $2 Kxd3 2. h7 $10) (1. Nc1 $2 Bf5 2. Bg8+ $10) (1. Bg6 $2 Bd1 2. h7 $10) (1. Be4 $2 Bd1 2. h7 $10) (1. Kb1 $2 Bd1 2. Nb4 $10) (1. Bc2 $2 Bf8 2. h7) (1. Bb1 $2 Bf3 2. h7) (1. Nc3 $2 Bh3 2. Nb5) (1. Nb4 Bf5 2. Nc2) Kd3 2. h7 (2. Nb4+ $2 Bxb4 3. h7 $10) (2. Bb3 $2 Bf5 3. h7 $10) (2. Nc1+ $2 Bxc1 3. h7) (2. Kb1 $2 Bf5 3. h7) (2. Bh7+ $2 Ke3 3. Nb4) (2. Nc3 Kxc3 3. h7) Bc5 3. Nc1+ (3. h8=Q $2 Bd4+ 4. Qxd4+ Kxd4 5. Nb4 $10) (3. Nb4+ $2 Bxb4 4. h8=Q $10) (3. Nc3 $2 Bd4 4. h8=Q $10) (3. Kb1 $2 Bd4 4. h8=Q) (3. Bc4+ $2 Ke3 4. h8=Q) (3. Kb2 $2 Bf5 4. h8=Q) Ke4 4. Nb3 (4. Ka2 $2 Be6+ $4 (Bd4 $5 $10) 5. Bxe6) (4. Bd5+ $2 Kxd5 5. h8=Q) (4. Kb1 $2 Bd4 5. h8=Q) (4. Bb3 $2 Bf3 5. h8=Q) (4. Ne2 $2 Bxe2 5. h8=Q) Bd6 5. Nd2+ (5. Ka2 $2 Be5 6. h8=Q $10) (5. Nd4 $2 Be5 6. h8=Q) (5. Nc5+ $2 Bxc5 6. h8=Q) (5. Na5 $2 Bf5 6. h8=Q) (5. Kb2 $2 Bf5 6. h8=Q) (5. Kb1 Be5 6. Nd2+ Kf5) Kf5 6. Nc4 (6. Kb1 Be5 7. Bb3) Be7 7. Ne3+ (7. Nb6 $2 Bf6+ 8. Kb1) (7. Ne5 $2 Bf6 8. h8=Q) Kg6 8. Nxg4 $18 1-0
+
+[Event ".c 3rd International Moscow o.t.b. ty 6"]
+[Site "?"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/2p5/3prpb1/4k3/4p3/4KP2/4NP2/2R5 w - - 0 1"]
+
+1. f4+ $1 (1. Nf4 $6 $2 exf3 2. Nxe6 Kxe6 3. Rxc7 Bh5 $14) (1. Nd4 $2 Re8 2. f4+ $10) (1. Rc6 Kd5 2. Rxc7 exf3+ 3. Kxf3 Bh5+) (1. Rxc7 d5 2. f4+) (1. Ng1 Re7 2. fxe4 Bxe4) Kd5 $1 (Kf5 2. Nd4+) 2. f5 $1 (2. Nc3+ $4 Kc6 3. Ne2+ Kd7 $17) (2. Rxc7 $2 Re8 3. Nc3+ $10) (2. Nd4 $4 Re7 $17) (2. Rd1+ $4 Kc5 3. Rc1+ Kb6) (2. Ng3 Re7) (2. Rg1 f5 3. Rd1+ Kc5) (2. f3 exf3+ 3. Kxf3 Bh5+) (2. Rc5+ Kxc5) (2. Re1 Re7 3. Rd1+ Kc6) Bxf5 $2 (Re8 $5 3. fxg6 $18) (c6 $5 3. fxe6 $18) 3. Nf4+ (3. Nc3+ $4 Ke5 $17 $19 4. f4+ exf3 5. Kxf3 d5) (3. Rd1+ $4 Kc5 4. Rc1+ Kb6) (3. Nd4 $4 Re5 4. Rxc7 Bg4) (3. Ra1 Re7) (3. Kf4 Re5 4. Rxc7 e3) (3. Rxc7 Ke5) Ke5 4. Rd1 (4. Ne2 c5) (4. Kd2 Kxf4 5. Rxc7 Kf3) (4. Nh5 d5 5. f4+ exf3 6. Kxf3 Bg6) (4. Nh3 Bxh3 5. f4+ exf3 6. Kxf3 c5) (4. Ng2 Re7) (4. Nd5 Kxd5 5. Rxc7 Re8) c6 (Bh7 5. Rd5#) 5. Rd5+ $1 (5. Ng2 d5 6. f4+ exf3) (5. Nh3 Bxh3) (5. Re1 Re7) (5. Rh1 Re8) (5. Rd3 exd3 6. Nxe6 Kxe6) (5. Nh5 Bg4 6. f4+ exf3) cxd5 6. Nd3+ $1 (6. Ne2 $4 Re8 7. f4+ exf3 8. Kxf3 d4) (6. f3 $4 d4+ 7. Kd2 e3+) (6. Nh5 $4 d4+ 7. Kd2 Bg4) (6. Nxe6 $4 Bxe6 7. f4+ exf3 8. Kxf3 d4) (6. Kd2 Kxf4) (6. Ng2 d4+ 7. Kd2 Re8) exd3 7. f4# (7. f3 $4 d4+ 8. Kd2 Kf4) 1-0

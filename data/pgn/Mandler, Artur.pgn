@@ -1,0 +1,453 @@
+[Event "?"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/8/8/k7/P1K5/2p5/2b5/5R2 w - - 0 1"]
+
+1. Rg1 (1. Rf8 $2 Be4 2. Rc8 $10 Bd3+ $4 (Bf3 $5) (Bb7 $5) (c2 $5) 3. Kxd3 Kxa4 4. Rb8) (1. Rf2 $2 Bd1 2. Re2 $10) (1. Ra1 $2 Bxa4 2. Rb1 $10 Bb3+ $4 (Ka6 $5) 3. Rxb3) (1. Rf5+ $2 Bxf5 2. Kxc3 $10 Kxa4 3. Kc4) (1. Kc5 $2 Bb3 2. Re1 $10) (1. Re1 $2 Bg6 2. Rd1 $10 Kxa4 $4 (Bh7 $5) 3. Ra1#) (1. Rf3 $2 Kxa4 2. Re3 Bb3+ 3. Kd4) (1. Rb1 $2 Bxb1 2. Kxc3) Bxa4 (Bh7 2. Rg5+ (2. Rg7 $2 c2 3. Rg5+ $10) (2. Kxc3 $2 Kxa4 3. Rf1 $10) (2. Kc5 $2 Ka6 3. a5) (2. Re1 $2 Bg6 3. Kd5 $10 Kxa4 4. Ke6) (2. Rc1 $2 Be4 3. Kb3 $10 Bd5+ 4. Ka3) Kxa4 3. Rg7 $3 $18 (3. Kxc3 $2 Bb1 4. Rf5 $10) (3. Rg1 $2 Ka3 4. Rf1) (3. Ra5+ Kxa5 4. Kxc3) (3. Rg2 c2 4. Rxc2 Bg8+ 5. Kd4) (3. Rg6 Bxg6 4. Kxc3)) 2. Ra1 (2. Kc5 Be8 3. Ra1+ $18) (2. Rg5+ $2 Ka6 3. Rf5 $10 Bb3+ $4 (Kb6 $5) 4. Kxb3) (2. Rg6 $2 c2 3. Rg1 $10) (2. Kxc3 $2 Kb6 3. Rf1) (2. Rb1 $2 Bb3+ $4 (Ka6 $5) 3. Rxb3) c2 3. Kc5 (3. Kc3 $2 c1=Q+ 4. Rxc1 $10) (3. Rg1 $2 c1=Q+ 4. Rxc1 $10 Bb3+ $4 (Be8 $5) 5. Kxb3) (3. Rc1 $2 Bb5+ 4. Kd4) (3. Kd3 $2 c1=Q 4. Rxc1) (3. Kd4 $2 c1=Q 4. Rxc1) (3. Re1 c1=Q+ 4. Rxc1 Bb3+ $4 (Kb6 $5) 5. Kxb3) (3. Ra2 c1=Q+ 4. Kd4 Qd1+) (3. Kd5 c1=Q 4. Rxc1) (3. Ra3 c1=Q+ 4. Rc3 Bb5+) c1=Q+ 4. Rxc1 (4. Kd4 Qxa1+ 5. Ke4 Qf6) Be8 5. Ra1+ $18 (5. Re1 $18 Bd7 6. Ra1+) (5. Rd1 $4 Ka4 6. Rc1) (5. Kd6 $4 Bf7 6. Rb1) (5. Kd4 $4 Bf7 6. Rb1) (5. Kd5 $4 Bf7+ 6. Kc5) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "2r5/2P5/5p2/8/2R3pp/4K2k/8/8 w - - 0 1"]
+
+1. Ke4 (1. Kf4 $2 f5 2. Kg5 g3 3. Rxh4+ Kg2 4. Rc4 Kh2 $10) (1. Rc2 $2 Kg3 $19) (1. Rc3 $2 Kh2 2. Rc2+ Kg3 $19) (1. Rf4 $2 Rxc7 2. Rxf6 g3) g3 (f5+ 2. Kf4 (2. Ke5 $2 g3 3. Kxf5 g2 $19 4. Rc3+ Kh2) (2. Kd5 $2 g3 $19) (2. Ke3 $2 f4+ 3. Kxf4 g3 4. Rc2 g2 $19) (2. Kxf5 $2 g3 $19) (2. Kd4 $2 f4) g3 3. Kf3 (3. Rc3 $2 Kh2 4. Rc2+ g2 $19) (3. Kg5 $2 g2 4. Rc3+ Kh2 $19) (3. Kxf5 $2 g2 4. Rc3+ Kh2 $19) (3. Rc2 $2 g2 4. Rc3+ Kh2 $19) (3. Rc1 $2 g2 4. Rc3+ Kh2 $19) (3. Ke3 $2 f4+ 4. Kxf4 g2 $19 5. Rc3+ Kh2) f4 4. Rc2 $10 (4. Rxf4 $2 g2 5. Rxh4+ Kxh4 6. Kxg2 Rxc7) (4. Rc1 $2 g2 5. Kxf4 Rxc7 6. Rxc7 g1=Q) (4. Kxf4 $2 g2 5. Rc3+ Kh2) (4. Rc3 $2 g2 5. Kxf4+ Kh2) (4. Rc5 $2 g2) (4. Ke2 $2 g2) (4. Rc6 g2)) 2. Ke3 (2. Kf3 $2 f5 3. Rc2 f4 $19) (2. Kf5 $2 g2 3. Rc3+ Kh2 $19) (2. Kf4 $2 g2 3. Rc3+ Kh2 $19) (2. Rc2 $2 g2 3. Rc1 Rxc7 4. Rxc7 g1=Q) (2. Rc3 $2 Kh2 3. Rc2+ g2 $19) (2. Kd5 $2 g2 $19 3. Rc3+ Kg4) (2. Rc1 $2 g2 $19 3. Rc3+ Kg4) (2. Rc5 $2 g2 3. Rc3+ Kg4) Kg2 (Kh2 3. Rxh4+ $1 (3. Rd4 $2 g2 4. Rxh4+ Kg3) (3. Rb4 h3 4. Rb2+ g2) Kg1 4. Rc4 g2 5. Kf3 $10) 3. Rc2+ (3. Rxh4 $2 Rxc7 $19 4. Rh2+ gxh2) (3. Kf4 $2 Kh2 $19) (3. Ke2 $2 h3) (3. Ke4 $2 h3 4. Rc2+ Kh1) (3. Rc1 Kh2 4. Rc2+ g2) Kg1 4. Kf3 (4. Rc1+ $2 Kh2 5. Rc2+ g2 $19) (4. Kf4 $2 g2 $19) (4. Ke2 $2 g2) f5 5. Rc1+ (5. Rc4 $2 g2 6. Rxh4 Rxc7 $19 7. Rh1+ gxh1=Q+ 8. Ke3 Rc6) (5. Rg2+ $2 Kh1 $19) (5. Kf4 $2 g2 6. Kxf5 h3 7. Rc1+ Kf2) (5. Rc3 $2 g2) (5. Ke3 $2 g2) (5. Rc5 $2 g2) (5. Rh2 gxh2) Kh2 6. Rc2+ (6. Rc4 $2 h3 7. Rc2+ g2 $19) (6. Ke2 $2 g2 $19) (6. Rc5 $2 h3 7. Rc2+ g2 $19) (6. Kf4 $2 g2 7. Kxf5 g1=Q 8. Rxg1 Kxg1) (6. Ke3 $2 g2) (6. Rf1 $2 Rxc7 7. Rh1+ Kxh1) (6. Rc3 $2 h3 7. Rc2+ g2) Kh3 7. Rc4 (7. Rc1 $2 g2 $19) (7. Rc5 $2 g2 $19) (7. Rg2 $2 Rxc7 $19 8. Rxg3+ hxg3) (7. Kf4 $2 g2 8. Rc3+ Kh2 $19) (7. Rc3 $2 g2 8. Kf4+ Kh2 $19) (7. Ke3 $2 g2 $19) (7. Rc6 $2 g2 $19) (7. Ke2 $2 g2) (7. Rd2 Rxc7) f4 8. Rc2 $10 (8. Rxf4 $2 g2 9. Rxh4+ Kxh4 10. Kxg2 Rxc7) (8. Rc1 $2 g2 9. Kxf4 Rxc7 10. Rxc7 g1=Q) (8. Kxf4 $2 g2 9. Rc3+ Kh2) (8. Rc3 $2 g2 9. Kxf4+ Kh2) (8. Rc5 $2 g2) (8. Ke2 $2 g2) (8. Rc6 g2) 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "1k6/6p1/6P1/6K1/6R1/2r5/8/8 w - - 0 1"]
+
+1. Rf4 (1. Re4 $2 Kb7 2. Re7+ Rc7 3. Rf7 Kc6 4. Kf5 Rd7 $10) (1. Rb4+ $2 Kc8 2. Ra4 $10) (1. Rd4 $2 Rg3+ 2. Rg4 $10) (1. Kf5 $2 Re3 2. Rf4 $10) (1. Rh4 $2 Rd3 2. Rg4) (1. Ra4 $2 Rb3 2. Rc4) Rg3+ (Rc7 2. Rf7 (2. Rf8+ Rc8 3. Rf7 $18) (2. Kf5 $2 Re7 3. Re4 $10) (2. Kh5 $2 Rb7 3. Re4 $10) (2. Re4 $2 Rd7 3. Rc4) (2. Rf5 $2 Rd7 3. Re5) (2. Rb4+ $2 Kc8 3. Ra4) Kb7 3. Kf5 (3. Rxc7+ $2 Kxc7 4. Kf4 $10) (3. Rxg7 $2 Rxg7 4. Kf5) (3. Kg4 $2 Kb6 4. Rxc7 Kxc7 5. Kf5) (3. Rf8 $2 Kc6 4. Re8) (3. Rf5 $2 Rd7 4. Re5) (3. Kh5 $2 Kb6 4. Rxc7 Kxc7 5. Kg4) (3. Rf4 Rd7 4. Re4) (3. Kf4 Kb6 4. Rxc7 Kxc7 5. Kf5) Kc6 4. Ke6 $18 (4. Rxc7+ Kxc7 5. Ke6 $18) (4. Ke5 $2 Rd7 5. Rxd7 Kxd7 6. Kd5 $10) (4. Kf4 $2 Rd7 5. Rxd7 Kxd7 6. Ke4)) 2. Kh5 (2. Kf5 $2 Rg2 3. Re4 $10) (2. Kh4 $2 Rg2 3. Re4 $10) (2. Rg4 $2 Rf3 3. Kh4 $10) Rc3 3. Rf7 (3. Kg4 Rg3+ 4. Kxg3) (3. Kg5 Rg3+ 4. Kh5 $18) (3. Rf5 $2 Rc7 4. Re5 $10) (3. Rf8+ Rc8 4. Rf7 $18) (3. Rb4+ $2 Ka8 4. Ra4+) (3. Rd4 $2 Rh3+ 4. Rh4) (3. Rg4 $2 Rb3 4. Rf4) (3. Rf6 Rc5+ 4. Rf5 Rxf5+ 5. Kg4 Rf1) Rc7 4. Kg5 (4. Kg4 Rxf7 5. gxf7 $18) (4. Rf8+ $2 Kb7 5. Re8) (4. Rf5 $2 Rb7 5. Re5) (4. Rxc7 $2 Kxc7 5. Kg5) (4. Kh4 $2 Kc8 5. Rxc7+ Kxc7 6. Kg4) (4. Rxg7 $2 Rxg7 5. Kg5) Kc8 5. Kf5 (5. Kf4 $2 Kd8 6. Rxc7 Kxc7 7. Kf5 $10) (5. Rf8+ $2 Kd7 6. Rb8) Rc5+ 6. Kf4 (6. Ke4 $2 Kd8 7. Rxg7 Ke8 8. Rf7 Rg5 $10) (6. Ke6 Rc6+ 7. Kf5 $18) (6. Kg4 Rc4+ 7. Kf5 $18) Rc7 7. Ke5 (7. Kg5 $2 Kd8 8. Rxc7 Kxc7 9. Kf5 $10) (7. Kf5 Rc5+ 8. Kf4 $18) (7. Ke4 $2 Kd8 8. Rxc7 Kxc7 9. Kf5) (7. Rf8+ $2 Kd7 8. Rb8) (7. Rxg7 $2 Rxg7 8. Kf5) (7. Rf5 $2 Rd7 8. Re5) (7. Rxc7+ $2 Kxc7 8. Ke4) Rc6 8. Rxg7 (8. Kf5 Rc5+ 9. Kf4 $18) (8. Kd5 $2 Rb6 9. Re7 $10 Rxg6 10. Ra7) (8. Rf8+ $2 Kc7 9. Re8) (8. Ke4 $2 Rxg6 9. Re7) (8. Re7 $2 Rxg6 9. Ra7) (8. Kf4 Rxg6 9. Ra7) (8. Kd4 Rd6+ 9. Ke5) Kd8 9. Kf5 (9. Kd5 $2 Rb6 10. Rf7 $10) (9. Rg8+ $2 Ke7 10. g7 $10) (9. Kf4 $18) (9. Kd4 $2 Rb6 10. Rf7 $10) (9. Rf7 $2 Rxg6 10. Rb7) (9. Ra7 $2 Rxg6 10. Rb7) (9. Rh7 Rxg6 10. Rh8+ Kc7) Ke8 10. Rf7 $18 (10. Rg8+ Ke7 11. Kg5 $18) (10. Ra7 $2 Kf8 11. g7+ $10) (10. Kg5 $2 Kf8 11. Rf7+ $10) (10. Rh7 $2 Kf8 11. g7+ $10) (10. Rb7 $2 Kf8 11. g7+) (10. Kf4 $2 Rc4+ 11. Kf3) (10. Ke4 $2 Rc5 11. Rg8+ $10) (10. Ke5 $2 Rb6 11. Rf7) (10. Rd7 $2 Rxg6 11. Rc7 Rg5+ $4 (Ra6 $5) 12. Kxg5) (10. Kg4 $2 Rc4+ 11. Kg3) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "k1K5/6N1/8/8/2pp4/8/P7/8 w - - 0 1"]
+
+1. Ne8 (1. Ne6 d3 2. Nc7+ $10) (1. Nf5 $2 d3 $19) (1. a3 $2 c3 $19) (1. a4 $2 c3 $19) (1. Kd7 $2 c3 $19) (1. Kc7 $2 c3) (1. Nh5 $2 d3) d3 (c3 2. Nc7+ (2. a3 $4 c2 3. Nc7+ Ka7 $19) (2. Nd6 $4 d3 $19) (2. Nf6 $4 d3) (2. a4 $4 c2 3. Nc7+ Ka7) (2. Kc7 d3) Ka7 3. Nb5+ $1 $18 (3. a3 $4 c2 4. Nb5+ Kb6 $19) (3. Nd5 $4 c2 $19) (3. Ne6 $4 c2 4. Nxd4 c1=Q+) (3. a4 c2 4. Nb5+ Ka6)) (Ka7 2. Nd6 Kb6 $10) 2. a3 (2. Nc7+ Ka7 3. Nd5 (3. Nb5+ $2 Kb6 4. Nc3 Kc5 $19) c3 4. Nxc3 Ka6 5. a3 $10) (2. a4 $2 d2 3. Nc7+ Ka7 $19) (2. Nd6 $2 c3 $19) d2 (Ka7 3. Nd6 (3. Nc7 $2 Kb6 4. Nd5+ Kc5 $19) (3. a4 $2 c3 $19) (3. Kc7 $2 c3) d2 4. Nb5+ $1 $10 (4. a4 $2 d1=Q 5. Nxc4 Qd4)) 3. Nc7+ (3. Nd6 $2 d1=Q 4. Nxc4 Qc1) Ka7 4. Nb5+ Kb6 5. Nc3 $10 (5. Nd6 $2 d1=Q 6. Nxc4+ Kc5) (5. a4 $2 d1=Q $19 6. a5+ Kxb5) (5. Nd4 $2 c3 $19) (5. Nc7 d1=Q) 1/2-1/2
+
+[Event "Österreichische Schachrundschau#10"]
+[Source "Österreichische Schachrundschau/4-5"]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "Mandler, A"]
+[Black " Konig, E."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6Bk/7N/3N3K/3b4/8/8 w - - 0 1"]
+
+1. Bf7 $1 (1. Be8 $2 Bg6 2. Bb5 Bxh5 3. Nf5+ Kg6 4. Bd3 Be2) Bg6 $1 2. Ba2 $1 (2. Bb3 $2 Bxh5 3. Nf5+ Kg6 4. Bc2 Bd1 $1) (2. Bc4 $2 Bxh5 3. Nf5+ Kg6 4. Bd3 Be2 $1) (2. Bd5 $2 Bxh5 3. Nf5+ Kg6 4. Be4 Bf3 $1) Bxh5 (Bb1 3. Bb3) 3. Nf5+ Kg6 4. Bb1 $1 Bd1 (Bf3 {<main>} 5. Nd4+ Kf6 6. Nxf3) (Be2 5. Nd4+ Kf6 6. Nxe2) 5. Ne3+ Kf6 6. Nxd1 1-0
+
+[Event "Prager Presse"]
+[Date "1929.03.24"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k7/3p4/7K/2P1P3/8/8/8 w - - 0 1"]
+
+1. Kg6 $1 (1. c5 $2 dxc5 2. e5 c4 3. e6 c3) (1. Kg5 $2 Kb7 2. Kg6 (2. Kf5 Kc7) Kc6 3. Kf7 (3. Kf6 Kb6) Kb7 4. Kg8 (4. Ke7 Kc7) (4. Kf8 Kb8) (4. Ke8 Kc8) Kc8 5. c5 Kc7 (Kd7 $2 6. Kf7 dxc5 7. e5 c4 8. e6+) 6. Kf7 dxc5 7. e5 c4) Ka6 $1 (Kb6 2. Kf6 Kb7 3. Kf7 Kb8 (Kb6 4. Ke8) 4. Ke6 Kc7 5. Ke7 Kc6 6. Kd8) 2. Kg7 $1 (2. Kf7 $2 Kb7 3. Kg8 Kc8 $1 4. c5 Kc7 $1 (Kd7 $2 5. Kf7 $1) 5. Kf7 dxc5) Ka7 3. Kg8 $1 Ka8 (Kb6 4. Kf8) (Ka6 4. Kf8) (Kb7 4. Kf7) (Kb8 4. Kf8) 4. c5 $1 dxc5 5. e5 c4 6. e6 c3 7. e7 c2 8. e8=Q+ 1-0
+
+[Event "Národní Osvobození"]
+[Date "1936.02.02"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4k1p1/p3P1p1/P3p3/4p3/4P1P1/4P1K1/8 w - - 0 1"]
+
+1. Kh2 $1 (1. Kh3 $2 Kxe6 2. Kg4 (2. Kh4 Kf5) Kf6) Kxe6 2. Kh3 Kf5 (Kd5 3. Kg4 Kc4 4. Kg5 Kc3 5. Kxg6 Kd2 6. Kf5) (Kf6 3. Kg4 g5 4. Kh5 Kf5 5. g4+ Kf6) 3. Kh4 g5+ 4. Kh5 g4 5. Kh4 g6 1/2-1/2
+
+[Event "Lidova Kultura"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4k3/2p3p1/p1P3Pp/p1P2p1P/Pp3P2/1P3P2/5K2 w - - 0 1"]
+
+1. Ke1 $1 Ke6 (Kd7 2. Kd2 $1) 2. Ke2 $1 Kf5 3. Kd2 Ke6 4. Kc3 Ke5 5. Kd3 Kf5 6. Kd4 Ke6 7. Ke4 1-0
+
+[Event "Narodnoye Obrazovanye#8"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2k5/6p1/4p1P1/4p3/1p2P3/1P4K1/8 w - - 0 1"]
+
+1. Kh1 $1 Kd7 2. Kh2 Ke7 3. Kh3 Kd6 4. Kg2 Kd5 5. Kf2 Kc5 6. Kf1 Kc6 7. Kg1 Kd7 8. Kh2 Kc8 9. Kg1 Kd8 10. Kg2 Ke8 11. Kg3 1/2-1/2
+
+[Event "Sachové Umenie#171"]
+[Date "1949.09.15"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2p5/8/K6p/3P3P/3P3P/k7 w - - 0 1"]
+
+1. Ka5 $1 (1. Kb4 $2 Kb2 2. Kc5 Kc2 3. d4 Kd3) Kb2 2. Kb6 Kc2 3. d4 Kd3 4. Kc5 Ke4 5. d5 $1 cxd5 6. d4 Kf3 7. Kxd5 Kg2 8. Ke4 $1 Kxh3 9. d5 $1 (9. Kf3 $2 Kxh2 10. d5 h3 11. Kf2 (11. d6 Kg1) Kh1 12. d6 h2) Kxh2 10. d6 h3 11. d7 Kg1 12. d8=Q h2 13. Qd1+ Kg2 14. Qf3+ Kg1 15. Ke3 h1=Q 16. Qf2# 1-0
+
+[Event "Sachové Umenie#215 (v)"]
+[Source "Sachové Umenie/2"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4r3/4PR2/4k1P1/1K6/8/8/8/8 w - - 0 1"]
+
+1. Rh7 $1 Rg8 $1 (Rxe7 2. g7) 2. Kc6 $1 Rc8+ (Kf6 3. Rf7+ Kxg6 4. Rf8) (Re8 3. g7) 3. Kb6 $1 (3. Kb7 $2 Re8 4. g7 Rg8 $1 5. Rh8 (5. e8=Q+ Rxe8 6. Rh8 Re7+) Rxg7) Rb8+ (Rg8 4. Kc7 Re8 (Kf6 5. Kd7 Kxg6 6. Rh1) 5. g7 Kf7 (Rg8 6. Rh8 Rxg7 7. Kd8 Rxe7 8. Rh6+) (Rxe7+ 6. Kd8) 6. Kd6) (Re8 4. g7) 4. Kc5 $1 (4. Kc7 $2 Rg8 $1) Rg8 $1 5. Rf7 $1 Re8 $1 6. Kd4 $1 Rxe7 7. Rxe7+ Kxe7 8. Ke5 1-0
+
+[Event "Sachové Umenie#266"]
+[Source "Sachové Umenie/6-7"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/r7/k3P1P1/8/8/8/8/8 w - - 0 1"]
+
+1. Kc8 $1 Kb6 $1 (Re7 2. g7 Rxg7 3. Kd8) 2. Kd8 (2. g7 $2 Kc6 3. Kd8 Kd6 4. Ke8 Rxg7) Kc6 $1 3. Ke8 Kd6 4. e7 $1 Rxe7+ 5. Kf8 Ke6 6. g7 Rf7+ 7. Kg8 Kf6 (Rf1 {<main>} 8. Kh7 Rh1+ (Kf6 9. g8=N+ $1 (9. g8=Q $2 Rh1#)) 9. Kg8 Kf6 10. Kf8 Ra1 11. g8=N+ $1) 8. Kh8 $1 Rxg7 1/2-1/2
+
+[Event "Parallèle 50"]
+[Date "1950.05.26"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/5P2/8/2p5/2p5/1k6/8/8 w - - 0 1"]
+
+1. f8=Q $1 c3 2. Qf4 Kc2 3. Qe3 Kb2 4. Qe5 Kc2 5. Qxc5 Kb3 (Kd3 6. Qb4) 6. Qd4 1-0
+
+[Event "Práce"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4P2R/4r3/8/8/K4k2/8/8 w - - 0 1"]
+
+1. Kb4 $1 Re5 2. Kc4 Ke4 3. Rf7 (3. Rg7 $2 Kf5) Ke3 4. Rg7 Ke4 5. Rh7 Ke3 (Kf5 6. Rh5+) 6. Rf7 Ke4 7. Rf1 Rxe7 8. Re1+ Kf5 9. Rxe7 1-0
+
+[Event "FIDE revue (cr)"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/KR6/4p1p1/4k1P1/8 w - - 0 1"]
+
+1. Kb3 $1 Kd3 (Kf2 2. Rf4+ Kxg2 3. Kc2 Kh3 4. Kd3 g2 5. Rf8) 2. Rd4+ $1 Kxd4 3. Kc2 Kc4 4. Kd1 Kd3 5. Ke1 e2 1/2-1/2
+
+[Event "Ceskoslovensky Sach#044"]
+[Source "Ceskoslovensky Sach/4"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3K4/P2R4/r7/8/4p3/4k3 w - - 0 1"]
+
+1. Kc7 $1 (1. Kc6 $2 Kf2 2. Rf5+ Ke3 3. Re5+ Re4 4. Rxe4+ Kxe4 5. a6 e1=Q 6. a7 Ke5 7. Kc7 Qa5+ 8. Kb8 Qb6+ 9. Ka8 Qc6+ 10. Kb8 Kd6 11. a8=Q Qc7#) Kf2 2. Rf5+ Ke3 3. Re5+ Re4 4. Rxe4+ Kxe4 5. a6 e1=Q 6. a7 1/2-1/2
+
+[Event "FIDE revue#430b (tw)"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K2/1p1p4/8/3p1k2/8/8/8/3R4 w - - 0 1"]
+
+1. Rxd5+ $1 Ke6 2. Rb5 d5 3. Rxb7 Ke5 4. Ke7 d4 5. Rd7 Ke4 6. Kd6 d3 7. Kc5 Ke3 8. Kc4 d2 9. Kc3 1-0
+
+[Event "FIDE revue#431b (tw)"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3r4/8/3P1K2/1P6/4k3/8 w - - 0 1"]
+
+1. Ke5 $1 (1. Ke4 $2 Kd2 2. d5 Kc3) Rd8 2. d5 Kd3 3. d6 1/2-1/2
+
+[Event "Rude Pravo#01"]
+[Source "12.p Bohemian Ring ty 1957-1959."]
+[Date "1958.01.19"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/8/1p3K2/2P1p3/3p1pk1/8/5R2 w - - 0 1"]
+
+1. Kxe4 $1 (1. cxb5 $2 e3 $1) f5+ 2. Kxd3 (2. Ke3 $2 f4+ 3. Kxd3 Kg2 4. Rxf3 (4. cxb5 Kxf1) Kxf3 5. cxb5 Kg2 6. b6 f3 7. b7 f2 8. b8=Q f1=Q+) bxc4+ (Kg2 3. Rxf3 Kxf3 (bxc4+ 4. Ke2) 4. cxb5 Kg2 5. b6 f4 6. b7 f3 7. b8=Q) 3. Ke3 $1 (3. Kd2 $2 c3+ 4. Ke1 c2 5. Rg1+ Kf4 $1 6. Kf2 Ke4) f4+ 4. Kd2 c3+ 5. Ke1 c2 6. Rg1+ Kh2 7. Kf2 1-0
+
+[Event "FIDE revue#445a (tw)"]
+[Source "9.p Bohemian Ring ty 1957-1959."]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7r/8/8/K7/P7/8/4k3/8 w - - 0 1"]
+
+1. Kb5 $1 (1. Kb6 $2 Kd3 2. a5 Kc4 3. a6 Rh6+ 4. Kb7 (4. Ka5 Kc5 5. a7 Rh8 6. Ka6 Kc6) Kb5 5. a7 Rh7+ 6. Kb8 Kb6 7. a8=N+ Kc6) (1. Kb4 $2 Kd3 2. a5 (2. Kc5 Rh5+ (Ra8 3. Kb5 Kd4 4. a5 Kd5 5. Kb6 Kd6 6. a6 Rb8+ 7. Ka7 Rb1 8. Ka8 Kc6 9. a7 Rh1) 3. Kb4 Kd4) Kd4 3. Kb5 (3. a6 Rb8+ 4. Ka5 Kc5) Kd5 4. Kb6 Kd6 5. Kb7 Rh7+ $1 6. Kb6 (6. Kb8 Kc6) Rh1 7. a6 Rb1+) Kd3 (Rh5+ {<main>} 2. Kb4 $1 (2. Kb6 $2 Kd3) (2. Kc4 $2 Ke3 3. Kb4 Kd4 4. a5 Kd5 5. Kb5 Kd6+ 6. Kb6 Kd7 7. a6 Kc8 8. a7 Rh6+) Kd3 3. a5 Kd4 4. a6 Rh1 (Rh7 5. Kb5 Kd5 6. Kb6) 5. Kb5 Rb1+ 6. Kc6) (Rb8+ 2. Kc6 Ra8 3. Kb5 Kd3 4. a5 Kd4 5. a6 Kd5 6. Kb6 Rb8+ 7. Kc7) 2. a5 Rh5+ (Kd4 3. a6) 3. Kb4 $1 Kd4 4. a6 Rh1 5. Kb5 Rb1+ 6. Kc6 1/2-1/2
+
+[Event "FIDE revue#445b (tw)"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7r/8/8/K7/P7/6k1/8/8 w - - 0 1"]
+
+1. Kb6 $1 Rb8+ 2. Ka7 Rb1 3. a5 Kf4 4. a6 Ke5 5. Ka8 Kd6 6. a7 1/2-1/2
+
+[Event "Die Schwalbe"]
+[Source "Die Schwalbe/11"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/1P6/Pp6/1P6/1P6/8/2P3p1/6Kb w - - 0 1"]
+
+1. c3 $1 (1. c4 $2 Ka7 2. c5 Kb8 $1 (bxc5 $2 3. bxc5 Kb8 4. c6) 3. c6 (3. cxb6) Ka7 4. c7) Ka7 2. c4 Kb8 3. c5 Ka7 (Kc7 4. b8=Q+ Kxb8 5. c6) 4. b8=Q+ Kxb8 5. c6 Kc7 (Ka7 {<main>} 6. c7) 6. a7 1-0
+
+[Event "Ceskoslovensky Sach#116"]
+[Source "Ceskoslovensky Sach/10"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/Pp2p2p/4PP2/2P1P2p/p3p2b/P1P1K3/8/8 w - - 0 1"]
+
+1. c6 $1 (1. Kd4 $2 exf6 2. c6 fxe5+ 3. Kc4 Kxa7 $1) (1. f7 $2 Bg5+ 2. Kxe4 Bh6 3. Kd5 Kxa7 4. c6 Kb6) bxc6 2. Kd4 exf6 (c5+ 3. Kd5 Bg5 4. Kxe4 exf6 5. Kf5 fxe5 6. Kxg5) 3. e7 fxe5+ 4. Kc4 Bxe7 1/2-1/2
+
+[Event "FIDE revue#507a (tw)"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6r1/6P1/4KP2/8/7k/8/8 w - - 0 1"]
+
+1. Kf6 $1 (1. f6 $2 Rxg6 2. f7 Rg5+ 3. Ke4 Rg4+ 4. Ke3 Rg3+ 5. Ke2 Rg2+ 6. Kf1 Rg4 7. f8=Q Rf4+ 8. Qxf4) Rg8 2. Kg5 1-0
+
+[Event "Tidskrift for Schack#1051"]
+[Source "Tidskrift for Schack/7-8"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/8/6K1/7P/7P/6kP/8 w - - 0 1"]
+
+1. Kg4 $1 g6 (Kxh2 {<main>} 2. h5 Kg2 3. h4 Kf2 4. Kf5 $1 (4. h6 $2 gxh6 5. h5 Ke3 6. Kf5 Kd4 7. Kg6 Ke5) Kg3 5. h6 gxh6 6. h5) 2. Kf4 Kxh3 (Kxh2 3. h5 gxh5 4. h4) 3. Kg5 1-0
+
+[Event "Rude Pravo"]
+[Source "after Cheron=A e1g1 1926."]
+[Date "1965.01.10"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/7p/8/7P/3K1N1k w - - 0 1"]
+
+1. Kd2 $1 (1. Ke1 $2 Kg1 $1) (1. Ke2 $2 Kg2) Kg2 (h3 2. Ke2 Kg2 3. Ne3+) 2. Ke2 Kg1 (h3 3. Ne3+) 3. Kf3 Kxf1 4. h3 1-0
+
+[Event "Svobodné Slovo"]
+[Date "1967.12.17"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7N/1p1k4/3P4/8/8/7p/2P4K/8 w - - 0 1"]
+
+1. Nf7 $1 Ke6 2. Nd8+ Kxd6 3. Nxb7+ Kd5 4. Na5 Kd4 5. Nb3+ Kc3 6. Na1 1-0
+
+[Event "Tidskrift for Schack"]
+[Source "Tidskrift for Schack/5"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/k5p1/8/8/8/K7/8 w - - 0 1"]
+
+1. Kb2 $1 (1. Kb3 $2 Kb5) Kb6 (Kb5 2. Kb3) 2. Kc2 $1 Kc6 3. Kd2 $1 Kd6 4. Ke2 Ke6 5. Kf2 Kf6 6. Kg2 $1 Kg5 (Kf5 7. Kf3) 7. Kg3 1/2-1/2
+
+[Event "Schach Echo#075"]
+[Source "Schach Echo/7"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1p6/pp6/PP6/1P6/8/bK1k4 w - - 0 1"]
+
+1. bxa5 $1 bxa5 (Be5 2. b4 $1 (2. axb6 $2 b4 3. a5 Bd4) (2. a6 $2) bxa5 3. bxa5 b4 4. a6 Bd4 5. a5 $1 (5. a7 $2 Bxa7 6. Kb2 (6. a5 Bd4) Bb6) Kd2 6. a7 Bxa7 7. Kb2 Kd3 8. Kb3 Bc5 9. a6 Kd4 10. a7) 2. axb5 Bd4 (Be5 {<main>} 3. b6 $1 (3. Ka2 $2) Kd2 4. Ka2 Bd6 5. b4 $1 Bxb4 (axb4 6. Kb3 Kd3 7. b7 Kd4 8. b8=Q Bxb8 9. Kxb4) 6. Kb3) 3. Ka2 Bc5 (Kc2 4. Ka3 Kc3 5. Ka4 Bb6 6. b4 (6. Ka3 Bd8 7. Ka4 Bc7 8. Ka3 Kd4 9. b6 $1) axb4) 4. Kb2 (4. b4 $2 Bxb4 5. b6 (5. Kb3 Bc5 6. Kc4 Bb6) Kc2 $1 6. b7 Bd6) Kd2 5. b4 axb4 (Bxb4 6. b6) 6. Kb3 Kd3 7. b6 1/2-1/2
+
+[Event "Studie (Mandler)#331"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3p4/2ppk1P1/5p2/2PP1Pp1/4K1P1/8 w - - 0 1"]
+
+1. d4+ $1 (1. c4 $2 d4 $1) Kf5 2. c4 $1 dxc4 3. dxc5 dxc5 4. Kd2 Kxg5 5. Kc3 Kf5 6. Kxc4 Ke6 7. Kxc5 Ke5 8. Kc4 1-0
+
+[Event "Ceskoslovensky Sach (tw)"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/pP6/3b4/1P6/8/1K1k4 w - - 0 1"]
+
+1. Ka2 $1 Bc5 (Kc2 2. Ka3 Kc3 3. Ka4 Bb6 4. b4 axb4) 2. Kb2 (2. b4 $2 Bxb4 3. b6 (3. Kb3 Bc5) Kc2 $1 4. b7 Bd6) Kd2 3. b4 axb4 (Bxb4 4. b6) 4. Kb3 Kd3 5. b6 1/2-1/2
+
+[Event "4.p Tidskrift for Schack#1520 (c)"]
+[Source "Tidskrift for Schack/3-4 (c): Joseph=F Probleemblad/5-6 1997."]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k1K5/6N1/8/8/2p5/3p4/P7/8 w - - 0 1"]
+
+1. Ne8 $1 (1. Ne6 $2 Ka7 $1 (d2 $2 2. Nc7+ Ka7 3. Nb5+ Kb6 4. Nc3) 2. Nc7 Kb6 3. Nd5+ Kc5) d2 (Ka7 2. Nd6 (2. Nc7 $2 Kb6) d2 3. Nb5+ Kb6 4. Nc3) 2. Nc7+ Ka7 3. Nb5+ Kb6 (Ka6 4. Nc3 Ka5 5. a3) 4. Nc3 Kc5 5. Ne4+ Kd4 6. Nxd2 1/2-1/2
+
+[Event "Ceskoslovensky Sach (tw)"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Mandler, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/pP2b3/8/1P6/8/1K1k4 w - - 0 1"]
+
+1. b6 $1 (1. Ka2 $2 Bd6 2. Kb2 Kd2 3. b4 axb4 4. Kb3 Kd3 5. b6 Kd4 6. b7 Kc5) Kd2 2. Ka2 Bd6 3. b4 axb4 (Bxb4 4. Kb3) 4. Kb3 Kd3 5. b7 Kd4 6. b8=Q Bxb8 7. Kxb4 1/2-1/2

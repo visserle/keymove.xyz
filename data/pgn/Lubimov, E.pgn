@@ -1,0 +1,27 @@
+[Event "Revista de Romana de Sah#0680"]
+[Source "Revista de Romana de Sah/3"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Lubimov, E"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3kN3/5P2/8/1p3p2/8/K7/3p4/8 w - - 0 1"]
+
+1. f8=Q $1 d1=Q 2. Nd6+ $1 (2. Ng7+ $2 Kc7 3. Ne6+ Kb7 4. Nc5+ Kc7 5. Qe7+ Kc8) Kd7 3. Qe8+ Kc7 4. Qc8+ Kb6 5. Qb7+ Kc5 6. Ne4+ $1 Kc4 7. Qc6+ Kd3 8. Nf2+ 1-0
+
+[Event "Shakhmatna Misl#019"]
+[Source "Shakhmatna Misl/2"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Lubimov, E"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/6pB/3N2K1/8/8/3p3p/8/8 w - - 0 1"]
+
+1. Nc4 $1 h2 2. Bg8 h1=Q 3. Bd5+ Qxd5 4. Nb6+ Kb7 5. Nxd5 d2 {<eg>} 6. Ne3 Kc6 7. Kxg7 Kc5 8. Kf6 Kd4 9. Nd1 Kd3 10. Kf5 Ke2 11. Nc3+ Kd3 12. Nd1 1/2-1/2

@@ -1,0 +1,12 @@
+[Event "Wolgogradskaya Pravda"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Milokumov, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5K2/7P/8/7k/8/3p4/4N3 w - - 0 1"]
+
+1. Nf3+ $1 Kh5 2. h7 d1=Q 3. h8=Q+ Kg4 4. Qh4+ Kf5 5. Nd4+ Ke5 6. Nc6+ Kf5 7. Ne7+ Ke5 8. Ng6+ Kf5 9. Qf4# 1-0

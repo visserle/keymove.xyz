@@ -1,0 +1,13 @@
+[Event "Tijdschrift v.d. KNSB#364 (c)"]
+[Source "Tijdschrift v.d. KNSB/1 (c): Snoek=A Tijdschrift v.d. KNSB/12 1941."]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Passtoors, J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/8/1p1pP2p/p4Kp1/P5P1/1P4P1/8/8 w - - 0 1"]
+
+1. Ke4 $1 Ke8 2. Kd5 $1 Ke7 3. Kc6 Kxe6 4. Kxb6 d5 5. Kxa5 d4 6. Kb4 Ke5 7. a5 Ke4 8. a6 d3 9. a7 d2 10. a8=Q+ 1-0

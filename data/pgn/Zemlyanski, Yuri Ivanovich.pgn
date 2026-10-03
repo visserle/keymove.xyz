@@ -1,0 +1,13 @@
+[Event "2.p USSR team champ VIII (tt)"]
+[Source "USSR team champ VIII 1972-1973"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Zemlyanski, Yuri Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/7P/ppP5/3K4/kP6/8 w - - 0 1"]
+
+1. h6 $1 a3 2. b3 (2. bxa3 $2 b3 3. h7 b2 4. h8=Q b1=Q+ 5. Kd2 Qe4) Kxb3 3. h7 a2 4. h8=B (4. h8=Q $2 a1=Q 5. Qxa1) Ka3 5. Ba1 b3 6. Kc3 1-0

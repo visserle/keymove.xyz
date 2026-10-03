@@ -1,0 +1,54 @@
+[Event "New Statesman {and Nation}"]
+[Date "1953.11.07"]
+[Round "?"]
+[Composer "Wason, Peter Cathcart"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p1K/B7/5p1k/5P1p/7P/6r1/8 w - - 0 1"]
+
+1. Bc4 $1 Rg6 2. Be2+ Rg4 3. Bd1 f6 4. Kh8 Kg6 5. hxg4 h3 6. Bc2 h2 7. Bxf5+ Kf7 8. Be4 f5 $1 9. Bd5+ Kg6 10. g5 1-0
+
+[Event "La Scacchiera"]
+[Source "EG#04310."]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Wason, Peter Cathcart"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2B5/5p1K/8/7k/5P1p/7P/6r1/8 w - - 0 1"]
+
+1. Bf5 $1 (1. Ba6 $2 Rf2) (1. Bd7 $2 Rg6 2. Bf5 Rg2) Rg6 (Rg3 2. Bc2 Rg2 3. Bb3) (Rg1 2. Bd3 Re1 3. Bc4 Re7 4. Kg7) 2. Be4 (2. Bxg6+ $2 fxg6 3. Kg7 g5 4. f5 g4) Rh6+ (Rg4 3. Bf3 f5 4. Kh8 Kg6 5. hxg4 h3 6. g5) 3. Kg7 Rg6+ 4. Bxg6+ fxg6 5. Kh7 g5 6. f5 g4 7. f6 g3 (gxh3 8. f7 h2 9. f8=Q h1=Q 10. Qf5#) 8. f7 g2 9. f8=Q g1=Q 10. Qh6# 1-0
+
+[Event "British Chess Magazine#1359"]
+[Source "British Chess Magazine/4"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Wason, Peter Cathcart"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/5p2/8/5B1k/5P1p/7P/3r4/8 w - - 0 1"]
+
+1. Kg7 $1 Rg2+ 2. Kh7 Rg6 (Rg3 3. Bc2 Rg1 4. Bb3) (Rg1 3. Bd3 Re1 4. Bc4 Re7 5. Kg7) 3. Be4 Rh6+ (f5 4. Bf3+ Rg4 5. Kh8) 4. Kg7 Rg6+ 5. Bxg6+ fxg6 6. Kh7 g5 7. f5 g4 8. f6 g3 (gxh3 9. f7 h2 10. f8=Q h1=Q 11. Qf5#) 9. f7 g2 10. f8=Q g1=Q 11. Qh6# 1-0
+
+[Event "7.c Isenegger MT National Zeitung"]
+[Source "EG#00515."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Wason, Peter Cathcart"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p6/7p/K5p1/1Pk3P1/p7/P6P/8 w - - 0 1"]
+
+1. Ka4 $1 (1. b5 $2 Kc3 2. Kb6 Kb4 $1 (Kb2 3. Kxb7) 3. h3 Kc4 $1 4. Ka5 Kc3 5. Kb6 (5. Ka4 Kb2) Kb4 6. Kxb7 Kxb5) Kc3 $1 (b5+ 2. Ka5 Kc3 3. Kxb5 Kb2) 2. Kxa3 b5 3. h4 $1 (3. h3 $2 Kc2 $1) gxh4 4. g5 h3 (h5 5. g6) 5. gxh6 $1 h2 6. h7 h1=Q 7. h8=Q+ $1 Qxh8 1/2-1/2

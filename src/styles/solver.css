@@ -1,0 +1,1603 @@
+/* Keymove: solver.
+
+   One module of the stylesheet; order is owned by
+   app.css, which imports every module. */
+
+/* the tools box: lila's `.analyse__tools` (`ui/analyse/css/_tools.scss`),
+   a white `%box-neat` pinned to the board's height */
+.tools {
+	display: flex;
+	flex-direction: column;
+	min-height: 0;
+	/* chessground writes the board's true (rounded) height to `---cg-height`
+     (published on `<body>` via `addDimensionsCssVarsTo` in `Solve.svelte`);
+     lila sizes the tools from it so the box ends exactly with the board
+     (`ui/analyse/css/_layout.scss`). The CSS board size is only the fallback
+     for the first paint, before the board island mounts. Do not drop the
+     variable, and do not size the box from `--sq`: `.cg-wrap` is the
+     *requested* size, not the board's. */
+	height: var(---cg-height, var(--board));
+	overflow: hidden;
+	background: var(--c-bg);
+	border-radius: var(--radius);
+	box-shadow: var(--box-shadow);
+}
+
+/* ------------------------------------------------------------ move panel */
+.panel {
+	flex: 1 1 auto;
+	min-height: 0;
+	display: flex;
+	flex-direction: column;
+}
+
+.tab {
+	flex: 1 1 0;
+	appearance: none;
+	margin: 0;
+	padding: 11px 10px 10px;
+	border: 0;
+	border-right: 1px solid var(--c-border);
+	background: none;
+	font: inherit;
+	font-weight: 600;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+	color: var(--c-font-dim);
+	cursor: pointer;
+	transition:
+		color 0.15s,
+		background-color 0.15s;
+}
+
+/* lila shrinks the tabs on a phone, `max-width: at-most($xx-small)`
+   (`ui/lib/css/component/_tabs-horiz.scss`) */
+@media (max-width: 499.29px) {
+	.tab {
+		font-size: 0.9em;
+	}
+}
+
+.tab:last-child {
+	border-right: 0;
+}
+
+/* Current tab: a pale ink wash, so the panel carries no hard rule of its own:
+   the row keeps its single hairline. */
+.tab:not(.tab--on):hover {
+	color: var(--c-font);
+	background: var(--c-bg-zebra);
+}
+
+.tab--on {
+	color: var(--c-primary);
+	background: color-mix(in srgb, var(--c-primary) 10%, transparent);
+}
+
+/* ------------------------------------------- the claim in the tab strip
+
+   Before the key the strip is split in the middle: the Analysis tab on the
+   left, the one-move field in the half the Solution tab will be created in.
+   Both halves are exactly half the strip. The tab carries a 1px border, so
+   `flex: 1 1 0` makes it a pixel narrower and shifts the divider when the field
+   is replaced by the Solution tab. `0 0 50%` keeps it fixed. */
+.tabbar {
+	position: relative;
+	/* lila's engine bar is a fixed 44px strip at the head of the tools
+     (`ui/analyse/css/_tools.scss`: `.analyse__tools .ceval { flex: 0 0 44px; }`).
+     The tab strip is the same slot here, so it takes the same box and the move
+     list starts on lila's line; sizing it from the tabs' padding made it 43px
+     and drifted with the viewport's font size. Do not go back to `auto`. */
+	flex: 0 0 44px;
+	display: flex;
+	align-items: stretch;
+	border-bottom: 1px solid var(--c-border);
+}
+
+.tabbar .tab,
+.tabbar .key {
+	flex: 0 0 50%;
+	min-width: 0;
+}
+
+/* the Solution tab is the field's other half, hidden until the key turns */
+.tab--sol {
+	display: none;
+}
+
+/* the hand-over: an instant cut. Once the key has turned and held its
+   micropause, the field is simply gone and the Solution tab takes its half in
+   the same frame, which is the lichess beat. No crossfade and no rising wash: the tab's
+   background comes from `.tab--on`, so switching back to Analysis still clears
+   the grey. */
+.tabbar--solved .key {
+	display: none;
+}
+
+.tabbar--solved .tab--sol {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+/* ------------------------------------------- interactive move list (lichess)
+
+   A close port of lichess's `tview2` tree view. `move`, `index`, `san`,
+   `glyph`, `comment`, `interrupt`, `lines`, `line`, `branch` and `inline` are
+   unknown elements, exactly as in lichess. */
+.ml {
+	flex: 1 1 auto;
+	min-height: 0;
+	/* scroll inside the panel rather than stretching it */
+	overflow-y: auto;
+	overflow-wrap: break-word;
+	/* lila's tree baseline: `.tview2` sits at the page font size, and the view
+     rules scale from there (`ui/lib/css/tree/_tree.scss`) */
+	line-height: 1.7;
+	-webkit-overflow-scrolling: touch;
+}
+
+/* on a touch screen a move should not be selected like text (lichess's
+   `@media (hover: none) { prevent-select }` in `ui/lib/css/tree/_tree.scss`) */
+@media (hover: none) {
+	.tview2 move,
+	.analyse__fork move {
+		user-select: none;
+		-webkit-user-select: none;
+	}
+}
+
+.tview2 {
+	--tv-shy: var(--c-font-dim);
+	--tv-hair: var(--c-border);
+	--tv-tint: var(--c-bg-zebra);
+	/* lila's tree baseline (`ui/lib/css/tree/_tree.scss`): moves take `--c-base`,
+     and the move the board stands on raises it to the primary blue */
+	--c-base: var(--c-font);
+	white-space: normal;
+}
+
+.tview2 .active {
+	--c-base: var(--c-primary-blue);
+}
+
+/* An empty move tree must take no room at all. The column view has no box of
+   its own, so an empty tree is already zero high, but the inline view pads
+   itself 7px top and bottom (`.tview2-inline` below) and a padded empty div
+   keeps that padding: a dead 14px band between the mode strip and the
+   objective on a phone, and the same band halfway down the tools box on a
+   wide screen, for as long as no move has been played. Dropping the padding
+   only when the tree is *empty* is the whole fix: the padding is what makes
+   a filled inline list read as a list, and the column view's own placeholder
+   row (lichess's "black to move" `…`, rendered by `renderMoveTree`) is not
+   an empty element, so it keeps its line. */
+.ml > .tview2:empty {
+	padding: 0;
+}
+
+.tview2 move {
+	display: inline-block;
+	color: var(--c-base);
+	padding: 0.25em 0.17em;
+	font-size: 1.092em;
+	white-space: nowrap;
+	cursor: pointer;
+}
+
+/* lila gates move hover behind a fine pointer (`@media (hover: hover)` in
+   `_tree.scss`); without the gate a tap leaves the move stuck hovered. */
+@media (hover: hover) {
+	.tview2 move:hover {
+		background: var(--c-bg-page);
+	}
+}
+
+/* the move the board is standing on */
+.tview2 move.active {
+	background: color-mix(in oklab, var(--c-base) 85%, transparent);
+	color: var(--c-over);
+}
+
+.tview2 move.active index {
+	color: inherit;
+}
+
+.tview2 move.empty {
+	pointer-events: none;
+	color: var(--tv-shy);
+}
+
+/* lila scopes the 90% to the move number carried inside a `<move>`
+   (`ui/lib/css/tree/_tree.scss`: `.tview2 move index`); the column gutter's own
+   `> index` keeps the base size, and its `2.07em` line-height scales from there. */
+.tview2 move index {
+	font-size: 90%;
+	color: var(--tv-shy);
+}
+
+/* the annotation glyphs are lichess's UI font, not the move's chess font */
+.tview2 glyph {
+	margin-inline-start: 0.08em;
+	vertical-align: bottom;
+	font-family: var(--serif);
+}
+
+.tview2 comment {
+	color: var(--c-font);
+}
+
+.tview2 comment a {
+	color: var(--c-link);
+	text-decoration: underline;
+	text-decoration-thickness: 1px;
+	text-underline-offset: 2px;
+}
+
+.tview2 comment a:hover {
+	color: var(--c-link-hover);
+}
+
+/* top-level variation borders shrink the whole block a little (`_tree.scss`) */
+.tview2 > interrupt {
+	font-size: 95%;
+}
+
+.tview2 > interrupt move {
+	margin-inline: 2px 0;
+}
+
+.tview2 > interrupt inline lines {
+	margin-inline-start: 0;
+}
+
+.tview2 line {
+	display: block;
+	padding-inline-start: 7px;
+	position: relative;
+}
+
+.tview2 line comment {
+	font-size: 90%;
+}
+
+/* the hairline that ties a branch back to the move it refutes */
+.tview2 line > branch {
+	position: absolute;
+	margin-inline-start: -9px;
+	width: 8px;
+	height: 100%;
+	border-inline-start: 2px solid var(--tv-hair);
+}
+
+.tview2 line > branch::after {
+	content: " ";
+	position: absolute;
+	margin-top: calc(1.15em - 2px);
+	width: 7px;
+	height: 2px;
+	border-top: 2px solid var(--tv-hair);
+}
+
+.tview2 line:last-child > branch {
+	height: 1.15em;
+}
+
+.tview2 lines {
+	display: block;
+	margin-block: 2px;
+	padding-inline-start: 2px;
+	overflow-x: clip;
+}
+
+/* lila shrinks a sideline nested inside a sideline to a fixed 13px
+   (`_tree.scss`: `.tview2 lines lines move`). The selector is a descendant
+   match, so it holds at every depth past the first and the value must not
+   compound. An `em` here would re-apply at each level and shrink the tree
+   geometrically. `rem` keeps that clamp (it is still absolute against the
+   cascade) while following the reader's root font size, which lila's `px`
+   does not. 0.875rem = 14px, so a nested sideline stays a clear step below
+   the 1.092em column moves instead of shrinking towards the inline list. */
+.tview2 lines lines move {
+	font-size: 0.875rem;
+}
+
+/* a short branch folded back into the text, in parentheses. lila dims the
+   whole group with `opacity`; here the step is taken by the moves alone (see
+   `.tview2 inline move` below), because a group's brackets must not drag a
+   study's commentary down with them. */
+.tview2 inline {
+	display: inline;
+	font-style: italic;
+	font-size: 0.9em;
+}
+
+.tview2 inline::after {
+	content: ")";
+	vertical-align: baseline;
+	font-size: 1.1em;
+	opacity: 0.7;
+	margin-inline: -1px 1px;
+}
+
+/* The opening bracket rides inside the group's first move (`moveNode` in
+   `movetree.ts`), not on `inline::before` as in lila. As a pseudo-element it
+   was a text atom of its own: the line could break right after it and strand
+   a lone `(` at the right margin, its variation a line below. Inside the move
+   and it is one `nowrap` box, so no break opportunity exists there. */
+.tview2 move open {
+	font-size: 1.1em;
+	opacity: 0.7;
+	margin-inline-end: 0.08em;
+}
+
+.tview2 inline move {
+	margin-inline-start: 0;
+	/* lila's `opacity: 0.8` on the group, as a colour on the moves: a comment
+	   written inside the brackets is prose, not a move, and at 0.8 opacity it
+	   was the faintest text on the page */
+	color: color-mix(in oklab, var(--c-base) 80%, transparent);
+}
+
+/* the move the board stands on, inside a variation: it is not faded either */
+.tview2 inline move.active {
+	color: var(--c-over);
+}
+
+/* a comment inside brackets reads as the aside it is: upright, and at the
+   same size it has outside one. The group sets `font-style: italic` for its
+   moves; the prose does not inherit it. */
+.tview2 inline comment {
+	font-style: normal;
+}
+
+/* ---------------------------------------------- column view: lichess default */
+.tview2-column {
+	display: flex;
+	flex-wrap: wrap;
+	align-content: flex-start;
+}
+
+/* moves inside a variation: plain padding, no flex (`_tree.scss`) */
+.tview2-column move {
+	font-size: 1.092em;
+	padding: 2px;
+}
+
+/* A comment in a variation runs on after the move it belongs to, in the same
+   line, and wraps with it. The two offsets lila puts here do not survive the
+   trip: `vertical-align: 7px` lifts the prose 7px off the move it annotates
+   (measured, and plainly visible), and the inline view's `vertical-align:
+   45%` is worse, at 0.45 of a 27px line box. Both are magic numbers, neither
+   scales with the type here, and a comment that is a smaller sibling of a
+   move wants exactly one thing from the vertical axis: the move's baseline.
+   Measured against a lichess column view (comment ink bottom against move ink
+   bottom, both descender-free), lila's own rendering is 1px; here the 7px rule
+   measured exactly 7.0px. Comment size stays lila's 90% of the move, so the
+   only difference from a move is its size. */
+.tview2-column line comment {
+	display: inline;
+	overflow-wrap: break-word;
+	padding: 0 5px 0 3px;
+}
+
+.tview2-column > move {
+	flex: 0 0 43.5%;
+	display: flex;
+	font-size: 1.185em;
+	line-height: 1.75em;
+	padding: 0 0.3em 0 0.5em;
+}
+
+.tview2-column > move index {
+	padding-inline-start: 5px;
+}
+
+.tview2-column > move index:first-child {
+	padding-inline-start: 0;
+}
+
+.tview2-column > move glyph {
+	flex: 0 1 auto;
+	text-align: center;
+	overflow: hidden;
+	font-size: 0.82em;
+}
+
+.tview2-column > move.active {
+	font-weight: 600;
+}
+
+.tview2-column > index {
+	flex: 0 0 13%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	/* lila centers the move number (`_tree.scss`) */
+	border-inline-end: 1px solid var(--c-border);
+	line-height: 2.07em;
+	background: var(--tv-tint);
+	color: var(--c-font-dim);
+}
+
+/* lila sets a colour here, not a border: `border-inline-end: $c-annotation-border`
+   (`ui/lib/css/tree/_tree.scss`). The shorthand resets `border-style` to `none`,
+   so no rule is drawn between the white and the black move. That is lichess's
+   real behaviour, so do not put a width or style back. */
+.tview2-column > index + move {
+	border-inline-end: var(
+		--c-annotation-border,
+		rgb(from var(--c-font) r g b / 0.2)
+	);
+}
+
+/* a full-width variation block */
+.tview2-column > interrupt {
+	flex: 0 0 100%;
+	max-width: 100%;
+	padding: 2px 6px;
+	background: var(--tv-tint);
+	border-top: 1px solid var(--tv-hair);
+	border-bottom: 1px solid var(--tv-hair);
+}
+
+.tview2-column > interrupt > comment {
+	display: block;
+	padding: 3px 5px;
+	border-inline-start: 2px solid var(--tv-hair);
+}
+
+/* ------------------------------------------------------------- inline view */
+.tview2-inline {
+	padding: 7px 3px 7px 7px;
+	/* One size for the whole list. The moves are a fixed size, so lila's
+	   proportional steps (90% comment, 90% index) have to be taken off the move
+	   or they resolve against the 16px page font instead, which left the prose
+	   of a study set *larger* than the moves it interrupts. */
+	--tv-move-size: 14px;
+}
+
+.tview2-inline move {
+	margin-inline-end: 2px;
+	/* 14px, not lila's 13px: inline is the default list style, and at 13px
+	   the moves read smaller than every other piece of body copy (16px base).
+	   The index keeps its 90% (`move index`) and its `111.11%` line-height is a
+	   percentage, so both scale with the move. */
+	font-size: var(--tv-move-size);
+}
+
+/* Only the main line is bold, against lila: `move { font-weight: bold }` in
+   `_tree.scss` bolds every move in the inline list, and its `.mainline` rule
+   then repeats the same weight, so in lila weight carries no information:
+   the zebra band alone marks the main line. Here the bold *is* the signal:
+   a reader scanning the list can find the game line without following the
+   tint, and a sideline in parentheses drops to regular weight, which stacks
+   with its own italic and `opacity: 0.8` to sit clearly below the main line. */
+.tview2-inline .mainline {
+	background: var(--c-bg-zebra);
+	font-weight: 600;
+}
+
+.tview2-inline move index {
+	padding-inline-end: 0.2em;
+	line-height: 111.11%;
+}
+
+
+.tview2-inline comment,
+.tview2-inline line comment {
+	/* lila's 90% of the move, not of the page font: prose must sit under the
+	   moves in the same list. `vertical-align` stays at the baseline it
+	   inherits. A percentage align shifts the comment off the move's own
+	   baseline and its line box grows to match, which is what left a study's
+	   commentary hanging above the line it belongs to. The `line comment`
+	   selector is here for its own specificity: `.tview2 line comment` sets
+	   lila's 90% off the row's own size, and a comment in a variation would
+	   otherwise be a step larger than one in the mainline flow. */
+	font-size: calc(var(--tv-move-size) * 0.9);
+	margin: 0 0.35em 0 0.1em;
+}
+
+/* A variation keeps flowing with the text around it. It must not become an
+   atomic `inline-block` to keep its brackets together: a group that needs
+   more than the rest of a line then moves to the next one whole, and the
+   mainline move in front of it is left alone on a line of its own. The
+   opening bracket is inside the first move (`.tview2 move open`) so nothing
+   depends on the group holding together. */
+.tview2-inline inline {
+	overflow-wrap: break-word;
+}
+
+/* --------------------------------------- the move list's context menu (lila)
+
+   A port of `ui/analyse/css/_context-menu.scss` plus the `.context-menu` and
+   `.pending-deletion` rules from `ui/lib/css/tree/_tree.scss`. Opened by
+   right-click, or on touch by a long press (and Android's native
+   `contextmenu`); see `treeView.ts`.
+
+   The panel is lila's `#analyse-cm`, deliberately not a `.context-menu` class:
+   that class belongs to the highlighted `<move>`, and a shared name would pull
+   the move out of the column flow. */
+#analyse-cm {
+	position: fixed;
+	z-index: 40;
+	cursor: default;
+	overflow: hidden;
+	background: var(--c-bg-popup);
+	border-radius: var(--radius);
+	box-shadow: var(--box-shadow);
+	user-select: none;
+	-webkit-user-select: none;
+}
+
+#analyse-cm.transparent {
+	opacity: 0.7;
+	transition: opacity 0.2s ease;
+}
+
+#analyse-cm .title {
+	margin: 0;
+	padding: 0.4em;
+	text-align: center;
+	font-size: 1.2em;
+	border-bottom: 1px solid var(--c-border);
+	background: linear-gradient(var(--c-metal-top), var(--c-metal-bottom));
+}
+
+.context-menu__item {
+	display: flex;
+	align-items: center;
+	gap: 0.4em;
+	width: 100%;
+	appearance: none;
+	border: 0;
+	background: none;
+	font: inherit;
+	font-size: 0.95em;
+	text-align: start;
+	padding: 0.5em 0.6em 0.5em 0.3em;
+	color: var(--c-font);
+	cursor: pointer;
+	white-space: nowrap;
+}
+
+.context-menu__item::before {
+	width: 2em;
+	text-align: center;
+}
+
+@media (hover: hover) {
+	.context-menu__item:hover {
+		background: var(--c-bg-page);
+	}
+}
+
+/* the move the menu was opened on, and the subtree a delete would remove */
+.tview2 move.context-menu {
+	border: 0;
+	background: var(--c-primary) !important;
+	color: var(--c-over) !important;
+}
+
+.tview2 move.context-menu index {
+	color: var(--c-over);
+}
+
+.tview2 move.pending-deletion {
+	border-radius: 0;
+	background: color-mix(in oklab, var(--c-bad) 30%, transparent) !important;
+}
+
+/* --------------------------------------------------- the confirmation alert
+
+   lila's dialog (`ui/lib/css/component/_dialog.scss`), trimmed to the alert
+   keymove uses before deleting a large subtree. */
+dialog.alert {
+	position: fixed;
+	inset: 50% auto auto 50%;
+	transform: translate(-50%, -50%);
+	max-width: 100%;
+	padding: 0;
+	border: 0;
+	background: var(--c-bg-popup);
+	border-radius: var(--radius);
+	box-shadow: var(--box-shadow);
+	color: var(--c-font);
+}
+
+dialog.alert::backdrop {
+	background: rgb(0 0 0 / 0.54);
+}
+
+dialog.alert .dialog-content {
+	text-align: center;
+	padding: 2em;
+	font-size: 16px;
+}
+
+dialog.alert .dialog-content.alert {
+	display: flex;
+	flex-direction: column;
+	gap: 2em;
+	width: 480px;
+	max-width: 100%;
+	border: 3px solid var(--c-primary);
+	border-radius: 6px;
+}
+
+dialog.alert .dialog-content p {
+	margin: 0;
+}
+
+dialog.alert .dialog-content span {
+	display: flex;
+	gap: 2em;
+	justify-content: flex-end;
+}
+
+dialog.alert .fbt {
+	border: 1px solid var(--c-border);
+	padding: 0.6em 1em;
+}
+
+/* ------------------------------------------------- the fork (variation row) */
+.analyse__fork {
+	flex: 0 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.analyse__fork move {
+	flex: 0 0 50%;
+	display: flex;
+	align-items: center;
+	min-width: 0;
+	padding: 0.35em 1em;
+	/* lila's `_fork.scss`: the tiles are a blue wash, `color-mix($c-primary
+     25%, $c-bg)`, not keymove's neutral `--c-bg-page` */
+	background: color-mix(in oklab, var(--c-primary-blue) 25%, var(--c-bg));
+	border-bottom: 1px solid var(--c-border);
+	cursor: pointer;
+	user-select: none;
+	-webkit-touch-callout: none;
+}
+
+.analyse__fork move:nth-child(odd) {
+	border-right: 1px solid var(--c-border);
+}
+
+/* lila's fork marks the selected continuation, and while hovering the hovered
+   one, with the solid fork blue (`ui/analyse/css/_fork.scss`). Lila
+   adds the `selected` class only when `!isTouchDevice()` and gates the rule on
+   `@media (hover: hover)`; keymove's `renderFork` always marks the first
+   continuation, so the selected rule is left ungated. A phone whose primary
+   pointer is coarse (but which still reports `hover: hover`) otherwise shows
+   every fork tile the same wash. */
+.analyse__fork move.selected {
+	background: var(--c-primary-blue);
+	color: var(--c-over);
+}
+
+.analyse__fork move.selected index {
+	color: inherit;
+}
+
+@media (hover: hover) {
+	.analyse__fork move:hover {
+		background: var(--c-primary-blue);
+		color: var(--c-over);
+	}
+
+	/* while the fork is hovered, only the hovered tile carries the blue */
+	.analyse__fork:hover move.selected:not(:hover) {
+		background: color-mix(in oklab, var(--c-primary-blue) 25%, var(--c-bg));
+		color: var(--c-font-clear);
+	}
+
+	.analyse__fork move:hover index {
+		color: inherit;
+	}
+}
+
+.analyse__fork move index {
+	color: var(--c-font-dim);
+	margin-right: 0.3em;
+}
+
+.analyse__fork move glyph {
+	/* lila pins the fork glyph 2px off the SAN with a fixed length, unlike the
+     tree's `0.08em` (`ui/analyse/css/_fork.scss`: `glyph { margin-inline-start:
+     2px }`); an em here scales with the tile and opens a gap. */
+	margin-inline-start: 2px;
+	font-family: var(--serif);
+}
+
+.fig {
+	font-family: "Noto Chess", var(--symbols);
+}
+
+/* ---------------------------------------------- the controls + the settings
+
+   Lichess keeps the controls out of the tools box, on the page background:
+   `ui/analyse/css/_tools.scss` `.analyse__controls`. */
+.nav {
+	position: relative;
+	/* the settings menu is anchored to this bar */
+	display: flex;
+	align-items: stretch;
+	gap: 4px;
+}
+
+.nav__spacer {
+	flex: 1 1 auto;
+}
+
+/* lichess's control-bar button: `ui/lib/css/component/_fbt.scss`, plus the
+   two rules lila puts on every control-bar button in
+   `ui/lib/css/chess/_control.scss`: `@include prevent-select` and
+   `-webkit-touch-callout: none`. */
+.fbt {
+	appearance: none;
+	border: 0;
+	background: none;
+	color: var(--c-font);
+	font: inherit;
+	line-height: 1;
+	padding: 9px 10px;
+	border-radius: var(--radius);
+	cursor: pointer;
+	user-select: none;
+	-webkit-user-select: none;
+	-webkit-touch-callout: none;
+}
+
+.fbt:hover:not(:disabled) {
+	background: var(--c-bg);
+	color: var(--c-font-clear);
+}
+
+.fbt:disabled {
+	/* lila's `_fbt.scss` uses `opacity: 0.5`. Keymove used 0.4 and the disabled
+     buttons read much dimmer than lichess's */
+	opacity: 0.5;
+	cursor: default;
+}
+
+.fbt.active {
+	background: var(--c-bg);
+	color: var(--c-font-clear);
+}
+
+/* the four jump buttons, as a group */
+.jumps {
+	display: flex;
+	gap: 4px;
+}
+
+.jumps .fbt.move {
+	min-width: 38px;
+}
+
+/* the icon-font glyphs, as lichess draws its buttons with `data-icon`
+   (`ui/lib/css/base/_data-icon.scss`) */
+[data-icon]::before {
+	content: attr(data-icon);
+	font-family: lichess;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.2em;
+	line-height: 1;
+	vertical-align: middle;
+	speak: none;
+	opacity: 0.9;
+}
+
+/* ------------------------------------------------------- settings menu */
+.menu-backdrop {
+	position: fixed;
+	inset: 0;
+	z-index: 20;
+	appearance: none;
+	border: 0;
+	padding: 0;
+	margin: 0;
+	background: transparent;
+	cursor: default;
+}
+
+.menu {
+	position: absolute;
+	right: 0;
+	bottom: calc(100% + 6px);
+	z-index: 21;
+	min-width: 196px;
+	padding: 6px;
+	background: var(--c-bg-popup);
+	border-radius: var(--radius);
+	box-shadow: 0 8px 20px rgb(0 0 0 / 0.18);
+}
+
+.menu__row {
+	display: grid;
+	grid-template-columns: 1.2em minmax(0, 1fr);
+	align-items: center;
+	column-gap: 10px;
+	padding: 8px 10px;
+	font-size: 14px;
+	border-radius: var(--radius);
+	cursor: pointer;
+}
+
+.menu__row > input[type="checkbox"] {
+	grid-column: 1;
+	justify-self: center;
+	margin: 0;
+	accent-color: currentColor;
+}
+
+.menu__row > span {
+	grid-column: 2;
+}
+
+.menu__action {
+	box-sizing: border-box;
+	width: 100%;
+	border: 0;
+	background: transparent;
+	color: inherit;
+	font-family: inherit;
+	text-align: left;
+}
+
+.menu__link {
+	text-decoration: none;
+}
+
+.menu__link svg {
+	display: block;
+	grid-column: 1;
+	justify-self: center;
+	width: 1.2em;
+	height: 1.2em;
+}
+
+.menu__action[data-icon]::before {
+	grid-column: 1;
+	justify-self: center;
+	width: 1.2em;
+	text-align: center;
+}
+
+.menu__separator {
+	margin: 4px 8px;
+	border-top: 1px solid var(--c-popup-border);
+}
+
+.menu__message {
+	margin: 4px 10px 6px;
+	color: var(--c-font-dim);
+	font-size: 12px;
+}
+
+.menu__reset-icon {
+	display: block;
+	grid-column: 1;
+	justify-self: center;
+	width: 1.2em;
+	height: 1.2em;
+	fill: none;
+	stroke: currentColor;
+	stroke-width: 2;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+}
+
+.menu__row:hover:not(:disabled) {
+	background: var(--c-bg-page);
+}
+
+.menu__action:disabled {
+	cursor: default;
+	opacity: 0.5;
+}
+
+/* ------------------------------------------------------------- the key
+
+   The field is a quiet one-move underline, never a panel. The rule is pinned
+   low and the input sits on the strip's midline, so its text shares the
+   Analysis tab's baseline. The placeholder is quieter than entered text, and
+   the key mark is subdued at rest but takes the Analysis colour when the field
+   is active. On a wrong move its colour settles to the same idle shade before
+   the jam ends, so there is no post-animation colour jump. */
+.key {
+	position: relative;
+	display: flex;
+	align-items: stretch;
+	gap: 10px;
+	padding: 0 10px;
+}
+
+.key__field {
+	position: relative;
+	flex: 1 1 auto;
+	min-width: 0;
+	display: flex;
+	align-items: center;
+}
+
+/* the rule: its own line at the bottom of the 44px strip, independent of where
+   the text sits, so the input can stay on the midline */
+.key__field::after {
+	content: "";
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 6px;
+	height: 1px;
+	background: var(--c-border);
+	transition: background-color 0.2s ease;
+}
+
+.key__input {
+	width: 100%;
+	min-width: 0;
+	font: inherit;
+	/* 16px is the smallest size iOS Safari will focus a text field at without
+     zooming the page. `maximum-scale=1` / `user-scalable=no` in the viewport
+     would do it too, but they also take pinch-zoom away; this is the fix that
+     keeps the rest of the page's touch behaviour intact. The strip is a fixed
+     44px box, so the larger text does not re-flow anything around it. */
+	font-size: 16px;
+	line-height: 1;
+	padding: 0 1px;
+	border: 0;
+	border-radius: 0;
+	background: transparent;
+	color: var(--c-font);
+}
+
+/* the rule colour is the focus cue, not a ring: beat the global
+   `:focus-visible` outline in utilities.css */
+.key__input:focus,
+.key__input:focus-visible {
+	outline: none;
+}
+
+.key__input::placeholder {
+	/* The prompt is readable secondary text; the typed move uses normal ink. */
+	color: var(--c-font-dim);
+}
+
+.key__input[readonly] {
+	cursor: default;
+}
+
+/* the field takes the Analysis colour only while it is being used: the rule and
+   the text (placeholder included) share `.tab--on`'s `--c-primary` on focus */
+.key:focus-within .key__field::after {
+	background: var(--c-primary);
+}
+
+.key:focus-within .key__input,
+.key:focus-within .key__input::placeholder {
+	color: var(--c-primary);
+}
+
+.key:focus-within .key__go,
+.key--checking .key__go,
+.key--verify .key__go {
+	color: var(--c-primary);
+}
+
+/* the mark: a 10x20 key whose bit is a K. The button carries every motion
+   (the turn, the jam and the verify hold), so the rotation runs on an HTML
+   element and not on the inline SVG. See `.key--checking`. `overflow: visible`
+   matters because the glyph's ink can sit outside its own box and SVG roots
+   clip by default. */
+.key__go {
+	flex: 0 0 auto;
+	align-self: center;
+	position: relative;
+	display: grid;
+	place-items: center;
+	width: 30px;
+	height: 30px;
+	padding: 0;
+	border: 0;
+	border-radius: 50%;
+	background: none;
+	/* A readable secondary ink keeps the idle affordance quiet, not hidden. */
+	color: var(--c-font-dim);
+	cursor: pointer;
+	transform-origin: 50% 50%;
+	transition: color 0.2s ease;
+	/* keep the key on one compositing layer for the whole life of the control,
+     not just while the jam animates. The button's layout y often lands on a
+     half CSS pixel; the composited frame is snapped to a device pixel, and
+     when the animation ends and the layer is torn down the un-composited
+     paint rounds the other way, a ~1px drop at the very end of the jam that
+     shows on 3x phone screens but not on a 2x desktop. Pinning the layer keeps
+     both frames on the same grid. */
+	will-change: transform;
+}
+
+.key__go:disabled {
+	cursor: default;
+}
+
+.km {
+	display: block;
+	width: 10px;
+	height: 20px;
+	overflow: visible;
+}
+
+/* checking: the key turns a quarter in the lock while the Worker answers.
+   A key turns 90°, not a full revolution. A 360° spin is a generic loader,
+   not a lock. It holds turned until the verdict, so a right key stays turned
+   and a wrong one drops back to rest.
+
+   This runs on the button, not the SVG. Mobile WebKit (Safari on iOS, and so
+   Firefox on iOS too) rotates an inline <svg> about the viewBox origin instead
+   of honouring `transform-origin`, so a rule on `.km` would swing the key ~15px
+   sideways and ~5px up and snap it back at the verdict. The button is
+   an HTML element, where `transform-origin: 50% 50%` is reliable everywhere:
+   the same reason the jam already lives here. */
+.key--checking .key__go {
+	animation: key-turn 0.5s ease-out both;
+}
+
+@keyframes key-turn {
+	from {
+		transform: rotate(0deg);
+	}
+
+	to {
+		transform: rotate(90deg);
+	}
+}
+
+/* wrong: the key is turned 90° and the lock does not give. It drops back out,
+   overshoots, then jingles once before it settles. The turn and the jam share
+   the button, and both run 90° → 90° at the seam, so the class swap from
+   `key--checking` to `key--wrong` is an animation-name change that never moves
+   the visible key. Linear, so the jingle keeps its crisp edges. The jam is
+   the failure cue; the mark stays on normal text ink, not an error colour. */
+.key.key--wrong .key__go {
+	/* Match the idle colour throughout the jam so it cannot shift at its end. */
+	color: var(--c-font-dim);
+	animation: key-jam 0.5s linear;
+}
+
+@keyframes key-jam {
+	0% {
+		transform: rotate(90deg);
+	}
+
+	22% {
+		transform: rotate(4deg);
+	}
+
+	40% {
+		transform: rotate(-13deg);
+	}
+
+	56% {
+		transform: rotate(-1deg);
+	}
+
+	72% {
+		transform: rotate(5deg);
+	}
+
+	86% {
+		transform: rotate(2deg);
+	}
+
+	100% {
+		transform: rotate(0deg);
+	}
+}
+
+/* success: the key is already turned 90° from the check, and it stays turned.
+   It holds there through a micropause, the beat that lets the lock register,
+   and then the field is simply gone and the Solution tab takes its half in the
+   same frame (see Solve.svelte). No flatten: the turned key is the last state. */
+.key--verify .key__go {
+	transform: rotate(90deg);
+}
+
+/* The key's motion: the turn while checking and the jam on a wrong guess.
+   runs regardless of `prefers-reduced-motion`. It is the feedback the field is
+   built around, and the owner opted to always play it. This is a deliberate
+   departure: do not add a reduced-motion `animation: none` for `.key--*`
+   without asking. */
+
+/* the instruction: the last block inside the move box, below the list, as in
+   lichess's `.puzzle__tools > .puzzle__feedback` */
+.puzzle {
+	flex: 0 0 auto;
+	padding: 14px 16px;
+	border-top: 1px solid var(--c-border);
+}
+
+.puzzle__goal-row {
+	display: flex;
+	align-items: flex-start;
+	gap: 4px;
+}
+
+.puzzle__goal {
+	flex: 1 1 auto;
+	min-width: 0;
+	margin: 0;
+	font-size: 17px;
+	font-weight: 600;
+	line-height: 1.3;
+	color: var(--c-font-clear);
+}
+
+.puzzle__bookmark {
+	flex: 0 0 32px;
+	width: 32px;
+	height: 32px;
+	margin: -7px -8px -7px 0;
+	padding: 6px;
+	appearance: none;
+	border: 0;
+	border-radius: 50%;
+	background: transparent;
+	color: var(--c-font-dim);
+	cursor: pointer;
+	touch-action: manipulation;
+	transition: color 0.12s ease, opacity 0.12s ease;
+}
+
+.puzzle__bookmark svg {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+.puzzle__bookmark path {
+	fill: none;
+	stroke: currentColor;
+	stroke-width: 1.7;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+}
+
+.puzzle__bookmark:hover,
+.puzzle__bookmark--on {
+	color: var(--c-font-clear);
+}
+
+.puzzle__bookmark--on path {
+	fill: currentColor;
+}
+
+.puzzle__bookmark:focus-visible {
+	outline: 2px solid var(--c-primary);
+	outline-offset: 2px;
+}
+
+.puzzle__bookmark:disabled {
+	cursor: wait;
+}
+
+@media (hover: hover) and (pointer: fine) {
+	.puzzle__bookmark {
+		opacity: 0;
+		pointer-events: none;
+	}
+
+	.puzzle:hover .puzzle__bookmark,
+	.puzzle:focus-within .puzzle__bookmark {
+		opacity: 1;
+		pointer-events: auto;
+	}
+}
+
+.puzzle__bookmark-status {
+	margin: 6px 0 0;
+	font-size: 12px;
+	color: var(--c-bad);
+}
+
+.puzzle__credit {
+	margin: 4px 0 0;
+	font-size: 13px;
+	color: var(--c-font-dim);
+	/* the publishing detail [Event] does not carry, the issue, page or EG number
+	   the study appeared on, where a version was published, and with whom: a
+	   `title` on this line, and nothing else. The browser's own tooltip is the
+	   one that belongs. A study's provenance is a footnote, and a footnote
+	   should wait to be asked for, so the line is left looking like every other
+	   line in the panel: no help cursor, no underline, nothing but the text. */
+}
+
+.puzzle__credit b {
+	font-weight: 600;
+	color: var(--c-font);
+}
+
+/* The admin's curation row on the Solution tab: the flag tile at the very left
+   and the three level tiles sharing the rest of the panel's width, and nothing
+   else on it. It is laid out as the Continuation (variation) row above, with
+   full-width tiles, hairline dividers and one solid tile for the selected one.
+   It is not *coloured* like it: the fork row is a blue wash on every tile
+   because it is a set of things to read, while this row is a control, and a
+   blue wash on four idle buttons would put a second accent on the page. So the
+   tiles are neutral at rest and the accent is spent only on the selected one.
+   Where the fork row wraps `move` elements, this row wraps buttons, so the tile
+   rules are restated rather than shared. */
+
+.rate {
+	flex: 0 0 auto;
+	/* A grid, not a flex row, because the tiles have to be *equal*: sized from
+	   their own labels and then grown, they came out as wide as their words
+	   ("Medium" wider than "Easy"), and the flag tile resized with its label, so
+	   every press of the cycle shifted the three levels along. Columns settle
+	   both: three equal tracks, and one for the flag. */
+	display: grid;
+	grid-template-columns: minmax(3.5em, 0.8fr) repeat(3, 1fr);
+}
+
+/* The flag leads the row because it is not a difficulty: it has no three levels
+   to sit among, and a tile shaped like them would be read as a fourth level. It
+   carries the flag's state as its label, because the states are three and the
+   row has no room for three more tiles. Its track is 0.8fr against the levels'
+   1fr, so it is a little narrower than one of them at every width, and the floor
+   is the widest label the cycle carries ("⚑ Drop", 3.1em as drawn) with room
+   for a fallback font. A fixed floor and not `max-content`: the label changes
+   with the cycle, and a track that changed with it would shift the three levels
+   along on every press. */
+.rate__flag {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 0.4em;
+	/* the label is the state, and it must not break over two lines or the tile
+	   would change height as the cycle runs */
+	white-space: nowrap;
+	min-width: 0;
+	padding: 0.35em 0.6em;
+	font: inherit;
+	color: var(--c-font-clear);
+	background: var(--c-bg-page);
+	border: 0;
+	/* its right edge is the row's only divider now, the levels being
+	   adjacent to each other and none of them first */
+	border-right: 1px solid var(--c-border);
+	border-bottom: 1px solid var(--c-border);
+	cursor: pointer;
+	user-select: none;
+	-webkit-touch-callout: none;
+}
+
+.rate__flag svg {
+	width: 1.1em;
+	height: 1.1em;
+	fill: currentColor;
+}
+
+/* Flagged is a grey, not a level colour and not the fork's blue. The flag is a
+   note to self rather than a judgement on the composition, so it takes the
+   quietest tile in the row: a wash of the text colour, one step off the panel,
+   which reads as a light grey in the light theme and as a lighter grey in the
+   dark one, and leaves the label its own contrast either way. The value is a
+   variable because the hover below has to put it back unchanged. */
+.rate__flag--on {
+	--rate-flag: color-mix(in oklab, var(--c-font-clear) 14%, var(--c-bg));
+	background: var(--rate-flag);
+}
+
+.rate__level {
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-width: 0;
+	padding: 0.35em 1em;
+	font: inherit;
+	color: var(--c-font-clear);
+	background: var(--c-bg-page);
+	border: 0;
+	border-bottom: 1px solid var(--c-border);
+	cursor: pointer;
+	user-select: none;
+	-webkit-touch-callout: none;
+}
+
+/* The corpus's own `[Difficulty]`, outlined on the tile it names. An outline
+   rather than a second fill: the fill is the admin's rating, and the two have
+   to be readable at once on one tile. `inset` box-shadow keeps it inside the
+   tile so it does not double up with the 1px divider its neighbour carries, and
+   `currentColor` means it needs no second colour: on an idle tile that is the
+   label colour, and on a filled tile it is already the white the text is, so
+   the ring stays visible in both states and in both themes. */
+.rate__level--curated {
+	box-shadow: inset 0 0 0 2px color-mix(in oklab, currentColor 65%, transparent);
+}
+
+.rate__level + .rate__level {
+	border-left: 1px solid var(--c-border);
+}
+
+/* The selected tile is the record: there is no value printed beside the row,
+   so the tile itself has to say which judgement it carries. Each level spends
+   the page's own colour for that meaning rather than inventing one. A green
+   that a solved card is outlined in, the amber an in-progress card is outlined
+   in, the red `keymove` already uses. The flag spends none of them, and none of
+   the fork's blue either: it is a different judgement and its grey says so.
+   The three level colours are their own tokens (`--c-level-*`) rather than the
+   outline tokens they echo, because these are fills that carry white text and
+   an outline's value cannot; each token has a light and a dark value, so the
+   tile is legible in both themes. */
+.rate__level--easy {
+	--rate-on: var(--c-level-easy);
+}
+
+.rate__level--medium {
+	--rate-on: var(--c-level-medium);
+}
+
+.rate__level--hard {
+	--rate-on: var(--c-level-hard);
+}
+
+.rate__level--on {
+	background: var(--rate-on);
+	color: var(--c-over);
+}
+
+.rate__level:disabled {
+	cursor: wait;
+}
+
+.rate__flag:disabled {
+	cursor: wait;
+}
+
+@media (hover: hover) {
+	.rate__level:hover:not(:disabled),
+	.rate__flag:hover:not(:disabled) {
+		background: var(--c-bg-low);
+	}
+
+	/* A flagged tile does not hover at all. The grey is the flag, and the
+	   hover colour is lighter than it in the light theme, so a pointer over it
+	   would read as the flag coming off. Put the same value back rather than
+	   inventing a second shade. */
+	.rate__flag--on:hover:not(:disabled) {
+		background: var(--rate-flag);
+	}
+
+	/* while a tile is hovered, only that tile changes: the selected one keeps
+	   its colour unless the hovered tile is the selected tile */
+	.rate__level--on:hover:not(:disabled),
+	.rate:hover .rate__level--on:not(:hover) {
+		background: var(--rate-on);
+		color: var(--c-over);
+	}
+}
+
+.rate__level:focus-visible,
+.rate__flag:focus-visible {
+	outline: 2px solid var(--c-primary-blue);
+	outline-offset: -2px;
+}
+
+/* Only ever shown when a save was refused: it wraps to its own line under the
+   tiles, and is the one piece of text the row carries. */
+.rate__status {
+	/* the refusal line spans the row: it was `flex: 1 0 100%` while the row was
+	   a flex wrap, and the grid spells the same intent as a full span */
+	grid-column: 1 / -1;
+	margin: 0;
+	padding: 6px 1em;
+	font-size: 12px;
+	color: var(--c-bad);
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	/* The control strip, as lila lays it on one column
+     (`ui/analyse/css/_tools-mobile.scss`): the jumps and the settings button
+     are one edge-to-edge row of bordered cells, and the mode tabs are a second
+     row hung straight off the move box.
+
+     TWO DELIBERATE DEPARTURES from that file, signed off with the owner:
+     keep them when porting a newer `_tools-mobile.scss`:
+       1. the settings `☰` is on the *first* line with the jumps, where lila
+          puts it in the tool row; and
+       2. the Analysis/Solution tabs are *inside* the move box (`.tabbar`
+          under `.tools`), styled to read as lila's tool row, not in
+          `.analyse__controls` beside the jumps. Apply the row rules to both
+          `.nav` and `.tabbar`.
+
+     `display: contents` lets the four jumps flex with the settings button,
+     while lila's `div.jumps`, the hold-to-repeat pointer target
+     (`addPointerListeners` in `Solve.svelte`), stays in the tree. Pointer
+     events still bubble through a `display: contents` box. It is also what
+     keeps the burger out of that handler; lila instead wraps the jumps onto
+     their own full-width line (`width: 100%` + `flex-wrap: wrap`). */
+	.jumps {
+		display: contents;
+	}
+
+	.nav .fbt {
+		height: 44px;
+		padding: 0;
+		border: 1px solid var(--c-border);
+		border-radius: 0;
+		background: color-mix(in oklab, var(--c-bg) 50%, var(--c-bg-page));
+	}
+
+	/* lila's jump sizing: the single steps stay at flex 3 and the double jumps
+     drop to flex 2, so prev/next are the big ones. Settings matches them. */
+	.nav .fbt.move[data-act="prev"],
+	.nav .fbt.move[data-act="next"] {
+		flex: 3 1 0;
+	}
+
+	.nav .fbt.move[data-act="first"],
+	.nav .fbt.move[data-act="last"],
+	.nav .nav__burger {
+		flex: 2 1 0;
+	}
+
+	.nav .fbt.move[data-act="prev"]::before,
+	.nav .fbt.move[data-act="next"]::before {
+		font-size: 1.35em;
+	}
+
+	.nav .fbt.move[data-act="first"]::before,
+	.nav .fbt.move[data-act="last"]::before {
+		font-size: 0.9em;
+	}
+
+	.nav .fbt:hover:not(:disabled) {
+		color: var(--c-font-clear);
+		background: var(--c-bg);
+	}
+
+	.nav .nav__spacer {
+		display: none;
+	}
+
+	/* the settings menu drops from the top strip, not up over the board */
+	.nav .menu {
+		top: calc(100% + 6px);
+		bottom: auto;
+	}
+
+	/* the mode strip: cells that fill the width, open at the bottom so they sit
+     on the move box and meet it without a rule or a gap */
+	.tabbar {
+		flex: 0 0 auto;
+		gap: 3px;
+		border-bottom: 0;
+	}
+
+	.tabbar .tab,
+	.tabbar .key {
+		/* The 3px gap must come out of the two halves, not be added after two
+       50% bases. That keeps the gutter centred on the panel's 50% split. */
+		flex: 0 0 calc((100% - 3px) / 2);
+		height: 44px;
+		border: 1px solid var(--c-border);
+		border-bottom: 0;
+		border-radius: 0;
+		background: color-mix(in oklab, var(--c-bg) 50%, var(--c-bg-page));
+	}
+
+	.tabbar .tab:last-child {
+		border-right: 1px solid var(--c-border);
+	}
+
+	.tab:not(.tab--on):hover {
+		background: var(--c-bg);
+		color: var(--c-font);
+	}
+
+	.tabbar .tab--on {
+		background: color-mix(in srgb, var(--c-primary) 10%, var(--c-bg));
+		color: var(--c-primary);
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	/* lila's mobile tool order (`_tools-mobile.scss`): the mode strip, then the
+     fork, then the moves, then the instruction. lila names the moves' order
+     explicitly (`order: 2`), which is what lets the fork's `order: 1` lift it
+     above the list; without it the fork's `order: 1` out-ranked the untouched
+     moves and the fork fell to the bottom of the panel. */
+	.ml {
+		order: 2;
+		/* Do not stretch an empty move tree: keep the objective directly below
+       the tabs, then let recorded moves push it down naturally. The basis
+       stays `auto` (content), so a short list is hugged exactly as before;
+       shrink is left on so a tight panel row can still squeeze it, and
+       `max-height` is what bounds a long one.
+
+       The cap matters because this list has no other budget on a phone:
+       `.work .tools` is `height: auto` here and the page itself is the scroll
+       container, so without it every recorded move only made the document
+       taller and pushed the objective off the bottom of the screen. A long list
+       then falls back to lila's inner scroll box
+       (`overflow-y: auto`, from the base `.ml`), which is also what makes the
+       auto-scroll in `Solve.svelte` live again: `Element.scrollTo` moves
+       that element's own scrolling box only, so against a content-sized list
+       it was a no-op and the current move could sit below the fold. */
+		flex: 0 1 auto;
+		max-height: 40vh;
+	}
+
+	.analyse__fork {
+		order: 1;
+	}
+
+	.puzzle {
+		order: 3;
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	/* lila's one-column fork (`ui/analyse/css/_fork.scss`, `mq-is-col1`): the
+     tiles are centred and enlarged: `font-size: 1.5em` over `0.5em` block
+     padding, each with a full box-coloured border and an equal flex share. */
+	.analyse__fork move {
+		justify-content: center;
+		/* Equal zero bases keep SAN width from biasing the two tiles. The tab
+       gutter above is centred on 50%, so this shared midpoint is the split. */
+		flex: 1 1 0;
+		padding-block: 0.5em;
+		font-size: 1.5em;
+		/* lila's fork inherits the page's `normal` line-height (`_fork.scss` sets
+       none); keymove's body sets 1.5, which made the tile ~8% taller than
+       lichess's. Keep `normal` here so the proportion matches. */
+		line-height: normal;
+		border: 1px solid var(--c-bg);
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.analyse__fork move:nth-child(odd) {
+		border: 1px solid var(--c-bg);
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.analyse__fork move index,
+	.analyse__fork move glyph {
+		display: none;
+	}
+}
+
+/* lila's `%double-tap` (`ui/lib/css/abstract/_extends.scss`): a double tap on
+   a control or on the move list must never zoom. The board carries the value
+   itself (`board.css`); everywhere else each surface sets it, both because an
+   ancestor rule breaks chessground's drag and because Chrome intersects the
+   ancestors only up to the nearest scroll container, so the tools box (itself
+   one, `overflow: hidden`) and the move list's own scroll box need their own
+   value anyway. `.movecol` covers the gaps around the controls and the panel;
+   `#analyse-cm` and the delete dialog live directly under `.work`, not in any
+   of those boxes. The controls bar is not a scroll container, yet it stays
+   with lila's mixin, so a one-column phone keeps the surface lila guards.
+   Lila applies this with no media query; gating it on `(pointer: coarse)` left
+   the rule off on the same phones the fork hit. */
+.nav,
+.movecol,
+.tools,
+.ml,
+#analyse-cm,
+dialog.alert {
+	touch-action: manipulation;
+}
+
+/* lila's one-column controls allow a vertical pan but no zoom
+   (`ui/analyse/css/_tools-mobile.scss`) */
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.work .nav {
+		touch-action: pan-y;
+	}
+}

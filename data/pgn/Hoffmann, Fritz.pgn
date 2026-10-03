@@ -1,0 +1,27 @@
+[Event "Schach#07368"]
+[Source "Schach/1"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Hoffmann, Fritz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r7/4q3/2R5/B1pp4/P7/k3pp2/b1Q3n1/3K4 w - - 0 1"]
+
+1. Bb4+ $1 cxb4 (Kxb4 2. Rb6+ Ka5 3. Rb5+ Ka6 4. Qg6+ Ka7 5. Qb6#) 2. Qc1+ Kb3 3. Qc2+ Ka3 4. Qc1+ Kxa4 5. Ra6+ $1 Rxa6 6. Qc6+ Ka5 (Rxc6) 7. Qc5+ Qxc5 1/2-1/2
+
+[Event "Schach#09507"]
+[Source "Schach/6"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Hoffmann, Fritz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6R1/8/3q4/7k/6p1/2p5/4N3/7K w - - 0 1"]
+
+1. Ng3+ $1 Qxg3 (Kh6 {<main>} 2. Nf5+ Kh7 3. Rg7+ $1 Kh8 4. Nxd6 Kxg7 5. Nf5+ Kf6 6. Ne3 (6. Nd4 {<or>})) 2. Rg5+ Kh4 (Kh6 3. Rg6+ Kh7 4. Rg7+) 3. Rh5+ Kxh5 1/2-1/2

@@ -1,0 +1,159 @@
+[Event "?"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Averbakh, Yuri Lvovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/8/3N1b1P/8/k2pK3/8/8/8 w - - 0 1"]
+
+1. Ne8 (1. Nf5 $2 Kb5 2. Nxd4+ Kc5 3. Nf5 Bg5 4. h7 Bf6 5. Nh6 Kd6 6. Kf5 Ke7 $10 (Bc3 $4 7. Nf7+ $1 Kd5 8. Ng5 Bb2 9. Kg6 Ba1 10. Kf7 Bh8 11. Ne6 Ke5 12. Ng7 Kd6 13. Nh5 Kd7 14. Kf8 Kd8 15. Nf4 Kc8 16. Kg8 Bc3 17. Ne6 Kd7 18. Ng7 $18)) (1. h7 $2 Bh8 2. Nc8 $10) (1. Nb7 $2 Bg5 2. h7 $10) (1. Nb5 Kxb5) (1. Kf4 d3 2. Nf5) Bh8 (Be5 2. Kxe5 (2. h7 $2 Bh8 3. Nd6 $10) (2. Ng7 Bf6 3. Ne8 $18) (2. Kd3 $2 Bf4 3. h7 $10) (2. Kf5 $2 d3 3. Nf6 $10 Bxf6 4. Kxf6) (2. Nd6 $2 Bh8 3. h7) (2. Kd5 $2 d3 3. Kxe5) (2. Kf3 $2 d3 3. h7) (2. Nc7 $2 Bh8 3. h7) d3 3. Nd6 (3. Nf6 d2 4. Ne4 $18) (3. h7 $2 d2 4. h8=Q $10) (3. Nc7 d2 4. Nd5 $18) (3. Ng7 $2 d2 4. h7 $10) (3. Kd4 $4 d2) (3. Ke4 d2 4. h7) d2 4. Nc4 d1=Q 5. Nb2+ $18) 2. Ng7 (2. h7 $2 d3 3. Ke3 $10 Bd4+ $4 (Kb5 $5) 4. Kxd3) (2. Kf5 $4 d3 $19) (2. Kd3 $2 Kb5 3. Ng7) (2. Nd6 $2 Kb4 3. h7) (2. Nc7 $2 Kb4 3. h7) (2. Kd5 d3) Kb3 3. Kxd4 (3. Kd3 Ka3 4. Kxd4 $18 Bxg7+ 5. hxg7) (3. Kf5 $4 d3 $19) (3. Nf5 $2 Kc3 4. h7) (3. Ne6 $2 Kc3 4. h7) (3. Ke5 $4 d3) (3. Kf3 $2 d3 4. Nf5) (3. Ne8 Be5 4. h7) (3. Nh5 Be5 4. h7) Kc2 4. Ke5 Kd3 5. Kf6 Ke4 6. Kf7 (6. Kg6 Kf4 7. Kf6 $18) (6. h7 Kd5 7. Kf7) (6. Kg5 Ke5 7. Kg6) (6. Ke6 Kf4 7. Kf6) Kf4 7. Kg8 (7. h7 Bxg7 8. Kxg7) (7. Nh5+ $2 Kg5 8. h7) (7. Ne6+ Kf5 8. h7) (7. Kg6 Kg4 8. h7) (7. Kf8 $2 Kg5 8. h7) (7. Kf6 Bxg7+ 8. hxg7) Kg5 8. Kh7 $18 (8. h7 Bxg7 9. Kxg7 $18) (8. Kxh8 $2 Kxh6 9. Nh5) (8. Ne6+ $2 Kg6 9. h7) (8. Nf5 $2 Bf6 9. h7) (8. Kf7 Kxh6 9. Nh5) 1-0
+
+[Event "source unknown (te)"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Averbakh, Yuri Lvovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3k4/3P4/pp1K4/8/6B1/8 w - - 0 1"]
+
+1. Bf1 $1 (1. Kc4 $2 a3 2. Kb3 Kc5) b3 2. Bc4 $1 b2 3. Ba2 a3 4. Bb1 Kd7 5. Kc5 Kc7 6. d6+ Kd7 7. Kd5 Kd8 8. Kc6 Kc8 9. d7+ Kd8 10. Ba2 1-0
+
+[Event "source unknown (te)"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Averbakh, Yuri Lvovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5K2/1B6/5k2/8/1pp5/8/8/8 w - - 0 1"]
+
+1. Bd5 $1 c3 2. Bb3 Ke5 3. Ke7 Kd4 4. Kd6 Kd3 5. Kc5 1/2-1/2
+
+[Event "source unknown"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Averbakh, Yuri Lvovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/8/2PK4/2P2b2/8/8/8/8 w - - 0 1"]
+
+1. Ke7 $1 1-0
+
+[Event "Okonchaniya - Peshegnye, Slonovye, Kone"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Averbakh, Yuri Lvovich"]
+[White "Averbakh, Y"]
+[Black " Chekhover, V."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6K1/8/5N2/1p6/3k4/8/8 w - - 0 1"]
+
+1. Nd6 $1 b3 (Kd4 2. Kf6 Kd5 3. Nf5 $1 b3 4. Ne3+) 2. Nb5 b2 3. Na3 Kc3 4. Nb1+ 1/2-1/2
+
+[Event "source unknown (te)"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Averbakh, Yuri Lvovich"]
+[White "Averbakh, Y"]
+[Black " Chekhover, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1N6/2k5/P7/8/8/8/8/1K6 w - - 0 1"]
+
+1. Nd7 $1 1-0
+
+[Event "Okonchaniya - Kon protiv Slona, Ladejni"]
+[Source "(c): Cuppini=A Best Problems=42 3-4/2007."]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Averbakh, Yuri Lvovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "n1k5/P7/8/1K6/8/8/8/B7 w - - 0 1"]
+
+1. Kc6 $1 (1. Ka6 $2 Nc7+ 2. Kb6 (2. Ka5 Kb7) Nd5+ 3. Kc6 Nb4+ 4. Kb6 Nd5+) Nc7 (Kd8 2. Kb7) 2. Bc3 Na8 3. Ba5 Nc7 4. Kb6 Na8+ 5. Ka6 Nc7+ (Kd7 6. Kb7) 6. Bxc7 1-0
+
+[Event "Shakhmatnye Okonchaniya: Peshechnye#051"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Averbakh, Yuri Lvovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p6/1P5K/8/8/8/8/k7 w - - 0 1"]
+
+1. Kg5 $1 (1. Kg6 $2 Kb2 2. Kf5 Kc3 3. Ke4 Kc4 $1) Kb2 2. Kf4 Kc3 3. Ke3 $1 Kc4 4. Kd2 1/2-1/2
+
+[Event "Shakhmatnye Okonchaniya: Peshechnye#614"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Averbakh, Yuri Lvovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/p5k1/P1p1K1pp/8/1P1P1P2/8/8 w - - 0 1"]
+
+1. d4 $1 (1. Ke4 $2 h4 2. Ke3 Kf5) h4 (cxd4 2. Kxd4 h4 3. Ke3) 2. dxc5 Kf7 3. Kd6 $1 (3. c6 $2 Ke7) (3. f4 $2 h3 4. c6 Ke8 5. Kd6 Kd8) Ke8 4. Kc7 $1 h3 5. c6 h2 6. Kb8 h1=Q 7. c7 Qh2 8. Kb7 Qh7 9. Kb8 1/2-1/2
+
+[Event "Shakhmatnye Okonchaniya: Ladejnye#011 ("]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Averbakh, Yuri Lvovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3R4/4K3/8/8/3pk3/8/8/8 w - - 0 1"]
+
+1. Kd6 $1 d3 2. Kc5 Ke3 3. Kc4 d2 4. Kc3 1-0
+
+[Event "Shakhmatnye Okonchaniya: Ladejnye#252 ("]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Averbakh, Yuri Lvovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/5k2/4p3/3pKp1p/R7 w - - 0 1"]
+
+1. Rf1 $1 Kg3 2. Kxe3 Kg2 3. Rxf2+ Kg1 (Kg3 4. Rf1) 4. Rxd2 $1 h1=Q 5. Rd1+ 1/2-1/2
+
+[Event "Shakhmatnye Okonchaniya: Ladejnye#103 ("]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Averbakh, Yuri Lvovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/4rP2/4P3/5K2/8/4k3 w - - 0 1"]
+
+1. Kf4 $1 Ra5 2. f6 Kf2 3. e5 $1 Ra4+ 4. Kg5 Kf3 5. f7 $1 Rg4+ 6. Kh5 $1 Rf4 7. e6 1-0

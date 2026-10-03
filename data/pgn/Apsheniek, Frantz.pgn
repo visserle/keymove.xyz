@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Apsheniek, Frantz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "7K/6p1/4P2k/2B4p/8/p3R3/bp6/8 w - - 0 1"]
+
+1. Re1 (1. Rb3 $4 Bxb3 2. Be3+ g5) (1. Be7 $4 b1=Q 2. Bg5+ Kxg5 3. Kxg7 Qb2+) b1=Q $4 (Bxe6 $5 2. Bxa3 $16 $18) 2. Rxb1 (2. Be3+ $4 g5 3. Rxb1 Bxb1 $19) (2. Rg1 Qh7#) (2. Rd1 Qh7#) (2. Rc1 Qh7#) (2. Re4 Qb8+ 3. Bf8 Qxf8#) (2. Bf8 Qh7#) Bxb1 3. e7 (3. Bxa3 $2 g5 4. Bf8+ $10) (3. Be3+ $4 Kg6 $19) (3. Bf8 $4 a2 4. Bxg7+ Kg5 $19) (3. Bd4 $4 h4 $19) (3. Bb4 $4 a2 4. Bd2+ g5) (3. Kg8 $4 a2 4. Be3+ g5) a2 (Bg6 4. Be3# $1 (4. Bd4 $4 Bf7 $19) (4. Bxa3 $4 Be8 $19 5. Bc1+ g5) (4. Kg8 $4 Be8 5. Bxa3 g5 6. Kf8 Bd7) (4. Bb4 Bf7 5. Bxa3 Be8) (4. Bd6 Bf7 5. Bxa3 Be8)) 4. Be3+ (4. e8=Q $2 a1=Q 5. Bf8 $10) (4. Bd4 $2 a1=Q 5. Bxa1 Bg6 $10) (4. Bf2 a1=Q) (4. Kg8 a1=Q 5. Be3+ g5) g5 5. Bd4 (5. e8=Q $4 a1=Q+ 6. Bd4 Qxd4+ 7. Qe5 Qd8+ 8. Qe8 Qxe8#) (5. e8=R $4 a1=Q+ 6. Bd4 Qxd4+ 7. Re5 Qd8+ 8. Re8 Qxe8#) (5. Bf2 $4 a1=Q+ 6. Bd4 Qxd4+ 7. Kg8 Qg7#) (5. e8=B $4 a1=Q+ 6. Bd4 Qxd4+ 7. Kg8 Qg7#) (5. e8=N $4 a1=Q+ 6. Kg8 Kg6) (5. Bf4 $4 a1=Q+ 6. Be5 Qxe5+ 7. Kg8 Qg7#) (5. Bc1 $4 a1=Q+ 6. Bb2 Qxb2+ 7. Kg8 Qg7#) (5. Kg8 $4 Bh7+ 6. Kf7 a1=Q) Bg6 6. Bg7# (6. Kg8 $4 h4 7. Bg7+ Kh5 $19) (6. Ba1 $4 h4 7. Bg7+ Kh5) (6. e8=Q $4 Bxe8 7. Bg7+ Kg6) (6. Bf6 $4 h4 7. Bg7+ Kh5) (6. Bc5 a1=Q+ 7. Bd4 Qxd4+ 8. Kg8 Qg7#) (6. Bc3 Bf7) 1-0

@@ -1,0 +1,42 @@
+[Event "1.p Szachista Polski#64"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[Composer "Slepjan, Grigory Iakovlevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3rP3/8/8/b1K5/1p6/5RBp/k7 w - - 0 1"]
+[PlyCount "17"]
+
+1. e8=Q Rc7+ 2. Bc6 {Novotny} Rxc6+ 3. Kb4 Rb6+ (Rc4+ $144 4. Ka3 $18) (b2 $144 4. Rf1+ (4. Qh8 $143 Rb6+ 5. Ka3 Rb3+ 6. Kxa4 h1=Q 7. Qxh1+ b1=Q 8. Rf1 Rb4+ $11) b1=Q+ 5. Rxb1+ Kxb1 6. Qe4+ Kb2 7. Qe5+ $1 $18 {EGTB 6-men} (7. Kxa4 $143 Rc4+ $11) (7. Qh1 $143 Rc1 8. Qxh2+ Bc2 9. Qe5+ Ka2 $11)) 4. Ka3 h1=Q 5. Qh8+ b2 6. Qxh1+ Bd1 $1 7. Rxb2 (7. Qxd1+ $143 b1=N+ 8. Ka4 Rb4+ 9. Ka5 Rb5+ 10. Kxb5 $11) Rb3+ 8. Ka4 (8. Rxb3 $143 $11) Rd3+ 9. Rb3 $18 1-0
+
+[Event "Shakhmaty v SSSR#19 (c)"]
+[Source "Shakhmaty v SSSR/5 (c): Zemlyansky=Y Shakhmatnaya Kompozitsia=47 18-6-2002."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Slepjan, Grigory Iakovlevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/P7/pk6/4pp2/2P5/PP3P2/p4P1p/2B5 w - - 0 1"]
+
+1. Kb8 $1 h1=Q 2. Be3+ Ka5 3. a8=N $1 (3. a8=Q $2 Qh8+ 4. Kb7 (4. Ka7 Qxa8+ 5. Kxa8 a1=Q 6. Kb7 Qd4 $1 7. Bxd4 exd4 8. b4+ Ka4 9. c5 d3 10. c6 d2 11. c7 d1=Q 12. c8=Q Qxf3+ 13. Kxa6 Qe2+ 14. Kb6 Qb5+) Qg7+ 5. Kc6 Qf6+) Qh8+ 4. Kb7 $1 Qxa8+ (Qg7+ 5. Nc7) 5. Kc7 $1 Qb8+ 6. Kxb8 a1=Q 7. Kc7 $1 Qd4 8. f4 $1 1-0
+
+[Event "4.hm Fizkultura i Sport Shakhmaty v SSS"]
+[Source "Shakhmaty v SSSR/1 1984 EG#05540.7.p Belarussia champ 1981-1984."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Slepjan, Grigory Iakovlevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2K3n1/k1P2N2/7P/8/P7/8/p4P2/3b4 w - - 0 1"]
+
+1. h7 $1 (1. Kd8 $2 a1=Q $1 2. c8=Q Qf6+ 3. Kd7 Qxf7+ 4. Kd6 Qe7+ 5. Kc6 Nxh6 $1) (1. Kd7 $2 Nf6+ 2. Kd6 Kb7 $1) Nh6 $1 (Ne7+ 2. Kd8) 2. Ne5 $1 (2. h8=Q $2 Bg4+ 3. Kd8 Nxf7+) a1=Q (Bg4+ 3. Kd8 a1=Q 4. h8=Q Qxe5 5. Qxh6 $1) 3. h8=Q Qxe5 $1 4. Qxe5 (4. Qf8 $2 Bxa4 $1 5. Kd8 Qd4+ 6. Ke7 Qc5+) Bg4+ 5. Qe6 $1 Bxe6+ 6. Kd8 Kb7 (Nf7+ 7. Ke7) 7. f4 $1 (7. a5 $2 Nf7+ 8. Ke7 Bb3 $1 9. Kd7 Ba4+ 10. Ke7 Ne5 $1 11. f4 Nc6+ 12. Kd6 Nd4 $1 13. a6+ Kc8 14. a7 Nb5+ 15. Ke7 Nxa7 16. f5 Kxc7 17. f6 Nc8+) Nf7+ (Bh3 8. a5 $1 Nf7+ 9. Ke7 Nh6 10. Kd8) (Nf5 8. a5 Nd6 9. a6+ Kb6 10. a7 Kxa7 11. Ke7) 8. Ke7 Bb3 9. Kd7 Bxa4+ 10. Ke7 Nh6 11. Kd8 Nf7+ 12. Ke7 Bb3 13. Kd7 Ba4+ 14. Ke7 1/2-1/2

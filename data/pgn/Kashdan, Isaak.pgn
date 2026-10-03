@@ -1,0 +1,14 @@
+[Event "The Chess Amateur#1533"]
+[Source "The Chess Amateur/3"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Kashdan, Isaak"]
+[Composer2 "Horowitz, Israel Albert"]
+[White "Kashdan, I"]
+[Black " Horowitz, I."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K2/8/p7/1k6/8/8/1P1N4/8 w - - 0 1"]
+
+1. Nb3 $1 (1. Ke7 $2 Kb4 2. Kd6 a5 3. Kd5 a4 4. Nc4 Kb5 5. Kd4 Kb4 6. Ne3 Kb3) Kb4 (Kc4 {<main>} 2. Na1 $1 Kd3 3. Ke7 Kd2 4. Kd6 Kc1 5. b4 Kb2 6. Kc6 $1 (6. Kc5 $2 Kc3) Kc3 7. Kc5) 2. Na1 $1 a5 3. Ke7 a4 4. Kd6 a3 5. Nc2+ $1 Kb3 6. bxa3 1-0

@@ -1,0 +1,13 @@
+[Event "British Chess Magazine"]
+[Source "British Chess Magazine/7"]
+[Date "1892.??.??"]
+[Round "?"]
+[Composer "Locock, Charles Dealtry"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/3p4/3p4/3P4/4P1p1/6P1/8/K7 w - - 0 1"]
+
+1. Kb1 $1 (1. Kb2 $2 Kh8 $1 2. Kb3 Kg8 $1 3. Kc3 (3. Kb4 Kf8 $1) (3. Kc4 Kf7 $1) (3. Kc2 Kh7 $1) (3. Kb2 Kh8 $1) Kg7 $1 4. Kd4 (4. Kc4 Kf7 $1) (4. Kb4 Kf6) (4. Kd2 Kh6 $1) (4. Kc2 Kh7 $1) Kf6 $1 5. Ke3 (5. Kd3 Kg6 $1) Kg5 $1) (1. Ka2 $2 Kh7 $1) Kg7 (Kh8 2. Kb2 $1 Kg8 3. Kb3 Kh8 4. Kc4 Kg7 5. Kc3 Kf7 6. Kd2 Kf6 7. Ke2 Kg6 8. Kd3) (Kf8 2. Kc2 $1) (Kf7 2. Kc2 $1) (Kh7 2. Kc2 $1) 2. Kc1 (2. Kc2 $2 Kh7 $1) Kg6 (Kf6 3. Kd2 Ke5 (Kg5 4. Ke3) (Kg6 4. Kd3 $1) 4. Ke3) 3. Kd1 (3. Kc2 $2 Kh7 $1) (3. Kd2 $2 Kh6 $1 4. Ke2 Kh5) Kg5 (Kg7 4. Ke2 $1) (Kh6 4. Kd2 $1) 4. Kc2 $1 Kh6 (Kf6 5. Kd2 $1) 5. Kd2 $1 Kh5 6. Kc3 $1 (6. Kd3 $2 Kg6) (6. Ke3 $2 Kg5) (6. Ke2 $2 Kh6 7. Kd2 Kh5 8. Kc3) Kg5 (Kg6 7. Kd3 $1 Kf6 (Kg7 8. Ke3 Kg6 9. Kf4) 8. Kd4 Kf7 (Ke7 9. e5 dxe5+ 10. Kxe5 Kf7 11. Kf5) (Kg6 9. e5 Kf5 10. exd6 Kf6 11. Ke4 Kg5 12. Ke5 Kg6 13. Kf4 Kh5 14. Kf5) 9. e5 dxe5+ 10. Kxe5 Ke7 11. d6+ Ke8 12. Kf4 $1 (12. Kf5 $2 Kf7) Kf7 13. Kf5 $1 Kg7 14. Kxg4 Kf6 15. Kh5 Ke6 16. g4 Kxd6 17. g5 Ke7 18. Kh6) 7. Kc4 $1 Kg6 8. Kd3 1-0

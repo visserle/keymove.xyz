@@ -1,0 +1,27 @@
+[Event "2.hm Assiac JT EG"]
+[Source "EG/5 EG#01856."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Yaacobi, Benjamin"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/7p/8/6KR/4p2P/5p2/5p2/8 w - - 0 1"]
+
+1. Kf6 $1 f1=Q (Kf8 2. Ra5 Ke8 3. Ke6 Kd8 4. Kd6 Kc8 5. Kc6 Kb8 6. Rb5+ Ka7 7. Rb7+ Ka8 (Ka6 8. Rb2) 8. Rb1 $1 e3 9. Kc7) 2. Ra5 $1 (2. Rg5+ $2 Kf8 3. Ra5 Ke8 4. Ke6 Qc4+) h5 (Qa1+ 3. Rxa1 h5 4. Kg6 Kf8 5. Rf1) (Qa6+ 3. Rxa6 h5 4. Kg6 Kf8 5. Re6) 3. Ra8+ Kh7 4. Ra7+ Kh6 5. Ra8 Qa1+ (Qa6+ 6. Rxa6 f2 7. Ke7+ Kg7 8. Rf6 e3 9. Rf7+) 6. Rxa1 f2 (e3 7. Ra8 Kh7 8. Ra7+ Kh6 9. Ra8) 7. Ke5 $1 e3 8. Ra6+ Kg7 9. Ra7+ Kf8 10. Ra8+ Ke7 11. Ra7+ Kd8 (Ke8 12. Ke6) 12. Kd6 Kc8 (Ke8 13. Ke6 Kf8 14. Rf7+ Kg8 15. Ke7 e2 16. Rf8+ Kg7 17. Rf7+ Kg6 18. Rf6+) 13. Kc6 Kb8 14. Rf7 e2 15. Rf8+ Ka7 16. Rf7+ Ka6 17. Rxf2 $1 (17. Rf8 $2 Ka5) e1=Q 18. Ra2+ Qa5 19. Rxa5+ 1/2-1/2
+
+[Event "4.hm Schakend Nederland#1480"]
+[Source "Schakend Nederland/1 1976 EG#03104."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Yaacobi, Benjamin"]
+[White "Yaacobi, B"]
+[Black " Aloni, H."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3R4/8/2P1Pk2/8/3p4/8/4p2K/4b3 w - - 0 1"]
+
+1. e7 $1 (1. Kg2 $2 Bg3 2. Rf8+ Ke7 3. Rf7+ Kxe6 4. Rf8 Ke7) (1. Kh3 $2 Bh4 $1 2. Rf8+ Ke7 3. c7 e1=Q 4. Re8+ Kd6 $1 5. c8=Q Qg3#) (1. c7 $2 Bg3+ 2. Kh3 Bxc7 3. e7 e1=Q 4. e8=Q Qg3#) (1. Rf8+ $2 Ke7 2. c7 Bg3+ 3. Kxg3 e1=Q+ 4. Kg2 Qd2+ 5. Kg1 (5. Kg3 Qc3+) Qc1+) Kxe7 2. c7 $1 Bg3+ 3. Kh3 $1 Bxc7 4. Rxd4 $1 e1=Q 5. Re4+ Qxe4 1/2-1/2

@@ -1,0 +1,1832 @@
+[Event "1/2.p All-Russian Ty"]
+[Source "EG#01158"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5B2/1pk4q/P7/8/8/N1p3P1/4P3/b5K1 w - - 0 1"]
+[PlyCount "19"]
+
+1. a7 c2 $1 2. Nxc2 Bd4+ $1 3. Nxd4 Qb1+ 4. Kh2 $1 (4. Kg2 $143 Qe4+ 5. Kf1 Qh1+ 6. Kf2 b6 7. Ke3 Kb7 8. Bd6 Kxa7 $19) (4. Kf2 $143 Qa1 5. e3 (5. Nb5+ $144 Kb6 6. Ba3 Qf6+ 7. Ke1 Qd8 $19) Qa2+ 6. Kf3 Kb6 $19) Qa2 5. Ba3 $1 (5. Nb5+ $143 Kb6 6. Ba3 Qxe2+ 7. Kg1 Qe8 8. Bd6 Kxb5 9. Bb8 Qe1+ 10. Kh2 Qa5 $19) Qg8 (Qxa3 $143 6. Nb5+ $18) 6. Bf8 $1 (6. Ne6+ $143 Kb6 7. Bc5+ Kc6 8. Kg2 b6 $19) Qh7+ (Qxf8 $143 7. Ne6+ $18) 7. Kg1 $1 (7. Kg2 $143 Qe4+ 8. Kh2 Qe8 $19) Qb1+ 8. Kh2 Qa2 9. Ba3 Qg8 (Qxa3 $143 10. Nb5+ $18) 10. Bf8 $1 $11 1/2-1/2
+
+[Event "3.hm All-Russian Ty (c)"]
+[Source "EG#14963. (c): Maksimovskikh=A Stella Polaris#4361 Stella Polaris=4 12/1971"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/P7/P7/k7/8/P7/2r4N/8 w - - 0 1"]
+[PlyCount "31"]
+
+1. Kb7 $1 (1. Kb8 $143 $2 Rxh2 2. a8=Q Rh8+ 3. Kb7 Rxa8 4. Kxa8 Kxa6 $11) Rb2+ (Rxh2 $144 2. a8=Q Rh7+ 3. Kc6 $18) 2. Kc7 Rc2+ 3. Kd7 Rd2+ 4. Ke7 Re2+ 5. Kf7 Rf2+ {(Rg8)} 6. Kg7 Rg2+ 7. Ng4 $1 Rxg4+ 8. Kf7 Rf4+ 9. Ke7 Re4+ 10. Kd7 Rd4+ 11. Kc7 Rc4+ 12. Kb7 Re4 $1 13. a8=Q (13. a8=R $2 Re7+ 14. Kc8 (14. Kc6 Re6+ 15. Kc5 Rxa6) Re8+ 15. Kb7 Rxa8 16. Kxa8 Kxa6) Re8 $1 14. a7 $1 (14. Qxe8 $143 $11 $2 {stalemate}) (14. Qa7 $143 $2 Re7+ 15. Kb8 Re8+ 16. Kb7 Re7+ $11) Rxa8 15. Kxa8 Kb6 16. Kb8 $18 1-0
+
+[Event "3.hm Bulletin Central Chess Club USSR#0"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/B5N1/5pN1/5K2/6p1/5k2/4p3/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. Nh4+ $1 Kg3 2. Nh5+ $1 Kxh4 3. Nf4 e1=N $1 (e1=Q $144 4. Ng2+ $18) 4. Bf2+ g3 5. Bd4 $1 (5. Bxe1 $143 $11 $2 {stalemate}) g2 (Nf3 $144 6. Bxf6+ Ng5 7. Bxg5#) 6. Bf2# 1-0
+
+[Event "2.hm 64#35"]
+[Source "EG#02174"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/3p4/1P1Pp1P1/7r/8/2B5/b1P5/4K3 w - - 0 1"]
+[PlyCount "11"]
+
+1. g7 $1 (1. b7 $143 Rb5 2. g7 e5 $19) e5 2. b7 Rh1+ 3. Kd2 $1 Rb1 4. Bb4 $1 Rxb4 5. c4 $1 Bxc4 6. Kc3 $18 1-0
+
+[Event "2.p Stella Polaris#4468"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6k1/8/2R3N1/7p/8/K2Bpp2/n7 w - - 0 1"]
+[PlyCount "17"]
+
+1. Rc7+ (1. Kxa1 $143 f1=Q+ $19) Kg6 2. Rc6+ Kh5 (Kf5 $144 3. Rf6+ $1 Kxf6 4. Ne4+ $11) 3. Rh6+ $1 Kg4 (Kxh6 $144 4. Ne4+ $11) 4. Rxh4+ $1 Kxh4 (Kg3 $144 5. Ne4+ Kxh4 6. Nxf2 $11) 5. Be1 $1 fxe1=N $1 (fxe1=Q $144 6. Nf3+ $11) 6. Ne6 Nec2 7. Nf4 $1 e1=N {eg:} (e1=Q $144 8. Ng2+ $11) 8. Nd5 Nd3 9. Ne3 1/2-1/2
+
+[Event "3.p Rubinstein MT Szachy#0320"]
+[Source "EG#02776"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[Composer2 "Perkonoja, Pauli Kalervo"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4NB2/3P4/8/1k1r2n1/5K2/5pp1/1bP1p3/7R w - - 0 1"]
+[PlyCount "43"]
+
+1. Nc7+ Kc6 2. Nxd5 g2 3. d8=Q Ne6+ 4. Kg3 Be5+ 5. Kf2 Bd4+ 6. Ne3 gxh1=N+ $1 (gxh1=Q $144 7. Qd6+ Kb5 8. Qb4+ Kc6 9. Qd6+ $11) 7. Kxf3 e1=N+ $1 8. Ke2 Nxd8 9. Nf5 Bf2 10. Be7 (10. Kf1 $143 Ne6 11. Bh6 Ng3+ 12. Kxf2 Nxf5 13. Kxe1 Nxh6 $19 {#40}) Ne6 11. Bh4 (11. Kf1 $143 Ng3+ 12. Kxf2 Nxf5 13. Kxe1 Nxe7 $19 {#41}) Nf4+ 12. Kf1 Bxh4 13. Nxh4 Nxc2 14. Ng6 Ng3+ 15. Kf2 Nfh5 16. Nf4 Ne4+ 17. Kf3 Nhf6 18. Nh5 Ng5+ 19. Kf4 Nfh7 20. Nf6 Ne6+ 21. Ke5 Nhf8 22. Nh7 $11 1/2-1/2
+
+[Event "5.p Tidskrift för Schack#1613"]
+[Source "Tidskrift foer Schack/6-7 EG#02037"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/K4p2/8/4P1N1/kB3P2/p6p/P3p3/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. e6 $1 (1. Be1 $143 h2 2. e6 h1=Q 3. exf7 (3. e7 $144 Qc6 $19) Qxe1 4. f8=Q Qa5+ 5. Kb7 e1=Q $19) fxe6 (Kxb4 $144 2. exf7 $11) (h2 $143 2. e7 $18) 2. Be1 h2 3. Kb6 $1 h1=Q 4. Nxe6 Qh6 (Qxe1 $143 5. Nc5+ Kb4 6. Nd3+ $18 Kc3 7. Nxe1 $18) 5. f5 Qf6 6. Kc6 Qh6 7. Kb6 $1 $11 (7. Bc3 $143 Qh1+ $19) 1/2-1/2
+
+[Event "1.p Molodoj Leninets (Kurgan)"]
+[Source "EG#02341"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1N2R1n1/4n2K/8/8/1pk5/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. Rc6+ $1 (1. Nc4 $143 Nxc4 2. Re1 Nf4+ 3. Kg4 Nd3 $19) Kd2 $1 (Nxc6 $144 2. Nc4 Nf4+ 3. Kg5 Ne6+ 4. Kf6 Nc5 5. Nxb2 $11) 2. Rd6+ Ke1 (Ke2 $144 3. Nd5 $1 $11) (Kc1 $144 3. Na4 b1=Q 4. Rd1+ $11) 3. Rd1+ $1 Kxd1 4. Na4 b1=N $1 5. Nb2+ Ke2 6. Nc4 $1 Nf4+ 7. Kg5 Ned3 8. Ne5 $1 (8. Nb2 $143 Nh3+ 9. Kg4 Nhf2+ $19) Ne6+ (Nh3+ $144 {<main>} 9. Kh4 Ndf2 (Ndf4 $144 {<main>} 10. Ng6 $11) 10. Ng4 $11) 9. Kf6 (9. Kf5 $143 Ndc5 10. Nd7 Nd4+ 11. Ke5 Nf3+ 12. Kd6 Nd3 $19) Ndc5 (Ndf4 $144 {<main>} 10. Ng6 $11) 10. Nd7 $11 1/2-1/2
+
+[Event "4.p Russian Federation Team champ"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/P7/kP3q2/Pp1p4/1P1P4/2N5/3NP3/2RRQ2B w - - 0 1"]
+[PlyCount "19"]
+
+1. b7 Qc6 $1 (Qh8+ $144 2. b8=N+ Qxb8+ 3. axb8=N#) 2. Bxd5 Qxd5 3. Qh1 (3. Nxd5 $143 $11 {stalemate}) Qxh1 4. Nf3 Qxf3 5. Ne4 Qxe4 6. d5 Qxd5 7. Rc6+ Qxc6 8. Rd6 Qxd6 9. b8=N+ Qxb8+ 10. axb8=N# 1-0
+
+[Event "2.p WCCT1 Ty (tt)"]
+[Source "EG#02821"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "1"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/B1k3NP/5K2/5N1p/4b2p/4n3 w - - 0 1"]
+[PlyCount "19"]
+
+1. Ne4+ $1 (1. Nxh2 $143 Ng2+ 2. Kg3 Bxh5 3. Bd2 Kd4 $11) Kb5 (Kd5 $144 2. Nxh2 Nd3+ (Ng2+ $144 3. Kg5 Kxe4 4. h6 $18) 3. Ke3 Bxh5 4. Nf6+ $18) 2. Nxh2 (2. Ng3 $143 Nxf3 3. h6 Bd3 $11) Ng2+ (Nd3+ $144 {<main>} 3. Kg5 Bxh5 (Kxa5 $144 4. h6 Ne5 5. Kf6 Nd7+ 6. Kg7 $18) 4. Bd2 $1 (4. Bd8 $143 Be8 $1 (Be2 $143 5. Nc3+ Kc4 6. Nxe2 $18) 5. Nd6+ Kc6 6. Nxe8 Kd7 $11) Be2 (Be8 $144 5. Nd6+ $18) (Bf7 $144 5. Nd6+ $18) 5. Nc3+ Kc4 6. Nxe2 $18) 3. Kg5 (3. Kg3 $143 Bxh5 4. Bd2 Kc4 $1 5. Kxh3 Kd3 $11) Bxh5 (Kxa5 $144 4. h6 $18) 4. Bd8 $1 (4. Bc3 $143 Bd1 $11) (4. Bd2 $143 Be2 5. Nc3+ Kc4 6. Nxe2 Kd3 $11) (4. Bc7 $143 Bf7 5. Nd6+ Kc6 $11) Be8 $1 (Bd1 $144 5. Nc3+ $18) (Be2 $144 5. Nc3+ $18) (Bf7 $144 5. Nd6+ $18) 5. Nd6+ Kc6 6. Nxe8 Kd7 7. Ba5 $1 (7. Bb6 $143 Kxe8 8. Bf2 Ke7 9. Kg4 Ke6 10. Kxh3 Nf4+ $11) Kxe8 8. Bd2 Ke7 9. Kg4 Ke6 10. Kxh3 $18 1-0
+
+[Event "5.p Sojoez Apollo (v)"]
+[Source "EG#03046"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2p3P1/6P1/k3r3/8/4P1Pr/4KR2 w - - 0 1"]
+[PlyCount "17"]
+
+1. g7 $1 Rxe2+ 2. Kd1 Rd2+ 3. Kc1 (3. Kxd2 $144 Rxg2+ 4. Kc3 Rxg5 $11) Rc2+ 4. Kb1 Rb2+ 5. Kxb2 Rxg2+ 6. Rf2 Rxg5 7. Rf4+ Kb5 8. Rf5+ Rxf5 9. g8=Q {#52} 1-0
+
+[Event "6.hm Shakhmaty v SSSR#10"]
+[Source "Shakhmaty v SSSR/4 EG#02979"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7P/7k/6R1/1P5P/7K/r4r2 w - - 0 1"]
+[PlyCount "19"]
+
+1. h7 Rh1+ 2. Kg2 Rag1+ 3. Kf2 $1 Rf1+ 4. Ke2 Re1+ 5. Kd2 Rd1+ 6. Kc2 Rc1+ 7. Kb2 Rb1+ 8. Ka3 Rxb3+ $1 9. Kxb3 Rxh3+ 10. Rg3 $1 $18 1-0
+
+[Event "3.hm Leninska Smena"]
+[Source "EG#03264"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/1r4pr/8/8/3NPN2/8/5P1p/5B1k w - - 0 1"]
+[PlyCount "21"]
+
+1. Nde2 Ra7+ 2. Kb8 Rb7+ 3. Kc8 Rc7+ 4. Kd8 Rd7+ 5. Ke8 Re7+ 6. Kf8 Rf7+ 7. Kxf7 g5+ 8. Kg6 (8. Kg8 $144 $18 {<or>}) gxf4 9. Kxh7 f3 10. Nd4 Kg1 11. Nxf3+ $18 1-0
+
+[Event "3.p Tidskrift för Schack#1902"]
+[Source "Tidskrift foer Schack/8 EG#03321"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/8/8/5p2/8/5b2/B6n/6Kn w - - 0 1"]
+[PlyCount "19"]
+
+1. Be6+ $1 Kc7 $1 2. Bxf5 Ng3 3. Bh3 $1 Ng4 4. Bg2 $1 Ne2+ (Bd1 $144 {<main>} 5. Bf3 $1 Ne2+ $1 (Bxf3 $144 $11 {stalemate}) 6. Kf1 Nh2+ 7. Ke1 Nxf3+ 8. Kxd1 $11) 5. Kh1 $1 Nf2+ 6. Kh2 Bh5 $1 7. Bf3 $1 Ng4+ $1 (Bxf3 $144 $11 {stalemate}) 8. Kh3 $1 Ng1+ 9. Kh4 Nxf3+ 10. Kxh5 $11 1/2-1/2
+
+[Event "2.hm Birnov MT (c)"]
+[Source "EG#03336 (c): EG=52 EG/7 1978"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/P1K4N/p4R2/r1P4P/n6p/4k3/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. a7 h2 (Rxc4+ $144 2. Kb6 Rc8 3. Re5+ Kf2 4. Kb7 Rh8 5. a8=Q Rxa8 6. Kxa8 a4 7. h5 $18) 2. Rf2+ Kxf2 3. Ng4+ Kg3 4. Nxh2 Rxc4+ 5. Kd7 (5. Kb7 $143 Kxh2 6. a8=Q Rxh4 $11) Rc7+ (Rxh4 $144 6. Nf1+ Kf2 7. a8=Q Kxf1 8. Qf3+ $18) (Rd4+ $144 6. Ke7 Re4+ 7. Kf7 Rf4+ 8. Kg8 Rxh4 9. a8=Q Kxh2 $18 {#34}) 6. Kxc7 Nb5+ 7. Kd7 Nxa7 8. h5 $18 1-0
+
+[Event "3.hm Korolkov JT Shakhmaty (Riga)"]
+[Source "Shakhmaty (Riga)/6 1978 EG#03578"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[Composer2 "Perkonoja, Pauli Kalervo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K1k3/4pR2/7P/2p1n1N1/2P5/3bp3/1P6/8 w - - 0 1"]
+[PlyCount "37"]
+
+1. Rf4 e2 2. h7 Bxh7 3. Nxh7 Nf7 4. Nf6+ Kf8 5. Nd7+ Ke8 6. Rxf7 e6 (Kxf7 $144 7. Ne5+ Ke6 8. Nd3 $18) 7. Rf8+ Ke7 8. Ne5 (8. Rf7+ $144 Ke8 9. Rf8+ Ke7 10. Ne5 {loss of time. See main line 8.Ce5.}) e1=Q 9. Ng6+ Kd6 10. Rd8+ Kc6 11. Ne7+ Kb6 12. Rd6+ Ka5 13. Nc6+ Kb6 14. Nd4+ Ka5 15. b4+ cxb4 (Ka4 $144 16. Ra6+ Kxb4 17. Nc2+ $18) (Qxb4 $144 16. Nc6+ $18) 16. Nb3+ Ka4 17. Nc5+ Ka3 18. Ra6+ Kb2 19. Nd3+ $18 1-0
+
+[Event "2.hm Thèmes 64#3482"]
+[Source "Themes 64/4-6 1979 EG#08183"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/Pk1p1P2/1Pp3qP/1p1P4/1P4p1/1p6/7p/8 w - - 0 1"]
+[PlyCount "23"]
+
+1. a8=Q+ $1 (1. f8=Q $143 Qg5+ $11) (1. dxc6+ $143 Qxc6 $19) Kxa8 2. Kc7 Qd6+ $1 3. Kxd6 Kb7 4. f8=Q h1=Q 5. Qa8+ $1 Kxa8 6. Kc7 Qh2+ 7. d6 Qxd6+ $1 8. Kxd6 Kb7 9. h7 b2 10. h8=Q b1=Q 11. Qa8+ $1 Kxa8 12. Kc7 $18 1-0
+
+[Event "2.hm Thèmes 64#3482 (v)"]
+[Source "Themes 64/4-6 1979"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k5/3p4/1PpK4/pp1P1P1P/1p6/7p/8/8 w - - 0 1"]
+[PlyCount "23"]
+
+1. f6 h2 2. f7 h1=Q 3. f8=Q+ Kb7 4. Qa8+ $1 Kxa8 5. Kc7 Qh2+ 6. d6 Qxd6+ 7. Kxd6 Kb7 8. h6 b3 9. h7 b2 10. h8=Q b1=Q 11. Qa8+ Kxa8 12. Kc7 $18 1-0
+
+[Event "1.hm Bron JT"]
+[Source "EG#04433"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7b/8/3R4/3P4/5rk1/8/4K2n/8 w - - 0 1"]
+[PlyCount "9"]
+
+1. Rh6 Re4+ 2. Kd3 Rd4+ 3. Kc3 Be5 4. Rxh2 Rxd5+ (Re4+ $144 5. Kd3 $11) (Ra4+ $144 5. Kb3 $11) (Rd1+ $144 5. Kc2 $11) (Rf4+ $144 5. Kc2 $11) 5. Kc4 $11 1/2-1/2
+
+[Event ".hm Chervoni Girnik"]
+[Source "EG#06311"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Dolgov, Vasily Nikitich"]
+[Composer2 "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/8/R4P1k/8/1r6/8/8/6rb w - - 0 1"]
+[PlyCount "15"]
+
+1. f7+ Kg5 2. Ra5+ (2. f8=Q $143 Rh4+ 3. Kg7 Kh5+ 4. Kh7 Kg5+ $11) Kg6 3. f8=Q Rh4+ 4. Kg8 Bd5+ 5. Rxd5 Rh8+ 6. Kxh8 Rh1+ 7. Rh5 Rxh5+ 8. Kg8 $18 1-0
+
+[Event "2.p Molodoj Leninets (Kurgan)"]
+[Source "EG#05114 EG#06894"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/k7/8/8/2p5/6r1/8/K3Q1br w - - 0 1"]
+[PlyCount "23"]
+
+1. Qa5+ $1 (1. Qxg3 $143 Bd4+ 2. Ka2 Ra1#) (1. Ka2 $143 Rh2+ 2. Kb1 Rb3+ 3. Kc1 Be3+ 4. Kd1 Rb1#) (1. Qe7+ $143 Ka6 2. Qd6+ Bb6+ 3. Kb2 Rh2+ 4. Kb1 Rg1+ 5. Qd1 Rxd1#) Kb7 2. Qd5+ Kb6 $1 3. Qxh1 Bd4+ 4. Ka2 (4. Kb1 $143 Rg1+ $19) Rg1 5. Qh6+ Kb5 (Ka5 $143 6. Qd2+ Kb5 7. Qxd4 $18) (Kc5 $144 6. Qf8+ Kb5 7. Qb8+ $11) 6. Qh5+ Kb4 7. Qd1 $1 (7. Qh1 $143 Ra1+ $19) Rg2+ 8. Kb1 Rg1 9. Ka2 Kc5 10. Qh5+ Kb4 11. Qd1 $1 Rg2+ 12. Kb1 $11 1/2-1/2
+
+[Event "1.p Buletin Problemistic (tw) (pl)"]
+[Source "Buletin Problemistic/7-12 1983 EG#07230a = Kalandadze=V b5e5 1965"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/b7/8/3k2Kb/8/7P/8/3r1R2 w - - 0 1"]
+[PlyCount "19"]
+
+1. Rf5+ (1. Rf8 $143 Be2 $1 $19) Ke6 $1 2. Ra5 (2. Rf6+ $143 Ke7 3. Ra6 Rd5+ 4. Kh4 Bf2#) Bb6 3. Rb5 (3. Ra6 $143 Rd5+ 4. Kh6 Rb5 $19) Rd5+ $1 4. Rxd5 Be2 $1 5. Rf5 Be3+ 6. Rf4 $1 Bd2 (Ke5 $144 {<main>} 7. Kh4 $1 Kxf4 $11 {stalemate} (Bxf4 $144 {stalemate})) 7. Kh4 Be1+ (Bxf4 $144 $11 {stalemate}) 8. Kg5 Bd2 9. Kh4 Be1+ 10. Kg5 $11 1/2-1/2
+
+[Event "1.p Buletin Problemistic#210b (tw)"]
+[Source "Buletin Problemistic/7-12 1983 EG#07230b"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/b7/8/3k2Kb/7P/8/8/3r1R2 w - - 0 1"]
+[PlyCount "14"]
+
+1. Rf5+ $1 Ke6 $1 2. Ra5 Bb6 3. Rb5 Rd5+ $1 4. Rxd5 Be2 $1 5. Rf5 $1 Be3+ 6. Kg6 $1 (6. Rf4 $143 $2 Ke5 $1 $19) Bd3 7. Kh5 $1 Bxf5 $11 {stalemate} (Kxf5 $144 {stalemate} {<main>}) (Be2+ $144 {<main>} 8. Kg6 Bd3 9. Kh5 Be2+ 10. Kg6 $11) 1/2-1/2
+
+[Event "1/2.sp.p Bulletin Central Chess Club US"]
+[Source "Bulletin Central Chess Club USSR/12 1983 EG#06748"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/p4p1B/8/2p5/2P5/P7/pP1K1P1P/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. Kc1 $1 f5 $1 2. Bxf5 a1=Q+ 3. Bb1 Kb7 $1 4. h4 $1 (4. f4 $143 $2 Kb6 5. f5 Ka5 6. f6 Ka4 7. Kc2 (7. f7 Kb3 8. f8=Q Qxb2+) a6 8. f7 a5 9. f8=Q Qxb2+ 10. Kxb2 $11 {stalemate}) Kb6 5. h5 Ka5 6. h6 Ka4 7. h7 a5 $1 8. h8=B $1 (8. h8=Q $143 $2 Qxb2+ 9. Qxb2 $11 {stalemate} (9. Kxb2 $144 $11 {stalemate})) Qxb2+ (Kb3 $144 9. Be5 a4 (Kxc4 $144 10. b3+ $18) 10. f4 $18) 9. Bxb2 $18 1-0
+
+[Event "2.hm Ribak Primorja"]
+[Source "EG#05306"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/8/P1r2B2/8/k3N3/8/8/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. a7 Rc8+ (Ra6 $144 2. Nc5+ $18) 2. Kd7 (2. Bd8 $143 Ra8 3. Nc5+ Kb5 $11) Ra8 (Rg8 $144 3. Bd8 Rg7+ 4. Be7 Rg8 5. Kc7 Kb5 6. Kb7 $18) 3. Bd4 Ka5 (Kb5 $144 4. Kc7 $1 $18) 4. Kc7 (4. Kc6 $143 Ka6 5. Bb6 Rc8+ 6. Kd7 Kxb6 $11) Ka6 5. Bb6 (5. Kc6 $143 Rc8+ 6. Kd7 Ra8 7. Kc7 Rxa7+ $11) Rxa7+ (Rg8 $144 6. Nc5+ Kb5 7. Nd7 Ra8 (Ka6 $144 8. Nb8+ $18) 8. Kb7 $18) 6. Kc6 Rh7 7. Nc5# 1-0
+
+[Event "4.hm Platov MT Shakhmaty v SSSR"]
+[Source "EG#05218"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2q1k3/5N2/3P4/P1P3P1/1PK5/1B6 w - - 0 1"]
+[PlyCount "15"]
+
+1. d5+ Qxd5 2. Ba2 Qxa2 3. Nd4+ Kd5 4. Nb3 Kc4 5. Nc1 Qa1 6. g4 Kd5 7. g5 Ke6 8. c4 $18 1-0
+
+[Event "6.hm Gruzija JT Shakhmatna Skladba"]
+[Source "EG#05065"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7B/1N1b2R1/6pk/8/6p1/8/2p3K1/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. Nd6 Kg5 2. Ne4+ Kh6 (Kf5 $144 3. Ng3+ $18) 3. Rxd7 c1=Q 4. Bg7+ Kh5 5. Ng3+ Kg5 6. Rd5+ Kh4 7. Rh5+ gxh5 8. Bf6+ Qg5 9. Nf5# 1-0
+
+[Event "1.p Chervoni Girnik"]
+[Source "EG#05590"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p2Nkpr/4b2p/6P1/8/7p/7K/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. g6+ $1 Kxe7 2. gxh7 Kf8 3. h8=Q+ Bg8 4. Kxh3 b5 5. Kg4 b4 6. Kf5 Kf7 7. Ke4 b3 8. Kd3 Kf8 {eg:} 9. Kc3 $18 1-0
+
+[Event "2/4.p Nadareishvili JT Molodost Gruzzi "]
+[Source "EG#05378"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/2P5/1b6/p7/7B/8/2K1k3 w - - 0 1"]
+[PlyCount "17"]
+
+1. c7 $1 Ba6 2. Kb2 Kf2 3. Ka3 Kg3 4. Be6 $1 (4. Bf1 $143 Bc8 5. Kxa4 g5 $11) (4. Bd7 $143 Kf4 5. Kxa4 Ke5 6. Ka5 Kd6 $11) Kf4 5. Kxa4 Ke5 6. Ka5 Kd6 (Kxe6 $144 7. Kxa6 $18) 7. Kb6 $1 Kxe6 8. Kxa6 Kd7 9. Kb7 1-0
+
+[Event "3.p Russian Federation Team champ"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2ppp1p1/1p6/pP1PP3/K1P2k2/1P6/1P6/8 w - - 0 1"]
+[PlyCount "10"]
+
+1. d6 $1 exd6 2. exd6 cxd6 3. b4 $1 axb4 4. b3 $1 g5 5. c5 dxc5 $11 {stalemate} 1/2-1/2
+
+[Event "sp.hm Fizkultura i Sport Shakhmaty v SS"]
+[Source "Shakhmaty v SSSR/1 1984 EG#05543"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2R5/1p1p1pB1/6p1/3k4/BK2pPP1/np6/2b1np2/8 w - - 0 1"]
+[PlyCount "37"]
+
+1. Rc5+ Ke6 (Kd6 $144 2. Bf8+ Ke6 3. Re5+ Kf6 4. g5#) 2. f5+ $1 gxf5 3. gxf5+ Ke7 4. Re5+ Kd8 5. Bf6+ $1 (5. Rc5 $143 f6 $1 $19) Kc8 6. Rc5+ Kb8 7. Be5+ Ka7 8. Ra5+ Kb6 9. Bf6 $1 Kc7 10. Rc5+ Kb8 11. Be5+ Ka7 12. Ra5+ Kb6 13. Bf6 Kc7 14. Rc5+ Kd6 15. Bg7 $1 Ke7 16. Re5+ Kd8 17. Bf6+ Kc7 18. Rc5+ Kd6 19. Bg7 $1 $11 1/2-1/2
+
+[Event "1.hm Sarychev JT"]
+[Source "EG#06044"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2b2B2/1k6/2p5/1N6/2N1K1n1/8/8/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. Nbd6+ Kb8 2. Nxc8 Nf6+ 3. Kf5 Nd7 4. Bb4 c5 (Kxc8 $144 5. Ke6 Nb8 6. Nd6+ Kc7 (Kd8 $144 7. Ba5#) 7. Ba5#) 5. Ba5 Kxc8 6. Ke6 Nb8 7. Nd6# 1-0
+
+[Event "1.p Mongolian Thematic Ty"]
+[Source "EG#06797"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K2k/2b3pp/3N2R1/7p/p2Pp3/8/1p6/4B3 w - - 0 1"]
+[PlyCount "27"]
+
+1. Nf7+ Kg8 2. Nh6+ $1 Kh8 3. Rb6 $1 Bxb6 (a3 $144 4. Kf8 gxh6 5. Bh4 $18) 4. Kf8 gxh6 5. Bc3 b1=N $1 6. Ba1 $1 (6. Bb2 $143 a3 7. Ba1 Ba5 8. d5+ Bc3 9. Bxc3+ Nxc3 10. d6 Na4 11. d7 Nc5 12. d8=N Nd7+ 13. Ke7 $19) Ba5 7. d5+ Bc3 $1 (Nc3 $144 8. d6 e3 9. d7 e2 10. d8=Q e1=Q 11. Qf6#) 8. Bxc3+ Nxc3 9. d6 Nb5 10. d7 Nd4 $1 11. d8=N $1 Ne6+ 12. Nxe6 h4 13. Nd8 h5 14. Nf7# 1-0
+
+[Event "1.p Trans Ural champ Sovyetskaya Zaural"]
+[Source "EG#06018"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5B1K/2r5/5Pp1/4P1Pb/2p5/6kn/3R4/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. e6 Rc8 $1 (Nxg5 $144 2. Bd6+ Kf3 3. Bxc7 Nxe6 4. Rd6 $1 Ng5 5. Rc6 $18) 2. Rd8 $1 (2. e7 $143 Nxg5 3. Rd4 (3. Rd8 $143 Nf7+ 4. Kg7 Rxd8 5. Kxf7 g5+ $19) Nf7+ 4. Kg7 g5 5. Rxc4 Nd6 6. Rxc8 Nxc8 7. f7 Bxf7 8. Kxf7 Nxe7 $11) Rxd8 3. e7 Nxg5 (Rc8 $144 4. f7 Nxg5 5. e8=Q Nxf7+ 6. Qxf7 $18) 4. exd8=N $1 c3 (Bf3 $144 5. Bh6 $1 Bd5 6. Bxg5 c3 7. f7 Bxf7 8. Nxf7 Kf3 9. Nd6 Ke2 10. Nb5 c2 11. Nd4+ Kd1 12. Nb3 $18) 5. Bh6 $1 Kg4 6. Bxg5 Kxg5 7. f7 c2 8. f8=Q c1=Q 9. Qh6+ $1 (9. Ne6+ $143 Kg4 $11) Kxh6 10. Nf7# 1-0
+
+[Event "2.hm Thèmes 64#4255"]
+[Source "Themes 64/1-3 EG#06221"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuriy"]
+[Composer2 "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6q1/3R4/8/8/B2n3p/R3K2k w Q - 0 1"]
+[PlyCount "7"]
+
+1. Rg5 $1 (1. Rxd2 $143 Qg1+ 2. Ke2 Qxa1 $11) (1. O-O-O+ $143 Nf1 $1 2. Rxf1+ Kg2 3. Rdd1 Qg5+ 4. Kc2 Qc5+ 5. Kb2 Qe5+ $11) (1. Kf2+ $143 Qg1+ $19) Qxg5 (Qe4+ $144 2. Kxd2+ Qe1+ 3. Rxe1#) (Nf3+ $144 2. Kf2+ $18) 2. Bd5+ $1 Ne4 (Qg2 $144 {<main>} 3. O-O-O+ $1 Nf1 4. Rxf1#) (Kg1 $144 3. Ke2+ Nb1 4. Rxb1+ Qc1 5. Rxc1#) (Qxd5 $144 3. Kf2+ Nf1 4. Rxf1#) 3. Bxe4+ Qg2 4. O-O-O# 1-0
+
+[Event "2.p Tidskrift för Schack#2383"]
+[Source "Tidskrift foer Schack/6-7 EG#06232"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3N3k/8/2P2P2/6K1/8/3ppR2/b7/7r w - - 0 1"]
+[PlyCount "21"]
+
+1. Rh3+ $1 Rxh3 2. c7 Rh5+ $1 3. Kxh5 d2 4. Nf7+ $1 Bxf7+ 5. Kh6 $1 d1=Q 6. c8=Q+ Bg8 7. Qb7 $1 Bf7 8. Qa8+ $1 (8. Qxf7 $143 Qh1+ $11) Bg8 9. Qg2 $1 Qd7 10. Qg7+ $1 Qxg7+ 11. fxg7# 1-0
+
+[Event "2/3.p Trans Ural champ Sovyetskaya Zaur"]
+[Source "EG#06020"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p4Np/7k/2B4P/2P5/5P1K/1bp5/8 w - - 0 1"]
+[PlyCount "23"]
+
+1. Nf5+ Kg5 2. Ng3 c1=Q 3. Be7+ Kh6 4. Bf8+ Kg5 5. Be7+ Bf6 6. Bb4 Bc3 7. Be7+ Kh6 8. Bf8+ Bg7 9. Bc5 Bd4 10. Bf8+ Kg5 11. Be7+ Bf6 12. Bb4 $11 1/2-1/2
+
+[Event "5.p Schakend Nederland#1971"]
+[Source "Schakend Nederland/8-9 EG#06492"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[Composer2 "Shupletsov, Vladimir Vitalyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/kP1K4/2p2B2/8/8/q1NN4/8/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. Nb5+ $1 (1. Kc7 $143 Qa5+ 2. Kc8 Qf5+ 3. Kc7 Qa5+ $11) cxb5 2. Kc7 Qa5+ 3. Kc8 Qb6 4. Bd4 $1 Qxd4 5. b8=Q+ Ka6 6. Nb4+ $1 Qxb4 (Ka5 $144 7. Nc6+ $18) 7. Qb7+ Ka5 8. Qa7# 1-0
+
+[Event "sp.p Shakhmaty v SSSR#15"]
+[Source "Shakhmaty v SSSR/4 EG#05844"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/p3P3/1pP5/pn6/1k6/3B4/P5bQ/7q w - - 0 1"]
+[PlyCount "21"]
+
+1. a3+ $1 (1. Qxh1 $143 Bxh1 2. e8=Q Nc7+ $11) (1. Bxb5 $143 Bxc6+ $11) Ka4 $1 (Kxa3 $144 2. Qxh1 Bxh1 3. Bxb5 $18) (Kc5 $144 2. Qe5+ $18) 2. Bxb5+ Kxb5 3. a4+ $1 Ka6 $1 (Kc5 $144 4. Qe5+ Kc4 5. Qb5+ $18) 4. Qxh1 Bxh1 5. e8=B $1 (5. e8=Q $143 Bxc6+ $1 6. Qxc6 $11 {stalemate}) b5 $1 6. Kb8 $1 Bxc6 $1 7. Bxc6 bxa4 8. Kc7 a3 9. Ba4 $1 a2 10. Kc6 a1=Q 11. Bb5# 1-0
+
+[Event "1.hm Ceskoslovensky Sach#041"]
+[Source "Ceskoslovensky Sach/2 EG#07169"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1n6/7b/P7/8/K7/6p1/1k6/5B2 w - - 0 1"]
+[PlyCount "19"]
+
+1. a7 $1 Bc2+ 2. Kb5 Bd3+ 3. Bxd3 g2 4. axb8=Q g1=Q 5. Ka4+ $1 (5. Kc4+ $143 $2 Kc1 6. Qb1+ Kd2 7. Qxg1 $11 {stalemate}) (5. Bf5 $143 $2 Qd4 6. Qh2+ Ka3 $11) Ka1 (Kc3 $144 6. Qb3+ Kd2 7. Qc2+ Ke3 8. Qc5+ $18) 6. Qe5+ (6. Qa8 $143 $2 Qg2 $1 $11) Ka2 7. Qd5+ (7. Kb4 $143 $2 Qb6+ $1 (Qd4+ $143 $2 8. Bc4+ $1 $18 (8. Qxd4 $2)) 8. Bb5 Qf2 $1 9. Bc4+ Kb1 $1 10. Bd3+ Kc1 $1 $11) (7. Bc4+ $144 Kb1 8. Bd3+ Ka2 $18 {loss of time}) (7. Qe2+ $144 Ka1 8. Qe5+ Ka2 $18 {loss of time}) (7. Qe6+ $144 Ka1 8. Qe5+ Ka2 $18 {loss of time}) Ka1 8. Qa5 $1 (8. Qe5+ $144 Ka2 9. Qd5+ Ka1 $18 {loss of time}) Qd1+ 9. Kb4+ Kb2 10. Qa3# 1-0
+
+[Event "1.hm Schach#10925"]
+[Source "Schach/2 1986 EG#07603"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1N3p2/5p2/5pN1/5P1P/P7/pPK5/4k3 w - - 0 1"]
+[PlyCount "17"]
+
+1. Nf3+ $1 (1. Nc5 $143 a1=Q 2. Nd3+ Kf1 $1 3. Nc1 fxg5 4. fxg5 (4. h5 $143 g4 5. h6 g3 6. h7 g2 7. h8=Q g1=Q $19) f4 5. h5 f3 6. g6 fxg6 7. hxg6 f2 8. g7 Ke1 9. g8=Q f1=Q $11) Kf2 (Ke2 $144 2. Nd4+ Ke1 3. Nb3 $18) (Kf1 $144 2. Nd2+ $18) 2. Ne1 $1 (2. Nc5 $143 a1=Q 3. Ne1 Ke3 4. Ned3 Qh1 5. b4 $11) Kxe1 (a1=Q $144 3. Nd3+ Kg3 4. Nc1 $18) 3. Nc5 a1=Q 4. Nd3+ Ke2 $1 5. Nc1+ Kf3 6. h5 Kg4 $1 7. h6 Kh5 8. h7 Kg6 9. h8=R $1 (9. h8=Q $143 Qxc1+ 10. Kxc1 $11 {stalemate}) 1-0
+
+[Event "1/2.p 64 Shakhmatnoye Obozrenye#52 (v)"]
+[Source "EG#06630 (v): 64 Shakhmatnoye Obozrenye=1(768) 1/1987"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r7/2P1N3/8/p7/pk1p4/Rp1p4/3K4/N7 w - - 0 1"]
+[PlyCount "19"]
+
+1. Ra2 $1 (1. Nc6+ $143 Kxa3 2. Nb8 b2 $19) (1. Nc2+ $143 dxc2 2. Ra1 b2 3. Nc6+ Kb5 4. Nxd4+ Kb6 5. Nxc2 bxa1=Q $19) (1. Nxb3 $143 axb3 2. Rxa5 Kxa5 $11) (1. Rxb3+ $143 axb3 2. Nc6+ Kb5 3. Nb8 b2 $11) bxa2 (a3 $144 2. Nc6+ Ka4 3. Nb8 b2 4. c8=Q b1=Q 5. Qc6+ $18) 2. Nc6+ Ka3 $1 3. Nb8 Rxb8 4. cxb8=B $1 (4. cxb8=Q $143 $11 {stalemate}) Kb2 (Kb4 $144 5. Kxd3 Ka3 6. Be5 Kb2 7. Bxd4+ $18) 5. Bf4 $1 a3 (Kb1 $144 6. Kxd3 $1 a3 7. Be5 $18) 6. Kxd3 $1 (6. Kd1 $143 a4 $1 7. Kd2 Kb1 8. Kxd3 Kxa1 $11) a4 $1 7. Kd2 $1 (7. Be5 $143 Kxa1 8. Kc2 $11 {stalemate}) Kb1 $1 8. Kd1 $1 (8. Bd6 $143 d3 9. Be5 $11 {stalemate}) (8. Kd3 $143 Kxa1 9. Kc2 d3+ $11) Kxa1 (Kb2 9. Bd6 Kb1 10. Bc5 d3 11. Bd4) 9. Kc1 d3 10. Be5# 1-0
+
+[Event "2.hm Schach#10949"]
+[Source "Schach/3 1986 EG#07604"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/5p2/5P2/8/5p2/5bNB/7k/8 w - - 0 1"]
+[PlyCount "12"]
+
+1. Ne4 $1 Bxe4 (Kxh3 $144 2. Ng5+ Kg3 3. Nxf3 Kxf3 4. Kg7 Kg4 5. Kxf7 f3 6. Ke7 f2 7. f7 $11) 2. Be6 $1 f3 3. Bxf7 (3. Bc4 $143 Bg6 $1 $19) Bd3 $1 4. Bg8 $1 f2 5. f7 f1=Q (f1=R 6. Kg7) 6. f8=Q $1 Qxf8 $11 {stalemate} 1/2-1/2
+
+[Event "2.p RSFSR Ty"]
+[Source "EG#06172"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3N4/8/B4b2/6k1/2K5/3p4/7p/5N2 w - - 0 1"]
+[PlyCount "17"]
+
+1. Ne6+ Kf5 2. Nd4+ Bxd4 (Ke4 $144 3. Bb7+ $18) 3. Kxd4 h1=N 4. Ke3 Kg4 5. Bc8+ Kh4 6. Kf3 d2 7. Nxd2 Ng3 8. Kf2 Nh5 9. Nf3# 1-0
+
+[Event "3.hm Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/4 EG#06472"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[Composer2 "Shupletsov, Vladimir Vitalyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4nRN1/2P3pp/3P2k1/8/8/8/5K1p/2r5 w - - 0 1"]
+[PlyCount "23"]
+
+1. d7 (1. c8=Q $143 Rxc8 2. d7 Rd8 $11) Rf1+ (Nf6 $144 2. Rxf6+ gxf6 3. d8=Q Rf1+ 4. Kxf1 h1=Q+ 5. Ke2 $18) 2. Kg3 $1 Rxf8 3. c8=Q h1=Q 4. Qc2+ Kf7 5. Qc4+ (5. Qb3+ $144 Kg6 6. Qc2+ Kf7 $18 {loss of time}) Kg6 6. Qg4+ Kf7 7. d8=N+ Kxg8 8. Qe6+ Kh8 9. Nf7+ Kg8 (Rxf7 $144 10. Qxe8+ Rf8 11. Qxf8#) 10. Nh6+ Kh8 11. Qg8+ Rxg8 12. Nf7# 1-0
+
+[Event "3.p Russian Federation Team champ (tt)"]
+[Source "EG#14969"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/kP4PB/6R1/3P3p/5K1p/1b6/r7 w - - 0 1"]
+[PlyCount "15"]
+
+1. bxa7 Kxa7 (Kb6 $144 2. Rg1 $1 Ra3+ 3. Be3 Bxd4 4. a8=Q Rxa8 5. Bxd4+ $18) 2. g7 (2. Ra5+ $143 Rxa5 3. g7 Ra3+ 4. Be3 h2 5. g8=Q h1=Q+ 6. Ke2 Qe4 $19) h2 (Rf1+ $144 3. Ke2 $18) 3. Ra5+ $1 Rxa5 4. Kg2 h1=Q+ $1 5. Kxh1 Ra1+ 6. Kh2 $1 Rg1 $1 7. Kxg1 Bxd4+ 8. Be3 $18 1-0
+
+[Event "2.hm Shakhmaty v SSSR#41"]
+[Source "Shakhmaty v SSSR/12 EG#07402"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k4B2/8/7K/8/3b4/P5R1/1r1p4/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. Rd3 Be3+ 2. Kg6 (2. Kh5 $143 Rb1 3. Bc5 Rb5 $19) (2. Kh7 $143 Rb1 3. Bc5 Bg5 4. Kg6 (4. Be7 $144 Bf4 5. Bd6 Rb7+ 6. Kg8 Rd7 $19) d1=Q 5. Rxd1 Rxd1 6. Kxg5 Rd5+) Rb3 3. Rd7 Rb1 (Rb6+ $144 4. Kf5 $1 Rb1 5. Bc5 Bh6 6. Kg6 Bf4 7. Kf5 $11) 4. Bc5 Bf4 5. Kf5 Rf1 6. Kg4 Bh6 7. Kh5 Rh1+ 8. Kg6 Bf4 9. Kf5 Rf1 10. Kg4 $11 1/2-1/2
+
+[Event "sp.p 64 Shakhmatnoye Obozrenye#44 (m)"]
+[Source "EG#07330 (m): Maksimovskikh=A Shupletsov=V 64 Shakhmatnoye Obozrenye=3(770) 2/ 1987"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p3Br2/1kbPN2K/1n1B4/n7/8/2N5/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. d7 Bxd7 2. Bd8+ Nc7 $1 3. Bxc7+ Ka6 4. Nd8 $1 Rf6+ 5. Kg7 Rb6 $1 6. Bc4+ Ka5 (Rb5 $144 {<main>} 7. Nb4#) (Bb5 $144 {<main>} 7. Nb4+ Ka5 8. Ndc6+ $1 Bxc6 9. Nxc6#) 7. Nb7# 1-0
+
+[Event "sp.p Kazantsev JT 64 Shakhmatnoye Obozr"]
+[Source "EG#08072"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4b3/2P5/p1k2K1n/1rP5/1p6/R7/5R2 w - - 0 1"]
+[PlyCount "19"]
+
+1. c7 Ng7+ $1 2. Ke4 $1 Rxc4+ 3. Kd3 $1 Kb4 4. Ra4+ $1 Kxa4 5. Kxc4 Ne8 6. Ra1+ Ba3 7. c8=N Nd6+ 8. Nxd6 b2 9. Nc8 $1 bxa1=Q 10. Nb6# 1-0
+
+[Event ".hm Birnov MT Molodoj Leninets"]
+[Source "EG#07569"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/1P2k2p/1B6/1P2r3/5R1K/1r6/8 w - - 0 1"]
+[PlyCount "21"]
+
+1. b7 Rh4+ 2. Kg3 Rg4+ 3. Kxg4 Rxb4+ 4. Bc4+ $1 Rxc4+ 5. Rf4 h5+ 6. Kg3 Rc3+ 7. Rf3 h4+ 8. Kg2 Rc2+ 9. Rf2 h3+ 10. Kg3 Rc3+ 11. Rf3 $18 1-0
+
+[Event "3.sp.p October Revolution JT Leninskoye"]
+[Source "EG#07516"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3R4/6p1/4K3/6pP/7k/pp1p4/6P1/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. h6 $1 (1. Rd4+ $143 $2 Kxh5 2. Rxd3 b2 3. Kf5 b1=Q $19) gxh6 2. Rd4+ Kh5 (g4 $144 {<main>} 3. Kf5 h5 (Kg3 $144 4. Rxd3+ Kxg2 5. Rxb3 $18) 4. Rxd3 b2 5. Kf4 b1=Q 6. Rh3+ gxh3 7. g3#) 3. Kf5 b2 4. g3 b1=Q 5. Rh4+ gxh4 6. g4# 1-0
+
+[Event "5.p October Revolution JT Bulletin Cent"]
+[Source "EG#07107"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/r6P/2R5/5r2/p7/1k6/8/2B1N3 w - - 0 1"]
+[PlyCount "15"]
+
+1. Rc3+ $1 Kb4 2. Nc2+ Ka5 (Kxc3 $144 3. h8=Q+ Kxc2 4. Qb2+ Kd3 5. Qb1+ $18) 3. h8=Q $1 Rd5+ 4. Kc8 Ra8+ 5. Kb7 $1 Rxh8 6. Rc5+ $1 Rxc5 7. Bd2+ Kb5 (Rc3 $144 8. Bxc3+ Kb5 9. Bxh8 $18) 8. Na3# 1-0
+
+[Event "1.sp.hm Shakhmaty v SSSR#25"]
+[Source "Shakhmaty v SSSR/7 EG#08314"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k5/n1P5/nb1KP3/4N3/Bp1N4/8/8/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. Bd7+ Kb7 2. e7 Bc5+ (Bxc7+ $144 3. Kd5 Bxe5 4. Ne6 $18) (Nxc7 $144 3. Ne6 Ne8+ 4. Bxe8 Nc8+ 5. Kd7 $18) 3. Kd5 Bxe7 4. c8=Q+ Nxc8 5. Bc6+ Kc7 (Ka7 $144 6. Nb5+ Kb6 (Kb8 $144 7. Nd7#) 7. Nc4#) (Kb8 $144 6. Nd7+ Ka7 (Kc7 $144 7. Ne6#) 7. Nb5#) 6. Nb5+ Kb8 (Kd8 $144 7. Nf7#) 7. Nd7# 1-0
+
+[Event "1.sp.p Bron MT (v)"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "kr1b4/6P1/8/1b6/8/1P6/4R2K/8 w - - 0 1"]
+[PlyCount "21"]
+
+1. Ra2+ $1 (1. g8=Q $143 Bc7+ 2. Qg3 Bxg3+ 3. Kxg3 Bxe2 $19) Kb7 2. g8=Q Bc7+ 3. Qg3 $1 Rh8+ 4. Kg2 Bc6+ 5. Qf3 $1 (5. Kf2 $143 Rf8+ $19) Rg8+ 6. Kf2 Bb6+ 7. Qe3 $1 Rf8+ 8. Ke2 Bb5+ 9. Qd3 Re8+ 10. Kd2 Bxd3 11. Kxd3 $11 1/2-1/2
+
+[Event "5/7.p All Union Team champ USSR Ty"]
+[Source "EG#14997"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/N2B4/5p1P/8/3k4/3p4/5K2 w - - 0 1"]
+[PlyCount "17"]
+
+1. Nb4+ Ke3 2. Nd5+ $1 Kd3 3. Nc3 $1 (3. Ne3 $143 Kxe3 4. Bf4+ Kxf4 5. Ke2 Kg5 $19) Kxc3 4. Bb4+ $1 Kxb4 5. Ke2 Kc3 6. Kd1 f4 7. h6 f3 8. h7 f2 9. h8=Q+ $18 1-0
+
+[Event ".p Shakhmatnaya Kompozitsia#4871"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[Composer "Shupletsov, Vladimir Vitalyevich"]
+[Composer2 "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2k2b2/P7/3P4/1r1B1N2/5n2/6K1/8 w - - 0 1"]
+[PlyCount "27"]
+
+1. d6+ Kb8 (Kxd6 $144 2. Bc5+ Kxc5 3. Nd3+ $11) (Kc6 $144 2. a7 Kb7 3. Bf6 $11) 2. a7+ Ka8 3. Bc3 Rxf4 4. d7 Nh4+ 5. Kg1 (5. Kg3 $143 Rf3+ 6. Kxh4 Rd3 $19) (5. Kh2 $143 Rf2+ 6. Kg3 Rf3+ 7. Kxh4 Rd3 $19) Rg4+ (Nf3+ $144 6. Kh1 $11) 6. Kf2 Rg2+ (Rg8 $144 7. Bf6 $11) 7. Ke3 Nf5+ 8. Kd3 Bc4+ 9. Kxc4 Nd6+ 10. Kd5 Nb7 11. Ke6 Kxa7 12. Ba5 Rg8 13. Bc7 (13. Kf7 $143 Ra8 14. Bc7 (14. Ke7 $144 Nxa5 15. d8=Q Nc6+ $19) Ka6 $1 15. Ke6 Kb5 $1 16. Ke7 Kc5 $1 17. d8=Q Nxd8 18. Bxd8 Kc6 $1 $19) Ra8 14. Ke7 $11 1/2-1/2
+
+[Event "1.p Molodoj Leninets"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p1k/1P6/8/B5K1/7P/1p6/4bb2 w - - 0 1"]
+[PlyCount "17"]
+
+1. Bc2+ f5+ 2. Bxf5+ Kh6 3. b7 Be2+ 4. Kf4 Bd2+ 5. Kg3 (5. Ke5 $143 b1=Q 6. Bxb1 Kg5 $1 $11) Be1+ 6. Kh2 (6. Kg2 $144 Bf1+ 7. Kh2 Bd3 $18 {loss of time}) Bd3 $1 7. Bxd3 b1=Q 8. Bxb1 Bc3 9. b8=B $1 $18 (9. b8=Q $143 Be5+ 10. Qxe5 $11) 1-0
+
+[Event "1.p Molodoj Leninets"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5N2/K4p2/8/4P3/kB3P2/p6p/P7/8 w - - 0 1"]
+[PlyCount "25"]
+
+1. e6 $1 (1. Be1 $143 $2 h2 2. Kb6 h1=Q 3. Nd7 Qh6+ 4. Kc5 f5 $1 5. Nb6+ Qxb6+ 6. Kxb6 $11 {staleamate}) fxe6 (h2 $144 2. e7 h1=Q 3. e8=Q+ Kxb4 4. Qxf7 $18) 2. Be1 $1 h2 3. Kb6 $1 h1=Q 4. Nd7 $1 Qxe1 (Qg1+ $144 5. Nc5+ Qxc5+ 6. Kxc5 e5 7. f5 $18) 5. Nc5+ Kb4 6. Nd3+ Kc3 7. Nxe1 Kb2 {eg:} {<eg>} 8. Kc5 Kxa2 9. Nc2 Kb2 10. Nxa3 Kc3 11. Kd6 Kd4 12. Kxe6 Ke4 13. f5 1-0
+
+[Event "1.p Sovyetskaya Zaural"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6Q1/8/5Np1/B3q3/4b2k/P7/2n1K3/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. Qh7+ Kg5 2. Bd2+ Kxf6 3. Bc3 Bf3+ 4. Kd3 Be4+ 5. Kc4 Bd5+ (Nxa3+ $144 6. Kb4 Qxc3+ 7. Kxc3 $18 {#54}) 6. Kb5 Bc6+ (Nxa3+ $144 7. Kb6 Qxc3 8. Qh8+ Kf5 9. Qxc3 $18 {#25}) 7. Ka6 Bb5+ 8. Kb7 Bc6+ 9. Kc8 $18 1-0
+
+[Event "9.p Russian Federation Team champ"]
+[Source "EG#08889"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/3N4/8/2B1p2K/2n5/5kN1 w - - 0 1"]
+[PlyCount "15"]
+
+1. Nf3 e2 2. Ne1 (2. Nh2+ $143 Kf2 $11) Nxe1 3. Ne3+ Kf2 4. Ng4+ Kg1 (Kf1 $144 5. Nh2+ Kf2 6. Bd4#) 5. Bd4+ Kh1 6. Nf2+ Kg1 7. Ne4+ Kh1 8. Ng3# 1-0
+
+[Event "1.p Molodoj Leninets"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3N4/P1p5/5pK1/3k4/8/6b1 w - - 0 1"]
+[PlyCount "17"]
+
+1. Nc4 $1 f3 (Ke2 $144 2. Kxf4 (2. a6 f3 3. a7 f2 4. a8=Q f1=Q 5. Qe4+ Kd1 6. Qb1+ Ke2 7. Qc2+ Ke1 8. Qd2#) Bh2+ 3. Ke4 $18) 2. Kxf3 Bh2 3. a6 Bb8 4. Ne5+ $1 Kd2 $1 5. Nc6 c4 6. Nxb8 c3 7. Nc6 $1 (7. a7 $143 $2 c2 8. a8=Q c1=Q $11) c2 8. Nd4 c1=Q 9. Nb3+ $18 1-0
+
+[Event "sp.p Pobeda 40/45/50 JT Sovyetskaya Zau"]
+[Source "EG#10317"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[Composer "Shupletsov, Vladimir Vitalyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/4K2n/3N4/5NP1/8/6b1/8/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. Nf7+ Kg8 2. N7h6+ Kh8 3. g6 Bh4+ $1 (Be5 $144 4. Nf7+ Kg8 5. Nxe5 $18) 4. Ke8 $1 (4. Nxh4 $143 Nf8 $11) Bf6 $1 (Nf6+ $144 5. Kf7 Bg5 6. g7+ Kh7 7. Ng4 Ng8 8. Nd4 Bh6 9. Nxh6 Nxh6+ 10. Kf8 Kg6 11. Ne6 Kf5 12. Nd8 Kf6 13. Nf7 Nxf7 $18) 5. g7+ $1 Bxg7 6. Nf7+ Kg8 7. Ne7# 1-0
+
+[Event "3.c Shakhmatnaya Kompozitsia#1005"]
+[Source "EG#11528"]
+[Site "?"]
+[Date "1997.11.10"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7b/6N1/6p1/4B1Np/7P/6pp/3K1k2 w - - 0 1"]
+[PlyCount "21"]
+
+1. Bd3+ $1 Kg1 2. N6e5 Bxd3 3. Nf3+ $1 Kf1 $1 (Kh1 $144 4. Nf2#) 4. Nd2+ $1 Kg1 5. Ke1 $1 Be4 $1 6. Nxe4 h1=B $1 (h1=Q $144 7. Nxg5 $1 Qxh3 8. Nxh3+ Kh1 9. Kf2 g1=Q+ 10. Nxg1 h3 11. Kf1 h2 12. Nf2#) 7. Ng3 $1 hxg3 8. h4 $1 gxh4 9. Ke2 $1 h3 10. Ne5 $1 h2 (Kh2 $144 11. Nf3#) 11. Nf3# 1-0
+
+[Event "1.p Molodoj Leninets"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2b2b2/3p4/2P5/N5B1/8/3kN3/1K6/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. c7 Bd6 2. Nd5 Be5+ $1 3. Kb3 $1 Kd4 4. Nc3 $1 Bxc7 5. Nb5+ Kc5 6. Nxc7 Kb6 7. Ne8 Kxa5 8. Nd6 Ba6 9. Bd8# 1-0
+
+[Event "1.p Molodoj Leninets"]
+[Site "?"]
+[Date "1988.09.24"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k1Br3/8/P2PP1N1/8/p7/Kn6/5b2/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. Bc7+ (1. Be7 $143 Bc5+ 2. Kxa4 Ka7 3. d7 (3. Kxb3 $144 Bxd6 4. Bxd6 Rxe6 $11) Rb8 4. d8=Q Rxd8 5. Bxd8 Nd4 6. e7 Bxe7 7. Bxe7 Kxa6 $11) Ka7 (Ka8 $144 2. d7 Rg8 3. e7 Bc5+ 4. Kxa4 Bxe7 5. Nxe7 $18) 2. d7 Ra8 $1 3. e7 (3. d8=Q $143 Rxd8 4. Bxd8 Bc5+ 5. Kxa4 Nd4 $11) Bc5+ 4. Kxa4 (4. Ka2 $143 Bxe7 5. Nxe7 Rf8 $1 $11) Bxe7 5. Nxe7 Nc5+ 6. Ka5 $1 (6. Kb5 $143 Nxa6 $1 7. Nc8+ Kb7 8. d8=Q Nxc7+ 9. Kb4 Rxc8 $11) Nxa6 $1 7. Bb8+ $1 (7. Nc8+ $143 Kb7 8. d8=Q Nxc7+ 9. Kb4 Rxc8 $11) Nxb8 (Rxb8 $144 8. Nc8+ $1 (8. Nc6+ $143 Kb7 9. Nxb8 Nxb8 10. d8=Q Nc6+ $11) Kb7 9. d8=Q Rxc8 10. Qb6+ $18) 8. d8=N $1 (8. d8=Q $143 Nc6+ 9. Nxc6+ Kb7+ $11) Nd7 9. Nec6# 1-0
+
+[Event "1.p Molodoj Leninets"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1N3K2/3P4/5n2/2k2Bq1/8/1P6/4N3/8 w - - 0 1"]
+[PlyCount "21"]
+
+1. Na6+ $1 Kb5 2. Nd4+ Kxa6 3. d8=Q Qg8+ 4. Ke7 Nd5+ 5. Kd7 Nb6+ 6. Kc7 Nd5+ 7. Qxd5 Qxd5 8. Bc8+ Ka5 9. Nc6+ Kb5 10. Ba6+ $1 Kc5 11. b4# 1-0
+
+[Event "3.sp.hm Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/10 EG#08316"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k1n1q1/4P3/KPP5/2p2R2/8/8/8/2B5 w - - 0 1"]
+[PlyCount "11"]
+
+1. Rd5 $1 Qxd5 (Nd6 $144 2. b7+ Kc7 3. Bf4 Qe6 4. Ka7 $18) 2. b7+ Kb8 3. Bf4+ Nc7+ (Qd6 4. Bxd6+ Nxd6 5. c7+) 4. Bxc7+ Kxc7 5. e8=N+ Kxc6 (Kd8 $144 6. b8=Q+ Ke7 7. Qd6+ Qxd6 8. Nxd6 Kxd6 9. Kb7 $18) 6. b8=N# 1-0
+
+[Event "1.c Shakhmatnaya Kompozitsia#1002"]
+[Source "EG#11526"]
+[Site "?"]
+[Date "1997.11.10"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3P4/6B1/8/2kp3B/8/6pq/2K3R1 w - - 0 1"]
+[PlyCount "21"]
+
+1. Bf7+ $1 Kc3 2. Be1+ Kd3 3. Bg6+ Ke2 4. Bh5+ $1 Kd3 $1 5. d8=Q Qxg1 6. Qa5 Qe3+ 7. Kd1 $1 g1=Q 8. Qf5+ Qe4 9. Be2+ Ke3 10. Qf2+ $1 Qxf2 11. Bd2# 1-0
+
+[Event "1.p Birnov MT Molodoj Wolgograd"]
+[Source "EG#11280"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5N2/bp3B1Q/8/2k3N1/P7/2K5/4r3/5q2 w - - 0 1"]
+[PlyCount "19"]
+
+1. Nge6+ $1 (1. Nfe6+ $143 Kb6 $1 $19) (1. Ne4+ $143 Rxe4 $1 2. Qxe4 Qxf7 $11) (1. Nd7+ $143 Kd6 $11) Kb6 (Kd6 $144 2. Qd3+ Ke7 3. Qd8+ Kxf7 4. Qd7+ Kf6 5. Qg7+ Kf5 6. Qf7+ $18) (Kc6 $144 2. Be8+ $18) 2. Nd7+ Kc6 (Ka6 $144 3. Qd3+ $18) (Ka5 $144 3. Qh5+ Kxa4 4. Qg4+ Ka3 5. Qb4+ $18) 3. Ne5+ $1 Rxe5 (Kd5 $144 4. Nd4+ Kxe5 5. Qg7+ Qf6 6. Qg3+ Ke4 7. Qg4+ Ke5 8. Qxe2+ $18) 4. Be8+ Kb6 (Kd5 $144 5. Qxb7+ Kxe6 6. Qd7+ Kf6 7. Qf7+ Kg5 8. Qxf1 Rxe8 9. Qb5+ $18) 5. Qc7+ Ka6 6. Qxe5 $1 Qa1+ 7. Kb4 Qxe5 (Qb1+ $144 8. Kc4 Qc2+ (Qa2+ $144 9. Kd3 Qb1+ 10. Ke2 Qc2+ 11. Kf3 Qf2+ 12. Kg4 Qg2+ 13. Kf5 Qh3+ 14. Kg6 Qg4+ 15. Kf7 $18) 9. Kd5 Qd2+ 10. Nd4 Qa2+ 11. Ke4 Qb1+ 12. Kf4 Qc1+ 13. Kf5 Qf1+ 14. Ke6 Qc4+ 15. Qd5 $18) 8. Nc7+ $1 Qxc7 (Kb6 $144 {<main>} 9. Na8+ Ka6 10. Bb5+ Qxb5+ 11. axb5#) 9. Bb5+ Kb6 10. a5# 1-0
+
+[Event "Molodoj Leninets"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5B2/8/2B5/N7/2p5/p2kp3/2p5/K7 w - - 0 1"]
+[PlyCount "14"]
+
+1. Nb3 $1 cxb3 2. Bxa3 c1=Q+ $1 3. Bxc1 Kc2 $1 4. Bb2 $1 e2 5. Be4+ Kd2 6. Bb1 e1=Q 7. Bc3+ $1 Kxc3 $11 {stalemate} 1/2-1/2
+
+[Event "1.p Molodoj Leninets"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/2B5/3p4/p2p4/4PK2/k1b2B2 w - - 0 1"]
+[PlyCount "15"]
+
+1. e3 $1 (1. e4 $143 a2 2. Bxd4+ Bb2 3. Bxd3 Bxd4+ $19) dxe3+ (Bxe3+ $144 2. Ke1 a2 3. Ba3 $1 Bc1 $1 4. Bxc1 Kb1 5. Kd2 a1=Q 6. Bxd3+ Ka2 7. Bc4+ Kb1 8. Bd3+ $11) 2. Ke1 $1 a2 3. Kd1 (3. Bxd3 $143 Bd2+ $1 4. Kd1 Kb2 5. Bd4+ Bc3 $19) e2+ 4. Bxe2 dxe2+ 5. Kc2 e1=N+ $1 6. Kxc1 Nd3+ 7. Kc2 Nxc5 8. Kc1 $11 1/2-1/2
+
+[Event "4.p 64 Shakhmatnoye Obozrenye#80"]
+[Source "EG#08099"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Shupletsov, Vladimir Vitalyevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5P1k/7P/5K2/8/1R4rp/6Nb w - - 0 1"]
+[PlyCount "24"]
+
+1. f7 Kg7 $1 2. h6+ $1 Kxf7 3. Rb7+ Kg6 $1 4. Nh3 $1 Rg4+ $1 5. Kxg4 Bf3+ $1 6. Kh4 $1 h1=Q 7. Rg7+ Kxh6 8. Rg1 $1 Qh2 9. Rg6+ $1 Kh7 10. Rh6+ $1 Kg7 11. Rg6+ Kf7 12. Rf6+ Kxf6 $11 {stalemate} 1/2-1/2
+
+[Event ".hm Molodoj Leninets (Kurgan)"]
+[Site "?"]
+[Date "1988.09.24"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/kp6/P1R1K3/3P4/3rp3/8/p6R/6r1 w - - 0 1"]
+[PlyCount "18"]
+
+1. axb7 $1 Rg6+ $1 2. Ke5 $1 Rxd5+ $1 3. Kxd5 Rg5+ 4. Kc4 a1=Q 5. b8=Q+ Kxb8 6. Rb2+ Qxb2 (Ka7 $144 7. Rc7+ Ka6 8. Rc6+ Ka5 9. Rb5+ Rxb5 10. Ra6+ Kxa6 $11 {stalemate}) 7. Rc8+ Ka7 8. Ra8+ Kb7 9. Rb8+ Kxb8 $11 {stalemate} 1/2-1/2
+
+[Event "Shadrinski Rabochi"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7k/1P1K4/bP6/7P/3P4/3P2Pr/8 w - - 0 1"]
+
+1. b7 $1 Bxd2 2. Ke5 Rxh4 3. g4 Be1 4. Kf4 Rh3 5. g5 Rxd3 6. b8=Q Bg3+ 7. Ke4 1/2-1/2
+
+[Event "Sovyetskaya Rossija"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/1R6/7p/r6n/7K/8/1PPPPp2/8 w - - 0 1"]
+
+1. Rf7 $1 Nf4 2. Rf8+ Kg7 3. Rxf4 Ra4 4. b4 Rxb4 5. c4 Rxc4 6. d4 Rxd4 7. e4 Rxe4 8. Kh5 Rxf4 1/2-1/2
+
+[Event "Shakhmaty v SSSR (tt)"]
+[Source "Shakhmaty v SSSR/7"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Dolgov, Vasily Nikitich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "kr3n2/5K2/2P5/3p4/N7/8/6P1/8 w - - 0 1"]
+
+1. c7 $1 Rc8 2. Nb6+ Kb7 3. Nxc8 Kxc8 4. Kxf8 d4 5. g4 d3 6. g5 d2 7. g6 d1=Q 8. g7 Qd6+ 9. Ke8 Qe6+ 10. Kf8 Qf6+ 11. Ke8 Qxg7 1/2-1/2
+
+[Event "2.p Soviet Army JT (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - VII-11 2012."]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "Maksimovskikh, A"]
+[Black " Malyshkov, A."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1n1p4/7P/7p/3p4/1K1p4/8/6k1 w - - 0 1"]
+
+1. h7 $1 Nc5+ 2. Kb2 d2 3. Kc2 Ne4 4. h8=Q d3+ 5. Kd1 d5 6. Qxh5 (6. Qe5 $2 h4) Kf2 (Kf1 7. Qh2) (Kg2 7. Qxd5) 7. Qh3 $1 Kg1 8. Qf3 (8. Qf5 {<or>} Kh2 9. Qf1) Kh2 9. Qf1 $1 Kg3 10. Qxd3+ 1-0
+
+[Event "3.hm Vserossiski ty (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - VII-10 2012."]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B2b2N/8/3pp3/2kP1pPp/8/1P3K2/p4N2/8 w - - 0 1"]
+
+1. Ba7+ $1 Kxd5 2. Nd3 a1=Q (Kc6 3. Nb4+ Kb7 4. Nc2) 3. Nb4+ Ke5 4. Ng6+ $1 Bxg6 5. Nc6+ $1 (5. Bd4+ $2 Qxd4 6. Nc6+ Kd5 7. Nxd4 Kxd4) Kd5 6. Ne7+ Ke5 7. Nxg6+ Kd5 8. Ne7+ Ke5 9. Nc6+ Kd5 10. Nb4+ Ke5 11. Bd4+ $1 Qxd4 (Kxd4 {<main>} 12. Nc2+ Kc3 13. Nxa1) 12. Nc6+ Kd5 13. Nxd4 Kxd4 {<eg>} 14. g6 1-0
+
+[Event "Tidskrift for Schack#1575"]
+[Source "Tidskrift for Schack/5"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/K6P/5N2/1r5p/7k/8/5p1B/8 w - - 0 1"]
+
+1. Bg3+ $1 Kxg3 2. Ne4+ Kh4 $1 3. Nxf2 Ra5+ 4. Kb7 Rb5+ 5. Kc7 Rc5+ 6. Kd7 Rd5+ 7. Ke7 Re5+ 8. Kf7 Rf5+ 9. Kg7 Rg5+ 10. Kh6 (10. Kf6 {<or>} Rg8 11. hxg8=B $1) Rg8 $1 11. hxg8=B $1 (11. hxg8=Q $2) 1-0
+
+[Event "Shakhmaty v SSSR#26"]
+[Source "Shakhmaty v SSSR/7"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1P6/k1r5/2P4p/1KP5/P1P5/8 w - - 0 1"]
+
+1. b7 $1 Rc6 $1 2. c5 $1 Rxc5 3. c4 Rc6 4. c5 $1 Rxc5 5. c4 Rc6 6. c5 $1 Rxc5 7. b8=Q Rb5+ 8. Ka3 $1 Rxb8 1/2-1/2
+
+[Event "Shakhmaty (Riga)#099"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Dolgov, Vasily Nikitich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6rk/8/8/1P6/p7/7K/6p1/R7 w - - 0 1"]
+
+1. Rg1 $1 (1. Kh2 $2 g1=Q+ 2. Rxg1 Rxg1 3. Kxg1 a3 4. b6 a2 5. b7 a1=Q+) a3 (Rb8 2. Rxg2 $1 Rxb5 3. Kg4 $1 Kg7 4. Kf4+ Kf6 5. Ke4) 2. b6 a2 (Rb8 3. Rxg2 Rxb6 4. Ra2 Rb3+ 5. Kg4) 3. b7 Kh7 4. Kh2 $1 (4. Kh4 $2 Rb8 5. Kh3 Rxb7 6. Kxg2 Rg7+) Kh6 5. Kh3 Kh5 6. Kh2 Kh4 7. Ra1 g1=Q+ 8. Rxg1 Rxg1 9. b8=Q a1=Q 10. Qg3+ $1 Rxg3 1/2-1/2
+
+[Event "Problem#294"]
+[Source "Problem/11"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4p3/1p1pk1K1/8/P7/1N3P2/2P4p/3B4 w - - 0 1"]
+
+1. f4 $1 h1=Q 2. Bg4+ Kd5 3. Bf3+ $1 Qxf3 4. c4+ Ke4 5. Nd2+ Kxf4 6. Nxf3 Kxf3 7. Kf5 $1 e5 $1 8. c5 $1 dxc5 9. Kxe5 Ke3 10. Kd5 Kd3 11. a5 $1 bxa5 12. Kxc5 Kc3 13. Kb5 1/2-1/2
+
+[Event "1.p Kandidatu Mistra"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Dolgov, Vasily Nikitich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2N5/3b2P1/8/r4k1P/8/8/4K3 w - - 0 1"]
+
+1. g7 $1 Ke3 2. Nd5+ Kd3 3. g8=Q Ra1+ 4. Kf2 Bc5+ 5. Ne3 Bxe3+ 6. Kf3 Rf1+ 7. Kg4 Rg1+ 8. Kh5 Rxg8 1/2-1/2
+
+[Event "4.c 64"]
+[Source "EG#02800."]
+[Date "1974.08.09"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7B/2N5/6B1/p7/8/4k3/7p/3K4 w - - 0 1"]
+
+1. Nd5+ $1 Kf3 2. Bh5+ Ke4 $1 (Kg2 3. Ne3+ Kf2 (Kh1 4. Bf3+) 4. Ng4+) (Kf2 3. Bd4+ Kg2 4. Ne3+) 3. Nc3+ $1 (3. Nf6+ $2 Kf4 4. Nd5+ Ke4) Ke3 $1 4. Bd4+ $1 Kxd4 5. Ne2+ Ke3 6. Ng3 Kf2 $1 7. Nh1+ Kg2 8. Ke2 $1 (8. Ke1 $2 a4 $1 9. Ke2 a3) Kxh1 (a4 9. Bf3+ Kg1 10. Nf2 $1 h1=Q 11. Bxh1 a3 12. Bd5) 9. Kf1 (9. Kf2 {<or>}) a4 10. Bf3# 1-0
+
+[Event "Shadrinski Rabochi"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/8/2P5/k2P4/P7/P7/8/3r4 w - - 0 1"]
+
+1. c7 $1 Rh1+ 2. Kg8 $1 Rg1+ 3. Kf8 Rc1 4. d6 Kb6 5. a5+ $1 (5. Ke7 $2 Rxc7+ 6. dxc7 Kxc7) Kb7 6. a6+ $1 Kb6 7. a7 $1 Kxa7 8. d7 Rxc7 9. d8=Q 1-0
+
+[Event "64#80"]
+[Date "1975.12.19"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/8/PP6/1k6/8/8/8/1r6 w - - 0 1"]
+
+1. a7 $1 Rh1+ 2. Kg8 $1 (2. Kg7 $2 Ra1 $1 3. b7 Rxa7) Rg1+ 3. Kf8 Rf1+ 4. Ke8 Re1+ 5. Kd8 Rd1+ 6. Kc8 Rc1+ 7. Kb8 (7. Kb7 $2 Ra1 8. Kc7 Ra6) Rh1 8. b7 Kb6 9. Ka8 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/7"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5R2/6P1/8/8/K5k1/1r4Pr/8 w - - 0 1"]
+
+1. g7 $1 (1. Kxb2 $2 Rxg2+ 2. Kc3 Kh4 3. g7 Kh5) Ra2+ $1 2. Kb3 $1 (2. Kb4 $2 Rh4+) Rb2+ 3. Kc3 Rc2+ 4. Kd3 Rd2+ 5. Ke3 Re2+ 6. Kxe2 $1 Rxg2+ 7. Rf2 $1 Rxf2+ 8. Ke1 $1 1-0
+
+[Event "Molodoj Leninets"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3B2Pp/8/b6k/1p1K4/2p5/3p4/8 w - - 0 1"]
+
+1. Ba4 $1 b3 $1 2. Bxb3 c2 $1 3. Bxc2 Bc3+ $1 4. Kxc3 d1=Q 5. Bxd1+ Kh6 6. g8=N+ 1-0
+
+[Event "Molodoj Leninets"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "R7/K4k2/1p5p/3P4/8/8/1p4P1/8 w - - 0 1"]
+
+1. Rb8 $1 b1=Q 2. Rb7+ Ke8 3. Rb8+ Kd7 4. Rb7+ Kd6 $1 5. Rxb6+ Qxb6+ 6. Kxb6 h5 7. Kb7 $1 (7. g3 $2 Kxd5 8. Kc7 (8. Kb5 Ke4 9. Kc4 Kf3 10. Kd3 Kxg3 11. Ke2 Kg2) Ke5 9. Kd7 Kf5 10. Ke7 Kg4 11. Kf6 Kxg3 12. Kg5 h4) (7. Kb5 $2 Kxd5 8. Kb4 (8. Kb6 Ke5 9. Kc5 Kf4 10. Kd5 Kg3) Ke4 9. Kc4 Kf4) h4 8. Kc8 $1 Kxd5 9. Kd7 Ke5 10. Ke7 Kf4 11. Kf6 Kg3 12. Kg5 1/2-1/2
+
+[Event "Problem"]
+[Source "Problem/8"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "Maksimovskikh, A"]
+[Black " Dolgov, V."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4b3/6k1/2P1K3/2p5/8/1r6/8/6B1 w - - 0 1"]
+
+1. c7 $1 Bh5 2. Kf5 Rb4 3. Bd4+ $1 Rxd4 4. c8=Q Bg4+ 5. Ke5 Bxc8 1/2-1/2
+
+[Event "8.p USSR team champ X (tt)"]
+[Source "EG#04141. USSR team champ X 1977-1978."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[Composer2 "Makletsov"]
+[White "Maksimovskikh, A"]
+[Black " Makletsov, Y."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6kP/4R2p/8/r3b3/1pp2N2/2P1B3/1K6 w - - 0 1"]
+
+1. Re7+ $1 (1. Rxe4 $2 bxc2+ 2. Kxc2 Rxe4 3. Bd3 Re3) Kh8 2. Re8+ Kxh7 3. Rxe4 Ra1+ 4. Kxa1 bxc2 5. Re7+ Kh8 6. Rh7+ Kg8 7. Bc4+ Kf8 8. Rf7+ Ke8 9. Bb5+ Kd8 (Kxf7 10. Ne5+ Ke6 11. Nd3) 10. Rd7+ Kc8 11. Ba6+ Kb8 12. Rb7+ Ka8 13. Rb1 1-0
+
+[Event "Shakhmaty v SSSR#02"]
+[Source "Shakhmaty v SSSR/1"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/k7/8/2p1n2p/8/7K/1N6 w - - 0 1"]
+
+1. Kh3 $1 Ka5 $1 (Kb6 2. Kxh4 Kc5 3. Kg4 Kd4 4. Na3 $1 c3 5. Nb5+) 2. Kxh4 Ka4 $1 3. Kg4 Kb4 $1 4. Kf5 $1 (4. Kf3 $2 Nd2+ $1 5. Nxd2 c3 6. Ne4 c2 7. Nf2 Kc4) (4. Kf4 $2 Nd2 $1 5. Nxd2 c3 6. Nf3 c2 7. Ne1 c1=Q+) Nd2 $1 5. Nxd2 c3 6. Nf3 $1 c2 7. Ne1 c1=Q 8. Nd3+ 1/2-1/2
+
+[Event "sp.p 64#38 (v)"]
+[Source "EG#04663."]
+[Date "1979.07.12"]
+[Round "?"]
+[Composer "Dolgov, Vasily Nikitich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/8/3R4/8/8/4p2p/8/5k2 w - - 0 1"]
+
+1. Rd1+ $1 Kf2 2. Rh1 $1 Kg2 3. Re1 Kf2 4. Rh1 Kg3 5. Re1 Kf3 6. Rh1 Kg3 7. Re1 Kf4 8. Re2 $1 Kf3 9. Rh2 Kg3 10. Re2 1/2-1/2
+
+[Event "8.p All Union Team champ USSR ty"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5k1P/8/6P1/p7/1pK5/p4P2/8 w - - 0 1"]
+
+1. Kb2 $1 (1. g6+ $2 Kxg6 2. Kb2 Kxh7) (1. h8=Q $2 a1=Q+) a3+ 2. Ka1 Kg7 3. g6 Kh8 4. f3 $1 (4. f4 $2 Kg7 5. f5 Kh8 6. f6 b2+ 7. Kxa2 b1=Q+ 8. Kxb1 a2+ 9. Kxa2) Kg7 5. f4 Kh8 6. f5 Kg7 7. f6+ Kh8 8. f7 1-0
+
+[Event "2.hm 64 Shakhmatnoye Obozrenye#60"]
+[Source "EG#05485."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/k4p1P/8/5K1b/7B/1r6/8 w - - 0 1"]
+
+1. Bc8+ $1 Kb6 2. h7 Rh2 $1 3. Bh3 $1 Rxh3 (Bg5+ {<main>} 4. Kg3 (4. Kg4 $2 f5+ 5. Kg3 Bf4+) Bf4+ $1 5. Kh4 $1 Bg5+ 6. Kg3 Bf4+ 7. Kh4) 4. Kg4 $1 Rg3+ 5. Kf4 $1 (5. Kxh4 $2 Rg1) Rh3 6. Kg4 Rg3+ 7. Kf4 1/2-1/2
+
+[Event "Shakhmaty v SSSR#34"]
+[Source "Shakhmaty v SSSR/10"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4b3/8/8/K1R5/5N2/2B5/k4p2/8 w - - 0 1"]
+
+1. Kb4 $1 Bb5 $1 2. Rxb5 f1=Q 3. Ra5+ Kb1 4. Ra1+ Kc2 5. Ra2+ $1 (5. Rxf1 $2) Kb1 $1 (Kd1 6. Rd2+ Kc1 7. Nd3+ Kb1 8. Rb2+ Ka1 9. Rf2+) 6. Rb2+ Kc1 7. Ne2+ Kd1 8. Rd2+ Ke1 9. Nf4 $1 (9. Ng3 $2 Qc4+ 10. Kxc4) Qxf4+ 10. Rd4+ 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/10"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/8/7P/8/8/7P/7k/6r1 w - - 0 1"]
+
+1. h7 $1 Ra1+ 2. Kb7 Rb1+ 3. Kc7 Rc1+ 4. Kd7 Rd1+ 5. Ke7 Re1+ 6. Kf7 Rf1+ 7. Kg7 Rg1+ 8. Kh6 Rg3 9. h4 $1 Rg4 10. h5 $1 (10. Kh5 $2 Kg3 11. h8=Q Rxh4+) Kg3 11. h8=Q 1-0
+
+[Event "Molodoj Leninets"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/p7/8/6K1/8/8/4b3/8 w - - 0 1"]
+
+1. Kf4 $1 (1. Kf5 $2 a5 2. Ke5 a4 3. Kd4 a3 4. Kc3 Bd1) a5 2. Ke3 a4 3. Kd2 a3 4. Kc2 $1 (4. Kc1 $2 Bd3) (4. Kc3 $2) Bd3+ 5. Kb3 1/2-1/2
+
+[Event "2.p Sovyetskaya Moldavia (tw)"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Dolgov, Vasily Nikitich"]
+[White "Dolgov, V"]
+[Black " Sidorov, B."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1B3K2/7k/7p/8/6Pp/6N1 w - - 0 1"]
+
+1. Nh3 $1 h1=Q 2. Bg1 Kh6 3. Kf7 Kh7 4. Ng5+ Kh6 5. Nh3 Kh5 6. Kf6 Kh6 7. Kf7 1/2-1/2
+
+[Event "2.p Sovyetskaya Moldavia (tw)"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Dolgov, Vasily Nikitich"]
+[White "Dolgov, V"]
+[Black " Sidorov, B."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5K2/1B6/7k/7p/8/6Pp/6N1 w - - 0 1"]
+
+1. Nh3 $1 h1=Q 2. Bg1 $1 Kh6 3. Be3+ Kh7 4. Ng5+ Kh6 5. Nh3+ Kh5 6. Bg1 Kh6 7. Be3+ 1/2-1/2
+
+[Event "Schach#09598 (c)"]
+[Source "Schach/10 (c): Maksimovskikh=A Makletsov=Y Schach/8 1983."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "Maksimovskikh, A"]
+[Black " Makletsov, Y."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "q3n3/k1b2PPP/p7/P1P5/8/1p1p2p1/3P3Q/3K4 w - - 0 1"]
+
+1. Qg1 $1 Qh1 (Qc6 2. fxe8=Q b2 3. Qa8+ $1) (Qf3+ 2. Kc1 Qf2 3. Qxf2 gxf2 4. f8=Q) 2. Qxh1 b2 3. Qa8+ $1 Kxa8 4. fxe8=Q+ Ka7 5. Qa8+ $1 Kxa8 6. g8=Q+ Ka7 7. Qa8+ $1 Kxa8 8. h8=Q+ Ka7 9. Qxb2 1-0
+
+[Event "Schach#10123"]
+[Source "Schach/7"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6q1/8/3p1p1p/B2P1Pk1/2b1P1pp/P7/pP3P1P/3KN1NB w - - 0 1"]
+
+1. Nh3+ $1 (1. Ngf3+ $2 gxf3 2. Bd2+ Kh5 3. Bxf3+ Qg4 4. Bxg4+ Kxg4 5. Nc2 Bb3 6. Kc1 Bxc2 7. Kxc2 a1=Q 8. Bc1 Kh3 $1) gxh3 (Kh5 2. Nf4+ Kg5 3. Nh3+) 2. Bd2+ Kh5 $1 3. Bf3+ Qg4 4. Bxg4+ Kxg4 5. f3+ $1 (5. Nc2 $2 Bb3 6. Kc1 Bxc2 7. Kxc2 a1=Q 8. Bc1 Kf3 $1) Kh5 6. Nc2 Bb3 7. Kc1 Bxc2 8. Kxc2 a1=Q 9. Bc1 $1 Qa2 10. Kc3 $1 Qb1 11. Kd2 Kg5 12. Kd1+ Kh5 13. Kd2 Qa1 14. Kc2 Qa2 15. Kc3 Qb1 16. Kd2 Kg5 17. Kd1+ Kh5 18. Kd2 Qa1 19. Kc2 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/10"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/4p3/3PN2k/8/8/8/8/r7 w - - 0 1"]
+
+1. dxe7 $1 Ra7 $1 (Ra8+ 2. Nd8) 2. Nc7 $1 (2. e8=Q $2 Rh7+ 3. Kg8 Rh8+ $1 4. Kxh8) Rxc7 3. e8=Q Rh7+ 4. Kg8 Rg7+ 5. Kf8 1-0
+
+[Event ".c Magyar Sakkélet#1645"]
+[Source "Magyar Sakkélet/8 EG#06163."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5n2/4p3/k1K5/8/3P4/8/8/8 w - - 0 1"]
+
+1. d5 $1 Ka5 2. Kc7 Kb5 3. Kd8 Ng6 4. Kd7 Kb6 (Kc4 {<main>} 5. d6 (5. Ke6 $2 Kc5 $1) e5 6. Ke6 e4 7. d7 $1 Nf8+ 8. Ke5 (8. Kf5 {<or>}) Nxd7+ 9. Kxe4) (Kc5 {<main>} 5. Ke6 Kd4 6. d6 exd6 7. Kxd6) 5. d6 e5 6. Ke8 $1 (6. Ke6 $2 e4 7. d7 Kc7) Nf4 7. d7 $1 Ne6 8. Ke7 Kc7 9. Kxe6 1/2-1/2
+
+[Event "Bojevoje Slovo"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "Maksimovskikh, A"]
+[Black " Shupletsov, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/8/5P2/3p2P1/K3N3/3n1r2/1p1Q1b2/8 w - - 0 1"]
+
+1. g6 $1 Nc5+ $1 2. Nxc5 Ra3+ $1 3. Kxa3 b1=N+ $1 4. Kb4 $1 Nxd2 5. f7 (5. Ne6 $2 Be3 $1 6. f7 Bh6 $1) Bxc5+ $1 6. Kxc5 Ne4+ $1 7. Kxd5 Nf6+ 8. Ke6 $1 Ng8 $1 9. f8=B $1 (9. f8=Q $2) 1-0
+
+[Event ".c Shakhmatna Misl#093"]
+[Source "Shakhmatna Misl/9"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "Maksimovskikh, A"]
+[Black " Shupletsov, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3R3K/2p5/pp4kP/P6p/7P/P1p5/2p5/8 w - - 0 1"]
+
+1. Rg8+ $1 Kxh6 2. Rg1 b5 3. Rc1 $1 c5 $1 4. Rxc2 b4 $1 5. axb4 cxb4 6. Rg2 b3 7. Rg3 $1 b2 $1 (c2 8. Rxb3 c1=Q 9. Rb6+ Qc6 10. Rxc6#) 8. Rxc3 b1=Q (b1=B 9. Kg8) 9. Rc6+ Qg6 10. Rb6 1-0
+
+[Event ".c 64 Shakhmatnoye Obozrenye#52 (c)"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/8/5P1p/2K1P3/8/3p4/6n1/8 w - - 0 1"]
+
+1. e6 $1 Kg8 $1 2. Kd6 d2 $1 3. Ke7 Nf4 $1 4. f7+ Kh7 $1 5. f8=Q $1 Ng6+ 6. Kf7 Nxf8 7. e7 d1=Q 8. exf8=N+ $1 (8. exf8=Q $2 Qf1+ 9. Ke7 Qxf8+ 10. Kxf8 h5) Kh8 9. Ng6+ Kh7 10. Nf8+ 1/2-1/2
+
+[Event "The Problemist#0381"]
+[Source "The Problemist/11"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "Maksimovskikh, A"]
+[Black " Shupletsov, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1n6/p2P4/k3p3/P1P2B2/1K6/8/b7/8 w - - 0 1"]
+
+1. Be4 $1 Bd5 2. Bxd5 exd5 3. d8=N $1 d4 4. c6 Nxc6+ 5. Nxc6 d3 6. Nd4 d2 7. Nb3 d1=Q 8. Nc5# 1-0
+
+[Event "Thèmes 64#4254"]
+[Source "Thèmes 64/1-3"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6B1/8/8/3p2P1/p5P1/P5k1/pP1K1n1R/8 w - - 0 1"]
+
+1. Rg2+ $1 Kxg2 2. Bxd5+ Ne4+ $1 3. Bxe4+ Kh3 4. Kc1 $1 a1=Q+ 5. Bb1 Kh4 $1 6. g6 Kg5 7. g7 Kh6 $1 8. g8=N+ $1 (8. g8=Q $2 Qxb2+ $1 9. Kxb2) (8. g8=B $2 Kg5 9. Be6 Kf4 10. Bd7 Kg5 11. Bxa4 Kxg4 12. Bb3 Kf4 13. B3a2 Ke5 14. a4 Kd6) 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/5"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p6p/6p1/5Ppk/1K4p1/7P/8/8 w - - 0 1"]
+
+1. hxg4+ $1 Kh6 2. f6 a5+ 3. Kc5 (3. Kxa5 $2) a4 4. Kd6 a3 5. f7 (5. Ke7 $2 a2 6. f7 a1=Q 7. f8=Q+ Qg7+) Kg7 6. Ke7 a2 7. f8=Q# 1-0
+
+[Event "64 Shakhmatnoye Obozrenye#68b (tw)"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Dolgov, Vasily Nikitich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/5RN1/7k/2q5/7K/8 w - - 0 1"]
+
+1. Nf3+ $1 Kg4 2. Rg5+ Kf4 3. Rg3 Qb2+ 4. Kh3 Qf2 5. Rg4+ Kxf3 6. Rf4+ Kxf4 1/2-1/2
+
+[Event "1.p Shakhmaty (Riga) (tt)"]
+[Source "Shakhmaty (Riga)/11"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4Nkbn/3pp2p/2p3P1/1p2P3/3P4/2P5/1P1b4/K7 w - - 0 1"]
+
+1. g7+ $1 Kxe8 2. gxh8=Q Kf8 $1 3. e6 d6 4. d5 c5 5. c4 b4 6. Ka2 $1 Bh6 7. b3 $1 Bg7 8. Qxh7 Bxh7 1/2-1/2
+
+[Event "sp.hm Shakhmaty v SSSR (tt)"]
+[Source "EG#06562."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Dolgov, Vasily Nikitich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/P3PPPP/3kp1P1/4p3/8/6pp/5p2/7K w - - 0 1"]
+
+1. e8=N+ $1 Kd7 2. f8=N+ Ke7 (Kxe8 3. a8=Q+) 3. g8=N+ Kxf8 4. g7+ Kf7 5. h8=N+ (5. Nh6+ $2 Ke7 6. Ng8+ (6. g8=N+ Kf8 7. a8=Q f1=Q#) Kf7) Kxg8 6. Nf6+ Kxg7 7. Nh5+ Kxh8 8. Nxg3 1-0
+
+[Event "Tidskrift for Schack#2431"]
+[Source "Tidskrift for Schack/5 35/4 EG#07728.35/45.p USSR overall champ XVIII 1985-1986."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/8/7p/5p2/5P2/4P2P/P3KBPp/8 w - - 0 1"]
+
+1. Kf1 $1 h1=Q+ 2. Bg1 Kg7 3. a4 Kg6 $1 4. a5 Kh5 5. a6 Kh4 6. a7 h5 $1 7. a8=B $1 (7. a8=Q $2 Qxg2+ 8. Qxg2) Kg3 $1 8. h4 $1 Kxh4 (Kg4 {<main>} 9. Bb7 Kg3 (Qxh4 10. Bf3+) 10. Bf3 Kxh4 11. g3+ $1) (Qxh4 { <main>} 9. Bf2+) 9. g3+ 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/11"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "Maksimovskikh, A"]
+[Black " Shupletsov, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2P5/1p6/8/4N3/8/1p2ppp1/1K1k4 w - - 0 1"]
+
+1. c8=Q $1 g1=Q $1 2. Qc3 f1=N $1 3. Kxb2 e1=N $1 (Qc5 4. Nf2+ $1 Qxf2 5. Qc1#) 4. Qd2+ $1 Nxd2 5. Nc3# 1-0
+
+[Event "1.hm Bron JT"]
+[Source "EG#06416."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "Maksimovskikh, A"]
+[Black " Shupletsov, V."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/B7/8/8/bpK1pP2/k7 w - - 0 1"]
+
+1. Bc3 $1 e1=N+ 2. Kd2 Nf3+ 3. Kc2 Bb1+ 4. Kb3 Nd2+ 5. Bxd2 Bc2+ (Ba2+ 6. Ka4 Bb3+ 7. Ka3 b1=Q 8. Bc3+) 6. Ka3 b1=N+ 7. Kb4 Nxd2 8. Kc3 1/2-1/2
+
+[Event "Vecherni Leningrad (v)"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "Maksimovskikh, A"]
+[Black " Shupletsov, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3B2K1/8/8/8/6N1/1p6/p7/kB6 w - - 0 1"]
+
+1. Bd3 $1 b2 2. Ne3 b1=Q 3. Bf6+ Qb2 4. Nc2+ Kb1 5. Nd4+ $1 Kc1 (Ka1 6. Nb3#) 6. Ne2+ Kd2 7. Bxb2 Kxd3 8. Nd4 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/8"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "Maksimovskikh, A"]
+[Black " Shupletsov, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/P6k/8/8/7K/r2p4/8/1B1R4 w - - 0 1"]
+
+1. Bxd3+ $1 (1. Rxd3 $2 Rxa7 2. Ra3+ Kh6 3. Rxa7) Kg7 2. Ba6 $1 Rxa6 3. Rd7+ Kf6 4. Rd6+ $1 Rxd6 5. a8=Q 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/8"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "Maksimovskikh, A"]
+[Black " Shupletsov, V."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1K6/8/3p4/8/6kN/3b4 w - - 0 1"]
+
+1. Kc5 $1 d3 2. Kd4 $1 (2. Kc4 $2 Be2 $1 3. Ng4 d2+ 4. Kc3 d1=N+ 5. Kd2 Bxg4) Be2 3. Ng4 $1 d2 4. Ne3+ Kf3 5. Nd1 $1 Bxd1 6. Kd3 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/8"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "Maksimovskikh, A"]
+[Black " Shupletsov, V."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/7p/6P1/1p6/1Pp1Bp2/BpP2p1P/pP3P2/3K4 w - - 0 1"]
+
+1. gxh7+ $1 Kh8 (Kg7 2. Kc1 a1=Q+ 3. Bb1 Kh8 4. h4 Kg7 5. h5 Kh8 6. h6 Qxb2+ $1 7. Bxb2 (7. Kxb2)) 2. Kc1 a1=Q+ 3. Bb1 Kg7 4. h4 Kh8 5. h5 Kg7 6. h6+ Kh8 7. Kd2 $1 Qxb1 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/8"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "Maksimovskikh, A"]
+[Black " Shupletsov, V."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1Rb5/1n6/8/1K6/8/8/pP6/k7 w - - 0 1"]
+
+1. Kb6 $1 (1. Rxc8 $2 Nd6+) Na5 $1 (Kb1 2. Ra8 a1=Q 3. Rxa1+ Kxa1 4. Kc7) (Nd6 2. Kc7 Bb7 3. Kxd6 Kb1 4. Re8 $1) 2. Kxa5 Kb1 3. Rb3 $1 a1=Q+ 4. Ra3 Qxb2 5. Rb3 $1 Qxb3 1/2-1/2
+
+[Event "1.p Kozlov MT Na Smenu!"]
+[Source "EG#07138."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "Maksimovskikh, A"]
+[Black " Dolgov, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "R1B5/K7/3r1P2/8/3k4/8/8/1b6 w - - 0 1"]
+
+1. f7 $1 Rf6 2. Be6 Bf5 3. Rd8+ (3. Bb3 $2 Bc2) (3. Ba2 $2 Bb1) Kc3 $1 (Ke3 4. Bc4) 4. Bd5 $1 (4. Rc8+ $2 Kb2 5. Rb8+ Ka1 $1 6. Bd5 Be6 $1 7. Bxe6 Rxf7+ 8. Bxf7) Be4 $1 5. Rc8+ Kb2 $1 (Kd4 6. Bb3) 6. Rb8+ Ka1 7. Rb6 $1 (7. Bc4 $2 Bd5 $1 8. Bxd5 Rxf7+ $1 9. Bxf7) Rf1 (Rf3 {<main>} 8. Rb1+ $1 Kxb1 9. Bxe4+ Kc1 10. Bxf3) (Rf4 8. Be6 Rf2 (Rf3 9. Rb3 Rf6 10. Rg3) (Rf6 9. Bc4 Rf2 10. Rd6 Kb2 11. Rd8) 9. Rd6 Bg6 10. Rd1+ Kb2 11. Rd2+ $1) (Rf2 8. Ra6+ Kb2 9. Ra2+) 8. Bc4 $1 Bd3 9. Rb1+ $1 Kxb1 10. Bxd3+ Kc1 11. Bxf1 1-0
+
+[Event "64 Shakhmatnoye Obozrenye (v)"]
+[Source "(v): Maksimovskikh=A Shupletsov=V Chavchavadze MT 1991."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "Maksimovskikh, A"]
+[Black " Shupletsov, V."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3k4/8/8/5R2/3K4/2p1p3/8 w - - 0 1"]
+
+1. Rd4+ $1 Ke6 (Kc6 {<main>} 2. Rc4+ Kb5 3. Kxe2 $1 Kxc4 4. Kd2 Kb3 5. Kc1 Kc3) 2. Re4+ Kf5 3. Kxc2 $1 Kxe4 4. Kd2 Kf3 5. Ke1 Ke3 1/2-1/2
+
+[Event "6.hm Chavchavadze MT"]
+[Source "EG#07761."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Dolgov, Vasily Nikitich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3N4/8/3R4/1r5k/1p3K2/1p6/8/8 w - - 0 1"]
+
+1. Nf7 $1 Kh4 2. Ne5 Kh5 (Kh3 3. Kf3 Kh4 4. Rh6+ Kg5 5. Nf7+ Kf5 6. Rh5+) 3. Ng4 Kh4 4. Ne3 b2 5. Rh6+ Rh5 6. Nf5+ Kh3 7. Rxh5+ Kg2 8. Rg5+ (8. Ne3+ $2 Kg1 9. Rg5+ Kh1) Kh2 9. Nd4 b1=Q 10. Nf3+ Kh1 11. Rh5+ Kg2 12. Rh2+ Kf1 13. Rh1+ 1-0
+
+[Event "64 Shakhmatnoye Obozrenye"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/8/K6p/2kP4/4P1P1/8/8 w - - 0 1"]
+
+1. Kb6 $1 f5 $1 2. Kc7 $1 (2. Kc6 $2 f4 $1 3. exf4 (3. gxf4 h4 4. f5 h3 5. f6 h2 6. f7 h1=Q+) Kxd4 4. Kd6 Ke4 5. Ke6 h4 6. gxh4 Kxf4) f4 $1 3. gxf4 $1 h4 4. f5 h3 5. f6 h2 6. f7 h1=Q 7. f8=Q Qh7+ 8. Kd8 $1 1-0
+
+[Event "Martin"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7K/k7/8/p7/1R6/8/8 w - - 0 1"]
+
+1. Rb8 $1 (1. Rb1 $2 Ka5 2. Kg6 a3 3. Kf5 Ka4 4. Ke4 a2) Ka5 (a3 2. Ra8+) 2. Kg6 a3 3. Kf5 Ka4 (a2 4. Ra8+) 4. Ke4 a2 5. Kd3 Ka3 6. Kc2 a1=N+ $1 7. Kc3 1-0

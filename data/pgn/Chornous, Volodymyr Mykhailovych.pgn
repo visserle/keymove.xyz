@@ -1,0 +1,18 @@
+
+
+[Event "sp.hm Tsereteli 150 JT"]
+[Source "EG#09138"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[Composer "Chornous, Volodymyr Mykhailovych"]
+[Composer2 "Rezvov, Nikolay Vasilievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "RK1kn3/3b2P1/3p1P1n/8/3N4/8/7p/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. g8=Q $1 (1. Kb7+ $143 Bc8+ 2. Rxc8+ Kd7 3. Rd8+ $1 Kxd8 4. Nc6+ Kd7 5. g8=Q (5. f7 $143 Nxf7 $1 6. g8=Q Nd8+ $1 $19 7. Kb6 h1=Q $1) h1=Q $1 $11) Nxg8 (h1=Q $144 2. Qg5 Qb1+ 3. Ka7+ Bc8 4. f7+ Kd7 5. f8=N+ Kc7 6. Qe7+ Bd7 7. Qxd7#) 2. Kb7+ Bc8+ 3. Rxc8+ Kd7 4. Rd8+ $1 Kxd8 5. Nc6+ Kd7 6. f7 d5 $1 (h1=Q $144 7. f8=N#) 7. fxg8=Q (7. f8=Q $143 h1=Q $11) Nd6+ 8. Kb6 h1=Q 9. Qg7+ $1 Ke6 10. Nd4# 1-0

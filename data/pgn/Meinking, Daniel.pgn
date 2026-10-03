@@ -1,0 +1,55 @@
+[Event "Chess Life & Review#1075"]
+[Source "Chess Life & Review/7"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Meinking, Daniel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5N1K/2p5/3p4/8/P4p2/8/8/7k w - - 0 1"]
+
+1. Ne6 $1 f3 2. Ng5 f2 3. Ne4 f1=N $1 4. Ng3+ $1 Nxg3 5. a5 $1 1-0
+
+[Event ".c Chess Life & Review#1304"]
+[Source "Chess Life & Review/11 EG#05502."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Meinking, Daniel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7Q/2p5/2P5/2P5/p5p1/p2pPpP1/kp1K1P2/8 w - - 0 1"]
+
+1. Qg8+ $1 Ka1 (Kb1 2. Qc4) 2. Qg7 Ka2 3. Qf7+ Ka1 4. Qf6 Ka2 5. Qe6+ Ka1 6. Qe5 Ka2 7. Qd5+ Ka1 8. Qd4 Ka2 9. Qc4+ Ka1 10. Qxa4 $1 Ka2 11. Qc4+ Ka1 12. Qb3 a2 13. Qc3 Kb1 14. Qxd3+ Ka1 15. Qd4 Kb1 16. Qe4+ Ka1 17. Qe5 Kb1 18. Qf5+ Ka1 19. Qf6 Kb1 20. Qg6+ Ka1 21. Qg7 Kb1 22. Qh7+ Ka1 23. Qh8 Kb1 24. Qh1# 1-0
+
+[Event "3.p Pan American Study ty San Francisco"]
+[Source "San Francisco Chronicle/6 EG#05681."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Meinking, Daniel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p2ppK/4R1B1/8/p6P/8/1p1pRp1p/2k5 w - - 0 1"]
+
+1. Rc6+ $1 Kd1 2. Bh5 g6 3. Bg4 f5 $1 (f1=Q 4. Re7+ Qe2 5. Bxe2+ Ke1 6. Bb5+ Kf2 7. Rxf7+ Ke3 8. Rf1 a3 9. Bc4) 4. Re1+ Kxe1 5. Re6+ Kf1 6. Bh3+ Kg1 7. Rxg6+ Kh1 8. Bg2+ Kg1 9. Bc6+ Kf1 10. Bb5+ Ke1 11. Re6+ Kd1 12. Bxa4+ Kc1 13. Rc6+ Kb1 14. Bc2+ Kc1 $1 15. Bxf5+ Kd1 16. Bg4+ Ke1 17. Re6+ Kf1 18. Bh3+ Kg1 19. Rg6+ Kh1 20. Bd7 $1 f1=Q 21. Bc6+ Qg2 22. Rxg2 b1=Q+ 23. Rg6+ Qe4 24. Bxe4# 1-0
+
+[Event "Chess Life & Review#1393"]
+[Source "Chess Life & Review/2"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Meinking, Daniel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2kN4/6K1/8/4P3/7p/8/8/8 w - - 0 1"]
+
+1. e6 $1 h3 2. e7 h2 3. e8=Q h1=Q 4. Nc6+ $1 Kb7 5. Qb8+ Ka6 6. Qa8+ Kb6 7. Qa5+ Kb7 8. Qa7+ Kc8 9. Qb8+ Kd7 10. Qd8+ Ke6 11. Nd4+ Ke5 12. Qf6+ Kd5 13. Qc6+ 1-0

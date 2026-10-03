@@ -1,0 +1,54 @@
+[Event "EG"]
+[Source "EG/10 EG#03477."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Nunn, John Denis Martin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/6Nk/5p1P/7P/1p3K2/6p1/6B1 w - - 0 1"]
+
+1. Be3+ $1 (1. Bd4 $2 b2) (1. Nf4 $2 b2 2. Bc5 g1=Q 3. Bxg1 b1=Q) f4 $1 (Kg7 2. Kxg2 hxg6 (b2 3. Bd4+) 3. h6+ Kh7 4. Bc1 f4 5. Kf3 Kxh6 6. Kg4 (6. Kxf4 $2 Kh5 7. Kg3 b2 8. Bxb2 g5) Kg7 7. Kxf4) (Kxh5 2. Nf4+) 2. Nxf4 (2. Bxf4+ $2 Kxh5) g1=Q $1 (b2 3. Nd3+) 3. Bxg1 b2 4. Bc5 $1 Kg7 5. Bd4+ Kh6 $1 6. Ne6 $1 (6. Bxb2 $2) b1=Q 7. Bg7+ Kxh5 8. Nf4+ Kxh4 9. Bf6# 1-0
+
+[Event "EG"]
+[Source "EG/6 EG#03712."]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Nunn, John Denis Martin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2B5/7k/P3K3/8/3p3p/8/8/5b2 w - - 0 1"]
+
+1. a7 $1 Bg2 2. Ke5 (2. Kf6 $2 Kh6 3. Bf5 Ba8 4. Ke5 d3) d3 (Kg7 3. Bf5 h3 (d3 4. Bxd3) 4. Bxh3 Bh1 5. Kxd4 Kf6 6. Kc5) 3. Bf5+ Kg7 4. Bxd3 h3 5. Bf1 Kf7 6. Kd6 (6. Kf4 $2 Ke7 7. Kg3 Ba8 8. Bxh3 Kd8 9. Bg2 Kc7 10. Bxa8 Kb6) Kf6 (Kg7 7. Ke7 Kh7 8. Kf6 Kh6 9. Bxg2) 7. Bxg2 hxg2 8. a8=Q g1=Q 9. Qf8+ Kg6 10. Qg8+ 1-0
+
+[Event "Schaakbulletin#181"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Nunn, John Denis Martin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/1B6/6k1/7N/4R3/8/r5p1/8 w - - 0 1"]
+
+1. Ng3 $1 (1. Nf4+ $2 Kf5 2. Nh3 (2. Ne2 Rxe2) g1=Q+ 3. Nxg1 Rg2+) Ra8+ $1 (Kg5 2. Re7 $1 (2. Bc8 $2 Ra8 3. Rg4+ Kf6 4. Nh5+ Ke5 5. Rg5+ Ke4) (2. Re1 $2 Kf4 3. Ne4 (3. Nh5+ Kg5 4. Ng7 Kg4) Re2 4. Rg1 Rb2 5. Bc6 (5. Nc5 Kg3) (5. Nd6 Rb6) (5. Bd5 Ke5 6. Nc3 Kd4) Rc2) g1=Q (Kg4 3. Rg7+ Kh3 4. Nf5 Kh2 5. Rh7+ Kg1 6. Nh4) 3. Rg7+) (g1=Q 2. Rg4+ Kh6 3. Nf5+ Kh5 4. Rxg1 Ra8+ 5. Kf7 $1 (5. Kh7 $2 Rh8+ 6. Kg7 Rg8+) Rf8+ 6. Ke6 Rf6+ 7. Ke5 Re6+ 8. Kf4) 2. Bxa8 g1=Q 3. Rg4+ Kh6 4. Nf5+ (4. Be4 $2 Qb6) (4. Bf3 $2 Qxg3 5. Rxg3) Kh5 5. Rg3 $1 (5. Rg2 $2 Qd1) (5. Rg7 $2 Qd1) Qd1 6. Bf3+ 1-0
+
+[Event "Due Alfieri"]
+[Source "also Deutsche Schachzeitung/2 1986."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Nunn, John Denis Martin"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7n/7P/1k6/1P2K3/1p6/8/8/8 w - - 0 1"]
+
+1. Kd4 $1 (1. Kf6 $2 b3 2. Kg7 b2 3. Kxh8 b1=Q 4. Kg7 Qg1+ 5. Kf7 Qd4 6. Kg8 Qg4+ 7. Kf7 Qf5+ 8. Kg7 Qg5+ 9. Kf7 Qh6 10. Kg8 Qg6+ 11. Kh8 Kc5 12. b6 Qf7 13. b7 Qf8#) Kxb5 (Ka5 2. Kc4) (Nf7 2. Kc4 Ka5 3. b6) 2. Ke5 $1 b3 3. Kf6 b2 4. Kg7 b1=Q 5. Kxh8 1/2-1/2

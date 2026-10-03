@@ -1,0 +1,13 @@
+[Event "Schweizerische Schachzeitung (pl)"]
+[Source "= Vinje=O b2h1 1938."]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Ormond, Jean-Louis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5p2/8/8/8/PK6/7k w - - 0 1"]
+
+1. Kc3 $1 (1. a4 $2 f5 2. a5 f4 3. a6 f3 4. a7 f2 5. a8=Q+ Kg1) Kg2 2. Kd4 f5 (Kf3 3. a4 f5 4. a5 f4 5. a6 Ke2 6. a7 f3 7. a8=Q f2 8. Qg2 Ke1 9. Ke3) (Kg3 3. Ke4 $1 Kg4 4. a4 f5+ 5. Kd3 $1 f4 6. a5 f3 7. a6 Kg3 (f2 8. Ke2) 8. a7 f2 9. Ke2 Kg2 10. a8=Q+) 3. Ke5 Kf3 4. Kxf5 Ke3 5. Ke5 Kd3 6. Kd5 Kc3 7. Kc5 Kb2 8. a4 1-0

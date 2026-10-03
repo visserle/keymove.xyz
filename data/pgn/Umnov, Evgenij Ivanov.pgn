@@ -1,0 +1,13 @@
+[Event "Zadachy i Etyudy#17 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - XI-65 2012."]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Umnov, Evgenij Ivanov"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5P2/pNPp3p/4k2P/7P/2P2r2/3K4/5b2 w - - 0 1"]
+
+1. c7 $1 Bh3 2. Nc4+ Kd5 3. Ne3+ Ke4 (Kc6 4. Nf5 Kxc7 5. f8=Q Rxf5 6. Qxh6) 4. Nf5 Rxf5 (Bxf5 {<main>} 5. f8=Q) 5. c8=Q Rf2+ 6. Ke1 Bxc8 7. Kxf2 1-0

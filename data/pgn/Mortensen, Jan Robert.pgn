@@ -1,0 +1,25 @@
+[Event "Diagramme und Figuren#917"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Mortensen, Jan Robert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7N/6P1/7k/8/7K/8/8/8 w - - 0 1"]
+
+1. g8=R $1 (1. g8=Q $2) (1. g8=B $2 Kg7) 1-0
+
+[Event "Diagramme und Figuren"]
+[Date "1965.03.14"]
+[Round "?"]
+[Composer "Mortensen, Jan Robert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5kB1/3K3P/8/8/8/8/8/8 w - - 0 1"]
+
+1. h8=R $1 (1. h8=Q $2) 1-0

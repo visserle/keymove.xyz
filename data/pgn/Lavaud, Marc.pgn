@@ -1,0 +1,28 @@
+[Event "1.p tp30#1934"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[Composer "Lavaud, Marc"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/r1k4B/4p3/4KP2/3n3B/8/5N2/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. f6 $1 Nf3+ 2. Kxe6 Ra6+ $1 (Nxh4 $144 3. f7 Ra8 4. Be4 Rd8 5. Ng4 Rd6+ 6. Ke5 Rd8 7. Nf6 Rf8 8. Ke6 Rxf7 9. Kxf7 Kd6 10. Ng4 Kc5 11. Kf6 Kd4 12. Bh1 $18) 3. Ke7 Ra7 $3 4. f7 $1 (4. Be4 $143 Kb6+ 5. Ke6 Nxh4 6. f7 Rxf7 7. Kxf7 Kc5 8. Kf6 Kd4 9. Kg5 Ke3 $11) Kc6+ $1 (Kb6+ $144 5. Ke6 Rxf7 6. Bd8+ Rc7 7. Kd6 $18) 5. Ke6 Rxf7 6. Be4+ Kc5 7. Bd8 $1 Rf4 (Ne5 $144 8. Nd3+ $1 Kd4 (Nxd3 $144 9. Kxf7 $18) 9. Nxe5 Rf8 10. Bg6 Rxd8 11. Nc6+ $18) 8. Nd3+ Kd4 9. Bb6+ Kxe4 10. Nf2# 1-0
+
+[Event ".c Phénix#0773 (c)"]
+[Source "Phénix/12 1990 (c): Garcia=M Estudios Artisticos de Ajedrez - VI-47 2012."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Lavaud, Marc"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p5p1/4p3/3Nk1K1/pPP5/4P2p/1p2N2P/8 w - - 0 1"]
+
+1. Ndc3 $1 a3 2. c5 $1 (2. Nb1 $2 a2 3. Nec3 a1=Q 4. c5 g6 $1 (Qa6 $2 5. Nd2) (a6 $2 5. e4 $1 (5. Kg6 $2 Qa5 $1 6. bxa5) Kd4 6. c6)) (2. Nd4 $2 b1=Q $1 (a2 $2 3. c5)) b1=Q 3. Nxb1 a2 4. Nd2 $1 a1=Q 5. e4 $1 Qa6 (Qa2 {<main>} 6. Nf3+ Kxe4 7. Nc3+ Kxf3 8. Nxa2) (Qa3 {<main>} 6. Nc4+ Kxe4 7. Nxa3) (Qh1 {<main>} 6. Nc4+ Kxe4 7. Ng3+ Kd4 8. Nxh1) (a5 6. bxa5) 6. b5 $1 Qa1 (Qxb5 {<main>} 7. Nf3+ Kxe4 8. Nc3+ Kxf3 9. Nxb5) (Qb7 {<main>} 7. Nc4+ Kxe4 8. Nd6+ Ke3 9. Nxb7) (Qc8 {<main>} 7. Nc4+ Kxe4 8. Nd6+ Ke3 9. Nxc8) (Qa5 {<main>} 7. Nc4+ Kxe4 8. Nxa5) 7. Kg6 a6 (Qh1 8. Nc4+ Kxe4 9. Ng3+ Kd4 10. Nxh1) 8. b6 Qa4 9. Nf3+ Kxe4 10. Nc3+ Kxf3 11. Nxa4 1-0

@@ -1,0 +1,12 @@
+[Event "Magadansky Komsomolets"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Kozhakin, Vladimir Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/K2p4/8/1p6/Pk6/5P2/1P6/8 w - - 0 1"]
+
+1. a5 $1 (1. axb5 $2 Kxb5 $1) (1. f4 $2 bxa4 2. f5 Kc5 $1) Kxa5 2. f4 d5 $1 (Kb4 3. Kb6 Kc4 4. f5 Kd5 5. Kxb5 Ke5 6. Kc5 Kxf5 7. Kd6) 3. f5 d4 4. f6 d3 5. f7 d2 6. f8=Q d1=Q 7. Qa3+ Qa4 8. b4# 1-0

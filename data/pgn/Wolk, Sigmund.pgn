@@ -1,0 +1,12 @@
+[Event "Schach Echo#061"]
+[Date "1955.01.20"]
+[Round "?"]
+[Composer "Wolk, Sigmund"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "n1k5/P2pK3/1p6/1P3N2/8/8/8/8 w - - 0 1"]
+
+1. Nd6+ $1 (1. Kd6 $2 Nc7 2. Ne7+ Kd8 3. a8=Q+ Nxa8 4. Nd5 Kc8 5. Ke7 Nc7) (1. Nd4 $2 Nc7 2. Kd6 Kb7 $1 3. Kxd7 Nxb5 $1 4. Nxb5 Ka8) (1. Ke8 $2 Nc7+ 2. Ke7 Kb7) Kc7 2. Ne8+ $1 (2. Nc4 $2 d5 $1) (2. Ke8 $2 Kxd6 3. Kd8 Ke6 $1 4. Kc8 d5 5. Kb7 Kd7 6. Kxa8 Kc8) Kc8 (Kb7 3. Kxd7 Kxa7 4. Kc8) 3. Kd6 $1 Kd8 4. Nf6 (4. Ng7 $2 Nc7 5. Ne6+ dxe6 6. Kc6 Na8 $1) Nc7 5. Ke5 $1 Kc8 $1 (d6+ 6. Kf5 Kc8 7. Nd5 $1 Na8 8. Ke6 Kb7 9. Kd7) 6. Nd5 $1 (6. Ne8 $2 Na8 7. Nd6+ Kc7 8. Kd5 Kd8 9. Ke4 Kc7 10. Ke5 Kd8 11. Kf6 Kc7 12. Ke7) Na8 7. Kf6 $1 (7. Kd6 $2 Kb7 8. Nb4 Nc7 $1 9. Ke5 $1 Kc8 10. Na6 Na8 11. Kd6 Kd8 $1 12. Nb8 Nc7 13. Nc6+ dxc6 14. Kxc6 Na8 $1) Kd8 (Kb7 8. Ke7 Kxa7 9. Kxd7 Kb7 10. Kd6 Kb8 (Kc8 11. Kc6 Kb8 12. Nxb6 Nc7 13. Nd7+ Kc8 14. b6) 11. Kc6 Ka7 12. Nc7) 8. Kf7 Kc8 (d6 9. Ke6) 9. Ke7 d6 10. Ke8 Kb7 11. Kd7 Kxa7 12. Kc8 Nc7 13. Kxc7 1-0

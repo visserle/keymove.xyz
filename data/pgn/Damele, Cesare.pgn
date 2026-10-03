@@ -1,0 +1,12 @@
+[Event "source unknown"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Damele, Cesare"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/p7/4k3/1PP1p3/4K3/7P/8 w - - 0 1"]
+
+1. h3 $1 (1. b5 $2 axb5 2. cxb5 Kd5 3. b6 Kc6 4. Kxe4 Kxb6 5. Kf5 Kc6 6. Kg5 Kd6 7. Kh6 Ke7 8. Kxh7 Kf7) (1. h4 $2 h5 2. b5 (2. c5 Kd5 $1 (Kf5 $2 3. c6 (3. Kd4 Kf4) Ke6 4. Kxe4) 3. Kf4 Kd4 4. c6 e3) axb5 3. cxb5 Kd5 4. b6 Kc6 5. Kxe4 Kxb6 6. Kf5 Kc6 7. Kg5 Kd6 8. Kxh5 Ke7 9. Kg6 Kf8) h6 (Kf5 2. b5 axb5 3. cxb5 Ke5 4. b6 Kd6 5. Kxe4 Kc6 6. Kf5 Kxb6 7. Kg5 Kc6 8. Kh6 Kd6 9. Kxh7 Ke6 10. Kg6 $1 (10. Kg7 Kf5) Ke7 11. Kg7 Ke6 12. h4) (h5 2. h4 Kf5 3. b5 axb5 4. cxb5 Ke5 5. b6 Kd6 6. Kxe4 Kc6 7. Kf5 Kxb6 8. Kg5 Kc6 9. Kxh5 Kd6 10. Kg6 Ke7 11. Kg7) 2. b5 axb5 (a5 3. b6 Kd6 4. c5+ Kc6 5. Kxe4 a4 6. Kd4) 3. cxb5 Kd5 4. b6 Kc6 5. Kxe4 Kxb6 6. Kf5 Kc6 7. Kg6 Kd6 8. Kxh6 Ke6 9. Kg6 1-0

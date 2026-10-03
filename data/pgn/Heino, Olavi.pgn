@@ -1,0 +1,25 @@
+[Event "1/2.p Ajan Sana"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Heino, Olavi"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3B4/pp2N3/8/P1pK4/1k3p1P/5p2/1P5P/8 w - - 0 1"]
+
+1. a6 $1 bxa6 (b6 2. Bxb6 $1 axb6 3. a7 f2 4. a8=Q f1=Q 5. Qa3+ Kb5 6. Qb3+ Ka5 (Ka6 7. Qc4+) 7. Nc6+ Ka6 8. Qa4+ (8. Qc4+ $2 Qxc4+ 9. Kxc4 f3) Kb7 9. Qa7+ Kc8 10. Qb8+ Kd7 11. Qd8#) (b5 2. Bb6 $1 axb6 3. a7 f2 4. a8=Q f1=Q 5. Qa3#) 2. Ba5+ $1 Kxa5 3. Kxc5 Ka4 (f2 4. b3 f1=Q 5. Nc6#) 4. Nd5 f2 5. Nc3+ Kb3 (Ka5 6. b4#) 6. Ne4 f1=Q (f1=N 7. h5) 7. Nd2+ 1-0
+
+[Event "Helsingin Sanomat"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Heino, Olavi"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/K5NB/8/8/8/4p3/3k4 w - - 0 1"]
+
+1. Bd2 $1 Kxd2 2. Nh4 $1 (2. Ne5 $2 Ke3 3. Nc4+ Kd3 4. Ne5+ Ke4) Ke3 3. Ng2+ Kf2 4. Nf4 e1=Q 5. Nd3+ 1/2-1/2

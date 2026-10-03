@@ -1,0 +1,33 @@
+[Event "1.p Ceskoslovensky Sach#027"]
+[Source "Ceskoslovensky Sach/4"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Tyavlovsky, Vitaly Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/8/2B1p3/7k/2P2Kp1/8/7n/8 w - - 0 1"]
+
+1. c5 $1 (1. Be8+ $2 Kh4 $1 2. c5 $10) (1. Be4 $2 e5+ 2. Kf5 $10) (1. Kg3 $2 Nf1+ 2. Kg2 $10) (1. Bg2 $2 Nf3 (Kg6 $1) 2. c5 $10 e5+ 3. Ke4) (1. Ke5 $2 g3 2. c5 Ng4+ 3. Kxe6) (1. Ke4 Kg5 2. c5) Nf1 $1 (e5+ 2. Ke3 $1 Nf1+ 3. Kd3 Ng3 4. Be4 Nxe4 5. Kxe4 g3 6. Kf3 Kh4 7. c6 e4+ 8. Kg2 e3 9. Kf3 $1 e2 10. Kxe2 Kh3 11. c7) (Kh4 2. Bg2 $1) (Kg6 2. Be8+ $1) (g3 2. Bf3+) 2. Bd5 $1 (2. Be8+ $2 Kh4 3. c6 $10 e5+ $1) (2. Be4 $2 e5+ 3. Kf5 $10 Ne3+ 4. Kxe5 Nc4+ 5. Kd5) (2. Ke5 $2 Kg6 3. Be4+) (2. Bg2 $2 Nd2 3. c6 Nc4) (2. Bb5 $2 e5+ $1 3. Kxe5 Nd2 4. c6 g3 5. c7 g2 6. c8=Q g1=Q 7. Qh8+ Kg5 8. Qg8+ Kh4 9. Qxg1 Nf3+) e5+ $1 3. Kxe5 (3. Ke4 $2 Kg5 $1 4. c6 $10 Ng3+ $1 5. Ke3 (5. Kxe5 Nf5)) (3. Kf5 $2 g3 4. c6 $10) Ne3 4. c6 (4. Kd6 $2 g3 5. c6 $10) (4. Be4 $2 Kg5 5. c6) (4. Be6 $2 Kh4 5. c6 Nc4+ $4 (g3 $5) 6. Bxc4) (4. Bg2 $2 Kg6 5. c6) (4. Kf4 Nxd5+ 5. Ke4 g3) g3 5. c7 (5. Bf3+ $2 Kg5 6. c7) (5. Bg2 $2 Nc4+ 6. Kd5) (5. Bh1 $2 Nc4+ 6. Kd5) (5. Kf4 $2 Nxd5+ 6. Kxg3) (5. Ke6 Nxd5 6. Kxd5) (5. Bf7+ Kg5 6. c7) Nc4+ $1 (g2 6. Bxg2 Nc4+ 7. Kd5 Nb6+ 8. Kc5 Nc8 9. Bh3 Na7 (Ne7 10. Kd6) 10. Kb6) 6. Bxc4 (6. Ke6 $2 Nb6 7. c8=Q $10) (6. Kf4 $2 Nb6 7. c8=Q $10 Nxc8 8. Kxg3) (6. Kd4 $2 Nb6 7. c8=Q) (6. Kf6 $2 Nb6 7. c8=Q) (6. Kf5 $2 Nb6 7. c8=Q) (6. Ke4 $2 g2 7. Bxc4) g2 7. c8=R $18 $1 (7. c8=Q $4 $2 g1=Q 8. Qh8+ Kg4 9. Qg7+ Kf3 10. Qxg1) (7. Be2+ $4 Kh4 8. c8=Q $10) (7. Bf7+ $4 Kh4 8. c8=Q) (7. Bd5 $4 g1=Q 8. c8=Q) (7. Ke4 $4 g1=Q 8. c8=Q) (7. Kf5 $4 g1=Q 8. Be2+) (7. Kf4 g1=Q 8. c8=Q) (7. Kd5 g1=Q 8. c8=Q) (7. Kd6 g1=Q 8. c8=Q) (7. Bf1 g1=Q 8. c8=Q) 1-0
+
+[Event "2.p L'Italia Scacchistica"]
+[Source "EG#01082."]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Tyavlovsky, Vitaly Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "K7/8/4P3/6b1/P4n2/1k6/8/8 w - - 0 1"]
+
+1. e7 $1 (1. a5 $2 Nxe6 2. a6 Be3 3. Kb7 (3. a7 Nd8) Nc5+ 4. Kb6 Ne4+ 5. Kb7 Nd6+ 6. Kc6 Nc8 $19) Bxe7 2. a5 Ne6 3. a6 $1 (3. Kb7 $2 Nc5+ 4. Kb6 Kb4 5. a6 Bd8+ $19) (3. Kb8 $2 Nd4 4. Kb7 Bc5) (3. Ka7 $2 Nd4 4. Kb8 Bc5) Nd8 4. Kb8 $1 (4. a7 $2 Bc5 5. Kb8 Nc6+ $19) (4. Ka7 $2 Bc5+ 5. Kb8 Nc6+) Bc5 5. Kc7 (5. Kc8 $2 Nc6 $19) (5. a7 $2 Nc6+ 6. Kc8 Nxa7+ 7. Kb8 Nb5) (5. Ka8 $2 Nc6) Ne6+ 6. Kb7 $1 (6. Kb8 $2 Nd4 7. Kb7 Nb5 $19) (6. Kc6 $2 Be3 $19 7. Kb7 Nc5+) (6. Kd7 $2 Nd4 $19 7. Ke8 Kc3) (6. Kc8 Nd4) Nd8+ 7. Kc7 $10 (7. Kc8 $2 Nc6 $19) (7. Ka8 $2 Nc6) (7. Kb8 $2 Nc6+ 8. Kc7 Nd4 9. a7 Bxa7) 1/2-1/2

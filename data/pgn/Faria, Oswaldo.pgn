@@ -1,0 +1,13 @@
+[Event "Problem#037"]
+[Source "Problem/3"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Faria, Oswaldo"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4b3/2k1P3/8/K7/3N4/B5q1/8/8 w - - 0 1"]
+
+1. Bd6+ $1 Qxd6 2. Nb5+ Bxb5 3. e8=N+ Bxe8 1/2-1/2

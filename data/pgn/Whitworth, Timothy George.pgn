@@ -1,0 +1,67 @@
+[Event "New Statesman {and Nation}"]
+[Date "1973.07.06"]
+[Round "?"]
+[Composer "Whitworth, Timothy George"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1KN5/3r4/3P2P1/3k4/n7/8/8/8 w - - 0 1"]
+
+1. g7 $1 Rxg7 2. d7 Rxd7 3. Nb6+ Nxb6 1/2-1/2
+
+[Event "New Statesman {and Nation}"]
+[Date "1974.05.17"]
+[Round "?"]
+[Composer "Whitworth, Timothy George"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4Bk2/8/5PPK/4nq2/2R5/8/8/8 w - - 0 1"]
+
+1. g7+ $1 Kg8 2. f7+ Nxf7+ 3. Bxf7+ Kxf7 4. g8=Q+ Kxg8 5. Rg4+ Kf8 (Qxg4) 6. Rg8+ Kxg8 1/2-1/2
+
+[Event "EG (v)"]
+[Source "EG/7 EG#03006. (v): British Chess Magazine/6 1988."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Whitworth, Timothy George"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/N3k3/4p3/1n1P4/3p2n1/1K2N3 w - - 0 1"]
+
+1. Nc4+ $1 Kd4 2. Nxd2 Nxd2+ 3. Kc1 Nb3+ 4. Kd1 Ne3+ 5. Ke2 Nc1+ 6. Kd2 Nxd3 7. Nf3+ exf3 1/2-1/2
+
+[Event "EG"]
+[Source "EG/7"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Whitworth, Timothy George"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/8/6P1/4p3/2K4k/2P5/8 w - - 0 1"]
+
+1. Kd4 $1 (1. g6 $2 hxg6) (1. Kd2 $2 Kg4 2. c4 Kxg5 3. c5 Kf6) Kh4 (Kg4 2. g6 hxg6 3. Kxe4 Kg5 4. Ke5 Kh4 5. c4 g5 6. c5 g4 7. Kf4 Kh3 8. c6 g3 9. c7 g2 10. c8=Q+) 2. g6 (2. c4 $2 Kxg5) (2. Kxe4 $2 Kxg5 3. Ke5 (3. c4 Kf6) h5) hxg6 3. Kxe4 (3. c4 $2 Kg5) g5 (Kg5 4. Ke5 Kh4 (Kh6 5. c4 Kg7 6. c5 Kf7 7. Kd6 Ke8 8. Kc7 g5 9. Kb7 g4 10. c6) 5. c4 g5 6. c5 g4 7. Kf4 g3 8. Kf3 Kh3 9. c6 g2 10. c7 g1=Q 11. c8=Q+) 4. c4 g4 5. c5 g3 6. Kf3 Kh3 7. c6 g2 8. c7 g1=Q 9. c8=Q+ Kh4 10. Qh8+ Kg5 11. Qg7+ (11. Qg8+ {<or>}) Kf5 12. Qxg1 1-0
+
+[Event "EG"]
+[Source "EG/5 EG#04555."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Whitworth, Timothy George"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2N3k1/8/8/3p1K2/8/1Bp4p/8/8 w - - 0 1"]
+
+1. Ne7+ $1 (1. Kf4 $2 c2 2. Bxc2 h2) Kh7 (Kg7 2. Ke5 h2 (Kh7 3. Kf6) 3. Nf5+) (Kf7 2. Nxd5 h2 3. Nxc3+) (Kf8 2. Ng6+ Kg7 3. Nf4) 2. Kf6 (2. Kf4 $2 h2 3. Bxd5 c2) (2. Nxd5 $2 h2 3. Nf6+ Kh8) (2. Bxd5 $2 c2) (2. Bc2 $2 h2 3. Ke5+ Kh8) h2 (Kh8 3. Ng6+) (Kh6 3. Nf5+) 3. Bxd5 c2 (h1=Q 4. Bxh1 c2 5. Be4+ Kh8 6. Ng6+) (Kh6 4. Nf5+ Kh7 (Kh5 5. Bf3#) 5. Ne3) 4. Bg8+ (4. Be4+ $2 Kh8 5. Ng6+ Kg8) Kh6 (Kh8 5. Kf7 c1=Q 6. Ng6#) 5. Nf5+ Kh5 6. Bd5 Kg4 7. Ne3+ Kg3 8. Nxc2 Kf2 9. Nd4 1-0

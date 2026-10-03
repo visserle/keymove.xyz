@@ -1,0 +1,12 @@
+[Event "Schackvärlden#364"]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Ljungman, Reino Oskar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/8/1N3K2/2p5/5P1p/1kp1P2P/2N5 w - - 0 1"]
+
+1. Nd6 $1 Kxc1 2. Nxc4 Kd1 3. Ne3+ Kxe2 4. Nxc2 Kxf3 5. Ne1+ Kf2 6. Kg4 Kxe1 7. Kxh3 Kf2 8. Kg4 f5+ 9. Kxf5 (9. Kf4 {<or>}) Kg2 10. h4 1-0

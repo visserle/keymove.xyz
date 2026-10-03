@@ -1,0 +1,55 @@
+[Event "Ceskoslovensky Sach#410"]
+[Source "Ceskoslovensky Sach/3-4"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Jelinek, Zdenek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/8/5p2/8/8/p1K2PPP/k7 w - - 0 1"]
+
+1. Kc1 $1 f4 (h6 2. h3 $1) (h5 2. h4 $1) 2. Kc2 $1 f3 (h5 3. h4 f3 4. g4 hxg4 5. h5) 3. g4 $1 h6 4. h3 $1 (4. h4 $2 h5) h5 5. h4 hxg4 6. h5 g3 7. h6 g2 8. h7 g1=Q 9. h8=Q+ 1-0
+
+[Event "Ceskoslovensky Sach#76"]
+[Source "Ceskoslovensky Sach/10-11"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Jelinek, Zdenek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p1p/3p4/3P4/p7/p7/p4PPP/k1K5 w - - 0 1"]
+
+1. Kc2 $1 (1. f4 $2 h5 2. g3 f5 3. h3 h4 4. gxh4) f5 (f6 2. f3 f5 3. g3) 2. Kc1 f4 3. Kc2 f3 4. g4 (4. gxf3 $2 h5 5. h3 h4 6. f4) h5 (h6 5. h3 $1 h5 6. h4 hxg4 7. h5) 5. h4 hxg4 6. h5 g3 7. h6 gxf2 8. h7 f1=Q 9. h8=Q# (9. h8=B# {<or>}) 1-0
+
+[Event "5.hm Sach#33"]
+[Source "Sach/7"]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Jelinek, Zdenek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3p4/2pP3k/2P5/3P4/8/7K w - - 0 1"]
+
+1. Kg1 $1 Kg5 (Kg6 2. Kg2) 2. Kf1 Kf5 3. Ke2 (3. Ke1 {<or>}) Kf6 4. Kf2 Kg7 5. Ke3 Kf6 6. d4 cxd4+ 7. Kxd4 Ke7 8. Kc3 Kd7 9. Kb4 Kc7 10. Ka5 1-0
+
+[Event "Sach#71"]
+[Source "Sach/10"]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Jelinek, Zdenek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/8/5P1p/6pP/8/5K1P/8/8 w - - 0 1"]
+
+1. Ke3 $1 (1. Ke4 $2 Kg8 2. Ke5 Kf8) Kg8 (Kh7 {<main>} 2. Kd4 Kg8 3. Ke4 $1) 2. Ke4 Kf8 3. Ke5 1-0

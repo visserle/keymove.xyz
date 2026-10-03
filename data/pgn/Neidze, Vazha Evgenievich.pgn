@@ -1,0 +1,136 @@
+[Event "Revista de Romana de Sah#0401"]
+[Source "Revista de Romana de Sah/12"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Neidze, Vazha Evgenievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1bk5/2p5/PP1p4/2Pp4/KPrP4/8/2p5/R7 w - - 0 1"]
+
+1. a7 $1 (1. Rc1 $2 dxc5) c1=Q 2. Rxc1 Rxc1 3. a8=Q $1 Ra1+ 4. Kb5 Rxa8 5. b7+ $1 Kxb7 6. c6+ Kc8 (Ka7 7. Ka5) 1/2-1/2
+
+[Event "Problem#122"]
+[Source "Problem/9"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Neidze, Vazha Evgenievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2K1N3/8/1p6/1p2k3/1P1n4/B2P4/7b w - - 0 1"]
+
+1. Bb1 $1 Kd4 2. Nf5+ Kc5 3. Bxd3 Be4 4. Bc2 $1 (4. Bxe4 $2) Bxc2 5. d4+ Kd5 6. Ne3+ Kxd4 7. Nxc2+ Kc3 8. Na1 1-0
+
+[Event "Lelo"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Neidze, Vazha Evgenievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7p/6p1/6pk/q1B3R1/6P1/7K w - - 0 1"]
+
+1. Be1 $1 Qxg3 $1 2. Bf2 $1 Qxf2 (h5 {<main>} 3. Kg1 $1 Qxf2+ 4. Kxf2 g3+ 5. Kf3 g4+ 6. Kf4) 3. g3+ Qxg3 (Kxg3) (Kh5) (Kh3) 1/2-1/2
+
+[Event "E2 E4"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Neidze, Vazha Evgenievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "n7/1n6/KPk1P3/P1p5/2P5/8/8/8 w - - 0 1"]
+
+1. e7 $1 Nd6 2. e8=Q+ Nxe8 3. b7 Nac7+ 4. Ka7 Nd6 5. b8=N# (5. b8=Q $2 Ndb5+ 6. cxb5+ Nxb5+ 7. Ka8 Nc7+) 1-0
+
+[Event "4.c Problem"]
+[Source "Problem/2 1970 EG#09854."]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Neidze, Vazha Evgenievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6kn/5qP1/4R1pK/6P1/8/1p5B/1P6/8 w - - 0 1"]
+
+1. Re8+ $1 Qxe8 2. Be6+ Qxe6 (Nf7+ 3. Bxf7+ Qxf7 (Kxf7 4. g8=Q+ Qxg8 (Kxg8))) (Qf7 3. gxh8=Q+ Kxh8 4. Bxf7) 3. gxh8=Q+ Kxh8 1/2-1/2
+
+[Event "source unknown"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Neidze, Vazha Evgenievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6r1/8/8/p1p5/1kP5/3B4/PK6/n7 w - - 0 1"]
+
+1. a3+ $1 Ka4 2. Be4 Rb8+ 3. Ka2 Rb6 $1 4. Bc2+ $1 Nxc2 (Rb3 5. Bd1 Nc2 6. Bxc2) 1/2-1/2
+
+[Event "3.hm Tidskrift for Schack#1969"]
+[Source "Tidskrift for Schack/11 EG#03668."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Neidze, Vazha Evgenievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/K4B2/b7/Pr3P2/k1p5/3P4/1P6/8 w - - 0 1"]
+
+1. Be8 $1 Kxa5 2. Bxb5 Bxb5 3. f6 cxd3 4. f7 d2 5. f8=Q d1=Q 6. Qa3+ Ba4 (Qa4 {<main>} 7. b4#) 7. Qc5+ Bb5 8. Qc3+ Ka4 9. Qa3# 1-0
+
+[Event "Magyar Sakkélet#1299"]
+[Source "Magyar Sakkélet/4 43/5 EG#05009."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Neidze, Vazha Evgenievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4Q1pq/6rp/7K/8/2R5/6k1 b - - 0 1"]
+
+Rg4+ $1 2. Kh3 Rh4+ 3. Kxh4 g5+ 4. Kg3 $1 h4+ 5. Kf3 Qxe6 6. Rg2+ Kh1 7. Rg1+ $1 Kh2 (Kxg1 {<main>}) 8. Rg2+ Kh3 9. Rg3+ $1 hxg3 1/2-1/2
+
+[Event "Metsnjerba da Technika"]
+[Source "EG#06320."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Neidze, Vazha Evgenievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3kb3/8/3p4/5K2/8/4N3/n3P3/8 w - - 0 1"]
+
+1. Ke6 $1 Kc7 2. Nd5+ Kc6 3. Nf6 Bg6 4. e4 Nc3 5. e5 $1 d5 6. Nxd5 Nxd5 1/2-1/2
+
+[Event "1/2.p Kaissa (v)"]
+[Source "EG#09439."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Neidze, Vazha Evgenievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p1K2P2/kP6/8/3p1p2/1P3p2/5b2 w - - 0 1"]
+
+1. f7 $1 d2 (Bh3 2. f8=Q Bd7+ 3. Kc7 f1=Q 4. Qc5 d2 5. bxa6+ (5. b6+ Ka4 6. b7 Qc1 7. b3+ Kxb3 8. b8=Q+ Bb5 9. Qg8+ Qc4) Qb5 6. Qa3+ Qa4 7. a7 Bc6 8. Qc5+ Qb5 9. Qc3+ Qb4 (Ka6 10. Qa3+ Qa5+ 11. Kxc6) 10. Kxc6 Qxc3+ 11. bxc3 Ka4 12. a8=Q+ Kb3 13. Kb5) 2. f8=Q Bxb5+ 3. Kc7 $1 d1=Q (f1=Q {<main>} 4. Qa3+ Ba4 5. Qc5+ Qb5 6. b4#) 4. Qa3+ Qa4 (Ba4 5. Qc5+ Bb5 6. Qc3+ Ka4 7. Qa3#) 5. b4# 1-0

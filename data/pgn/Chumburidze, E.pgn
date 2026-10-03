@@ -1,0 +1,41 @@
+[Event "3.p Soplis Tskhovreba Shakhmatna Skladb"]
+[Source "EG#05091."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Chumburidze, E"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1R1K4/pp4p1/k7/6P1/8/7B/p7/8 w - - 0 1"]
+
+1. Bc8 $1 a1=Q 2. Rxb7 Qa5+ 3. Ke8 Qa4+ 4. Kf8 Qa3+ 5. Kg8 Qa2+ 6. Kxg7 Qa1+ 7. Kg8 Qa2+ 8. Kf8 Qa3+ 9. Ke8 Qa4+ 10. Rb5+ Kxb5 11. Bd7+ 1-0
+
+[Event "1.p Soplis Tskhovreba Shakhmatna Skladb"]
+[Source "EG#05089."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Chumburidze, E"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r3k3/PR6/2p5/2K5/5Pp1/3r1pp1/3P2n1/6R1 w q - 0 1"]
+
+1. Rh1 $1 Nh4 2. Rxh4 Rd5+ 3. Kxc6 Rd6+ 4. Kc5 (4. Kxd6 $2 O-O-O+ 5. Kc6 Rd6+ 6. Kxd6 Kxb7 7. a8=Q+ Kxa8 8. Kc7 g2 9. Rxg4 Ka7 10. Rg6 f2 11. Rxg2 f1=Q) Rd5+ 5. Kb4 Rd4+ 6. Kc3 Rd3+ 7. Kc2 Rxd2+ 8. Kb3 Rd3+ 9. Kb4 Rd4+ 10. Kc5 Rd5+ 11. Kxd5 O-O-O+ 12. Kc6 Rd6+ 13. Kxd6 Kxb7 14. a8=Q+ Kxa8 15. Kc7 g2 16. Rxg4 Ka7 17. Rg6 f2 18. Rxg2 f1=Q 19. Ra2+ 1-0
+
+[Event "2.c Golden Fleece ty Merani"]
+[Source "EG#07731."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Chumburidze, E"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p3pP2/3p4/1K1k4/p7/1p1PR3/3B4 w - - 0 1"]
+
+1. Bc2 $1 a2 2. Re1 a1=Q 3. Bb1 a5+ 4. Kb3 a4+ 5. Kb4 a3 6. f7 Qxb1 7. Rxb1 a2 8. f8=Q axb1=Q 9. Qg7+ e5 10. Qg3 Qd3 11. Qg1+ Ke4 12. Qg4# 1-0

@@ -1,0 +1,31 @@
+[Event "?"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Selman, John"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "1r5b/5p1p/3pp1Pk/3P1P1p/4P1pK/2B3P1/8/8 w - - 0 1"]
+
+1. g7 (1. Bd2+ $2 Kg7 2. Bc3+ e5 $19) (1. gxf7 $2 Bxc3 2. f8=B+ Rxf8) (1. Bxh8 $2 hxg6 2. Bg7+ Kxg7 3. dxe6 Kh6) (1. e5 $2 exf5 2. gxf7 Kg6 $19) (1. gxh7 $2 Bxc3 2. h8=Q+ Rxh8) (1. f6 $2 Rb1 2. Bd2+ Kxg6 $19) (1. Ba1 $2 Bxa1 2. dxe6 Bf6#) e5 (Bxg7 2. Bd2# $1 (2. Bxg7+ $4 Kxg7 3. Kxh5 exf5 4. exf5 Rb4) (2. f6 $4 Bh8 3. Bd2+ Kg6 $19) (2. e5 $4 exf5 3. Bd2+ Kg6) (2. dxe6 $4 Bxc3 $19 3. exf7 Bf6#)) 2. gxh8=Q (2. gxh8=R Rxh8 3. Bd2+ $10) (2. gxh8=B $10) (2. f6 $2 Bxg7 3. fxg7 Rg8 $19 4. Bxe5 dxe5) (2. Bd2+ $2 Kxg7 3. Kxh5 f6 $19) (2. gxh8=N $2 Kg7 3. Kxh5 Kxh8) (2. g8=Q $2 Bf6+ 3. Qg5+ Bxg5#) (2. g8=N+ $2 Rxg8 3. Bd2+ Kg7 $19) (2. Bxe5 $2 dxe5 3. gxh8=Q Rxh8) (2. Bb4 $2 Kxg7 3. Bxd6 Kh6) (2. Ba5 $2 Kxg7 3. Kxh5 Rb3) Rxh8 3. Bd2+ (3. f6 $2 Rc8 4. Bd2+ Kg6 $19) (3. Bb4 $2 Rd8 4. Bd2+ Kg7) (3. Ba5 $2 Ra8 4. Bd2+ Kg7) (3. Ba1 Rc8) Kg7 4. Bh6+ (4. Bg5 $2 Ra8 5. Bh6+ Kg8) (4. f6+ $2 Kg6 $19) (4. Kxh5 $2 Rb8 5. Bh6+ Kg8 $17 $19) (4. Kg5 $2 f6+ 5. Kxh5 Rb8 $19) (4. Bb4 $2 Rc8 $19 5. Kxh5 Rc4) (4. Bc3 $2 Rc8 $19) (4. Ba5 $2 Ra8) (4. Be3 $2 Ra8 5. Bh6+ Kg8) (4. Bc1 $2 Ra8 5. Bh6+ Kg8) (4. Be1 $2 Ra8 5. Kxh5 Ra4) Kf6 5. Bg5+ (5. Bg7+ $2 Kxg7 6. f6+ Kxf6 7. Kxh5 Rg8 $19) (5. Kxh5 $2 Rc8 6. Bg5+ Kg7 $19) (5. Bf8 $2 Rxf8 6. Kxh5 Rc8) (5. Bf4 exf4 6. gxf4 Rc8) Kg7 6. Bh6+ $3 (6. Bf6+ $2 Kxf6 7. Kxh5 Rc8 $19) (6. f6+ $2 Kg6 $19) (6. Be7 $2 Rc8 7. Kxh5 f6 $19) (6. Kxh5 $2 Rc8 7. Bh6+ Kg8 $19) Kxh6 (Kg8 7. f6 (7. Kg5 $2 h4 8. Kxh4 f6 $17) (7. Bg7 $2 Kxg7 8. f6+ Kxf6 9. Kxh5 Rg8 $19) (7. Kxh5 $2 f6 8. Kxg4 Kf7 $17) (7. Bg5 $2 Kf8 8. Kxh5 Rg8) (7. Bf4 exf4 8. gxf4 f6) (7. Be3 Kf8 8. Kxh5 Rg8) (7. Bf8 Kxf8 8. Kxh5 Rg8)) 7. f6 Rg8 1/2-1/2
+
+[Event "De Schaakwereld"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Selman, John"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "3K4/8/8/1n5P/5k2/8/8/8 w - - 0 1"]
+
+1. h6 $1 (1. Ke7 $2 Nd6 2. h6 $10 Nf5+ 3. Kf8) (1. Kd7 $2 Nc7 2. h6 $10) (1. Ke8 $2 Nc7+ 2. Kd8 $10) Nd6 (Kg5 2. h7 Nd6 3. Ke7 Nf5+ 4. Kd7 (4. Kf8 $2 Nh4 5. h8=Q Ng6+)) 2. h7 (2. Ke7 $2 Nf5+ 3. Kd7 $10) (2. Kd7 $2 Nf7 3. h7 $10) Nf7+ 3. Ke7 $1 (3. Ke8 $2 Nh8 4. Kf8 $10 Kf5 5. Kg7 Ke6 6. Kxh8 Kf7) (3. Kc7 Kf5 4. Kc6) (3. Kd7 Ne5+ $4 (Kf5 $5) 4. Ke6) Nh8 (Ne5 4. Kf6 Nd7+ 5. Kg7) 4. Kf6 $1 (4. Kf8 $2 Ng6+ 5. Ke8 $10) (4. Ke6 $2 Ke4 5. Kd6 $10) Kg4 (Ke4 5. Kg7) 5. Kg7 (5. Ke5 Ng6+ 6. Kd5) (5. Ke7 Ng6+ 6. Kd7) Kg5 6. Kxh8 (6. Kg8 $2 Kf6 7. Kf8 Ng6+ 8. Ke8) (6. Kf8 Ng6+ 7. Ke8) Kf6 7. Kg8 $18 1-0

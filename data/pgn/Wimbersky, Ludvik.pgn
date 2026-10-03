@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Wimbersky, Ludvik"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "4k2b/1K6/8/3R4/8/8/2P5/5n2 w - - 0 1"]
+
+1. Rd1 (1. Rh5 $2 Bg7 2. c3 $10) (1. c4 $2 Ne3 2. Rc5 $10) (1. Rd3 $2 Ke7 2. c3) Ne3 (Ng3 2. Rg1 (2. Kc8 $2 Bg7 3. c3 $10) (2. Re1+ $2 Kd8 3. c3 $10) (2. Rd3 $2 Nf5 3. c3) (2. c4 $2 Kf7 3. c5) (2. Kc7 $2 Kf7 3. c3) (2. c3 $2 Nf5 3. Rd3) (2. Kc6 Nf5 3. Re1+) Be5 3. Re1 $3 $18 (3. Kc6 $2 Nf5 4. c3 $10) (3. c4 $2 Nf5 4. c5) (3. Rxg3 $2 Bxg3 4. c3) (3. c3 $2 Nf5 4. Kc6) (3. Rd1 $2 Bf4 4. c3) (3. Rg2 $2 Bf4 4. c3) (3. Kc8 $2 Nf5 4. c3)) 2. Re1 (2. Rh1 $2 Nxc2 3. Rg1 Kf7 4. Rf1+) (2. Rd3 $2 Nf5 3. Ka6) (2. Rd8+ Kxd8) Bd4 3. c3 (3. Kc6 $2 Ba7 4. c4 $10) (3. c4 $2 Bc5 4. Rc1) (3. Rh1 $2 Nf5 4. c3) (3. Re2 $2 Bc5 4. c3) Bc5 4. Kc6 (4. Re2 $2 Kf8 5. c4 $10 Nxc4 6. Rc2) (4. Kc7 $2 Kf7 5. c4 Nd5+ $4 (Kg8 $5) 6. cxd5) (4. c4 $2 Kd7 5. Rc1 Nxc4 6. Rb1) (4. Ra1 $2 Nd5 5. c4) (4. Ka6 $2 Kd8 5. c4) (4. Kc8 $2 Kf8 5. c4) (4. Rxe3+ Bxe3 5. Kc6) Ba7 5. Ra1 $18 (5. Kb7 Bc5 $18 6. Kc6) (5. c4 $2 Bd4 6. c5 $10 Bxc5 $4 (Ke7 $5) 7. Kxc5) (5. Re2 $2 Kf8 6. c4 $10 Nxc4 7. Rc2) (5. Rxe3+ $2 Bxe3 6. c4) (5. Kb5 $2 Kd7 6. c4 Nxc4 7. Rd1+) (5. Kd6 $2 Bb8+ 6. Kc6) (5. Rg1 $2 Nd5 6. Rf1 Nxc3 7. Re1+) (5. Kc7 $2 Kf8 6. c4) (5. Rh1 $2 Nf5 6. c4) 1-0

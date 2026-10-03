@@ -1,0 +1,27 @@
+[Event "4.sp.c Sportivnaya Gazeta"]
+[Source "EG#03144."]
+[Date "1976.10.23"]
+[Round "?"]
+[Composer "Gorbunov, G"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p2K2/7b/7k/P7/8/8/8 w - - 0 1"]
+
+1. Ke6 $1 Be3 2. a5 Ba7 3. Kd5 c5 4. Kc4 Kg5 5. Kb5 Kf5 6. Ka6 c4 7. Kxa7 1/2-1/2
+
+[Event ".c Platov MT Shakhmaty v SSSR"]
+[Source "EG#05220."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Gorbunov, G"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/K5N1/6B1/3kP3/4p3/8/7p/8 w - - 0 1"]
+
+1. Nh5 $1 e3 (h1=Q 2. Bxe4+) 2. Ng3 e2 (h1=Q 3. Be4+ Qxe4 4. Nxe4 e2 5. Nc3+) 3. Nxe2 h1=Q 4. Be4+ Qxe4 (Kxe4 {<main>} 5. Ng3+ Kxe5 6. Nxh1) 5. Nc3+ Kd4 6. Nxe4 1/2-1/2

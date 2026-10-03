@@ -1,0 +1,39 @@
+[Event "Sinfonie Scacchistiche"]
+[Date "1852.??.??"]
+[Round "?"]
+[Composer "Bodding, L. J."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5k2/1p2r3/1P4p1/3KN3/P7/8 w - - 0 1"]
+
+1. Nxg4+ $1 Ke6 2. Nxe5 Kxe5 3. Kc2 Kd6 4. Kb2 Kc6 5. Kb3 Kb6 6. Kc3 Kc6 7. Kd4 Kd6 8. a3 Kc6 9. Ke5 1-0
+
+[Event "Sissa#37 (m)"]
+[Source "(m): Rueb=A Tijdschrift v.d. KNSB#244 4/1918."]
+[Date "1853.??.??"]
+[Round "?"]
+[Composer "Bodding, L. J."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/pP6/8/pk5p/7P/2K5 w - - 0 1"]
+
+1. Kb1 $1 a2+ 2. Ka1 Kb4 (Ka3 3. b6 a4 4. b7 Kb3 5. b8=Q+) 3. b6 Ka3 4. b7 a4 5. b8=B $1 (5. b8=N $2 Kb3 6. Nc6 Kc2 7. Ne5 Kd2 8. Nf3+ Ke2) 1-0
+
+[Event "Sissa#45"]
+[Date "1853.??.??"]
+[Round "?"]
+[Composer "Bodding, L. J."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/pP6/6p1/pk4Pp/7P/2K5 w - - 0 1"]
+
+1. Kb1 $1 a2+ 2. Ka1 Kb4 3. b6 Ka3 4. b7 a4 5. b8=N (5. b8=Q $2) (5. b8=R $2) (5. b8=B $2 Kb3 6. Bd6 Kc4 $1 7. Kxa2 Kd5 $1 8. Ba3 (8. Ka3 Ke4 $1 9. Kb2 Kf3) (8. Kb2 Kxd6 $1 9. Ka3 Kd5 10. Kxa4 Ke4) Ke4 $1 9. Kb2 Kf3 10. Kc2 Kg2 11. Kd2 Kxh2) Kb3 6. Nc6 (6. Nd7 {<or>} Kc3 7. Nf6 Kd3 8. Nxg4) Kc3 7. Ne5 Kd2 (Kd4 8. Nxg4 Ke4 9. Nf2+) 8. Nxg4 Ke2 9. Ne5 (9. Nf6 $2 Kf3 10. Nh5 (10. g4 Kf4) Kg2 11. g4 (11. Nf4+ Kxh2 12. g4 Kg3 13. Nxh3 Kxg4) Kxh2 12. g5 Kg1 13. g6 h2 14. Ng3 Kg2 15. Nh1 (15. g7 Kxg3 16. g8=Q+ Kf2) Kxh1 16. g7 a3 17. g8=Q) Ke3 {<eg>} (Kf2 10. g4 Kg2 11. g5 Kxh2 12. g6 Kh1 13. g7) 10. Ng6 Kf3 (Kf2 11. Nf4 Kg1 12. Nxh3+) 11. Nf4 Kg4 12. Nxh3 1-0

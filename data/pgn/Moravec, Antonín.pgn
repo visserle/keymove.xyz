@@ -1,0 +1,13 @@
+[Event "Práce"]
+[Source "Práce/5"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Moravec, Antonín"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K2/7b/7p/3B2Pk/5P1p/8/5P2/6b1 w - - 0 1"]
+
+1. Bf3+ $1 Kg6 2. Be4+ Kh5 3. g6 $1 Bxf2 4. Kg7 $1 (4. gxh7 $2 Bd4 5. Kg8 Kg4 6. f5 Kg5 7. h8=Q Bxh8 8. Kxh8 Kf6 $1) Kg4 5. Kxh7 Bd4 6. f5 Kf4 7. g7 Bxg7 8. Kxg7 Kxe4 9. f6 h3 10. f7 h2 11. f8=Q h1=Q 12. Qa8+ 1-0

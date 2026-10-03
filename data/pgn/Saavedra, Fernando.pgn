@@ -1,0 +1,16 @@
+[Event "Glasgow Weekly Citizen#414 (m)"]
+[Source "(m): Bohemia#026 Bohemia=88 30-3-1902."]
+[Site "?"]
+[Date "1895.??.??"]
+[Round "?"]
+[Composer "Saavedra, Fernando"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/8/1KP5/3r4/8/8/8/k7 w - - 0 1"]
+
+1. c7 $1 (1. Kb7 $2 Rc5 2. c7) (1. Kc7 $2 Rc5 2. Kb7) (1. Ka7 Rc5 2. Kb7) Rd6+ 2. Kb5 (2. Kc5 $2 Rd3 (Rd1) 3. Kb5 $10) (2. Kb7 $2 Rd7 3. Kb6 $10) (2. Ka7 $2 Rd7 3. Kb6) (2. Ka5 $4 Rc6 3. Kb5 Rxc7) Rd5+ 3. Kb4 (3. Kc4 $2 Rd1 4. Kc5 $10) (3. Kc6 $2 Rd3 4. Kb5 $10) (3. Ka6 $2 Rc5 4. Kb6 $10) (3. Kb6 Rd6+ 4. Kb5 Rd5+ $18) (3. Ka4 Rc5) Rd4+ 4. Kb3 (4. Kb5 Rd5+ $18 5. Kb4) (4. Kc3 {<or>} Rc4+ (Rd1 5. Kc2) 5. Kxc4 $18) (4. Kc5 $2 Rd3 5. Kc6) (4. Ka3 Rc4 5. c8=Q Rxc8) (4. Ka5 Rc4 5. Kb6) Rd3+ 5. Kc2 (5. Kb4 $2 Rd4+ $4 (Kb2 $5) 6. Kc3 $18) (5. Kc4 $2 Rd1 6. Kb5 $10) (5. Ka4 Rc3) Rd4 6. c8=R $1 (6. c8=Q $4 $2 Rc4+ $1 7. Qxc4) (6. Kc3 Rc4+ 7. Kxc4 $18) (6. c8=N $4 Rc4+ 7. Kd2 Rxc8 $19) (6. Kb3 Rd3+ 7. Kc2 $18) (6. Kc1 $4 Rc4+ 7. Kd2 Rxc7) Ra4 7. Kb3 $18 (7. Rb8 $4 Rc4+ 8. Kd2) (7. Kc1 $4 Ra3 8. Rb8) (7. Rh8 $4 Rc4+ 8. Kd2) (7. Rc3 $4 Ra2+ 8. Kc1) (7. Rd8 $4 Rc4+ 8. Kd2) (7. Kc3 Ra3+ 8. Kc2) 1-0

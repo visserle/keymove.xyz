@@ -1,0 +1,41 @@
+[Event "1.c Beginner ty Shakhmaty v SSSR (m)"]
+[Source "Shakhmaty v SSSR/8 1954 (m): Cheron=A Journal de Genève=79 3-4-1962."]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Nikolaev, D"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5R2/8/7k/1b6/8/6pK/5b2/8 w - - 0 1"]
+
+1. Rf3 $1 (1. Kg2 $2 Bc6+ 2. Kh3 (2. Kf1 Bd4 $1 3. Rg8 Be5) g2 3. Rf6+ (3. Rg8 g1=R) (3. Rf5 g1=N+ 4. Kh2 Nf3+) (3. Rf4 g1=Q 4. Rf6+ Qg6) (3. Rf7 g1=Q) (3. Rh8+ Kg7 4. Rc8 g1=Q) Kg7 $1 (Kg5 $2 4. Rxc6 g1=Q 5. Rg6+ Kxg6) 4. Rxc6 (4. Rf4 g1=Q 5. Rf7+ Kh6 $1 6. Rh7+ (6. Rf6+ Qg6) Kg5 7. Rg7+ (7. Rh5+ Kf4 8. Rf5+ Ke3 9. Re5+ (9. Rf3+ Ke2) Kd3) Kf4 8. Rf7+ Ke3 9. Re7+ (9. Rf3+ Ke2) Kd3) g1=Q 5. Rc7+ (5. Rg6+ Qxg6) Kf6 6. Rf7+ (6. Rc6+ Ke5 7. Re6+ Kd4 8. Rd6+ (8. Re4+ Kd3) Kc4) Ke5 7. Re7+ Kd4 8. Rd7+ (8. Re4+ Kd3) Kc4) (1. Kh4 $2 g2+ 2. Kh3 Bf1 3. Rh8+ Kg7) (1. Rf7 $2 Kg6 2. Rf3 Bf1+ 3. Kh4 g2+ 4. Rxf2 g1=Q 5. Rg2+ Bxg2) (1. Rg8 $2 Bf1+) (1. Rf4 $2 Bf1+ 2. Kh4 Be2 $1 3. Kh3 Kg5) Bf1+ (Bd7+ {<main>} 2. Kg2 Bc6 3. Kf1 $1 Bxf3) 2. Kh4 g2+ (Kg6 3. Rxf2 $1 (3. Rxg3+ $2 Kf5) gxf2 4. Kg3) 3. Rxf2 g1=Q 4. Rf6+ $1 Kh7 5. Rh6+ $1 Kg7 (Kxh6) 6. Rg6+ $1 Qxg6 (Kxg6) 1/2-1/2
+
+[Event "2.hm Beginner ty Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/4 1956"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Nikolaev, D"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/1B6/8/1rn2R2/1p1K4/6k1 w - - 0 1"]
+
+1. Rf1+ $1 (1. Bd3 $2 Ne4+ 2. Ke2 Nd2 $1 3. Kxd2 Rxd3+) Kg2 2. Bd3 b1=Q (Ne4+ 3. Kc2 Rxd3 4. Kxd3 Kxf1 5. Kc2) 3. Bxb1 Nxb1+ (Kxf1 4. Bd3+ Kf2 5. Kc2 Ra3 6. Kb2) 4. Kc2 Rc3+ 5. Kd1 $1 Kxf1 (Rd3+ 6. Ke2 Rd2+ 7. Ke1) 1/2-1/2
+
+[Event "2.p All-Union Fizkultura i Sport Commit"]
+[Source "Shakhmaty v SSSR/10 1956"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Nikolaev, D"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p5B1/2K3P1/kn4N1/3p4/8/4p3/8 w - - 0 1"]
+
+1. Nf3 $1 d3 2. Bh6 Nd4+ 3. Nxd4 e1=Q 4. Bd2+ Ka6 $1 5. Bxe1 d2 6. Nc2 (6. Bxd2 $2) d1=Q 7. Nb4+ Ka5 8. Nd3+ Ka4 (Ka6 9. Nc5#) 9. Nb2+ Kb3 10. Nxd1 1-0

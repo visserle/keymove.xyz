@@ -1,0 +1,13 @@
+[Event "Shakhmaty v SSSR#25"]
+[Source "Shakhmaty v SSSR/7 EG#01685."]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Dadunashvili, Rewas Vardenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B7/B1pp4/5K2/8/6pk/3p2p1/6PP/8 w - - 0 1"]
+
+1. Be4 $1 (1. hxg3+ $2 Kxg3 2. Be3 c6) d2 (gxh2 2. Bf2+ g3 3. Be3) 2. Be3 gxh2 3. Bxd2 Kg3 (h1=Q 4. g3+ Kxg3 5. Bxh1 Kf2 6. Bb4 d6 7. Bc6) (h1=N 4. Be1+ g3 5. Bd2) 4. Be1+ Kf4 5. Bd5 h1=N $1 6. g3+ Nxg3 7. Bd2# 1-0

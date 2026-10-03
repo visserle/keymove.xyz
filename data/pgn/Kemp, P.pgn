@@ -1,0 +1,13 @@
+[Event "Ceskoslovensky Sach#315"]
+[Source "Ceskoslovensky Sach/8-9"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Kemp, P"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2K5/1B6/Pr1k4/8/6P1/3Pp3/4P2p/8 w - - 0 1"]
+
+1. a7 $1 Rxb7 2. a8=Q h1=Q 3. Qa3+ (3. Qxb7 $2 Qh8#) Ke5 $1 4. d4+ Kf4 $1 (Kxd4 5. Qd3+ Ke5 6. Qf5+ Kd6 7. Qf6+ Kc5 8. Qc3+) 5. Qd6+ Kg5 6. Qd5+ $1 Qxd5 1/2-1/2

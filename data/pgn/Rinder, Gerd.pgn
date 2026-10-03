@@ -1,0 +1,70 @@
+[Event "Die Schwalbe"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[Composer "Rinder, Gerd"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6K1/R2B2b1/5k2/2n2P2/1p3B2/1p5b/8 w - - 0 1"]
+[PlyCount "7"]
+
+1. Bb8 (1. Be5 $143 Bxf4 $11) (1. Bc7 $143 Nd6 2. Rxd6 Kxf4 3. Kxg6 Kxf3 4. Rd3+ Ke4 5. Rxb3 Bxc7 $11) Nd6 $1 {Nowotny} 2. Rxd6 (2. Bxd6 $143 b1=Q 3. Bc7 Qb2+ 4. Be5 Qxe5+ 5. fxe5 $11) Kxf4 3. Kxg6 (3. Rb6+ $143 Ke3 4. Rxb3+ Bd3 5. Ba7+ Kxf3 6. Rxd3+ Ke2 7. Rb3 Be5+ 8. Kg6 Kd2 $11) b1=Q+ (Kxf3 $144 4. Rd3+ Ke4 5. Rxb3) (Ke3 $144 4. Rd1 Bxb8 5. Bd5 $18) 4. Rd3# 1-0
+
+[Event "Deutsche Schachzeitung"]
+[Source "Deutsche Schachzeitung/1"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Rinder, Gerd"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p2p1/6p1/p4P1k/3P4/1P5p/P7/6K1 w - - 0 1"]
+
+1. f6 $1 (1. a3 $2 Kg5 2. b4 axb4 3. axb4 Kf6 $1 4. fxg6 (4. b5 Ke7 5. b6 Kd8 $1) Ke6 5. Kh2 Kd5 $1 (Kd6 $2 6. Kxh3) 6. b5 Kd6 7. Kxh3 Kc7 8. Kg4 Kb6 9. Kf4 Kxb5 10. Kf5 (10. Ke5 Kc6 11. Ke4 d6 12. Ke3 Kd5 13. Kd3 Ke6 14. Kc4 Kf6) Kc4 $1 (Kc6 $2 11. Ke5 Kc7 12. Kd5 Kc8 13. Kd6 Kd8 14. d5 Ke8 15. Kc7 Ke7 16. Kc8 Kd6 17. Kd8) (Kb6 $2 11. Ke4 Kb7 12. Kd5 Kc7 13. Kc5 d6+ 14. Kb5 $1) 11. Ke5 (11. Ke4 d6) d5) gxf6 2. a3 Kg5 3. b4 axb4 4. axb4 Kf5 5. b5 Ke6 6. b6 Kd6 7. d5 $1 g5 8. Kh1 f5 9. Kh2 g4 10. Kg3 f4+ 11. Kh2 1-0
+
+[Event ".hm Die Schwalbe"]
+[Source "Die Schwalbe/8 EG#06744."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Rinder, Gerd"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2pbk3/1P6/PQ1P4/K7/8/6p1/8 w - - 0 1"]
+
+1. d6+ $1 (1. b7 $2 Bxb5+ 2. Kxb5 g1=Q 3. b8=Q (3. Ka6 Qg8 $1) Qb1+) Kxd6 $1 2. b7 (2. Qxd7+ $2 Kxd7 3. b7 g1=R $1 4. a6 Kc6 $1) Bxb5+ 3. Kxb5 c6+ (g1=Q 4. b8=Q Qb1+ 5. Ka6 Qxb8) 4. Kb6 $1 (4. Ka6 $2 Kc7 $1) g1=Q+ 5. Ka6 Kc7 (Qb1 6. b8=Q+ Qxb8) (Qf1+ 6. Ka7 Qf7 7. Ka8 $1) 6. b8=Q+ $1 Kxb8 1/2-1/2
+
+[Event "1.p Die Schwalbe"]
+[Source "Die Schwalbe/4 1982 EG#06741."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Rinder, Gerd"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/N7/8/6P1/pk1r4/8/P1P5/K1b5 w - - 0 1"]
+
+1. c3+ $1 (1. Nc6+ $2 Ka3 $1 2. Nxd4 Bb2+) Kxc3 2. Nb5+ Kc4 3. Nxd4 Kxd4 4. g6 Bh6 (Kc3 {<main>} 5. g7 Kc2 6. a3 $1 Bb2+ 7. Ka2 Bxg7) 5. Kb2 Kc4 6. g7 $1 (6. Ka3 $2 Kb5 7. g7 Bc1#) Bxg7+ 7. Ka3 Kb5 1/2-1/2
+
+[Event "2.p Switzerland Bavaria match Idee und "]
+[Source "EG#06097."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Rinder, Gerd"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/5p2/5P2/3bR2K/p7/8/2p5/8 w - - 0 1"]
+
+1. Rg5+ $1 (1. Re1 $2 Ba2 2. Re8+ (2. Kh6 Kf8 3. Ra1 Bb1 4. Rxa4 c1=Q+) Kh7 3. Rc8 Bb3) Kh7 2. Rg7+ Kh8 3. Rg1 Bf3+ 4. Kh6 Bd1 5. Rg5 c1=R (c1=Q) 6. Rd5 (6. Rc5 $2 Rc2) Rc8 7. Rxd1 Ra8 8. Rd5 a3 9. Ra5 Rxa5 1/2-1/2

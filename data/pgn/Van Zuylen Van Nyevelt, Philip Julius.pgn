@@ -1,0 +1,234 @@
+[Event "Het Schaakspel#113"]
+[Date "1792.??.??"]
+[Round "?"]
+[Composer "Van Zuylen Van Nyevelt, Philip Julius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/7P/p1p3K1/1p6/8/8/1P6/8 w - - 0 1"]
+
+1. b4 $1 c5 2. bxc5 b4 3. c6 b3 4. c7 b2 5. c8=Q# 1-0
+
+[Event "Het Schaakspel#246"]
+[Date "1792.??.??"]
+[Round "?"]
+[Composer "Van Zuylen Van Nyevelt, Philip Julius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k1K5/8/8/p7/P7/1P6/8 w - - 0 1"]
+
+1. Kc6 $1 Ka6 2. Kc5 Ka5 3. Kc4 1-0
+
+[Event "Het Schaakspel#251"]
+[Date "1792.??.??"]
+[Round "?"]
+[Composer "Van Zuylen Van Nyevelt, Philip Julius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3k1K2/pP6/P7/8/8/8 w - - 0 1"]
+
+1. Kf5 $1 Kd5 2. Kf4 1-0
+
+[Event "Het Schaakspel#248"]
+[Date "1792.??.??"]
+[Round "?"]
+[Composer "Van Zuylen Van Nyevelt, Philip Julius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3K1k2/8/6p1/6P1/5P2/8 w - - 0 1"]
+
+1. Kd5 $1 Kf5 2. Kd4 Kg5 3. Ke5 Kh5 4. Kf5 1-0
+
+[Event "Het Schaakspel#066"]
+[Date "1792.??.??"]
+[Round "?"]
+[Composer "Van Zuylen Van Nyevelt, Philip Julius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/p5P1/7K/8/8/8/P7/8 w - - 0 1"]
+
+1. Kg6 $1 a6 (a5 2. a3 a4 3. Kh6) 2. a4 a5 3. Kh6 (3. Kf6 {<or>}) 1-0
+
+[Event "Het Schaakspel#278 (v)"]
+[Date "1792.??.??"]
+[Round "?"]
+[Composer "Van Zuylen Van Nyevelt, Philip Julius"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4p3/4P1kp/3P1p1p/7P/4K3/8 w - - 0 1"]
+
+1. Kf2 $1 (1. Kf3 $2 Kf5 2. d5 exd5 3. e6 Kxe6 4. Kxf4 Kf6 5. Ke3 Ke5 6. Kd3 Kf4 7. Kd4 Kg3) Kg6 (Kf5 2. Kf3 Kg5 3. Ke4) 2. Kg2 Kg5 (Kf5 3. Kf3) 3. Kf2 1/2-1/2
+
+[Event "Het Schaakspel#292"]
+[Date "1792.??.??"]
+[Round "?"]
+[Composer "Van Zuylen Van Nyevelt, Philip Julius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1K1p4/3P1k2/8/8/8 w - - 0 1"]
+
+1. Kc6 $1 Ke4 2. Kc5 1-0
+
+[Event "Het Schaakspel#238"]
+[Date "1792.??.??"]
+[Round "?"]
+[Composer "Van Zuylen Van Nyevelt, Philip Julius"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/3p1k2/8/8/8/6K1 w - - 0 1"]
+
+1. Kf1 $1 1/2-1/2
+
+[Event "Het Schaakspel"]
+[Date "1792.??.??"]
+[Round "?"]
+[Composer "Van Zuylen Van Nyevelt, Philip Julius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/2k3p1/P1P5/3K4/8/8 w - - 0 1"]
+
+1. a5 $1 Kc6 2. Ke4 Kb7 3. c5 Kc6 4. a6 1-0
+
+[Event "Het Schaakspel#105"]
+[Date "1792.??.??"]
+[Round "?"]
+[Composer "Van Zuylen Van Nyevelt, Philip Julius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p4Pk/7P/8/4p3/1PPpKp2/8/8 w - - 0 1"]
+
+1. c4 $1 (1. b4 $2 b5) 1-0
+
+[Event "Het Schaakspel#284 (cr)"]
+[Date "1792.??.??"]
+[Round "?"]
+[Composer "Van Zuylen Van Nyevelt, Philip Julius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3k1K2/5p2/5P2/8/8/8 w - - 0 1"]
+
+1. Kxf5 $1 Ke7 2. Kg6 Kf8 3. f5 Kg8 4. f6 Kh8 5. Kf7 $1 (5. f7 $2) Kh7 6. Ke8 1-0
+
+[Event "Het Schaakspel"]
+[Date "1792.??.??"]
+[Round "?"]
+[Composer "Van Zuylen Van Nyevelt, Philip Julius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3P4/8/8/8/5k1p/8/K7 w - - 0 1"]
+
+1. d8=Q $1 Kg2 (h2 2. Qd5+ Kf2 3. Qh1 Kg3 4. Kb1) 2. Qg5+ Kh1 3. Qf4 Kg2 (h2 4. Qf1#) 4. Qg4+ Kh2 5. Kb1 1-0
+
+[Event "Het Schaakspel#102 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - XI-109 2012."]
+[Date "1792.??.??"]
+[Round "?"]
+[Composer "Van Zuylen Van Nyevelt, Philip Julius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2R5/8/8/P4pbk/K5p1/8/8/8 w - - 0 1"]
+
+1. Rh8+ $1 (1. a6 $2 Be3) Kg6 2. Rg8+ Kh5 3. Rxg5+ Kxg5 4. a6 g3 5. a7 g2 6. a8=Q g1=Q 7. Qg8+ Kh4 8. Qxg1 1-0
+
+[Event "Het Schaakspel#311"]
+[Date "1792.??.??"]
+[Round "?"]
+[Composer "Van Zuylen Van Nyevelt, Philip Julius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/3P4/4K3/8/8/1N6/p7/8 w - - 0 1"]
+
+1. Na1 $1 (1. Kd6 $2 a1=Q $1 2. Nxa1) Kc7 2. Ke7 1-0
+
+[Event "Het Schaakspel#406 (v)"]
+[Date "1792.??.??"]
+[Round "?"]
+[Composer "Van Zuylen Van Nyevelt, Philip Julius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2R5/8/8/PK3prk/6p1/8/8/8 w - - 0 1"]
+
+1. Rh8+ $1 Kg6 2. Rg8+ Kh5 3. Rxg5+ Kxg5 4. a6 g3 5. a7 g2 6. a8=Q g1=Q 7. Qg8+ 1-0
+
+[Event "Het Schaakspel#266"]
+[Date "1792.??.??"]
+[Round "?"]
+[Composer "Van Zuylen Van Nyevelt, Philip Julius"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/2k3p1/6Pp/3K4/8/8/8 w - - 0 1"]
+
+1. Ke4 $1 (1. Ke5 $2 Kc5 2. Ke4 (2. Kf6 h4) Kc4 3. Ke3 Kd5) Kb6 (Kc5 2. Ke5 $1) 2. Kd4 $1 (2. Kf4 $2 Kb5 $1 3. Ke3 Kc5 4. Ke4 Kc4 5. Ke5 Kd3) (2. Kd5 $2 Kb5 3. Kd4 Kb4 4. Kd3 Kc5) (2. Ke5 $2 Kc5) Kc6 (Kb5 3. Kd5) 3. Ke4 Kc5 4. Ke5 Kb4 5. Kd4 Kb3 6. Kd3 Kb2 7. Kd2 Kb1 8. Kd1 1/2-1/2
+
+[Event "Het Schaakspel"]
+[Date "1792.??.??"]
+[Round "?"]
+[Composer "Van Zuylen Van Nyevelt, Philip Julius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3K4/4P2k/8/8/6p1/8/8 w - - 0 1"]
+
+1. e7 $1 g2 2. e8=Q g1=Q 3. Qh8+ Kg6 4. Qg8+ 1-0
+
+[Event "Het Schaakspel#158"]
+[Date "1792.??.??"]
+[Round "?"]
+[Composer "Van Zuylen Van Nyevelt, Philip Julius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/7k/5P1P/8/K7/8 w - - 0 1"]
+
+1. f5 $1 Kh6 2. Kb3 Kg7 3. h5 Kf6 4. h6 Kf7 5. Kc4 Kf8 6. f6 Kf7 7. h7 1-0

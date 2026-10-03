@@ -1,0 +1,32 @@
+[Event "Magyar Sakkvilág#305"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Gruber, Lutz-Dieter"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#7"]
+[Theme "Attacking the king"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "4N2q/3B3p/5p1p/7k/4K2p/7P/8/8 w - - 0 1"]
+
+1. Kf5 (1. Bg4+ $4 Kg5 $19) (1. Nxf6+ $4 Qxf6 2. Bg4+ Kg5 $19) (1. Bf5 $4 Qxe8+ 2. Kd3 Qb5+ $19) (1. Ng7+ $4 Qxg7 2. Be8+ Kg5 $19) (1. Nd6 $4 Qg8 2. Kd4 Qg1+ $19) (1. Kf4 $4 Kg6 2. Bf5+ Kf7 $19) (1. Nc7 $4 Kg5 2. Ne6+ Kg6) (1. Kf3 $4 f5 2. Bxf5 Qxe8) (1. Ke3 f5 2. Bxf5 Qxe8+ 3. Kd2 Qd8+) Qf8 2. Ng7+ (2. Nxf6+ $4 Qxf6+ 3. Kxf6) (2. Nd6 $4 Qe7 3. Be8+ Qxe8 4. Nxe8) (2. Ba4 $4 Qc5+ 3. Ke6 Qc4+ $19) (2. Be6 $4 Qxe8 3. Kxf6 Qd8+ $19) (2. Bb5 $4 Qc5+ 3. Kf4 Qxb5 4. Nxf6+ Kg6 $19) (2. Bc6 $4 Qc5+ 3. Kxf6 Qxc6+ 4. Ke7 Qe4+ $19) (2. Nc7 $4 Qc5+ 3. Ke4 Qxc7 4. Bg4+ Kg5) (2. Ke6 $4 Kg5) Qxg7 3. Be8+ (3. Bc6 $4 Qg6+ 4. Ke6 f5+) (3. Bb5 $4 Qg5+ 4. Ke4 Qxb5) (3. Ba4 $4 Qg6+ 4. Kf4 Qg3+) Qg6+ 4. Bxg6+ hxg6+ 5. Kxf6 (5. Kf4 $4 f5 $19) (5. Ke6 $4 f5) (5. Ke4 Kg5 6. Ke3 f5) g5 6. Kf5 (6. Kg7 $4 g4 7. hxg4+ Kxg4 8. Kxh6 h3) (6. Ke5 Kg6) (6. Ke7 g4 7. hxg4+ Kxg4) g4 7. hxg4# (7. Kf4 $4 g3 8. Kf3) 1-0
+
+[Event "1.hm Bilek-75 JT (tt)"]
+[Source "EG#16815"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[Composer "Gruber, Lutz-Dieter"]
+[Composer2 "Minski, Martin"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r6N/6k1/2K5/2P2b2/7p/8/2P1P3/R7 w - - 0 1"]
+[PlyCount "7"]
+
+1. Rg1+ $1 (1. Rxa8 $143 Be4+ $1 $19) (1. Rf1 $143 Be4+ 2. Kd6 Rxh8 3. Rf2 h3 4. Rh2 Kf6 $19) Kxh8 (Kf6 $144 2. Rf1 Rxh8 3. e4 $11) 2. Rg5 Bg6 $1 (Be4+ $144 3. Kb6 Rb8+ 4. Ka6 $11) 3. Rg4 $1 (3. Rxg6 $143 Ra6+ $1 $19) (3. Kb7 $143 Rg8 $1 $19) Ra4 $1 4. c4 $1 $11 (4. Rxa4 $143 Be8+ $1 5. Kd5 Bxa4 6. Ke4 h3 7. Kf3 Bxc2 8. Kg3 Bf5 $19) (4. e4 $143 Bxe4+ 5. Kb5 (5. Kd6 $144 Bxc2 $19) Bc6+ $1 6. Kxc6 Rxg4 $19) 1/2-1/2

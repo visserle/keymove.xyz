@@ -1,0 +1,27 @@
+[Event "Tidskrift for Schack#1968 (s)"]
+[Source "Tidskrift for Schack/11"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Kovalenko, L"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1R6/7p/p6P/Kp5p/4k1b1/4N3 w - - 0 1"]
+
+1. Re6+ $1 Kf2 2. Nd3+ Kg1 3. Re2 Bf1 (h2 4. Nf2 Bf1 5. Rd2) 4. Rd2 Bxd3 (h2 5. Nf2) 5. Rxd3 h2 6. Kxa4 (6. Rd1+ {<or>} Kg2 7. Kxa4) h1=Q 7. Rd1+ Kg2 8. Rxh1 Kxh1 9. Kxb3 Kg2 {<eg>} 10. Kc2 Kg3 11. Kd2 Kxh4 12. Ke2 Kg3 13. Kf1 Kh2 14. Kf2 1/2-1/2
+
+[Event "Tidskrift for Schack#2014"]
+[Source "Tidskrift for Schack/12"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Kovalenko, L"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4P1p1/p4k1q/8/3p1NBp/5p2/K2p1P2/8 w - - 0 1"]
+
+1. e8=Q $1 Qxf4 2. Qf8+ Ke5 3. Qe7+ Kd5 4. Bxf3+ Kc4 (Qxf3 {<main>} 5. Qb7+ Ke5 6. Qxf3) 5. Qe6+ Kb4 6. Qb6+ Kc4 7. Qb3+ Kc5 8. Ka3 $1 Kd6 9. Qb8+ Ke6 10. Qxf4 1-0

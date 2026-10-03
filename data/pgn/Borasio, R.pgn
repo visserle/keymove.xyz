@@ -1,0 +1,13 @@
+[Event "L'Italia Scacchistica#5497"]
+[Source "L'Italia Scacchistica/9"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Borasio, R"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1b6/1PNPp3/p1k1N3/P3P3/3P4/pq6/1p6/1K6 w - - 0 1"]
+
+1. d8=N+ $1 Kd7 2. Nc5+ Kxc7 3. Nxb3 Kxd8 4. Nc5 Kc7 5. Nxa6+ Kxb7 6. Nxb8 Kxb8 {<eg>} 7. d5 1-0

@@ -1,0 +1,13 @@
+[Event "Schach#09949"]
+[Source "Schach/12"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Fiedler, Frank"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2B5/8/N2p4/K2P3k/4p3/3p4/8/8 w - - 0 1"]
+
+1. Nc5 $1 d2 (dxc5 2. Ba6) 2. Nxe4 (2. Bg4+ $2 Kxg4 3. Nxe4 d1=N $1) d1=Q (d1=N 3. Nxd6) 3. Bg4+ $1 Qxg4 (Kxg4 4. Nf2+ Kf4 5. Nxd1 Ke4 6. Nc3+ Kd4 7. Kb5 Kxc3 8. Kc6) 4. Nf6+ Kg5 5. Nxg4 Kxg4 (Kf4 6. Kb6 Ke4 7. Kc6) 6. Kb6 Kf5 7. Kc7 Ke5 8. Kc6 1-0

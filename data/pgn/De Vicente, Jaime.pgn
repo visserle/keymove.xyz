@@ -1,0 +1,13 @@
+[Event "11.p WCCT2 ty (tt)"]
+[Source "EG#05368. WCCT2 ty 1980-1981."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "De Vicente, Jaime"]
+[White "De Vicente, J"]
+[Black " De Arriaga, J."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5RK1/1b6/6k1/8/8/p1P5/n7/8 w - - 0 1"]
+
+1. Rb8 $1 Bd5+ 2. Kh8 $1 Nxc3 (Kf5 3. c4) (Nc1 3. Rb1 Nb3 4. c4 a2 5. Rg1+ Kf5 6. cxd5) 3. Rb3 $1 (3. Rb6+ $2 Kf5) a2 (Bxb3) 4. Rxc3 $1 (4. Ra3 $2 Kf5) a1=R (a1=Q) 5. Rg3+ Kf7 6. Rg7+ Kf8 7. Rg8+ (7. Rh7 $2) Kf7 8. Rg7+ Kf6 9. Rg6+ Kxg6 (Kf7 {<main>} 10. Rg7+) (Ke5 10. Kg7) 1/2-1/2

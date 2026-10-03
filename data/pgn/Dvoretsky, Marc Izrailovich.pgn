@@ -1,0 +1,12 @@
+[Event "source unknown"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Dvoretsky, Marc Izrailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5p2/1P6/4P2P/3kb3/5pK1/8/8 w - - 0 1"]
+
+1. e6 $1 (1. Kf2 $2 Kxe5) (1. h6 $2 Ke3 2. h7 (2. e6 f2) (2. b7 Bxb7) f2 3. h8=Q f1=Q 4. Qh6+ Ke2) fxe6 2. h6 Ke3 3. b7 $1 (3. h7 $2 f2 4. h8=Q f1=Q 5. Qh6+ (5. Qc3+ Qd3) Kd3 6. Qxe6 Qe1+ $1 7. Kf4 (7. Kg4 Bf3+ $1 8. Kf5 Bg4+ $1) Qe3+ 8. Ke5 Qd4+ 9. Kf4 Bd5+) Bxb7 (f2 4. b8=Q f1=Q 5. Qb6+) 4. h7 f2 5. h8=Q 1/2-1/2

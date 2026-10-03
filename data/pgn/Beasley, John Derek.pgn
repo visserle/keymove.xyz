@@ -1,0 +1,41 @@
+[Event "2.p The Problemist#0209"]
+[Source "The Problemist/9-10 1977 EG#03633."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Beasley, John Derek"]
+[White "Beasley, J"]
+[Black " Roycroft, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5qk1/P7/p4PP1/K2p1P2/P2P4/8/2P5/8 w - - 0 1"]
+
+1. f7+ $1 (1. Kb6 $2 Qc8 2. f7+ Kf8) Kg7 2. Kb6 (2. Kxa6 $2 Qc8+ 3. Kb6 Kf8) (2. f6+ $2 Kxg6 3. Kb6 (3. Kxa6 Qc8+ 4. Kb6 Kxf7) Qc8 4. f8=Q Qxf8 5. Kb7 Qf7+ 6. Kxa6 (6. Kb6 Qe8 7. Kb7 Qd7+ 8. Kb8 Qxa4 9. a8=Q Qe8+) Qf8 7. Kb7 Qb4+ 8. Kc8 Qxa4) Qc8 3. a5 Kf8 4. f6 Qa8 5. c3 Qc8 6. a8=Q Qxa8 7. Kc7 Qa7+ 8. Kc8 Qa8+ 9. Kc7 1/2-1/2
+
+[Event "EG"]
+[Source "EG/7"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Beasley, John Derek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7P/8/8/8/8/p3K1pp/1b4kr w - - 0 1"]
+
+1. h8=B $1 (1. h8=Q $2 a1=Q 2. Qxa1) a1=Q 2. Bxa1 Bd3+ 3. Ke1 Bc4 4. Bd4# 1-0
+
+[Event ".c The Problemist#0293 (m)"]
+[Source "The Problemist/3 1981 (m): Jones=C British Endgame Study News/9 2000."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Beasley, John Derek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k4/3P4/1N2P3/8/R7/5bp1/6np/7K w - - 0 1"]
+
+1. Ra8+ $1 Bxa8 2. Nd5 Bc6 (Bxd5 3. e7+ Kxe7 4. d8=Q+ Kxd8) 3. e7+ Kxd7 4. e8=Q+ Kxe8 5. Nf6+ Kf7 6. Ne4 Bxe4 (Ne1) 1/2-1/2

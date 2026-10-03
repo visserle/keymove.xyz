@@ -1,0 +1,40 @@
+[Event "L'Italia Scacchistica#017 (c)"]
+[Source "L'Italia Scacchistica/5 (c): Campioli=M Torre & Cavallo - Scacco!=9 9/2008."]
+[Date "1913.??.??"]
+[Round "?"]
+[Composer "Carrà, Arturo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/5K2/3p4/3pPp2/7p/p1b4P/p4B2/8 w - - 0 1"]
+
+1. e6 $1 Bf6 2. Bd4 Bxd4 3. e7 Kh7 4. e8=Q a1=Q 5. Qg8+ Kh6 6. Qg6# 1-0
+
+[Event "La Scacchiera"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Carrà, Arturo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3B3k/p6p/2P1K2P/P7/4p3/2b5/6p1/8 w - - 0 1"]
+
+1. Bb6 $1 Bxa5 (Be5 2. Kxe5 axb6 3. c7 g1=Q 4. c8=Q+ Qg8 5. Qxg8+ Kxg8 6. a6) (axb6 2. c7 g1=Q 3. c8=Q+ Qg8+) 2. c7 g1=Q 3. Bxg1 Bxc7 4. Kf7 Bb6 5. Bh2 Bd4 6. Bd6 e3 7. Bf8 e2 8. Bg7+ Bxg7 9. hxg7# 1-0
+
+[Event "L'Italia Scacchistica#515"]
+[Source "L'Italia Scacchistica/11"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Carrà, Arturo"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4r3/1k2p3/N1qp3Q/K7/2Pp4/8/2B5 w - - 0 1"]
+
+1. Be3 $1 Qxe3 2. Nc4+ dxc4 3. Qb5+ Ka7 4. Qc5+ Qxc5 1/2-1/2

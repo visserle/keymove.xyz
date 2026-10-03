@@ -1,0 +1,38 @@
+[Event "Denken und Raten"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Wieckowiak, Hans"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7b/5K2/P2k4/4p3/4p3/4P3/8 w - - 0 1"]
+
+1. a6 $1 Kc6 2. Kg7 Bf5 3. Kf6 Bh3 4. Ke5 Bg2 5. Kf4 (5. Kd4 {<or>}) Kb6 6. Kxe3 (6. Kg3 $2 Bh1 7. Kh2 Bf3 $1) Kxa6 7. Kf4 Kb5 8. Kg3 Bh1 9. Kh2 Kc4 10. Kxh1 Kc3 11. Kg2 e3 12. Kg3 $1 1/2-1/2
+
+[Event "Denken und Raten#479"]
+[Date "1932.09.25"]
+[Round "?"]
+[Composer "Wieckowiak, Hans"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "b7/p1kp4/2Pp4/8/2P5/4K3/6PP/8 w - - 0 1"]
+
+1. h4 $1 Bxc6 2. h5 Ba4 3. Kd2 (3. Kd3 $2 Bd1 4. h6 Bh5) Bc6 4. Kd3 Bxg2 5. h6 Bh3 6. Ke4 1-0
+
+[Event "5.hm Tschigorin MT Bulletin Central Che"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Wieckowiak, Hans"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/p1b3P1/P3Pk2/r2p4/3P4/7P/2P1P3/8 w - - 0 1"]
+
+1. e7 $1 (1. Kh7 $2 Ra3) Kxe7 2. Kh7 Ra3 3. c3 $1 Rxc3 4. e3 $1 Rxe3 5. g8=Q Rxh3+ 6. Kg6 Rg3+ 7. Kf5 $1 Rxg8 1/2-1/2

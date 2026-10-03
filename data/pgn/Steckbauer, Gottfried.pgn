@@ -1,0 +1,139 @@
+[Event "3.c Schach#06639"]
+[Source "Schach/7"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Steckbauer, Gottfried"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "R7/8/n3P3/8/4k3/5p2/4rn2/5K2 w - - 0 1"]
+
+1. e7 $1 Nc7 2. e8=Q+ Nxe8 3. Rxe8+ Kd3 4. Rxe2 fxe2+ 5. Ke1 $1 Ng4 1/2-1/2
+
+[Event "Schach#06728 (c)"]
+[Source "Schach/10 (c): Steckbauer=G Schach/2 1972."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Steckbauer, Gottfried"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2b4k/7P/1P3pP1/p7/4P2K/8/8/8 w - - 0 1"]
+
+1. e5 $1 fxe5 2. Kg5 Kg7 3. h8=Q+ Kxh8 4. Kf6 Kg8 5. Kxe5 a4 6. Kd4 a3 7. Kc3 1/2-1/2
+
+[Event "Schach#06883"]
+[Source "Schach/3"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Steckbauer, Gottfried"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3K4/8/2p5/7P/4p3/1Pk1P3/6b1 w - - 0 1"]
+
+1. h5 $1 Bh2 2. Ke6 Bf4 3. Kf5 Bh6 (Bd6 4. Ke6 Bf8 5. Kf7 Bh6 6. Kg6 Kd2 (Bf4 7. Kf5 Bd6 8. Ke6 Bf8 9. Kf7 Bh6 10. Kg6) 7. Kxh6) 4. Kg6 Kd2 5. Kxh6 Kxe2 6. Kg6 Kf3 7. h6 e2 8. h7 e1=Q 9. h8=Q 1/2-1/2
+
+[Event "Schach#06938"]
+[Source "Schach/5"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Steckbauer, Gottfried"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k2K2/1pP5/1P1p4/1P6/b7/P7/1P6/8 w - - 0 1"]
+
+1. Ke7 $1 d5 2. Kd6 d4 3. Kc5 d3 4. Kb4 d2 5. Kxa4 $1 (5. Ka5 $2 d1=Q 6. b4 Bxb5 $1 (Qd6 7. Kxa4 Qd3 8. Ka5 Qxa3#) 7. a4 (7. Kxb5 Qd5+ 8. Ka4 Qc4 9. Ka5 Qa6#) Qxa4#) d1=Q+ 6. Ka5 $1 Qb3 7. a4 Qg8 8. b4 Kd7 9. c8=Q+ Qxc8 1/2-1/2
+
+[Event "2.hm Schach#07367"]
+[Source "Schach/1 1974 EG#02643."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Steckbauer, Gottfried"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/8/1P3nP1/8/1P2P3/4p1p1/5p2/5K2 w - - 0 1"]
+
+1. b7 $1 (1. e5 $2 Ne4 $1 2. b7 Nd2+ 3. Ke2 f1=Q+ 4. Kxe3 Qb5) Nd7 2. e5 Nb8 3. e6 $1 Nc6 4. b8=Q+ Nxb8 5. b5 $1 1-0
+
+[Event "3.hm Schach#07564"]
+[Source "Schach/10 1974 EG#02644."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Steckbauer, Gottfried"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/2p5/4P3/6pK/4p1p1/3p4/5p2/8 w - - 0 1"]
+
+1. Kg6 $1 (1. e7 $2 Kg7 $1 2. e8=Q f1=Q $1) f1=Q 2. e7 Kg8 3. e8=Q+ Qf8 4. Qe6+ Kh8 5. Qe5+ Kg8 6. Qd5+ Kh8 7. Qd4+ Kg8 8. Qc4+ Kh8 9. Qc3+ Kg8 10. Qb3+ Kh8 11. Qb2+ Kg8 12. Qa2+ Kh8 13. Qh2+ Kg8 14. Qh7# 1-0
+
+[Event "3.p Magyar Sakkélet#1113 (m)"]
+[Source "Magyar Sakkélet/12 (m): Pankov=V Shakhmatnaya Kompozitsia=43 1-11-2001."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Steckbauer, Gottfried"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k1K5/1pB5/1P6/8/8/7p/6N1/8 w - - 0 1"]
+
+1. Nf4 $1 (1. Bh2 $2 hxg2 2. Kd7 g1=Q) h2 2. Ne6 $1 h1=Q 3. Bh2 $1 Qxh2 4. Nc7+ Qxc7+ 5. bxc7 1-0
+
+[Event "3.p Magyar Sakkélet#1113"]
+[Source "Magyar Sakkélet/12 EG#02557."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Steckbauer, Gottfried"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k1K5/1pB5/1P6/1P6/N7/7p/8/8 w - - 0 1"]
+
+1. Nc5 $1 h2 2. Ne6 $1 (2. Na6 $2 h1=Q 3. Bh2 bxa6 4. bxa6 Qxh2) h1=Q 3. Bh2 $1 Qxh2 4. Nc7+ Qxc7+ 5. bxc7 (5. Kxc7 $2) 1-0
+
+[Event "Schach#10811"]
+[Source "Schach/10"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Steckbauer, Gottfried"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7p/1k1pP3/8/8/5K2/8 w - - 0 1"]
+
+1. Ke3 $1 (1. Kf3 $2 Kc6 $1 2. Kf4 Kd7 3. Kf5 Ke7 4. e6 h5 $1) (1. Kg3 $2 Kc6 $1 2. Kf4 Kd7 3. Kf5 Ke7 4. e6 h5 $1) Kc6 2. Kd4 (2. Kf4 $2 Kd7 3. Kf5 h5 $1) h5 3. e6 $1 h4 (Kd6 4. e7 Kxe7 5. Kxd5) 4. Ke5 h3 5. Kf6 h2 6. e7 h1=Q 7. e8=Q+ 1/2-1/2
+
+[Event "Schach#10705"]
+[Source "Schach/6"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Steckbauer, Gottfried"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6kP/4p1P1/p7/8/8/4K3/8 w - - 0 1"]
+
+1. Kd3 $1 a4 (e5 2. Ke4 a4 3. Kf5 a3 4. Ke6 a2 5. h8=Q+ Kxh8 6. Kf7 a1=Q 7. g7+ Kh7 8. g8=Q+ Kh6 9. Qg6#) 2. Kc4 e5 3. Kd5 a3 4. Ke6 a2 5. h8=Q+ Kxh8 6. Kf7 a1=Q 7. g7+ Kh7 8. g8=Q+ Kh6 9. Qg6# 1-0

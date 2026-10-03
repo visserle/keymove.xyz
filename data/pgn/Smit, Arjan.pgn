@@ -1,0 +1,13 @@
+[Event "4.c Schakend Nederland#1836"]
+[Source "Schakend Nederland/10 EG#06073."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Smit, Arjan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/4N2p/1B3k2/3K1P2/5p1p/5P2/7n w - - 0 1"]
+
+1. Ke3 $1 Nxf2 (Kxe6 2. Kxf3 h2 3. Bc6 Kf5 4. Be4+ Ke6 5. Kg2) (h2 2. Nd4+ Kg4 3. Bd7+ Kh5 4. Nxf3) 2. Kxf2 h2 (Kxe6 3. Bc6 Kf5 4. Kxf3 h2 5. Kg3 h5 6. Bh1 h4+ 7. Kf3 h3 8. Kg3 h5 9. Kf3 h4 10. Ke3 Kg4 11. Ke4 Kg3 12. f5 Kf2 13. f6 Kg1 14. Bf3 h1=Q 15. Bxh1 Kxh1 16. f7 h2 17. f8=Q Kg1 18. Ke3) 3. Ng7+ Kg6 (Kxf4 4. Nh5+ Kg4 5. Ng3) (Kg4 4. Bd7+ Kh4 5. Nf5+ Kg4 6. Ng3+) 4. Nh5 Kxh5 (h1=Q 5. Be8+ Kf5 6. Ng3+) 5. Kg3 h1=N+ (h1=Q 6. Be8#) (Kg6 6. Kxh2) 6. Kxf3 Kh4 (Kg6 7. Bd3+ Kf6 8. Kg2) 7. f5 Ng3 8. f6 Nf5 9. f7 (9. Kf4 $2 Nd6 10. Be8 h5 11. Ke5 Kg5 12. Bxh5 h6 13. Be8 Nxe8 14. f7 Nf6) Nd4+ 10. Ke4 Ne6 11. Kf5 (11. Ke5 {<or>}) Nf8 12. Kf6 Kg4 {<eg>} 13. Bd3 h5 14. Ke7 1-0

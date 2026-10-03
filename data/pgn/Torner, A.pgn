@@ -1,0 +1,13 @@
+[Event "L'Échiquier de Paris#352 (s)"]
+[Source "L'Échiquier de Paris/1"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Torner, A"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/3p4/3p3p/1p1P3P/3K4/P7/8/8 w - - 0 1"]
+
+1. Kd3 $1 Kc7 (Ke7 {<main>} 2. Kc3 Kd8 3. Kb4) 2. Ke4 Kb6 3. Kf5 Kc5 4. Kg6 Kxd5 5. Kxh6 1-0

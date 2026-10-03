@@ -1,0 +1,13 @@
+[Event "Tidskrift for Schack#020"]
+[Date "1895.11.23"]
+[Round "?"]
+[Composer "Giersing, Johannes Hjalmar"]
+[Composer2 "Moller, J"]
+[White "Gjersing, J"]
+[Black " Moller, J."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6K1/1N6/8/3k1p2/8/8/8 w - - 0 1"]
+
+1. Nc8 $1 f3 (Ke5 2. Nb6 $1 (2. Ne7 $2 f3 3. Nc6+ Ke4) Kd4 3. Nc8 $1) (Kd5 2. Nb6+ Kc5 (Kd4 3. Nc8 $1) 3. Nd7+) (Kc4 2. Nd6+) (Kc5 2. Ne7) (Ke3 2. Nb6 f3 3. Nc4+) 2. Nd6 (2. Ne7 $2 Ke4 $1 (Ke3 $2 3. Nd5+) 3. Kg6 f2 4. Nf5 Kf4 $1) Ke3 3. Nc4+ $1 (3. Nf5+ $2 Kf4 $1 4. Nd4 (4. Nh4 f2 5. Ng2+ Ke4) f2 5. Ne2+ Kg4) Ke2 (Kd3 4. Ne5+) 4. Nd6 $1 f2 5. Ne4 f1=Q 6. Ng3+ Kf2 7. Nxf1 1/2-1/2

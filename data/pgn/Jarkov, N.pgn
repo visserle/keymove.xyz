@@ -1,0 +1,27 @@
+[Event "Revista de Romana de Sah#0764"]
+[Source "Revista de Romana de Sah/9"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Jarkov, N"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3R4/5kr1/1P2q3/p2pp2p/pPb5/P3N3/1K4p1/4Q3 w - - 0 1"]
+
+1. Qf2+ $1 (1. b7 $2 g1=Q 2. Qxg1 Rxg1 3. b8=Q axb4 4. Qxb4 Qe7) Kg6 2. Rd6 $1 (2. Qxg2+ $2 Kh7 3. Qf3 (3. Qxg7+ Kxg7 4. b7 Qb6 $1 5. b8=Q Qd4+ 6. Kb1 Bd3+) Qg6 4. Qf8 Qxb6 $1 5. Qh8+ Kg6 6. Qe8+ Kf6 7. Qf8+ Ke6 $1) Qxd6 3. Qxg2+ Kf7 4. Qxg7+ Kxg7 5. Nf5+ Kf6 6. Nxd6 Ba6 7. b5 (7. bxa5 $2 h4 8. b7 Bxb7 9. Nxb7 h3 10. a6 h2 11. a7 h1=Q) Bb7 8. Nxb7 Ke7 $1 (h4 9. Nc5 h3 10. Nd3 h2 11. Nf2) (Ke6 9. Nc5+ Kd6 10. Na6) 9. Nxa5 $1 (9. Nc5 $2 Kd8 $1 10. Na6 Kc8) Kd7 10. b7 Kc7 11. b6+ Kb8 12. Kc3 h4 13. Kb4 h3 14. Kb5 h2 15. Ka6 h1=Q 16. Nc6# 1-0
+
+[Event "Buletin Problemistic#153"]
+[Source "Buletin Problemistic/10-12"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Jarkov, N"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5k2/2Pb1p2/2p2P2/pB1p1P1P/P2P2p1/KP6/8 w - - 0 1"]
+
+1. Bxc5 $1 Bxc5 2. c7 g2 3. c8=Q g1=Q 4. Qxc5 Qd1 $1 5. Qc7+ $1 Kg8 6. Qd8+ Kg7 7. Qe7+ Kg8 8. Qe8+ Kg7 9. Qg6+ Kf8 10. Qxf6+ 1-0

@@ -1,0 +1,12 @@
+[Event "Principles of Chess"]
+[Date "1894.??.??"]
+[Round "?"]
+[Composer "Mason, James"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/4ppp1/2P5/P7/8/8/8/2K5 w - - 0 1"]
+
+1. a6 $1 g5 2. Kd2 g4 3. Ke3 e5 4. Ke4 f5+ 5. Kxe5 g3 6. Kd6 g2 7. c7+ Kc8 8. a7 1-0

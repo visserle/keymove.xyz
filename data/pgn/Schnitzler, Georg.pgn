@@ -1,0 +1,12 @@
+[Event "Burnley Express#247"]
+[Date "1881.12.03"]
+[Round "?"]
+[Composer "Schnitzler, Georg"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b6/2p2p1p/1pP2P2/1P2K3/1P6/1P3k2/P7/8 w - - 0 1"]
+
+1. Kd4 $1 h5 2. Kc3 h4 3. Kb2 h3 4. Ka3 h2 5. Ka4 h1=Q 6. a3 Qb1 {<eg>} 1/2-1/2

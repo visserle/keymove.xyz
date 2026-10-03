@@ -1,0 +1,41 @@
+[Event "Indian Express"]
+[Source "EG#05529."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Ravishankar, Shikaripur Naryana Murthy"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7r/k1Kp2Q1/3P4/p7/6q1/P1n5/8 w - - 0 1"]
+
+1. Qxc2 $1 (1. Qxg3 $2 Nd4+ 2. Kxd6 Nf5+) (1. Qxh7 $2 Nb4+) Qa3 (Rh4 2. Qe2+) (Qh4 2. Qe2+ Ka7 3. Qe3+) 2. Qe2+ (2. Qxh7 $2 Qc5+ 3. Kd7 Qa7+) Ka7 3. Qa6+ Kb8 4. Qb7+ Rxb7 1/2-1/2
+
+[Event "Sportsweek (c)"]
+[Source "also 64 Shakhmatnoye Obozrenye=19(618) 64 Shakhmatnoye Obozrenye/10 1980. (c): Garcia=M Estudios Artisticos de Ajedrez - XV-58 1976."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Ravishankar, Shikaripur Naryana Murthy"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/B2qP1P1/4n2k/4P3/6P1/7n/8/8 w - - 0 1"]
+
+1. Be3+ $1 (1. g8=Q $2 Qxe7 2. Be3+ Neg5 $1) Neg5 (Nhg5 2. g8=Q Qxe7 3. Bc1) 2. e6 $1 Qxe6 3. Bxg5+ Nxg5 4. e8=Q $1 (4. g8=Q $2 Nf7+) Nf7+ (Qxe8+ 5. g8=N+ Kg6) 5. Qxf7 Qxf7 6. g5+ $1 (6. g8=Q $2 Qf6+) 1/2-1/2
+
+[Event "Sportsweek"]
+[Source "EG#05525."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Ravishankar, Shikaripur Naryana Murthy"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5q2/p7/P7/2p5/2P5/5PR1/7N/5K1k w - - 0 1"]
+
+1. Ng4 $1 (1. Rh3 $2 Qh6 2. Rxh6) Qxf3+ 2. Nf2+ (2. Rxf3 $2) Kh2 3. Rg1 (3. Rxf3 $2) (3. Rh3+ $2 Qxh3+) Qc6 (Qa8 4. Rg6) 4. Rg8 (4. Rg5 $2 Qg6 5. Ng4+ Kh1) (4. Rg4 $2 Qg6) Qf3 (Qg6 5. Ng4+ Kh1 6. Rh8+) 5. Rh8+ Kg3 6. Rh3+ Kf4 7. Rxf3+ Kxf3 8. Nd1 Ke4 9. Ke2 (9. Nb2 $2 Kd4) Kd4 10. Ne3 Kc3 (Ke4 11. Nc2) 11. Kf3 Kd3 12. Kf4 Kd4 13. Kf5 1-0

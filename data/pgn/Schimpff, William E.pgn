@@ -1,0 +1,12 @@
+[Event "Chess#177"]
+[Date "1939.09.20"]
+[Round "?"]
+[Composer "Schimpff, William E"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2Nk2q1/7p/5Pp1/5P1p/3K4/8/1R6/8 w - - 0 1"]
+
+1. Ne7 $1 Qf7 2. Nc6+ Kc8 3. Rb8+ Kc7 4. Rb7+ Kxb7 5. Nd8+ Kc7 6. Nxf7 gxf5 (h4 7. Ng5 Kd6 8. fxg6 hxg6 9. Ke4) 7. Ng5 1-0

@@ -1,0 +1,31 @@
+[Event "?"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Merkin, Yuri"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "1Nq5/p1p5/2p1pR2/p1k1P3/5P2/KP2P3/8/8 w - - 0 1"]
+
+1. Rf8 (1. Na6+ $4 Qxa6 2. Rxe6 Qd3) (1. Rxe6 $4 Qxe6 2. Na6+ Kb6) (1. Ka4 $4 Qxb8 2. b4+ Qxb4#) (1. b4+ $4 axb4+ 2. Kb2 Qxb8) Qb7 2. Nd7+ (2. f5 $4 Qb4+ 3. Ka2 Qd2+) (2. b4+ $4 Kc4 3. Kb2 Qxb4+ 4. Kc2 Qc3+) (2. Nxc6 Kxc6) (2. Ka4 Qb4#) Kd5 3. Nf6+ (3. Rb8 Qxb8 4. Nxb8 $18) (3. e4+ $4 Kd4 $19) (3. Nc5 $4 Qb4+ 4. Ka2 Qd2+ $19) (3. Rd8 $4 Qb4+ 4. Kb2 Ke4) (3. f5 $4 Qb4+ 4. Ka2 Qd2+) (3. Nb8 $4 Qb4+ 4. Kb2 Qxf8) Kc5 4. Rb8 (4. Ne4+ $4 Kb5 $17 $19) (4. Nd7+ $18 Kd5 5. Nf6+) (4. Rd8 $6 Qb4+ 5. Ka2) (4. f5 $4 Qb4+ 5. Kb2 Qd2+) (4. b4+ $4 Qxb4+ 5. Ka2 Kc4) (4. e4 $4 Qb4+ 5. Ka2 Qd2+) (4. Rc8 Qxc8 5. Ne4+ Kb6) Qa6 5. Ne4+ (5. Nd7+ Kd5 6. Nf6+ Kc5 $18) (5. e4 $4 Qf1) (5. Ka4 $4 Qd3 6. Kxa5 Qd2+) (5. Rb6 $4 Kxb6 6. Nd7+ Kb5) (5. Rb5+ $4 cxb5 6. Ne4+ Kc6) (5. b4+ $4 axb4+ 6. Kb2 Qe2+) (5. Nd5 cxd5) (5. f5 Qd3) (5. Ne8 Qf1) Kd5 6. Nc3+ (6. Nf6+ Kc5 $18 7. Ne4+) (6. Rd8+ $4 Kxe4 7. Rd4+ Kxe3) (6. Rb5+ Kxe4) Kc5 7. Na4+ (7. Rd8 $18 Qb7 8. f5) (7. Ne4+ Kd5 8. Nc3+ Kc5 $18) (7. Ka4 $4 Qd3 8. Kxa5 Qxc3+ 9. Ka6 Qxe3 10. b4+ Kc4) (7. b4+ $4 axb4+ 8. Kb2 Qa3+) (7. Rb5+ $4 cxb5 8. Ne4+ Kc6) (7. Ra8 $2 Qb7 8. Rd8) (7. e4 $4 Qf1 8. Na4+ Kd4) Kd5 8. Rd8+ (8. e4+ $4 Kd4 9. Rd8+ Ke3 $17) (8. Nc3+ Kc5 9. Na4+ Kd5 $18) (8. Rb5+ $4 cxb5 9. Nc3+ Kc5) (8. Rc8 $4 Qxc8 9. Nc3+ Kc5) (8. Rb6 Qd3 9. e4+) Ke4 9. Nc5+ $18 (9. Rd4+ $4 Kxe3 10. Re4+ Kf3) 1-0
+
+[Event "4.p 64#534"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Merkin, Yuri"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "6kq/4K1pp/p4p2/P3PP1R/6P1/8/8/8 w - - 0 1"]
+
+1. Rh6 $1 (1. exf6 $4 $2 gxf6 2. Rg5+ fxg5 3. f6 h5 $19) (1. e6 $4 g6 $19 2. fxg6 Qg7+) (1. Rxh7 $4 Qxh7 $19 2. exf6 gxf6+ 3. Kxf6 Qg7+) (1. Rh1 $4 $2 h6 $17 (fxe5 2. Rb1 h6) 2. e6) (1. Ke6 $4 h6) (1. Kd7 $4 g6 2. fxg6 Qg7+) (1. Kd8 $4 Kf7+ 2. Kc7 fxe5) (1. g5 $2 fxe5 2. f6 (2. Rh1 h5 3. Rd1 Kh7 4. Rd8 Qxd8+ 5. Kxd8 e4 6. f6 Kg6 7. Ke7 e3 8. f7 e2 9. f8=Q e1=Q+) gxf6 3. gxf6 h6 4. Rf5 Kh7 5. f7 Qg7) gxh6 (fxe5 2. Rxa6 $18 h5 3. Ra8+ Kh7 4. Rxh8+ Kxh8 5. a6) (g6 2. exf6) 2. exf6 (2. e6 $4 Qg7+ 3. Kd6 Qxg4) (2. g5 $4 Qg7+ 3. Kd6 Qxg5) h5 (Qxf6+ 3. Kxf6 Kf8 4. Ke6 Ke8 5. Kd6 Kf7 6. Kc6 Kf6 7. Kb6) 3. gxh5 $1 (3. g5 $2 h4 $1 4. f7+ $10 Kg7 5. f6+ Kg6 6. f8=Q Qxf8+ 7. Kxf8 h3 8. Kg8 h2 9. f7 h1=Q 10. f8=Q Qd5+) (3. f7+ $2 Kg7 4. f6+ Kg6 $10 $15 5. gxh5+ Kf5 6. f8=Q Qxf8+ 7. Kxf8 Kxf6) (3. Ke8 $4 Qxf6 4. gxh5 Qxf5) (3. Ke6 hxg4) h6 4. f7+ (4. Ke8 Qxf6) Kh7 $1 (Kg7 5. f6+ $18 Kh7 6. f8=Q) 5. f8=N+ $1 (5. f6 $2 Qb8 6. f8=Q $10) (5. f8=Q $2 Qe5+ 6. Kd7 $10 Qc7+ 7. Kxc7) (5. Ke6 $4 Kg7 6. f6+ Kf8) Kg8 (Kg7 6. f6+ Kg8 7. f7+ Kg7 8. Ne6+ Kh7 9. f8=Q) 6. f6 $18 (6. Ng6 $4 Qc3 $19 7. Kd6 Qf6+) Qxf6+ 7. Kxf6 Kxf8 8. Kg6 Ke7 {<eg>} 9. Kxh6 Kf6 10. Kh7 Kf7 11. h6 Kf8 12. Kg6 Kg8 13. Kf6 Kh7 14. Ke6 Kxh6 15. Kd6 1-0

@@ -1,0 +1,39 @@
+[Event "1.p Sovyetskaya Aviatsija"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Kotsakov, E"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2nN4/8/3P4/2kN4/8/8/1K1p4/8 w - - 0 1"]
+
+1. d7 $1 Nd6 (d1=Q 2. dxc8=Q+) (Nb6 2. Ne6+ Kc6 3. d8=Q) 2. Kc2 Kxd5 3. Kd1 $1 Kc4 (Ke4 {<main>} 4. Ne6 $1 Nb7 (Nf7 {<main>} 5. Ng5+ Nxg5 6. d8=Q) 5. Nc5+ Nxc5 6. d8=Q) 4. Nc6 $1 Nb7 (Nf7 {<main>} 5. Ne5+ Nxe5 6. d8=Q) 5. Na5+ Nxa5 6. d8=Q 1-0
+
+[Event "2.c Olympic ty Schach"]
+[Source "Schach/7"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Kotsakov, E"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4b3/kP2P3/P4K2/6P1/7p/8/8/7n w - - 0 1"]
+
+1. Kg7 $1 (1. g6 $2 Ng3 2. Kg5 Nh5 3. Kxh5 h3 4. Kg5 h2 5. g7 h1=R $1 (h1=Q $2 6. b8=Q+ $1 Kxb8 7. a7+ Kxa7 8. g8=Q Qg2+ 9. Kh6 Qxg8)) Kb8 $1 2. Kf8 Bh5 3. e8=Q+ Bxe8 4. Kxe8 Kc7 $1 5. g6 Ng3 6. g7 Nh5 7. g8=N $1 (7. g8=Q $2 Nf6+ 8. Kf7 Nxg8) h3 8. Ne7 h2 9. Nc6 Nf6+ 10. Kf7 $1 Nd7 11. b8=Q+ $1 Nxb8 12. a7 1/2-1/2
+
+[Event "Shakhmatnaya Moskva#15"]
+[Date "1964.04.18"]
+[Round "?"]
+[Composer "Kotsakov, E"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/2p5/6p1/1P4Pb/3P1Kp1/8/2P5/8 w - - 0 1"]
+
+1. Kg3 $1 Kg8 2. d5 Kf8 3. d6 Ke8 4. dxc7 Kd7 5. b6 Kc8 6. c3 $1 Kb7 7. c4 Kc8 8. c5 Kb7 9. c6+ Kc8 10. Kf4 g3 11. Ke5 Be2 12. Kd6 Ba6 13. b7+ Bxb7 14. cxb7+ Kxb7 15. Kd7 1-0

@@ -1,0 +1,969 @@
+[Event "?"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "7K/6p1/8/7p/8/8/R7/6k1 w - - 0 1"]
+
+1. Kh7 (1. Kxg7 $2 h4 2. Rb2 $10) (1. Ra1+ $2 Kg2 2. Rb1 $10) (1. Ra5 $2 g6 2. Rb5 $10) (1. Ra4 $2 g5 2. Rb4 $10) (1. Rg2+ Kxg2 2. Kxg7 h4) (1. Rh2 Kxh2 2. Kxg7 Kg3) h4 2. Kg6 (2. Kxg7 $2 h3 3. Rb2 $10) (2. Ra1+ $2 Kg2 3. Rb1 $10) (2. Ra3 $2 Kg2 3. Rb3) (2. Ra4 $2 g5 3. Rb4) (2. Ra5 $2 g6 3. Rb5) h3 3. Kg5 h2 4. Kg4 h1=Q 5. Kg3 $18 1-0
+
+[Event "28 Rijen#154"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Draws by perpetual check or by repetition"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/k7/2K5/8/8/8/6pp/1R6 w - - 0 1"]
+
+1. Ra1+ $1 (1. Rb7+ $2 Ka8 $19 2. Ra7+ Kxa7) (1. Rh1 $2 gxh1=Q+ 2. Kd6 Qe4 $19) (1. Kc5 $2 g1=Q+ 2. Rxg1 hxg1=Q+ 3. Kd5 Qe1 4. Kc5 Qg1+) (1. Re1 h1=Q 2. Rxh1 gxh1=Q+ 3. Kc5 Qg1+) (1. Rf1 gxf1=Q) Kb8 2. Rb1+ (2. Kb6 $2 g1=Q+ 3. Rxg1 hxg1=Q+ 4. Kb5 Qd4 $19 5. Ka5 Kc7) (2. Ra6 $2 g1=Q 3. Rb6+ Kc8 $19) (2. Ra2 $2 h1=Q 3. Rb2+ Kc8 $19) (2. Kd7 $2 g1=Q 3. Rxg1 hxg1=Q $19) (2. Re1 $2 h1=Q 3. Re8+ Ka7) (2. Rd1 h1=Q 3. Rxh1 gxh1=Q+ 4. Kb5 Qe4) Kc8 3. Ra1 $1 (3. Re1 $2 Kd8 4. Rd1+ Ke8 $19) (3. Rh1 $2 gxh1=Q+ 4. Kd6 Qe4 $19) (3. Rg1 hxg1=Q) (3. Kd5 h1=Q 4. Rxh1 gxh1=Q+ 5. Ke5 Qh4) (3. Rf1 gxf1=Q) (3. Rb6 g1=Q 4. Rb8+ Kxb8) Kd8 (g1=Q 4. Ra8#) (h1=Q 4. Ra8#) 4. Kd6 (4. Ra8+ $2 Ke7 5. Ra7+ Kf6 $19) (4. Rd1+ $2 Ke8 5. Re1+ Kf7 $19) (4. Ra7 $2 h1=Q 5. Ra8+ Ke7 $19) (4. Kb7 $2 h1=Q 5. Ra8+ Kd7 $19) (4. Ra5 $2 h1=Q 5. Rd5+ Kc8 $19) (4. Kd5 h1=Q 5. Rxh1 gxh1=Q+ 6. Ke5 Qh4) (4. Re1 h1=Q 5. Rxh1 gxh1=Q+ 6. Kc5 Qe4) (4. Rb1 h1=Q 5. Rb8+ Ke7) Ke8 (Kc8 5. Kc6) 5. Ke6 (5. Ra7 $2 g1=Q 6. Re7+ Kf8 $19) (5. Ra8+ $2 Kf7 6. Ra7+ Kg6) (5. Re1+ Kf8) (5. Ra2 g1=Q 6. Re2+ Kd8) Kf8 6. Kf6 (6. Ra8+ $2 Kg7 7. Ra7+ Kh6) Kg8 7. Ra8+ (7. Kg6 $2 g1=Q+ 8. Rxg1 hxg1=Q+ 9. Kf5 Qe3 $19 10. Kg4 Kf7) (7. Re1 $2 g1=Q 8. Rxg1+ hxg1=Q $19) (7. Ra7 $2 g1=Q 8. Ra8+ Kh7 $19) Kh7 8. Ra7+ (8. Kf7 $2 g1=Q $19 9. Rh8+ Kxh8) (8. Kg5 $2 g1=Q+ 9. Kf5 h1=Q $19) (8. Ra6 $2 g1=Q $19 9. Ra7+ Qxa7) (8. Rf8 $2 g1=Q 9. Rf7+ Kh6 $19) Kh6 9. Ra8 $1 (9. Kf5 $2 g1=Q 10. Ra6+ Kh5 $19) (9. Ra6 $2 g1=Q 10. Kf5+ Kh5 $19) (9. Ra4 $2 h1=Q $19 10. Rh4+ Qxh4+ 11. Ke6 g1=Q) (9. Rg7 $2 g1=Q 10. Rxg1 hxg1=Q $19) (9. Ra5 $2 g1=Q $19 10. Rh5+ Kxh5) (9. Kf7 g1=Q 10. Ra6+ Kh7) (9. Ra1 g1=Q 10. Rxg1 hxg1=Q) (9. Ke6 g1=Q) (9. Ra2 g1=Q 10. Rxh2+ Qxh2) (9. Rf7 g1=Q 10. Rh7+ Kxh7) Kh5 10. Kf5 $1 (10. Rh8+ $2 Kg4 11. Rxh2 g1=Q $19) (10. Ra5+ $2 Kg4 11. Ra4+ Kf3 $19) (10. Ra1 g1=Q 11. Rxg1 hxg1=Q) Kh4 11. Kf4 $1 (11. Rh8+ $2 Kg3 12. Rg8+ Kf3 $19) (11. Ra4+ Kg3 12. Ra3+ Kh4) Kh5 (Kh3 12. Rh8#) 12. Kf5 $10 (12. Rh8+ $2 Kg6 13. Rxh2 g1=Q $19) (12. Ra5+ $2 Kh6 13. Ra6+ Kg7 $19) (12. Kg3 $2 g1=Q+ 13. Kf4 Qg5+ $19) (12. Kf3 g1=Q 13. Rh8+ Kg5) (12. Rg8 g1=Q 13. Rh8+ Kg6) (12. Rf8 g1=Q 13. Rh8+ Kg6) (12. Ke4 g1=Q 13. Rh8+ Kg5) (12. Ra6 g1=Q 13. Ra5+ Kh4) 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "b2kN3/8/5P2/8/p7/p7/P3K3/8 w - - 0 1"]
+
+1. Nc7 (1. f7 $2 Ke7 2. Nc7 $10) (1. Nd6 $2 Bd5 2. Kd3 $10) (1. Ng7 $2 Bd5 2. Kd2 $10) (1. Ke3 $2 Kxe8 2. f7+ Kxf7) (1. Kd3 $2 Kxe8 2. f7+) (1. Kf2 Kxe8) (1. Kd2 Kxe8 2. f7+) Bh1 (Bg2 2. Ne6+ (2. Kf2 $2 Bh3 3. Ke3 $10) (2. f7 $2 Ke7 3. Kd3 $10) (2. Ke3 $2 Bf1 3. Nd5 $10) (2. Nb5 $2 Bc6 3. Nc3) (2. Kd3 $2 Kd7 3. Kd4) Ke8 3. Kf2 (3. Nf4 $2 Be4 4. Kd2 $10) (3. f7+ $2 Kxf7 4. Nc7 $10) (3. Ng5 $4 Bd5 $10 4. Kd2) (3. Ke3 $2 Kf7 4. Nf4 $10) (3. Ng7+ $2 Kf7 4. Nf5) (3. Nc7+ $2 Kf7 4. Ke3) (3. Nd8 $2 Kxd8 4. Kd2) (3. Nc5 $2 Bd5 4. Kd2 Bxa2 5. Nxa4) (3. Nd4 Bd5 4. Kd2) Bh1 4. Kg1 (4. Kg3 $2 Kf7 5. Nc7 $10) (4. Ke3 $2 Kf7 5. Nc7 $10) (4. Ng5 $4 Bd5 5. Ke1) (4. f7+ $2 Kxf7 5. Nc5) (4. Ng7+ $2 Kf7 5. Nf5) (4. Nc7+ Kf7 5. Kg3) (4. Nf4 Be4 5. Ne2) Bd5 5. Nc7+ $3 $18 (5. Nf4 $4 Bxa2 6. f7+ Bxf7 $19) (5. f7+ $2 Kxf7 6. Nd4 $10) (5. Kh2 $4 Bxe6 6. f7+ Kxf7 $19) (5. Ng7+ $4 Kd7)) 2. Kf2 (2. Ne6+ $2 Ke8 3. Nc7+ $10) (2. Kf1 $6 Kd7 3. Kg1 $18) (2. Ke3 Bg2 3. Ne6+ $18) (2. f7 $2 Ke7 3. Kd2) (2. Kd2 $2 Bg2 3. Ke1) (2. Kd3 $2 Kd7 3. Ke2) Kd7 3. Kg1 (3. f7 Kxc7 $2 (Ke7 $5) 4. f8=Q $18) (3. Kg3 $18 Bc6 4. f7) (3. Ke3 $2 Bg2 4. Kd4) (3. Nb5 Bd5 4. Nc3) Bf3 4. f7 (4. Kf2 $2 Bh5 5. Nb5 $10) (4. Nb5 $2 Bh5 5. Kf2 $10) (4. Kh2 $2 Bh5 5. Nd5 $10) (4. Kf1 $2 Bd1 5. Nd5 $10) (4. Ne8 Kxe8) (4. Na8 Bxa8) Ke7 5. Ne6 (5. Kf2 $2 Bd1 6. Nd5+ $10) (5. Nb5 $2 Bd5 6. f8=B+ $10) (5. Nd5+ $4 Bxd5 6. f8=Q+ Kxf8) (5. Ne8 $2 Bd5 6. Nc7) Kxf7 6. Ng5+ $18 (6. Nd8+ Ke7) (6. Nd4 Bd5 7. Nb5) 1-0
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/8/8/2k5/8/4K3/3R3p/7r w - - 0 1"]
+
+1. Kd3 (1. Re2 $2 Kd5 2. Rd2+ Ke5 3. Re2 Kf5 $1 4. Rf2+ Kg4 $19) (1. Rc2+ $2 Kd6 $1 2. Re2 Kd5 $19) (1. Ke2 $2 Rc1 $19 2. Rc2+ Rxc2+ 3. Kd3 Rb2) (1. Rf2 $2 Re1+ 2. Re2 h1=Q 3. Rxe1 Qxe1+ 4. Kf3 Qh4 5. Ke2 Kd4) (1. Kf4 $2 Rf1+ 2. Ke5 h1=Q) (1. Rd1 Rxd1) Kd5 2. Kc3+ (2. Ke3+ $2 Ke6 $19 3. Rd6+ Kxd6) (2. Kc2+ $2 Kc4 $19 3. Rxh2 Rxh2+ 4. Kd1 Ra2) (2. Ke2+ $2 Kc4 $19 3. Rc2+ Kb3) (2. Re2 $2 Rd1+ 3. Kc2 h1=Q) (2. Rc2 $2 Rd1+ 3. Rd2 h1=Q) (2. Rg2 $2 Rd1+ 3. Kc3 h1=Q) (2. Rf2 Rd1+ 3. Kc3 h1=Q) (2. Rb2 Rd1+ 3. Rd2 h1=Q) (2. Ra2 Rd1+ 3. Kc2 h1=Q) (2. Rd1 Rxd1+ 3. Kc3 h1=Q) Ke4 3. Rc2 (3. Re2+ $2 Kf3 $19 4. Rf2+ Kxf2) (3. Kc2 $2 Ra1 4. Rxh2 Ra2+ $19) (3. Rd4+ $2 Ke5 $19 4. Rd5+ Kxd5) (3. Rg2 $2 Rc1+ 4. Kb2 h1=Q) (3. Kb4 Rb1+ 4. Kc5 h1=Q) (3. Rd5 Kxd5) Kf3 4. Kc4 (4. Kd3 $2 Rd1+ 5. Kc3 h1=Q $19) (4. Kd4 $2 Rd1+ 5. Kc4 h1=Q $19) (4. Kb2 $2 Rb1+ 5. Kxb1 h1=Q+ $19) (4. Kd2 $2 Rf1 5. Rc3+ Kg2 $19) (4. Rd2 $2 Rc1+ 5. Kb2 h1=Q) (4. Kb3 $2 Rb1+ 5. Rb2 Rxb2+ 6. Kxb2 h1=Q) (4. Kb4 $2 Rb1+ 5. Kc4 h1=Q) (4. Rc1 $2 Rxc1+ 5. Kb3 h1=Q) (4. Ra2 Rc1+ 5. Rc2 h1=Q) (4. Rb2 Rc1+ 5. Rc2 h1=Q) Kg3 5. Rc3+ $10 (5. Kd4 $2 Rd1+ 6. Kc5 h1=Q $19) (5. Kc5 $2 Rd1 6. Rxh2 Kxh2 $19) (5. Kd3 $2 Rd1+ 6. Rd2 h1=Q 7. Rxd1 Qxd1+ 8. Kc4 Kf4 9. Kc3 Ke5) (5. Kc3 $2 Rg1 6. Rxh2 Kxh2 $19) (5. Kd5 $2 Rd1+ 6. Kc5 h1=Q $19) (5. Re2 $2 Rc1+ 6. Kd4 h1=Q) (5. Rd2 $2 Rc1+ 6. Kb4 h1=Q) (5. Kb3 Rb1+ 6. Rb2 Rxb2+ 7. Kxb2 h1=Q) 1/2-1/2
+
+[Event "Casopis Ceskoslovensky Sach#109"]
+[Source "Casopis Ceskoslovensky Sach/2"]
+[Date "1913.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p5p/4p3/PP2K3/5Pb1/1k6/8/8 w - - 0 1"]
+
+1. f5 $1 (1. a6 $2 bxa6 2. bxa6 Bf3 3. Kxe6 h5 4. f5 h4 5. f6 h3 6. f7 h2 7. f8=Q h1=Q) exf5 (Bxf5 2. a6 bxa6 3. b6) 2. Kf4 Bh3 3. Kg3 Bf1 (f4+ 4. Kxh3 Kc4 5. a6) 4. a6 f4+ (bxa6 5. b6 Bd3 6. b7 Be4 7. b8=Q+ Ka4 8. Kf4) 5. Kf2 bxa6 6. b6 1-0
+
+[Event "28 Rijen#035"]
+[Date "1924.05.04"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3B4/8/3q4/8/3k4/8/2QK4 w - - 0 1"]
+
+1. Qd2+ $1 Kc4 (Ke4 {<main>} 2. Bc6 Qxc6 3. Qg2+ Kd4 4. Qxc6) 2. Be6 Qxe6 3. Qa2+ Kd4 4. Qxe6 1-0
+
+[Event "28 Rijen"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/1Rp5/1P6/8/3r4/K7/P7/8 w - - 0 1"]
+
+1. Rb8+ $1 (1. Rxc7 $2 Rd6) Kd7 (Ke7 2. bxc7) 2. Rd8+ Kxd8 3. b7 Rb4 $1 4. Kxb4 c5+ 5. Kb5 (5. Ka5 {<or>}) Kc7 6. Ka6 Kb8 7. Kb6 c4 8. a4 c3 9. a5 c2 10. a6 c1=Q 11. a7# 1-0
+
+[Event "28 Rijen#172"]
+[Date "1925.02.28"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/8/kPP5/1b6/1P6/8/8/8 w - - 0 1"]
+
+1. c7 $1 Bc6+ 2. b7 $1 (2. Kb8 $2 Bb7 3. b5+ (3. c8=Q Bxc8 4. Kc7 Kb5 $1 (Bb7 5. b5+ Kxb5 6. Kxb7) 5. Kxc8 Kxb6) Kxb6 4. c8=Q Bxc8 5. Kxc8 Kxb5) Bxb7+ 3. Kb8 Kb6 4. b5 $1 1-0
+
+[Event "Casopis Ceskoslovensky Sach#600"]
+[Source "Casopis Ceskoslovensky Sach/2"]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4nb2/8/6P1/5K2/8/8/2k5/8 w - - 0 1"]
+
+1. Ke6 $1 Bh6 (Nc7+ 2. Kd7) (Bb4 2. Kf7 Nd6+ 3. Ke6 Ne8 4. Kf7) 2. g7 $1 Nxg7+ (Bxg7 3. Kf7) 3. Kf7 Nf5 4. Kg6 1/2-1/2
+
+[Event "28 Rijen#273 (m)"]
+[Source "(m): Benko=P EG=153 6/2004."]
+[Date "1926.02.13"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4bn2/8/6P1/3k2K1/8/8/8/8 w - - 0 1"]
+
+1. g7 $1 Nh7+ 2. Kh6 (2. Kf5 $2 Bf7 3. g8=Q Bxg8 4. Kg6 Ke5 5. Kg7 Nf6) Nf6 3. g8=Q+ Nxg8+ 4. Kg7 Ne7 5. Kf8 1/2-1/2
+
+[Event "28 Rijen#273"]
+[Date "1926.02.13"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4bn2/8/2k3P1/6K1/8/8/8/8 w - - 0 1"]
+
+1. g7 $1 Nh7+ 2. Kf5 Bf7 3. g8=Q Bxg8 4. Kg6 Kd6 5. Kg7 1/2-1/2
+
+[Event "28 Rijen#274 (v)"]
+[Date "1926.02.20"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4bn2/8/6P1/6K1/4k3/8/8/8 w - - 0 1"]
+
+1. g7 $1 Nh7+ 2. Kh6 Nf6 3. g8=Q Nxg8+ 4. Kg7 Ne7 5. Kf8 1/2-1/2
+
+[Event "28 Rijen"]
+[Date "1926.11.06"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3b4/3Pp3/3k2K1/5B2/7p/8 w - - 0 1"]
+
+1. Kh3 $1 (1. Kf5 $2 Bb8 $1 2. Bh1 Ke3 3. Be4 (3. Ke6 Kf4 $1) Bc7 $1 4. Bh1 Kf2 5. Be4 Kg1) Ke3 (e4 2. Bxe4 Kxe4 3. Kg2) 2. Bg2 $1 (2. Bh1 $2 Kf2 3. Kxh2 e4+) Kf2 3. Kxh2 e4+ 4. Kh1 e3 5. Bf1 $1 Kxf1 1/2-1/2
+
+[Event "28 Rijen"]
+[Date "1926.11.14"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2P5/1b1kPpK1/8/8/8/8 w - f6 0 1"]
+
+1. exf6 $1 Ke6 (Kd6 2. c7 Bd7 3. Kh6 $1) 2. c7 (2. Kg6 $2 Bc4) Bd7 3. c8=Q $1 (3. Kg6 $2 Be8+ 4. Kg7 Kd7) Bxc8 4. Kg6 1-0
+
+[Event "Cesky Svet"]
+[Date "1926.11.25"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2Pp4/2P1p3/8/3K2b1/8/3k4/8 w - - 0 1"]
+
+1. Ke5 $1 (1. c8=Q $2 e5+ 2. Kd5 $1 (2. Kxe5 d6+) (2. Ke4 d5+) (2. Kc5 d6+) (2. Kc4 d5+) dxc6+ 3. Qxc6 Bf3+) d6+ 2. Kf4 $1 Bh3 3. Kg3 $1 1-0
+
+[Event "Ceskoslovensky Sach#029"]
+[Source "Ceskoslovensky Sach/8-9"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6b1/8/6P1/3p3K/3P4/3P1k2/8/8 w - - 0 1"]
+
+1. Kg5 $1 (1. Kh6 $2 Kf4 2. Kg7 Be6 3. Kf6 Bf5 4. g7 Bh7 5. Kf7 Ke3) Ke3 2. Kf6 Kf4 (Kxd4 3. Kg7 Be6 4. Kf6) 3. Ke7 $1 (3. Kg7 $2 Be6 4. Kf6 Bf5 5. Ke7 Ke3 $1) Kf5 (Ke3 4. Kf6 $1) (Kg5 4. Kf8 Be6 5. Ke7 Kf5 6. g7 Bg8 7. Kf8 Bh7 8. g8=Q Bxg8 9. Kxg8 Kf4 10. Kf7 Ke3 11. Ke6) 4. Kf8 Be6 5. Ke7 $1 1/2-1/2
+
+[Event "Vecherni List"]
+[Date "1927.05.07"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/5B2/pp6/kb6/8/1K6 w - - 0 1"]
+
+1. Ka1 $1 (1. Bg6 $2 Ba2+ 2. Ka1 (2. Kc2 b3+) b3) Bc4 (Bd1 { <main>} 2. Bc2 $1 Be2 3. Bd3 $1 Bf3 4. Be4 $1 Bg4 5. Bf5 $1 Bh5 6. Bg6 $1 Bxg6) (Ba2 {<main>} 2. Bc2 $1 b3 (Bb3 3. Bf5) 3. Bxb3 $1 Kxb3 (axb3) (Bxb3 4. Kb1)) 2. Bd3 $1 Bd5 (Bxd3) (Kb3 {<main>} 3. Bc2+ $1 Kc3 (Kxc2) 4. Bxa4 Bd3 5. Bb3 $1 Kxb3) 3. Be4 $1 Be6 4. Bf5 $1 Bf7 5. Bg6 $1 Bg8 6. Bh7 $1 Bxh7 1/2-1/2
+
+[Event "Ceské Slovo"]
+[Date "1933.09.22"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[Composer2 "Fritz, Jindrich"]
+[White "Moravec, J"]
+[Black " Fritz, J."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/8/1P4k1/8/4P3/4b3/B1p5/8 w - - 0 1"]
+
+1. b7 $1 Bf4 (c1=Q 2. Bf7+ $1 (2. b8=Q $2 Qc6+ 3. Qb7 Qa4+ 4. Kb8 Bf4+ 5. Kc8 Qe8#) Kxf7 3. b8=Q Qc6+ 4. Qb7+) 2. e5 $1 Bxe5 (c1=Q 3. b8=Q Qc6+ 4. Qb7 Qa4+ 5. Qa7) 3. b8=Q Bxb8 4. Bb1 $1 cxb1=Q 1/2-1/2
+
+[Event "Ceské Slovo"]
+[Date "1937.02.20"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/7k/3rP3/5P2/8/8/8/8 w - - 0 1"]
+
+1. e7 $1 Rf6 $1 2. Kb8 $1 (2. e8=Q $2 Rf8 3. Qxf8) (2. Kb7 $2 Rf7 $1 3. f6 Kg8 4. Kc8 Rf8+ 5. Kd7 Kf7) Kg7 (Kg8 {<main>} 3. Kc7 $1 (3. Kc8 $2 Rxf5) Rf7 (Rf8 4. Kd7 Kf7 5. exf8=Q+ Kxf8 6. Ke6) 4. Kd6 $1 (4. Kd7 $2 Kg7 5. Kd8 (5. Kd6 Rf6+ 6. Ke5 Rxf5+) Rxf5) (4. f6 $2 Rf8 5. Kd7 Kf7) Rf6+ 5. Kd7 Rf7 6. Ke6) (Rf7 3. f6 Kg8 4. e8=Q+ Rf8 5. f7+) (Rf8+ 3. exf8=R) 3. e8=Q (3. Kc7 $2 Rf8) (3. Kc8 $2 Rxf5 $1 4. e8=Q Rf8) Rf8 4. f6+ $1 Kg8 5. f7+ $1 1-0
+
+[Event "Ceské Slovo"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/2kPp3/2p1P3/4P3/K7/8 w - - 0 1"]
+
+1. Kb1 $1 (1. Ka1 $2 Kb5) Kb5 2. Kc2 Kb6 3. Kb2 $1 (3. Kc3 $2 Kc5 4. Kb2 Kb6 5. Ka2 Ka6) Kc5 (Kb5 4. Ka3 Ka5 (Kc5 5. Ka4 Kb6 6. Kb4) 5. d6) 4. Kc3 Kb5 5. d6 1-0
+
+[Event "Ceské Slovo"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1k6/p7/p1p5/P7/3K4/3P4/8 w - - 0 1"]
+
+1. Ke4 $1 (1. Kc4 $2 Kc6 2. d3 Kd6) Kc6 2. Ke5 c4 $1 3. Kd4 c3 $1 4. dxc3 $1 (4. Kxc3 $2) Kd6 5. c4 (5. Kc4 $2 Kc6 6. Kd4 Kd6) Kc6 6. c5 Kc7 7. Kd5 Kd7 8. c6+ Kc8 $1 9. Kd4 $1 (9. Kc4 {<or>} Kd8 10. Kd4 Kc8 11. Kd5) Kd8 10. Kc4 $1 Kc8 11. Kd5 $1 Kc7 12. Kc5 Kc8 13. Kb6 1-0
+
+[Event "Ceské Slovo"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2b5/2Pk4/1K1Pp3/4P3/8/8/8/8 w - - 0 1"]
+
+1. Ka7 $1 Ke8 (Kc6 2. Kb8 Kd7 3. Ka8 Ba6 4. Ka7 Bc8 5. Kb6 Ke8 6. Kc6) 2. Kb8 Kd7 3. Ka8 $1 Ke8 4. Ka7 Kd7 5. Kb6 Ke8 6. Kc6 Bd7+ 7. Kb7 1-0
+
+[Event "Ceské Slovo"]
+[Date "1938.01.29"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3K4/8/3P4/7k/8/8/1n6 w - - 0 1"]
+
+1. d6 $1 (1. Kc6 $2 Nd2 2. d6 Nc4 3. d7 Ne5+) (1. Ke6 $2 Nd2 2. d6 Ne4 3. d7 Nc5+) (1. Ke7 $2 Nd2 2. d6 Nc4 3. d7 Ne5 4. d8=Q Nc6+) (1. Ke8 $2 Nc3 2. d6 Ne4 3. d7 Nf6+) (1. Kc8 $2 Nd2 2. d6 Nc4 3. d7 Nb6+) Nd2 (Nc3 {<main>} 2. Kc6 $1 (2. Kc8 $2 Nd5) (2. Ke6 $2 Ne4) (2. Kc7 $2 Nb5+)) (Na3 {<main>} 2. Ke6 $1 (2. Kc6 $2 Nc4 3. d7 Ne5+) (2. Kc7 $2 Nb5+) (2. Ke7 $2 Nc4 3. d7 Ne5 4. d8=Q Nc6+) (2. Ke8 $2 Nc4 3. d7 Nd6+ 4. Ke7 Nb7)) 2. Kc7 $1 (2. Ke7 $2 Nc4 3. d7 Ne5 $1 4. d8=Q Nc6+ 5. Kd7+ Nxd8) (2. Kc6 $2 Nc4) (2. Kc8 $2 Nc4) (2. Ke6 $2 Ne4) (2. Ke8 $2 Ne4) Ne4 3. d7 Nc5 4. d8=Q+ 1-0
+
+[Event "1.hm Gros#161"]
+[Date "1938.05.21"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/1p6/7P/8/8/1p2K3/1P6/8 w - - 0 1"]
+
+1. Kf4 $1 (1. Kd3 $2 Kh7 2. Kc3 Kxh6 3. Kxb3 Kg6 4. Kc4 Kf6 5. Kc5 Ke6 6. b4 (6. Kb6 Kd5) Kd7 7. Kb6 Kc8 8. Ka7 b5 $1 (Kc7 $2 9. b5) 9. Kb6 Kb8 10. Kxb5 Kb7) (1. Kd4 $2 Kh7 2. Kc5 Kxh6 3. Kb6 Kg6 4. Kxb7 Kf6 5. Kc6 Ke6 6. Kc5 Kd7 7. Kb4 Kc6 8. Kxb3 Kb5) Kh7 2. Kg5 Kh8 3. Kg6 Kg8 4. h7+ Kh8 5. Kh6 $1 b6 6. Kg6 b5 7. Kh6 $1 b4 8. Kg5 $1 (8. Kh5 $2 Kxh7) Kxh7 9. Kf6 $1 (9. Kf5 $2 Kg7 10. Ke6 Kf8 11. Kd7 Kf7 12. Kd6 Ke8 13. Kc5 Kd7 14. Kxb4 Kc6 15. Kxb3 Kb5) Kg8 (Kh6 10. Ke5) 10. Ke7 $1 Kg7 11. Kd6 (11. Ke6 $2 Kf8 $1 (Kg6 $2 12. Kd5 Kf6 13. Kc5 Ke6 14. Kxb4 Kd5 15. Kxb3 Kc5 16. Ka4) 12. Kd7 Kf7 13. Kd6 Ke8 $1 14. Kc5 Kd7 15. Kxb4 Kc6 16. Kxb3 Kb5) Kf6 12. Kc5 Ke5 13. Kxb4 Kd6 14. Kxb3 Kc5 15. Ka4 Kb6 16. Kb4 $1 1-0
+
+[Event "Ceské Slovo (pl) (@2)"]
+[Source "= F@ntein=J a1h1 1938. î2: Moravec pod Lupou#005 1999."]
+[Date "1940.07.06"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/8/8/8/8/1P6/K6k w - - 0 1"]
+
+1. Kb1 $1 (1. Ka2 $2 Kg2 2. Kb3 Kf3 3. Kc4 Ke4 4. Kc5 Ke5 $1 5. b4 (5. Kb6 Kd5 6. Kxb7 Kc4) Ke6 6. Kb6 Kd5 7. Kxb7 Kc4) Kg2 2. Kc2 Kf3 3. Kd3 $1 Kf4 4. Kd4 Kf5 5. Kd5 Kf6 6. Kd6 Kf7 7. b4 $1 (7. Kc7 Ke6 8. b4 $1 {<minor dual>}) (7. Kd7 {<minor dual>} Kf6 8. b4) (7. b3 $1 {<minor dual>}) Ke8 8. Kc7 b5 9. Kc6 Kd8 10. Kxb5 Kc7 11. Ka6 Kb8 12. Kb6 1-0
+
+[Event "1.p Sach#68"]
+[Source "Sach/9-10"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k3K/8/8/8/7p/3p3P/3P4/8 w - - 0 1"]
+
+1. Kh7 $1 (1. Kg7 $2 Ke7) (1. Kg8 $2 Ke8) Kd7 $1 (Ke7 2. Kg7 Ke6 3. Kg6) 2. Kh6 $1 Kd6 (Ke6 3. Kg6) 3. Kh5 $1 Ke5 $1 (Kd5 4. Kxh4) 4. Kg5 $1 (4. Kxh4 $2 Kf4) Ke4 5. Kg4 $1 Ke5 6. Kf3 $1 Kf5 (Kd4 7. Kf4 Kd5 8. Ke3 Kc4 9. Ke4) 7. Ke3 Ke5 8. Kxd3 Kf4 9. Ke2 Kg3 10. d4 Kxh3 (Kf4 11. Kd3) 11. d5 Kg4 (Kg2 12. d6 h3 13. d7 h2 14. d8=Q h1=Q 15. Qg5+ Kh3 16. Qh5+ Kg2 17. Qg4+ Kh2 18. Kf2) 12. d6 h3 13. Kf2 (13. Kf1 {<or>}) 1-0
+
+[Event "Sach#69"]
+[Source "Sach/9-10"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k7/3p2K1/2p5/4P3/3P4/8/8 w - - 0 1"]
+
+1. Kg7 $1 (1. Kf5 $2 Kb7 2. Ke6 Kc6 3. Ke7 d5) Kb6 (Ka6 2. Kf8 Kb6 3. Ke8) 2. Kf6 Kb7 3. Kf7 Kc6 4. Ke6 $1 (4. Ke8 $2 d5 $1) Kc7 5. Ke7 Kc6 6. Kd8 1-0
+
+[Event "1.hm Sach#46"]
+[Source "Sach/7"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1pk1K3/8/8/P1P5/8 w - - 0 1"]
+
+1. Ke6 $1 (1. a3 $2 Kc6 $1 (Kc4 $2 2. Kd6) 2. Ke4 (2. Ke6 Kc5) (2. Kd4 Kd6 3. c3 Kc6) Kc5 3. Kd3 Kd5 4. Kc3 Kc5 5. Kb3 Kc6 $1 6. Kb4 Kb6 7. c3 Kc6 $1 (Ka6 $2 8. a4 $1) 8. Ka5 Kc5 9. Ka6 Kc6) Kc6 (Kc4 2. Kd6 Kd4 3. Kc6 Ke4 4. a3) 2. Ke7 $1 (2. a3 $2 Kc5 3. Kd7 b4 4. a4 Kb6) Kc7 (b4 3. Ke6 Kc5 4. Ke5 Kc4 5. Kd6) 3. a3 $1 Kc6 4. Kd8 $1 Kc5 (Kd6 5. c3 $1 Kc6 6. Kc8) 5. Kc7 b4 6. a4 $1 Kc4 7. Kc6 (7. Kb6 {<or>}) (7. Kd6 { <or>}) Kc3 8. Kc5 1-0
+
+[Event "Sach#07"]
+[Source "Sach/2"]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/Bpk5/8/PK6/8/8/8/8 w - - 0 1"]
+
+1. Kb4 $1 (1. Kc5 $2 b6+ $1 2. axb6+ Kb7) (1. Ka4 $2 b5+ $1) (1. Kc4 $2 b5+ $1) (1. Bb6+ $2 Kb8) Kd6 (b6 2. a6 $1) (Kc8 2. Kc5 Kc7 (Kd7 3. Bb8) 3. Kb5) 2. Bb6 (2. Kc4 {<or>} Kc6 3. Bb6) Kc6 3. Kc4 Kd7 4. Kc5 Kc8 5. Ba7 Kc7 6. Kb5 $1 Kd8 {<eg>} (b6 7. a6) (Kd6 7. Kb6) 7. Bb8 Kc8 8. Bh2 Kd7 9. Kb6 Kc8 10. Bg3 1-0
+
+[Event "Svobodné Slovo#069 (s)"]
+[Date "1949.03.13"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3r4/P4Kp1/k7/8/8/8/1R6/8 w - - 0 1"]
+
+1. Ke7 $1 (1. Rb8 $2 Rd7+) Rc8 $1 (Ra8 2. Kd7 $1 Rf8 (Kxa7 3. Kc7) 3. Rf2 $1 Ra8 (Rg8 4. Kc7 Ra8 5. Ra2+ Kb5 6. Kb7) 4. Kc7 Rxa7+ 5. Kc6 Ka5 6. Ra2+) 2. Kd7 $1 (2. Kd6 $2 Kxa7) Rf8 3. Rf2 $1 Ra8 (Rg8 4. Kc7 Ra8 5. Ra2+ Kb5 6. Kb7) 4. Kc7 Rxa7+ 5. Kc6 Ka5 6. Ra2+ Kb4 7. Rxa7 1-0
+
+[Event "Sachové Umenie#285"]
+[Source "Sachové Umenie/8-9"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/P4KPk/8/8/8/7b w - - 0 1"]
+
+1. a6 $1 (1. g6 $2 Kh6 2. Kf6 Bd5 (Be4 $2 3. g7 Kh7 4. Kf7 Bd5+ 5. Kf8) 3. a6 Bc4 4. a7 Bd5) Bd5 2. g6 $1 (2. a7 $2 Bb7 3. Kf6 Bd5 4. g6 Kh6 5. g7 Kh7) Kh6 3. Ke5 $1 (3. Kf6 $2 Bc4 4. a7 Bd5) Bg2 4. Kf6 $1 Bd5 5. a7 1-0
+
+[Event "Sachové Umenie#315"]
+[Source "Sachové Umenie/11"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/1K6/8/8/6P1/k7/8 w - - 0 1"]
+
+1. Kc5 $1 (1. g4 $2 Kb3 2. Kc5 Kc3 3. Kd5 Kd3 4. Ke5 Ke3 5. Kf5 Kf3 6. g5 Kg3) Kb3 2. Kd4 $1 (2. Kd5 $2 Kc3) Kc2 (Kb4 3. g4 Kb3 4. g5) 3. Ke3 $1 Kd1 (Kc3 4. g4 Kc4 5. Ke4 Kc5 6. Ke5 Kc4 7. g5 Kd3 8. g6 Ke3 9. Ke6) 4. g4 (4. Kf3 {<or>} Kd2 5. g4) Ke1 (Kc2 5. g5) 5. g5 (5. Kf3 {<or>}) Kf1 6. Kf3 $1 Kg1 7. g6 (7. Kg4 {<or>} Kg2 8. g6) Kh2 8. Kg4 Kg2 9. Kf5 Kg3 10. Ke6 Kf4 11. Kf7 1-0
+
+[Event "Svobodné Slovo"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5pk1/8/4P3/4P3/1K6/8/8 w - - 0 1"]
+
+1. Kc4 $1 Kf8 2. e6 $1 fxe6 3. e5 $1 1-0
+
+[Event "3.hm Práce"]
+[Date "1950.04.02"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k1K/8/8/p7/8/4p3/P3P3/8 w - - 0 1"]
+
+1. Kh7 $1 Kf7 (Ke7 {<main>} 2. Kg6 (2. a4 $2 Kd6) (2. Kh6 {<or>}) Kd6 3. Kf5 Kc5 4. Ke4 (4. Kf4 {<or>}) Kb4 5. Kxe3 Ka3 6. Kd2 $1 Kxa2 7. e4 Kb3 8. e5 a4 9. e6 a3 10. e7 a2 11. e8=Q a1=Q 12. Qb5+ Ka3 13. Qa5+ Kb2 14. Qb4+ Ka2 15. Kc2) (a4 2. Kg6 Ke7 3. Kf5 Kd6 4. Ke4 Kc5 5. Kxe3 Kb4 6. Kd2 $1 (6. Kd3 $2 Ka3 7. e4 Kxa2 8. e5 Kb1 $1 9. e6 a3 10. e7 a2 11. e8=Q a1=Q 12. Qe1+ Ka2 $1) Ka3 7. e4 $1 Kxa2 8. e5 $1 a3 9. e6 Kb3 10. e7 a2 11. e8=Q a1=Q 12. Qb5+ Ka3 13. Qa5+ Kb2 14. Qb4+ Ka2 15. Kc2) 2. Kh6 $1 Kf6 3. a4 $1 (3. Kh5 $2 a4 4. Kg4 Ke5 5. Kf3 Kd4 6. Kf4 a3 7. Kf3 Kc3 8. Kxe3 Kb2 9. Kd2 Kxa2 10. Kc2 Ka1 11. e4 a2) Kf5 4. Kh5 $1 Kf4 5. Kh4 Kf5 6. Kg3 Ke4 7. Kg4 Ke5 8. Kf3 Kd4 9. Kf4 Kc4 10. Kxe3 Kb4 11. Kd4 Kxa4 12. Kc4 $1 Ka3 13. e4 $1 a4 14. e5 $1 Kb2 15. e6 a3 16. e7 a2 17. e8=Q a1=Q 18. Qe2+ Kc1 19. Qe1+ Kb2 20. Qd2+ Kb1 21. Kb3 1-0
+
+[Event "Svobodné Slovo#115"]
+[Date "1950.08.27"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/8/1P2K3/8/1P6/3k4/8 w - - 0 1"]
+
+1. Ke6 $1 (1. Kd5 $2 Kc3 2. Kc6 Kb4 $1) Kc3 2. Kd7 Kb4 3. Kc6 $1 Ka5 4. Kc5 1-0
+
+[Event "Práce"]
+[Source "Práce/9"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/2k5/4p1P1/7K/6P1/8 w - - 0 1"]
+
+1. Kg3 $1 (1. g5 $2 e3 2. g6 (2. Kg3 Kd4 3. g6 Kd3) e2) Kd5 (Kd4 2. Kf2 Kd3 3. Ke1 Kd4 4. Ke2) 2. Kf2 Ke6 3. Ke3 (3. g3 $2 Kf6 4. Ke3 Kg5) Ke5 (Kd5 4. g5 Ke5 5. g6 Kf6 6. Kxe4 Kxg6 7. Kf4) 4. g3 $1 Kd5 5. g5 (5. Kf4 $2 Kd4 6. g5 e3) Ke5 6. g4 Kd5 7. Kf4 (7. g6 $2 Ke6 8. g5 Ke7 9. Kxe4 Kf8 10. Ke5 Kg7 11. Kf5 Kg8 12. Kf6 Kf8) Kd4 8. g6 e3 9. Kf3 Kd3 10. g7 e2 11. g8=Q e1=Q 12. Qd5+ Kc2 13. Qe4+ Qxe4+ 14. Kxe4 1-0
+
+[Event "Sachové Umenie#352"]
+[Source "Sachové Umenie/4"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4pK2/4P3/8/4p3/4P3/1k6 w - - 0 1"]
+
+1. Kg5 $1 (1. Kxe6 $2 Kc2 $1 2. Kf6 (2. Kd6 Kd2 3. e6 Kxe2 4. e7 Kd2 5. e8=Q e2) Kd2 3. e6 Kxe2 4. e7 Kf2 5. e8=Q e2) Kc2 2. Kf4 Kd2 3. Kf3 Kc3 4. Kxe3 Kc4 5. Ke4 $1 (5. Kf4 $2 Kd4 $1 6. e3+ (6. e4 Kd3 7. Kf3 (7. Kg5 Kxe4 8. Kf6 $2 Kd5) Kd4) Kd5 7. e4+ Kd4 $1) Kc5 6. e3 $1 Kc4 7. Kf3 $1 Kd5 8. Kf4 $1 Kc5 9. Kg5 1-0
+
+[Event "Práce"]
+[Source "Práce/2"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p1p3/5k2/3P4/8/3K4/8/8 w - - 0 1"]
+
+1. Kc4 $1 (1. Kd4 $2 Kf5 2. Kc4 Ke4) (1. Ke4 $2 e5 $1) Kf5 2. Kb5 Kf4 3. Kb4 $1 1/2-1/2
+
+[Event "Práce (s)"]
+[Date "1951.10.28"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7p/7P/4kPK1/8/8/8 w - - 0 1"]
+
+1. Kg3 $1 Kd5 (Kf5 2. Kf3 Kf6 3. Ke4 Ke6 4. f5+) 2. Kh3 (2. Kh4 {<or>} Kd4 (Kd6 3. Kg4 Ke6 4. Kf3 $1 Kf5 5. Ke3 Kf6 6. Ke4 Ke6 7. f5+) 3. Kh3 $1 Kd5 4. Kg3 $1) (2. Kh2 $2 Ke4 $1 (Kd4 $2 3. Kh3 Kd5 4. Kg3 Kd4 5. Kf3 Kd5 6. Ke3 Ke6 7. Ke4 Kf6 8. f5 Kf7 9. Ke5)) (2. Kf3 $2 Kd4 $1 3. f5 Ke5 4. Kg4 Kd6 $1 5. Kf4 Kd5 $1) (2. Kg4 $2 Ke4 3. Kg3 Kd5) Kd4 3. Kh4 $1 Kd5 4. Kg3 $1 Kd6 (Ke6 5. Kf3 Kd5 6. Ke3) 5. Kf3 Kd5 6. Ke3 Kd6 7. Ke4 Ke6 8. f5+ 1-0
+
+[Event "1.hm Práce"]
+[Date "1951.10.29"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/4P3/3p1p2/3p4/3P3K/3P4/8/8 w - - 0 1"]
+
+1. Kg4 $1 (1. Kh5 $2 Kxe7 2. Kg4 (2. Kg6 Ke6) Kf8 3. Kf4 Kg7) Kxe7 2. Kh5 $1 (2. Kf5 $2 Kf7) (2. Kf4 $2 Kf8 $1 3. Kg4 Kg7 4. Kh5 Kh7 $1) Kf7 3. Kh6 $1 Ke7 (f5 4. Kg5 Ke6 5. Kh4 $1 Kf6 6. Kh5) 4. Kh5 Ke6 5. Kg6 Ke7 6. Kh5 1/2-1/2
+
+[Event "Svobodné Slovo#186"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2K5/p7/1kP5/6p1/8/8/8 w - - 0 1"]
+
+1. c6 $1 (1. Kd6 $2 g3 2. c6 g2 3. c7 g1=Q 4. c8=Q Qd4+ 5. Ke7 Qc5+ 6. Qxc5+ Kxc5) g3 2. Kb7 g2 3. c7 g1=Q 4. c8=Q Qb6+ 5. Ka8 Qc6+ 6. Ka7 $1 (6. Qxc6+ $2 Kxc6) Qxc8 1/2-1/2
+
+[Event "Ceskoslovensky Sach#3054"]
+[Source "Ceskoslovensky Sach/6"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/3p4/8/3k4/1P6/8/8/8 w - - 0 1"]
+
+1. Kb7 $1 Kc4 2. Kc7 $1 (2. Kb6 $2 Kxb4) d5 3. Kc6 $1 d4 4. b5 1/2-1/2
+
+[Event "1.p Ceskoslovensky Sach#3057"]
+[Source "Ceskoslovensky Sach/7"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/3k4/p7/8/8/8/4P3/8 w - - 0 1"]
+
+1. Kf7 $1 Kd6 $1 2. Kf6 Kd5 $1 (a5 3. e4 a4 4. e5+) 3. Kf5 a5 $1 4. e4+ Kc6 $1 5. e5 $1 (5. Kf6 $2 a4 6. e5 a3 7. e6 a2 8. e7 a1=Q+) (5. Kg6 $2 a4 6. e5 Kd5 7. Kf5 a3 8. e6 Kd6 9. Kf6 a2 10. e7 a1=Q+) a4 6. e6 (6. Kg6 $2 Kd5) a3 (Kd6 7. Kf6 a3 8. e7) 7. Kg6 $1 (7. Kf6 $2 a2 8. e7 a1=Q+) a2 8. e7 Kd7 9. Kf7 1/2-1/2
+
+[Event "Ceskoslovensky Sach#3038"]
+[Source "Ceskoslovensky Sach/5"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k4/7p/8/2P5/K7/8/8/8 w - - 0 1"]
+
+1. Kb5 $1 h5 (Kc7 2. Kc4 h5 3. Kd4) 2. Kc6 $1 Kc8 (h4 3. Kb7) 3. Kd5 h4 4. Ke4 h3 5. Kf3 h2 6. Kg2 1/2-1/2
+
+[Event "Ceskoslovensky Sach#3041"]
+[Source "Ceskoslovensky Sach/5"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6p1/8/8/K7/2k5/6P1/8 w - - 0 1"]
+
+1. Kb5 $1 Kd4 $1 2. Kc6 Ke5 3. Kd7 Kf6 $1 (g5 4. Ke7 g4 5. Kf7 Kf5 (g3 6. Kg6) 6. Kg7 Kg5 7. g3 $1) 4. Kd6 $1 g6 (g5 5. g4) 5. Kd5 Kf5 6. Kd4 Kf4 7. Kd3 Kg3 8. Ke4 1/2-1/2
+
+[Event "Ceskoslovensky Sach#3053 (pl)"]
+[Source "Ceskoslovensky Sach/6 = Frink=O a7c7 1927."]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5k1K/8/8/2p5/8/3P4/8 w - - 0 1"]
+
+1. Kh8 $1 (1. Kh6 $2 Kf6 $1 2. Kh5 (2. Kh7 Ke5) Kf5) Kf6 2. Kg8 Ke5 3. Kf7 Kd4 4. Ke6 Kd3 5. Kd5 Kxd2 6. Kxc4 1/2-1/2
+
+[Event "Ceskoslovensky Sach#3024"]
+[Source "Ceskoslovensky Sach/4"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/p7/8/4P3/8/7K/8/8 w - - 0 1"]
+
+1. Kg4 $1 a5 2. Kf5 $1 a4 (Kd7 3. Ke4) 3. Kg6 $1 (3. Kf6 $2 a3 4. e6 a2 5. e7 a1=Q+) a3 4. e6 $1 a2 5. e7 Kd7 6. Kf7 $1 a1=Q 7. e8=Q+ 1/2-1/2
+
+[Event "1.hm Ceskoslovensky Sach#3201"]
+[Source "Ceskoslovensky Sach/5"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/8/8/2P2k2/2K5/8/8 w - - 0 1"]
+
+1. Kd4 $1 Kf5 2. Kd5 Kf6 3. Kd6 Kf7 4. c5 (4. Kd7 $2 a5) Ke8 {<eg>} 5. Kc7 a5 6. c6 a4 7. Kb8 a3 8. c7 a2 9. c8=Q+ 1-0
+
+[Event "Ceskoslovensky Sach"]
+[Source "Ceskoslovensky Sach/5"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/8/3K4/8/3P4/4k3/8 w - - 0 1"]
+
+1. Ke4 $1 (1. d4 $2 Ke3 $1) h5 2. d4 Kf2 3. Kf4 Kg2 4. d5 $1 (4. Kg5 $2 Kg3 5. Kxh5 Kf4) h4 5. d6 h3 6. d7 h2 7. d8=Q h1=Q 8. Qd2+ Kh3 9. Qd3+ Kg2 10. Qe2+ Kg1 11. Kg3 1-0
+
+[Event "Ceskoslovensky Sach"]
+[Source "Ceskoslovensky Sach/5"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/p7/k7/6P1/2K5 w - - 0 1"]
+
+1. g4 $1 Ka2 $1 2. g5 Ka1 3. g6 a3 4. g7 a2 5. Kd2 $1 Kb1 6. g8=Q a1=Q 7. Qg6+ Ka2 8. Qe6+ Ka3 9. Qa6+ Kb2 10. Qb5+ Ka3 11. Qa5+ Kb2 12. Qb4+ Ka2 13. Kc2 1-0
+
+[Event "Ceskoslovensky Sach"]
+[Source "Ceskoslovensky Sach/6"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/3p4/8/1P6/3k4/K7 w - - 0 1"]
+
+1. Kb2 $1 (1. b4 $2 Kc2 $1 2. b5 d4 3. b6 d3 4. b7 d2 5. b8=Q d1=Q+ 6. Ka2 Qd5+ 7. Ka3 Qa5#) d4 2. b4 d3 3. b5 Ke2 4. b6 d2 5. b7 d1=Q 6. b8=Q 1/2-1/2
+
+[Event "Ceskoslovensky Sach"]
+[Source "Ceskoslovensky Sach/5"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p4K2/8/8/5P2/8/8/3k4 w - - 0 1"]
+
+1. Ke6 $1 a5 2. Kd5 Kc2 3. Kc4 Kb2 4. f5 a4 5. f6 a3 6. f7 a2 7. f8=Q a1=Q 8. Qf2+ Ka3 9. Qe3+ Kb2 10. Qd2+ Kb1 11. Kb3 1-0
+
+[Event "Svobodné Slovo#363"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p1p2/3P1p2/5P2/5K2/8/8/3k4 w - - 0 1"]
+
+1. Ke3 $1 Kc2 2. Kd4 Kd2 3. Kc5 Ke3 4. Kb6 Kf4 5. Kc7 1-0
+
+[Event "Svobodné Slovo#384"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/7p/p7/7P/K6P/7P/8/8 w - - 0 1"]
+
+1. h6 $1 (1. Ka5 $2 Kg7 2. Kxa6 Kh6 3. Kb5 Kxh5 4. Kc4 Kxh4 5. Kd3 Kxh3 6. Ke2 Kg2) Kf7 2. h5 Kf6 3. h4 Kf5 4. Ka5 Kg4 5. Kxa6 Kxh5 6. Kb5 Kxh6 7. Kc4 Kh5 8. Kd3 Kxh4 9. Ke2 Kh3 10. Kf1 1/2-1/2
+
+[Event "FIDE revue#141"]
+[Source "after Botvinnik=M g5b7 1939."]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/8/p7/p2p4/P2P2K1/8/8/8 w - - 0 1"]
+
+1. Kg5 $1 (1. Kf5 $2 Kb7) Ka7 (Kb7 2. Kf5) (Kb8 2. Kf6 Kb7 3. Kf7) 2. Kg6 $1 Ka8 (Kb6 3. Kf6 $1 Kc6 4. Ke6 Kc7 5. Ke7) 3. Kf6 Kb7 (Kb8 4. Ke6 Kc8 5. Kd6 Kd8 6. Kc6) 4. Kf7 $1 Kb8 (Kb6 5. Ke8 Kc6 6. Kd8 Kd6 7. Kc8 Kc6 (Ke6 8. Kb7 Kf5 9. Kc6 Ke6 10. Kc5 Ke7 11. Kb6) 8. Kb8 Kb6 9. Ka8 $1) 5. Ke6 Kc7 $1 6. Ke7 $1 (6. Kxd5 $2 Kd7) Kc6 (Kc8 7. Kd6 Kd8 8. Kc6) 7. Kd8 Kd6 8. Kc8 Kc6 9. Kb8 Kb6 10. Ka8 $1 Kc6 11. Ka7 1-0
+
+[Event "Svobodné Slovo#379"]
+[Date "1955.01.23"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4K3/2p5/1Pp5/8/4k3/8/8 w - - 0 1"]
+
+1. b6 $1 (1. bxc6 $2 c4 2. c7 c3 3. c8=Q Kd2 $1 4. Qd7+ Kc1 $1) c4 2. b7 c3 3. b8=Q c2 4. Qh2 $1 c1=Q (Kd3 5. Qh6 (5. Qf4 {<or>})) 5. Qh6+ Kd3 6. Qxc1 1-0
+
+[Event "Lidova Demokracie"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6k1/3p4/8/4P3/8/4P3/5K2 w - - 0 1"]
+
+1. Ke1 $1 (1. Kf2 $2 Kf6 2. Kf3 Ke6 3. Ke3 (3. Kf4 Kf6) Ke5 4. Kd3 d5 $1) Kf6 2. Kd2 Ke6 (Kg5 3. Kd3 Kg4 4. Kc4 $1 Kf4 5. Kd4 Kg3 6. e5) 3. Kd3 $1 Ke5 4. Ke3 Kf6 5. Kd4 Ke6 6. e3 Ke7 7. Kd5 Kd7 8. e5 dxe5 {<eg>} 9. Kxe5 Ke7 10. e4 1-0
+
+[Event "Ceskoslovensky Sach#04"]
+[Source "Ceskoslovensky Sach/3"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p3p1p/p6P/P7/6P1/K7/8/2k5 w - - 0 1"]
+
+1. Kb4 $1 Kd2 2. Kc5 Ke3 3. Kd6 $1 (3. Kb6 $2 Kf4 4. Kxb7 Kxg4 5. Kxa6 f5 6. Kb7 f4 7. a6 f3 8. a7 f2 9. a8=Q f1=Q 10. Qg8+ Kh5 11. Qxh7 Qf6) Kf4 4. Ke7 Kxg4 (f5 5. gxf5 Kxf5 6. Kd6 Ke4 7. Kc7 Kd5 8. Kxb7 Kc5 9. Kxa6 $1 Kc6 10. Ka7 Kc7 11. a6 Kc8 12. Kb6 Kb8 13. Kc6) 5. Kf6 (5. Kxf7 $2 Kf5 6. Kg7 Ke6 7. Kxh7 Kf7) Kf4 (Kh5 6. Kg7 f5 7. Kxh7 f4 8. Kg7 f3 9. h7 f2 10. h8=Q+) 6. Kg7 1-0
+
+[Event "Svobodné Slovo"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/K7/4k3/2p5/3p4/2PPp3/4P3/8 w - - 0 1"]
+
+1. c4 $1 (1. cxd4 $2 Kd5 $1 (cxd4 $2 2. Kb6 Kd6 3. Kb5 Kd5 4. Kb4) 2. dxc5 Kxc5 3. Ka6 Kb4 4. Kb6 Kc3 5. Kc5 Kd2 6. d4 Kxe2 7. d5 Kf2 8. d6 e2 9. d7 e1=Q) Ke5 2. Kb6 Kf4 3. Kxc5 Kg3 4. Kxd4 Kf2 5. c5 Kxe2 6. c6 Kf2 (Kd2 7. c7 e2 8. c8=Q e1=Q 9. Qc3+) 7. c7 e2 8. c8=Q e1=Q 9. Qf5+ Kg1 $1 10. Qg4+ Kh2 11. Qf4+ 1-0
+
+[Event "Ceskoslovensky Sach#046"]
+[Source "Ceskoslovensky Sach/4"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k7/3K4/pp6/7p/P6P/P7/8 w - - 0 1"]
+
+1. Kc6 $1 (1. Kc7 $2 a4 2. Kc6 Ka6) (1. Kc5 $2 Ka6 2. a4 (2. Kc6 a4) bxa4 3. Kc6 a3 4. Kc5 Kb7 5. Kb5 Kc7 6. Kxa5 Kd6 7. Kb4 Ke5 8. Kxa3 Kf4 9. Kb4 Kg3 10. a4 Kxh3 11. a5 Kg2 12. a6 h3 13. a7 h2 14. a8=Q+ Kg1) Ka6 2. a4 $1 (2. Kc5 $2 a4 3. Kc6 (3. Kb4 Kb6 4. Kc3 Kc5) Ka5) bxa4 (b4 3. Kc5) 3. Kc5 $1 (3. a3 $2 Ka7 4. Kb5 Kb7 5. Kxa5 Kc6 6. Kxa4 Kc5 7. Kb3 Kb5 8. Kc3 Ka4 9. Kd4 Kxa3 10. Ke4 Kb4 11. Kf4 Kc5 12. Kg4 Kd6 13. Kxh4 Ke7) a3 4. Kc6 a4 5. Kc5 Ka5 (Kb7 6. Kb4 Kc6 7. Kxa4 Kd5 8. Kxa3 Ke4 9. Kb4) 6. Kc4 Kb6 7. Kb4 Kc6 8. Kxa4 Kc5 9. Kxa3 Kc4 10. Ka4 $1 (10. Kb2 $2 Kb4 11. Kc2 Ka3 12. Kd3 Kxa2) Kc5 (Kc3 11. Kb5 Kb2 12. a4) 11. Kb3 (11. Ka5 $2 Kc4 12. Ka4 Kc5) Kb5 12. Kc3 Ka4 13. Kd3 Ka3 14. Ke3 Kxa2 15. Kf4 Kb3 16. Kg4 Kc4 17. Kxh4 Kd5 18. Kg5 Ke6 19. Kg6 1-0
+
+[Event "2/3.hm Thèmes 64 (tw)"]
+[Source "Thèmes 64/7-9 1959"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p5K/5k2/7P/8/7P/8/8 w - - 0 1"]
+
+1. Kg8 $1 (1. h4 $2 Kf7 2. h6 (2. Kh6 b5) b5 3. h5 b4 4. Kh8 b3 5. h7 b2 6. h6 Ke7 7. Kg7 b1=Q 8. h8=Q Qb2+ 9. Kh7 Qc2+ 10. Kg7 Qc3+ 11. Kh7 Qd3+ 12. Kg7 Qd4+ 13. Kh7 Qe4+ 14. Kg7 Qe5+ 15. Kh7 Qf5+ 16. Kg7 Qf7#) Kg5 2. Kg7 (2. Kf7 $2 b5) Kxh5 3. Kf6 b5 4. Ke5 b4 5. Kd4 b3 6. Kc3 1/2-1/2
+
+[Event "2/3.hm Thèmes 64 (tw)"]
+[Source "Thèmes 64/7-9 1959"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4p2K/5k2/7P/8/7P/8/8 w - - 0 1"]
+
+1. h4 $1 (1. Kg8 $2 Kg5 2. Kg7 Kxh5 3. Kf7 e5 $1) (1. h6 $2 Kf7 2. Kh8 e5 3. h7 e4 4. h4 e3 5. h5 e2 6. h6 Kg6 (e1=Q $2) 7. Kg8 e1=Q) Kf7 (e5 2. Kg8 e4 3. h6) 2. Kh6 (2. h6 $2 e5 3. Kh8 e4 4. h7 e3 5. h5 e2 6. h6 Kg6) Kf6 3. Kh7 Kf7 4. Kh6 1/2-1/2
+
+[Event "Ceskoslovensky Sach#080"]
+[Source "Ceskoslovensky Sach/7"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k4/2pP4/5p2/3K4/p7/P7/P7/8 w - - 0 1"]
+
+1. Kc6 $1 (1. Ke6 $2 c5 2. Kd5 Kxd7 3. Kxc5 Ke6) f5 2. Kc5 $1 Kxd7 3. Kd5 c5 (c6+ 4. Ke5) 4. Kxc5 Ke6 5. Kd4 Kd6 6. Ke3 Ke5 7. Kf3 1/2-1/2
+
+[Event "Práce"]
+[Source "after Mandler=A h7d4 1946."]
+[Date "1960.11.27"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/6K1/8/8/4kP2/4B3/8 w - - 0 1"]
+
+1. Bd1 $1 Kf4 2. Kh5 b5 3. Kh4 b4 4. Kh3 b3 5. Kg2 b2 6. Bc2 1-0
+
+[Event "Ceskoslovensky Sach#007"]
+[Source "Ceskoslovensky Sach/1"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/8/8/Kp1kpP2/8/1P1P4/8 w - - 0 1"]
+
+1. Kb3 $1 (1. Kxb4 $2 Kd3 2. f5 Kxd2 3. f6 e3 4. f7 e2 5. f8=Q e1=Q) (1. b3 $2 Kd3 2. f5 Kxd2 3. f6 e3 4. f7 e2 5. f8=Q e1=Q 6. Qxb4+ Ke2 7. Qxe1+ (7. Qxb7 Kd3) Kxe1 8. Kb5 Kd2 9. b4 Kc3) Kd3 2. f5 Kxd2 3. f6 e3 4. f7 e2 5. f8=Q e1=Q 6. Qxb4+ Ke2 7. Qxe1+ Kxe1 8. Kc3 $1 Ke2 {<eg>} 9. b4 Kd1 10. b5 Ke2 11. Kd4 Kd2 12. b6 Kc2 13. Kc5 Kc3 14. Kd6 1-0
+
+[Event "Práce"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/5Pp1/7p/7k/3p4/7K/8 w - - 0 1"]
+
+1. f7 $1 d2 2. f8=Q d1=Q 3. Qf4+ Qg4 4. Qe3 b6 5. Qe7+ Qg5 6. Qe4+ Qg4 7. Qe3 b5 8. Qe7+ Qg5 9. Qe4+ Qg4 10. Qe3 b4 11. Qe7+ Qg5 12. Qxb4+ Qg4 13. Qe7+ Qg5 14. Qe4+ Qg4 15. Qe3 Qg5 16. Qh3# 1-0
+
+[Event "5.p Bohemian School-100 AT UV CSTV (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - VII-45 2012."]
+[Date "1961.08.21"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p4n2/8/7p/2Q2N2/4q2p/5k1K w - - 0 1"]
+
+1. Nxh2+ $1 (1. Nd2+ $2 Ke1 2. Qc1+ Qd1 3. Nf3+ Ke2+) Kf2 2. Qxf6+ (2. Qc5+ $2 Qe3 3. Qf5+ Ke2 4. Qf1+ Kd2) Ke3 (Ke1 {<main>} 3. Nf3+ Kf1 4. Ng1+ Qf2 5. Qxa6+ Ke1 6. Qa1+ Kd2 7. Qb2+ Ke3 (Ke1 8. Qc1#) 8. Qb6+ Ke4 9. Qxf2) 3. Nf1+ Ke4 4. Qe6+ Kd3 (Kf3 5. Qf5#) 5. Qxa6+ Kd4 6. Qxe2 1-0
+
+[Event "Svobodné Slovo"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1k6/1ppP4/8/p7/2P5/1K6 w - - 0 1"]
+
+1. c4 $1 (1. c3 $2 c4 $1) (1. Ka2 $2 c4 $1) bxc4 (b4 2. Ka2 Kc7 3. Kb3 Kd7 4. Ka2 Ke7 5. Kb3 Kd6 6. Ka2 Ke5 7. Kb3) 2. Ka2 $1 (2. Kc2 $2 Kc7) Kc7 3. Kxa3 Kd6 4. Kb2 Ke5 5. Kc2 $1 Kxd5 6. Kc3 1/2-1/2
+
+[Event "Ceskoslovensky Sach#166"]
+[Source "Ceskoslovensky Sach/12"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4kp2/1p6/8/P2K2P1/8/8/8 w - - 0 1"]
+
+1. Kc4 $1 (1. Kd5 $2 Kd7 2. Ke5 Ke7 3. g5 Kd7 4. Kd5 Kc7 5. Ke5 Kd7 6. Kf6 Ke8) Kd6 2. Kb5 Kc7 3. Ka6 f6 (Kc6 4. g5 Kc7 5. Ka7) 4. Ka7 Kc6 5. Kb8 Kd6 6. Kb7 Kc5 7. Kc7 1-0
+
+[Event "Svobodné Slovo"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/3k2p1/5pP1/5P2/8/3K4 w - - 0 1"]
+
+1. Kc1 $1 (1. Kd2 $2 Kd4 2. Ke2 Kc3) Kc5 2. Kd1 $1 Kb4 3. Kd2 $1 Kc4 4. Kc2 Kd4 5. Kd2 1/2-1/2
+
+[Event "Rude Pravo (tw)"]
+[Date "1966.12.25"]
+[Round "?"]
+[Composer "Moravec, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/8/5P1p/7P/8/7K/8/8 w - - 0 1"]
+
+1. Kg4 $1 (1. Kh4 $2 Kf7) Kf8 2. Kf4 $1 (2. Kf5 $2 Kf7 3. Ke5 Kf8 4. Ke4 Ke8 5. Kf4 Kf8 6. Ke5) Kg8 (Ke8 3. Ke4) 3. Ke4 $1 (3. Ke5 $2 Kf8 4. Kf4 Kg8 5. Ke4) Kf8 4. Ke5 $1 Kg8 (Kf7 5. Kf5 Kf8 6. Kg6 Kg8 7. Kxh6 Kf7 8. Kg5) (Ke8 5. Ke6 Kf8 6. f7) 5. Ke6 Kf8 6. f7 1-0

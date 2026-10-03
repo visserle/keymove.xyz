@@ -1,0 +1,51 @@
+[Event "Recueil d'études progressives#9.12"]
+[Date "1856.??.??"]
+[Round "?"]
+[Composer "Preti, Jean-Louis"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/Pp6/1P6/6pp/5p2/8/7K/8 w - - 0 1"]
+
+1. Kg1 $1 f3 2. Kf2 g4 3. Kg3 1/2-1/2
+
+[Event "Recueil d'études progressives-80"]
+[Date "1856.??.??"]
+[Round "?"]
+[Composer "Preti, Jean-Louis"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/Pp6/1P6/6pp/5p2/5K2/8/8 w - - 0 1"]
+
+1. Kf2 $1 g4 2. Kg2 1/2-1/2
+
+[Event "Traité Complet sur les Fins de Parties-"]
+[Date "1858.??.??"]
+[Round "?"]
+[Composer "Preti, Jean-Louis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5k1B/8/6K1/8/8/7P/8 w - - 0 1"]
+
+1. Kh6 $1 Kf8 2. Kg6 Ke8 3. Kg7 1-0
+
+[Event "ABC des Échecs#35"]
+[Date "1895.??.??"]
+[Round "?"]
+[Composer "Preti, Jean-Louis"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1R6/r2b4/8/7p/5p1k/5P1p/7K w - - 0 1"]
+
+1. Ra7 $1 Rb6 2. Rb7 Rc6 3. Rc7 Ra6 4. Ra7 Rxa7 1/2-1/2

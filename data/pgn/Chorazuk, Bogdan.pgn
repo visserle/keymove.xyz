@@ -1,0 +1,12 @@
+[Event "Szachy#222"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Chorazuk, Bogdan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/1p6/Pk6/8/2Pp4/8/8/2b5 w - - 0 1"]
+
+1. a7 $1 Bf4+ 2. Ka8 d3 3. c5+ Ka6 4. c6 $1 d2 (bxc6) 5. c7 d1=Q (Bxc7) 6. c8=Q Qd5 7. Qc6+ $1 bxc6 (Qxc6) 1/2-1/2

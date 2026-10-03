@@ -1,0 +1,79 @@
+[Event "De Schaakwereld#228 (c)"]
+[Source "(c): Jansen=J De Schaakwereld=3 11-8-1939."]
+[Date "1938.12.16"]
+[Round "?"]
+[Composer "Jansen, Joseph Hubertus"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p6/1P6/KP2p3/1R6/Pp1p2pp/P5k1/8 w - - 0 1"]
+
+1. axb3 $1 d2 2. Ra4 d1=Q 3. b4 Qxa4+ (h2) 4. Kxa4 h2 5. Ka5 h1=Q 6. a4 Qh8 1/2-1/2
+
+[Event "De Schaakwereld#301"]
+[Date "1939.10.13"]
+[Round "?"]
+[Composer "Jansen, Joseph Hubertus"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/1K1N4/8/1p3k1N/n3p3/8 w - - 0 1"]
+
+1. Ng1+ $1 Kf2 (Ke4 {<main>} 2. Nxe2 Kxd5 (b2 3. Ka4 b1=Q 4. Ndc3+ Nxc3+ 5. Nxc3+) 3. Ka4 b2 4. Ka3 b1=Q 5. Nc3+ Nxc3) 2. Nxe2 Kxe2 3. Ka4 (3. Nf4+ $2 Ke3 4. Nd5+ Kd4 5. Nf4 b2 6. Ne2+ Ke3) b2 4. Ka3 $1 (4. Nc3+ $2 Nxc3+ 5. Ka3 Na4) b1=Q 5. Nc3+ Nxc3 1/2-1/2
+
+[Event "De Schaakwereld#327"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Jansen, Joseph Hubertus"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4B3/3N4/8/5k2/5p2/1p2p3/6PK/8 w - - 0 1"]
+
+1. Ne5 $1 (1. Kg1 $2 e2 $1 2. Kf2 e1=Q+ 3. Kxe1 b2 4. Ne5 b1=Q+) (1. Bh5 $2 b2 2. Bg4+ Kxg4 3. Ne5+ Kf5) (1. Nc5 $2 e2 2. Nd3 b2 3. Ba4 b1=Q) (1. g4+ $2 fxg3+ 2. Kxg3 e2 $1 3. Kf2 e1=Q+ 4. Kxe1 b2) e2 (b2 {<main>} 2. Bg6+ Kxe5 3. Kg1 e2 (Kf6 4. Bb1 Kg5 5. Kf1 Kg4 6. Ke2 Kg3 7. Be4) 4. Kf2 Kf6 5. Bb1 Kg5 6. Kxe2 Kg4 7. Kf2) (Kxe5 2. Kg1 b2 (Kf6 3. Ba4 b2 4. Bc2) 3. Bg6 Kf6 4. Bb1) 2. Nf3 b2 3. Ba4 b1=Q (e1=Q 4. Nxe1 b1=Q 5. Bc2+) 4. Bc2+ Qxc2 5. Nd4+ Ke4 6. Nxc2 f3 {<eg>} 7. gxf3+ Kxf3 8. Ne1+ 1/2-1/2
+
+[Event "De Schaakwereld#364"]
+[Date "1940.06.28"]
+[Round "?"]
+[Composer "Jansen, Joseph Hubertus"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K1k/7b/8/6P1/1R2Np2/6p1/7p/8 w - - 0 1"]
+
+1. Nxg3 $1 (1. Nd6 $2 Bg6 2. Rb8 h1=Q 3. Nf7+ Kh7 4. Ke7 Qe4+) (1. Nf6 $2 h1=Q 2. Rb8 Bg8 3. Nxg8 Qh7 4. Nf6 Qg7+) (1. g6 $2 Bxg6 2. Nf6 h1=Q 3. Rb8 Qe1) fxg3 2. Rh4 h1=Q (g2 {<main>} 3. g6 g1=Q (h1=Q 4. g7#) 4. Rxh7#) 3. Rxh1 g2 4. g6 gxh1=Q 5. g7# 1-0
+
+[Event "De Schaakwereld#420"]
+[Date "1941.12.04"]
+[Round "?"]
+[Composer "Jansen, Joseph Hubertus"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7b/P7/b7/4k3/8/8/8/1K6 w - - 0 1"]
+
+1. a8=Q $1 Bd3+ 2. Kc1 $1 (2. Ka2 $2 Bc4+ 3. Ka3 Bf6 4. Qb8+ (4. Qe8+ Be6) Kf5 5. Qb1+ Ke5 6. Qe1+ (6. Qa1+ Ke6) (6. Qb2+ Ke6) Kd5 7. Qh1+ Kc5 8. Qh5+ Bd5) Bf6 3. Qe8+ (3. Qb8+ $2 Ke4 $1 4. Qa8+ (4. Qb7+ Ke3 5. Qb6+ Bd4) Ke3 5. Qe8+ Be4) (3. Qa5+ $2 Ke4 $1) (3. Qa1+ $2 Kf5) Kf4 (Kd6 { <main>} 4. Qb8+ Kd5 (Kd7 5. Qf4) (Kc5 5. Qf8+) (Ke6 5. Qb3+) (Kc6 5. Qc8+) (Ke7 5. Qa7+ Kf8 6. Qa3+) 5. Qb7+ Ke5 6. Qb2+ Kf5 7. Qf2+ Ke5 8. Qg3+ Ke4 (Kd4 9. Qf4+) 9. Qg6+) (Kd5 {<main>} 4. Qd7+ Ke4 5. Qc6+) (Kf5 {<main>} 4. Qd7+) 4. Qf7 Ke5 (Kf5 5. Qd7+) (Kg5 5. Qd5+) 5. Qc7+ Ke4 (Ke6 6. Qc6+ Ke7 (Ke5 7. Qc3+) (Kf7 7. Qd5+) (Kf5 7. Qd5+) 7. Qc5+ Kd7 (Ke6 8. Qe3+) (Kf7 8. Qd5+) 8. Qd5+) 6. Qc6+ Ke5 (Kf5 7. Qd5+) 7. Qc3+ 1-0
+
+[Event "Tijdschrift v.d. KNSB#045"]
+[Source "Tijdschrift v.d. KNSB/2"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Jansen, Joseph Hubertus"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5K1k/8/8/8/1R3P2/3bp3/6p1/8 w - - 0 1"]
+
+1. f5 $1 Bxf5 2. Rh4+ Bh7 3. Rg4 e2 4. Rxg2 e1=Q 5. Rg8+ Bxg8 1/2-1/2

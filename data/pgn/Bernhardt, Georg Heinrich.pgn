@@ -1,0 +1,763 @@
+[Event "Deutsches Wochenschach#1564"]
+[Date "1918.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/8/3p3P/1pp2K1k/2p5/6P1/1B6 w - - 0 1"]
+
+1. h6 $1 gxh6 2. Bf5 Kh5 $1 3. g3 b3 4. Bh7 b2 (c2 5. Kf5) 5. Bc2 $1 d4 6. Kf5 b1=Q 7. Bxb1 d3 8. Ba2 d2 9. Bxc4 d1=Q 10. Bf7# 1-0
+
+[Event "De Telegraaf"]
+[Date "1921.09.23"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6B1/k4P2/3p4/Kpp4p/8/1bP5/8 w - - 0 1"]
+
+1. c3 $1 Bxc3 (h3 2. f7 h2 3. f8=Q h1=Q 4. Qd6+) 2. f7 Bxg7 3. f8=Q Bxf8 1/2-1/2
+
+[Event "Der Tag"]
+[Source "Der Tag/5 also Deutsches Wochenschach#1744 Deutsches Wochenschach=37-38 24-9-1922."]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/p7/1N6/8/6pk/5P1p/7B/8 w - - 0 1"]
+
+1. fxg4 $1 axb6 2. Kb7 b5 3. Kc6 b4 4. Kd5 b3 5. Ke4 Kxg4 (b2 6. Kf4 b1=Q 7. Bg3#) 6. Kd3 b2 7. Kc2 b1=Q+ 8. Kxb1 1/2-1/2
+
+[Event "Wiener Schachzeitung#004"]
+[Source "Wiener Schachzeitung/5"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4p3/8/3P3p/P2pK3/6P1/7b/3k4 w - - 0 1"]
+
+1. d6 $1 exd6 2. Kd3 $1 (2. a5 $2 d3 $1 3. a6 Bg1 4. Kxd3 d5 $1) Bxg3 3. a5 d5 4. a6 Bb8 5. a7 Bxa7 1/2-1/2
+
+[Event "Schweizerische Arbeiter-Schachzeitung#2"]
+[Source "Schweizerische Arbeiter-Schachzeitung/9-10"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1pp3p1/p2ppp2/P4Pkp/1P2K3/7P/8/8 w - - 0 1"]
+
+1. h4+ $1 (1. fxe6 $2 f5+) Kh6 2. fxe6 Kg6 3. Kd5 f5 4. b5 $1 axb5 (Kf6 5. b6 $1) 5. a6 $1 bxa6 6. Kc6 1-0
+
+[Event "Revista de Romana de Sah#0456 (@2)"]
+[Source "Rev@sta de Romana de Sah/11-12 î2: Revista de Romana de Sah=5-7 5-7/1949."]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "nK5k/1p4pP/4p1P1/Pp2p3/4P3/8/8/8 w - - 0 1"]
+
+1. Kxb7 $1 b4 2. Kxa8 (2. a6 $1 {<minor dual>} b3 3. a7 b2 4. Kxa8) b3 3. a6 b2 4. a7 b1=B (b1=Q) 5. Kb7 $1 Bxe4+ 6. Kb6 Ba8 7. Kc5 (7. Kb5 {<or>}) Bb7 8. Kb4 1/2-1/2
+
+[Event "Schweizerische Schachzeitung#765"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k1K1/6P1/5p1B/5P2/3P1P2/2P3p1/8/3b4 w - - 0 1"]
+
+1. Kh8 $1 Bb3 2. c4 Bxc4 3. d5 Bxd5 4. g8=Q+ Bxg8 5. Bf8 Kxf8 1/2-1/2
+
+[Event "Schweizerische Schachzeitung#758"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6b1/8/4N3/N7/8/8/5k2/6bK w - - 0 1"]
+
+1. Nc4 $1 (1. Nf4 $2 Kf1 2. Nc6 Be3) Bxe6 2. Ne3 Bh3 3. Ng4+ Kf1 4. Nh2+ Kf2 5. Ng4+ Bxg4 1/2-1/2
+
+[Event "Schach Express#181"]
+[Source "Schach Express/2"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/8/P1p2P2/7p/8/4Pb2/5P1K/8 w - - 0 1"]
+
+1. Kg3 $1 Bd5 $1 2. e4 $1 Bxe4 3. Kf4 Bd5 4. Ke5 Bf3 5. Kd6 Kf7 (c5 6. Ke7) 6. Kc5 1-0
+
+[Event "Tijdschrift v.d. KNSB#108"]
+[Source "Tijdschrift v.d. KNSB/10"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5K2/p7/k2p4/P7/8/6pB/8/8 w - - 0 1"]
+
+1. Ke7 $1 d5 2. Kd6 d4 3. Kc5 d3 4. Kb4 Kb7 5. Kc3 1/2-1/2
+
+[Event "Schach Express#363 (c)"]
+[Source "Schach Express/10 (c): Fleck=J Die Schwalbe#09224 Die Schwalbe=159 6/1996."]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2B2p2/2Bn3P/8/8/5p2/p2k1K2/8 w - - 0 1"]
+
+1. Ba5+ $1 Kc2 2. Bc3 $1 Kxc3 3. h7 Ne4+ $1 4. Bxe4 f6 $1 (a1=Q 5. h8=B+) 5. h8=Q (5. h8=B $2 Kd4 6. Bxf6+ (6. Bc2 Ke5) Kxe4) a1=Q 6. Qxf6+ Kd2 7. Qf4+ (7. Qxa1 $2) Kc3 8. Qxf3+ Kb4 9. Qf8+ Kc4 10. Qc8+ Kb4 11. Qb7+ Kc5 12. Qc6+ Kb4 13. Qd6+ $1 (13. Qb6+ $2 Kc4 14. Qc6+ Kb4) Kb3 (Kb5 14. Bd3+) (Ka5 14. Qc5+ Ka6 15. Qc6+) (Kc4 14. Bd5+ Kd3 15. Qg3+ Kc2 16. Be4+) (Kc3 14. Qc5+) 14. Bd5+ Kc2 15. Qg6+ $1 Kd2 16. Qg5+ Kc2 17. Be4+ (17. Qf5+ $2 Kd2 18. Qf4+ Kc2 19. Qe4+ Kd2 20. Qe3+ Kc2 21. Be4+ Kb2 22. Qd4+ Ka2) Kb3 18. Qb5+ Kc3 19. Qc5+ Kb3 20. Bd5+ Kb2 21. Qd4+ Kb1 22. Be4+ Ka2 23. Qa4+ Kb2 24. Qb4+ Kc1 25. Ke1 Qa2 (Qb2 26. Qc4+) 26. Qc3+ 1-0
+
+[Event "Weltspiegel"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/p2N1p2/P1p4p/K1p3k1/2Pp4/P2P4/8 w - - 0 1"]
+
+1. Nb5 $1 (1. Nf5 $2 Kf3 $1 (Kxf5 $2 2. a3 h4) 2. Ne3 h4 3. Nf1 Ke2 4. a3 h3) h4 (axb5+ 2. Kxb5 h4 3. a6) (Kf3 2. Na3 Ke2 3. Nb1 h4 4. a3 h3) 2. Na3 h3 3. Nb1 h2 4. a3 h1=Q 1/2-1/2
+
+[Event "Deutsche Schachblätter#54"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4B3/pR5p/6pk/7P/2p4K/2P3p1/p7/8 w - - 0 1"]
+
+1. hxg6 $1 hxg6 2. Bxg6 Kxg6 $1 (a1=Q 3. Bb1 $1) 3. Rxa7 g2 4. Rxa2 g1=Q 5. Rg2+ Qxg2 1/2-1/2
+
+[Event "Tidskrift for Schack#0255"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6q1/2P5/7R/k4p2/4p3/PP5p/3R1P1p/7K w - - 0 1"]
+
+1. Rg6 $1 Qxg6 2. Rd5+ Kb6 3. Rd6+ Qxd6 4. c8=N+ 1-0
+
+[Event "Magyar Sakkvilág#681"]
+[Source "Magyar Sakkvilág/8"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/P6P/r1k4K/8/8/1P6/8 w - - 0 1"]
+
+1. h7 $1 Ra1 2. a7 Kb6 3. Kg4 $1 (3. Kg6 $2 Rg1+ 4. Kf7 Rf1+ 5. Ke7 Re1+ 6. Kd7 Rd1+ 7. Kc8 Rc1+ 8. Kd7 (8. Kb8 Rh1)) Rg1+ 4. Kh3 Rh1+ (Kxa7 5. Kh2) 5. Kg2 1-0
+
+[Event "British Chess Magazine#0893 (c)"]
+[Source "British Chess Magazine/10 (c): Garcia=M Estudios Artisticos de Ajedrez - I-80 2012."]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/P7/6pp/1p6/6P1/2pB1K2/1p6/5b1k w - - 0 1"]
+
+1. Bxf1 $1 b1=Q 2. a8=Q Qxf1+ 3. Kg3+ Kg1 4. Qa7+ Kh1 5. Qb7+ Kg1 6. Qb6+ Kh1 7. Qc6+ Kg1 8. Qc5+ Kh1 9. Qd5+ Kg1 10. Qd4+ Kh1 11. Qe4+ Kg1 12. Qe3+ Kh1 13. Qxh6+ Kg1 14. Qh2# 1-0
+
+[Event "Schach Magazin#059"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1K6/P7/8/k7/P7/2r4N/8 w - - 0 1"]
+
+1. a7 $1 Rb2+ 2. Kc7 (2. Ka6 $2 Rb5) Rc2+ 3. Kd7 Rd2+ 4. Ke7 Re2+ 5. Kf7 Rf2+ 6. Kg7 Rg2+ 7. Ng4 $1 Rxg4+ 8. Kf7 Rf4+ 9. Ke7 Re4+ 10. Kd7 Rd4+ 11. Kc7 Rc4+ 12. Kb7 1-0
+
+[Event "Suomen Shakki#0118"]
+[Source "Suomen Shakki/5"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p4bP/2P3P1/3p4/4k3/p7/4K3/8 w - - 0 1"]
+
+1. h8=Q $1 Bxh8 2. g7 Bxg7 3. c7 a2 4. c8=Q a1=Q 5. Qg4+ Ke5 6. Qxg7+ Ke4 7. Qxa1 1-0
+
+[Event "British Chess Magazine#0939"]
+[Source "British Chess Magazine/8"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1pp2pp1/p2p1p2/3KPPk1/1P6/8/P7/8 w - - 0 1"]
+
+1. e6 $1 fxe6+ 2. fxe6 Kg6 3. a4 f5 4. b5 axb5 5. axb5 Kf6 6. b6 cxb6 7. Kxd6 1-0
+
+[Event "British Chess Magazine#0952"]
+[Source "British Chess Magazine/12"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1pk3pp/3pK3/1P3P1P/p7/8/8/8 w - - 0 1"]
+
+1. h6 $1 gxh6 2. f6 a3 3. f7 a2 4. f8=Q a1=Q 5. Qxd6+ Kc8 6. Qd7+ Kb8 7. Qd8+ Ka7 8. b6+ Ka6 9. Qa8+ 1-0
+
+[Event "Schweizerische Schachzeitung#789"]
+[Source "Schweizerische Schachzeitung/4"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4b3/8/1Pk5/2p5/K1p5/2P5/8/8 w - - 0 1"]
+
+1. Ka5 $1 Bd7 (Kb7) 2. b7 $1 (2. Ka6 $2 Bc8+ 3. Ka7 Kb5 $1) Kc7 $1 (Kxb7) 3. Ka6 Kb8 4. Kb6 Be6 5. Kc6 $1 Bf7 6. Kb6 Bd5 {<eg>} 7. Kxc5 1/2-1/2
+
+[Event "British Chess Magazine#0919"]
+[Source "British Chess Magazine/4"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/1p3P2/4pPP1/1p2P2p/8/6pK/6P1/8 w - - 0 1"]
+
+1. Kh4 $1 b4 2. Kg5 b3 3. Kh6 b2 4. Kh7 b1=Q 5. Kh8 Qxg6 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#142"]
+[Source "Tijdschrift v.d. KNSB/6"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p3p2/1P1p4/KP3pP1/3k1P2/1p4P1/4B3/8 w - - 0 1"]
+
+1. Bd1 $1 Kc3 2. Bxb3 Kxb3 3. g4 fxg4 4. g6 fxg6 5. f5 g3 6. fxg6 g2 7. g7 g1=Q 8. g8=Q+ Qxg8 1/2-1/2
+
+[Event "Tidskrift for Schack#0270"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p5N/8/P7/k5B1/7p/KP1p4/8 w - - 0 1"]
+
+1. a6 $1 bxa6 2. Nf6 h2 3. Nd5 Kb5 (h1=Q 4. Bd7+ Ka5 5. b4#) 4. Nc3+ Kc4 5. Bf3 1-0
+
+[Event "Schweizerische Arbeiter-Schachzeitung#2"]
+[Source "Schweizerische Arbeiter-Schachzeitung/1-2"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4r3/rP4k1/8/2p3K1/8/4p3/p7/3R1R2 w - - 0 1"]
+
+1. Rd7+ $1 Kg8 2. b8=Q Rxb8 3. Rxa7 Rb1 $1 4. Ra8+ $1 Kg7 5. Raf8 $1 Rb7 $1 (a1=Q 6. R1f7#) 6. R8f6 $1 e2 7. Rg6+ Kh8 {<eg>} 8. Rh1+ Rh7 9. Rxh7+ Kxh7 10. Rh6+ Kg7 11. Rh1 1-0
+
+[Event "British Chess Magazine#0928"]
+[Source "British Chess Magazine/6"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/4k3/p2p4/8/4P3/8/7P/8 w - - 0 1"]
+
+1. h4 $1 Kf6 2. h5 Kg5 3. Kg7 Kxh5 4. Kf6 a5 5. e5 dxe5 6. Kxe5 1/2-1/2
+
+[Event "Revista de Romana de Sah#0463"]
+[Source "Revista de Romana de Sah/1"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K2k/2p4P/1pp3p1/PP6/b3pP2/4P3/8/8 w - - 0 1"]
+
+1. a6 $1 Bxb5 (cxb5 2. Kd7 $1 b4+ 3. Kxc7 Bb3 4. Kd6 $1) 2. a7 c5+ 3. Kf7 Bc6 4. Kxg6 c4 5. f5 c3 6. f6 c2 7. f7 c1=Q 8. f8=Q# (8. f8=R# {<or>}) 1-0
+
+[Event "The Field#4620"]
+[Date "1949.04.16"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/PK3b2/8/6kp/3p4/7P/6P1/8 w - - 0 1"]
+
+1. Kc6 $1 Bg6 2. Kd5 Kf4 3. Kxd4 Be4 4. g3+ Kf5 5. g4+ hxg4 6. hxg4+ Kf4 7. g5 Kf5 8. g6 1-0
+
+[Event "British Chess Magazine#0958"]
+[Source "British Chess Magazine/2"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p6/8/2p5/p1p5/2P5/PP5p/4K2k w - - 0 1"]
+
+1. Kf2 $1 (1. Kf1 $2 a3 $1) b5 $1 (a3 2. bxa3 b5 3. a4 bxa4 (b4 4. a5 b3 5. axb3 cxb3 6. a6 b2 7. a7 b1=Q 8. a8=Q+) 4. a3) 2. a3 b4 3. Kf1 b3 (bxc3 4. bxc3) 4. Kf2 1/2-1/2
+
+[Event "Schach#00979"]
+[Source "Schach/12"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4k1p1/5b2/P1KP3p/8/8/5P2/8 w - - 0 1"]
+
+1. a6 $1 Bh4 2. Kc6 Bxf2 3. Kc7 Bg3+ 4. d6+ Bxd6+ 5. Kc6 Bb8 (h4 {<main>} 6. a7 h3 7. a8=Q h2 8. Qb7+ Ke6 9. Qd7+ Kf6 10. Qxd6+) 6. Kb7 Ba7 $1 7. Kxa7 h4 8. Kb8 (8. Kb6 {<or>}) h3 9. a7 h2 10. a8=Q 1-0
+
+[Event "Schach Express#792"]
+[Source "Schach Express/4"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/3p1P2/7p/1K1Bp3/8/8/8/8 w - - 0 1"]
+
+1. Kc4 $1 h5 2. Kd3 h4 3. Ke4 h3 4. Kxe5 Kg7 $1 5. Kd6 Kf8 6. Kxd7 h2 7. Ke6 1-0
+
+[Event "Deutsche Schachblätter"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2K2B1P/k2P4/6r1/1p6/8/7b w - - 0 1"]
+
+1. h7 $1 Bxd5+ $1 2. Kxd5 Rg5+ $1 3. Bxg5 b2 4. h8=R $1 (4. h8=Q $2 b1=Q 5. Qa8+ Kb4 6. Qb8+ Kc3 7. Qxb1) 1-0
+
+[Event "Schweizerische Arbeiter-Schachzeitung#3"]
+[Source "Schweizerische Arbeiter-Schachzeitung/6-7"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/4p1pp/6pk/3P3P/7P/P2P1K2/8 w - - 0 1"]
+
+1. d5 $1 exd5 2. Kg3 gxh4+ 3. Kf4 d4 4. d3 a6 5. a3 a5 6. a4 g5+ 7. Kf5 g4 8. hxg4# 1-0
+
+[Event "3.p Uppsala Nya Tidning"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k2K4/1p1B4/1P6/1P6/2p5/2P3p1/p6P/8 w - - 0 1"]
+
+1. Kc7 $1 (1. Kc8 $2 a1=Q 2. Bc6 Qh1 3. h4 Qh3+ 4. Kc7 Qh1 $1 5. h5 Qg2) a1=Q 2. Bc6 Qh1 3. h4 $1 (3. h3 $2 Qg2 4. h4 Qh1 5. h5 Qg2 6. h6 Qh1 7. Kc8 Qh3+ 8. Kc7 Qh1 $1) Qg2 4. h5 Qh1 5. h6 Qg2 6. h7 1-0
+
+[Event "Norsk Sjakkblad"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1K2k3/5p2/4P1p1/6P1/8/8/8 w - - 0 1"]
+
+1. Kc6 $1 fxe5 (f5 2. gxf5 g4 3. f6+ Ke6 4. f7 Kxf7 5. Kd7 g3 6. e6+ Kf6 7. e7 g2 8. e8=Q g1=Q) 2. Kd5 Kf6 3. Kc4 Ke6 4. Kc5 Ke7 5. Kd5 Kf6 6. Kc4 1/2-1/2
+
+[Event "Tidskrift for Schack#0448"]
+[Source "Tidskrift for Schack/5"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4K1k1/7p/7P/2n2PB1/7b/8/p7/8 w - - 0 1"]
+
+1. f6 $1 Ne6 2. f7+ (2. Bxh4 $2 Nd8 $1) Kh8 3. Bxh4 $1 (3. f8=Q+ $2 Nxf8 4. Bxh4 Nd7 $1) a1=Q 4. f8=Q+ $1 (4. Ke7 $2 Qa3+ $1 5. Kxe6 Qe3+ 6. Kf5 Qc5+ $1 7. Ke6 (7. Kf6 Qd6+ 8. Kf5 Qg6+) Qc4+) Nxf8 5. Bf6+ Qxf6 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#268"]
+[Source "Tijdschrift v.d. KNSB/7-8"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/1q1p2kP/3p2P1/3p3p/3P2pP/6P1/B7/8 w - - 0 1"]
+
+1. h8=Q+ $1 Kxh8 2. Kf7 Qb8 3. g7+ Kh7 4. Bb1+ Kh6 5. Bg6 Qd8 $1 6. Bxh5 Kxh5 7. g8=Q Qxg8+ 8. Kxg8 1-0
+
+[Event "Norsk Sjakkblad#062 (s)"]
+[Source "Norsk Sjakkblad/6"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4N1pp/2p2rpk/P1p5/2p4P/P5K1/8/8 w - - 0 1"]
+
+1. Ng8+ $1 Kh5 2. Nxf6+ gxf6 3. Kf2 c3 4. Ke1 f5 5. a6 f4 6. a7 f3 7. a8=Q f2+ 8. Kxf2 c2 9. Qe8 c1=Q 10. Qe3 Qb2+ 11. Qe2+ Qxe2+ 12. Kxe2 g5 13. hxg5 Kxg5 14. a4 h5 15. a5 h4 16. a6 h3 17. Kf2 (17. Kf3 {<or>}) (17. Kf1 {<or>}) 1-0
+
+[Event "Tidskrift for Schack#0508"]
+[Source "Tidskrift for Schack/4"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/2p1K1p1/p2np1P1/p3p3/PB6/5pp1/2P2P1N/8 w - - 0 1"]
+
+1. Bxd6 $1 gxh2 (cxd6 2. fxg3 $1 e4 3. Kxe6 f2 4. Nf1) 2. Bxe5 h1=Q 3. Kf8 $1 Qh6 4. Kf7 c6 (c5 5. c4 $1) 5. c3 $1 c5 6. c4 Qg5 7. Bxg7# 1-0
+
+[Event "Norsk Sjakkblad#050 (c)"]
+[Source "Norsk Sjakkblad/2 (c): Garcia=M Estudios Artisticos de Ajedrez - I-77 2012."]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/pp2ppPp/5n1K/1P3PBP/5P2/2N1p3/1b6/8 w - - 0 1"]
+
+1. Bxf6 $1 e2 (e6 2. Nd5 exd5 3. Bxb2 e2 4. Bc3 d4 5. Bd2) 2. Nd5 (2. Be5 $2 e1=Q 3. Nd5 Qxe5 4. fxe5 Bc1+ 5. Nf4 Bxf4#) Bxf6 (e1=Q 3. Nxe7+ Qxe7 4. Bxe7 Bxg7+ 5. Kg5) 3. Nxf6+ exf6 4. b6 e1=Q 5. bxa7 Qa5 6. a8=Q+ (6. a8=R+ {<or>}) Qxa8 1/2-1/2
+
+[Event "Schweizerische Schachzeitung#939"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k2b4/p6p/1p4PP/1p6/8/1n6/p7/2RK4 w - - 0 1"]
+
+1. g7 $1 Nxc1 2. g8=Q a1=Q 3. Qxd8+ Kb7 4. Qd7+ Ka6 5. Qc8+ Ka5 6. Qc3+ Qxc3 1/2-1/2
+
+[Event "Schach Echo#271 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - I-76 2012."]
+[Date "1960.07.20"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/P7/2PP4/1b6/6pp/5ppk/8/4N2K w - - 0 1"]
+
+1. Ng2 $1 fxg2+ 2. Kg1 Bxc6 3. d7 $1 (3. a8=Q $2 Bxa8 4. d7 Bb7 5. d8=N Bd5 $1) Bxd7 4. a8=N $1 (4. a8=Q $2 Bc6 5. Qxc6) Bf5 {<eg>} 5. Nc7 Be6 6. Ne8 Bc4 7. Nf6 Bf7 8. Ne4 Bd5 9. Ng5# 1-0
+
+[Event "Schach Echo#286 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - I-75 2012."]
+[Date "1960.12.23"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5b1k/4PP1p/b3p2q/2P5/6KP/B4p2/8/8 w - - 0 1"]
+
+1. exf8=Q+ $1 (1. Bb2+ $2 Qg7+ 2. Bxg7+ Kxg7 3. e8=Q f2) Qxf8 2. Bb2+ Qg7+ 3. Kxf3 (3. Kh5 $2 e5) (3. Kh3 $2 Bf1+ 4. Kh2 e5) Bb7+ 4. c6 $1 (4. Kf4 $2 e5+ 5. Bxe5 Qxe5+ 6. Kxe5 Kg7 7. Ke6 Kf8 8. Kf6 Bd5) Bxc6+ 5. Kf4 e5+ 6. Bxe5 Qxe5+ 7. Kxe5 Kg7 8. Kd6 Kxf7 9. Kxc6 1/2-1/2
+
+[Event "Deutsche Schachzeitung#429"]
+[Source "Deutsche Schachzeitung/5"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B6/1p3p2/8/P4N2/k4P1p/P6p/2K5/8 w - - 0 1"]
+
+1. a6 $1 bxa6 (h2 2. a7 h1=Q 3. a8=Q+ Kb5 4. Nd4+ Kc5 (Kc4 5. Qa4+ Kd5 6. Qb5+ Kxd4 7. Ba7+) 5. Ba7+) 2. Ne3 h2 3. Nd1 h1=Q 4. Nc3+ Ka5 (Kxa3 5. Bd6#) 5. Bc7# 1-0
+
+[Event "Schach Echo#316"]
+[Date "1961.11.08"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "n6k/P5pP/2K1p1P1/p3p3/p3P3/Pp6/8/8 w - - 0 1"]
+
+1. Kb7 $1 b2 2. Kxa8 b1=B $1 (b1=Q) 3. Kb7 Bxe4+ 4. Kb6 Ba8 5. Kb5 $1 (5. Kxa5 $2 e4 6. Kb4 e3 7. Kc3 Be4 $1) (5. Kc5 $2 Bd5 $1 6. Kb5 e4) Bd5 6. Kc5 $1 e4 7. Kd4 1/2-1/2
+
+[Event "Richtig und Falsch#I"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6Kn/6pp/5k2/1P4p1/6P1/8/8/8 w - - 0 1"]
+
+1. Kxh8 $1 (1. b6 $2 Ng6 $1 2. b7 Ne7+ 3. Kf8 Nc6 4. Ke8 Ke6) Kg6 $1 2. Kg8 $1 (2. b6 $2 Kh6 $1 3. b7 g6 4. b8=Q) Kh6 3. Kf8 g6 4. Ke8 Kg7 5. b6 1-0
+
+[Event "Deutsche Schachzeitung#500"]
+[Source "Deutsche Schachzeitung/9"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/1p4kP/1P2B1p1/3p2pP/1P1p2P1/3P4/p7/8 w - - 0 1"]
+
+1. hxg6 $1 a1=Q 2. h8=Q+ Kxh8 3. Kf7 Qa8 4. g7+ Kh7 5. Bf5+ Kh6 6. Bg6 $1 Qd8 7. g8=N+ $1 (7. g8=Q $2 Qf6+ $1 8. Kxf6) Qxg8+ 8. Kxg8 Kxg6 9. Kf8 Kf6 10. Ke8 Ke6 11. Kd8 Kd6 12. b5 1-0
+
+[Event "Deutsche Schachzeitung#476"]
+[Source "Deutsche Schachzeitung/3"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/3P4/6kB/3B4/4P2p/2K4b w - - 0 1"]
+
+1. Bf5+ $1 Kxh4 2. d6 Bc6 3. Be4 $1 Bxe4 4. d7 h1=Q+ 5. Kd2 1/2-1/2
+
+[Event "Schach Echo#372 (c)"]
+[Source "(c): Bernhardt=G Schach Echo=2 23-1-1963."]
+[Date "1962.11.08"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6P1/P4P2/1p6/1PbP4/K5p1/P7/k7 w - - 0 1"]
+
+1. d5 $1 Bxd5 2. f7 Bxf7 3. a7 g2 4. g8=Q Bxg8 5. a8=Q g1=Q 6. Qh1 Qxh1 1/2-1/2
+
+[Event "Schach Echo#390 (v)"]
+[Source "(v): Garcia=M Estudios Artisticos de Ajedrez - I-74 2012."]
+[Date "1963.02.23"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5KB1/1p4P1/1P5k/1p1p2p1/1P1p2P1/3P4/1P6/q7 w - - 0 1"]
+
+1. Be6 $1 (1. Bf7 $2 Qa8+ 2. Be8 Qd8) (1. Bh7 $2 Qa8+ 2. Kf7 Kxh7) Qa8+ (Qe1 2. Bf5) (Qa4 2. Kf7) 2. Kf7 Kh7 (Qb8 3. g8=Q Qf4+ 4. Bf5) 3. Bf5+ Kh6 4. Bg6 $1 Qd8 5. g8=N+ $1 Qxg8+ 6. Kxg8 Kxg6 7. Kf8 Kf6 8. Ke8 Ke5 9. Kd7 (9. Kd8 { <or>}) Kf4 10. Kc7 (10. Kc8 {<or>}) 1-0
+
+[Event "Schach Echo#390"]
+[Date "1963.02.23"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5KB1/1p4P1/1P5k/3p2p1/1P1p2P1/3P4/8/q7 w - - 0 1"]
+
+1. Be6 $1 (1. Bf7 $2 Qa8+ 2. Be8 Qd8) (1. Bh7 $2 Qa8+ 2. Kf7 Qg8+ $1 3. Bxg8) Qa8+ (Qe1 2. Bf5 $1) (Qa4 2. Kf7 Qc6 3. g8=R) 2. Kf7 Kh7 (Qb8 3. g8=Q Qf4+ 4. Bf5) 3. Bf5+ Kh6 4. Bg6 $1 Qd8 5. g8=N+ $1 Qxg8+ 6. Kxg8 Kxg6 7. Kf8 {<eg>} Kf6 8. Ke8 Ke5 9. Kd7 Kf4 10. Kc7 1-0
+
+[Event "Schach Echo#397"]
+[Date "1963.03.23"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k6K/7P/P3p3/2P1p3/3r4/4p2p/4P2P/8 w - - 0 1"]
+
+1. c6 $1 Kb8 2. Kg7 Rg4+ 3. Kh6 Rh4+ 4. Kg6 e4 5. Kg7 Rg4+ 6. Kh6 Rh4+ 7. Kg6 e5 8. Kg7 Rg4+ 9. Kh6 Rh4+ 10. Kg6 Rg4+ {<eg>} (Kc7 11. a7) (Ka7 11. c7) 11. Kh5 1-0
+
+[Event "Deutsche Schachzeitung#613"]
+[Source "Deutsche Schachzeitung/11"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3R4/1b5P/6n1/8/8/5N1k/5p1p/7K w - - 0 1"]
+
+1. h8=Q+ $1 Nxh8 2. Rxh8+ Kg3 (Kg4 3. Kg2) 3. Rg8+ $1 Kf4 4. Rf8+ Ke3 (Kg4 5. Kxh2) (Ke4 5. Kxh2) 5. Re8+ Be4 (Kd3 6. Rd8+ Kc3 7. Rd1) 6. Rxe4+ $1 Kxf3 $1 7. Kxh2 f1=Q (Kxe4 8. Kg2 Ke3 9. Kf1 Kf3) 8. Rf4+ Kxf4 1/2-1/2
+
+[Event "Die Welt"]
+[Date "1964.01.22"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7N/1b6/6PP/2p4p/2p4P/2Pp2p1/p1pP4/k1K5 w - - 0 1"]
+
+1. g7 $1 Bd5 2. Nf7 (2. h7 $2 Bg8 3. hxg8=Q g2) Bxf7 3. h7 (3. g8=Q $2 Bxg8 4. h7 Be6 5. h8=Q g2 6. Qg7 Bg4) Bg8 $1 4. h8=B $1 (4. h8=Q $2 g2) Bf7 (g2) 5. g8=Q Bxg8 6. Be5 g2 7. Bh2 1/2-1/2
+
+[Event "Die Welt"]
+[Date "1964.08.19"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5p2/1p2bP1P/p7/8/4k1p1/1P2P1P1/7K w - - 0 1"]
+
+1. h7 $1 Kf2 2. h8=Q Bd5 3. e4 $1 (3. Qh3 $2 Be4) Bxe4 4. Qh3 a4 5. b4 $1 a3 6. b5 a2 7. Qf5+ Bxf5 1/2-1/2
+
+[Event "Die Schwalbe#121"]
+[Source "Die Schwalbe/1-3"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Bernhardt, Georg Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1bB5/pP6/kpP5/1p4q1/1P3N2/8/2K4P/8 w - - 0 1"]
+
+1. c7 $1 Qxf4 2. cxb8=N+ $1 Qxb8 3. Kb1 $1 (3. Kb3 $2 Qg3+ $1 4. hxg3) Qxb7 4. Bxb7+ Kxb7 5. h4 1-0

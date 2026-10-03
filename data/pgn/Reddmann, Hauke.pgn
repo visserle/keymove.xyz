@@ -1,0 +1,27 @@
+[Event "Inselschach (c)"]
+[Source "Inselschach/1 (c): Benko=P Magyar Sakkvilág=4 4/2012."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Reddmann, Hauke"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5p2/8/4P1P1/1K1k1p2/5P2/8 w - - 0 1"]
+
+1. e5 $1 fxe5 2. g5 e4 3. g6 e3 4. g7 e2 (exf2 5. g8=Q f1=Q 6. Qc4+ Ke3 7. Qxf1) (Ke2 5. g8=Q Kxf2 6. Kc3 e2 7. Qa2 $1) 5. g8=Q e1=Q 6. Qc4+ Kd2 7. Qc2# 1-0
+
+[Event "Inselschach"]
+[Source "Inselschach/8-10"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Reddmann, Hauke"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/p7/6Nk/P3N1rp/8/7P/7P/8 w - - 0 1"]
+
+1. h4 $1 Rf5 2. Kg8 a6 (Rf2 3. Ne7) 3. Nh8 $1 Rxe5 4. Nf7+ Kg6 5. Nxe5+ 1-0

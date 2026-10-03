@@ -1,0 +1,41 @@
+[Event "Tidskrift for Schack#306"]
+[Source "Tidskrift for Schack/5"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Ahs, Carl Johann Mathias"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7B/1p6/8/2P5/8/1N6/pp1K4/1k6 w - - 0 1"]
+
+1. Na1 $1 bxa1=Q 2. Bxa1 Kxa1 3. Kc2 b5 4. c6 b4 5. c7 b3+ 6. Kxb3 Kb1 7. c8=Q a1=Q 8. Qc2# 1-0
+
+[Event "Tidskrift for Schack#388 (c)"]
+[Source "Tidskrift for Schack/12 (c): Garcia=M Estudios Artisticos de Ajedrez - I-5 2012."]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Ahs, Carl Johann Mathias"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k6B/p2p4/K3p3/2P1P1p1/p5P1/5p2/5P2/8 w - - 0 1"]
+
+1. c6 $1 dxc6 2. Bf6 a3 3. Bd8 a2 4. Ba5 a1=B (a1=Q) (a1=N 5. Bd2 (5. Bb4 $2 Nb3 6. Be7 Kb8 7. Bxg5 Nc5+ 8. Ka5 Kc7 9. Be3 Nd3) Nc2 6. Ka5 Kb7 7. Bxg5) 5. Bc3 Bxc3 1/2-1/2
+
+[Event "Ceskoslovensky Sach#594"]
+[Source "Ceskoslovensky Sach/7"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Ahs, Carl Johann Mathias"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k1b3p1/4pP2/1P2P3/8/8/8/K2N4 w - - 0 1"]
+
+1. b6+ $1 Kxb6 (Bxb6 2. fxg7 $1 (2. f7 $2 Bc5)) 2. f7 $1 (2. fxg7 $2 Bxe5+) Bxe5+ 3. Nb2 $1 Bd6 4. Nc4+ Kc5 5. Nxd6 Kxd6 6. f8=Q+ 1-0

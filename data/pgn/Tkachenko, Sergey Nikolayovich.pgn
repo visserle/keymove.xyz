@@ -1,0 +1,476 @@
+[Event "sp.c Shakhmaty v SSSR#19"]
+[Source "Shakhmaty v SSSR/5 EG#06002"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/8/k7/4NR2/4n3/1n2P3/1p6/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. Nc4 (1. Rf1 $143 Nc1 2. Rf7 Nd6 3. Nc4 Nxc4 4. Ra7+ Kb5 5. Rb7+ Nb6+ 6. Ka7 Nb3 7. Rxb6+ Kc4 $19) b1=Q 2. Rb5 Kxb5 3. Na3+ Kb4 4. Nxb1 Nbc5 5. Kb8 $1 (5. Ka7 $143 Nd7 6. Kb7 Ne5 $19 {#50}) Nd3 6. Kc7 Kb3 7. Kc6 Kb2 8. Kd5 Ndf2 9. Nd2 $1 Nxd2 10. e4 $11 1/2-1/2
+
+[Event "2.p Odessa ty (tt)"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1pnN4/k7/8/KP5b/8/8 w - - 0 1"]
+[PlyCount "16"]
+
+1. b4+ $1 Nxb4 2. Nc4+ Kb5 3. Nxb6 $1 Nc2+ $1 (Be6 $144 4. Na4 $1 Nc2+ 5. Kb2 $11) 4. Kb3 $1 (4. Kb2 $143 Ne3 5. Na8 Kc6 $19) Ne3 $1 (Nd4+ $144 5. Kc3 Ne2+ 6. Kd2 Nf4 7. Ke3 Ng2+ 8. Kf2 Kxb6 9. Kg3 $1 $11) 5. Na4 $1 Be6+ 6. Ka3 Nc4+ 7. Kb3 Nb6+ 8. Ka3 $1 Nxa4 $11 {stalemate} 1/2-1/2
+
+[Event "1.p Brovarakh Festival"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K2k/7b/6n1/8/4P3/2R5/6p1/4B2N w - - 0 1"]
+[PlyCount "21"]
+
+1. Rc7 $1 (1. Rc1 $143 g1=Q $1 2. Bc3+ Kg8 3. Rxg1 $11 {stalemate}) g1=Q 2. Bc3+ Ne5 $1 3. Bxe5+ Kg8 4. Ng3 $1 Bg6+ $1 5. Ke7 Bxe4 6. Rc8+ (6. Nxe4 $143 $11) Kh7 7. Rh8+ Kg6 8. Rg8+ Kh7 9. Rg7+ Kh6 (Kh8 $144 10. Kf8 Qc5+ 11. Re7+ Qxe5 12. Rxe5 $18) 10. Nf5+ $1 Bxf5 11. Rxg1 $18 1-0
+
+[Event "4.p 64 Shakhmatnoye Obozrenye#60"]
+[Source "EG#08681"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/7P/4k3/3pr3/pK2p3/Q7 w - - 0 1"]
+[PlyCount "27"]
+
+1. Qe1 $1 (1. Qh1+ $143 Ke5 2. Qh2+ Ke6 $19) a1=Q+ 2. Kxa1 d2 3. Qh4+ Kd3 $1 4. Qd8+ Kc2 5. Qc8+ Rc3 $1 6. Qf5+ Rd3 (Kd1 $144 7. Kb2 Ke1 8. Kxc3 d1=Q 9. h6 Qd2+ 10. Kb3 Qxh6 11. Qb1+ Kf2 12. Qf5+ Kg3 13. Qd3+ Kf2 14. Qf5+ Ke3 15. Qe5+ Kf3 16. Qd5+ $11) 7. Qc8+ $1 Kd1 8. Qg4 $1 Rg3 $1 (Rd4 $144 9. Qf3 Rf4 10. Qb3+ Ke1 11. Qg3+ $11) 9. Qa4+ (9. Qxg3 $143 e1=Q 10. Qd3 Qe5+ 11. Kb1 Ke1 12. Kc2 Qc7+ 13. Qc3 Qxc3+ 14. Kxc3 d1=Q $19) Ke1 10. Qb4 $1 Rb3 $1 (Rg4 $144 11. Qc3 Rc4 12. Qg3+ Kd1 13. Qb3+ $11) 11. Qh4+ Kd1 12. Qg4 Rg3 13. Qa4+ Ke1 14. Qb4 $1 $11 1/2-1/2
+
+[Event "4.p Bron MT Problemist Pribuzhja"]
+[Source "EG#08705"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/8/8/K7/p6N/3p4/P1n5/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. Nf3 $1 Nd4 $1 (a3 $144 2. Ka4 Kd7 3. Nd2 Kd6 4. Kb3 Kd5 5. Kc3 Ne1 6. Kb3 Nc2 7. Kc3 $11) 2. Nd2 (2. Nxd4 $143 d2 $19) Nb3+ 3. Kb4 $1 (3. axb3 $143 a3 4. b4 a2 5. Nb3 a1=Q+ 6. Nxa1 d2 $19) (3. Nxb3 $143 axb3 4. axb3 d2 $19) Nxd2 4. Kc3 Nc4 (Nb3 $144 5. Kxd3 Nc1+ 6. Kc2 Nxa2 7. Kb2 Nb4 8. Ka3 $11) 5. Kxd3 Nb6 6. Kd4 $1 (6. Kc3 $143 Kc7 7. Kb4 Kc6 8. a3 Kd5 9. Kb5 Kd4 10. Kxb6 Kc4 $19) Kb7 7. Kc5 Ka6 8. Kb4 $11 1/2-1/2
+
+[Event "3.p Shakhmaty (Riga)#03"]
+[Source "Shakhmaty (Riga)/8"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/8/1kNPP3/1r6/7b/8/8/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. Nd8 $1 (1. Na7 $143 Rh5 2. d7 Rh8+ 3. Nc8+ Kc6 4. Ka7 Kc7 $19) (1. Nd4 $143 Rh5 2. Kc8 Rh8+ 3. Kd7 Rd8#) (1. Ne7 $143 Bg3 2. Kc8 Bxd6 3. Kd7 Bxe7 $19) Kc5+ $1 (Bxd8 $144 2. Kc8 $1 Re5 $1 3. Kxd8 Rxe6 4. d7 Kb7 $11 {stalemate}) 2. Kc7 $1 (2. Nb7+ $143 Kc6 3. e7 Rxb7+ $19) Bxd8+ 3. Kc8 $1 (3. Kxd8 $143 Kxd6 $19) Kxd6 4. e7 $1 Bc7 $1 (Kxe7 $144 $11 {stalemate}) (Bxe7 $144 $11 {stalemate}) 5. e8=N+ $1 (5. e8=Q $143 Rb8#) Kc6 6. Nxc7 Re5 7. Kd8 $1 $11 1/2-1/2
+
+
+[Event "3.p Israel Chess Composition Society-50"]
+[Source "EG#10580"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1PP5/1p2P2N/1k2p3/2p5/8/5p2/K3N3 w - - 0 1"]
+[PlyCount "29"]
+
+1. Nc2 $1 (1. b8=Q $143 fxe1=Q+ $19) (1. c8=Q $143 fxe1=Q+ $11) f1=Q+ 2. Kb2 $1 (2. Ka2 $143 Qc1 $1 3. Nd4+ exd4 4. c8=Q $11) c3+ 3. Kxc3 (3. Kb3 $143 Qc4+ 4. Ka3 Qa4#) Qc4+ $1 (Qf3+ $144 4. Kb2 Qxb7 5. e7 Qc8 6. Nf5 Ka5 7. Nfe3 Kb5 8. Nd5 Qe6 9. Nce3 Qd7 10. Nc4 Kc5 11. Kc1 Kd4 12. Ncxb6 Qc6+ 13. Kd1 Qb5 14. c8=Q Qd3+ 15. Kc1 Qa3+ 16. Kc2 Qd3+ 17. Kb2 Qb5+ 18. Ka3 Qd3+ 19. Qc3+ $18) 4. Kb2 Qxc7 5. e7 $1 Qb8 (Qxe7 $144 6. b8=Q $18) (Qxb7 $144 6. e8=Q+ $18) 6. Nf5 $1 (6. Ng4 $143 e4 7. Nf6 (7. Nce3 $144 Ka6 $11) Qe5+ 8. Ka2 Qxe7 9. b8=Q Qxf6 $11) Ka6 $1 (Kc6 $144 7. Ng7 Qxb7 (Kxb7 $144 8. e8=Q Qxe8 9. Nxe8 b5 $18 {#75}) 8. e8=Q+ $18) (Kc5 $144 7. Ng7 Qxb7 8. Ne6+ Kd6 9. e8=Q Qe7 10. Qxe7+ Kxe7 11. Nc7 e4 12. Kc3 b5 13. Ne3 $18 {#71}) 7. e8=Q $1 (7. Ng7 $143 Qxb7 8. e8=Q Qxg7 $11) (7. Nb4+ $143 Kxb7 8. e8=Q Qxe8 9. Nd6+ Kb8 10. Nxe8 e4 $1 11. Nd6 b5 $1 $11) Qxe8 8. Nd6 Qf8 $1 9. Nb4+ $1 Ka5 (Ka7 $144 10. Nc6+ Ka6 11. b8=N+ $1 Qxb8 12. Nxb8+ Ka7 13. Nc6+ Ka6 14. Ne4 $18 {#51}) 10. b8=Q $1 (10. Nc6+ $143 Ka4 $1 11. b8=Q Qf2+ $11) Qxb8 (Qf2+ $144 11. Nc2 $1 $18 {#5}) 11. Nc6+ Ka4 $1 12. Ne4 $1 (12. Nxb8 $143 e4 $1 13. Nc4 e3 $11) Kb5 (Qc7 $144 13. Nc3#) 13. Nxb8 Kc4 14. Nd7 $1 Kd4 15. Ndf6 $18 1-0
+
+[Event "3.p The Problemist#0720"]
+[Source "The Problemist/5 1997 EG#15283"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1b1N4/2Nn4/3p4/3B4/K3Pp2/8/2k5/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. Nce6 Nb6+ (Nc5+ $144 2. Nxc5 dxc5 3. Nc6 Bc7 4. e5 $18) 2. Kb4 (2. Ka5 $143 Nxd5 3. exd5 f3 4. Nd4+ Kd3 5. Nxf3 Bc7+ $11) (2. Kb5 $143 Nxd5 3. exd5 f3 4. Nd4+ Kd3 5. Nxf3 Ke4 6. Nc6 Bc7 7. Ng5+ Kxd5 $11) Nxd5+ 3. exd5 f3 4. Nd4+ Kd3 5. Nxf3 Ke4 6. Nc6 Bc7 (Kxd5 $144 7. Nxb8 Ke4 8. Ne1 $1 d5 9. Nd7 d4 10. Nc5+ $18 {#74}) 7. Ng5+ Kxd5 8. Kb5 $18 1-0
+
+[Event "1.p 64 Shakhmatnoye Obozrenye#53 (c)"]
+[Source "EG#10985 (c): 64 Shakhmatnoye Obozrenye=12(964) 12/1997"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K2R2/6k1/8/3p1p2/8/N5N1/3r4/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. Re8 $1 (1. Rxf5 $143 Rd3 2. Nh5+ Kg6 3. Nf4+ Kxf5 4. Nxd3 (4. Nxd5 $144 Rxd5 $11) Ke4 5. Nc5+ Kd4 6. Na6 Kd3 $11) (1. Rd8 $143 Rd3 2. Nxf5+ Kg6 3. Ne7+ Kf7 4. Rxd5 Rxd5 5. Nxd5 $11) Rd3 (Kf7 $144 2. Re3 f4 3. Rf3 $18) 2. Nxf5+ $1 (2. Nh5+ $143 Kh6 3. Rh8+ Kg5 4. Nb5 Rh3 $11) Kg6 $1 (Kf6 $144 3. Rf8+ Kg5 4. Nb5 Rf3 5. Nbd4 $18) 3. Ne7+ Kf7 4. Nb5 $1 (4. Kd8 $143 Rxa3 5. Nxd5 $11) Kxe8 5. Ng6 $1 Rc3+ $1 (Kf7 $144 6. Ne5+ $18 {#83}) (Rd1 $144 6. Nd6#) 6. Nxc3 d4 7. Ne4 $1 (7. Nb5 $143 Kf7 8. Ne5+ Ke6 9. Nd3 Kd5 $11) Kf7 8. Ne5+ Ke6 9. Nd3 Kd5 10. Nef2 $18 {#79} (10. Nec5 $144 $18 {<or>}) 1-0
+
+[Event "3.p Rezvov JT Kotovski Visti"]
+[Source "EG#13697"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4Nk1N/1n6/5p1p/8/6Pn/7B/5K2/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. Kg3 $1 (1. Nxf6 $143 Kg7 2. Nh5+ Kxh8 3. Kg3 Ng6 $11) f5 $1 (Kxe8 $144 2. Kxh4 Kf8 3. Ng6+ $18) 2. Kxh4 (2. gxf5 $143 Nxf5+ 3. Bxf5 Kxe8 $11) fxg4 3. Bg2 $1 Nd8 $1 4. Nf6 $1 (4. Nd6 $143 Kg7 5. Bd5 Kxh8 6. Kxg4 Kg7 7. Kf5 h5 8. Kg5 h4 9. Kf5 h3 $11) Kg7 5. Nh5+ $1 Kxh8 6. Bd5 $1 Kh7 7. Kg3 $1 (7. Kxg4 $143 Kg6 8. Kh4 Kf5 $11 (Nf7 $143 9. Be4#)) Kg6 8. Kxg4 $1 Nf7 (Kh7 $144 9. Kf5 Kh8 10. Kf6 $18 (10. Kg6 $143 Ne6 11. Bxe6 $11 {stalemate})) 9. Be4# $1 1-0
+
+[Event "2.p Chess Life & Review#1791"]
+[Source "Chess Life & Review/3 2000 EG#13837"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3P4/2p5/8/4n3/K4NN1/2p5/k3n3 w - - 0 1"]
+[PlyCount "17"]
+
+1. Ne2 c1=Q+ $1 (Nc5 $144 2. Nc1 $1 (2. d8=Q $143 c1=Q+ $1 3. Nxc1 (3. Kb4 $144 Ned3+ 4. Ka5 Qb2 5. Qd4 Nb3+ 6. Ka6 Ndc5+ 7. Kb6 Nxd4+ 8. Kxc5 Nxf3 $19) Nc2#) Nxd7 3. Nb3+ Kb1 4. Nfd2#) 2. Nxc1 Nc2+ (Nc5 $144 3. Nb3+ $1 $18) 3. Kb3 Nc5+ 4. Kc3 $1 (4. Kxc2 $143 Nxd7 5. Nd2 Nc5 $11) Nxd7 5. Kxc2 c5 (Nc5 $144 6. Nd4 $18 {#1}) 6. Nd2 $1 c4 7. Nxc4 Nc5 8. Nd2 Nd3 9. Ndb3# 1-0
+
+
+
+
+[Event "1.p Kondratjuk JT Schorichnik (ea)"]
+[Source "Tkachenko=SN Pervakov=O Rezvov=N EG#13421"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6r1/8/2B3P1/2B4k/8/4K3/6pb/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. Ke2 $1 (1. Bxg2 $143 Bg1+ 2. Kd3 Bxc5 3. Bd5 $1 Rd8 $1 4. Kc4 Bf8 $19) (1. Kf3 $143 g1=Q 2. Bxg1 Bxg1 3. Bd5 $1 Rf8+ $1 4. Kg2 $1 Bd4 $1 $19) g1=Q (Rxg6 $144 2. Be8 $1 $11) 2. Bxg1 Bxg1 3. Bd5 $1 Re8+ $1 (Rg7 $144 4. Bf7 $1 $11) 4. Kf1 $1 Bd4 $1 5. g7 $1 Bxg7 6. Bf7+ $1 $11 1/2-1/2
+
+[Event "2.p 64 Shakhmatnoye Obozrenye#89"]
+[Source "EG#13106"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4k3/8/4n3/4pP2/6Np/1R2K3 w - - 0 1"]
+[PlyCount "21"]
+
+1. Nf4+ $1 (1. Ke2 $143 Nc3+ $19) (1. Rb6+ $143 Nd6 $1 $19) Kf7 $1 (Ke5 $144 2. Ke2 $1 Nc3+ 3. Kxe3 Nxb1 4. Nd3+ Kf5 5. Nf2 $11) (Kf5 $144 2. fxe4+ Kxe4 3. Ke2 Kxf4 4. Rh1 Kg3 $11) 2. Rb7+ Kg8 $1 3. Rb8+ Kh7 4. Rb7+ Kh6 5. Rb6+ Kg5 6. Rg6+ $1 (6. Rb5+ $143 Kxf4 7. Rh5 Nf2 $1 8. Rh4+ $1 Kg3 $1 9. Rxh2 Kxf3 $1 10. Rh5 Nd3+ 11. Kd1 e2+ 12. Kc2 e1=Q $19) Kxf4 7. Rg4+ $1 (7. Rh6 $143 Nf2 $1 8. Rh4+ Kg3 9. Rxh2 Kxf3 {WTM} 10. Rh5 (10. Kf1 $144 e2+ 11. Ke1 Nd3+ 12. Kd2 e1=Q+ $19) Nd3+ 11. Kd1 e2+ 12. Kc2 e1=Q $19) Kxf3 8. Rh4 Nf2 9. Rxh2 $11 {BTM eg :} Nd3+ 10. Kd1 e2+ 11. Rxe2 $11 1/2-1/2
+
+[Event "4.p Hero cities match"]
+[Source "EG#11649"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "q7/8/2P3K1/3N4/8/6R1/3k4/6b1 w - - 0 1"]
+[PlyCount "17"]
+
+1. Rg2+ $1 (1. Rxg1 $143 Qg8+ 2. Kf6 Qxd5 $1 (Qxg1 $143 3. c7 Qc5 4. Ke6 Kc2 5. Kd7 Qxd5+ 6. Kc8 $11) 3. c7 Qc6+ 4. Kf5 Qxc7 $19) Kd3 2. Rxg1 Qg8+ (Qxc6+ $144 3. Nf6 $11) 3. Kf6 $1 Qxg1 (Qxd5 $143 4. Rd1+ $18) 4. c7 Qc5 $1 (Qg4 $144 5. Ke7 Kd4 6. Nb6 $11 (6. Kd8 $143 Qg8+ 7. Kd7 Qxd5+ 8. Kc8 Kc5 9. Kb8 Qd6 10. Ka8 Qc6+ 11. Kb8 Kb6 12. c8=Q Qd6+ 13. Ka8 Qa3+ 14. Qa6+ Qxa6+ 15. Kb8 Qb7#)) 5. Ke5 $1 (5. Ke6 $143 Kd4 6. Kd7 Qxd5+ 7. Kc8 Kc5 8. Kb8 Qd6 $19) Kc2 (Qc6 $143 6. Nb4+ $18) (Kc4 $144 6. c8=Q $1 Qxc8 7. Nb6+ $11) 6. Ke6 $1 Kb3 {eg :} 7. Kd7 Qxd5+ 8. Kc8 Kb4 9. Kb8 $11 1/2-1/2
+
+
+[Event "1.p Foguelman/Caputto/Carlsson-75 JT Fi"]
+[Source "Finales y Temas/6 EG#12028"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2P2B2/3nP3/K7/8/7q/k7/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. e7+ $1 (1. c8=Q $143 Qf5+ $1 $19 (Nxc8 $144 2. e7+ Kb2 3. e8=Q Qc3+ 4. Ka6 Qa3+ 5. Kb7 (5. Kb5 $144 Nd6+ $19) Nd6+ $19) 2. Kb6 Qb5+ 3. Kc7 Qc5+ $1 $19 (Nxc8 $143 4. e7+ Kb2 5. e8=Q $11)) Kb2 $1 (Ka3 $144 2. e8=Q Nxe8 3. Bxe8 Qe6 4. Bb5 $1 (4. Ba4 $143 Qc8 $1 $19) Qc8 5. Kb6 $11) 2. e8=Q Nxe8 3. Bxe8 Qe6 $1 (Qc8 $144 4. Kb6 Qxe8 5. Kb7 $11) 4. Ba4 $1 (4. Bf7 $143 Qc6 $19) (4. Bb5 $143 Ka3 $1 5. Ba6 Qd6 $1 6. c8=Q Qb4#) Ka3 (Ka2 $144 5. Kb5 $1 $11 (5. Bb5 $143 Ka3 $1 $19)) 5. Bb5 $1 Kb3 6. Ba6 $1 (6. Bc4+ $143 Kxc4 $1 $19) Qd6 $1 7. Bc4+ $1 (7. c8=Q $143 Qb4#) Kxc4 (Kc3 $144 8. c8=Q Qb4+ 9. Ka6 $11) 8. c8=Q+ $11 1/2-1/2
+
+
+[Event "1.p Ukrain Champ. (tt)"]
+[Source "EG#15026"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/Pp1p1p2/3P4/P7/1r2P3/K1k3B1/1p6/8 w - - 0 1"]
+[PlyCount "29"]
+
+1. Be5+ Kc2 $1 (Kc4 $144 2. Bxb2 b5 3. axb6 $1 $18) 2. Bxb2 Rb3+ $1 3. Ka4 (3. Ka2 $143 Rxb2+ 4. Ka3 Rb3+ 5. Ka4 Rb1 $1 6. a8=Q (6. e5 $143 Kc3 $1 7. a8=Q b5+ $1 8. axb6 (8. Ka3 $144 Ra1#) Ra1+ $19) b5+ $1 7. Ka3 Rb3+ 8. Ka2 Rb2+ $11) Rxb2 (Kxb2 $144 4. e5 $1 Ka2 5. a8=Q b5+ 6. axb6 Ra3+ 7. Kb5 Rxa8 8. b7 $18) 4. e5 $1 (4. a8=Q $143 b5+ $1 5. Ka3 Rb3+ 6. Ka2 Rb2+ 7. Ka1 Rb1+ $11) Rb1 (Kc3 $144 5. a8=Q b5+ 6. Ka3 $1 Rb3+ 7. Ka2 Rb2+ 8. Ka1 $1 $18) (b5+ $144 5. axb6 $1 Kc3 6. b7 $18) 5. a8=Q b5+ $1 6. axb6 $1 (6. Ka3 $143 Rb3+ $11) Ra1+ 7. Kb5 Rxa8 8. b7 Rh8 9. Kb6 Kd3 (f5 $144 10. exf6 $1 $18) 10. Kc7 Kd4 11. e6 $1 (11. Kxd7 $143 Kxe5 12. Kc7 Ke6 $1 $19) fxe6 12. Kxd7 Ke5 (e5 $144 13. Kc7 e4 14. d7 e3 15. b8=Q $1 Rxb8 16. Kxb8 e2 17. d8=Q+ $18) 13. Kc7 Kf6 14. b8=Q $1 (14. d7 $143 Ke7 $1 $19) Rxb8 15. Kxb8 $18 1-0
+
+[Event "3.p WCCC Ty Shakhmatnaya Kompozitsia"]
+[Source "EG#15779"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/5P2/K1R1p3/3b4/8/p2B3p/2p5/1N6 w - - 0 1"]
+[PlyCount "23"]
+
+1. Rc8+ $1 (1. Rxc2 $143 a2 2. Rxa2 Bxa2 3. Nd2 h2 4. Be4 Bd5 $1 $19) Kxf7 2. Rxc2 $1 (2. Nxa3 $143 h2 3. Nxc2 h1=Q $19) a2 3. Rxa2 Bxa2 4. Nd2 $1 (4. Nc3 $143 Bc4+ $1 5. Bxc4 h2 $19) h2 (Bd5 $144 5. Nf1 $1 $11) 5. Be4 Bd5 6. Nf3 $1 (6. Bh1 $143 Bxh1 7. Nf1 Bb7+ $1 $19) (6. Nf1 $143 Bc4+ $19) h1=Q (Bxe4 $144 7. Nxh2 Bd3+ 8. Kb6 Be2 9. Kc5 $11) 7. Ng5+ $1 (7. Ne5+ $143 Kf6 $1 8. Ng4+ Kg5 9. Bxh1 Kxg4 $1 10. Bxd5 exd5 $19) Kf6 8. Nh7+ $1 Kg7 (Qxh7 $144 9. Bxh7 $11) 9. Bxh1 Kxh7 $1 10. Bxd5 exd5 11. Kb5 Kg6 12. Kc5 $11 1/2-1/2
+
+
+[Event "1/2.p Novo-Voronezh Nuclear Power Stati"]
+[Source "EG#14611"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p1R/3k1p1P/b7/8/p7/5K2/6B1 w - - 0 1"]
+[PlyCount "15"]
+
+1. Kf3 $1 (1. Ke2 $143 Bc3 $1 2. Rxf7 (2. Rh8 $144 a2 3. Ra8 a1=Q 4. Rxa1 Bxa1 5. Kd3 Kd5 6. Be3 f5 7. Bd2 Bh8 8. Bc3 f6 $1 $11) a2 3. Ra7 a1=Q 4. Rxa1 Bxa1 5. Kd3 Kd5 6. Be3 f5 7. Bd2 Ke6 8. Bc3 Bxc3 9. Kxc3 Kf7 10. h7 Kg7 $11) (1. Bh2+ $143 Ke7 2. Rg7 a2 3. h7 (3. Rg1 $144 Bb6+ $11) a1=Q 4. h8=Q Qe1+ 5. Kg2 Qe4+ $11) (1. Kg2 $143 Bc3 2. Rh8 a2 3. h7 f5 4. Rd8+ Ke6 5. Bd4 Bxd4 6. Rxd4 a1=Q 7. h8=Q Qb2+ 8. Kg3 Qc3+ 9. Kh2 Qb2+ 10. Kg3 Qc3+ 11. Kf4 Qc1+ 12. Kf3 $11 {perpetual chess}) Bc3 $1 2. Rh8 $1 (2. Rxf7 $143 a2 3. Ra7 a1=Q 4. Rxa1 Bxa1 5. Bd4 $1 Bxd4 6. Ke4 Ke6 $1 (Bb2 $143 7. Kf5 $18) 7. Kxd4 (7. h7 $143 Be5 8. h8=Q f5+ $19) Kf7 $1 $11) a2 3. Ra8 a1=Q 4. Rxa1 Bxa1 5. Bd4 $1 Bxd4 6. Ke4 $1 Ke7 (Ke6 $144 7. Kxd4 $1 $18) 7. h7 (7. Kxd4 $143 Kf8 $1 $11) Ba1 8. Kf5 $1 $18 1-0
+
+[Event "1/2.p Mansarliisky-50 JT"]
+[Source "EG#14707"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k1b1K3/pp6/P4P1p/p3p2P/5pn1/8/2N3P1/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. f7 Nf6+ 2. Kd8 Nh7 3. Kc7 $1 (3. Kxc8 $143 bxa6 4. g3 $1 Nf8 $1 (fxg3 $143 5. Ne3 $1 g2 6. Nd5 g1=Q 7. Nc7#) 5. gxf4 exf4 6. Ne1 a4 7. Nd3 a5 8. Nxf4 a3 9. Nd5 a6 10. Nc3 $11) bxa6 4. Kxc8 $1 Nf8 $1 (a4 $144 5. Nb4 a5 6. Na6 Nf8 7. Nc7#) (e4 $144 5. Nd4 Nf8 6. Nb3 f3 7. Nc5 f2 8. Nxa6 Ne6 9. f8=Q f1=Q 10. Qxf1 a4 11. Qf7 a3 12. Qb7#) 5. g3 $1 (5. g4 $143 Nh7 $1 $11) Nh7 6. gxf4 exf4 7. Nd4 a4 (Nf8 $144 8. Nc6 f3 9. Nb8 f2 10. Nxa6 f1=Q 11. Nc7#) 8. Ne6 $1 a5 9. Nc7# 1-0
+
+[Event "1/3.p Topko JT Mistetski Shakhi (tt)"]
+[Source "EG#14786"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3P4/3k2N1/8/2pnP3/8/3pp3/K3n3 w - - 0 1"]
+[PlyCount "33"]
+
+1. d8=Q+ Kc5 $1 2. Qa5+ (2. Qg5+ $143 Kb6 $1 3. Qd8+ Kb5 $1 4. Qg5+ Ka4 $1 5. Qxd2 Nb3+ 6. Ka2 Nxd2 7. Nf4 Nd3 8. Nxe2 Nxe4 $19) Nb5 3. Qxd2 Nc2+ 4. Kb2 $1 (4. Qxc2 $143 e1=Q+ 5. Qb1 Qg3 $1 6. Nf8 Qg7+ 7. Qb2 Qxf8 8. Qe5+ Kb4 9. Qb2+ Ka5 10. e5 c3 11. Qa2+ Kb4 12. Qb1+ Kc5 13. Qb3 Qf3 14. e6 Nd4 15. Qa3+ Kb5 16. e7 Nc2+ 17. Ka2 Qd5+ 18. Kb1 Nxa3+ 19. Ka1 Qd1+ 20. Ka2 Qd2+ 21. Kxa3 Qb2#) e1=Q 5. Qd5+ (5. Qxe1 $143 Nxe1 $19) Kb4 6. Qxc4+ $1 Kxc4 7. Ne5+ Kd4 8. Nf3+ Kc4 $1 9. Ne5+ $1 (9. Nxe1 $143 Nxe1 10. e5 Nd3+ 11. Ka2 (11. Kb1 $144 Kb3 12. e6 Nc3+ 13. Ka1 Ne1 14. e7 Nc2#) (11. Kc2 $144 Nd4+ 12. Kd2 Ne6 $19) Kc3 12. e6 Kc2 13. e7 Nb4+ 14. Ka1 Nd4 15. e8=Q Nb3#) Kc5 10. Nd3+ Kc4 11. Ne5+ $1 Kd4 12. Nf3+ Ke3 $1 13. Nxe1 Nxe1 14. e5 Nd3+ 15. Ka1 $1 (15. Kb1 $143 Kd2 16. e6 Nc3+ 17. Ka1 Kc1 18. e7 Nb4 19. e8=Q Nc2#) Kd2 16. e6 Kc2 17. e7 $11 (17. Ka2 $143 Nc1+ 18. Ka1 Nd4 19. e7 Ndb3#) 1/2-1/2
+
+[Event "3.p Problemist Ukraini"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3B4/8/3Q1P2/5R2/7b/7k/7p/2nb1K2 w - - 0 1"]
+[PlyCount "19"]
+
+1. Rf3+ $1 Bxf3 2. Qe6+ $1 Bg4 3. Qe3+ Bg3 4. Qh6+ Bh4 5. Qxh4+ $1 Kxh4 6. Kg2 $1 h1=Q+ $1 7. Kxh1 Kh3 $1 8. f7 Ne2 $1 9. f8=R $1 (9. f8=Q $143 Bf3+ $1 10. Qxf3+ Ng3+ 11. Kg1 $11 {stalemate}) Bf5 $1 10. Rh8+ $1 $18 {#90} (10. Rxf5 $143 Ng3+ $11) (10. Re8 $143 Be4+ $1 11. Rxe4 Ng3+ 12. Kg1 Nxe4 $11) 1-0
+
+[Event "1/2.p Hero cities match (tt)"]
+[Source "EG#16521"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "b7/8/1PP5/8/8/1K1n2N1/2p5/k1B1nN2 w - - 0 1"]
+[PlyCount "13"]
+
+1. b7 Bxb7 2. cxb7 Nxc1+ 3. Ka3 $1 (3. Kc4 $143 Nb3 $1 4. Ne2 Na5+ $11) Ncd3 $1 4. Ne2 Nc5 $1 (c1=Q+ $144 5. Nxc1 Nc2+ 6. Kb3 Nc5+ 7. Kc3 $1 Nxb7 8. Kxc2 $1 Nc5 9. Nd2 $1 Nd3 10. Ndb3#) 5. Nc1 $1 (5. b8=Q $143 c1=Q+ $1 6. Nxc1 Nc2#) Nxb7 6. Nb3+ Kb1 7. Nfd2# 1-0
+
+
+
+[Event "2.p Uralski Problemist-15 JT Uralski Pr"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1N6/Q7/6k1/K2p4/4r3/p1P1R3/2q5 w - - 0 1"]
+[PlyCount "23"]
+
+1. Rg2+ Rg3 2. Rxg3+ Kh4 3. Rh3+ (3. Rg4+ $143 Kh3 $11) Kxh3 4. Qe6+ Kg3 5. Qg8+ (5. Qxa2 $143 d3 6. Qg8+ Kf2 7. Qf7+ Ke2 8. Qe6+ Qe3 $11) (5. Qb3+ $143 d3 6. Qxd3+ Kf2 7. Qf5+ Ke1 8. Qe6+ Kd1 9. Qxa2 Qxc2+ $11) Kf2 6. Qxa2 d3 7. cxd3+ Ke3 8. Kb5 $1 (8. Qc4 $143 Qd1+ $11) (8. Qb3 $143 Qc6+ 9. Ka5 Qc7+ 10. Ka6 Qc6+ 11. Ka7 Kd4 $1 $11) (8. Kb4 $143 Qe1+ 9. Kc4 Qh4+ $1 $11) Kxd3 (Qc3 $144 9. Nc5 $18) (Qc8 $144 9. Qd5 $18) 9. Nc5+ $1 Ke3 (Kc3 $144 10. Qc4+ Kb2 (Kd2 $144 11. Nb3+ $18) 11. Nd3+ $18) 10. Qe6+ $1 Kf3 11. Qh3+ $1 Ke2 12. Qh5+ $18 1-0
+
+
+[Event "3.hm World Cup 2010"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7n/1b1K4/6P1/3p1p2/8/k7/6R1/1r6 w - - 0 1"]
+[PlyCount "21"]
+
+1. Rg3+ $1 (1. g7 $143 Bc6+ $1 2. Kxc6 Rb8 3. Kxd5 Nf7 4. g8=Q Rxg8 5. Rxg8 Nh6 6. Rf8 Ng4 7. Kd4 Nf2 8. Rxf5 Nd1 9. Rf1 Nb2 10. Kc3 Na4+ $11 {saves the Black bK on a3 that is why was 1.Rg3+!}) Ka4 {(a2)} 2. g7 Bc6+ $1 3. Kxc6 (3. Kc7 $143 Rb7+ 4. Kxc6 Rb8 $11) (3. Kc8 $143 Re1 4. gxh8=Q Re8+ $11) Rb8 4. Kxd5 (4. g8=Q $143 Rxg8 5. Rxg8 d4 $1 6. Rxh8 Kb3 $1 $11) Nf7 (Rg8 $144 5. Ke6 f4 6. Rg4 Kb5 7. Kf6 f3 8. Rf4 Ra8 9. Kg5 Rg8 10. Kh6 $1 $18) 5. g8=Q Rxg8 6. Rxg8 Nh6 $1 7. Rf8 $1 Ng4 8. Kd4 $1 Nf2 9. Rxf5 Nd1 10. Rf1 Nb2 11. Kc3 $18 1-0
+
+[Event "2 prize Pervakov-50 JT"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/8/3PNr1R/8/p1n5/1P5p/p5pK/5b2 w - - 0 1"]
+[PlyCount "35"]
+
+1. d7 g1=Q+ (Rxh6 $144 2. d8=Q+ Kb7 3. Qc7+ Ka6 4. Qc8+ Kb6 5. Qc5+ $11) 2. Kxg1 h2+ 3. Kh1 (3. Rxh2 $143 Rg6+ 4. Kh1 Bg2+ 5. Rxg2 a1=Q+ 6. Kh2 Qe5+ 7. Nf4 Qxf4+ 8. Kg1 Qe3+ 9. Kf1 Rf6+ 10. Rf2 Qxf2#) Bg2+ 4. Kxg2 Rg6+ (Ne3+ $144 5. Kg3 Nf5+ 6. Kg2 Rg6+ 7. Rxg6 h1=Q+ 8. Kxh1 a1=Q+ 9. Kh2 (9. Kg2 $144 Qb2+ 10. Kf3 Qxb3+ 11. Kf4 Qb4+ 12. Kxf5 Qb5+ 13. Kf6 Qxd7 14. Rg8+ Ka7 15. Rg7 $11) Qe5+ (Qb2+ $144 10. Rg2 $11) 10. Kh3 Qc3+ 11. Kg4 Ne3+ 12. Kh4 Qh8+ 13. Kg3 $11) 5. Rxg6 (5. Kf2 $143 Rg8 $19) h1=Q+ 6. Kxh1 a1=Q+ 7. Kg2 (7. Kh2 $143 Qe5+ 8. Kh3 (8. Rg3 $144 Qh5+ 9. Kg2 Qd5+ 10. Kh2 Qxd7 $19) Qh5+ $19) Qb2+ 8. Kh3 (8. Kg3 $143 Qe5+ 9. Kg4 Qe4+ 10. Kg5 Qd5+ 11. Kf6 Qxd7 12. bxc4 a3 13. Rg8+ Ka7 $19) Qh8+ (Qc3+ $144 9. Rg3 Qh8+ 10. Kg2 Qb2+ 11. Kh3 $11) 9. Kg2 axb3 10. d8=Q+ Qxd8 11. Nxd8 b2 12. Ra6+ (12. Nc6 $143 Kb7 $19) (12. Rg8 $143 Nb6 $1 $19) Kb8 13. Ra4 Ne3+ (b1=Q $144 14. Rb4+ Qxb4 15. Nc6+ $11) 14. Kf2 (14. Kh2 $143 Nc2 15. Nc6+ Kc7 16. Rc4 b1=Q 17. Nd4+ Kd6 18. Rxc2 Qf1 $1 $19) Nd5 (Nc2 $144 15. Nc6+ Kc7 16. Rc4 b1=Q 17. Nd4+ Kd6 18. Rxc2 $11) 15. Nc6+ Kb7 (Kc7 $144 16. Ne7 b1=Q 17. Nxd5+ Kc6 18. Ne3 $11) 16. Ra3 $1 b1=Q 17. Rb3+ $1 Qxb3 18. Na5+ $11 1/2-1/2
+
+[Event "2/3.p Schweizerische Schachzeitung#059"]
+[Source "Schweizerische Schachzeitung/10 EG#08187."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k2N3/8/7B/1K6/P7/1p6/8/6r1 w - - 0 1"]
+
+1. Bf4+ $1 Ka8 (Kc8 2. Nd6+ Kd7 3. Nc4) (Ka7 2. Be3+ Kb7 3. Bd4) 2. Nc7+ (2. Kc6 $2 Rg6+) Kb7 3. Nd5 $1 (3. Be5 $2 Rg5 $1 4. Kc4 Rxe5 5. Nb5 Rxb5) b2 4. Nc3 Rc1 $1 5. Nb1 $1 Rxb1 6. Be5 $1 Re1 7. Bxb2 Rb1 8. Ka5 $1 Rxb2 1/2-1/2
+
+[Event ".hm Spartak"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/2p5/PB6/2P5/8/1p4p1/6P1/b6K w - - 0 1"]
+
+1. a7 $1 Kb7 2. c6+ $1 Ka8 3. Bd4 $1 b2 4. Bg1 $1 b1=N $1 (b1=B 5. Bd4 $1 Bxd4) (b1=Q) (b1=R) 5. Bb6 $1 (5. Bd4 $2 Bc3 6. Bb6 Be1 7. Bxc7 Kxa7 8. Kg1 Nd2 $1 9. Bf4 Bf2+ 10. Kh1 Ne4 11. c7 Kb7 12. Bd6 Bb6 13. Bf4 Bxc7) Be5 6. Bd4 $1 Bf4 7. Be3 $1 Bd6 8. Bc5 $1 Bf4 9. Be3 Bxe3 1/2-1/2
+
+[Event ".hm Odessa ty"]
+[Date "1989.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[White "Tkachenko, SN"]
+[Black " Rybnikov, B."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2R5/6p1/7b/8/7B/3p4/6Pp/2N1K1k1 w - - 0 1"]
+
+1. Ne2+ $1 dxe2 2. Rc3 $1 h1=Q 3. Rh3 Qxg2 4. Rg3 Qxg3+ 5. Bxg3 Kg2 $1 6. Bh4 $1 (6. Bf2 $2 Kf3 7. Be3 $1 g5 $1 8. Bxg5 Bf8) Kf3 7. Bg5 $1 Bxg5 1/2-1/2
+
+[Event "1/2.p Uralskye Skazy Shakhmatnaya Poezi"]
+[Source "Shakhmatnaya Poezia/7-9 2000 EG#15752"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[Composer2 "Rezvov, Nikolay Vasilievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/4P1N1/6B1/4q1k1/5r2/8/8/R7 w - - 0 1"]
+[PlyCount "17"]
+
+1. Rg1+ (1. e8=Q $143 Qxa1 $11) Kh6 $1 2. Be8 $1 (2. Bh5 $143 Rf6 $11) (2. Bh7 $143 Qb8+ 3. Bg8 Re4 4. Nf5+ Kh5 5. Ng3+ Kh6 6. Nf5+ $11) (2. Bb1 $143 Qb8+ 3. e8=Q Rf8+ 4. Qxf8 Qxf8#) Qxg7+ $1 (Rg4 $144 3. Rh1+ $1 (3. Rxg4 $143 Qxg7+ 4. Rxg7 $11 {stalemate}) Kg5 4. Rh5+ $18) 3. Rxg7 Rf8+ $1 4. Rg8 (4. exf8=Q $143 $11 {stalemate}) Rf7 $1 5. Rg4 $1 (5. Bxf7 $143 $11 {stalemate}) (5. Rg7 $144 Rf8+ $1 $18 {See 3...Tf8 main line. Loss of time.} (Rxg7 $144 6. Bf7 $1 $18)) (5. Rg6+ $143 Kxg6 6. Kg8 Kf6 7. Bxf7 Kxe7 $11) (5. Rg2 $143 Rh7+ (Rf8+ $143 6. exf8=Q#) 6. Kg8 Rg7+ $1 7. Kf8 $1 Rxg2 8. Bh5 $1 Kh7 $1 9. e8=Q Rg8+ $11) Rh7+ (Rxe7 $144 6. Rg6+ Kh5 7. Re6+ $18) 6. Kg8 Rg7+ $1 7. Kf8 $1 (7. Rxg7 $143 $11 {stalemate}) Rxg4 8. Bg6 $1 Rf4+ 9. Kg8 $1 $18 1-0
+
+[Event "3.p WCCT6 Ty (tt) (c)"]
+[Source "(c): 2002"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[Composer "Tkachenko, Sergey Nikolayovich"]
+[Composer2 "Rezvov, Nikolay Vasilievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4N3/7N/4n3/2Pk2np/4p1P1/4K3/7b w - - 0 1"]
+[PlyCount "25"]
+
+1. Nef5+ $1 Ke4 (Kc3 $144 2. Nxg4 h3 3. Nxe5 h2 4. g4 Bf3+ 5. Kxf3 h1=Q+ 6. Kxe3 Qh2 7. Ke4 $11) 2. Nd6+ Kd4 3. Ndf5+ Kc5 $1 4. Nxg4 Bf3+ $1 (Nxg4 $144 5. gxh4 $1) (h3 $144 5. Nxe5 $1 h2 6. Nd3+ Kxc4 7. Nxe3+ Kd4 8. Nf2 $11) 5. Kxe3 (5. Ke1 $143 Nd3+ 6. Kf1 e2+ 7. Kg1 e1=Q+ 8. Kh2 Qh1#) Nxg4+ 6. Kf4 $1 (6. Kxf3 $143 h3 7. Ne7 Ne3 $19) h3 7. Kxf3 Kxc4 (Kb6 $144 8. Ne7 $1 Ne3 9. Nd5+ $1 $11) (Kb4 $144 8. Nd6 Ne3 9. Ne4 h2 10. Nf2 $11) (Kc6 $144 8. Nd4+ Kd7 9. Ne2 Ne3 10. g4 h2 11. Ng3 $11) 8. Ng7 $1 (8. Nh6 $143 Nxh6 9. g4 Nf7 $1 10. Kg3 Ng5 $1 $19) (8. Nd6+ $143 Kd4 $1 9. Ne4 Ne5+ $1 10. Kf4 h2 11. Nf2 Nd3+ $19) Ne3 $1 9. Nf5 $1 Ng4 $1 (h2 $143 10. Nxe3+ $1 Kd3 11. Kg2 $18) 10. Ng7 $1 Ne3 11. Nf5 $1 Nxf5 12. g4 Ne3 13. Kg3 $1 $11 1/2-1/2

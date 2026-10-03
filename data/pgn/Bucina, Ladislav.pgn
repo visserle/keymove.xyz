@@ -1,0 +1,13 @@
+[Event "sp.p Nedelna Pravda#1644"]
+[Source "EG#07588."]
+[Date "1985.01.25"]
+[Round "?"]
+[Composer "Bucina, Ladislav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4pp2/5N2/8/5pBp/4pKp1/6Nk w - - 0 1"]
+
+1. Bh2 $1 e1=Q+ (exf5 2. Nxf3) 2. Kxe1 Kxh2 3. Nxf3+ Kh1 4. Ng3# 1-0

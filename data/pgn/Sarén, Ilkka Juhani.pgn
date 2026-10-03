@@ -1,0 +1,26 @@
+[Event "1.c Suomen Tehtäväniekat"]
+[Source "Suomen Tehtäväniekat/7-9"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Sarén, Ilkka Juhani"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/5p2/2K5/3P3p/6p1/8/1P5P/8 w - - 0 1"]
+
+1. Kd6 $1 Kd8 2. Ke5 (2. b4 $2 h4 3. b5 g3 4. hxg3 hxg3 5. b6 Kc8 6. Ke7 g2 7. d6 g1=Q 8. d7+ Kb7 9. d8=Q Qg5+) f6+ (h4 3. Kf4 f5 4. b4 Kd7 5. b5 Kd6 6. b6 Kd7 7. Ke3 g3 8. hxg3 hxg3 9. Kf3 f4 10. Kg2) 3. Ke4 (3. Kd4 $2 h4 4. Ke3 Kd7 5. Kf4 f5 6. b4 Kd6) Kd7 4. b4 $1 Kd6 5. b5 Kc5 6. b6 Kxb6 7. Kf5 Kc7 8. Kxf6 h4 9. Ke7 g3 10. hxg3 hxg3 11. d6+ Kc6 12. d7 g2 13. d8=Q 1/2-1/2
+
+[Event "FIDE ty"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Sarén, Ilkka Juhani"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1k1B2p1/5N2/Kp6/8/6P1/8/3r4 w - - 0 1"]
+
+1. Ne4 $1 Rxd7 2. Nc5+ Kc6 3. Nxd7 Kxd7 4. Kxb5 Ke6 5. Kc4 (5. Kc5 $2 Ke5) Kf5 6. Kd4 g6 (Kg4 7. Ke5 Kxg3 8. Kf5 Kh4 9. Kg6) 7. Ke3 Kg4 8. Kf2 Kh3 9. Kf3 g5 10. g4 (10. Kf2 $2 g4) Kh4 11. Kf2 Kxg4 12. Kg2 1/2-1/2

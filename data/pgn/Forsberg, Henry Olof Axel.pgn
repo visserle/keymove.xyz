@@ -1,0 +1,13 @@
+[Event "Schackvärlden#380 (m)"]
+[Source "(m): Zinar=M Shakhmatnaya Kompozitsia=100 11-4-2011."]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Forsberg, Henry Olof Axel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p1p1p2/1P1PpP1P/8/8/6p1/ppKpP1P1/krb5 w - - 0 1"]
+
+1. Kd1 $1 e5 2. h7 e4 3. h8=N $1 e3 4. Ng6 fxg6 5. f7 g5 6. f8=N $1 g4 7. Ne6 dxe6 8. d7 e5 9. d8=N $1 e4 10. Nc6 bxc6 11. b7 c5 12. b8=N $1 c4 {<eg>} 13. Na6 c3 14. Nb4 c2+ 15. Nxc2# 1-0

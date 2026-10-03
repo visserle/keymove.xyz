@@ -1,0 +1,27 @@
+[Event "Mat {Yugoslavia}"]
+[Source "Mat (Yugoslavia /9-10"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Vrabec, Franjo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1k6/3rP3/4p1K1/4P3/5P2/8/8 w - - 0 1"]
+
+1. Kf6 $1 Rc6 2. Kf7 Rc7+ 3. e7 Kc6 4. Kf8 Rc8+ (Kd6 5. e8=N+ $1) 5. e8=R $1 (5. e8=Q+ $2 Kd6 6. Kf7 Rxe8 7. Kxe8 Ke6) 1-0
+
+[Event "Mat {Yugoslavia}"]
+[Source "Mat (Yugoslavia /5-6"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Vrabec, Franjo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/8/5p1k/P7/3K4/4P3/3n4 w - - 0 1"]
+
+1. a5 $1 g5 2. Kc4 Ne3+ 3. Kc5 Nd5 4. Kxd5 g4 5. a6 g3 6. a7 g2 7. a8=R $1 (7. a8=Q $2 g1=Q 8. Qh8+ Kg4 9. Qg7+ Kf4 10. Qxg1) 1-0

@@ -1,0 +1,27 @@
+[Event "L'Italia Scacchistica#033 (s)"]
+[Source "L'Italia Scacchistica/9"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Chicco, Adriano"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p2Kp2/1pk1N3/1p6/P2P2B1/1P4P1/8/5q2 w - - 0 1"]
+
+1. Bh3 $1 Qg1 (Qf3 2. Bg2 Qxg2 3. d5+ Qxd5 4. axb5+ Qxb5 5. Nd4+) 2. Bg2+ Qxg2 3. d5+ Qxd5 (Kxd5 4. Nf4+) 4. axb5+ Qxb5 (Kxb5 5. Nc7+ Kc5 6. Nxd5) 5. Nd4+ Kc5 6. Nxb5 1-0
+
+[Event "3.p De Barbieri MT L'Italia Scacchistic"]
+[Source "L'Italia Scacchistica/9 (m): Campioli=M Antologica Composizioni Italiani non Viventi-39 2010."]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Chicco, Adriano"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/8/2p2P2/8/p7/4k2N/6B1/3b4 w - - 0 1"]
+
+1. Bd5 $1 Bb3 (Bh5 2. Bxc6 a3 3. Bd5 $1) 2. Bxb3 axb3 3. Nf2 Kd2 4. Nd3 Kxd3 5. f7 b2 6. f8=Q b1=Q 7. Qf5+ Kc3 8. Qxb1 1-0

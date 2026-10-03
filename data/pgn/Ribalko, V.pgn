@@ -1,0 +1,13 @@
+[Event "1.c Sportivnaya Gazeta"]
+[Source "EG#07264."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Ribalko, V"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/P2np3/bP5p/8/1P2k3/8/7P/8 w - - 0 1"]
+
+1. b7 $1 Kd5 2. b8=Q Kc6 3. b5+ Bxb5 4. Qc8+ Kb6 5. Qd8+ Kc6 6. Qxe7 Kc7 7. Qd8+ Kxd8 8. Kb7 1-0

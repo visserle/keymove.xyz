@@ -1,0 +1,65 @@
+[Event "Skanetidningen Dagen"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Krenzisky, Simon"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1PP5/8/p3p3/kr2P3/p4p2/P5p1/6K1 w - - 0 1"]
+
+1. b8=Q $1 (1. b8=R $2 Rxe4) Rxb8 (f2+ 2. Kxf2 g1=Q+ 3. Kxg1 Rb1+ 4. Kh2 Rh1+ 5. Kg3 Rh3+ 6. Kg4 Rh4+ 7. Kg5 Rh5+ 8. Kf6 Rh6+ 9. Ke7 Re6+ 10. Kd7 Rd6+ 11. Kc8 Rd8+ 12. Kb7) 2. cxb8=N (2. cxb8=B $2 Kb4 3. Bxe5 Kc4 4. Ba1 (4. Bh2 Kd4 5. e5 Kd5) Kc5 (Kd3 $2 5. e5 Ke3 6. Bd4+) 5. Kf2 Kc4 6. e5 Kd5 7. Bd4 Ke6 8. Kxf3 g1=Q 9. Bxg1 Kxe5) Kb4 3. Nc6+ Kc4 4. Nxe5+ Kd4 (Kc3 5. Kf2 a4 6. Nc6) 5. Nxf3+ Kxe4 6. Kxg2 Kd3 7. Kf2 Kc2 8. Ke2 Kb2 9. Kd2 Kxa2 10. Kc2 Ka1 (a4 11. Nd4 Ka1 12. Nc6 a2 13. Nd4 a3 14. Nb3#) 11. Nd4 Ka2 12. Nb3 a4 13. Nd4 Ka1 14. Nc6 Ka2 15. Nb4+ Ka1 16. Kc1 a2 17. Nc2# 1-0
+
+[Event "Skanetidningen Dagen"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Krenzisky, Simon"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/Bp6/4p3/1p3p2/k7/p1PB4/P6p/8 w - - 0 1"]
+
+1. Kxb7 $1 h1=Q+ 2. Kb6 Qg1+ 3. Ka6 Qxa7+ 4. Kxa7 b4 5. Kb6 $1 (5. c4 $2 b3) bxc3 6. Kc5 f4 7. Kc4 f3 8. Kxc3 f2 (e5 9. Be4 f2 10. Bd3 e4 11. Bf1 e3 12. Kd3) 9. Kd2 Kb4 10. Ke2 Kc3 11. Ba6 1-0
+
+[Event "Skanetidningen Dagen"]
+[Source "also Deutsche Schachzeitung#1687 Deutsche Schachzeitung/9 1921."]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Krenzisky, Simon"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4B3/7p/7B/8/6P1/2p5/pk6/3K4 w - - 0 1"]
+
+1. Bc1+ $1 Kb1 2. Ba4 a1=Q 3. Bc2+ Ka2 4. g5 Qb1 5. Bxb1+ Kxb1 6. Ba3 (6. Bf4 $2 c2+ 7. Ke2 c1=Q 8. Bxc1 Kxc1 9. Kf3 Kd2) Ka2 7. Kc2 Kxa3 8. Kxc3 Ka4 9. Kd4 Kb5 10. Ke5 Kc5 11. Kf6 Kd5 12. Kg7 Ke5 13. Kxh7 1-0
+
+[Event "Sydsvenska Dagbladet Snällposten"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Krenzisky, Simon"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/5p1B/2K2P2/2p4P/p2pp3/p5PP/7P/8 w - - 0 1"]
+
+1. h6 $1 (1. g4 $2 a2 2. g5 a1=Q 3. g6 fxg6 4. hxg6 Qg1 5. g7+ (5. h4 a3 6. h5 a2 7. h6 a1=Q 8. g7+ Kf7) Qxg7) a2 2. Bg6 $1 Kg8 3. Bxf7+ Kh7 (Kxf7 4. h7 a1=Q 5. h8=Q) 4. Bxa2 Kxh6 5. Kd7 1-0
+
+[Event "Sydsvenska Dagbladet Snällposten"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Krenzisky, Simon"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b6/BP4RP/8/4q3/2p5/2P4p/6pk/Kb6 w - - 0 1"]
+
+1. Bxb8 $1 Qxb8 2. h8=Q $1 Qxh8 3. b8=Q+ Qxb8 4. Rxg2+ Kh1 5. Rg1+ Kh2 6. Rg2+ Kxg2 1/2-1/2

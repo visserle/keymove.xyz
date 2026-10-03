@@ -1,0 +1,13 @@
+[Event "4.c Bron JT"]
+[Source "EG#04442."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Vilchinsky, V"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1p6/4R3/1p6/p7/kNK5 w - - 0 1"]
+
+1. Na3 $1 b2+ 2. Kd2 b1=N+ 3. Kc2 Nxa3+ 4. Kb3 b4 5. Re2 Nb1 6. Rxa2# 1-0

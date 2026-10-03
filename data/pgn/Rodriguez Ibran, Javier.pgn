@@ -1,0 +1,27 @@
+[Event "4.p New Statesman {and Nation}#70 (c)"]
+[Source "(c): Rodriguez_Ibran=J EG=41 7/1975."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Rodriguez Ibran, Javier"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/5p1p/3K1P2/1P1p1b1p/p7/P3p1p1/5P2/3B4 w - - 0 1"]
+
+1. Kc7 $1 Be4 2. Bc2 Bf3 3. fxe3 Be2 (g2 4. b6 d4 5. e4) 4. b6 Ba6 5. Bd1 $1 Bb7 (g2 6. Bf3 $1 g1=Q 7. Bxd5+ Bb7 8. Bxb7#) 6. Bf3 h4 7. Bg2 (7. Bg4 $2 g2 8. Bc8 Bc6) h5 8. Bh3 d4 9. Bc8 $1 Bf3 10. exd4 h3 (g2 11. b7+) 11. d5 Bxd5 12. Be6 $1 Bb7 13. Bxf7 h2 14. Bd5 h1=Q 15. Bxh1 Bxh1 16. f7 1-0
+
+[Event "Mugnos MT Ajedrez de Estilo#50"]
+[Source "Ajedrez de Estilo/9"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Rodriguez Ibran, Javier"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/K2p4/2p3P1/P1k5/8/8/6b1/8 w - - 0 1"]
+
+1. g7 $1 (1. Kb7 $2 Kb5 2. a6 c5+ 3. Kc7 Kxa6 4. Kd6 (4. Kxd7 c4) Be4 $1 5. g7 Bh7) (1. a6 $2 Kb5 2. g7 Bd5 3. Kb7 c5+ 4. Kc7 Kxa6 5. Kd6 Bg8) (1. Ka6 $2 Be4 2. g7 Bd5 3. Kb7 Kb5 4. a6 c5+) Bd5 2. Ka6 $1 d6 (Kd6 3. Kb6 $1) 3. Kb7 Kb5 4. a6 c5+ 5. Kc7 Kxa6 6. Kxd6 1/2-1/2

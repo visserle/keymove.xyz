@@ -1,0 +1,496 @@
+[Event "?"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/2k1q3/6P1/3P4/8/2B4p/pR5P/Kb6 w - - 0 1"]
+
+1. g7 (1. Rxa2 $2 Bxa2 2. Kxa2 Qe2+) (1. Bf6 $2 Qxf6 2. d6+ Kxd6) (1. Rc2 $2 Bxc2 2. Kxa2 Qd6 3. Ba5+ Kb7) (1. Rb6 Kxb6) (1. Re2 Qxe2 2. d6+ Kxd6 3. Bb4+ Ke6) (1. Rb4 Qe3 2. Rc4+ Kd7) (1. Bd4 Bxg6 2. Kxa2 Qe4) (1. Rb5 Qe2) Bh7 2. g8=Q (2. g8=R Bxg8 3. d6+ $10) (2. g8=B $10) (2. Bb4 $2 Qxg7 3. Kxa2 Be4) (2. Rc2 $2 Qe4 3. d6+ Kd7) (2. Rd2 $2 Qe3 3. Ba5+ Kd7) (2. Be5+ $2 Qxe5 3. Kxa2 Qxd5+ 4. Ka3 Qd6+) (2. Re2 $2 Qxe2 3. Be5+ Kd7) (2. Rb4 Qe2 3. d6+ Kxd6 4. Rd4+ Kc6) Bxg8 3. d6+ (3. Ba5+ $2 Kc8 4. Rc2+ Kb8 $19) (3. Bb4 $2 Qe5 4. Kxa2 Qxd5+ 5. Ka1 Qd1+) (3. Bf6 $2 Qxf6 4. Kxa2 Bxd5+ 5. Ka1 $19 Qf1+) (3. Be5+ $2 Qxe5 4. d6+ Kc6 $19) (3. Rxa2 $2 Qc5 4. Ba5+ Kd7) (3. Rc2 $2 Qe4 4. Rxa2 Qh1+) (3. Rd2 Qe3 4. Ba5+ Kd7) (3. Rb7+ Kxb7 4. Kxa2 Qe2+) Qxd6 4. Be5 (4. Bf6 $2 Qd1+ 5. Rb1 axb1=Q#) (4. Ba5+ $2 Kd7 5. Rxa2 Bxa2 6. Kxa2 Qxh2+ 7. Kb3 Qg2) (4. Rd2 $2 Qc5 5. Ba5+ Kc6 6. Rd6+ Qxd6) (4. Bb4 $2 Qd1+ 5. Rb1 axb1=Q#) (4. Rc2 $2 Qd1+ 5. Rc1 Qxc1#) (4. Rb6 $2 Qd1+ 5. Rb1 axb1=Q#) (4. Rxa2 $2 Bxa2 5. Kxa2 Qb6) Qxe5 1/2-1/2
+
+[Event "L'Italia Scacchistica"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "1R6/1Pr1p3/8/4kp2/8/4K3/3P4/8 w - - 0 1"]
+
+1. d4+ $1 (1. d3 $2 Rd7 2. d4+ $10) (1. Rc8 $2 Rxb7 2. d4+ Kd6 $10) (1. Re8 $2 Rxb7 2. Kf2 $10) (1. Ra8 $2 Rxb7 2. d4+ Kf6) (1. Rh8 $2 Rxb7 2. d4+ Kd6) (1. Rd8 $2 Rxb7 2. d4+ Kf6) (1. Kd3 f4 2. Ke2) (1. Kf3 Rd7 2. Ke3) Ke6 2. d5+ (2. Kf4 $2 Rd7 3. Kg5 $10) (2. Ra8 $2 Rxb7 3. Ra6+ Kd7 $10) (2. Kd3 $2 Rd7 3. Ke3) (2. Rd8 $2 Rxb7 3. d5+ Ke5) (2. Rc8 $2 Rxb7 3. Rc6+ Kd7) (2. Rg8 $2 Rxb7 3. Kf4) Ke5 (Kxd5 3. Rd8+ $18) 3. d6 (3. Kd3 $2 Rd7 4. Kc4) Rd7 $1 (exd6 4. Re8+ $18) 4. Re8 $1 (4. dxe7 $2 Rxe7 5. Ra8 $10) (4. Rd8 $4 Rxd8 5. dxe7 Rb8) (4. Rc8 $2 Rxb7 5. dxe7 f4+ 6. Kd3 $10) (4. Ra8 $2 Rxb7 5. Ra5+ $10 Kxd6 6. Rxf5 Rb3+ 7. Ke2) (4. Kf3 $4 e6) (4. Rh8 $2 Rxb7 5. dxe7 f4+ 6. Kd3) (4. Rf8 $2 Rxb7 5. dxe7 f4+ 6. Rxf4 Rxe7 7. Re4+) Rxb7 5. Rxe7+ $18 (5. d7 $4 Rxd7 $19 6. Rxe7+ Rxe7) (5. dxe7 $2 f4+ 6. Kd3) Rxe7 6. dxe7 1-0
+
+[Event "L'Italia Scacchistica#207 (v)"]
+[Source "L'Italia Scacchistica/3 (v): L'Italia Scacchistica/7 1923."]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5K1k/5p2/5P2/5b2/1R1p3r/8/6p1/2B5 w - - 0 1"]
+
+1. Be3 $1 dxe3 (Rh1 2. Rxd4 g1=Q 3. Bxg1 Rxg1 4. Rh4+ Bh7 5. Kxf7) (Rg4 2. Rxd4 g1=Q 3. Bxg1 Rxg1 4. Rh4+ Bh7 5. Kxf7) 2. Rxh4+ Bh7 3. Rg4 e2 4. Rxg2 e1=Q 5. Rg8+ Bxg8 1/2-1/2
+
+[Event "L'Italia Scacchistica#275 (c)"]
+[Source "L'Italia Scacchistica/9 (c): Garcia=M Estudios Artisticos de Ajedrez - I-24 2012."]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/pr1p2pp/N2b1k2/2P1p2P/8/2N5/1P4P1/2K5 w - - 0 1"]
+
+1. Ne4+ $1 Ke6 $1 (Ke7 2. Nxd6 Rb3 3. Kc2 Rg3 4. Nf5+ Kf6 5. Nxg3) 2. Nxd6 Rb3 3. Kc2 Rg3 (Re3 4. Nc7+ Ke7 (Kf6 5. Nd5+ Ke6 6. Nxe3) 5. Nd5+ Ke6 6. Nxe3) 4. Nc7+ Ke7 (Kf6 5. Ne4+ Kf5 6. Nxg3+) 5. Nf5+ Kf6 6. Nxg3 1-0
+
+[Event "L'Échiquier#025"]
+[Source "L'Échiquier/9"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4R3/1r6/1P2N3/6p1/5bK1/4p3/8/4k3 w - - 0 1"]
+
+1. Nxf4 $1 gxf4 2. Kxf4 e2 $1 3. Kf3 Kf1 $1 4. Rxe2 Rf7+ 5. Ke4 $1 Kxe2 6. Kd5 $1 1/2-1/2
+
+[Event "L'Italia Scacchistica#370"]
+[Source "L'Italia Scacchistica/11"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6B1/2N5/2p5/4k3/K7/8/Pp6/7b w - - 0 1"]
+
+1. Bh7 $1 Be4 (c5 2. Kb3) (Kd4 2. Kb3) 2. Bxe4 Kxe4 3. Nb5 $1 (3. Nd5 $2 Kxd5) cxb5+ (b1=Q 4. Nc3+) (b1=N 4. Na3 Nxa3 5. Kxa3 c5 6. Kb3) 4. Ka3 $1 b1=N+ (b1=Q) (b1=R) (b1=B 5. Kb4) 5. Kb4 1/2-1/2
+
+[Event "L'Italia Scacchistica#351"]
+[Source "L'Italia Scacchistica/7"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3RPbK1/8/2p5/5r2/8/4k3 w - - 0 1"]
+
+1. Rc6 $1 c3 2. Rxc3 $1 Bxc3 3. e7 Rf6+ 4. Kg7 $1 Ra6+ (Re6+ 5. Kf7 Rf6+ 6. Kg7) 5. Kf7 Ra7 6. Ke6 Ra8 7. Kf7 Ra7 8. Ke6 1/2-1/2
+
+[Event "L'Italia Scacchistica#488"]
+[Source "L'Italia Scacchistica/10"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2b5/4R3/6p1/8/4K3/2k5/4Pp2/8 w - - 0 1"]
+
+1. Rf7 $1 Bf5+ 2. Rxf5 gxf5+ 3. Ke3 f1=Q 1/2-1/2
+
+[Event "L'Italia Scacchistica#472"]
+[Date "1927.06.01"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3r4/6K1/1pPP4/1P3k2/8/8/8/3b4 w - - 0 1"]
+
+1. c7 $1 Rc8 $1 2. d7 Rxc7 3. Kh6 Rxd7 1/2-1/2
+
+[Event "L'Italia Scacchistica#473"]
+[Date "1927.06.15"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4P3/4rpN1/6k1/8/6K1/1R2pP2/8 w - - 0 1"]
+
+1. Rxe2 $1 Rxe2 2. Ne5 Rxe5 3. f4+ Kg6 4. fxe5 Kf7 5. exf6 1-0
+
+[Event "L'Italia Scacchistica#477"]
+[Date "1927.07.15"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2N2P1K/2p2k2/2q2p2/8/8/3B4/8 w - - 0 1"]
+
+1. Bb4 $1 Qxb4 2. Nd5+ cxd5 3. f8=Q+ Qxf8 1/2-1/2
+
+[Event "L'Italia Scacchistica#483"]
+[Date "1927.08.15"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p3/1PR5/b7/4N3/8/1P1pp2K/1k6 w - - 0 1"]
+
+1. Nxd2+ $1 Bxd2 2. Re6 e1=Q 3. Rxe1+ Bxe1 4. b7 Bb4 $1 5. b8=Q Bd6+ 6. Qxd6 exd6 7. b4 1-0
+
+[Event "L'Italia Scacchistica#481"]
+[Date "1927.08.15"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5B1k/8/4K1P1/8/8/8/n3p3/4b3 w - - 0 1"]
+
+1. Kf7 $1 Bc3 2. Bh6 e1=Q (e1=N 3. g7+ Bxg7 4. Bxg7+) (e1=B 3. g7+ Bxg7 4. Bxg7+) (Nb4 3. g7+ Bxg7 4. Bxg7+ Kh7 5. Bc3) 3. Bg7+ Bxg7 1/2-1/2
+
+[Event "L'Italia Scacchistica#484"]
+[Date "1927.08.15"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5B2/8/3P3p/4k3/8/p7/3pKP2/2b5 w - - 0 1"]
+
+1. d7 $1 d1=Q+ 2. Kxd1 Bg5 3. f4+ Kxf4 4. Bxh6 a2 5. Bxg5+ Kxg5 (Kf5 6. Bf6 Kxf6 7. d8=Q+) 6. d8=Q+ 1-0
+
+[Event "L'Italia Scacchistica#486"]
+[Date "1927.10.01"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p1p4/4P3/8/2pK2k1/n7/1N2P3/4r3 w - - 0 1"]
+
+1. exd7 $1 Rxe2 2. Nxc4 Nxc4 3. d8=Q Rd2+ 4. Ke4 Rxd8 1/2-1/2
+
+[Event "L'Italia Scacchistica#485"]
+[Date "1927.10.01"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4b3/1p6/8/P4N1q/4p3/1K1kB3/8/7B w - - 0 1"]
+
+1. Bxe4+ $1 Kxe4 2. Ng3+ Kxe3 3. Nxh5 Bxh5 4. a6 bxa6 {<eg>} 5. Ka2 1/2-1/2
+
+[Event "L'Italia Scacchistica#501"]
+[Source "L'Italia Scacchistica/4"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k5b1/2R4p/7K/8/8/1pb5/8/8 w - - 0 1"]
+
+1. Rc8+ $1 Ka7 2. Rxg8 b2 3. Rg1 Bd2+ 4. Kh5 Bc1 5. Rg4 b1=Q (Bd2 6. Rg1 Ka6 7. Rb1 Bc1 8. Rxb2 Bxb2 9. Kh6) 6. Ra4+ Kb6 7. Rb4+ Qxb4 1/2-1/2
+
+[Event "L'Italia Scacchistica#497"]
+[Source "L'Italia Scacchistica/1"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4NR2/4K3/3p4/k2pb3/4b3/8 w - - 0 1"]
+
+1. Nxd4 $1 Bxd4+ 2. Kxd4 d2 3. Kc3 d1=Q 4. Ra6+ Bxa6 1/2-1/2
+
+[Event "L'Italia Scacchistica#503 (pl)"]
+[Source "L'Italia Scacchistica/7 = Selezniev=A e4c4 1910."]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5b2/5N2/2P5/8/3K1k2/8/4p3/8 w - - 0 1"]
+
+1. Ne5 $1 Bg7 2. c7 Bxe5+ 3. Kd3 e1=Q 4. c8=Q Qd1+ 5. Kc4 Qc2+ 6. Kd5 Qxc8 1/2-1/2
+
+[Event "L'Échiquier#147"]
+[Source "L'Échiquier/7"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7R/2b5/2k5/7K/5p2/8/2p4B/1b6 w - - 0 1"]
+
+1. Rc8 $1 c1=Q 2. Rxc7+ Kxc7 3. Bxf4+ Qxf4 1/2-1/2
+
+[Event "L'Échiquier#044"]
+[Source "L'Échiquier/10"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2N1kP1K/2p2r1R/B1q2p2/8/8/8/8 w - - 0 1"]
+
+1. Rxf6 $1 (1. Bb4 $2 Rxh6+ 2. Kxh6 Qxb4) Kxf6 2. Bb4 Qxb4 $1 3. Nd5+ cxd5 (Kxf7 4. Nxb4 c5 5. Nd3 Kf6 (c4 6. Ne5+) 6. Nxc5 f4 7. Nd3 f3 8. Nf2 Kf5 9. Kh6 Kf4 10. Kh5) 4. f8=Q+ Qxf8 1/2-1/2
+
+[Event "L'Italia Scacchistica#003 (c)"]
+[Source "L'Italia Scacchistica/1 (c): Garcia=M Estudios Artisticos de Ajedrez - I-22 2012."]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1n2p3/p3p1P1/P3P1K1/r2k1p2/5P2/8/8 w - - 0 1"]
+
+1. g7 $1 Ra1 2. g8=Q (2. Kxf4 $2 Nc5 $1 3. g8=Q Nd3+ 4. Kg3 Rg1+ 5. Kh2 Rxg8) Rg1+ 3. Kxf4 Rxg8 1/2-1/2
+
+[Event "L'Italia Scacchistica#002"]
+[Source "L'Italia Scacchistica/1"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4p1Br/3P4/b7/8/1k6/4K3/8 w - - 0 1"]
+
+1. dxe7 $1 Rh1 2. Bc3 $1 Bxc3 3. e8=Q Re1+ 4. Kd3 Rxe8 1/2-1/2
+
+[Event "L'Échiquier#054"]
+[Source "L'Échiquier/2"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "rk6/1r6/6P1/7B/3n4/8/1n6/5R1K w - - 0 1"]
+
+1. Rf8+ $1 Ka7 $1 2. Rxa8+ Kxa8 3. Bf3 $1 Nxf3 4. g7 $1 Rxg7 (Rb8 5. g8=Q Rxg8) (Ka7 5. g8=Q) 1/2-1/2
+
+[Event "L'Italia Scacchistica#118"]
+[Source "L'Italia Scacchistica/4"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1R6/8/P3Pp1K/8/r3b3/8/p7/k7 w - - 0 1"]
+
+1. e7 $1 Bc6 2. a7 (2. e8=Q $2 Bxe8 3. a7 Bc6) Rxa7 3. e8=Q Bxe8 4. Rb1+ Kxb1 1/2-1/2
+
+[Event "L'Échiquier#076"]
+[Source "L'Échiquier/1"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3b3B/K1kP4/8/8/p7/8/p7/8 w - - 0 1"]
+
+1. Ka6 $1 (1. Ba1 $2 Kxd7 2. Ka6 Kc6 3. Bh8 Kc5 4. Ba1 Kc4 5. Bh8 Kb3 6. Kb5 Be7 7. Ba1 Ba3 8. Be5 Bb2) Kxd7 2. Kb5 Ke6 3. Ba1 Bf6 4. Kxa4 Bxa1 5. Ka3 (5. Kb3 {<or>}) Bd4 6. Kxa2 1/2-1/2
+
+[Event "L'Échiquier#082"]
+[Source "L'Échiquier/4"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/P7/3KN3/8/5p1p/4k3/8 w - - 0 1"]
+
+1. Nxf3 $1 Kxf3 2. a7 h2 3. a8=Q Kg2 (h1=Q 4. Kd4+) 4. Kd4+ $1 Kg1 5. Qg8+ Kf2 6. Qd5 Kg1 7. Qg5+ Kf2 8. Qh4+ Kg2 9. Ke3 h1=Q 10. Qg4+ Kh2 11. Kf2 1-0
+
+[Event "The Chess World#03"]
+[Source "The Chess World/11"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/1p6/5KP1/8/7N/8/3p3p/8 w - - 0 1"]
+
+1. Nf5 $1 h1=Q (d1=Q {<main>} 2. Ne7+ Kf8 3. g7+ Ke8 4. g8=Q+ Kd7 5. Qc8+ Kd6 6. Qd8+ Kc5 7. Qxd1) 2. Ne7+ Kf8 3. g7+ Ke8 4. g8=Q+ Kd7 5. Qc8+ Kd6 6. Nf5+ Kd5 7. Qxb7+ Kc5 8. Qxh1 1-0
+
+[Event "The Chess World#06"]
+[Source "The Chess World/12"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p3/1PR5/8/8/8/1P1bp2K/1k6 w - - 0 1"]
+
+1. Re6 $1 (1. b7 $2 Bf4+) e1=Q 2. Rxe1+ Bxe1 3. b7 Bb4 4. b8=Q Bd6+ 5. Qxd6 exd6 6. b4 d5 7. b5 d4 8. b6 d3 9. b7 d2 10. b8=Q+ 1-0
+
+[Event "Xadrez Brasiliero#25"]
+[Source "Xadrez Brasiliero/2"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6K1/1kb5/5B2/8/1q2n2R/8/2R5 w - - 0 1"]
+
+1. Rb1 $1 Nxf5+ 2. Kf8 Qxb1 3. Rb3+ Qxb3 1/2-1/2
+
+[Event "Gininger MT Revista de Romana de Sah#00"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - I-20 2012."]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/pp1p4/Pb1K4/8/6p1/1nk1B1p1/6P1/4N3 w - - 0 1"]
+
+1. axb7 $1 Bxe3 $1 2. Nd3 $1 (2. Ke5 $2 Na5 $1 3. b8=Q Nc6+ 4. Ke4 Nxb8) Kxd3 3. b8=Q (3. Kd5 {<or>} Bf4 4. b8=Q Bxb8) Bf4+ 4. Kd5 Bxb8 1/2-1/2
+
+[Event "1.hm Revista de Romana de Sah#0051"]
+[Date "1935.01.15"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7N/4P2P/2p5/2p5/2B1p3/2K1k3 w - - 0 1"]
+
+1. Ng4 $1 Kf1 2. Nh2+ Kg2 3. Nf3 $1 Kxf3 4. Bd1 $1 Kf4 $1 5. Bxe2 Kxe5 6. h6 Kf6 $1 7. Bh5 $1 1-0
+
+[Event "Revista de Romana de Sah#0227 (c)"]
+[Source "Revista de Romana de Sah/8 (c): Schuermans=F EG=26 10/1971."]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/8/2rP2P1/4P3/8/2b1p2K/4P2P/8 w - - 0 1"]
+
+1. d7 $1 (1. Kg4 $2 Bxe5 2. Kf5 Rxd6 3. Kxe5 Rxg6 4. Ke4 Rg2) (1. g7 $2 Rc8 2. d7 Rd8 3. e6 Bf6) Ba5 2. e6 (2. g7 $2 Rh6+ 3. Kg3 Rg6+ 4. Kh3 (4. Kf4 Bd8 5. Kxe3 Rxg7) Rxg7 5. e6 Kb7) Rxe6 (Bd8 3. g7) 3. g7 Rh6+ (Rg6 4. d8=Q+ Bxd8 5. g8=Q Rxg8) 4. Kg3 (4. Kg4 {<or>}) (4. Kg2 {<or>}) Rg6+ 5. Kh3 Rxg7 (Kb7 6. d8=Q Bxd8 7. g8=Q Rxg8) 6. d8=Q+ Bxd8 1/2-1/2
+
+[Event "Revista de Romana de Sah#0317"]
+[Date "1940.05.20"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4K3/8/2k4P/3b4/3P4/8/p7/8 w - - 0 1"]
+
+1. h7 $1 a1=Q (a1=R 2. Kf8 Rf1+ (Ra8+ 3. Kg7 Ra7+ 4. Kh6) 3. Kg7 Rg1+ 4. Kh6) 2. h8=Q Qa8+ 3. Ke7 Qa7+ (Qxh8) 4. Kf6 Qxd4+ 5. Ke7 Qe3+ (Qxh8) 6. Kf6 Qf4+ 7. Kg7 Qg5+ 8. Kf8 Qd8+ 9. Kg7 Qe7+ 10. Kh6 1/2-1/2
+
+[Event "L'Italia Scacchistica"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3P4/3B4/2pK2k1/n7/1N2Prp1/8 w - - 0 1"]
+
+1. Bxg2 $1 Rxg2 2. d7 Rxe2 3. Nxc4 Nxc4 4. d8=Q Rd2+ 5. Ke4 Rxd8 1/2-1/2
+
+[Event "L'Italia Scacchistica (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - I-18 2012."]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "de Barbieri, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3P4/4n1P1/2p5/2k2b2/r7/5N2/7K w - - 0 1"]
+
+1. d8=Q $1 Nxd8 2. g7 Rg3 3. Ng4 Rh3+ (Rxg4 4. g8=Q+ Rxg8) 4. Kg2 (4. Nh2 $2 Rxh2+ 5. Kg1 Ne6) Rg3+ 5. Kh1 Rxg4 6. g8=Q+ Rxg8 1/2-1/2

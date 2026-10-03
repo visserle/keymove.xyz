@@ -1,0 +1,97 @@
+[Event "sp.p Spartak"]
+[Source "EG#01939."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Kovalenko, I"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4p3/5Pp1/8/4K3/b7/4kP2/8 w - - 0 1"]
+
+1. f7 $1 e6 2. Ke5 g5 3. Kxe6 g4 (Kxf2 4. Kf5 Be7 5. f8=Q Bxf8 6. Kxg5) 4. Kf5 Kf3 5. Kg5 Bc5 6. Kf5 Be7 7. Ke6 Bf8 8. Kf5 Bh6 9. Kg6 Bf8 10. Kg5 1/2-1/2
+
+[Event "Buletin Problemistic#104"]
+[Source "Buletin Problemistic/10-12"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Kovalenko, I"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/6P1/4k1Pp/5Rp1/1B1r2P1/7K w - - 0 1"]
+
+1. Re3+ $1 (1. Rf4+ $2 Kxf4 2. Bc1 Kxg5 3. Bxd2+ Kxg4) (1. Rf1 $2 Rxb2 2. g6 Rb6 3. g7 Rg6 4. Rf7 Rxg4) Kxe3 (Kf4 2. Bc1 $1 Rd1+ 3. Re1+) (Kd5 2. Bc3 $1 Rd1+ 3. Re1) 2. Bc1 Kf2 $1 (Ke2 3. Bxd2 Kxd2 4. Kg1) 3. Bxd2 h3 $1 4. Be3+ $1 (4. Be1+ $2 Kf1 5. Bxg3 hxg2+) Kxe3 5. Kg1 $1 (5. g6 $2 Kf2 6. gxh3 g2+) h2+ 6. Kh1 Kf4 7. g6 Kg5 8. g7 Kh6 (Kh4 9. g5 $1 (9. g8=Q $2) (9. g8=R $2) (9. g8=N $2 Kxg4)) 9. g8=R $1 (9. g8=Q $2) (9. g8=N+ $2 Kg5 10. Ne7 Kxg4) 1-0
+
+[Event "Buletin Problemistic#105"]
+[Source "Buletin Problemistic/10-12"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Kovalenko, I"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/3p4/8/5R2/B4p2/2P3Pk/3pP2p/8 w - - 0 1"]
+
+1. Rh5+ $1 Kxg3 2. Bc2 $1 (2. Kb7 $2 Kg2 3. Kc7 (3. Kb6 h1=Q 4. Rxh1 Kxh1 5. Kc5 Kg2 6. Kd4 Kf2 7. Kd3 Ke1) h1=Q 4. Rxh1 Kxh1 5. Kxd7 Kg2 6. c4 (6. Kd6 Kf2 7. Ke5 Kxe2 8. Kxf4 Kd3) Kf2 7. c5 Kxe2 8. c6 d1=Q+ 9. Bxd1+ Kxd1 10. c7 f3 11. c8=Q f2) Kg2 (d5 3. Kb7 $1 Kg2 4. Kc6 h1=Q 5. Rxh1 Kxh1 6. Kxd5 Kg2 7. Ke4 Kf2 8. c4 $1) 3. Be4+ Kg1 (Kf1 {<main>} 4. Rxh2 d1=Q 5. Rh1+ Kxe2 6. Bf3+ $1 Kxf3 7. Rxd1) 4. Rd5 $1 Kf2 $1 5. Rxd2 Ke3 6. Rxd7 Kxe4 7. Rh7 1-0
+
+[Event ".c Gorgiev MT"]
+[Source "EG#03381."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Kovalenko, I"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B7/2N1p3/p1Pp2pp/7P/kP5q/p7/KP1PP3/8 w - - 0 1"]
+
+1. b3+ $1 Kxb4 2. Nd5+ Kb5 3. c7 Qd4 4. Bc6+ Kc5 5. b4+ Kxc6 6. c8=Q+ Kxd5 7. e4+ Qxe4 (Kxe4 {<main>} 8. Qg4+ Kd5 9. Qxd4+ Kxd4 10. hxg6) (Ke5 {<main >} 8. Qh8+ Kxe4 9. Qxd4+ Kxd4 10. hxg6) 8. Qb7+ Kd4 9. Qxe4+ Kxe4 10. hxg6 1-0
+
+[Event "Buletin Problemistic#120"]
+[Source "Buletin Problemistic/4-6"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Kovalenko, I"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/1p1p4/1P1PP3/1P2b3/6K1/8/8/8 w - - 0 1"]
+
+1. Kf5 $1 (1. exd7 $2 Bf6 2. Kf5 Bd8) Bxd6 2. exd7 Be7 3. d8=Q+ $1 Bxd8 4. Ke6 Bxb6 5. Kd7 Ba5 6. b6 $1 Bxb6 7. Kc8 1/2-1/2
+
+[Event "Shakhmaty v SSSR#26 (c)"]
+[Source "Shakhmaty v SSSR/1 (c): Kovalenko=I Shakhmaty v SSSR/7 1978."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Kovalenko, I"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5R2/3N4/2p5/p7/8/7K/p5P1/6k1 w - - 0 1"]
+
+1. Ne5 $1 a1=Q 2. Nf3+ Kf2 (Kh1 3. Re8) 3. Nd4+ $1 Kg1 4. Ne2+ Kh1 5. g4 $1 Qe1 6. Ng3+ Kg1 7. Rf1+ Qxf1+ 8. Nxf1 Kxf1 9. g5 a4 10. g6 a3 11. g7 a2 12. g8=Q a1=Q 13. Qg2+ Ke1 14. Qg1+ 1-0
+
+[Event ".c Magyar Sakkélet#1324"]
+[Source "Magyar Sakkélet/9 EG#03991."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Kovalenko, I"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/R6p/7P/p7/PpPk3p/2N3b1/2K5 w - - 0 1"]
+
+1. Ne1+ $1 (1. Rxa4 $2 bxc2 2. Rh4 Kxc3) Kxc3 (Ke2 2. Nxg2 h2 3. Re6+ Kf2 4. Re1) 2. Nxg2 b2+ $1 (h2 3. Rc6+ Kd3 4. Rd6+ Kc3 5. Rd1) 3. Kb1 h2 4. Rc6+ Kb3 5. Rb6+ Kxa3 6. Ne1 h1=Q 7. Rb3+ $1 Kxb3 (axb3) 1/2-1/2

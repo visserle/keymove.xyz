@@ -1,0 +1,13 @@
+[Event "Chess Life & Review#1406"]
+[Source "Chess Life & Review/4"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Barth, J"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5p2/6p1/7p/4P2P/5P2/1K1k2P1/8 w - - 0 1"]
+
+1. g4 $1 (1. Kb3 $2 Ke3 2. Kc4 Kf2 3. g4 Kg3 $1) (1. f4 $2 Ke3 2. f5 Kxe4 3. fxg6 fxg6 4. Kc3 Kf4 5. Kd4 Kg3 $1) Ke3 2. gxh5 gxh5 3. Kc3 Kxf3 4. Kd4 Kg4 5. Ke5 Kxh4 6. Kf6 $1 (6. Kf4 $2 Kh3) Kg4 7. Kxf7 Kf4 8. Kf6 $1 Kxe4 9. Kg5 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "Shakhmatna Misl#15"]
+[Source "Shakhmatna Misl/3"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Lyakov, I"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4r1k1/R5P1/8/p1n3P1/Pp1B2P1/1p6/1P2r3/K4R2 w - - 0 1"]
+
+1. Re7 $1 R2xe7 2. Rf8+ Rxf8 3. gxf8=Q+ Kxf8 4. Bxc5 Ke8 5. Bxe7 Kxe7 6. Kb1 Kf7 7. Kc1 Kg6 8. Kd2 Kxg5 9. Kd3 Kxg4 10. Kc4 Kf5 11. Kb5 Ke4 12. Kxa5 Kd3 13. Kxb4 Kc2 14. Ka3 1-0

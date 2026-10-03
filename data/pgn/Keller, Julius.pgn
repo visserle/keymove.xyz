@@ -1,0 +1,13 @@
+[Event "Rochade#0202 (pl)"]
+[Source "Rochade/12 = Nielsen=B c4d7 1933."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Keller, Julius"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4r3/2P5/KPk5/8/8/8/8/8 w - - 0 1"]
+
+1. Ka7 $1 (1. c8=Q+ $2 Rxc8 2. Ka7 Rh8 3. b7 Kc7 $1 (Rh7 $2 4. Ka8 Rxb7)) Rh8 2. c8=Q+ Rxc8 3. b7 Rc7 4. Ka8 Rxb7 1/2-1/2

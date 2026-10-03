@@ -1,0 +1,26 @@
+[Event "The Chess Amateur#0379"]
+[Source "The Chess Amateur/7"]
+[Date "1916.??.??"]
+[Round "?"]
+[Composer "Drewitt, John Arthur James"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/1p6/1Pp4k/2P1p3/3Pp3/4P1p1/4b1P1/8 w - - 0 1"]
+
+1. d5 $1 Bc4 2. Kh8 Bxd5 1/2-1/2
+
+[Event "1.hm L'Eco degli Scacchi"]
+[Date "1917.??.??"]
+[Round "?"]
+[Composer "Drewitt, John Arthur James"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7P/p6q/P5p1/2Bp4/3P4/5Pnp/5K1k w - - 0 1"]
+
+1. h8=Q $1 (1. Bd5 $2 Qh3 2. h8=Q Qxd3#) Qxh8 2. Bd5 Qh3 $1 3. Bf3 $1 g4 (Qxf3) 4. Be4 Qxd3+ $1 5. Bxd3 Ne1 6. Be4+ Nf3 7. Ba8 d3 8. Bb7 d2 9. Bxf3+ gxf3 1/2-1/2

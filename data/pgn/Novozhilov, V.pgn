@@ -1,0 +1,13 @@
+[Event "Shakhmaty v SSSR#28"]
+[Source "Shakhmaty v SSSR/9"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Novozhilov, V"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "b1k2N2/8/1K6/8/4p3/8/4B3/8 w - - 0 1"]
+
+1. Bg4+ $1 Kb8 (Kd8 2. Ne6+ Ke7 3. Nc7) 2. Nd7+ Kc8 3. Nc5+ Kd8 4. Ne6+ Ke7 5. Nc7 Kf6 6. Nxa8 1-0

@@ -1,0 +1,13 @@
+[Event ".c Shakhmaty v SSSR (ph) (c)"]
+[Source "Shakhmaty v SSSR/5 (c): Garcia=M Estudios Artisticos de Ajedrez - IV-71 2012."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Israelov, Vitaly Danilovich"]
+[White "Israelov, V"]
+[Black " Sarychev, A."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/8/7p/1p1N1P2/8/3p1kpB/4b3/7N w - - 0 1"]
+
+1. f6 $1 g2 (d2 2. f7 d1=Q 3. f8=Q+ Ke4 4. Nc3+ Kd3 5. Nxd1) 2. Bxg2+ (2. f7 $2 gxh1=Q 3. f8=Q+ Kg3 4. Qf4+ Kxh3 5. Qxh6+ Kg2 6. Nf4+ Kg1 7. Nxe2+ (7. Qb6+ Kf1) dxe2) Kxg2 3. f7 (3. Ke7 $2 Bh5 4. Nf4+ Kxh1 5. Nxd3 Bg6) Bh5 4. Nf4+ Kxh1 5. Nxh5 d2 6. Ng3+ Kg2 (Kh2 7. Nf1+ Kg1 8. Nxd2) (Kg1 7. Ne2+ Kf2 8. Nc3) 7. Nf1 (7. Nf5 $2 Kf2) d1=Q (Kxf1 8. f8=Q+) 8. Ne3+ Kf3 9. Nxd1 1-0

@@ -1,0 +1,68 @@
+[Event "Svobodné Slovo#305"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Laznicka, Antonin"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "bkBnK3/5n2/2P5/8/8/8/1P6/8 w - - 0 1"]
+
+1. Bb7 $1 Nxb7 2. cxb7 Nd6+ 3. Kd7 Nxb7 4. b4 $1 Ka7 5. Kc7 Ka6 6. Kb8 1/2-1/2
+
+[Event "3.hm Ceskoslovensky Sach#3315"]
+[Source "Ceskoslovensky Sach/6"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Laznicka, Antonin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3K4/Pb6/3k4/8/1N6/1P6/8 w - - 0 1"]
+
+1. Na5 $1 (1. Kc8 $2 Kc6 2. Nd2 (2. Kb8 Bc7+ 3. Ka8 Be5) Bg1 3. Kb8 Kb6 4. a7 Bh2+ 5. Ka8 Kc7 6. Nc4 Bg3 7. b4 Bf2 8. b5 Kc8 9. b6 Bxb6 10. Nxb6+ Kc7) (1. Nd2 $2 Kc5 2. Kc8 Kc6 3. b4 (3. b3 Bg1 4. Nc4 Bf2 5. Kb8 Bg3+ 6. Ka8 Kc7 7. b4 Bf2 8. b5 Bg1 9. Nd6 Bf2 10. Ne8+ Kb6 $1 11. Nd6 Kc7) (3. Ne4 Bg1 4. b4 Kb6 5. Nc5 Bf2 6. Kb8 Bg3+ 7. Ka8 Bh2 8. a7 Bg1 9. Na4+ Kc7 10. b5 Kc8) Kb5 4. Kb7 Be3 $1) (1. Nc1 $2 Kc5 2. Kc8 Kc6 3. Nd3 Bg1 4. b4 Kb6) Kc5 2. Nc6 Kb5 3. Nb8 Ba7 4. Kc7 Bxb8+ 5. Kb7 $1 Ka5 6. b3 $1 Kb5 7. b4 1-0
+
+[Event "Ceskoslovensky Sach#3331"]
+[Source "Ceskoslovensky Sach/7"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Laznicka, Antonin"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4p3/8/3pK1P1/3Pb1kN/8/8 w - - 0 1"]
+
+1. Ng1 $1 (1. g5 $2 Kxh3 2. g6 Bh6 3. Kxd4 Bg7+ 4. Ke4 Kg4 5. d4 Kg5 6. d5 e5 7. d6 Kf6 8. Kd5 Bh8 $1 9. Kc6 Kxg6) Bxg1 2. g5 Be3 3. g6 Bh6 4. g7 Bxg7 1/2-1/2
+
+[Event "Práce"]
+[Source "Práce/10"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Laznicka, Antonin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4B3/8/8/4kp2/8/2pKP3/8/8 w - - 0 1"]
+
+1. Ba4 $1 f4 2. e4 f3 3. Bc2 Kf4 4. Bb1 $1 Kg3 5. Kxc3 1-0
+
+[Event "Ceskoslovensky Sach#016"]
+[Source "Ceskoslovensky Sach/3"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Laznicka, Antonin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K1n1/4PpP1/2n1k2P/8/8/3P4/8/8 w - - 0 1"]
+
+1. Kf8 $1 Ncxe7 2. h7 Nf6 3. g8=Q Nfxg8 4. Kg7 Nf5+ 5. Kxg8 Ne7+ 6. Kg7 Nf5+ 7. Kf8 Ne7 8. d4 Ng6+ 9. Kg7 Ke7 10. d5 1-0

@@ -1,0 +1,41 @@
+[Event "Schweizerische Arbeiter-Schachzeitung#2"]
+[Source "Schweizerische Arbeiter-Schachzeitung/1"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Bajus, Istvan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3pp3/P5P1/5P2/2kb4/8/4K3 w - - 0 1"]
+
+1. f5 $1 d5 2. g6 Bxf5 3. g7 Bh7 4. a6 d4 5. g8=Q Bxg8 6. a7 d3 7. a8=Q d2+ 8. Kd1 1-0
+
+[Event "Schweizerische Arbeiter-Schachzeitung#2"]
+[Source "Schweizerische Arbeiter-Schachzeitung/4"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Bajus, Istvan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/8/3p4/1k2n2P/8/8/8/8 w - - 0 1"]
+
+1. Kg7 $1 Ng4 2. Kg6 d5 3. Kg5 Ne5 (d4 4. Kxg4 d3 5. Kf3) 4. Kf5 $1 (4. Kf6 $2 d4 5. h6 (5. Kxe5 d3 6. h6 d2 7. h7 d1=Q 8. h8=Q Qa1+ 9. Kf5 Qxh8) Ng4+) (4. Kf4 $2 d4 5. h6 Ng6+ 6. Kg5 Nf8 7. Kf6 d3 8. Kf7 (8. Kg7 Ne6+ 9. Kf6 d2) Nh7 9. Kg7 d2 10. Kxh7 d1=Q) d4 5. h6 d3 6. h7 Nf7 7. Kf6 Nh8 8. Kg7 d2 9. Kxh8 1/2-1/2
+
+[Event "Schweizerische Arbeiter-Schachzeitung#2"]
+[Source "Schweizerische Arbeiter-Schachzeitung/12"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Bajus, Istvan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5b2/8/6p1/PkN5/1P1p4/3P1K2/8/8 w - - 0 1"]
+
+1. a6 $1 Bxc5 2. bxc5 Kxa6 3. Ke4 g5 4. Kxd4 Kb5 $1 (g4 5. Ke3) 5. Kd5 g4 6. c6 g3 7. c7 g2 8. c8=Q g1=Q 9. Qc4+ Kb6 10. Qd4+ Qxd4+ 11. Kxd4 1-0

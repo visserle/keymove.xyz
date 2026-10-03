@@ -1,0 +1,25 @@
+[Event "El Ajedrez Argentino"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Vivas Font, Frantesc"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "kr6/1p6/pPP5/p2P4/P7/3P4/8/4K3 w - - 0 1"]
+
+1. c7 $1 Rh8 2. Kd2 $1 Rh2+ 3. Kc3 Rc2+ 4. Kd4 Rc4+ 5. Ke5 Re4+ 6. Kd6 Re6+ 7. Kc5 Re8 8. d4 $1 1-0
+
+[Event "Schweizerische Arbeiter-Schachzeitung"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Vivas Font, Frantesc"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B7/6p1/p6p/p4p1k/5P1P/1p3PK1/8/8 w - - 0 1"]
+
+1. Bd5 $1 b2 2. Bf7+ g6 3. Ba2 a4 4. Kh3 $1 a3 5. Kg3 a5 6. Kh3 b1=Q 7. Bxb1 g5 8. Bxf5 a2 9. Be6 a1=Q 10. Bf7# 1-0

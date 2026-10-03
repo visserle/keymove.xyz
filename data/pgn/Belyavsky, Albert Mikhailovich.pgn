@@ -1,0 +1,34 @@
+
+
+[Event ".hm Chervoni Girnik"]
+[Source "EG#04087"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Belyavsky, Albert Mikhailovich"]
+[Composer2 "Mitrofanov, Leopold Adamovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/2p5/6kN/1P6/4b3/nK6/8 w - - 0 1"]
+[PlyCount "18"]
+
+1. b5 $1 cxb5 2. Ng3 Kf4 3. Nh5+ $1 Kg5 4. Ng3 Nc1 5. Ne4+ Kf4 6. Nc3 $1 (6. Nd6 $143 $2 b4 $1 $19) Bd4 $1 7. Ka3 $1 Bc5+ 8. Kb2 Bd4 9. Ka3 Bxc3 $11 {stalemate} 1/2-1/2
+
+[Event "2.p Kommunist"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Belyavsky, Albert Mikhailovich"]
+[Composer2 "Mitrofanov, Leopold Adamovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/6pB/2K5/1PP2PP1/8/8/1p1r4/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. f6 gxf6 2. Kc7 $1 (2. gxf6 $143 Kb8 3. b6 Rf2 4. Kd7 Rxf6 5. c6 Rf7+ 6. Kd8 Rxh7 7. c7+ Rxc7 8. bxc7+ Ka7 9. c8=Q b1=Q $11) (2. b6 $143 Kb8 3. gxf6 $11 {see above}) Rd5 (f5 $144 3. Bxf5 Rd5 4. Be4 b1=Q 5. b6 Qb3 6. Bf3 Qxb6+ 7. Kxb6 Kb8 8. Bxd5 $18) 3. Be4 b1=Q 4. b6 Qb3 5. Bf3 fxg5 6. Kc8 g4 7. Bg2 g3 8. Kc7 (8. Bh1 $143 g2 9. Bxg2 Qxb6 10. Bxd5+ (10. cxb6 $144 $11) Ka7 11. cxb6+ Kxb6 $11) Qxb6+ 9. Kxb6 $18 1-0

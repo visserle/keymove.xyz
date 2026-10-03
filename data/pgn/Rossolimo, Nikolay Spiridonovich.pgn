@@ -1,0 +1,14 @@
+[Event "tc06#228"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Rossolimo, Nikolay Spiridonovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6Np/5P1p/K2kr3/p3p3/3P4/P2P4/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. f7 (1. d4 $143 Rg5 2. f7 Kc4+ $3 3. Kxa4 Rxg7 4. f8=Q Ra7#) (1. Kb6 $143 Rg5 2. dxe4+ Kxe4 3. f7 Rg6+ 4. Kc5 Rf6 5. Ne8 Rf5+ 6. Kc4 Kf4 7. Nd6 Rf6 8. d4 h5 $19) Kd6+ 2. Kb6 Ke7 3. d4 Rd5 4. f8=Q+ Kxf8 5. Kc6 Ra5 6. Kb6 Ra8 7. Kb7 Rd8 8. Kc7 Rd5 9. Kc6 $11 1/2-1/2

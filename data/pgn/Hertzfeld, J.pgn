@@ -1,0 +1,12 @@
+[Event "National Zeitung"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Hertzfeld, J"]
+[White "Hertzfeld, J"]
+[Black " Towbin, M."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4r3/8/3ppP2/R7/4PP2/4k3/7p/7K w - - 0 1"]
+
+1. e5 $1 dxe5 (d5 2. f5) (Kxf4 2. exd6) 2. f5 $1 (2. fxe5 $2 Kf4 $1) exf5 3. Rxe5+ $1 Rxe5 4. f7 1-0

@@ -1,0 +1,13 @@
+[Event "1.p Skakbladet#5556 (c)"]
+[Source "Skakbladet/1 (c): Garcia=M Estudios Artisticos de Ajedrez - X-59 2012."]
+[Date "1945.??.??"]
+[Round "?"]
+[Composer "Tomsen, M"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4r3/P1p1kp1P/2P5/p1p2P2/P1P2K2/6p1/6P1/8 w - - 0 1"]
+
+1. Ke5 $1 f6+ 2. Kd5 Ra8 3. Kxc5 Rd8 (Rh8 4. Kd5) 4. Kb5 Kd6 5. c5+ Kd5 6. h8=Q Rxh8 7. a8=Q Rxa8 1/2-1/2

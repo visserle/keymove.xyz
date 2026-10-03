@@ -1,0 +1,25 @@
+[Event "British Chess Magazine"]
+[Date "1881.??.??"]
+[Round "?"]
+[Composer "Wayte, William"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/P7/8/8/1PK1k3/8/8/6q1 w - - 0 1"]
+
+1. a8=Q+ $1 Kf4 2. Qf8+ Ke4 3. Qe7+ Kf3 4. Qf6+ Ke4 5. Qe6+ Kf4 6. Qd6+ Kf3 7. Qd3+ Kf4 8. Qd4+ 1-0
+
+[Event "British Chess Magazine"]
+[Date "1881.??.??"]
+[Round "?"]
+[Composer "Wayte, William"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2P5/8/8/5K2/8/4k2p/8 w - - 0 1"]
+
+1. c8=Q $1 h1=Q 2. Qc2+ Kf1 3. Qd1+ Kg2 4. Qe2+ Kg1 (Kh3 5. Qg4+ Kh2 6. Qg3#) 5. Kg3 1-0

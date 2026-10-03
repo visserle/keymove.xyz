@@ -1,0 +1,40 @@
+[Event "Shakhmatna Misl#78"]
+[Source "Shakhmatna Misl/12"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Tatev, Atanas Iordanov"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5R2/6k1/7p/8/5K2/1p2p3/8/8 w - - 0 1"]
+
+1. Rb8 $1 e2 2. Rb7+ Kf8 (Kg6 3. Rb6+ $1 Kh5 4. Rb5+ Kh4 5. Re5 b2 6. Rxe2 $1 b1=Q 7. Rh2#) 3. Rb8+ Ke7 4. Rxb3 e1=Q 5. Re3+ Qxe3+ 6. Kxe3 1/2-1/2
+
+[Event "Shakhmatna Misl#43 (v)"]
+[Source "Shakhmatna Misl/7"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Tatev, Atanas Iordanov"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1N4k1/4K3/8/8/7p/8/8 w - - 0 1"]
+
+1. Nd6 $1 h2 2. Nf5+ Kg6 3. Ng3 Kg5 4. Ke5 Kg4 5. Nh1 Kf3 6. Kd4 Kg2 7. Ke3 Kxh1 8. Kf2 1/2-1/2
+
+[Event "Shakhmatna Misl#026 (v)"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Tatev, Atanas Iordanov"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3pp3/8/2P5/1K1k3p/8/6B1/8 w - - 0 1"]
+
+1. Bh3 $1 e6 2. Bxe6 dxe6 3. c6 h3 4. c7 h2 5. c8=Q h1=Q 6. Qc3+ Kd5 7. Qc5+ Ke4 8. Qc6+ 1-0

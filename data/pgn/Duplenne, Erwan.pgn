@@ -1,0 +1,27 @@
+[Event "Thèmes 64#4588"]
+[Source "Thèmes 64/4-6"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Duplenne, Erwan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3B3n/1p6/1p6/1K2kP2/8/p2P4/8/8 w - - 0 1"]
+
+1. Bg5 $1 (1. Bc7+ $2 Kd5 $1 (Kxf5 $2 2. Bxb6 Ke5 3. Ba5 Kd4 4. Bb6+) 2. Bd8 Nf7) a2 2. Bh6 Kf6 3. Be3 $1 a1=Q (a1=B 4. Kxb6) 4. Bd4+ Qxd4 1/2-1/2
+
+[Event "The Problemist#0467"]
+[Source "The Problemist/7"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Duplenne, Erwan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K6/r1r5/8/8/8/8/R1R5/6k1 w - - 0 1"]
+
+1. Rg2+ $1 Kh1 (Kf1 2. Raf2+ Ke1 3. Rb2 Kf1 4. Rgd2 Ke1 5. Rh2) 2. Rh2+ Kg1 3. Rag2+ Kf1 4. Rb2 Kg1 5. Rhd2 Rf7 6. Rb1+ Rf1 7. Rxf1+ Kxf1 8. Kxa7 1-0

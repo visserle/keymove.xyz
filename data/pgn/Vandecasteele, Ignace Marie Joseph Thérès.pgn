@@ -1,0 +1,223 @@
+[Event "Tijdschrift v.d. KNSB#652 (c)"]
+[Source "Tijdschrift v.d. KNSB/5 (c): Vandecasteele=I Schaakstudiespinsels#196 2008."]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Vandecasteele, Ignace Marie Joseph Thérès"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5B2/2P5/2K5/5n2/p2r1p2/5p2/5P2/k7 w - - 0 1"]
+
+1. Kb5 $1 (1. c8=Q $2 Rc4+ 2. Bc5 Ne7+ 3. Kb5 Nxc8 4. Kxc4 Kb2) (1. Bc5 $2 Rc4 2. Kb6 Rxc5 3. Kxc5 Ne7) Rd5+ 2. Kxa4 (2. Kb6 $2 Rd6+ 3. Bxd6 Nxd6 4. Kc6 Nc8) Rd4+ 3. Kb3 Rd3+ (Rd2 4. c8=Q) 4. Kc2 Rd6 5. Bg7+ (5. c8=Q $2 Rc6+ 6. Qxc6 Nd4+) (5. Bxd6 $2 Nxd6) Nd4+ (Ka2 6. c8=Q Rc6+ 7. Qxc6 Nd4+ 8. Bxd4) 6. Bxd4+ Rxd4 7. c8=R $1 (7. c8=Q $2 Rc4+ 8. Qxc4) Ra4 8. Kb3 1-0
+
+[Event "Tijdschrift v.d. KNSB#649"]
+[Source "Tijdschrift v.d. KNSB/5"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Vandecasteele, Ignace Marie Joseph Thérès"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/2n5/p1p4R/P5p1/1K1k4 w - - 0 1"]
+
+1. Rxc3 $1 (1. Rg3 $2 c2+ 2. Ka1 c1=Q#) Nd2+ (g1=Q 2. Rc1+) 2. Ka1 Nf1 $1 (g1=Q 3. Rc1+ Kxc1) 3. Rc1+ Ke2 (Kxc1) 4. Rc2+ Nd2 5. Rc1 Kf2 6. Rd1 Nf1 7. Rd2+ Nxd2 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#650 (c)"]
+[Source "Tijdschrift v.d. KNSB/5 (c): Vandecasteele=I Schaakstudiespinsels-2#301 2012."]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Vandecasteele, Ignace Marie Joseph Thérès"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k1B2/7K/p3p3/P1N1N3/8/q7/8/8 w - - 0 1"]
+
+1. Nb7+ $1 (1. Nxe6+ $2 Ke8 2. Bxa3) Ke8 2. Nd6+ Kd8 (Kxf8 3. Ng6#) 3. Nc6+ (3. Ndf7+ $2 Ke8 4. Bxa3) (3. Nb7+ $2 Ke8 4. Bxa3) Kd7 (Kc7 { <main>} 4. Ne8+ (4. Nb5+ $2 axb5 5. Bxa3 Kxc6) Kxc6 5. Bxa3) 4. Nb8+ (4. Ne5+ $2 Kd8) Kc7 (Kd8 5. Nf7+) 5. Ne8+ Kxb8 6. Bxa3 1-0
+
+[Event "Schakend Nederland#0828 (c)"]
+[Source "Schakend Nederland/1 1963 (c): Vandecasteele=I EBUR=2 6/2004."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Vandecasteele, Ignace Marie Joseph Thérès"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2B5/p3p3/K3p2P/8/6b1/6k1/8 w - - 0 1"]
+
+1. h6 $1 Be1+ 2. Ka4 (2. Kxa6 $2 Bc3 3. Ba5 (3. Kb5 e4 4. Kc4 Bh8) Bb2 4. h7 e4) Bc3 3. Kb3 Ba1 4. Ka2 (4. Ba5 $2 e4 5. Bc3 Bxc3 6. Kxc3 e3 7. Kd3 Kf3 8. h7 e2 9. h8=Q e1=Q) Bc3 5. Ba5 Bd4 (Bxa5 6. h7) 6. Bb6 Bc3 7. Kb3 $1 Ba1 8. Kc4 $1 (8. h7 $2 e4 9. Kc4 Bh8 10. Bd4 e5 $1) e4 9. Bd4 Bxd4 (e3 10. Bxa1 e2 11. Bc3) 10. Kxd4 Kf3 11. h7 e3 12. h8=Q 1-0
+
+[Event "Schakend Nederland#0828"]
+[Source "Schakend Nederland/1 1963"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Vandecasteele, Ignace Marie Joseph Thérès"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2B5/8/4p2P/K7/8/6k1/4b3 w - - 0 1"]
+
+1. h6 $1 Bc3 (e4 2. Be5) 2. Kb3 Ba1 3. Ka2 Bc3 4. Ba5 $1 Bd4 5. Bb6 $1 Bc3 6. Kb3 Ba1 7. Kc4 e4 8. Bd4 Bxd4 (e3 9. Bxa1 e2 10. Bc3) 9. Kxd4 Kf3 10. h7 1-0
+
+[Event "EG"]
+[Source "EG/11 EG#00646a. after Afanasiev=G Dvizov=E h7e5 1967."]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Vandecasteele, Ignace Marie Joseph Thérès"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6pK/rP4B1/8/6k1/8/P7/8 w - - 0 1"]
+
+1. b7 $1 Rb6 2. Be4 Kf4 3. Bg2 (3. Bh1 $2 Rb1 4. Bd5 Rb4) Ke5 4. a4 Kd6 5. a5 Kc7 (Rb2 6. a6) 6. axb6+ Kb8 7. Kg8 (7. Kxg7 $2) g5 8. Kf7 g4 9. Ke6 g3 10. Kd5 Kxb7 11. Kc5+ 1-0
+
+[Event "Schakend Nederland#1188"]
+[Source "Schakend Nederland/1 1970"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Vandecasteele, Ignace Marie Joseph Thérès"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4KB2/k7/1N6/8/7p/6p1/8/8 w - - 0 1"]
+
+1. Nc8+ $1 (1. Nd5 $2 h3 2. Nf4 h2) Kb7 (Kb8 2. Kd7) (Ka6 2. Bd6 Kb5 3. Ne7 Kc4 4. Nf5) 2. Nd6+ Kc6 3. Nf5 (3. Ne4 $2 g2 4. Bc5 Kd5) g2 4. Nd4+ Kd5 5. Ne2 h3 (Ke4 6. Ng1) 6. Nf4+ Ke4 7. Nxh3 1-0
+
+[Event "1.c Schakend Nederland#1244"]
+[Source "Schakend Nederland/1 1971"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Vandecasteele, Ignace Marie Joseph Thérès"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K6/B2b4/1P6/8/8/8/8/4b1k1 w - - 0 1"]
+
+1. b7+ $1 Kh2 $1 (Kg2 {<main>} 2. Kc7 Bg4 3. Bc5 Ba5+ 4. Kd6 Be1 5. Bd4 Bb4+ 6. Ke5 Be1 7. Be3 Kf3 (Bg3+ 8. Bf4 Bxf4+ 9. Kxf4) 8. Bf4 Bc3+ 9. Kd5 Kxf4 10. b8=Q+) 2. Kc7 Bh3 (Bg3+ 3. Kxd7 Kg2 4. Bb6 Bb8 5. Kc8 Be5 6. Bc7 Bxc7 7. Kxc7) 3. Bc5 (3. b8=Q $2 Bg3+) Ba5+ 4. Kd6 Be1 5. Bd4 (5. Ke7 $2 Bh4+) Bb4+ 6. Ke5 Be1 7. Be3 Bc3+ 8. Kf4 Be1 9. Kg5 Bg3 10. Bf4 Bxf4+ 11. Kxf4 1-0
+
+[Event "64 Studies op 64 Velden#52"]
+[Source "after Kalandadze=V f3c8 1970."]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Vandecasteele, Ignace Marie Joseph Thérès"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k2n/8/P7/b7/7p/5K2/2b5/7N w - - 0 1"]
+
+1. a7 $1 Bd1+ 2. Ke4 (2. Kg2 $2 h3+ 3. Kg3 Bc7+ 4. Kf2 Bb6+) Bc2+ 3. Kd5 Bb3+ 4. Kc6 Ba4+ 5. Kc5 $1 (5. Kb7 $2 Kd7 $1 6. a8=Q Bc6+ 7. Ka6 Bxa8 8. Kxa5 Bxh1) Bb4+ $1 6. Kd5 (6. Kxb4 $2 Bc6) Bb3+ 7. Kd4 $1 (7. Ke5 $2 Nf7+) Bc3+ 8. Ke4 Bc2+ 9. Ke3 $1 (9. Kf4 $2 Ng6+) Bd2+ 10. Kf3 Bd1+ 11. Kg2 $1 (11. Kf2 $2 Be1+ 12. Kg2 h3+) h3+ 12. Kg3 Be1+ 13. Nf2 Bxf2+ 14. Kxf2 Bf3 15. Kxf3 h2 {<eg>} 16. Kg2 1-0
+
+[Event "3.c Schakend Nederland#1322"]
+[Source "Schakend Nederland/7-8 EG#02053."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Vandecasteele, Ignace Marie Joseph Thérès"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3B4/3p1p2/4kN2/6K1/3Pp3/4P3/pP6/2n5 w - - 0 1"]
+
+1. d5+ $1 Ke5 (Kd6 {<main>} 2. Nxe4+ Kxd5 (Ke5 3. Nc3 a1=Q 4. Bc7+ d6 5. Bd8 Nd3 6. Bf6#) 3. Nc3+ Kc4 4. Nxa2) 2. Bc7+ d6 3. Ba5 Ne2 (a1=Q 4. Bc3#) 4. Bc3+ Nxc3 5. bxc3 a1=Q 6. c4 $1 Qg1+ (Qf1 7. Nd7#) (Qa7 7. Ng4#) 7. Ng4+ Qxg4+ 8. Kxg4 1/2-1/2
+
+[Event "Schaakschild (tw)"]
+[Source "Schaakschild/9"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Vandecasteele, Ignace Marie Joseph Thérès"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5bK1/3k3p/2N5/8/8/1B6/8/8 w - - 0 1"]
+
+1. Ne5+ $1 Ke7 (Kd6 {<main>} 2. Nc4+ Ke7 (Kc5 3. Kxf8 Kb4 4. Ba2) 3. Ne3 h5 (Bh6 {<main>} 4. Nf5+) 4. Nd5+ Ke8 5. Ba4+ Kd8 6. Kxf8) 2. Ng4 h5 (h6 3. Bf7 h5 4. Bxh5) 3. Ne3 Ke8 (h4 {<main>} 4. Nd5+ Ke8 5. Ba4+ Kd8 6. Kxf8) (Bh6 {<main>} 4. Nf5+ Kf6 5. Nxh6 Kg6 6. Nf7) 4. Bf7+ Ke7 5. Nd5+ Kd6 6. Kxf8 1-0
+
+[Event "Schaakschild (tw)"]
+[Source "Schaakschild/9"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Vandecasteele, Ignace Marie Joseph Thérès"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5bK1/3k4/2N5/1p6/8/1B6/8/8 w - - 0 1"]
+
+1. Ne5+ $1 Kd6 2. Nf7+ Ke7 3. Bd5 (3. Ba2 $2 Ke8 4. Bd5 Bc5) b4 4. Bc4 (4. Bb3 $2 Ke8 5. Ba4+ Ke7 6. Bb5 b3 7. Ba4 b2 8. Bc2 b1=Q 9. Bxb1 Ke8) (4. Ba2 $2 Ke8 5. Bc4 Bc5) Ke8 (b3 5. Bxb3) 5. Bb5+ Ke7 6. Ba4 b3 7. Bxb3 Ke8 8. Ba4+ Ke7 9. Bb5 (9. Bc6 {<or>}) Kf6 10. Kxf8 1-0
+
+[Event "5.c Schakend Nederland#1919 (c)"]
+[Source "Schakend Nederland/5 (c): Vandecasteele=I Schakend Nederland#1952 4/1984."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Vandecasteele, Ignace Marie Joseph Thérès"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/B3P2K/4k1p1/1r5B/8/8/8 w - - 0 1"]
+
+1. e7 $1 Kf6 (Rxh4+ 2. Kg7) (Rb6+ 2. Kg7 Re6 3. Bg3+ Kd5 4. Kf7 Rxe7+ 5. Kxe7) (Rb8 2. Bg3+) 2. Bxg5+ (2. e8=Q $2 Rxh4+ 3. Qh5 Rxh5+) (2. e8=N+ $2 Ke7 3. Bxg5+ Kxe8) Kf7 3. Be2 $1 (3. Bd3 $2 Rb6+ 4. Kh5 Re6) Rb6+ (Re4 4. Bh5+ Kg8 5. e8=Q+ Rxe8 6. Bxe8) (Rb8 4. Bc4+ Ke8 5. Kg7 Kd7 6. Kf7) 4. Kh7 (4. Kh5 $2 Re6) Rb7 (Re6 5. Bh5+ Rg6 6. Bxg6+) 5. Bc4+ (5. Bh5+ $2 Ke6) Ke8 6. Kg8 Rxe7 (Rb8 7. Bf6 Kd7+ 8. Kf7 Ra8 9. e8=Q+ Rxe8 10. Bb5+) 7. Bb5+ Rd7 (Kd8 8. Kf8) 8. Kh8 $1 Kf7 9. Bxd7 1-0
+
+[Event "Schakend Nederland#1920 (m)"]
+[Source "Schakend Nederland/6 (m): Vandecasteele=I 64 Studies op 64 Velden#41 1994."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Vandecasteele, Ignace Marie Joseph Thérès"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k7/7p/K3NB2/4P3/1p6/1p6/8 w - - 0 1"]
+
+1. Nc6+ $1 Kb7 2. Nd8+ (2. e5 $2 Kxc6 3. e6 Kd6 4. Kb4 b1=Q 5. Bxb1 Kxe6) Kc7 3. Ne6+ $1 (3. e5 $2 Kxd8 4. Kb4 Ke7 5. Kc3 b1=Q 6. Bxb1 Ke6 7. Kd4 h5 8. Ke4 h4 9. Kf4 Ke7 10. Bf5 b2 11. Kg4 h3 12. Kxh3 b1=Q 13. Bxb1 Ke6) Kd6 $1 (Kd7 4. Ng7+ $1 Kd6 5. e5+ $1 Kxe5 6. Bb1 Kf6 7. Nh5+ Kg5 8. Ng3 h5 9. Kb4 h4 10. Nh1 Kf4 11. Kxb3 Kf3 12. Kxb2 Kg2 13. Be4+) 4. Nf8 $1 (4. Nf4 $2 b1=Q $1 (Ke5 $2 5. Nd3+) 5. e5+ Kxe5 6. Bxb1 Kxf4) Ke5 (b1=Q 5. e5+ Kxe5 6. Bxb1) 5. Ng6+ Kf6 6. Nh4 Ke5 (b1=Q 7. e5+) 7. Nf3+ Kf4 8. Nd2 1-0
+
+[Event "Schakend Nederland#1920"]
+[Source "Schakend Nederland/6"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Vandecasteele, Ignace Marie Joseph Thérès"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k7/7p/K3NB2/4P3/8/1p6/8 w - - 0 1"]
+
+1. Nc6+ $1 Kb7 (Ka8 2. e5) 2. Nd8+ Kc7 3. Ne6+ Kd6 (Kd7 4. Ng7+ Kd6 5. e5+ Kxe5 6. Bb1 Kf6 7. Nh5+ Kg5 8. Ng3 h5 9. Kb4 h4 10. Nh1 Kf4 11. Kc3 Kf3 12. Kxb2 Kg2 13. Be4+) 4. Nf8 (4. Nf4 $2 b1=Q 5. e5+ Kxe5 6. Bxb1 Kxf4) Ke5 5. Ng6+ Kf6 6. Nh4 Ke5 7. Nf3+ Kf4 8. Nd2 1-0
+
+[Event "2.c Postsjakk"]
+[Source "EG#07357."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Vandecasteele, Ignace Marie Joseph Thérès"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2P5/1p6/6K1/7P/2bb2k1/8 w - - 0 1"]
+
+1. c7 $1 Bd1+ 2. Kh4 (2. Kf5 $2 Kxh3 3. c8=Q Bg4+) Bb4 (Bc3 3. Kg5 Bd2+ 4. Kg6) 3. Kg5 Bd2+ (Be7+ {<main>} 4. Kh6 (4. Kg6 $2 Bc2+ 5. Kf7 Bf5 6. Kxe7 Bxh3) Bf8+ 5. Kg6 Bc2+ 6. Kf6 Bg7+ $1 (Be7+ 7. Ke6 Bb3+ 8. Kxe7) 7. Ke6 $1 (7. Kxg7 $2 Bf5 8. h4 b4 9. h5 b3 10. h6 b2 11. h7 b1=Q 12. h8=Q Qb2+) Bb3+ 8. Kf5 Bc2+ 9. Kg4 Bd1+ 10. Kg5) 4. Kg6 (4. Kf6 $2 Bc3+ 5. Kf7 Bb3+ 6. Ke7 Bb4+ 7. Kf6 (7. Kd8 Ba5) Bc3+ 8. Kf5 Bc2+ 9. Kg4) Bc2+ 5. Kf6 Bc3+ 6. Ke6 Bb3+ 7. Kf5 Bc2+ 8. Kg4 Bd1+ 9. Kf4 Bd2+ 10. Ke5 (10. Ke4 $2 Bf3+ 11. Kd3 Bb7 12. Kxd2 Kxh3) Bc3+ 11. Kd6 Bb4+ 12. Kc6 Bf3+ 13. Kb6 Ba5+ (Bc5+ 14. Ka6 b4 15. c8=Q) (Kxh3 14. c8=Q+) 14. Kxa5 Bb7 15. h4 b4 16. Kxb4 1-0

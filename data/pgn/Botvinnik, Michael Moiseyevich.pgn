@@ -1,0 +1,13 @@
+[Event "4.p Shakhmaty v SSSR#117"]
+[Source "Shakhmaty v SSSR/10"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Botvinnik, Michael Moiseyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1k6/p7/p2p2K1/P2P4/8/8/8 w - - 0 1"]
+
+1. Kf5 $1 (1. Kf6 $2 Kb6 $1) (1. Kg6 $2 Kc6 $1) Kb6 (Kc6 2. Ke6) (Kc7 2. Ke5) 2. Kf6 $1 Kb7 3. Kf7 $1 Kb8 (Kb6 4. Ke8 Kc6 5. Kd8 Kd6 6. Kc8) 4. Ke6 Kc7 (Kc8 5. Kd6) 5. Ke7 $1 Kc6 6. Kd8 Kd6 7. Kc8 Kc6 (Ke6 8. Kb7 Kf5 9. Kc6 Ke4 10. Kc5) 8. Kb8 Kb6 9. Ka8 $1 1-0

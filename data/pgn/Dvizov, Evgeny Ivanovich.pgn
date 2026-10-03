@@ -1,0 +1,326 @@
+[Event "Szachy#720"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "Dvizov, E"]
+[Black " Afanasiev, G."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1N6/8/1K6/ppR5/1k6/8/PP2q3/8 w - - 0 1"]
+
+1. Na6+ $1 Ka4 2. Rc4+ Qxc4 (bxc4 3. Nc5+ Kb4 4. a3#) 3. Nc5+ Qxc5+ 4. Kxc5 b4 5. Kc4 b3 6. axb3# 1-0
+
+[Event "Szachy#924"]
+[Source "EG#07017.5/6.p Belarussia champ 1972-1976."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/Pp5P/P2pPp1p/3PkP2/2P1p3/4K3 w - - 0 1"]
+
+1. h6 $1 bxa4 2. a6 $1 (2. h7 $2 a3 $1 3. h8=Q a2 $1) h3 $1 3. h7 $1 a3 4. a7 $1 (4. h8=Q $2 a2 $1) h2 5. h8=R $1 (5. h8=Q $2 a2 $1 6. a8=Q a1=Q+ 7. Qxa1 h1=Q+ 8. Qxh1) 1-0
+
+[Event "5.hm Peckover JT EG"]
+[Source "EG/7 1977 EG#03031.7.p Belarussia champ 1977-1980."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4r3/6P1/5P2/5p2/6k1/3p4/8/6K1 w - - 0 1"]
+
+1. f7 $1 d2 2. g8=Q+ $1 (2. g8=R+ $2 Kf4 3. fxe8=Q d1=Q+ 4. Kh2 Qe2+ $1 5. Kh1 Qf1+ 6. Kh2 Qe2+ $1 7. Qxe2) Kf4 3. fxe8=Q $1 (3. fxe8=R $2 d1=Q+ 4. Kh2 Qh5+ 5. Kg1 Qd1+ 6. Kf2 Qe2+ $1 7. Kxe2 (7. Rxe2)) d1=Q+ 4. Kh2 (4. Kf2 $2 Qe2+ $1 5. Kg1 Qg2+ 6. Kxg2) Qe2+ $1 5. Qg2 $1 (5. Kh1 $2 Qg2+ 6. Kxg2 (6. Qxg2)) (5. Qxe2 $2) Qxe8 6. Qg3+ Ke4 7. Qe1+ 1-0
+
+[Event "2.p Fizkulturnik Belorussii"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1Q6/1P6/8/8/3q4/5K2/3p4/7k w - - 0 1"]
+
+1. Qh2+ $1 Kxh2 2. b8=Q+ Kh1 $1 3. Qa8 $1 (3. Qb7 $2 Kg1 $1) d1=Q+ 4. Kg3+ Qd5 5. Qh8+ Q1h5 6. Qa1+ Qdd1 7. Qa8+ 1/2-1/2
+
+[Event "12.p USSR team champ X (tt)"]
+[Source "EG#04151. USSR team champ X 1977-1978."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1N6/8/3Pk2p/5N1P/3pP1P1/3P2P1/pKP3pp/8 w - - 0 1"]
+
+1. d7 $1 a1=Q+ 2. Kxa1 h1=Q+ 3. Kb2 g1=Q 4. d8=N+ Kf6 5. Nd7+ Kg5 6. Ne6+ Kxg4 7. Ne5+ Kh3 8. Nf4+ Kh2 9. Ng4# 1-0
+
+[Event "Sovyetskaya Belorussia"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/2p3kP/1p3pP1/3N2p1/8/8/1pp5/8 w - - 0 1"]
+
+1. Ke8 $1 b1=Q 2. h8=Q+ Kxh8 (Kxg6 3. Ne7#) 3. Kf7 c1=Q 4. g7+ Kh7 5. Nxf6+ Kh6 6. g8=N# 1-0
+
+[Event "Znamja Yunosti (Minsk)"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4p2n/8/4R2K/8/3p4/7k w - - 0 1"]
+
+1. Kh3 $1 Nf5 (d1=Q 2. Re1+ Qxe1) 2. Re2 d1=R $1 (d1=Q 3. Rh2+ Kg1 4. Rh1+ Kxh1) 3. Rxe6 Rg1 $1 4. Rg6 $1 Rxg6 1/2-1/2
+
+[Event ".c Belarussia champ"]
+[Source "EG#04962.14.p Belarussia champ 1977-1980."]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1n6/PPQ5/8/8/3q4/5K2/3p3p/7k w - - 0 1"]
+
+1. Qxh2+ $1 Kxh2 2. axb8=Q+ Kh1 3. Qh2+ Kxh2 4. b8=Q+ Kh1 5. Qa8 d1=Q+ 6. Kg3+ Qd5 7. Qh8+ Q1h5 8. Qa1+ 1/2-1/2
+
+[Event ".c Problem#382"]
+[Source "Problem/12 1980 EG#11589."]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4r3/8/5K1n/8/4k3/6R1/8/2n5 w - - 0 1"]
+
+1. Rg6 $1 Nf5 2. Rg4+ Kf3 3. Rc4 Rf8+ 4. Kg5 (4. Ke5 $2 Nd3+) Nd3 5. Rf4+ Nxf4 1/2-1/2
+
+[Event "Zvezda (Zvyazda)"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/2Np4/8/7p/pp6/1Bk1K1N1 w - - 0 1"]
+
+1. Ne2+ $1 Kxb1 2. Kd2 $1 d4 (a1=Q 3. Nc3#) (h2 3. Nc3+ Ka1 4. Nb3#) (Ka1 3. Nb3+ Kb1 4. Nc3#) 3. Na4 $1 a1=Q (Ka1 {<main>} 4. Nxd4 b1=Q 5. Nc2+ Qxc2+ 6. Kxc2 h2 7. Nc5 $1 h1=Q 8. Nb3#) 4. Nec3+ (4. Nac3+ {<or>} dxc3+ 5. Nxc3#) dxc3+ 5. Nxc3# 1-0
+
+[Event "sp.c Shakhmaty i Shaskki v BSSR"]
+[Source "Shakhmaty i Shaskki v BSSR/9-10 1983 EG#05944."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "R7/P7/8/8/2P1K3/8/8/2q4k w - - 0 1"]
+
+1. Rh8+ $1 Kg1 2. Rh1+ $1 Kxh1 3. a8=Q Qxc4+ 4. Kf3 $1 1-0
+
+[Event "Shakhmaty i Shaskki v BSSR#177"]
+[Source "Shakhmaty i Shaskki v BSSR/5-6"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/8/P2PpP2/1K6/6B1/1P1p4/3P1p1p/8 w - - 0 1"]
+
+1. f7 $1 f1=Q (f1=R 2. a7 h1=B 3. Bf3 $1 Bxf3 (Rxf3 4. a8=Q+) 4. f8=Q+) 2. a7 h1=Q 3. Bf3 $1 Qhxf3 (Qfxf3 { <main>} 4. a8=Q+ Qxa8 5. f8=Q+ Kd7 6. Qe7+ Kc8 7. Qc7#) 4. f8=Q+ Qxf8 5. a8=Q+ Kd7 6. Qc6+ Kd8 7. Qc7+ Ke8 8. d7+ Ke7 9. d8=Q# 1-0
+
+[Event "Belarussia champ"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/2k5/3p4/8/5pp1/B6p/6BK w - - 0 1"]
+
+1. Bxh2 $1 f2 2. Bxd5+ $1 Kxd5 3. Bg1 $1 f1=Q (f1=R 4. Kg2 Rb1 5. Be3 Ke4 6. Bc5) 1/2-1/2
+
+[Event "Zvezda (Zvyazda)"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "R7/8/8/8/3b4/2p5/p2k4/K7 w - - 0 1"]
+
+1. Rd8 $1 (1. Rc8 $2 c2+ 2. Kxa2 Bc3 3. Rd8+ Ke2 4. Re8+ Kf2 5. Rf8+ Kg2 6. Rg8+ Kh2 7. Rh8+ Bxh8) c2+ $1 2. Rxd4+ Kc3 3. Kxa2 Kxd4 (c1=Q {<main> } 4. Rc4+ Kxc4) 4. Kb2 Kd3 5. Kc1 Kc3 1/2-1/2
+
+[Event "Fizkulturnik Belorussii"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4N1p1/8/8/8/2p3K1/8/7k w - - 0 1"]
+
+1. Nf5 $1 c2 2. Kh3 $1 c1=Q (Kg1 {<main>} 3. Nd4 $1 c1=Q 4. Ne2+ Kf2 5. Nxc1) 3. Ng3+ Kg1 4. Ne2+ Kf2 5. Nxc1 1/2-1/2
+
+[Event "Zvezda (Zvyazda) (v)"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7N/6N1/4ppP1/6pp/7k/p7/6K1/8 w - - 0 1"]
+
+1. Nf5+ $1 exf5 (Kg4 2. Ne3+ Kf4 3. Nc2) 2. g7 a2 3. Ng6+ $1 (3. g8=Q $2 a1=Q 4. Ng6+ Kg4 5. Qc4+ f4 6. Qe2+ Kf5 7. Qd3+ Ke6) Kg4 4. g8=N $1 a1=Q (f4 {<main>} 5. Nh6#) (h4 {<main>} 5. Nxf6#) 5. Nh6# 1-0
+
+[Event "Zvezda (Zvyazda)"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/8/6P1/6q1/R7/8/8/5n1K w - - 0 1"]
+
+1. g7+ $1 Qxg7 (Kg8 {<main>} 2. Ra8+ Kxg7 3. Rg8+ Kxg8) (Kh7 2. g8=Q+ Qxg8 3. Rh4+ Kg6 4. Rg4+) 2. Rh4+ Kg8 3. Rg4 $1 Ng3+ (Qxg4) 4. Rxg3 $1 Qxg3 1/2-1/2
+
+[Event "sp.c Chavchavadze MT"]
+[Source "EG#07790."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[Composer2 "Frigin, Valery Fyodorovich"]
+[White "Dvizov, E"]
+[Black " Frigin, V."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5R2/4k3/8/2K4p/8/4p1b1/8/8 w - - 0 1"]
+
+1. Rf3 $1 Bf2 2. Rxe3+ $1 (2. Kd5 $2 e2 3. Rf4 e1=Q 4. Re4+ Kf6 5. Rxe1 Bxe1 6. Ke4 h4 7. Kf3 h3) Bxe3+ 3. Kd5 h4 4. Ke4 h3 5. Kf3 Bf4 $1 6. Kf2 Bh2 7. Kf3 Bb8 8. Kf2 Bh2 9. Kf3 1/2-1/2
+
+[Event "EG (tw)"]
+[Source "EG/11 EG#06600b."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/8/7K/6PP/1p6/8/8/8 w - - 0 1"]
+
+1. Kg6 $1 (1. g6 $2 b3 2. g7+ Kg8 3. Kg6 b2 4. h6 b1=Q+) b3 (Kg8 2. h6 b3 3. h7+ Kh8 4. Kh6 (4. Kf7 $2 b2 5. g6 b1=Q 6. g7+ Kxh7 7. g8=Q+ Kh6) b2 5. g6 b1=Q 6. g7#) 2. Kf7 b2 3. g6 b1=Q 4. g7+ Kh7 5. g8=Q+ Kh6 6. Qg6+ Qxg6+ 7. hxg6 1-0
+
+[Event "EG (tw)"]
+[Source "EG/11 EG#06600c."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/8/7K/6PP/5p2/8/8/8 w - - 0 1"]
+
+1. g6 $1 (1. Kg6 $2 f3 (Kg8 $2 2. h6 f3 3. h7+ Kh8 4. Kh6 (4. Kf7 $2 f2 5. g6 f1=Q+) f2 5. g6 f1=Q 6. g7#) 2. Kf7 f2 3. g6 f1=Q+) f3 2. g7+ Kg8 3. Kg6 f2 4. h6 f1=Q 5. h7# 1-0
+
+[Event "EG (tw)"]
+[Source "EG/11 EG#06600a."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/8/7K/6PP/p7/8/8/8 w - - 0 1"]
+
+1. g6 $1 (1. Kg6 $2 a3 2. Kf7 a2 3. g6 a1=Q) a3 2. g7+ Kg8 3. Kg6 a2 4. h6 a1=Q 5. h7# 1-0
+
+[Event "EG (tw)"]
+[Source "EG/11 EG#06600e."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/8/7K/6PP/1pp5/8/8/8 w - - 0 1"]
+
+1. Kg6 $1 (1. g6 $2 b3) b3 (Kg8 2. h6 b3 3. h7+ Kh8 4. Kh6 b2 5. g6 b1=Q 6. g7#) 2. Kf7 b2 3. g6 b1=Q 4. g7+ Kh7 5. g8=Q+ Kh6 6. Qg6+ Qxg6+ 7. hxg6 c3 8. g7 c2 9. g8=Q c1=Q 10. Qg6# 1-0
+
+[Event "EG (tw)"]
+[Source "EG/11 EG#06600d."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/8/7K/6PP/7p/8/8/8 w - - 0 1"]
+
+1. Kg6 $1 (1. g6 $2 h3 2. g7+ Kg8 3. Kg6 h2 4. h6 h1=Q) Kg8 (h3 2. Kf7 h2 3. g6 h1=Q 4. g7+ Kh7 5. g8=Q+ Kh6 6. Qg6#) 2. h6 h3 3. h7+ Kh8 4. Kf7 (4. Kh6 $2 h2) h2 5. g6 h1=Q 6. g7+ Kxh7 7. g8=Q+ Kh6 8. Qg6# 1-0
+
+[Event "Mugnos MT Ajedrez de Estilo#72 (tw)"]
+[Source "Ajedrez de Estilo/11"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Dvizov, Evgeny Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5K1k/8/4p1P1/8/8/8 w - - 0 1"]
+
+1. g5+ $1 Kh5 (Kh7 2. Kf7) 2. g6 e3 3. g7 e2 4. g8=Q e1=Q 5. Qg5# 1-0

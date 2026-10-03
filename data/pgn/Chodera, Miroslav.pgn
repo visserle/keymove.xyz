@@ -1,0 +1,40 @@
+[Event "4.hm Ceskoslovensky Sach#75"]
+[Source "Ceskoslovensky Sach/10-11"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Chodera, Miroslav"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7r/P1b1Np1P/1pP2p2/1Pp1kP2/3pPp1K/3p1Pp1/3P4/8 w - - 0 1"]
+
+1. a8=Q $1 Rxa8 (Rxh7+ 2. Kg4 g2 3. Ng6+ $1 fxg6 4. Qe8+) 2. Ng8 Ra1 3. Nh6 Rh1+ 4. Kg4 Rxh6 5. h8=Q Rxh8 1/2-1/2
+
+[Event "Ceskoslovensky Sach#94"]
+[Source "Ceskoslovensky Sach/12"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Chodera, Miroslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2PpR3/2rk1p2/2p1pP2/ppKP1P2/8/3P4/8 w - - 0 1"]
+
+1. d5 $1 (1. fxe5+ $2 Kxc7 $1 2. d5 b3 $1) Rxc7 2. fxe5+ Kxe7 (fxe5 3. Re8) 3. d6+ Kd8 4. exf6 $1 1-0
+
+[Event "Gros#066"]
+[Date "1938.01.15"]
+[Round "?"]
+[Composer "Chodera, Miroslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/2P2pp1/4P1k1/3B2p1/1P1r1P2/7K/8 w - - 0 1"]
+
+1. e6 $1 bxc6 2. e7 Rd2+ 3. Kg3 Re2 4. Be5 $1 Rxe5 (fxe5 5. e8=Q) 5. f4+ 1-0

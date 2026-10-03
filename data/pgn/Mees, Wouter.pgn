@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[Composer "Mees, Wouter"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/P2N2p1/8/8/1PK2k2/8/n3p2P/8 w - - 0 1"]
+
+1. Ne5 (1. Nc5 $2 Nxb4 2. a8=Q $14 $10) (1. a8=Q $6 e1=Q 2. Qf8+ $14 $16) Nxb4 (Kxe5 2. a8=Q (2. h3 e1=Q) (2. Kd3 e1=Q) e1=Q 3. Qe8+ $1 $18 (3. Qb8+ $2 Kf5 4. Qc8+ Kg5) (3. Qd5+ $2 Kf6 4. Kb3 Nxb4 5. Qc5) (3. Qc8 Qc3+ 4. Kb5 Qxc8) (3. Kc5 Qxb4+ 4. Kc6 Qe4+) (3. Qxa2 Qf1+ 4. Kc5) (3. Kb3 Qb1+ 4. Ka3 Qxb4+ 5. Kxa2) (3. Qa5+ Kf6 4. Qd8+)) 2. Nf3 (2. Nd3+ $2 Nxd3 3. a8=Q $10 Nb2+ 4. Kd4) (2. a8=Q $2 e1=Q 3. Qf8+ $10) (2. Ng6+ Kg5 3. Ne5 $18) Nd5 3. Ne1 (3. Kxd5 $2 Kxf3 4. a8=Q $10) (3. a8=Q $2 Nb6+ 4. Kd3 $10) (3. Kd3 $2 Kxf3 4. a8=Q $10) (3. Nd2 $4 e1=Q $19 4. Kxd5 Qxd2+ 5. Kc6 Qxh2) (3. Nd4 $4 e1=Q 4. Kxd5 Qa5+ $19) (3. Nh4 $4 Ne3+ 4. Kd3 e1=Q 5. Ng6+ Kg5) (3. Kc5 $2 Kxf3 4. a8=Q) (3. h3 Kxf3 4. a8=Q) Nc7 4. Kc5 (4. Kd3 $6 Ke5 5. Kxe2 $10) (4. Nd3+ $6 Ke4 5. h3) (4. Kd4 $2 Nb5+ 5. Kd3 $10) (4. Nc2 $6 Ke4 5. h4) (4. h3 $2 Ke5 5. h4) (4. h4 $2 Ke5 5. Kc5) (4. Ng2+ Ke5 5. Kd3) Ke5 5. Kc6 (5. Nd3+ $6 Ke4 6. Ne1 $18) (5. Kb6 $2 Kd6 6. Nc2) (5. Nc2 g6 6. Kc6) (5. Nf3+ $6 Ke4 6. Ne1) (5. h4 $2 Ke6 6. Kc6) (5. h3 $2 Ke6 6. Kc6) Na8 6. Nc2 $3 (6. Kb7 $2 Kd6 7. Kxa8 Kc7 $10) g5 7. h3 (7. Kb7 $2 Kd6 8. Ne1 $10) (7. Ne1 $6 Ke6 8. Ng2) (7. Nb4 $6 Kf6 8. Nd3) (7. Na3 $4 e1=Q 8. Nc4+ Kd4) (7. Kc5 $6 Ke4 $2 (Kf6 $5 8. Kd4) 8. Kc6 Ke5) (7. Kd7 Kd5 8. Ne3+) Ke6 8. Nd4+ $18 (8. Kb7 $2 Kd6 9. Ne1 $10) (8. Ne1 $6 Ke7 9. Kd5 $14 $10) (8. Kb5 $2 Kd5 9. Ne1) (8. h4 $2 gxh4 9. Nd4+) (8. Kc5 $6 Kd7 9. Kc4) (8. Nb4 e1=Q) 1-0

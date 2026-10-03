@@ -1,0 +1,14 @@
+[Event "td25#2977"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[Composer "Astoin, Eric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1r4N1/8/1p1N1Rp1/7b/k7/2p3p1/KPp3Pq/8 w - - 0 1"]
+[PlyCount "22"]
+
+1. Rf4+ Ka5 2. b4+ Ka6 3. b5+ Ka5 (Ka7 $143 4. Ra4#) 4. Kb3 c1=N+ 5. Ka3 Bd1 6. Rb4 Bb3 7. Ne7 Qxg2 8. Nc4+ (8. Nc6+ $143 Qxc6 9. Nc4+ Qxc4 $19) Bxc4 9. Nc6+ Qxc6 10. Ra4+ Kxb5 11. Ra5+ bxa5 $11 (Kxa5 $144 $11) 1/2-1/2

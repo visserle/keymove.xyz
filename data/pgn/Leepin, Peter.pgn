@@ -1,0 +1,81 @@
+[Event "Schweizerische Schachzeitung"]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Leepin, Peter"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/2p3P1/5P2/p2p4/pp4P1/4K3/1PP5/8 w - - 0 1"]
+
+1. Kf4 $1 a3 2. Kg5 Kf7 (Kh7 3. Kf5 $1 axb2 4. Ke6 Kg8 5. f7+ Kxg7 6. Ke7 b1=Q 7. f8=Q+ Kh7 8. Qf5+ Kh6 9. Kf7) 3. bxa3 bxa3 4. Kh6 a2 5. Kh7 a1=Q 6. g8=Q+ Kxf6 7. Qg7+ (7. Qh8+ {<or>}) 1-0
+
+[Event "Schweizerische Schachzeitung#720"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Leepin, Peter"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/2n2K2/1p4P1/pPP5/P3n3/6p1/6P1/8 w - - 0 1"]
+
+1. g7 $1 Nf6 2. Kxf6 Ne8+ 3. Ke5 $1 Nxg7 4. cxb6 Kb7 5. Kf6 Nh5+ 6. Kg5 Ng7 7. Kf6 Ne8+ 8. Ke7 Ng7 9. Kf6 1/2-1/2
+
+[Event "Schweizerische Schachzeitung#773"]
+[Source "Schweizerische Schachzeitung/12"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Leepin, Peter"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5K2/1p6/p1p1k3/P7/1PP5/8/8/8 w - - 0 1"]
+
+1. Ke8 $1 (1. c5 $2 Kd5) Kd6 2. Kd8 (2. c5+ $2 Kd5 3. Kd7 Kc4 4. Kc7 Kxb4 5. Kxb7 Kb5) c5 3. b5 axb5 4. cxb5 c4 5. b6 $1 Kc6 6. Kc8 $1 Kb5 7. Kxb7 c3 8. Ka7 (8. Ka8 {<or>}) (8. a6 $2 c2 9. a7 c1=Q 10. a8=Q Qc6+ 11. Kb8 Qd6+ 12. Kc8 Qf8+ 13. Kb7 Qe7+ 14. Kc8 Qe8+ 15. Kb7 Qd7+ 16. Kb8 Kxb6 $1) 1/2-1/2
+
+[Event "Schweizerische Schachzeitung#845"]
+[Source "Schweizerische Schachzeitung/6"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Leepin, Peter"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6N1/6p1/4k1K1/1P6/8/2p5/8/8 w - - 0 1"]
+
+1. b6 $1 Kd7 2. Ne7 $1 (2. b7 $2 Kc7 3. Ne7 Kxb7 $1) c2 3. b7 Kc7 (c1=Q 4. b8=Q Qh6+ 5. Kf7 Qf6+ 6. Kg8) 4. Nc6 $1 Kxb7 5. Na5+ Ka6 6. Nb3 1/2-1/2
+
+[Event "Schweizerische Schachzeitung#860"]
+[Source "Schweizerische Schachzeitung/2"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Leepin, Peter"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2N5/4K3/6pk/8/6P1/3p4/8/8 w - - 0 1"]
+
+1. Nd6 $1 d2 (Kg5 {<main>} 2. Nc4 Kxg4 3. Kf6 g5 4. Ke5 Kf3 5. Kd4 Ke2 6. Ke4) 2. Kf8 $1 d1=Q (g5 {<main>} 3. Nf5+ Kg6 4. Ne3 Kf6 5. Kg8 Ke5 6. Nc4+ Kf4 7. Nxd2) 3. Nf7+ Kh7 4. Ng5+ Kh8 5. Nf7+ Kh7 6. Ng5+ 1/2-1/2
+
+[Event "Schweizerische Schachzeitung#870"]
+[Source "Schweizerische Schachzeitung/6"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Leepin, Peter"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4PK2/p1p4k/Pp6/1B6/6p1/2p2pP1/8 w - - 0 1"]
+
+1. Bd2+ $1 (1. e8=Q $2 f1=Q+ 2. Kg8 Qc4+ 3. Kf8 Qxb4+) Kh7 2. e8=N $1 (2. e8=Q $2 f1=Q+ 3. Ke7 Qe2+ 4. Kf7 Qxe8+ 5. Kxe8 b4 6. Kd7 b3 7. Bc1 c5) f1=Q+ 3. Nf6+ Kh8 4. Bh6 Qc4+ 5. Kg6 (5. Kf8 $2 Qc5+ 6. Kf7 Qa7+) Qd3+ 6. Kf7 1/2-1/2

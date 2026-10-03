@@ -1,0 +1,26 @@
+[Event "Eskilstuna Kuriren"]
+[Date "1945.??.??"]
+[Round "?"]
+[Composer "Haggquist, Bjorn"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7n/4p3/7p/3P4/P7/K3k3/6P1/8 w - - 0 1"]
+
+1. d6 $1 (1. a5 $2 Nf7 2. a6 Nd6) exd6 2. a5 Nf7 3. a6 Ne5 4. a7 Nc4+ 5. Kb4 Nb6 6. Kb5 Na8 7. Kc6 $1 d5 8. Kxd5 Kf4 9. g4 $1 (9. Kc6 $2 Ke5 10. Kb7 Kd6) Kxg4 10. Kc6 h5 11. Kb7 h4 12. Kxa8 h3 13. Kb8 $1 Kg3 14. a8=Q 1-0
+
+[Event "Tidskrift for Schack#0928"]
+[Source "Tidskrift for Schack/10"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Haggquist, Bjorn"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/B1p5/8/k1P5/8/2K5/8/8 w - - 0 1"]
+
+1. Kc4 $1 (1. Bb6+ $2 Kb5 2. Ba7 Ka6 3. Bb6 cxb6) Ka6 2. Bb6 $1 cxb6 3. c6 Ka7 4. Kb5 Ka8 $1 5. Ka6 $1 1-0

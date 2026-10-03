@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Somov-Nasimovich, Evgenij"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Draws by perpetual check or by repetition"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "7R/qp6/kp6/8/1KP4p/8/8/8 w - - 0 1"]
+
+1. Re8 (1. c5 $2 bxc5+ 2. Ka3 c4 $19) (1. Rh5 $2 Qb8 2. Rxh4 Qf8+ $19) (1. Ka4 $2 b5+ 2. cxb5+ Kb6+ $19) b5 2. c5 (2. Re6+ $2 Qb6 3. cxb5+ Ka7 $19) (2. cxb5+ $2 Kb6 3. Re6+ Kc7 $19) (2. Re1 $2 Qd4 $19 3. Re6+ b6) (2. Ra8 $2 Qxa8 $19 3. cxb5+ Kb6) (2. Re5 $2 Qd4 3. Rxb5 b6) (2. Re7 $2 Qd4 3. Re6+ b6) b6 3. c6 (3. cxb6 $2 Qxb6 4. Ra8+ Kb7 $19) (3. Re6 $2 Qc7 4. Rxb6+ Qxb6 5. cxb6 h3) (3. Ra8 $2 bxc5+ 4. Ka3 Qxa8 $19) (3. Re1 $2 bxc5+ 4. Kb3 Qf7+) (3. Re7 $2 bxc5+ 4. Kc3 Qxe7) (3. Re4 $2 Qh7 4. Re6 Qb1+) (3. Re3 $2 bxc5+ 4. Kb3 Qf7+) (3. Rc8 $2 Kb7) (3. Rh8 bxc5+ 4. Ka3 Kb6+) (3. Re2 bxc5+ 4. Kc3 b4+) Qh7 4. Ra8+ (4. Re1 $2 Qg7 $19) (4. Re3 $2 Qb1+ 5. Kc3 Qc1+) (4. c7 $2 Qxc7 5. Ra8+ Kb7) (4. Rb8 $2 Qe4+ 5. Kb3 Qxc6) (4. Re5 $2 Qc2 5. Rxb5 Qb2+) (4. Re4 $2 Qxe4+ 5. Kb3 Qxc6) (4. Rc8 $2 Qe4+ 5. Kc3 b4+) (4. Rd8 $2 Qe7+ 5. Kb3 Qe6+) Qa7 5. Re8 $10 (5. Rxa7+ $2 Kxa7 6. Kxb5 h3) (5. Rh8 $2 Qe7+ 6. Kb3 Qe3+ $19) (5. Rd8 $2 Qe7+ 6. Kb3 Qxd8 $19) (5. c7 $2 Qxa8 6. c8=Q+ Qxc8 $19) (5. Rc8 $2 Qe7+ 6. Kc3 b4+) (5. Rf8 $2 Qe7+ 6. Kb3 Qxf8) (5. Rg8 $2 Qe7+ 6. Kc3 Qc5+) 1/2-1/2

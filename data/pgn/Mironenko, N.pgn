@@ -1,0 +1,55 @@
+[Event "Buletin Problemistic#094"]
+[Source "Buletin Problemistic/4-6"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Mironenko, N"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/1p3p1R/1R5p/PPPP1p2/K7/1p6/2q1p3/8 w - - 0 1"]
+
+1. Rh8+ $1 Ka7 2. Ra6+ $1 bxa6 3. b6+ Kb7 4. c6+ Qxc6+ 5. dxc6+ Kxc6 6. b7 $1 (6. Re8 $2 b2 7. b7 b1=Q 8. b8=Q Qxb8) (6. Rxh6+ $2 Kb7 7. Rh1 f4) (6. Rc8+ $2 Kb7 7. Rc1 f4) Kxb7 7. Re8 b2 8. Rxe2 b1=R $1 (b1=Q 9. Rb2+ Qxb2) 9. Re7+ Kc8 (Kc6 10. Ra7 h5 11. Rxa6+ Kc5 12. Rh6 Rh1 13. Rf6 Rf1 14. Rh6) 10. Rxf7 Rf1 11. Kb4 f4 12. Kc5 f3 13. Kd6 f2 14. Rf8+ Kb7 15. Rf7+ Kc8 16. Rf8+ 1/2-1/2
+
+[Event "Buletin Problemistic#192"]
+[Source "Buletin Problemistic/1-6"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Mironenko, N"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/2p5/1q6/1P2p3/1p1k4/8/2KNR3 w - - 0 1"]
+
+1. Re3+ $1 (1. Rxe4 $2 Qg5+ 2. Re3+ Kc4 3. Kd2 Kxb4) (1. Nf2+ $2 Kc3 2. Rxe4 Qg5+ 3. Kb1 Qg1+) Kd4 2. Rxe4+ (2. Rxb3 $2 Qc4+ 3. Kb2 Qe2+ 4. Kc1 Qa2 $1 5. Rb2 (5. Rc3 Qa1+ 6. Kd2 Qxd1+ 7. Kxd1 Kxc3) (5. Rh3 Qc4+ 6. Kd2 Qxb4+) Qc4+ 6. Kd2 e3+ 7. Ke1 Kd3) Kxe4 (Kd3 3. Nf2+ Kc3 4. Nd1+ Kd3 5. Nf2+) 3. Nc3+ Kd3 4. Nxb5 cxb5 5. Kb2 Kc4 6. Ka3 b2 (Kc3) 7. Ka2 Kc3 8. Kb1 Kb3 1/2-1/2
+
+[Event "2.hm Buletin Problemistic#216"]
+[Source "Buletin Problemistic/1-6 EG#06715. also Ladja 2005."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Mironenko, N"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6B1/1pR5/8/4p3/2P4k/4p3/K7 w - - 0 1"]
+
+1. Rh6+ $1 Kg2 2. Rg6+ Kf2 $1 3. Rxb6 $1 e1=Q+ 4. Rb1 $1 Qd2 $1 5. Rb2 e3 $1 6. Bh6 (6. Bd4 $2 Kf3 $1) Ke1 7. Rxd2 Kxd2 8. Kb2 $1 1-0
+
+[Event ".c Magyar Sakkélet#1640"]
+[Source "Magyar Sakkélet/7 EG#06164. also Ladja 2005."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Mironenko, N"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/P4p2/P4K1p/6pN/6P1/6P1/7p/3b2kr w - - 0 1"]
+
+1. a8=B $1 (1. a8=Q $2 Bf3 2. Qxf3) Kf2 2. Bxh1 Bf3 3. Bxf3 Kxf3 4. a7 h1=Q 5. a8=B+ $1 (5. a8=Q+ $2 Kxg4 6. Qxh1) Kxg4 6. Bxh1 Kxh5 7. Kf5 (7. Bf3+ $2 g4 $1) f6 {<eg>} 8. Bf3+ 1-0

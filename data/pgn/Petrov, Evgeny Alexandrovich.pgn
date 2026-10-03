@@ -1,0 +1,27 @@
+[Event "Problemas {SEPA}"]
+[Source "Problemas (SEPA /1-3"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Petrov, Evgeny Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5N1k/8/8/1p6/3q4/6RK w - - 0 1"]
+
+1. Ng8+ $1 Kh7 2. Nf6+ Kh6 (Kh8 3. Rg8#) 3. Ng8+ Kh5 4. Nf6+ Kh4 5. Rg4+ Kh3 6. Rg3+ Kxg3 7. Ne4+ Kf4 8. Nxd2 b2 9. Kg2 1/2-1/2
+
+[Event "Problemas {SEPA}"]
+[Source "Problemas (SEPA /1-3"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Petrov, Evgeny Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1R4Nq/5p2/8/p1kP3P/P1p1K3/2P5/8/8 w - - 0 1"]
+
+1. Nf6 $1 Qxf6 (Qxb8 2. Nd7+ Kd6 3. Nxb8) (Qg7 2. Rb5+ Kd6 3. Ne8+ Ke7 4. Nxg7) 2. Rb5+ Kd6 3. Rb6+ Ke7 4. Rxf6 Kxf6 5. Kf4 1-0

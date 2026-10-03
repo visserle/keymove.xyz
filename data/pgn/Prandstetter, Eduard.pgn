@@ -1,0 +1,12 @@
+[Event "2.p CSTV (Hodonin)"]
+[Date "1964.02.27"]
+[Round "?"]
+[Composer "Prandstetter, Eduard"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/P6K/4p3/8/8/8/1nP5/8 w - - 0 1"]
+
+1. Kg6 $1 Na4 (Nc4 {<main>} 2. Kf6 e5 3. Kf5 Kxa7 4. Ke4 Kb6 5. Kd5 Kb5 6. c3) 2. Kf6 Nc5 3. Ke5 Kxa7 4. Kd6 (4. c4 $2 Kb7 5. Kd6 Kb6) Kb6 5. c4 1/2-1/2

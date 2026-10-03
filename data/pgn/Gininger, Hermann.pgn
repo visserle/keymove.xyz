@@ -1,0 +1,181 @@
+[Event "Revista de Romana de Sah#0118"]
+[Source "Revista de Romana de Sah/3"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Gininger, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1Q4pk/3p4/3P3B/1K5p/5pn1/1p6/8 w - - 0 1"]
+
+1. Kc4 $1 f2 2. Be2 $1 Nxe2 3. Qxb2 f1=Q 4. Qb1+ Qxb1 1/2-1/2
+
+[Event "Magyar Sakkvilág#221"]
+[Source "Magyar Sakkvilág/10"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Gininger, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1N5b/1p1p4/p2P4/1k1K4/p2p3p/P1PP4/8/8 w - - 0 1"]
+
+1. c4+ $1 Ka5 (Kb6 2. Nxd7+ Ka7 3. Ne5) 2. Nc6+ $1 bxc6+ (dxc6+ 3. Ke6) (Kb6 {<main>} 3. c5+ Kb5 4. Na7+ Ka5 5. Nc6+ bxc6+ 6. Kc4 h3) 3. Kc5 h3 1/2-1/2
+
+[Event "L'Italia Scacchistica#075"]
+[Source "L'Italia Scacchistica/10"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Gininger, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3R4/R1B1q2k/2n3p1/8/1PK5/8/8 w - - 0 1"]
+
+1. Be4 $1 Nxe4+ 2. Kb4 Qxa6 3. Rh7+ Kg6 4. Rh6+ Kxh6 1/2-1/2
+
+[Event "5.c Národní Listy#095"]
+[Source "also .c Revista de Romana de Sah#0005 Revista de Romana de Sah/1 1930."]
+[Date "1929.09.08"]
+[Round "?"]
+[Composer "Gininger, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5n2/2kPp3/3pPPp1/6K1/5n2/8/8/8 w - - 0 1"]
+
+1. fxe7 $1 N8xe6+ (N4xe6+ {<main>} 2. Kh6 Kxd7 3. e8=Q+ Kxe8) 2. Kf6 Kxd7 3. e8=Q+ Kxe8 1/2-1/2
+
+[Event "Revista de Romana de Sah#0194"]
+[Source "Revista de Romana de Sah/1"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Gininger, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6nk/1p1p2pp/1P1P3B/1PpK4/8/8/8/8 w - c6 0 1"]
+
+1. bxc6 $1 Nf6+ 2. Ke5 dxc6 3. Ke6 Ne4 4. d7 Nc5+ 5. Ke7 Nxd7 6. Kxd7 gxh6 7. Kc7 h5 8. Kxb7 h4 9. Ka7 (9. Kxc6 {<or>}) (9. Kc7 { <or>}) (9. Ka6 {<or>}) (9. Ka8 {<or>}) h3 10. b7 h2 11. b8=Q+ Kg7 12. Qxh2 1-0
+
+[Event "Revista de Romana de Sah#0216"]
+[Source "Revista de Romana de Sah/8"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Gininger, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p1p1p1/2pkp1P1/1p6/1PPp2K1/3P1P2/8/8 w - - 0 1"]
+
+1. c5+ $1 (1. Kf4 $2 bxc4 2. dxc4 e5+ 3. Ke4 Ke6 4. f4 exf4 5. Kxf4 Kf6 6. Ke4 e5 7. c5 Kxg6) Ke5 (Kd5 2. Kf4) (Kd7 2. Kf4) 2. Kg5 Kd5 3. Kf4 e5+ 4. Kf5 e6+ 5. Kg4 $1 (5. Kg5 $2 e4 6. fxe4+ Ke5 7. Kg4 Kf6 8. Kh5 e5) e4 6. fxe4+ Ke5 7. Kg5 1/2-1/2
+
+[Event "Revista de Romana de Sah#0217"]
+[Source "Revista de Romana de Sah/11"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Gininger, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5p1p/5P1k/5R1P/5P1p/4PB1P/K4B1R w - - 0 1"]
+
+1. Bg2 $1 hxg2 2. Bg1 $1 (2. Rg4 $2 gxh1=Q+ 3. Kb2 Qb1+ 4. Kxb1) (2. Rg1 $2) gxh1=Q 3. Rg4 Qxf3 $1 4. Rg5+ (4. exf3 $2) hxg5 5. exf3 1-0
+
+[Event "Ceskoslovensky Sach#364"]
+[Source "Ceskoslovensky Sach/4"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Gininger, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6Bk/6n1/5p1K/4n3/8/1R6/b7/8 w - - 0 1"]
+
+1. Rb8 $1 (1. Rb7 $2 Kxg8) Nf5+ (Bxg8 {<main> } 2. Rxg8+ Kxg8) 2. Kh5 Ng3+ (Bxg8 {<main>} 3. Rxg8+ Kxg8) 3. Kh6 Ng4+ (Bxg8 {<main>} 4. Rxg8+ Kxg8) 4. Kg6 Bxg8 5. Rxg8+ Kxg8 1/2-1/2
+
+[Event "Ceskoslovensky Sach#392"]
+[Source "Ceskoslovensky Sach/11-12"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Gininger, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2k5/8/p5pP/8/1p6/1p4P1/1K4b1 w - - 0 1"]
+
+1. h6 $1 Bd4 2. h7 a4 (Kd6 {<main>} 3. g4 $1 (3. h8=Q $2 Bxh8 4. g4 Ke5) a4 4. h8=Q Bxh8) 3. h8=Q (3. g4 $2 a3) Bxh8 4. g4 Kc6 1/2-1/2
+
+[Event "Ceskoslovensky Sach#493"]
+[Source "Ceskoslovensky Sach/3"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Gininger, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k1n2/3Pp3/2PpPPp1/6K1/5n2/8/8/8 w - - 0 1"]
+
+1. c7+ $1 Kxc7 2. fxe7 N4xe6+ (N8xe6+ {<main>} 3. Kf6 $1 Kxd7 4. e8=Q+ Kxe8) 3. Kh6 $1 (3. Kf6 $2 Nh7+ 4. Kxe6 Ng5+ 5. Kf6 Kxd7) Kxd7 4. e8=Q+ Kxe8 1/2-1/2
+
+[Event "Revista de Romana de Sah#0029"]
+[Source "Revista de Romana de Sah/7"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Gininger, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/6P1/3PPpPK/3P3P/4pP2/8/3k4 w - - 0 1"]
+
+1. d6 $1 e2 2. d7 e1=N (e1=Q 3. d8=Q Qe3 4. Qd5) 3. d8=N (3. d8=Q $2 Ng2 4. Qa5 Nf4#) Nd3 4. Ne6 Kd2 5. Nxg7 1-0
+
+[Event "Magyar Sakkvilág#564 (ph)"]
+[Source "Magyar Sakkvilág/7"]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Gininger, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K2/3P1p1p/1PPPpPp1/4P3/6pk/6p1/6P1/8 w - - 0 1"]
+
+1. d8=N $1 (1. d8=Q $2 g5 2. Qa8 h5 3. Qa1) g5 2. Nxf7 h5 3. Nxg5 1-0
+
+[Event "Magyar Sakkvilág#566 (ph)"]
+[Source "Magyar Sakkvilág/7"]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Gininger, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p1p4/pk1P4/1P1K4/p1PP4/P5p1/2P3Pb/8 w - - 0 1"]
+
+1. c5+ $1 Kxb5 2. c4+ Ka5 3. c6 $1 (3. Ke4 $2 Bg1 4. Kd3 Bf2 5. Ke4 Be1 6. Kd3 Bb4 7. axb4+ Kxb4) bxc6+ 4. Kc5 Bg1 1/2-1/2

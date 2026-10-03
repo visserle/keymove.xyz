@@ -1,0 +1,27 @@
+[Event "Magyar Sakkélet#0551"]
+[Source "Magyar Sakkélet/2"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Rajna, Zoltán"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3r2k1/1P3n1p/2p1P3/1B6/2p4p/1b4pP/p4R2/K7 w - - 0 1"]
+
+1. exf7+ $1 (1. Rd2 $2 Rxd2 2. b8=Q+ Nd8) Kf8 2. Rd2 Rb8 3. Bxc4 Bxc4 4. Rd8+ Rxd8 5. b8=Q Rxb8 1/2-1/2
+
+[Event "Magyar Sakkélet#0760"]
+[Source "Magyar Sakkélet/8"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Rajna, Zoltán"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p1b5/P3Pp1p/7k/8/5p1K/2R3p1/8 w - - 0 1"]
+
+1. Rxg2 $1 fxg2 (Bd6 2. Rg7) 2. e7 g1=Q 3. e8=Q+ Qg6 4. Qe2+ Kg5 5. Qg4# 1-0

@@ -1,0 +1,26 @@
+[Event "4.p Hungary-Finland match"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Hurme, Harri Heikki Veikko"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/N5P1/2K2kq1/8/7R/8/7P/8 w - - 0 1"]
+
+1. Rh6 $1 Qxh6 2. g8=N+ Kg5+ 3. Nxh6 Kh4 4. Nb5 Kh3 5. Ng4 Kxg4 6. Nd4 Kh3 7. Nf3 Kg2 8. h4 1-0
+
+[Event "sp.p Suomen Shakki"]
+[Source "Suomen Shakki/11 1982 EG#05457."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Hurme, Harri Heikki Veikko"]
+[White "Hurme, H"]
+[Black " Valtonen, K."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2R2K1n/3p2PP/4P3/3k4/2r5/6q1/8/8 w - - 0 1"]
+
+1. exd7 $1 (1. Rxc4 $2 Qd6+ 2. Ke8 Qxe6+ 3. Kd8 Qf6+) Qd6+ (Ng6+ 2. Kg8 Ne7+ 3. Kh8 Ng6+ 4. Kg8) 2. Kg8 Qxd7 (Ng6 3. d8=Q) 3. Kxh8 Rxc8+ 4. g8=B+ $1 (4. g8=Q+ $2 Ke5 5. Qxc8 Qxc8+ 6. Kg7 Qd7+ 7. Kg6 Qe8+ 8. Kg7 Qe7+ 9. Kg8 Kf5 10. h8=Q Kg6) Qe6 5. Kg7 Rc7+ 6. Kh8 (6. Kf8 $2 Rxh7) Rc8 7. Kg7 Rc7+ 8. Kh8 Rf7 9. Bxf7 Qxf7 1/2-1/2

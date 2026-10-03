@@ -1,0 +1,60 @@
+[Event "Memorial Seneca"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Yarosh, Leonid Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#5"]
+[SetUp "1"]
+[FEN "3R2qB/5P2/1N5B/1K3P2/RPP1pR2/1B1Pn3/Rppkn1p1/bQbrrbrb w - - 0 1"]
+[PlyCount "9"]
+
+1. Rf2 cxb1=Q (cxb1=N 2. fxg8=N Na3+ 3. R4xa3 exd3 4. Nf6 Kc3 5. Ne4#) (cxb1=B 2. fxg8=B Bxd3 3. Bd5 Bc2 4. Bxe4+ Bd3 5. Rxd3#) (cxb1=R 2. fxg8=R exd3 3. Rg5 Nc2 4. Rg3+ Ne3 5. Bxe3#) 2. fxg8=Q Qc2 3. dxe4+ Qd3 4. Qg7 Qxd8 5. Qc3# 1-0
+
+[Event "Shakhmatny v. SSSR"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Yarosh, Leonid Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#4"]
+[SetUp "1"]
+[FEN "1q5R/P2N4/5p2/2p2p2/2Pk1b1n/6P1/PNpP1P1K/BQ3R1B w - - 0 1"]
+[PlyCount "7"]
+
+1. Rxh4 cxb1=Q (cxb1=N 2. axb8=N Nxd2 3. Nc6+ Kc3 4. Rc1#) (cxb1=B 2. axb8=B Be4 3. Bxf4 Bxh1 4. Be3#) (cxb1=R 2. axb8=R Rxb2 3. Rb3 Kxc4 4. Rxf4#) 2. axb8=Q Qxb2 (Qe4 3. Qxf4 Qxf4 4. Rxf4#) 3. Qb3 Qc3 4. Qxc3# 1-0
+
+[Event "Shakhmatny v. SSSR, 1st Prize"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Yarosh, Leonid Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#4"]
+[SetUp "1"]
+[FEN "Bq1B1K2/3PpN2/P3Pp2/P1p2P2/2Pk1b1R/1p6/pN1P1P2/QR6 w - - 0 1"]
+[PlyCount "7"]
+
+1. a7 axb1=Q (axb1=N 2. axb8=N Nxd2 3. Qc1 Ne4 4. Nc6#) (axb1=B 2. axb8=B Be4 3. Bxf4 Bxa8 4. Be3# (4. Be5#)) (axb1=R 2. axb8=R Rxb2 3. Rxb3 Kxc4 4. Qa4#) 2. axb8=Q Qxb2 (Qe4 3. Qxf4 Qxf4 4. Rxf4#) 3. Qxb3 Qc3 4. Qaxc3# 1-0
+
+[Event "Themes-64, 1st Prize"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Yarosh, Leonid Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#4"]
+[SetUp "1"]
+[FEN "3r4/2R1P2N/p3Bp2/K2PkP2/1P5P/2p1P3/pBp1R3/Q2N4 w - - 0 1"]
+[PlyCount "7"]
+
+{In his most perfect version the incredible Yarosh has even got rid of the mating dual in the bishop line. He dedicated this problem to P. Drumare.} 1. Nxc3 c1=Q (c1=R 2. exd8=R $1 Rxc3 3. Nxf6 Kxf6 4. Bxc3#) (c1=B 2. exd8=B $1 Bxe3 3. Rc4 Kd6 4. Ne4#) (c1=N 2. exd8=N $1 Nb3+ 3. Kb6 Nxa1 4. Nf7#) 2. exd8=Q $1 Qxc3 (Qxe3 3. Rc4 Qe4 (Qxe2 4. Nxe2#)) 3. Nxf6 Qxb2 (Qd4 4. Bxd4#) 4. Qxb2# 1-0
+

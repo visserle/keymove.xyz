@@ -1,0 +1,103 @@
+[Event "source unknown"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Rodl, Ludwig"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/3k4/P7/P1K5/8/8/8 w - - 0 1"]
+
+1. a6 $1 Kc6 2. a5 1-0
+
+[Event "source unknown"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Rodl, Ludwig"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p2pp1/8/P2k2K1/P7/8/8/8 w - - 0 1"]
+
+1. a6 $1 Kc6 2. a5 f6+ 3. Kg6 f5 4. Kxf5 g6+ 5. Kxg6 1-0
+
+[Event "source unknown"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Rodl, Ludwig"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3K4/2p5/1p1k4/1P6/2P5/8/8 w - - 0 1"]
+
+1. Kc7 $1 c5 2. Kb6 cxb4 3. cxb4 Kc4 4. Ka5 1-0
+
+[Event "Endspiele"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Rodl, Ludwig"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3nk3/1p6/2P5/P7/8/8/8/K7 w - - 0 1"]
+
+1. cxb7 $1 Nxb7 (Nc6 2. a6 Kd7 3. a7) 2. a6 1-0
+
+[Event "Endspiele#079"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Rodl, Ludwig"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/K7/1P1k3p/P4p2/8/8/8 w - - 0 1"]
+
+1. b6 $1 f3 2. b7 f2 3. b8=Q f1=Q+ 4. Qb5+ Qxb5+ 5. axb5 h4 6. b6 h3 7. b7 h2 8. b8=Q h1=Q 9. Qb7+ 1-0
+
+[Event "Endspiele#065 (s)"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Rodl, Ludwig"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1pp2pp1/p7/P1P5/1P6/5k2/2P5/6K1 w - - 0 1"]
+
+1. c6 $1 bxc6 2. Kf1 $1 (2. c4 $2 Ke2 $1 (Ke4 $2 3. b5 cxb5 4. cxb5 Kd5 5. bxa6 Kc6 6. Kf2) 3. b5 f5 4. bxa6 f4 5. a7 f3 6. a8=Q f2+ 7. Kh2 f1=Q) Ke4 3. c4 Kd4 4. b5 cxb5 5. cxb5 Kc5 6. bxa6 1-0
+
+[Event "Endspiele#048"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Rodl, Ludwig"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/8/8/p5p1/P5P1/8/8/4K3 w - - 0 1"]
+
+1. Kd2 $1 Ke7 2. Ke3 Kd7 3. Kd3 1-0
+
+[Event "Endspiele#18"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Rodl, Ludwig"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3p1k2/3P4/2P5/5K2/8/8 w - - 0 1"]
+
+1. Kf4 $1 (1. Kf2 $2 Kf7 2. Kf3 Kf6) Kg6 2. Ke4 Kf6 3. Kd4 Ke7 4. Kc3 Kd7 5. Kb4 Kc7 6. Ka5 $1 Kb7 7. Kb5 Kc7 8. Ka6 Kc8 9. Kb6 Kd7 10. Kb7 Kd8 11. Kc6 Ke7 12. Kc7 1-0

@@ -1,0 +1,51 @@
+---
+export const prerender = true;
+
+import { getCollection, render } from "astro:content";
+import Base from "../../layouts/Base.astro";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("blog");
+  return posts.map((post) => ({
+    params: { slug: post.id },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+const date = post.data.pubDate;
+const dateLabel = `${String(date.getUTCDate()).padStart(2, "0")}.${String(date.getUTCMonth() + 1).padStart(2, "0")}.${date.getUTCFullYear()}`;
+const dateTime = date.toISOString().slice(0, 10);
+// A post's own frontmatter description reads better than a generated one; the
+// fallback keeps the page from shipping no description at all.
+const description =
+	post.data.description ??
+	`${post.data.title} — a post from keymove.xyz, a free collection of chess compositions for players who want to find the key move and read the full solution.`;
+---
+
+<Base
+  section="blog"
+  title={`${post.data.title} • keymove.xyz`}
+  description={description}
+>
+  <main class="journal-post">
+    <a class="journal-post__back field__label" href="/blog" aria-label="Back to Posts">
+      <span class="journal-post__back-arrow" aria-hidden="true">←</span>
+      <span>Posts</span>
+    </a>
+    <article>
+      <header class="journal-post__header">
+        <h1 class="hero__task journal-post__title">{post.data.title}</h1>
+        <p class="journal-post__meta">
+          <span>{post.data.author}</span>
+          <span aria-hidden="true">·</span>
+          <time datetime={dateTime}>{dateLabel}</time>
+        </p>
+      </header>
+      <div class="journal-post__body">
+        <Content />
+      </div>
+    </article>
+  </main>
+</Base>

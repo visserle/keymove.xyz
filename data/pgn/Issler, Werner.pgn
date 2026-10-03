@@ -1,0 +1,27 @@
+[Event "Die Schwalbe#132"]
+[Source "Die Schwalbe/10-11"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Issler, Werner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1K2B3/5p2/4pk2/8/8/8 w - - 0 1"]
+
+1. Bf7 $1 e3 (Ke3 2. Kc5 f4 3. Kd5 f3 4. Be6 f2 5. Bh3 Kf3 6. Kd4 e3 7. Kd3 e2 8. Bg4+ Kxg4 9. Kxe2 Kg3 10. Kf1 Kf3) 2. Bh5 Ke4 3. Kc5 f4 4. Kc4 f3 5. Kc3 Kf4 6. Kd3 e2 7. Kd2 Kg3 8. Bxf3 Kxf3 9. Ke1 Ke3 1/2-1/2
+
+[Event "Die Schwalbe#130"]
+[Source "Die Schwalbe/9"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Issler, Werner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2K1p3/4p3/2PP4/4B3/2k4b/8/8 w - - 0 1"]
+
+1. Bg2 $1 (1. d6 $2 exd6 2. cxd6 e5 3. Bb7 (3. Bg2 Be6 $1) e4 4. Bc8 e3 $1) Bg4 (Bf5 {<main>} 2. d6 exd6 3. cxd6 e5 4. Bb7 e4 5. Bxe4 $1) 2. d6 exd6 3. cxd6 e5 4. Bb7 e4 5. Bc8 Bxc8 6. Kxc8 e3 7. d7 e2 8. d8=Q e1=Q 9. Qa5+ 1-0

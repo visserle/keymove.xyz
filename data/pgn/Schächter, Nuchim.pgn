@@ -1,0 +1,12 @@
+[Event "Funkschach#160"]
+[Date "1925.10.04"]
+[Round "?"]
+[Composer "Schächter, Nuchim"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/qp4p1/pNR3P1/k2P1P2/1p6/1K6/8 w - - 0 1"]
+
+1. Nc3+ $1 Kb4 2. Nd5+ Ka4 3. Rb5 $1 Qxb5 (Kxb5 4. Nxc7+ Kc4 5. Nxa6) (Qb7 4. Nc3#) 4. Nc3+ Kb4 5. Nxb5 Kxb5 6. f5 gxf5 7. g6 f4 8. g7 f3 9. g8=Q 1-0

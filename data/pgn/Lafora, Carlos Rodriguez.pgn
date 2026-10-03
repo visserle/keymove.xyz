@@ -1,0 +1,25 @@
+[Event "Dos Caballos en Combate#034 (te)"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Lafora, Carlos Rodriguez"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/pk2N3/8/K7/1N6/8/8/8 w - - 0 1"]
+
+1. Na6 $1 Ka8 2. Kb4 Kb7 3. Kb5 Ka8 4. Nc5 Kb8 (a6+ 5. Kb6) (a5 5. Nc6 a4 6. Kb6 a3 7. Na6 a2 8. Nc7#) 5. Kc6 a5 (Ka8 6. Kc7 a5 7. Nc6 a4 8. Nd7 a3 9. Nb6#) 6. Kb6 a4 7. Na6+ Ka8 8. Nd5 a3 9. Ndc7# 1-0
+
+[Event "Dos Caballos en Combate#043"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Lafora, Carlos Rodriguez"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/2Np4/3N4/k1K5/8 w - - 0 1"]
+
+1. Nb4+ $1 Ka1 2. Na3 d3+ 3. Kb3 d2 4. Nbc2# 1-0

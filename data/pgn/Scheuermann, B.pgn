@@ -1,0 +1,12 @@
+[Event "Bohemia#452"]
+[Date "1918.02.02"]
+[Round "?"]
+[Composer "Scheuermann, B"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6R1/8/8/8/5K2/8/6pk/8 w - - 0 1"]
+
+1. Rh8+ $1 (1. Kf3 $2 g1=N+ 2. Kf2 Nh3+) Kg1 2. Kg3 (2. Kf3 $2 Kf1 3. Ra8 g1=N+) Kf1 3. Rf8+ Kg1 4. Rg8 $1 (4. Rf2 $2 Kh1 5. Rxg2) Kf1 (Kh1 5. Kf2) 5. Kh2 1-0

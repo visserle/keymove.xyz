@@ -1,0 +1,13 @@
+[Event "Deutsche Schachzeitung#436"]
+[Source "Deutsche Schachzeitung/6"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Kienzl, Wilhelm"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k1K/3p4/3P1P2/2p4p/p4Pp1/2P5/B7/8 w - - 0 1"]
+
+1. Be6 $1 g3 (a3 2. Bxd7 a2 (Kf7 3. Bxg4 Kxf6 (a2 4. d7 hxg4 5. d8=Q a1=Q 6. Qe7+ Kg6 7. Qg7+ Kf5 8. f7) 4. d7 Ke7 5. Be6 c4 6. Bxc4) 3. Ba4 $1 a1=Q 4. d7 Qxa4 5. d8=Q+ Qe8 6. Qxe8+) 2. Bxd7 g2 3. Bg4 $1 g1=Q 4. d7 Qxg4 5. d8=Q+ Kf7 6. Qe7+ 1-0

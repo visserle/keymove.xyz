@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Krenszisky, Simon"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/5R2/8/1k2q2p/1P5P/5p2/P1N4P/6Kn w - - 0 1"]
+
+1. Rf5 (1. Rg7 Qxg7+ 2. Kf1 Qg2+) (1. Rh7 Qe4 2. Na3+ Kxb4 3. Rb7+ Qxb7 4. Nc2+ Kc3) (1. Rf4 Qg7+ 2. Rg4 Qxg4+ 3. Kf1 Qg2+) (1. Rf6 Qxf6 2. a4+ Kxa4 3. Kxh1 f2) (1. Ne3 Qxe3+ 2. Kf1 Qc1#) (1. h3 Qg3+ 2. Kf1 Qf2#) (1. Re7 f2+ 2. Kf1 Qxe7 3. Nd4+ Kc4) (1. Kf1 Qe2+ 2. Kg1 Qg2#) f2+ (Qxf5 2. Nd4+ $18 (2. Kxh1 $4 Qxc2 3. a4+ Kxb4 $19) (2. Na3+ $4 Ka4 3. Kxh1 Qh3) (2. a4+ Kxa4) (2. Kf1 Qd3+ 3. Kg1 f2+)) 2. Kf1 (2. Kxh1 $4 Qxf5 3. Na3+ Ka4 $19) (2. Kg2 $4 f1=Q+ 3. Rxf1 Qe4+ $19) (2. Rxf2 $4 Nxf2 3. Kxf2 Qxh2+ 4. Kf3 Qxc2 $19 5. a4+ Kc4) Ng3+ 3. hxg3 (3. Kxf2 $4 Nxf5 4. a4+ Kxa4 $19) (3. Kg2 $4 Nxf5 4. Kxf2 Qxh2+ 5. Kf3 Qxc2 6. a4+ Kxa4) Ka4 4. g4 (4. Rg5 $2 Qd5 5. Rxd5) (4. Rf3 $2 Qd6 5. Ke2 $10) (4. a3 Qxf5) (4. Nd4 Qe1+ 5. Kg2 Qg1+) (4. Rf7 Qxg3 5. Rxf2 Qxh4) (4. Rxh5 Qxh5 5. Kxf2 Qf5+) (4. Rf6 Qxf6) (4. Kg2 Qe4+ 5. Kf1 Qxf5) Qc3 5. Ra5# (5. Na1 Qe1+ 6. Kg2 Qg1+) (5. Rf4 Qxc2 6. b5+ Ka5 7. Rxf2 Qd3+) (5. Rf7 Qc4+ 6. Kxf2 Qxf7+ 7. Ke3 hxg4) (5. Rb5 Kxb5 6. Kxf2 Qxc2+ 7. Kf3 Qd1+) (5. Ne1 fxe1=Q+ 6. Kg2 Qcg3#) (5. Rf8 hxg4 6. Rxf2 g3) 1-0

@@ -1,0 +1,217 @@
+/* Keymove: tokens.
+
+   One module of the stylesheet; order is owned by
+   app.css, which imports every module. */
+
+:root {
+	color-scheme: light;
+
+	/* --- greyscale palette; colour only where it carries meaning ----------- */
+	--c-bg: hsl(0 0% 100%);
+	/* the sheet the boxes sit on; light keeps it equal to the box, so the page
+     reads as one white sheet. Dark separates them (see html.dark below). */
+	--c-page-bg: var(--c-bg);
+	/* A faint silver tint at the top of the page; the brighter gradient keeps
+     the light theme crisp without making the whole page feel flat. */
+	--c-body-gradient: hsl(0 0% 92%);
+	/* lila's `--c-bg-popup`: menus and dropdowns that must read as floating */
+	--c-bg-popup: var(--c-bg);
+	--c-bg-page: hsl(0 0% 96%);
+	--c-bg-low: hsl(0 0% 94%);
+	--c-bg-zebra: hsl(0 0% 98.5%);
+	--c-font: hsl(0 0% 30%);
+	/* Secondary text stays comfortably above WCAG AA on the page and card
+     surfaces; reserve `dimmer` for decorative, non-essential marks. */
+	--c-font-dim: hsl(0 0% 42%);
+	--c-font-dimmer: hsl(0 0% 70%);
+	--c-font-clear: hsl(0 0% 12%);
+	/* Brand ink: stronger than body text, with the domain suffix softer. */
+	--c-brand: hsl(0 0% 15%);
+	--c-brand-dim: hsl(0 0% 42%);
+	/* links, buttons and active states all become ink */
+	--c-primary: hsl(0 0% 12%);
+	--c-primary-hover: hsl(0 0% 28%);
+	--c-secondary: hsl(0 0% 12%);
+	/* lila's tree keeps its blue for the move the board stands on
+     (`ui/lib/css/tree/_tree.scss`); the palette's own primary stays ink */
+	--c-primary-blue: hsl(209 77% 46%);
+	/* links follow the ink primary */
+	--c-link: var(--c-primary);
+	--c-link-hover: var(--c-primary-hover);
+    /* muted semantic progress outlines */
+	--c-progress-started: #be7f37;
+	--c-progress-solved: #549c6f;
+	/* The difficulty tiles on the admin's curation row. They are *fills* that
+     take `--c-over` text, not the hairline outlines above, so they cannot be
+     the same values: an outline is chosen to sit quietly on the page, a fill
+     has to carry white text at reading contrast. Each echoes the meaning of the
+     outline it is named after: solved green, started amber, wrong red. */
+	--c-level-easy: hsl(150 38% 30%);
+	--c-level-medium: hsl(28 70% 33%);
+	--c-level-hard: hsl(0 64% 40%);
+	/* the wrong-guess red */
+	--c-bad: hsl(0 60% 50%);
+	--c-border: hsl(0 0% 88%);
+	--c-popup-border: var(--c-border);
+	--c-bg-input: hsl(0 0% 98%);
+	--c-metal-top: hsl(0 0% 98%);
+	--c-metal-bottom: hsl(0 0% 96%);
+	--c-metal-top-hover: hsl(0 0% 100%);
+	--c-metal-bottom-hover: hsl(0 0% 98%);
+	--c-over: #fff;
+
+	--radius: 0;
+	/* lila's `%box-shadow` (`ui/lib/css/abstract/_mixins.scss`) */
+	--box-shadow:
+		0 2px 2px 0 rgb(0 0 0 / 0.08), 0 3px 1px -2px rgb(0 0 0 / 0.18),
+		0 1px 5px 0 rgb(0 0 0 / 0.1);
+
+	/* aliases the ported lichess blocks read from */
+	--ink: var(--c-font-clear);
+	--muted: var(--c-font-dim);
+	/* lila's `--c-font-page` (light theme: `hsl(from var(--c-font) h s 37)`),
+     the quieter ink the topnav and the page furniture wear */
+	--c-font-page: hsl(0 0% 37%);
+
+	/* Keymove's type: Iowan Old Style throughout */
+	--serif:
+		"Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia,
+		"Times New Roman", serif;
+	--symbols:
+		"Apple Symbols", "Segoe UI Symbol", "Noto Sans Symbols 2", "DejaVu Sans",
+		sans-serif;
+
+	/* Shared scale for the redesigned library and collections. Rems respect the
+	   user's browser text-size preference. */
+	--font-size-sm: 0.875rem;	/* 14px: labels and secondary text */
+	--font-size-field-label: 0.75rem;	/* 12px: filter and collection headings */
+	--font-size-md: 0.9375rem;	/* 15px: card tasks and collection names */
+	--font-size-base: 1rem;	/* 16px: body copy and controls */
+	/* Keep the original, slightly denser metadata hierarchy for board cards. */
+	--font-size-card-credit: 0.8125rem;	/* 13px */
+	--font-size-card-tags: 0.75rem;	/* 12px */
+	/* Preserve the original compact scale on the brand, home hero, and analysis
+	   board; the library and collections use the larger shared scale above. */
+	--font-size-compact-base: clamp(12px, calc(11.333px + 0.2222vw), 14px);
+	--font-size-compact-display: 30px;
+	--font-size-brand: 25px;
+	--font-size-brand-large: 30px;
+
+	/* board palette: white and grey */
+	--board-light: #ffffff;
+	--board-dark: #c9c9c9;
+	--coord-on-light: #6a6a6a;
+	--coord-on-dark: #3f3f3f;
+
+	/* board square size; a layout only overrides this */
+	--sq: 62px;
+	/* the band the outside coordinates occupy beside the board. A grid whose
+     sibling column must not collide with the rank numbers adds it to its
+     column gap (see `.hero` in layout.css). It is 0 while the coordinates sit
+     inside the board; `coords-out` raises it in board.css. */
+	--coord-band: 0px;
+	--board: calc(var(--sq) * 8);
+	/* The board zoom, on lila's 0..100 scale: 100 is the size `--sq` fitted to
+     the page, 0 the board scale's floor. The *default* sits below 100, so a
+     first visit opens on a board a shade smaller than the fitted one — the
+     home page's board is 85% of the fit, and 75 lands just under it (layout.css
+     gives `.hero` that 0.85). A saved zoom is left alone; only this default
+     moves. Keep the number in step with DEFAULT_BOARD_ZOOM in lib/preferences.ts,
+     which is what the solving island falls back to before anything is stored. */
+	--board-zoom: 75;
+	/* The board scale follows the resize grip, but only where lila enables the
+     zoom: `mq-zoom-enabled` is `min-width: $small` and `min-height: $short`
+     (`ui/lib/css/abstract/_media-queries.scss`), applied in
+     `ui/lib/css/layout/_uniboard.scss`. Everywhere else, such as a phone where
+     the grip is hidden, the board is scale 1, which is the size `--sq` fitted, so a
+     zoom saved on a desktop never leaves the mobile board short of the page. */
+	--board-scale: 1;
+
+	--page: 1120px;
+	--page-pad: 24px;
+	/* Shared responsive track sizing keeps collection rails aligned with the
+	   library's card columns on wide layouts. */
+	--catalogue-track-min: clamp(150px, 25vw, 200px);
+	--catalogue-track-gap: clamp(16px, 2vw, 20px);
+	--tools-w: 300px;
+	/* lila's `---block-gap` (`ui/lib/css/layout/_base.scss`): 10px, 15px from `$small` up */
+	--work-gap: 10px;
+	--gutter: 16px;
+	/* lila's site header is height-driven: `$site-header-short-height` below
+     `$tall` (600px), `$site-header-tall-height` from it up
+     (`ui/lib/css/abstract/_variables.scss` + `ui/lib/css/layout/_base.scss`). */
+	--header-h: 40px;
+}
+
+/* lila's `mq-site-header-tall` (`min-height: at-least($tall)`, $tall = 600px). */
+@media (min-height: 599.3px) {
+	:root {
+		--header-h: 60px;
+	}
+}
+
+/* lila's `mq-zoom-enabled` (`ui/lib/css/abstract/_media-queries.scss`:
+   `min-width: at-least($small)` and `min-height: at-least($short)`). */
+@media (min-width: 799.3px) and (min-height: 499.3px) {
+	:root {
+		--board-scale: calc(var(--board-zoom) * 0.0075 + 0.25);
+	}
+}
+
+/* --- dark theme --------------------------------------------------------
+
+   Named after the class on `<html>`, as lichess names its own theme files
+   (`ui/lib/css/theme/_theme.light.scss`): the light palette above is the
+   base, and this block overrides the same tokens for `html.dark`. The
+   pre-paint script in Base.astro resolves `system` to `light`/`dark` and
+   adds the class before first paint, so there is no flash.
+
+   The board is deliberately left alone: in lichess the board theme is
+   independent of the site theme, and this one stays light on either page. */
+html.dark {
+	color-scheme: dark;
+
+	/* A near-black canvas with enough lift in the boxes to keep the
+     different surfaces distinct without leaning on shadows. */
+	--c-page-bg: hsl(0 0% 6%);
+	--c-bg: hsl(0 0% 11%);
+	--c-body-gradient: hsl(0 0% 10%);
+	--c-bg-popup: var(--c-bg-low);
+	/* Hovers lift from the near-black base instead of disappearing into it. */
+	--c-bg-page: hsl(0 0% 17%);
+	--c-bg-low: hsl(0 0% 19%);
+	--c-bg-zebra: hsl(0 0% 13%);
+	--c-font: hsl(0 0% 73%);
+	/* Keep the same readable secondary-text role in dark mode. */
+	--c-font-dim: hsl(0 0% 66%);
+	--c-font-dimmer: hsl(0 0% 42%);
+	--c-font-clear: hsl(0 0% 92%);
+	--c-brand: hsl(0 0% 96%);
+	--c-brand-dim: hsl(0 0% 70%);
+	--c-primary: hsl(0 0% 92%);
+	--c-primary-hover: hsl(0 0% 76%);
+	--c-secondary: hsl(0 0% 92%);
+	--c-primary-blue: hsl(209 79% 56%);
+	/* Muted semantic progress outlines on dark surfaces. */
+	--c-progress-started: #a87547;
+	--c-progress-solved: #578064;
+	/* The difficulty tiles, dark theme. Darker than the light theme's rather
+     than lighter: the text on them is `--c-over` in both themes, and only the
+     darker end of the range holds white text at reading contrast. They still
+     read as filled, because the idle tiles behind them are `--c-bg-page`
+     (17%) and the fills are a stop or two above the panel. */
+	--c-level-easy: hsl(150 34% 33%);
+	--c-level-medium: hsl(28 62% 35%);
+	--c-level-hard: hsl(0 60% 38%);
+	--c-bad: hsl(0 60% 52%);
+	--c-border: hsl(0 0% 19%);
+	/* Popup surfaces use this border too; lift it slightly where the dark
+     border token otherwise matches the popup background exactly. */
+	--c-popup-border: color-mix(in srgb, var(--c-border) 85%, var(--c-font) 15%);
+	--c-bg-input: hsl(0 0% 8%);
+	--c-metal-top: hsl(0 0% 17%);
+	--c-metal-bottom: hsl(0 0% 14%);
+	--c-metal-top-hover: hsl(0 0% 20%);
+	--c-metal-bottom-hover: hsl(0 0% 17%);
+	--c-font-page: hsl(0 0% 58%);
+}

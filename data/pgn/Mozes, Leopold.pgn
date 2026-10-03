@@ -1,0 +1,140 @@
+[Event "?"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Mozes, Leopold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "4r3/5k2/8/4B1p1/8/8/4K1P1/7R w - - 0 1"]
+
+1. Rf1+ (1. Rh7+ $2 Kg6 2. Rg7+ $10) (1. Kf3 $2 Rxe5 2. g3 $10) (1. Rh8 $2 Re6 2. g3 $10) (1. Rh4 gxh4) Kg6 2. Rf6+ (2. Rf2 $2 g4 3. g3 $10) (2. g4 $2 Rxe5+ 3. Kd2 $10) (2. Rf5 Kxf5) Kh5 (Kh7 3. Rf5 (3. Rf7+ Kg6 4. Rf6+ $18) (3. Kf3 $2 Rxe5 4. g3) (3. g4 $2 Rxe5+ 4. Kd2) (3. Rf1 Rxe5+ 4. Kf2) (3. Re6 Rxe6) (3. Ra6 Rxe5+ 4. Kf3) (3. Rd6 Rxe5+ 4. Kf3) (3. Ke3 Rxe5+ 4. Kf3) Kg6 4. g4 $18 (4. Rf6+ Kh7 $18 5. Rf7+) (4. Ke3 $4 Kxf5 $19 5. g4+ Kxe5) (4. Rf7 Rxe5+ 5. Kf2 Kxf7) (4. g3 Kxf5) (4. Rxg5+ Kxg5)) 3. Kf3 (3. Rf5 $2 Kg4 4. Rf3 $10) (3. g4+ $2 Kxg4 4. Rd6 $10) (3. Rf3 $2 Rxe5+ 4. Re3 $10) (3. Rf7 $2 g4 4. g3) (3. Ke3 $2 Rxe5+ 4. Kf3) (3. g3 Rxe5+ 4. Kf3) Rxe5 4. g4+ (4. g3 $4 g4+ 5. Kf2) (4. Rf8 $4 g4+ 5. Kg3) (4. Kg3 g4 5. Rf8) (4. Rf7 g4+ 5. Kg3) Kh4 5. Rh6# (5. Rg6 $6 Re3+ 6. Kxe3 Kxg4 7. Ke4) 1-0
+
+[Event "Revista de Romana de Sah#0169"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Mozes, Leopold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p3nkP1/p2p3P/1P3p2/6NK/8/1P6/8 w - - 0 1"]
+
+1. Nf6 $1 Kxf6 2. g8=Q Nxg8 3. h7 Kg7 4. hxg8=Q+ Kxg8 5. bxa6 Kf7 6. b4 Ke7 7. b5 Kd7 8. b6 Kc8 9. bxa7 1-0
+
+[Event "3.c Revista de Romana de Sah#0328"]
+[Source "Revista de Romana de Sah/6"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Mozes, Leopold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2k5/p3BP2/8/5K2/8/4r1P1/8 w - - 0 1"]
+
+1. f7 $1 (1. Bf5 $2 Kd8 2. g4 Ke8 3. g5 Kf7) (1. Bg4 $2 Rf2+ $1) Rf2+ (Rxg2 2. Bg4) (a5 2. Bf5) 2. Ke5 Kd8 3. Kd6 $1 Rd2+ 4. Bd5 Rxd5+ $1 5. Ke6 Re5+ 6. Kf6 $1 Rf5+ (Re8 7. g4 (7. fxe8=Q+ $2 Kxe8 8. g4 Kf8) a5 8. g5 a4 9. g6) 7. Kxf5 Ke7 8. Kg6 1-0
+
+[Event "Revista de Romana de Sah#0432"]
+[Source "Revista de Romana de Sah/12"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Mozes, Leopold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5pp1/7k/p7/1pp3pK/PR4P1/2P5/8 w - - 0 1"]
+
+1. Re3 $1 f5 2. Re6+ g6 3. a4 b3 4. c3 $1 b2 5. Rxg6+ Kxg6 1/2-1/2
+
+[Event "Revista de Romana de Sah#0528"]
+[Source "Revista de Romana de Sah/4"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Mozes, Leopold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1Kp5/1P6/8/7p/5R2/6k1 w - - 0 1"]
+
+1. Rf3 $1 h2 2. Rg3+ Kh1 $1 3. Kc5 $1 (3. bxc6 $2) cxb5 4. Kd4 b4 5. Ke3 b3 6. Kf2 b2 7. Rb3 b1=Q 8. Rxb1# 1-0
+
+[Event "4.c Revista de Romana de Sah#0706"]
+[Source "Revista de Romana de Sah/11 EG#03409."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Mozes, Leopold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3B4/2R1R3/3k2b1/3p2P1/p7/P2q4/3P4/2K5 w - - 0 1"]
+
+1. Rcd7+ $1 Kc5 (Kc6 2. Rc7+ Kb5 3. Rb7+ Kc4 (Kc5 4. Rec7+ Kd4 5. Bf6+ Ke4 6. Rb4+ Kf5 7. Rc3 Qf1+ 8. Kb2 Ke6 9. Rc1 Qd3 10. Bc3) 4. Rb4+ Kc5 5. Rc7+ Kd6 6. Rb6+ Ke5 7. Bf6+ Kf5 8. Rb4) 2. Rxd5+ (2. Rc7+ $2 Kd4 3. Kd1 Qf1+ 4. Re1 Bh5+ 5. Kc2 Qd3+ (Qxe1 $2 6. Bf6+) 6. Kc1 Qxa3+ 7. Kc2 Qa2+ 8. Kc1 Qa1+ 9. Kc2 Bg6+ 10. d3 Qa2+ 11. Kc1 Kxd3) Qxd5 3. Re5 Qxe5 4. d4+ Qxd4 (Kxd4 5. Bf6) 5. Bb6+ Kxb6 1/2-1/2
+
+[Event "Revista de Romana de Sah#0750"]
+[Source "Revista de Romana de Sah/5"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Mozes, Leopold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5P2/8/7p/k7/2BB1pb1/1K6 w - - 0 1"]
+
+1. Bc1+ $1 (1. Bd3 $2 Be4 $1) Kb4 2. Bd3 Be4 3. Ka1 $1 (3. f7 $2 f1=Q $1) (3. Ka2 $2 Bxd3 4. f7 Bc4+ $1 (f1=Q $2 5. f8=Q+ Qxf8 6. Ba3+ Ka4 7. Bxf8)) Bxd3 4. f7 f1=Q 5. f8=Q+ Qxf8 6. Ba3+ Kxa3 1/2-1/2
+
+[Event "Revista de Romana de Sah#0804"]
+[Source "Revista de Romana de Sah/11"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Mozes, Leopold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/5Kp1/7N/6P1/1p6/p4p2/8/n7 w - - 0 1"]
+
+1. g6 $1 (1. Kf8 $2 Kh7 $1) f2 2. Kf8 f1=Q+ 3. Nf7+ Qxf7+ 4. gxf7 Nb3 (Nc2 5. Ke7 a2 6. f8=Q+ Kh7 7. Qf5+ g6 8. Qf7+) 5. Ke7 a2 6. f8=Q+ Kh7 7. Qf5+ g6 8. Qf7+ Kh6 9. Qf4+ g5 (Kg7 {<main>} 10. Qe5+ Kg8 11. Qb8+ Kg7 12. Qf8+ Kh7 13. Kf7 $1 a1=Q {<eg>} 14. Qg8+ Kh6 15. Qxg6#) 10. Qh2+ Kg6 11. Qxa2 1-0
+
+[Event "Revista de Romana de Sah#0812"]
+[Source "Revista de Romana de Sah/2 13.p Rumanian champ 1979-1980."]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Mozes, Leopold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "Q7/8/5pp1/7k/2q2b2/8/8/3K2N1 w - - 0 1"]
+
+1. Qh1+ $1 Kg5 2. Nf3+ Kg4 3. Qg2+ Kf5 (Bg3 4. Nh2+ Kh4 5. Nf3+ Kg4 6. Nh2+ Kf4 7. Qf3+ Ke5 8. Qxg3+) 4. Qh3+ (4. Nh4+ $2 Ke6 5. Qh3+ Kd6 6. Nxg6 (6. Qa3+ Kd7 $1 7. Qa7+ Bc7 8. Nxg6 Qf1+ 9. Kd2 Qg2+ $1) Qc1+ 7. Ke2 Qc2+ 8. Kf3 Qd3+ 9. Kg4 f5+ 10. Kh4 Bg5+ $1) Ke4 5. Nd2+ Bxd2 6. Qd3+ Kxd3 (Qxd3) 1/2-1/2
+
+[Event "2.c Revista de Romana de Sah#0910"]
+[Source "Revista de Romana de Sah/1 EG#05778."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Mozes, Leopold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/6p1/p3P1P1/1k3P1K/8/8/8 w - - 0 1"]
+
+1. f5 $1 Kc5 $1 2. e6 Kd6 $1 3. exf7 Ke7 4. fxg6 Kf8 (a4 {<main>} 5. Kh5 a3 6. Kh6 a2 7. g7 Kxf7 8. Kh7 a1=Q 9. g8=Q+ Ke7 10. Qg7+) 5. Kh5 Kg7 6. Kg4 a4 (Kf8 7. Kf5 Ke7 8. Ke5 a4 9. Kd4 a3 10. Kc3) 7. Kf5 a3 8. Ke6 a2 9. Ke7 a1=Q 10. f8=Q+ Kxg6 11. Qf6+ 1-0

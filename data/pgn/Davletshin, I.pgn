@@ -1,0 +1,13 @@
+[Event "Shakhmaty v SSSR#05"]
+[Source "Shakhmaty v SSSR/2"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Davletshin, I"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k2b1K1/8/3P4/2R5/8/p7/7b/8 w - - 0 1"]
+
+1. Rd5 $1 Bc6 (a2 2. Ra5 Bc6 3. Kf7 $1 Be5 4. Ke7 a1=Q 5. Rxa1 Bxa1 6. d7) 2. Rd2 a2 $1 3. Rb2+ $1 (3. Rxa2 $2 Bd5+ 4. Kf8 Bxd6+) Kc8 4. Rxa2 Bd5+ 5. Kf8 Bxd6+ (Bxa2 6. Ke7) 6. Ke8 $1 Bxa2 1/2-1/2

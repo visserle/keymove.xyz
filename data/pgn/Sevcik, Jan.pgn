@@ -1,0 +1,94 @@
+[Event "Straz Lidu"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Sevcik, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/8/1PpP4/8/K7/2p5/2P5/b7 w - - 0 1"]
+
+1. Ka5 $1 Bb2 2. Ka6 Ba3 3. b7+ Kb8 4. d7 Be7 5. d8=Q+ Bxd8 1/2-1/2
+
+[Event "Sachové Umenie#3171"]
+[Source "Sachové Umenie/6"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Sevcik, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K2b4/2kb4/8/8/1rNn4/8/8/R7 w - - 0 1"]
+
+1. Ra7+ $1 Kc6 $1 2. Ne5+ Kd6 3. Rxd7+ Kxe5 4. Rxd8 Nc6 5. Rd5+ $1 (5. Rh8 $2 Kd6 6. Rh6+ Kc5 7. Rh5+ Kb6) Ke4 6. Rb5 $1 Rxb5 1/2-1/2
+
+[Event "3.c Tidskrift for Schack#1657"]
+[Source "Tidskrift for Schack/8 EG#02420."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Sevcik, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p2k3B/K2Pp3/8/1P6/3R2pp/7p/8 w - - 0 1"]
+
+1. Be4 $1 g2 2. Bc6+ $1 (2. b5 $2 h1=Q 3. Bc6+ Kd8 4. Rf3 Qa1+ 5. Kb7 Qg7+) Kxc6 (Kd8 3. Rf3 g1=Q 4. Rf8#) 3. d7 g1=Q 4. d8=N+ $1 (4. d8=Q $2 Qa1+ 5. Qa5 Qxa5+ 6. bxa5 h1=Q) Kc7 5. Nxe6+ Kc6 (Kc8 {<main>} 6. Rd8#) 6. b5# 1-0
+
+[Event "3.c Tidskrift for Schack#1657 (m)"]
+[Source "Tidskrift for Schack/8 (m): Polasek=J Ceskoslovensky Sach/12 2013."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Sevcik, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p2k4/K2Pp3/5B2/1P6/3R2pp/7p/8 w - - 0 1"]
+
+1. Be4 $1 (1. Bxe6+ $2 Kxe6 2. d7 h1=Q 3. d8=Q Qc6+ 4. Kxa7 (4. Ka5 Qb6+ 5. Qxb6+ axb6+ 6. Kxb6 g2) Qa4+) g2 2. Bc6+ Kxc6 (Kd8 3. Rf3 g1=Q 4. Rf8#) 3. d7 g1=Q 4. d8=N+ $1 (4. d8=Q $2 Qa1+) Kc7 5. Nxe6+ Kc6 (Kc8 {<main>} 6. Rd8#) 6. b5# 1-0
+
+[Event "Magyar Sakkélet#1108"]
+[Source "Magyar Sakkélet/11"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Sevcik, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/6k1/n1BR4/p7/2p5/K7 w - - 0 1"]
+
+1. Rd5+ $1 Kh4 (Kg4 2. Be2+ Kg3 3. Rd1 $1) (Kf6 2. Rf5+ $1 Kxf5 3. Bd3+) 2. Rd4+ Kg3 3. Rd3+ Kf4 4. Rd4+ Ke3 5. Rd3+ Ke4 6. Rc3 $1 Nxc3 7. Bd3+ Kxd3 1/2-1/2
+
+[Event "Szachy#0209"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Sevcik, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1P6/3q4/8/3B4/2P3p1/2K5/kN6 w - - 0 1"]
+
+1. b8=Q $1 (1. c4+ $2 Qxd4 2. b8=Q Qe4+ 3. Kc3 Qxb1 4. Qxg3 Qb2+) Qxb8 2. c4+ Ka2 3. Nc3+ Ka1 (Ka3 4. Bc5+ Qb4 5. Bxb4+ Kxb4 6. Kd3 g2 7. Ne2) 4. Nb5+ Ka2 5. Bb2 $1 Qxb5 {<eg>} 6. cxb5 g2 7. Bd4 1-0
+
+[Event "Szachy#0218"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Sevcik, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4K2p/B3N2k/p6P/6P1/2p5/6p1/8 w - - 0 1"]
+
+1. Be2 $1 g1=Q 2. g5+ Qxg5+ 3. Nxg5 Kxg5 (c2 4. Kf6 c1=Q 5. Nf7#) 4. Bd1 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "Schweizerische Schachzeitung#037"]
+[Source "Schweizerische Schachzeitung/2"]
+[Date "1902.??.??"]
+[Round "?"]
+[Composer "Tschan, O"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p3q3/1r3p2/kPb3p1/P1Q4p/1KPR4/8 w - - 0 1"]
+
+1. Rd6 $1 Qxd6 (Rb6 2. Rxe6 Bxe6 3. Qe5 Rb5 4. Qxe6) 2. Qb3+ Bxb3 3. cxb3# 1-0

@@ -1,0 +1,66 @@
+[Event "Sovyetskaya Belorussia"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Novikov, Gennady"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/7p/3P4/8/8/8/K7/8 w - - 0 1"]
+
+1. Kb3 $1 h5 2. Kc4 h4 3. Kd5 h3 4. Ke6 h2 5. d7 1/2-1/2
+
+[Event "Vecherni Leningrad"]
+[Source "EG#07033.14.p Belarussia champ 1981-1984."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Novikov, Gennady"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/2P3k1/8/7n/1P6/2K1n3 w - - 0 1"]
+
+1. c6 $1 Nd3+ 2. Kb1 $1 (2. Kc2 $2 Nb4+) (2. Kd1 $2 Nxb2+) (2. Kd2 $2 Nxb2 3. Kc3 Nf4) Nhf4 3. c7 Nd5 4. c8=Q N5b4 5. Qf8 $1 Kg4 (Kg6 6. Ka1 Kg5 7. Qf7 Kg4 8. Qf6) 6. Qf6 Kg3 7. Qf5 Kg2 8. Qg4+ Kf2 9. Qh3 Ke2 10. Qg3 Kd2 11. Qf3 Ke1 12. Qe3+ Kd1 (Kf1 13. Qd2 Kg1 14. Qe2 Kh1 15. Qg4) 13. b3 $1 1-0
+
+[Event "Zarja (tw)"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Novikov, Gennady"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p3/8/8/P5p1/7p/P5P1/5K1k w - - 0 1"]
+
+1. g3 $1 Kh2 $1 2. Kf2 e5 3. a5 e4 4. a6 e3+ 5. Kxe3 Kxg3 6. a7 h2 7. a8=B $1 (7. a8=Q $2 h1=Q $1 8. Qxh1) 1-0
+
+[Event "Zarja (tw)"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Novikov, Gennady"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p3/8/8/6pP/7p/P5P1/5K1k w - - 0 1"]
+
+1. g3 $1 Kh2 $1 2. Kf2 $1 e5 3. h5 e4 4. h6 e3+ 5. Kxe3 Kxg3 6. h7 h2 7. h8=R $1 (7. h8=Q $2 h1=Q $1 8. Qxh1) 1-0
+
+[Event "3.p Belarussia team champ (tt)"]
+[Source "EG#07040."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Novikov, Gennady"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/4B3/4p3/4pP2/p7/K3k3 w - - 0 1"]
+
+1. fxe4 $1 (1. f4 $2 Kd2 2. f5 e2 3. Bg3 e1=Q+ 4. Bxe1+ Kxe1 5. f6 Kd2 6. f7 e3 7. f8=Q e2) (1. Bc3+ $2 Ke2 2. f4 Kd3) Ke2 (Kd2 2. Bg3) (Kf2 2. Bc3) 2. Bc7 $1 (2. Bc3 $2 Kd3) (2. Bg3 $2 Kf3) (2. Bf6 $2 Kf3 3. e5 e2 4. Bh4 Kg4 5. Bf2 Kf5) (2. Bd6 $2 Kd3 3. e5 e2 4. Bb4 Kc4 5. Bd2 Kd5) Kd3 3. e5 e2 4. Ba5 Kc4 5. e6 Kb5 6. e7 $1 (6. Be1 $2 Kc6) Kxa5 7. e8=Q 1-0

@@ -1,0 +1,2293 @@
+[Event "Source inconnue"]
+[Site "?"]
+[Date "1856.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#5"]
+[SetUp "1"]
+[FEN "1Q6/N2k4/1p1pp3/1rp1p3/1b1p4/2p5/8/5K2 w - - 0 1"]
+[PlyCount "9"]
+
+1. Nc6 $1 Kxc6 (c2 $144 2. Qb7+ Ke8 3. Qe7#) (d5 $144 2. Qb7+ Kd6 3. Nd8 c4 4. Nf7+ Kc5 5. Qc7#) 2. Qc8+ Kd5 3. Qa8+ Kc4 4. Qa2+ Kd3 5. Qe2# 1-0
+
+[Event "tt08"]
+[Site "?"]
+[Date "1858.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#5"]
+[SetUp "1"]
+[FEN "8/8/8/8/4p3/5pNN/4p3/2K1k3 w - - 0 1"]
+[PlyCount "9"]
+
+1. Nf5 Kf1 (f2 $143 2. Ne3 f1=Q 3. Nc2#) (e3 $143 2. Ng3 f2 3. Nf4 f1=Q 4. Nd3#) 2. Ne3+ Ke1 3. Kc2 f2 4. Kc1 f1=Q 5. Nc2# 1-0
+
+[Event "tm29 (@2)"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#8"]
+[SetUp "1"]
+[FEN "1k6/1P6/1K6/1N6/2R5/2r5/8/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. Rc8+ $1 Rxc8 2. Na7 $1 (2. Nd4 $144 $1 {minor dual JU}) Rc1 3. Nc6+ Rxc6+ 4. Kxc6 Ka7 5. Kc7 Ka6 6. b8=Q Ka5 7. Qb3 Ka6 8. Qb6# 1-0
+
+[Event "ta21#10"]
+[Site "?"]
+[Date "1868.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5K2/4rN1k/6R1/4B1q1/4pb2/4p3/4B3 w - - 0 1"]
+[PlyCount "13"]
+
+1. Rxg4 Rxf6+ 2. Ke7 $1 Re6+ 3. Kxe6 Bxg4+ 4. Kf6 Bh5 5. Bh4 Be8 6. Bg5+ Kh5 7. Bf3# 1-0
+
+[Event "ta21#16"]
+[Site "?"]
+[Date "1868.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p1p5/3p4/p3p3/k4p2/2K3pB/7p/8 w - - 0 1"]
+[PlyCount "7"]
+
+1. Bd7+ Ka3 2. Bc6 Ka2 3. Kc2 a6 4. Bh1 $11 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "b7/8/7B/7p/8/2p3r1/2P1P1pp/4K1kq w - - 0 1"]
+[PlyCount "5"]
+
+1. Bc1 h4 (Rh3 $144 2. Ba3 {mat en 2}) 2. Bf4 Bb7 (Bc6 $144 3. Bc7 {Mat en 2}) (Bd5 $144 3. Bd6 {Mat en 2}) (Be4 $144 3. Be5 {Mat en 2}) (Bf3 $143 3. Be3#) 3. Bb8 {mat en 2} 1-0
+
+[Event "American Chess Monthly 1st prize, 1857"]
+[Site "?"]
+[Date "1857.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "n7/3rp1NK/b4pP1/1r6/4kb2/p4R2/qNP2R1P/1n5B w - - 0 1"]
+[PlyCount "7"]
+
+1. Rxf4+ Ke3 (Ke5 $144 2. Re2+ Kxf4 (Kd6 $144 3. Ne8+ Kc5 4. Na4#) 3. Re4+ Kg5 4. h4#) 2. Bd5 $3 {Le Thème Novotny} Rbxd5 (Rdxd5 $144 3. Nf5+ Rxf5 4. Nd1#) 3. Nd1+ Rxd1 4. Nf5# 1-0
+
+[Event "New-York Albion 1857"]
+[Site "?"]
+[Date "1857.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "2brrb2/8/p7/7Q/1p1kpPp1/1P1pN1P1/3K4/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qa5 Bd7 (Be6 $144 2. Qe5#) (Re7 $144 2. Qxb4#) (Rd7 $144 2. Nf5#) (Bc5 $144 2. Qa1#) (Bf5 $144 2. Nxf5#) (Bb7 $144 2. Nf5#) (Bg7 $144 2. Qxb4#) (Bh6 $144 2. Qxb4#) (Be7 $144 2. Qe5#) (Bd6 $144 2. Qd5#) (Rd6 $144 2. Qxb4#) (Rd5 $144 2. Qxd5#) (Re6 $144 2. Nf5#) (Re5 $144 2. Qxe5#) 2. Qd5# 1-0
+
+[Event "Cincinati Dispatch 1858"]
+[Site "?"]
+[Date "1858.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#3"]
+[SetUp "1"]
+[FEN "2n5/6p1/8/5p2/8/7N/3pp1B1/KQ1bk3 w - - 0 1"]
+[PlyCount "5"]
+
+1. Ba8 g5 {(g6)} (f4 $144 {(g6)} 2. Qg6 {suivi de Qg1#}) (Kf1 $144 2. Qxf5+ Ke1 3. Qf2#) (Ne7 $144 2. Qb6 {suivi de Qg1#}) (Nd6 $144 2. Qb6 {suivi de Qg1#}) (Na7 $144 2. Qb6 {suivi de Qg1#}) (Nb6 $144 2. Qxb6 {suivi de Qg1#}) 2. Qb7 Kf1 3. Qh1# 1-0
+
+[Event "London Era"]
+[Site "?"]
+[Date "1861.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "n1rb4/1p3p1p/1p6/1R5K/8/p3p1PN/1PP1R3/N6k w - - 0 1"]
+[PlyCount "7"]
+
+1. b4 $1 Rc5+ (Rxc2 $144 2. Nxc2 a2 3. Rd5 a1=Q 4. Nxa1 {mate in 1}) 2. bxc5 $1 a2 3. c6 $1 Bc7 (Bf6 $144 4. Rf5 {mate in 1}) (Bg5 $144 4. Rd5 {mate in 1}) 4. cxb7 $1 {mate in 1} (4. Rd5 $143 Bxg3 5. Rd1+ Be1 6. Rdxe1#) 1-0
+
+[Event "Holyoke Transcript 1876"]
+[Site "?"]
+[Date "1876.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "b7/PP6/8/8/7K/6B1/6N1/4R1bk w - - 0 1"]
+[PlyCount "3"]
+
+1. bxa8=N (1. bxa8=Q $143 $11 {pat}) (1. bxa8=B $143 $11 {pat}) (1. b8=Q $143 Bd5 2. Bf2 Kxg2 3. Qg3+ Kh1 4. Rxg1#) Kxg2 2. Nb6 {mat en 1} 1-0
+
+[Event "Chess Monthly 1859"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#5"]
+[SetUp "1"]
+[FEN "8/8/8/p7/8/8/R6p/2K2Rbk w - - 0 1"]
+[PlyCount "9"]
+
+1. Raf2 a4 2. Kd2 a3 3. Ra1 a2 4. Ke1 Bxf2+ 5. Kxf2# 1-0
+
+[Event "Halyoke Transcript, 1878"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#3"]
+[SetUp "1"]
+[FEN "8/6pK/4N1P1/1R1PP3/2PBkP2/3N2p1/6Pp/2R4Q w - - 0 1"]
+[PlyCount "5"]
+
+1. Rg1 Kf5 (Kxd3 $144 2. Ra1 {mat en 1}) 2. Nf2 gxf2 (hxg1=Q $144 3. Qh5#) 3. g4# 1-0
+
+[Event "1st prize Checkmate Ty"]
+[Site "?"]
+[Date "1903.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4r1b1/1p4B1/pN2pR2/RB2k3/1P2N3/2p3bp/n2P1p1r/5K1n w - - 0 1"]
+[PlyCount "5"]
+
+1. Ke2 f1=Q+ (Nc1+ $144 2. Ke3 f1=N+ 3. Rxf1#) (axb5 $144 2. Ke3 f1=N+ 3. Rxf1#) (Kxe4 $144 2. Bd3+ Kd4 3. Rf4#) 2. Ke3 $3 Qe1+ (Qg1+ $144 3. Rf2#) 3. Be2# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1869.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5N1k/5Ppp/8/8/2Q3p1/8/8/b6K w - - 0 1"]
+[PlyCount "3"]
+
+1. Qf1 h5 (h6 2. Qb1 g6 3. Qxa1#) (Bb2 $144 2. Qb1 {mat en 1}) (Bd4 $144 2. Qd3 {mat en 1}) (Bc3 $144 2. Qd3 {mat en 1}) (Be5 $144 2. Qf5 {mat en 1}) (g3 $144 $1 2. Ng6+ hxg6 3. Qh3#) (Bf6 $144 2. Qf5 {mat en 1}) 2. Qb1 {mat en 1} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1857.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#4"]
+[SetUp "1"]
+[FEN "8/8/8/3P4/2N3p1/6p1/6p1/2Q1K1k1 w - - 0 1"]
+[PlyCount "7"]
+
+1. Kd1 Kh2 {or h1} (Kf1 $144 2. Qe3 g1=N (g1=Q $143 3. Qe2#) 3. Qxg3 {mat en 1}) (Kf2 $143 2. Qe3+ Kf1 3. Nd2#) 2. Qh6+ Kg1 3. Nd2 Kf2 4. Qb6# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1868.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7R/4p3/4p2p/1P2P3/3P3p/2P1K3/3P2bp/5B1k w - - 0 1"]
+[PlyCount "11"]
+
+1. Kf2 Bd5 2. b6 Bb7 3. Ba6 Bd5 (Bxa6 $144 4. Ra8 Bf1 5. Ra1 {mat en1}) 4. Ra8 Bxa8 5. b7 Bxb7 6. Bxb7# 1-0
+
+[Event "New York Saturday Courier 1856 (!), 1st"]
+[Site "?"]
+[Date "1856.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#4"]
+[SetUp "1"]
+[FEN "n7/3p1p2/NpkNp1p1/1p2P3/3Q4/6B1/b7/4K3 w - - 0 1"]
+[PlyCount "7"]
+
+1. Qg1 Bb3 (f6 $144 2. Bf2 fxe5 3. Bxb6 Kxd6 4. Qc5#) 2. Bf2 Kd5 3. Bxb6 Kxe5 4. Qd4# 1-0
+
+[Event "New York Clipper 1856"]
+[Site "?"]
+[Date "1856.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#4"]
+[SetUp "1"]
+[FEN "8/8/5p2/4p3/2K1Nk2/8/8/4Q3 w - - 0 1"]
+[PlyCount "7"]
+
+1. Qg1 Kxe4 (Kf3 $144 2. Kd3 Kf4 3. Qg6 f5 (Kf3 $144 4. Qg3#) 4. Qg3#) (Kf5 $144 2. Kd5 Kf4 3. Qg3+ Kf5 4. Nd6#) (f5 $144 2. Qf2+ Kxe4 (Kg4 $144 3. Qg3+ Kh5 4. Qg5#) 3. Qg3 f4 4. Qd3#) 2. Qf2 f5 3. Qg3 f4 4. Qd3# 1-0
+
+[Event "New-York Albion 1857"]
+[Site "?"]
+[Date "1857.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#3"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/6P1/6k1/4KR1R w K - 0 1"]
+[PlyCount "5"]
+
+1. Rf4 Kxg3 (Kxh1 $144 2. Kf2 Kh2 3. Rh4#) 2. O-O Kh3 3. R1f3# 1-0
+
+[Event "Chess Monthly 1857"]
+[Site "?"]
+[Date "1857.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#4"]
+[SetUp "1"]
+[FEN "8/8/8/8/4p1R1/2N5/5p2/K2Rbk2 w - - 0 1"]
+[PlyCount "7"]
+
+1. Ka2 e3 2. Ra1 e2 3. Nb1 Bc3 4. Nd2# 1-0
+
+[Event "New York Albion 1857"]
+[Site "?"]
+[Date "1857.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#4"]
+[SetUp "1"]
+[FEN "8/8/8/1N6/8/8/2P1k3/4BRK1 w - - 0 1"]
+[PlyCount "7"]
+
+1. Bb4 Ke3 2. Nc3 Kd2 (Kd4 $144 3. Re1 Kc4 4. Re4#) 3. Rf2+ Ke3 (Kc1 $144 4. Ba3#) 4. Bc5# 1-0
+
+[Event "New York Albion 1858, 2nd prize"]
+[Site "?"]
+[Date "1858.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/3Q2pP/5pp1/4kN1P/7p/3P4/8/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. Qa4 gxf5 (Kxf5 $144 2. h8=N Kg5 (Ke6 $144 3. Qd7+ Ke5 4. Nxg6#) (gxh5 $144 3. Qe4+ Kg5 4. Nf7#) (h3 $144 3. Nf7 Ke6 (h2 $144 4. Qe4#) 4. Qd7#) 3. Nf7+ Kxh5 (Kf5 $144 4. Qe4#) 4. Qd1#) 2. Kd7 g5 3. Qb4 {mate in 1} 1-0
+
+[Event "The Gambit, 1859"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/8/8/8/3Q4/8/p1N1p1p1/r1k1rbK1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qc3 Rb1 (Rd1 $144 2. Na3#) (Kd1 $144 2. Ne3#) (Kb1 $144 2. Na3#) 2. Ne3# 1-0
+
+[Event "Musical World 1859"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r3k3/p1p5/Q3K3/8/8/8/8/8 w - - 0 1"]
+[PlyCount "1"]
+
+1. Qa1 {mat en 1} 1-0
+
+[Event "London congress 1866-1867"]
+[Site "?"]
+[Date "1867.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#4"]
+[SetUp "1"]
+[FEN "8/8/2P2Q2/2p5/6B1/2Bk4/8/5K2 w - - 0 1"]
+[PlyCount "7"]
+
+1. Bd2 c4 (Kc4 $144 2. Be2+ Kb3 3. Qa1 c4 (Kc2 $144 4. Qa2#) 4. Bd1#) (Kxd2 $144 2. Bf5 c4 (Ke3 $144 3. Qh4 c4 (Kf3 $144 4. Qf2#) (Kd2 $144 4. Qe1#) 4. Qf2#) (Kd1 $144 3. Qc3 c4 4. Bg4#) (Kc1 $144 3. Ke2 c4 4. Qc3#) (Kd1 $144 3. Qc3 c4 4. Bg4#) 3. Qb2+ Ke3 (Kd1 $144 4. Qc2#) 4. Qf2#) (Ke4 $143 2. Bf3+ Kd3 3. Qc3#) (Kc2 $144 2. Qc3+ Kb1 3. Qb3+ Ka1 4. Bc3#) 2. Bf5+ Kxd2 3. Qb2+ Ke3 (Kd1 $144 4. Qc2#) 4. Qf2# 1-0
+
+[Event "5th American Congress 1880, 3rd prize"]
+[Site "?"]
+[Date "1880.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#3"]
+[SetUp "1"]
+[FEN "Q3b3/1n4P1/1BkP1NPK/2Pp2p1/6rp/1p5B/2N1q2b/1r6 w - - 0 1"]
+[PlyCount "5"]
+
+1. Ne4 Kb5 (Kd7 $144 2. Qxe8+ Kxe8 3. Nf6#) (Rxe4 $144 2. Qxe8+ Rxe8 3. Nd4#) (Qxe4 $144 2. Nd4+ Qxd4 3. Qxe8#) 2. Qa4+ Kxa4 3. Nc3# 1-0
+
+[Event "Baltimore Herald"]
+[Site "?"]
+[Date "1880.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/8/8/8/1BB5/NN6/krQ5/7K w - - 0 1"]
+[PlyCount "3"]
+
+1. Qh7 Rh2+ (Rxb3 $144 2. Qb1#) 2. Qxh2# 1-0
+
+[Event "Buffalo Commercial Advertiser"]
+[Site "?"]
+[Date "1890.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/8/4pR2/4N2p/6pk/6R1/4K2P/7Q w - - 0 1"]
+[PlyCount "3"]
+
+1. Qa1 Kg5 2. Nf3# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1918.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/1K4b1/2p4q/5B2/Q7/B7/1R2P3/2k1n3 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bf8 Bxb2 (Kxb2 $144 2. Qa3#) (Bxf8 $144 2. Qa1#) (Nd3 $144 2. Qa1#) 2. Bxh6# 1-0
+
+[Event "La Stratégie"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#3"]
+[SetUp "1"]
+[FEN "8/5PkP/4K3/8/5P2/8/8/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. f8=R $1 (1. f8=Q+ $143 Kxh7 2. Qe7+ Kg6 3. Qg5+ Kh7 4. Kf6 Kh8 5. Qg7#) (1. h8=Q+ $143 Kxh8 2. Kf6 Kh7 3. f8=R Kh6 4. Rh8#) Kg6 (Kxh7 $144 2. Kf6 Kh6 3. Rh8#) (Kh6 $144 2. h8=Q+ Kg6 3. Rg8#) 2. h8=R $1 Kg7 3. Rfg8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/5N2/4p3/2K5/4k3/7R/3B2Rn/3b3Q w - - 0 1"]
+[PlyCount "3"]
+
+1. Rf3 Kxf3 (Bxf3 $144 2. Qb1#) (Nxf3 $144 2. Qh7#) (Bb3 $144 2. Re2#) (Ng4 $144 2. Rf4+) (e5 $144 2. Ng5#) 2. Ng5# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#3"]
+[SetUp "1"]
+[FEN "8/6R1/7p/5K1k/8/6p1/5bPP/4N3 w - - 0 1"]
+[PlyCount "5"]
+
+1. Rxg3 Bxg3 (Bxe1 $144 2. Rh3+ Bh4 3. g4#) 2. Nf3 Bd6 3. g4# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1876.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#3"]
+[SetUp "1"]
+[FEN "2K4N/3PP1k1/5N2/6n1/8/8/8/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. e8=N+ Kxh8 (Kh6 $144 2. d8=N Ne4 3. Ndf7#) (Kf8 $144 2. d8=N Ke7 3. Ng6#) 2. d8=N Ne4 3. Nf7# 1-0
+
+[Event "American Chess Nuts"]
+[Site "?"]
+[Date "1868.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#5"]
+[SetUp "1"]
+[FEN "6b1/4Kpk1/5r2/8/3B2P1/7R/8/8 w - - 0 1"]
+[PlyCount "9"]
+
+1. Rh6 Kxh6 (Bh7 $144 2. g5 Kh8 3. Bxf6+ Kg8 4. Rh5 Be4 5. Rh8#) 2. Kxf6 Kh7 3. g5 Kh8 4. g6 Bh7 (fxg6 $144 5. Kxg6#) 5. Kxf7# 1-0
+
+[Event "Meeting with Steinitz"]
+[Site "?"]
+[Date "1885.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#4"]
+[SetUp "1"]
+[FEN "8/p4pp1/PpbB1p2/1p6/1P1k4/2NpNPp1/1P1P4/6K1 w - - 0 1"]
+[PlyCount "7"]
+
+1. f4 Bh1 2. Bb8 (2. Bf8 $143 g2 3. Bxg7 $11) (2. b3 $1 {dual [It is possible Samuel Loyd let it on purpose]} g6 3. Be7 Bf3 4. Bxf6#) Bc6 (g5 $144 3. b3 gxf4 4. Nf5#) (Bg2 $144 3. Bxa7 Bd5 4. Bxb6#) (Bb7 $144 3. Bxa7 Bxa6 4. Bxb6#) 3. Bxa7 Bd5 4. Bxb6# 1-0
+
+[Event "chess monthly"]
+[Site "?"]
+[Date "1858.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#4"]
+[SetUp "1"]
+[FEN "8/8/K1p1p1p1/P1p1P1p1/P1p1k1p1/P1B1P1p1/P1R1P1N1/8 w - - 0 1"]
+[PlyCount "7"]
+
+1. Rc1 (1. Kb6 $143 Kf5 2. Rd2 Ke4 3. Kxc5 Kf5 4. Rd4 Kxe5 5. Rf4#) (1. Rd2 $143 Kf5 2. Kb6 Ke4 3. Kxc5 Kf5 4. Rd4 Kxe5 5. Rf4#) Kd5 (Kf5 $144 2. e4+ Kxe4 3. Re1 Kf5 (Kd5 $144 4. e4#) 4. e4#) 2. e4+ Kxe4 3. Re1 Kf5 4. e4# 1-0
+
+[Event "La statue de la liberté"]
+[Site "?"]
+[Date "2008.12.25"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#3"]
+[SetUp "1"]
+[FEN "3k4/3P4/3Q4/3p4/3P4/2PnP3/2P1K3/2B1R3 w - - 0 1"]
+[PlyCount "5"]
+
+1. Qxd5 (1. e4 $143 Nxc1+ 2. Rxc1 dxe4 3. Rg1 e3 4. Rg8#) (1. c4 $143 dxc4 2. Rf1 Nxc1+ 3. Kd1 c3 4. Rf8#) Nxc1+ (Nb2 $144 2. Bxb2 Kc7 (Ke7 $144 3. d8=Q#) 3. d8=Q#) (Nb4 $144 2. cxb4 Kc7 (Ke7 $144 3. d8=Q#) 3. d8=Q#) (Nc5 $144 2. dxc5 Kc7 (Ke7 $144 3. d8=Q#) 3. d8=Q#) (Ne5 $144 2. dxe5 Kc7 (Ke7 $144 3. d8=Q#) 3. d8=Q#) (Nf4+ $144 2. exf4 Kc7 (Ke7 $144 3. d8=Q#) 3. d8=Q#) (Nf2 $144 2. Kxf2 Kc7 (Ke7 $144 3. d8=Q#) 3. d8=Q#) (Nxe1 $144 2. Kxe1 Kc7 (Ke7 $144 3. d8=Q#) 3. d8=Q#) 2. Rxc1 Kc7 (Ke7 $144 3. d8=Q#) 3. d8=Q# 1-0
+
+[Event "Saturday Courrier"]
+[Site "?"]
+[Date "1856.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5N2/8/3K1N1p/1p3knR/1Pp2prb/n1B2b1B w - - 0 1"]
+[PlyCount "27"]
+
+1. Kc5 (1. Ke5 Bg1 2. Ng8 Bh2 (Kg4 $144 3. Nh6+ Kf3 (Kg5 $143 4. Nxg2+ Kg6 5. Nxh4+ Kh7 6. Rxg3 Bc4 7. Be4+ Kh8 8. Ng6+ Kg7 9. Nf4+ Kf8 10. Ne6+ Ke8 11. Bc6+ Ke7 12. Rg7#) 4. Nf5 Bh2 5. Ne3 Bg1 6. Nxf1 Kg4 7. Bxg2 Kg5 8. Ke6 Ne2 9. Nxe2+ Kg6 10. Nf4+ Kg7 11. Nh5+ Kf8 12. Rd3 Kg8 13. Rd8+ Kh7 14. Be4#) 3. Nh6 Bg1 4. Nf5 Bh2 5. Ne3 Bg1 6. Nxf1 Kg4 7. Bxg2 Kg5 8. Ke6 Bh2 (Ne2 $144 9. Nxe2+ Kg6 10. Rxh4 Bh2 11. Bh6 Kh7 12. Bg5+ Kg8 13. Bf6 c1=Q 14. Rh8#) 9. Rxh2 Nf5 10. Be4 Nd4+ 11. Kf7 Nf3 12. Nh3+ Kg4 13. Nxf2+ Kh5 14. Bxf3#) Bg1 2. Kb6 Bh2 3. Ka7 Bg1 4. Ka8 Bh2 5. Kb8 Bg1 6. Kc7 Bh2 7. Kd8 Bg1 8. Ke7 Bh2 9. Kf8 Bg1 10. Kg7 Bh2 11. Kh6 Bg1 12. Kg5 Bh2 13. Kxh4 Bg1 14. Rxg3# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1858.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#3"]
+[SetUp "1"]
+[FEN "8/8/2Q5/4N3/6r1/8/5p1k/5Kb1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Qh1+ Kxh1 (Kg3 $144 2. Qf3+ Kh2 (Kh4 $144 3. Qxg4#) 3. Nxg4#) 2. Nxg4 Bh2 3. Nxf2# 1-0
+
+[Event "Cleveland Voice 1877-1878"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#3"]
+[SetUp "1"]
+[FEN "6K1/8/7p/5p2/4k3/5N2/2PQ2R1/7n w - - 0 1"]
+[PlyCount "5"]
+
+1. Qc3 h5 (Nf2 $144 2. Qe5+ Kxf3 3. Rg3#) (Kd5 $144 2. Rd2+ Ke6 (Ke4 3. Rd4#) 3. Qe5#) (Kf4 $144 2. Nd2 Ng3 (Nf2 3. Qg3#) (h5 3. Qd4#) 3. Qxg3#) (Ng3 $144 2. Qd4+ Kxf3 3. Rf2#) (f4 $143 2. Qd3#) 2. Ng5+ Kd5 (Kf4 3. Qd4#) 3. Rd2# 1-0
+
+[Event "Baltimore Dispatch"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "4br1n/8/4p2Q/3p1k2/4p1N1/1B4K1/8/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Ba2 e3 (d4 2. Bxe6#) (e5 2. Ne3#) (Nf7 2. Qf6#) (Ng6 2. Qh5#) (Bg6 2. Qf4#) (Bf7 2. Qf6#) (Bh5 2. Qxh5#) (Rf7 2. Qh5#) (Rf6 2. Qxf6#) (Rg8 2. Qf6#) (Bd7 2. Qh5#) 2. Bb1# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1880.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#4"]
+[SetUp "1"]
+[FEN "K1k5/1R1ppb1Q/1P5n/B7/3p1q2/8/8/8 w - - 0 1"]
+[PlyCount "7"]
+
+1. Qxh6 Be8 (Qxh6 $143 2. Rb8#) (Kd8 $144 2. Qxf4 e6 3. Qxf7) (Qc7 $144 2. Rxc7+ Kd8 3. Rc8+ Kxc8 4. b7#) (Bd5 $144 2. Qh8+ Bg8 3. Qxg8+ Qf8 4. Qxf8#) 2. Rc7+ Qxc7 (Kd8 $144 3. Rc8+ Kxc8 4. b7#) 3. Qc1 Qc3 4. b7# 1-0
+
+[Event "La stratégie "]
+[Site "?"]
+[Date "1867.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#3"]
+[SetUp "1"]
+[FEN "8/1P3P2/Pk6/8/1K6/8/8/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. b8=N Ka7 (Kc7 $144 2. f8=Q Kb6 3. Qc5#) 2. f8=Q Kb6 3. Qc5# 1-0
+
+[Event "Albion"]
+[Site "?"]
+[Date "1856.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#3"]
+[SetUp "1"]
+[FEN "8/3QPk2/8/8/8/8/4K3/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. Qd6 Ke8 (Kg7 $144 2. e8=Q Kh7 3. Qdg6#) (Kg8 $144 2. e8=Q+ Kg7 3. Qdg6#) 2. Qe5 Kd7 3. e8=Q# 1-0
+
+[Event "Cleveland Leader "]
+[Site "?"]
+[Date "1876.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#3"]
+[SetUp "1"]
+[FEN "8/6p1/6Qp/3N1p1P/2P5/5k2/2P1p3/4K1B1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Ba7 f4 (Ke4 $144 2. Qg3 f4 (g6 $144 3. Qf4#) (g5 3. Qe3#) 3. Qxf4#) 2. Nb6 Ke3 3. Qd3# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1890.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#3"]
+[SetUp "1"]
+[FEN "6k1/K2Np1r1/4p2Q/4P3/4B3/8/8/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. Qh1 Rf7 (Rg6 $144 2. Bxg6 Kg7 3. Qh7#) (Kf7 $144 2. Qh5+ Rg6 (Kg8 $144 3. Qe8#) 3. Qxg6#) 2. Bg6 Rg7 (Rf8 $144 3. Qh7#) (Kg7 $144 3. Qh7#) 3. Qa8# 1-0
+
+[Event "Sissa"]
+[Site "?"]
+[Date "1868.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#3"]
+[SetUp "1"]
+[FEN "8/8/1Q6/1pP5/k7/8/K7/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. Qh6 Kb4 (Ka5 $144 2. Kb3 b4 3. Qb6#) (b4 $143 2. Qa6#) 2. Qc1 Ka5 (Ka4 $144 3. Qa3#) 3. Qa3# 1-0
+
+[Event "Detroit Free Press"]
+[Site "?"]
+[Date "1877.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#3"]
+[SetUp "1"]
+[FEN "8/2p5/2p5/k1K5/8/3Q4/8/3b4 w - - 0 1"]
+[PlyCount "5"]
+
+1. Qg3 Ka6 (Ka4 $144 2. Qc3 Bb3 3. Qb4#) (Bc2 $144 2. Qg8 Be4 (Ka4 $144 3. Qa2#) 3. Qa8#) (Bf3 $144 2. Qg8 Ka4 (Ka6 $144 3. Qa8#) 3. Qa2#) 2. Qxc7 Bb3 3. Qb6# 1-0
+
+[Event "1.p Chess Monthly "]
+[Site "?"]
+[Date "1857.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#3"]
+[SetUp "1"]
+[FEN "6R1/2K5/8/8/5p2/6p1/1Q3Nk1/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. Ng4+ Kh3 (Kg1 $144 2. Rd8 g2 3. Qa1#) (Kf1 $144 2. Ra8 $1 f3 3. Ra1#) (Kf3 $144 2. Qc2 g2 3. Qd3#) (Kh1 $144 2. Qh2+ gxh2 3. Nf2#) 2. Nh2 g2 (gxh2 $144 3. Qh8#) (Kh4 $144 3. Qh8#) (f3 $144 3. Rh8#) 3. Qh8# 1-0
+
+[Event "Chess Monthly"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#4"]
+[SetUp "1"]
+[FEN "8/7p/8/7p/7R/4K1kp/5R2/8 w - - 0 1"]
+[PlyCount "7"]
+
+1. Rh2 h6 (Kxh4 $144 2. Kf4 h6 3. Rh1 h2 4. Rxh2#) (Kxh2 $144 2. Kf2 h6 3. Rxh5 Kh1 4. Rxh3#) 2. R2xh3+ Kg2 3. Ke2 Kg1 4. Rg3# 1-0
+
+[Event "Illustreret F. Journal"]
+[Site "?"]
+[Date "1860.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#5"]
+[SetUp "1"]
+[FEN "8/8/8/8/p1p5/Kpk5/2P2R2/2N3B1 w - - 0 1"]
+[PlyCount "9"]
+
+1. Rh2 bxc2 (b2 $143 2. Na2#) 2. Rh1 Kd2 3. Bd4 c3 4. Bg1 Kxc1 (Kd1 5. Be3#) (Ke1 5. Be3#) 5. Be3# 1-0
+
+[Event "NY Albion"]
+[Site "?"]
+[Date "1857.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#4"]
+[SetUp "1"]
+[FEN "8/2p1B3/K1p5/2Rp4/3k4/1B6/2P5/4R3 w - - 0 1"]
+[PlyCount "7"]
+
+1. Bxd5 cxd5 2. Bf8 c6 3. Re7 Kxc5 4. Re4# 1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/4K3/3N3B/3pk2n/6R1/8/8/4n3 w - - 0 1"]
+[PlyCount "3"]
+
+1. Rf4 {/\Nf7#(#1)} d4 (Nc2 2. Nf7#) (Nxf4 2. Bg7#) (Ng3 2. Nf7#) 2. Rf5# 1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "2B5/8/8/2K3P1/4k3/6R1/3B4/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Rg2 Kd3 (Ke5 2. Re2#) (Kf3 2. Bb7#) 2. Bf5# 1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/8/8/6Q1/4R3/2K2p2/5k2/5b2 w - - 0 1"]
+[PlyCount "3"]
+
+1. Re1 Bg2 (Bh3 2. Qg1#) (Kxe1 2. Qd2#) 2. Qh4# 1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "1K6/8/7N/3k2p1/2N3B1/1R2B3/8/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Ng8 Kxc4 (Kc6 2. Ne7#) (Ke4 2. Nf6#) 2. Be6# 1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "1n6/Np1p4/5K2/3k4/1Q6/8/8/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Nc8 {/\Pe7#(#1)} b5 (Nc6 2. Nb6#) (Kc6 2. Qc4#) 2. Ne7# 1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/8/7Q/1P6/2k1B3/2B5/8/4K3 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bd5+ Kxb5 (Kxc3 2. Qd2#) (Kxd5 2. Qc6#) (Kd3 2. Qd2#) (Kc5 2. Qc6#) 2. Qc6# 1-0
+
+[Event "Sunny South"]
+[Site "?"]
+[Date "1885.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "5Q2/5B1k/6r1/6p1/6N1/6K1/8/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qa8 Rf6 (Rg7 2. Qh1#) (Rg8 2. Qxg8#) 2. Qg8# 1-0
+
+[Event "Frank Leslie's"]
+[Site "?"]
+[Date "1858.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/8/2K3Q1/8/2bk4/2Np4/1B2q3/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qe4+ Qxe4+ 2. Nd5# 1-0
+
+[Event "Hartford Globe"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/8/8/1B6/2r4p/1R5K/k1N5/1N2Q3 w - - 0 1"]
+[PlyCount "3"]
+
+1. Na1 Kxa1 (Rc3+ 2. Nxc3#) (Rc2 2. Qa5#) 2. Nc3# 1-0
+
+[Event "Hartford Globe"]
+[Site "?"]
+[Date "1877.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/8/8/1K3pr1/5R2/5QRp/6qp/7k w - - 0 2"]
+[PlyCount "3"]
+
+2. Qa8 {/\Tf1#(#1)} Qf3 (Qe4 3. Rf1#) (Qd5+ 3. Qxd5#) (Qc6+ 3. Qxc6#) (Qb7+ 3. Qxb7#) (Kg1 3. Qa1#) (Rxg3 3. Rf1#) 3. Qxf3# 1-0
+
+[Event "La Strategie"]
+[Site "?"]
+[Date "1867.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "2K3Qb/4P2r/4Nk2/8/8/5NB1/8/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Nf4 Kxe7 (Kf5 2. Qe6# (2. Qg6#)) (Rf7 2. Qg5#) (Rxe7 2. Qg6#) (Rh6 2. Qf8#) 2. Nd5# 1-0
+
+[Event "La Strategie"]
+[Site "?"]
+[Date "1867.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "5R2/1N3p2/3pk3/6PR/3Q4/B3K3/8/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qg4+ Kd5 (Ke7 2. Bxd6#) (f5 2. gxf6#) 2. Qe4# 1-0
+
+[Event "American Chess Journal"]
+[Site "?"]
+[Date "1880.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "2B2B2/8/1pkP4/1p2Q3/3P4/8/nKN4p/5R1q w - - 0 1"]
+[PlyCount "3"]
+
+1. Qe2 Nc1 (Nb4 2. Nxb4#) (b4 2. Qc4#) (Kd5 2. Bb7#) (Qg2 2. Qxg2#) (Qf3 2. Qxf3#) (Qe4 2. Qxe4#) (Qd5 2. Qe8#) (Qg1 2. Qf3# (2. Qe4#)) (Qxf1 2. Qe4#) 2. Nb4# 1-0
+
+[Event "American Chess journal"]
+[Site "?"]
+[Date "1877.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "3N4/2p3B1/5NQ1/2k5/Rn3P2/8/4K3/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qb1 {/\Dxb4#(#1)} Nd3 (Nd5 2. Ne4#) (Nc6 2. Nb7#) (Kb5 2. Qxb4#) 2. Bf8# 1-0
+
+[Event "Laskers Chess Magazine"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/1B2p2R/6N1/4Pkb1/8/2N5/8/3K2R1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bg2 e6 (Ke6 2. Bh3#) 2. Be4# 1-0
+
+[Event "Le Spinx"]
+[Site "?"]
+[Date "1866.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "3K4/5N2/2B2p2/3R4/4kP2/4P3/1B1q4/5Q2 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bc1 Qxc1 (Qxe3 2. Nd6#) (Qa5+ 2. Rxa5#) (Qd3 2. Qg2# (2. Qh1#) (2. Nd6#)) (Kxe3 2. Rd3#) 2. Re5# 1-0
+
+[Event "American Union"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/4Q3/4p3/R1b1k3/1N5P/4Np2/1K3P2/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qh7 Kd4 (Kd6 2. Nc4#) (Kf4 2. Nd3#) (Kf6 2. Ng4#) 2. Nc6# 1-0
+
+[Event "American Cronicle"]
+[Site "?"]
+[Date "1868.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "5K2/2BP2nN/4kN2/8/3r4/8/6Q1/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bf4 Rc4 (Rd3 2. Qe4#) (Re4 2. Qxe4#) (Rd5 2. Qxd5#) (Kf5 2. Qg4#) (Ne8 2. Qh3# (2. Qg4#)) (Nf5 2. Qg8#) (Rxf4 2. Qd5#) (Rxd7 2. Qe4#) 2. Qd5# 1-0
+
+[Event "Baltimore Dispatch"]
+[Site "?"]
+[Date "1860.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/7K/8/4bRrk/6bp/7R/4Q3/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Rhf3 Bd4 (Bxf3 2. Qxf3#) (Bh3 2. Rxh3#) (Bxf5+ 2. Rxf5#) (Rxf5 2. Rxf5#) (h3 2. Rxh3#) (Bg3 2. Qe8#) 2. Qe8# 1-0
+
+[Event "Baltimore Dispatch"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/1KN5/7Q/pnk5/r1qR4/8/8/2B5 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qe6 Ra3 (Rb4 2. Qb6#) (Nd6+ 2. Qxd6#) (Na3 2. Qd6# (2. Qb6#)) (Qd3 2. Qd5# (2. Qb6#) (2. Qe5#)) (Qd5+ 2. Qxd5#) (Qxe6 2. Nxe6#) (Qxd4 2. Na6#) (Kb4 2. Qxc4#) (Kxd4 2. Qe3#) 2. Rxc4# (2. Qxc4#) 1-0
+
+[Event "Detroit Free Press"]
+[Site "?"]
+[Date "1880.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "5B2/3n4/2Ppp3/3kN1Q1/1R6/3P4/2K5/8 w - - 0 2"]
+[PlyCount "3"]
+
+2. Qd8 Kc5 (Kxe5 3. Qg5#) (dxe5 3. Qxd7#) (Nb6 3. Qxd6#) (Nxe5 3. Qxd6#) 3. Qa5# 1-0
+
+[Event "St.Louis Globe Democrat"]
+[Site "?"]
+[Date "1879.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/7p/b1NNpk2/r7/7p/2n2B2/8/5QRK w - - 0 1"]
+[PlyCount "3"]
+
+1. Nb5 {/\Le2#(#1)} Ra4 (Ra3 2. Be2# (2. Bd1#) (2. Bh5#) (2. Be4#) (2. Bd5#)) (Ra1 2. Bd1#) (Rxb5 2. Bd5#) (Ne2 2. Bxe2#) (Ne4 2. Bxe4#) (Nd1 2. Bxd1#) (Nd5 2. Bxd5#) (Kf7 2. Bh5#) (Bxb5 2. Be2# {#1/1}) (Nxb5 2. Bd5# {#1/1}) 2. Be4# 1-0
+
+[Event "Detroit Free Press"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/2N5/8/k2NQ3/P1R5/Pp6/n2p4/1K1B4 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qa1 Nc1 (Nc3+ 2. Qxc3#) (Nb4 2. axb4#) (b2 2. Rc5#) 2. Qc3# 1-0
+
+[Event "Detroit Free Press"]
+[Site "?"]
+[Date "1877.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/6K1/3B4/3k4/3N4/3N4/3Q4/1R3R2 w - - 0 1"]
+[PlyCount "3"]
+
+1. Nf5 Kc4 (Ke4 2. Nc5#) (Ke6 2. Nc5#) (Kc6 2. Ne5#) (Ke4 2. Nc5#) 2. Ne5# 1-0
+
+[Event "Chigago Times"]
+[Site "?"]
+[Date "1897.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/4p3/N1P1pR2/4k3/8/4K3/5QR1/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Kf3 Kd5 (Kxf6 2. Ke4#) (Kd6 2. Qc5#) (exf6 2. Qc5#) 2. Qc5# 1-0
+
+[Event "Detroit Free Press"]
+[Site "?"]
+[Date "1881.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/8/7p/4K1kb/8/7R/7Q/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qa2 Kg4 (Kg6 2. Qg8#) (Bg4 2. Qg8#) 2. Qg2# 1-0
+
+[Event "Buffalo Center"]
+[Site "?"]
+[Date "1880.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "2R5/8/3k4/3N2p1/4K1Q1/8/8/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Kf5 Kxd5 (Kd7 2. Ke5#) 2. Qd1# 1-0
+
+[Event "Chess Record"]
+[Site "?"]
+[Date "1876.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/7K/2Rn1N2/6k1/6N1/2n4p/8/4QR2 w - - 0 1"]
+[PlyCount "3"]
+
+1. Nf2 {/\Pxh3#(#1)} Na2 (Kh4 2. N2e4#) (h2 2. Nh3#) (Kf4 2. Nxh3#) (Kxf6 2. Nxh3#) 2. Nxh3# 1-0
+
+[Event "Detroit Free Press"]
+[Site "?"]
+[Date "1876.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/5Q1N/2R5/4p3/p2pk3/R1p4P/5B2/4K3 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qb7 c2 (Kd3 2. Qb1#) (Kd5 2. Nf6#) (Kf5 2. Rf6#) (d3 2. Rf6#) (Kf3 2. Rf6#) (Kf4 2. Rf6#) 2. Rf6# 1-0
+
+[Event "New Orleans Times"]
+[Site "?"]
+[Date "1895.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "1BK5/8/2p5/3k4/4bR2/4R3/8/2Q5 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qc2 c5 (Kd4 2. Rd3#) (Bd3 2. Re5#) (Bf3 2. Qf5# (2. Qc4#) (2. Re5#)) (Bf5+ 2. Qxf5#) (Bg6 2. Qc4# (2. Re5#)) (Bxc2 2. Re5# {#1/1}) 2. Qxe4# 1-0
+
+[Event "N.Y.Mail and Express"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "2B5/3Q1R2/1p5q/4k3/3p4/4p1r1/5n2/Kn6 w - - 0 1"]
+[PlyCount "3"]
+
+1. Rf4 {/\Dxd4#(#1)} Nd2 (d3 2. Qd4#) (Kxf4 2. Qf5#) (Ne4 2. Rf5#) (Qxf4 2. Qe6#) (Qd6 2. Qf5#) 2. Qxd4# 1-0
+
+[Event "Detroit Free Press"]
+[Site "?"]
+[Date "1890.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "7Q/6P1/1KB3p1/5p1r/R3bNN1/4p1B1/8/R5qk w - - 0 1"]
+[PlyCount "3"]
+
+1. Ba8 e2+ (Bf3 2. Bxf3#) (Bg2 2. Bxg2#) (Bd5 2. Bxd5#) (Bc6 2. Bxc6#) (Bb7 2. Bxb7#) (Bxa8 2. Qxa8#) (fxg4 2. Bxe4#) (Qf1 2. Rxf1#) (Qe1 2. Rxe1#) (Qd1 2. Rxd1#) (Qc1 2. Rxc1#) (Qb1+ 2. Rxb1#) (Qxa1 2. Rxa1#) (g5 2. Qxh5#) (Rh4 2. Qxh4#) (Rh3 2. Qxh3#) (Rh2 2. Qxh2#) (Rh6 2. Qxh6#) (Rh7 2. Qxh7#) (Rxh8 2. gxh8=Q# (2. gxh8=R#)) 2. Nf2# 1-0
+
+[Event "N.Y.Mail and Express"]
+[Site "?"]
+[Date "1889.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/1P1PpP1K/1P2k3/1P6/7P/3NBN2/3R3P/4QR2 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qe2 Kd5 (Kd6 2. Nf4# (2. Nc5#)) (Kf5 2. Ng5#) (Kf6 2. Nd4# (2. Ng5#)) 2. Nc5# 1-0
+
+[Event "Turf,Field and Farm"]
+[Site "?"]
+[Date "1887.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "K7/8/8/RNn2b1R/3nkb2/8/BB3P2/2NQ4 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qg4 Na4 (Nb7 2. Nc3#) (Ndb3 2. Qg2#) (Ke5 2. Qxf5#) (Bxg4 2. Bd5#) (Be6 2. Nc3#) (Nc6 2. Nd6#) 2. Nd6# 1-0
+
+[Event "Providence journal"]
+[Site "?"]
+[Date "1886.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/8/2K5/6Q1/2B1k3/2P2b1R/3prn2/3N4 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bb3 Re1 (Kd3+ 2. Qd5#) (Nxd1 2. Bc2#) (Nd3 2. Bd5#) 2. Nxf2# 1-0
+
+[Event "Huddersfeld Magazine"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "3b4/2p2K2/4N3/2Pk1p2/Q3p3/3NR3/b2p2n1/3B4 w - - 0 1"]
+[PlyCount "3"]
+
+1. Ke8 Bb1 (Bb3 2. Bxb3#) (Bc4 2. Qd7#) (c6 2. Qxa2#) (Kxe6 2. Qc6#) (Be7 2. Nxc7#) (exd3 2. Bf3#) (f4 2. Qxe4#) (Ne1 2. Nef4#) (Nf4 2. Nexf4#) 2. Bb3# 1-0
+
+[Event "L'Universe Illustre"]
+[Site "?"]
+[Date "1867.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "3brrb1/8/1P6/Q5p1/2q1k1P1/pR2pN2/K1P1NRPB/1B6 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qc5 Qxb3+ (Qd3 2. cxd3#) (Qxe2 2. Qd4#) (Qd5 2. Qxe3# (2. Nc3#)) (Qb4 2. c4# (2. c3#)) (Qa4 2. Nc3# (2. c4#) (2. c3#)) (Qc3 2. Nxc3#) (Qxc2+ 2. Bxc2#) (Qd4 2. Qxd4#) (Bc7 2. Nxg5#) (Be7 2. Qe5#) (Bf6 2. Qf5#) (exf2 2. Nd2#) (Re6 2. Qxc4#) (Re5 2. Qxe5#) (Rf5 2. Qxf5#) (Rf4 2. Ng3#) (Rxf3 2. gxf3#) 2. cxb3# 1-0
+
+[Event "Lyn News"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "6R1/7r/3P4/8/5Qpk/3Kn3/8/5N1r w - - 0 1"]
+[PlyCount "3"]
+
+1. Ke2 Nc2 (Rg1 2. Qh2#) (Rh2+ 2. Qxh2#) (Rh3 2. Qg5#) (Kh3 2. Qg3#) (Rg7 2. Qh6#) (Rh6 2. Qxh6#) (Rh8 2. Rxh8#) (Rh5 2. Qg3#) 2. Qxg4# 1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/r1b5/1R1N4/kq6/p2Q4/8/K7/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qe5 {/\Dxb5#(#1)} Qxe5 (Kb4 2. Rxb5#) (Qc5 2. Nc4# (2. Qxc5#)) (a3 2. Qxb5#) 2. Nc4# 1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1858.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/6K1/1p1B1RB1/8/2Q5/2n1kP1N/3b4/4n3 w - - 0 1"]
+[PlyCount "3"]
+
+1. Ba3 b5 (Na2 2. Qe4#) (Bc1 2. Bxc1#) (Nc2 2. Qd3#) (Ne4 2. Qxe4#) (Nxf3 2. Qd3#) 2. Bc5# 1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1858.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/8/4B3/1p1p4/3k4/3b2Q1/3K4/4R3 w - - 0 1"]
+[PlyCount "3"]
+
+1. Re4+ Bxe4 (Kc5 2. Qc7#) (Kxe4 2. Qe3#) (dxe4 2. Qd6#) 2. Qc3# 1-0
+
+[Event "Unpublished"]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "7Q/7b/5p1p/8/5NN1/4KP2/7R/6k1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Rxh6 f5 (Kf1 2. Rh1#) (Bd3 2. Rh1#) 2. Qa1# 1-0
+
+[Event "N.Y.State Chess Association"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "b7/2rR4/QNk5/4Rn2/6B1/3K4/8/6n1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Ra5 Bb7 (Rxd7+ 2. Nd5#) (Ne2 2. Bf3#) (Nd6 2. Nc8#) 2. Qb5# 1-0
+
+[Event "N.Y.State Chess Association"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "7K/8/8/8/R4pNk/8/1Q6/2BB1N2 w - - 0 1"]
+[PlyCount "3"]
+
+1. Ng3 f3 (fxg3 2. Nf2#) (Kg5 2. Qf6#) (Kxg3 2. Qh2#) (Kh3 2. Qh2#) 2. Qh2# 1-0
+
+[Event "St.louis Globe Democrat"]
+[Site "?"]
+[Date "1886.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/5p2/3p1Q1K/B7/2B4N/3rk1N1/2b2p2/1R2nr2 w - - 0 1"]
+[PlyCount "3"]
+
+1. Ne2 {/\De7#(#1)} Bxb1 (Rc3 2. Qd4# (2. Qf4#)) (Rd2 2. Qf4#) (Rd4 2. Qxd4#) (d5 2. Qe5# (2. Qe7#)) (Nf3 2. Qxf3#) (Kxe2 2. Qe7#) 2. Qe7# 1-0
+
+[Event "The Gambit"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/5n2/8/Q5N1/5kp1/1R6/8/2K5 w - - 0 1"]
+[PlyCount "3"]
+
+1. Re3 Kxe3 (Nd6 2. Qe5#) (Ne5 2. Qxe5#) (g3 2. Re4#) 2. Qd2# 1-0
+
+[Event "N.Y.Albion"]
+[Site "?"]
+[Date "1858.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "1b6/1qPB4/5K2/1npkP3/Q1N2p2/2prpP2/b1N5/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qa8 {/\Pb6#(#1)} Bb1 (Bxc4 2. Qxb7#) (Qc6+ 2. Be6#) (Ba7 2. Qg8#) (Kxc4 2. Qxa2#) (Qxa8 2. Nb6# {#1/1}) 2. Nb6# 1-0
+
+[Event "Philadelphia Bulletin"]
+[Site "?"]
+[Date "1858.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "7B/2R1KnQ1/1p1PP3/3k4/2N5/r3p1N1/4n3/1q6 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qa1 Ra2 (Rb3 2. Qa8#) (Ra8 2. Qxa8# (2. Nxe3#)) (Qc2 2. Nxb6#) (Qa2 2. Qh1# (2. Nxb6#)) (Qh1 2. Qxh1# (2. Nxb6#)) (b5 2. Nb6#) (Nc1 2. Qd4#) (Nd4 2. Qxd4#) (Nxd6 2. Qe5#) (Ne5 2. Qxe5#) 2. Nxe3# 1-0
+
+[Event "N,Y. State Chess Associaton"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "6kn/3NR3/6rR/5N2/pB3P2/Knp2r1p/B1P4b/7Q w - - 0 1"]
+[PlyCount "3"]
+
+1. Rxh3 Re3 (Rf6 2. Rg7#) (Rg5 2. Nh6#) (Bg1 2. Rxh8#) (Nf7 2. Re8#) (Bxf4 2. Rxh8#) (Rh6 2. Nxh6#) (Rxh3 2. Qa8#) (Rg1 2. Nh6#) 2. Qa8# 1-0
+
+[Event "The Circle"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "1B2n2Q/KNpkP1R1/B1NbR1p1/6P1/1pP5/1P6/8/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qh7 Bc5+ (Kxc6 2. Bb5#) (Kxe6 2. Qh3#) (Nxg7 2. e8=Q#) (Bxe7 2. Nc5#) 2. Nxc5# 1-0
+
+[Event "St.Louis Globe"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/8/6B1/8/2k2K2/Q3P3/8/7R w - - 0 1"]
+[PlyCount "3"]
+
+1. Rh6 Kb5 (Kd5 2. Bf7#) 2. Bd3# 1-0
+
+[Event "N.Y.Commercial Advertiser"]
+[Site "?"]
+[Date "1901.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "1nK3R1/1BP3R1/1N3k2/Q4P2/6P1/4B2n/7r/qbb5 w - - 0 2"]
+[PlyCount "3"]
+
+2. Qa6 {/\Pd7#(#1)} Qb2 (Qe5 3. Nd5# (3. Nd7#)) (Qxa6 3. Bd4#) (Nd7 3. Nxd7#) (Ke5 3. Nc4#) (Nxa6 3. Nd7#) (Bxf5+ 3. Nd7#) (Ke5 3. Nc4#) 3. Nd7# 1-0
+
+[Event "N.Y. Comercial Advertiser"]
+[Site "?"]
+[Date "1897.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "3R3B/Q7/5nK1/3n4/3NkNR1/2p2p2/2P2P2/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qh7 Nb4 (Nxf4+ 2. Kxf6#) (Ne7+ 2. Qxe7#) (Kxd4 2. Nd3#) (Nd7 2. Kf7# (2. Kg5#) (2. Kh5#) (2. Kh6#)) (Nxh7 2. Nxd5#) (Nxg4 2. Kg5#) 2. Qe7# (2. Kxf6#) 1-0
+
+[Event "N.Y. Commercial Advertiser"]
+[Site "?"]
+[Date "1895.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/6B1/8/3BNk2/8/2K5/8/2Q5 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bf8 Kxe5 (Kf6 2. Qf4#) 2. Qg5# 1-0
+
+[Event "City Chess Club"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/2R5/4Q3/KB6/1P6/pNB2p2/ppkN1p2/q1r1bR2 w - - 0 1"]
+[PlyCount "3"]
+
+1. Nc4 Qb1 (Rd1 2. Nxa3#) (Kb1 2. Nxa3#) (Kxc3 2. Nxa3#) (Bxc3 2. Nxa3#) (Kd1 2. Ne3#) 2. Ne3# 1-0
+
+[Event "N.Y.Mail and Express"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "4k3/1Rn1P3/3p1p2/Kp1N1N2/BPr1R1r1/7Q/8/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bb3 Rxb4 (Na6 2. Nxd6#) (Kd7 2. e8=Q#) (Rcxe4 2. Nxf6#) (Rgxe4 2. Nxd6#) (Kf7 2. e8=Q#) 2. Nxf6# 1-0
+
+[Event "N.Y.State Chess Assocation"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "2q3n1/6nK/3p1rP1/4P1p1/2pk3p/Q3R3/2PN1RBB/1brN4 w - - 0 1"]
+[PlyCount "3"]
+
+1. Rg3 {/\Qe3#(#1)} Bxc2 (c3 2. Rd3#) (Qc5 2. Qc3# (2. Qe3#)) (Rf5 2. Qxd6# (2. Qe3#)) (Nf5 2. Rg4#) (hxg3 2. Qe3#) (Rf3 2. Qxd6#) (Kxe5 2. Qe3#) 2. Qe3# 1-0
+
+[Event "N.Y.State Chess Association"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "6r1/6p1/4N2B/4N1R1/8/4k2K/1Q6/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qa1 {/\De1#(#1)} Kd2 (Ke4 2. Qd4#) (g6 2. Qe1#) (Ke2 2. Rg2#) (gxh6 2. Qe1#) 2. Rg2# 1-0
+
+[Event "N.Y.State Chess Association"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "5R2/8/2p3B1/3k1N2/4R3/1K2b3/8/7Q w - - 0 1"]
+[PlyCount "3"]
+
+1. Qa1 {/\Qe5#(#1)} c5 (Kc5 2. Qa5#) (Kxe4 2. Ne7#) (Bd2 2. Qd4# (2. Qe5#) (2. Re5#)) (Bf2 2. Qe5# (2. Re5#)) 2. Qa8# 1-0
+
+[Event "N.Y.State Chess Association"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/4p3/P1Rq1p2/2pk1B2/N1R5/N7/KQ3B2/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qb8 Kxc6 (Ke5 2. R6xc5#) (Qe5 2. R4xc5# (2. R6xc5#)) (Qxc6 2. Nc3#) (e5 2. Qxd6# (2. Rxd6#)) 2. Qb7# 1-0
+
+[Event "N.Y.State Chess Association"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "7B/5R2/3p3N/1p1P4/1K2k2r/4N3/4Q3/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Rg7 Kd4 (Kf4 2. Ng2#) (Rg4 2. Rxg4#) (Rf4 2. Re7#) (Rxh6 2. Rg4#) 2. Rg4# (2. Re7#) 1-0
+
+[Event "N.Y.Mail&Express"]
+[Site "?"]
+[Date "1891.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "3q4/3R4/1bn1R3/n7/K1N2N2/B1k1r3/Q7/5b2 w - - 0 2"]
+[PlyCount "3"]
+
+2. Nd6 {/\Db2#(#1)} Nc4 (Nb3 3. Qb2#) (Re4+ 3. Nxe4#) (Bb5+ 3. Nxb5#) (Kd4 3. Nb5#) (Rxe6 3. Qb2#) 3. Nb5# 1-0
+
+[Event "Unpublished"]
+[Site "?"]
+[Date "1891.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "1R6/1p1k1p2/1R3P2/3b4/3K4/6B1/8/3Q4 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qd3 Bc4 (Bb3 2. Qb5#) (Be4 2. Kxe4#) (Bf3 2. Qf5#) (Be6 2. Qb5#) 2. Kxc4# 1-0
+
+[Event "N.Y.Evening Telegram"]
+[Site "?"]
+[Date "1890.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "Q7/1p2p3/8/1Rp5/K7/8/8/k7 w - - 0 1"]
+[PlyCount "3"]
+
+1. Ka5 {/\Kb6#(#1)} Ka2 (b6+ 2. Kxb6#) (c4 2. Kb6#) 2. Kb6# 1-0
+
+[Event "Providence Journal"]
+[Site "?"]
+[Date "1890.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "2n1K3/8/4N3/3pNb2/4k3/3pbp2/8/Q7 w - - 0 1"]
+[PlyCount "3"]
+
+1. Nf7 {/\De5#(#1)} Na7 (Nd6+ 2. Nxd6#) (d2 2. Qb1#) (d4 2. Qa8#) (Bd2 2. Qd4# (2. Qe5#)) (Bd4 2. Qxd4#) (f2 2. Qh1#) (Bb6 2. Qe5#) (Bxe6 2. Qe5#) 2. Qe5# (2. Nd6#) 1-0
+
+[Event "N.Y. Sunday Herald"]
+[Site "?"]
+[Date "1889.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "3r3r/pbp2pbp/1p5q/8/Q6P/B2B1PPN/1R2P1N1/2k1nK1R w - - 0 1"]
+[PlyCount "3"]
+
+1. Bf8 {/\Qa1#(#1)} a5 (Kxb2 2. Qa3#) (Nc2 2. Qxc2#) (Bxb2 2. Bxh6#) 2. Qa1# 1-0
+
+[Event "American Chess Nuts"]
+[Site "?"]
+[Date "1887.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "7B/6R1/3p4/3p4/3k2p1/6K1/2R5/1B6 w - - 0 2"]
+[PlyCount "3"]
+
+2. Rb2 Kc3 (Ke3 3. Re7#) (Kc5 3. Rc7#) (Ke5 3. Rg6#) 3. Rc7# 1-0
+
+[Event "Dtroit Free Press"]
+[Site "?"]
+[Date "1885.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "n2KQb2/1p1B2R1/1p1k1r2/p4R2/N5p1/1p5p/5P1q/3r4 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qe3 Nc7 (b2 2. Qa3#) (b5 2. Qc5#) (Rc1 2. Qd2# (2. Qd4#) (2. Qd3#)) (Rd2 2. Qxd2#) (Rd3 2. Qxd3#) (Rd4 2. Qxd4#) (Rd5 2. Rxf6#) (Re6 2. Qxe6#) (Rxf5 2. Qe6#) (Rg6 2. Rxg6#) (Rh6 2. Qxh6#) (Be7+ 2. Qxe7#) (Bxg7 2. Qe7#) (g3 2. Qf4# (2. Qe5#)) (Qg3 2. Qxg3#) (Qf4 2. Qxf4#) (Qe5 2. Qxe5#) (Qxf2 2. Qe5#) 2. Qxb6# 1-0
+
+[Event "Detroit Free Press"]
+[Site "?"]
+[Date "1884.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/4N3/8/4p1P1/2K4p/3B1k1p/R6P/2Q5 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bc2 e4 (Ke2 2. Be4#) (Kf2 2. Be4#) (Kg2 2. Be4#) (Kg4 2. Bd1#) 2. Bd1# 1-0
+
+[Event "ChessStrategy"]
+[Site "?"]
+[Date "1881.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "5N2/2n1n3/2p5/4p3/1N1k4/1KR2B2/1Pp5/2r1B1b1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bh4 Rb1 (c5 2. Rd3#) (Na6 2. Ne6#) (Ne6 2. Nxe6#) (e4 2. Bf6#) (Nc8 2. Nxc6#) (Bh2 2. Bf2#) (Bf2 2. Bxf2#) (Be3 2. Rc4#) (Nf5 2. Nxc6#) 2. Nxc2# 1-0
+
+[Event "5th American ChessCongres"]
+[Site "?"]
+[Date "1880.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "2R5/BpNnp3/qp4RK/p1k1p3/7p/PnN1p3/2Q4r/3r3b w - - 0 1"]
+[PlyCount "3"]
+
+1. Rg2 {/\P3b5#(#1)} a4 (Qb5 2. N3xb5# (2. N7xb5#)) (Qc4 2. N7b5#) (Nd4 2. Ne4#) (Kc4 2. Ne2# (2. N3b5#)) (Kc6 2. Ne8# (2. N7b5#)) (Kd4 2. Ne6#) (Bxg2 2. N3b5# {#1/1}) 2. N3b5# (2. N7b5#) 1-0
+
+[Event "Baltimore Herald"]
+[Site "?"]
+[Date "1880.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/8/8/8/7p/4PQpp/R5q1/KR4Bk w - - 0 1"]
+[PlyCount "3"]
+
+1. Qa8 Qf3 (h2 2. Qxg2# (2. Bf2#)) (Qxa8 2. Bh2# {#1/1}) 2. Bh2# 1-0
+
+[Event "St.Louis Globe Democrat"]
+[Site "?"]
+[Date "1880.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "2bR3Q/pkb5/N7/1P6/2N5/8/6K1/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qh1 {/\Kf1#(#1)} Ka8 (Bd7 2. Nc5#) (Bh3+ 2. Kxh3#) 2. Kf1# (2. Kf2#) (2. Kg1#) 1-0
+
+[Event "St.louis Globe Democrat"]
+[Site "?"]
+[Date "1880.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/4R3/8/8/1k6/R1NK4/8/5Q2 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qf8 {/\Rb7#(#1)} Kxa3 (Kc5 2. Re6#) 2. Rb7# 1-0
+
+[Event "Detroit Free Press"]
+[Site "?"]
+[Date "1879.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "b1K1N3/1n6/5Q1b/1pk3P1/8/3P4/4R1r1/1R5B w - - 0 1"]
+[PlyCount "3"]
+
+1. Rf2 {/\Tf5#(#1)} b4 (Nd6+ 2. Qxd6#) (Nd8 2. Qd6#) (Rxf2 2. Qxf2#) (Rg1 2. Rc2# (2. Rf5#)) (Rxg5 2. Rc2# {#1/1}) 2. Rf5# 1-0
+
+[Event "St. Louis Globe Democrat"]
+[Site "?"]
+[Date "1879.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "R3n2K/4k3/7N/P3BB2/2N5/8/8/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bg3 Kf6 (Kf8 2. Bd6#) (Nc7 2. Bh4# {#1/1}) 2. Bh4# 1-0
+
+[Event "Danbury News"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "3R3K/4ppp1/2p5/1nN1kpQN/8/r7/b4rP1/3R2n1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Nb3 {/\De3#(#1)} Bb1 (Bxb3 2. Qe3#) (Rxb3 2. Qxe7# {#1/1}) 2. Qxe7# 1-0
+
+[Event "Hartford Globe"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "Q2b1r2/3P2B1/1P2P1q1/R7/1k2N2R/1B1r1PP1/2p5/4n2K w - - 0 1"]
+[PlyCount "3"]
+
+1. Rf5 {/\Da4#(#1)} Kxb3 (c1=Q 2. Qa4#) (Rxb3 2. Ng5#) 2. Nc5# 1-0
+
+[Event "Paris Tournament"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "7n/rpQ5/8/1RN2p2/8/1R4rq/p1k2N2/K1B1n2b w - - 0 1"]
+[PlyCount "3"]
+
+1. Rf3 {/\Pa4#(#1)} Ra6 (Ra5 2. Na4# (2. Na6#) (2. Nce4#) (2. Ne6#) (2. Nb3#) (2. Nxb7#) (2. Ncd3#) (2. Nd7#)) (Ra4 2. Nxa4#) (Ra3 2. Nb3#) (b6 2. Nb7#) (Nd3 2. Ncxd3#) (Rxf3 2. Ncd3#) (Rg4 2. Nce4#) (Rg6 2. Ne6#) (Rg7 2. Nd7#) (Bxf3 2. Nce4# {#1/1}) (Kxc1 2. Nb3# {#1/1}) 2. Nxa6# 1-0
+
+[Event "Pheladelphia Progress"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/8/3RPn1R/2Pnk3/1P4Q1/3b2NN/B2P1P2/4K3 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qd1 Bc2 (Nxb4 2. Qa1# (2. f4#)) (Nc3 2. f4#) (Nd7 2. Rxd5#) (Nf4 2. Qa1# {#1/1}) (Nh5 2. Rxd5# {#1/1}) 2. d4# 1-0
+
+[Event "Unpublished"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/7K/8/5R2/3N2R1/5Q1p/2N3qp/7k w - - 0 1"]
+[PlyCount "3"]
+
+1. Qa8 {/\Tf1#(#1)} Qf3 (Qe4 2. Qxe4#) (Qd5 2. Qxd5# (2. Qa1#) (2. Rf1#)) (Qc6 2. Qxc6# (2. Qa1#) (2. Rf1#)) (Qb7+ 2. Qxb7#) (Qxa8 2. Rf1#) (Kg1 2. Qa1#) 2. Qxf3# 1-0
+
+[Event "Detroit Free Press"]
+[Site "?"]
+[Date "1877.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "4N2K/6pP/1pQ5/1RN5/P2kp2P/7q/3bBPbn/3R1nrr w - - 0 1"]
+[PlyCount "3"]
+
+1. Kg8 bxc5 (Kc3 2. Ne6#) (e3 2. Nb3#) (g5 2. h8=Q# (2. h8=B#)) (Qe6+ 2. Nxe6#) (Qb3+ 2. Nxb3#) (Ng4 2. Ne6# {#1/1}) 2. Qxc5# 1-0
+
+[Event "American Chess Nuts"]
+[Site "?"]
+[Date "1868.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "q1r1n1bK/6PP/r7/p2p4/B3Q3/N7/kBR5/3N4 w - - 0 1"]
+[PlyCount "3"]
+
+1. Rc6 {/\Db1#(#1)} Rb6 (dxe4 2. hxg8=Q# (2. hxg8=B#)) (Bxh7 2. Qxd5#) (Qxc6 2. Qb1# {#1/1}) 2. Qb1# 1-0
+
+[Event "American Chess Nuts"]
+[Site "?"]
+[Date "1868.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "1B3n2/7n/P1k5/R1PN1Q2/7q/8/1pR3P1/1K1B4 w - - 0 1"]
+[PlyCount "3"]
+
+1. Be5 Kxd5 (Nd7 2. Qe6#) (Ne6 2. Qxe6#) (Qg3 2. Nb4# (2. Ne7#)) (Qe1 2. Ne7#) (Qb4 2. Nxb4# (2. Ne7#)) 2. c6# 1-0
+
+[Event "American Chess Nuts"]
+[Site "?"]
+[Date "1868.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "1Q6/8/n6B/4b3/1r5p/3P1N2/5k1P/3R2NK w - - 0 1"]
+[PlyCount "3"]
+
+1. Nd4 {/\Ph3#(#1)} Nc5 (Ra4 2. Qb2# (2. Nh3#)) (Rb2 2. Qxb2# (2. Nh3#)) (Bxd4 2. Qf4#) (Bf4 2. Qxf4#) (Bxh2 2. Qxh2# (2. Nh3#)) (h3 2. Nxh3#) (Rxd4 2. Qb2# {#1/1}) (Rxb8 2. Nh3# {#1/1}) 2. Nh3# 1-0
+
+[Event "American Chess Nuts"]
+[Site "?"]
+[Date "1868.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "6R1/8/7K/8/8/7p/5RPk/Q3B3 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qa8 Kg1 (hxg2 2. Qxg2#) (Kh1 2. gxh3# {#1/1}) 2. gxh3# 1-0
+
+[Event "Wilke's Spirit of the Thimes"]
+[Site "?"]
+[Date "1868.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/2R5/4r3/3rk1P1/1Q1N4/1N1P2K1/8/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qb8 Rc5 (Rb5 2. Rc5#) (Kd6 2. Rb7# (2. Ra7#) (2. Rf7#) (2. Rg7#) (2. Rh7#)) (Red6 2. Re7#) (Re7 2. Rxe7#) (Rxd4 2. Rc5# {#1/1}) (Rdd6 2. Rc5# {#1/1}) 2. Rxc5# 1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1860.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "3B1n2/KPpq1nN1/3p4/1B1p4/2pkp3/1R1NpR2/2PP3Q/2b2b2 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qxd6 {/\Dc5#(#1)} Bxd2 (Bb2 2. dxe3# (2. Qc5#)) (c3 2. Rb4# (2. dxc3#) (2. Qc5#) (2. Qb4#)) (cxb3 2. c3# (2. Qc5#) (2. Qb4#)) (c5 2. Qxc5#) (cxd6 2. Bb6#) (Qc6 2. Nf5#) (exd3 2. Rf4#) (exf3 2. Qf4#) (Nxd6 2. Bf6#) 2. Qc5# 1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "4Q3/4PPr1/6k1/6P1/5pPp/8/q5n1/5b1K w - - 0 1"]
+[PlyCount "3"]
+
+1. Qh8 {/\Dh5#(#1)} Qb1 (Qxf7 2. Qh6# (2. Qh5#)) (Kxf7 2. e8=Q#) (Kxg5 2. Qxg7#) (Rh7 2. Qf6#) (Rg8 2. Qxg8#) 2. Qh5# 1-0
+
+[Event "Philadelphia Evening"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "1q6/1P1p4/3Rp3/5N2/6P1/6P1/1R6/Q4K1k w - - 0 1"]
+[PlyCount "3"]
+
+1. Qa8 Qa7 (Qxa8 2. bxa8=Q# (2. bxa8=B#)) (Qxb7 2. Qxb7# (2. Qh8#)) (Qc8 2. bxc8=Q# (2. bxc8=R#) (2. bxc8=B#) (2. bxc8=N#)) (Qd8 2. b8=Q# (2. b8=R#) (2. b8=B#) (2. b8=N#)) (Qh8 2. Qxh8# (2. b8=Q#) (2. b8=R#) (2. b8=B#) (2. b8=N#)) (e5 2. Rh6#) (Qxd6 2. Qh8#) (exf5 2. Rh6#) 2. Qh8# 1-0
+
+[Event "The Gambit"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "5K2/8/8/8/8/4N1pQ/5pr1/5qk1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Ke7 Qe2 (Rh2 2. Qxf1#) 2. Qxg2# 1-0
+
+[Event "American Chess Nuts"]
+[Site "?"]
+[Date "1858.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "5b2/1p2p1p1/1Q1pR1P1/6P1/k2p1K1p/1p1N3P/r1n3P1/nN1B4 w - - 0 1"]
+[PlyCount "3"]
+
+1. Na3 {/\Da7#(#1)} Rb2 (Rxa3 2. Nb2#) (Kxa3 2. Qa5# (2. Qa7#)) (b2 2. Qb4#) (Nb4 2. Qxb4#) (Nxa3 2. Qb4#) (d5 2. Qa7#) (Rb2 2. Qa7#) 2. Qa7# 1-0
+
+[Event "Frank Leslie's"]
+[Site "?"]
+[Date "1858.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/4p1K1/4p3/4kN2/3R4/7Q/7b/5b1n w - - 0 1"]
+[PlyCount "3"]
+
+1. Qh8 {/\Kg6#(#1)} Kxf5 (exf5 2. Kf7#) (Bg2 2. Kg6#) 2. Qh5# 1-0
+
+[Event "Chess Monthly"]
+[Site "?"]
+[Date "1857.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "7Q/q7/2PPBRPN/4kN1R/4p1pB/1P2p1Pb/2P1p3/4K3 w - - 0 2"]
+[PlyCount "3"]
+
+2. Qa8 Qb6 (Qb8 3. Qa1# (3. Nf7#)) (Qa5+ 3. Qxa5#) (Qa1+ 3. Qxa1#) (Qd7 3. Qa5# (3. Qa1#)) (Bg2 3. Nxg4#) 3. Nf7# 1-0
+
+[Event "Saterday's Press"]
+[Site "?"]
+[Date "1857.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/8/8/8/5N2/6n1/1np5/1rk1K2Q w - - 0 1"]
+[PlyCount "3"]
+
+1. Qa8 Ra1 (Nd1 2. Nd3#) (Nd3+ 2. Nxd3#) (Ne2 2. Nxe2#) (Ne4 2. Ne2#) (Nc4 2. Nd3# {#1/1}) (Nh5 2. Ne2# {#1/1}) 2. Qxa1# 1-0
+
+[Event "Unpublished"]
+[Site "?"]
+[Date "1855.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/8/5R2/2pPp3/3kp3/R1N3Q1/2K5/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Ne2+ (1. Nb5+ Kc4 (Kxd5 2. Qg8#) 2. Qb3#) (1. Qg7 c4 (Kc4 2. Ra4#) (Ke3 2. Qg1#) (e3 2. Rf4#) 2. Qa7#) Kc4 (Kxd5 2. Qg8#) 2. Qb3# 1-0
+
+[Event "Unpublished"]
+[Site "?"]
+[Date "1855.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#2"]
+[SetUp "1"]
+[FEN "8/8/5R2/2ppp2p/3kp2K/R1Np4/6Q1/2N1BB2 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qg7 c4 (d2 2. Nb5#) (Kc4 2. Ra4#) (Ke3 2. Qg1#) (e3 2. Rf4#) 2. Qa7# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1860.??.??"]
+[Round "?"]
+[Composer "Loyd, Sam"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/8/8/8/B6n/7p/6k1/4K3 w - - 0 1"]
+
+1. Bd7 (1. Bc6+ $2 Kg1 $19 2. Bb7 Ng2+) (1. Ke2 $2 h2 2. Bc6+ Kg1 $19) (1. Bc2 $2 Nf3+ 2. Ke2 Nd4+ $19) (1. Bb5 $2 Nf3+ 2. Kd1 h2 $19) (1. Bd1 $2 h2 $19 2. Bf3+ Nxf3+ 3. Kd1 h1=Q+) (1. Bb3 $2 Nf3+ 2. Kd1 h2 $19) (1. Kd2 $2 Kf2 $19 2. Bc6 Nf3+) (1. Kd1 $2 Kf2 $19) (1. Be8 $2 Nf3+ 2. Ke2 Kg3 3. Ba4 h2) h2 2. Bc6+ (2. Ke2 $2 Kg3 $19) (2. Kd1 $2 h1=Q+ 3. Kd2 Nf3+) (2. Bg4 $2 h1=Q+ 3. Ke2 Qf1+) (2. Be6 h1=Q+ 3. Ke2 Nf3) (2. Bb5 h1=Q+ 3. Kd2 Qa1) (2. Bc8 h1=Q+ 3. Kd2 Nf3+) (2. Bf5 h1=Q+ 3. Ke2 Nxf5) (2. Kd2 h1=Q) Kg1 (Nf3+ 3. Ke2 $10) 3. Bh1 (3. Ba8 $2 Ng2+ 4. Bxg2 Kxg2) (3. Bf3 $2 Nxf3+ 4. Ke2 h1=Q) (3. Be8 h1=Q 4. Kd2 Qd5+) (3. Bg2 Kxg2 4. Ke2 h1=Q) Ng2+ 4. Ke2 (4. Kd1 Kxh1) (4. Kd2 Kxh1) Kxh1 5. Kf1 $10 (5. Kf2 $2 Nf4 $19) (5. Kf3 $2 Kg1 6. Ke2 h1=Q) 1/2-1/2
+
+[Event "The Chess Monthly"]
+[Source "The Chess Monthly/4"]
+[Date "1858.??.??"]
+[Round "?"]
+[Composer "Loyd, Samuel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/5Np1/6K1/8/5N1k w - - 0 1"]
+
+1. Nh3 $1 gxh3 2. Kf2 h2 3. Ng3# 1-0
+
+[Event "American Chess Journal"]
+[Source "American Chess Journal/6"]
+[Date "1878.??.??"]
+[Round "?"]
+[Composer "Loyd, Samuel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5P2/2P5/8/r7/7k/8/5K2 w - - 0 1"]
+
+1. f8=R $1 (1. f8=Q $2 Rf4+ 2. Qxf4) Rc4 2. Rc8 Kg4 3. c7 Kf5 4. Rf8+ 1-0

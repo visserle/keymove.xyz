@@ -1,0 +1,369 @@
+[Event "?"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "1r6/2N2PK1/p7/p7/5B2/8/p7/k7 w - - 0 1"]
+
+1. Nd5 (1. Ne8 $2 Rb7 2. Kg8 Rxf7 3. Kxf7 Kb1 $10) (1. Nxa6 $2 Kb1 2. Nxb8 a1=Q+ 3. Kh7 $10) (1. Nb5 $2 Rxb5 2. f8=Q $10) (1. Ne6 $2 Rc8 2. Be5+ $10) (1. f8=Q $2 Rxf8 2. Kxf8 Kb1 $10) (1. Kg6 Rf8 2. Nd5) Ra8 2. Be5+ (2. Nc3 $2 Kb2 3. Nxa2 Kxa2 4. f8=Q $10) (2. Nb6 $2 Ra7 3. Be5+ $10) (2. Ne3 $2 Kb1 3. Be5 $10) (2. f8=Q $2 Rxf8 3. Kxf8) (2. Bb8 Rxb8) Kb1 3. Nc3+ (3. Nc7 $2 Rd8 4. Nxa6 $10) (3. Ne3 $2 a1=Q 4. Bxa1 Kxa1 5. Nc4) (3. Bc3 $2 a1=Q 4. Bxa1 Kxa1 5. Nc7 $10) (3. Nb6 $2 Ra7 4. Nc4) (3. Nf6 a1=B 4. Bxa1 Kxa1 5. Kg6) (3. Nf4 a1=Q 4. Bxa1 Kxa1 5. Nd3) (3. Ba1 Kxa1) Kb2 4. Ne4+ (4. Nd5+ Kb1 5. Nc3+ $18) (4. Nd1+ $2 Kc2 5. Ne3+ $10) (4. Nxa2+ $2 Kxa2 5. Kf6 $10) (4. f8=Q $2 Rxf8 5. Ne4+ $10) (4. Bf6 a1=Q 5. Nd5+) (4. Bb8 Rxb8 5. Nxa2 Kxa2) (4. Kf6 a1=B 5. Ne4+) Kb1 5. Nd2+ (5. Nc3+ Kc2 6. Nxa2 $18) (5. Nc5 $2 a1=Q 6. Bxa1 Kxa1 7. f8=Q $10) (5. Nd6 $2 a1=Q 6. Bxa1 Kxa1 7. Ne4) (5. Nf6 $2 a1=Q 6. Bxa1 Kxa1 7. Nd7 $10) (5. f8=Q $2 Rxf8 6. Kxf8 $10) (5. Kg6 a1=Q 6. Bxa1 Kxa1 7. Kg7) (5. Bd4 a1=Q 6. Bxa1 Kxa1 7. Nc5) (5. Kf6 a1=B 6. Nd2+) Kc2 6. Nc4 (6. Ne4 Kd3 7. Nc5+ $18) (6. Nf3 Kb1 7. Nd2+ $18) (6. Bf4 $4 a1=Q+ 7. Kg6 Qd4) (6. f8=Q $4 Rxf8 7. Kxf8 Kxd2 8. Bf4+ Kc2) (6. Nf1 Kb1 7. Nd2+) a4 $4 (Kb3 $5) 7. f8=Q (7. Na3+ $2 Kb3 8. f8=Q $10) (7. Nb6 Ra7 8. Nxa4 $18) (7. Ne3+ $2 Kb1 8. Nc4 $10) (7. Bb8 Rxb8 8. Ne3+ Kd3) (7. Bd4 Kd3 8. Bf6) (7. Kg6 Rc8 8. Kg7) (7. Kh7 a3 8. Kg7) Rxf8 8. Kxf8 $18 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "3B4/p7/1p4p1/1k1P2P1/3P4/1p1P4/bK6/8 w - - 0 1"]
+
+1. Be7 (1. Bf6 $6 a5 2. Ka1 a4 3. Kb2 a3+ 4. Ka1 Kb4 5. Be7+ Kb5 $1 6. Bxa3 Ka6 $14) (1. Bc7 $2 Ka6 2. d6 $10) (1. d6 $2 Kc6 2. Bc7) (1. Kc3 $4 b2 2. Kxb2 Bxd5) (1. Ka3 $4 Bb1 $10 $15 2. Kxb3 Bxd3 3. Ka3) (1. Ka1 $2 Ka6 2. d6) a6 2. Bd8 (2. Bf8 $6 a5 3. Be7 a4 4. Bf6 a3+ 5. Ka1 Kb4 6. Be7+ $5 (6. d6 $4 Kc3 7. d5+ Kc2 $19) Kb5 $14) (2. d6 $2 Kc6 3. Bd8 $10) a5 3. Bf6 (3. Bc7 $6 Ka6 4. d6 $14 $10) (3. Be7 $6 a4 4. Ka1 $14) (3. d6 $2 Kc6 4. d7 $10) (3. Ka3 $4 Bb1 4. Kxb3 Bxd3 5. Kc3) (3. Kc3 $4 b2 4. Kxb2 Bxd5) (3. Kc1 $4 b2+ 4. Kxb2 Bxd5) a4 4. Be7 (4. Ka1 $18 Kb4 5. d6) (4. Ka3 $2 Bb1 5. d6 $10) (4. d6 $2 Kc6 5. Be5) (4. Bd8 $6 Ka6 5. d6) (4. Be5 $2 a3+ 5. Ka1 Kb4 $5 6. Bd6+) (4. Kc3 $4 a3) (4. Bh8 $4 Kb4) (4. Bg7 Ka6 5. Bf6) a3+ 5. Ka1 (5. Kxa3 $6 Bb1 6. d6 Kc6 7. Kxb3) (5. Bxa3 $6 Ka6 6. Be7 $14 $10) (5. Kc3 $4 b2 6. Bxa3 b1=Q) (5. Kc1 $4 b2+ 6. Kd2 b1=Q) Ka6 6. d6 $18 (6. Bxa3 $2 Kb7 7. Bd6 $14 $10) (6. Bd6 $2 Kb7 7. Bxa3) (6. Bd8 $6 Ka5 7. Be7) (6. Bf6 Kb7 7. Bd8) (6. Bb4 Kb7 7. Bxa3) (6. Bf8 Kb7 7. Bxa3) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/p7/P2p2K1/1Pkp4/5N1b/4P3/2P5/8 w - - 0 1"]
+
+1. Kh5 (1. b6 $2 Kxb6 2. Kf5) (1. Kf5 $2 Kxb5 2. Ke6 Kxa6 3. Kxd5) (1. Ng2 $2 Bg3 2. Nf4) Bg3 2. Kg4 (2. Nd3+ $2 Kxb5 3. Kg4) (2. Ne6+ $4 Kxb5 3. Nc7+ Kb6) (2. Nxd5 $2 Kxb5 3. Kg4) (2. Ne2 $2 Bf2 3. Nc3) (2. b6 $2 Kxb6 3. Kg4) (2. e4 $4 Bxf4 3. exd5 Kxb5) (2. c4 dxc4) (2. Kg5 Kxb5 3. Kf5) Bh2 3. Kh3 (3. Kf3 $2 Kxb5 4. Kg2) (3. Nd3+ $2 Kxb5 4. Kf5) (3. Ne6+ $4 Kxb5 4. Nc7+ Kb6) (3. Nxd5 $2 Kxb5 4. Kf3) (3. c3 $2 Kxb5 4. Kf5) (3. Kf5 $2 Kxb5 4. c3) (3. b6 $2 Kxb6 4. Kh3) (3. Nh3 Kxb5 4. Kf5) (3. Ng2 Kxb5 4. Kf5) (3. c4 dxc4) Bg1 4. Nxd5 (4. Kg2 $2 Bxe3 5. b6) (4. Ne6+ $4 Kxb5 5. Nd4+ Kxa6) (4. b6 $2 Kxb6 5. Kg2 Bxe3 6. Nxd5+ Kxa6 7. Nxe3) (4. e4 $4 Kxb5 5. Nxd5 Kxa6) (4. Kg3 $4 Bxe3 5. Ne6+ Kxb5 6. Nc7+ Kc6) (4. c4 $2 dxc4 5. Kg2) (4. Kg4 $2 Kxb5 5. Nxd5 Kxa6 6. c4) (4. c3 $2 Kxb5 5. Nxd5) Kxd5 5. b6 $18 (5. e4+ $4 Kc4) (5. c4+ $4 Kc5) (5. c3 Bxe3) 1-0
+
+[Event "Mundo Argentino"]
+[Source "Mundo Argentino/11"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K6/8/2p1k3/3p4/3Pp3/4N3/8/8 w - - 0 1"]
+
+1. Ka7 $1 (1. Kc7 $2 c5 2. dxc5 d4 3. Ng2 Ke5 $1 4. c6 d3 5. Kb7 d2 6. Ne3 Kd4) (1. Kb7 $2 Kd6 2. Kb6 Kd7 3. Ng4 Kd6 4. Ne5 e3 5. Nf3 e2 6. Ne1 Kd7 7. Kc5 Kc7 8. Kb4 Kb7 $1 9. Kc3 Kb6) Ke7 (Kd6 2. Kb7 $1 Kd7 3. Kb6 Kd6 4. Ng4 Kd7 5. Ne5+ Kd6 6. Nxc6 e3 7. Nb4) 2. Ng4 Ke6 (Kd6 3. Kb6 Kd7 4. Ne5+) (c5 3. dxc5 d4 4. c6 e3 (Kd6 5. Kb7 e3 6. Ne5 $1 Kxe5 7. c7) 5. Ne5 Kd6 6. Kb7 Kxe5 7. c7 d3 8. c8=Q e2 (d2 9. Qg4) 9. Qc3+) 3. Kb7 Kf5 4. Ne3+ Kf4 5. Nc2 e3 6. Kxc6 Ke4 7. Kc5 e2 8. Ne1 Ke3 9. Kxd5 1-0
+
+[Event "Bulletin Tourney Mar del Plata"]
+[Source "EG#14042."]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4R3/5p2/p4P2/P2p2k1/1P6/8/3KPp2/8 w - - 0 1"]
+
+1. Rg8+ $1 (1. Re5+ $2 Kg6 $1 2. Rf5 Kxf5 3. e4+ Kf4 4. Ke2 Kg3 5. Kf1 dxe4) Kxf6 (Kf4 2. e3+ Kf3 3. Rg5) 2. Rg3 f1=N+ (f1=Q 3. Rf3+ Qxf3 4. exf3 Ke6 5. b5) 3. Ke1 $1 Nxg3 4. b5 Ne4 5. bxa6 1-0
+
+[Event "Enroque"]
+[Source "Enroque/5"]
+[Date "1945.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p3p3/P7/1P5p/4k3/2Kn4/P2P4/8 w - - 0 1"]
+
+1. b6 $1 (1. Kc4 $2 Ne5+ 2. Kc5 Nd7+ 3. Kc6 Nb6 4. Kb7 Kd5 5. Kxa7 Kc5) Nc5 2. bxa7 (2. Kc4 $2 Nxa6 3. bxa7 Nc7 4. Kc5 Na8 5. Kc6 Ke5 6. d4+ Ke6 7. d5+ Ke5 8. d6 exd6 9. Kb7 h4 10. Kxa8 h3 11. Kb8 h2 12. a8=Q d5) Na4+ 3. Kb4 Nb6 4. Kb5 Na8 5. Kc6 Ke5 6. d4+ Ke6 7. d5+ Ke5 8. d6 exd6 9. Kb7 h4 10. Kxa8 h3 11. Kb8 h2 12. a8=Q d5 13. Qxd5+ Kxd5 14. a7 h1=Q 15. a8=Q+ Kd4 16. Qxh1 1-0
+
+[Event "Enroque"]
+[Source "Enroque/8"]
+[Date "1945.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/2p1p1p1/4p1B1/6kP/8/8/8/8 w - - 0 1"]
+
+1. Kf7 $1 Kh6 2. Kxe6 Kg5 $1 3. Kxe7 c5 (Kh6 4. Kf7 c5 5. Ke6 c4 6. Kf5 c3 7. Kg4 c2 8. Bxc2 g6 9. hxg6) 4. Kf7 Kh6 5. Ke6 Kg5 6. Kd5 Kf6 7. Kxc5 Ke7 8. Kd5 Kf8 9. Bh7 Kf7 (g5 10. h6) 10. Ke5 Kf8 11. Kf5 $1 Kf7 12. Kg5 Ke7 13. Bg8 1-0
+
+[Event "Ceskoslovensky Sach#2466"]
+[Source "Ceskoslovensky Sach/6-7"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K5k/8/2P3P1/2p5/8/1b6/8/8 w - - 0 1"]
+
+1. Kc7 $1 c4 2. Kd6 Bd1 3. Ke6 $1 Kg7 4. Kf5 Bf3 5. c7 Bb7 6. Kf4 1/2-1/2
+
+[Event "Enroque"]
+[Source "Enroque/5"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k4K2/2r4p/2p4P/P1B3P1/8/8/8/8 w - - 0 1"]
+
+1. a6 $1 (1. Bd6 $2 Rb7 $1 (Rd7 $2 2. Be7 Rd5 (Rc7 3. Ke8 c5 4. g6 Rc6 5. g7 Rg6 6. Kf7) (Rb7 3. a6 $1 Rc7 4. Ke8 $1) (Ra7 3. g6 hxg6 4. h7 Kb7 5. Ke8 $1) 3. Kg7 Rd7 4. Kxh7 Rxe7+ 5. Kg6) 2. a6 (2. Be7 c5 3. Ke8 (3. a6 Rc7) Rb1 4. Kf7 Re1 5. Bf6 Rd1) Rb5 3. Be7 Re5 4. Bf6 Rd5 5. Kg8 Rd7 6. Bg7 Rd5 7. Bf6 Rd7 8. Kf8 c5 9. Be7 Rc7) (1. Be7 $2 c5 2. g6 (2. Ke8 Rc6) Rc8+ $1 (hxg6 $2 3. Ke8 $1) 3. Kg7 (3. Bd8 Rxd8+ 4. Ke7 Rb8 5. g7 c4) hxg6) (1. Ke8 $2 Rc8+ 2. Kf7 Kb7 3. Be7 c5 4. Kg7 Rc7 5. Kxh7 Rxe7+ 6. Kg6 c4 7. h7 Re8 8. Kf7 Rh8 $1) (1. Kg8 $2 Kb7 2. Bd4 Rd7 3. Bg7 Rd5) Rd7 (Rc8+ 2. Kf7 Rc7+ (Kb8 3. Bd6+ Ka8 4. Kg7 Rd8 5. Kxh7) (Rd8 3. Be7 Rd7 4. g6) 3. Be7 c5 4. g6 hxg6 5. Ke8 $1 (5. h7 $2 Rc8) Rc8+ 6. Bd8) 2. Be7 (2. Ke8 $2 Rd5 3. Be7 c5 4. Kf7 c4 5. g6 hxg6 6. Kxg6 Rd1) Rd5 (Rc7 3. Ke8 $1 c5 4. g6) 3. Kg7 Rd7 4. Kxh7 Rxe7+ 5. Kg6 c5 6. h7 Re8 7. Kf7 Rc8 8. g6 $1 (8. Kg7 $2 c4 9. h8=Q Rxh8 10. Kxh8 c3 11. g6 c2) 1-0
+
+[Event "La Nacion"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/1P6/1P1p4/3B4/5p2/7K/8/8 w - - 0 1"]
+
+1. Kg2 $1 f3+ 2. Kf1 f2 3. Bc6 d5 4. Kxf2 d4 5. Bf3 d3 6. Ke3 d2 7. Kd4 d1=Q+ 8. Bxd1 Kxb7 9. Kc5 1-0
+
+[Event "Problemas {SEPA} (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - VII-53 2012."]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3R4/1B4K1/5p1p/4k2P/6p1/4p3/1p2p1PP/8 w - - 0 1"]
+
+1. Kf7 $1 b1=Q (e1=Q {<main>} 2. Rd5+ Kf4 3. g3+ Kf3 (Qxg3 4. hxg3+ Kxg3 5. Rd1 e2 6. Rb1 $1 f5 7. Ba6) 4. Rd2#) 2. Rd5+ Kf4 3. g3+ Kf3 4. Rf5# 1-0
+
+[Event "5.hm El Ajedrez Argentino"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p4P1p/P1P5/2n4P/5K1k/b7/8/8 w - - 0 1"]
+
+1. f8=Q $1 Ne6+ 2. Kf5 $1 (2. Ke5 $2 Nxf8 3. c7 Nd7+) Nd4+ 3. Kf6 $1 (3. Ke4 $2 Bxf8 4. c7 Nb5) Bxf8 4. c7 Bg7+ 5. Ke7 $1 (5. Kf7 $2 Nb5) Bf8+ 6. Kd7 1-0
+
+[Event "El Ajedrez Argentino"]
+[Source "El Ajedrez Argentino/9"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5P2/P7/8/3b4/8/8/3n1k1K w - - 0 1"]
+
+1. Kh2 $1 Nf2 2. Kg3 Ne4+ 3. Kf4 Nc5 4. f8=Q Ne6+ 5. Ke4+ Nxf8 6. Kxd4 1-0
+
+[Event "2.hm El Ajedrez Argentino"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/4P3/2Pn3k/8/8/6b1/8/8 w - - 0 1"]
+
+1. Kd7 $1 (1. c7 $2 Bh4) Ne4 2. Ke6 Ng5+ 3. Kf5 $1 (3. Kf6 $2 Ne4+ 4. Kf5 Nd6+) Nf7 4. Kg4 (4. Kf6 $2 Nd6 5. c7 Ne8+) Nd6 5. c7 1-0
+
+[Event "La Nacion"]
+[Date "1950.09.12"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K6B/8/8/k7/3N4/3p4/8/q7 w - - 0 1"]
+
+1. Nb3+ $1 Ka4 (Kb4+ 2. Nxa1 d2 3. Nc2+) 2. Nc5+ $1 Ka3 (Kb4+ 3. Bxa1 d2 4. Bc3+ Kxc3 5. Ne4+) (Kb5+ 3. Bxa1 d2 4. Ne4) 3. Bxa1 d2 4. Bb2+ Ka2 5. Na4 (5. Ne4 {<or>}) 1/2-1/2
+
+[Event "3.p L'Italia Scacchistica#447 (m)"]
+[Source "(m): Mugnos=J Mis Mejores Finales#59b 1957."]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7N/3B4/8/1K4p1/4p3/4k3 w - - 0 1"]
+
+1. Ng4 $1 Kd2 2. Ne5 Kd1 3. Nd3 Kd2 4. Ne5 Ke3 5. Nc4+ Kd4 6. Na3 Kxd5 7. Nc2 Ke4 8. Ne1 Ke3 9. Kc2 Kf2 10. Kd2 Kf1 11. Nc2 g2 12. Ne3+ Kf2 13. Nxg2 1/2-1/2
+
+[Event "3.p L'Italia Scacchistica#447"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3N4/8/3B4/8/1K4p1/4pk2/8 w - - 0 1"]
+
+1. Ne5 $1 Ke3 2. Nc4+ (2. Nf3 $2 g2) Kd4 (Kf4 3. Nb2) (Kd3 3. Ne5+) 3. Na3 $1 Kxd5 4. Nc2 Ke4 (g2 5. Ne3+) 5. Ne1 Ke3 6. Kc2 Kf2 7. Kd2 Kf1 8. Nc2 $1 g2 9. Ne3+ Kf2 10. Nxg2 1/2-1/2
+
+[Event "Ajedrez"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2K1N3/k7/8/4B3/8/8/p1p5/8 w - - 0 1"]
+
+1. Nc7 $1 (1. Bd4+ $2 Ka6 2. Nc7+ Ka5 3. Bc3+ Ka4) Kb6 2. Nd5+ Kc5 (Ka5 3. Bc7+ Ka4 4. Nc3+ Kb3 5. Nxa2) 3. Nf4 c1=Q 4. Nd3+ Kd5+ 5. Nxc1 Kxe5 6. Nxa2 1/2-1/2
+
+[Event "Mis Mejores Finales#68"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/R4p2/2p2k1P/2N5/1p5p/4p2P/1K6 w - - 0 1"]
+
+1. Nd6+ $1 Ke5 2. Nf7+ Kf5 3. Nh6+ Ke5 4. Ng4+ Kd5 5. Nxf6+ Ke5 6. Nd7+ Kd5 7. Re6 $1 Kxe6 8. Nxc5+ Kf5 9. Nd3 Kg5 10. Kc1 Kxh5 11. Kd2 Kg5 12. Kxe2 Kf6 13. Kd2 $1 Kg5 14. Nf2 1-0
+
+[Event "Ajedrez"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k1K/7P/7P/6P1/3P4/3P4/8/4q1n1 w - - 0 1"]
+
+1. g6 $1 Qb4 (Qe8 2. g7+ Ke7+ 3. g8=Q) 2. g7+ $1 (2. d5 $2 Qd4+ 3. g7+ Ke7 4. d6+ (4. Kg8 Qxd5+ 5. Kh8 Qd4 6. Kg8 Qd8#) Kxd6 5. Kg8 Ke7 6. h8=Q (6. h8=N Qxd3) Qd5+ 7. Kh7 Qf5+ 8. Kg8 Nf3 9. Qh7 Qc8#) Ke8 3. g8=Q+ Qf8 4. d5 Nf3 5. d6 Ne5 6. d7+ Nxd7 7. d4 Ke7 8. d5 Ne5 9. d6+ Ke8 10. d7+ Nxd7 11. Qxf8+ Kxf8 1/2-1/2
+
+[Event "La Prensa"]
+[Date "1973.05.20"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "Mugnos, J"]
+[Black " Carlsson, O."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2p5/2P5/7p/p4p2/2BP4/k1K5 w - - 0 1"]
+
+1. Bf5 $1 (1. Be4 $2 f2 2. Bg2 h3 3. Bxh3 f1=Q+ 4. Bxf1 a2 5. d4 (5. Bb5 cxb5 6. c6 b4 7. c7 b3 8. c8=Q b2+)) f2 (h3 2. Bxh3 f2 3. d4 $1 f1=Q+ 4. Bxf1 a2 5. d5 $1) (Ka2 2. Kc2) 2. Bh3 f1=Q+ 3. Bxf1 h3 4. d4 $1 (4. Bxh3 $2 a2) h2 5. Bg2 a2 6. d5 $1 cxd5 7. c6 1-0
+
+[Event "Finales Artisticos Razonados#41"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "Mugnos, J"]
+[Black " Carlsson, O."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2pB4/8/2P5/8/p5p1/8/k1K5 w - - 0 1"]
+
+1. Bc6 $1 (1. Bh3 $2 a2 2. Bg2 c6 $1) a2 (g2 2. Bxg2 c6 3. Bd5 a2 4. Kc2 cxd5 5. c6 d4 6. c7 d3+ 7. Kxd3) 2. Kc2 $1 g2 3. Bxg2 c6 4. Bd5 (4. Kb3 $2 Kb1 5. Be4+ Ka1 6. Bxc6 Kb1 7. Be4+ Ka1) cxd5 5. c6 d4 6. c7 d3+ 7. Kxd3 Kb2 8. c8=Q a1=Q 9. Qc3+ Ka2 10. Qc4+ Ka3 11. Qa6+ Kb2 12. Qb5+ Kc1 13. Qc5+ Kb2 14. Qb4+ Ka2 15. Kc2 1-0
+
+[Event "Finales Artisticos Razonados#51"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "Mugnos, J"]
+[Black " Carlsson, O."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/Kp6/4B3/7p/3B4/8/4k1p1/8 w - - 0 1"]
+
+1. Bd5 $1 (1. Bh3 $2 Kf3 $1) (1. Bf7 $2 h4 2. Bh5+ Kf1) Kf1 (Kd3 2. Bb6) 2. Bc4+ Ke1 3. Bb6 $1 (3. Kxb7 $2 h4 4. Be6 (4. Kc6 h3 5. Bg1 h2 $1 6. Bxh2 Kf2) Ke2 5. Bg4+ (5. Kc6 Kf3 6. Kd5 Kg3 7. Ke4 h3) Kd3 6. Ba7 Ke4) (3. Kb6 $2 h4 4. Be6 Ke2 5. Bg4+ Kd3 6. Kc5 Ke4 $1 7. Bg1 (7. Kc4 b5+ $1 8. Kc5 b4) Kf4 8. Be6 Kg3 9. Kd4 h3 10. Ke3 b5 $1 (h2 $2 11. Bf2#) 11. Bd7 b4 12. Be6 b3 $1) (3. Bc5 $2 h4 4. Be6 Kf1 5. Bh3 b5 6. Kb6 b4 7. Kb5 b3 8. Bd4 b2 9. Bxb2 Kf2 10. Bd4+ Kg3 11. Be6 h3) h4 4. Be6 $1 Ke2 5. Bg4+ $1 Kf1 6. Bh3 1-0
+
+[Event "Finales Artisticos Razonados#40"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "Mugnos, J"]
+[Black " Carlsson, O."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k1K/2p4P/2b5/P1P5/5p2/5P2/5P2/8 w - - 0 1"]
+
+1. a6 $1 Kf7 (Bxf3 2. a7 Kf7 3. c6 $1 Bxc6 4. f3 $1 (4. a8=Q $2 Bxa8 5. f3 Be4 6. fxe4 f3 7. e5 f2 8. e6+ Kxe6 9. Kg7 f1=Q 10. h8=Q Qf6+) Kg6 5. a8=Q $1 (5. Kg8 $2 Bd5+ 6. Kh8 Kh6 $1 7. a8=Q Bxa8 8. Kg8 Bd5+ 9. Kh8 Bxf3 10. Kg8 Bd5+ 11. Kh8 Be4) Bxa8 6. Kg8 Bd5+ 7. Kh8 Bxf3 (Be4 8. fxe4 f3 9. Kg8) 8. Kg8 Bd5+ 9. Kh8) 2. a7 Bxf3 (Kg6 3. Kg8 $1 (3. a8=Q $2 Bxa8 4. c6 Bxc6 5. Kg8 Bd5+ 6. Kh8 Bxf3 7. Kg8 Bd5+ 8. Kh8 Kh6 9. f3 Bxf3 10. Kg8 Bd5+ 11. Kh8 Be4) Bd5+ 4. Kf8 $1 Kxh7 5. Ke7 Kg6 6. Kd7) 3. c6 $1 (3. a8=Q $2 Bxa8 4. f3 (4. c6 Bxc6 5. f3 Be4 $1) Be4 5. c6 $1 Kf8 $1 6. fxe4 f3) Bxc6 4. f3 $1 Kg6 5. a8=Q $1 (5. Kg8 $2 Bd5+ 6. Kh8 Kh6) Bxa8 6. Kg8 Bd5+ 7. Kh8 1/2-1/2
+
+[Event "Finales Artisticos Razonados#47"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "Mugnos, J"]
+[Black " Carlsson, O."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/2p5/2P5/5p1p/8/p1B2P2/k1K5 w - - 0 1"]
+
+1. Be4 $1 (1. Ba4 $2 h3 2. Kc2 h2 3. Bxc6 f3 4. Bxf3 c6 $1 (h1=Q $2 5. Bxh1 c6 6. Bd5 $1 cxd5 7. c6 d4 8. c7 d3+ 9. Kxd3 Kb2 10. c8=Q a1=Q 11. Qc3+) 5. Kb3 h1=Q $1 (Kb1 $2 6. Be4+ Ka1 7. Ka3 $1 h1=Q 8. Bxh1 Kb1 9. Be4+ Ka1 10. Bxc6 Kb1 11. Be4+ Ka1 12. Bd5) 6. Bxh1 Kb1 7. Be4+ Ka1 8. Bxc6 Kb1 9. Be4+ Ka1) (1. Bd1 $2 h3 2. Kc2 (2. Bf3 h2 3. Bxc6 (3. Kc2 h1=Q 4. Bxh1 f3 5. Bxf3) f3 $1 4. Bxf3 c6 $1) h2 $1 (f3 $2 3. Bxf3 h2 4. Bxc6 $1 h1=Q 5. Bxh1 c6 6. Bd5 $1) 3. Bf3 h1=Q 4. Bxh1 f3 5. Bxf3 (5. Kb3 Kb1)) (1. Bf5 $2 h3 $1 (f3 $2 2. Be4 h3 3. Bxf3 h2 4. Bxc6 h1=Q+ 5. Bxh1 c6 6. Bd5) 2. Be4 (2. Bxh3 f3 $1) h2 $1 (f3 $2 3. Bxf3 h2 4. Bxc6 h1=Q+ 5. Bxh1 c6 6. Bd5) 3. Bxc6 f3 4. Bxf3 c6 $1) h3 $1 (f3 2. Bxf3 h3 3. Bxc6 h2 4. f4 h1=Q+ 5. Bxh1 c6 6. Bd5) 2. Kc2 $1 (2. Bxc6 $2 h2 3. Kc2 (3. Bf3 c6 $1 4. Kc2 h1=Q 5. Bxh1 f3 6. Bxf3) (3. Bh1 c6) f3 4. Bxf3 c6 $1 5. Kb3 h1=Q $1 6. Bxh1 Kb1 7. Be4+ Ka1 8. Bd5 Kb1 $1 9. Be4+ Ka1) h2 $1 (f3 3. Bxc6 h2 4. Bxf3 h1=Q 5. Bxh1 c6 6. Bd5) 3. Kb3 $1 (3. Bxc6 $2 f3 4. Bxf3 c6 $1 5. Kb3 h1=Q 6. Bxh1 Kb1 7. Be4+ Ka1) f3 (h1=Q 4. Bxh1 f3 (Kb1 5. Be4+ Kc1 6. Kxa2 Kd2 7. Kb3) 5. Bxf3 $1 Kb1 6. Be4+ Ka1 7. Bxc6 Kb1 8. Be4+ Ka1 9. Ka3 c6 10. Bxc6 Kb1 11. Be4+ Ka1 12. Bd5) 4. Bxf3 h1=Q (Kb1 5. Be4+ Kc1 (Ka1 6. Ka3) 6. Kxa2 Kd2 7. Bxc6 Kc3 8. Bh1) 5. Bxh1 Kb1 6. Be4+ Ka1 7. Bxc6 Kb1 8. Be4+ Ka1 9. Ka3 $1 (9. f4 $2 c6 10. Bd5 Kb1) c6 10. Bxc6 Kb1 11. Be4+ Ka1 12. Bd5 1-0
+
+[Event "Finales Artisticos Razonados#39"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "Mugnos, J"]
+[Black " Skalicka, C."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/1P2r3/4Ppk1/6P1/4n3/8/8/8 w - - 0 1"]
+
+1. gxf6 $1 (1. Ka8 $2 Rxb7 2. Kxb7 fxg5) Rxe6 $1 (Kxf6 2. Ka8 $1) (Nxf6 2. Ka8 $1 Nd5 3. b8=Q Nc7+ 4. Kb7) (Re8+ 2. Ka7 $1 (2. Kc7 $2 Nc5 3. b8=Q (3. b8=N Nxe6+) (3. f7 Rh8) Na6+ 4. Kd7 Rxb8) Nd6 3. b8=Q Nc8+ 4. Kb7) 2. Kc7 $1 (2. Ka7 $2 Nc5 $1 3. b8=Q (3. b8=N Kxf6) Ra6#) (2. Kc8 $2 Re8+ 3. Kc7 Nc5 4. b8=Q Na6+) (2. Ka8 $2 Ra6+) Nc5 3. b8=Q Na6+ 4. Kd7 1/2-1/2
+
+[Event "Finales Artisticos Razonados#68 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - VII-50 2012."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Mugnos, Jose"]
+[White "Mugnos, J"]
+[Black " Carlsson, O."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4B3/4pK2/1P5r/8/8/4Pk2/8/4n3 w - - 0 1"]
+
+1. b7 $1 Rb6 2. Bc6+ $1 Kxe3 3. Kxe7 $1 (3. Ke6 $2 Rxc6+ 4. Kd7 Rb6 5. Kc7 Rxb7+) (3. Ke8 $2 Nd3 4. Kd7 Ne5+ 5. Kc7 Rxc6+) Nc2 (Nd3 4. Kd6 $1 Rb2 5. Kc7 Nc5 6. b8=N) 4. Kd6 $1 (4. Kd7 $2 Nb4 $1 5. Bg2 (5. Kc7 Rxc6+ 6. Kd7 Rb6 7. Kc7 Rh6) Na6 6. Bf1 Nc5+ $1 (Rxb7+ $2 7. Kc6) 7. Kc7 Rxb7+ 8. Kc6 Rb1) Nb4 (Nd4 5. Kc7 $1 Rxc6+ 6. Kd7 $1 (6. Kd8 $2 Rc1) Rb6 7. Kc7) 5. Kc5 $1 (5. Kc7 $2 Rxc6+ 6. Kd7 Rb6 $1 7. Kc7 Rh6) Rxc6+ 6. Kb5 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "Shakhmaty"]
+[Source "British Chess Magazine/7 1968"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Ivannikov, A"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/P7/3K4/1N6/4pk1p/7B w - - 0 1"]
+
+1. Nc1 $1 Kg1 2. Nxe2+ Kxh1 3. a6 Kg2 4. a7 h1=Q 5. a8=Q+ Kh2 6. Qb8+ Kg2 7. Qb7+ Kh2 8. Qc7+ Kg2 9. Qc6+ Kh2 10. Qd6+ Kg2 11. Qd5+ Kh2 12. Qe5+ Kg2 13. Qe4+ Kh2 14. Qh4+ Kg2 15. Nf4+ Kg1 16. Qe1+ Kh2 17. Qf2+ Qg2 18. Qxg2# 1-0

@@ -1,0 +1,12 @@
+[Event "HMC 50 jaar"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Mooren, Leo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1K6/1pP5/2k5/p7/3p4/3B4 w - - 0 1"]
+
+1. c6 $1 a2 2. c7 a1=Q 3. c8=Q+ Kd3 (Kd5 4. Bf3+ Kd6 5. Qf8+ Ke6 6. Bg4+ Kd5 7. Qc5+ Ke4 8. Qf5+ Ke3 9. Qf3+) 4. Qf5+ Kc4 5. Qf1+ Kb4 (Kd5 6. Bf3+) 6. Qxb5+ Ka3 7. Qb3# 1-0

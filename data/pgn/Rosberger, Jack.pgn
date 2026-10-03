@@ -1,0 +1,13 @@
+[Event "Chess Life & Review#1358"]
+[Source "Chess Life & Review/8"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Rosberger, Jack"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "q1B5/6Pb/8/8/8/p7/8/K6k w - - 0 1"]
+
+1. g8=Q $1 Qe4 (Bxg8 {<main>} 2. Bb7+ $1 Qxb7) 2. Bb7 $1 Qxb7 3. Qd5+ $1 Qxd5 1/2-1/2

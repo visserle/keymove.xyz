@@ -1,0 +1,13 @@
+[Event "Schakend Nederland#2055"]
+[Source "Schakend Nederland/6 after Bron=V h6a5 1929."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "De Zeeuw, Maarten"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3P4/pr6/k4K1p/Pp5p/1P5P/1P6/8 w - - 0 1"]
+
+1. d8=N $1 Rh6 2. Nf7 Rc6 (Rh7 3. Kg6 Rxf7 4. Kxf7 Kb6 5. Ke6 Kc6 6. a5) 3. Ne5 Rc8 4. Nc4+ Rxc4 5. bxc4 Kxa4 6. Ke4 a5 7. c5 Kb5 8. Kd5 a4 9. c6 Kb6 10. Kd6 a3 11. bxa3 bxa3 12. c7 a2 13. c8=Q a1=Q 14. Qb8+ Ka6 15. Qa8+ 1-0

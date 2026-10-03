@@ -1,0 +1,12 @@
+[Event "2.hm L'Échiquier de France#14"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Oudot, Jean"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/p6p/7P/7K/8/1P6/8/8 w - - 0 1"]
+
+1. Kg5 $1 (1. b4 $2 Kg8 2. Kg5 Kf7 3. Kf5 a6) Kg8 2. Kf6 $1 Kf8 (a5 3. Ke7 Kh8 4. Kd6) 3. b4 (3. Ke6 $2 a5 4. Kd6 (4. Kf6 Ke8 5. Kg7 Ke7 6. Kxh7 Kf7) Kf7 5. Kc5 Kg6 6. Kb5 Kxh6 7. Kxa5 Kg5) Ke8 (Kg8 4. Ke7) (a6 4. Ke6) 4. Ke6 Kd8 5. Kd6 Kc8 6. Kc6 Kb8 7. Kd7 $1 a6 (Kb7 8. Ke7 Kc7 9. Kf7 Kd7 10. Kg7 Ke7 11. Kxh7 Kf7 12. b5) 8. Kc6 Ka7 9. Kc7 Ka8 10. Kb6 Kb8 11. Kxa6 1-0

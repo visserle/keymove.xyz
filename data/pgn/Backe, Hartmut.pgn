@@ -1,0 +1,13 @@
+[Event "Schach#06182"]
+[Source "Schach/1"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Backe, Hartmut"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/2Pbb1pp/5P2/4N2K/7P/8/3p4/8 w - - 0 1"]
+
+1. f7+ $1 Kh8 (Kf8 2. Nxd7+ Kxf7 3. Ne5+ Kf6 4. Ng4+ Kf7 5. Ne3) 2. c8=Q+ Bxc8 3. f8=Q+ Bxf8 4. Nf7+ Kg8 5. Nh6+ Kh8 6. Nf7+ Kg8 7. Nh6+ gxh6 1/2-1/2

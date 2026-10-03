@@ -1,0 +1,27 @@
+[Event "Schakend Nederland#1537"]
+[Source "Schakend Nederland/1 1977"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Nio Bertholée, Rob C. H."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/5P2/6P1/4p3/6K1/4rR2/1B2r2k w - - 0 1"]
+
+1. Rxe2 $1 (1. g6 $2 Rg1+ 2. Kh3 Re3+ 3. Kh4 Rxb1) Rxe2 2. g6 $1 (2. Bxe4+ $2 Rxe4 3. g6 Re8) fxg6 (Rg2+ 3. Kf4 Rf2+ 4. Ke3 Rxf6 5. Bxe4+ Kh2 6. g7) 3. Bxe4+ (3. f7 $2 Rg2+ 4. Kh4 Rh2+ 5. Kg3 Rh8) Rxe4 (Kg1 4. f7 Rf2 5. Bf3) 4. f7 Re3+ 5. Kg4 (5. Kf2 $2 Re5 $1 6. f8=Q Rf5+) Re4+ 6. Kg5 Re5+ 7. Kxg6 Re6+ 8. Kg5 Re5+ 9. Kg4 Re4+ 10. Kg3 Re3+ 11. Kf2 Re4 12. f8=R $1 (12. f8=Q $2 Rf4+ 13. Qxf4) Rh4 13. Kg3 1-0
+
+[Event "Selman MT Schakend Nederland#1676"]
+[Source "Schakend Nederland/2 1979"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Nio Bertholée, Rob C. H."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/6p1/7p/8/7P/8/6P1/k7 w - - 0 1"]
+
+1. Kb7 $1 Kb2 2. Kc6 Kc3 3. Kd5 (3. h5 $2 Kd4) Kd3 (h5 4. Ke6 Kd4 5. Kf7 Ke5 6. Kxg7 Kf5 7. Kh6 Kg4 8. g3) 4. h5 $1 (4. Ke5 $2 h5 $1 5. Kf5 Ke3 6. Kg5 Kf2 (Ke4 $2 7. Kxh5) 7. Kxh5 Kxg2 8. Kg6 Kg3 9. h5 Kg4) Ke3 5. Ke5 Kf2 6. Ke6 $1 (6. Kf5 $2 Kg3 $1 7. Kg6 Kh4 8. g3+ Kg4 9. Kxg7 Kxh5) Kg3 7. Kf5 (7. Kf7 $2 Kg4 8. Kg6 Kh4 9. g3+ Kg4) Kh4 8. Kg6 Kg4 9. g3 $1 Kxg3 10. Kxg7 Kg4 11. Kxh6 Kf5 12. Kg7 1-0

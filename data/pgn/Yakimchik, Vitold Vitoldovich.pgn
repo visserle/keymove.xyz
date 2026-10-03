@@ -1,0 +1,1253 @@
+[Event "64#223"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5b2/4p1p1/4P2P/4K1k1/r7/6Pp/7P/8 w - - 0 1"]
+[PlyCount "33"]
+
+1. h7 $1 Rh4 2. gxh4+ Kg6 $1 3. h8=N+ $1 Kh7 $1 (Kh5 $144 4. Kf5 $18) 4. Kf5 Kxh8 (g5 $144 5. Ng6 $18) 5. Kg6 Kg8 6. h5 Kh8 7. Kf7 g5 8. Kxf8 g4 9. Kxe7 g3 (Kg7 $144 10. h6+ $1 Kxh6 (Kh7 $144 11. Kf7 g3 12. e7 g2 13. e8=Q g1=Q 14. Qe4+ Kh8 15. Qe5+ Kh7 16. Qg7+ Qxg7+ 17. hxg7 $18) 11. Kf6 $18) 10. Kf7 g2 11. e7 g1=Q 12. e8=Q+ Kh7 13. Qe4+ Kh8 $1 14. Qe5+ Kh7 15. Qf5+ Kh8 16. Qf6+ Kh7 17. Qg6+ $18 1-0
+
+[Event "1.hm Shakhmaty v SSSR#638"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5K2/1N6/1P6/3n4/2p5/1n6/8/6k1 w - - 0 1"]
+[PlyCount "9"]
+
+1. Nd6 c3 2. b7 $1 (2. Ne4 $143 c2 3. b7 Nc5 4. Nxc5 c1=Q 5. b8=Q Qh6+ 6. Kg8 Qg6+ 7. Kh8 Nf6 $19) Nc5 3. Nb5 c2 4. Nd4 c1=N $1 5. b8=N $1 $11 1/2-1/2
+
+[Event "4.hm Shakhmaty v SSSR#635 {c}"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1k6/1n2pP2/2K1P3/8/7p/6P1/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. Kd6 $1 (1. f7 $143 Kc7 $19) (1. gxh3 $143 Kc7 $19) hxg2 2. f7 g1=B $1 (g1=Q $144 3. f8=Q Qc5+ 4. Kxe6 Qxf8 $11) 3. f8=N $1 $11 (3. f8=Q $143 Bc5+ 4. Kxc5 Nd7+ $19) 1/2-1/2
+
+[Event "Shakhmaty v SSSR#661 {c}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3N4/8/8/7K/5p1n/8/8/3k3n w - - 0 1"]
+[PlyCount "16"]
+
+1. Nc6 (1. Nf7 $143 Ng2 2. Ne5 Ke2 3. Kg5 Nf2 4. Ng6 f3 5. Ne5 Ne4+ $19) f3 (Ng2 $144 2. Kg4 Ke2 3. Nd4+ Ke3 4. Nf5+ Ke2 5. Nd4+ Ke3 6. Nf5+ $11) 2. Ne5 Ng3+ 3. Kg5 f2 4. Ng4 Nf3+ 5. Kf4 Nh5+ 6. Kf5 f1=N 7. Ne3+ Nxe3+ 8. Ke4 Ke2 $11 1/2-1/2
+
+[Event "6.p Shakhmaty v SSSR#39"]
+[Source "Shakhmaty v SSSR/10 EG#01696.17.p USSR overall champ IV 1953-1956."]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/P2p4/8/1Pr3n1/8/6k1/8/8 w - - 0 1"]
+[PlyCount "12"]
+
+1. b6 $1 Nf7 (Ne6 $144 {main} {<main>} 2. Kb8 $1 (2. b7 $143 $2 Nc7+ 3. Kb8 Na6+ 4. Ka8 Rb5 $19) (2. Kb7 $143 $2 Nd8+ $19) Rh5 3. a8=Q (3. Kc8 $143 $2 Nc5 4. Kc7 Rh8 5. Kd6 Rc8 $1 $19) Rh8+ 4. Ka7 Rxa8+ 5. Kxa8 Nc5 6. Kb8 Kf4 (d5 $144 7. Kc7 d4 8. Kc6 Na6 9. Kb5 Nb8 10. Kc4 $11) 7. Kc7 (7. Kc8 $2 d5) Ke5 8. b7 Ke6 (d5 $144 9. b8=N $1 $11) 9. b8=N $1 $11) 2. b7 $1 (2. Kb8 $143 $2 Nd6 3. a8=Q Rc8+ 4. Ka7 Rxa8+ 5. Kxa8 Kf4 $19) Nd6 3. b8=B $1 (3. b8=Q $143 $2 Rc8 4. Qxc8 Nxc8 5. Kb7 Nxa7 $19) Rb5 $1 (Rc8 $144 $11) (Rc6 $143 4. Bxd6+ Rxd6 5. Kb7 $18) 4. Bxd6+ Kf3 5. Bc7 $1 (5. Bh2 $143 $2 Ke4 6. Bc7 Kd5 7. Bb6 Kc6 $19) Ke4 6. Bb6 $1 Rxb6 $11 1/2-1/2
+
+[Event "Shakhmaty v SSSR#08"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/b7/5p2/8/2k3p1/8/4N1K1/8 w - - 0 1"]
+[PlyCount "16"]
+
+1. Kg3 (1. Nf4 $2 f5 $19) (1. Ng3 $2 Kd5 $19) (1. Kh1 $2 Bb8 $19) (1. Nc1 $2 f5) (1. Ng1 Bxg1 2. Kxg1 f5) (1. Kf1 f5) (1. Nc3 Kxc3) (1. Kh2 f5 2. Kg2 Bb8) (1. Nd4 Bxd4) Kd3 2. Nf4+ (2. Nc1+ $2 $143 Kc2 3. Kxg4 (3. Ne2 (3. Na2 $144 f5 4. Nb4+ Kc3 5. Nc6 Bc5 6. Kf4 Bd6+ $19) Kd2 4. Nf4 f5 5. Nd5 Bb8+ $19) Kxc1) (2. Ng1 Bxg1 3. Kxg4 Ke4) (2. Kf4 Kxe2 3. Kxg4 Ke3) Ke4 3. Nh5 $1 (3. Kxg4 $2 $143 f5+ $19 4. Kg3 Bb8 $19 5. Kg2 Bxf4) (3. Ng6 $2 f5 $19 4. Nf8 Bb8+) (3. Ng2 $2 f5 $19 4. Nh4 Bc5) (3. Ne6 $2 f5 4. Ng5+ Ke3 $19) (3. Ne2 $2 f5 4. Nc3+ Kd3) (3. Nh3 gxh3 4. Kxh3 f5) (3. Nd3 Kxd3 4. Kxg4 Ke4) (3. Nd5 Kxd5 4. Kxg4 Ke4) (3. Kh4 Kxf4) Kf5 $1 (f5 $144 4. Nf6+ $1 $10 (4. Ng7 $2 Bb8+ 5. Kh4 f4 $19 6. Kxg4 f3) (4. Nf4 $2 Bf2+ 5. Kg2 Kxf4 6. Kxf2 g3+) (4. Kh4 $2 Bf2+ 5. Kg5 g3) (4. Kg2 $2 f4 5. Nf6+ Kf5) (4. Kh2 Kf3 5. Kh1 Bb8) Ke5 5. Nxg4+ $11) 4. Nxf6 (4. Ng7+ $2 Kg6 $19 5. Kxg4 Kxg7) (4. Nf4 $2 Bb8 $19) (4. Kh4 $2 Bf2+ 5. Ng3+ Kf4 6. Kh5 Bxg3) (4. Kg2 $2 Bb8 5. Ng7+ Ke5) Bb8+ 5. Kh4 (5. Kf2 $2 g3+ 6. Ke2 Kxf6) g3 6. Nh5 $1 (6. Ng4 $2 $143 Kf4 $19 7. Kh3 Kf3 $19) (6. Nd5 $2 $143 Ke4 7. Nf6+ (7. Nc3+ Kd3 8. Nd1 Kd2 $19) Kf3 $19) (6. Kh5 $2 g2 $19) (6. Nd7 $2 g2 $19 7. Nxb8 g1=Q) g2 7. Ng3+ (7. Kh3 $2 g1=Q 8. Ng7+ Qxg7 $19) (7. Ng7+ $2 Ke5 $19) Bxg3+ (Kf4 $144 8. Ne2+ Ke3 9. Ng1 Kf2 10. Nh3+ Ke2 (Kf1 $144 11. Kg4 Bh2 12. Kf3 $11) 11. Ng1+ Kf1 12. Nh3 Bh2 13. Kg4 Ke2 14. Kh4 Kf3 15. Ng5+ Kf4 16. Nh3+ Kf5 17. Ng1 $1 Bxg1 18. Kh3 $11) 8. Kh3 (8. Kxg3 $2 g1=Q+ 9. Kf3 Qe1 $19) g1=Q $11 1/2-1/2
+
+[Event "Shakhmaty v SSSR#03"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5KB1/6P1/8/8/7k/8/5PP1/3q4 w - - 0 1"]
+[PlyCount "13"]
+
+1. g3+ Kh5 $1 (Kg5 $144 2. Bd5 Qxd5 3. g8=Q+ $18) (Kh3 $144 2. Be6+ Kg2 3. g8=Q Qd6+ 4. Kg7 Qd4+ 5. Kh6 Qxf2 6. g4 $18) 2. Bf7+ $1 (2. Bd5 $143 Qxd5 3. g8=Q Qd8+ 4. Kg7 Qd4+ 5. Kh7 Qe4+ 6. Kh8 Qd4+ 7. Qg7 Qxf2 $11) Kh6 3. Bd5 $1 (3. g8=Q $143 Qd8+ 4. Be8 Qe7+ 5. Kxe7 $11) Qxd5 (Qd4 $144 4. g8=Q Qc5+ 5. Ke8 Qc8+ 6. Kf7 Qc7+ 7. Kf6 Qc3+ 8. Ke6 Qe1+ 9. Kd7 $18) 4. g8=N+ $1 (4. g8=Q $143 Qa8+ 5. Kf7 Qd5+ 6. Kf8 $11) Kg5 5. f4+ Kg4 6. Nf6+ Kxg3 7. Nxd5 $18 1-0
+
+[Event "1.p Shakhmaty v SSSR#32"]
+[Source "Shakhmaty v SSSR/8"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "2"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/8/8/P3P3/1n6/8/3P4/K1n3k1 w - - 0 1"]
+[PlyCount "15"]
+
+1. e6 $1 (1. Kb2 $2 $143 Nc6 $1 2. Kxc1 Nxa5 3. e6 Nc6 4. d4 Ne7 $1 5. Kd2 Kf2 6. Kd3 Kf3 7. Kc4 Ke4 8. Kc5 Nd5 $10 $11) (1. a6 $2 Nxa6 2. d3 $10) (1. Kb1 $2 Ncd3 2. e6) (1. d4 $2 Na6 2. e6) (1. d3 $2 Na6 2. e6) Nc6 (Nb3+ $144 2. Kb2 Nxd2 (Nxa5 $144 3. e7 Nc4+ 4. Kb3 Nd6 5. Kxb4 Kf2 6. Kc5 $18) 3. e7 Nc4+ 4. Kb3 Nxa5+ 5. Kxb4 $18) 2. a6 (2. d4 $2 Nxa5 3. e7) (2. Kb2 $2 Nxa5 3. Kxc1 Nb3+ $4 (Nc4 $5 $10) 4. Kd1) (2. Kb1 $2 Nb3 3. e7) (2. e7 $2 Nxe7 3. a6) Nd3 (Nb3+ $144 3. Ka2 Nxd2 4. a7 $1 (4. e7 $143 $2 Nxe7 5. a7 Nf5 6. a8=Q Ng3 $11 {TBS}) Nxa7 5. e7 Nb5 6. e8=Q Nc3+ 7. Kb2 Nde4 8. Kc2 Kf2 9. Kd3 $18 {TBS}) 3. e7 $1 (3. a7 $2 $143 Nxa7 4. e7 Nc6 5. e8=Q Ncb4 6. Qe2 $6 Nc2+ $1 7. Kb1 Na3+ $10 $11) (3. Kb1 $2 Kf1 4. a7) (3. Ka2 Ncb4+ 4. Ka3) Nxe7 4. a7 Nd5 5. a8=Q (5. Kb1 $2 Nc7 6. Kc2) (5. Ka2 $2 Nc7 6. Ka3) N5b4 6. Qf3 $1 (6. Qa4 $2 Kf1 7. Qxb4 Nxb4 8. d3 $10) (6. Qe4 $2 Kf2 7. Qd4+) (6. Qf8 $2 Nc2+ $4 (Kg2 $5 $10) 7. Ka2) (6. Qg2+ Kxg2) (6. Qa2 Nxa2 7. Kxa2) Kh2 7. Qg4 (7. Kb1 Kg1 8. Qe2 $18) (7. Qxd3 $2 Nxd3 8. Kb1 $10) (7. Qf5 $2 Kg3 8. Qb5 Nc2+ $4 (Kg4 $5) 9. Ka2) (7. Qe3 $2 Nc2+ 8. Kb1) (7. Qf8 $2 Kg2 8. Qxb4 Nxb4 9. d4) (7. Qf2+ Nxf2) (7. Qg2+ Kxg2) Kh1 8. Qg3 $18 $1 (8. Qf3+ Kh2 9. Kb1 $18) (8. Qe4+ Kg1 9. Qf3 $18) (8. Qc4 $2 Kg2 9. Qxb4 Nxb4 10. d3) (8. Qe2 $2 Nc2+ 9. Kb1) (8. Qxb4 $2 Nxb4 9. d3) 1-0
+
+[Event "3.c Shakhmaty v SSSR#38"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p1BpP3/2Pn2q1/1P2k3/1b6/7B/8/7K w - - 0 1"]
+[PlyCount "27"]
+
+1. e8=Q+ $1 (1. cxd7 $143 Qe4+ 2. Kh2 Qf4+ 3. Kg2 Qd2+ 4. Kf3 Qd3+ 5. Kg4 Qe2+ 6. Kg5 Bd2+ $19) Qxe8 2. cxd7 Qa8+ (Qh5 $144 3. Kh2 Bd2 4. Bxd6+ Kd4 5. d8=Q Qe2+ 6. Bg2 Qh5+ $11) 3. Kh2 Ba5 $1 4. Bxa5 Nb7 5. d8=Q $1 Nxd8 6. Bc3+ Kf4 7. Bd2+ Ke5 8. Bc3+ Kd6 9. Bb4+ Kc7 10. Ba5+ Kb8 11. Be1 $1 a5 (Ne6 $144 12. Bg2 $11) 12. Bg3+ Ka7 13. Bf2+ Kb8 14. Bg3+ $11 1/2-1/2
+
+[Event "1.hm Shakhmaty v SSSR#06"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K2N4/8/b6P/1p6/1P2k3/8/3r4/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. Nf7 Bb7+ (Rh2 $144 2. h7 $1 Kf5 3. h8=Q Rxh8+ 4. Nxh8 Kf6 5. Kb8 $1 Kg7 6. Kc7 Kxh8 7. Kb6 $11) 2. Ka7 (2. Kb8 $143 Bd5 3. h7 Rh2 4. h8=Q Rxh8+ 5. Nxh8 Kf5 $1 $19) Kd5 3. h7 (3. Kxb7 $143 Rf2 $1 $19) Kc6 4. Nd8+ $1 Rxd8 5. h8=Q Ra8+ (Rxh8 $144 $11) 6. Qxa8 Bxa8 7. Ka6 $1 Bb7+ 8. Ka5 Ba8 (Bc8 $144 $11) 9. Ka6 $11 1/2-1/2
+
+[Event "3.p Shakhmaty v SSSR#30"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2p5/pk6/N2P4/rP6/2K5/B7 w - - 0 1"]
+[PlyCount "23"]
+
+1. Nc3+ (1. Bc3 $143 Rxa4 (Ra2+ $144 2. Nb2 $11) 2. bxa4+ Kc4 3. Bxa5 c5 $11) Kb4 2. Nd5+ $1 cxd5 3. Bc3+ Kb5 4. Kb2 Ra4 $1 5. bxa4+ Kc4 6. Bxa5 $1 (6. Kc2 $143 $11) Kxd4 7. Bb6+ Kc4 (Ke5 $144 8. a5 $1 Kd6 9. a6 Kc6 10. Ba5 $18) 8. Ka3 d4 9. Bxd4 $1 Kd5 (Kxd4 $144 10. Kb4 $18) 10. a5 Kc6 11. a6 Kc7 12. Ba7 $18 1-0
+
+[Event "1.p Shakhmaty v SSSR#32"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Draws by perpetual check or by repetition"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/7N/3N4/7k/8/4K3/1n5p/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. Ne4 (1. Nf5 $2 $143 Kg4 2. Nh6+ (2. Nf6+ Kh3 3. Ne4 Nd1+ $19) Kh3 $19) (1. Nf6+ $2 Kg6 $19) (1. Ke4 h1=Q+ 2. Ke5 Nd3+) (1. Nc4 Nxc4+ 2. Kd3 h1=Q) Kh4 2. Nhg5 $1 (2. Nhf6 $2 h1=Q 3. Kd4 Qc1) (2. Nf8 $2 Nd1+ 3. Kd3 h1=Q $19 4. Ng6+ Kh3) (2. Nf2 $143 Nd1+ 3. Nxd1 h1=Q $19) Nd1+ $1 (Nc4+ $144 3. Kf4 h1=Q 4. Nf3+ $11) 3. Kf4 (3. Ke2 $2 h1=Q 4. Nf3+ Kg4 $19 5. Nf6+ Kf5) (3. Kd2 $2 h1=Q $19 4. Nf3+ Qxf3) (3. Kf3 $2 h1=Q+ 4. Kf4 Qh2+ $19) h1=Q 4. Nf3+ (4. Nf2 $2 Qh2+ 5. Ke4 Nxf2+ 6. Kf5 Qg2 $19) (4. Ng3 $2 Qd5 5. Nf3+ Kh3 $19) (4. Nd2 Qh2+ 5. Kf5 Qf2+) (4. Nh3 Qxh3) (4. Kf5 Nf2 5. Ke5 Qa1+) Kh3 5. Ng3 $1 (5. Nf6 $2 Nf2 6. Ng5+ Kg2) (5. Ng1+ $2 Qxg1 6. Ng5+ Kg2 7. Kf5 Nc3) (5. Ne1 $2 Qxe1 6. Ng5+ Kg2) (5. Nd6 $2 Qf1) (5. Ke5 $2 Kg4) (5. Nc3 $2 Nxc3 6. Ng5+ Kh2) (5. Nh4 Qh2+ 6. Kf5 Kxh4) (5. Kf5 Qxf3+ 6. Ke5 Qe3) Qg2 6. Ng5+ (6. Ne1 $2 Qxg3+ 7. Ke4 Qxe1+ 8. Kd4 Qa5 $19 9. Kc4 Ne3+) (6. Nh4 $2 Qxg3+ 7. Ke4 Qxh4+ 8. Kd5 Qf6 $19) (6. Ne2 $2 Qf2 7. Neg1+ Kg2) (6. Nf5 $2 Qg4+ 7. Ke5 Qxf3) (6. Nh5 Qg4+ 7. Ke5 Qxh5+ 8. Ke4 Nf2+) (6. Ne4 Qb2 7. Neg5+ Kg2) Kh2 (Kh4 $144 7. Nf3+ $11) 7. Nf3+ $10 $11 (7. Ne2 $2 Qxe2 8. Nf3+ Kg2 $19 9. Nh4+ Kf2) (7. Nf1+ $2 Qxf1+ 8. Ke4 Nc3+) (7. Kg4 $2 Ne3+ 8. Kf4 Qxg3+ 9. Ke4 Qxg5) 1/2-1/2
+
+[Event "1.p Shakhmaty v SSSR#12"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2K5/1B5P/7N/2p5/5k2/8/2b5 w - - 0 1"]
+[PlyCount "31"]
+
+1. h7 Bb2 2. Kd6 Bh8 (Kg4 $144 3. Kd5 Bh8 4. Ng3 $1 Kxg3 5. Bd4 $18) 3. Ke7 $1 (3. Ke6 $143 c3 4. Bc5 Kg4 5. Nf6+ Kg5 6. Nd7 c2 7. Ba3 Kh6 8. Nf8 Kg7 9. Ke7 (9. Kf5 $144 Kh6 10. Kf4 Bg7 11. Ke3 Bf6 12. Kd3 c1=Q 13. Bxc1+ Kg7 $11) c1=Q 10. Bxc1 $11) c3 4. Bc5 $1 (4. Ba5 $143 Kg4 5. Nf6+ Kf5 6. Nd7 c2 7. Bd2 Kg6 8. Nf8+ Kg7 9. Ke8 Kf6 10. Bc1 Bg7 11. Bb2+ Kf5 12. Bxg7 (12. Ba3 $144 Kf6 13. Bc1 Bh8 $11) c1=Q 13. h8=Q $11 {TBS}) Kg4 5. Nf6+ Kg5 6. Nd7 (6. Kf7 $143 Bxf6 7. Be7 Kh6 $1 $11) c2 7. Ba3 Kh6 8. Nf8 Kg7 9. Ke6 $1 (9. Ke8 $143 Kf6 10. Bc1 Bg7 11. Bb2+ Kf5 12. Bxg7 c1=Q 13. h8=Q $11 {TBS}) c1=Q 10. Bxc1 Kxf8 11. Bh6+ Ke8 12. Bg5 Kf8 13. Bf6 Bg7 14. Be7+ $1 Ke8 15. Bd6 Kd8 16. Be5 $18 1-0
+
+[Event "Shakhmaty v SSSR#24"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1N6/1b6/8/R7/8/8/3Pk1r1/7K w - - 0 1"]
+[PlyCount "16"]
+
+1. Nc6 $1 Bxc6 (Rg6 $144 2. d4 $11) 2. d4 Rg5+ 3. d5 Bxd5+ 4. Kh2 Kf2 (Kf3 $144 5. Ra3+ Kf2 6. Rg3 $11) 5. Kh3 $1 (5. Ra3 $143 Be6 $1 $19) Bg2+ (Kf3 $144 6. Kh4 $1 Rf5 7. Rc5 Kf4 8. Ra5 Re5 9. Rb5 Re1 10. Kh5 Be4 11. Kh6 Rg1 12. Rg5 Rh1+ 13. Rh5 $11) 6. Kh2 $1 Bd5 (Rxa5 $144 $11) (Rg8 $144 7. Ra2+ Kf3 8. Ra3+ Kf4 9. Kg1 Bf3+ 10. Kf2 Rg2+ 11. Ke1 $11) 7. Kh3 Be6+ (Rh5+ $144 8. Kg4 Bf3+ 9. Kf4 Rxa5 $11) 8. Kh4 Rxa5 $11 1/2-1/2
+
+[Event "Shakhmaty v SSSR#08"]
+[Source "Shakhmaty v SSSR/2"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/3B4/7n/6P1/4K1n1/6kb w - - 0 1"]
+[PlyCount "11"]
+
+1. Be4 $1 (1. Be6 $143 $2 Ng6 2. Bc8 Ne7 3. Be6 Nc6 4. Bd7 Nd4+ 5. Kd3 Nf3 6. Ke2 Nh2 $19) (1. Bxg2 $143 $2 Nxg2 $19) Nf4+ 2. Ke3 Nhg2+ 3. Bxg2 Nxg2+ 4. Ke2 Kh2 5. Kf2 Kh3 6. Kg1 $11 1/2-1/2
+
+[Event "3.p FIDE Ty FIDE-revue"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2p1p3/8/1N6/1k1K2B1/N1p5/6b1 w - - 0 1"]
+[PlyCount "23"]
+
+1. Be1 Kb2 2. Bc3+ Kb1 3. Be5 (3. Bd2 $143 c5 4. Nc3+ Kb2 5. Nba2 (5. Nc6 $144 c1=Q 6. Bxc1+ Kxc1 7. Ne2+ Kb2 8. Nxg1 $11 {TBS}) Bd4 6. Bc1+ Kb3 7. Bh6 Bxc3 8. Nxc3 c4+ 9. Kd4 e5+ $11) c1=Q (c5 $144 4. Nc3+ Kc1 5. Bf4+ (5. Nxc2 $143 c4+ $11) Kb2 6. Nxc2 $18) 4. Nxc1 Kxc1 5. Na2+ Kd1 (Kb1 $144 6. Nc3+ $18) 6. Bg3 $1 Ba7 7. Nc3+ Kc1 8. Be5 c5 9. Bf4+ Kb2 10. Kc4 Kc2 11. Bc7 e5 12. Nb5 $18 1-0
+
+[Event "Shakhmaty v SSSR#36"]
+[Source "Shakhmaty v SSSR/10"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/6b1/4KP2/8/5B2/8/p7/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. f7 $1 (1. Bd6+ $143 $2 Kg8 2. f7+ Kh7 $11) Be5 2. Bh6+ (2. Bxe5 $143 $2 a1=Q 3. Bd6+ Kg7 4. f8=Q+ Kh7 $1 5. Qf5+ Kg8 6. Qf7+ Kh8 7. Be5+ Qxe5+ 8. Kxe5 $11) Bg7 3. Bg5 $1 Bf6 4. Bxf6 a1=Q 5. Be7+ Kg7 6. f8=Q+ Kh7 7. Qf5+ Kg8 8. Qf7+ Kh8 9. Bf6+ Qxf6+ 10. Qxf6+ $18 1-0
+
+[Event "Shakhmaty v SSSR#16"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K2/8/8/4kP2/1p1N3P/2p5/Pp6/3B4 w - - 0 1"]
+[PlyCount "11"]
+
+1. Nc6+ (1. Nf3+ $143 Kf4 $1 2. Bc2 Kxf3 3. h5 (3. f6 $144 Ke3 4. f7 Kd2 5. Bg6 c2 6. Ke8 b1=Q 7. Bxc2 Kxc2 8. f8=Q Qe1+ $11) Ke3 4. h6 Kd2 5. Be4 c2 6. h7 c1=Q $1 7. h8=Q Ke3 $3 8. Qe5 (8. Qh4 $144 Qc5+ 9. Kg7 Qe5+ 10. f6 Qxe4 11. Qe1+ Kf3 $1 12. Qh1+ Ke3 $1 13. Qe1+ Kf3 14. Qd1+ Kg2 $1 15. Qd2+ Kf3 16. Qxb2 Qg4+ $11) Qc3 9. Qd5 Qh8+ 10. Kf7 Qh5+ $11) Kf6 2. Bc2 b3 3. axb3 b1=Q 4. Ne5 $1 Qxc2 (Qe1 $144 5. Nd7#) 5. Ng4+ Kxf5 6. Ne3+ $18 1-0
+
+[Event "5.p Problem#091"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2B1N3/k2K4/8/8/pP6/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. Nc5 Kb4 2. Nd3+ Kb3 3. Ba4+ $1 Kxa4 4. Kc4 a1=Q (Ka5 $144 5. Nc5 a1=N 6. b4+ Kb6 7. Kc3 Kb5 8. Nd3 $18) (a1=N $144 5. b4 Ka3 (Nc2 $144 6. Nb2+ $1 Ka3 7. b5 Kxb2 8. b6 $18) 6. b5 Nb3 7. Nc5 Na5+ 8. Kc3 Ka2 9. Kb4 $18) 5. Nc5+ Ka5 6. Nb3+ $18 1-0
+
+[Event "1.c Shakhmaty v SSSR#39"]
+[Source "Shakhmaty v SSSR/11"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3P4/B7/3r4/7B/2p4k/5K1p/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. d8=Q $1 Rd2+ $1 (Rxd8 $144 2. Bxd8 Kg4 3. Be2+ Kf4 (Kh3 4. Bf1+) 4. Bc7+ Kg5 5. Bf3 c2 6. Bb6 $11) 2. Qxd2 cxd2 3. Bg3 $1 (3. Be7 $143 $2 d1=N+ $19) d1=N+ (h1=N+ 4. Ke2) 4. Kf3 h1=Q+ 5. Kf4 Qg1 (Qc6 $144 6. Bf1+ $11) (Qg2 $143 6. Bc8#) (Ne3 $144 6. Bc8+ Kg2 7. Bb7+ $11) 6. Bc8+ Kg2 7. Bb7+ Kf1 8. Ba6+ Kg2 9. Bb7+ $11 1/2-1/2
+
+[Event "3.p Shakhmaty v SSSR#32"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6B1/8/k2K1R2/3p4/8/8/3p3n/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. Kc5+ Ka7 (Ka5 $144 2. Rf8 Ka4 3. Bxd5 Ka3 4. Rf2 d1=Q 5. Ra2#) 2. Rf7+ (2. Bxd5 $143 d1=Q 3. Rf7+ Kb8 $1 $11) Ka6 (Kb8 $144 3. Kb6 Kc8 4. Kc6 Kd8 5. Rd7+ Ke8 6. Bf7+ Kf8 7. Bh5 $18) 3. Rg7 $1 d1=Q (Ng4 $144 4. Bxd5 Ne3 5. Bc6 $18) 4. Bxd5 Qh5 5. Rg2 (5. Rg1 $143 Qh8 $19) (5. Rg8 $143 Qh7 $1 6. Ra8+ Qa7+ 7. Rxa7+ Kxa7 $11) Ka7 6. Rg8 $18 1-0
+
+[Event "4.p Komandno Pervenstvo USSR"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3N4/3k4/N7/5b2/p7/2B5/8/5K2 w - - 0 1"]
+[PlyCount "15"]
+
+1. Nb7 Kc6 2. Na5+ $1 (2. Nbc5 $143 Kb5 3. Bd4 a3 4. Ke2 a2 5. Nc7+ Kc4 6. N7e6 Bxe6 7. Nxe6 Kd5 $11) Kb6 3. Nb8 Bd3+ 4. Ke1 $1 (4. Kf2 $143 Bb5 5. Ke3 Kc7 6. Be5+ Kb6 7. Bc3 Kc7 $11) Bb5 5. Kd2 Kc7 6. Be5+ Kb6 7. Kc3 Kxa5 8. Bc7# 1-0
+
+[Event "2.p Shakhmaty v SSSR#12"]
+[Source "Shakhmaty v SSSR/3 EG#01702.3.p USSR overall champ VI 1959-1961."]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3N1p2/8/K7/1p3B2/8/3P1n2/4k3 w - - 0 1"]
+[PlyCount "17"]
+
+1. Nc5 $1 (1. d4 $143 $2 b3 2. Bc1 Nd3 3. Ba3 b2 4. Bxb2 Nxb2 $11) (1. Ka4 $143 $2 Nd3 2. Bg5 f5 3. Nf6 f4 4. Ne4 f3 5. Bh4+ f2 6. Kb3 Ke2 $11) b3 $1 (Nh3 $144 2. Be3 b3 3. Nxb3 f5 4. Nc5 Ke2 5. Ne6 Kd3 6. Kb4 $18) (Ke2 $144 2. Kxb4 Nh3 3. Be3 f5 4. Ne6 $18) 2. Nxb3 Nd3 3. Bg5 $1 (3. Bg3+ $2 Kd1 4. Kb5 Kc2 5. Kc4 f5) (3. Be3 $2 f5) (3. Bh6 $2 f5 4. Kb5 f4 5. Kc4 f3 6. Kxd3 f2 7. Kc2 f1=Q) f5 4. Kb5 f4 5. Kc4 f3 (Ke2 $144 6. Kc3 $18) 6. Kxd3 f2 (Kd1 7. Ke3 $1 (7. Bh4 $2 f2 8. Bxf2)) 7. Kc2 $1 (7. Bh4 $143 $2 Kd1 8. Bxf2 $11) f1=Q 8. Bh4+ Ke2 9. Nd4# 1-0
+
+[Event "3.p Shakhmaty v SSSR#20"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6p1/3N4/4n3/8/3k4/6Pb/5K2 w - - 0 1"]
+[PlyCount "12"]
+
+1. g3 $1 (1. Nf5 $143 g6 2. Nh6 Bg3 $19) Nc4 (Ng4 $144 2. Kg2 Ke2 3. Nf5 g5 4. Nd4+ $11) 2. Nf5 $1 (2. Nxc4 $143 Kxc4 3. Kg2 g5 $1 $19) (2. Ne8 $143 Ne3+ 3. Kf2 g6 $1 4. Kf3 Nf5 5. Kg4 Bxg3 6. Kg5 Ne7 7. Nf6 Be5 $19) Ne3+ (g6 $144 3. Nh4 $11) 3. Nxe3 Kxe3 4. Kg2 g5 5. Kh3 $1 Kf3 6. g4 $1 Bg1 (Kf4 $144 7. Kxh2 Kxg4 8. Kg2 $11) 1/2-1/2
+
+[Event "Shakhmaty v SSSR#20"]
+[Source "Shakhmaty v SSSR/5"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3K4/3P4/b7/3k4/8/4P3/5b2 w - - 0 1"]
+[PlyCount "16"]
+
+1. Ke8 $1 (1. Kc8 $143 $2 Bh3+ $19) Bg2 (Bxe2 $144 2. d7 Bb5 3. Ke7 Bb4+ (Be1 $144 4. d8=Q+ $18) 4. Ke6 Bc4+ 5. Kf6 Ba5 $11) 2. e4 $1 Bxe4 3. d7 Bc6 4. Ke7 Bb4+ 5. Ke6 Bd5+ 6. Kf6 Be1 7. Ke7 Bh4+ 8. Kd6 Bd8 $11 (Kc4 $144 9. Kc7 Bg3+ 10. Kb6 $11) 1/2-1/2
+
+[Event "1.p Kazachstan SSR Ty {c}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1kP5/6P1/5P2/b7/2K5/7n w - - 0 1"]
+[PlyCount "15"]
+
+1. g6 Bf8 2. Kd3 Kxc6 3. Ke4 Ng3+ 4. Ke5 Kd7 (Bb4 $144 5. Ke6 $1 Nh5 6. Kf7 Bc3 7. f5 Kd5 8. f6 Bxf6 9. g7 Bxg7 10. Kg6 $11) 5. Kf6 Ke8 6. g7 Nh5+ 7. Kg6 Nxg7 8. f5 $11 1/2-1/2
+
+[Event "sp.hm FIDE Ty FIDE-revue"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/2p1P3/3r4/1kp2p1p/8/2P2P1P/B4K2 w - - 0 1"]
+[PlyCount "139"]
+
+1. e7 $1 f3 $1 2. e8=Q (2. Ke1 $143 $2 Ra5 $1 3. c3+ Kb3 $1 4. e8=Q Rxa1+ 5. Kd2 Ra2+ 6. Kc1 Ra1+) Rd1+ 3. Qe1+ Rxe1+ 4. Kxe1 c3 $1 5. h3 $1 Kc4 6. Kd1 Kd4 7. Kc1 Kc4 8. Kb1 Kb4 9. Ka2 c5 10. Kb1 Kc4 11. Kc1 Kd4 12. Kd1 Kc4 13. Ke1 Kb4 14. Kf1 Kc4 15. Kg1 Kd4 16. Kh2 Kc4 17. Kh1 $1 Kd4 18. Kg1 Kc4 19. Kf1 Kd4 20. Ke1 Kc4 21. Kd1 Kb4 22. Kc1 Kc4 23. Kb1 Kb4 24. Ka2 f6 25. Kb1 Kc4 26. Kc1 Kb4 27. Kd1 Kc4 28. Ke1 Kd4 29. Kf1 Kc4 30. Kg1 Kd4 31. Kh2 Kc4 32. Kh1 Kb4 33. Kg1 Kc4 34. Kf1 Kd4 35. Ke1 Kc4 36. Kd1 Kb4 37. Kc1 Kc4 38. Kb1 Kb4 39. Ka2 f5 40. Kb1 Kc4 41. Kc1 Kb4 42. Kd1 Kc4 43. Ke1 Kd4 44. Kf1 Kc4 45. Kg1 Kb4 46. Kh2 Kc4 47. Kh1 Kd4 48. Kg1 Kc4 49. Kf1 Kb4 50. Ke1 Kc4 51. Kd1 Kb4 52. Kc1 Kc4 53. Kb1 Kb4 54. Ka2 f4 55. Kb1 Kc4 56. Kc1 Kd4 57. Kd1 Kc4 58. Ke1 Kd4 59. Kf1 Kc4 60. Kg1 Kb4 61. Kh1 Kc4 62. Kh2 Kb4 63. Kg1 Kc4 64. Kf1 Kd4 65. Ke1 Kc4 66. Kd1 Kb4 67. Kc1 Kc4 68. Kb1 Kb4 69. Ka2 c4 70. Kb1 $18 1-0
+
+[Event "1.p Shakhmaty v SSSR#12"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7B/2K4k/5P2/2P2r2/8/8/1b6/5N2 w - - 0 1"]
+[PlyCount "13"]
+
+1. Ne3 $1 (1. Kd6 $143 Kxh8 2. Ne3 Rxf6+ 3. Kd7 Rf7+ 4. Ke6 Rc7 $1 5. Kd6 Ra7 $1 $19) Rxc5+ 2. Kb6 $1 Bd4 (Rc1 $144 3. f7 Ba3 4. Bd4 Kg6 5. Kb5 Kxf7 $11 {TBS}) 3. f7 Bxe3 4. Bd4 $3 Bxd4 5. f8=N+ $1 Kg8 6. Ne6 Rd5+ (Rc4+ $144 7. Kb5 $11) 7. Kc6 $11 1/2-1/2
+
+[Event "3.p Shakhmaty v SSSR#16"]
+[Source "Shakhmaty v SSSR/4 EG#01706."]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6Nn/5k2/3P2p1/4K3/6PP/5p2/8/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. d7 $1 Kg7 (f2 $144 2. d8=Q f1=Q 3. Nh6+ Kg7 4. Qg8+ Kxh6 5. Qxh8#) 2. Nh6 $1 Kxh6 3. Ke6 Nf7 $1 4. Kxf7 f2 5. Kg8 $1 (5. d8=Q $143 $2 f1=Q+ 6. Qf6 Qc4+ 7. Kf8 Qc8+ $1 8. Ke7 Qc7+ 9. Ke6 Qc6+ 10. Kf7 Qc4+ 11. Qe6 Qc7+ 12. Qe7 Qc4+ $11) f1=Q 6. d8=N $1 (6. d8=Q $143 $2 Qc4+ $11) Qc4+ 7. Nf7+ Qxf7+ 8. Kxf7 $18 1-0
+
+[Event "1.hm Chervoni Girnik"]
+[Source "EG#02056."]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/2p5/2Pp3q/K4R2/N2P2B1/rk6 w - - 0 1"]
+[PlyCount "19"]
+
+1. Kb3 $1 Qe1 2. Rf1 Qxf1 3. Be4+ d3 4. Bxd3+ Qxd3+ 5. Nc3+ Qxc3+ (Kc1 $144 $11) 6. dxc3 Ra3+ (Ra8 $144 $11) 7. Kxa3 Kc2 8. Ka2 Kxc3 9. Kb1 Kxc4 10. Kc2 $11 1/2-1/2
+
+[Event "2.hm Vecherni Leningrad"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3b3k/8/1NR2p1K/7P/7n/3n4/8 w - - 0 1"]
+[PlyCount "21"]
+
+1. Re5 (1. Rc7 $143 Nf4+ 2. Kg5 Ne6+ 3. Kxf5 Nxc7+ $19) Nf4+ 2. Kg5 Ng6 3. Rxf5 Ne4+ 4. Kg4 Kh6 (Ne7 $144 5. Kf4 Bxf5 6. Nd4 Bg6 7. h5 $11) 5. Kf3 (5. Nd4 $143 Nd6 $19) Bxf5 6. Nd4 Nxh4+ (Nd6 $144 7. Nxf5+ Nxf5 $11) 7. Kf4 Bh7 8. Kg4 Ng2 (Ng6 $143 9. Nf5#) 9. Kf3 Ne1+ 10. Ke2 Ng2 11. Kf3 $11 1/2-1/2
+
+[Event "2.p Shakhmaty v SSSR#12"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4b2N/8/7k/8/6P1/3p2P1/P5K1/B2n4 w - - 0 1"]
+[PlyCount "25"]
+
+1. Kf1 (1. Kf3 $143 Bc6+ 2. Kf4 d2 3. Nf7+ Kh7 $1 4. Ng5+ Kg6 5. Nh3 Bg2 $19) (1. Bd4 $143 d2 2. Kf3 Bb5 3. g5+ Kxg5 4. Nf7+ Kh5 5. g4+ Kg6 $19 6. Ne5+ Kh7 $1 $19) (1. g5+ $143 Kxg5 2. Kf1 Ne3+ 3. Ke1 Nc2+ 4. Kd2 Nxa1 5. Kxd3 Kf6 6. Kc3 Ba4 7. Kb4 Bc2 8. a4 Kg7 9. a5 Kxh8 10. Kc3 Be4 $1 11. a6 Nc2 $19) Ne3+ 2. Ke1 Nc2+ 3. Kd2 Nxa1 4. Kxd3 Kg7 5. Kc3 Ba4 6. Ng6 $1 (6. Kb4 $143 Bc2 7. Kc3 Bh7 $19) Kxg6 7. Kb4 Bc2 8. Kc3 Ba4 (Be4 $144 9. Kd4 $11) 9. Kb4 Bd1 10. Kc3 Kg5 11. Kb2 Nc2 12. Kc1 Ne3 13. Kd2 $11 1/2-1/2
+
+[Event "2.p Shakhmaty v SSSR#36"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/8/3P4/8/1B6/3qN1p1/2R3Pp/5n1K w - - 0 1"]
+[PlyCount "23"]
+
+1. Rc3 $1 Qb1 $1 2. Rb3 $1 Qc1 3. Rc3 (3. Bc3+ $143 Kh7 4. Rb7+ Kh6 $1 5. Nf5+ Kg5 6. Bb2 Qd1 $19) Qa1 4. Ra3 Qb1 5. Rb3 Qxb3 6. d7 Qg8 7. Nd5 $1 (7. Nxf1 $143 Qd8 8. Nxg3 Qxd7 9. Bc3+ Kh7 10. Kxh2 Qe7 $1 11. Kh3 Qe6+ 12. Kh2 Qh6+ $19) Qxd5 (Qd8 $144 8. Ba5 $1 Qxa5 9. Nc7 $1 Qd2 10. Nd5 $1 Qg5 11. Ne7 $1 (11. Nf6 $143 Qa5 12. Ne4 Qb6 $19) Qd2 12. Nd5 $1 Qa5 13. Nc7 $11) 8. Bd6 $1 Qa8 9. Bb8 $1 Qd5 10. Bd6 $1 Qg8 11. Bf8 $1 Qg5 12. Be7 $11 1/2-1/2
+
+[Event "1.p Shakhmaty Moskva"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5kb1/5pb1/4pp2/1r6/5P1K/8/7P/6Q1 w - - 0 1"]
+[PlyCount "22"]
+
+1. Qa1 Bh8 2. Qa3+ $1 Kg7 3. Qg3+ Kh7 4. Qd3+ Rf5 5. Qxf5+ $1 exf5 6. Kh5 Kg7 7. h4 Kf8 8. Kh6 Bg7+ 9. Kh5 Bh8 10. Kh6 Ke7 (Bh7 $144 11. Kxh7 Bg7 12. h5 Bh6 13. Kxh6 Kg8 $11) 11. h5 Kd6 1/2-1/2
+
+[Event "3.p Shakhmaty v SSSR#20"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/8/4k2r/8/6n1/B3p3/3NK3/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. Nf1 $1 (1. Nf3 $2 Kf5 $19 2. Nh4+ Rxh4) (1. Nc4 $2 $143 Rh2+ 2. Kd3 Rh4 (Kd5 3. Nb6+ Kc6 4. Nc4 e2 $19) 3. Nxe3 Nxe3 4. Kxe3 Rh3+) (1. Ne4 $2 Ke5 $19 2. Bd6+ Kxe4) (1. Kf3 $2 exd2 2. Kxg4 d1=Q+) (1. Nb3 $2 Kd5 2. Be7 Rh2+) (1. Bd6 Kxd6 2. Ne4+ Ke5) Ke5 $1 (Kd5 $144 2. Nxe3+ Nxe3 3. Bc1 $11) 2. Nxe3 $1 (2. Bf8 $2 Re6 $19 3. Nxe3 Kf4) (2. Bb2+ $2 Ke4 3. Ng3+ Kf4) (2. Kf3 $2 Rf6+ 3. Ke2 Rf2+) (2. Ng3 $2 Kf4 3. Nh5+ Rxh5) (2. Bd6+ $2 Rxd6 3. Nxe3 Nxe3 4. Kxe3 Kf5) (2. Nh2 $2 Rxh2+ 3. Kd3 Rd2+) (2. Be7 Kd4) (2. Kd3 Rb6) (2. Bc1 $143 Ke4 3. Ng3+ Kf4 4. Nf1 Rc6 $1 $19) Rh2+ 3. Ke1 $1 (3. Kf3 $2 Nxe3 $19 4. Bb2+ Rxb2 5. Kxe3 Rb3+) (3. Kf1 $2 Nxe3+ 4. Kg1 Rg2+ $19) (3. Kd3 $2 Nxe3 $19 4. Bb2+ Rxb2 5. Kxe3 Rb3+) (3. Ng2 $2 Rxg2+ 4. Kf3 Ra2 5. Bd6+ Kxd6 6. Kxg4 Rf2) (3. Kd1 $2 Nxe3+ 4. Kc1 Kd4) Rh1+ (Nxe3 4. Bd6+ $1 $10 (4. Bc5 $2 Ke4 5. Bxe3 Kxe3) (4. Bb2+ $2 Ke4) (4. Bc1 $2 Ke4 5. Bxe3 Kxe3) (4. Be7 Rg2 5. Bf6+ Ke4) (4. Bf8 Rg2 5. Bg7+ Rxg7)) 4. Nf1 $1 (4. Ke2 $2 Nxe3 $19 5. Bd6+ Ke4) (4. Kd2 $2 Nxe3 5. Kxe3 Rh3+) Nh2 (Ne3 5. Kf2 (5. Ke2 $2 Nxf1 $19 6. Bd6+ Kxd6) (5. Bb2+ $2 Ke4 $19) (5. Bc1 $2 Rxf1+ 6. Kd2 Nd5 7. Bb2+ Ke4) (5. Kd2 $2 Nxf1+ 6. Ke2 Kd4) (5. Bc5 $2 Nxf1 6. Bd4+ Kxd4) Nxf1 6. Kg2 $1 $10 (6. Bb2+ $2 Ke4) (6. Bc1 $2 Ke4) (6. Ke1 Ne3+ 7. Ke2 Ke4)) 5. Kf2 (5. Ke2 $2 Rxf1 $19 6. Bd6+ Kxd6) (5. Bc5 Rxf1+ 6. Ke2 Kd5) (5. Bb2+ Kd5) Rxf1+ 6. Kg2 (6. Kg3 Rf3+ 7. Kxh2 Rxa3) Rf3 7. Bc1 $1 (7. Bb2+ $2 Ke4 8. Kxh2 Rf2+ $19) (7. Bb4 $2 Rb3 8. Bc3+ Rxc3 9. Kxh2 Kf4 $19) (7. Be7 $2 Rf7 8. Bd6+ Kxd6 9. Kxh2 Rf2+ $19) (7. Bc5 $2 Rc3 8. Bf8 Ng4 $19) (7. Bd6+ $2 Kxd6 8. Kxh2 Rf2+) (7. Kh1 $2 Rxa3 8. Kxh2 Kf4) Rf1 8. Ba3 $1 $11 (8. Bb2+ $2 Ke4 9. Kxh2 Rf2+ $19) (8. Bd2 $2 Ke4 9. Kxh2 Rf2+ $19) (8. Bg5 $2 Rf5 9. Bf6+ Rxf6 $19 10. Kxh2 Rg6) (8. Bh6 $2 Rf7 9. Bf4+ Kxf4 $19 10. Kxh2 Kf3) (8. Be3 $2 Re1 $19 9. Kxh2 Rxe3) (8. Bf4+ $2 Kxf4 9. Kxh2 Kf3 10. Kh3 Rh1#) (8. Kg3 $2 Rxc1 9. Kxh2 Kf4) Rf3 9. Bc1 $10 (9. Bb2+ $2 Ke4 10. Kxh2 Rf2+ $19) (9. Bc5 $2 Rg3+ 10. Kxg3 $10 Nf1+ 11. Kf3) (9. Bb4 $2 Rg3+ 10. Kxh2 Rh3+ 11. Kg2) (9. Bd6+ $2 Kxd6 10. Kxh2 Rf2+) (9. Be7 $2 Rf2+ 10. Kxf2 Ng4+ 11. Ke2) (9. Kh1 $2 Rxa3 10. Kxh2 Kf4) 1/2-1/2
+
+[Event "6.hm Shakhmaty v SSSR#04 {c}"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6B1/8/8/4P3/4k1p1/8/6P1/3b3K w - - 0 1"]
+[PlyCount "11"]
+
+1. e6 g3 2. Bf7 Ke3 3. Be8 (3. e7 $143 Kf2 4. e8=Q Bf3 5. Bd5 Bxg2+ 6. Bxg2 $11) Kf2 4. Bc6 Be2 5. e7 Bf1 6. e8=N $18 1-0
+
+[Event "5.p Behting MT Shakhmaty (Riga)#032"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K3B3/1r6/8/7N/3P2k1/8/3P2b1/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. Bc6 $1 (1. d5 $143 Re7 2. Bg6 Kg5 3. Kb8 Bxd5 4. Kc8 Be6+ 5. Kd8 Rd7+ $19) Bxc6 2. d5 $1 Kxh5 (Bxd5 $144 3. Nf6+ $11) 3. d4 $1 (3. dxc6 $143 Rc7 $19) Rc7+ (Bxd5 $144 $11) (Rd7+ $144 4. dxc6 Rxd4 $11) 4. Kb8 Rb7+ 5. Ka8 $1 Rb6+ 6. Ka7 Rb7+ 7. Ka8 $11 1/2-1/2
+
+[Event "4.p 64#79"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6B1/5N2/4p3/4K3/1b3B2/3Ppkp1/8 w - - 0 1"]
+[PlyCount "27"]
+
+1. Ng4+ Ke1 (Kg3 $144 2. Bxe5+ Kh4 3. Bf6+ Kh3 4. Nf2+ $1 Kg3 5. Be5+ Kxf2 6. Bxe2 $11) 2. Bh6 $1 (2. Bxg2 $143 Kxd2 3. Bh6+ Kc3 $19) Bc2+ $1 (g1=Q $144 3. Be3 Qf1 4. Nf2 Ba4 5. Kxe5 Bc6 6. Nd3+ Kd1 7. Bxc6 e1=Q 8. Nxe1 Qxe1 9. Be4 Qg3+ 10. Bf4 Qg7+ 11. Ke6 Qd4 12. d3 $11) 3. d3 $1 g1=Q 4. Be3 Qf1 5. Nf2 Bb1 (Ba4 $144 6. d4 $1 exd4 7. Kxd4 $11) 6. Kd5 $1 (6. Kf5 $143 Qg1 $1 7. Ng4 Bxd3+ 8. Kg5 Qg3 9. Bd5 Kf1 10. Bd2 e1=Q 11. Bxe1 Kxe1 $19) Ba2+ (Bxd3 $144 7. Kxe5 $11) 7. Ke4 (7. Kc5 $143 Bf7 8. Kd6 Bh5 $1 9. Bxh5 Qg1 10. Bc5 e4 11. Bxe2 e3 12. Ng4 Kxe2 13. Nxe3 Qg6+ $19) Bb1 (Qg1 $144 8. Ng4 Qg3 (Qf1 $144 9. Nf2 $11) 9. Bf2+ Qxf2 10. Nxf2 Kxf2 11. Bxe2 $11) 8. Kd5 Bxd3 $1 9. Kxe5 $1 (9. Nxd3+ $143 Kd1 10. Nxe5 Kc2 11. Be4+ Kb3 12. Nf3 e1=Q 13. Nxe1 Qxe1 $19 {TBS mat en 69 coups}) Ba6 $1 (Bg6 $144 10. Kf4 Bh5 11. Kg3 Bxf3 12. Kxf3 $11) 10. Kd4 $1 (10. Kf5 $143 Bb7 11. Kf4 Bc6 12. Kg3 Qg1+ $19) Bb7 11. Kc3 $1 (11. Bxb7 $143 Qxf2 12. Bxf2+ Kxf2 $19) Bxf3 (Be4 $144 12. Kb2 Bxf3 13. Nd3+ Kd1 14. Nf2+ Ke1 15. Nd3+ $11) 12. Nd3+ Kd1 13. Nb2+ Ke1 14. Nd3+ $11 1/2-1/2
+
+[Event "3.p 64"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/7p/Pk6/b7/8/6P1/8/8 w - - 0 1"]
+[PlyCount "20"]
+
+1. Kb8 $1 (1. a7 $143 Kc7 (Be1 $143 2. Kb8 Bxg3+ 3. Ka8 Bf2 4. Kb8 $11) 2. g4 Bb6 3. g5 Kd6 4. Kb7 Bxa7 5. Kxa7 Ke5 6. Kb6 Kf5 7. Kc5 Kxg5 8. Kd4 Kf4 $19) Kxa6 2. Kc8 Kb5 3. Kd7 Kc4 4. Ke6 Kd3 5. Kf5 (5. g4 $143 h6 $1 $19) Ke2 (Ke3 $144 6. Kg5 $1 $11) 6. g4 $1 (6. Kg5 $143 Bd2+ 7. Kh4 Kf2 $1 8. g4 h6 9. Kh3 Bf4 $19) Kf3 $1 7. Kg5 (7. g5 $143 Bc3 $1 8. g6 h6 $19) Bd2+ 8. Kh4 h6 9. Kh3 Bf4 10. g5 $1 hxg5 $11 (Bxg5 $144 11. Kh2 $11) 1/2-1/2
+
+[Event "1.p 64 {v}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B3RB2/8/3K2p1/4p1bk/8/8/2p4P/8 w - - 0 1"]
+[PlyCount "21"]
+
+1. Bf3+ $1 (1. Rc8 $143 c1=Q 2. Rxc1 Bxc1 3. Kxe5 g5 4. Kf5 Kh4 5. Bg2 Bf4 $11) Kh4 2. Be7 Bxe7+ 3. Kxe5 $1 Bd6+ (c1=Q $144 4. Rh8+ Qh6 (Kg5 $144 5. h4#) 5. Rxh6+ Kg5 $18) (Bg5 4. Rh8+ Bh6 5. Rxh6+ Kg5 6. Rh8 c1=Q 7. h4#) 4. Kf6 Be5+ 5. Kxe5 c1=Q 6. Rh8+ Qh6 7. Rxh6+ Kg5 8. Rh5+ $1 gxh5 9. Be4 Kg4 (Kh6 $144 10. Kf6 h4 11. Bg6 h3 12. Bf5 Kh5 13. Bxh3 Kh6 14. Bf5 Kh5 15. h3 Kh6 16. Kf7 Kg5 17. Bg4 Kh6 18. Kg8 Kg5 19. Kg7 Kh4 20. Kf6 Kg3 21. Kg5 $18) 10. Bf5+ Kh4 11. h3 $18 1-0
+
+[Event "5.c 64#055"]
+[Source "6.p USSR overall champ X 1969-1970"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3P1P2/6R1/b7/8/3k1q2/8/K7 w - - 0 1"]
+[PlyCount "19"]
+
+1. Rg3 $1 (1. d8=Q+ $143 $2 Kc2 2. Qc8+ Bc3+ 3. Ka2 Qd5+ 4. Qc4 Qxc4+ 5. Ka3 Qb3#) Qxg3 2. d8=Q+ $1 (2. f8=Q $143 $2 Bc3+ $1 3. Kb1 Qe1+ 4. Ka2 Qa1+ 5. Kb3 Qb2+ 6. Ka4 Qa2+ 7. Kb5 Qa5+ 8. Kc6 Qa6+ 9. Kc7 Ba5+ (Be5+ 10. Kd8 Qa8+ 11. Ke7 Bd6+) 10. Kb8 Qb6+ 11. Ka8 Qc6+ 12. Ka7 Bb6+ 13. Ka6 Bc7+ 14. Ka7 Qb6+ 15. Ka8 Qa6#) Kc2 $1 3. Qd1+ (3. Qc8+ $143 $2 Bc3+ 4. Ka2 Qe5 $1 5. f8=Q Qd5+ 6. Qc4 Qxc4+ 7. Ka3 Bb2#) Kxd1 4. f8=Q Qe5+ $1 5. Ka2 Kc2 6. Qb4 $3 $1 Qd5+ (Bxb4 $144 $11) 7. Ka1 Qe5+ 8. Ka2 Qd5+ 9. Ka1 Kd3 10. Qb1+ $11 1/2-1/2
+
+[Event "2.p Krivorog-Kazachstan match"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k1n5/3B4/3p4/3R3K/8/1b6/8/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. Rb5 Bf7+ 2. Kg5 Na7 3. Rb6 (3. Rb2 $143 Bd5 4. Kf6 Nc6 5. Rd2 Bf3 6. Ke6 Kb8 7. Kxd6 Nd8 $11) Bd5 4. Kf6 Nc6 (Bb7 $144 5. Ke7 Kb8 6. Kd8 d5 7. Rb4 d4 8. Rxd4 Nc6+ 9. Bxc6 Bxc6 10. Rb4+ Bb7 11. Kd7 $18) 5. Bxc6+ Ka7 6. Rb7+ Ka8 7. Ke7 (7. Rc7+ $143 Kb8 $11) Bxc6 8. Rb6 Be4 9. Kxd6 Ka7 10. Kc7 $18 1-0
+
+[Event "64#082"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p6p/7n/3P4/5K2/7P/7P/7k w - - 0 1"]
+[PlyCount "21"]
+
+1. Ke5 $1 Nf7+ 2. Ke6 Ng5+ (Nd8+ $144 {main} {<main>} 3. Kd7 Nb7 4. Kc6 Na5+ 5. Kb5 Nb3 6. Kc4 Nd2+ 7. Kd3 Nf3 8. Ke4 Kg2 $1 9. h4 Nd2+ (Nxh4 $143 10. d6 Nf3 11. h4 $1 $18) 10. Kd3 Nb3 11. Kc4 $11) 3. Kf5 Nf3 (h6 $144 4. h4 Nh7 5. Kg6 Nf8+ 6. Kxh6 $11) 4. Ke4 Nd2+ (Kg2 $144 5. h4 Nd2+ $11 (Nxh4 6. d6 Nf3 7. h4 $1 Nd2+ 8. Kd5) 6. Kd3) 5. Kd3 Nb3 6. Kc4 Na5+ 7. Kb5 Nb7 8. Kc6 Nd8+ 9. Kd7 Nf7 10. Ke6 Ng5+ (Nh8 $144 11. d6 Ng6 12. Kf6 Nf8 13. Ke7 Ng6+ 14. Kf6 $11) 11. Kf5 $11 1/2-1/2
+
+[Event "2.p Shakhmaty Moskva"]
+[Source "EG#01478."]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1p2K3/8/3k1p2/8/B1PPPp2/8 w - - 0 1"]
+[PlyCount "25"]
+
+1. Kd6 $1 f1=Q (f3 $144 2. e3+ Ke4 3. Ke6 f1=Q 4. Bd5#) 2. c3+ Ke4 3. Bc4 $1 Kf5 $1 (Qb1 $144 4. Bg8 $1 f3 5. Bh7+ Kf4 6. e3+ $18) (f3 $144 4. Bd3+ Kf4 5. e3+ $18) 4. e4+ fxe3 5. Bxf1 exd2 6. Bd3+ (6. Be2 $2 Ke4 7. c4 Kd4) Kf4 7. Bc2 Ke3 8. Kd5 (8. Kc6 $2 d1=Q 9. Bxd1 Kd3) Ke2 9. c4 Ke3 $1 10. Ke5 $1 (10. Kc6 $143 $2 Kd4 11. Kb5 Kc3 $11) Ke2 11. Kd6 $1 Ke3 12. Kd5 $1 Ke2 13. Kc6 $18 1-0
+
+[Event "4.p Shakhmaty (Riga)#058"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "N7/2B3n1/2K5/4pP2/6nP/8/4b3/3k4 w - - 0 1"]
+[PlyCount "21"]
+
+1. f6 Bf3+ (Nf5 $144 2. f7 Ne7+ 3. Kd6 Ng6 4. h5 Nf8 5. Ke7 $11) (Ne6 $144 2. Bxe5 $11) 2. Kd6 $1 (2. Kb5 $143 Ne6 3. Bd6 Bxa8 4. f7 e4 $19) (2. Kd7 $143 Nxf6+ 3. Ke7 Nd5+ 4. Kf7 Nxc7 5. Nxc7 Nh5 $19) Nxf6 (Ne8+ $144 3. Ke6 $1 Nexf6 4. Bxe5 Bd5+ 5. Kf5 $11) (Nf5+ $144 3. Ke6 Nd4+ 4. Ke7 $11 Bd5 5. f7 Nf5+ 6. Ke8 Nf6+ 7. Kd8 Bxf7 8. Bxe5 $11) 3. Kxe5 Nfe8 (Bxa8 $144 4. Kxf6 Ne8+ 5. Ke5 $1 Nxc7 6. h5 Nd5 7. h6 $11) 4. h5 $1 (4. Kf4 $143 Bxa8 5. Be5 Ke2 6. h5 Nxh5+ 7. Kg5 Bf3 $1 8. Kg6 Ke3 9. Kf7 Ke4 $19) Nxh5 5. Kf5 $1 (5. Ke6 $143 Bxa8 6. Be5 Neg7+ $1 7. Kf7 Nf5 8. Kg6 Nhg3 9. Kg5 Ke1 $19) Bxa8 6. Be5 Nhg7+ $1 (Bf3 $144 7. Kg6 Ke2 8. Kf7 Bc6 9. Kg6 $11) 7. Kg6 Ne6 8. Kf7 N8c7 9. Ke7 Bc6 10. Bxc7 Nxc7 11. Kd6 $11 1/2-1/2
+
+[Event "1.p Shakhmaty Moskva"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/8/b3Pp2/1N1K1P2/8/7p/8/8 w - - 0 1"]
+[PlyCount "16"]
+
+1. Nd6 h2 2. e7 h1=Q+ 3. Ke6 Bb5 4. Nxb5 Qe4+ 5. Kf7 Qc4+ 6. Kg6 $1 Qxb5 7. Kh6 $1 Kg8 8. e8=Q+ Qxe8 $11 1/2-1/2
+
+[Event "5.p Shakhmaty (Riga)#057"]
+[Source "EG#02140."]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3B4/4P3/8/2p2pP1/2n3p1/3k4/7K w - - 0 1"]
+[PlyCount "21"]
+
+1. Bc6 $1 (1. e7 $143 $2 f3 2. e8=Q g2+ 3. Kh2 Ne2 $19) (1. Kg2 $143 $2 Nd5 $19) Nd5 $1 2. Bxd5 c3 3. Be4 $1 (3. e7 $143 $2 c2 4. e8=Q c1=Q+ 5. Kg2 Qc5 $1 6. Kh3 Qxd5 7. g5 g2 8. Kh2 f3 9. Qb8 g1=Q+ (Qd4) 10. Kxg1 Qxg5+ $18) f3 4. e7 $1 (4. Kg1 $143 $2 Ke2 $19) c2 $1 5. Bxc2 Ke1 $1 (Ke2 $143 6. Bd1+ $18) 6. e8=Q+ (6. Be4 $143 $2 g2+ 7. Kh2 Kf2 $19) Kf2 7. Qe3+ $1 (7. Qe5 $143 $2 g2+ 8. Kh2 g1=Q+ 9. Kh3 Qh1+ 10. Qh2+ Qg2+ $1 $19) Kxe3 8. Bd1 $1 (8. Kg1 $143 $2 Ke2 $1 $19) Kf2 9. Bxf3 Kxf3 10. Kg1 Kxg4 11. Kg2 $11 1/2-1/2
+
+[Event "1.hm 64#12"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4kPR1/5p1K/q7/5P2/8/8/8 w - - 0 1"]
+[PlyCount "22"]
+
+1. Kh7 Qa2 (Kf8 $143 2. Kg6 $18) (Qh5+ $144 2. Kg8 Qd5 3. f5 $11) 2. Kg8 f5 3. Rh7 Qd5 $1 4. Rg7 Kf6 5. Kh7 $1 (5. Kh8 $143 Qa8+ 6. Kh7 Ke6 $1 7. Rg8 (7. Kh6 $144 Qh8+ 8. Kg6 Ke7 $19) Qh1+ 8. Kg7 Qg2+ $1 9. Kh7 Qh2+ 10. Kg7 Qg3+ $1 11. Kf8 Qa3+ 12. Kg7 Qc3+ 13. Kf8 Kf6 $19) Qa8 6. f8=Q+ Qxf8 7. Rg6+ Ke7 (Kf7 $144 8. Rf6+ Kxf6 $11) 8. Rg8 $1 Qf6 9. Rg7+ Ke8 10. Rg8+ Kf7 11. Rf8+ Kxf8 $11 1/2-1/2
+
+[Event "1.p Komandno Pervenstvo USSR"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/N7/7P/2p5/pkP1K3/b1p5/4B3 w - - 0 1"]
+[PlyCount "31"]
+
+1. Bd2 Bb1 (Kb2 $144 2. h6 Bb1 3. h7 c1=Q 4. Bxc1+ Kxc1 5. h8=Q a2 6. Qd8 Bc2 7. Qa5 Kb2 8. Nb4 a1=Q 9. Qxa1+ Kxa1 10. Nxc2+ $18) (c1=Q $144 2. Bxc1 Kxc3 3. Bxa3 Kb3 4. h6 Bb1 5. Bb4 c3 6. Kd4 c2 7. Bd2 c1=Q 8. Bxc1 $18) 2. Bc1 a2 3. Kd2 (3. Kd4 $143 a1=R $1 (a1=Q $143 4. Nc5+ Ka2 5. Kxc4 $19 Qb2 6. Bxb2 Kxb2 7. Nd3+ Ka3 8. Kd4 Ba2 9. c4 $18) 4. Nc5+ Ka2 5. Ne4 Kb3 6. Nc5+ Ka2 $11) a1=R (a1=Q $144 4. Nc5+ Ka2 5. h6 Qb2 6. Bxb2 Kxb2 7. Na4+ $18) 4. Nc5+ Ka2 5. Ne6 Kb3 6. Nd4+ Ka2 7. Nb5 Kb3 8. Na3 Rxa3 9. Bxa3 c1=Q+ 10. Kxc1 Bd3 11. Bb4 Ka4 12. Kd2 Kb5 13. Ke3 Kc6 14. Kd4 $1 (14. Kf4 $143 Kd5 15. Kg5 Ke6 $11) Kd7 15. Ke5 Ke8 16. Kf6 $18 1-0
+
+[Event "1.p 64#67"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2b5/P1pp4/8/8/8/4P2p/4KB1k w - - 0 1"]
+[PlyCount "27"]
+
+1. a7 d5 $1 2. Kf2 $1 (2. a8=Q $143 Bg3+ 3. Kd2 Kg1 $11) Bb6+ 3. e3 Bxe3+ 4. Kxe3 Kg1 5. Bg2 $1 (5. a8=Q $143 d4+ $1 6. Ke2 (6. Kf4 $144 h1=Q 7. Qg8+ Kxf1 8. Qc4+ Kg1 $1 9. Qxd4+ Kh2 $1 $11) d3+ 7. Ke1 d2+ 8. Kxd2 h1=Q $11) Kxg2 6. a8=Q d4+ (h1=Q $144 {main} 7. Qg8+ $1 Kf1 8. Qf7+ Kg2 9. Qg6+ Kf1 10. Qf5+ Kg2 11. Qg4+ Kf1 12. Qe2+ $1 Kg1 13. Qf2#) 7. Kf4 $1 (7. Ke2 $143 d3+ 8. Ke3 h1=Q 9. Qg8+ Kf1 10. Qf7+ Kg2 11. Qg6+ Kf1 12. Qf5+ Kg2 13. Qg4+ Kf1 $11) h1=Q 8. Qa2+ $1 Kh3 9. Qb3+ (9. Qe6+ $143 Kh2 $1 $11) Kg2 10. Qc2+ (10. Qg8+ $143 Kf1 $1 $11) Kf1 11. Qd1+ (11. Qd3+ $143 Kg1 $1 $11) Kg2 12. Qe2+ Kh3 13. Qg4+ Kh2 14. Qg3# 1-0
+
+[Event "1.p Bulletin Central Chess Club USSR#44"]
+[Source "Bulletin Central Chess Club USSR/12"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K6/pP6/Pk2b3/p7/P7/7N/8/8 w - - 0 1"]
+[PlyCount "22"]
+
+1. Nf4 $1 Bc4 2. Nd5+ (2. Ka8 $143 Kxa6 3. b8=N+ Kb6 4. Nd7+ Kc7 $11) Bxd5 3. Kc8 Bxb7+ 4. axb7 Ka6 5. Kb8 Kb6 6. Ka8 Ka6 7. b8=N+ Kb6 8. Nd7+ Kc6 9. Ne5+ Kc5 10. Nd3+ Kc4 11. Nb2+ Kb3 $18 12. Kxa7 1-0
+
+[Event "1.p 64#76"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B7/8/R7/7k/n3K3/5p2/8/7b w - - 0 1"]
+[PlyCount "13"]
+
+1. Kf4 $1 (1. Ke3 $143 f2 2. Kxf2 Nc5 3. Ra5 Bxa8 $11) Nc5 $1 (f2 $144 2. Bxh1 f1=Q+ 3. Bf3+ Qxf3+ 4. Kxf3 $18) 2. Ra1 $1 Bg2 3. Ra5 Kh4 $1 4. Rxc5 f2 5. Bxg2 f1=Q+ 6. Bf3 $1 (6. Bxf1 $143 $11) Qa1 7. Rh5# 1-0
+
+[Event ".c Shakhmaty v SSSR#23"]
+[Source "Shakhmaty v SSSR/7 EG#02985."]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/k7/1b4P1/8/8/Nr3P2/8/5K2 w - - 0 1"]
+[PlyCount "19"]
+
+1. g7 $1 Rxf3+ 2. Kg2 Rf2+ 3. Kh3 $1 (3. Kg3 $143 $2 Rf1 4. Nb5+ Kb7 $1 5. Nd6+ Ka6 $1 6. Nf5 Rg1+ 7. Kh4 Bc7 $1 8. Kh5 Bf4 9. Nd4 Rxg7 10. Ne6 Rh7+ $1 $19) Rf1 4. Nb5+ Ka6 $1 (Kb7 $144 5. Nd6+ Ka6 6. Nf5 $11) 5. Nc7+ Kb7 6. Ne6 Rg1 7. Kh4 Be3 $1 8. Kh5 Kc6 9. Ng5 $1 Rxg5+ 10. Kh6 $11 1/2-1/2
+
+[Event "2.p 64#28"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4B3/8/5P1K/7P/1r5k/5R2/6p1/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. f7 $1 (1. Bd7 $143 Rg4 2. f7 (2. Bxg4 $144 g1=Q 3. f7 Qxg4 4. f8=Q Qxf3 5. Qxf3 $11) g1=Q 3. f8=Q Rg6+ 4. Kh7 Rh6+ 5. Qxh6 Qg8+ 6. Kxg8 $11) Rb6+ (g1=Q $144 2. f8=Q Qg5+ 3. Kh7 Rb7+ 4. Kh8 Rb8 5. Qf4+ $18) 2. Kh7 Rb7 3. Rf4+ Kxh5 4. Kh8 $1 (4. Rf6 $143 Kh4 5. Rh6+ Kg3 6. Rg6+ Kh3 $1 7. Kg8 Rxf7 8. Kxf7 Kh2 $11) Rxf7 5. Rxf7 g1=Q 6. Rf1+ Kh6 7. Rf6+ $1 Kg5 8. Rg6+ $18 1-0
+
+[Event ".c 64#68"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/8/1P6/2K4B/4Pn2/1p1P4/8/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. Bd1 $1 Nxd3+ 2. Kc6 b2 (Kb8 $144 3. Bxb3 Nb4+ 4. Kb5 Nd3 5. Bd5 Ne5 6. Bc6 $18) 3. Bc2 Nb4+ 4. Kc7 Nd5+ $1 5. exd5 b1=Q 6. Ba4 Qb5 7. d6 $1 $18 1-0
+
+[Event "64#12"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/8/R3P1P1/r4rpK/8/6P1/6P1/8 w - - 0 1"]
+[PlyCount "18"]
+
+1. g4 $1 Rfd5 2. e7+ $1 Kxe7 3. g7 $1 (3. Rb6 $143 Ra7 $1 $19) Kf7 4. g3 $1 Rdc5 5. Rc6 Rab5 6. Rb6 Re5 7. Re6 Kg8 8. Rb6 Rf5 9. Rf6 Rxf6 $11 1/2-1/2
+
+[Event "1.p Bulletin Central Chess Club USSR#12"]
+[Source "Bulletin Central Chess Club USSR/3 EG#03875."]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/5p1b/N5n1/2PP1k2/8/1n6/8/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. c6 $1 Kf6 2. c7 Ne7 3. d6 Bf5 4. dxe7 Nd4 5. Nb8 (5. Nb4 $143 $2 Ne6 6. Nd5+ Ke5 7. Kxf7 Nxc7 8. Nxc7 Bd7 $11) Nb5 6. Nd7+ (6. Kd8 $143 $2 Nxc7 7. Nd7+ Ke6 $11) Bxd7+ 7. Kd8 (7. Kxd7 $143 $2 Nxc7 $19) Nxc7 8. Kxd7 $18 1-0
+
+[Event "Shakhmaty v SSSR#05 {tw}"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2B5/3p4/8/5K2/8/4p3/4kB2/8 w - - 0 1"]
+[PlyCount "23"]
+
+1. Bh4 $1 Kd1 2. Bb7 $1 (2. Bxd7 $143 e2 3. Ba4+ Kd2 4. Bg5+ Kc3 5. Bd8 Kb4 $11) e2 3. Bf3 Kd2 4. Bg5+ Kd3 $1 (Ke1 $144 5. Bd5 $1 Kf1 6. Bc4 d5 7. Bb5 Kf2 8. Kf4 $18) 5. Be4+ Kc3 6. Bd8 $1 d5 $1 7. Ba5+ $1 (7. Bf3 $143 Kd3 8. Ba5 Ke3 9. Bg4 d4 $11) Kd4 8. Bb1 $1 Ke3 9. Be1 d4 10. Kg4 $1 d3 11. Kg3 d2 12. Bf2# 1-0
+
+[Event "64#08"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7P/1R6/6K1/b7/4k3/r2b4 w - - 0 1"]
+[PlyCount "14"]
+
+1. h7 Kf2+ $1 2. Kf4 $1 Bd6+ 3. Kf5 $1 Ra8 4. Rd5 Bc2+ 5. Kg4 $1 Bb4 6. h8=Q (6. Rb5 $143 Be7 7. Rb2 Ra4+ 8. Rb4 Rxb4+ 9. Kh3 Rh4#) Rxh8 7. Rd2+ Bxd2 $11 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/8/1P1k2N1/1K6/8/1b6/8/8 w - - 0 1"]
+
+1. Ne7 (1. Nf4 $2 Bd1 2. Nd5 Be2+ 3. Ka5 Kc6 $10) (1. Ne5 $2 Bc2 2. b7 $10) (1. Ka6 $2 Bc4+ 2. Ka5 $10) (1. b7 $2 Kc7 2. b8=Q+ $10) (1. Nf8 $2 Bg8 2. b7) (1. Nh4 $2 Bc2 2. Nf5+) (1. Kb4 $2 Bc2 2. b7) (1. Nh8 $2 Bc2 2. b7) (1. Ka5 $2 Bc2 2. Ne7) Bd1 (Bc2 2. Nd5 (2. Nc6 $2 Ba4+ 3. Ka5 Bxc6 4. b7) (2. b7 $2 Kc7 3. b8=Q+ $10) (2. Nc8+ $2 Kd7 3. b7 $10) (2. Ka6 $2 Bd3+ 3. Ka5 $10) (2. Kc4 $2 Bd1 3. Kb4) (2. Nf5+ $2 Bxf5 3. b7) (2. Ka5 $2 Be4 3. b7) (2. Kb4 $2 Bd1 3. b7) (2. Ng8 Bd1 3. b7) (2. Ng6 Bd1 3. b7) Bd3+ 3. Ka5 (3. Kb4 $2 Ba6 4. b7) (3. Ka4 $2 Ba6 4. b7) Kc6 4. Nb4+ $18 (4. Ne7+ $2 Kb7 5. Ng8 $10) (4. Kb4 $2 Be2 5. b7) (4. Nc7 $2 Be2 5. b7) (4. b7 $2 Kxb7 5. Nc7) (4. Nc3 Bf1 5. b7)) 2. Nf5+ (2. Nd5 $2 Be2+ 3. Ka4 $10) (2. Nc6 $2 Ba4+ 3. Ka5 Bxc6 4. b7) (2. Nc8+ $2 Kd7 3. b7 $10) (2. Ka6 $2 Be2+ 3. Ka5 $10) (2. b7 $2 Kc7 3. b8=Q+ $10) (2. Ng6 $2 Bc2 3. b7) (2. Ka5 $2 Kd7 3. Kb5) (2. Ng8 $2 Kd7 3. Ne7) (2. Kb4 $2 Kd7 3. Kb5) Kd7 3. Nd4 (3. b7 $2 Kc7 4. b8=Q+ $10) (3. Ne3 $2 Be2+ 4. Nc4 $10) (3. Nd6 $2 Bb3 4. b7 $10) (3. Ne7 $2 Bc2 4. b7 $10) Bg4 (Kc8 4. Ka6 Ba4 5. Ka7 $18) 4. Ka6 (4. b7 $2 Kc7 5. b8=Q+ $10) (4. Nc6 $2 Be2+ 5. Ka5 $10) (4. Ne6 $2 Bxe6 5. b7) (4. Kc5 $2 Bh3 5. b7) (4. Ka5 $2 Bh3 5. b7) (4. Kb4 $2 Bh3 5. b7) (4. Nf3 $2 Bf5 5. b7) (4. Nf5 Bh3 5. b7) Kd8 5. Nc6+ (5. b7 $2 Bc8 6. Ne6+ Kd7 $10) (5. Ka7 $2 Bc8 6. b7 $10) (5. Kb7 $2 Bc8+ 6. Ka7 $10) (5. Ne6+ $2 Bxe6 6. b7) (5. Nb5 $2 Bh3 6. b7) Kd7 6. b7 $18 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "6B1/8/8/4P3/6p1/3k4/6P1/3b3K w - - 0 1"]
+
+1. e6 (1. Kh2 $2 Ke4 2. e6 $10) (1. g3 $2 Ba4 2. e6 $10) (1. Bh7+ $2 Ke3 2. e6 $10) (1. Bd5 $2 g3 2. e6) (1. Be6 $2 g3 2. Bf5+) (1. Bf7 $2 Ke3 2. e6) g3 $1 (Ba4 2. Bf7 (2. Kh2 g3+ 3. Kxg3 $18) (2. Bh7+ $2 Ke3 3. e7 $10) (2. e7 $2 Be8 3. g3 $10) (2. g3 $2 Bc6+ 3. Kg1) Bb3 3. Bg6+ $1 $18 (3. Bg8 Ba4) (3. Kh2 g3+ 4. Kxg3 $18 Bxe6 5. Bxe6) (3. Be8 $2 Bxe6 4. g3 $10) (3. g3 $2 Bd5+ 4. Kg1 $10) (3. Bh5 $2 Bxe6 4. g3 Bd5+ 5. Kh2) (3. Kg1 $2 Ke3 4. g3)) 2. Bf7 (2. e7 $2 Bh5 3. e8=Q $10) (2. Bh7+ $2 Ke3 3. Bg6 $10) (2. Kg1 $2 Kd4 3. e7) Ke3 $1 3. Be8 (3. e7 $2 Kf2 4. e8=Q Bf3 $1 5. Bd5 Bxg2+ $1 6. Bxg2) (3. Bg6 $2 Kf2 4. Bf5 $10) (3. Kg1 $2 Bb3 4. e7 $10) (3. Bh5 $2 Bxh5 4. e7 $10) (3. Bg8 $4 Kf2) Kf2 4. Bc6 (4. e7 $4 Bf3 5. gxf3 g2+ $19) (4. Bd7 $4 Bf3 5. gxf3 g2+) (4. Bb5 $4 Bf3 5. gxf3 g2+) (4. Bf7 $4 Bf3 5. gxf3 g2+) Be2 $1 5. e7 (5. Bf3 $4 Bxf3 6. gxf3 g2+ $19) (5. Be4 $2 Bc4 6. e7) (5. Be8 $4 Bf3 6. gxf3 g2+) (5. Bb5 Bxb5) Bf1 6. e8=N $18 (6. e8=Q $2 Bxg2+ 7. Bxg2) (6. Bd5 $2 Bb5 7. e8=Q $10) (6. e8=B $2 Be2 7. Bd5 $10) (6. Bf3 $2 Bb5 7. e8=Q) (6. e8=R $2 Bxg2+ 7. Bxg2) (6. Be4 $2 Bb5 7. e8=Q) (6. Ba8 $2 Bb5 7. e8=Q) (6. Bb5 Bxg2#) (6. Bb7 Bb5 7. e8=Q) 1-0
+
+[Event "64"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/8/6P1/5p1P/5P1K/8/6p1/8 w - - 0 1"]
+
+1. Kg5 $1 Kd7 (g1=Q+ 2. Kh6) 2. g7 Ke7 (g1=Q+ 3. Kh6 Ke7 4. g8=Q Qxg8) 3. Kg6 $1 (3. g8=Q $2 g1=R+ $1) (3. Kh6 $2 Kf7) g1=R+ (g1=Q+ 4. Kh6 Kf7 5. g8=Q+ Kxg8) 4. Kh7 Kf7 5. h6 Rg6 6. g8=Q+ Rxg8 1/2-1/2
+
+[Event "Schach Echo#210"]
+[Date "1958.12.20"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "B7/8/6P1/8/3p4/r6P/5n1K/3k4 w - - 0 1"]
+
+1. Bf3+ $1 (1. Bd5 $2 Rxh3+ 2. Kg2 Rh6 3. Bf7 Ne4 4. g7 Nf6 5. Kf3 Rh7) Rxf3 2. g7 Rxh3+ (d3 3. g8=Q d2 4. Kg2 Ke2 5. Qc4+ Rd3 6. Qe6+ Re3 7. Qc4+ Nd3 8. Qg4+ Ke1 9. Qh4+ Kd1 10. Qa4+) 3. Kg2 Ne4 (Rh4 4. g8=Q Rg4+ 5. Kh2 Rxg8) (Rh2+ 4. Kf3 $1) (Rg3+ 4. Kxg3 Ne4+ 5. Kf4 Nf6 6. Ke5) 4. g8=Q Rg3+ 5. Kf1 $1 Nd2+ (Rxg8) 6. Kf2 Ne4+ (Rxg8) 7. Kf1 Rxg8 1/2-1/2
+
+[Event "Shakhmaty v SSSR#20"]
+[Source "Shakhmaty v SSSR/6"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6R1/2N4b/4K3/N7/Pkp5/1p6/8 w - - 0 1"]
+
+1. Nd4+ $1 (1. Rb7+ $2 Kxa4 2. Nd4 Kxa3 3. Ke4 Ka2 4. Ra7+ Kb1 5. Kd3 c2 $1 6. Nxc2 Kc1) Kxa3 2. Ra7 $1 Bg7+ 3. Kd5 Bxd4 4. Kxd4 (4. Ra8 $2 Kb3 $1) c2 5. Kc4 $1 (5. Nc3+ $2 Kb4 $1 6. Rb7+ Ka5 $1) (5. Nc5+ $2 Kb4 6. Nd3+ Kb3 7. Rb7+ Ka3 8. Ra7+ Kb3 9. Nc5+ Kb4 10. Rb7+ Ka3 $1) b1=Q 6. Nc5+ Kb2 7. Nd3# 1-0
+
+[Event "Problem#103"]
+[Source "Problem/6"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/b1p5/8/1K6/4P1k1/2P5/8/8 w - - 0 1"]
+
+1. Kc6 $1 Bb6 2. c4 Kf4 (Ba5 3. c5 Kg5 4. e5 Kf5 5. Kd5 Kg6 6. Kc6 Kf5 7. Kd5 Bc3 8. e6 Kf6 9. Kc6) 3. c5 Ba5 4. Kb5 Bc3 5. Kc6 Be5 6. Kd5 Bc3 7. Kc6 Ba5 8. Kb5 1/2-1/2
+
+[Event "Shakhmaty v SSSR#08"]
+[Source "Shakhmaty v SSSR/2"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1n6/p7/P1P5/K7/3P4/1k6/8/4n3 w - - 0 1"]
+
+1. d5 $1 (1. c7 $2 Nc6+ 2. Kb5 Nxd4+ 3. Kc5 Ne6+ 4. Kd6 Nxc7 5. Kxc7) Nxc6+ (Nc2 2. c7 Nc6+ 3. dxc6 Na3 4. c8=N $1) (Nd3 2. c7 Nc6+ 3. dxc6 Ne5 4. Kb5 Nc4 5. c8=N $1) 2. dxc6 Nc2 $1 3. Kb5 $1 (3. c7 $2 Na3 4. c8=Q Nc4+) Nd4+ 4. Kc5 Nf5 5. c7 (5. Kd5 $2 Kb4 6. c7 Ne7+ 7. Kd6 Nc8+ 8. Kd7 Nb6+ 9. Kc6 Nc8 $1) Ne7 6. Kd6 Nc8+ 7. Kd7 (7. Kc6 $2 Kb4 8. Kd7 Nb6+ 9. Kc6 Nc8 $1 (Ka5 $2 10. Kb7 Nc4 11. c8=N $1)) Nb6+ 8. Kc6 Kb4 9. Kb7 Kb5 (Nc4 10. Kxa7 (10. c8=N $2 Ka5 $1)) 10. Kxa7 Kc6 11. Kb8 $1 Nd7+ 12. Kc8 Nb6+ 13. Kd8 1-0
+
+[Event "source unknown"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4K3/3P4/2b5/b7/3k4/8/8/8 w - - 0 1"]
+
+1. Ke7 $1 Bb4+ 2. Ke6 Bd5+ 3. Kf6 Be1 4. Ke7 Bh4+ 5. Kd6 Kc4 6. Kc7 Bg3+ 7. Kb6 Bh4 8. Kc7 1/2-1/2
+
+[Event "Ceskoslovensky Sach#037"]
+[Source "Ceskoslovensky Sach/3"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3pR1K1/7p/7k/8/7P/2p2pP1/1N6 w - - 0 1"]
+
+1. g3 $1 (1. Nd2 $2 c1=Q 2. Nf3 Qc3+ 3. Re5+ Qxe5+) (1. Re5+ $2 Kh4 2. Re4+ Kg3) d6 2. Ra7 $1 c1=Q 3. Ra5+ d5 $1 (Qc5 4. Rxc5+ dxc5 5. Nd2) (Qg5+ 4. Rxg5+ Kxg5 (hxg5 5. Nd2) 5. Nd2 (5. h4+ $2 Kg4 6. Nd2 h5) d5 6. h4+ (6. Kf7 $2 Kf5 7. Kg7 Ke5 8. Kxh6 Kd4 9. g4 Ke3 10. Nf1+ Ke2 11. Ng3+ Kf3) (6. Nf1 $2 h5 7. Kf7 Kf5 8. Nd2 d4 9. Kg7 h4 10. gxh4 Kf4) Kh5 (Kf5 7. Kxh6 Ke5 8. g4 Kd4 9. g5) 7. Kh7 (7. Nf1 $2 Kg4 8. Kxh6 (8. Nd2 h5 9. Kf6 d4 10. Kg6 d3 11. Kh6 Kxg3 12. Kxh5 Kg2) Kf3 9. h5 Ke2 10. Nh2 d4 11. Kg5 d3 12. h6 d2 13. h7 d1=Q 14. h8=Q Qd5+ 15. Kh4 f1=N) d4 8. Kg7 d3 9. Kh7 Kg4 10. Kxh6 Kxg3 (Kf5 11. Kh5) 11. Kg5 Kg2 12. Kg4) 4. Rxd5+ Qg5+ 5. Rxg5+ hxg5 6. Nd2 $1 g4 7. Ne4 $1 (7. h4 $2 f1=N $1) f1=N (f1=Q 8. h4) (gxh3 8. Nxf2 Kg5 9. Kf7 Kf5 10. Ke7 h2 11. Kd6) 8. Nf6+ Kg5 9. h4+ Kf5 10. h5 (10. Nh5 $2 Ke4) Nxg3 11. h6 1-0
+
+[Event "Ceskoslovensky Sach#038"]
+[Source "Ceskoslovensky Sach/3"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K3Nk2/8/8/p2P4/8/8/8/8 w - - 0 1"]
+
+1. Kb7 $1 a4 2. d6 a3 3. d7 a2 4. d8=Q a1=Q 5. Nf6+ Kg7 6. Qg8+ Kh6 7. Qh8+ Kg6 8. Qh5+ Kg7 9. Qh7+ Kf8 10. Qg8+ Ke7 11. Qe8+ Kd6 12. Ne4+ Kd5 13. Qc6+ Ke5 14. Qf6+ 1-0
+
+[Event ".c Shakhmatnaya Moskva#45"]
+[Date "1967.11.24"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/4p2n/8/6P1/8/8/6k1/7N w - - 0 1"]
+
+1. g6 $1 Nf6 2. g7 (2. Kc7 $2 Nh5 $1 3. Kc6 Kxh1 4. Kd5 Ng7 $1) e5 3. Kc7 $1 (3. Nf2 $2 Kxf2 4. Kc7 Kf3 $1 5. Kd6 Kf4 6. Ke6 Ng8 7. Kf7 Nh6+ 8. Kg6 Nf5 $1 9. g8=N $1 e4 10. Nf6 Ne7+ 11. Kf7 e3) e4 4. Nf2 $1 Kxf2 5. Kd6 $1 (5. Kd8 $2 Ng8 $1 6. Ke8 Nh6 $1) Ng8 6. Ke6 Nh6 7. Kf6 e3 8. Kg6 Ng8 9. Kf7 e2 10. Kxg8 e1=Q 11. Kf7 $1 1/2-1/2
+
+[Event "5.p Shakhmaty v SSSR#20"]
+[Source "Shakhmaty v SSSR/3 EG#01918.24.p USSR overall champ X 1969-1970."]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2b4k/6p1/1p4PP/pP3P2/K7/7B/1b6/8 w - - 0 1"]
+
+1. f6 $1 (1. h7 $2 Bb7 2. Kb3 Bf6 3. Bf1 Be4 4. Bc4 Bxf5 5. Bf7 Be7 6. Kc3 a4 7. Kb2 a3+ 8. Ka2 Bd3) gxh6 2. g7+ $1 (2. f7 $2 Bg7 $1 3. Bxc8 Bf8 4. Kb3 Kg7) Kh7 3. Be6 $1 Bxe6 4. g8=Q+ Bxg8 5. f7 Bg7 6. f8=N+ (6. f8=Q $2 Bb3+ 7. Kxb3 Bxf8) Kh8 7. Ng6+ Kh7 8. Nf8+ Bxf8 1/2-1/2
+
+[Event "Shakhmaty v SSSR#35 (c)"]
+[Source "Shakhmaty v SSSR/8 (c): Yakimchik=V Shakhmaty v SSSR/2 1969."]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2b5/B7/8/k1K5/3N4/1P2p3/8 w - - 0 1"]
+
+1. Bb5+ $1 Ka5 2. Kc5 Bb6+ 3. Kc6 Bc5 4. Nxc5 e1=Q 5. b4+ Qxb4 6. Nb7# 1-0
+
+[Event "Shakhmatnaya Moskva#46"]
+[Date "1968.08.07"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b6/8/8/8/6p1/5p2/7P/k5NK w - - 0 1"]
+
+1. Nh3 $1 (1. h3 $2 Ba7 $1) gxh3 2. Kg1 Ba7+ 3. Kh1 $1 Bb8 (Bd4) 4. Kg1 Bxh2+ 5. Kf2 $1 Bg1+ $1 6. Kxf3 $1 h2 7. Kg2 1/2-1/2
+
+[Event ".hm Shakhmatnaya Moskva#52"]
+[Date "1968.09.25"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3n3k/8/6P1/1K3Pp1/8/4p3/2B5/8 w - - 0 1"]
+
+1. f6 $1 (1. Bd3 $2 Kg7 $1 2. Kc5 Kf6) Ne6 $1 (e2 2. Bb3 $1) 2. Bb3 $1 Nd4+ 3. Kc5 $1 Nxb3+ 4. Kd6 e2 5. Ke7 $1 (5. Ke6 $2 Kg8 $1) e1=Q+ 6. Kf7 Qe4 7. g7+ Kh7 8. g8=Q+ Kh6 9. Qh8+ Qh7+ 10. Qg7+ Qxg7+ 11. fxg7 1-0
+
+[Event "Shakhmaty v SSSR#14 (c)"]
+[Source "Shakhmaty v SSSR/3 (c): Krug=P Estudios Artisticos de Ajedrez - XV-49 2015."]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1n1K2k1/4p3/5B2/6P1/4Rb2/p7/p7/8 w - - 0 1"]
+
+1. Kxe7 $1 Nc6+ 2. Ke8 $1 (2. Ke6 $2 Be5 3. Bxe5 Nxe5 4. Re1 Nf3) Ne5 $1 3. Rxe5 (3. Re1 $2 Kh7 4. Ra1 Kg6 5. Rxa2 Nf3 6. Rxa3 Nxg5) a1=Q 4. Re7 Be5 5. Bxe5 a2 6. Bf6 $1 (6. Bxa1 $2) Qf1 (Qh1 7. Rg7+ Kh8 8. Rf7+ Kg8 9. Rf8+ Kh7 10. Rh8+ Kg6 11. Rxh1) 7. Rg7+ Kh8 8. Rg6+ Qxf6 9. gxf6 a1=Q 10. Rh6+ Kg8 11. f7+ Kg7 12. f8=Q# 1-0
+
+[Event "Shakhmaty v SSSR#25"]
+[Source "Shakhmaty v SSSR/5"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/2p5/6B1/3pp3/3p4/3K3k w - - 0 1"]
+
+1. Bf5 $1 e2+ (c4 2. Bxd3 $1 cxd3) 2. Kxd2 c4 3. Ke1 Kg2 (Kh2 4. Kf2) 4. Bg4 $1 c3 5. Bxe2 c2 6. Bd1 $1 c1=Q (c1=R 7. Kd2 Ra1 8. Bb3 Ra3 9. Bc4) 1/2-1/2
+
+[Event "4.p USSR team champ VII (tt)"]
+[Source "EG#01594. USSR team champ VII 1970-1971."]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "b5K1/3P2p1/4PpkN/7p/5P1P/5q2/7r/8 w - - 0 1"]
+
+1. f5+ $1 Kxh6 2. d8=N Qb7 3. Nf7+ Qxf7+ 4. exf7 Ra2 5. f8=B Bd5+ (Ra7 6. Kh8 Rf7 7. Bxg7+ Rxg7) 6. Kh8 Ra8 1/2-1/2
+
+[Event "USSR team champ"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3B4/1P6/4P1k1/4b3/8/3K3p/8/8 w - - 0 1"]
+
+1. e7 $1 (1. Ke4 $2 h2 2. Kxe5 h1=Q 3. b8=Q Qh2+) Kf7 2. e8=Q+ $1 Kxe8 3. Bf6 Bg3 4. Be5 $1 (4. Kd4 $2 Kd7 $1 5. Be5 Bxe5+ 6. Kxe5 Kc7 $1) Bxe5 5. Ke4 Kd7 (h2 6. Kxe5 h1=Q 7. b8=Q+) 6. Kf3 Ke6 7. Kf2 1/2-1/2
+
+[Event "Shakhmaty v SSSR#08"]
+[Source "Shakhmaty v SSSR/2"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5p1K/6p1/k7/p1PPn1P1/1pN5/5B2/8 w - - 0 1"]
+
+1. Be1 $1 Nxc3 2. Bxc3+ Kb6 $1 (Ka6 3. Bb2 $1 f5 4. d5 f4 5. c5 $1 f3 (Kb7 6. c6+ Kb6 7. Bd4+) 6. d6 Kb7 7. d7 Kc7 8. c6) 3. g5 $1 (3. Bb2 $2 f5 4. d5 f4 5. Bd4+ Kc7 $1 6. c5 f3 7. Be5+ Kc8 8. c6 f2 9. d6 f1=Q 10. d7+ Kd8) a3 4. Bb4 $1 b2 5. Bxa3 b1=Q 6. Be7 $1 Kc6 7. Bf6 $1 Qb6 8. Kg7 Kd7 9. c5 1/2-1/2
+
+[Event "RSFSR ty"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2P5/8/6p1/3B2K1/8/2p1B3/2q4k w - - 0 1"]
+
+1. Bf3+ $1 Kh2 2. Be5+ Qf4+ $1 3. Bxf4+ gxf4 4. c8=R $1 (4. c8=Q $2 c1=Q 5. Qh8+ (5. Qxc1) Kg1 6. Qh1+ Kf2 7. Qh2+ Ke3 8. Qxf4+ Kf2 9. Qxc1) c1=Q 5. Rh8+ $1 (5. Rxc1 $2) Kg1 6. Rh1+ Kf2 7. Rxc1 1-0
+
+[Event "Shakhmaty (Riga)#206 (c)"]
+[Source "(c): Yakimchik=V Shakhmaty (Riga)=20 1974."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "n2K1k2/2n2p2/4P3/7N/8/8/8/8 w - - 0 1"]
+
+1. e7+ $1 Kg8 2. Nf6+ Kh8 $1 3. Kd7 $1 Kg7 4. Ne8+ $1 Nxe8 5. Kxe8 Nc7+ 6. Kd8 $1 (6. Kd7 $2 Nd5) Kf6 (Ne6+ 7. Kc8) 7. Kd7 Kg7 8. Kxc7 1-0
+
+[Event "2.hm Molodoj Leninets (Kurgan)"]
+[Source "EG#02881."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5n2/8/4PP1k/7P/2p3R1/2PP3P/1p6/6K1 w - - 0 1"]
+
+1. e7 $1 b1=Q+ 2. Kg2 Qc2+ 3. Kg3 Qxd3+ 4. Kh4 Ng6+ 5. Rxg6+ Kh7 6. Rg7+ (6. Rh6+ $2 Kxh6 7. e8=R Qh7) Kh6 7. Rh7+ Qxh7 8. e8=R (8. e8=Q $2 Qe4+ 9. Qxe4) Qf5 9. Rh8+ 1-0
+
+[Event "Tidskrift for Schack#1903"]
+[Source "Tidskrift for Schack/8"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/P3k3/3N4/7p/6P1/3pP2p/1p3B2/3K3B w - - 0 1"]
+
+1. Nf5+ $1 Kf6 2. Bh4+ Ke5 3. Bg3+ Kf6 4. g5+ Kxg5 5. Bh4+ Kg4 6. Bf3+ Kxf5 7. Be4+ Kg4 8. Bxd3 h2 9. a8=B $1 (9. a8=Q $2 h1=Q+ 10. Qxh1 b1=Q+ 11. Bxb1) 1-0
+
+[Event "Bulletin Central Chess Club USSR"]
+[Source "Bulletin Central Chess Club USSR/5"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Yakimchik, Vitold Vitoldovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4K2R/B5kP/8/8/6n1/4p3/8 w - - 0 1"]
+
+1. Bd3+ $1 Nf5+ $1 (Kg5 2. Rg7+ Kxh6 3. Rg6+ Kh5 4. Re6) (Kh5 2. Bxe2+ Nxe2 3. Kf6 $1) 2. Bxf5+ Kh5 (Kxf5 3. Rf7+ Ke4 4. Kd6) 3. Bg4+ Kg6 4. Rg7+ Kxh6 5. Kf7 $1 e1=Q 6. Rg6+ Kh7 7. Bf5 $1 1-0

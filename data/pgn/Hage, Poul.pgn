@@ -1,0 +1,13 @@
+[Event "Skakbladet#4591"]
+[Source "Skakbladet/2"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Hage, Poul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3kP3/3P4/4p3/2p1K3/8/8/8 w - - 0 1"]
+
+1. Kf5 $1 c3 2. Kf6 c2 3. Kf7 c1=Q 4. e8=Q+ Kxd6 5. Qd8+ Kc6 6. Qc8+ 1-0

@@ -1,0 +1,13 @@
+[Event "Deutsche Schachzeitung#1793"]
+[Source "Deutsche Schachzeitung/1"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Steinweg, Richard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/6pp/Pk2p3/1P2P3/4K2P/8 w - - 0 1"]
+
+1. h4 $1 g4 (gxh4 2. Kf2) 2. Kf2 1-0

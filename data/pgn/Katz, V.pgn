@@ -1,0 +1,13 @@
+[Event "Shakhmaty v SSSR#06"]
+[Source "Shakhmaty v SSSR/2"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Katz, V"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p1P1b2/8/P1k5/p7/4p3/8/r2B1K2 w - - 0 1"]
+
+1. d8=Q $1 Rxd1+ 2. Qxd1 e2+ 3. Kxe2 (3. Qxe2 $2 Bc4 $1) Bh5+ 4. Ke3 $1 (4. Kd2 $2 Bxd1 5. a6 b5 $1 6. a7 Bf3) Bxd1 5. a6 bxa6 6. Kd2 1/2-1/2

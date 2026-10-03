@@ -1,0 +1,97 @@
+[Event ".c Israel Ring ty Shahmat"]
+[Source "Shahmat/1 1978 EG#03459."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Avni, Amatzia"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2R1B3/8/4p1p1/p7/K2p2PP/p2p3P/2p5/7k w - - 0 1"]
+
+1. Kb3 $1 (1. Kxa3 $2 d2 2. Rxc2 d1=Q 3. Kb2 Qd3) a2 (d2 2. Kxc2 a2 3. Kxd2 a1=Q 4. Rc1+) (a4+ 2. Bxa4) 2. Kxa2 d2 3. Rxc2 d1=Q 4. Bc6+ Kg1 5. Rg2+ (5. Rb2 $2 Qd3) Kf1 6. Rb2 e5 (Qd3 7. Bb5) 7. h5 (7. Rb1 $2 Qxb1+ 8. Kxb1 d3 9. h5 d2 10. Ba4 gxh5 11. gxh5 e4 12. h6 e3 13. h7 e2) gxh5 8. g5 (8. gxh5 $2 Qxh5) d3 (e4 9. Rb1 Qxb1+ 10. Kxb1 e3 11. Bb5+) 9. Rh2 (9. g6 $2 Qc1 10. Rb1 d2) Qe2+ 10. Rxe2 dxe2 11. Bb5 1-0
+
+[Event "2.hm Israel Ring ty Shahmat"]
+[Source "Shahmat/11-12 1979 EG#04130."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Avni, Amatzia"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6b1/8/p1pP4/8/P2k4/7p/1b5P/3K1B2 w - - 0 1"]
+
+1. d7 $1 Ke3 2. Bc4 Bxc4 (Bf6 3. Bxg8 Kf2 4. a5) 3. d8=Q Bb3+ 4. Ke1 Bc3+ 5. Kf1 Bc4+ 6. Kg1 Bd4 7. a5 Be2 (Kd3+ 8. Kh1 Bd5+ 9. Qxd5 cxd5) (Bd5 8. Kf1 Kd2 9. Qxd5) (Ke4+ 8. Kh1 Bd5 9. Qxd5+) 8. Qf8 (8. Kh1 $2 Bf3+ 9. Kg1 Bg2) Bf3 (Ke4+ 9. Kh1 Bf3+ 10. Qxf3+) (c5 9. Qf2+) 9. Kf1 (9. Qe7+ $2 Kd2+ 10. Kf1 Bg2#) (9. Qd6 $2 Bg2) Be2+ 10. Kg1 Bf3 11. Kf1 1/2-1/2
+
+[Event ".c The Problemist#0302b (tw)"]
+[Source "The Problemist/7 EG#04929b."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Avni, Amatzia"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2k3q1/1p6/1P2p3/1P2P3/KPn5/7Q/8 w - - 0 1"]
+
+1. Qc2 $1 Qg3 2. Kb2 Qf2 $1 3. Ka1 $1 (3. Ka3 $2 Qd2 $1 4. Qxd2 Nb1+) Qd4 4. Kb2 Qf2 $1 5. Ka1 Qxc2 1/2-1/2
+
+[Event "1.p Guanabara AT"]
+[Source "EG#07687."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Avni, Amatzia"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5b2/8/8/1p6/8/1K6/BP2n3/k5B1 w - - 0 1"]
+
+1. Be3 $1 Be7 (Ng3 2. Bd2 Ne4 (Ne2 3. Be3) 3. Bb4 Bg7 4. Ba5) 2. Bb1 $1 (2. Bh6 $2 Nd4+ (Bc5 $2 3. Bg7 Nc1+ 4. Kc2 Nxa2 5. b4+) 3. Kc3 b4+ $1 (Nf5 4. Be6 b4+ 5. Kb3 Nxh6 6. Kc2 Bd6 7. Kc1 Be5 8. Kc2 Bxb2 9. Kb3 Ba3 10. Kc2 Bb2 11. Kb3 Bc3 12. Kc2 Be5 13. Kc1) (Kxa2 4. Kxd4 b4 5. b3 Kxb3 6. Bd2 Bf6+ 7. Kd3 Bc3 8. Bg5 Ka2 9. Be7 b3) 4. Kxd4 Kxa2 5. b3 Kxb3 6. Bd2 Bf6+ 7. Kd3 Bc3 8. Bg5 Ka2 9. Be7 b3) (2. Bd2 $2 Bc5 $1 3. Bc3 Nc1+ 4. Kc2 Nxa2 5. b4+ Nxc3 6. bxc5 Nd5) Kxb1 3. Bc5 $1 Nc1+ (Bxc5) 4. Ka3 $1 (4. Kb4 $2 Nd3+) Bxc5+ 5. b4 $1 Bf8 (Nd3 6. bxc5 Kc2 7. c6 b4+ 8. Ka4) 1/2-1/2
+
+[Event "2.p Shahmat (c)"]
+[Source "2/3.p Israel Ring ty 1983. (c): Costeff=G EG=198 10/2014."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Avni, Amatzia"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4Q2B/2PpP3/P7/6p1/B2rp2k/4p3/4p3/7K w - - 0 1"]
+
+1. Qh5+ $1 Kxh5 2. e8=Q+ Kh4 3. Qxe4+ Rxe4 4. Bc3 Rf4 5. Be1+ Kh3 6. Bxd7+ g4 7. Bxg4+ Rxg4 8. c8=R (8. c8=Q $2) Ra4 9. Rg8 Ra1 10. Rg1 Rxa6 11. Rg3+ Kh4 12. Rg6+ Kh5 13. Rxa6 1-0
+
+[Event "Shahmat#465"]
+[Source "EG#06991. .c Israel Ring ty 1984."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Avni, Amatzia"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/5p1P/8/5p1K/4b1p1/3N4/3bRP2/8 b - - 0 1"]
+
+g3 $1 2. Rxd2 (2. Ne1 $2 g2 3. Nxg2 Bf3+) g2 (Bf3+ 3. Kh6 $1) 3. Rd1 Bf3+ (Bxd3 4. Kh6 $1) 4. Kh6 Bxd1 5. Ne5 Bh5 $1 (Bb3 6. Nf3 Bd5 7. Ng1) 6. f4 $1 f6 (g1=Q 7. Nxf7+ Bxf7) (g1=N 7. Kxh5) (Bg6 7. Nf3) 7. Nf7+ $1 Bxf7 1/2-1/2
+
+[Event "2.hm Czerniak MT Shahmat"]
+[Source "EG#06975."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Avni, Amatzia"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b5q/8/4p1k1/4pRP1/4n3/p4Q2/P7/5K2 w - - 0 1"]
+
+1. Rf8 $1 Nd2+ 2. Kg2 Qh2+ 3. Kxh2 Nxf3+ 4. Kg3 Bd6 5. Rf6+ Kxg5 6. Rxf3 e4+ 7. Kh3 exf3 1/2-1/2

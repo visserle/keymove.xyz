@@ -1,0 +1,12 @@
+[Event "The Independent#134"]
+[Date "1987.05.29"]
+[Round "?"]
+[Composer "Pavlovsky, Evzen"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/5P2/8/8/2K3kp/1B6 w - - 0 1"]
+
+1. Ba2 $1 (1. Kc3 $2 Kf3) (1. Kd2 $2 Kg3 2. Be4 Kf4 3. f6 (3. Kd3 h1=Q 4. Bxh1 Kxf5) Kxe4 4. f7 h1=Q) Kg3 (h1=Q 2. Bd5+ Kg3 3. Bxh1 Kf4 4. f6) 2. Bd5 Kf4 3. f6 Ke5 4. f7 Kxd5 5. f8=Q h1=Q 6. Qa8+ 1-0

@@ -1,0 +1,12 @@
+[Event "Neue Freie Presse#10"]
+[Date "1927.04.23"]
+[Round "?"]
+[Composer "Leuchter, Pinkus"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6N1/8/4p3/4k1P1/6pK/4P3/1p6/7B w - - 0 1"]
+
+1. Nh6 $1 b1=Q 2. Nf7+ Kf5 3. Nd6+ Ke5 4. Nc4+ Kf5 5. Be4+ Qxe4 (Kxe4 { <main>} 6. Nd2+ Kxe3 7. Nxb1) 6. Nd6+ Ke5 7. Nxe4 1-0

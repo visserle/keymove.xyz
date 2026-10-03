@@ -1,0 +1,55 @@
+[Event ".hm Springaren#0386 (tt)"]
+[Source "Springaren/2"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Holm, Helmer"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/3p1k2/1P6/3K4/8/5n2 w - - 0 1"]
+
+1. b5 $1 (1. Kd4 $2 Ke6 2. b5 Nd2) Nh2 (Ng3 2. b6 Ne4 3. Kd4 Ke6 4. b7) (Ke6 2. b6 Kd6 3. b7 Kc7 4. Kd4 Ne3 5. b8=Q+ Kxb8 6. Kxe3) 2. b6 Nf3 3. b7 Ne5+ 4. Kd4 Ke6 5. b8=N $1 Kd6 6. Na6 1/2-1/2
+
+[Event "Tidskrift for Schack#0422"]
+[Source "Tidskrift for Schack/12"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Holm, Helmer"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/8/8/6p1/6p1/3R4/7K/2n3r1 w - - 0 1"]
+
+1. Rg3 $1 (1. Rc3+ $2 Kd7 2. Rg3 (2. Kxg1 Ne2+ 3. Kf2 Nxc3 4. Kg3 Ne4+ 5. Kxg4 Ke6) Ne2 3. Rxg1 Nxg1 4. Kg3 Ke6 5. Kxg4 Kf6) Ne2 (Rd1 2. Rxg4 Rd5 3. Rc4+ Kd7 4. Rxc1) 2. Rxg1 Nxg1 3. Kg3 $1 1/2-1/2
+
+[Event "Tidskrift for Schack#0396"]
+[Source "Tidskrift for Schack/8"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Holm, Helmer"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/4N3/8/p5k1/6p1/6K1 w - - 0 1"]
+
+1. Nd3 $1 a2 2. Ne1 $1 (2. Nc1 $2 a1=B $1 (a1=Q $2) 3. Ne2+ Kf3 4. Kh2 Kf2) a1=Q (a1=R) (a1=B 3. Nxg2) 1/2-1/2
+
+[Event "Problem#220"]
+[Source "Problem/3"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Holm, Helmer"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/8/NKbpk3/8 w - - 0 1"]
+
+1. Nc3+ $1 Kd3 2. Ne4 $1 Kxe4 (d1=N+ 3. Kc1 Ne3 4. Nc5+) 3. Kxc2 Ke3 4. Kd1 Kd3 1/2-1/2

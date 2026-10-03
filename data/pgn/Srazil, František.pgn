@@ -1,0 +1,27 @@
+[Event "Ceskoslovensky Sach#63"]
+[Source "Ceskoslovensky Sach/8-9"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Srazil, František"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/5p2/3P2P1/4K3/2r5/8/5P2/8 w - - 0 1"]
+
+1. d7 $1 (1. g7+ $2 Kxg7 2. d7 Rc5+ 3. Ke4 f5+ 4. Kd4 Rc1) Ke7 2. gxf7 Rc5+ 3. Ke4 $1 Rc4+ 4. Ke3 $1 Rc3+ 5. Ke2 Rc2+ 6. Ke1 Rc1+ 7. Kd2 1-0
+
+[Event "Sach#095"]
+[Source "Sach/11"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Srazil, František"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3p4/1p6/1P1p1K2/8/Q3P2p/2k3n1 w - - 0 1"]
+
+1. Qa3+ $1 (1. Qd5 $2 Nxe2+ 2. Kg4 d3 3. Qc6+ Kb1 4. Qe4 Kc1) Kc2 2. Qd3+ Kc1 3. Qh7 $1 Nxe2+ 4. Kf3 d3 5. Qh6+ Kc2 (Nf4 6. Qxh2 $1 d2 7. Qxf4) (d2 6. Kxe2) 6. Qxh2 d2 7. Qxe2 Kc1 8. Qe3 Kc2 9. Qe4+ Kc1 10. Qc6+ 1-0

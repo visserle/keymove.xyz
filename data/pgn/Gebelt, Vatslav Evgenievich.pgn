@@ -1,0 +1,13 @@
+[Event "4.p Belarussia team champ (tt)"]
+[Source "EG#07041."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Gebelt, Vatslav Evgenievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p5Kp/2p3p1/3p3k/4p2B/6PP/8 w - - 0 1"]
+
+1. Bc8 $1 g4 2. Bxa6 h5 (g3 {<main>} 3. h3 h5 4. Kf7 Kg5 5. Ke6 Kf4 6. Kd5 e2 (h4 {<main>} 7. Be2 (7. Bd3 $2 e2 8. Bxe2 Ke3 9. Bf3 Kf2 10. Kc4 Kg1 11. Kd3 Kf2) Kf5 8. Kxc5 $1 Ke4 9. Kc4) 7. Bxe2 Ke3 8. Bxh5) 3. Kf5 g3 4. Kf4 gxh2 5. g3+ Kh3 6. Bf1# 1-0

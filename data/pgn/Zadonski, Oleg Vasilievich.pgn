@@ -1,0 +1,12 @@
+[Event "3.p Wolgogradskaya Pravda"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Zadonski, Oleg Vasilievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/2K4p/4p3/8/6p1/5p2/8/1R6 w - - 0 1"]
+
+1. Kd6 $1 g3 2. Ke5 f2 3. Kf6 $1 h5 4. Kg6 Kf8 5. Kf6 Ke8 6. Kxe6 Kd8 7. Kd6 Kc8 8. Rc1+ Kb7 (Kd8 9. Ra1) 9. Rb1+ Ka6 10. Kc6 $1 Ka5 11. Kc5 Ka4 12. Kc4 Ka3 13. Kc3 Ka2 14. Rf1 $1 h4 15. Kd3 h3 16. Ke3 Kb3 $1 17. Kf3 $1 (17. Rxf2 $2 h2 18. Rf1 g2) g2 18. Kxf2 $1 gxf1=Q+ 19. Kxf1 1/2-1/2

@@ -1,0 +1,27 @@
+[Event "5.c Beginner ty Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/10 1958"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Banny, Dmitry Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5p2/P6K/8/3n1r1p/3B4/6k1/8 w - - 0 1"]
+
+1. a7 $1 Nf5+ 2. Kh7 $1 (2. Bxf5 $2 Ra4 3. a8=Q+ Rxa8 4. Be4+ Kg3 5. Bxa8 f5 $1 6. Kg5 f4 7. Bh1 h3 $1) Ra4 3. Ba6 Rxa6 4. a8=Q+ Rxa8 1/2-1/2
+
+[Event "Bulletin Central Chess Club USSR#28"]
+[Source "Bulletin Central Chess Club USSR/11"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Banny, Dmitry Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/pn4p1/p4pPp/p1P1pP1K/8/BP3nP1/8/6bk w - - 0 1"]
+
+1. c6 $1 Bb6 $1 (Nd6 2. Bxd6 Bb6 3. Bc5 $1 Bc7 4. Be3) 2. cxb7 Bc7 3. Bc5 $1 Bb8 4. Be3 Ng5 5. Bxg5 hxg5 6. g4 $1 Kg2 7. b4 a4 8. b5 a5 9. b6 a3 10. bxa7 a2 $1 11. a8=B $1 (11. a8=Q $2 a1=Q 12. Qxb8 Qh1#) a1=Q 1/2-1/2

@@ -1,0 +1,255 @@
+[Event "EG (c)"]
+[Source "EG/7 (c): Van_Tets=A EBUR=3 9/2005."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Van Tets, Albert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3b3B/3P4/R7/4P3/8/5p2/1p2pP2/2k1K3 w - - 0 1"]
+
+1. e6 $1 (1. Rc6+ $2 Kb1 2. Rc5 (2. Ra6 Kc2) Ka2) b1=Q 2. Rc6+ Qc2 3. Rxc2+ Kxc2 4. Bc3 Kxc3 5. e7 Bxe7 6. d8=R (6. d8=Q $2 Bb4) Bb4 7. Rd2 Kc4 1/2-1/2
+
+[Event "EG"]
+[Source "EG/7"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Van Tets, Albert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4P3/8/8/8/2pp1k1b/2P5/4K3 w - - 0 1"]
+
+1. e8=R $1 (1. e8=Q $2 d2+ 2. Kd1 Bg4) d2+ (dxc2 2. Re3+ Kxe3) 2. Kd1 Bg4 (Kf4 3. Re2 (3. Rf8+ $2 Bf5 4. Ke2 Kg5 5. Rg8+ Kh4 6. Rh8+ Kg3)) 3. Re2 $1 Kf4 1/2-1/2
+
+[Event "EG"]
+[Source "EG/7"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Van Tets, Albert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "b7/1k4P1/8/8/2r5/8/7p/7K w - - 0 1"]
+
+1. g8=R $1 (1. g8=Q $2 Rh4) Rc2 (Rh4 {<main>} 2. Rg2 Kb6) 2. Rh8 Ka7+ 3. Rxa8+ Kxa8 1/2-1/2
+
+[Event "Ndaba"]
+[Date "1977.04.29"]
+[Round "?"]
+[Composer "Van Tets, Albert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "b7/1k4P1/2r5/8/8/8/7p/7K w - - 0 1"]
+
+1. g8=R $1 Rc2 (Rh6 {<main>} 2. Rg2 Ka7) 2. Rh8 Ka7+ 3. Rxa8+ Kxa8 1/2-1/2
+
+[Event "Ndaba"]
+[Date "1977.07.22"]
+[Round "?"]
+[Composer "Van Tets, Albert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/p6p/2k5/P6P/8/3K4 w - - 0 1"]
+
+1. h4 $1 (1. Kc2 $2 h4 2. Kb2 Kd3 3. Kb3 Ke3 4. Ka4 Kf3 5. Kxa5 Kg3 6. Kb6 Kxh3 7. a4 Kg3 8. a5 h3 9. a6 h2 10. a7 h1=Q) Kb3 (a4 {<main>} 2. Ke2 Kd4 3. Kf3 Ke5 4. Ke3) (Kd3 {<main>} 2. a4) 2. Kd2 Kxa3 3. Kc3 a4 4. Kc2 Kb4 5. Kb2 Kc4 6. Ka3 Kd4 7. Kxa4 Ke4 8. Kb3 Kf4 9. Kc2 Kg4 10. Kd1 Kxh4 11. Ke1 Kg3 12. Kf1 1/2-1/2
+
+[Event "3.p Israel Ring ty Shahmat"]
+[Source "Shahmat/11-12 1979 EG#04128."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Van Tets, Albert"]
+[White "Van Tets, A"]
+[Black " Aloni, H."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4bk2/p1Np4/P1Pn2P1/8/3Kp3/8/8/8 w - - 0 1"]
+
+1. g7+ $1 (1. Nxe8 $2 Nb5+ (Kxe8 $2 2. g7 Kf7 (Nf5+ 3. Kc3 Nxg7 (Kf7 4. cxd7) 4. c7) 3. cxd7) (Nf5+ $2 2. Kxe4 dxc6 3. Kxf5 Kxe8 4. Ke6) 2. Kxe4 (2. Ke5 e3) d5+ (dxc6 $2 3. g7+ Kf7 4. Ke5 Nc3 (Kg8 5. Ke6 c5 6. Kd5 Nd4 7. Kxc5 Ne6+ 8. Kc6 Nxg7 9. Nxg7) 5. Kd6 Nd5 6. Kxc6 Ne7+ 7. Kb7 Kxe8 8. Kxa7 Kf7 9. Kb7) 3. Kxd5 Kxe8) Kf7 (Kxg7 2. Nxe8+ Kf8 (Nxe8 3. cxd7 Nc7 4. Ke5) 3. Nxd6 dxc6 4. Nc8 Ke8 5. Nxa7 Kd7 6. Nb5 Kc8 7. Nc3 Kb8 8. Na4 Ka7 9. Nc5) 2. Nxe8 Nf5+ (dxc6 3. Nxd6+ Kxg7 4. Nc8) (Nxe8 3. g8=Q+ (3. cxd7 $2 Nxg7) Kxg8 4. cxd7) (Nb5+ 3. Kxe4 dxc6 4. Ke5) 3. Kxe4 (3. Ke5 $2 dxc6 4. Kxf5 e3 5. Nf6 Kxg7 6. Nh5+ Kf7 7. Nf4 Ke7 8. Ke5 Kd7 9. Kd4 Kd6) (3. Kc5 $2 dxc6 4. g8=Q+ Kxg8 5. Nf6+ Kf7 6. Nxe4 Ne7 7. Kd6 Nd5) Nxg7 (Ne7 4. cxd7 Nc6 5. Kd5 Nd8 6. Kd6) 4. Nd6+ (4. c7 $2 Nxe8) (4. cxd7 $2 Ke7) (4. Nxg7 $2 dxc6) Ke6 (Ke7 5. c7 Ne8 6. Nf5+) 5. c7 Ne8 (Nf5 6. Nxf5 d5+ 7. Kd4 Kd7 8. Kc5 (8. Kxd5 $2 Kxc7) d4 (Kc8 9. Kc6) (Kxc7 9. Nd4 Kb8 10. Kd6 Ka8 11. Kd7 Kb8 12. Nc6+ Ka8 13. Kc8) 9. Nxd4 Kxc7 10. Nc6) 6. Nxe8 d5+ 7. Kd3 $1 (7. Kd4 $2 Kd7 8. Kxd5 (8. Kc5 d4) Kc8) (7. Ke3 $2 d4+) Kd7 8. Kd4 Kc8 9. Kc5 Kd7 10. Nd6 Kxc7 11. Nb5+ Kb8 12. Nd4 (12. Kd4 $2 Ka8 13. Kc5 d4 14. Kc6 Kb8) Kc7 (Ka8 13. Kc6) 13. Nc6 d4 14. Nxa7 d3 (Kb8 15. Kb6 d3 16. Nb5) 15. Nb5+ Kb8 {<eg>} 16. Kb6 1-0
+
+[Event "Selman MT Schakend Nederland#1631 (c)"]
+[Source "Schakend Nederland/6-7 (c): Garcia=M Estudios Artisticos de Ajedrez - XVI-77 2015."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Van Tets, Albert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3b1nnK/5P2/1P2P1P1/8/r7/8/5k2/8 w - - 0 1"]
+
+1. g7 $1 Ne7 (Bf6 2. Kxg8 Bxg7 3. b7 Rg4 4. b8=Q Be5+ 5. Kxf8 Bxb8 6. Ke7) 2. gxf8=Q Ng6+ 3. Kg7 Nxf8 4. Kxf8 Bxb6 5. Kg7 (5. e7 $2 Bc5 6. Ke8 Ra8+ 7. Kd7 Ra7+) (5. Kg8 $2 Rg4+ 6. Kf8 Bc5+ 7. Ke8 Re4) Rg4+ 6. Kf6 Rf4+ 7. Ke5 Bc7+ 8. Kd5 Bd8 9. Kd6 Ke3 10. Kd7 Bg5 11. Ke8 1/2-1/2
+
+[Event "Ndaba (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - XVI-51 2015."]
+[Date "1978.02.17"]
+[Round "?"]
+[Composer "Van Tets, Albert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1B2k3/8/2K1n3/7p/3P4/8 w - - 0 1"]
+
+1. Bg1 $1 (1. Bc7 $2 Nd6+) Nxd2+ 2. Kd3 Nf3 3. Bh2 $1 Nxh2 4. Ke4 Kf6 5. Kf4 Nf1 (Ng4 6. Kg3 h2 7. Kg2) 6. Kf3 Kg5 7. Kf2 h2 8. Kg2 Kg4 9. Kh1 1/2-1/2
+
+[Event "Ndaba"]
+[Date "1978.07.07"]
+[Round "?"]
+[Composer "Van Tets, Albert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p3N/4k2P/8/3K4/8/8/8 w - - 0 1"]
+
+1. Ke4 $1 d5+ 2. Kf4 d4 3. Kg4 d3 4. Ng5+ Kf6 5. Kh5 d2 6. Ne4+ Kf7 7. Nxd2 1-0
+
+[Event "Ndaba"]
+[Date "1979.01.12"]
+[Round "?"]
+[Composer "Van Tets, Albert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6b1/2p5/P7/1K6/8/2k5/8/1n6 w - - 0 1"]
+
+1. Kc6 $1 (1. a7 $2 Bd5) (1. Kc5 $2 Bh7) Na3 2. a7 (2. Kxc7 $2 Bd5 3. a7 Nc4 4. Kb8 Nb6 5. Kc7 Na8+) Nc4 (Kd4 3. Kxc7) 3. a8=N $1 (3. a8=Q $2 Bd5+ 4. Kxd5 Nb6+ 5. Kc6 Nxa8) 1/2-1/2
+
+[Event "Ndaba"]
+[Date "1979.11.09"]
+[Round "?"]
+[Composer "Van Tets, Albert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "q7/2PR4/1P6/8/4k1Kb/8/8/8 w - - 0 1"]
+
+1. Rd8 $1 (1. b7 $2 Qxb7 2. Kxh4) (1. Kxh4 $2 Qh8+ 2. Kg3 (2. Kg4 Qc8) (2. Kg5 Qe5+) Qe5+ 3. Kg2 Qg5+ 4. Kh2 Qh4+ 5. Kg2 Qg4+) Bxd8 2. b7 Qxb7 3. cxd8=Q 1/2-1/2
+
+[Event "Ndaba"]
+[Date "1980.04.25"]
+[Round "?"]
+[Composer "Van Tets, Albert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3n4/8/6P1/7P/8/7k/5K2/7r w - - 0 1"]
+
+1. h6 $1 (1. g7 $2 Rh2+ 2. Kf3 Rg2 3. h6 Nf7) Ne6 (Rh2+ 2. Kf3 Ne6 3. g7 (3. h7 $2 Ng5+) Rg2 (Nxg7 4. h7) 4. Ke3 Nxg7 5. h7 Nf5+ 6. Kd3 Rg3+ 7. Kc2 Nd4+ 8. Kd2) 2. g7 (2. Kf3 $2 Kh4 3. g7 Nxg7) Nxg7 3. hxg7 Rh2+ 4. Kg1 Rg2+ 5. Kh1 Rxg7 1/2-1/2
+
+[Event "Ndaba"]
+[Date "1980.10.31"]
+[Round "?"]
+[Composer "Van Tets, Albert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4Kbn1/1P6/2Q1P2k/7P/8/8/1p6/4q3 w - - 0 1"]
+
+1. b8=Q $1 (1. Kxf8 $2 Qb4+ 2. Kxg8 Qe7 3. Qd7 Qg5+ 4. Kf8 b1=Q) (1. e7+ $2 Kg7 2. Qg6+ Kh8 3. Qf7 b1=Q 4. Kxf8 Qxe7+) b1=Q (Nf6+ 2. Kxf8 Nh7+ 3. Ke8 b1=Q 4. Qf4+) 2. Qxb1 Qxb1 (Nf6+ 3. Kxf8 Qxb1 4. e7 Kg5 5. Qc5+ Qf5 6. Qxf5+ Kxf5 7. Kf7 Kg5 8. h6) 3. e7+ Kh7 4. Qg6+ Qxg6+ 5. hxg6+ Kh8 6. exf8=B $1 (6. exf8=Q $2) Nf6+ 7. Kf7 Nh5 {<eg>} 8. Bh6 Ng7 9. Bxg7# 1-0
+
+[Event "Pretoria News"]
+[Date "1981.04.14"]
+[Round "?"]
+[Composer "Van Tets, Albert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/kp1N4/4P3/1P6/8/8/2p5/3N4 w - - 0 1"]
+
+1. e7 $1 (1. b6+ $2 Ka8 2. e7 c1=Q+ 3. Kd8 Qc8+ 4. Kxc8) cxd1=Q (c1=Q+ 2. Kd8 Qg5 3. Nc3 b6 4. Ne4) 2. b6+ (2. e8=Q $2 Qc1+ 3. Kd8 Qg5+ 4. Kc7 Qc1+) (2. Kd8 $2 Qc1 3. b6+ Ka8 4. e8=Q Qc8+ 5. Kxc8) Ka8 3. e8=N (3. e8=Q $2 Qh5 4. Qd8 Qc5+ 5. Qc7 Qf8+ 6. Qd8 Qc5+ 7. Nxc5) Qc2+ (Qxd7+ 4. Kxd7 Kb8 5. Nf6 Ka8 6. Nd5 Kb8 7. Nb4 Ka8 8. Nc6 bxc6 9. Kc7) 4. Nc7+ Qxc7+ 5. bxc7 (5. Kxc7 $2) 1-0
+
+[Event "Ndaba (@2)"]
+[Source "î@: EG=144 4/2002."]
+[Date "1982.12.03"]
+[Round "?"]
+[Composer "Van Tets, Albert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1PK5/8/2k2N2/8/8/p7/8 w - - 0 1"]
+
+1. Nd4 $1 Kc4 $1 2. Nc2 $1 (2. Nb3 $2 Kxb3) Kc3 3. Na1 Kb2 4. b8=Q+ (4. Kb6 $1 {<minor dual>}) Kxa1 5. Kb6 1-0
+
+[Event "Ndaba"]
+[Date "1983.09.23"]
+[Round "?"]
+[Composer "Van Tets, Albert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/pP1pK3/8/8/8/8/8/5B2 w - - 0 1"]
+
+1. Ba6 $1 (1. Bg2 $2 Kc7) Kc7 (d5 2. Kd6) 2. b8=Q+ Kxb8 3. Kd6 Ka8 4. Kc7 d5 5. Bb7# 1-0
+
+[Event "Tidskrift for Schack#2397"]
+[Source "Tidskrift for Schack/10"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Van Tets, Albert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k1n5/8/P7/8/2K4p/6p1/2R5/8 w - - 0 1"]
+
+1. Kd5 $1 h3 2. Rxc8+ Ka7 3. Rc7+ Kb8 4. a7+ Ka8 5. Rc8+ Kxa7 6. Rc1 g2 7. Kc6 h2 8. Ra1+ Kb8 9. Rb1+ Kc8 10. Ra1 Kd8 11. Kd6 Ke8 12. Ke6 Kf8 13. Kf6 Kg8 14. Ra8+ Kh7 15. Ra7+ Kh6 16. Ra8 Kh5 17. Kf5 Kh4 18. Kf4 1/2-1/2
+
+[Event "Ndaba (c)"]
+[Date "1985.01.18"]
+[Round "?"]
+[Composer "Van Tets, Albert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b6/p2k4/P7/1P6/1PK5/8/8/8 w - - 0 1"]
+
+1. b6 $1 axb6 2. a7 Bxa7 3. Kb5 Kc7 4. Ka6 Bb8 (Kb8 5. b5) 5. b5 1/2-1/2
+
+[Event "Mugnos MT Ajedrez de Estilo#20"]
+[Source "Ajedrez de Estilo/3"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Van Tets, Albert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b4R1/1k3P2/b1R4p/P5P1/6P1/6rp/5p1P/7K w - - 0 1"]
+
+1. Rc1 $1 Rg1+ 2. Rxg1 fxg1=Q+ 3. Kxg1 Ba7+ 4. Kh1 Bf1 (Kc7 5. Rb8 Bf1 6. Rb6) 5. Rb8+ (5. a6+ $2 Kxa6 6. Rg6+ Ka5) Bxb8 6. f8=R $1 (6. Kg1 $2 Bg2 (Bc4 $2 7. f8=Q Ba7+ 8. Qf2 hxg5 9. Qxa7+) 7. f8=R) (6. f8=Q $2 Bg2+ 7. Kg1 Ba7+ 8. Qf2 hxg5 9. Qxa7+ Kxa7 10. Kf2 Ka6 11. Ke3 Kxa5 12. Kd4 Kb4 13. Ke5 Kc4 14. Kf6 Kd4 15. Kxg5 Ke3 16. Kh4 Kf2 17. g5 Bf1 18. g6 Kg2 19. g7 Bc4) Bg2+ 7. Kg1 Ba7+ (hxg5 8. Rxb8+ Kxb8 9. Kf2) 8. Rf2 Bxf2+ (hxg5 9. a6+ Kb8 (Kb6 10. Rxg2)) 9. Kxf2 hxg5 10. Ke3 Kc6 (Ka6 11. Kd4) 11. a6 (11. Kd4 $2 Kd6) Kb6 (Kd5 12. Kf2 Ke5 13. Kg3) 12. Kd4 (12. a7 $2 Kxa7 13. Kd4 Kb6 14. Ke5 Kc5) Kxa6 (Bf3 13. Ke5 Bxg4 14. Kf6) 13. Ke5 1/2-1/2

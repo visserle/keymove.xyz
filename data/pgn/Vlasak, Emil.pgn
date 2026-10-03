@@ -1,0 +1,69 @@
+[Event "3.c Sachové Umenie#3820"]
+[Source "Sachové Umenie/3 EG#02618."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Vlasak, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p1p5/2p5/2P5/1P6/PK6/8/4k3 w - - 0 1"]
+
+1. Kc4 $1 (1. a4 $2 a6) (1. b5 $2 cxb5 2. Kb4 (2. c6 a5 $1) c6 3. Ka5 Kd2 4. Ka6 Kc3 5. Kb7 b4 6. axb4 Kxb4 7. Kxc6 a5) (1. Ka4 $2 Kd2 2. b5 Kc3 $1) a6 $1 (Kd2 2. b5 cxb5+ (Ke3 3. bxc6 Ke4 4. Kb5 Kd5 5. a4) 3. Kxb5 Kc3 4. a4 a5 (Kd4 5. a5 Kd5 6. Ka6 Kxc5 7. Kxa7) 5. Kxa5 Kc4 6. c6 $1 Kc5 7. Ka6 Kxc6 8. a5) 2. Kb3 $1 (2. Kd4 $2 Kd2 3. Ke5 Kc3 4. Ke6 Kb3 5. Kd7 Kxa3 6. Kxc7 Kxb4 7. Kxc6 a5) Kd2 3. Ka4 Kc3 4. Ka5 Kb2 $1 (Kb3 5. a4 Ka3 (Kc4 6. Kxa6 Kxb4 7. a5 Ka4 8. Kb7 Kxa5 9. Kxc7 Kb5 10. Kd6) 6. b5 $1 (6. Kxa6 Kxa4 $1 (Kxb4 $2 7. Kb7 Kxc5 8. a5 Kb5 9. a6) 7. Kb7 Kxb4 8. Kxc6 Kc4) axb5 7. axb5 cxb5 8. Kxb5 Kb3 9. c6 $1 Kc3 10. Ka6 Kc4 11. Kb7) 5. Kxa6 $1 (5. a4 $2 Kb3) Kxa3 6. b5 cxb5 7. Kxb5 Kb3 8. c6 $1 1-0
+
+[Event "Sachové Umenie#4914"]
+[Source "Sachové Umenie/8"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Vlasak, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2b5/4Q3/3P1p1P/8/5P2/p1p2P2/k3K3 w - - 0 1"]
+
+1. Kd2 $1 Kb2 2. Qf6+ Kb1 3. Qa1+ Kxa1 4. Kc1 $1 Be5 5. f4 Bd6 6. Kxc2 Bxf4 7. f3 $1 1-0
+
+[Event "2.hm Ceskoslovensky Sach#016"]
+[Source "Ceskoslovensky Sach/6 EG#06108."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Vlasak, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2K4k/2n4P/3B4/Pp6/8/7p/8 w - - 0 1"]
+
+1. Be4+ $1 (1. Bxc6 $2 b3 2. a5 b2 3. a6 (3. Be4+ Kh8 $1 4. a6 b1=Q 5. Bxb1 h1=Q 6. a7 (6. Bd3 Qc1+ 7. Kb7 Qb2+ 8. Ka8 Qg2+ 9. Ka7 Qf2+) (6. Bh7 Qxh6 7. a7 Qa6 8. Kb8 Qb6+) Qc1+ 7. Kb8 Qxb1+) b1=Q 4. a7 Qc2 $1 5. a8=Q h1=Q) Kxh6 2. Bxc6 b3 3. a5 b2 4. a6 b1=Q 5. a7 Qh7+ 6. Kb6 Qg6 7. a8=Q h1=Q 8. Qh8+ 1/2-1/2
+
+[Event ".c Pachman MT Fritz MT (m)"]
+[Source "(m): Krug=P 2.c Sachová Skladba#12201 2013."]
+[Date "1985.09.30"]
+[Round "?"]
+[Composer "Vlasak, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6B1/8/8/7Q/1q1p2K1/6p1/3p2Np/2N4k w - - 0 1"]
+
+1. Nf4 $1 (1. Ne2 $2 Kxg2) d1=Q+ 2. Nce2 g2 3. Bd5 $1 (3. Qd5 $2 Qxe2+ 4. Nxe2 Qd2 5. Nf4 Qd1+ 6. Kh4 Qe1+ 7. Kh5 Qg3) Qxe2+ 4. Nxe2 d3+ 5. Kh3 $1 (5. Nf4 $2 Kg1 6. Bxg2 Qd4 $1 (d2 $2 7. Qd5) 7. Qg5 d2 8. Bh3 (8. Kh3 d1=Q 9. Bc6+ Kf1 10. Bb5+ Q1d3+ 11. Bxd3+ Qxd3+ $1) Kh1 $1 (d1=Q+ $2 9. Kh4+ Kf2 10. Qg3#) 9. Kh4 Qh8+ 10. Nh5 Qd4+ 11. Nf4 Qh8+) dxe2 6. Qf3 $1 Qh4+ 7. Kxh4 e1=Q+ 8. Kg4 $1 Qg1 9. Be4 $1 Qf2 10. Qd1+ Qg1 11. Bxg2+ Kxg2 12. Qf3# 1-0
+
+[Event ".c Pachman MT Fritz MT UV CSTV"]
+[Source "EG#06827."]
+[Date "1985.09.30"]
+[Round "?"]
+[Composer "Vlasak, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6B1/5Q2/6K1/8/4p1pp/7k w - - 0 1"]
+
+1. Qf3 $1 (1. Qe4 $2 e1=Q $1 2. Qxe1+ g1=Q+) (1. Kh3 $2 e1=Q 2. Qf3 Qe6+ 3. Bf5 Qh6+) (1. Qd5 $2 Kg1 2. Be4 e1=Q 3. Bxg2 Qe2+ 4. Bf3 h1=Q) e1=Q (Kg1 2. Qxe2 h1=Q 3. Qe3+ Kh2 4. Qg3+ Kg1 5. Kf3 Qh2 6. Qe1#) 2. Be4 Qg1 $1 3. Qe2 $1 (3. Kh3 $2 Qe3 4. Qxe3) (3. Kg3 $2 Qe3 $1 4. Qxe3) (3. Kh4 $2 Qf2+ $1) (3. Qd3 $2 Qa1 $1) (3. Bd5 $2 Qd4+) Qf2 $1 4. Qd1+ (4. Qxf2 $2) Qg1 5. Bxg2+ $1 Kxg2 6. Qf3# 1-0

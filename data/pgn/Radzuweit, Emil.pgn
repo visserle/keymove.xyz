@@ -1,0 +1,27 @@
+[Event "Deutsche Schachzeitung#252"]
+[Source "Deutsche Schachzeitung/9"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Radzuweit, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/1P6/6p1/8/3k1K2/BppP3p/7R w - - 0 1"]
+
+1. Bb1 $1 cxb1=Q (g4+ 2. Kg3 $1 cxb1=Q 3. Rxb1 Kc2 4. Rh1 $1 (4. Rxb2+ $2 Kxb2 5. Kxh2 Kb3 $1 6. Kg3 Kc4 7. Kxg4 Kc5 8. Kf5 Kxb6) Kxd2 5. Rxh2+) 2. Rxb1 Kc2 (g4+ 3. Kg3 Kc2 4. Rh1) 3. Rh1 Kxd2 4. Kg4 $1 (4. Rxh2+ $2 Kc3 5. Rh1 Kc2 6. Kg4 b1=Q 7. Rxb1 Kxb1 8. Kxg5 Kc2) Ke3 (Kc2 5. Rxh2+ Kc3 6. Rh1 Kc2 7. Kxg5 $1 b1=Q 8. Rxb1 Kxb1 9. Kf5) 5. Kxg5 Kf3 6. Rb1 $1 Ke3 7. Kf5 Kf3 8. Ke5 Ke3 9. Kd6 Kd3 10. Rh1 $1 Ke3 11. Kc7 Kf3 12. Rb1 Ke3 13. Kxb7 1-0
+
+[Event "Deutsche Schachzeitung"]
+[Source "Deutsche Schachzeitung/12"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Radzuweit, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p2p3P/8/7P/8/p7/p2K1R2/kq6 w - - 0 1"]
+
+1. Rf1 $1 Qxf1 2. h8=Q+ Kb1 3. Qb8+ Ka1 4. Qe5+ Kb1 5. Qe4+ Ka1 6. Qd4+ Kb1 7. Qb4+ Ka1 8. Qc3+ Kb1 9. Qc2+ Ka1 10. Qc1+ Qxc1+ 11. Kxc1 d5 12. h6 d4 13. h7 a5 14. h8=Q a4 15. Qxd4# 1-0

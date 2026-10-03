@@ -1,0 +1,39 @@
+[Event "Tidskrift for Schack#1548 (c)"]
+[Source "Tidskrift for Schack/12 (c): Garcia=M Estudios Artisticos de Ajedrez - X-46 2012."]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Stosic, Miroslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2b5/5R2/n1p1p3/2BkP3/1P1Pp3/2P1P3/pPpP2PK/2r2r2 w - - 0 1"]
+
+1. b3 $1 Rh1+ 2. Kg3 Rh3+ 3. Kg4 $1 Rh4+ 4. Kg5 Rh5+ 5. Kg6 Rh6+ 6. Kg7 Rh7+ 7. Kf8 $1 Rxf7+ 8. Kg8 $1 Rf8+ 9. Kg7 Rf7+ 10. Kg6 Rf6+ 11. Kg5 Rf5+ 12. Kg4 Rf4+ 13. Kg3 Rf3+ 14. gxf3 Rg1+ 15. Kf4 $1 Rg4+ 16. Kxg4 c1=Q 17. Kf4 Nxc5 18. bxc5 Qc2 19. c4+ Qxc4 20. fxe4# 1-0
+
+[Event "Mat {Yugoslavia}"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Stosic, Miroslav"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2N5/8/8/8/3n2pp/p6k/P4K2/1B6 w - - 0 1"]
+
+1. Kg1 $1 Ne2+ 2. Kh1 Nc3 3. Nd6 Nxb1 4. Ne4 $1 g3 5. Nf2+ $1 gxf2 1/2-1/2
+
+[Event "Tovaris"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Stosic, Miroslav"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4p3/5kPP/8/K3p3/3p2P1/8/8 w - - 0 1"]
+
+1. g7 $1 (1. h7 $2 Kg7 2. Kb3 e3 3. Kc3 e2 4. Kd2 e6 $1 5. g4 e5 6. g5 e4 7. Ke1 e3 8. h8=Q+ Kxh8 9. g7+ Kxg7 10. g6 d2+ 11. Kxe2 Kxg6) Kf7 2. Kb3 e3 3. Kc3 e2 4. Kd2 e5 (e6 5. g4 e5 6. g5 e4 7. g6+ Kg8 8. Ke1 e3 9. h7+ Kxg7 10. h8=Q+ Kxh8 11. g7+ Kxg7) 5. g4 e4 6. g5 e3+ 7. Ke1 Kg8 8. g6 d2+ 9. Kxe2 d1=Q+ 10. Kxd1 e2+ 11. Kxe2 1/2-1/2

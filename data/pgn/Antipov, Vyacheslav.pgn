@@ -1,0 +1,27 @@
+[Event "Shakhmaty v SSSR#29"]
+[Source "Shakhmaty v SSSR/8"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Antipov, Vyacheslav"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p5/8/8/2K5/p1P5/P2k4/8 w - - 0 1"]
+
+1. Kb4 $1 (1. Kb3 $2 c5 2. c4 Kd3 3. Kxa3 Kc3) c5+ (Kc2 2. Kxa3 Kxc3 3. Ka4) 2. Kb3 Kd3 3. c4 Kd2 (Kd4 4. Kc2) 4. Ka4 $1 (4. Kxa3 $2 Kc3) Kc2 (Ke3 5. Kxa3) (Kc3 5. Kxa3) 5. Kb5 $1 Kb2 6. Kxc5 Kxa2 7. Kd6 Kb3 8. c5 a2 9. c6 a1=Q 10. c7 1/2-1/2
+
+[Event "Shakhmaty v SSSR#36"]
+[Source "Shakhmaty v SSSR/9"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Antipov, Vyacheslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/kP6/8/7P/3p4/1K6/2p4R/2r5 w - - 0 1"]
+
+1. h6 $1 (1. b8=Q+ $2 Kxb8 2. h6 Re1 3. Kxc2 Re8 4. h7 Rh8 5. Kd3 Kc7 6. Ke4 d3 $1) d3 2. b8=Q+ $1 Kxb8 3. h7 Rb1+ 4. Ka2 Ra1+ 5. Kxa1 $1 c1=Q+ 6. Ka2 Qc4+ 7. Kb1 1-0

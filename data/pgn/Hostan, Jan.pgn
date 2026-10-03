@@ -1,0 +1,12 @@
+[Event "Národní Listy"]
+[Date "1933.06.11"]
+[Round "?"]
+[Composer "Hostan, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/6pp/8/6P1/7k/PKP5/8 w - - 0 1"]
+
+1. c4 $1 (1. a4 $2 f5 $1 2. gxf5 gxf5 3. a5 f4 4. a6 f3 5. a7 f2 6. a8=Q f1=Q) Kxg4 (f5 2. gxf5 gxf5 3. c5 f4 4. c6 f3 5. c7 f2 6. c8=Q+) 2. a4 $1 f5 $1 3. c5 $1 1-0

@@ -1,0 +1,12 @@
+[Event "Ukrain ty"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Volinko, E"]
+[White "Volinko, E"]
+[Black " Volinko, A."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1Q6/8/6K1/5p2/2pp4/5k2 w - - 0 1"]
+
+1. Kg3 $1 Ke2 2. Qb5+ Ke1 (Kd1 3. Qf1#) 3. Qe8+ Kd1 (Kf1 4. Qe3 d1=N 5. Qd3+ Kg1 (Ke1 6. Kxf3 c1=N 7. Qc2) 6. Kxf3 c1=Q 7. Qg6+ Kf1 8. Qg2+ Ke1 9. Qe2#) 4. Qa4 Ke1 (f2 5. Kxf2 Kc1 6. Qa1#) 5. Qxc2 d1=Q (d1=N 6. Kxf3) (f2 6. Qe4+) 6. Qf2# 1-0

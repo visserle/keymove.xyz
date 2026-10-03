@@ -1,0 +1,13 @@
+[Event "Magyar Sakkélet#1063"]
+[Source "Magyar Sakkélet/3"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Bakay, Bela"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2r3B1/8/2P5/8/8/5N2/3K4/k7 w - - 0 1"]
+
+1. Bd5 $1 Rd8 2. Nd4 $1 Rxd5 3. c7 Rxd4+ 4. Kc3 Rd1 5. Kc2 Rd4 6. c8=R (6. c8=Q $2 Rc4+ 7. Qxc4) Ra4 7. Kb3 1-0

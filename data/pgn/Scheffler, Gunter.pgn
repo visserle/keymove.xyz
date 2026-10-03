@@ -1,0 +1,97 @@
+[Event "Schach#08473"]
+[Source "Schach/1"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Scheffler, Gunter"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/1R6/2K3p1/8/3pp3/1p6/p6P/8 w - - 0 1"]
+
+1. Ra7 $1 (1. Rh7 $2 Kd8 2. Kd6 Ke8 3. Ke6 Kf8 4. Kf6 Kg8 5. Ra7 b2 6. Ra8+ Kh7 7. Ra7+ Kh6 8. Ra8 Kh5 9. h3 Kh4) Kb8 2. Rb7+ Ka8 3. Rd7 $1 (3. Rg7 $2 a1=Q $1 (b2 $2 4. Rg8+ Ka7 5. Rg7+ Ka6 6. Rg8 Ka5 7. Kc5 Ka4 8. Kc4 Ka5 9. Kc5) 4. Kb6 Qa5+ 5. Kxa5 b2 6. Rg8+ Kb7 7. Rg7+ Kc8 8. Rg8+ Kc7 9. Rg7+ Kd8 10. Rb7 e3 11. Rxb2 d3) a1=Q 4. Kb6 Qa5+ 5. Kxa5 b2 6. Rd8+ Kb7 7. Rxd4 $1 b1=Q 8. Rb4+ Qxb4+ 9. Kxb4 1/2-1/2
+
+[Event "Schach#08557"]
+[Source "Schach/5"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Scheffler, Gunter"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/2k2p2/8/2p4p/2NpK2P/8 w - - 0 1"]
+
+1. Ne3 $1 (1. Kd1 $2 f4 2. Na3 f3 3. Nb1 f2) f4 (Kb4 2. Nxf5 Kb3 3. Nd4+ Kb2 4. Kd1 Kb1 5. Nc2) 2. Nd1 $1 (2. Nf1 $2 Kd5 $1) (2. Nc2 $2 f3+) Kc4 3. Nxc3 $1 (3. Nf2 $2 Kb3 4. Ne4 f3+ 5. Kd1 Kb2 6. Nxc3 f2 7. Na4+ Ka3) Kxc3 4. Kd1 Kd4 $1 (Kd3) (f3) 5. Kxd2 f3 6. Ke1 Ke3 7. Kf1 f2 1/2-1/2
+
+[Event "Schach#09011"]
+[Source "Schach/11"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Scheffler, Gunter"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3k4/3pp3/2P2P2/4K3/8/8/8 w - - 0 1"]
+
+1. c6+ $1 Kxc6 2. fxe6 Kc7 (d5+ 3. Ke5 d4 4. Kf6 d3 5. e7) 3. Kd5 Kc8 4. Kc6 $1 1-0
+
+[Event "Schach#09439"]
+[Source "Schach/3"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Scheffler, Gunter"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K1k/7P/5Np1/8/8/5n2/5R1p/8 w - - 0 1"]
+
+1. Rf1 $1 (1. Re2 $2 h1=Q 2. Re8 Qxh7 3. Nxh7 Kxh7 4. Re3 Nh4 5. Rh3 g5) (1. Rg2 $2 h1=Q 2. Rxg6 Qxh7 3. Nxh7 Kxh7) Ng1 2. Rb1 $1 (2. Rc1 $2 h1=Q 3. Rc8 Qb7 $1) h1=Q 3. Rb8 $1 Qh2 4. Rc8 $1 Qh3 (Qa2 5. Ke7+) 5. Re8 $1 Qxh7 6. Nxh7 Kxh7 7. Re1 Nh3 8. Rh1 g5 9. Rxh3+ Kg6 {<eg>} 10. Rg3 (10. Rh1 {<or>}) Kf5 11. Kg7 Kf4 12. Rg1 g4 13. Kh6 g3 14. Kh5 Kf3 15. Kh4 g2 16. Kh3 1-0
+
+[Event "Schach#09595 (c)"]
+[Source "Schach/10 (c): Garcia=M Estudios Artisticos de Ajedrez - X-9 2012."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Scheffler, Gunter"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/8/4PkP1/2P2P2/8/8/2r5/8 w - - 0 1"]
+
+1. c6 $1 Rh2+ 2. Kg8 Ra2 3. c7 $1 Ra8+ 4. Kh7 Rc8 5. g7 $1 (5. e7 $2 Re8 6. g7 Kf7 7. f6 Ra8 8. Kh6 Kxf6 9. Kh7 Kf7 10. Kh6 Kxe7 11. Kg6 Rc8 12. Kh6 Kf6 13. Kh7 Kf7 14. Kh6 Kg8) Rxc7 6. e7 $1 Rxe7 7. Kh8 Rxg7 1/2-1/2
+
+[Event "Schach#09438"]
+[Source "Schach/3"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Scheffler, Gunter"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/1B6/7p/3p3K/1p5B/pp6/8/8 w - - 0 1"]
+
+1. Bc6+ $1 Kf8 2. Be1 $1 (2. Bf2 $2 b2 3. Bc5+ Kg7 4. Bd4+ Kh7 5. Bxb2 axb2 6. Bxd5 b1=B $1) b2 $1 3. Bxb4+ Kg7 4. Bc3+ Kh7 5. Bxb2 $1 axb2 6. Bxd5 b1=Q 7. Be4+ Qxe4 1/2-1/2
+
+[Event ".c Schach#09622"]
+[Source "Schach/11 EG#05430."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Scheffler, Gunter"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6k1/B3K2p/2p5/4R3/2p1n3/8 w - - 0 1"]
+
+1. Bd2 $1 (1. Rxe2 $2 c1=Q) c3 (c1=Q 2. Bxc1 Nxc1 3. Rc3 Nd3+ 4. Kd4 Nb2 5. Rc2) 2. Bc1 $1 Nxc1 3. Rg3+ $1 (3. Rxc3 $2 Nd3+ 4. Ke4 c1=Q 5. Rxc1 Nxc1) Kh6 (Kf7 4. Rxc3 Nd3+ 5. Kf5 c1=Q 6. Rxc1 Nxc1 7. Kg5) 4. Rxc3 Nd3+ 5. Kf5 $1 c1=Q (c1=R 6. Rxd3 Rf1+ 7. Ke4 h4 8. Rd6+ Kg5 9. Rd8 h3 10. Rg8+ Kh4 11. Rh8+ Kg3 12. Rg8+ Kh2 13. Ke3) 6. Rc6+ $1 Qxc6 (Kg7 {<main>} 7. Rxc1 Nxc1 8. Kg5) 1/2-1/2

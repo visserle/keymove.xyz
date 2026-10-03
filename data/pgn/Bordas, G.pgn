@@ -1,0 +1,13 @@
+[Event "Magyar Sakkélet#1735"]
+[Source "Magyar Sakkélet/9-10"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Bordas, G"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k7/8/8/5ppp/8/5PPP/6K1 w - - 0 1"]
+
+1. g3 $1 hxg3 2. fxg3 f3 3. h4 gxh3 4. g4 1-0

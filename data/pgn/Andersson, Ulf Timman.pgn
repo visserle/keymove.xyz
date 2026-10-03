@@ -1,0 +1,12 @@
+[Event "Haagse Post (ea)"]
+[Date "1977.08.06"]
+[Round "?"]
+[Composer "Andersson, Ulf Timman"]
+[White "Andersson, U"]
+[Black " Timman, J."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/6n1/5K2/5p2/7P/8/8/8 w - - 0 1"]
+
+1. Kg5 $1 (1. Ke5 $2 Kg8 2. Kf4 Kf7 3. h5 Ke6 4. h6 Nh5+) Kf7 2. h5 Ke6 3. h6 Ne8 4. h7 Nd6 5. h8=N Ne4+ 6. Kf4 Kf6 7. Nf7 1/2-1/2

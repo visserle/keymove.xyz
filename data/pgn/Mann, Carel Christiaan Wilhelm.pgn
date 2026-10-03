@@ -1,0 +1,66 @@
+[Event "Haarlems Dagblad#015"]
+[Date "1920.12.18"]
+[Round "?"]
+[Composer "Mann, Carel Christiaan Wilhelm"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/K7/5Q2/8/7p/5B1p/5kq1 w - - 0 1"]
+
+1. Bc5+ $1 Kg2 (Ke2 {<main>} 2. Qe4+ Kd2 3. Bb4+ Kc1 4. Qc4+ Kb2 5. Qc3+ Kb1 6. Qd3+ Kb2 7. Bc3+ Kb3 8. Be5+ Ka4 9. Qc2+) 2. Qd5+ Kg3 3. Qg5+ Kf3 4. Bxg1 h1=Q 5. Qd5+ Kg3 6. Qxh1 1-0
+
+[Event "Haarlems Dagblad#032"]
+[Date "1922.10.07"]
+[Round "?"]
+[Composer "Mann, Carel Christiaan Wilhelm"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4N3/8/4p3/1Q6/2K1k3/6q1/4p3/8 w - - 0 1"]
+
+1. Nf6+ $1 Kf3 2. Qb7+ Kf2 3. Ne4+ Kg1 4. Nxg3 e1=Q 5. Qh1+ Kf2 6. Ne4+ Ke2 7. Nc3+ Kf2 (Kd2 8. Qh6+ Kc2 9. Qh2+ Qd2 10. Qh7+ Kb2 11. Qb1+ Ka3 12. Qb3#) 8. Nd1+ Ke2 9. Qg2+ Kxd1 10. Kd3 1-0
+
+[Event "Haarlems Dagblad#046"]
+[Date "1923.12.10"]
+[Round "?"]
+[Composer "Mann, Carel Christiaan Wilhelm"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6P1/8/8/8/8/4N1kq/4K3 w - - 0 1"]
+
+1. g8=Q+ $1 Kf3 (Kh1 {<main>} 2. Qg4 Qg2 3. Qh4+ Qh2 4. Qe4+ Qg2 5. Qh7+ Qh2 6. Qb1) 2. Qf7+ Ke4 (Ke3 3. Qb3+ Ke4 4. Qc4+) (Kg4 3. Qg6+ Kf3 4. Nd4+ Ke3 5. Nc2+ Kf3 6. Qd3+ Kg4 7. Ne3+) 3. Qc4+ Kf5 4. Nd4+ Ke4 (Kg4 5. Qg8+ Kh3 6. Qe6+ Kg2 7. Qe4+ Kh3 8. Qf5+ Kg2 9. Qf3+ Kg1 10. Qf1#) 5. Nc2+ Kf5 6. Ne3+ Kg6 7. Qg8+ Kh6 (Kf6 8. Ng4+ Kf5 9. Nxh2) 8. Qh8+ Kg6 9. Qxh2 1-0
+
+[Event "Tijdschrift v.d. KNSB#460 (c)"]
+[Source "Tijdschrift v.d. KNSB/8 (c): Vandiest=J 223 Eindspelstudies 1948-2009#173 2009."]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "Mann, Carel Christiaan Wilhelm"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/7p/6P1/1K1B4/4p3/6p1/2p5/8 w - - 0 1"]
+
+1. g7 $1 (1. gxh7 $2 c1=Q 2. h8=Q+ Kd7 3. Qh3+ Kd8 4. Qh4+ Ke8 5. Qh5+ Kd8) c1=Q 2. g8=Q+ Kc7 3. Qf7+ (3. Qg7+ $2 Kd6) (3. Qxg3+ $2 Kd7 4. Qh3+ Kd8 5. Qh4+ Kc7) Kd8 4. Qf6+ Kc8 5. Be6+ Kb7 6. Qe7+ $1 Qc7 7. Bd5+ Kb8 $1 8. Qf8+ Qc8 9. Qb4 $1 Qd7+ (Qf5 10. Qd6+ $1 Kc8 11. Kc6 $1) 10. Kb6 $1 Kc8 11. Qc5+ Kd8 12. Qf8+ Qe8 13. Qd6+ Qd7 14. Qb8+ Qc8 (Ke7 15. Qe5+) 15. Qe5 Qd7 16. Bc6 $1 (16. Be6 $2 g2 $1 17. Qh8+ Qe8 18. Qf6+ Qe7 19. Qd4+ Ke8 20. Qh8+ Qf8) Qf7 (g2 17. Qh8+ Ke7 18. Qg7+) 17. Bb5 $1 (17. Bd5 $2 Qf2+) (17. Qg5+ $2 Kc8 18. Qg4+ Kb8) Qf2+ (g2 18. Qd6+ Kc8 19. Ba6+) (Kc8 18. Qh8+) (Qe7 18. Qb8#) 18. Kb7 Qf7+ 19. Kb8 g2 {<eg>} (Qg6 20. Qc7#) 20. Qd6+ 1-0
+
+[Event "Haarlems Dagblad#056 (c)"]
+[Source "(c): Vandecasteele=I EBUR=4 12/2000."]
+[Date "1924.09.08"]
+[Round "?"]
+[Composer "Mann, Carel Christiaan Wilhelm"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2N2P1q/5k2/8/6K1/8/8/8 w - - 0 1"]
+
+1. f8=Q+ $1 Qf7 2. Qd6+ Kg7 3. Ne6+ Kg6 4. Ng5+ Qf6 5. Qd3+ Kg7 6. Qd7+ Kg8 7. Kh5 Qg7 8. Qd5+ Kh8 9. Qd8+ Qg8 10. Qd6 Qe8+ 11. Kh6 $1 Kg8 12. Qd5+ Kf8 13. Qf5+ Ke7 14. Qe6+ Kd8 15. Nf7+ Kc7 16. Qxe8 1-0

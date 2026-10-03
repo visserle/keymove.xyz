@@ -1,0 +1,13 @@
+[Event "Problem#301"]
+[Source "Problem/8"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Burlyaev, Nikolay"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1pp5/1p1Pk3/1P6/8/1p6/pP5P/K7 w - - 0 1"]
+
+1. dxc7 $1 Kd7 2. h4 Kxc7 3. h5 Kc8 4. h6 Kb8 5. h7 Ka7 $1 6. h8=N $1 (6. h8=Q $2) Kb8 7. Nf7 $1 Kc7 8. Ng5 Kd6 9. Ne4+ Kd5 10. Nd2 $1 1-0

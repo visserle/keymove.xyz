@@ -1,0 +1,25 @@
+[Event "Denken und Raten"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Laib, Kurt Friedrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/3k4/K1N2b2/3B2p1/8 w - - 0 1"]
+
+1. Nd1 $1 Bxd1 (g1=Q 2. Be3+ Qxe3+ 3. Nxe3) 2. Ba5 Kc5 3. Be1 g1=Q 4. Bf2+ Qxf2 1/2-1/2
+
+[Event "Kieler Neuste Nachrichten"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Laib, Kurt Friedrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2n1N3/8/Nk6/2p5/8/1pPK4/7B w - - 0 1"]
+
+1. Nd5 $1 Nxd5 2. Nxc4 Kxc4 3. Bxd5+ Kxd5 4. c4+ Kxc4 5. Kc2 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "https://lichess.org/@/Humoresque"]
+[Date "2017.08.23"]
+[Composer "Visser, Leonard Wilbert Heiko"]
+[Result "*"]
+[Stipulation "#3"]
+[ChapterURL "https://lichess.org/study/rj9bx7Gh/gXe0XaFX"]
+[Annotator "https://lichess.org/@/Humoresque"]
+[FEN "q5n1/1r1P4/1p2p1N1/1Pk1P3/2P4B/3Kp3/1P6/3B4 w - - 0 1"]
+[SetUp "1"]
+
+1. Nf8 (1. Nf4? Rxd7+ 2. Kc3 Qa5+) 1... Qe8 (1... Qxf8 2. Kc3 e2 3. b4#) (1... Rxd7+ 2. Nxd7+ Kb4 3. Be1#) (1... Qa5 2. Nxe6+ Kb4 3. Be1#) (1... Kb4 2. Be1+ Kc5 3. b4#) 2. Kc3 e2 3. b4# *
+
+[Event "https://lichess.org/@/Humoresque"]
+[Date "2016.06.02"]
+[Composer "Visser, Leonard Wilbert Heiko"]
+[Result "*"]
+[Stipulation "#7"]
+[ChapterURL "https://lichess.org/study/rj9bx7Gh/Ja9IWWwD"]
+[Annotator "https://lichess.org/@/Humoresque"]
+[FEN "1R3bkr/P3p1p1/4PqPp/5P1P/8/8/4P2P/7K w - - 0 1"]
+[SetUp "1"]
+
+1. a8=Q Qxf5 2. Qf3 Qf6 (2... Qxf3+ 3. exf3 Rh7 4. Rxf8+ Kxf8 5. gxh7 Ke8 (5... g6 6. h8=Q#) 6. h8=R#) 3. Ra8! Qxf3+ { Zugzwang! } 4. exf3 Rh7 $7 5. Rxf8+ Kxf8 6. gxh7 g6 (6... Ke8 7. h8=Q#) 7. h8=Q# *

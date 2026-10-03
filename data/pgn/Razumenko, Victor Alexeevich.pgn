@@ -1,0 +1,161 @@
+[Event "Voenni Vestnik"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Razumenko, Victor Alexeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/7B/6Pk/6p1/3N1pp1/8/p7/8 w - - 0 1"]
+
+1. Nf5+ $1 (1. Nb3 $2 Kg7) Kh5 2. g7 a1=Q 3. Bg6+ Kxg6 4. g8=Q+ Kxf5 5. Qh7+ Ke6 6. Qd7+ Kf6 7. Qf7+ Ke5 8. Qg7+ 1-0
+
+[Event ".c Bondarenko JT Shakhmaty (Riga)"]
+[Source "EG#02506."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Razumenko, Victor Alexeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5K2/b5Pk/1pP3p1/4p3/1p1P4/8/8 w - - 0 1"]
+
+1. g7 $1 Bb7 2. dxe4 Bxe4 3. g8=N+ Kh5 4. Nf6+ Kh4 5. Nxe4 b2 6. Nd2 g4 7. c6 g3 8. c7 b1=Q 9. Nxb1 g2 10. Nd2 Kg3 11. Ne4+ Kf3 12. Ng5+ Kg3 13. Nh3 Kxh3 14. c8=Q+ 1-0
+
+[Event "source unknown"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Razumenko, Victor Alexeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/3P4/5N2/8/4p2k/8/1p5p/8 w - - 0 1"]
+
+1. d8=Q $1 b1=Q 2. Nxe4+ Kg4 3. Qg5+ Kf3 4. Nd2+ Kf2 5. Qf4+ Kg2 6. Qf3+ Kg1 7. Qe3+ Kh1 8. Nxb1 Kg2 9. Qe2+ Kg1 10. Nd2 h1=Q+ 11. Nf3+ Qxf3+ 12. Qxf3 1-0
+
+[Event "Kirovskii Rabochi (tw)"]
+[Date "1976.11.18"]
+[Round "?"]
+[Composer "Razumenko, Victor Alexeevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/K7/8/R5b1/8/8/7p/8 w - - 0 1"]
+
+1. Ra1 $1 Be3+ 2. Ka8 $1 Bg1 3. Rc1+ Kd8 4. Rc8+ $1 Kxc8 1/2-1/2
+
+[Event ".c Molodoj Leninets (Kurgan)"]
+[Source "EG#03761."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Razumenko, Victor Alexeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/3K3B/6Pp/7p/6pk/4B3 w - - 0 1"]
+
+1. Bf2 $1 Kh1 2. g5 h2 3. Bf3 h3 4. Bg3 Kg1 5. g6 h1=Q 6. g7 Kf1 7. g8=Q g1=Q 8. Qg4 Qxg3 9. Qxg3 Qg1 10. Be2+ 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/2"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Razumenko, Victor Alexeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/P7/2K5/8/4N3/7k/1p5p/8 w - - 0 1"]
+
+1. a8=Q $1 b1=Q $1 (h1=Q 2. Qa3+ $1 Kg4 3. Qg3+ Kf5 4. Qg5+ Kxe4 5. Qd5+) 2. Qc8+ $1 (2. Qa3+ $2 Kg4 3. Qg3+ Kf5 4. Qg5+ Kxe4 5. Qg6+ Kf3 6. Qxb1 Kg2) Kh4 $1 3. Qd8+ $1 Kg4 4. Qg5+ Kf3 5. Nd2+ Kf2 6. Qf4+ $1 Kg2 7. Qf3+ Kg1 8. Qe3+ $1 Kh1 (Kg2 9. Qe2+ Kg1 10. Nf3+ Kh1 11. Qxh2#) 9. Nxb1 Kg2 10. Qe2+ Kg1 11. Nd2 h1=Q+ 12. Nf3+ 1-0
+
+[Event "Shakhmaty v SSSR#09"]
+[Source "Shakhmaty v SSSR/3 37/4"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Razumenko, Victor Alexeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6q1/2bQ4/6p1/2K3B1/p7/k7 w - - 0 1"]
+
+1. Be5 $1 (1. Qxc5 $2 Qc2+ $1 2. Kxc2) Ba3 $1 2. Qb3 $1 (2. Kc4+ $2 Bb2) (2. Kb3+ $2 Kb1) Qe4 3. Bg7 $1 (3. Bh8 $2 Qe2 4. Qxa3 Kb1 5. Qb3+ Kc1) Bb4+ $1 (Qg6 4. Bd4) 4. Qxb4 Qxb4+ 5. Kc2+ $1 Qb2+ 6. Bxb2# 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/1"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Razumenko, Victor Alexeevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5KQ1/6P1/5bb1/5q2/8/8/8/k7 w - - 0 1"]
+
+1. Qa2+ $1 Kxa2 2. g8=Q+ Ka1 3. Qxg6 $1 Qxg6 1/2-1/2
+
+[Event "source unknown"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Razumenko, Victor Alexeevich"]
+[White "Razumenko, V"]
+[Black " Mitrofanov, L."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2P5/7p/6pk/p7/2p2P1K/4B3 w - - 0 1"]
+
+1. Ba5 $1 c1=Q 2. Bd8+ Qg5 3. c7 a2 4. f4 $1 g3+ 5. Kg2 a1=Q 6. Bxg5+ Kg4 7. c8=Q# 1-0
+
+[Event ".c Shakhmaty v SSSR#31"]
+[Source "Shakhmaty v SSSR/9 EG#07411."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Razumenko, Victor Alexeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1Q1B3k/7p/b4K1p/8/8/8/rP6/6q1 w - - 0 1"]
+
+1. Bb6+ $1 (1. Bc7+ $2 Qg8 2. Be5 Qxb8) (1. Ba5+ $2 Bc8 2. Qxc8+ Qg8 3. Bc3 Qxc8) Qg8 2. Bd4 Ra4 (Qxb8 3. Kf7+) 3. b4 Rxb4 4. Qxb4 Qe8 5. Qb8 Bb5 6. Qg3 (6. Qxb5 $2 Qf8+ 7. Ke6+ Kg8) Qd7 7. Bc3 (7. Ba1 $2 Bc6 8. Ke5 Qg7+ 9. Kf4 Qxa1) h5 8. Qb8+ Qe8 9. Qxb5 Qxb5 (Qf8+ 10. Ke6+ Kg8 11. Qg5+) 10. Kf7+ Qe5 11. Bxe5# 1-0
+
+[Event "Zaporozhskaya Pravda"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Razumenko, Victor Alexeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7N/7p/4K1R1/8/p7/k7 w - - 0 1"]
+
+1. Kd3 $1 Kb2 (hxg4 2. Kc2 g3 3. Nf5 g2 4. Nd4 g1=Q 5. Nb3#) 2. Rg2+ Ka3 3. Rg1 Kb2 4. Ra1 $1 h4 (Kxa1 5. Kc2) 5. Nf5 h3 (Kb3 6. Nd4+ $1) 6. Nd4 $1 (6. Ne3 $2 Kxa1) h2 $1 7. Nc2 $1 (7. Nb3 $2 Kxb3 8. Rh1 Kb2) 1-0
+
+[Event "1.hm Voenni Vestnik"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Razumenko, Victor Alexeevich"]
+[White "Razumenko, V"]
+[Black " Mitrofanov, L."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/6p1/5P2/4P3/8/8/n1r5/6K1 w - - 0 1"]
+
+1. f7 $1 Rc1+ 2. Kg2 Rc2+ 3. Kg3 Rc3+ 4. Kg4 Rc4+ 5. Kg5 Rf4 $1 6. e6 $1 g6 7. Kxf4 Kg7 8. Ke5 Nc3 $1 9. Kd6 Kf8 10. e7+ $1 Kxf7 11. Kd7 1-0

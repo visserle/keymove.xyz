@@ -1,0 +1,18 @@
+
+
+[Event "1.c Schakend Nederland#1600"]
+[Source "Schakend Nederland/12 EG#03894"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Bordenyuk, Mikhail Grigorevich"]
+[Composer2 "Kuznetsov, Alexander Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3B1r2/1p4P1/k7/p6n/PPP3p1/4pBP1/4RpPK/5r2 w - - 0 1"]
+[PlyCount "17"]
+
+1. b5+ $1 (1. gxf8=Q $143 $2 Rh1+ $1 2. Kxh1 Nxg3+ 3. Kh2 Nf1+ 4. Kh1 Ng3+ $11) Ka7 2. Bb6+ Kxb6 3. c5+ Ka7 (Kc7 $144 4. b6+ Kd7 5. c6+ bxc6 6. Bxg4+ $18) 4. b6+ Ka6 5. Rxf2 $1 Rh1+ $1 (exf2 $144 6. Be2#) (Rxf2 $144 6. gxf8=Q $18) 6. Kxh1 Nxg3+ 7. Kh2 (7. Kg1 $143 $2 exf2+ 8. Kxf2 Re8 $1 9. Bd5 Ne4+ 10. Bxe4 g3+ 11. Kf3 Rxe4 12. g8=Q Re3+ 13. Kf4 Re4+ 14. Kxe4 $11 {stalemate}) exf2 8. Be2+ (8. Kxg3 $143 $2 Rxf3+ 9. gxf3 f1=Q 10. g8=Q Qxf3+ $11) Nxe2 9. gxf8=R $1 (9. gxf8=Q $143 $2 f1=N+ $1 10. Kh1 Nfg3+ 11. Kh2 Nf1+ 12. Qxf1 g3+ 13. Kh3 $11 {stalemate}) 1-0

@@ -1,0 +1,13 @@
+[Event "Schweizerische Arbeiter-Schachzeitung#1"]
+[Source "Schweizerische Arbeiter-Schachzeitung/7-8"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Berger, Jakob"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3k1pKp/p6P/4PP2/8/3b4/8/8 w - - 0 1"]
+
+1. e6+ $1 fxe6 2. f6 Bg6 3. f7 $1 Bxf7 4. Kxh7 (4. Kxf7 $2 a5) Ke7 5. Kg7 Bg6 6. Kxg6 Kf8 7. h7 1-0

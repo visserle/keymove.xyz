@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Dolgov, Vasily"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "K1k5/3b4/8/7P/1n4p1/8/B7/8 w - - 0 1"]
+
+1. h6 (1. Bb1 $2 Bc6+ 2. Ka7 Kc7) (1. Bc4 $2 g3 2. Ba6+ Nxa6) (1. Bg8 $2 g3 2. Be6 g2 3. Bxd7+ Kc7) (1. Bf7 $2 g3 2. Bc4 g2) (1. Ka7 $2 Kc7) (1. Bb3 g3) (1. Bd5 Nxd5) Bc6+ 2. Ka7 Be4 3. h7 (3. Be6+ $2 Kc7 4. Bxg4 Nc6+ 5. Ka8 Ne5+ 6. Ka7 Nxg4 $19) (3. Bg8 $2 Kc7 $19 4. Be6 g3) (3. Bc4 $2 Kc7 $19 4. h7 Bxh7) (3. Bf7 $2 Kc7) (3. Bb3 $2 Kc7) Bxh7 4. Be6+ (4. Ka8 $2 g3 5. Be6+ Kc7) (4. Bg8 Bxg8) (4. Bb1 g3 5. Bxh7 g2) Kc7 5. Bxg4 (5. Ka8 g3 6. Bh3 Be4+) (5. Bb3 g3) (5. Bc4 g3) (5. Bf7 g3) Nc6+ 6. Ka8 Ne5 7. Be2 (7. Be6 $2 Be4+ 8. Ka7 Nc6+ 9. Ka8 Nd8+ $19) (7. Bd1 $2 Be4+ 8. Ka7 Nc6+ 9. Ka8 Ne7+ 10. Ka7 Bb7 $19) (7. Bh3 $2 Be4+ 8. Ka7 Bb7 $19) (7. Bh5 $2 Be4+ 8. Ka7 Nc6+ $19) (7. Bd7 Nxd7) Kb6 8. Kb8 Nc6+ 9. Ka8 Nd4 10. Bg4 (10. Bf1 $2 Be4+ 11. Kb8 Bb7 $19) (10. Bh5 $2 Be4+ 11. Kb8 Nc6+ $19) (10. Bd1 $2 Be4+ 11. Kb8 Nc6+) (10. Bc4 $2 Be4+ 11. Kb8 Nc6+) Kc7 11. Ka7 $1 Nc6+ 12. Ka8 Ne5 13. Be2 $1 1/2-1/2

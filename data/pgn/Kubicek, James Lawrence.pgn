@@ -1,0 +1,27 @@
+[Event "The Problemist#0151"]
+[Source "The Problemist/1-2"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Kubicek, James Lawrence"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "R7/P7/1k6/8/8/1p2p3/2p5/4B2K w - - 0 1"]
+
+1. Rb8+ $1 (1. Rc8 $2 Kxa7) Kxa7 2. Rxb3 c1=Q 3. Rxe3 Qxe3 4. Bf2 Qxf2 1/2-1/2
+
+[Event "3.hm The Problemist#0173"]
+[Source "The Problemist/1-3 EG#03638."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Kubicek, James Lawrence"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2B5/4p3/3b2P1/8/2R4K/8/k5p1/3b4 w - - 0 1"]
+
+1. Rg4 $1 Bxg4 2. g7 e6 3. g8=Q Be7+ 4. Kxg4 g1=Q+ 5. Kh5 Qxg8 6. Bxe6+ Qxe6 1/2-1/2

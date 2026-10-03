@@ -1,0 +1,16 @@
+[Event "Deutsche Schachzeitung#0836 (v)"]
+[Source "Deutsche Schachzeitung/4 (v): Festschrift München 1906."]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "?"]
+[Composer "Holzhausen, Walther"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "1k6/2p5/B7/4Np2/8/8/6p1/6Kb w - - 0 1"]
+
+1. Nc6+ $1 (1. Nd7+ $2 Ka7 2. Bd3 $10) (1. Nf3 $2 c5 2. Nh4) (1. Nd3 $2 Ka7 2. Bc8) (1. Ng6 $2 Ka7 2. Bc8) (1. Bd3 $2 f4 2. Be4) (1. Be2 c5 2. Bd3) Ka8 2. Bc8 (2. Ne7 $2 Ka7 3. Be2 $10) (2. Bd3 $2 Kb7 3. Ne5 $10) (2. Bf1 gxf1=Q+ 3. Kxf1 Bxc6) f4 3. Ba6 (3. Bh3 $2 Kb7 4. Ne5 $10) (3. Nd4 $2 Ka7 4. Ne6 $10) (3. Nb4 Kb8 4. Be6) (3. Kh2 g1=Q+ 4. Kxg1 Bxc6 5. Bb7+ $2 (5. Kf1 $5) Kxb7) f3 4. Kf2 $1 (4. Nd4 $2 Ka7 5. Bc4 $10) (4. Bc4 $2 f2+ 5. Kxf2 g1=Q+ 6. Kxg1 Bxc6 7. Bd3) (4. Bb7+ $2 Kxb7 5. Nd4) g1=Q+ 5. Kxg1 Bg2 (f2+ 6. Kxh1 f1=Q+ 7. Bxf1) 6. Kh2 $18 $1 (6. Kf2 $2 Bh3 7. Nb8 $10 Kxb8 8. Kxf3 Bg4+ 9. Ke3) (6. Bc8 $2 f2+ 7. Kxg2 f1=Q+ 8. Kxf1) (6. Nd4 $2 c6 7. Nxc6 $10 f2+ $4 (Bh3 $5) 8. Kxg2 f1=Q+ 9. Bxf1) (6. Ne5 $2 Ka7 7. Nxf3 Bxf3 8. Bb5) (6. Bf1 $2 Bxf1 7. Kxf1) f2 {<eg>} 7. Kxg2 f1=Q+ 8. Bxf1 (8. Kxf1 $2) 1-0

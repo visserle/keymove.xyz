@@ -1,0 +1,26 @@
+[Event "Chess"]
+[Source "Chess/8-9 EG#04530."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Lamford, Paul Adrian"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/8/8/1ppp4/8/4p1B1/PP2Kp2/8 w - - 0 1"]
+
+1. b4 $1 cxb4 (d4 2. Bxf2 (2. bxc5 d3+ 3. Kf1 d2) exf2 3. bxc5) 2. Bf4 Kg7 3. Bxe3 Kf6 4. Bxf2 Ke5 5. Kd3 Kd6 6. Kd4 Kc6 7. Bh4 Kb6 8. Bd8+ Kc6 9. Ba5 Kd6 10. Bb6 Kc6 11. Bc5 Kb7 12. Kxd5 Ka6 13. Kd4 Ka5 14. Kd3 Ka4 15. Kc2 Ka3 16. Kb1 Ka4 17. Kb2 Ka5 {<eg>} 18. Be7 Kb6 (Ka4 19. Bd8) 19. Kc2 Kc6 20. Kd3 Kd5 21. Bf8 Ke5 22. Bc5 Kd5 23. Bd4 Kc6 24. Ke4 Kd6 25. Be3 Kc6 26. Ke5 Kd7 27. Kd5 Kc7 28. Bd4 Kb7 29. Bf6 Kc7 30. Kc5 Kb7 31. Be5 Ka6 (Kc8 32. Kc6 Kd8 33. Bd6 Ke8 34. Bxb4 Kd8 35. Bd6 Kc8 36. a3 Kd8 37. Kxb5) 32. Bc7 Kb7 33. Bb6 Kc8 34. Kc6 Kb8 35. Bd8 Ka7 36. Bc7 Ka8 (Ka6 37. Bb6 b3 38. axb3) 37. Kb6 b3 38. axb3 1-0
+
+[Event "British Chess Magazine"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Lamford, Paul Adrian"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2pk4/8/2PK4/2P5/8/8/8 w - - 0 1"]
+
+1. c6+ $1 Ke7 2. Kc5 Kd8 3. Kb4 $1 Kc8 4. Kb5 Kb8 (Kd8 5. Ka6) 5. Kc5 Ka7 (Kc8 6. Kd5 Kd8 7. Ke6 Ke8 8. c5) 6. Kd4 Ka6 7. Ke5 Kb6 8. Kd5 Ka6 9. Ke6 Kb6 10. Kd7 1-0

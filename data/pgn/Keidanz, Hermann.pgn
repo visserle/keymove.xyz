@@ -1,0 +1,40 @@
+[Event "Kagan's Neueste Schachnachrichten"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Keidanz, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/n7/k1p5/2P5/p7/B1K5 w - - 0 1"]
+
+1. Kc2 $1 (1. Kb2 $2 Nb3 2. Kxa2 Nxa1 3. Kxa1 Kb3) Nb3 2. Kb2 Nxa1 3. Kxa1 Kb3 (Kb5 4. Kxa2 Kc5 5. Ka3) 1/2-1/2
+
+[Event "Deutsches Wochenschach#1779"]
+[Source "also Deutsche Schachblätter#309 Deutsche Schachblätter/1 1925."]
+[Date "1924.04.15"]
+[Round "?"]
+[Composer "Keidanz, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K6R/p7/8/8/p7/8/k7/8 w - - 0 1"]
+
+1. Rb8 $1 a3 2. Rb5 a6 3. Rb6 Ka1 4. Kb7 a2 5. Kc6 a5 6. Kc5 a4 7. Kc4 a3 8. Kb3 Kb1 9. Kxa3+ Ka1 10. Re6 Kb1 11. Re1+ 1-0
+
+[Event "2.sp.p Magyar Sakkvilág#154"]
+[Source "Magyar Sakkvilág/11"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Keidanz, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/2k5/8/K1bq4/Q7 w - - 0 1"]
+
+1. Qc1 $1 (1. Qb2 $2 Qa5+ 2. Qa3 Bb3+ 3. Kb1 (3. Kb2 Qc3+) Qf5+ 4. Ka1 Qe5+ 5. Kb1 Qe4+ 6. Ka1 Qe1+ 7. Kb2 Qc3+ 8. Kb1 Bc2+ 9. Ka2 Bb1+) Qf2 (Qa5+ {<main>} 2. Kb2 Qc3+ 3. Ka2 Bb3+ 4. Kb1 Ba2+ 5. Kxa2 Qxc1) (Qxc1) 2. Ka1 $1 (2. Kb2 $2 Kd3 3. Ka3 Qa7+) Qd4+ 3. Ka2 $1 (3. Qb2 $2 Qd1+ 4. Ka2 Bb3+) Qf2 4. Ka1 Qh2 5. Qxc2+ Qxc2 1/2-1/2

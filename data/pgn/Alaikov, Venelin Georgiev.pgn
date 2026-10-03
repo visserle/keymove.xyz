@@ -1,0 +1,13 @@
+[Event "Shakhmatna Misl#058"]
+[Source "Shakhmatna Misl/6"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Alaikov, Venelin Georgiev"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1pp3R1/1Nk5/6b1/7P/2K5/pP3P2/8 w - - 0 1"]
+
+1. Rg6+ $1 Bf6+ 2. Rxf6+ Kb5 3. Rf5+ Kxb6 4. Ra5 $1 Kxa5 5. b4+ 1-0

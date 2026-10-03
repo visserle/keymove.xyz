@@ -1,0 +1,14 @@
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[Composer "Ahues, Carl"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/8/3p4/2k5/4P3/8/8/1K6 w - - 0 1"]
+
+1. e5 (1. Kc2 $2 Kc4 $19) (1. Kc1 $2 Kd4 $19) (1. Kb2 $2 Kd4 $19) (1. Ka1 $2 Kd4) (1. Ka2 Kd4) dxe5 2. Kc1 (2. Kc2 $2 Kc4 $19) (2. Kb2 $2 Kd4 $19) Kd5 3. Kd1 (3. Kd2 $2 Kd4 $19) (3. Kc2 $2 Ke4) Kc5 4. Kc1 $10 1/2-1/2

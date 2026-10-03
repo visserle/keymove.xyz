@@ -1,0 +1,36 @@
+/* ==========================================================================
+   Keymove: entry point.
+
+   The stylesheet is split into modules the way lichess splits its own CSS
+   (ui/lib/css/build/lib.theme.all.scss): one file per concern, imported here
+   in cascade order. A module owns its component, including that component's
+   responsive rules; there is no global "responsive" section to override it
+   from far away.
+
+   Breakpoints are named after lila's ui/lib/css/abstract/_media-queries.scss:
+
+     col2plus   (min-width: 799.3px), (orientation: landscape)
+     squeeze    (max-width: 799.29px) and (orientation: landscape)
+     col1       (max-width: 799.29px) and (orientation: portrait)
+     narrow     (max-width: 640px)
+
+   Order: chessground's DOM base first, then tokens, base, and components.
+   The flat grey board theme lives in board.css and does not import
+   chessground's brown theme, which defines the board outright.
+   ========================================================================== */
+
+@import "@lichess-org/chessground/assets/chessground.base.css";
+@import "./pieces.css";
+@import "./fonts.css";
+@import "./tokens.css";
+@import "./base.css";
+@import "./topbar.css";
+@import "./dasher.css";
+@import "./layout.css";
+@import "./board.css";
+@import "./solver.css";
+@import "./catalogue.css";
+@import "./collections.css";
+@import "./pages.css";
+@import "./blog.css";
+@import "./utilities.css";

@@ -1,0 +1,124 @@
+[Event "Vossische Zeitung#47"]
+[Date "1920.11.21"]
+[Round "?"]
+[Composer "Richter, Rolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6pk/8/8/6pq/4r2P/5RQK w - - 0 1"]
+
+1. Rf2 $1 Rxf2 (gxf2 {<main>} 2. Qxg6+ Kxg6) (gxh2 2. Qxg6+ Kxg6 3. Rf6+) 2. Qxf2 gxf2 1/2-1/2
+
+[Event "Schach#07070 (c) (@2)"]
+[Source "Sch@ch/11-12 (c): Richter=R Schach#07565 10/1974 î2: Schach/5 1975."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Richter, Rolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/8/1p3Pn1/6KP/2p5/1p6/ppP5/4B3 w - - 0 1"]
+
+1. f7 $1 (1. hxg6 $2 bxc2 $1 2. f7 (2. g7+ Kh7 $1) c1=Q+ 3. Kh5 Kg7 $1) Nf8 $1 2. Kh6 b1=N 3. c3 $1 Nd2 (a1=Q {<main>} 4. Bg3 $1 Qxc3 5. Be5+ Qxe5) (a1=B {<main>} 4. Bh4 $1 Bxc3 5. Bf6+ Bxf6) 4. Bxd2 a1=Q (a1=R {<main>} 5. Bf4 $1 (5. Be3 $1 {<minor dual>} Rd1 6. Bf4 Re1 7. Be5+ Rxe5) Re1 6. Be5+ Rxe5) (a1=B 5. Bg5 $1 Bxc3 6. Bf6+ Bxf6) 5. Bf4 $1 Qxc3 6. Be5+ Qxe5 1/2-1/2
+
+[Event "2.p Schach#07070 (c)"]
+[Source "Schach/11-12 1972 EG#02639. (c): Richter=R Schach#07565 10/1974 (c): Richter=R Schach/5 1975."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Richter, Rolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/8/2p2Pn1/6KP/2p5/1p6/ppP5/4B3 w - - 0 1"]
+
+1. f7 $1 (1. hxg6 $2 bxc2 $1 2. f7 (2. g7+ Kh7) c1=Q+ 3. Kh5 Kg7) (1. Bc3 $2 Nf8 $1 2. Bxb2 bxc2 $1) Nf8 $1 (Kg7 2. hxg6 a1=Q 3. Bc3+) 2. Kh6 (2. Bc3+ $2 Kh7 $1) b1=N $1 3. c3 (3. Bg3 $2 a1=B $1 (a1=Q $2 4. c3 $1 Qxc3 5. Be5+ Qxe5)) Nd2 (a1=Q 4. Bg3 Qxc3 5. Be5+ Qxe5) (a1=B 4. Bh4 $1 Bxc3 5. Bf6+ Bxf6) 4. Bxd2 a1=B (a1=Q {<main>} 5. Bf4 Qxc3 6. Be5+ Qxe5) (a1=R {<main>} 5. Bf4 Re1 6. Be5+ Rxe5) 5. Bg5 Bxc3 6. Bf6+ Bxf6 1/2-1/2
+
+[Event "2.hm Tungsram ty"]
+[Source "EG#04881."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Richter, Rolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1pBp4/1KP5/7p/pP5P/1k3N2 w - - 0 1"]
+
+1. Nd2+ $1 Kc2 2. Nb3 dxc4 (bxc4 {<main>} 3. Na1+ Kb1 4. Kc3 Kxa1 5. Kc2 c3 6. Bd4 cxb2 7. Bxb2#) 3. Na1+ Kb1 4. Kc3 Kxa1 5. Kc2 b4 (c3 {<main>} 6. Bb4 cxb2 7. Bc3 b4 8. Bxb2#) 6. Bxb4 c3 7. Ba3 cxb2 8. Bxb2# 1-0
+
+[Event "sp.p Schach#10070"]
+[Source "Schach/5 EG#06428."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Richter, Rolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3N4/K7/8/5k2/6p1/8/8/8 w - - 0 1"]
+
+1. Nc6 $1 (1. Nf7 $2 g3 2. Nh6+ (2. Nd6+ Kf4) Kf4) Ke4 2. Nd8 $1 Kd5 3. Nf7 Ke6 4. Nd8+ $1 (4. Nh6 $2 g3) (4. Nh8 $2 Kf6) (4. Ng5+ $2 Kf5 5. Nf7 g3 6. Nd6+ Kf4 7. Nb5 g2 8. Nc3 g1=Q+) Kd7 5. Nf7 $1 (5. Nb7 $2 g3 6. Nc5+ Ke8 7. Ne4 g2) Ke6 6. Nd8+ $1 (6. Nh6 $2 g3) (6. Ng5+ $2 Kf5 7. Nf7 g3 8. Nd6+ Kf4 9. Nb5 g2 10. Nc3 (10. Nd4 g1=Q) g1=Q+) Kf5 (Ke5 7. Nc6+) 7. Nc6 Ke4 8. Nd8 $1 g3 9. Ne6 $1 (9. Nf7 $2 Kf4 $1) Kf3 10. Nd4+ $1 (10. Ng5+ $2 Kg4) Kf2 11. Ne6 $1 Kf3 12. Nd4+ Kf2 13. Ne6 g2 14. Nf4 $1 g1=Q 15. Nh3+ 1/2-1/2
+
+[Event "2.hm Schach Echo#11014"]
+[Source "Schach Echo/8 EG#08347."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Richter, Rolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5K2/5P2/4N3/5k2/8/8/8/4q3 w - - 0 1"]
+
+1. Nf4 $1 (1. Ng7+ $2 Kg6 $1 2. Kg8 Qe5 $1 3. f8=Q (3. f8=N+ Kh6 4. Nfe6 Qf6 $1 5. Kh8 Qf7) Qd5+ 4. Kh8 Qh1+ 5. Kg8 Qh7#) (1. Kg7 $2 Qg3+ 2. Kh8 Qh4+ 3. Kg8 Qg4+ 4. Ng7+ (4. Kh8 Qh5+ 5. Kg8 Kg6 6. Nf8+ Kh6) Kg6 5. f8=N+ Kh6) Kf6 2. Nd5+ (2. Nh5+ $2 Kg6 $1 3. Nf4+ Kh6 $1) Kg6 (Ke5 3. Kg7 $1 Qg3+ 4. Kh7 Qh4+ 5. Kg7 Qg5+ 6. Kh7 Qf5+ 7. Kg7 $1 Qd7 8. Kg8 Qxd5 9. Kh8 $1) (Kg5 3. Kg8 Qe6 4. Nf4 $1 Qb3 5. Kg7 Qc3+ 6. Kg8 Qc4 7. Kg7 Qd4+ 8. Kg8 $1) 3. Ne7+ $1 Kf6 4. Nd5+ (4. Ng8+ $2 Ke6 5. Ke8 Kd6+ 6. Kd8 (6. Kf8 Qe5 $1) Qa5+ 7. Ke8 Qa8#) Kg5 (Ke6 5. Nf4+ Kd7 6. Ng6) 5. Kg8 (5. Nf4 $2 Kh6 $1) (5. Ne7 $2 Qe5 $1 6. Kg8 (6. Ke8 Qb8+ 7. Kd7 Qf8) Qe6) (5. Kg7 $2 Qe5+ $1 6. Kh7 Qf5+ 7. Kg7 Qg6+ 8. Kf8 Kh6 $1) Qe6 6. Nf4 (6. Kg7 $2 Qe5+) (6. Nc7 $2 Qg6+ 7. Kf8 Qc6 $1 8. Kg8 Kg6 9. f8=N+ Kf6 $1) Kxf4 (Qa2 7. Kg7 $1) 7. Kh8 Qc8+ 8. Kg7 Qd7 9. Kh8 (9. Kg8 $2 Kg5 10. f8=Q Kg6 $1) Qd8+ 10. Kg7 Qd7 11. Kh8 Qxf7 1/2-1/2
+
+[Event "The Problemist#0436 (c)"]
+[Source "The Problemist/3 (c): Krug=P Estudios Artisticos de Ajedrez - XV-65 2015."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Richter, Rolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1B4B1/K7/8/8/4kb2/2p5/p7/7N w - - 0 1"]
+
+1. Nf2+ $1 (1. Bxa2 $2 Be3+) Kd4 2. Bxa2 Bxb8+ 3. Ka8 c2 4. Nd3 Kxd3 5. Bb1 cxb1=Q 1/2-1/2
+
+[Event "Schach#11639a (tw)"]
+[Source "Schach/4"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Richter, Rolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4N3/8/3K4/4N3/8/2p5/2p5/2k5 w - - 0 1"]
+
+1. Nc4 $1 (1. Nd3+ $2 Kd2 2. Nc5 c1=Q 3. Nb3+ Kd1 4. Nxc1 Kxc1 5. Nc7 c2 6. Nd5 Kd2 7. Nb4 c1=Q) Kd1 (Kb1 {<main>} 2. Na3+ Kb2 3. Nxc2 Kxc2 4. Nc7 Kb3 (Kb1 5. Nb5 c2 6. Na3+) 5. Nb5 c2 6. Nd4+) 2. Ne3+ Kd2 3. Nxc2 Kxc2 4. Nc7 Kd3 (Kd1 5. Nd5 c2 6. Ne3+) 5. Nd5 c2 6. Nb4+ 1/2-1/2
+
+[Event "Schach#11639b (tw)"]
+[Source "Schach/4"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Richter, Rolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4N3/8/2K5/4N3/8/2p5/2p5/2k5 w - - 0 1"]
+
+1. Nd3+ $1 (1. Nc4 $2 Kd1 2. Ne3+ Kd2 3. Nxc2 Kxc2 4. Nc7 Kd2 5. Nb5 c2 6. Nd4 c1=Q+ $1) Kd2 2. Nc5 c1=Q 3. Nb3+ Kd1 4. Nxc1 Kxc1 5. Nd6 c2 6. Nc4 Kd1 (Kb1 {<main>} 7. Na3+) 7. Ne3+ 1/2-1/2

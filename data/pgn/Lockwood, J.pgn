@@ -1,0 +1,13 @@
+[Event "Tijdschrift v.d. KNSB#062 (@2)"]
+[Source "Tij@schrift v.d. KNSB/8 î2: Ulrichsen=J HHdbIII#63041 13-2-2003."]
+[Date "1907.??.??"]
+[Round "?"]
+[Composer "Lockwood, J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/1pN1K3/p7/PPk5/8 w - - 0 1"]
+
+1. bxa3 $1 bxa3 2. Kd4 Kb1 3. Kc3 Kxa2 4. Kc2 Ka1 5. Na5 (5. Nd2 $1 {<minor dual JU>}) Ka2 6. Nc6 Ka1 7. Nd4 Ka2 8. Ne2 Ka1 9. Nc1 a2 10. Nb3# 1-0

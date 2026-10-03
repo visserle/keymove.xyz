@@ -1,0 +1,12 @@
+[Event "De Tijd"]
+[Date "1953.06.13"]
+[Round "?"]
+[Composer "Sterkenburg, S"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5B2/1p6/1k1p1N2/1p6/1K6/8/6p1/8 w - - 0 1"]
+
+1. Bh6 $1 g1=Q 2. Be3+ Qxe3 3. Nd5+ Kc6 4. Nxe3 1/2-1/2

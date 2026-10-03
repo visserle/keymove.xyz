@@ -1,0 +1,39 @@
+[Event "16.p Russian Federation Team champ (tt)"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Dudakov, Mijal Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5pp1/1kPP4/8/8/1K6/8/8 w - - 0 1"]
+
+1. d7 $1 Kc7 2. Kc4 g5 $1 3. Kd5 g4 4. Ke4 f6 5. Ke3 f5 6. Kf4 Kd8 7. Kxf5 (7. Ke5 $2 Ke7 8. Kf4 Kd8) g3 8. Ke6 g2 9. Kd6 g1=Q 10. c7# 1-0
+
+[Event "Wolgogradskaya Pravda"]
+[Source "EG#16153."]
+[Date "1969.01.18"]
+[Round "?"]
+[Composer "Dudakov, Mijal Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6pK/8/8/8/1P5p/2N5/1B1kNb2 w - - 0 1"]
+
+1. Nf3 $1 (1. Ne3+ $2 Kxe1 2. Nxf1 Kxf1 3. Kxg7 h2 4. Be4 Ke2 5. b4 (5. Kf6 Kd2 6. b4 Kc3 7. b5 Kd4 8. Kf5 Kc5 9. Bc6 h1=Q 10. Bxh1 Kxb5) Ke3 6. Bh1 Kd4) Bd3+ 2. Kg8 (2. Kxg7 $2 Bxc2 3. Bxc2+ Kxc2 4. b4 Kd3 5. b5 Ke4 6. b6 Kxf3 7. b7 h2 8. b8=Q Kg2) Bxc2 (g5 3. Nh2 Ke2 4. Nd4+ Ke3 5. Bxd3 Kxd3 6. Nc2 Ke4 7. b4 Kf4 8. b5 g4 9. b6 g3 10. b7 gxh2 11. b8=Q+) 3. Bxc2+ Kxc2 4. b4 Kd3 (g5 5. Nh2 Kd2 6. b5) 5. b5 Ke4 6. b6 (6. Ng5+ $2 Kd5 7. Nxh3 Kc5) Kxf3 7. b7 h2 8. b8=Q h1=Q 9. Qb7+ (9. Qa8+ {<or>}) 1-0
+
+[Event "1.hm Wolgogradskaya Pravda"]
+[Date "1970.01.31"]
+[Round "?"]
+[Composer "Dudakov, Mijal Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2k5/6P1/6b1/1B2K3/3P4/7n w - - 0 1"]
+
+1. g6 $1 Ng3 2. Kf4 Bf5 3. g7 Nh5+ (Be6 4. Bxe6 Nh5+ 5. Ke5 Nxg7 6. Bf7 Kc5 7. d3 Kc6 8. d4 Kb5 9. Kf6) 4. Kxf5 Nxg7+ 5. Kg6 Ne8 6. Ba4+ Kc5 7. Bxe8 Kc4 8. Bb5+ $1 Kxb5 9. Kf5 Kc4 10. Ke4 1-0

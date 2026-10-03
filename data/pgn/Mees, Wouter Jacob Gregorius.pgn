@@ -1,0 +1,311 @@
+[Event "De Schaakwereld#283"]
+[Date "1939.07.28"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/2k5/5pKp/6pp/2N5/8 w - - 0 1"]
+
+1. Kxh3 $1 f3 2. Ne1 f2 3. Nd3+ Kd4 4. Nxf2 gxf2 5. Kg2 Ke3 6. Kf1 h3 (Kf3) 1/2-1/2
+
+[Event "De Schaakwereld#285"]
+[Date "1939.08.11"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "NN4K1/8/8/3k4/3P4/8/8/8 w - - 0 1"]
+
+1. Nc6 $1 Kxc6 2. Nb6 (2. Nc7 $2 Kxc7) Kxb6 3. Kf7 Kc6 4. Ke6 1-0
+
+[Event "De Schaakwereld#310a (tw)"]
+[Date "1939.11.10"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1P6/k1r5/8/1K6/6P1/8/8 w - - 0 1"]
+
+1. b8=N+ $1 (1. b8=Q $2 Rb6+ 2. Qxb6+ Kxb6) Kb6 2. Nxc6 Kxc6 3. Kc4 1-0
+
+[Event "Tijdschrift v.d. KNSB#348 (tw)"]
+[Source "Tijdschrift v.d. KNSB/11"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5K2/p4P2/P4p2/5k2/8/8 w - - 0 1"]
+
+1. Ke5 $1 (1. Kg5 $2 Kg3 2. f6 f3 3. f7 f2 4. f8=Q Kg2 5. Qa8+ (5. Qxf2+ Kxf2 6. Kf4 Kg2) Kg1 6. Qa7) Ke3 2. f6 f3 3. f7 f2 4. f8=Q Ke2 5. Kd5 f1=Q 6. Qxf1+ Kxf1 7. Kc5 Ke2 8. Kb5 Kd3 9. Kxa5 Kc4 10. Kb6 1-0
+
+[Event "Tijdschrift v.d. KNSB#332 (tw)"]
+[Source "Tijdschrift v.d. KNSB/5-6"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6K1/6P1/p5p1/P5k1/8/8 w - - 0 1"]
+
+1. Kf5 $1 (1. Kh5 $2 Kh3 2. g6 g3 3. g7 g2 4. g8=Q g1=Q 5. Qxg1) Kf3 2. g6 g3 3. g7 g2 4. g8=Q Kf2 5. Qa2+ Kf1 6. Qc4+ Kf2 { <eg>} 7. Qxa4 g1=Q 8. Qd4+ 1-0
+
+[Event "Tijdschrift v.d. KNSB#332 (tw)"]
+[Source "Tijdschrift v.d. KNSB/5-6"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6K1/6P1/p5p1/6k1/P7/8 w - - 0 1"]
+
+1. Kh5 $1 (1. Kf5 $2 Kf3 2. g6 g3 3. g7 g2 4. g8=Q Kf2) Kh3 2. g6 g3 3. g7 g2 4. g8=Q Kh2 5. Qb8+ Kh1 6. Qa8 Kh2 {<eg>} 7. Qxa4 g1=Q 8. Qh4+ 1-0
+
+[Event "De Schaakwereld#349"]
+[Date "1940.04.08"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2p1k3/4P2P/1p1p4/8/8/1KN3b1 w - - 0 1"]
+
+1. h6 $1 Bh2 (Kf7 2. e6+) 2. Nd3 Bxe5 $1 3. Nxe5 Kf6 4. Kc1 $1 c5 5. Kc2 (5. Kd2 $2 b3 $1 6. Kc1 d3) (5. Kb2 $2 d3 6. Kc1 (6. Kb1 b3 7. Kc1 c4) b3) c4 6. Kc1 c3 (b3 7. Kb2) (d3 7. Kd2) 7. Kc2 b3+ (d3+ 8. Kxd3) 8. Kxb3 1-0
+
+[Event "source unknown"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4k3/4P2P/8/8/8/5K1n w - - 0 1"]
+
+1. h6 $1 Ng3+ 2. Ke1 $1 Kf7 3. e6+ 1-0
+
+[Event "De Schaakwereld"]
+[Date "1941.10.23"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/6kN/4p3/7K w - - 0 1"]
+
+1. Ng1 $1 e1=Q 1/2-1/2
+
+[Event "De Schaakwereld"]
+[Date "1941.10.23"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/7N/8/5k2/5p2/7K w - - 0 1"]
+
+1. Ng3 $1 Kxg3 1/2-1/2
+
+[Event "De Schaakwereld"]
+[Date "1941.10.23"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "N4K2/1k6/5p2/8/8/8/8/8 w - - 0 1"]
+
+1. Ke7 $1 f5 2. Kd6 f4 (Kxa8 3. Ke5) 3. Nc7 f3 4. Nd5 f2 5. Ne3 1/2-1/2
+
+[Event "sp.p De Schaakwereld"]
+[Date "1941.10.23"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/3KP2k/8/8/8/7n w - - 0 1"]
+
+1. e6 $1 Kg6 2. Kc6 (2. Kd6 $2 Ng3 3. e7 Nf5+) Kf6 (Kg7 {<main>} 3. e7 $1 (3. Kd7 $2 Ng3 4. e7 Ne4 5. e8=Q Nf6+) Kf7 4. Kd7) 3. Kd7 (3. Kd6 $2 Ng3 4. e7 Nf5+) Ng3 4. e7 Ne4 5. e8=Q 1-0
+
+[Event ".p Tijdschrift v.d. KNSB#420 (tt) (c)"]
+[Source "Tijdschrift v.d. KNSB/1 (c): Garcia=M Estudios Artisticos de Ajedrez - VII-30 2012."]
+[Date "1942.??.??"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/N3n3/1Pp3p1/p1P3Pr/2P5/8/p1K3P1/k7 w - - 0 1"]
+
+1. b7 $1 Rh8 2. Nc8 Rxc8 3. bxc8=Q Nxc8 4. g3 (4. g4 $2 Na7 5. Kc1 a4 6. Kc2 Nb5 7. cxb5 cxb5 8. c6 b4 9. c7 b3+ 10. Kd2 Kb2 11. c8=Q a1=Q) Ne7 5. g4 Nc8 6. Kc1 Na7 7. Kc2 a4 8. Kc1 Nb5 9. cxb5 cxb5 10. c6 b4 11. c7 b3 12. c8=Q 1/2-1/2
+
+[Event "1/2.p Tijdschrift v.d. KNSB#029 (v)"]
+[Source "Tijdschrift v.d. KNSB/12 (v): EBUR/3 1995."]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K2/8/7P/7k/8/8/P4n1P/5r2 w - - 0 1"]
+
+1. h7 $1 Ng4+ (Ne4+ 2. Ke7) 2. Ke7 (2. Kg7 $2 Nh6 3. h8=Q Rf7#) Re1+ 3. Kd8 Re8+ 4. Kxe8 Nf6+ 5. Ke7 Nxh7 6. h4 Kxh4 7. a4 Ng5 8. Kd6 Nf3 9. Kd5 1-0
+
+[Event "Le Monde des Échecs#20 (c)"]
+[Source "Le Monde des Échecs/6 (c): Mees=W EBUR=3 9/1995."]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/2P2k2/2K5/8/8/6n1 w - - 0 1"]
+
+1. c6 $1 Ke6 2. Kb5 Nh3 (Nf3 3. Ka6 (3. Kb6 $2 Nd2 4. c7 Nc4+ 5. Kc6 Nd6)) 3. Ka6 (3. Kb6 $2 Nf4 4. c7 Nd5+) 1-0
+
+[Event "source unknown"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B6/P7/P7/8/4b1K1/8/8/7k w - - 0 1"]
+
+1. Bg3 $1 Kg1 (Kg2 2. Kf4 Bf3 3. Bh4) 2. Kf4 Bh1 3. Ke5 Kf1 4. Kd6 Ke2 5. Kc7 Kd3 6. Kb8 Kc4 7. a8=Q Bxa8 8. Kxa8 Kb5 9. a7 1-0
+
+[Event "1/2.hm Tijdschrift v.d. KNSB#576"]
+[Source "Tijdschrift v.d. KNSB/3"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1p6/1P3P2/5Pk1/2K1P3/6b1/8 w - - 0 1"]
+
+1. f6 $1 Bd5 2. Kd4 Bg8 $1 3. Ke4 $1 Ba2 (Kg3 4. Kf5 Kf3 5. Kg6 Kxe3 6. f7 Bxf7+ 7. Kxf7) (Bf7 4. Ke5 Kf3 5. Kd6 Kxe3 6. Ke7 Bc4 7. f7 Bxf7 8. Kxf7) (Bc4 4. Ke5 Kf3 5. Kd6 Kxe3 6. Kc6 Kxf4 7. Kxb6 Ke5 8. Kc5) 4. Ke5 Kf3 5. Kd6 Kxe3 6. Kc6 (6. Kc7 {<or>}) Kxf4 7. Kxb6 Ke5 8. Kc5 Ke6 9. f7 $1 (9. b6 {<or>} Bd5 10. f7) Kxf7 10. b6 1-0
+
+[Event "8.p International Friendship Team ty (t"]
+[Source "EG#00186b."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/2K5/8/2p3N1/6kB/6N1 w - - 0 1"]
+
+1. Nf3 $1 Kxf3 (c2 2. Ne2) 2. Nf5 (2. Nh5 $2 c2 3. Bf4 Kg4) c2 (Ke2 3. Nd4+ Kd1 4. Bf4 c2 5. Nb3) 3. Nd4+ Kg2 4. Bf4 1-0
+
+[Event "8.p International Friendship Team ty (t"]
+[Source "EG#00186a."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/2K5/8/6Np/6kB/6N1 w - - 0 1"]
+
+1. Nf1 $1 (1. Nf3 $2 Kxf3 2. Kd4 Kg2 3. Ke3 Kxh2 4. Kf2) Kxf1 2. Kd4 Kg2 3. Ke3 Kxh2 4. Kf2 Kh1 5. Ne2 Kh2 6. Nd4 Kh1 7. Nf5 Kh2 8. Ne3 Kh1 9. Nf1 h2 10. Ng3# 1-0
+
+[Event "8.p International Friendship Team ty (t"]
+[Source "EG#00186c."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/2K5/1p6/6N1/6kB/6N1 w - - 0 1"]
+
+1. Nf3 $1 Kxf3 2. Nh5 (2. Nf5 $2 b3 3. Nd4+ Kg2) b3 3. Be5 1-0
+
+[Event "1.c Schakend Nederland#0786"]
+[Source "Schakend Nederland/4"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6p1/5pP1/8/6P1/6P1/k5K1 w - - 0 1"]
+
+1. Kf2 $1 Kb2 2. Ke3 Kc3 3. g4 fxg4 (f4+ 4. Ke4 Kc4 5. Ke5 Kd3 6. Kf6 Ke2 7. Kxg6) 4. g3 Kc2 5. Kd4 (5. Ke4 {<or>} Kd2 6. Ke5) (5. Kf4 {<or>} Kd3 6. Ke5 Ke3 7. Kf6) Kd2 6. Ke5 Ke2 7. Kf6 Kf2 8. Kxg6 Kxg3 9. Kf5 $1 (9. Kh5 $2 Kh3 $1 10. g6 g3 11. g7 g2 12. g8=Q (12. g8=R Kh2 $1) g1=Q 13. Qxg1) Kf3 10. g6 g3 11. g7 g2 12. g8=Q Kf2 (g1=Q 13. Qxg1) 13. Qa2+ 1-0
+
+[Event "1.p Schakend Nederland#0850"]
+[Source "Schakend Nederland/10"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k1N3/1pPp4/P1n5/5K2/1P6/8/8/8 w - - 0 1"]
+
+1. b5 $1 Nd4+ 2. Kf4 (2. Ke4 $2 Nxb5 3. Nd6+ Nxd6+) Nxb5 (bxa6 3. b6) (Ne6+ 3. Ke5 Nxc7 4. Nxc7 bxa6 5. Nxa6 Kb7 6. Kd5 Kb6 7. Kc4 d5+ 8. Kb4 d4 9. Nc5) 3. Nd6+ Kxc7 4. Nxb5+ Kb8 5. a7+ Ka8 6. Ke5 b6 (d6+ 7. Kd5 b6 8. Kc6) (d5 7. Kd6 b6 8. Kc7 d4 9. Kxb6 d3 10. Nc7#) 7. Kd5 $1 Kb7 8. Kd6 $1 Ka8 9. Kc7 d5 10. Kxb6 d4 11. Nc7# 1-0
+
+[Event "2.p En Passant"]
+[Source "EG#06843."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Mees, Wouter Jacob Gregorius"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/3Rp2k/1bP5/7p/p4P1K/8 w - - 0 1"]
+
+1. Rd1 $1 Bc3 2. c5 a1=Q 3. Rxa1 Bxa1 4. c6 e4 5. f4 exf3 6. Kxh3 (6. c7 $2 f2 7. c8=Q Be5+ 8. Kxh3 f1=Q#) (6. Kg3 $2 h2 7. Kxh2 Kg4 8. c7 Be5+) Be5 7. c7 Bxc7 1/2-1/2

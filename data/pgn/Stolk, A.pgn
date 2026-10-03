@@ -1,0 +1,27 @@
+[Event "Tijdschrift v.d. KNSB#118"]
+[Source "Tijdschrift v.d. KNSB/9"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Stolk, A"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/3p2pP/6P1/p6B/3P4/P7/4K3/8 w - - 0 1"]
+
+1. Kf2 $1 (1. Bf3 $2 d5 $1 2. Be4 a4 $1) a4 2. Be2 d5 3. Bc4 $1 dxc4 4. d5 1-0
+
+[Event "Tijdschrift v.d. KNSB#401"]
+[Source "Tijdschrift v.d. KNSB/10"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Stolk, A"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/3pp2N/P3k3/8/2P4K/4n3 w - - 0 1"]
+
+1. a5 $1 Nf3+ 2. Kg2 Nd4 (Ng5 3. Ng7) (Nh4+ 3. Kh3 Nf3 4. a6 Ng5+ 5. Kg3 Ne6 6. Nf6+ Kd4 7. Ne8) (Nd2 3. Nf6+ Kd4 4. Nd7 Nc4 5. a6) 3. Ng3+ Kf4 (Ke3 4. Nf5+) 4. Ne2+ Nxe2 5. a6 1-0

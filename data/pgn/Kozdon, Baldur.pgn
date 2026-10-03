@@ -1,0 +1,16 @@
+[Event "?"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[Composer "Kozdon, Baldur"]
+[Composer2 "Rinder, Gerd"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Draws by perpetual check or by repetition"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/8/2b2p2/8/8/3R4/6r1/1k2B2K w - - 0 1"]
+
+1. Rd1+ (1. Rd6 $2 Ba8 2. Rd1+ Kb2) (1. Rh3 $2 f5 2. Ba5 Ra2+) (1. Bg3 $2 Rxg3+ 2. Rd5 Bxd5+ 3. Kh2 Rg2+) (1. Bh4 $2 Rg3+ 2. Rd5 Bxd5+ 3. Kh2 Rf3 4. Bxf6 Rxf6) (1. Rd7 $2 Rg4+ 2. Rd5 Bxd5+ 3. Kh2 Kc1) (1. Rd2 Rxd2+ 2. Kg1 Rg2+) (1. Rd5 Bxd5) (1. Rd4 Rd2+ 2. Kg1 Rxd4) Ka2 (Kc2 2. Rd6 Bb7 3. Rb6 $10) (Kb2 2. Rd6 (2. Bc3+ $2 Kxc3 3. Rd3+ Kb2 $19 4. Rb3+ Ka2) (2. Rd7 $2 Rg4+ 3. Rd5 Bxd5+ 4. Kh2 Kc2) (2. Bf2 $2 Rxf2+ 3. Kg1 Rc2) (2. Rd5 $2 Bxd5 3. Bc3+ Kc2) (2. Ba5 $2 Rd2+ 3. Kg1 Rxd1+ 4. Kf2 Rd3 5. Bc3+ Kxc3) (2. Ra1 $2 Kxa1 3. Bc3+ Kb1) (2. Rc1 $2 Kxc1 3. Bd2+ Kd1) (2. Bd2 Rxd2+ 3. Kg1 Rxd1+ 4. Kf2 Rd3) Ba8 3. Ra6 (3. Rb6+ Ka1 4. Bc3+ $10) (3. Rd8 $2 Rg8+ 4. Rxa8 Rxa8 $19 5. Bc3+ Kxc3) (3. Rxf6 $2 Rf2+ 4. Kg1 Rxf6 $19 5. Bc3+ Kxc3) (3. Rd2+ $2 Rxd2+ 4. Kg1 Rg2+) (3. Bf2 $2 Rxf2+ 4. Kg1 Rf3) (3. Bh4 $2 Rd2+ 4. Kg1 Rxd6 5. Bxf6+ Rxf6) (3. Bc3+ $2 Kxc3 4. Rd3+ Kc4 5. Rc3+ Kd4) (3. Re6 $2 Re2+ 4. Kg1 Rxe6) Bd5 4. Rd6 (4. Rb6+ Ka3 5. Bb4+ $10) (4. Ra5 $2 Be4 $19 5. Ra2+ Kxa2) (4. Bc3+ $2 Kxc3 5. Ra3+ Kc2 $19) (4. Rc6 $2 Bxc6 5. Bc3+ Kc2) (4. Bh4 $2 f5 5. Bf6+ Kb3) (4. Ra4 $2 Rg4+ 5. Kh2 Rxa4 6. Bc3+ Kxc3) (4. Bb4 $2 Kb3 5. Ra3+ Kxb4 6. Ra4+ Kb3) (4. Rxf6 $2 Rf2+ 5. Kg1 Rxf6) (4. Ra7 $2 Rg7+ 5. Kh2 Rxa7) Be4 5. Re6 (5. Rb6+ Ka1 6. Bc3+ $10) (5. Rd4 $2 Ba8 6. Rd2+ Rxd2+ 7. Kg1 Rg2+) (5. Rxf6 $2 Rf2+ 6. Kg1 Rxf6 7. Bc3+ Kxc3) (5. Rd2+ $2 Rxd2+ 6. Kg1 Rg2+) (5. Bc3+ $2 Kxc3 6. Rc6+ Kd2) (5. Bh4 $2 Rd2+ 6. Kg1 Rxd6) (5. Rc6 Bxc6 6. Bc3+ Kc2) Re2+ 6. Kg1 (6. Rxe4 $2 Rxe4 $19 7. Bc3+ Kxc3) Rxe1+ 7. Kf2 $1 $10 (7. Kh2 $2 f5 8. Kg3 Rf1)) 2. Rd6 (2. Rc1 $2 Rc2+ 3. Kg1 Rxc1 $19) (2. Rd2+ $2 Rxd2+ 3. Kg1 Rg2+ $19) (2. Ra1+ $2 Kxa1 3. Bc3+ Kb1) (2. Rd7 $2 Rg4+ 3. Rd5 f5 4. Bc3 f4) (2. Bb4 $2 Rd2+ 3. Kg1 Rxd1+ 4. Kf2 f5 5. Ke2 Rd4) (2. Bc3 $2 Rd2+ 3. Kg1 Rxd1+ 4. Kf2 Rd3) (2. Rd8 $2 Rd2+ 3. Kg1 Rxd8) (2. Rd5 Bxd5) (2. Rd4 Rg4+ 3. Kh2 Rxd4) Bb7 (Be4 3. Rd4 $10) 3. Ra6+ (3. Rd2+ $2 Rxd2+ 4. Kg1 Rg2+) (3. Bb4 $2 f5 4. Ra6+ Kb3 5. Ra3+ Kc4) (3. Re6 $2 Re2+ 4. Kg1 Rxe6) (3. Bf2 $2 Rxf2+ 4. Kg1 Rf3 5. Rxf6 Rxf6) (3. Rd1 $2 Rd2+ 4. Kg1 Rxd1) (3. Bg3 $2 Rxg3+ 4. Kh2 Rf3) (3. Rd4 Rg4+ 4. Kh2 Rxd4) (3. Rd3 Rg3+ 4. Rd5 Bxd5+ 5. Kh2 Rf3) Kb1 4. Ra7 (4. Rb6+ $2 Rb2+ 5. Rxb7 Rxb7 $19) (4. Ra5 $2 Re2+ 5. Kg1 Rxe1+ 6. Kf2 Re5 7. Ra1+ Kxa1) (4. Bc3 $2 Rg4+ 5. Rc6 Bxc6+ 6. Kh2 Bd7) (4. Ra1+ $2 Kxa1 5. Bc3+ Kb1) (4. Rd6 Rd2+ 5. Kg1 Rxd6) (4. Ra3 Rg3+ 5. Kh2 Rxa3) (4. Ra2 Kxa2) (4. Bd2 Rxd2+ 5. Kg1 Bxa6) Bc6 5. Ra6 (5. Rc7 $2 Ba8 $19 6. Rb7+ Bxb7) (5. Rf7 $2 Rg7+ 6. Kh2 Rxf7) (5. Ra1+ $2 Kxa1 6. Bc3+ Kb1) (5. Bc3 $2 Ra2+ 6. Kg1 Rxa7) (5. Ra5 $2 Re2+ 6. Kg1 Rxe1+ 7. Kf2 Re6) (5. Re7 Rg7+ 6. Kh2 Rxe7) (5. Ra4 Rg4+ 6. Kh2 Bxa4) Bd5 6. Ra5 (6. Ba5 $10) (6. Rd6 $2 Ba8 7. Rd1+ Kb2) (6. Rb6+ $2 Rb2+ 7. Kg1 Rxb6 $19) (6. Bc3 $2 Ra2+ 7. Kg1 Rxa6 8. Bxf6 Rxf6) (6. Ra4 $2 Rg4+ 7. Kh2 Rxa4) (6. Rxf6 $2 Rf2+ 7. Kg1 Rxf6) (6. Ra7 Ra2+ 7. Kg1 Rxa7) (6. Re6 Re2+ 7. Kg1 Bxe6) Be4 7. Ra4 (7. Ra3 $2 Rg3+ 8. Kh2 Rxa3) (7. Rb5+ $2 Rb2+ 8. Kg1 Rxb5) (7. Rf5 Rg6+ 8. Kh2 Bxf5) (7. Rh5 Rg5+ 8. Kh2 Rxh5+ 9. Kg3 Kc2) Re2+ 8. Kg1 Rxe1+ 9. Kf2 $10 1/2-1/2

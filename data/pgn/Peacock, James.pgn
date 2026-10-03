@@ -1,0 +1,41 @@
+[Event "British Chess Magazine#0778"]
+[Source "British Chess Magazine/11"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Peacock, James"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2K2P2/8/8/8/1p6/1p3k1p/8 w - - 0 1"]
+
+1. f8=Q+ $1 Kg1 2. Qg7+ Kf1 (Kh1 3. Qg6) 3. Qf6+ Kg1 4. Qg6+ Kf1 5. Qb1+ Kg2 6. Qxb2+ Kg1 7. Qc1+ Kg2 8. Qd2+ Kg1 9. Qe1+ Kg2 10. Qe4+ Kg3 (Kf2 11. Qh1) 11. Kd6 b2 12. Ke5 b1=Q 13. Qxb1 Kg2 14. Qe4+ Kg1 15. Qe1+ Kg2 16. Qe2+ Kg1 17. Kf4 h1=Q 18. Kg3 1-0
+
+[Event "British Chess Magazine#0786a (tw)"]
+[Source "British Chess Magazine/1"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Peacock, James"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7P/8/8/K6k/2p5/2p4p/8 w - - 0 1"]
+
+1. h8=Q+ $1 Kg3 2. Qg7+ Kf2 (Kf3 3. Qf6+) 3. Qf6+ Kg2 4. Qg5+ Kf2 5. Qc1 Kg2 (Kf3 6. Kb3) 6. Qxc2+ Kg1 (Kh3 7. Qd3+ Kg2 8. Qe4+ Kf2 9. Qh1) 7. Qd1+ Kg2 (Kf2 8. Qh1) 8. Qg4+ Kf2 9. Qh3 Kg1 10. Qg3+ Kh1 11. Qf2 c2 12. Qf1# 1-0
+
+[Event "British Chess Magazine#0786b (tw)"]
+[Source "British Chess Magazine/1"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Peacock, James"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7P/3K4/8/8/2p4k/2p4p/8 w - - 0 1"]
+
+1. h8=Q+ $1 Kg2 2. Qg7+ Kf3 3. Qh6 Ke4 4. Kc5 Kd3 (Kf3 5. Qc1 Kg2 6. Qxc2+) 5. Qc1 h1=Q 6. Qxh1 Kd2 7. Qd5+ Kc1 8. Kb4 Kb2 9. Qb3+ Ka1 {<eg>} 10. Qa3+ 1-0

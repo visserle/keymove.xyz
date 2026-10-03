@@ -1,0 +1,27 @@
+[Event "Jerusalem Post (m)"]
+[Source "EG#06994. (m): Hoch=Y Variantim=2 5-8/1988."]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Zakon, Eliyahu"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5P1p/8/7P/1p3p2/1p3kpP/1P6/1K6 w - - 0 1"]
+
+1. f8=Q $1 g2 2. Qg7 (2. Qc5 $2 Kg3 3. Ka1 Kh2 4. Qf2 h6 (f3 $2 5. h6) 5. Kb1 f3 6. h4 Kh1 7. Qxf3 Kh2 8. Qf4+ Kh3 9. Qxh6 g1=Q+ 10. Qc1 Qf2) Kf2 3. Qd4+ Kg3 4. Ka1 Kh2 5. Qxf4+ Kh1 6. Qe4 Kh2 7. Qe5+ Kh1 8. Qd5 Kh2 9. Qd6+ Kh1 10. Qc6 Kh2 (h6 {<main> } 11. Kb1 Kh2 12. Qd6+ Kh1 13. Qxh6 g1=Q+ 14. Qc1) 11. Qc7+ Kh1 12. Qxh7 g1=Q+ 13. Qb1 1-0
+
+[Event "Jerusalem Post"]
+[Source "EG#06993.1.p Israel Ring ty 1945-1962."]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Zakon, Eliyahu"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/8/7P/1p6/1p5P/1P2Q1pk/1K6 w - - 0 1"]
+
+1. Ka1 $1 Kh1 2. Qe4 Kh2 3. Qe5+ Kh1 4. Qd5 Kh2 5. Qd6+ Kh1 6. Qc6 $1 Kh2 (h6 {<main>} 7. Kb1 $1 Kh2 8. Qd6+ Kh1 9. Qxh6 g1=Q+ 10. Qc1) 7. Qc7+ Kh1 8. Qxh7 g1=Q+ 9. Qb1 $1 1-0

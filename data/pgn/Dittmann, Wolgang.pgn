@@ -1,0 +1,13 @@
+[Event "Deutsche Schachzeitung#430"]
+[Source "Deutsche Schachzeitung/5"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Dittmann, Wolgang"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/pP1K4/1r2P3/2N5/8/1n6/4k3/8 w - - 0 1"]
+
+1. Kc8 $1 (1. Ne4 $2 Rxb7+) (1. e7 $2 Nxc5+ 2. Kc8 Rc6+ 3. Kd8 (3. Kb8 Re6) Nxb7+ 4. Kd7 Rd6+) (1. Kc7 $2 Nxc5 2. b8=Q Nxe6+) Nxc5 2. b8=Q (2. e7 $2 Nxb7) Rxb8+ 3. Kxb8 a5 $1 4. e7 $1 Nd7+ 5. Kc7 Nf6 6. Kd6 a4 7. Ke5 $1 Ne8 8. Kd4 1/2-1/2

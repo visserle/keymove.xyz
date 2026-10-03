@@ -1,0 +1,122 @@
+[Event "2.hm Fizkultura i Sport Committee Ukrai"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Zinchuk, Anatoly Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2N5/8/1K4pP/8/1p6/8/1k6 w - - 0 1"]
+
+1. Kc4 $1 b2 2. Nb5 g4 3. h6 Kc1 4. Nc3 g3 5. h7 b1=Q 6. Nxb1 g2 7. Nc3 Kd2 8. h8=Q g1=Q 9. Qd8+ Ke1 10. Qd1+ Kf2 11. Ne4+ Kg2 12. Qg4+ Kh2 13. Qh4+ Kg2 14. Qg3+ Kh1 15. Qh3+ Qh2 16. Ng3+ Kg1 17. Qf1# 1-0
+
+[Event "Thèmes 64#3526"]
+[Source "Thèmes 64/7-9"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Zinchuk, Anatoly Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1p2P1p1/2P4k/4P3/8/P6r/2K2b2 w - - 0 1"]
+
+1. e7 $1 Bb5 2. cxb6 Rh1+ $1 3. Kb2 (3. Kc2 $2 Kg5 4. e8=Q Bxe8 5. b7 Ba4+ 6. Kc3 Rh8) Kg4 $1 4. e8=Q $1 (4. e8=N $2 Bc6) (4. e8=B $2 Ba6 5. Bxg6 Rh6 6. Bf5+ Kf4) (4. e8=R $2 Rh7 5. Re5 Ba6 6. Ra5 Bb7 7. Ra7 Rh2+ 8. Kc3 Bxe4) Bxe8 5. b7 Rh5 $1 6. e5 $1 Rxe5 $1 7. b8=Q Rb5+ 8. Ka3 Rxb8 (Ra5+ 9. Kb4 Rb5+ 10. Qxb5 Bxb5 11. Kxb5) 1/2-1/2
+
+[Event "Propor Unosti (tw)"]
+[Date "1979.11.15"]
+[Round "?"]
+[Composer "Zinchuk, Anatoly Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7P/8/8/2K1k3/8/6p1/1N6 w - - 0 1"]
+
+1. Nd2+ $1 Kf4 2. h8=Q g1=Q 3. Qf6+ Kg3 4. Qg5+ Kf2 5. Ne4+ Kf1 6. Qf4+ Kg2 7. Qg3+ Kh1 8. Qh3+ Qh2 9. Ng3+ Kg1 10. Qf1# 1-0
+
+[Event "2.p Fizkultura i Sport Committee Ukrain"]
+[Source "EG#04480."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Zinchuk, Anatoly Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1P6/5n2/8/p2k4/8/5K2 w - - 0 1"]
+
+1. b7 $1 a2 2. b8=Q a1=Q+ 3. Kf2 (3. Kg2 $2 Ne3+ 4. Kh3 Qh1+ 5. Qh2 Qf3+ 6. Qg3 Qh5+ 7. Qh4 Qf5+ 8. Kh2 Qf3 9. Qh7+ Kd2 10. Qd7+ Ke1 11. Qh3 Nf1+ 12. Kg1 Ng3 13. Qg2 Ne2+ 14. Kh2 Qf4+ 15. Kh1 Qf5 16. Kh2 Qe5+ 17. Kh1 Qh8+ 18. Qh2 Qg7 19. Qh4+ Kf1 20. Kh2 Qe5+ 21. Kh3 Qe3+ 22. Kg4 Qf4+ 23. Kh3 Ng1#) Qd4+ 4. Kf3 Qe4+ 5. Kf2 Qe2+ 6. Kg1 Qe1+ 7. Kh2 Qh4+ 8. Kg1 Qe1+ 9. Kh2 Qf2+ 10. Kh1 Ng3+ 11. Qxg3+ Qxg3 1/2-1/2
+
+[Event "Duras MT (pl) (@2)"]
+[Source "EG#@5658. = Healey=F g1h3 1874. î2: Pallier=A EG=169 7/2007."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Zinchuk, Anatoly Ivanovich"]
+[White "Zinchuk, A"]
+[Black " Archakov, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2P5/7P/8/k7/r7/1K6 w - - 0 1"]
+
+1. c7 $1 Rb2+ 2. Kc1 Rb4 3. c8=R (3. c8=Q $2 Rc4+ 4. Qxc4) Rh4 4. Rh8 Kb4 5. Kd2 (5. h6 $2 Kc3) Kc5 6. h6 (6. Ke3 $2 Kd5 7. h6 Ke5 8. h7 Kf6) Kc6 7. Ke3 (7. Ke2 $1 {<minor dual AP>}) Kb7 8. Kf3 Rc4 9. Rh7+ (9. h7 $2 Rc3+ 10. Kf4 Rc4+ 11. Ke5 Rc5+ 12. Kd6 Rc6+ 13. Kd5 Rc7 14. Kd4 Rd7+ 15. Ke5 Rc7 16. Kf6 Rc6+ 17. Kg7 Rc7+) Kc6 10. Kg3 1-0
+
+[Event ".c Sarychev JT"]
+[Source "EG#06049."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Zinchuk, Anatoly Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6b1/7n/k7/P7/p7/3K4/8/1B6 w - - 0 1"]
+
+1. Kc3 $1 Nf6 2. Kb4 Nd5+ 3. Ka3 Nc3 4. Kb2 Nd1+ 5. Ka3 Kxa5 (Kb5 6. Bd3+ Kxa5 7. Bc2 Ne3 8. Bxa4) 6. Bc2 Ne3 7. Bxa4 Nc4+ 8. Kb3 Nb6+ 9. Ka3 Nxa4 1/2-1/2
+
+[Event "1.p Ukrain ty"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Zinchuk, Anatoly Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p3nN1/k7/2K5/4B3/n1P5/8/8 w - - 0 1"]
+
+1. Kb4 $1 Nd6 2. Bd3+ Nab5 3. c4 Na7 4. c5+ Ndb5 5. Bxb5+ Nxb5 6. Ne6 b6 7. c6 Nd6 8. Nc7+ Ka7 9. Nb5+ Nxb5 10. Kxb5 Ka8 11. Ka6 Kb8 12. Kxb6 1-0
+
+[Event "1/2.c Ukrain ty"]
+[Source "EG#06519."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Zinchuk, Anatoly Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p3/7R/8/p3K2P/8/p7/1k3B2 w - - 0 1"]
+
+1. Bd3+ $1 Kb2 2. Rb6+ Ka3 3. Rb1 axb1=Q 4. Bxb1 Kb2 5. Bd3 Kc3 6. h5 a3 7. h6 a2 8. h7 a1=Q 9. h8=B+ (9. h8=Q+ $2 e5 10. Qxe5+ Kd2 11. Qxa1) 1-0
+
+[Event "2.hm Ukrain ty"]
+[Source "EG#06517."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Zinchuk, Anatoly Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "b7/1n6/8/6P1/B2K2k1/8/8/8 w - - 0 1"]
+
+1. g6 $1 Nd6 2. Bd7+ Kh5 3. g7 Bd5 4. Kxd5 Ne8 5. Bxe8+ Kh6 6. g8=R (6. g8=Q $2) (6. g8=N+ $2 Kg7 7. Ne7 Kf8) 1-0

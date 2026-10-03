@@ -1,0 +1,27 @@
+[Event "Sach#071"]
+[Source "Sach/9"]
+[Date "1942.??.??"]
+[Round "?"]
+[Composer "Pelikan, Jiri"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/7k/1p2b2N/1p6/P7/K7 w - - 0 1"]
+
+1. Nf5 $1 Bxf5 2. a4 $1 (2. a3 $2 Kg4 3. axb4 (3. a4 Kf4 4. Kb2 Be6 5. a5 Ke5 6. a6 Kd4 7. a7 Bd5 8. a8=Q Bxa8 9. Kxb3 Kc5) Kf4 4. b5 Ke5 5. b6 Kd6) bxa3 1/2-1/2
+
+[Event "Sach#051"]
+[Source "Sach/6"]
+[Date "1942.??.??"]
+[Round "?"]
+[Composer "Pelikan, Jiri"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/7p/q1p4P/6p1/b1p5/P1K4Q/1P2p3/8 w - - 0 1"]
+
+1. Qe3 $1 (1. Qg3 $2 Qa5+ 2. b4 cxb3+ 3. Kb2 Qd2+) Qa5+ 2. b4 cxb3+ 3. Kb2 e1=Q 4. Qxe1 Qxe1 1/2-1/2

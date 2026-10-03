@@ -1,0 +1,25 @@
+[Event "Enroque"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Parenti, Luis Maria"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7r/P1p5/5k2/8/1p6/1p2N3/1P6/2K5 w - - 0 1"]
+
+1. Nd5+ $1 Ke5 2. Nxc7 Kd6 3. a8=Q Rxa8 4. Nxa8 Kc6 5. Kd2 Kb7 6. Kd3 Kxa8 7. Kc4 Kb7 8. Kxb3 $1 1-0
+
+[Event "Enroque"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Parenti, Luis Maria"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4R3/8/7k/K3p3/8/1p6/1Pp1p3/8 w - - 0 1"]
+
+1. Rh8+ $1 Kg5 2. Rh1 Kf4 3. Kb4 Ke3 4. Kc3 e4 (Kf2 5. Kd2) 5. Re1 $1 (5. Rh3+ $2 Kf2 6. Rh2+ Kg1) Kf2 (c1=Q+ 6. Rxc1 Kf2 7. Kd2 e3+ 8. Kd3) 6. Kd2 e3+ 7. Kc1 Kxe1 1/2-1/2

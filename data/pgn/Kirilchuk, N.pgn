@@ -1,0 +1,13 @@
+[Event "Sportivnaya Gazeta"]
+[Source "Sportivnaya Gazeta/6"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Kirilchuk, N"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3K4/7P/8/8/8/pk1N4/8 w - - 0 1"]
+
+1. h7 $1 a1=Q 2. h8=Q+ Ka2 3. Qa8+ Kb2 4. Nc4+ Kb1 5. Qe4+ Ka2 6. Qc2+ Qb2 7. Qxb2# 1-0

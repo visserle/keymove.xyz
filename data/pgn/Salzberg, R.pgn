@@ -1,0 +1,12 @@
+[Event "Shakhmatny Listok#531"]
+[Date "1931.05.30"]
+[Round "?"]
+[Composer "Salzberg, R"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7K/1k1p1p1P/3Pb1P1/5p2/3P1Bn1/8 w - - 0 1"]
+
+1. g5 $1 Nf4 2. g6 Ne6 3. d3 $1 f4 $1 4. g7 Nxg7 5. Kxg7 Bxd3 6. h6 Kc4 $1 7. Bg1 $1 Be4 8. h7 Bxh7 9. Kxh7 Kd3 10. Kg6 Ke2 11. Kf5 Kf1 12. Kxf4 f2 13. Bxf2 Kxf2 14. Ke5 1-0

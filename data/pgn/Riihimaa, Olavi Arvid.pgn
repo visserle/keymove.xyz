@@ -1,0 +1,12 @@
+[Event "Uusi Suomi"]
+[Date "1941.05.25"]
+[Round "?"]
+[Composer "Riihimaa, Olavi Arvid"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5n2/3p4/NPk5/4PK2/8/8/8/8 w - - 0 1"]
+
+1. Nc5 $1 Kxb6 (d5 2. b7 Kc7 3. b8=Q+ $1 Kxb8 4. Nd7+ Nxd7 5. e6) (d6 2. b7 Kc7 3. exd6+) 2. Nxd7+ $1 Nxd7 3. e6 Nc5 (Kc7 4. e7) 4. e7 Nb7 5. Ke5 (5. Ke6 {<or>}) 1-0

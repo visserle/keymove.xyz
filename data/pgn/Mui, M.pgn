@@ -1,0 +1,13 @@
+[Event "Chess Life & Review#1111"]
+[Source "Chess Life & Review/1"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Mui, M"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5R2/6K1/8/6kp/2pp4/8/8/8 w - - 0 1"]
+
+1. Rc8 $1 (1. Rd8 $2 d3 2. Rd4 h4 3. Rxc4 h3 4. Rc1 d2 5. Rd1 h2 6. Rh1 Kg4 7. Rd1 Kf3 $1) c3 2. Rc4 h4 3. Rxd4 h3 4. Rd1 c2 5. Rc1 h2 6. Rh1 Kf4 7. Ra1 Kf3 8. Rc1 $1 Ke3 9. Rh1 $1 1/2-1/2

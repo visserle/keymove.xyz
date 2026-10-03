@@ -1,0 +1,68 @@
+[Event "1.p Nepsavi"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Gratzer, George"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2B5/8/5R2/n1k5/8/p2K3p/1N4q1/8 w - - 0 1"]
+
+1. Na4+ $1 Kb4 (Kd5 2. Nb6+ Ke5 3. Nd7+) 2. Rb6+ Kxa4 3. Bd7+ Nc6 4. Bxc6+ Ka5 $1 (Qxc6 5. Rxc6 Kb3 6. Rb6+ Ka2 7. Kc2 h2 8. Rb1 h1=Q 9. Rxh1) 5. Rb5+ (5. Bxg2 $2 Kxb6 6. Bd5 Kc5) Ka6 6. Bxg2 Kxb5 (a2 {<main>} 7. Rc5 $1 a1=Q 8. Bxh3 Qd1+ 9. Kc4 Qc2+ (Qc1+ 10. Kb4 Qf4+ 11. Kb3 $1) 10. Kb4 Qb2+ 11. Kc4 Qe2+ 12. Kb3 (12. Kb4 $2 Qe7 13. Kc4 Qh4+)) 7. Bf1 $1 Kb4 (a2 8. Kc2+) 8. Kc2 1/2-1/2
+
+[Event "Magyar Sakkélet#0169"]
+[Source "Magyar Sakkélet/12"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Gratzer, George"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/1p3p2/1PpPkP2/8/5P2/8/1PPr4/8 w - - 0 1"]
+
+1. d7 $1 Rxd7 2. f5+ Kd6 3. b4 c5 4. b5 c4 5. c3 $1 1-0
+
+[Event "Magyar Sakkélet#0105 (c)"]
+[Source "Magyar Sakkélet/5 (c): Gratzer=G Selected Chess Compositions G. Grätzer#05a 2008."]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Gratzer, George"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3K4/P3p1p1/6Pp/8/b1P1kP2/4N3 w - - 0 1"]
+
+1. a6 $1 h3 2. Nf3 $1 (2. a7 $2 Bd5 3. Kxd5 h2 4. a8=Q h1=Q+ 5. f3 Qxe1 6. Kxe5 Qg3+ 7. Kf5 Qf4+ 8. Kg6 Kf2 9. Qe4 Kg3 10. Kh5 Kg2 11. Qxf4 gxf4 12. g5 Kxf3) Kxf3 3. a7 Bd5 4. Kxd5 h2 5. Kxe5 $1 Kxg4 6. a8=B $1 (6. a8=Q $2 h1=Q 7. Qxh1) 1-0
+
+[Event "Magyar Sakkélet#0250"]
+[Source "Magyar Sakkélet/10"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Gratzer, George"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k2B4/8/1p5p/8/7Q/K1n5/Pp6/q1Rb4 w - - 0 1"]
+
+1. Qh1+ $1 Ka7 2. Bxb6+ Kxb6 3. Qxh6+ Ka5 4. Qg5+ Nb5+ $1 5. Qxb5+ Kxb5 6. Rxa1 bxa1=N (bxa1=R {<main>} 7. Kb2) (bxa1=Q {<main> }) (bxa1=B {<main>}) 7. Kb2 Nc2 8. Kc1 Ne3 9. Kd2 1/2-1/2
+
+[Event "Magyar Sakkélet#0290"]
+[Source "Magyar Sakkélet/8"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Gratzer, George"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6B1/8/8/7P/2K1n3/3p3N/3p4/7k w - - 0 1"]
+
+1. Nf2+ $1 (1. Bd5 $2 Kg2 $1 (d1=Q $2 2. Nf2+) 2. Bxe4+ Kg3 $1) Nxf2 2. Bd5+ Kh2 3. Bf3 Kg3 $1 4. Bd1 $1 (4. Kc3 $2 Ne4+ $1) Nxd1 5. Kxd3 1/2-1/2

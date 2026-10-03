@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "Terho, Johannes Aleksanteri"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "6k1/6p1/P3K1P1/2b5/8/3R3p/p2P4/8 w - - 0 1"]
+
+1. Ra3 (1. Rd8+ $4 Bf8 2. a7 a1=Q 3. a8=Q Qf6+ $10) (1. a7 $4 a1=Q 2. Rd8+ $10) (1. Rc3 $4 a1=Q 2. Rxc5 Qxa6+ 3. Kd5 h2 $19) (1. Rf3 $4 a1=Q 2. Rxh3 Qxa6+ 3. Kd5 Qd6+ $19) (1. Rd5 $4 a1=Q 2. Rxc5 Qxa6+ 3. Ke5 Qe2+) (1. Kd5 $4 a1=Q 2. Rxh3 Qd4+) h2 (Bxa3 2. a7 (2. d4 $4 h2) a1=Q 3. a8=Q+ (3. a8=R+ Bf8 4. Rxa1 $18) Bf8 4. Qxa1 $1 $18 (4. Qd5 $4 Qa4 5. Ke5+ Kh8 $19) (4. Qb7 $4 Qf6+ 5. Kd7 Qe7+ $19) (4. Kd7 Qxa8) (4. Qxf8+ Kxf8) (4. Qe8 Qe1+ 5. Kd7 Qxe8+ 6. Kxe8 h2) (4. d4 Qxa8) (4. Qf3 Qf6+ 5. Qxf6 gxf6 6. Kxf6 h2) (4. Kf5 Qxa8)) 2. a7 (2. Rc3 $4 a1=Q $19 3. Rxc5 Qf6+) (2. Rd3 $4 h1=Q 3. Rd8+ Bf8 $19) (2. Rh3 $4 a1=Q 3. Rxh2 Qxa6+ 4. Kd5 Qd6+) (2. Ra5 $4 h1=Q 3. Rxc5 Qh3+) Bxa7 (h1=Q 3. a8=Q+ Qxa8 4. Rxa8+ Bf8 5. Rxa2 $18) 3. Rc3 (3. Rxa2 $4 h1=Q 4. Rxa7 Qe4+) (3. Rh3 $4 a1=Q 4. Rxh2 Qd4 $19) (3. Re3 $4 Bxe3 4. dxe3 h1=Q $19) (3. Ke7 $4 Bc5+ 4. Ke6 Bxa3) Bc5 4. Rxc5 (4. Rc1 $4 Ba3 5. Rc8+) (4. Rh3 $4 a1=Q 5. Rxh2 Qd4) (4. Rb3 $4 h1=Q 5. Rb8+ Bf8) (4. Rc4 a1=Q 5. Rxc5 Qf6+) a1=B 5. Rc8# 1-0

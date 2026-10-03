@@ -1,0 +1,27 @@
+[Event "3.hm Beginner ty Shakhmaty v SSSR (m)"]
+[Source "Shakhmaty v SSSR/8 1955 (m): Shakhmaty v SSSR/8 1955."]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Volkovu, N"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/1p6/k7/p1p4p/1PP3P1/8/8/8 w - - 0 1"]
+
+1. b5+ $1 (1. gxh5 $2 cxb4 2. h6 b3 3. h7 b2 4. h8=Q b1=Q) Kb6 2. gxh5 a4 3. h6 a3 4. h7 a2 5. h8=B $1 (5. h8=Q $2 a1=Q 6. Qxa1) Ka5 6. Kc7 (6. Bc3+ $2 Ka4 7. Kc7 Kb3 8. Ba1 Kxc4) Kb4 7. Kxb7 (7. b6 $2 Kxc4 8. Kxb7 Kd3 9. Kc6 c4 10. b7 c3 11. Bxc3 Kxc3 12. b8=Q Kc2) Kxc4 8. Kc6 Kb4 9. b6 1-0
+
+[Event "3.hm Beginner ty Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/8 1955"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Volkovu, N"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/1p6/1k6/pPp5/2P4P/8/8/8 w - - 0 1"]
+
+1. h5 $1 a4 2. h6 a3 3. h7 a2 4. h8=B $1 (4. h8=Q $2 a1=Q 5. Qxa1) Ka5 5. Kc7 (5. Bc3+ $2 Ka4 6. Kc7 Kb3 7. Ba1 Kxc4) Kb4 6. Kxb7 (6. b6 $2 Kxc4 7. Kxb7 Kd3 8. Kc6 c4 9. b7 c3 10. Bxc3 Kxc3 11. b8=Q Kc2) Kxc4 7. Kc6 Kb4 8. b6 1-0

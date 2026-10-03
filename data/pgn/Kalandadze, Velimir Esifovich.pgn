@@ -1,0 +1,1090 @@
+[Event "5.p USSR Study Composition champ"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/nBP1k2N/8/2K5/7N/3p4/2n1b3 w - - 0 1"]
+[PlyCount "20"]
+
+1. Ng5+ Kd6 2. Ne4+ Kxc6 3. Nxd2 Bxd2 4. Bd4 Bxh6 5. Bg7 Bg5 6. Bf6 Bf4 7. Be5 Be3 8. Bd4 Bd2 9. Bc3 Bh6 10. Bg7 Bxg7 $11 {stalemate} 1/2-1/2
+
+[Event "1.p Lelo"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[Composer2 "Neidze, Vazha"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3b3r/1P6/4b3/8/K6k/7N/8/6B1 w - - 0 1"]
+[PlyCount "13"]
+
+1. b8=Q Bd7+ 2. Kb3 Be6+ 3. Kc2 Bf5+ 4. Kd1 $1 (4. Kc1 $143 Bg5+ 5. Qf4+ Bxf4+ 6. Nxf4 $19) Bg4+ 5. Kc1 $1 Bg5+ 6. Nf4 $1 Rxb8 (Rc8+ $144 7. Kd2 Rxb8 8. Bf2#) 7. Bf2# 1-0
+
+[Event "4.p Spartak"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6n1/B4k1N/4N3/3n4/1b6/3K4/8/1B6 w - - 0 1"]
+[PlyCount "19"]
+
+1. Neg5+ Ke8 2. Kc4 Nde7 3. Kxb4 Nc6+ 4. Kc5 Nxa7 5. Kb6 Nc8+ 6. Kc7 Nce7 7. Ba2 Nh6 8. Bf7+ Nxf7 9. Nf6+ Kf8 10. Ne6# 1-0
+
+[Event "3.p Thèmes 64#1289"]
+[Source "Themes 64/1-3 EG#00368"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K1bN/1Bp5/4k3/8/8/3n4/6N1/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. Kf8 Bh7 (Nc5 $144 2. Bc8+ Kd5 3. Kxg8 $18) 2. Kg7 Bf5 3. Bc8+ Ke5 4. Nf7+ Ke4 5. Ng5+ Ke5 6. Nf3+ Ke4 7. Bb7+ c6 8. Bxc6# 1-0
+
+[Event "1.p Thèmes 64#1682"]
+[Source "Themes 64/10-12 1967 EG#00791"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6q1/1RP5/kP1b4/8/KP2NN2/8/8/8 w - - 0 1"]
+[PlyCount "9"]
+
+1. Nd5 $1 (1. b5+ $143 Kxb7 2. Nxd6+ Kxb6 3. c8=Q Qa2+ 4. Kb4 Qb2+ 5. Kc4 Qc2+ 6. Kd4 Qxc8 7. Nxc8+ Kxb5 $11) (1. Nxd6 $143 Qa2#) Qxd5 (Kxb7 $144 2. Nxd6+ Kc6 3. c8=Q+ $18) 2. Nc5+ Bxc5 3. Ra7+ Kxb6 4. c8=N+ $1 Kc6 5. b5# 1-0
+
+[Event "2.p Prokes MT"]
+[Source "EG#00924"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[Composer2 "Tavariani, Revaz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "q7/6pP/1R2K2k/7p/3B2Pp/7P/3P4/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. h8=Q+ $1 Qxh8 2. Kf5+ (2. Kf7+ $143 Kh7 3. g5 (3. Rg6 $143 Qg8+ $19) Qg8+ $11) Kh7 3. Rh6+ $1 Kxh6 4. g5+ Kh7 5. g6+ Kg8 (Kh6 $144 6. Be3#) 6. Bc5 $1 (6. Be3 $143 Kf8 7. Ke6 Ke8 8. Bg5 Qg8+ $19) Qh6 7. Be3 Qh8 8. Ke6 $1 Kf8 9. Kd7 $1 Qg8 (Kg8 $144 10. Ke7 $18) 10. Bc5# 1-0
+
+[Event "3.p Armenian Central Chess Club Ty"]
+[Source "EG#00632"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1N3kbn/8/8/8/1R6/8/2N5/3K2n1 w - - 0 1"]
+[PlyCount "15"]
+
+1. Rg4 Nh3 2. Nd7+ (2. Rh4 $143 Ng5 3. Rxh8 Nh7 $11) Kf7 3. Ne5+ (3. Rh4 $143 Nf2+ 4. Ke2 Ng6 $11) Kf8 4. Rh4 $1 Ng5 (Nf2+ $144 5. Ke2 $18) 5. Rxh8 $1 Nh7 6. Nd4 (6. Ne3 $144 $18 {<or>}) Kg7 7. Nf5+ Kxh8 8. Ng6# 1-0
+
+[Event "3.p L'Italia Scacchistica#4622"]
+[Source "L'Italia Scacchistica/6 EG#01326"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6rk/8/K4N2/8/p7/P7/P1Rp2p1/8 w - - 0 1"]
+[PlyCount "23"]
+
+1. Rc7 $1 Ra8+ 2. Kb5 $1 (2. Kb7 $2 Ra7+) (2. Kb6 $2 g1=Q+) Rb8+ 3. Ka5 $1 (3. Kc4 $2 Rc8) Ra8+ 4. Kb4 Rb8+ 5. Kc3 Rc8 $1 (d1=N+ 6. Kd2 Rd8+ 7. Kc1) 6. Rxc8+ Kg7 7. Rg8+ Kh6 $1 (Kxf6 8. Kxd2) 8. Rd8 $1 (8. Kxd2 $2 g1=Q 9. Rxg1) Kg6 (g1=Q 9. Rh8+ Kg6 10. Rg8+ Kxf6 11. Rxg1) (d1=Q 9. Ng8+ Kg7 10. Rxd1) (d1=N+ 9. Kd2 (9. Rxd1 $2 g1=Q 10. Rxg1) Ne3 10. Rg8) 9. Kc2 $1 (9. Kxd2 $143 $2 g1=Q 10. Rg8+ Kh6 11. Rxg1 $11 {stalemate}) g1=Q (Kh6 {<eg>} 10. Rh8+ Kg7 11. Rg8+ Kh6 12. Ne4) 10. Rg8+ Kh6 11. Rxg1 d1=Q+ 12. Rxd1 $18 1-0
+
+[Event "4.p USSR team champ VI (tt)"]
+[Source "EG#01442"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "1"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/PK6/5R1N/P7/8/8/n1r1k2p/8 w - - 0 1"]
+[PlyCount "29"]
+
+1. Rf2+ $1 Kxf2 2. Ng4+ Ke1 3. Nxh2 Rb2+ 4. Kc7 Rc2+ 5. Kd7 Rd2+ 6. Ke7 Re2+ 7. Kf7 Rf2+ 8. Kg7 Rg2+ 9. Ng4 $1 Rxg4+ 10. Kf7 Rf4+ 11. Ke7 Re4+ 12. Kd7 Rd4+ 13. Kc7 Rc4+ 14. Kb7 Rb4+ 15. Ka6 $18 1-0
+
+[Event "2.p Lenin MT 64"]
+[Source "EG#01334"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/8/5KP1/8/B2r4/7P/3n3r/3R4 w - - 0 1"]
+[PlyCount "31"]
+
+1. g7+ $1 (1. Rxd2 $143 Rf4+ $1 2. Kg5 Rxd2 3. Kxf4 Rd4+ $19) Kg8 2. Rxd2 Rhxd2 3. Bb3+ Rd5 4. Kg6 $1 R2d3 5. Ba2 $1 (5. Bc4 $143 Rg3+ 6. Kf6 Rgg5 7. h4 Rgf5+ 8. Kg6 Rfe5 9. Kf6 Kh7 $19) Rg3+ 6. Kf6 $1 Rgg5 (Rf3+ $144 7. Kg6 Rff5 8. h4 $11) 7. h4 Rh5 8. Kg6 Rhe5 9. Kf6 Kh7 10. Bb1+ Kg8 11. Ba2 Rf5+ 12. Kg6 Rh5 13. Bb3 $1 Rhe5 14. Kf6 Kh7 15. Bc2+ Kg8 16. Bb3 $11 1/2-1/2
+
+[Event "3.p Karseladze MT Lelo"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7n/2kP4/P7/b7/7p/4BK2/2b3pP/8 w - - 0 1"]
+[PlyCount "29"]
+
+1. d8=Q+ $1 Kxd8 2. a7 g1=N+ $1 (Bd1+ $144 3. Kxg2 h3+ 4. Kg3 $18) 3. Bxg1 (3. Kf4 $143 Bc7+ $19) Bd1+ 4. Ke4 $1 (4. Kg2 $143 h3+ $11) Bc2+ 5. Kd5 Bb3+ 6. Kc6 Ba4+ 7. Kc5 $1 (7. Kb7 $143 Kd7 8. Ka6 Bc6 9. Kxa5 Kc7 $19) Bb4+ $1 8. Kd5 Bb3+ 9. Kd4 Bc3+ 10. Ke4 Bc2+ 11. Ke3 Bd2+ 12. Kf3 Bd1+ 13. Kg2 $1 (13. Kf2 $144 Be1+ 14. Ke3 Bd2+ 15. Ke4 Bc2+ 16. Kf3 $18 {loss of time}) h3+ 14. Kg3 (14. Kf2 $144 Be1+ 15. Ke3 Bd2+ 16. Ke4 Bc2+ 17. Kf3 Bd1+ 18. Kg3 $18 {loss of time}) Be1+ 15. Bf2 $18 1-0
+
+[Event "3.p Magyar Sakkélet#0871"]
+[Source "Magyar Sakkelet/8 EG#01487"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5r2/BP2rP2/1b6/8/8/8/R1B5/5K1k w - - 0 1"]
+[PlyCount "19"]
+
+1. Be4+ $1 (1. Bxb6 $143 Rexf7+ 2. Ke2 Re8+ $11) Rxe4 2. Rh2+ $1 Kxh2 3. b8=Q+ Rxb8 4. Bxb8+ Bc7 $1 5. Bxc7+ (5. f8=Q $143 Rf4+ $11) Kh1 6. f8=R $1 (6. f8=Q $143 Rf4+ 7. Qxf4 $11 {stalemate}) Re8 $1 (Rh4 $144 7. Bf4 Rh3 8. Kf2 Rh4 9. Rf7 Rh3 10. Re7 $18) 7. Rf2 $1 (7. Rf3 $143 Re3 $11) Rh8 8. Rf3 $1 Rf8 9. Bf4 $1 (9. Rxf8 $143 $11 {stalemate}) Rh8 {<eg>} 10. Rg3 $18 1-0
+
+[Event "3.p USSR team champ VII (tt)"]
+[Source "EG#01599"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "2"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B2B2k/3P4/4PK2/8/6q1/8/8/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. d8=Q (1. Be5 $143 Kh7 2. Bf7 Qg5+ 3. Kxg5 $11 {stalemate}) Qh4+ 2. Kg6 Qxd8 3. Be5+ Kg8 4. Bf7+ Kf8 5. Bg7+ Ke7 6. Bf6+ Kf8 7. e7+ Qxe7 8. Bg7# 1-0
+
+[Event "1/2.p Shakhmaty (Riga)#081"]
+[Source "EG#02138"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "R4R1K/8/Pr6/8/8/8/7p/r2k4 w - - 0 1"]
+[PlyCount "15"]
+
+1. Rf1+ $1 Kc2 2. Rxa1 (2. Rc8+ $143 $2 Kb2 3. Rxa1 Kxa1 4. Rc1+ Kb2 $11) Rb1 (Rh6+ $144 3. Kg7 h1=Q 4. Rxh1 Rxh1 5. Rc8+ $18) 3. Ra2+ (3. Rc8+ $2 Kb2 4. Rxb1+ Kxb1 5. Rb8+ Ka1) Rb2 4. Rc8+ Kb1 5. Ra1+ $1 Kxa1 6. Rc1+ Rb1 7. Rh1 $1 (7. a7 $143 $2 h1=Q+ 8. Rxh1 Rxh1+ 9. Kg8 $11) Rxh1 8. a7 $18 1-0
+
+[Event "5.p All Union Team champ USSR Ty"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r7/1R3p2/5p2/8/8/P7/7p/4K2k w - - 0 1"]
+[PlyCount "15"]
+
+1. Kf2 Rg8 2. Rb1+ Rg1 3. Rf1 $1 f5 4. a4 f4 5. a5 f3 6. a6 f5 7. a7 f4 8. a8=R $1 $18 (8. a8=Q $143 Rxf1+ 9. Kxf1 $11 {stalemate}) 1-0
+
+[Event "4.p Kommunist"]
+[Source "EG#02354"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2r5/5P1p/rP3R2/6K1/8/8/8/3k4 w - - 0 1"]
+[PlyCount "25"]
+
+1. b7 $1 (1. Kh6 $143 $2 Rf8 2. Kg7 Raa8 $11) Rc5+ $1 (Ra5+ $144 2. Kh6 Rf8 3. Kg7 $18) 2. Rf5 $1 (2. Kg4 $143 $2 h5+ 3. Kg3 Rxf6 4. b8=Q Rcf5 $11) h6+ $1 3. Kg4 $1 (3. Kf4 $143 $2 Ra4+ 4. Kg3 Rxf5 5. b8=Q Rg5+ 6. Kf3 Rf5+ 7. Ke3 Ra3+ 8. Ke4 Raf3 $11 9. Qd6+ Ke2) Ra4+ $1 4. Rf4 h5+ (Rg5+ $144 5. Kf3 Ra3+ 6. Kf2 Ra2+ 7. Kf1 Rh5 8. Rf2 $18) 5. Kg3 Rc3+ 6. Rf3 h4+ (Rg4+ $144 7. Kf2 Rc2+ 8. Kf1 Rh4 9. Rf2 $1 $18) 7. Kg2 Ra2+ (h3+ $144 8. Rxh3 Rg4+ 9. Kh2 Rc2+ 10. Kh1 Rf4 11. Rg3 $1 Rh4+ 12. Kg1 Re4 13. Rg2 $18) 8. Rf2 h3+ 9. Kg1 (9. Kf1 $144 $18 {<or>}) Rxf2 10. Kxf2 h2 11. b8=Q $1 (11. Kg2 $143 $2 Rh3 $1 $11) h1=Q (Rc2+ $144 12. Ke3 (12. Kg3 h1=Q 13. Qb1+ Rc1 14. Qd3+ Ke1 15. Qe3+ Kd1 16. f8=Q) Re2+ 13. Kd4 Rd2+ 14. Ke5 Re2+ 15. Kf6 Rf2+ 16. Kg7 Rg2+ 17. Kf8 h1=Q 18. Qb1+ $18) 12. Qb1+ Rc1 13. Qd3# 1-0
+
+[Event "2/3.p Latvia Ty"]
+[Source "EG#02656"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#15"]
+[SetUp "1"]
+[FEN "8/r1rP4/2p4p/8/1K5P/8/ppR2R1p/4k3 w - - 0 1"]
+[PlyCount "29"]
+
+1. Rce2+ Kd1 2. d8=Q+ Rd7 3. Rd2+ Kc1 (Ke1 $144 4. Rfe2+ Kf1 5. Qf6+ Kg1 6. Re1#) 4. Rc2+ Kd1 (Kb1 $144 5. Rxb2+ Ka1 6. Rf1+ Kxb2 7. Qf6+ Rd4+ 8. Qxd4+ Kc2 9. Qc3#) 5. Rfd2+ Ke1 6. Qe8+ Re7 7. Re2+ Kf1 8. Qf8+ (8. Rf2+ $144 Ke1 9. Rfe2+ Kf1 10. Qf8+ $18 {loss of time}) Rf7 9. Rf2+ Kg1 (Ke1 $144 10. Rce2+ Kd1 11. Qd6+ Kc1 12. Re1#) 10. Qg8+ Rg7 11. Rg2+ Kh1 12. Rxh2+ Kg1 13. Rcg2+ Kf1 {eg:} 14. Qc4+ Ke1 15. Qe2# 1-0
+
+[Event "3.p USSR team champ IX (tt)"]
+[Source "EG#03422"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "1"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/1P2P3/P5q1/4b3/k2N4/P7/8/3N4 w - - 0 1"]
+[PlyCount "15"]
+
+1. Nb2+ Ka5 2. Nc4+ Kxa6 3. Nxe5 Qe8+ 4. Kc7 Qxe7+ 5. Nd7 Qxa3 6. b8=N+ (6. b8=Q $143 Qg3+ $11) Ka5 7. Nbc6+ Ka4 (Ka6 $144 8. Ndb8#) 8. Nb6# 1-0
+
+[Event "1.p Sachové Umenie#4625"]
+[Source "Sachove Umenie/7 EG#03545"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k1n3n/8/5B2/6K1/8/r7/8/1B6 w - - 0 1"]
+[PlyCount "17"]
+
+1. Be5+ $1 (1. Bxh8 $143 Nf7+ 2. Kg6 Nxh8+ 3. Kg7 Rh3 4. Bh7 Nf7 5. Bf5 Rf3 $19) Ka7 $1 2. Bd4+ $1 Ka6 3. Bxh8 Nf7+ 4. Kg6 (4. Kf6 $144 $11 {<or>}) Nxh8+ 5. Kg7 Rh3 (Rb3 $144 {<main>} 6. Bh7 Rb8 7. Bg8 Ng6 8. Bc4+ Kb6 9. Kxg6 $11) 6. Bf5 $1 (6. Bh7 $143 Nf7 $19) Rh2 7. Bh7 Nf7 $1 8. Bd3+ Kb6 9. Kxf7 $11 1/2-1/2
+
+[Event "2.p Troitzky MT Molodoj Leninets"]
+[Source "EG#02895"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/8/P4R2/K7/5p2/P4P2/2p4n/r7 w - - 0 1"]
+[PlyCount "29"]
+
+1. Rf8+ Ka7 2. Rf7+ Kb8 3. a7+ Ka8 4. Ka6 Rxa3+ 5. Kb6 Rb3+ 6. Ka6 Rb8 $1 7. axb8=Q+ $1 (7. Rc7 $143 Rf8 8. Rxc2 Nxf3 $19) Kxb8 8. Rb7+ Kc8 9. Rb5 $1 c1=R (c1=Q $144 10. Rc5+ Qxc5 $11 {stalemate}) 10. Rf5 Rc4 11. Kb5 Rd4 12. Kc6 $1 (12. Kc5 $143 Nxf3 $19) Rc4+ 13. Kb5 Rd4 14. Kc6 Rc4+ 15. Kb5 $11 1/2-1/2
+
+[Event "2.p USSR team champ X (tt)"]
+[Source "EG#04135"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "1"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k4/3P1R2/8/5P2/p7/8/1p3K2/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. Rf8+ Kxd7 2. Rb8 a3 3. f6 $1 (3. Kg2 $143 a2 4. Rxb2 a1=Q 5. Rf2 Qf6 $1 $19 {#36}) Ke6 4. Rb6+ $1 Kf7 5. Kg2 $1 (5. Kg3 $143 a2 6. Rxb2 a1=Q 7. Rf2 Qg1+ $19 {#25}) Kg6 6. Kh2 $1 Kf7 (a2 $144 7. Rxb2 a1=Q 8. Rf2 Qe5+ 9. Kg1 $11) 7. Kg2 $1 a2 8. Rxb2 a1=Q 9. Rf2 $1 $11 1/2-1/2
+
+[Event "2.p Shakhmaty v SSSR#46 (c)"]
+[Source "Shakhmaty v SSSR/12 (c): Kalandadze=V Shakhmaty v SSSR/3 1981"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/R1R3pP/1P6/8/1r5K/8/1k5p/7r w - - 0 1"]
+[PlyCount "19"]
+
+1. Kh3 (1. Kg3 $143 Rg4+ $1 2. Kh3 Rhg1 $11) Rh4+ $1 (Rg1 $144 2. Kxh2 Rbg4 3. Rc2+ $1 Kxc2 4. Ra2+ Kb3 5. h8=Q Kxa2 6. Qa8+ Kb2 7. Qf3 $18) 2. Kxh4 Rb1 $1 (Ra1 $144 3. Rc2+ $18) 3. Ra2+ $1 Kxa2 4. Rc2+ Rb2 $1 5. Rc1 $1 Rb1 6. Rh1 $1 Rxh1 7. h8=Q Rg1 8. Qa8+ Kb2 9. Qh1 $1 Rxh1 10. b7 $18 1-0
+
+[Event "4.p Shakhmatain Aiastan"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/1p6/P7/5p2/2K3p1/P1R5/r6p/8 w - - 0 1"]
+[PlyCount "35"]
+
+1. a7 $1 b5+ 2. Kxb5+ Kb7 3. Rc7+ $1 Ka8 4. Ka6 $1 (4. Kb6 $143 $2 Rb2+ 5. Ka6 Rb8 $1 6. axb8=Q+ Kxb8 7. Rh7 g3 $19 8. Kb6 Kc8 9. Kc6 Kd8 10. Kd6 Ke8 11. Ke6 Kf8 12. Kf6 Kg8 13. Rh3 g2 14. Rg3+ Kf8 $19 {Same position than after 17.Rf8 plus the pawn a3.}) Rxa3+ 5. Kb6 Rb3+ 6. Ka6 Rb8 7. axb8=Q+ Kxb8 8. Rh7 g3 9. Kb6 Kc8 10. Kc6 Kd8 11. Kd6 Ke8 12. Ke6 Kf8 13. Kf6 Kg8 14. Rh3 g2 15. Rg3+ Kh7 16. Rh3+ Kg8 17. Rg3+ Kf8 18. Ra3 $1 $11 1/2-1/2
+
+[Event "3.p Molodoj Leninets (Kurgan)"]
+[Source "EG#05116"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3R4/7P/1p6/1P6/7k/1PK2P1p/5r2 w - - 0 1"]
+[PlyCount "24"]
+
+1. h7 Rxf2+ 2. Kb3 (2. Rd2 $143 Rf8 3. Rd3+ Kg4 4. Rd4+ Kg5 5. Rd5+ Kg6 6. Rd6+ Kxh7 7. Rd1 Kg6 8. b3 Kg5 9. Rh1 Rf2+ 10. Kc3 Kg4 $19) Rf8 3. Rd3+ Kg4 4. Rd4+ Kg5 5. Rd5+ Kg6 6. Rd6+ Kxh7 7. Rd1 Rf3+ 8. Ka2 Rh3 9. Rh1 Kg6 10. b3 Kg5 11. Ka3 Kg4 12. Rxh2 Rxh2 $11 {stalemate} 1/2-1/2
+
+[Event "1/2.p Sagaredzho Ty Ivris Gantadi"]
+[Source "EG#06010"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1r6/2R3pp/R5pP/8/4K1P1/8/1k5p/8 w - - 0 1"]
+[PlyCount "16"]
+
+1. Ra2+ $1 (1. Rc2+ $143 $2 Kxc2 2. Ra1 Rb1 3. Ra2+ Rb2 4. Ra1 gxh6 5. Rh1 Kc3 6. Rc1+ Rc2 7. Rh1 g5 8. Ke3 Kb2 9. Ke4 h5 10. Kf3 hxg4+ 11. Kg3 h6 $19) Kxa2 2. Rc2+ Rb2 3. Rxh2 $1 Rxh2 4. hxg7 Re2+ 5. Kf4 $1 Re8 6. Kg5 Rg8 7. Kh6 Rxg7 8. g5 $1 (8. Kxg7 $143 $2 h5 9. g5 h4 10. Kxg6 h3 $19) Ra7 $11 {stalemate} (Rg8 $144 9. Kxh7 Ra8 10. Kxg6 $11 Kb3 11. Kf7) 1/2-1/2
+
+[Event "2.p Saloniki Olympiade"]
+[Source "EG#06665"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6R1/8/5k2/6r1/r7/7P/p7/1R5K w - - 0 1"]
+[PlyCount "29"]
+
+1. Rf1+ Rf5 2. Rf8+ Ke6 3. Re1+ Re5 4. Re8+ Kd6 5. Rd1+ Rd5 6. Rd8+ Kc6 7. Rc1+ Rc5 8. Rc8+ Kb6 9. R8xc5 a1=Q 10. Rc6+ Kb5 11. Rc8 Qe5 12. Rb1+ Rb4 13. Rxb4+ Kxb4 14. Rg8 Qd5+ 15. Rg2 $11 1/2-1/2
+
+[Event "5.p All Union Team champ USSR Ty"]
+[Source "USSR team champ XIII 1987-1989"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r7/P3P1p1/5r2/7p/6kp/8/1R2PP1K/8 w - - 0 1"]
+[PlyCount "21"]
+
+1. f3+ $1 (1. Rb8 $143 $2 Rxf2+ 2. Kg1 Rxe2 3. Rxa8 Rxe7 $19) Kg5 $1 2. Rb8 Re6 $1 3. Rxa8 Rxe2+ 4. Kh3 $1 Rxe7 5. f4+ Kg6 6. f5+ Kg5 7. f6 $1 Rf7 8. Rg8 Rxa7 9. Rxg7+ Rxg7 10. fxg7 Kh6 11. g8=R $1 (11. g8=Q $2) 1-0
+
+[Event "1.p Krikheli MT Merani"]
+[Source "EG#09450"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/7R/r1P5/7p/8/8/5p2/1k6 w - - 0 1"]
+[PlyCount "27"]
+
+1. Rb7+ (1. Rf7 $143 Ra8+ 2. Kg7 Ra7 $19) Kc2 (Ka2 $144 2. Rf7 $11) 2. Rf7 Ra8+ 3. Kh7 (3. Kg7 $143 Ra7 4. c7 Rxc7 5. Rxc7+ Kd2 6. Rd7+ Ke2 7. Re7+ Kf3 8. Rf7+ Kg2 $19) Ra7 4. c7 Rxc7 5. Rxc7+ Kd2 6. Rd7+ (6. Rf7 $144 {<or>} Ke2 7. Re7+ $11) Ke2 7. Re7+ Kf3 (Kf1 $144 8. Kg8 $1 $11) 8. Rf7+ (8. Kh6 $143 h4 $1 9. Rf7+ Kg2 10. Rg7+ Kf1 $19) Kg2 9. Rg7+ Kf1 $1 10. Kg8 $1 (10. Rg5 $143 h4 11. Kg6 (11. Rh5 $144 h3 12. Rxh3 Kg2 $19) h3 12. Rh5 Ke2 13. Re5+ Kd3 14. Rd5+ Ke4 15. Rf5 h2 $19) h4 11. Rh7 h3 $1 12. Rxh3 Kg2 13. Rh7 $1 f1=Q 14. Rg7+ $11 1/2-1/2
+
+[Event "2.p Archakov JT Nove Zhittya Khliborob "]
+[Source "EG#08665"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2R1R3/pP6/7p/1r1r4/7k/1p6/P7/6K1 w - - 0 1"]
+[PlyCount "23"]
+
+1. Rc4+ (1. b8=Q $143 Rd1+ 2. Kf2 (2. Kh2 $144 Rd2+ $11) Rxb8 3. Rc4+ Kg5 4. Rxb8 bxa2 5. Rb5+ Kf6 6. Rc6+ Ke7 7. Rb7+ Kd8 8. Rg6 Rf1+ 9. Ke2 Re1+ $11) Kg5 2. b8=Q Rxb8 3. Rxb8 Rd1+ 4. Kh2 bxa2 5. Rb5+ Kf6 6. Rc6+ Ke7 7. Rb7+ Kd8 8. Rg6 Rh1+ 9. Kxh1 a1=Q+ 10. Rg1 Qa2 11. Rg8+ Qxg8 12. Rb8+ $18 1-0
+
+[Event "2.p Réti MT Pat a Mat"]
+[Source "Pat a Mat/8 1991 EG#08382"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/b4R2/r1r2P2/6k1/1R5n/1N2N3/8/3K4 w - - 0 1"]
+[PlyCount "21"]
+
+1. Rg4+ Kh6 2. Rxh4+ Kg6 3. Rg7+ Kxf6 4. Rxa7 Rd6+ 5. Kc2 $1 (5. Ke2 $143 Rxa7 6. Rh6+ Ke5 7. Nc4+ Kd5 8. Nxd6 Re7+ 9. Kd3 Re6 $11) Rxa7 6. Rh6+ Ke5 7. Nc4+ Kd5 8. Nxd6 Rc7+ 9. Kd3 Rc6 10. Nd4 Rxd6 11. Rh5# 1-0
+
+[Event "1/2.p Tavariani JT Lelo"]
+[Source "EG#09584"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1R6/p1P5/2R2r2/1K5r/8/8/8/7k w - - 0 1"]
+[PlyCount "27"]
+
+1. Rc5 a6+ 2. Kb4 Rf4+ 3. Rc4 a5+ 4. Kb3 Rh3+ 5. Rc3 a4+ 6. Kb2 Rf2+ 7. Rc2 a3+ 8. Kb1 a2+ 9. Rxa2 Rf1+ 10. Kb2 Rf2+ 11. Ka1 (11. Kb1 $144 Rf1+ 12. Kb2 Rf2+ 13. Ka1 $18 {loss of time}) Rf1+ 12. Rb1 Rxb1+ 13. Kxb1 Rh8 {<eg>} 14. Rc2 $18 1-0
+
+[Event "1.p Georgian Chess Composition-100 year"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K3kr/6pp/8/3R3P/4R3/8/8/r7 w - - 0 1"]
+[PlyCount "13"]
+
+1. Rd8+ Kf7 2. Rxh8 Ra8+ 3. Kd7 Rxh8 4. Rf4+ Kg8 5. h6 gxh6 6. Ke7 Kg7 (h5 $144 {<main>} 7. Kf6 $1 h6 8. Ra4 Rh7 (Kh7 $144 9. Ra7+ Kg8 10. Kg6 Kf8 11. Ra8+ $18) 9. Ra8#) 7. Rg4# 1-0
+
+[Event "2.p Springaren#08146"]
+[Source "Springaren/9 EG#11172"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1PK1k3/1r6/8/r7/7R/4p3/8 w - - 0 1"]
+[PlyCount "16"]
+
+1. Re3+ Re6 2. Rxe6+ $1 Kxe6 3. b8=Q Rc4+ 4. Kd8 $1 Rd4+ (e1=Q $144 {<main>} 5. Qd6+ $1 Kf7 6. Qd5+ Qe6 7. Qh5+ Kf6 (Kg7 $144 8. Qf7+ $1 $11) 8. Qg5+ $1 Kxg5 $11 {stalemate}) 5. Kc7 Rd7+ 6. Kc6 e1=Q 7. Qb3+ Ke7 8. Qb4+ $1 Qxb4 $11 {stalemate} 1/2-1/2
+
+[Event "4.p Szachista Polski#84"]
+[Source "EG#15504"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K1k1/8/8/6p1/B2NN3/8/8/1b1n4 w - - 0 1"]
+[PlyCount "15"]
+
+1. Nf6+ Kg7 2. Nh5+ Kh6 3. Bxd1 Bg6+ 4. Kf8 $1 Bxh5 $1 5. Nf5+ Kg6 6. Ne7+ Kh6 7. Ng8+ Kg6 8. Bc2# 1-0
+
+[Event "2.p Krikheli MT Sakartvelos Respublika"]
+[Source "EG#14092"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/K3N3/8/k2P4/pp6/n7/2RP4/5q2 w - - 0 1"]
+[PlyCount "21"]
+
+1. Nc6+ Kb5 2. Nd4+ Ka5 3. Rc5+ Nb5+ 4. Rxb5+ Qxb5 5. Nc6+ Qxc6 6. dxc6 b3 7. c7 b2 8. c8=Q b1=Q 9. Qc5+ $1 (9. Qa6+ $143 Kb4 10. Qb6+ Ka3 $1 11. Qxb1 $11 {stalemate}) Qb5 10. Qc7+ Kb4 11. Qc3# 1-0
+
+[Event "1.p Gaprindashvili-60 JT Etyudnaya Moza"]
+[Source "EG#12089"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/1R4pk/7r/4K1p1/8 w - - 0 1"]
+[PlyCount "20"]
+
+1. Kf2 Rg3 2. Kg1 Kh3 3. Rb2 $1 (3. Rb8 $143 Rc3 4. Rh8+ Kg3 5. Rc8 Rf3 6. Rc3 Kh3 $1 $19) Re3 4. Re2 $1 Rd3 5. Rd2 $1 Rc3 6. Rc2 Rb3 7. Rb2 Ra3 8. Ra2 Rf3 9. Rxg2 Rg3 10. Kh1 Rxg2 $11 {stalemate} 1/2-1/2
+
+[Event "1/2.p Nadareishvili MT EG"]
+[Source "EG/7 2002 EG#13148"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k1K5/np5R/1P5p/7P/1PP5/r6N/1p6/8 w - - 0 1"]
+[PlyCount "31"]
+
+1. Kc7 Nb5+ 2. cxb5 Rc3+ 3. Kd7 Rd3+ (Rc8 $144 4. Kxc8 b1=Q 5. Rh8 Qa2 6. Kc7+ Qg8 7. Rxg8#) 4. Ke7 Re3+ 5. Kf7 Rf3+ 6. Kg7 Rg3+ 7. Ng5 Rxg5+ 8. Kf7 Rf5+ 9. Ke7 Re5+ 10. Kd7 Rd5+ 11. Kc7 Rd8 12. Kxd8 b1=Q 13. Rh8 Qb2 14. Rg8 Qb3 15. Rf8 Qxb4 16. Ke8 $18 1-0
+
+[Event "3.p Batumi ty"]
+[Source "EG#15674"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7Q/7R/5p2/8/8/7K/q1q5/1k6 w - - 0 1"]
+[PlyCount "28"]
+
+1. Rb7+ Kc1 2. Qh6+ Qd2 3. Rc7+ Kd1 4. Qh5+ Qe2 5. Rd7+ Ke1 6. Qh4+ Kf1 7. Qf4+ Qf2 8. Qc1+ Qe1 9. Qf4+ Qaf2 $1 10. Qc4+ Qfe2 11. Qf4+ Kg1 12. Rg7+ Kh1 13. Qe4+ $1 Qxe4 14. Rg1+ $1 Kxg1 $11 {stalemate} 1/2-1/2
+
+[Event "1/2.p Intskirveli MT Sakartvelos Respub"]
+[Source "EG#14922"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/6R1/1P5p/8/8/P7/p7/1k5r w - - 0 1"]
+[PlyCount "35"]
+
+1. b7 Rc1+ 2. Kd8 Rd1+ 3. Ke8 Re1+ 4. Kf8 Rf1+ 5. Kg8 a1=Q 6. b8=Q+ Qb2 7. Rb7 Rg1+ 8. Kf8 Rf1+ 9. Ke8 Re1+ 10. Kf7 Rf1+ 11. Kg6 Rg1+ 12. Kxh6 Rh1+ 13. Kg6 Rg1+ 14. Kf5 Rf1+ 15. Ke6 Re1+ 16. Kd7 Rd1+ 17. Kc8 Rc1+ 18. Qc7 $18 1-0
+
+[Event "1/3.p Gurgenidze,D JT EG"]
+[Source "EG/10 EG#14138"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/RR5P/p7/8/P7/7K/r6p/2k5 w - - 0 1"]
+[PlyCount "29"]
+
+1. Rc7+ Kd1 2. Rd7+ Ke1 3. Re7+ Kf1 4. Rf7+ Kg1 5. Rg7+ Kf1 6. Raf7+ Ke1 7. Re7+ Kd1 8. Rd7+ Kc1 9. Rc7+ Kb1 10. Rb7+ Ka1 11. Rg1+ $1 hxg1=N+ $1 (hxg1=Q $144 12. h8=Q+ $18) 12. Kg3 Ne2+ 13. Kg4 (13. Kh4 $144 $18 {<or>}) Rxa4+ 14. Kg5 (14. Kh5 $143 Ng3+ $1 15. Kg5 Ra5+ 16. Kh4 Rh5+ 17. Kxg3 a5 18. Kg4 Rh2 $1 19. Ra7 Kb2 $11) Ra5+ 15. Kh6 $18 1-0
+
+[Event "3.p Benko JT"]
+[Source "EG#17184"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1R6/6p1/6P1/6p1/6Pq/1K4p1/6P1/1k6 w - - 0 1"]
+[PlyCount "27"]
+
+1. Kc3+ Ka2 2. Ra8+ (2. Kc2 $143 Ka3 3. Kc3 Ka4 $19) Kb1 3. Rb8+ Kc1 4. Ra8 Kd1 5. Kd3 Ke1 6. Ke3 Kf1 7. Kf3 Kg1 8. Ra1+ (8. Re8 $144 {<or>} Kh2 9. Re1 $11) Kh2 9. Re1 $1 Qh6 10. Re6 Qh8 11. Re8 Qh6 12. Re6 Kg1 13. Re1+ Kh2 14. Re6 $11 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "6k1/5p1p/q7/5P1P/4P1K1/4B3/8/3R4 w - - 0 1"]
+
+1. Rd8+ (1. f6 $4 Qe2+ 2. Kf4 Qxd1 $19) (1. Bh6 $4 Qe2+ 2. Kg3 Qxd1 $19) (1. h6 $4 Qe2+ 2. Kf4 Qxd1 $19) (1. e5 $4 Qe2+ 2. Kf4 Qxd1 $19) (1. Kg5 $4 Kf8 2. Bc5+ Ke8 $10 $15) (1. Kf3 $2 h6 2. Bf4 $10) (1. Bf4 $4 Qe2+ 2. Kg3 Qxd1 $19) (1. Rd2 $2 h6 2. e5) (1. Rg1 $2 h6 2. Kf3+) Kg7 2. h6+ (2. Bd4+ $2 f6 $5 (Kh6 $4 $18) 3. Rd7+ $10) (2. f6+ $4 Kxf6 3. Bd4+ Ke7 $15) (2. e5 $4 Qe2+ 3. Kf4 h6 $10 $15) (2. Kg5 $4 Qf6+ 3. Kg4 Qxd8 4. h6+ Kg8) (2. Bc5 Qe2+ 3. Kf4 Qh2+) Kf6 3. Rd6+ (3. Re8 $2 Qe2+ 4. Kf4 $10) (3. Kf3 $2 Ke7 4. Rh8) (3. Kh4 Qa4 4. Bd4+) Qxd6 4. Bg5+ (4. e5+ $4 Kxe5 5. Bf4+ Kd5 $19) (4. Bf4 $4 Qd1+ 5. Kg3 Qe2 $19) Ke5 5. Bf4+ (5. Be7 $4 Qxe7 6. Kg3 Kxe4) (5. Be3 Qd1+ 6. Kg3 Kxe4) (5. f6 Qd1+ 6. Kg3 Kxe4) Kf6 6. e5+ (6. Bxd6 $2) (6. Bg5+ Ke5 7. Bf4+ Kf6 $18) Qxe5 $2 (Ke7 $5 7. exd6+ $18) 7. Bg5# (7. Kf3 Qd5+ 8. Ke3 Kxf5) 1-0
+
+[Event "1.hm Ajedrez de Estilo"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5b2/2R5/8/7N/8/8/3kp2K/8 w - - 0 1"]
+
+1. Rd7+ $1 Kc2 2. Rc7+ Kb1 3. Rb7+ Ka2 4. Rb2+ $1 Kxb2 5. Nf4 Bd6 6. Kg2 Bxf4 (e1=Q 7. Nd3+ Kc3 8. Nxe1) 7. Kf2 1/2-1/2
+
+[Event "1.sp.p Achalgazdra Kommunisti"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K5R1/8/8/8/8/8/pP5k/8 w - - 0 1"]
+
+1. Rh8+ $1 Kg2 2. Rg8+ Kf2 3. Rf8+ Ke2 4. Re8+ Kd2 5. Rd8+ Kc2 6. Rc8+ Kb1 (Kxb2 7. Rb8+ Ka3 8. Rb7) 7. Rc7 $1 a1=Q+ 8. Ra7 Qxb2 9. Rb7 1/2-1/2
+
+[Event "Lelo"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "qn3r2/8/2p4R/8/8/4k1p1/6P1/3R3K w - - 0 1"]
+
+1. Re6+ $1 Kf4 2. Rf1+ Kg5 3. Re5+ Kg6 4. Re6+ Kg7 5. Re7+ Kg8 6. Rxf8+ Kxf8 7. Ra7 Qxa7 1/2-1/2
+
+[Event "Lelo"]
+[Source "also L'Italia Scacchistica#4039 L'Italia Scacchistica=715 L'Italia Scacchistica/5 1965."]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1P1P1k2/8/8/8/2n5/5r2/K2R4 w - - 0 1"]
+
+1. Rf1 $1 Rxf1+ 2. Kb2 Rb1+ 3. Ka3 Rd1 4. d8=N+ Rxd8 5. b8=Q Rxb8 1/2-1/2
+
+[Event ".c Réti MT"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7b/8/bK2k3/8/P7/8/2R1r3 w - - 0 1"]
+
+1. Rc5+ $1 Kd6 2. Rh5 Bg6 3. Rg5 Re5+ $1 4. Rxe5 Bd2 5. Rc5 Bd3+ 6. Rc4 Kd5 7. Ka4 $1 Bxc4 (Kxc4 {<main>}) 1/2-1/2
+
+[Event "2.p Ceskoslovensky Sach#007"]
+[Source "Ceskoslovensky Sach/1 EG#00468."]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4b3/1P5K/8/1k3B2/8/8/5r2 w - - 0 1"]
+
+1. b7 $1 Rh1+ 2. Kg7 Bf6+ $1 3. Kxf6 Rh8 4. Kg7 $1 Rd8 (Re8 5. Kf7 Rd8 6. Bc7 Rh8 7. Bd6+ Ka5 8. Bf8) 5. Bc7 Kb5 (Re8 {<main>} 6. Kf7 Rh8 7. Bd6+ Kb5 8. Bf8 Rh7+ 9. Bg7) 6. Bxd8 Ka6 7. b8=R $1 (7. b8=N+ $2 Kb7 8. Nd7 Kc8) (7. b8=Q $2) 1-0
+
+[Event "5.c Leninska Smena"]
+[Source "EG#00415."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1P6/2kP4/p4R1p/7K/1p6/8 w - - 0 1"]
+
+1. Rb4 $1 Kxb4 2. b7 Ka3 3. b8=R Ka2 4. d6 b1=Q 5. Rxb1 Kxb1 6. d7 a3 7. d8=Q a2 8. Qd1+ Kb2 9. Qd2+ Kb1 10. Qb4+ Kc2 11. Qa3 Kb1 12. Qb3+ Ka1 13. Kg4 h3 14. Qc2 h2 15. Qc1# 1-0
+
+[Event "Nauka i Zhizn"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/8/3P4/5p2/8/2r5/1N1pP1pK/8 w - - 0 1"]
+
+1. d7 $1 g1=Q+ 2. Kxg1 Rc1+ 3. Nd1 Rxd1+ 4. Kf2 Rf1+ 5. Ke3 d1=Q 6. d8=Q+ Qxd8 1/2-1/2
+
+[Event "Shakhmaty"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2R4K/8/P7/8/8/8/1r5p/k7 w - - 0 1"]
+
+1. Rc1+ $1 Rb1 (Ka2 2. a7) 2. Rh1 $1 Rxh1 3. a7 1-0
+
+[Event "1.c Assiac JT EG"]
+[Source "EG/5 EG#01860."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/P7/8/8/p7/r6P/7k/8 w - - 0 1"]
+
+1. Kb7 $1 Rb3+ 2. Kc7 (2. Ka6 $2 a3 3. a8=Q a2 4. Qh8 Ra3+) (2. Kc6 {<or>}) Rc3+ 3. Kd7 Rd3+ 4. Ke7 Re3+ 5. Kf7 Rf3+ 6. Kg7 (6. Kg8 { <or>}) Rg3+ 7. Kh7 (7. Kh8 {<or>}) Rxh3+ 8. Kg7 (8. Kg8 {<or>}) Rg3+ 9. Kf7 Rf3+ 10. Ke7 Re3+ 11. Kd7 Rd3+ 12. Kc7 Rc3+ 13. Kb7 Rb3+ 14. Ka6 $1 a3 15. a8=Q a2 16. Qh8+ Kg2 (Kg3 17. Qe5+ $1) 17. Qa1 $1 Ra3+ {<eg>} 18. Kb5 $1 Ra8 (Kf3 19. Kb4 $1) 19. Qg7+ Kf2 20. Qf6+ Ke2 21. Qe5+ Kd2 22. Qd5+ Kc2 23. Qxa8 Kb2 24. Qg2+ 1-0
+
+[Event "1.c Solidarity ty"]
+[Source "EG#03350."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7r/8/1R6/5k2/R3r3/1P2p1P1/1K6 w - - 0 1"]
+
+1. Rb4+ $1 Re4 2. g3+ Kf5 (Ke5 3. Ra5+ Kd6 4. Rxe4) 3. Ra5+ Re5 4. g4+ Kf6 5. Rb6+ Re6 6. g5+ Kf7 7. Ra7+ Re7 8. g6+ Kf8 9. Rb8+ Re8 10. Rxe8+ (10. gxh7 {<or>}) Kxe8 11. gxh7 e1=Q+ 12. Ka2 Qe6+ 13. b3 Qe2+ 14. Ka3 1-0
+
+[Event "Lelo"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3p4/8/R3p3/4p3/P2RP1p1/2k1K3 w - - 0 1"]
+
+1. Rc4+ $1 (1. Rd1+ $2 Kc2 2. Rc4+ Kb2 3. Rb4+ Ka3) Kb1 2. Rb4+ Ka1 3. Rd1+ Kxa2 4. Ra1+ $1 Kxa1 5. Kd1 g1=Q+ 6. Kc2 Qg8 7. Ra4+ Qa2+ 8. Kc3 Qxa4 1/2-1/2
+
+[Event "Sportivnaya Gazeta"]
+[Source "Sportivnaya Gazeta/6"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "N7/PK6/8/8/8/p7/1k6/8 w - - 0 1"]
+
+1. Nb6 $1 a2 2. a8=Q a1=Q 3. Nc4+ Kb1 4. Nd2+ Kb2 5. Qh8+ Ka2 6. Qg8+ Kb2 7. Qg7+ Ka2 8. Qf7+ Kb2 9. Qf6+ Ka2 10. Qe6+ Kb2 11. Qe5+ Ka2 12. Qd5+ Kb2 13. Qd4+ Ka2 14. Qa4+ Kb2 15. Nc4+ Kb1 16. Qd1+ Ka2 17. Qc2+ Qb2+ 18. Qxb2# 1-0
+
+[Event "Problem#331"]
+[Source "Problem/9"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7r/4R3/3k4/3P4/3P3p/3P4/5p2/5K2 w - - 0 1"]
+
+1. Re6+ $1 Kxd5 2. Re5+ Kxd4 3. Re4+ Kxd3 4. Rf4 $1 h3 5. Rf8 $1 Rh7 6. Rf7 Rh6 7. Rf6 Rxf6 1/2-1/2
+
+[Event ".c Revista de Romana de Sah (tt) (v)"]
+[Source "Revista de Romana de Sah/5"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B7/P7/1K6/8/8/8/p7/1k6 w - - 0 1"]
+
+1. Be4+ $1 Kb2 2. a8=Q a1=Q 3. Qh8+ Ka2 4. Bd5+ Kb1 5. Qh1+ Kb2 6. Qg2+ Ka3 7. Qf3+ Kb2 8. Qe2+ Ka3 9. Qd3+ Kb2 10. Qd2+ Ka3 11. Ka5 $1 (11. Kb5 $2 Qb1+ 12. Ka5 Qb5+ 13. Kxb5) Qd4 12. Qc1+ (12. Qxd4 $2) 1-0
+
+[Event ".c Olympic ty"]
+[Source "EG#04454."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k1K/8/5P2/q7/8/8/3p2p1/1Q6 w - - 0 1"]
+
+1. Qh7 $1 Qh5 2. Qxh5 g1=Q 3. Qh7 Qh2 4. Qxh2 d1=Q 5. Qh6+ (5. Qh7 $2 Qh5 6. Qxh5) Kf7 6. Qg7+ Ke6 {<eg>} 7. f7 Qh5+ 8. Kg8 1-0
+
+[Event ".c Azerbaijan ty"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/K7/PP6/1k6/6B1/4P3/6p1/2b4n w - - 0 1"]
+
+1. b7 $1 Bxe3+ 2. Ka8 Ba7 (Bf4 3. a7 g1=Q 4. b8=Q+) 3. Kxa7 g1=Q+ 4. Ka8 Qg2 5. Bh3 Qf3 6. Bg4 Qe4 7. Bf5 Qd5 8. Be6 Qc6 9. Bd7 Qxd7 10. b8=Q+ Kxa6 11. Qd6+ Qxd6 1/2-1/2
+
+[Event "Canadian Chess Chat"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1P1PQ1P1/8/1p6/2p1p3/4q3/5p2/k2K4 w - - 0 1"]
+
+1. Qf6+ $1 Kb1 2. Qxf2 Qxf2 3. b8=Q Qc2+ $1 (e3 4. Qxb5+ Ka1 5. Qa4+) 4. Ke1 e3 5. Qxb5+ Kc1 6. Qxc4 $1 Qxc4 7. d8=Q Qc2 8. Qc7 $1 Qxc7 9. g8=Q Qc2 10. Qc4 $1 Qxc4 1/2-1/2
+
+[Event ".hm Chervoni Girnik"]
+[Source "EG#06312."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/1K5B/8/4p3/4P3/p6p/P7/8 w - - 0 1"]
+
+1. Bg6+ $1 Ke7 2. Bh5 Kf6 3. Bg4 h2 4. Bf3 Kg5 5. Kc6 Kf4 6. Bh1 Ke3 7. Kd5 Kd3 8. Kxe5 Kc3 9. Kd6 Kb2 10. e5 Kxa2 11. e6 Kb2 12. e7 a2 13. e8=Q a1=Q 14. Qe5+ Kb1 15. Be4+ Ka2 16. Bd5+ Kb1 17. Qe1+ Kb2 18. Qd2+ Ka3 19. Kc5 Qg1+ 20. Kb5 Qf1+ 21. Ka5 1-0
+
+[Event "4.c Solidarity ty"]
+[Source "EG#06286."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K2/7p/1n4Pk/8/8/4n2P/7B/4b3 w - - 0 1"]
+
+1. g7 $1 Nd7+ 2. Kf7 Nf6 3. Bf4+ (3. Kxf6 $2 Bc3+ 4. Be5 Bxe5+ 5. Kxe5 Kxg7) Kh5 4. Kxf6 Bc3+ 5. Be5 Bxe5+ 6. Kxe5 Ng4+ 7. hxg4+ Kh6 8. g8=N+ Kg5 9. Nf6 h6 10. Ke6 Kg6 11. Ne4 h5 12. g5 h4 13. Ke5 h3 14. Kf4 1-0
+
+[Event "2.c Nadareishvili JT Molodost Gruzzi"]
+[Source "EG#05399."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/8/2R5/8/8/7R/3pp1b1/Bk4b1 w - - 0 1"]
+
+1. Rb3+ $1 Ka2 2. Rb2+ Kxa1 3. Rxd2 Bh2+ (e1=Q {<main>} 4. Rd1+ Qxd1 5. Rc1+ Qxc1) 4. Kc8 (4. Ka7 $2 e1=Q 5. Rxg2 Bg1+ $1) Bh3+ (e1=Q {<main>} 5. Ra6+ Kb1 6. Ra1+ Kxa1 7. Rd1+ Qxd1) 5. Kd8 e1=Q 6. Ra6+ Kb1 7. Ra1+ Kxa1 8. Ra2+ Kb1 9. Ra1+ Kxa1 1/2-1/2
+
+[Event "2/3.sp.p Friendship-200 AT (c)"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/4P1P1/1p4pk/6p1/6n1/6P1/p3P3/8 w - - 0 1"]
+
+1. g8=N+ $1 Kh5 2. e8=N $1 a1=Q+ 3. Ng7+ Qxg7+ 4. Kxg7 b5 5. e4 b4 6. e5 b3 7. e6 b2 8. e7 b1=Q 9. e8=N $1 Qb7+ 10. Kh8 Qf7 11. Ng7+ Qxg7+ 12. Kxg7 Ne5 13. Nf6# 1-0
+
+[Event "Soplis Tskhovreba"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/R7/8/4b3/N6K/4p3/7k w - - 0 1"]
+
+1. Nc2 $1 Bxc2 2. Ra1+ Bd1 3. Ra2 $1 Bc2 4. Ra1+ Bd1 5. Ra2 e1=Q 6. Rh2+ Kg1 7. Rh1+ (7. Rg2+ {<or>} Kf1 8. Rg1+ Kxg1) Kxh1 1/2-1/2
+
+[Event "5.hm Bron JT"]
+[Source "EG#06420."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5KPp/P2pP1rk/3P2p1/3R2P1/8/4p3/4r3 w - - 0 1"]
+
+1. g8=N+ $1 Rxg8 2. Kxg8 Rc1 3. Re4 e1=Q 4. Rxe1 Rxe1 5. a7 Ra1 6. e7 Rxa7 7. e8=R (7. e8=Q $2 Rg7+ 8. Kf8 Rg8+ 9. Kxg8) Rg7+ 8. Kh8 Rg6 9. Rf8 Rg7 10. Rf6+ Rg6 11. Rf1 (11. Rf2 {<or>}) (11. Rf3 {<or>}) Rg7 12. Re1 Rg6 13. Rh1# 1-0
+
+[Event "Lelo"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3Q1K2/q6k/8/6P1/6b1/8/4p3/8 w - - 0 1"]
+
+1. Qd3+ $1 Kh8 2. Qc3+ Kh7 3. Qc2+ Kh8 4. Qb2+ Kh7 5. Qb1+ Kh8 6. Qh1+ Bh5 7. Qxh5+ Qh7 8. g6 Qxh5 9. g7+ Kh7 10. g8=Q+ Kh6 11. Qg7# 1-0
+
+[Event ".c Baku ty"]
+[Source "EG#06790."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3K4/R2P4/8/8/8/3k4/4p3/2r5 w - - 0 1"]
+
+1. Ra3+ $1 Kd4 2. Ra4+ Kd5 3. Ra5+ Ke6 4. Ra6+ Kf7 5. Rh6 Ra1 (e1=Q {<main >} 6. Rf6+ Kg7 7. Rg6+ Kh7 8. Rh6+ Kxh6) 6. Rh7+ Kf6 7. Rh6+ Kf5 8. Rh5+ Ke6 9. Rh6+ Kd5 10. Rh5+ Kc6 11. Rh6+ Kb7 12. Re6 e1=Q 13. Rxe1 Rxe1 1/2-1/2
+
+[Event "sp.p Chavchavadze MT"]
+[Source "EG#07747."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "Q7/7P/7q/8/8/5K1k/5p2/8 w - - 0 1"]
+
+1. Qc8+ $1 Kh2 2. Qc7+ (2. Qb8+ $2 Kh1 3. Kxf2 Qf4+ 4. Qxf4) Kh1 3. Qc1+ Qxc1 4. h8=Q+ Kg1 5. Qg7+ (5. Qg8+ {<or>}) Kf1 6. Qg2+ Ke1 7. Qxf2+ Kd1 8. Qe2# 1-0
+
+[Event "7.p Chavchavadze MT"]
+[Source "EG#07741."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k2b4/3b4/5R2/8/8/7P/r5K1/6R1 w - - 0 1"]
+
+1. Rf2 $1 Bc6+ 2. Kg3 (2. Kf1 $2 Ra1+ 3. Ke2 Bb5+) Bc7+ 3. Rf4 Ra3+ 4. Kg4 Bd7+ 5. Rf5 Ra4+ 6. Kg5 Bd8+ 7. Rf6 Ra6 8. Rgf1 Bb5 9. R1f3 (9. R1f2 {<or>}) (9. R1f4 {<or>}) (9. R1f5 {<or>}) Rxf6 10. Rxf6 Bd3 11. h4 Bc2 12. h5 Bb1 13. Kh6 (13. h6 $2 Bh7) Bxf6 1/2-1/2
+
+[Event "Sachová Skladba#01500"]
+[Source "Sachová Skladba/12"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6r1/4R1Pp/6p1/6K1/6P1/2p5/2p5/6k1 w - - 0 1"]
+
+1. Re1+ $1 Kf2 2. Rc1 Ke3 3. Rxc2 Kd3 4. Rxc3+ $1 Kxc3 5. Kh6 Rxg7 $1 6. g5 $1 (6. Kxg7 $2 h5) Rg8 (Rb7 {<main>}) 7. Kxh7 Rf8 $1 8. Kxg6 Kd4 9. Kh7 Ke5 10. g6 Kf6 (Rf4 11. g7 Kf6 12. g8=N+ Kf7 13. Nh6+) 11. g7 Rf7 12. Kh8 $1 Rxg7 1/2-1/2
+
+[Event "Leninskoye Znamja"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K6R/6rP/8/8/8/8/3k2p1/8 w - - 0 1"]
+
+1. Rd8+ $1 Kc2 2. Rc8+ Kb1 3. Rb8+ Ka2 4. h8=Q g1=Q 5. Qh2+ $1 Qxh2 6. Rb2+ Kxb2 (Qxb2) 1/2-1/2
+
+[Event "1.p Tidskrift för Schack#1755"]
+[Source "Tidskrift foer Schack/6-7 EG#03200"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Kalandadze, Velimir Esifovich"]
+[Composer2 "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7K/p5RR/7p/8/p6p/5k2 w - - 0 1"]
+[PlyCount "37"]
+
+1. Rf5+ Ke1 2. Re5+ Kd1 3. Rd5+ Kc1 4. Rc5+ Kb1 5. Rb5+ Kc1 (Ka1 $144 6. Rxh4 $18 a4 7. Rxh2 a3 8. Rh1#) 6. Rhc5+ Kd1 7. Rd5+ Ke1 8. Re5+ Kf1 9. Rf5+ Kg1 10. Rg5+ Kf1 (Kh1 $144 11. Rxa5 $18 h3 12. Ra3 a1=Q 13. Rxa1#) 11. Rbf5+ Ke1 12. Re5+ Kd1 13. Rxa5 h1=Q 14. Rxa2 Qc6+ 15. Rg6 Qc1+ 16. Kh5 $1 (16. Kh7 $143 Qc5 17. Rg1+ Qxg1 18. Ra1+ Ke2 19. Rxg1 Kf3 $11) Qc5+ 17. Rg5 Qd4 18. Rg1+ $1 Qxg1 19. Ra1+ $18 Ke2 20. Rxg1 $18 1-0

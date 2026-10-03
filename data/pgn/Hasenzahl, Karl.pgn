@@ -1,0 +1,12 @@
+[Event "Schach Echo#441"]
+[Date "1964.02.23"]
+[Round "?"]
+[Composer "Hasenzahl, Karl"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/pP3B2/1p6/1k1Nb3/rPp1b3/8/8/8 w - - 0 1"]
+
+1. Be8+ $1 Ka6 2. Nc7+ $1 (2. Bxa4 $2 Bxd5 3. Bb5+ Kxb5 4. Kxa7) Bxc7 3. Bb5+ Kxb5 1/2-1/2

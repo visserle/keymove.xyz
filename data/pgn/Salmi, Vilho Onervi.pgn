@@ -1,0 +1,12 @@
+[Event "Helsingin Sanomat"]
+[Date "1936.09.27"]
+[Round "?"]
+[Composer "Salmi, Vilho Onervi"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/8/8/k2N4/Pp2p3/1P2B3/P7/7q w - - 0 1"]
+
+1. Kb7 $1 Qh7+ 2. Nc7 Qg6 3. Bc5 $1 e3 4. Nd5 Qa6+ (Qf7+ 5. Ne7 Qxe7+ (Qe6 6. Nc6+) 6. Bxe7 e2 7. Bd8#) 5. Kc7 Qh6 (Qa8 6. Bb6+ Ka6 7. Nxb4#) 6. Bb6+ Qxb6+ 7. Nxb6 e2 (Ka6 8. Nd5 e2 9. Nxb4+ Ka5 10. Nc2) 8. Kb7 e1=Q 9. Nc4# 1-0

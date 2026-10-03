@@ -1,0 +1,25 @@
+[Event "1.p Chelyabinsk Rabochi"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Dedeshin, Viktor"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/6pP/6P1/3P4/P2p2p1/3P2p1/1b4Pp/7K w - - 0 1"]
+
+1. a5 $1 Ba3 2. a6 Bc5 3. d6 Bxd6 4. a7 Bf8 5. a8=N Bd6 6. Nb6 Be5 7. Nc4 Bc7 8. Nd2 Bd6 9. Ne4 Bf4 10. Nc5 Be5 11. Ne6 Bf6 12. Nf4 Be5 13. Ne2 Bf4 14. Nxd4 Be5 15. Nc6 Bf6 16. d4 Bxd4 17. Nd8 Bf6 18. Nf7# 1-0
+
+[Event "source unknown"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Dedeshin, Viktor"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p3p1/2P3pk/6pp/8/6p1/P5P1/6K1 w - - 0 1"]
+
+1. a4 $1 g4 2. a5 Kg5 3. a6 Kh4 4. a7 g5 5. a8=N g6 6. Nb6 cxb6 7. c7 b5 8. c8=N b4 9. Ne7 b3 10. Nxg6# 1-0

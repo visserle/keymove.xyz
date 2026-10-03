@@ -1,0 +1,274 @@
+[Event "5.hm 64 (c)"]
+[Source "64/6 (c): Garcia=M Estudios Artisticos de Ajedrez - IV-4 2012."]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Grzeban, Grzegorz (Gregor Bagdasarian)"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/1p6/7p/7P/2N4p/7B/6p1/5k2 w - - 0 1"]
+
+1. Ne3+ $1 Kf2 2. Nxg2 $1 Kg3 3. Bc8 $1 Kxg2 4. Bxb7+ Kg3 5. Ke7 Kg4 6. Kf6 Kxh5 7. Bf3# 1-0
+
+[Event "Szachy"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Grzeban, Grzegorz (Gregor Bagdasarian)"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/5K1n/3P4/1P6/4b3/8/8/8 w - - 0 1"]
+
+1. d7 $1 Ng5+ 2. Ke7 Ne6 3. Kxe6 Bf5+ 4. Kxf5 Kc7 5. Ke6 Kd8 6. Kd5 Kxd7 7. b6 1-0
+
+[Event "1.p Przyjazn (@2)"]
+[Source "î@: Tidskrift for Schack=3 3/1960."]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Grzeban, Grzegorz (Gregor Bagdasarian)"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6P1/1r1p4/4R2p/2R4P/p2p4/k1pP4/n1K5 w - - 0 1"]
+
+1. Rb5 $1 (1. Rb4 $2 Rxb4 2. Rb5 Rb1+) Rxb5 (Nb3+ 2. Rxb3 Rxb3 3. Rxc2+ Rb2 $1 (dxc2 4. g8=Q) 4. g8=Q+ Ka1 5. Qg7 dxc2 6. Qc3 Ka2 7. Qc4+) 2. Rb4 $1 Rxb4 (Rf5 3. g8=Q+ d5 4. Qg2 Re5 5. Qg3 Re4 6. Rb7 Rg4 7. Qf2 Nb3+ 8. Rxb3 Kxb3 9. Qb6+ Rb4) 3. g8=Q+ Nb3+ (Rb3 {<main>} 4. Qd5 $1 (4. Qf7 $1 {<minor dual>} d5 5. Qxd5) (4. Qe6 $1 { <minor dual>} d5 5. Qxd5) (4. Qc4 $1 {<minor dual>} d5 5. Qxd5)) 4. Qxb3+ Rxb3 (Kxb3) 1/2-1/2
+
+[Event "2.p Zadaniowiec"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Grzeban, Grzegorz (Gregor Bagdasarian)"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/1p1p4/p2P3P/p5p1/P2n2P1/5p1K/p6B/8 w - - 0 1"]
+
+1. h7 $1 a1=Q 2. h8=Q+ Ka7 3. Qxd4+ Qxd4 4. Bg1 f2 (Qxg1) 5. Bxf2 Qb6 (Qxf2) 6. Bg1 Qxg1 1/2-1/2
+
+[Event "3.p Szachy#069"]
+[Source "5.p Polish champ 1955-1956."]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Grzeban, Grzegorz (Gregor Bagdasarian)"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/B7/8/1B1Nk3/8/p7/p7/8 w - - 0 1"]
+
+1. Bd4+ $1 (1. Nb4 $2 a1=Q 2. Bd4+ Qxd4 $1 3. Nc6+ Kd5 4. Nxd4 Kxd4) Kxd4 2. Nb4 a1=Q (Kc5 3. Nxa2 Kxb5 4. Kf7 Kc4 5. Nc1 Kc3 6. Ke6 Kc2 (Kb2 7. Nd3+) 7. Na2 Kb2 8. Nb4) 3. Nc2+ Kc5 $1 4. Nxa1 Kxb5 5. Kf7 (5. Nc2 $2 a2) Kc4 6. Ke6 Kc3 7. Kd5 Kb2 (a2 {<main> } 8. Ke4 Kb2 9. Kd3 Kxa1 10. Kc2) 8. Kc4 Kxa1 9. Kb3 a2 10. Kc2 1/2-1/2
+
+[Event "Szachy"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Grzeban, Grzegorz (Gregor Bagdasarian)"]
+[White "Grzeban, G"]
+[Black " Hildebrand, A."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/N7/3R4/2K5/P1p1r3/k7/8 w - - 0 1"]
+
+1. Nb4+ $1 (1. a4 $2 Ka3 $1 (Re4+ $2 2. Kxc3 Rxa4 3. Nb4+ Ka3 4. Rd1 $1) 2. Kb5 c2 3. Rc5 Re5 $1) (1. Ra5 $2 c2 2. Nb4+ Kb2 3. Nxc2 Kxc2) Kxa3 $1 2. Nc2+ Ka4 $1 3. Nxe3 c2 4. Nd1 $1 (4. Nxc2 $2) c1=Q+ 5. Nc3+ Ka3 6. Ra5+ Kb2 7. Ra2# 1-0
+
+[Event "Tijdschrift v.d. KNSB#552"]
+[Source "Tijdschrift v.d. KNSB/11"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Grzeban, Grzegorz (Gregor Bagdasarian)"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2bB4/8/q5pp/7k/p3QP2/1p3P1N/7p/7K w - - 0 1"]
+
+1. f5 $1 Qf1+ 2. Kxh2 Qxh3+ $1 3. Kxh3 Bxf5+ 4. Qg4+ $1 Bxg4+ 5. fxg4# 1-0
+
+[Event "Tidskrift for Schack#0792"]
+[Source "Tidskrift for Schack/9"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Grzeban, Grzegorz (Gregor Bagdasarian)"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "R3K3/p7/1pk5/PR2p3/1P2P3/8/8/2r4r w - - 0 1"]
+
+1. Rd5 $1 Rh8+ 2. Ke7 Rxa8 3. b5+ Kc7 (Kb7 { <main>} 4. a6+ Kc7 5. Rd7+ Kb8 6. Rd8+ Rc8 7. Kd7 Rxd8+ 8. Kxd8) 4. Rd7+ Kb8 $1 5. Rd8+ Rc8 6. a6 $1 Rxd8 (Kc7 7. Rd7+ Kb8 8. Rb7#) 7. Kxd8 1/2-1/2
+
+[Event "Szachy#165 (c)"]
+[Source "(c): Garcia=M Krug=P Estudios Artisticos de Ajedrez - XVII-32 2015."]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Grzeban, Grzegorz (Gregor Bagdasarian)"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1q6/p7/B5p1/8/p6K/8/5k2/Q7 w - - 0 1"]
+
+1. Qf1+ $1 Ke3 2. Qe2+ (2. Qe1+ $2 Kd4 3. Qd2+ Kc5 4. Qc3+ Kd5) Kd4 (Kf4 3. Qh2+ Ke3 4. Qxb8) 3. Qd3+ Kc5 (Ke5 4. Qg3+ Kd4 5. Qxb8) 4. Qc4+ Kd6 (Kb6 5. Qb5+ Kc7 6. Qe5+) 5. Qf4+ Kc5 6. Qxb8 1-0
+
+[Event "3.c Tijdschrift v.d. KNSB#698"]
+[Source "Tijdschrift v.d. KNSB/12 2.p Polish champ 1959-1960."]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Grzeban, Grzegorz (Gregor Bagdasarian)"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k1K3/p1p5/P7/2PN4/8/1q6/6B1/8 w - - 0 1"]
+
+1. Ne7+ $1 Kb8 2. Nc6+ (2. Bb7 $2 Qe6 3. Kd8 Qf6) Kc8 3. Nxa7+ Kb8 4. Nc6+ Kc8 5. Ne7+ Kb8 6. a7+ $1 Kxa7 7. Nc6+ Ka6 8. Bf1+ Qb5 9. Bd3 (9. Bxb5+ $2 Kxb5) Qxd3 10. Nb4+ Kb5 11. Nxd3 1-0
+
+[Event "3.hm L'Italia Scacchistica#2959"]
+[Source "4.p Polish champ 1959-1960."]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Grzeban, Grzegorz (Gregor Bagdasarian)"]
+[White "Grzeban, G"]
+[Black " Tomczak, W."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3b4/Bn6/1P6/k1p5/8/1K1R4/8/8 w - - 0 1"]
+
+1. Kc4 $1 (1. Rd7 $2 Ka6) Ka6 (Ka4 2. Rd7) 2. Ra3+ Na5+ 3. Rxa5+ $1 (3. Kxc5 $2 Be7+) Kxa5 4. b7 Bc7 5. Kxc5 Bb6+ (Ka6 6. Kc6 Bh2 7. Bb6 Bb8 8. Bd8) 6. Bxb6+ Ka6 7. b8=N+ $1 (7. b8=Q $2) (7. b8=R $2) (7. b8=B $2 Kb7) 1-0
+
+[Event "Thèmes 64#0594"]
+[Source "Thèmes 64/4-6"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Grzeban, Grzegorz (Gregor Bagdasarian)"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/Pn6/8/8/8/1R2K2p/6k1 w - - 0 1"]
+
+1. Rb1+ $1 (1. Kd3 $2 h1=Q 2. Rb1+ Kh2 3. Rxh1+ Kxh1 4. Kd4 Kg2 5. Kc5 Kf3 6. Kc6 Na8 $1 7. a7 Ke2 8. Kb7 c5 9. Kxa8 c4 10. Kb8 c3 11. a8=Q c2 $1) Kg2 2. Rxb6 cxb6 $1 (h1=Q 3. Rg6+ Kh2 4. Rh6+) 3. a7 h1=Q 4. a8=Q+ Kh2 (Kg1 {<main>} 5. Qa1+ $1 Kh2 (Kg2 6. Qg7+ Kh3 7. Qh6+ Kg2 8. Qg5+ Kh3 9. Qh5+ Kg2 10. Qg4+ Kh2 11. Kf2) 6. Qe5+ Kh3 7. Qh5+ Kg2 8. Qg4+ Kh2 9. Kf2) 5. Qh8+ $1 Kg1 6. Qd4+ Kh2 7. Qh4+ Kg2 8. Qg4+ Kh2 9. Kf2 $1 1-0
+
+[Event "1.p Perlis MT"]
+[Source "1.p Polish champ 1959-1960."]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Grzeban, Grzegorz (Gregor Bagdasarian)"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/KP1b3P/1P2k3/8/3P4/n7/2P4b/7r w - - 0 1"]
+
+1. d5+ $1 (1. h8=Q $2 Nb5+ 2. Ka8 Ra1#) (1. b8=Q $2 Bxb8+ 2. Kxb8 Rxh7) Kxd5 2. h8=Q (2. c4+ $2 Nxc4 $1 (Kc5 $2 3. h8=Q Bb8+ 4. Ka8 Rxh8) 3. h8=Q Bb8+ 4. Ka8 Nxb6+ 5. Kxb8 Rxh8+ 6. Kc7 Kc5) Bb8+ $1 3. Qxb8 (3. Kxb8 $2 Rxh8+ 4. Kc7 Nb5+ 5. Kxd7 Kc5) Nb5+ 4. Ka8 Ra1+ 5. Qa7 Rxa7+ (Nxa7 6. bxa7 Bc6 7. Kb8) 6. bxa7 Nc7+ 7. Kb8 Na6+ 8. Ka8 Ba4 $1 (Bc6 {<main>} 9. c4+ Kd6 10. c5+ Kd5) (Kc6 {<main>} 9. b8=N+ $1 Kc7 10. Nxd7 $1 Kc8 {<eg>} 11. Nb6+ Kc7 12. Nd5+) 9. b8=R $1 (9. b8=Q $2 Bc6+ 10. Qb7 Kd6 11. c3 $1 Kd5 12. c4+ Kc5 13. Qxc6+ Kxc6 14. c5 Kc7 15. c6 Kc8 16. c7 Nxc7#) (9. c4+ $2 Kc6 $1 10. c5 Bb5 $1 11. b8=N+ Kc7 12. Nxa6+ Bxa6 13. c6 Kc8 14. c7 Bb7#) Bc6+ 10. Rb7 Kd6 11. c4 Kc5 (Bh1 12. c5+ Kc6 13. Rh7) 1/2-1/2
+
+[Event "Thèmes 64#0626"]
+[Source "Thèmes 64/4-6"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Grzeban, Grzegorz (Gregor Bagdasarian)"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/5pN1/2N1p2K/4pp2/4kBR1 w - - 0 1"]
+
+1. Rh1 $1 (1. Nxe2 $2 fxg1=Q 2. Nxg1 Kxf1 3. Nf3 e2 $1) exf1=Q+ (f3 2. Nxe3) 2. Rxf1+ Kxf1 3. Nh2+ Ke1 (Kg1 {<main>} 4. Ne2+ Kh1 5. Nf1 f3 6. Nfg3#) 4. Nf3+ Kf1 5. Kh2 e2 6. Kh1 e1=Q 7. Nh2# 1-0
+
+[Event "3.p Havasi MT Magyar Sakkélet (c)"]
+[Source "Magyar Sakkélet/8"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Grzeban, Grzegorz (Gregor Bagdasarian)"]
+[White "Grzeban, G"]
+[Black " Trzesowski, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3K1k2/7p/2r3PP/4P3/8/8/8/8 w - - 0 1"]
+
+1. Kd7 $1 (1. gxh7 $2 Rxh6) Rxg6 (Ra6 2. g7+) 2. e6 Rg8 3. Kd8 $1 Rh8 4. Kd7 $1 1/2-1/2
+
+[Event "1.c Szachy#607"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Grzeban, Grzegorz (Gregor Bagdasarian)"]
+[White "Grzeban, G"]
+[Black " Hildebrand, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/2p5/1pP1K2R/8/p7/k7 w - - 0 1"]
+
+1. Kd3 $1 b3 (Kb2 {<main>} 2. Rh2+ Ka3 3. Rh1 b3 4. Kc3 b2 5. Rh8 b1=N+ $1 6. Kc2 Nc3 $1 7. Rh1 $1 (7. Ra8+ $2 Na4 8. Rxa4+ Kxa4 9. Kb2 Kb4 $1 10. Kxa2 Kxc4) Kb4 8. Kb2 Kxc4 9. Rh4+ $1 (9. Rc1 $2 Kd4 10. Rxc3 a1=Q+ 11. Kxa1 Kxc3) Kd3 10. Rh3+ Kd4 11. Rh4+) 2. Kc3 b2 3. Rh1+ $1 b1=Q (b1=N+ { <main>} 4. Kc2) (b1=R 4. Rh2 Rb4 (Re1 5. Kc2 Rb1 6. Kc3) 5. Rh1+) 4. Rd1 $1 Qxd1 1/2-1/2
+
+[Event "Szachy#25 (c)"]
+[Source "Szachy/10 (c): Garcia=M Estudios Artisticos de Ajedrez - IV-5 2012."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Grzeban, Grzegorz (Gregor Bagdasarian)"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/P7/1Pk5/2P5/1n4bp/7p/7P/8 w - - 0 1"]
+
+1. b7 $1 (1. Kb8 $2 Na6+ 2. Ka8 Bc8 3. b7 Bxb7#) Na6 $1 2. b8=N+ $1 (2. b8=Q $2 Nc7+ 3. Qxc7+ Kxc7 4. c6 Kc8 5. c7 Bf3#) Kc7 3. Nxa6+ (3. Nc6 $2 Nxc5) (3. c6 $2 Nc5 4. Na6+ Kxc6 5. Nb4+ Kd7 6. Kb8 Bf3 7. a8=Q Bxa8 8. Kxa8 Ne4 9. Nd3 Nd2 10. Nf4 Nf3 11. Nxh3 Nxh2) Kc8 4. c6 (4. Nb4 $2 Bd7 $1 5. c6 Be8 6. c7 Bb5 7. Nd5 Bc6#) Bd1 (Bf3 {<main>} 5. Nb4 Bg2 6. Nd5 $1 Bxd5) 5. Nc5 $1 (5. Nb4 $2 Ba4 $1 6. c7 Be8 7. Nd5 Bc6#) (5. Nc7 $2 Ba4 $1) Bf3 6. Nb7 (6. Ne4 $2 Kc7 (Bxe4 $2) 7. Nc5 Bxc6+ 8. Nb7 Bxb7#) Bxc6 1/2-1/2
+
+[Event "2.c L'Italia Scacchistica#436"]
+[Source "L'Italia Scacchistica/11 EG#06257.20.p Polish champ Problemista 1983-1985."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Grzeban, Grzegorz (Gregor Bagdasarian)"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/3p4/2B2pr1/3N1K2/7p/7k w - - 0 1"]
+
+1. Nf2+ $1 Kg1 2. Nh3+ Kh1 3. Bxd5 Rg3+ $1 (Rg2 4. Be4 $1 Rg8 5. Kxf4+ Rg2 6. Kf3 Rg8 7. Kf2+ Rg2+ 8. Bxg2#) 4. Kf2+ (4. Kxf4+ $2 Rg2 5. Kf3 Rd2 6. Be4 Rd4) f3 5. Nf4 $1 Rh3 6. Ne2 (6. Nh5 {<or>}) Rg3 7. Nxg3# 1-0
+
+[Event "3.c Czechoslovaki ty"]
+[Source "EG#06450."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Grzeban, Grzegorz (Gregor Bagdasarian)"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/2p3p1/1kp3p1/1p4P1/1PP1p3/1P6/p7/1B6 w - - 0 1"]
+
+1. c5+ $1 (1. Bxa2 $2 e3 2. c5+ Ka6 3. Bb1 e2 4. Be4 e1=Q 5. Bxc6 Qe8+ 6. Bxe8 c6 7. Bd7) Ka6 2. Bxe4 a1=Q 3. Bxc6 Qh1 4. Bxh1 c6 5. Bd5 cxd5 6. Kb8 d4 7. c6 1-0
+
+[Event "Panorama Szachowa"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Grzeban, Grzegorz (Gregor Bagdasarian)"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/3p3B/8/2N1K3/8/pr6/1k6 w - - 0 1"]
+
+1. Na3+ $1 Ka1 2. Bg7 d5+ 3. Kd3 d4 4. Bxd4 d6 5. Kc4 d5+ 6. Kc3 Re2 7. Kb3+ Rb2+ 8. Bxb2# 1-0

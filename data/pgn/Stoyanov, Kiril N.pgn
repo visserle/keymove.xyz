@@ -1,0 +1,27 @@
+[Event "2.hm Perusa MT (@2)"]
+[Source "5.p@Bulgaria champ 1956-1959. also Tidskrift for Schack#0880 Tidskrift for Schack=8 Tidskrift for Schack/10 1959. î2: Tidskrift for Schack=3 3/1960."]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Stoyanov, Kiril N"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/1p1p4/k1P5/5pp1/r5P1/4P3/6P1/8 w - - 0 1"]
+
+1. cxd7 $1 Kb6+ 2. Kb8 Ra8+ $1 3. Kxa8 Kc7 4. d8=Q+ $1 Kxd8 5. Kxb7 f4 $1 6. e4 $1 Kd7 7. e5 $1 (7. Kb8 $1 {<minor dual>} Kd8 8. e5) Ke6 8. Kc6 Kxe5 9. Kd7 Ke4 (Kf6 10. Kd6 Kf7 11. Ke5) 10. Ke6 Ke3 11. Kf5 Kf2 12. Kxg5 Kg3 13. Kf5 Kh4 14. g5 $1 (14. Kxf4 $2) 1-0
+
+[Event "Shakhmatna Misl#124"]
+[Source "Shakhmatna Misl/8"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Stoyanov, Kiril N"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "b2k4/1Rp5/q1P1K3/Ppp5/3N4/2P5/8/8 w - - 0 1"]
+
+1. Rb8+ $1 Qc8+ 2. Rxc8+ Kxc8 3. Nxb5 Bxc6 4. Na7+ Kb7 5. Nxc6 Kxc6 6. c4 $1 Kb7 7. Kd7 Ka6 8. Kxc7 Kxa5 9. Kc6 Kb4 10. Kd5 $1 1-0

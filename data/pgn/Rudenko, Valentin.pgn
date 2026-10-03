@@ -1,0 +1,16 @@
+[Event "3.hm Shakhmatna Misl#09"]
+[Source "Shakhmatna Misl/1"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Rudenko, Valentin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "2K5/p7/k7/1p6/PP6/3p4/8/6B1 w - - 0 1"]
+
+1. Kc7 $1 (1. Bf2 d2) d2 2. Kc6 $1 (2. Bd4 $4 d1=Q 3. axb5+ Kxb5 $19 4. Bxa7 Kxb4 5. Bc5+ Kxc5) (2. axb5+ $4 Kxb5 3. Bxa7 d1=Q) (2. Bb6 $4 axb6 3. axb5+ Kxb5) (2. Be3 $4 d1=Q 3. axb5+ Kxb5 4. Bxa7 Kxb4 5. Bc5+ Kxc5) (2. Kb8 $4 d1=Q 3. axb5+ Kxb5 4. Kxa7 Qxg1+ 5. Kb7 Qe1) (2. Bh2 d1=Q 3. axb5+ Kxb5) (2. Bf2 bxa4) bxa4 (d1=Q 3. axb5#) 3. Bd4 $1 (3. b5+ $4 Ka5 $19 4. Bxa7 d1=Q) (3. Bc5 $4 d1=Q 4. b5+ Ka5 $19) (3. Be3 $4 d1=Q 4. b5+ Ka5) (3. Bh2 $4 d1=Q 4. b5+ Ka5) (3. Bb6 $4 axb6 4. b5+ Ka5) (3. Kc5 $4 a3 4. b5+ Kb7) (3. Bf2 $4 d1=Q 4. b5+ Ka5) (3. Kc7 a3) (3. Kd5 d1=Q+ 4. Bd4 a3) d1=N $1 (d1=Q 4. b5+ (4. Bc3 $4 Qf3+ 5. Kd6 Qxc3 6. b5+ Kb6 $19) (4. Bc5 $4 Qh1+ 5. Kd6 Qe4 6. b5+ Kxb5) (4. Kc5 $4 Qc2+ 5. Kd5 a3) Ka5 5. Bc3# (5. b6 $4 Qxd4 6. bxa7 Qxa7) (5. Kc5 $4 Qd3 6. Be5 Qf5) (5. Bxa7 a3 6. Bb6+ Ka4)) (a3 4. Bc3) 4. b5+ $1 (4. Be5 $2 a3 5. Bf6 a2 6. Be5 a1=Q 7. Bxa1 Nc3 $1 8. Bxc3) Ka5 5. Bxa7 Nc3 $1 6. Bb6+ $3 (6. b6 $2 Na2 (Ka6 7. b7 Kxa7 8. Kc7 Nb5+ 9. Kc8 Nd6+) 7. b7 Nb4+ 8. Kd6 Na6 $10) (6. Kc5 $2 a3 7. Kc4 $10) (6. Be3 $2 a3 7. b6 $10) (6. Bd4 $2 Nxb5 7. Bc5 $10) (6. Bc5 $2 a3 7. b6) (6. Bf2 $2 a3 7. b6) Kb4 7. Bc5+ (7. Bd4 $2 a3 8. b6 Kc4 9. b7) (7. Be3 a3 8. b6) Kc4 (Kb3 {<eg>} 8. b6) 8. b6 $18 (8. Bd6 $2 a3 9. b6) (8. Kd6 $4 Ne4+ 9. Ke5 Nxc5) (8. Bb4 a3 9. b6 Kxb4 10. b7) 1-0

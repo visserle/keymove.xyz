@@ -1,0 +1,13 @@
+[Event "British Chess Magazine#0271"]
+[Source "British Chess Magazine/9"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Wood, Walter John"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/P7/1PK5/8/1p6/2n5/8/8 w - - 0 1"]
+
+1. Kc5 $1 (1. Kc7 $2 Nd5+) (1. b7+ $2 Kxa7 2. Kc7 Nb5+) b3 2. Kb4 b2 3. Ka3 b1=Q 4. b7+ Kxa7 5. b8=Q+ Kxb8 (Qxb8) 1/2-1/2

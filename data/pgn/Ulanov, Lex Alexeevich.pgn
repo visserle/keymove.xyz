@@ -1,0 +1,40 @@
+[Event "2.hm Dagestaner Committee Fizkultura i "]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Ulanov, Lex Alexeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1K3R2/7p/8/8/p4p2/1k3P2/8 w - - 0 1"]
+
+1. Kc6 $1 a2 2. Rb7+ Kc2 3. Ra7 Kb2 4. Kd5 a1=Q 5. Rxa1 Kxa1 6. Ke4 Kb2 7. Kxf3 Kc3 8. Ke4 Kc4 9. f4 h5 10. f5 Kc5 (h4 11. f6 h3 12. Kf3) 11. Ke5 Kc6 12. Ke6 h4 13. f6 h3 14. f7 h2 15. f8=Q h1=Q 16. Qa8+ 1-0
+
+[Event "1.sp.c Sportivnaya Gazeta (v)"]
+[Source "EG#04090. (v): Ulanov=L .hm Chervoni Girnik 1978."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Ulanov, Lex Alexeevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5K2/8/4p3/4k1P1/8/5n2/8/8 w - - 0 1"]
+
+1. g6 $1 Ng5 2. g7 Nh7+ 3. Kf7 Nf6 4. Kg6 Ng8 5. Kf7 Nh6+ 6. Kg6 Nf5 7. g8=N 1/2-1/2
+
+[Event "1.sp.c Sportivnaya Gazeta (@2)"]
+[Source "EG#@3141. î2: Pallier=A EG=168 4/2007."]
+[Date "1976.09.28"]
+[Round "?"]
+[Composer "Ulanov, Lex Alexeevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5K2/8/4p3/4k1P1/8/3n4/8/8 w - - 0 1"]
+
+1. g6 $1 Nc5 2. g7 (2. Kf7 $1 { <minor dual AP>}) Nd7+ 3. Kf7 Nf6 4. Kg6 Ng8 5. Kf7 Nh6+ 6. Kg6 Nf5 7. g8=N 1/2-1/2

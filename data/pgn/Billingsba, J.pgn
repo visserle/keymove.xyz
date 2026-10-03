@@ -1,0 +1,13 @@
+[Event "Chess Life & Review#0725"]
+[Source "Chess Life & Review/12"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Billingsba, J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/N7/8/6p1/8/5K1P/7k w - - 0 1"]
+
+1. h3 $1 (1. Kg3 $2 Kg1 2. Nc5 f6 $1 3. Nd3 f5 4. Nf4 Kf1 $1) gxh3 (f5 2. Kg3 gxh3 3. Kf2) 2. Nc5 Kh2 3. Nd3 Kh1 4. Ne1 Kh2 5. Nf3+ Kh1 6. Kf1 f6 7. Kf2 f5 8. Kf1 f4 9. Ne5 Kh2 10. Kf2 Kh1 11. Ng4 f3 12. Kf1 f2 13. Nxf2+ Kh2 14. Ne4 Kh1 15. Kf2 Kh2 16. Nd2 Kh1 17. Nf1 h2 18. Ng3# 1-0

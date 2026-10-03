@@ -1,0 +1,12 @@
+[Event "Canadian Chess Chat"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "McDermott, T"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3N4/4p2p/pk3B1K/N2p2PB/P7/4q3/8/8 w - - 0 1"]
+
+1. Nc4+ $1 dxc4 2. Bd4+ Qxd4 3. a5+ Kb5 4. Be8+ Kc5 5. Ne6+ Kd5 6. Nxd4 Kxd4 7. Kxh7 1-0

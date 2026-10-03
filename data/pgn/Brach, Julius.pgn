@@ -1,0 +1,12 @@
+[Event "Svobodné Slovo#275"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Brach, Julius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5r2/2p1kP2/7R/2P3N1/5b2/K7/8/8 w - - 0 1"]
+
+1. Re6+ $1 Kd7 (Kd8 2. Re8+ Rxe8 3. Ne6+) 2. c6+ Kd8 3. Re8+ Rxe8 4. Ne6+ $1 Ke7 (Rxe6 5. f8=Q+) 5. fxe8=Q+ Kxe8 6. Nxf4 1-0

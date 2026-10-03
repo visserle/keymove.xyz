@@ -1,0 +1,13 @@
+[Event "4/5.hm En Passant"]
+[Source "EG#09822."]
+[Date "1989.??.??"]
+[Round "?"]
+[Composer "Kuzlinu, W"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/6P1/3Nk2p/8/3K4/6n1 w - - 0 1"]
+
+1. g6 $1 h3 2. g7 h2 3. g8=Q Nf3+ 4. Nxf3 h1=Q 5. Qe6+ Kf4 6. Qe5+ Kg4 7. Qg5+ Kh3 8. Qh4+ Kg2 9. Ne1+ Kg1 10. Qg4+ Kh2 (Kf2 11. Nd3+ Kf1 12. Qe2+ Kg1 13. Qf2#) 11. Nf3+ (11. Qe2+ $2 Kg3) 1-0

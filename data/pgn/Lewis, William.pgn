@@ -1,0 +1,66 @@
+[Event "Oriental Chess#113 (@2)"]
+[Source "î@: Ulrichsen=J HHdbIII#66558 13-2-2003."]
+[Date "1817.??.??"]
+[Round "?"]
+[Composer "Lewis, William"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/6p1/2K2pPp/5P2/6P1/8/8/8 w - - 0 1"]
+
+1. Kd7 $1 (1. Kd6 $2 Ke8 2. Ke6 Kf8 3. Kd7) Kg8 2. Ke8 (2. Ke7 {<or>}) Kh8 3. Kf7 (3. Kf8 $1 {<minor dual JU>}) h5 4. g5 fxg5 5. f6 1-0
+
+[Event "Oriental Chess#030"]
+[Source "after Van_Zuylen_van_Nyevelt=P b5h5 1792."]
+[Date "1817.??.??"]
+[Round "?"]
+[Composer "Lewis, William"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1R6/8/8/KP3prk/6p1/8/8/8 w - - 0 1"]
+
+1. Rh8+ $1 Kg6 2. Rg8+ Kh5 3. Rxg5+ Kxg5 4. b6 g3 5. b7 g2 6. b8=Q g1=Q 7. Qg8+ 1-0
+
+[Event "Oriental Chess#116"]
+[Date "1817.??.??"]
+[Round "?"]
+[Composer "Lewis, William"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2kP4/4r3/7K/3p4/8/4R3 w - - 0 1"]
+
+1. Rxe5 $1 d2 2. Rd5 Kxd5 3. d7 d1=Q 4. d8=Q+ 1-0
+
+[Event "Chess Problems#100"]
+[Date "1827.??.??"]
+[Round "?"]
+[Composer "Lewis, William"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2B4k/6p1/7p/5P2/p6P/1p3P2/P6K/8 w - - 0 1"]
+
+1. f6 $1 g6 2. h5 1/2-1/2
+
+[Event "The Chess Player's Chronicle#006"]
+[Date "1841.??.??"]
+[Round "?"]
+[Composer "Lewis, William"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/q7/6R1/3N3P/pp5K/8/8/8 w - - 0 1"]
+
+1. Rh6+ $1 Kg7 2. Rg6+ Kf7 3. Rf6+ Ke8 4. Re6+ Kd8 5. Rd6+ Kc8 6. Nb6+ Kb8 7. Rd8+ Kc7 8. Rd7+ Kxb6 9. Rxa7 Kxa7 10. h6 b3 11. h7 b2 12. h8=Q b1=Q 13. Qd4+ 1/2-1/2

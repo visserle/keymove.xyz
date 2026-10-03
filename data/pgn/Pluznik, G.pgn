@@ -1,0 +1,12 @@
+[Event "L'Italia Scacchistica#3385"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Pluznik, G"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1Pk5/3b4/8/8/RK4p1/B7 w - - 0 1"]
+
+1. b7 $1 Kxb7 (Kc7 2. Ra8 Kxb7 (Bxb7 3. Rg8) 3. Ra7+) 2. Ra7+ Kxa7 3. Ka3 $1 g1=Q 4. Bd4+ Qxd4 1/2-1/2

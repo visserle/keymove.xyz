@@ -1,0 +1,53 @@
+[Event "Sydsvenska Dagbladet Snällposten"]
+[Date "1913.??.??"]
+[Round "?"]
+[Composer "Karstedt, Max Arn. K.S"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2Q5/8/8/8/8/1R6/pp1K4/k6r w - - 0 1"]
+
+1. Rxb2 $1 (1. Qc3 $2 Rh2+ 2. Kd1 Rh1+) Rh2+ 2. Kd3 (2. Kc3 $2 Rh3+ 3. Qxh3 (3. Kc4 Rc3+ 4. Kxc3) (3. Kb4 Rb3+ 4. Ka4 Ra3+ 5. Kxa3)) Kxb2 (Rxb2 3. Qc3 Kb1 4. Qe1#) 3. Qc3+ Kb1 4. Qb4+ Ka1 5. Qd4+ Kb1 6. Qg1+ Kb2 7. Qxh2+ 1-0
+
+[Event "Deutsches Wochenschach#1435 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - XII-41 2012."]
+[Date "1915.??.??"]
+[Round "?"]
+[Composer "Karstedt, Max Arn. K.S"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/4pp2/P2p4/8/2bP4/p7/2P5/K2B4 w - - 0 1"]
+
+1. a7 $1 Bd5 2. c4 Bb7 3. Bf3 Bxf3 4. d5 1-0
+
+[Event "Deutsches Wochenschach#1434"]
+[Date "1915.??.??"]
+[Round "?"]
+[Composer "Karstedt, Max Arn. K.S"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2p2K2/5B1p/k7/8/2P1P3/1b6 w - - 0 1"]
+
+1. e4 $1 (1. c4 $2 Ba2 2. Be6 Kb4 3. Kg6 Bxc4 4. Bxc4 Kxc4 5. Kxh5 Kd4) Bxc2 2. e5 Bb3 3. Bc2 $1 Bxc2 (c5 4. e6 $1 (4. Bxb3+ $2 Kxb3 5. e6 c4 6. e7 c3 7. e8=Q c2)) 4. e6 1-0
+
+[Event "Vossische Zeitung#25"]
+[Source "EG#18386."]
+[Date "1927.12.04"]
+[Round "?"]
+[Composer "Karstedt, Max Arn. K.S"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/p7/N1Pb4/PP5p/8/8/8/1K6 w - - 0 1"]
+
+1. b6 $1 axb6 2. Nc7+ $1 Bxc7 (Kd8 {<main>} 3. a6 Kxc7 4. a7) 3. a6 Bb8 4. c7 $1 Bxc7 5. a7 1-0

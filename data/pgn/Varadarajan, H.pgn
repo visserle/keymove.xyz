@@ -1,0 +1,13 @@
+[Event "Chess Life & Review#1475"]
+[Source "Chess Life & Review/9"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Varadarajan, H"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1N1b4/8/2p5/P7/kB6/8/2K5 w - - 0 1"]
+
+1. a5 $1 (1. Nxc5 $2 Bxa4 2. Bxa4 Kb4) Kb4 (Bb5 2. Nd6 Kb4 3. Bc4 $1 Bxc4 4. Nxc4) 2. a6 Bc6 3. Be6 Kb5 4. Bd7 $1 Kb6 5. Bxc6 Kxc6 6. Nxc5 $1 1-0

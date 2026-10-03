@@ -1,0 +1,13 @@
+[Event "Revista de Romana de Sah#0915 (@2)"]
+[Source "Rev@sta de Romana de Sah/3 î2: Revista de Romana de Sah/9 1982."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Pankratiev, Alexander Nikolayevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7P/8/8/1k6/p3K3/4B3 w - - 0 1"]
+
+1. Bc3 $1 Kxc3 2. h7 Kc2 3. h8=Q Kb1 4. Qh1+ (4. Qb8+ $1 {<minor dual>}) (4. Qh7+ $1 { <minor dual>}) Kb2 5. Kd2 a1=Q 6. Qb7+ Ka3 7. Qa6+ Kb2 8. Qb5+ Ka3 9. Qa5+ Kb2 10. Qb4+ Ka2 11. Kc2 1-0

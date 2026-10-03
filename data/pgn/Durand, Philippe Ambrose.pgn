@@ -1,0 +1,12 @@
+[Event "Le Palamède#02"]
+[Date "1839.??.??"]
+[Round "?"]
+[Composer "Durand, Philippe Ambrose"]
+[White "Durand, P"]
+[Black " Preti, J."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p6p/5K1k/1P4p1/8/6P1/8 w - - 0 1"]
+
+1. g3 $1 a5 2. b5 a4 3. b6 a3 4. b7 a2 5. b8=Q a1=Q 6. Qe8# 1-0

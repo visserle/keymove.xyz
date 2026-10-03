@@ -1,0 +1,436 @@
+[Event "Ceskoslovensky Sach#524"]
+[Source "Ceskoslovensky Sach/8-9"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2B5/p7/Pp6/2k3p1/3p2P1/1P6/PB1p4/K7 w - - 0 1"]
+
+1. Ba3+ $1 Kb5 2. Bd7+ Kxa6 (Ka5 3. b4+ Kxa6 4. Bc8+ Kb5 5. Bd7+ Kc4 6. Be6+ Kd3 7. Bb3) 3. Bc8+ Ka5 4. b4+ Ka4 5. Kb2 $1 d1=Q 6. Bd7+ b5 7. Bxb5+ Kxb5 1/2-1/2
+
+[Event "Ceské Slovo"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/K1Pk4/2pp4/3p3B/p7/8/8/5b2 w - - 0 1"]
+
+1. Kb8 $1 Ba6 2. Be2 Bc8 3. Bg4+ Ke7 4. Bxc8 a3 5. Bd7 a2 6. c8=Q a1=Q 7. Qe8+ Kf6 8. Qh8+ 1-0
+
+[Event "Ceskoslovensky Sach#515"]
+[Source "Ceskoslovensky Sach/6"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/3K4/7P/7P/6p1/8/8/8 w - - 0 1"]
+
+1. Ke6 $1 Kg8 (g3 2. Kf6 Kg8 3. Kg6) 2. Kf5 g3 3. Kg6 g2 4. h7+ Kh8 5. Kh6 g1=Q 1/2-1/2
+
+[Event "Národní Listy"]
+[Date "1933.01.22"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k1K5/p2P2q1/8/2p5/P7/8/8/5B2 w - - 0 1"]
+
+1. Bb5 $1 Qg2 2. d8=N Qg4+ 3. Bd7 Qxd7+ 4. Kxd7 c4 5. Kc8 c3 6. Ne6 c2 7. Nc7# 1-0
+
+[Event "Národní Listy"]
+[Date "1933.11.19"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6BK/6PP/8/8/k5q1/3P4/8/8 w - - 0 1"]
+
+1. Bb3+ $1 Ka3 $1 2. g8=Q Qd4+ 3. Qg7 Qd8+ 4. Bg8 Qd4 $1 5. Bd5 $1 (5. Qxd4 $2) Qxd5 6. Qc3+ Ka4 7. Qc4+ Qxc4 8. dxc4 1-0
+
+[Event "3.hm Ceskoslovensky Sach#600"]
+[Source "Ceskoslovensky Sach/8-9"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2n4K/3P2PP/4P2k/4q3/3p2PB/p2P4/3P4/8 w - - 0 1"]
+
+1. Bf6 $1 Qxf6 2. g5+ Qxg5 3. g8=N+ Kg6 4. d8=Q Qxd8 (Qe5+ 5. Qf6+ Qxf6+ 6. Nxf6 Ne7 7. Ng8 $1 Nd5 8. Ne7+ Nxe7) 5. e7 $1 Nd6 $1 (Qxe7 6. Nxe7+ Kf7 7. Nc6 $1 (7. Nxc8 $2 a2) (7. Nf5 $2 a2 8. Nxd4 Ne7 $1) a2 (Ne7 8. Ne5+ Kf6 9. Nd7+) 8. Ne5+ Ke6 (Kf8 9. Ng6+) 9. Kg7 a1=Q 10. h8=Q Kxe5 (Nd6 11. Ng4) 11. Qxc8 (11. Qe8+ Kf4 12. Qf8+) Qg1+ 12. Kf7 Qf1+ 13. Ke7 Qxd3 14. Qe6+ Kf4 15. Kd6) 6. exd8=N $1 Nf7+ (Nf5 7. Nc6 a2 8. Ne5+ Kg5 9. Nf7+ $1 Kh5 (Kf4 10. Ngh6 $1 a1=Q 11. Nxf5 Qg1 12. Ng7) 10. Nf6+ $1 Kg6 11. Ne5+) 7. Nxf7 Kxf7 8. Nh6+ Kf8 9. Nf5 a2 10. Nxd4 a1=R $1 (a1=Q) 11. Ne6+ $1 (11. Nf5 $2 Kf7 $1 12. Ne7 Ra8+ 13. Ng8 Kg6 14. d4 Ra7) Kf7 12. Nd8+ Kg6 13. Kg8 Ra8 14. h8=N+ $1 Kf6 15. Nhf7 1/2-1/2
+
+[Event "Národní Osvobození"]
+[Date "1935.12.15"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/1p6/1P6/2p5/8/1p4q1/1p2R3/1K6 w - - 0 1"]
+
+1. Re8+ $1 Qb8 2. Rh8 $1 c4 3. Rh4 $1 (3. Rh5 $2 Qc8 4. Rh8 Kb8) Qc8 4. Rh5 Kb8 5. Rh8 c3 6. Rxc8+ Kxc8 1/2-1/2
+
+[Event "2.p Práce"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/3N4/7P/8/8/4p1pP/4PbP1/5K2 w - - 0 1"]
+
+1. Nf6 $1 Be1 2. Ne4 $1 Bf2 3. Ng5 Kg8 4. h4 Kh8 5. h7 Kg7 6. h5 Kh8 7. h6 Be1 8. Nf7+ Kxh7 9. Kxe1 1-0
+
+[Event "L'Échiquier de Paris#211"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4b3/8/8/8/1n2P3/8/2k5/K6B w - - 0 1"]
+
+1. e5 $1 (1. Bf3 $2 Kc1) Bg6 2. Bf3 $1 Kc1 3. Bg4 Bd3 (Bb1 4. Bd1) 4. Be6 Bb1 5. Bb3 Ba2 6. Be6 Bb1 7. Bb3 Ba2 8. Be6 Bxe6 1/2-1/2
+
+[Event ".c Revista de Romana de Sah#0477"]
+[Source "Revista de Romana de Sah/3-4"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6Pk/6pP/5Pp1/6p1/6p1/6p1/6Kb w - - 0 1"]
+
+1. g8=Q+ $1 Kxg8 2. f6 Kh8 3. f7 Kh7 4. f8=R (4. f8=Q $2) Kxh6 5. Rf7 Kh5 6. Rh7# 1-0
+
+[Event "Práce"]
+[Source "Práce/9"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/7b/4k3/5r2/4KP2/3B4 w - - 0 1"]
+
+1. Kf1 $1 Rh3 2. Kg2 Rh4 3. Kg3 Rh1 4. Bf3+ $1 Bxf3 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#323"]
+[Source "Tijdschrift v.d. KNSB/7-8"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/2p5/p1p5/K7/N1P5/1k6 w - - 0 1"]
+
+1. c3 $1 Ka1 $1 2. Nc1 Kb1 3. Ne2 Kc2 4. Kxa4 Kd3 5. Kb5 Kxe2 6. Kxc5 Kd3 7. Kb4 1-0
+
+[Event "Tijdschrift v.d. KNSB#322"]
+[Source "Tijdschrift v.d. KNSB/7-8"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/2p5/2p5/K7/2P5/B1k5 w - - 0 1"]
+
+1. c3 $1 Kb1 2. Bb2 Kc2 3. Ka2 Kd3 4. Kb1 Kd2 5. Ba1 Kd1 6. Kb2 $1 Kd2 7. Ka3 Kc2 8. Ka4 Kb1 9. Kb5 Kxa1 10. Kxc5 $1 Kb2 11. Kxc4 1-0
+
+[Event "Tidskrift for Schack#0492"]
+[Source "Tidskrift for Schack/2"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2bk4/8/5p2/1n2R1N1/8/8/K7/8 w - - 0 1"]
+
+1. Nf7+ $1 Kc7 2. Rc5+ $1 Kb7 (Kd7 3. Rxb5 Kc6 4. Rb3 $1) 3. Rxb5+ Kc6 4. Rb3 $1 Be6 5. Nd8+ Kd6 6. Nxe6 1-0
+
+[Event "Svobodné Slovo#276"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/6p1/8/7P/4K2P/8/8/b7 w - - 0 1"]
+
+1. h6 $1 g6 2. h5 g5 3. Kf5 Bf6 4. Kxf6 g4 5. Kg6 g3 6. h7 g2 7. Kh6 g1=R 1/2-1/2
+
+[Event "Norsk Sjakkblad#058"]
+[Source "Norsk Sjakkblad/5"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7B/7P/8/6p1/7b/6pk/n5p1/6K1 w - - 0 1"]
+
+1. Bb2 $1 Nc1 2. Bxc1 g4 3. Bg5 $1 Bxg5 4. h8=Q+ 1-0
+
+[Event "Svobodné Slovo#285"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5B1b/8/p7/p7/8/8/Kp6/2k5 w - - 0 1"]
+
+1. Ba3 $1 Bf6 (Kc2 2. Bxb2 Bxb2) 2. Kb3 $1 Kb1 3. Ka4 Bd8 4. Bxb2 $1 Kxb2 1/2-1/2
+
+[Event "Ceskoslovensky Sport"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7r/7P/6P1/6P1/8/8/8/5k1K w - - 0 1"]
+
+1. Kh2 $1 Kf2 2. Kh3 Kf3 3. Kh4 Kf4 4. Kh5 Kf5 5. Kh6 Ra8 6. g7 Ra6+ 7. g6 $1 Rxg6+ 8. Kh5 Rg1 9. Kh4 Kf4 10. Kh3 Kf3 11. Kh2 Rg2+ 12. Kh1 1-0
+
+[Event "Ceskoslovensky Sach#3179"]
+[Source "Ceskoslovensky Sach/3"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3p4/8/P1P5/1KP5/7p/1P1k4/8 w - - 0 1"]
+
+1. c6 $1 dxc6 2. a6 h2 3. a7 h1=Q 4. a8=Q c5+ 5. Kb3 $1 Qxa8 1/2-1/2
+
+[Event "Práce"]
+[Source "Práce/1"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/8/7P/6k1/2p3p1/8/8/8 w - - 0 1"]
+
+1. h7 $1 (1. Kg7 $2 g3 $1) g3 (c3 2. Kg7 $1 c2 3. h8=Q c1=Q 4. Qh6+) 2. Kg8 $1 g2 3. h8=Q g1=Q 4. Qg7+ 1-0
+
+[Event "Ceskoslovensky Sach#3397"]
+[Source "Ceskoslovensky Sach/12"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/Ppp5/1np1K3/2p5/P1P5/k7/8/8 w - - 0 1"]
+
+1. a5 $1 Na8 2. Kd7 Kb4 3. Kc8 Kxa5 4. Kb8 Kb6 5. Kxa8 Ka6 6. Kb8 Kb6 7. a8=B $1 Ka5 8. Bxb7 Kb4 9. Ba6 1-0
+
+[Event "L'Italia Scacchistica#503"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4R3/7k/1b6/6K1/8/6p1/8 w - - 0 1"]
+
+1. Re1 $1 Bf1 2. Kh4 $1 (2. Re6+ $2 Kg7 3. Kh4 Kf7 $1) g1=Q 3. Re6+ Kh7 4. Rh6+ Kg8 5. Rg6+ Qxg6 1/2-1/2
+
+[Event "Práce"]
+[Source "Práce/9"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2Q5/8/1q2p2B/8/6K1/6pp/6k1 w - - 0 1"]
+
+1. Qa7+ $1 Kh1 2. Bf3 Qf1 3. Qf2 $1 Qxf2+ 4. Kxf2 e4 5. Bxg2# 1-0
+
+[Event "Práce"]
+[Source "Práce/9"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "KN6/P6r/1P1k4/2p5/2P5/8/8/8 w - - 0 1"]
+
+1. Nd7 $1 Rxd7 2. b7 $1 Rd8+ 3. b8=R $1 (3. b8=Q+ $2 Kc6 4. Qxd8) 1-0
+
+[Event "L'Italia Scacchistica#546 (s)"]
+[Source "L'Italia Scacchistica/5"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1R6/8/8/2b4b/7K/7p/6kn w - - 0 1"]
+
+1. Rb1+ $1 Bf1+ 2. Rxf1+ Kxf1 3. Kxh2 Nf2 (Ng3 { <main>} 4. Kh3 Nf5 5. Kg4) 1/2-1/2
+
+[Event "1.p L'Italia Scacchistica#547"]
+[Source "L'Italia Scacchistica/5"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5b2/8/8/2k1K1n1/6P1/4n1P1/4P3/6N1 w - - 0 1"]
+
+1. Kf4 $1 Bh6 $1 2. Kxe3 Nh3+ $1 3. g5 $1 Bxg5+ 4. Kf3 Nxg1+ 5. Kf2 Nh3+ 6. Kg2 1/2-1/2
+
+[Event "Ceskoslovensky Sach#3413"]
+[Source "Ceskoslovensky Sach/2"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B7/8/k1K5/8/8/8/3B1pp1/8 w - - 0 1"]
+
+1. Bb7+ $1 Ka7 2. Be3+ Kb8 3. Bf4+ Ka7 4. Kc7 f1=N 5. Bxg2 1-0
+
+[Event "Ceskoslovensky Sport"]
+[Source "3.p Bohemian Ring ty UV CSTV 1960."]
+[Date "1960.02.19"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7N/7P/8/8/8/8/2pK4/k3n3 w - - 0 1"]
+
+1. Kc1 $1 Nd3+ 2. Kxc2 Ne5 3. Ng6 $1 (3. Kc3 $2 Ka2 $1 4. Ng6 Nxg6 5. Kd4 Kb3 6. Ke4 Kc4 7. Kf5 Nh8 8. Kf6 Kd5 9. Kg7 Ke6) (3. Nf7 $2 Nxf7 4. Kc3 Ka2) Nxg6 4. Kd3 Kb2 5. Ke4 Kc3 6. Kf5 1-0
+
+[Event "L'Italia Scacchistica#3745"]
+[Source "L'Italia Scacchistica/12"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5b1k/6pB/3pK1P1/3P4/8/8/8/8 w - - 0 1"]
+
+1. Bg8 $1 Kxg8 2. Kd7 $1 Kh8 3. Kd8 $1 Kg8 4. Ke8 Kh8 5. Kf7 $1 1-0
+
+[Event "4.hm Ceskoslovensky Sach#035"]
+[Source "Ceskoslovensky Sach/5 also Schakend Nederland#0846 Schakend Nederland/7-8 1963."]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5NR1/5pPP/7K/8/5kr1/b7/8/8 w - - 0 1"]
+
+1. Kh5 $1 (1. Ne6+ $2 Kf5 2. Kh5 Be7) (1. Ng6+ $2 Rxg6+ 2. Kh5 Rg1) Be7 $1 (Rg2 2. Ne6+ Kf5 3. Nd4+ Kf4 4. Ne6+ Kf5 (fxe6 5. Rf8+) 5. Nd4+) 2. Ng6+ (2. Ne6+ $2 Kf5) fxg6+ (Rxg6 3. Rf8) 3. Kh6 Kf5 4. Rf8+ Bf6 5. Rxf6+ Kxf6 6. g8=N+ Kf7 7. h8=N+ $1 (7. Nf6 $2 Rh4+ (Rg2 $2 8. Nh5 $1 Rh2 9. h8=N+ Kg8 10. Nxg6) 8. Kg5 Rh1 9. Ne4 Kg7 10. Nf6 Rg1+ 11. Kh4 Rf1) Kxg8 8. Nxg6 1/2-1/2
+
+[Event "3.p Lidova Demokracie"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/8/8/8/4kp2/5p2/5P2/7N w - - 0 1"]
+
+1. Kb8 $1 (1. Kb7 $2 Kd5 $1) (1. Ka7 $2 Ke5 $1) Kd4 $1 (Kd5 2. Kb7 $1 Kd6 3. Kb6 Kd5 4. Kb5 Kd4 5. Kb4 Kd3 6. Kc5 Ke4 7. Kd6 Kd4 8. Ke6 Ke4 9. Kf6 Kd4 10. Kf5) (Ke5 2. Kc7 $1) 2. Kc8 $1 (2. Kc7 $2 Kc5 $1) Ke4 3. Kd8 $1 (3. Kd7 $2 Kd5) Kd4 4. Ke8 $1 Ke4 $1 5. Kf8 $1 Kd4 6. Kf7 $1 Kd5 7. Kf6 $1 Ke4 (Kd4 8. Kf5) 8. Kg6 $1 Ke5 9. Kg5 Ke4 10. Kg4 1-0
+
+[Event "L'Italia Scacchistica#3918"]
+[Source "L'Italia Scacchistica/9"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Richter, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/k7/B4p2/1P6/8/8/8/8 w - - 0 1"]
+
+1. Kf7 $1 f5 2. Ke6 f4 3. Kd5 f3 4. Bc8 f2 5. Bh3 Kb6 6. Kc4 1-0

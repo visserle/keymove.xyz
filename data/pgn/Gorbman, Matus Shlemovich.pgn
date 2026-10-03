@@ -1,0 +1,137 @@
+[Event "2.sp.p Gorgiev JT Spartak"]
+[Source "EG#01570."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Gorbman, Matus Shlemovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/b7/5K2/7N/3P4/3p4/2p5/6B1 w - - 0 1"]
+
+1. Be3 $1 Bxd4+ 2. Bxd4 c1=Q 3. Kf7+ (3. Kg6+ $2 Kg8 4. Nf6+ Kf8 5. Bc5+ Qxc5 6. Nd7+ Ke7 7. Nxc5 d2) Kh7 4. Nf6+ Kh6 5. Be3+ Qxe3 6. Ng4+ Kg5 7. Nxe3 1/2-1/2
+
+[Event "Ukrain ty"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Gorbman, Matus Shlemovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/kP6/p5P1/Pp2K1p1/8/8/8 w - - 0 1"]
+
+1. g6 $1 b3 2. Kd3 b2 3. Kc2 g3 4. g7 g2 5. g8=R (5. g8=Q $2 b1=Q+ 6. Kxb1 g1=Q+ 7. Qxg1) g1=Q 6. Rxg1 b1=Q+ 7. Kxb1 (7. Rxb1 $2) 1-0
+
+[Event "EG (@2)"]
+[Source "EG/@ EG#01437. î2: Ulrichsen=J HHdbIV#39980 28-10-2006."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Gorbman, Matus Shlemovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4P2N/q4Pp1/6Pk/2p5/p5K1/8/8 w - - 0 1"]
+
+1. e8=N $1 Qa7 2. Ng7+ Qxg7 3. fxg7 a2 4. g8=N a1=Q 5. Ngf6+ Qxf6 6. gxf6 c3 7. f7 c2 8. f8=Q (8. Nf6+ $1 {<minor dual JU>}) c1=Q 9. Nf6+ Kg5 10. Ne4+ Kh5 11. Qh8+ Qh6 12. Qe5+ g5 13. Qe8+ Qg6 14. Nf6+ Kh6 15. Qh8+ 1-0
+
+[Event "Szachy#927"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Gorbman, Matus Shlemovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7B/8/K6P/8/p7/p7/k7 w - - 0 1"]
+
+1. Bg8 $1 Kb2 2. Bxa2 Kxa2 3. Kb4 Kb2 4. h6 a2 5. h7 a1=Q 6. h8=Q+ Kb1 7. Qh1+ Kb2 8. Qg2+ Kc1 9. Qf1+ Kb2 10. Qe2+ Kc1 11. Qe1+ Kb2 12. Qd2+ Kb1 13. Kb3 1-0
+
+[Event "3.c Chervoni Girnik"]
+[Source "EG#02519."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Gorbman, Matus Shlemovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5R2/1p6/1k1p4/1P6/KN1pp3/4p3/8 w - - 0 1"]
+
+1. Rc7 $1 Ka6 2. Nd4 b5 3. Rc1 d2 4. Nxe2 d4 5. Rd1 d3 6. Rxd2 exd2 7. Nc3 Kb6 {<eg>} 8. Kb3 Kc6 9. Nd1 Kd5 10. Kc3 Ke4 11. Kxd2 Kd4 12. Nb2 1-0
+
+[Event "1.p Vecherni Leningrad"]
+[Source "EG#13276."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Gorbman, Matus Shlemovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/kp6/8/1PP4R/1P6/1n6/1p2p3/1K6 w - - 0 1"]
+
+1. b6+ $1 (1. Re5 $2 Nd2+ 2. Kxb2 Nc4+ 3. Kb3 Nxe5 4. b6+ Ka8 $1 (Ka6 $2 5. Ka4 e1=Q 6. b5#)) Ka6 2. Re5 Nd2+ 3. Kxb2 Nc4+ 4. Kb3 Nxe5 5. Ka4 e1=Q 6. b5# 1-0
+
+[Event "L'Italia Scacchistica#107"]
+[Source "L'Italia Scacchistica/9"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Gorbman, Matus Shlemovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1K3Pp1/4k3/7P/7n/7b/8 w - - 0 1"]
+
+1. f7 $1 Bg1+ 2. Kc6 Bc5 3. Kxc5 Nf4 4. f8=N Ne6+ 5. Nxe6 Kxe6 6. Kd4 Kf5 7. h5 g5 8. Kd3 1/2-1/2
+
+[Event "Schakend Nederland#1549"]
+[Source "Schakend Nederland/3 1977"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Gorbman, Matus Shlemovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1P1P1p1p/1PkP1P2/2p1p3/2P5/8/1Pp5/K7 w - - 0 1"]
+
+1. d8=N+ $1 (1. b8=N+ $2 Kb7 2. d8=N+ $1 Kxb8 3. Nc6+ Kb7 4. Na5+ Kxb6 5. Nb3 h5) Kd7 2. b8=N+ Kxd8 3. Nc6+ Kc8 4. d7+ Kxd7 5. Nxe5+ Kd6 6. Nd3 h5 7. b3 h4 8. Kb2 1-0
+
+[Event "Shakhmatna Misl#044"]
+[Source "Shakhmatna Misl/5"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Gorbman, Matus Shlemovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3n1p2/6P1/1p4kN/1P5r/2P5/5K2/8 w - - 0 1"]
+
+1. g7 $1 Rf4+ 2. Ke3 Re4+ 3. Kxe4 Kh6 4. Kf5 Kh7 5. Nf6+ Nxf6 6. Kxf6 Kg8 7. c4 $1 1-0
+
+[Event "Shakhmatna Misl#132"]
+[Source "Shakhmatna Misl/11"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Gorbman, Matus Shlemovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3B1q2/2p5/8/3p4/kP1PN3/8/K3P3/8 w - - 0 1"]
+
+1. Be7 $1 (1. Nc3+ $2 Kxb4 2. Be7+ Kxc3 3. Bxf8 Kxd4 4. Bh6 Kc3 $1 5. Kb1 d4 $1 6. Kc1 d3) Qxe7 2. Nc3+ Kxb4 3. Nxd5+ Kc4 4. Nxe7 Kxd4 5. Nf5+ Ke4 6. Ng3+ 1-0

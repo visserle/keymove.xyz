@@ -1,0 +1,31 @@
+[Event "?"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Gerland, Sigmund"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "3K4/kP6/b3p1B1/4P1P1/5p2/n7/8/8 w - - 0 1"]
+
+1. Bd3 (1. Be4 $2 Bxb7 2. Bxb7 Kxb7 3. g6 $10) Bxd3 (Kxb7 2. Be4+ (2. Bxa6+ $2 Kxa6 3. g6 $10) (2. Bb5 Bxb5) (2. Bc4 Nxc4) Kb6 3. g6 $1 $18 (3. Kd7 $4 Nc4 4. Kxe6 Nd2 $10) (3. Ke7 $2 f3 4. Bxf3 $10)) 2. Kc7 (2. Kc8 $4 Ba6 3. g6 Bxb7+ 4. Kd8 Be4 5. g7 Bh7 $19) Nb5+ 3. Kc8 (3. Kc6 $4 f3) (3. Kd7 Kxb7) Nd6+ $2 (Kb6 $5 4. b8=Q+ $18) 4. exd6 (4. Kd7 $4 Nxb7 5. Kxe6 f3 $19) (4. Kd8 $4 Nxb7+ 5. Kd7 f3) Ba6 5. d7 $18 (5. g6 Bf1 6. b8=Q+ $18) (5. Kc7 Bxb7 $18 6. g6) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Gerland, Sigmund"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "6N1/8/2p4R/2P2pk1/1Pr5/2p2P1P/P4P2/7K w - - 0 1"]
+
+1. Kg2 (1. Rh4 Rxh4 2. f4+ Rxf4 3. h4+ Rxh4+ 4. Kg1 c2) (1. Rh8 c2) c2 2. h4+ (2. Kg3 $4 c1=Q 3. h4+ Rxh4 4. Rg6+ Kxg6 5. Kxh4 Qf4+ $19) (2. f4+ $6 Rxf4 3. h4+ $14 $10) (2. Rh5+ $4 Kxh5 3. Nf6+ Kh6) (2. Rg6+ $4 Kxg6 3. Ne7+ Kf6) (2. Rh7 $4 Kg6 3. Rh6+ Kg7) (2. Ne7 Kxh6 3. Ng8+ Kg6) (2. Rh4 Kxh4) (2. Nf6 Kxh6 3. Ng8+ Kg6) (2. b5 c1=Q 3. bxc6 Rxc5 4. h4+ Kf4) Kf4 (Rxh4 3. f4+ (3. Rd6 c1=Q 4. f4+ Qxf4 5. Rg6+ Kxg6 6. Ne7+ Kg5) (3. Rh5+ Rxh5 4. f4+ Kxf4) (3. Rh7 Rxh7 4. f4+ Kxf4) (3. a3 Rxh6 4. Nxh6 Kxh6) (3. Rg6+ Kxg6 4. Ne7+ Kf6) Rxf4 4. Rh1 (4. a4 Rg4+ 5. Kf3 c1=Q) (4. Kg1 c1=Q+ 5. Kg2 Rg4+) Rxb4 5. Rc1 $16 (5. Re1 Rb1 6. Rxb1 cxb1=Q) (5. Rd1 Rg4+ 6. Kh3 cxd1=Q 7. f4+ Kxf4) (5. Kh3 Rh4+ 6. Kg2 Rxh1 7. Kxh1 c1=Q+)) 3. Ne7 (3. Re6 $6 Re4 4. fxe4 fxe4 5. Nh6) (3. Rf6 $4 Ke5 $19) (3. Nf6 $4 c1=Q 4. Nh5+ Ke5 $19) (3. Rxc6 $2 c1=Q 4. Ne7 $10) (3. Rd6 $6 Re4 4. Rd3) (3. a3 $2 c1=Q 4. Ne7) (3. Rg6 c1=Q) (3. Rh8 c1=Q) (3. b5 Ke5 4. Rxc6 c1=Q) (3. Rh7 c1=Q) Ke5 4. Nxc6+ (4. Rd6 $2 f4 5. Nxc6+ Kf5 6. Ne7+ $10) (4. h5 c1=Q 5. Nxc6+ Kf4) (4. Re6+ Kxe6 5. Nxc6 c1=Q) (4. b5 cxb5 5. f4+ Kxf4) (4. Nxf5 Kxf5 5. Rh5+ Kg6) (4. Kg3 Kd4 5. Nxf5+ Kc3) Kf4 5. Re6 (5. Rd6 Re4 6. fxe4 fxe4 7. Nd4 $18) (5. Ne7 Ke5 6. Nc6+ $18) (5. Rf6 $2 c1=Q 6. Ne7 $10) (5. Ne5 $4 Kxe5 6. f4+ Kxf4 $19) (5. Na5 $4 c1=Q 6. Nxc4 Qxc4) (5. a4 $2 c1=Q 6. Ne7) (5. Rh8 c1=Q) c1=Q 6. Ne7 $18 (6. Ne5 $2 Qh1+ 7. Kxh1 Rc1+ 8. Kh2 $10) (6. Rg6 Qd1) (6. Rf6 Qc3 7. Rxf5+ Kxf5 8. Ne7+ Ke6) 1-0

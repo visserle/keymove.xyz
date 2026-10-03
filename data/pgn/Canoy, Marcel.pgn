@@ -1,0 +1,13 @@
+[Event "Schakend Nederland#1968"]
+[Source "Schakend Nederland/8-9"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Canoy, Marcel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/2pB1pp1/2P5/1p1N3p/5Kpp/7k w - - 0 1"]
+
+1. Ne1 $1 g4 (b2 2. Nxg2 b1=Q 3. Nh4+ Qe4 4. Nxf5 Qg2+ 5. Bxg2+ hxg2 6. Ng3#) 2. Nxg2 g3+ 3. Kf1 b2 4. Ne1+ g2+ 5. Nxg2 b1=Q+ 6. Ne1+ Qe4 7. Kf2 $1 (7. Nf3 $2 f4 $1 8. Ne1 f3 9. Nxf3 Qxc4+ 10. Bxc4) 1-0

@@ -1,0 +1,13 @@
+[Event "Thèmes 64#1544"]
+[Source "Thèmes 64/10-12 EG#00490."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Zeller, Jean"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5R2/p2k4/2p2p2/1pK5/1P2P1N1/5p2/4p3/8 w - - 0 1"]
+
+1. Rf7+ $1 Ke8 (Kc8 2. Kxc6 Kd8 3. Kd6 Ke8 4. Re7+ Kf8 (Kd8 5. Rf7) 5. Nxf6) (Ke6 2. Rxf6+ Ke7 3. Rf7+ Kxf7 4. Ne5+ Ke6 5. Nxf3) 2. Rd7 $1 e1=Q (Kxd7 {<main>} 3. Ne5+ fxe5 (Kc7 4. Nxf3 Kb7 5. Ne1 a5 6. bxa5 Ka6 7. Kb4 c5+ 8. Kxc5 Kxa5 9. Kd4 b4 10. Kd3 b3 11. Kc3 Ka4 12. Kb2 Kb4 13. Nd3+)) 3. Nxf6+ Kf8 4. Nh7+ Kg8 (Ke8 5. Nf6+) 5. Nf6+ Kf8 (Kh8 6. Rh7#) 6. Nh7+ Ke8 7. Nf6+ 1/2-1/2

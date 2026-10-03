@@ -1,0 +1,12 @@
+[Event "Deutsche Arbeiter Schachzeitung"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Lucke, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/3ppkP1/8/8/8/6Q1/p7/q7 w - - 0 1"]
+
+1. Qf2+ $1 Ke6 (Kg6 {<main>} 2. Qg1+ Qxg1 3. g8=Q+ Kf6 4. Qxg1) (Qf6 {<main>} 2. Qxf6+ Kxf6 3. g8=Q a1=Q 4. Qg7+ Ke6 5. Qxa1) 2. Qxa2+ Qxa2 3. g8=Q+ Kd6 4. Qxa2 1-0

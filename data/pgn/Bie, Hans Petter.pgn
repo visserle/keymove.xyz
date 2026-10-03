@@ -1,0 +1,51 @@
+[Event "Dagbladet#609"]
+[Date "1957.05.23"]
+[Round "?"]
+[Composer "Bie, Hans Petter"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/p7/P7/2p4p/KP2P3/8/8/8 w - - 0 1"]
+
+1. b5 $1 Kc7 (h4 2. b6) (Kc8 2. b6 axb6 3. a7 Kb7 4. e5 h4 5. e6 h3 6. e7) 2. e5 h4 3. e6 (3. b6+ $2 Kxb6 $1) h3 4. b6+ (4. e7 $2 Kd7 5. b6 h2 6. b7 h1=Q 7. e8=Q+ Kxe8 8. b8=Q+ Kd7 9. Qxa7+ Kc8) Kxb6 (axb6 5. a7) 5. e7 h2 6. e8=Q h1=Q 7. Qb8+ Kxa6 (Kc6 8. Qa8+) 8. Qb5# 1-0
+
+[Event "Dagbladet#656"]
+[Date "1957.07.19"]
+[Round "?"]
+[Composer "Bie, Hans Petter"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/k2p4/3P4/3p4/3P4/8/3K4 w - - 0 1"]
+
+1. Ke2 $1 (1. Kc2 $2 Kb5 2. Kb3 Kc5 3. Ka4 Kxd5 4. Kb5 Ke6 5. Kc6 (5. Kc4 Ke5) Ke5) Kb5 2. Kf3 Kb4 (Kc5 3. Ke4) 3. Kf4 (3. Ke4 $2 Kc3) Kb3 (Kc3 4. Ke4) 4. Kf5 (4. Kf3 $2 Kc2 5. Ke2 Kc3) Kc2 (Kc3 5. Ke4) 5. Ke6 (5. Ke4 $2 Kc3) Kxd3 6. Kxd6 Kc4 (Ke4 {<main>} 7. Ke6 d3 8. d6 d2 9. d7 d1=Q 10. Ke7) 7. Kc6 d3 8. d6 d2 9. d7 d1=Q 10. Kc7 1/2-1/2
+
+[Event "Dagbladet#665"]
+[Date "1957.07.30"]
+[Round "?"]
+[Composer "Bie, Hans Petter"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/p7/p2K4/k7/p7/P1P5/8 w - - 0 1"]
+
+1. Kc5 $1 (1. Kc4 $2 b6) b5 (b6+ 2. Kc4 b5+ 3. Kc5 b4 4. Kc4 b3 5. cxb3#) 2. Kd5 Kb4 (b4 3. Kc4 b3 4. cxb3#) 3. Kd4 Ka4 (a4 {<main>} 4. c3+ Ka5 5. Kc5 b4 6. cxb4#) 4. Kc5 b4 5. Kc4 b3 6. cxb3# (6. axb3# {<or>}) 1-0
+
+[Event "Dagbladet#691"]
+[Date "1957.08.28"]
+[Round "?"]
+[Composer "Bie, Hans Petter"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/8/8/5PPP/8/pp6/1p6/1K6 w - - 0 1"]
+
+1. h6 $1 (1. g6 $2 Kg7) (1. f6 $2 Kf7 2. h6 Kg6 3. h7 Kxh7 4. f7 Kg7 5. g6) Kf7 $1 2. g6+ (2. h7 $2 Kg7 3. g6 Kh8 4. f6 a2+ 5. Kxb2 a1=Q+ 6. Kxa1 b2+ 7. Ka2 b1=Q+ 8. Kxb1) Kg8 3. g7 (3. f6 $2 Kh8 4. f7 a2+ 5. Kxb2 a1=Q+ 6. Kxa1 b2+ 7. Ka2 b1=Q+ 8. Kxb1) Kh7 4. g8=Q+ (4. f6 $2 Kg8) Kxg8 5. f6 1-0

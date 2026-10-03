@@ -1,0 +1,585 @@
+[Event "Shakhmaty v SSSR#39"]
+[Source "Shakhmaty v SSSR/11"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7n/8/4r1PK/6P1/1B1k4/8/8/8 w - - 0 1"]
+
+1. Be7 $1 Nxg6 $1 (Rxe7 2. g7 Nf7+ 3. Kg6 Ne5+ 4. Kh6) 2. Bf6+ Ne5 3. Kh7 $1 Ke4 (Kd5 4. Bxe5 Rxe5 5. g6 Rh5+ 6. Kg8 $1 Ke6 7. g7 Kf6 8. Kf8 Ra5 9. g8=N+ $1) 4. Bxe5 Kxe5 5. g6 Kf6 6. g7 Re7 7. Kh8 Rxg7 1/2-1/2
+
+[Event "Schach#07838"]
+[Source "Schach/11"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/5r2/3n4/2Pk4/R7/3K4 w - - 0 1"]
+
+1. Kc1 $1 (1. Ke1 $2 Nc2+) (1. Rd2+ $2 Kxc3 2. Kc1 (2. Ke1 Nf3+) Nb3+) Ne2+ 2. Kb2 (2. Kb1 $2 Nxc3+) Rb5+ 3. Ka3 (3. Ka1 $2 Nxc3 4. Rd2+ Kc4 5. Rd4+ Kb3 $1) Ra5+ 4. Kb2 Rb5+ 5. Ka3 Kxc3 6. Ka4 Re5 $1 7. Ra3+ (7. Ra1 $2 Kc4 $1 8. Rh1 Nc3+ 9. Ka3 Ra5+ 10. Kb2 Ra2+ 11. Kc1 Ra1+) Kc4 8. Rh3 $1 Nc3+ 9. Ka3 Ra5+ 10. Kb2 Ra2+ 11. Kc1 Kb3 12. Rh2 $1 Ra1+ 13. Kd2 Ra2+ 14. Kc1 Ne2+ 15. Kd1 Nc3+ 16. Kc1 Rxh2 1/2-1/2
+
+[Event "1.hm Suomen Shakki"]
+[Source "Suomen Shakki/8 1975 EG#03696."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k5/3Np3/5P2/n1nK4/8/8/8/6B1 w - - 0 1"]
+
+1. Nb6+ $1 Kd8 2. f7 e6+ 3. Kxc5 Ke7 4. Kb5 Nb3 5. Nc4 Kxf7 6. Be3 e5 7. Kb4 Nd4 8. Nxe5+ Ke6 9. Bxd4 1-0
+
+[Event "Shakhmaty (Riga)#04"]
+[Source "Shakhmaty (Riga)/10"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "Makletsov, Y"]
+[Black " Pogosyants, E."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6K1/1r6/8/8/8/1k4P1/8 w - - 0 1"]
+
+1. g4 $1 Kc3 2. g5 Kd4 3. g6 $1 Ke5 4. Kh7 $1 Kf6 5. g7 Rb7 (Rb4 {<main>} 6. g8=N+ $1 Kf7 7. Nh6+ Kf6 8. Ng8+) 6. Kh8 Rxg7 1/2-1/2
+
+[Event "Shakhmaty (Riga)#12 (pl)"]
+[Source "Shakhmaty (Riga)/10 = Bron=V h6e8 1929."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/K7/8/1R6/3k4/2p5/8 w - - 0 1"]
+
+1. Rb3+ $1 Kd4 (Kd2 2. Rb2) (Kc4 2. Rb8) 2. Rb4+ Kd5 3. Rb5+ Kd6 4. Rb6+ Kd7 5. Rb7+ Kc8 6. Rb5 c1=Q 7. Rc5+ Qxc5 1/2-1/2
+
+[Event "Shakhmatna Misl#055"]
+[Source "Shakhmatna Misl/7"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "Nk6/1p2p3/RK6/2P3p1/P5r1/8/8/8 w - - 0 1"]
+
+1. Ra5 $1 Rb4+ 2. Rb5 Rxb5+ 3. axb5 g4 4. c6 g3 5. c7+ Kc8 6. Ka7 g2 7. b6 g1=Q 1/2-1/2
+
+[Event "L'Italia Scacchistica#158"]
+[Source "L'Italia Scacchistica/10"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/5b2/2K2P2/1P4q1/1Pn1Q3/4R1p1/5b2/8 w - - 0 1"]
+
+1. Kc7+ $1 Qd5 2. Qxd5+ Bxd5 3. f7 $1 Bxf7 4. b6 $1 Nxb6 5. Ra3+ Na4 6. Rxa4+ Ba7 7. b5 Be8 8. b6 Bxa4 9. b7# 1-0
+
+[Event "Revista de Romana de Sah#0731"]
+[Source "Revista de Romana de Sah/9"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4P1Pp/6P1/1bp4q/2p3pB/K3Q3/p1r5/1k1N4 w - - 0 1"]
+
+1. Nc3+ $1 Rxc3+ 2. Qxc3 a1=Q+ 3. Qxa1+ Kxa1 4. e8=Q $1 Bxe8 5. g8=Q Qe5 $1 6. Bf6 $1 Qxf6 7. Qh8 Qxh8 8. g7 Qxg7 (Qg8) 1/2-1/2
+
+[Event "Shakhmaty (Riga)#05"]
+[Source "Shakhmaty (Riga)/10"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5r2/7P/8/4k3/6K1/8/8 w - - 0 1"]
+
+1. Kg4 $1 Ke5 2. Kg5 Ke6 3. Kg6 Rf1 4. Kg7 Rg1+ 5. Kf8 $1 (5. Kh8 $2 Kf6 6. h7 Kg6 $1) Rf1+ 6. Kg7 Rg1+ 7. Kf8 Kf6 8. h7 Rh1 9. Kg8 Rg1+ 10. Kf8 1/2-1/2
+
+[Event "Revista de Romana de Sah#0731 (m)"]
+[Source "Revista de Romana de Sah/9 (m): Makletsov=Y Revista de Romana de Sah/10 1976."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4P1Pp/6P1/1bp3Qq/2p3pB/K7/p7/1k6 w - - 0 1"]
+
+1. Qf6 $1 a1=Q+ 2. Qxa1+ Kxa1 3. e8=Q $1 Bxe8 4. g8=Q Qe5 $1 5. Bf6 $1 Qxf6 6. Qh8 Qxh8 7. g7 Qxg7 (Qg8) 1/2-1/2
+
+[Event "Schach#08192 (c)"]
+[Source "Schach/2 (c): Krug=P Estudios Artisticos de Ajedrez - XV-61 2015."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/6Pr/8/kP1P1r1p/3KR2B w - - 0 1"]
+
+1. Kc2 $1 Rxd2+ 2. Kxd2 Rxg4 3. Kc3 (3. Kc2 $2 Rc4+ 4. Kd3 Rb4) Rg3+ (Rg5 4. b4) 4. Kc2 Rg2+ $1 5. Bxg2 h1=Q 6. Ra1+ $1 (6. Bxh1 $2) Qxa1 (Kxa1 7. Bxh1) 7. Bd5# 1-0
+
+[Event "Tidskrift for Schack#1951"]
+[Source "Tidskrift for Schack/6-7"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B7/8/1P6/8/3k3K/2bp4/8/8 w - - 0 1"]
+
+1. b7 $1 Be1+ 2. Kh3 Bg3 $1 3. Kxg3 d2 4. b8=R $1 (4. b8=Q $2 d1=Q 5. Qd8+ Ke3 6. Qxd1) d1=Q 5. Rd8+ Ke3 6. Rxd1 1-0
+
+[Event "Schach#08156"]
+[Source "Schach/1"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "b2k4/8/8/5K2/1NR1p3/n7/1p1PB3/8 w - - 0 1"]
+
+1. Rd4+ $1 Ke7 $1 (Kc8 {<main>} 2. Ba6+ Kc7 3. Bd3 $1 exd3 4. Na6+ Kc8 5. Rb4 b1=Q 6. Rxb1 Nxb1 7. Nb4 (7. Nc5 {<or>}) Nxd2 8. Nxd3 Be4+ 9. Kf4 $1 Bxd3 10. Ke3) 2. Nd5+ Bxd5 3. Rb4 b1=Q 4. Rxb1 Nxb1 5. d3 $1 Nc3 6. dxe4 Be6+ 7. Ke5 Nxe2 1/2-1/2
+
+[Event "Sachové Umenie#4779"]
+[Source "Sachové Umenie/2"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/Pq6/4N3/1k1p4/1p5p/8/Bp6/1K6 w - - 0 1"]
+
+1. a8=Q $1 Qxa8 2. Nc7+ Ka4 $1 3. Nxa8 b3 4. Nb6+ Ka3 $1 5. Bxb3 Kxb3 6. Nxd5 h3 7. Ne3 h2 8. Nd1 h1=Q 1/2-1/2
+
+[Event ".c Szachy#1060"]
+[Source "EG#03957."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3bb3/4k3/1P6/8/1K1P4/8/8/8 w - - 0 1"]
+
+1. Ka5 $1 Kd7 (Bc6 {<main>} 2. Ka6 Kd6 3. d5 $1 Bxd5 4. b7 Kc7 5. Ka7 Bxb7) 2. Ka6 Kc8 (Bf6 {<main>} 3. b7 Kc7 4. Ka7 Bxd4+ 5. Ka8 Bc6) 3. Ka7 Bc6 4. d5 Bxd5 (Bb7 5. d6 Bc6 6. d7+) 5. b7+ Bxb7 1/2-1/2
+
+[Event "Revista de Romana de Sah#0776"]
+[Source "Revista de Romana de Sah/1"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/5b2/4q3/1R1np3/1P1k4/1B2RK2 w - - 0 1"]
+
+1. Re2+ $1 (1. Rxd3+ $2 Qxd3+ 2. Bxd3 Bxd3+ 3. Kg2 Kxe1) Kc1 2. Re1+ Kd2 $1 3. Re2+ Kd1 4. Rxd3+ (4. Re1+ $2 Nxe1 5. Bxe4 e2+ $1 6. Kf2 (6. Kg1 Bxe4 7. Re3 Nf3+) Bxe4 7. Re3 Nd3+ $1) Qxd3 5. Bc2+ Qxc2 6. Re1+ Kd2 7. Re2+ Kd1 8. Re1+ Kd2 9. Re2+ Kd3 10. Rxc2 Kxc2 11. Ke2 1/2-1/2
+
+[Event "Szachy#1217"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/4b3/7p/P7/k7/8/8/8 w - - 0 1"]
+
+1. a6 $1 Bc5 2. Kc7 Kb5 (h5 3. Kc6 Kb4 4. Kd5 h4 5. Ke4) 3. a7 $1 Bxa7 4. Kd6 Kc4 5. Ke5 Kd3 6. Kf4 Ke2 7. Kg3 Kf1 8. Kh2 Bb8+ 9. Kh1 $1 1/2-1/2
+
+[Event "Tidskrift for Schack#1987"]
+[Source "Tidskrift for Schack/3"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6kn/1P6/4P1P1/8/6K1/8/2b2q2/8 w - - 0 1"]
+
+1. b8=Q+ $1 Kg7 2. Qe5+ $1 Kg8 (Kxg6 {<main>} 3. Qg5+ Kh7 4. Qe7+ Kh6 5. Qg5+ Kh7 6. Qe7+ $1 Kg8 7. Qd8+ Kg7 (Qf8 8. e7 Bf5+ 9. Kg3) 8. Qe7+) 3. Qb8+ Qf8 4. Qxf8+ Kxf8 5. e7+ Kxe7 6. g7 Nf7 7. g8=N+ $1 Ke6 8. Kh5 $1 Bd3 9. Nh6 Be2+ 10. Kg6 1/2-1/2
+
+[Event "Problemas {SEPA} (c)"]
+[Source "Problemas (SEPA /7-9 composed c : Makletsov=Y Problemas SEPA #050 Problemas SEPA =16"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3K3p/6p1/8/6Pk/2N4P/8/8 w - - 0 1"]
+
+1. Ke6 $1 (1. Nd5 $2 Kxh3 2. Nf6 h5 3. g5 Kh4 4. Ne4 Kg4 5. Ke6 Kf4) (1. Ne4 $2 Kxh3 2. g5 Kg4 3. Ke6 Kf4 4. Kd5 Kf5 $1 5. Kd4 Kf4 6. Kd3 Kf5 7. Ke3 Kg4) h5 $1 (Kxh3 2. g5 Kg4 3. Kf6 Kh5 4. Ne4) (Kg5 2. Ke5 h5 3. gxh5 gxh5 4. Ne2 Kh4 5. Ng1) (h6 2. Nd5 (2. Nd1 {<or>} Kxh3 3. Ne3 h5 4. g5) Kxh3 (h5 3. Ne3) 3. Ne3 h5 4. g5 h4 5. Kf6 Kg3 6. Kxg6) 2. g5 $1 Kxg5 (Kxh3 3. Kf6 Kg4 4. Ne2 $1 h4 5. Ng1 Kg3 6. Kxg6 Kg2 7. Kh5) 3. Ne2 $1 (3. Ne4+ $2 Kh4 4. Nf2 Kg3) Kh4 4. Ng1 g5 (Kg3 5. Kf6 Kg2 6. Kxg6 Kxg1 7. Kxh5) 5. Kf5 $1 (5. Ke5 $2 Kg3 6. Kf5 g4) g4 6. Kf4 gxh3 7. Nf3# 1-0
+
+[Event "Sachové Umenie#5500"]
+[Source "Sachové Umenie/10"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2R2Pk1/4K3/5n2/8/7r/1b5B/5n2 w - - 0 1"]
+
+1. Be5+ $1 Bxe5 2. f8=Q+ Kxf8 3. Rf7+ Ke8 4. Rxf5 Ne3 5. Rh5 $1 (5. Rxe5 $2 Rh6#) Rxh5 1/2-1/2
+
+[Event "Shakhmatna Misl#120"]
+[Source "Shakhmatna Misl/10"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/4PP2/5P2/5P2/6r1/7p/q7/7K w - - 0 1"]
+
+1. f8=Q+ $1 (1. e8=Q+ $2 Kh7 2. Qh8+ Kxh8 3. f8=Q+ Qg8 4. Qh6+ Qh7 $1 5. Qf8+ Rg8 $1) Kh7 2. Qh8+ $1 Kxh8 3. e8=Q+ Qg8 4. f7 Rg1+ 5. Kh2 Rg2+ 6. Kxh3 Rg3+ 7. Kh4 Rg4+ 8. Kh5 Rg5+ 9. Kh6 1-0
+
+[Event ".c Schach#08887"]
+[Source "Schach/6 EG#04943."]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7N/2p5/8/2K5/7k/4n3/8/5b2 w - - 0 1"]
+
+1. Kc6 $1 (1. Nf7 $2 Bg2 $1 2. Nd8 Kg4 3. Ne6 Nd5 4. Nd4 (4. Kc6 Nf4+) Bh1 5. Nb5 Kf5 6. Kc6 Nc3+) (1. Ng6+ $2 Kg5 2. Nf8 Kf6 3. Kc6 Ke7 4. Ng6+ Kd8) (1. Kd4 $2 Nf5+ 2. Ke5 Kg4) Kg5 $1 2. Nf7+ (2. Kxc7 $2 Kf6) Kf6 3. Nd8 (3. Nh6 $2 Kg7) Ke7 4. Kxc7 $1 Nd5+ 5. Kc6 Nb4+ 6. Kc7 Na6+ 7. Kc8 Bg2 8. Nc6+ $1 (8. Nb7 $2 Bh3#) Bxc6 1/2-1/2
+
+[Event ".c Shakhmatna Misl#156"]
+[Source "Shakhmatna Misl/12"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4R3/3pP3/3n4/2K5/k7/8/3Pp2b/8 w - - 0 1"]
+
+1. Ra8+ $1 Kb3 2. e8=Q Nxe8 3. Rxe8 d6+ 4. Kd4 Be5+ $1 5. Rxe5 dxe5+ 6. Kd3 e1=N+ (e1=Q) 7. Ke4 1/2-1/2
+
+[Event "Schakend Nederland#1826"]
+[Source "Schakend Nederland/9 EG#06075."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5n2/B7/KP6/2p5/3k4/3P4/6p1/8 w - - 0 1"]
+
+1. b7 $1 (1. Kb5 $2 g1=Q 2. b7 Qb1+ 3. Kc6 Nd7 4. Bxc5+ Kxd3) Nd7 (g1=Q 2. b8=Q Qg6+) 2. Kb5 $1 g1=Q (g1=R { <main>} 3. Bxc5+ (3. Kc6 $2 Rb1 4. Kc7 Kd5 5. Kc8 Kc6) Nxc5 4. b8=Q Rb1+ 5. Ka5 $1 Ra1+ (Rxb8) 6. Kb5 $1 Rb1+ 7. Ka5 Rxb8) 3. Bxc5+ (3. b8=Q $2 Qb1+ 4. Kc6 Nxb8+) Nxc5 4. b8=Q Qb1+ 5. Kc6 $1 (5. Ka5 $2 Qa2+ 6. Kb5 Qa6+ 7. Kb4 Qa4#) Qh1+ (Qxb8) 6. Kb5 $1 (6. Kd6 $2 Qh6+ 7. Ke7 Qe6+ 8. Kf8 Nd7+) Qb1+ 7. Kc6 Qxb8 1/2-1/2
+
+[Event "Problemas {SEPA}#051"]
+[Source "Problemas (SEPA /10-12"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/7p/2N4P/8/4K1k1 w - - 0 1"]
+
+1. Ne4 $1 (1. Ne2+ $2 Kg2 2. Nf4+ Kg3) (1. Nd1 $2 Kg2 2. Nf2 Kg3 $1 3. Ke2 Kg2 4. Ke1 Kg3 $1 5. Kf1 Kh2 $1 6. Ke2 Kg3 7. Ke3 Kg2 8. Kf4 Kxf2 9. Kg4 Ke3 10. Kxh4 Kf4) Kg2 2. Ng5 (2. Nf2 $2 Kg3) Kg3 3. Ke2 Kf4 4. Nf3 Kg3 5. Ng1 Kg2 6. Ke3 $1 Kxg1 (Kg3 7. Ke4) 7. Kf3 $1 (7. Kf4 $2 Kf2 $1 8. Kg4 Ke3 9. Kxh4 Kf4) Kh2 8. Kg4 Kg2 9. Kxh4 Kf3 10. Kg5 1-0
+
+[Event "Shakhmatna Misl#008"]
+[Source "Shakhmatna Misl/1"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2R5/8/p2b4/K7/6k1/1p6/8 w - - 0 1"]
+
+1. Rc3+ $1 Kf4 2. Rb3 $1 Bxb3+ 3. Ka3 b1=N+ (b1=Q) 4. Kxb3 Nd2+ 5. Ka4 Nc4 6. Kb5 1/2-1/2
+
+[Event ".c Shakhmatna Misl#120"]
+[Source "Shakhmatna Misl/8 EG#06350."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/p7/K1b1k3/R7/1p2P3/5B2 w - - 0 1"]
+
+1. Bg2+ $1 Kd4 2. e3+ Ke5 3. Be4 Kxe4 4. Rb3 Bxb3+ 5. Ka3 $1 b1=N+ (b1=Q) 6. Kxb3 Nd2+ 7. Ka4 Nc4 8. Kb5 Kd3 9. e4 $1 Kc3 10. Ka4 Kd4 11. Kb5 Kc3 12. Ka4 1/2-1/2
+
+[Event "1/2.hm Thèmes 64#3859"]
+[Source "Thèmes 64/7-9 EG#05297."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1P6/8/kP3KpN/5p2/6b1/8 w - - 0 1"]
+
+1. Kg3 $1 Bh1 2. Kf2 g3+ 3. Kf1 g2+ 4. Nxg2 fxg2+ 5. Kg1 Kb5 6. b7 Ka6 7. b8=R Ka7 {<eg>} 8. Rc8 Kb6 9. Rc2 Ka6 10. Rb2 Kb5 11. Rb1 Ka6 12. b5+ Kb6 13. Rb2 1-0
+
+[Event ".c Shakhmaty v SSSR#30"]
+[Source "Shakhmaty v SSSR/9 EG#05671."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K1k5/2B2n2/4PP1Q/8/1q6/8/8/7R w - - 0 1"]
+
+1. Qf8+ $1 Qxf8 2. Bd6 (2. e7 $2 Qe8 3. Rc1 Qa4+ 4. Ba5+ Kd7) Qxd6 (Nxd6 3. Rc1+) 3. Rc1+ Kd8 4. e7+ Kd7 5. Rc7+ Qxc7 (Kxc7 {<main>} 6. e8=N+ Kd7 7. Nxd6) 6. e8=Q+ Kxe8 1/2-1/2
+
+[Event "Thèmes 64#4014"]
+[Source "Thèmes 64/7-9"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2K5/1P6/8/8/8/k1n1p3/8 w - - 0 1"]
+
+1. b7 $1 Nb4 2. Kb6 e1=Q 3. b8=Q Qe6+ 4. Kb5 $1 Qd5+ 5. Kb6 $1 (5. Ka4 $2 Qb3+ 6. Kb5 Nd3+) Qc6+ 6. Ka5 Qc5+ 7. Ka4 $1 (7. Qb5 $2 Nc6+ $1) Qc2+ 8. Kb5 $1 Qd3+ $1 9. Kb6 $1 Qa6+ 10. Kc5 $1 (10. Kc7 $2 Qc6+ 11. Kd8 Qf6+ $1 12. Kc8 (12. Kd7 Qf7+ $1 13. Kc8 (13. Kd6 Qf4+) Qe8+) Qe6+ $1) 1/2-1/2
+
+[Event "Sachové Umenie#6270"]
+[Source "Sachové Umenie/9"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "R3n3/3kP3/8/3K4/3b4/8/N2p4/8 w - - 0 1"]
+
+1. Nc3 $1 Bxc3 2. Ra7+ Nc7+ 3. Rxc7+ Kxc7 4. e8=Q d1=Q+ 5. Kc4 Qd4+ 6. Kb3 Qb4+ 7. Kc2 Qb2+ 8. Kd3 Qd2+ 9. Kc4 1/2-1/2
+
+[Event "Shakhmatna Misl#120"]
+[Source "Shakhmatna Misl/8"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/7B/1Bn3P1/6P1/P7/p7/K2p4/4b3 w - - 0 1"]
+
+1. g7+ $1 Kxg7 2. Bc2 Nb4+ 3. Kb3 $1 Nxc2 4. Kxc2 d1=Q+ $1 5. Kxd1 Bc3 $1 6. Ba5 $1 Bd4 7. Bb6 $1 Be5 8. Bc7 Bd4 9. Bb6 Bc3 10. Ba5 Bxa5 11. Kc2 1/2-1/2
+
+[Event "Shakhmatna Misl#115"]
+[Source "Shakhmatna Misl/9"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6Pp/3n1P1k/8/7K/7P/1p4p1/3N4 w - - 0 1"]
+
+1. Ne3 $1 g1=Q 2. Ng4+ Qxg4+ 3. hxg4 Nf5+ (b1=Q 4. g5+ $1 Kg6 5. g8=Q+) 4. gxf5 b1=Q 5. g8=N# 1-0
+
+[Event "2.p 64 Shakhmatnoye Obozrenye#52"]
+[Source "EG#05738."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/N1k5/8/4Kp2/8/1R6/p2b4/8 w - - 0 1"]
+
+1. Nb5+ $1 (1. Ra3 $2 a1=Q+ 2. Rxa1 Bc3+) Kc6 2. Nd4+ Kc5 3. Ra3 $1 (3. Nc2 $2 Kc4 4. Ra3 Bc1 5. Ra8 (5. Rxa2 Kb3) Bb2+ 6. Kxf5 Kb3 7. Rc8 a1=Q 8. Nxa1+ Bxa1) a1=Q 4. Rxa1 Bc3 5. Rd1 $1 (5. Rc1 $2 Kc4 6. Rd1 Bb2 7. Rd2 Bc3 8. Rd1 Bb2) (5. Ra4 $2 Bb2 6. Ra5+ Kc4 7. Rd5 Kd3) Bb2 6. Rd2 $1 (6. Rd3 $2 Ba1 7. Rd2 Kc4 8. Rd1 Bb2 9. Rd2 Bc3) Bc3 7. Rc2 $1 Kc4 8. Rc1 $1 Kd3 9. Kd5 Bxd4 10. Rd1+ Ke3 11. Rxd4 f4 12. Re4+ $1 1-0
+
+[Event ".c Shakhmaty (Riga)#14"]
+[Source "Shakhmaty (Riga)/6"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/PpkN4/8/K7/2r5/PpP5/8 w - - 0 1"]
+
+1. a7 $1 b5+ $1 2. Nxb5 Rc4+ 3. Ka3 b1=N+ $1 4. Kb3 $1 Nd2+ 5. Ka3 Nb1+ 6. Kb3 Kxb5 7. a4+ $1 Rxa4 8. c4+ $1 1/2-1/2
+
+[Event ".c Vecherni Leningrad"]
+[Source "EG#13368."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "Makletsov, Y"]
+[Black " Maksimovskikh, A."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/1R5p/p4kPp/P2p4/6K1 w - - 0 1"]
+
+1. Rd4 $1 h2+ (Ke3 2. Rxd2 Kxd2 3. g4 h2+ 4. Kxh2 Kc2 5. g5 Kb2 6. g6 Kxa2 7. g7 Kb2 8. g8=Q) 2. Kh1 Ke3 3. Rxd2 Kxd2 4. g4 Ke3 5. g5 Kf4 6. g6 Kg3 7. g7 Kh3 8. g8=B (8. g8=Q $2) (8. g8=N $2 Kg3 9. Ne7 Kf3 10. Nd5 Ke4 11. Nb4 Kd4 12. Kxh2 Kc3 13. Nd5+ Kb2 14. Nb4 Kc3) 1-0
+
+[Event "64 Shakhmatnoye Obozrenye"]
+[Source "64 Shakhmatnoye Obozrenye/4"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3b2n1/8/4PPK1/2k2P1r/8/8/8/8 w - - 0 1"]
+
+1. e7 $1 (1. f7 $2 Rg5+ 2. Kh7 Nf6+ 3. Kh8 Be7 4. f8=Q Bxf8 5. e7 Rg8#) Nxe7+ $1 2. fxe7 Rh8 3. Kg7 $1 Re8 4. f6 $1 Bxe7 (Kd6 {<main>} 5. f7 $1 Rxe7 6. Kg8) 5. Kf7 $1 Rf8+ 6. Kxe7 1/2-1/2
+
+[Event "2.hm Magyar Sakkélet#1625"]
+[Source "Magyar Sakkélet/2 EG#06156."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/8/4R2P/6K1/8/7p/6p1/5r1R w - - 0 1"]
+
+1. h7 $1 Kg7 2. Rg6+ Kh8 3. Kh6 Rf8 4. Rg1 $1 Ra8 (h2 5. Rg8+) 5. Ra1 $1 Rf8 6. Ra2 $1 h2 (Re8 7. Rf2 Rd8 8. Rgf6) 7. Rg8+ Rxg8 8. hxg8=Q+ Kxg8 9. Rxg2+ 1-0
+
+[Event "Magyar Sakkélet#1687"]
+[Source "Magyar Sakkélet/7"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5B2/8/P7/8/5kpp/8/3P4/4K1b1 w - - 0 1"]
+
+1. Bh6+ $1 Kg3 2. Be3 Bxe3 3. dxe3 Kh2 4. a7 g3 5. a8=Q g2 6. Qb8+ Kh1 7. Qb7 Kh2 8. Qc7+ Kh1 9. Qc6 Kh2 10. Qd6+ Kh1 11. Qd5 Kh2 12. Qe5+ Kh1 13. Qe4 h3 14. Kf2 1-0
+
+[Event "Szachy"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7R/2N5/2pk4/4n3/1P6/K7/1p1p4/8 w - - 0 1"]
+
+1. Rh1 $1 (1. Ne8+ $2 Ke7 2. Rh1 Nd3 3. Rd1 b1=Q 4. Rxb1 Nc1 5. Kb2 d1=Q 6. Rxc1 Qd2+ 7. Rc2 Qxb4+) (1. Nb5+ $2 cxb5 2. Rh1 Nd3 3. Rd1 b1=Q 4. Rxb1 Nf2 $1) Nd3 $1 (Nc4+ 2. Kb3 Ne3 3. Na6 $1 d1=Q+ 4. Rxd1+ Nxd1 5. Kc2) 2. Rd1 (2. Rb1 $2 Kxc7 3. Kb3 Nf2 $1 4. Kc2 d1=Q+) b1=Q (Kxc7 3. Ka2 Nxb4+ 4. Kxb2) 3. Rxb1 Nc1 (Nf2 4. Na6) 4. Nb5+ $1 cxb5 5. Rb2 Nb3 (d1=Q 6. Rd2+ Qxd2) 6. Rb1 Nc1 7. Rb2 d1=Q 8. Rd2+ Qxd2 1/2-1/2
+
+[Event "3.p L'Italia Scacchistica#558"]
+[Source "L'Italia Scacchistica/11 EG#07092."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2q2nk1/8/5PPB/7n/8/1R5p/B7/6K1 b - - 0 1"]
+
+h2+ $1 2. Kh1 $1 Qa8+ 3. Rb7+ Qxa2 4. Rg7+ Kh8 5. Rg8+ $1 Qxg8 (Kxg8 6. f7+ Kh8 7. Bg7+ Nxg7) 6. Bg7+ Nxg7 7. f7 1/2-1/2
+
+[Event ".c Shakhmatna Misl#114"]
+[Source "Shakhmatna Misl/10 EG#08146."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Makletsov, Yuri Michailovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p3/3N4/4p3/1kp5/6p1/1K3B2/8 w - - 0 1"]
+
+1. Be1+ $1 c3+ 2. Bxc3+ Ka4 3. Ne4 g2 4. Bd2 g1=Q 5. Nc3+ Kb4 (Ka5 6. Ne2+) 6. Ne2+ 1-0

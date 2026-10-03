@@ -1,0 +1,14 @@
+[Event "td25"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Mathieu, O"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5BK1/8/6p1/8/4p3/8/5R2/k1r5 w - - 0 1"]
+[PlyCount "25"]
+
+1. Bg7+ Kb1 2. Rb2+ Ka1 3. Kh7 e3 $1 4. Kh6 $1 (4. Kxg6 $143 Rc6+ $11 (e2 $143 5. Rxe2+ Kb1 6. Rb2+ Ka1 7. Bf6 $18)) g5 5. Kh5 g4 6. Kh4 g3 7. Kh3 g2 8. Rxg2+ Kb1 9. Rb2+ Ka1 10. Bd4 e2 11. Rxe2+ Kb1 12. Rb2+ Ka1 13. Kg4 $18 1-0

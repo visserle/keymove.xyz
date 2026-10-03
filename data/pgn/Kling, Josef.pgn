@@ -1,0 +1,720 @@
+[Event "Chess Studies (Kling & Horwitz 1851)-43"]
+[Site "?"]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[Composer2 "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "1k1K4/1p6/pP2B3/P4p2/6p1/8/8/8 w - - 0 1"]
+
+1. Kd7 $1 (1. Bd5 $6 f4 2. Be6 (2. Kd7 f3 3. Kd8 f2 4. Bg2 g3 5. Kd7 f1=Q 6. Bxf1 g2 7. Bxg2 Ka8 $16 $18) g3 3. Bd5 f3 4. Bxf3 g2 5. Bxg2 Ka8 $16 $18) (1. Bxf5 $6 $2 g3 2. Be4 $16 $18 g2 3. Bxg2 Ka8 4. Bxb7+ (4. Kc7) Kxb7 5. Kd7 Kb8 6. Kc6 Kc8 7. b7+ Kb8 8. Kb6) (1. Bc8 $4 g3 2. Bxf5 g2 $19) (1. Bc4 $6 f4 2. Be6 $16 $18) (1. Ke7 $6 g3 2. Bd5 $18) (1. Bd7 $4 g3 2. Bxf5 g2 $19) (1. Ke8 $6 Ka8 2. Ke7) (1. Bb3 f4 2. Kd7) (1. Bf7 f4 2. Bd5) (1. Ba2 f4 2. Bd5) g3 (f4 {<main>} 2. Bxg4 (2. Kd6 $2 f3 3. Bd5 $10) (2. Bd5 $6 f3 3. Ke7 $16 $18) (2. Kd8 $6 g3 3. Bd5 $16 $18) (2. Bf5 $6 f3 3. Bxg4 $16 $18) (2. Bc4 $6 f3 3. Bd5 $16 $18) f3 3. Bh3 $1 (3. Bxf3 $6 Ka8 4. Bg2 Kb8 5. Kd8 $16 $18) (3. Kd6 $2 f2 4. Bh3 $10) (3. Bf5 $6 f2 4. Bd3 $16 $18) (3. Kd8 $6 f2 4. Bh3 $10) (3. Bh5 $6 f2 4. Be2 $16 $18) (3. Be6 $6 f2 4. Bh3 $16 $18) f2 4. Bf1 (4. Kd6 $2 f1=Q 5. Bxf1 $10) (4. Bg2 $6 f1=Q 5. Bxf1 $16 $18) (4. Kd8 $6 f1=Q 5. Bxf1 $10) (4. Ke8 $6 f1=R 5. Bxf1 $16 $18) Ka8 5. Bxa6 (5. Kc7 $2) (5. Bg2 $6 f1=R 6. Bxf1 $16 $18) (5. Kd8 Kb8 6. Kd7 $18) (5. Kc8 $2) (5. Bd3 $6 f1=Q 6. Bxf1) (5. Bb5 axb5) bxa6 6. Kc7 f1=Q 7. b7+ Ka7 8. b8=Q#) 2. Bd5 (2. Bxf5 $4 g2 $19) (2. Bc4 $4 g2 $19) (2. Kd8 $4 g2 3. Bxf5 g1=Q $19) (2. Kd6 $4 g2 3. Bxf5 g1=Q $19) f4 3. Bf3 $1 (3. Bg2 $6 f3 4. Bxf3 $16 $18) (3. Bc4 $4 g2 $19) (3. Kd8 $6 f3 4. Bxf3 $16 $18) (3. Be4 $6 f3 4. Bxf3 $16 $18) (3. Kd6 $6 f3 4. Bxf3) (3. Bh1 $6 f3 4. Bxf3) (3. Ke6 $6 f3 4. Bxf3) (3. Bc6 bxc6) g2 4. Bxg2 f3 5. Bf1 $1 (5. Bh3 {<or>} f2 6. Bf1 $18) (5. Bxf3 $6 Ka8 6. Bxb7+ (6. Bg2 Kb8 7. Kd8 Ka8 8. Bf1) Kxb7 7. Ke7 $10) (5. Bh1 $6 f2 6. Bg2 $16 $18) f2 6. Kd8 $1 (6. Kd6 $6 Kc8 7. Ke7 $18) (6. Be2 $6 f1=R 7. Bxf1 $16 $18) (6. Bg2 $6 f1=Q 7. Bxf1 $16 $18) (6. Bd3 $6 f1=Q 7. Bxf1) (6. Bb5 axb5) (6. Ke8 Kc8 7. Ke7) Ka8 7. Bxa6 $1 (7. Kc8 $2) (7. Be2 $6 f1=R 8. Bxf1 $16 $18) (7. Kc7 $2) (7. Bg2 $6 f1=Q 8. Bxf1) (7. Kd7 Kb8 8. Kd8) (7. Ke7 Kb8 8. Kd8) Kb8 (bxa6 8. Kc7) 8. Bf1 Ka8 9. Bg2 Kb8 10. Kd7 (10. Bf1 Ka8 11. Bh3 $18) (10. Bxb7 $4 Kxb7 $19 11. a6+ Kxb6) (10. Bh3 Ka8 11. Bg2) Ka8 11. Kc7 (11. Kc8 f1=Q 12. Bxb7#) (11. a6 $6 f1=Q 12. Bxf1 bxa6 13. Kc7 $18) (11. Bf1 Kb8 12. Bg2 $18) (11. Kd6 $6 f1=Q 12. Bxf1 $18) (11. Kd8 f1=Q 12. Bxf1) (11. Bh3 $6 f1=Q 12. Bxf1) (11. Bc6 f1=Q) f1=Q 12. Bxb7# (12. Bxf1 $4) (12. a6 $4 Qxg2 $19 13. axb7+ Qxb7+ 14. Kd6 Qe4) (12. Be4 $4 Qf4+ 13. Kd7 Qxe4) (12. Bh3 Qxh3) 1-0
+
+[Event "The Chess Player's Chronicle#121"]
+[Site "?"]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[Composer2 "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "3N4/2p5/8/3q4/3k4/8/3PKP2/R7 w - - 0 1"]
+
+1. Ra4+ $1 (1. Ra5 $2 Qxd8 2. Ra4+ $10) (1. Ra2 $4 Qxa2 2. Nc6+ Ke4) (1. Ra3 $2 Qh5+ 2. f3 Qh2+ $15 $17) (1. d3 $4 Qh5+ 2. Kd2 Qg5+) (1. Ra6 Qb5+ 2. Kf3 Qxa6) (1. Nb7 Qe4+ 2. Kd1 Qh1+) (1. Ne6+ Qxe6+ 2. Kf1 Qh3+) Ke5 $1 (Kc5 2. Ra5+) 2. Ra5 $1 (2. f4+ $4 Kf5 $19) (2. Nf7+ $2 Qxf7 3. Ke1 $10) (2. d4+ $4 Ke4 3. f3+ Kf4) (2. Re4+ $4 Kxe4 3. f3+ Kd4) (2. Rh4 $4 Qxd8 3. Rg4) (2. Rg4 $4 Qxd8 3. Rc4) c5 $4 (Qxa5 3. Nc6+ Kd5 (Kd6 4. Nxa5) 4. Nxa5 $18) (Kd6 $5 3. Rxd5+ $16 $18) 3. Rxc5 $1 (3. f4+ $4 Kd4 $17 $19 4. Ra4+ c4) (3. d4+ $4 Kxd4 $19 4. Ne6+ Qxe6+ 5. Kf1 c4) (3. Nf7+ $4 Kf6 $17 $19) (3. Ra3 $4 Qxd8 4. Rb3 $10) (3. Ra4 $4 Qxd8 4. Rc4) (3. d3 $4 Kd4 4. Ra4+ Kc3) (3. f3 $4 Kd4 4. Ra4+ c4) (3. Ra6 $4 Qc4+ 4. d3 Qxa6) (3. Rb5 $4 Qc4+ 4. Kf3 Qxb5 5. Nf7+ Ke6) (3. Ke3 Qe4#) Qxc5 4. d4+ $1 (4. f4+ $4 Kf5 $19) (4. Nb7 $4 Qd5 $19 5. d4+ Qxd4) (4. Nf7+ $4 Kd4) Qxd4 (Kxd4 {<main>} 5. Ne6+ $18 Kd5 6. Nxc5) 5. Nc6+ (5. Ne6 Kxe6) Kd5 (Ke4 6. Nxd4 Kxd4 7. Kf3 $1) 6. Nxd4 Kxd4 7. Kf3 $18 (7. Kd2 $2 Ke4 8. f3+ $10) (7. f3 $2 Ke5 8. f4+) (7. f4 $2 Ke4 8. f5) 1-0
+
+[Event "Chess Studies (Kling & Horwitz 1851)-18"]
+[Source "î@: Cvetkov=A Shakhmatna Misl/6 1987."]
+[Site "?"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[Composer2 "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/1p1k4/8/2PK3p/2P5/7P/8/8 w - - 0 1"]
+
+1. c6+ $1 (1. h4 $2 Kc7 2. c6 $10 (2. Ke4 Kc6 3. Kd4 Kd7 $1 4. Kc3 Kc6 5. Kb4 Kd7 $1 6. Kb5 Kc7 7. c6 b6 $1 8. c5 bxc5 9. Kxc5 Kc8)) (1. Ke5 $2 h4 2. c6+ $10) (1. Ke4 $2 h4 2. c6+ $10) (1. Kd4 $2 h4 2. c6+ $10) bxc6+ 2. Ke5 (2. Kc5 $2 h4 $1 3. Kd4 $10) (2. Kd4 $2 Kd6 3. c5+ $10) (2. Ke4 $2 Kd6 3. h4) h4 (Ke7 3. c5 (3. h4 $1 {<minor dual AC>}) h4 4. Kf5 Kf7 5. Kg5 (5. Kg4 {<or>}) Ke6 6. Kxh4 Kd5 7. Kg5 Kxc5 8. h4 Kd6 $1 9. Kf6 $1 c5 10. h5 c4 11. h6 c3 12. h7 c2 13. h8=Q c1=Q 14. Qd8+ Kc6 15. Qc8+ Kb6 16. Qxc1) 3. c5 (3. Kf5 $2 Kd6 4. Kg5 $10) (3. Kf4 $2 Kd6 4. Ke4 $10) (3. Kd4 $2 c5+ $4 (Ke6 $5) 4. Kxc5) (3. Ke4 $2 Kd6 4. Kd4) (3. Kf6 Kd6 4. Kg5) Ke7 4. Kf5 (4. Kf4 $2 Ke6 5. Ke4) (4. Kd4 $2 Ke6 5. Ke4) (4. Ke4 Ke6 5. Kf4) Kf7 5. Kg5 (5. Ke5 Ke7 $18 6. Kf5) (5. Kg4 Kg6 $18 6. Kxh4) (5. Ke4 Kf6 6. Kd4) Ke6 6. Kxh4 (6. Kg6 $2 Ke5 7. Kg5 $10) (6. Kf4 $2 Kd5 7. Kg4) (6. Kg4 Kd5 7. Kxh4 Kxc5 8. Kg4) (6. Kh5 Kd5 7. Kg4 Kxc5 8. Kxh4) Kd5 7. Kg5 (7. Kg4 $2 Kxc5 8. h4 $10) (7. Kg3 $2 Kxc5 8. Kf4) (7. Kh5 $2 Kxc5 8. h4) Kxc5 8. h4 (8. Kf5 $2 Kb4 9. h4 $10) (8. Kf4 $2 Kd5 9. h4 $10) (8. Kf6 $2 Kb5 9. h4 $10) (8. Kg6 $2 Kb5 9. h4) Kd6 9. Kf6 (9. h5 $2 Ke7 10. h6 $10) (9. Kg6 $2 c5 10. h5 $10) (9. Kf4 $2 c5 10. h5 $10) (9. Kf5 $2 c5 10. h5) (9. Kh6 c5 10. h5) (9. Kg4 c5 10. Kf5) c5 10. h5 (10. Kf5 $2 c4 11. h5 $10) c4 11. h6 c3 12. h7 c2 13. h8=Q c1=Q 14. Qd8+ $18 (14. Qe8 $4 Qb1 15. Qd8+ $10) (14. Qf8+ $4 Kd5 15. Qe8) (14. Qh2+ $4 Kc6 15. Qg2+) (14. Qb8+ Qc7 15. Qa8 Qd7 16. Qf8+) (14. Qc8 Qxc8) 1-0
+
+[Event "The Chess Player's Chronicle#056"]
+[Date "1848.08.31"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5K2/7k/8/p7/1p6/1R6 w - - 0 1"]
+
+1. Kf5 $1 Kh4 2. Kf4 Kh3 3. Kf3 Kh2 4. Ke3 $1 Kg3 (Kg2 5. Kd3 Kf3 6. Kc2 a2 7. Kxb2) (a2 5. Rxb2+) 5. Rg1+ $1 Kh2 (Kh4 6. Kf4) 6. Rb1 1/2-1/2
+
+[Event "Chess Weekly"]
+[Date "1849.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "q7/8/8/8/5R2/4k3/7R/4K3 w - - 0 1"]
+
+1. Ra4 $1 Qxa4 (Qc8 2. Rh3+ Qxh3 3. Ra3+) 2. Rh3+ Kf4 3. Rh4+ Kg3 4. Rxa4 1-0
+
+[Event "The Chess Euclid#155"]
+[Date "1849.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "N7/kp6/1N6/1K6/8/8/8/8 w - - 0 1"]
+
+1. Nc7 $1 Kb8 2. Ne8 Ka7 3. Nd7 Ka8 (b6 4. Nd6 Ka8 5. Ka6 b5 6. Nc8 b4 7. Ncb6#) 4. Nd6 Ka7 5. Nc8+ Ka8 6. Ka5 b6+ 7. Ka6 b5 8. Ncb6# 1-0
+
+[Event "Chess Studies (Kling & Horwitz 1851)-24"]
+[Source "(v): Tattersall=C Tattersall's a Thousand End Games#016 1910."]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/8/P7/1PP5/7p/5Kp1/7p/8 w - - 0 1"]
+
+1. Kg2 $1 h3+ 2. Kh1 Kc7 3. b6+ (3. a7 $2 Kb7 4. b6 Ka8 5. c6 g2+ 6. Kxh2 g1=Q+ 7. Kxg1 h2+ 8. Kxh2) Kb8 4. c6 $1 Ka8 5. c7 g2+ 6. Kxh2 g1=Q+ 7. Kxg1 h2+ 8. Kf2 h1=Q 9. c8=Q# 1-0
+
+[Event "Chess Studies (Kling & Horwitz 1851)-15"]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/3q4/3P4/3K4/5Q2/8/8/8 w - - 0 1"]
+
+1. Qf8+ $1 Kb7 $1 2. Qe7 Kc8 3. Qe6 (3. Qxd7+ $2 Kxd7) Kd8 4. Qg8+ Qe8 5. Qxe8+ Kxe8 6. Ke6 Kd8 7. d7 1-0
+
+[Event "Chess Studies (Kling & Horwitz 1851)-18"]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5q2/4p3/1K2k3/4N3/4N3/8/4P3/8 w - - 0 1"]
+
+1. Nc5+ $1 Kf5 (Kd5 2. e4+ Kd4 (Kxe5 3. Nd7+ Kxe4 4. Nxf8) 3. Ne6+ Kxe5 4. Nxf8) (Kd6 {<main>} 2. Nc4+ Kd5 3. Ne3+ Kd6 4. Nc4+) 2. e4+ Kxe5 (Kf4 3. Ng6+ Kg5 4. Nxf8) (Kf6 3. Ned7+ Kf7 4. Nxf8) (Kg5 3. Ne6+ Kf6 4. Nxf8) 3. Nd7+ Kxe4 4. Nxf8 1/2-1/2
+
+[Event "Chess Studies (Kling & Horwitz 1851)-29"]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4b1k1/4P1P1/5P1K/8/8/8/8/8 w - - 0 1"]
+
+1. Kg5 $1 Kf7 2. Kf5 Bd7+ 3. Ke5 Ba4 4. Kd6 Bb5 5. Kc7 Ba4 6. Kd8 Bb5 7. g8=Q+ (7. e8=Q+ {<or>} Bxe8 8. g8=Q+ Kxg8 9. Kxe8) Kxg8 8. e8=Q+ Bxe8 9. Kxe8 1-0
+
+[Event "Chess Studies (Kling & Horwitz 1851)-80"]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1k6/7R/1Kp5/1p6/8/p7/8 w - - 0 1"]
+
+1. Rh7+ $1 Kb8 2. Rh1 b3 3. Kb6 Kc8 4. Kc6 Kd8 5. Kd6 Ke8 6. Ke6 Kf8 7. Kf6 Kg8 8. Rg1+ Kf8 9. Rh1 1/2-1/2
+
+[Event "Chess Studies (Kling & Horwitz 1851)-23"]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/3p4/5p2/2kP1P2/8/4P3/2K5 w - - 0 1"]
+
+1. e4 $1 fxe4 (Kxd4 2. exf5 Kd5 3. Kd2) 2. f5 Kd3 3. f6 e3 4. Kd1 e2+ 5. Ke1 1-0
+
+[Event "Chess Studies (Kling & Horwitz 1851)-25"]
+[Source "(v): Tattersall=C source unknown."]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/p7/P1K5/1pp5/2P5/P7/8/8 w - - 0 1"]
+
+1. Kxb5 $1 Kc8 2. Kxc5 Kc7 3. Kd5 Kd7 4. a4 Kc7 5. Ke6 Kc6 6. Ke7 Kc7 (Kc5 7. Kd7 Kxc4 8. Kc6 $1 Kb4 9. Kb7) 7. a5 Kc6 (Kc8 8. Kd6 Kd8 9. Kc6 Kc8 10. c5 Kb8 11. Kd7 Ka8 12. c6) 8. Kd8 Kd6 9. Kc8 Kc6 10. Kb8 Kd7 11. Kxa7 Kc7 12. c5 Kc8 13. Kb6 1-0
+
+[Event "Chess Studies (Kling & Horwitz 1851)-82"]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/Kp2r3/8/PP6/8/6k1/8 w - - 0 1"]
+
+1. Kb5 $1 Kf3 2. a5 bxa5 3. bxa5 1/2-1/2
+
+[Event "Chess Studies (Kling & Horwitz 1851)-30"]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3B4/4P3/8/8/8/3K4/p7/1k6 w - - 0 1"]
+
+1. e8=Q $1 a1=Q 2. Qe1+ Ka2 3. Qe6+ Kb1 (Ka3 4. Qa6+ Kb2 5. Bf6+) 4. Bf6 Qa3+ (Qa4 5. Qe1+) 5. Bc3 Qa4 6. Qe1+ Ka2 7. Qa1+ Kb3 8. Qb2# 1-0
+
+[Event "Chess Studies (Kling & Horwitz 1851)-19"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - IV-59 2012."]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2q4k/5Rp1/6Kp/4N2P/7P/8/8/8 w - - 0 1"]
+
+1. Rf8+ $1 Qxf8 2. Nf7+ Kg8 3. Nxh6+ $1 Kh8 4. Nf7+ Kg8 5. Nh6+ gxh6 1/2-1/2
+
+[Event "Chess Studies (Kling & Horwitz 1851)-22"]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/7p/2pp3P/1p1k2P1/8/3K4/8 w - - 0 1"]
+
+1. g5 $1 Ke5 2. gxh6 Kf6 3. Kc1 $1 d4 4. Kc2 c4 5. Kc1 $1 b3 6. Kb2 d3 7. Kc3 1-0
+
+[Event "Chess Studies (Kling & Horwitz 1851)-28"]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5b2/5P2/2P1K1k1/8/8/8 w - - 0 1"]
+
+1. c5 $1 Kg5 2. c6 Bd8 3. Ke5 Kh6 4. f6 $1 (4. Ke6 $2 Kg7 5. f6+ Kf8) Kh7 5. Ke6 Kg8 6. Kd7 Ba5 7. Ke8 1-0
+
+[Event "Chess Studies (Kling & Horwitz 1851)-22"]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/7p/2pk3P/1p1p2P1/8/3K4/8 w - - 0 1"]
+
+1. g5 $1 Ke6 (b3 2. gxh6 c4 3. h7 c3+ 4. Kc1 b2+ 5. Kb1) 2. gxh6 Kf6 $1 3. Kc2 $1 c4 4. Kc1 $1 b3 5. Kb2 1-0
+
+[Event "Chess Studies (Kling & Horwitz 1851)-83"]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/p1K5/k7/7p/5p2/4p3/6R1 w - - 0 1"]
+
+1. Kc5 $1 Ka4 2. Kc4 Ka3 3. Kc3 Ka2 4. Re1 a5 (h3 {<main>} 5. Kd3 h2 6. Ke3 a5 7. Kxf3) 5. Kd3 Kb2 6. Ke3 a4 7. Kxf3 a3 8. Rxe2+ 1/2-1/2
+
+[Event "Chess Studies (Kling & Horwitz 1851)-39"]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6bk/6p1/4p1PP/4P2K/8/8/8/8 w - - 0 1"]
+
+1. hxg7+ $1 Kxg7 2. Kg5 Kh8 (Kf8 3. Kh6) 3. Kf6 1-0
+
+[Event "Chess Studies (Kling & Horwitz 1851)-39"]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6bk/6p1/4p1PP/4P3/6K1/8/8/8 w - - 0 1"]
+
+1. hxg7+ $1 Kxg7 2. Kg5 Kh8 (Kf8 3. Kh6) (Bf7 3. gxf7 Kxf7 4. Kh6 Kf8 5. Kg6 Kg8 6. Kf6 Kf8 7. Kxe6) 3. Kf6 1-0
+
+[Event "Chess Studies (Kling & Horwitz 1851)-54"]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/4N1p1/5p1p/6bK/5k2 w - - 0 1"]
+
+1. Nf2 $1 g3+ (Kxf2) 2. Kxg3 h2 (Bh1 3. Nxh3) 3. Kxh2 Kxf2 1/2-1/2
+
+[Event "Chess Studies (Kling & Horwitz 1851)-27"]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/2p1pp2/2P3p1/4P1P1/5P2/p7/Kp3P2/8 w - - 0 1"]
+
+1. f5 $1 e6 (gxf5 2. e6 fxe6 3. g6) 2. fxe6 fxe6 3. f4 Kb8 4. f5 $1 exf5 5. e6 Kc8 6. e7 1-0
+
+[Event "Chess Studies (Kling & Horwitz 1851)-79"]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2R5/7k/5K2/8/p7/8/1p6/8 w - - 0 1"]
+
+1. Rc7+ $1 (1. Rb8 $2 a3 2. Rb7+ Kh6 3. Rb8 Kh5 4. Kf5 Kh4 5. Kf4 Kh3 6. Kf3 Kh2 7. Kf2 Kh3 8. Kf3 Kh2) Kg8 (Kh6 2. Rc2) 2. Rg7+ $1 Kh8 (Kf8 3. Rb7) 3. Rb7 a3 4. Kg6 1-0
+
+[Event "Chess Studies (Kling & Horwitz 1851)-76"]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5R2/8/8/8/2kp4/3p1K2/8 w - - 0 1"]
+
+1. Rc7+ $1 Kd4 2. Rd7+ Ke4 3. Re7+ Kf5 4. Re1 1/2-1/2
+
+[Event "The Chess Player#026"]
+[Date "1851.10.11"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1k6/8/8/5p1p/3P1P1P/6K1 w - - 0 1"]
+
+1. d4 $1 (1. Kf1 $2 Kc5 2. Ke1 Kd4 3. Kd1 Kd3 4. Ke1 Kd4) Kc6 2. Kf1 Kd6 3. Ke1 Kd5 4. Kd1 Kc4 5. Kc2 Kxd4 6. Kd2 Ke4 7. Kc3 Ke5 8. Kd3 Kf4 9. Kd4 Kf5 10. Ke3 Kg4 11. Ke4 1-0
+
+[Event "The Chess Player#053 (c)"]
+[Source "(c): Marco=G Wiener Schachzeitung#04 (v) Wiener Schachzeitung=3 3/1898."]
+[Date "1852.01.17"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[Composer2 "Horwitz, Bernhard"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4k3/4p1p1/3pKpP1/5P2/3P4/8 w - - 0 1"]
+
+1. d3 $1 Kd6 2. Kf5 Kd5 3. Kxg5 Ke6 4. Kh4 Kf6 5. Kh3 $1 Ke6 6. Kg2 Kf6 7. Kf2 (7. Kf1 {<or>}) Ke6 8. Ke2 Kf6 9. Kd2 Ke6 10. Kc2 Kd5 11. Kb3 Kc5 12. g5 Kd5 13. g6 Ke6 14. Kc4 Kf6 15. Kd5 1-0
+
+[Event "The Chess Player#059"]
+[Date "1852.02.07"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1q6/8/4kP2/2P5/3QK3 w - - 0 1"]
+
+1. Qd3+ $1 Qxd3 2. cxd3 Kxd3 (Kxf3 3. Kd2 Kf4 4. Kc3) 3. Kf2 Kd4 4. Kg3 Ke5 5. Kg4 Ke6 (Kf6 6. Kf4) 6. Kg5 1-0
+
+[Event "The Chess Player#076"]
+[Date "1852.04.02"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/3P1p2/2p5/2P5/3P4/8/8/3K4 w - - 0 1"]
+
+1. d5 $1 cxd5 (Kxd7 2. d6) 2. c6 1-0
+
+[Event "The Chess Player#079"]
+[Date "1852.04.17"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1k6/2p5/2P5/P7/7K w - - 0 1"]
+
+1. Kg2 $1 Ka4 2. Kf3 Ka3 3. Ke4 Kxa2 4. Kd5 Kb3 5. Kd4 1-0
+
+[Event "The Chess Player#096"]
+[Date "1852.06.12"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4kp2/1K2b1P1/5r1P/8/8/8/4R3 w - - 0 1"]
+
+1. g7 $1 Rg5 2. h6 Kf6 3. Rf1+ Bf5 4. Kc7 $1 Rg2 5. Rxf5+ Kxf5 6. h7 Rxg7 7. h8=Q Rg6 8. Kd7 Re6 9. Qg7 1-0
+
+[Event "The New Chess Player#06"]
+[Date "1852.08.28"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/4k3/K7/1p6/b7/8 w - - 0 1"]
+
+1. Ka3 $1 Kd4 2. Kb2 Kd3 3. Ka1 Bb1 4. Kxb1 Kc3 5. Kc1 b2+ 6. Kb1 Kb3 1/2-1/2
+
+[Event "The New Chess Player#47"]
+[Source "The New Chess Player/3"]
+[Date "1853.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p7/P7/2N5/1k1K4/8/8 w - - 0 1"]
+
+1. Nd6 $1 Kb4 2. Nb7 Kb5 3. Kd4 $1 Kc6 4. Nc5 Kb5 5. Nb3 Kb4 6. Kd5 Kxb3 7. Kc5 $1 (7. Kc6 $2 Kc4 8. Kb6 Kd5 9. Kxa6 Kc6) Kc3 8. Kb6 1-0
+
+[Event "The New Chess Player#13"]
+[Source "The New Chess Player/8"]
+[Date "1853.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3K4/8/3k4/8/8/6pB/5p2/8 w - - 0 1"]
+
+1. Bg2 $1 (1. Bf1 $2 Ke5 2. Ke7 Kf4 3. Kf6 (3. Bg2 Ke3 4. Kf6 Ke2) Kf3) Ke5 2. Ke7 Kf4 3. Kf6 Ke3 4. Kf5 Ke2 5. Kf4 f1=Q+ 6. Bxf1+ Kxf1 7. Kxg3 1/2-1/2
+
+[Event "The New Chess Player#59 (@2)"]
+[Source "The@New Chess Player/4 î2: Mihoci=I HHdbIV#02089 5-11-2007."]
+[Date "1853.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/2k3p1/1pP3P1/4K1P1/8 w - - 0 1"]
+
+1. Kd2 $1 Kb5 2. Kc1 (2. Kd1 $1 {<minor dual IM>} Ka5 3. Kc1 Kb5 4. Kd1) Kc5 3. Kb1 Kd5 4. Kc1 1/2-1/2
+
+[Event "The New Chess Player#37"]
+[Source "The New Chess Player/1"]
+[Date "1853.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/1kP5/1p1P4/pK2P3/8 w - - 0 1"]
+
+1. e3 $1 (1. e4 $2 Kc5 2. e5 Kd4 3. e6 Kxd3 4. e7 a1=Q+ 5. Kxa1 Kc2 6. e8=Q b2+ 7. Ka2 b1=Q+ 8. Ka3 Qb3#) Kc5 2. Ka1 $1 Kb4 3. Kb2 Kc5 4. Ka1 1/2-1/2
+
+[Event "The New Chess Player#08"]
+[Source "The New Chess Player/7 also Schachzeitung/8 1853."]
+[Date "1853.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/1b1K4/3PP3/p1p4n/3n4/4B3/8/8 w - - 0 1"]
+
+1. Bxd4 $1 cxd4 2. Ke7 Nf4 $1 3. d7 Nxe6 4. Kxe6 Bc8 5. Ke5 $1 Bxd7 6. Kxd4 a4 7. Kc3 Be6 8. Kb2 1/2-1/2
+
+[Event "The New Chess Player#50"]
+[Source "The New Chess Player/3 also Land and Water#58 8-3-1873."]
+[Date "1853.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r2k4/2p3K1/p7/P7/3N4/7B/8/8 w - - 0 1"]
+
+1. Nc6+ $1 Ke8 2. Bg4 Rc8 3. Kf6 Ra8 4. Be6 Kf8 5. Bf7 Re8 6. Bxe8 Kxe8 7. Ke6 1-0
+
+[Event "The New Chess Player#72"]
+[Source "The New Chess Player/6"]
+[Date "1853.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/3B2p1/3K2Pp/5PkP/8 w - - 0 1"]
+
+1. Ke2 $1 Kxh2 (Kh1 2. Kf1 Kxh2 3. Be3 Kh1 4. f3) 2. Kf1 Kh1 3. f3 Kh2 4. Bf2 Kh1 5. Bg1 1-0
+
+[Event "The New Chess Player#04"]
+[Source "The New Chess Player/7"]
+[Date "1853.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4rr2/2B1k1p1/3R2P1/Q3K3/2q5/8 w - - 0 1"]
+
+1. Bd6+ $1 Rxd6 2. Qa5+ Ke6 3. Rxd6+ Kxd6 4. Qe5+ Kxe5 1/2-1/2
+
+[Event "The New Chess Player#68"]
+[Source "The New Chess Player/6"]
+[Date "1853.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1pk5/3p4/1K1P4/8/8/8/8 w - - 0 1"]
+
+1. Ka5 $1 Kc8 2. Kb6 Kb8 3. Ka5 Ka7 4. Kb5 1/2-1/2
+
+[Event "source unknown"]
+[Date "1853.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/rP6/2K5/8/8/8/4k3 w - - 0 1"]
+
+1. b7 $1 Ra5+ 2. Kc4 Ra4+ 3. Kc3 Ra3+ 4. Kb2 1-0
+
+[Event "The New Chess Player#51"]
+[Source "The New Chess Player/3"]
+[Date "1853.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4pppp/8/4PPPP/k7/8/K7 w - - 0 1"]
+
+1. h5 $1 (1. g5 $2 fxg5 2. h5 gxf4) (1. e5 $2 fxe5 2. h5 exf4) (1. f5 $2 exf5) gxh5 (g5 2. e5 $1 fxe5 (gxf4 3. exf6) (f5 3. gxf5) 3. f5 $1 e4 4. f6 $1) 2. e5 $1 fxe5 3. f5 $1 hxg4 4. f6 g3 5. f7 g2 6. f8=Q+ 1-0
+
+[Event "The Chess Player's Chronicle#13"]
+[Source "The Chess Player's Chronicle/3"]
+[Date "1854.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6p1/5p1p/5P1P/4k1K1/8/5P2/8 w - - 0 1"]
+
+1. f4 $1 Kd4 2. Kh4 $1 Kd3 3. Kh3 Ke2 4. Kg2 Kd3 5. Kh3 (5. Kf3 $2 Kd4 6. Kg3 Ke3) 1/2-1/2
+
+[Event "source unknown"]
+[Date "1855.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1k2p3/4P3/3K4/2P5/8 w - - 0 1"]
+
+1. c3 $1 Kc5 2. Kd2 Kb5 3. Kc1 Kc5 4. Kb2 Kc4 5. Kc2 Kb5 6. Kb3 Kc5 7. c4 Kd4 8. Kb4 Kxe4 9. c5 Kd5 10. Kb5 e4 11. c6 e3 12. c7 e2 13. c8=Q e1=Q 14. Qd7+ Ke4 15. Qe6+ 1-0
+
+[Event "Chess Player's Magazine#23 (c)"]
+[Source "Chess Player's Magazine/7 (c): Berger=J Theorie und Praxis der Endspiele  (1890)#072 1890."]
+[Date "1866.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/Q7/2p1pq2/8/Kp6/8/k7 w - - 0 1"]
+
+1. Qe2 $1 Qb1 2. Qxe5+ b2 3. Qd5 c4 4. Qxc4 Qd3+ (Qc1 5. Qa2#) 5. Qxd3 b1=Q 6. Qc3+ Qb2+ 7. Qxb2# 1-0
+
+[Event "Chess Player's Magazine"]
+[Source "also Neue Berliner Schachzeitung 1866."]
+[Date "1866.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7R/8/8/5p2/8/4q3/6R1/5k1K w - - 0 1"]
+
+1. Rh4 $1 Qf3 2. Rf4 Qxf4 3. Rf2+ Kxf2 (Qxf2) 1/2-1/2
+
+[Event "Chess Player's Magazine#23 (v)"]
+[Source "Chess Player's Magazine/7"]
+[Date "1866.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/Q4P2/4pq2/8/Kp6/p7/k7 w - - 0 1"]
+
+1. Qe2 $1 Qc2 2. Qe1+ Qb1 3. Qxe5+ b2 4. Qd5 Qd3+ 5. Qxd3 b1=Q 6. Qc3+ 1-0
+
+[Event "source unknown"]
+[Date "1868.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3N4/8/7N/5b2/5k1K/5p2/8 w - - 0 1"]
+
+1. Ne5+ $1 Bxe5 2. Ng3 Bf4 3. Nf1 Ke2 4. Kg2 Ke1 5. Kh1 $1 Kd1 6. Kg2 Ke2 7. Kh1 $1 Kf3 (Kxf1) 8. Ng3 $1 Bxg3 (Kxg3) 1/2-1/2
+
+[Event "Land and Water#10"]
+[Date "1871.10.21"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k1P5/2q5/8/p1p5/6Q1/KP6/8 w - - 0 1"]
+
+1. Qd6 $1 Qxd6 2. c8=N+ 1-0
+
+[Event "Chess Studies and End-games (1884)-232"]
+[Date "1884.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p1pp1K/2Pp1q2/4kp1P/2P4p/4PP1P/3P4/8 w - - 0 1"]
+
+1. d4+ $1 Ke6 2. f4 d5 3. c5 Qxd4 4. exd4 f6 {<eg>} 5. Kg6 1/2-1/2
+
+[Event "The Chess Amateur"]
+[Source "The Chess Amateur/10"]
+[Date "1910.??.??"]
+[Round "?"]
+[Composer "Kling, Josef"]
+[White "Kling, J"]
+[Black " Horwitz, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5b2/8/5k2/3K4/P5P1/8/8/8 w - - 0 1"]
+
+1. a5 $1 Bh6 2. g5+ Bxg5 3. Ke4 Bh4 4. Kf3 1-0

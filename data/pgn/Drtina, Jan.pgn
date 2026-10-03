@@ -1,0 +1,54 @@
+[Event "Shakhmaty Zjurnal#15"]
+[Date "1894.??.??"]
+[Round "?"]
+[Composer "Drtina, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2p5/8/2K5/4p3/p5R1/1k6 w - - 0 1"]
+
+1. Kb3 $1 a1=N+ (Kc1 2. Rxa2 Kd1 3. Kc3 e2 4. Ra1#) 2. Kc3 c5 3. Rh2 c4 $1 4. Kxc4 Nc2 (Kc1 5. Kc3 Kd1 6. Rh1+ Ke2 7. Rxa1) 5. Re2 Kc1 6. Kc3 Kd1 7. Rxc2 e2 8. Rd2+ 1-0
+
+[Event "Casopis Ceskoslovensky Sach (v)"]
+[Source "Casopis Ceskoslovensky Sach/1"]
+[Date "1908.??.??"]
+[Round "?"]
+[Composer "Drtina, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/8/8/8/1P6/8/8/3K4 w - - 0 1"]
+
+1. Kc2 $1 (1. Kd2 $2 Ke7 2. Kd3 Kd6 3. Kc4 Kc6 $1) Ke7 2. Kb3 Kd6 3. Ka4 Kc6 4. Ka5 Kb7 5. Kb5 $1 Ka7 6. Kc6 Ka6 7. b5+ Ka7 8. Kc7 $1 (8. b6+ $2 Ka8 $1 9. Kc7 (9. b7+ Kb8 10. Kb6)) Ka8 9. Kb6 Kb8 10. Ka6 Ka8 11. b6 Kb8 12. b7 1-0
+
+[Event "Casopis Ceskoslovensky Sach (v)"]
+[Source "Casopis Ceskoslovensky Sach/1"]
+[Date "1908.??.??"]
+[Round "?"]
+[Composer "Drtina, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/8/8/8/8/1P6/8/2K5 w - - 0 1"]
+
+1. Kb2 $1 (1. Kc2 $2 Kd7 $1 2. Kc3 Kc7 3. Kb4 Kb6) Kd7 2. Ka3 Kc6 3. Ka4 Kb6 4. Kb4 1-0
+
+[Event "Casopis Ceskoslovensky Sach"]
+[Source "Casopis Ceskoslovensky Sach/1"]
+[Date "1908.??.??"]
+[Round "?"]
+[Composer "Drtina, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/8/8/8/8/2P5/8/3K4 w - - 0 1"]
+
+1. Kc2 $1 Ke7 2. Kb3 Kd6 3. Kb4 Kc6 4. Kc4 1-0

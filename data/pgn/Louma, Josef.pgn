@@ -1,0 +1,69 @@
+[Event "?"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Louma, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/p7/3N1n1P/2Pk4/2p5/8/4K3/8 w - - 0 1"]
+
+1. Ne4 (1. Ne8 $2 Nh7 2. Kd2 $10) (1. Kd2 $2 Kxc5 2. Nb7+ $10) (1. h7 $2 Nxh7 2. Nxc4 Kxc5 3. Na5) (1. Ke3 $2 Ng4+ 2. Kd2 Nxh6) (1. Kf3 $2 c3 2. Ke2) (1. Kd1 a5 2. Kc2) Nh7 2. Kd2 (2. Ke3 $2 a5 3. Kf4 $10) (2. Kf3 $2 a5 3. Kf4 $10) (2. c6 $2 Kxc6 3. Nc3 $10) (2. Nc3+ $2 Kxc5 3. Ne4+ $10) (2. Ng3 $2 Kxc5 3. Kd2) (2. Kd1 $2 a5 3. Kc2) (2. Nd6 $2 Kxc5 3. Nb7+) (2. Nd2 $2 Kxc5 3. Ne4+) (2. Kf2 a5 3. Ke3) a6 3. Kc2 (3. Kc3 $2 a5 4. Kc2 $10) (3. Ke3 $2 a5 4. c6 $10) (3. c6 $2 Kxc6 4. Kc3) (3. Nd6 $2 Kxc5 4. Nf5) (3. Kc1 $2 a5 4. Kb2) (3. Nc3+ $2 Kxc5 4. Ne2) (3. Ke2 $2 a5 4. Kd2) (3. Ng5 Nxg5) a5 4. Kc3 (4. Kb2 $2 a4 5. Kb1 $10) (4. Kb1 $2 a4 5. Kb2) (4. Nc3+ $2 Kxc5 5. Ne4+) (4. c6 $2 Kxc6 5. Kc3) (4. Nd6 Kxc5 5. Ne4+) (4. Kd2 Nf8 5. Nf6+) Nf8 5. Nf6+ (5. Kb2 $2 Kc6 6. Kc3 Kd5 $18) (5. c6 $2 Kxc6 6. Kxc4 $10) (5. Ng5 $2 Ng6 6. Ne4 $10) (5. Kc2 $2 a4 6. Kc3) (5. Nd2 $2 Kxc5 6. Nxc4) (5. Nd6 $2 Kxc5 6. Nxc4) (5. Kd2 $2 a4 6. Kc3) Ke6 (Kxc5 6. Nd7+ $18) 6. c6 (6. Ne4 $18 Kd5 7. Nf6+) (6. h7 $2 Nxh7 7. Nxh7 $10) (6. Nd7 $2 Kxd7 7. Kxc4 $10) (6. Nh5 $18) (6. Kxc4 $2 Kxf6 7. h7) (6. Ne8 $6 Kd5 7. Nf6+) (6. Ng8 $2 a4 7. Kxc4 a3 8. Kb3) (6. Nh7 $2 Nxh7 7. Kxc4) Kd6 7. Nd7 (7. Ne8+ $2 Kxc6 8. Kxc4 $10) (7. Ne4+ $2 Kxc6 8. Kxc4 $10) (7. h7 $2 Nxh7 8. c7 Kxc7 9. Ne8+) (7. Kxc4 $2 Kxc6 8. Ne4 $10) (7. c7 $2 Kxc7 8. h7) (7. Nh7 $2 Nxh7 8. Kxc4 Kxc6 9. Kd3) (7. Nd5 $2 Kxc6 8. h7) (7. Ng8 $2 Nh7 8. c7 Kxc7 9. Ne7) (7. Ng4 $2 Kxc6 8. Kxc4) Ng6 8. h7 (8. Ne5 $2 Nxe5 9. Kd4 $10) (8. Kxc4 $2 Kxc6 9. h7 $10) (8. Nf8 $2 Nxf8 9. Kxc4 Kxc6 10. Kd3) (8. c7 $2 Kxd7 9. Kxc4 Kxc7 10. Kd5) (8. Kd4 $2 c3 9. Kxc3 Kxc6 10. h7) (8. Nb8 $2 Kc7 9. Nd7) (8. Kc2 Kxc6 9. Nf6) (8. Kb2 Kxc6 9. Nf6) (8. Nf6 Kxc6 9. Kc2) (8. Nb6 Kxc6 9. h7) Kxc6 9. Ne5+ $18 (9. Nf8 $2 Nh8 10. Ng6 Nxg6 11. Kxc4) (9. Kxc4 $2 Kxd7 10. h8=Q) (9. Nb6 $2 a4 10. h8=Q) (9. Nb8+ $2 Kb6 10. h8=Q) (9. Nf6 $2 a4 10. h8=Q) 1-0
+
+[Event "October Revolution AT#41 (c)"]
+[Source "(c): Louma=J October Revolution AT 28-2-1930."]
+[Date "1930.02.24"]
+[Round "?"]
+[Composer "Louma, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/5n2/k2p1p2/PrP1P2p/1P5P/8/8/8 w - - 0 1"]
+
+1. e6 $1 Rb7 $1 (Nd8 2. e7 Ne6 3. cxd6) 2. b5+ Kxb5 3. Kxb7 Nd8+ 4. Kc7 Nxe6+ 5. Kxd6 Nxc5 6. a6 Ne4+ 7. Ke6 Kxa6 8. Kf5 Ng3+ 9. Kxf6 Kb5 10. Kg5 Kc4 11. Kf4 1/2-1/2
+
+[Event "Ceskoslovensky Sach#78 (c)"]
+[Source "Ceskoslovensky Sach/12 (c): Garcia=M Estudios Artisticos de Ajedrez - VI-67 2012."]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Louma, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/pP2k2P/1p6/p1N2n2/K7/8 w - - 0 1"]
+
+1. b6 $1 Kd6 (Nd4 2. h6 Kf6 3. Nd5+ Kf7 4. h7 Kg7 5. Ne7) 2. h6 Ne5 3. h7 Ng6 (Nf7 {<main>} 4. Nb5+ Kc6 5. b7 Kxb7 6. Nd6+ Nxd6 7. h8=Q) 4. Nd5 Kc6 5. Ne7+ Nxe7 6. h8=Q 1-0
+
+[Event "De Schaakwereld#218"]
+[Date "1938.11.10"]
+[Round "?"]
+[Composer "Louma, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/r7/3P1P1K/1P3k1P/8/8/8/8 w - - 0 1"]
+
+1. b6 $1 Rb7 2. d7 Rxd7 3. b7 Rxb7 4. f7 Rxf7 1/2-1/2
+
+[Event "De Schaakwereld"]
+[Date "1938.12.23"]
+[Round "?"]
+[Composer "Louma, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r7/8/p4kPK/7P/7P/8/8/8 w - - 0 1"]
+
+1. Kh7 $1 a5 (Ra7+ {<main>} 2. Kh6 Rb7 3. g7 Rxg7) 2. g7 Kf7 3. h6 a4 4. h5 a3 5. g8=Q+ Rxg8 1/2-1/2

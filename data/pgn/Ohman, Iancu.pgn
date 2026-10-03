@@ -1,0 +1,12 @@
+[Event "Revista de Romana de Sah#0268"]
+[Date "1939.05.30"]
+[Round "?"]
+[Composer "Ohman, Iancu"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k5/p1PpBK2/8/8/8/2b5/2B5/8 w - - 0 1"]
+
+1. Bd6 $1 Ba5 $1 2. Bd3 Bxc7 3. Ba6+ Kb8 $1 (Kd8 4. Be7#) 4. Ke7 $1 Bxd6+ 5. Kxd6 Ka8 6. Kc7 d5 7. Bb7# 1-0

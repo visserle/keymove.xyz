@@ -1,0 +1,81 @@
+[Event "64"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Bagdasarian, Grzegorz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p3B/N7/8/4K2p/7p/6kp/B7 w - - 0 1"]
+
+1. Ke3 $1 d5 2. Bg8 h1=Q 3. Bxd5+ Kg1 4. Bxh1 Kxh1 5. Kf2 h2 6. Be5 h3 7. Bxh2 $1 Kxh2 8. Nc5 Kh1 9. Ne4 Kh2 10. Nd2 Kh1 11. Nf1 h2 12. Ng3# 1-0
+
+[Event "Shakhmaty v SSSR#816 (v)"]
+[Source "Shakhmaty v SSSR/7 (v): source unknown 1978."]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Bagdasarian, Grzegorz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r4kb1/5p1P/4p3/4pPPK/4P1P1/8/8/8 w - - 0 1"]
+
+1. h8=Q $1 Ra1 2. g6 $1 (2. Qh6+ $2 Ke8 3. Kh4 Rh1+ 4. Kg3 Rxh6 5. gxh6 Bh7) Rh1+ 3. Kg5 Rxh8 4. g7+ Kxg7 5. f6+ Kf8 (Kh7 {<main>} 6. Kh5) 1/2-1/2
+
+[Event "Shakhmaty v SSSR#816"]
+[Source "Shakhmaty v SSSR/7"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Bagdasarian, Grzegorz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5kb1/5p1P/4p1P1/4pP2/4P1PK/8/r7/8 w - - 0 1"]
+
+1. h8=Q $1 Rh2+ 2. Kg5 $1 Rxh8 3. g7+ $1 Kxg7 4. f6+ Kf8 (Kh7 {<main>} 5. Kh5) 1/2-1/2
+
+[Event "64"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Bagdasarian, Grzegorz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4K3/B7/8/P2k4/3p4/2p5/8/b2Nn3 w - - 0 1"]
+
+1. Bxd4 $1 (1. Nxc3+ $2 dxc3 2. Be3 c2 3. a6 Bd4) c2 (Kxd4 2. Nxc3 Kxc3 (Bxc3 3. a6) 3. a6) 2. Ne3+ $1 Kxd4 3. Nxc2+ Nxc2 4. a6 Na3 5. a7 Nb5 6. a8=Q $1 (6. a8=N $2 Kc5 $1 7. Kd7 Be5) Nc7+ 7. Kd7 Nxa8 8. Kc6 1/2-1/2
+
+[Event "Shakhmaty v SSSR#070"]
+[Source "Shakhmaty v SSSR/1"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Bagdasarian, Grzegorz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/5N2/6k1/6Pp/4K3/6Bn w - - 0 1"]
+
+1. Ne3+ $1 Kxg3 2. Nf1+ Kg2 (Kf4 3. Bh2+ Ke4 (Kg4 4. Ke3 Kh4 5. Kf3 Kg5 6. Bc7 Kh4 7. Nh2 Kg5 8. Ba5 Kh4 9. Kf4 Kh5 10. Be1 Kg6 11. Kg4) 4. Bc7 Kd4 5. Kf3 Kd3 6. Bb6 Kc2 (h2 7. Nxh2) 7. Kg4 Kd1 8. Kxh3) 3. Bh2 Nf2 4. Ne3+ $1 Kxh2 (Kh1 {<main>} 5. Kxf2 Kxh2 6. Ng4+ $1 (6. Nf1+ $2 Kh1) Kh1 7. Kf1 h2 8. Nf2#) 5. Kxf2 Kh1 6. Nf1 h2 7. Ng3# 1-0
+
+[Event "source unknown (pl)"]
+[Source "= Massmann=W c4a4 1936."]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Bagdasarian, Grzegorz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/3R4/k1K5/4N3/2p5/8 w - - 0 1"]
+
+1. Nd1 $1 c1=Q+ 2. Nc3+ Ka3 3. Ra5+ Kb2 4. Ra2# 1-0

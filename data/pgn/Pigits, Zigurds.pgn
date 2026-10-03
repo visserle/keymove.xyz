@@ -1,0 +1,55 @@
+[Event "Shakhmatna Misl#66"]
+[Source "Shakhmatna Misl/9 also Shakhmaty v SSSR#36 Shakhmaty v SSSR/10 1956."]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Pigits, Zigurds"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2b5/8/1p5P/8/7P/P7/5K2/r6k w - - 0 1"]
+
+1. h7 $1 Ra2+ 2. Ke3 $1 (2. Kg3 $2 Rg2+ 3. Kf3 Bb7+ 4. Ke3 Rg3+) (2. Ke1 $2 Ra1+ 3. Kd2 Ra2+ 4. Kc3 Rc2+ 5. Kb4 Rb2+ 6. Ka4 Bd7#) Rxa3+ 3. Kf2 $1 (3. Kf4 $2 Ra4+ 4. Kg5 Ra5+) (3. Kd2 $2 Rd3+ $1) Ra2+ 4. Ke1 $1 (4. Ke3 $2 Ra3+ 5. Kd2 Rd3+ $1) Ra1+ 5. Kd2 Ra2+ 6. Kc3 $1 Rc2+ 7. Kb4 Rb2+ 8. Ka3 $1 1-0
+
+[Event "Bulletin Central Chess Club USSR#48"]
+[Source "Bulletin Central Chess Club USSR/12"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Pigits, Zigurds"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/4Np1k/5P2/4N2P/q5PK/5P2/8 w - - 0 1"]
+
+1. N4g5 $1 fxg5 (Qa7 2. g4 Qa3+ 3. Kg2 Qa7 4. f3 Qb7 5. Kg3 Qa7 6. Kh3 Qb7 7. Ne4 Qxe4 8. g5+ fxg5 9. hxg5+ Kh5 10. fxe4) 2. hxg5+ Kh5 3. f4 Qc3 4. Ng7+ Qxg7 5. g4# 1-0
+
+[Event "1.p Varpa (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - VIII-25 2012."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Pigits, Zigurds"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1b3q2/8/1P6/1p5B/3p4/3k2p1/1Q2p3/4K3 w - - 0 1"]
+
+1. Bg6+ $1 Kc4 2. Bf7+ Kc5 (Qxf7 3. Qa2+ Kd3 4. Qxf7) (Kd3 3. Qxe2+ Kc3 4. Qd2#) 3. Qa3+ b4 4. Qa5+ Kc6 5. Be8+ Kb7 (Qxe8 6. Qa4+ Kxb6 7. Qxe8) 6. Qa8+ Kxb6 (Kxa8 7. Bc6#) 7. Qxb8+ Kc5 8. Qb5+ Kd6 9. Qxb4+ Kc7 10. Qxf8 1-0
+
+[Event "2.p Varpa (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - XII-25 2012."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Pigits, Zigurds"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p2pN3/3N4/2K5/k5n1/3p1B2/p7/8 w - - 0 1"]
+
+1. Bd1+ $1 Ka5 (Ka3 2. Nc4#) 2. Nc6+ dxc6 3. Nc4+ Ka6 4. Bxg4 Kb7 (a1=Q 5. Bc8#) 5. Na5+ Kc7 6. Nb3 1-0

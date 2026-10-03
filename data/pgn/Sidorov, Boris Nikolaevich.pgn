@@ -1,0 +1,124 @@
+[Event "Shakhmaty v SSSR#07"]
+[Source "Shakhmaty v SSSR/2"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Sidorov, Boris Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7B/1p3p1p/5P2/5p2/5P1p/1p4pP/1P2KpPk/8 w - - 0 1"]
+
+1. Kf1 $1 Kh1 2. Bg7 Kh2 3. Bf8 Kh1 4. Bh6 Kh2 5. Bg5 b6 6. Bh6 Kh1 7. Bg7 Kh2 8. Bf8 Kh1 9. Bh6 Kh2 10. Bg5 b5 11. Bh6 Kh1 12. Bg7 Kh2 13. Bf8 Kh1 14. Bh6 Kh2 15. Bg5 b4 16. Bh6 Kh1 17. Bg7 Kh2 18. Bf8 Kh1 19. Bh6 Kh2 20. Bg5 Kh1 21. Bxh4 Kh2 22. Bg5 Kh1 23. Bh6 $1 Kh2 24. h4 Kh1 25. h5 Kh2 26. Bf8 Kh1 27. Bg7 Kh2 28. Bh6 Kh1 29. Bg5 Kh2 30. Bh4 h6 31. Bg5 hxg5 32. h6 1-0
+
+[Event "5.hm Molodoj Leninets (Kurgan)"]
+[Source "EG#02884."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Sidorov, Boris Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2KB4/8/k7/7N/5p2/3p4/1P6/8 w - - 0 1"]
+
+1. Ba5 $1 Kxa5 2. b4+ Ka6 3. b5+ Ka5 4. b6 d2 5. b7 d1=Q 6. b8=Q 1/2-1/2
+
+[Event "Stankostrojtel"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Sidorov, Boris Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/P1P2P1P/8/1pN3p1/6P1/6PK/6P1/1q5k w - - 0 1"]
+
+1. Nd3 $1 Qg1 2. Nf2+ $1 Qxf2 3. a8=Q Qg1 4. Qa1 $1 Qxa1 5. c8=Q $1 Qg1 6. Qc1 Qxc1 7. h8=Q $1 Qg1 8. Qa1 Qxa1 9. f8=Q Qg1 10. Qf1 Qxf1 1/2-1/2
+
+[Event ".c Revista de Romana de Sah (tt)"]
+[Source "Revista de Romana de Sah/5 EG#04292."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Sidorov, Boris Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/B7/8/2K5/p7/2p1k3/8 w - - 0 1"]
+
+1. Kc3+ $1 Kd1 2. Be2+ Kc1 3. Bc4 Kb1 4. Ba2+ $1 1/2-1/2
+
+[Event ".c Shakhmaty (Riga)#44"]
+[Source "Shakhmaty (Riga)/12"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Sidorov, Boris Nikolaevich"]
+[White "Sidorov, B"]
+[Black " Varov, S."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k5/8/8/Pp2p3/p7/2p5/1pP1PP2/1K6 w - - 0 1"]
+
+1. f3 $1 Kb7 2. e3 Ka6 3. f4 exf4 4. exf4 Kxa5 5. f5 Kb4 $1 6. f6 Ka3 7. f7 b4 8. f8=R $1 b3 9. Rf4 bxc2+ 10. Kxc2 Ka2 11. Rxa4# 1-0
+
+[Event "64 Shakhmatnoye Obozrenye"]
+[Source "64 Shakhmatnoye Obozrenye/6 after Gurgenidze=D h1f7 1982."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Sidorov, Boris Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/1P6/2P2P2/8/1r6/8/r7/5BK1 w - - 0 1"]
+
+1. c7 $1 Rg4+ 2. Kh1 $1 (2. Bg2 $2 Rgxg2+) Rh4+ 3. Bh3 $1 Rxh3+ 4. Kg1 Rg3+ 5. Kf1 Rf3+ 6. Ke1 Re3+ 7. Kd1 Rd3+ 8. Kc1 Rc3+ 9. Kb1 Rac2 $1 10. b8=Q+ Kf7 11. Qb3+ $1 Rxb3+ 12. Kxc2 1-0
+
+[Event ".c Baturina MT"]
+[Source "EG#14864."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Sidorov, Boris Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5b2/2N1p3/P7/8/4k3/8/7K w - - 0 1"]
+
+1. Ne5 $1 Bh5 2. a6 Bd1 3. a7 Bb3 4. Ng4+ Kf4 5. Nf6 Bd1 6. Nd5+ exd5 7. a8=Q 1-0
+
+[Event ".c Magyar Sakkélet#1715"]
+[Source "Magyar Sakkélet/12 EG#06688."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Sidorov, Boris Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6bn/5p2/8/b5p1/2p1N3/6K1/2B4p/7k w - - 0 1"]
+
+1. Kf2 $1 Be1+ 2. Kf1 Bh7 (f5 3. Nf6) 3. Ng3+ Bxg3 4. Bxh7 Ng6 5. Bg8 Ne5 6. Bh7 Nf3 7. Be4 g4 8. Bxf3+ gxf3 1/2-1/2
+
+[Event ".c Galitzky MT Kommunist"]
+[Source "EG#07135."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Sidorov, Boris Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p4K1/8/p7/8/8/k5P1/8 w - - 0 1"]
+
+1. g4 $1 (1. Kh7 $2 Kb2 $1) a4 2. g5 a3 3. g6 Kb2 (Kb1 { <main>} 4. Kh7 $1 (4. Kh6 $2 a2 5. g7 a1=Q 6. g8=Q Qf6+ 7. Kh5 Qf3+ 8. Kh6 Qh3+) a2 5. g7 a1=Q 6. g8=Q) 4. Kf6 $1 a2 5. g7 a1=Q 6. g8=Q 1/2-1/2

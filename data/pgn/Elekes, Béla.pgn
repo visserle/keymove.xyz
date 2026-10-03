@@ -1,0 +1,12 @@
+[Event "Magyar Sakk Lap#036"]
+[Date "1905.??.??"]
+[Round "?"]
+[Composer "Elekes, Béla"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/8/8/r3n3/1P3n1P/Q7/1K6/8 w - - 0 1"]
+
+1. Qxa5 $1 Nc4+ 2. Ka1 $1 Nxa5 3. bxa5 1-0

@@ -1,0 +1,55 @@
+[Event "The Chess Amateur#0753"]
+[Source "The Chess Amateur/3"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "De Cobain, N"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6rR/5knR/7K/8/8/8/5p2/8 w - - 0 1"]
+
+1. Rxg8 $1 Kxg8 (f1=Q 2. Rhxg7+) 2. Rxg7+ Kf8 3. Rg5 f1=Q 4. Rf5+ Qxf5 1/2-1/2
+
+[Event "The Chess Amateur#0838"]
+[Source "The Chess Amateur/12"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "De Cobain, N"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1b6/kPpK2pp/1N1n4/4q3/P1n5/1P6/N5B1/8 w - - 0 1"]
+
+1. Nc8+ $1 Nxc8 (Ka6 2. Nb4+ Ka5 3. Nc6+ Ka6 4. Nxb8+ Ka5 5. Nc6+ Ka6 6. b8=N+ Kb7 7. Nxe5+ Kxb8 (c6 8. Nexc6 Ne3 9. Nxd6+ Kb6 10. a5+ Kc5 11. b4#) 8. Nc6+ Kb7 9. Nb4+ Ne4 10. Bxe4+ c6 11. Bxc6+ Kb8 12. Na6#) 2. bxc8=N+ Ka6 3. Nb4+ Ka5 4. Nc6+ Ka6 5. Nxb8+ Ka5 6. Nc6+ Ka6 7. Nxe5 Nxe5+ 8. Kxc7 Ka5 (Nd3 9. Bf1) 9. Na7 Ka6 (Kb4 10. Nc6+ Nxc6 11. Kxc6) 10. Nc6 Nxc6 11. Kxc6 1-0
+
+[Event "The Chess Amateur#0878"]
+[Source "The Chess Amateur/4"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "De Cobain, N"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3q2bk/6p1/8/3n3K/3P4/7R/8/7B w - - 0 1"]
+
+1. Kg6+ $1 Bh7+ 2. Rxh7+ Kg8 3. Bxd5+ Qxd5 (Kf8 4. Rh8+) 4. Rh8+ Kxh8 1/2-1/2
+
+[Event "The Chess Amateur#0988"]
+[Source "The Chess Amateur/1"]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "De Cobain, N"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B2r3/2R4P/8/K7/P7/p1rk4/p7/8 w - - 0 1"]
+
+1. Rxc3+ $1 Kxc3 (Ke4 2. Rxa3 Rxb8 3. Rxa2) 2. h8=Q+ Rxh8 3. Be5+ Kc2 4. Bxh8 Kb1 5. Kb4 a1=Q 6. Bxa1 Kxa1 7. Kxa3 1-0

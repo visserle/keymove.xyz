@@ -1,0 +1,97 @@
+[Event "Suomen Shakki#0103"]
+[Source "Suomen Shakki/11"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Massinen, Pekka"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6b1/8/7P/8/8/pkr5/2p4R/2K5 w - - 0 1"]
+
+1. h7 $1 Bxh7 (Rg3 2. hxg8=Q+ Rxg8 3. Rh3+ Ka2 4. Rc3 Rg1+ 5. Kxc2) 2. Rxh7 Rc4 (a2 3. Rb7+ Kc4 4. Ra7) 3. Rb7+ Kc3 4. Ra7 Rb4 5. Rc7+ Kb3 6. Rc3+ $1 Kxc3 1/2-1/2
+
+[Event "3.c Magyar Sakkélet#1533"]
+[Source "Magyar Sakkélet/9 EG#05258."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Massinen, Pekka"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5B2/1K4p1/2P5/b7/5k1p/8/8/8 w - - 0 1"]
+
+1. Bb4 $1 Bd8 2. Be7 Ba5 3. Bxh4 g5 4. Be1 $1 (4. Bf2 $2 g4 5. Bb6 Bxb6 6. Kxb6 g3 7. c7 g2 8. c8=Q g1=Q+) Bd8 5. Bd2+ $1 Kf5 6. Be3 g4 7. Bb6 Bxb6 8. Kxb6 g3 9. c7 1-0
+
+[Event "Revista de Romana de Sah#0987"]
+[Source "Revista de Romana de Sah/3"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Massinen, Pekka"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/6p1/pp6/bk1K4/5p2/2B2R2 w - - 0 1"]
+
+1. Bxa3 $1 g4 (Kxa3 {<main>} 2. Kc2 Ka2 $1 3. Rxf2 b3+ 4. Kc3+ Ka3 5. Rg2 g4 6. Rxg4 b2 7. Rb4) (bxa3 {<main>} 2. Rb1+ Ka2 3. Kc2 g4 4. Rf1 g3 5. Kc3 g2 6. Rxf2+) 2. Bxb4 g3 3. Rb1+ Ka2 4. Kc2 g2 5. Bc3 f1=Q 6. Rb2+ Ka1 7. Rb4+ Ka2 8. Rxa4# 1-0
+
+[Event ".c Suomen Shakki"]
+[Source "Suomen Shakki/12 1986 EG#07199."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Massinen, Pekka"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4R3/8/7k/2p3b1/6K1/7p/3p4/B7 w - - 0 1"]
+
+1. Kf5 $1 Kh5 2. Rh8+ Bh6 3. Bg7 Kh4 4. Bxh6 (4. Rxh6+ $2 Kg3 5. Rd6 h2 6. Rd3+ Kg2 7. Rxd2+ Kg1) d1=Q 5. Bf4+ Qh5+ 6. Bg5+ Kg3 7. Rxh5 c4 8. Bf4+ Kg2 9. Ke4 1-0
+
+[Event ".c Schach Echo#11274"]
+[Source "Schach Echo/1 EG#15397."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Massinen, Pekka"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1Bp5/1p3N2/8/8/4K1p1/6pp/7k w - - 0 1"]
+
+1. Ne4 $1 Kg1 2. Nd2 $1 b5 $1 (Kh1 3. Bc6 b5 4. Ke2 b4 5. Ke1 Kg1 (b3 6. Nxb3) 6. Nf3+ Kh1 7. Nd4) 3. Bc6 $1 (3. Be4 $2 b4 4. Nf3+ Kh1 5. Nd4 Kg1 6. Ke2 c5 $1 7. Nf3+ Kh1 8. Nd2 c4 9. Nxc4 b3 10. Nd2 b2 $1) b4 4. Nf3+ (4. Ke2 $2 b3 $1 5. Nf3+ Kh1 6. Nd4 b2 $1) Kh1 5. Nd4 $1 Kg1 $1 (b3 6. Nxb3 Kg1 7. Nd2 $1) 6. Ke2 $1 b3 7. Ke1 $1 b2 (Kh1 8. Ne2) 8. Ne2+ Kh1 9. Nxg3+ Kg1 10. Ne2+ Kh1 11. Kf2 b1=Q 12. Bxg2# 1-0
+
+[Event "Mugnos MT Ajedrez de Estilo#23"]
+[Source "Ajedrez de Estilo/5"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Massinen, Pekka"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5K2/2p1N3/3k4/P3q3/6Qp/3P2p1/8 w - - 0 1"]
+
+1. Qb3+ $1 (1. Nf4+ $2 Qxf4+ 2. Qxf4 g1=Q) (1. Qg5+ $2 Kc4 2. Qc5+ Kd3 3. Qc3+ Ke2) Qc4 (Kd6 2. Qa3+ Kd7 (Kd5 3. Qc5#) 3. Qe7+ Kc8 4. Qc7#) (Ke5 2. d4+ Kf5 (Qxd4 3. Qg3+) 3. Qxh3+ Qg4 4. Qh7+) 2. Qf3+ (2. Qe3 $2 c5) Qe4 (Kd6 3. Qg3+ Kd5 4. d3 Qb4 (Qc1 5. Ke7 Qa3+ 6. Kd7) 5. Qg5+ Kd6 6. Qe7+ Ke5 7. Qxb4 g1=Q 8. Qf4+ Kd5 9. Ke7 Qa7+ 10. Nc7+ Kc5 11. Qe3+) 3. Nc7+ Kc5 (Kd4 4. Qc3#) (Ke5 4. Qf6#) 4. Qxe4 g1=Q 5. Ne6+ Kd6 (Kb6 6. Qb4+ Ka7 7. Nc5) 6. Qf4+ Kd5 7. Ke7 h2 (Qa7+ 8. Nc7+) 8. d3 Qa7+ 9. Nc7+ Qxc7+ 10. Qxc7 h1=Q 11. Qd6# 1-0
+
+[Event "Schach Echo#11418"]
+[Source "Schach Echo/5"]
+[Date "1989.??.??"]
+[Round "?"]
+[Composer "Massinen, Pekka"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/2P1n3/5K2/8/8/p1n4p/8/5R2 w - - 0 1"]
+
+1. Ke6+ $1 (1. Rc1 $2 Ned5+ 2. Ke5 Nxc7 3. Rxc3 a2 4. Rc1 Nb5 5. Kf4 Na3 6. Ra1 h2) Ke8 (Kg7 2. Rf7+) (Kg8 2. Kxe7 Nd5+ 3. Kd6 Nxc7 (Nb6 4. Rf2) 4. Kxc7 h2 5. Kd6 Kg7 6. Ke5 Kg6 7. Kf4) 2. Rc1 $1 (2. Rg1 $2 Kf8 $1 3. Rg8+ $1 Kxg8 4. Kxe7 Nd5+) a2 (h2 3. Rxc3 Nc8 4. Rh3 Kf8 5. Rxh2) 3. Rxc3 $1 Nc8 4. Ra3 $1 h2 5. Ra8 Kf8 6. Rxc8+ Kg7 7. Rg8+ Kh7 8. Rh8+ Kxh8 9. c8=Q+ 1-0

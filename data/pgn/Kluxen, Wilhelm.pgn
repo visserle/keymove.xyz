@@ -1,0 +1,26 @@
+[Event "Schachwelt (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - V-70 2012."]
+[Date "1911.??.??"]
+[Round "?"]
+[Composer "Kluxen, Wilhelm"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6p1/2p1p1P1/p1p1PpPB/P7/5K2/3k1P1P/8 w - - 0 1"]
+
+1. Kg3 $1 (1. h4 $2 c4 2. Bg4 fxg4+ 3. Kxg4 c3) c4 2. f4 c3 3. Bd1 Kxd1 4. Kh4 c2 5. Kh5 c1=Q 6. h4 Qe3 1/2-1/2
+
+[Event "München Olympiad Deutsche Schachblätter"]
+[Date "1936.10.01"]
+[Round "?"]
+[Composer "Kluxen, Wilhelm"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6p1/5pP1/5p1B/p1p5/P5K1/3k1P1P/8 w - - 0 1"]
+
+1. f4 $1 c3 2. Bd1 $1 Kxd1 3. Kh4 c2 4. Kh5 c1=Q 5. h4 Ke1 1/2-1/2

@@ -1,0 +1,102 @@
+[Event "?"]
+[Site "?"]
+[Date "1916.??.??"]
+[Round "?"]
+[Composer "Vančura, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "1kr5/4P1Pp/8/8/8/B7/7K/8 w - - 0 1"]
+
+1. e8=Q (1. Kg3 $2 Re8 2. Kh4 Kc7 3. Kh5 Kd7 4. Kh6 Ke6 5. Kxh7 Kf7 $10) (1. e8=R Rxe8 2. Bf8 $18) (1. e8=N $18) (1. e8=B $18) (1. Bd6+ $2 Kb7 2. e8=Q $10) (1. g8=Q $2 Rxg8 2. Bb2 $10) (1. Bc1 $2 h6 2. e8=Q) Rxe8 2. Bf8 (2. Bd6+ $2 Ka8 3. Be5 $10) (2. Kh3 $2 Rg8 3. Bb2) Re2+ 3. Kh3 (3. Kh1 Re1+ 4. Kh2 Re2+ $18) (3. Kg3 $2 Re6 4. g8=Q $10) (3. Kg1 $2 Re6 4. g8=Q $10) Re3+ 4. Kh4 (4. Kh2 Re2+ $18 5. Kh3) (4. Kg2 $2 Re6 5. g8=Q) Re4+ 5. Kh5 (5. Kh3 Re3+ $18 6. Kh4) (5. Kg5 $2 Re2 6. g8=Q) Re5+ (Re1 6. Bd6+ Kb7 7. g8=Q Rh1+ 8. Kg4 Rg1+ 9. Bg3 $18) 6. Kh6 (6. Kh4 Re4+ $18 7. Kh5) (6. Kg4 $2 Re6 7. g8=Q) Re1 7. Bc5 (7. Bd6+ $2 Kb7 8. g8=Q $10 Rh1+ 9. Bh2) (7. Kxh7 $2 Rg1 8. g8=Q $10) (7. g8=Q $2 Rh1+ 8. Kg7 $10) (7. Be7 $2 Rg1 8. g8=Q+ Rxg8 9. Bd6+) (7. Bb4 $2 Rg1 8. g8=Q+ Rxg8 9. Bc3) (7. Kg5 $2 h6+ 8. Kf5 Rf1+ 9. Ke5) (7. Kh5 $2 Re5+ $4 (Rg1 $5) 8. Kh6 $18) (7. Ba3 $2 Rg1 8. g8=Q+ Rxg8 9. Bd6+) Re8 8. Kxh7 (8. Bf8 Re1 $18 9. Bc5) (8. Bd6+ $2 Ka7 9. g8=Q Rxg8 10. Be5) (8. Be7 $2 Rg8 9. Bf6 Rxg7 10. Be5+) (8. Kg5 $2 h6+ 9. Kf5) Rd8 9. Be7 (9. Bf8 $2 Rd7 10. Be7 $10) (9. Bd6+ $2 Ka8 10. g8=Q $10) (9. Bb6 $2 Rc8 10. g8=Q $10) (9. g8=Q $2 Rxg8 10. Bd4 Rg7+ 11. Bxg7) (9. Kh6 $2 Rg8 10. Bd4) Rc8 10. Bf8 (10. Bd6+ $2 Ka8 11. g8=Q $10) (10. g8=Q $2 Rxg8 11. Bf6 $10 Rh8+ 12. Bxh8) (10. Kg6 $2 Ka7 11. g8=Q) (10. Kh6 $2 Ka7 11. g8=Q) (10. Bc5 $2 Ka8 11. g8=Q) (10. Bg5 $2 Ka7 11. g8=Q) (10. Bh4 $2 Ka7 11. g8=Q) (10. Bb4 $2 Ka7 11. g8=Q) (10. Ba3 $2 Ka7 11. g8=Q) (10. Bf6 $2 Re8 11. g8=Q) Rc7 11. Bd6 $18 (11. Kh8 $2 Rxg7 12. Bxg7 $10) (11. Be7 $2 Rxe7 12. Kh6 $10) (11. Kg8 $2 Rb7 12. Be7 $10) (11. Kg6 $2 Rxg7+ 12. Bxg7) (11. Kh6 $2 Rxg7 12. Bxg7) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "Vančura, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "7k/7P/6K1/8/R7/8/8/7b w - - 0 1"]
+
+1. Kg5 (1. Ra7 $2 Be4+ (Bb7 $4 2. Kh6 $1 $18) 2. Kf6 $10) (1. Kf6 $2 Bg2 2. Rb4 $10) (1. Rg4 $2 Bf3 2. Rf4 $10) (1. Ra6 $2 Bb7 2. Rb6) (1. Ra8+ $2 Bxa8 2. Kf5) (1. Re4 $2 Bxe4+ 2. Kh5) Bg2 2. Rg4 (2. Kf5 Bd5 3. Kg6) Bf3 3. Rf4 (3. Rg3 $4 Be4 4. Rf3 $10) (3. Rh4 $4 Be2 4. Rg4) (3. Kg6 $4 Be4+ 4. Rxe4) (3. Re4 $4 Bxe4 4. Kh6 $10) (3. Rg1 $4 Be4 4. Rf1) (3. Kh6 $4 Bxg4 4. Kg6) Bd5 4. Kh6 (4. Kg6 $4 Be4+ 5. Rxe4) (4. Rd4 Kxh7 5. Rxd5 $18) (4. Rf5 $4 Be4 5. Re5 $10) (4. Rf8+ $4 Kxh7 5. Re8 $10) (4. Kf6 $4 Bg2 5. Rb4) (4. Rb4 $4 Kxh7 5. Ra4) (4. Rh4 $4 Bb3 5. Rg4) (4. Rf7 $4 Bxf7 5. Kf5) (4. Kg4 $4 Bg2 5. Re4) Bf7 5. Rf1 Bg8 6. hxg8=Q+ Kxg8 7. Rf6 Kh8 8. Rf8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "Vančura, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "7N/6P1/2k3K1/8/8/4r3/8/8 w - - 0 1"]
+
+1. Kh5 (1. Kf5 $2 Re8 2. Ng6 Kd6 3. Nf8 Ke7 $10) (1. Kf6 $2 Rf3+ 2. Ke6 Rg3 $10) (1. Kf7 $2 Rf3+ 2. Ke6 $10) (1. Nf7 $2 Re6+ 2. Kg5 $10) (1. Kh7 $2 Rg3 2. g8=Q $10) (1. Kh6 $2 Rh3+ 2. Kg6 $10) (1. g8=Q $2 Rg3+ 2. Kh7) (1. Kg5 $2 Rg3+ 2. Kf5) Re8 2. Ng6 (2. Kh6 $2 Rc8 3. g8=Q $10) (2. Nf7 $2 Rc8 3. g8=Q $10) (2. Kg6 $2 Rd8 3. g8=Q $10) (2. Kg5 Rg8 3. Kf6) Kd6 (Ra8 3. Kh6 (3. Nf8 Rxf8 4. gxf8=Q $18) (3. Ne7+ $2 Kb6 4. g8=Q) (3. Ne5+ $2 Kb6 4. g8=Q) (3. Kg4 $2 Kb6 4. g8=Q) (3. Kg5 $2 Kb6 4. g8=Q) (3. Nf4 Kd6 4. Kg6) (3. Nh4 Kd5 4. Nf5) Kb5 4. Nf8 (4. Kh7 $2 Rb8 5. g8=Q $10) (4. Kh5 $2 Rc8 5. g8=Q $10) (4. Ne7 $2 Rb8 5. g8=Q) (4. Ne5 $2 Rb8 5. g8=Q) (4. Nf4 $2 Rb8 5. g8=Q) (4. Kg5 Kb6 5. Kf4) Ra6+ 5. Kh5 (5. Ng6 Ra8 $18 6. Nf8) (5. Kg5 $2 Ra2 6. g8=Q $10) (5. Kh7 $2 Ra7 6. Ng6 $10) (5. Ne6 $2 Rxe6+ 6. Kh5) Ra1 6. Ne6 (6. Ng6 Rh1+ 7. Kg5 $18) (6. Nh7 $18 Rh1+ 7. Kg6) (6. g8=Q $2 Rh1+ 7. Kg5 $10) (6. Kg4 $2 Kb6 7. g8=Q) (6. Kg6 $2 Rc1 7. g8=Q) (6. Kh6 $2 Rh1+ 7. Kg6) (6. g8=R $2 Rb1 7. Nh7) (6. Nd7 $2 Rc1 7. g8=Q) (6. Kh4 $2 Rc1 7. g8=Q) (6. Kg5 $2 Ra2 7. Kf6) Ra8 7. Nc7+ $18 (7. Nf8 Ra1 $18 8. Ne6) (7. Kh6 $4 Rc8 8. g8=Q $10) (7. Kg6 $4 Rc8 8. g8=Q $10) (7. Nd4+ $4 Ka4 8. g8=Q) (7. Ng5 $4 Rb8 8. g8=Q) (7. Kg5 $4 Rc8 8. g8=Q) (7. Nf4 $4 Rb8 8. g8=Q) (7. Nd8 Rxd8 8. Kg5)) 3. Nf8 (3. Kh6 $2 Rg8 4. Nf8) (3. Ne7 $4 Kxe7 4. g8=N+ Rxg8) (3. Kg5 $2 Rc8 4. g8=Q) (3. Nf4 $2 Rd8 4. g8=Q) (3. Nh8 $2 Rc8 4. g8=Q) Re1 4. Ne6 (4. Ng6 Re8 $18 5. Nf8) (4. Kh6 $2 Rh1+ 5. Kg6 $10) (4. Nh7 $2 Re5+ 5. Ng5 $10) (4. Kg6 $2 Ke7 5. g8=Q) (4. g8=Q $2 Rh1+ 5. Kg5) (4. Kh4 $2 Rc1 5. g8=Q) (4. Kg4 $2 Rc1 5. g8=Q) (4. Kg5 $2 Rc1 5. g8=Q) (4. Nd7 $2 Rc1 5. g8=Q) Re5+ 5. Kg4 (5. Kh4 Rxe6 6. g8=Q $18) (5. Ng5 $2 Re8 6. g8=Q $10) (5. Kg6 $2 Rxe6+ 6. Kg5 $10) (5. Kh6 $2 Rxe6+ 6. Kg5) Re1 6. Kf5 (6. Kh5 Re5+ $18 7. Kg4) (6. Kf3 $2 Rg1 7. g8=Q $10) (6. Kf4 $2 Rf1+ 7. Ke4) (6. Nf4 $2 Rc1 7. g8=Q) (6. Kh4 $2 Rxe6 $4 (Rc1 $5) 7. g8=Q $18) Rf1+ 7. Kg6 $18 (7. Nf4 Rxf4+ 8. Kxf4 $18) (7. Ke4 $2 Re1+ $4 (Rg1 $5 $10) 8. Kf5) (7. Kg5 $2 Rg1+ 8. Kf5) (7. Kg4 $2 Rc1 8. g8=Q) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Vančura, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "k3K3/8/8/8/8/8/1rp5/2R5 w - - 0 1"]
+
+1. Ke7 (1. Kd7 $2 Kb7 2. Kd6 Kb6 3. Kd5 Kb5 4. Kd4 Kb4 5. Kd3 Kb3 6. Kd2 Ra2 7. Kd3 Ra8 8. Rxc2 Rd8+ $19) (1. Kd8 $2 Kb8 $19 2. Rxc2 Rxc2) (1. Kf7 $2 Kb7 $19 2. Ke8 Kb6) (1. Rh1 $2 Rb1 2. Rxb1 cxb1=Q $19) (1. Ra1+ $2 Kb7 2. Ra7+ Kxa7) (1. Kf8 $2 Kb7 2. Kf7 Kc6) (1. Re1 $2 Rb1 2. Rxb1 cxb1=Q $19) (1. Rg1 $2 Rb1 2. Rxb1 cxb1=Q $19) Ka7 (Kb7 2. Kd7 $1 $10 (2. Kd6 $2 Rb6+ 3. Kd5 $10) (2. Kd8 $2 Kb6 $19 3. Rxc2 Rxc2) (2. Ke6 $2 Kc6 $19 3. Rxc2+ Rxc2) (2. Kf6 $2 Kb6 $19 3. Rxc2 Rxc2) (2. Ke8 $2 Kb6 $19 3. Rxc2 Rxc2) (2. Kf8 $2 Kb6 $19 3. Rxc2 Rxc2) (2. Kf7 $2 Kb6 $19 3. Rxc2 Rxc2) (2. Re1 $2 Rb1 3. Rxb1+ cxb1=Q) (2. Rh1 $2 Rb1 3. Rxb1+ cxb1=Q) (2. Rf1 Rb1 3. Rxb1+ cxb1=Q)) 2. Ke6 (2. Kd6 $2 Kb6 3. Rxc2 Rxc2 $19) (2. Kd7 $2 Kb7 3. Rxc2 Rxc2 $19) (2. Kf6 $2 Kb6 $19 3. Rxc2 Rxc2) (2. Kf7 $2 Kb6 3. Rxc2 Rxc2) (2. Kd8 Ka6 3. Ra1+ Kb5) (2. Ra1+ Kb6) Ka6 3. Ke5 (3. Kd6 $2 Kb6 4. Rxc2 Rxc2 $19) (3. Kd5 $2 Kb5 4. Rxc2 Rxc2) (3. Ra1+ Kb5) (3. Kf5 Kb5) Ka5 4. Ke4 (4. Kd4 $2 Kb4 5. Rxc2 Rxc2) (4. Ra1+ Kb4) (4. Kd5 Kb5 5. Rxc2 Rxc2) Ka4 5. Ke3 (5. Kd3 $2 Kb3 6. Rxc2 Rxc2 $19) (5. Kd4 $2 Kb4 6. Rxc2 Rxc2) (5. Ra1+ $2 Kb3) Ka3 6. Kd2 (6. Kd3 $2 Kb3 7. Kd2 Ra2 8. Kd3 Ra6 9. Rxc2 Rd6+ $19) Kb3 7. Kd3 Ra2 8. Kd2 (8. Rh1 $2 Ra3 9. Rb1+ cxb1=Q+ 10. Ke3 Ra4) (8. Re1 $2 Ra3 9. Rb1+ cxb1=Q+ 10. Ke3 Ra4) (8. Rg1 $2 Ra3 9. Rb1+ cxb1=Q+ 10. Ke3 Ra4) (8. Kd4 $2 Kb2 9. Rb1+ cxb1=Q) (8. Ke2 $2 Kc3) (8. Ke4 $2 Kb2) (8. Ke3 Kc3) (8. Ra1 Rxa1) (8. Rf1 Ra3 9. Rb1+ cxb1=Q+ 10. Kd4 Ra5) (8. Rb1+ cxb1=Q+ 9. Ke3 Ra4) Ra8 9. Rxc2 (9. Rh1 $2 Kb2 $19 10. Rb1+ cxb1=Q) (9. Re1 $2 Kb2 $19 10. Rb1+ cxb1=Q) (9. Kd3 $2 Rc8 10. Rxc2 Rxc2) (9. Ke2 $2 Kb2 10. Rxc2+ Kxc2) (9. Rf1 $2 Kb2 10. Rb1+ cxb1=Q) (9. Ke1 $2 Kb2 10. Rxc2+ Kxc2) (9. Ke3 $2 Kb2) (9. Rg1 $2 Kb2 10. Rb1+ cxb1=Q) Rd8+ 10. Kc1 $10 1/2-1/2
+
+[Event "Ceské Slovo (ph)"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Vancura, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5kB1/5P2/5P1P/8/2K5/8/8/8 w - - 0 1"]
+
+1. Bh7 $1 (1. Kd5 $2) Kxf7 2. Bg6+ Kxg6 3. h7 Kxh7 4. Kd5 Kg8 5. Ke6 Kf8 6. f7 Kg7 7. Ke7 1-0
+
+[Event "Ceské Slovo (ph)"]
+[Date "1922.02.12"]
+[Round "?"]
+[Composer "Vancura, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2B5/8/5k1P/7K/8/8 w - - 0 1"]
+
+1. Be4 $1 Kxe4 2. Kg4 Ke5 3. Kg5 1-0
+
+[Event "28 Rijen#019 (ph)"]
+[Date "1924.03.09"]
+[Round "?"]
+[Composer "Vancura, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2r3BK/6Pp/1n2n1Pp/8/8/8/8/1k6 w - - 0 1"]
+
+1. gxh7 $1 Nd8 (Nxg7 2. Kxg7) (Nf8 2. gxf8=Q Rxf8 3. Kg7) (Nf4) 2. Ba2+ $1 Kxa2 3. g8=B+ $1 Ne6 1/2-1/2

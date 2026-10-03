@@ -1,0 +1,48 @@
+[Event "1.hm The Chess Amateur (tt)"]
+[Source "The Chess Amateur/9 1924"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "4K3/4P3/4N3/8/8/3p1p2/4k3/8 w - - 0 1"]
+
+1. Nd4+ $1 (1. Nf4+ $2 Ke3 2. Nxd3 (2. Kd8 f2 3. e8=Q+ Kd2) Kxd3 3. Kd8 f2 4. e8=Q Kd2 $1 (f1=Q $2 5. Qb5+ Ke3 6. Qxf1) 5. Qb5 Ke1 6. Qb1+ Ke2 7. Qe4+ Kf1 (Kd2 8. Qf3 Ke1 9. Qe3+ Kf1 10. Ke7 Kg2 11. Qe2 Kg1) 8. Ke7 Kg1 9. Qg4+ Kh2 10. Qf3 Kg1 11. Qg3+ Kh1 $10) (1. Kd7 $2 d2 2. e8=Q $10) Ke3 2. Nxf3 $1 (2. Nf5+ $2 Kf2 3. Ng7 $10) (2. Nb3 $2 d2 3. Nxd2 Kxd2 4. Kd8 $10) (2. Ne6 $4 d2 $19) (2. Kd7 $2 d2 3. e8=Q+ $10 Kxd4 4. Qd8) (2. Kf7 $2 f2 (Kxd4 3. e8=Q f2 4. Qa4+ Ke3 5. Qd1 d2 6. Kg6 Kf4 $1 7. Kh5 (7. Qb3 Ke4 $1) Kg3) 3. e8=Q+ $10) (2. Kd8 $2 d2 3. e8=Q+ $10) (2. Kf8 $2 d2 3. e8=Q+) (2. Nb5 $2 d2 3. Nc3) (2. Nc6 $2 d2 3. Kd8) (2. Ne2 dxe2) Kxf3 3. Kf8 (3. Kf7 $2 d2 4. e8=Q $10) (3. Kd7 $2 d2 4. e8=Q $10) (3. Kd8 $2 d2 4. e8=Q $10) d2 4. e8=Q d1=Q (Kf2 5. Qa4 Ke2 6. Qc2 Ke1 7. Qe4+ Kd1 8. Qd3 Ke1 9. Qe3+ Kd1 10. Ke7 $18) 5. Qh5+ $18 (5. Qa8+ $4 Ke3 6. Qb8 $10) (5. Qf7+ $4 Ke3 6. Qe7+ $10) (5. Qc6+ $4 Ke3 6. Qb6+) Ke3 6. Qxd1 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/1p5k/4pP2/6B1/8/1P6/8/1n4K1 w - - 0 1"]
+
+1. f7 (1. Kg2 $2 Kg6 2. Kf3 $10) (1. Bc1 $4 Kg6 $10) (1. Bh4 $4 Nd2 $15) (1. Kf2 $2 Kg6 2. Ke3 $10) (1. Be3 $4 Kg6 $10) (1. b4 $4 Kg6 $10) (1. Kf1 $4 Kg6 $10) (1. Kh2 Kg6 2. Kg3) (1. Bf4 Kg6) (1. Kh1 Kg6) Kg7 2. Be7 (2. Bh6+ $2 Kxf7 3. Kg2 $10) (2. f8=Q+ $2 Kxf8 3. Kh2 $10) (2. Kf2 $4 Kxf7 3. Bh4 $10) (2. Kf1 $4 Kxf7 3. Kg2 $10) (2. Bd2 $4 Nxd2 3. f8=B+ Kxf8) (2. Kg2 $4 Kxf7 3. Bh6) (2. Bd8 $4 Nd2) (2. Bh4 Nd2 3. f8=Q+ Kxf8) Kxf7 3. Bb4 (3. Bh4 $4 Nd2 $15 $17) (3. Bd6 $4 Nd2 $19) (3. Bd8 $4 Nd2 $19) (3. Bc5 $4 Nd2 $19) (3. Bg5 $4 Kg6) (3. Kf1 Kxe7) (3. Kf2 Kxe7) (3. Bf6 Kxf6) (3. Bf8 Kxf8) Kf6 4. Kf2 (4. Kf1 $4 Ke5 $19 5. Ke1 Kd4) (4. Kg2 $4 Ke5 $19 5. Bd6+ Kxd6) (4. Be1 $4 Ke5 5. Bg3+ Ke4) (4. Bf8 $4 Nd2 5. Bg7+ Kxg7) (4. Ba5 $4 Ke5 5. Bc3+ Nxc3) (4. Bc5 Nd2) (4. Bd2 Nxd2) (4. Be7+ Kxe7) Ke5 5. Ke3 (5. Ke2 $4 Kd4 $19 6. Bc3+ Nxc3+ 7. Kf2 b5) (5. Ke1 $4 Kd4 $19 6. Bc3+ Nxc3) (5. Kf3 $4 Kd4) (5. Bd6+ Kxd6) (5. Bc3+ Nxc3) (5. Ba5 Kd4) Kd5 6. Kd3 (6. Be1 e5 7. Bb4) (6. Kf4 Kd4) (6. Ba5 e5 7. Bb4) Kc6 7. Kc2 Kb5 8. Bf8 $18 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "4b2q/7p/Q5p1/B1k5/3bp3/8/1PP1K2P/8 w - - 0 1"]
+
+1. Bb6+ (1. b4+ $6 Kd5 2. Bc7 $14 $16) (1. c4 $2 Bxb2 2. Qb6+ $10) Kd5 (Kb4 2. Qa5+ (2. c3+ $4 Bxc3 3. bxc3+ Kb3 4. Bd4 $10) (2. Ba5+ Kc5 3. Bb6+ $18) (2. Bxd4 Qxd4 3. c3+ $18) (2. Qa3+ $4 Kb5 3. Qb3+ $10) (2. b3 $4 Bb5+ 3. Qxb5+ Kxb5 4. Bxd4 Qxd4 5. c4+ Kb4) (2. Qb5+ Bxb5+ 3. Kd1 Bxb6 4. c3+ Kb3) Kc4 3. b3# $1 (3. c3 $4 Bxb6 4. Qxb6 Qe5 $19) (3. Qa4+ $4 Bxa4 4. b3+ Kc3 5. bxa4 Bxb6) (3. Bxd4 Kxd4 4. Qc3+) (3. Qa2+ $4 Kb5 4. Qb3+)) 2. c4+ (2. Qb7+ $2 Bc6 3. c4+ $10) (2. Qa5+ $4 Kc6 $17 $19) (2. Qa2+ $4 Kd6 3. Qa3+ Kc6 $17 $19) (2. Qb5+ $4 Bxb5+ 3. Kd1 Qf6 4. c4+ Bxc4 5. Bxd4 Qxd4+ 6. Kc2 Qd3+) (2. Bxd4 $4 Qxd4 3. Qb7+ Kd6) (2. c3 $4 Bxb6 3. Qxb6 Qe5 $19) (2. Qa8+ $4 Bc6 3. c4+ Kd6 4. Qa3+ Ke6) (2. b3 $4 Bxb6 3. Qxb6 Bc6) (2. Kd2 $4 Bxb6 3. Qxb6 Qd4+) Ke5 3. Bxd4+ (3. Bc7+ $4 Kf5 4. Qc8+ Kg5 $17 $19) (3. Qa5+ $6 Kf4 4. Qd2+ $14 $10) (3. b4 $4 Bxb6 4. Qxb6 Qf8 $19) (3. Qb5+ $4 Bxb5 4. Bc7+ Kf5) (3. b3 $4 Kf4 4. Bc7+ Be5) (3. Qb7 $4 Bxb6 4. Qxb6 Qf8) Kxd4 4. Qa1 (4. b3 $4 Qg8 5. Qa1+ Kc5 $17) (4. b4 $4 Qf8 5. Qa1+ Kxc4 6. Qa2+ Kd4 $19) (4. Qb5 $4 Bxb5 5. cxb5 e3 $19) (4. Qa3 $4 Kxc4 5. Qa2+ Kb5) (4. Qc8 $4 Qe5 5. Qd8+ Kxc4 6. b3+ Kb4 7. Qd2+ Qc3) Qg8 (Qf8 5. b3+ (5. b4+ $4 Kxc4 6. Qa2+ Kd4 $19) (5. Qa7+ $4 Kxc4 6. Qa2+ Kd4) (5. c5 $4 Bb5+ 6. Kd2 Qf2+) (5. Qd1+ $4 Kxc4 6. Qc2+ Kd5) Kc5 6. Qa3+ $1 $18 (6. Qe5+ $4 Kb4 7. Qxe4 Kxb3 $19 8. Qb7+ Kxc4 9. Qxh7 Qf6) (6. Qa7+ $4 Kb4 7. Qb7+ Kc3 $17 $19) (6. Qa4 $4 Qf3+ 7. Ke1 Bxa4) (6. Qa2 $4 Qf3+ 7. Kd2 Qf2+) (6. b4+ $4 Kxc4 7. Qa2+ Kc3 $19) (6. Qa5+ $4 Kc6 7. Qa6+ Kd7) (6. Qc3 $4 Qf3+ 7. Qxf3 exf3+ 8. Kxf3 Kd4)) 5. b4+ (5. b3+ $4 Kc5 6. Qa5+ Kc6 $17) (5. Qd1+ $4 Kxc4 6. Qc2+ Kb5) (5. h3 $4 Qxc4+ 6. Kf2 e3+) (5. c5 $4 Qc4+ 6. Kf2 e3+) (5. Qa7+ $4 Ke5 6. Qc5+ Kf6) (5. Qa3 Qxc4+ 6. Kf2 Qc2+) Kxc4 6. Qa2+ $18 1-0

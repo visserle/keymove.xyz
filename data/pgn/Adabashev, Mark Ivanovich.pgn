@@ -1,0 +1,12 @@
+[Event "64"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Adabashev, Mark Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/8/6Pp/7p/7P/Kp3P2/b2k4 w - - 0 1"]
+
+1. Kb1 $1 Ke2 2. f4 Kf3 3. f5 Kf4 4. g6 fxg6 5. fxg6 Kg5 6. g7 Kh6 7. g8=R 1-0

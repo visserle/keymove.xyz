@@ -1,0 +1,240 @@
+[Event "?"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[Composer "Daniel, Arthur William"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/5k1K/8/4R3/4p3/pb6/8/8 w - - 0 1"]
+
+1. Rxe4 (1. Rf5+ $2 Ke6 $19 2. Re5+ Kxe5) (1. Rd5 Bxd5) (1. Rc5 a2 2. Rf5+ Ke6) (1. Re6 Bxe6) (1. Re8 Kxe8) Bc2 2. Kh8 a2 3. Re1 (3. Rf4+ $2 Ke6 4. Re4+ Bxe4 $19) (3. Re5 $2 a1=R 4. Rf5+ Bxf5) (3. Rc4 $2 a1=Q+ 4. Rd4 Qxd4#) (3. Rh4 $2 a1=Q+ 4. Rd4 Qxd4#) (3. Rd4 $2 Ke7 4. Re4+ Bxe4) (3. Re2 $2 a1=Q+ 4. Re5 Qxe5#) (3. Rg4 $2 a1=Q+ 4. Rd4 Qxd4#) (3. Re8 $2 a1=Q+ 4. Re5 Qxe5#) (3. Rb4 $2 a1=Q+ 4. Rd4 Qxd4#) (3. Re3 a1=Q+ 4. Rc3 Qxc3#) Bb1 4. Re5 (4. Rxb1 $2 axb1=R 5. Kh7 Rh1#) (4. Rf1+ $2 Ke6 5. Re1+ Kd6 $19) (4. Re2 $2 a1=Q+ 5. Rb2 Qxb2#) (4. Re4 $2 a1=Q+ 5. Rd4 Qxd4#) (4. Rc1 $2 a1=Q+ 5. Rc3 Qxc3#) (4. Re3 $2 a1=Q+ 5. Rc3 Qxc3#) (4. Rd1 $2 a1=Q+ 5. Rd4 Qxd4#) (4. Rg1 $2 a1=Q+ 5. Rg7+ Qxg7#) (4. Re8 $2 a1=Q+ 5. Re5 Qxe5#) (4. Re6 $2 a1=Q+ 5. Rf6+ Qxf6#) a1=R 5. Ra5 (5. Re1 $2 Ra8+ 6. Re8 Rxe8#) (5. Rf5+ $2 Kg6 6. Rf8 Bf5 7. Rg8+ Kh6 8. Rf8 Ra6 9. Rg8 Rb6 10. Rf8 Rd6 11. Rg8 Be4 12. Rf8 Bf3 13. Rg8 Rd4 14. Rg7 Bh5 15. Rg3 Rd6 16. Rg2 $19) (5. Rb5 $2 Ra8+ 6. Rb8 Rxb8#) (5. Rg5 $2 Ra8+ 6. Rg8 Rxg8#) (5. Re8 $2 Ba2 6. Rf8+ Kxf8) (5. Re4 $2 Ra8+ 6. Kh7 Ra6) (5. Re2 Ra8+ 6. Re8 Rxe8#) (5. Rc5 Ra8+ 6. Rc8 Rxc8#) (5. Re3 Ra8+ 6. Re8 Rxe8#) (5. Rd5 Ra8+ 6. Rd8 Rxd8#) Rxa5 1/2-1/2
+
+[Event "British Chess Magazine#0134"]
+[Source "British Chess Magazine/11"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Daniel, Arthur William"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/1B4N1/3b4/8/3k1p2/8/1p2K3/8 w - - 0 1"]
+
+1. Nf5+ $1 (1. Ne6+ $2 Ke5 $19) (1. Ba6 f3+ 2. Kd2 b1=Q) (1. Ne8 Be5) (1. Kd1 b1=Q+ 2. Ke2 Qxb7 3. Nf5+) Ke5 2. Be4 $1 (2. Nxd6 $2 b1=Q 3. Nf7+ Kd4 $19) (2. Ne3 $2 fxe3 3. Kxe3 b1=Q) (2. Bc8 $2 b1=Q 3. Nxd6 Qb3 4. Nf7+ Qxf7) (2. Kf3 $2 Kxf5 3. Be4+ Kg5) (2. Ba6 $2 b1=Q 3. Nxd6 Qa2+) (2. Bd5 $2 b1=Q 3. Nxd6 Kxd5) (2. Ng3 fxg3) Kxe4 3. Nxd6+ (3. Nd4 b1=Q) (3. Ng3+ fxg3) Kd5 $1 (Kd4 4. Nb5+ Kc4 5. Na3+ Kb3 6. Nb1) 4. Nb5 (4. Nf5 $2 b1=Q 5. Ne3+ fxe3 6. Kxe3 Qe1+) (4. Nf7 $2 b1=Q 5. Ng5 Qg1) (4. Kd3 $2 b1=Q+ 5. Kc3 Qe1+) (4. Kf3 $2 Kxd6 5. Kxf4 b1=Q) (4. Nb7 b1=Q) Kc4 (b1=Q 5. Nc3+ $1 $10 (5. Na3 $2 Qb3 6. Nb5 Qxb5+ 7. Kd2 Qb3)) 5. Na3+ (5. Nd6+ $2 Kb4 $19) (5. Kf3 Kxb5 6. Kxf4 b1=Q) Kb3 6. Nb1 (6. Nb5 b1=Q) (6. Kf3 Kxa3 7. Kxf4 b1=Q) Kc2 7. Na3+ $10 (7. Nd2 $2 f3+ 8. Nxf3 b1=Q $19) (7. Kf3 $2 Kxb1 8. Kxf4 Kc2 $19) 1/2-1/2
+
+[Event "The Chess Amateur (c)"]
+[Source "The Chess Amateur/1 (c): The Chess Amateur/4 1912."]
+[Date "1912.??.??"]
+[Round "?"]
+[Composer "Daniel, Arthur William"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/3k1B2/K7/8/7p/1N2b3 w - - 0 1"]
+
+1. Nd2 $1 Bxd2 2. Bc8 Kc6 3. Bg4 h1=Q 4. Bf3+ Qxf3 1/2-1/2
+
+[Event "The Chess Amateur#0205"]
+[Source "The Chess Amateur/9"]
+[Date "1913.??.??"]
+[Round "?"]
+[Composer "Daniel, Arthur William"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/B3N3/p7/p7/k2K4 w - - 0 1"]
+
+1. Bb3 $1 Kb2 2. Bxa2 Kxa2 (Ka1 3. Kc1) 3. Kc2 Ka1 4. Nc5 Ka2 5. Nd3 Ka1 6. Nc1 a2 7. Nb3# 1-0
+
+[Event "The Chess Amateur#0646"]
+[Source "The Chess Amateur/3"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Daniel, Arthur William"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4K1P1/3n4/4b3/2k5/8/8 w - - 0 1"]
+
+1. g7 $1 Nb6 (Nf4+ 2. Ke5) (Nb4 2. Kf7) 2. Kd6 $1 (2. Kf7 $2 Bd5+ 3. Kf8 (3. Kg6 Nd7 4. Kh7 Nf6+) Nd7+ 4. Ke7 Ne5 5. Kd6 Kd4 6. Ke7 Ke4 7. Kf8 Ng6+ 8. Ke8 Kf5) (2. g8=Q $2 Bd5+) Bd5 (Bh7 3. Ke7 (3. Ke6 $2 Bg8+)) 3. Kc5 1/2-1/2
+
+[Event "The Chess Amateur#0777"]
+[Source "The Chess Amateur/5"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Daniel, Arthur William"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4nK2/8/b1qnN2P/k2N4/4P3/8/P7/8 w - - 0 1"]
+
+1. Nd4 $1 Qc4 (Qa8 2. Nb3+ Kb5 3. a4+ Kc6 4. Na5+ Kc5 5. Nb3+) (Qc8 2. Nb3+ Kb5 3. a4+) (Qb7 2. Nb3+ Kb5 3. a4+) (Qxd5 2. exd5 Bd3 3. Ne6 Nf6 4. Ng5 Nde8 5. h7 Bxh7 6. Nxh7) 2. Nb3+ Kb5 3. a4+ Kxa4 4. Nb6+ Kxb3 5. Nxc4 Bxc4 6. h7 Nf7 7. Kxe8 Kc3 8. Kf8 Kd4 9. Kg7 Kxe4 10. h8=Q Nxh8 11. Kxh8 1/2-1/2
+
+[Event ".c British Chess Federation ty"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Daniel, Arthur William"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1q6/pkp2p2/8/2PN4/p5p1/n2Q3b/6B1/2K5 w - - 0 1"]
+
+1. c6+ $1 Ka8 (Kxc6 2. Ne7+ Kc5 3. Qd5+ Kb6 4. Qd4+ Ka6 5. Qxa4+ Kb6 6. Qd4+ Ka6 7. Qa4+ Kb6 8. Qxa3 c5 9. Qb2+ Kc7 10. Qe5+) 2. Nxc7+ Qxc7 3. Qd8+ Qxd8 4. c7+ Bxg2 5. cxd8=Q+ 1-0
+
+[Event "The Problemist"]
+[Source "The Problemist/11"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Daniel, Arthur William"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2P5/8/4K3/4N3/8/kr6 w - - 0 1"]
+
+1. Nc2+ $1 Ka2 2. c7 Rb8 3. cxb8=B $1 (3. cxb8=Q $2) 1-0
+
+[Event "British Chess Magazine#0133 (c)"]
+[Source "British Chess Magazine/11 EG#14047. (c): British Chess Magazine/1 1935."]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Daniel, Arthur William"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4K3/b7/3kN3/6R1/8/8/4p3/8 w - - 0 1"]
+
+1. Rd5+ $1 Kxe6 (Kxd5 2. Nf4+) 2. Rd7 Bc5 3. Re7+ Bxe7 1/2-1/2
+
+[Event "British Chess Magazine#0334"]
+[Source "British Chess Magazine/12"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Daniel, Arthur William"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3K4/8/N7/8/3k4/4n3/p2B4/8 w - - 0 1"]
+
+1. Bxe3+ $1 Kc4 (Kxe3 2. Nb4 a1=Q 3. Nc2+) 2. Bd4 Kxd4 3. Nb4 a1=Q 4. Nc2+ 1/2-1/2
+
+[Event "British Chess Magazine#0322"]
+[Source "British Chess Magazine/9"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Daniel, Arthur William"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3K4/8/6k1/2p5/6B1/2p4N/8 w - - 0 1"]
+
+1. Nf3+ $1 Kg4 (Kf5 2. Nd4+) 2. Bf4 Kxf3 (Kxf4 3. Nd4 c1=Q 4. Ne2+) 3. Bh6 (3. Bg5 {<or>}) Ke2 4. Kd6 (4. Ke6 {<or>}) Kd1 5. Kd5 c3 6. Kc4 1/2-1/2
+
+[Event "British Chess Magazine#0353"]
+[Source "British Chess Magazine/4"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Daniel, Arthur William"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7K/8/1k6/2NP4/6p1/B1n5 w - - 0 1"]
+
+1. Na2+ $1 Kc5 2. Nxc1 g1=Q 3. Bd4+ Qxd4 (Kxd4 4. Ne2+ Kxd3 5. Nxg1) 4. Nb3+ 1/2-1/2
+
+[Event "British Chess Magazine#0397"]
+[Source "British Chess Magazine/2"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Daniel, Arthur William"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6Bk/7P/1P6/8/7b/7P/7K/8 w - - 0 1"]
+
+1. b7 $1 Bd8 2. b8=B (2. b8=Q $2 Bc7+ 3. Qxc7) Bf6 {<eg>} 3. h4 Bg7 4. h5 Bf8 5. Kg3 Bh6 6. Kg4 Bg7 7. Kf5 Bh6 8. Bg3 Bf8 (Bg7 9. Kg6 Bf6 10. h6 Bd4 11. Bd6) 9. Bh4 Bh6 (Bg7 10. Kg6) 10. Ke6 Bf8 11. Kf7 Bg7 12. h6 Be5 13. Be7 Bd4 14. Bf8 Ba1 15. Bg7+ Bxg7 16. hxg7# 1-0
+
+[Event "British Chess Magazine#0528"]
+[Source "British Chess Magazine/6"]
+[Date "1942.??.??"]
+[Round "?"]
+[Composer "Daniel, Arthur William"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5N2/8/5kN1/8/2B1p1nK/3n4 w - - 0 1"]
+
+1. Nd5+ $1 Kxg4 (Kg5 2. Ne5 Nh4 (e1=Q 3. Nf3+) 3. Nf7+ Kg4 4. Ne5+) (Kf3 2. Ne5+ Kf2 3. Ng4+ Kf1 4. Bd3) 2. Bxd1 exd1=Q 3. Ne3+ Nxe3 1/2-1/2
+
+[Event "The Field (pl)"]
+[Source "= Jespersen=J h2g5 1896."]
+[Date "1947.02.01"]
+[Round "?"]
+[Composer "Daniel, Arthur William"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6B1/8/2k1n2N/8/8/K3p3/8 w - - 0 1"]
+
+1. Bf8+ $1 Kc4 2. Bb4 Kxb4 3. Nf4 e1=Q 4. Nd3+ Nxd3 1/2-1/2
+
+[Event "The Field#4666"]
+[Date "1950.03.04"]
+[Round "?"]
+[Composer "Daniel, Arthur William"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/7N/2k4K/2N5/6p1/B2b4 w - - 0 1"]
+
+1. Ne2 $1 Bxe2 2. Bd4 Kxd4 3. Nf4 g1=Q 4. Nxe2+ Ke3 5. Nxg1 1/2-1/2
+
+[Event "British Chess Magazine#8946 (s)"]
+[Source "British Chess Magazine/2"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Daniel, Arthur William"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/K7/1P6/8/5k2/7n/6b1 w - - 0 1"]
+
+1. b6 $1 Ng4 2. b7 Bh2 3. Ka7 Ne5 4. b8=N $1 (4. b8=Q $2 Nc6+) 1/2-1/2

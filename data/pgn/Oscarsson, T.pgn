@@ -1,0 +1,13 @@
+[Event ".c Beginner ty Tidskrift for Schack#100"]
+[Source "Tidskrift for Schack/12"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Oscarsson, T"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5n2/6p1/4R3/5N1k/2B1p2P/5pP1/7K/q7 w - - 0 1"]
+
+1. Rh6+ $1 gxh6 2. Bf7+ Ng6 3. Ng7+ $1 Qxg7 4. Kh3 $1 Qxf7 5. g4# 1-0

@@ -1,0 +1,109 @@
+[Event "?"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Rey Ardid, Ramon"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "5b2/8/8/1Kn5/3R4/8/P7/7k w - - 0 1"]
+
+1. Rf4 (1. Rd8 Ne6 2. Rb8 $18) (1. Rh4+ $2 Kg2 2. a3 $10) (1. Rd5 Ne4 2. Kc4 $18) (1. a4 $2 Nxa4 2. Rc4) (1. Kc4 Na4 2. Rd2) (1. Rd7 Nxd7) Ne6 (Bd6 2. Rf6 (2. Rf5 Ne6 3. Rf6 $18) (2. Rd4 Be7 3. Rg4 $18) (2. Rh4+ Kg2 3. Rc4 $18) (2. Rc4 Ne6 3. a4 $18) (2. Kc6 $2 Bxf4 3. Kxc5 $10 Be3+ 4. Kb5) (2. Rg4 Ne6 3. Re4 $18) (2. Rf1+ $2 Kg2 3. Re1) (2. a4 $2 Nxa4 3. Re4) (2. Rf3 $2 Kg2 3. Re3) (2. Kc4 Bxf4 3. Kxc5 Be3+ 4. Kd6) Ne4 3. Re6 (3. Rh6+ $2 Bh2 4. a3 $10 Nc3+ $4 (Kg2 $5) 5. Kb4) (3. Rf3 $2 Bg3 4. a3 $10 Nc3+ $4 (Kh2 $5) 5. Rxc3) (3. Rxd6 $2 Nxd6+ 4. Ka5 $10) (3. Rf1+ $2 Kh2 4. a3) (3. Kc6 $2 Nxf6 4. Kxd6 Ne8+ 5. Kc6) (3. Rf5 $2 Nc3+ 4. Ka5) (3. Rg6 $2 Bc7 4. a3) (3. Rf7 $2 Nc3+ 4. Ka5) (3. Rf8 Bxf8) (3. Kc4 Nxf6) Nc3+ 4. Kc4 $3 $18 (4. Kc6 $2 Nxa2 5. Rxd6) (4. Ka5 $2 Nxa2 5. Rxd6) (4. Kb6 $2 Nxa2 5. Rxd6) (4. Ka6 Nxa2 5. Rxd6)) 2. Rf6 (2. Rxf8 $2 Nxf8 3. a3 $10) (2. Rh4+ Kg2 3. a4 $18) (2. Rf7 Bd6 3. a4 $18) (2. Re4 Nc7+ 3. Kc6) (2. Rf1+ Kh2 3. Rf6) (2. Rf5 $4 Nd4+ 3. Kb6 Nxf5) Nd4+ 3. Kc4 (3. Ka4 $2 Bg7 4. Rd6) (3. Kb6 $2 Be7 4. Rc6) Bg7 4. Rg6 Nf5 5. Rg5 Ne3+ 6. Kd3 (6. Kb5 $2 Bc3 7. a3) (6. Kb4 Bf6 7. Rg6) (6. Kb3 Bf6 7. Rg8) Bh6 7. Rh5+ $18 (7. Rg6 $18 Nd5 8. Rxh6+ Kg1 9. a4) (7. Rg3 Nd5 8. Rh3+ $18) (7. Re5 Ng4 8. Rh5+) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Rey Ardid, Ramon"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/5k2/5p2/p7/2P1K1P1/8/8/8 w - - 0 1"]
+
+1. Kd4 (1. c5 $4 a4 $19 2. Kd3 a3) (1. Kf5 $4 a4 $19) (1. Kd5 $2 a4 2. Kd4 $10) (1. Kd3 $4 Ke7 $19) (1. Kf4 $4 a4) (1. Kf3 $4 a4) (1. Ke3 $4 Ke7) Ke6 (a4 2. Kc3 (2. c5 $4 a3 $19) (2. Kd5 $4 a3 $19) (2. Kc5 $4 a3) (2. Ke4 $4 a3) (2. Kd3 Ke6 3. Kc3) Ke6 3. Kb4 (3. c5 $4 a3 $19) (3. Kb2 $4 Kd6) (3. Kd4 Kd6) Kd6 4. Kxa4 (4. c5+ $4 Kc6 5. Kxa4 Kxc5 $19) (4. Ka5 $4 a3) (4. Ka3 $4 Kc5 5. Kxa4 Kxc4) (4. Kb5 $4 a3 5. c5+ Kd7) Kc5 5. Kb3 $1 $18 (5. Ka5 Kxc4 6. Kb6) (5. g5 fxg5)) 2. Kc5 (2. Kc3 $4 Kd6 $19 3. c5+ Kxc5) (2. c5 $4 a4 $19) (2. Ke4 $4 a4 $19) (2. Kd3 Kd6) (2. Ke3 a4) (2. g5 fxg5) Ke5 3. Kb5 (3. Kb6 $2 f5 4. c5) (3. Kc6 a4) Kd4 4. g5 (4. c5 a4 5. g5 $18) (4. Kxa5 $2 Kxc4 5. Kb6 $10) (4. Ka4 Kxc4 5. Kxa5 Kd4) fxg5 5. c5 (5. Kxa5 Kxc4) (5. Ka4 Kxc4 6. Kxa5 g4) a4 (g4 6. c6 (6. Kxa5 Kxc5) (6. Kc6 g3) g3 7. c7 g2 8. c8=Q g1=Q 9. Qc5+ $1 $18 (9. Qd7+ $2 Ke4 10. Qc7) (9. Qh8+ $2 Ke4 10. Qf8) (9. Qd8+ $2 Ke4 10. Qc8) (9. Qc6 Qb1+ 10. Kxa5 Qa1+ 11. Kb6)) 6. c6 (6. Kb4 a3 7. c6) a3 7. c7 (7. Kb4 a2) (7. Ka4 a2) a2 8. c8=Q a1=Q 9. Qh8+ $18 (9. Qd8+ $2 Ke4 10. Qc8 $10) (9. Qc4+ $2 Ke3 10. Qb4) (9. Qg4+ $2 Kd3 10. Qc4+) (9. Qc5+ Kd3 10. Qc4+) 1-0
+
+[Event "Finales de Ajedrez: Reyes y Peones#404"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Rey Ardid, Ramon"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/p2k4/P5p1/3K2P1/8/8 w - - 0 1"]
+
+1. Ke3 $1 (1. Kc3 $2 Ke4 2. Kc4 Kf3 3. Kb5 Kxg3 4. Kxa5 Kf4 5. Kb6 (5. Kb5 g3 6. a5 g2 7. a6 g1=Q) g3 6. a5 g2 7. a6 g1=Q+) 1/2-1/2
+
+[Event "Finales de Ajedrez: Reyes y Peones#121 "]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Rey Ardid, Ramon"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/4k1p1/6P1/4K3/4P3/8 w - - 0 1"]
+
+1. Kf3 $1 Kd4 2. e3+ Kd3 3. Kf2 Kc4 4. Kg3 Kc3 5. Kg2 Kc4 6. Kf2 Kd5 7. Ke1 Ke5 8. Kd2 Ke4 9. Ke2 Kd5 10. Kd3 Ke5 11. e4 Kf4 12. Kd4 Kxg4 13. e5 Kh3 (Kf5 14. Kd5 g4 15. e6 g3 16. e7 g2 17. e8=Q g1=Q 18. Qf8+ Kg4 19. Qg8+) 14. e6 g4 15. e7 g3 16. e8=Q 1-0
+
+[Event "Finales de Ajedrez: Reyes y Peones#067 "]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Rey Ardid, Ramon"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4k1KP/6P1/8/p7/8/8 b - - 0 1"]
+
+a2 $1 2. h7 a1=Q 3. h8=Q $1 Qxh8 1/2-1/2
+
+[Event "Finales de Ajedrez: Reyes y Peones#174 "]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Rey Ardid, Ramon"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1p1k4/8/1PPK4/8/8/8 w - - 0 1"]
+
+1. b5 $1 Ke6 2. c5 bxc5+ 3. Kxc5 1-0
+
+[Event "Finales de Ajedrez: Reyes y Peones#084 "]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Rey Ardid, Ramon"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/3kPp2/5P2/3K4 w - - 0 1"]
+
+1. Ke1 $1 (1. Kc1 $2 Ke2) Kc3 (Ke4 2. Kd2 Ke5 3. Kd3 Kd5 4. e4+ Ke5 5. Ke3) 2. Kf1 Kd3 3. Kg1 Ke4 4. Kh2 Kf5 5. Kg3 1-0
+
+[Event "Finales de Ajedrez: Reyes y Peones#115 "]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Rey Ardid, Ramon"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5k2/5P2/5p2/3K1P2/8/8/8 w - - 0 1"]
+
+1. Ke5 $1 Kg6 2. Ke6 $1 (2. f7 $2 Kg7 $1 (Kxf7 $2 3. Kxf5) 3. Ke6 (3. f8=Q+ Kxf8 4. Kxf5 Kf7) Kf8 4. Kxf5 (4. Kf6) Kxf7) Kh7 3. f7 Kg7 4. Ke7 1-0

@@ -1,0 +1,13 @@
+[Event "Shakhmaty#192"]
+[Source "Shakhmaty/10"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Kliatskin, Mikhail Gertsovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5p1b/4pPkp/3pP2p/1p1P3P/1p2K2P/1P6/8 w - - 0 1"]
+
+1. Ke2 $1 (1. Kd2 $2 Kf5 2. Kc1 Ke4) Kf5 (Bg8 2. Kd2) 2. Kf3 $1 Bg8 3. Ke3 Kg6 4. Kd2 Kh7 5. Kc1 Kh8 6. Kb1 Bh7+ 7. Ka1 Bg8 8. Kb1 Bh7+ 9. Ka1 Bf5 1/2-1/2

@@ -1,0 +1,364 @@
+[Event "?"]
+[Site "?"]
+[Date "1903.??.??"]
+[Round "?"]
+[Composer "Duras, Oldřich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "1K6/1P1k4/1P6/8/8/r7/6R1/8 w - - 0 1"]
+
+1. Rd2+ (1. Rg7+ Kd8 2. Rg6 $18) (1. Rc2 Ra5 2. Rd2+ $18) (1. Rg6 Re3 2. Rg4 $18) (1. Rb2 Ra5 2. Rd2+) (1. Rg3 $2 Rxg3 2. Ka8) (1. Rg8 Re3 2. Rg4) (1. Rg5 Ra6 2. Rf5) (1. Rg4 Ra6 2. Rg7+) (1. Re2 Ra6 2. Rd2+) Ke7 $1 2. Rd6 (2. Rd5 Ra2 3. Rd6 $18) (2. Rd4 Ra5 3. Rd3 $18) (2. Kc8 Rc3+ 3. Kb8 $18) (2. Re2+ Kd7 3. Rd2+ $18) (2. Rh2 Ra1 3. Rh6) (2. Rd3 $2 Rxd3 3. Ka8) (2. Ra2 $2 Rxa2 3. Kc8) Rc3 (Kxd6 3. Kc8 Rc3+ 4. Kd8 (4. Kb8 $4 Kc6) Rh3 5. b8=Q+ $18 (5. Ke8 $4 Rh8+ 6. Kf7 Ke5 $19 7. b8=Q+ Rxb8) (5. b8=B+ $2 Kc6 6. Bc7)) 3. Rc6 (3. Ka7 Ra3+ 4. Kb8 $18) (3. Rh6 Kd7 4. Rh4) (3. Rd7+ $2 Kxd7 4. Ka8) (3. Rd3 $2 Rxd3 4. Ka8) (3. Rd8 $2 Kxd8 4. Ka8) (3. Re6+ $2 Kxe6 4. Ka8) (3. Rd2 Rc8+ 4. bxc8=Q) (3. Rf6 $2 Kxf6 4. Ka8) Rxc6 (Rd3 4. Rc5 Kd7 5. Ra5 $18) 4. Ka7 $18 (4. Ka8 $2 Rxb6 5. b8=Q $10) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1906.??.??"]
+[Round "?"]
+[Composer "Duras, Oldřich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/KPb5/8/P5p1/5p2/3k4/7P/2B5 w - - 0 1"]
+
+1. Ba3 (1. a6 $2 f3 2. b8=Q $10) (1. Bxf4 $2 gxf4 2. b8=Q $10) (1. b8=Q $2 Bxb8+ 2. Kxb8 $10) Kc4 (f3 2. Bc5 $18) 2. Be7 (2. Bc1 Kd3 3. Ba3 $18) (2. b8=Q $6 Bxb8+ 3. Kxb8 $14 $16) (2. a6 $2 f3 3. b8=Q $10) (2. Bf8 $4 f3 $19) (2. h4 $4 f3 $19) (2. Ka8 $2 f3 3. a6 $10) (2. Ka6 $4 f3) (2. Bb4 $4 Kxb4 3. b8=Q+ Bxb8+ 4. Kxb8 Kxa5) (2. Bb2 $4 f3) (2. h3 f3) f3 3. Bd8 (3. Bxg5 $4 f2 4. Bd8 Bxh2 $19) (3. Bf6 $4 f2 $19) (3. a6 $4 f2 $19 4. Bxg5 f1=Q) (3. b8=Q $4 Bxb8+ 4. Kxb8 f2) (3. h4 $4 f2 $19) (3. Bb4 Kxb4 4. b8=Q+ Bxb8+ 5. Kxb8 Kxa5) (3. Ka8 f2) (3. Ka6 f2) (3. Ba3 f2) Bxh2 4. Bb6 (4. Bxg5 $4 f2 $19 5. b8=Q Bxb8+ 6. Kxb8 f1=Q) (4. Kb6 $4 f2 $19) (4. Ka8 $4 f2 $19) (4. a6 $4 f2 $19) Kb5 (g4 5. a6 $18 (5. Bf2 $2 Bc7 6. b8=Q $10) (5. b8=Q $2 Bxb8+ 6. Kxb8 $10) (5. Ka8 $4 Kb5 $19) (5. Ka6 $4 Be5 $19) (5. Bg1 $4 Bxg1+ 6. Ka8 Bh2) (5. Bd8 $4 f2) (5. Be3 $4 Kb5) (5. Bc7 Bxc7)) 5. a6 (5. Be3 $4 Kxa5 6. Bb6+ Kb5 $19) (5. b8=Q $2 Bxb8+ 6. Kxb8 $10) (5. Bd8 $4 f2 6. b8=Q+ Bxb8+ 7. Kxb8 Kc6) (5. Bf2 $2 Kxa5 6. b8=Q) (5. Bg1 $4 Bxg1+ 6. Ka8 Bh2 7. b8=R+ Bxb8 8. Kxb8 f2) (5. Ka8 $4 g4 $19) g4 $2 (Bf4 $5 6. Be3 $18) 6. Bf2 (6. Bg1 $4 Bc7 $19) (6. b8=Q $4 Bxb8+ 7. Kxb8 Kxb6 8. a7 $10) (6. Bd4 $4 Bc7 $19) (6. Ka8 $4 Kxa6 $19 7. b8=N+ Kxb6 8. Nd7+ Kc6) (6. Be3 $4 Bc7 $19) (6. Bd8 $4 f2 7. b8=Q+ Bxb8+ 8. Kxb8 Kxa6 $19) (6. Bc7 $4 Bxc7 7. b8=Q+ Bxb8+ 8. Kxb8 Kxa6 $19) Bc7 $2 (Ka5 $5 7. Be1+ $18) 7. b8=Q+ (7. b8=R+ Bxb8+ 8. Kb7 $18) (7. Bh4 $2 g3 8. b8=Q+ $10) (7. b8=N $2 Bxb8+ $4 (g3 $5 $10) 8. Kb7 $18) (7. Be1 $4 g3 $17) (7. Bb6 $4 Bxb6+ 8. Ka8 f2 $19) (7. Bg3 $4 Bxg3 8. b8=Q+ Bxb8+ 9. Kxb8 Kxa6 $19) (7. Ka8 $4 Kxa6 $19 8. b8=N+ Bxb8 9. Kxb8 Kb5) (7. Bg1 $4 g3 8. b8=R+ Bxb8+ 9. Kxb8 f2 10. Bxf2 gxf2) (7. Be3 $4 g3 8. b8=R+ Bxb8+ 9. Kxb8 Kxa6) (7. Bd4 $4 g3 8. b8=R+ Bxb8+ 9. Kxb8 Kxa6) Bxb8+ 8. Kb7 (8. Kxb8 $2 g3 9. Bxg3 Kxa6 10. Bf2) (8. Ka8 $4 Kxa6 9. Kxb8 Kb5) Ka5 (g3 9. Bxg3 Bxg3 10. a7 f2 11. a8=Q f1=Q 12. Qa6+ $18) 9. Bh4 Kb5 10. Be1 $18 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "?"]
+[Composer "Duras, Oldřich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "6k1/3p4/8/8/8/B7/P7/7K w - - 0 1"]
+
+1. Bb4 (1. Bc5 $2 Kf7 2. a4 Ke6 3. a5 Kd5 $10) (1. Bd6 $2 Kf7 2. a4 Ke6 $10) (1. Bb2 $2 Kf7 2. a4 Ke6 3. a5 Kd5 4. a6 Kc6 $10) (1. Kg2 $2 Kf7 2. Kf3 Ke8 3. Ke4 Kd8 $10) (1. Be7 $2 Kf7 2. a3 $10) (1. Bc1 $2 Kf8 2. a3 $10) (1. Bf8 $2 Kxf8 2. a3) (1. Kg1 $2 Kf7 2. Bb2) (1. Kh2 $2 d6 2. Bb2) Kf7 2. a4 (2. Ba5 $2 d6 3. a3 $10) (2. a3 $2 d6 3. Ba5) (2. Kg2 $2 d6 3. a3) (2. Kh2 d6 3. a3) (2. Kg1 d6 3. a3) (2. Bd6 Kf6 3. a3) Ke6 (Ke8 3. a5 (3. Bd6 Kf7 4. a5 $18) (3. Ba5 $2 Ke7 4. Bb4+) (3. Be7 $2 Kxe7 4. a5) (3. Kg2 $2 d6 4. a5) (3. Kg1 $2 d6 4. a5) (3. Bc5 Kd8 4. a5) Kd8 4. Bd6 (4. a6 $2 Kc7 5. a7 $10) (4. Bc5 $2 d6 5. a6 $10) (4. Be7+ $2 Kc8 5. a6) (4. Kg2 $2 d6 5. a6) (4. Bf8 $2 d6 5. a6) (4. Ba3 $2 d6 5. a6) (4. Bc3 $2 d6 5. a6) (4. Kh2 $2 d6 5. a6) (4. Be1 $2 d6 5. a6) (4. Kg1 $2 d6 5. a6) Kc8 5. a6 $3 $18 (5. Be7 Kc7 6. Kg2)) 3. a5 (3. Ba5 $2 d6 4. Bb4 $10) (3. Bc5 $2 Kd5 4. a5) (3. Bf8 $2 Kd5 4. a5) (3. Be7 $2 Kxe7 4. Kh2) (3. Bd6 Kxd6 4. a5) (3. Kg2 Kd5 4. Kf3) Kd5 4. a6 (4. Bd6 $2 Kxd6 5. a6 $10) (4. Bc5 $2 d6 5. a6 $10 dxc5 $4 (Kc6 $5 6. Kg2) 6. a7) (4. Kg2 Kc6 5. a6) (4. Be7 Kc6 5. a6) Kc6 5. Ba5 $18 (5. Bc5 $2 d6 6. a7 $10 dxc5 $4 (Kb7 $5) 7. a8=Q+) (5. Bd6 $2 Kb6 6. a7 $10) (5. a7 $2 Kb7 6. a8=Q+ $10) (5. Bc3 $2 Kb6 6. a7) (5. Be1 Kb6 6. a7) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1917.??.??"]
+[Round "?"]
+[Composer "Duras, Oldřich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "k7/8/8/1p2P1p1/bK6/8/B7/8 w - - 0 1"]
+
+1. Bf7 (1. e6 $2 Bc2 2. e7 Bg6 $10) (1. Bd5+ $2 Kb8 2. e6 $10) (1. Bb1 $2 Bd1 2. e6 $10) (1. Kc3 $2 b4+ 2. Kc4 $10 Bb5+ $4 (Be8 $5) 3. Kxb5) (1. Ka5 $2 g4 2. e6 $10) Bc2 2. e6 (2. Bd5+ $2 Kb8 3. e6 $10) (2. Kc5 $2 b4 3. e6 $10) (2. Kxb5 $2 g4 3. e6) (2. Bh5 g4 3. e6) (2. Kc3 Bd1 3. e6) Bf5 3. e7 (3. Kxb5 g4 4. e7) Bd7 4. Kc5 (4. Be6 $4 Be8 5. Bf5 $10) (4. Bd5+ $4 Kb8 5. Kc5) (4. Kb3 $4 b4 5. Kxb4) (4. Bh5 $4 g4 5. e8=Q+) (4. Bb3 $4 g4 5. Bc2) (4. Bg6 $4 g4 5. e8=Q+) (4. Ka5 b4 5. Kxb4) (4. Kc3 b4+ 5. Kxb4) Kb7 (b4 5. Kd6 (5. Kxb4 $4 g4 6. e8=Q+ $10) (5. Bd5+ $4 Kb8 6. e8=Q+ $10) (5. Kb6 $4 b3 6. e8=Q+) (5. Be6 Be8 6. Bf5) (5. Kd5 Kb8 6. Kd6) Bb5 6. Bd5+ (6. Bc4 $4 Be8 7. Bd3 $10) (6. Kc7 $4 b3 7. e8=Q+ $10) (6. Kc5 Bd7 7. Kd6 $18) (6. Be6 $4 Be8 7. Bf5) (6. Ke5 $4 g4 7. e8=Q+) (6. Ke6 $4 g4 7. Bg6) (6. Kd5 $4 b3 7. e8=Q+) (6. Bb3 $4 Be8 7. Bc2) (6. Bh5 $4 g4 7. e8=Q+) (6. Bg6 b3 7. Bh5) Kb8 7. Bc6 $1 $18 (7. Kc5 $4 Bd7 8. e8=Q+ $10) (7. Bc4 $4 Ba4 8. e8=Q+) (7. Bb3 $4 g4 8. Bc2)) (Kb7 5. Kd6 Bc6 6. Bd5 $18) (Kb8 5. Kd6 (5. Be6 $4 Be8 6. Bf5 $10) (5. Bd5 $4 Kc7 6. Bf7) Kc8 6. Be6 $18 (6. Bd5 $4 Be8 7. Be4) (6. Kc5 $4 Kc7 7. e8=Q) (6. Bc4 $4 bxc4 7. e8=Q+ Bxe8) (6. Ba2 $4 Be8 7. Bb1) (6. Bb3 $4 Be8 7. Bc2) (6. Bh5 b4 7. Bg4) (6. Ke5 $4 Kc7 7. e8=Q) (6. Bg6 b4 7. Bf5) (6. Bg8 $4 Be8 7. Bh7)) 5. Kd6 (5. Bd5+ $4 Kc7 6. Be4 $10) (5. Be6 $4 Be8 6. Bf5) Bc6 6. Bd5 $18 (6. Kc5 $4 Kc7 7. e8=Q) (6. Be6 $4 Be8 7. Bf5) (6. Ke6 Kb6 7. Kf5) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Duras, Oldřich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/8/5p2/5p2/5P2/3p3B/5k1P/3K4 w - - 0 1"]
+
+1. Bg2 (1. Bxf5 $2 Ke3 2. h3 $10 Kxf4 3. Kd2) (1. Bf1 $2 Kf3 2. h4 $10) (1. Kd2 $2 Kf3 2. Bxf5 Kxf4 3. h3 $10) (1. Kc1 $4 Ke1 2. Bxf5 d2+ $19) Ke3 2. h4 (2. h3 $2 Kxf4 3. Bf1 $10) (2. Bd5 $2 Kxf4 3. Kd2) (2. Ke1 $2 d2+ 3. Kd1) (2. Bh3 Kxf4 3. Bxf5) (2. Bf1 Kxf4 3. Ke1) (2. Bh1 Kxf4 3. Kd2) Kxf4 3. Bf3 (3. Bh3 $2 d2 4. h5 $10) (3. h5 $2 Kg5 4. h6 $10) (3. Kd2 $2 Kg4 4. h5) (3. Bf1 $2 Ke5 4. h5) (3. Bd5 $2 Kg4 4. h5) (3. Bc6 $2 Kg4 4. h5) (3. Bh1 $2 Kg4 4. h5) (3. Bb7 $2 Kg4 4. h5) (3. Ke1 $2 d2+ 4. Kd1) (3. Ba8 $2 Kg4 4. h5) Ke5 4. h5 (4. Kd2 $2 f4 5. h5) (4. Bb7 $2 f4 5. h5) (4. Bg2 $2 f4 5. h5) (4. Be2 $4 dxe2+ 5. Kxe2 Kf4) (4. Bd5 $2 f4 5. h5) (4. Bh5 $2 f4 5. Bg6) (4. Bc6 $2 f4 5. h5) (4. Bh1 $2 f4 5. h5) (4. Ba8 $2 f4 5. h5) Ke6 5. Bd5+ (5. h6 $2 Kf7 6. h7 $10) (5. Kd2 $2 Kf7 6. h6) (5. Bc6 $2 f4 6. h6) (5. Bg2 $2 f4 6. h6) (5. Ke1 f4 6. h6) Ke7 6. h6 (6. Kd2 Kd6 7. h6 Kxd5 8. h7) (6. Bg8 Kf8 7. Bh7) (6. Be6 Kxe6 7. Kd2) Kf8 7. Kd2 $18 (7. h7 $2 Kg7 8. h8=Q+ $10) (7. Be6 f4 8. Kd2 $18) (7. Bc6 $2 Kg8 8. h7+) (7. Bc4 f4 8. Kd2) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Duras, Oldřich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/p7/8/1Pp2p2/2R1P1k1/8/1p6/1b1K4 w - - 0 1"]
+
+1. exf5+ (1. e5+ Be4 2. Rxe4+ fxe4) (1. Ra4 Bd3 2. e5+ f4) (1. Rc1 Bxe4 2. Kd2 bxc1=Q+ 3. Kxc1 f4) (1. Rc2 Bxc2+ 2. Kxc2 f4 3. Kxb2 f3) (1. Rb4 cxb4 $19) (1. Rc3 Ba2) (1. Rd4 cxd4) Be4 2. Rxe4+ (2. f6 $2 b1=Q+ 3. Kd2 Qd3+) (2. Rc1 $2 Bxf5 3. Rc4+ Kg5) (2. Rxc5 $2 b1=Q+ 3. Kd2 Qd3+) (2. b6 $2 b1=Q+ 3. Rc1 Qd3+) (2. Rc2 $2 b1=Q+ 3. Rc1 Qd3+) (2. Ra4 b1=Q+ 3. Ke2 Qc2+ 4. Kf1 Qxa4) (2. Ke2 b1=Q 3. Rxe4+ Qxe4+ 4. Kd2 Qd4+) Kxf5 3. Rb4 (3. Kc2 $2 Kxe4 4. Kxb2 Kd3) (3. Re2 $2 b1=Q+ 4. Kd2 c4 5. Re5+ Kxe5) cxb4 4. Kc2 (4. b6 $2 b1=Q+ 5. Ke2 axb6) Ke4 5. Kxb2 (5. b6 $2 axb6 6. Kxb2 Kd4 $19) (5. Kb1 $2 Kd4 6. Kxb2 Kc4) (5. Kd2 $2 b1=Q 6. b6 Qb2+) (5. Kb3 $2 b1=Q+ 6. Kc4 Qc1+) (5. Kd1 $2 b1=Q+ 6. Kd2 Qb2+) Kd4 6. Kb3 (6. Kb1 Kc3) Kc5 7. Ka4 Kc4 8. b6 (8. Ka5 $2 b3 $19) axb6 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Duras, Oldřich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/4p3/4p3/8/1RK5/k5b1/p4P2/8 w - - 0 1"]
+
+1. Rb3+ (1. Ra4+ $2 Kxa4 2. fxg3 a1=Q $19) (1. Rb1 $2 axb1=Q 2. fxg3 Qd1) (1. Rb7 $2 Be5 2. Rb3+ Ka4 $19) (1. Kb5 $2 Bd6 2. Ra4+ Kb3) (1. Rb6 $2 Bc7 2. Ra6+ Kb2) (1. Kd3 $2 Kxb4 2. fxg3 a1=Q $19) (1. f4 $2 a1=Q 2. Rb3+ Ka4) (1. Rb2 $2 Kxb2 2. fxg3 a1=Q) Ka4 2. Rb7 (2. Rb4+ $2 Ka5 3. fxg3 a1=Q $19) (2. Rb1 $2 axb1=Q 3. fxg3 Qb3+ $19) (2. Ra3+ $2 Kxa3 3. fxg3 a1=Q $19) (2. Rd3 $2 a1=Q 3. fxg3 Qe1 4. Rd4 e5) (2. Kd3 Kxb3 3. fxg3 a1=Q) (2. Rf3 Bc7) Bxf2 3. Rb4+ (3. Rb8 $2 Be1 4. Ra8+ Ba5 $19) (3. Rb5 $2 a1=Q 4. Rb4+ Ka3 $19) (3. Rxe7 $2 a1=Q $19 4. Rxe6 Qd4#) (3. Kd3 $2 a1=Q $19 4. Rb4+ Kxb4) (3. Rb2 $2 a1=Q 4. Rxf2 e5 5. Ra2+ Qxa2+ 6. Kc5 Qd2) (3. Rd7 $2 a1=Q $19 4. Rxe7 Qd4#) (3. Rb3 $2 a1=Q 4. Rb4+ Ka3 $19) (3. Kc3 $2 a1=Q+ 4. Kc2 Bc5 5. Rxe7 Bxe7) (3. Rc7 $2 a1=Q 4. Ra7+ Bxa7) Ka5 4. Rb3 (4. Rb5+ $2 Ka6 $19 5. Ra5+ Kxa5) (4. Rb8 $2 Ka6 $19 5. Rb6+ Bxb6) (4. Rb7 $2 a1=Q 5. Rb5+ Ka6 $19) (4. Rb2 $2 a1=Q 5. Rxf2 e5 $19 6. Ra2+ Qxa2+ 7. Kd3 e6) (4. Kb3 $2 a1=Q 5. Ra4+ Qxa4+ 6. Kc3 Qe4) (4. Kc3 $2 a1=Q+ 5. Rb2 Bd4+) Bc5 (a1=Q 5. Ra3+ $1 (5. Rb5+ $2 Ka6 $19 6. Ra5+ Kxa5) (5. Kd3 $2 Qd1+ 6. Kc3 Be3) (5. Rc3 Qa4+ 6. Kd3 Qd1+) (5. Rb8 Qc1+ 6. Kd3 Qd1+) Qxa3) 5. Rb8 (5. Rb1 $2 axb1=Q 6. Kxc5 Qd1) (5. Rb7 $2 Ka6 6. Rb6+ Bxb6) (5. Kc3 $2 a1=Q+ 6. Kc2 Qa4 7. Kb2 Bd4+) Ka6 6. Kxc5 (6. Ra8+ $2 Ba7 $19 7. Rxa7+ Kxa7) (6. Re8 $2 a1=Q 7. Ra8+ Ba7 $19) (6. Rb3 $2 Bd6 $19 7. Rb6+ Kxb6) (6. Kb3 $2 a1=Q 7. Ra8+ Ba7) (6. Rb5 $2 Bd6 7. Rb6+ Kxb6) (6. Rb2 $2 a1=Q 7. Kxc5 Qxb2) (6. Rc8 $2 Bb6 7. Ra8+ Ba7) (6. Rb1 axb1=Q 7. Kxc5 Qd3) Ka7 7. Rb4 (7. Rb2 $2 a1=Q $19 8. Rb7+ Kxb7) (7. Re8 $2 a1=Q 8. Rxe7+ Ka6 $19) (7. Rb3 $2 a1=Q $19 8. Ra3+ Qxa3+ 9. Kd4 Qf3) (7. Rb5 $2 a1=Q 8. Rb7+ Kxb7) (7. Rb6 $2 e5 8. Rb7+ Kxb7) (7. Rc8 $2 a1=Q 8. Rc7+ Kb8) (7. Rf8 $2 a1=Q 8. Ra8+ Kxa8) (7. Rg8 $2 a1=Q 8. Ra8+ Kxa8) (7. Rd8 $2 a1=Q 8. Ra8+ Kxa8) (7. Rh8 $2 a1=Q 8. Ra8+ Kxa8) a1=Q 8. Ra4+ (8. Kb5 $2 Qe1 9. Ra4+ Kb7 10. Ra7+ Kxa7) (8. Kc6 $2 Qh1+ 9. Kd7 Qd5+) Qxa4 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Duras, Oldřich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "k6r/P1b2P2/K1R5/8/8/8/8/8 w - - 0 1"]
+
+1. Rg6 (1. Re6 $2 Bd8 2. f8=Q $10) (1. Rxc7 $2 Rh6+ 2. Ka5 $10) (1. f8=Q+ $2 Rxf8 2. Re6 $10) (1. Rc3 Bd6 2. f8=Q+) (1. Rd6 Bxd6 2. f8=Q+ Rxf8) Rf8 2. Re6 (2. Rg8 $2 Bd6 3. Rxf8+ Bxf8 4. Kb6 $10) (2. Rg7 $2 Bd6 3. Rh7 $10) (2. Rc6 $2 Be5 3. Rb6 $10) (2. Rh6 $2 Rd8 3. f8=Q) (2. Rf6 $2 Bd8 3. Re6) (2. Rb6 $4 Bxb6 3. Kxb6 Rxf7 $19) (2. Kb5 $2 Bd6 3. Rf6) (2. Rg1 Be5 3. Rf1) (2. Rg5 Bd6 3. Rf5) Ba5 3. Re7 (3. Re8+ $2 Bd8 4. Rxf8) (3. Re5 Bc7 4. Re7 $18) (3. Kxa5 $2 Rxf7 4. Rd6 $10) (3. Rf6 $2 Bc3 4. Re6 $10) (3. Rc6 $2 Be1 4. Rb6) Bd8 4. Re8 (4. Rb7 Rxf7 5. Rb8# (5. Rxf7 Be7 6. Rg7)) (4. Rd7 $2 Bf6 5. Rc7 $10) (4. Re6 $2 Rh8 5. f8=Q $10) Rh8 5. Rg8 Rxg8 6. fxg8=B (6. fxg8=R $4) (6. fxg8=N $4 Be7 7. Nh6 $10) (6. fxg8=Q $4) Bb6 7. Bd5# (7. Kb5 Bc5 8. Bh7) (7. Bf7 Bxa7 8. Bg6) (7. Kxb6) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Duras, Oldřich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "k7/2Kp2R1/5P2/8/2b4n/2p5/4p3/n7 w - - 0 1"]
+
+1. f7 (1. Rg6 Nxg6) (1. Rg2 Nxg2 2. Kxd7 e1=Q) (1. Kxd7 e1=Q 2. Re7 Qd2+) Bxf7 2. Rg4 (2. Rxf7 $4 e1=Q 3. Kxd7 c2 $19) (2. Rg1 $4 Nb3 3. Kxd7 Nf3) (2. Kxd7 $4 e1=Q 3. Rxf7 c2 $19) (2. Rh7 $4 c2 3. Rh8+ Ka7 $19) (2. Rg5 $4 d5 $19) (2. Rg6 $4 Nxg6 3. Kxd7 Kb7) (2. Rg8+ $4 Bxg8 3. Kxd7 e1=Q) (2. Kc8 e1=Q 3. Kxd7 Qe8+) (2. Rg3 e1=Q) Bb3 3. Rg1 (3. Rg5 Bd5 4. Rg4 Bb3 $18) (3. Rd4 e1=Q 4. Rxd7 c2) Nc2 4. Rg5 (4. Rg2 Nxg2) (4. Rf1 exf1=Q) (4. Kd6 e1=Q 5. Rxe1 Nxe1 6. Kxd7 Nf5) d5 5. Kb6 (5. Rg1 e1=Q 6. Rxe1 Nxe1) (5. Rg2 Nxg2) d4 6. Kc7 $18 (6. Rh5 Ng6 7. Kc7 $18) (6. Rg1 e1=Q 7. Rxe1 Nxe1) (6. Rd5 Bxd5) (6. Rg6 Nxg6) 1-0
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[Composer "Duras, Oldřich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/6p1/7k/8/1K6/8/1P6/8 w - - 0 1"]
+
+1. Kc5 (1. Kc4 $2 Kg6 2. b3 $10) (1. Kc3 $2 Kg5 2. b3) (1. b3 $2 g5 2. Kc4) (1. Kb5 $2 g5 2. Kc5) (1. Ka5 $2 g5 2. b4) (1. Ka3 $4 g5) (1. Ka4 $4 g5) (1. Kb3 $2 g6 2. Kc3) g5 (Kg6 2. b4 (2. Kd6 $2 Kf7 3. b3 $10) (2. Kc6 $2 Kf6 3. b3 $10) (2. Kd5 $2 Kf6 3. b3) (2. Kd4 Kf6 3. b3) (2. b3 Kf6 3. Kd5) (2. Kb6 Kf6 3. b4) Kf7 3. b5 (3. Kc6 $2 g5 4. b5 $10) (3. Kd6 $2 g5 4. b5 $10) (3. Kb6 g6 4. b5) (3. Kd5 g5 4. b5) Ke7 4. Kc6 (4. Kb6 $2 g5 5. Ka6) (4. b6 $2 Kd8 5. b7) (4. Kd5 $2 Kd8 5. b6) (4. Kc4 Kd8 5. Kd3) (4. Kb4 Kd7 5. Kc5) Kd8 5. Kb7 (5. Kb6 Ke8 $18 6. Ka7) (5. b6 $2 Kc8 6. b7+) (5. Kd6 $2 g6 6. b6) g5 6. b6 g4 7. Ka8 g3 8. b7 g2 9. b8=Q+ $18) 2. b4 (2. Kd4 $2 Kg6 3. b3 $10) (2. Kd5 $2 g4 3. Kd4) (2. b3 g4 3. Kd4) g4 3. Kd4 (3. b5 $4 g3 $19) (3. Kd5 $4 g3 $19) (3. Kc6 $4 g3 $19) (3. Kd6 $4 g3 $19) (3. Kb5 $4 g3 $19) (3. Kc4 $4 g3 $19) (3. Kb6 $4 g3) Kg5 4. b5 (4. Ke3 $2 Kf5 5. b5 $10) (4. Ke4 $2 g3 5. Kf3 $10) (4. Kd3 $2 g3 5. Ke2) (4. Ke5 g3) (4. Kd5 g3) g3 5. Ke3 (5. b6 $4 g2 $19) (5. Kc5 $4 g2) (5. Ke4 $4 g2) (5. Kd5 $4 g2) Kg4 6. b6 (6. Ke2 $2 Kh3 7. b6) (6. Ke4 g2) Kh3 7. b7 (7. Kf3 $2 g2 8. b7) (7. Ke2 g2 8. b7) g2 8. Kf2 (8. Kf3 $4 g1=Q 9. b8=Q) (8. Ke2 $4 g1=Q 9. b8=Q) (8. Kd3 $4 g1=Q 9. b8=Q) (8. Ke4 $4 g1=Q 9. b8=Q) (8. Kd2 $4 g1=Q 9. b8=Q) Kh2 9. b8=Q+ (9. Kf3 $4 g1=Q 10. b8=Q+) Kh1 10. Qh8# 1-0
+
+[Event "Sachové Listy#091"]
+[Source "Sachové Listy/1 also Deutsche Schachzeitung#0860 Deutsche Schachzeitung/3 1901."]
+[Date "1901.??.??"]
+[Round "?"]
+[Composer "Duras, Oldrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p6/1P6/3p1p1p/p2PpPpk/2p1P2P/2P1B1P1/6K1 w - - 0 1"]
+
+1. Kf2 $1 a3 (g3+ 2. Ke1 a3 3. Bf1 $1 a2 4. Ke2 a1=Q) (gxh3 2. g3#) 2. Bf1 $1 g3+ (gxh3 3. g3+ Kg4 4. Be2#) (a2 3. g3#) 3. Ke1 $1 a2 4. Ke2 a1=Q (a1=R) (a1=N {<main>} 5. Kd1 Nxc2 6. Kxc2) (a1=B 5. Kd1 Bb2 6. Ba6 $1) 1/2-1/2
+
+[Event "Bohemia#173"]
+[Source "also Düna Zeitung#165 Düna Zeitung=75 31-3-1907."]
+[Date "1907.03.31"]
+[Round "?"]
+[Composer "Duras, Oldrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k1K4/pp6/Pp6/q1BR4/P7/P7/8/8 w - - 0 1"]
+
+1. Bd6+ $1 Ka8 2. Rxa5 bxa5 3. Kc8 $1 bxa6 (b5 4. axb5 a4 5. b6 axb6 6. Bb8 b5 7. Kc7 b4 8. axb4) 4. Bb4 axb4 5. axb4 a5 6. b5 a6 7. Kc7 axb5 8. axb5 1-0
+
+[Event "Sport a Hry#58"]
+[Date "1909.09.24"]
+[Round "?"]
+[Composer "Duras, Oldrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "R4r2/8/8/4p3/8/6pk/R2B3p/7K w - - 0 1"]
+
+1. Bf4 $1 Rxa8 2. Rxh2+ gxh2 3. Bxe5 Ra2 4. Bb2 Ra5 5. Be5 Ra2 6. Bb2 Kg3 7. Be5+ Kh3 8. Bb2 Rxb2 1/2-1/2
+
+[Event "Casopis Ceskoslovensky Sach#089"]
+[Source "Casopis Ceskoslovensky Sach/2"]
+[Date "1912.??.??"]
+[Round "?"]
+[Composer "Duras, Oldrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6R1/1kp3P1/1p6/p6p/r5rP/4PK2/2P3R1/8 w - - 0 1"]
+
+1. e4 $1 Raxe4 2. Rb8+ Kxb8 3. g8=Q+ Rxg8 4. Rxg8+ Kb7 5. Kxe4 1-0
+
+[Event "Wiener Schachzeitung#001"]
+[Source "Wiener Schachzeitung/3"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Duras, Oldrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/p7/p5B1/3b4/p7/1p2k3/1K6 w - - 0 1"]
+
+1. Be7 $1 a2+ 2. Kxa2 Kd2 $1 (Kd3 3. Ba3 Kc2 4. Bxb2 Bxb2) (Kd1 3. Kb1) 3. Ba3 (3. Kb1 $2 Kc3 4. Ba3 Kb3 5. Bxb2 Bf2 6. Bc1 a4 7. Bb2 a3 8. Bf6 a2+ 9. Ka1 Be3 10. Be5 Bc1 11. Bd4 a5 12. Be5 a4 13. Bd4 a3 14. Be5 Bb2+ 15. Bxb2 axb2#) Kc1 4. Kb3 Kb1 5. Ka4 Bc3 6. Bxb2 Kxb2 1/2-1/2
+
+[Event "Wiener Schachzeitung#001 (v)"]
+[Source "Wiener Schachzeitung/3 (v): Duras=O Casopis Ceskoslovensky Sach#317 Casopis Ceskoslovensky Sach=6 6/1923."]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Duras, Oldrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/p7/p3b1B1/8/p7/1p2k3/1K6 w - - 0 1"]
+
+1. Be7 $1 a2+ 2. Kxa2 Kd2 3. Ba3 Kc1 (Kc2 4. Bxb2 Bxb2) 4. Kb3 Kb1 5. Ka4 Bc3 6. Bxb2 Kxb2 1/2-1/2
+
+[Event "Cesky Svet (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - XV-29 2015."]
+[Date "1925.06.25"]
+[Round "?"]
+[Composer "Duras, Oldrich"]
+[White "Duras, O"]
+[Black " Prokes, L."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3pp3/pp1p4/5kPK/5p2/3P1P2/8 w - - 0 1"]
+
+1. g5 $1 Kf5 2. Kh5 a4 (b4 {<main>} 3. g6 b3 4. g7 b2 5. g8=Q b1=Q 6. Qg6+ Kf4 7. Qxb1) 3. g6 a3 (Kf6 4. Kh6) 4. g7 a2 5. g8=Q a1=Q 6. Qg6+ Kf4 7. Qg4+ Ke5 8. Qg7+ Kf4 9. Qxa1 1-0
+
+[Event "Ceské Slovo"]
+[Date "1926.01.01"]
+[Round "?"]
+[Composer "Duras, Oldrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3b4/pK1Rp3/1p5p/k2p4/8/PP6/6p1/8 w - - 0 1"]
+
+1. Kc6 $1 a6 (Ka6 {<main>} 2. b4 b5 (g1=Q 3. b5+ Ka5 4. Rxa7#) (Bc7 3. Rxd5 $1 b5 4. a4) 3. a4 $1 bxa4 4. Rxd5 g1=Q 5. Ra5+ Bxa5 6. b5#) (g1=Q 2. Rxa7#) (Bc7 {<main>} 2. Rxd5+ $1 (2. Rxc7 $2 a6) b5 (Ka6 3. b4 b5 4. Rxb5 g1=Q 5. Ra5+ Bxa5 6. b5#) 3. Rxb5+ Ka6 4. b4 g1=Q 5. Ra5+ Bxa5 6. b5#) 2. Rxd5+ b5 3. Rd4 $1 g1=Q 4. Ra4+ bxa4 5. b4# 1-0
+
+[Event "Shakhmatny Listok#159 (c)"]
+[Source "(c): Schmidt=Pe Wege zu Schachstudien#143 2006."]
+[Date "1926.06.10"]
+[Round "?"]
+[Composer "Duras, Oldrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k4/1R6/5pb1/K7/3P4/4p3/8/8 w - - 0 1"]
+
+1. Rb3 $1 (1. Rb2 $2 f5) (1. Rb6 $2 e2 2. Re6 Bh5 $1 3. Kb4 Bg4 $1) e2 2. Re3 Bh5 3. Kb4 f5 4. Kc3 f4 5. Kd2 $1 fxe3+ (f3 6. Ke1) 6. Ke1 Kd7 {<eg>} 7. d5 Kd6 1/2-1/2
+
+[Event "Ceské Slovo"]
+[Date "1928.01.01"]
+[Round "?"]
+[Composer "Duras, Oldrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2k2q2/2PpR2p/2P4P/6p1/8/6p1/4B1K1 w - - 0 1"]
+
+1. Re7+ $1 Qxe7 2. cxd6+ Qxd6 3. Bg3 Kxc6 (Qxg3) 4. Bxd6 Kxd6 5. Kxg2 Ke5 6. Kg3 Kf5 7. Kh4 Kf4 1/2-1/2
+
+[Event "Národní Listy#021 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - XIV-53 2014."]
+[Date "1928.10.28"]
+[Round "?"]
+[Composer "Duras, Oldrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6Rn/5kpK/1R6/8/4Nq2/5p2/8/1b6 w - - 0 1"]
+
+1. Rxg7+ $1 (1. Rb7+ $2 Ke6 2. Re8+ Kf5 3. Rxb1 (3. Rb5+ Kg4 4. Rxb1 Qh6+ 5. Kg8 g5 6. Rg1+ Kf4 7. Rxg5 Ng6 8. Rd5 Qh8+ 9. Kf7 Qh7+ 10. Kf6 Nh8) Qh6+ 4. Kg8 g5 5. Rb5+ Kf4 6. Rxg5 Ng6 7. Rc5 Qh8+ 8. Kf7 Qh7+ 9. Kf6 Nh4 10. Nd2 Qg6+ 11. Ke7 Qg7+ 12. Ke6 f2 13. Rc4+ Kg3) Kf8 2. Rb8+ (2. Kxh8 $2 Qh2+ 3. Rh7 Qe5+ 4. Rf6+ Qxf6+ 5. Nxf6 Bxh7 6. Ng4 Bf5 7. Nf2 Kf7 8. Nh1 Bc2 9. Nf2 Kf6 10. Nh1 Kg5 11. Kg7 Kh4 12. Kf6 Kh3 13. Kg5 Kg2 14. Kg4 Ba4 15. Kf4 Bd1 16. Ng3 f2) Qxb8 3. Rg8+ Ke7 4. Rxb8 Bxe4+ 5. Kxh8 f2 6. Rf8 Kxf8 1/2-1/2
+
+[Event "Jas#22"]
+[Date "1928.11.29"]
+[Round "?"]
+[Composer "Duras, Oldrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/5q2/7p/4p2R/5k1K/4b2R w - - 0 1"]
+
+1. Rf1+ $1 Kxf1 2. Rf3+ Bf2 $1 (Qxf3) 3. Rxf5 e2 4. Re5 Bg3+ 5. Kh1 $1 Bxe5 1/2-1/2
+
+[Event "1.p Ceskoslovensky Sach#002 (tw)"]
+[Source "Ceskoslovensky Sach/1"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Duras, Oldrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p6/1P6/1Pp5/K1Pp4/3P4/kq6/3Q4 w - - 0 1"]
+
+1. Qd2 $1 Kb1 (Ka1 {<main>} 2. Qd1+ Qb1 3. Ka3 Qxd1) (Qxd2) 2. Qd1+ Qc1 3. Ka5 $1 Kb2 (Qxd1 {<main>}) 4. Qb3+ Ka1 (Kxb3) 5. Qa4+ Kb1 6. Qd1 Qxd1 1/2-1/2
+
+[Event "1.p Ceskoslovensky Sach#001 (tw)"]
+[Source "Ceskoslovensky Sach/1"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Duras, Oldrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6p1/1p6/1Pp5/K1P3p1/p5P1/1p2Q3/k4q2 w - - 0 1"]
+
+1. Qd3 $1 (1. Qxf1+ $2 b1=Q 2. Qxb1+ Kxb1 3. Kxa3 Kc2) Qd1+ $1 (a2 {<main>} 2. Qc3 $1 Qd1+ 3. Ka3 Qf3 (Qc1 4. Ka4 $1 Qc2+ 5. Qxc2 b1=Q 6. Qb2+ Kxb2) 4. Ka4 Qa8+ 5. Kb3 Qg2 6. Ka4) (Qxd3 { <main>}) (Qf3 2. Qb1+ Kxb1) 2. Qxd1+ b1=Q 3. Kxa3 g5 $1 (g6 4. Qd2 $1) (Qxd1) 4. Qd2 $1 Qd3+ 5. Qxd3 1/2-1/2
+
+[Event "Ceskoslovensky Sach#3076 (c)"]
+[Source "Ceskoslovensky Sach/8-9 (c): Garcia=M Estudios Artisticos de Ajedrez - XIV-53 2014."]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Duras, Oldrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2k1P3/Kp4p1/3R1pPp/3P2p1/8/5p2/8 w - - 0 1"]
+
+1. e8=N+ $1 Kc8 2. Nd6+ Kd7 $1 (Kb8 3. Nb5 Kc8 4. Kxb6 f1=Q 5. Na7+ Kb8 6. Rd8#) 3. Ne4+ $1 (3. Nxf5+ $2 Kc6 4. Ne7+ Kc7 5. Rf5 gxf5 6. Nd5+ Kd6 7. Ne3 f4 8. Nf1 g3) Kc6 4. Rxf5 gxf5 5. Nxf2 f4 6. Nd3 1-0

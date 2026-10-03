@@ -1,0 +1,12 @@
+[Event "Mishmar"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Solarczyk, A"]
+[White "Solarczyk, A"]
+[Black " Cmiel, P."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6b1/3p4/5P1P/b7/8/1p6/1P6/1K5k w - - 0 1"]
+
+1. Ka1 $1 (1. f7 $2 Bxf7 2. h7 Bc3 (Bg6+ $2 3. Ka1 $1 Bc3 4. h8=Q+ Bxh8) 3. bxc3 Bg6+) Bb4 (Bd8 {<main>} 2. h7 (2. f7 $2 Bxf7 3. h7 Bf6) Bxh7 3. f7 Be7 4. f8=Q Bxf8) 2. f7 (2. h7 $2 Bxh7 3. f7 Bb1) Bh7 3. f8=Q Bxf8 1/2-1/2

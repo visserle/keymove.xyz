@@ -1,0 +1,82 @@
+[Event "Tidskrift for Schack#008"]
+[Source "Tidskrift for Schack/5-6"]
+[Date "1916.??.??"]
+[Round "?"]
+[Composer "Brodd, Gustaf Edvard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/3P4/3p2pp/3P4/k4K1P/7P/8 w - - 0 1"]
+
+1. h4 $1 gxh4 (g4+ 2. Kf4 Kb4 3. Kg5 Kc4 4. Kf6 Kxd4 5. Ke7) 2. h3 $1 (2. Kf4 $2 h3 $1) Kb4 3. Kf4 Kb5 (Kc4 {<main>} 4. Ke5 Kb5 5. Kxd5 Kb6 6. Ke5 Kb5 7. Kf6 $1 (7. Ke4 $2 Kb6 (Kc6 8. Ke5) 8. Kf5 Kb5) Kc4 8. Ke7 Kxd4 9. Kxd7) (Kc3 {<main>} 4. Ke5 Kc4 5. Kf6 Kxd4 6. Ke7 Kc3 7. Kxd7 d4 8. Ke6 d3 9. d7 d2 10. d8=Q Kc2 11. Qc7+ Kb1 12. Qb6+ Kc2 13. Qc5+ Kb1 14. Qxh5) 4. Kf5 (4. Kg5 {<or>} Kb6 5. Kf6) Kb6 5. Kf6 Kb7 6. Kf7 Kb8 7. Ke7 Kc8 8. Ke8 1-0
+
+[Event "Tidskrift for Schack#009"]
+[Source "Tidskrift for Schack/5-6"]
+[Date "1916.??.??"]
+[Round "?"]
+[Composer "Brodd, Gustaf Edvard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/8/8/3p4/8/N2P4/8/3k4 w - - 0 1"]
+
+1. Nc4 $1 (1. Kg7 $2 Kd2 2. d4 Kd3 3. Nb5 Kc4 4. Kf6 Kxb5 5. Ke6 Kc6 6. Ke5 Kc7 $1 7. Kxd5 Kd7) Kc2 (Ke2 {<main>} 2. Ne5 $1 Ke3 3. Kg7 Kd4 4. Kf6 Kc5 5. Ke6 Kd4 6. Kd6) (d4 2. Kg7 Kc2 3. Ne5 Kc3 4. Kf6 Kb4 5. Ke6 Kc5) 2. Ne5 $1 Kc3 3. Kg7 Kd4 4. Kf6 Kc5 5. Ke6 Kd4 6. Kd6 1-0
+
+[Event "Tidskrift for Schack#033 (c)"]
+[Source "Tidskrift for Schack/1 (c): Holm=E Tidskrift for Schack/4 1917."]
+[Date "1917.??.??"]
+[Round "?"]
+[Composer "Brodd, Gustaf Edvard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p2K4/pP6/R7/8/8/8/1r1k4 w - - 0 1"]
+
+1. Ra1 $1 Rxa1 2. bxa7 1-0
+
+[Event "Tidskrift for Schack#040"]
+[Source "Tidskrift for Schack/4-5"]
+[Date "1917.??.??"]
+[Round "?"]
+[Composer "Brodd, Gustaf Edvard"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/3Pk2P/3N4/4p3/7p/5p2/6p1/8 w - - 0 1"]
+
+1. Nf7 $1 Kxd7 2. Nxe5+ Ke7 3. Nxf3 h3 (Kf7 4. Ng1) 4. Kg8 h2 5. h8=Q g1=Q+ (h1=Q 6. Qe5+) 6. Nxg1 hxg1=Q+ 7. Qg7+ 1/2-1/2
+
+[Event "Dagen"]
+[Date "1918.??.??"]
+[Round "?"]
+[Composer "Brodd, Gustaf Edvard"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/8/1R6/8/8/8/3b2Pp/5K2 w - - 0 1"]
+
+1. Rb8+ $1 Kg7 2. Rb7+ Kg6 3. Rb6+ Kg5 4. Rb5+ Kg4 5. Rh5 $1 Kxh5 6. g4+ Kxg4 7. Kg2 1/2-1/2
+
+[Event "Tidskrift for Schack#125"]
+[Source "Tidskrift for Schack/8"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Brodd, Gustaf Edvard"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4B3/8/5r1P/5p2/5P2/1k3p2/5P1K/7b w - - 0 1"]
+
+1. Bg6 $1 Rxg6 2. h7 Rh6+ 3. Kg3 Rxh7 1/2-1/2

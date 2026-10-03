@@ -1,0 +1,83 @@
+[Event "The Chess Amateur#0706"]
+[Source "The Chess Amateur/11"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Becker, Karl Otto"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3q4/1K1p4/3N4/p2N3k/8/4P2P/P7/8 w - - 0 1"]
+
+1. Nf7 $1 Qh4 (Qf8 2. Nf4+ Kh4 3. Ng6+) (Qe8 2. Nf6+) (Qg8 2. Nf6+) 2. Nf4+ Qxf4 3. exf4 1-0
+
+[Event "4/5.hm The Chess Amateur#0655"]
+[Source "The Chess Amateur/4"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Becker, Karl Otto"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p1p3/8/k4p2/5Bpq/3K4/1PP1R3/8 w - - 0 1"]
+
+1. Rh2 $1 Qf6 2. Rh6 Qxh6 (Qxb2 3. Bxc7+ Ka4 4. Ra6+ Kb4 5. Rb6+ Ka3 6. Rxb2 Kxb2 7. Be5+) (Qf7 3. Bxc7+ Ka4 4. Ra6+ Kb4 5. Rb6+ Ka4 (Kc5 6. b4+ Kd5 7. c4#) 6. Kc3) 3. Bxh6 e5 4. Bg7 e4+ 5. Ke2 g3 6. Be5 g2 7. Bxc7+ 1-0
+
+[Event "The Chess Amateur#0920 (cr)"]
+[Source "The Chess Amateur/8"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Becker, Karl Otto"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/rpkb1K1p/p1p3p1/PPPp1pP1/3P1P2/8/8/8 w - - 0 1"]
+
+1. b6+ $1 Kb8 2. Ke7 Bc8 3. Kd6 Ra8 4. Ke7 Be6 5. Kxe6 Kc8 6. Ke7 Rb8 7. Ke8 1/2-1/2
+
+[Event "The Chess Amateur#0917 (c)"]
+[Source "The Chess Amateur/8 (c): Becker=K The Chess Amateur/8 1923."]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Becker, Karl Otto"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/4R3/7p/8/7K/5p2/5p2/8 w - - 0 1"]
+
+1. Re3 $1 f1=Q 2. Rxf3+ Qxf3 1/2-1/2
+
+[Event "The Chess Amateur#1018"]
+[Source "The Chess Amateur/3"]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "Becker, Karl Otto"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/b1k5/8/3R3K/N3p2P/3n4 w - - 0 1"]
+
+1. Re3 $1 Nxe3 2. Nc1 e1=Q (e1=N {<main>} 3. Nb3+ Kb5 4. Nxa5 Kxa5 5. Kg3 (5. Kh4 {<or>})) 3. Nd3+ Kd4 4. Nxe1 Bxe1 1/2-1/2
+
+[Event "The Chess Amateur#1321"]
+[Source "The Chess Amateur/6"]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Becker, Karl Otto"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/Pp6/1Pp1k3/2Pp4/3Pp3/4Pp2/N4K2 w - - 0 1"]
+
+1. Nb3 $1 (1. Nc2 $2 Kd6) Kd6 2. Na5 bxa5 (Kc7 3. Nc6) 3. b6 Kc6 (axb6 4. a7) 4. bxa7 1-0

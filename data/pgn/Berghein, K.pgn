@@ -1,0 +1,13 @@
+[Event "2/3.p Ceskoslovensky Sach#025"]
+[Source "Ceskoslovensky Sach/4"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Berghein, K"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4p3/8/k6n/3PK3/8/8 w - - 0 1"]
+
+1. Kd4 $1 Ng6 (Nf3+ 2. Ke4 $1 Ng5+ 3. Ke5 Kb4 4. Kf6 Kc3 5. Kxg5 Kxd3 6. Kf6) 2. Kc5 Kb3 3. Kd6 $1 e5 (Nf8 4. d4 $1 Kc4 5. Ke5) (Nf4 4. Ke5 $1 Kc3 5. Kxf4 Kd4 6. Kg5 Kxd3 7. Kf6) 4. Kd5 Kc3 5. Ke4 $1 1/2-1/2

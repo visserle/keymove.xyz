@@ -1,0 +1,13 @@
+[Event "Shakhmaty Vestnik#5"]
+[Source "Shakhmaty Vestnik/1"]
+[Date "1914.??.??"]
+[Round "?"]
+[Composer "Diakonov, A"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p6/1Pp4p/p1p5/8/2P5/P6k/3K4 w - - 0 1"]
+
+1. c4 $1 Kg2 2. Kc2 h5 (a4 3. Kb2 a3+ 4. Kxa3) (Kf3 3. Kb3 Ke4 4. Ka4 Kd4 5. Kxa5 Kxc4 6. a4 h5) 3. Kb3 h4 4. Ka4 h3 5. Kxa5 h2 6. a4 $1 h1=Q 1/2-1/2

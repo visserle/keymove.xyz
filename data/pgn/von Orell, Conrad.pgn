@@ -1,0 +1,12 @@
+[Event "Schachbüchlein#5"]
+[Date "1840.??.??"]
+[Round "?"]
+[Composer "von Orell, Conrad"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1r4b1/kn4q1/p7/8/3p3p/R5pP/pP4P1/K5Q1 w - - 0 1"]
+
+1. Qxd4+ $1 Qxd4 2. Rxa6+ Kxa6 1/2-1/2

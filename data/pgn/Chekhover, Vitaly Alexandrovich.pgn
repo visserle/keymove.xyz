@@ -1,0 +1,453 @@
+[Event "?"]
+[Site "?"]
+[Date "1945.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/5KR1/8/8/5P2/3pp3/2k5/8 w - - 0 1"]
+
+1. Kf8 (1. Ke6 $2 e2 2. Rc7+ Kd2 $19) (1. Kf6 $2 d2 2. Rc7+ Kd1) d2 (e2 2. Re7 $1 (2. Rc7+ $2 Kd1 $19 3. Rc1+ Kxc1) (2. Rg2 $2 Kb3 $19 3. Rxe2 dxe2) (2. f5 $2 e1=Q 3. Rc7+ Kd2 $19) (2. Rg1 $2 d2 $19 3. Rc1+ dxc1=Q) (2. Kg8 $2 e1=Q 3. Rc7+ Kd2) (2. Rd7 $2 e1=Q 3. Rc7+ Kd2) (2. Rb7 $2 d2 3. Rc7+ Kb3) Kc3 3. f5 (3. Rxe2 dxe2 4. f5 e1=Q 5. f6 $10) d2 4. Rxe2 d1=Q 5. f6 Qxe2 6. f7 $10) 2. Rd7 (2. Re7 $2 d1=Q 3. Rxe3 Qc1 $19) (2. Rg2 $2 Kd3 $19 3. Rxd2+ exd2) (2. Rc7+ $2 Kd3 3. Rd7+ Ke4 $19) (2. f5 $2 d1=Q 3. Rc7+ Kb3 $19) (2. Rg1 $2 e2 3. Rc1+ dxc1=Q) (2. Rf7 $2 e2 3. Rc7+ Kb3 $19) (2. Kg8 $2 e2 3. Rc7+ Kb2) (2. Rb7 $2 e2 3. Rc7+ Kb3) e2 3. Rxd2+ $3 (3. f5 $2 d1=Q 4. Rxd1 exd1=Q) (3. Rc7+ $2 Kd1 $19 4. Rc1+ dxc1=Q) (3. Rd8 $2 d1=Q 4. Rc8+ Kd3 $19) (3. Re7 $2 d1=Q $19 4. Rxe2+ Qxe2) (3. Rb7 $2 e1=Q 4. Rc7+ Kd3) (3. Rh7 e1=Q 4. Rc7+ Kd3) (3. Ra7 e1=Q 4. Rc7+ Kd3) (3. Rd6 d1=Q 4. Rc6+ Kb3) (3. Rd4 d1=Q 4. Rc4+ Kd3) (3. Rg7 d1=Q 4. Rc7+ Kd3) Kxd2 4. f5 e1=Q 5. f6 $10 1/2-1/2
+
+[Event "3.hm Shakhmaty v SSSR#19 (v)"]
+[Source "Shakhmaty v SSSR/5 10.p USSR overall champ I 1946-1947."]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "K7/6p1/8/5p2/5N2/4p3/k7/8 w - - 0 1"]
+
+1. Nd5 $1 (1. Ne2 $2 g5 2. Nc1+ Kb2 $19) (1. Nd3 $2 g5 2. Nc1+ Kb2 $19) (1. Kb7 $2 g5 $19) (1. Ng2 $2 e2 $19) (1. Ne6 $2 e2 $19 2. Nxg7 e1=Q) (1. Ka7 $2 g5 $19) (1. Ng6 $2 e2) (1. Kb8 $2 g5) (1. Nh5 $2 e2 2. Nxg7 e1=Q) (1. Nh3 $2 e2) e2 (g5 2. Nxe3 (2. Nc3+ $2 Kb3 $19) (2. Kb7 $2 f4 3. Nb4+ Kb3) (2. Ka7 f4 3. Nc3+ Kb2) (2. Nf6 e2) (2. Nb4+ Kb2 3. Nd3+ Kc3) (2. Kb8 f4 3. Nb4+ Kb2) (2. Ne7 e2) f4 3. Ng4 (3. Nf1 $2 g4 $19) (3. Ng2 $2 Kb2 $19 4. Nxf4 gxf4) (3. Nf5 $2 g4 $19) (3. Nd5 $2 f3) (3. Nd1 $2 g4 4. Nc3+ Kb2) (3. Nc4 g4) (3. Nc2 g4 4. Nb4+ Ka1) Kb3 4. Nh2 (4. Kb7 $2 Kc4 5. Kc6 $10 (5. Nh2 (5. Kc6 Kd4) Kd5)) (4. Ne5 $2 Kc2) (4. Nf2 $2 f3) (4. Nh6 $2 f3) (4. Ka7 Kc4) (4. Nf6 f3) (4. Kb8 Kc4) Kc2 (Kc4 (Kc2 5. Kb7 Kd1 6. Kc6 Ke2 7. Kd5 f3 8. Ke4) 5. Nf3) 5. Kb7 Kd1 6. Kc6 Ke2 7. Kd5 f3 8. Ke4 $10) (f4 2. Nxf4 (2. Nc3+ $2 Kb2 3. Na4+ Kc2) (2. Kb7 $2 g5 3. Nb4+ Kb3 $19) (2. Nb4+ Kb3) Kb3 3. Kb7 Kc4 4. Kc6 (4. Ng2 $10 Kb3 5. Ka8) (4. Ka7 $2 g5 $19) (4. Ne2 $2 g5 $19) (4. Ne6 $2 e2) (4. Kc7 g5) (4. Kb6 g5) Kd4 (g5 5. Ng2 e2 6. Kd6 Kd4 7. Ke6 Ke4 8. Kf6 Kf3 9. Ne1+ Kf2 10. Nd3+ Ke3 11. Ne1 g4 12. Kg5 g3 13. Kg4 Kf2 14. Nd3+ Kg2 15. Nf4+ Kf1 16. Nxe2) 5. Kd6 Ke4 6. Ng2 (6. Ne2 Kf5 7. Nd4+ $10) (6. Nd5 $2 g5 7. Nf6+ Kd4 $19) (6. Nh5 $2 g6 7. Nf6+ Kf3) (6. Nh3 $2 e2 7. Ng5+ Ke3) (6. Ne6 $2 e2 7. Ng5+ Ke3) (6. Ng6 e2) (6. Ke6 Kxf4) e2 7. Ke6 g5 8. Kf6 (8. Ne1 Kd4 9. Nf3+ $10) (8. Ke7 g4) (8. Kf7 g4) Kf3 9. Ne1+ (9. Kf7 Kxg2) (9. Kf5 Kxg2) Kf2 10. Nd3+ (10. Nc2 $2 g4) (10. Kf5 Kxe1) (10. Ke5 Kxe1) Ke3 11. Ne1 $1 (11. Kxg5 Kxd3) (11. Nc1 e1=Q) g4 12. Kg5 g3 13. Kg4 $10) (Kb3 2. Nxe3 f4 3. Nf5 g5 4. Nd4+ Kb2 (Kc4 5. Nf3) (Kc3 5. Ne6 f3 6. Nxg5) (Ka4 5. Kb7) 5. Nf3 g4 6. Ne5 g3 7. Nd3+) 2. Nc3+ (2. Ne3 $2 e1=Q 3. Nxf5 Qe4+) (2. Kb7 e1=Q) (2. Ne7 e1=Q 3. Nxf5 Qe4+) Kb3 3. Nxe2 (3. Kb7 Kxc3) (3. Nb1 e1=Q) Kc4 $1 4. Nf4 $1 (4. Ng3 $2 f4 $1 5. Nh5 g5 6. Kb7 Kd5 $19) (4. Kb7 $2 g5 $19 $1) (4. Ng1 $2 Kd3 $19) (4. Kb8 $2 g5 $19) (4. Ka7 $2 g5) (4. Nc1 $2 g5) g5 (Kc3 5. Ne6 g6 6. Nf4 g5 7. Ne6 g4 8. Ng7 g3 (f4 9. Nh5 f3 10. Nf6 f2 11. Ne4+) 9. Nh5 g2 10. Nf4 g1=Q 11. Ne2+) (Kd4 5. Ne6+) 5. Ne6 (5. Ng6 $2 Kd4 $19) (5. Nh5 $2 f4 6. Nxf4 gxf4 $19) (5. Ne2 $2 f4 6. Nxf4 gxf4 $19) (5. Nh3 $2 g4 $19) (5. Ng2 $2 f4 6. Nxf4 gxf4 $19) (5. Kb7 gxf4) g4 6. Ng7 $1 (6. Nf4 $2 Kd4 $19 7. Ne6+ Ke5) (6. Ng5 $2 f4 $19) (6. Kb7 $2 Kd3 7. Nf4+ Ke4 $19) (6. Kb8 Kd3 7. Nf4+ Ke4) (6. Ka7 Kd3 7. Nf4+ Ke4) (6. Nc7 g3) (6. Nf8 g3) (6. Nc5 Kxc5) (6. Nd8 Kd5) (6. Nd4 Kxd4) f4 (g3 7. Nxf5) 7. Nh5 $1 (7. Nf5 $2 g3 $19 8. Nd6+ Kb4) (7. Ne6 $2 f3 $19) (7. Kb7 $2 g3 $19) (7. Ne8 g3 8. Nd6+ Kd5) (7. Kb8 g3) f3 8. Nf6 (8. Ng3 $2 Kd4 9. Nf5+ Ke4 $19) (8. Nf4 $2 f2 $19) (8. Kb7 $2 f2 $19) (8. Ng7 $2 g3 $19) (8. Kb8 f2) (8. Ka7 f2) g3 (f2 9. Nxg4 (9. Ne4 Kd5 10. Nxf2 $10) (9. Kb7 f1=Q) (9. Nd7 g3 10. Ne5+ Kb5) f1=Q 10. Ne3+ $1 $10 (10. Ne5+ Kb5) (10. Nh2 Qf8+ 11. Ka7 Kb5)) 9. Ne4 (9. Ng4 $2 Kb5 $19) (9. Nh5 $2 g2 $19) (9. Nd7 $2 f2 10. Ne5+ Kc5) (9. Kb7 f2) g2 10. Nd2+ $10 (10. Ng3 $2 f2) (10. Ng5 $2 f2) (10. Kb7 f2 11. Nxf2 g1=Q) Kd3 11. Nxf3 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/8/6PP/5p2/2P5/5k2/4r3/5K2 w - - 0 1"]
+
+1. g7 (1. h7 $2 Rh2 2. Kg1 Rh6 3. g7 Rg6+ 4. Kf1 Ra6 $1 5. Ke1 Ke3 6. Kd1 Kd3 7. Kc1 Kc3 8. Kb1 Rb6+ 9. Kc1 Ra6 $10) (1. c5 $4 Rh2 2. Ke1 Rxh6) (1. Kg1 $4 Rg2+ 2. Kf1 Rxg6) Ra2 (Rh2 2. g8=Q $18) 2. Ke1 (2. Kg1 $2 Rg2+ 3. Kh1 Rg6 $10) Ke3 3. Kd1 (3. Kf1 Kf3 $18 4. Ke1) (3. c5 Ra1#) Kd3 4. Kc1 (4. Ke1 Ke3 $18 5. Kd1) Kc3 5. Kb1 (5. Kd1 Kd3 $18 6. Kc1) Rb2+ 6. Ka1 (6. Kc1 Ra2 $18 7. Kb1) Rb8 (Rg2 7. h7 (7. c5 $4 Kb3 8. g8=Q+ Rxg8) (7. Kb1 $2 Rg1+ 8. Ka2) Rg1+ 8. Ka2 Rg2+ 9. Ka3 (9. Kb1 $18 Rg1+ 10. Ka2) (9. Ka1 Rg1+ 10. Ka2 Rg2+ $18) Rg1 10. Ka4 (10. Ka2 Rg2+ $18 11. Ka3) (10. c5 Ra1#) Kxc4 11. g8=Q+ $18 (11. Ka5 Rxg7 12. h8=Q $18) (11. g8=B+ $18) (11. Ka3 $18 Rxg7 12. h8=Q)) 7. h7 (7. Ka2 $2 f4 8. h7) (7. c5 $4 Kc2 8. g8=Q Rxg8) Ra8+ 8. Kb1 Rb8+ 9. Kc1 (9. Ka2 $18 Ra8+ 10. Kb1) (9. Ka1 Ra8+ 10. Kb1 Rb8+ $18) Ra8 10. Kd1 (10. Kb1 Rb8+ $18 11. Kc1) Kd3 11. Ke1 (11. Kc1 Kc3 $18 12. Kd1) Ke3 12. Kf1 (12. Kd1 Kd3 $18 13. Ke1) Kf3 13. Kg1 (13. Ke1 Ke3 $18 14. Kf1) Ra1+ 14. Kh2 Ra2+ 15. Kh3 (15. Kh1 $18 Ra1+ 16. Kh2) (15. Kg1 Ra1+ $18 16. Kh2) Ra1 16. Kh4 (16. Kh2 Ra2+ $18 17. Kh3) Kf4 17. Kh5 $18 (17. Kh3 Kf3 $18 18. Kh4) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "1R6/4r3/P5P1/k2P4/8/8/p5K1/8 w - - 0 1"]
+
+1. a7 (1. d6 $2 Ra7 2. Rb7 Ra8 $19) (1. Rb7 $2 Re8 2. a7 Ra8 $19) (1. Rb3 $2 a1=Q 2. Rf3 Re2+) (1. g7 $2 a1=Q 2. Rb5+ Kxb5) (1. Rh8 $2 a1=Q 2. Rh1 Qd4) (1. Ra8 $2 a1=Q 2. Rf8 Qd4 $19) (1. Rf8 $2 a1=Q 2. Rf3 Re2+) Rxa7 2. d6 (2. g7 $2 Rxg7+ 3. Kf2 Ra7 $19 4. Rb5+ Kxb5) (2. Rb2 $2 a1=Q $19 3. Ra2+ Qxa2+ 4. Kg3 Rb7) a1=Q (Ka6 3. d7 (3. g7 $2 Rxg7+ 4. Kf2 a1=Q $19 5. Ra8+ Ra7) (3. Rb2 $2 a1=Q $19 4. Ra2+ Qxa2+ 5. Kg3 Rb7) (3. Rb6+ Kxb6) Rxd7 4. Ra8+ $1 $10 (4. g7 $2 Rxg7+ 5. Kf2 Rf7+) (4. Rg8 $2 a1=Q 5. Ra8+ Ra7) (4. Rb6+ Kxb6)) (Ka4 3. d7 (3. g7 $2 Rxg7+ 4. Kf3 Ra7) (3. Rb6 a1=Q) (3. Kf3 a1=Q) Rxd7 4. Ra8+ (4. g7 $2 Rxg7+ 5. Kh2 Ra7) (4. Kh3 Ra7) (4. Kf3 Ra7) Kb3 5. Rb8+ (5. Kf2 $10 Rd2+ 6. Kf3) (5. Kf3 Rd3+ 6. Kf2 $10) (5. Kg3 $2 Rg7 6. Rb8+ Kc4) (5. g7 $2 Rxg7+ 6. Kf3 Rb7) (5. Ra6 $2 Rg7) (5. Kh3 $2 Rd6 6. Rb8+ Ka3) (5. Rg8 $2 a1=Q 6. Rb8+ Kc3) (5. Rc8 a1=Q 6. Rb8+ Kc4) Kc2 6. Rc8+ (6. Ra8 Rd2+ 7. Kg3 $10) (6. Kf3 $2 a1=Q 7. Rc8+ Kd2) (6. Kf2 $2 a1=Q 7. Rc8+ Kd2) (6. g7 $2 Rxg7+ 7. Kf2 Rf7+) (6. Kg3 $2 a1=Q 7. Rc8+ Kd2) Kb2 7. Rb8+ $1 (7. Ra8 $2 a1=Q 8. Rxa1 Kxa1 $19) (7. g7 $2 Rxg7+ 8. Kf2 Rf7+) (7. Rc2+ Kxc2) Ka1 8. Rb6 $10) 3. d7 (3. g7 $2 Rxg7+ 4. Kf3 Qd1+) (3. Ra8 Rxa8) (3. Kg3 Qg1+ 4. Kf4 Qd4+) Qa2+ 4. Kg1 (4. Kg3 $2 Qa3+ 5. Kg2 Rxd7 6. Ra8+ Kb4 $19) (4. Kh3 $2 Qe6+ 5. Kg3 Qd6+ $19) (4. Kf3 $2 Qd5+ 5. Kg3 Rxd7 6. Rb5+ Kxb5) (4. Kf1 $2 Qc4+ 5. Ke1 Rxd7 6. Ra8+ Kb4) (4. Kh1 $2 Qd5+ 5. Kg1 Rxd7) (4. Rb2 $2 Qxb2+ 5. Kg3 Rxd7) Qa1+ 5. Kg2 $10 (5. Kf2 $2 Qf6+ 6. Ke2 Rxd7 7. Ra8+ Kb5) (5. Kh2 $2 Qe5+ 6. Kg2 Rxd7 7. Ra8+ Kb4) 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Draws by perpetual check or by repetition"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "N4B2/7K/8/6k1/p7/3p4/4n3/8 w - - 0 1"]
+
+1. Nb6 (1. Nc7 $2 Kf5 2. Bb4 a3 3. Bxa3 d2 4. Nd5 Ke4 $19) (1. Bh6+ $2 Kf5 $19) (1. Bb4 $2 a3 2. Bd2+ Kf5) (1. Be7+ $2 Kf4 2. Bd6+ Ke4) (1. Ba3 $2 d2) (1. Kg7 d2) (1. Bc5 a3 2. Be3+ Kf5) a3 (d2 2. Bh6+ Kf5 3. Bxd2 a3 4. Bh6 $10) 2. Bxa3 (2. Nc4 $2 a2 3. Bg7 Kf5 4. Kg8 Ke6 5. Nd2 Ng3 6. Ba1 Kd5 7. Kf7 Ne4 8. Nf1 d2 9. Ke7 Kc5 10. Nxd2 Nxd2 11. Ke6 Nb3 12. Bb2 Nc1 $19) (2. Be7+ $2 Kf4 $19 3. Bd6+ Ke4) (2. Bh6+ $2 Kf5 $19) (2. Nd5 $2 a2 3. Bh6+ Kg4) (2. Bg7 $2 d2 3. Bh6+ Kh5) (2. Na4 $2 a2 3. Bh6+ Kf5) (2. Bb4 $2 a2 3. Bd2+ Kf5) (2. Nd7 $2 a2 3. Bh6+ Kf5) d2 3. Nd5 (3. Be7+ $2 Kf4 4. Nd5+ Kf3 $19) (3. Nc4 $2 d1=Q 4. Be7+ Kh5 $19) (3. Bf8 $2 d1=Q 4. Be7+ Kf5) (3. Nd7 $2 d1=Q 4. Be7+ Kf5) (3. Na4 $2 d1=Q 4. Be7+ Kf5) (3. Bb4 $2 d1=Q 4. Be7+ Kf5) (3. Bb2 d1=Q) (3. Kg7 d1=Q 4. Be7+ Kf5) (3. Bc5 d1=Q 4. Be7+ Kf5) d1=Q 4. Be7+ (4. Ne3 $2 Qd7+ 5. Be7+ Qxe7+ 6. Kh8 Kg6 $19) (4. Nf6 $2 Kxf6 5. Bb2+ Nd4) (4. Bc5 $2 Qc2+ 5. Kg7 Qxc5) (4. Ne7 Nd4) (4. Bf8 Qd3+ 5. Kg7 Qg6+) (4. Nc3 Qd7+ 5. Be7+ Qxe7+ 6. Kh8 Kg6) Kh5 5. Nf6+ (5. Ne3 $2 Qg1 $19 6. Nf5 Qb1) (5. Ba3 Qxd5) (5. Bf6 Qxd5) Kh4 6. Ne4+ (6. Nd5+ $2 Kh3 $19 7. Nf4+ Nxf4) (6. Kh6 $2 Qb3 7. Ne8+ Kg4) Kh5 7. Nf6+ (7. Nf2 $2 Qd7) Kg5 8. Nd5+ $10 (8. Ne4+ $2 Kf5 9. Nd6+ Ke6 $19) (8. Ng8+ $2 Kf5 9. Nh6+ Ke6 $19) (8. Nd7+ $2 Kf5) (8. Kg7 $2 Kf5) (8. Ng4+ Kxg4) (8. Ne8+ Kf5 9. Ng7+ Ke5) 1/2-1/2
+
+[Event "Sovyetskaya Molodezi"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/8/8/1n5p/p4R1P/kp6/3K4/8 w - - 0 1"]
+
+1. Rc4 $1 (1. Kd3 $2 b2 2. Kc2 Nc3 $1 3. Rf1 b1=Q+ 4. Rxb1 Nxb1 5. Kxb1 Kb3 $19 6. Ka1 Kc3 7. Ka2 Kd3 8. Ka3 Ke3 9. Kxa4 Kf3 10. Kb3 Kg4 11. Kc2 Kxh4 12. Kd2 Kg3 13. Ke2 Kg2) (1. Rf5 $2 Kb2 $1 2. Rxb5 a3 $19) (1. Rf3 $2 Ka2 $19) (1. Kd1 $2 Nc3+ 2. Kd2 b2 $19) (1. Re4 $2 b2 2. Kc2 b1=Q+ 3. Kxb1 Nc3+) b2 (Nd6 2. Rf4 Nb7 3. Kc1 $10) 2. Kc2 (2. Rc3+ $2 Nxc3 3. Kxc3 b1=Q $19) (2. Rc1 $2 bxc1=Q+ 3. Kxc1 Kb3) (2. Rc5 b1=Q) Nc3 $1 (Ka2 3. Rxa4+ (3. Rb4 $2 Na3+ 4. Kd2 b1=Q $19) Na3+ 4. Rxa3+ $1 $10 (4. Kc3 $2 b1=Q $19 5. Rxa3+ Kxa3) (4. Kd2 b1=Q) (4. Kd3 b1=Q+ 5. Kc3 Qb3+) Kxa3 5. Kb1 Kb3) 3. Rxc3+ (3. Rb4 $2 Kxb4 4. Kxb2 a3+) (3. Kxc3 $2 b1=Q $19 4. Rxa4+ Kxa4) Ka2 4. Ra3+ $1 (4. Rb3 $2 axb3+ 5. Kd2 b1=Q) (4. Kd2 $2 b1=Q 5. Re3 Qb4+) (4. Re3 $2 b1=Q+ 5. Kd2 a3) (4. Rc5 $2 b1=Q+ 5. Kc3 a3) (4. Rd3 $2 b1=Q+ 5. Kd2 a3 6. Re3 Kb2) (4. Rc4 b1=Q+ 5. Kd2 a3) (4. Kd1 a3 5. Rc2 Kb3) (4. Rc8 b1=Q+ 5. Kd2 Qb4+) (4. Rh3 b1=Q+ 5. Kd2 Qe4) Kxa3 5. Kb1 (5. Kc3 b1=N+ 6. Kc2 Nd2) Kb4 (Kb3) 6. Kxb2 (6. Ka2 $2 a3 $19 7. Kb1 Kc3) (6. Kc2 $2 a3 $19) Kc4 7. Ka3 (7. Ka2 $2 Kd4 $19) (7. Ka1 $2 Kd4 $19) (7. Kc2 $2 Kd4 $19) (7. Kc1 Kd4) (7. Kb1 Kd4) Kd4 8. Kxa4 (8. Kb4 $2 Ke4 9. Kxa4 Kf4) (8. Ka2 $2 Ke4) (8. Kb2 $2 Ke4) Ke4 9. Kb3 Kf4 10. Kc2 Kg4 11. Kd2 Kxh4 12. Ke2 Kg3 13. Kf1 $10 $1 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/p3r3/Rp6/P7/2k5/5n2/2N5/7K w - - 0 1"]
+
+1. Kg2 (1. axb6 $2 Re2 2. Ra4+ Kc5 3. Ra5+ Kxb6 4. Rh5 Rxc2 5. Rb5+ Kc6 6. Rb6+ Kd5 7. Rd6+ Ke4 8. Re6+ Ne5 $19) (1. Na3+ $2 Kb4 $17 $19) (1. Ne3+ $2 Kb5 2. Rxa7 Rxa7 $19 3. axb6 Rg7) (1. Rxb6 $2 axb6 $19 2. Na3+ Kd4) (1. Nd4 $2 Kxd4 2. axb6 Re2 3. Ra4+ Ke3) (1. Nb4 $2 Rg7 2. axb6 Rg1#) (1. Rxa7 $2 Rxa7 2. Na3+ Kd3) (1. Na1 Rg7 2. axb6 Rg1#) (1. Ne1 Rh7+ 2. Kg2 Nxe1+ 3. Kg3 (3. Kf1 $5) Kb5) Kb5 2. Rxa7 (2. axb6 $2 Nh4+ 3. Kh3 (3. Kf2 $5) Kxa6 4. bxa7 Kxa7 5. Kxh4 Re2 6. Na3 Kb6 $19 7. Nc4+ Kc5) (2. Rxb6+ $2 axb6 3. Na3+ Kb4 $19 4. Nc2+ Kc3) (2. Nb4 $2 bxa5 3. Rxa5+ $2 (3. Kxf3 $5 axb4) Kxb4 $19 4. Ra4+ Kxa4 5. Kxf3 a5) (2. Kxf3 $2 Kxa6 3. Nb4+ Kb5 $19 4. axb6 Kxb4 5. bxa7 Rxa7) (2. Nd4+ $2 Nxd4 3. Rxa7 Rxa7 4. axb6 Kxb6) (2. Na3+ $2 Kxa6 3. Kxf3 Rc7 4. axb6 axb6) (2. Kf1 Nd2+ 3. Kg2 Kxa6 4. axb6 Re2+) (2. Na1 Kxa6 3. Kxf3 b5) (2. Kf2 Kxa6 3. Nb4+ Kb5) (2. Ne3 Kxa6 3. Nd5 Rg7+) Rxa7 3. axb6 (3. Kxf3 $2 bxa5 $19 4. Na3+ Kc5) (3. Nd4+ $2 Nxd4 4. axb6 Rg7+ $19) (3. Na3+ $2 Kc5 4. Kxf3 bxa5) (3. a6 $2 Ng5) (3. Nb4 Kxb4 4. axb6 Rf7) Nh4+ (Ra2 4. Kxf3 Ka6 $10 (Rxc2 $4 5. b7 $18)) (Rf7 4. b7 (4. Na3+ $2 Kc5 $19) (4. Kg3 Kxb6) (4. Ne3 Kxb6) (4. Nb4 Kxb4) Nh4+ 5. Kh3 (5. Kg3 Nf5+ 6. Kg4 $10) Rxb7 6. Kxh4 $1 $10 (6. Nd4+ $2 Kc4) (6. Ne3 Nf3) (6. Ne1 Re7) (6. Na3+ Kb4 7. Kxh4 Kxa3) (6. Nb4 Kxb4)) 4. Kg3 (4. Kh3 $2 Rh7 5. b7 Ng6+ $19) (4. Kh2 Rg7) (4. Kf1 Kxb6) (4. Kh1 Kxb6) Nf5+ (Ra4 5. b7 (5. Na3+ $4 Rxa3+ 6. Kxh4 Ra4+) (5. Ne3 $4 Kxb6 6. Nd5+ Kc5) (5. Kf2 Kxb6) (5. Nb4 Rxb4) Nf5+ 6. Kf3 (6. Kf2 $4 Rf4+ 7. Kg2 Rg4+ $19) (6. Kh2 $4 Rh4+ 7. Kg2 Rg4+ $19) (6. Kg2 $4 Rg4+ 7. Kf3 Rg8 8. Ke4 Nd6+) (6. Kh3 $4 Rh4+ 7. Kg2 Rg4+ $19) Nh4+ 7. Kg3 $18 (7. Ke3 Nf5+ 8. Kd3 $18) (7. Kf2 $2 Rf4+ 8. Kg3 $10) (7. Ke2 $4 Re4+ 8. Kd3 Re8 $19 9. Nd4+ Kc5)) 5. Kg4 $1 (5. Kf4 $2 Rf7 $19) Nh6+ 6. Kh5 (6. Kg5 $2 Nf7+ 7. Kf6 Kxb6 $19) (6. Kh4 $2 Rb7) (6. Kf3 Kxb6) Rh7 7. Kg6 (7. b7 $2 Ng8+ 8. Kg6 Rxb7 $19 9. Nd4+ Kc5) (7. Kh4 Nf7+ 8. Kg4 Kxb6) (7. Ne3 Ng8+ 8. Kg6 Rd7) (7. Na3+ Kxb6) Rh8 8. Kg7 Rc8 9. b7 (9. Nd4+ $2 Kc5 10. Ne6+ Kd6 11. b7 Rb8 12. Kxh6 Kxe6 $19) (9. Kxh6 $2 Rxc2 10. b7 Rc6+ $19) (9. Kg6 Rxc2 10. Kxh6 Kxb6) (9. Kh7 Rxc2 10. Kxh6 Kxb6) Nf5+ 10. Kg6 (10. Kf6 $2 Rf8+ 11. Ke5 Ng3 $19 12. Na3+ Kc5) (10. Kh7 $2 Rb8 $19 11. Nd4+ Nxd4) (10. Kf7 $2 Nd6+ 11. Kf6 Nxb7 12. Nd4+ Kc4) Nh4+ 11. Kg5 (11. Kh5 $2 Rh8+ 12. Kg5 Ng2 $19) (11. Kf7 $2 Rc7+ 12. Kf6 Rxb7 13. Na3+ Kc5) (11. Kf6 $2 Rb8 12. Nd4+ Kc5) (11. Kh6 $2 Rg8 12. Nd4+ Kc5) (11. Kh7 Rc7+ 12. Kh6 Rxb7 13. Nd4+ Kc4) Nf3+ 12. Kg4 (12. Kf4 $2 Rf8+ 13. Ke3 $4 (13. Ke4 $5 Ng5+) Ne5 $19 14. Nd4+ Kc4) (12. Kf6 $2 Rb8) (12. Kf5 Rf8+ 13. Ke6 Kc6) (12. Kg6 Nh4+ 13. Kg5) (12. Kh5 Rg8) Nh2+ (Rf8 13. b8=Q+ $10) 13. Kg3 $1 (13. Kh3 $2 Rh8+ 14. Kg3 Nf1+ $19) Nf1+ 14. Kg2 (14. Kf2 $2 Rf8+ 15. Ke2 Ng3+ $19) (14. Kf3 $2 Rb8 15. Kf2 Rf8+) (14. Kh3 $2 Rb8 15. Nd4+ Kc5) (14. Kf4 Rb8 15. Nd4+ Kc5) Rf8 15. b8=Q+ (15. b8=R+ Rxb8 16. Kxf1 Rf8+ $10) (15. Nd4+ Kb4 16. b8=Q+ $10) (15. b8=N $10) (15. Kg1 $2 Nd2 16. Nd4+ Kb6) (15. Ne3 $2 Nxe3+ 16. Kh2 Rb8) (15. Ne1 $2 Ne3+ 16. Kg3 Kc6) (15. Kh3 $2 Rb8 16. Nd4+ Kc5) Rxb8 16. Kxf1 $10 (16. Nd4+ $2 Kc5 17. Ne6+ Kd6 $19) (16. Kg1 $2 Rf8 17. Nd4+ Kc4 $19) (16. Kf2 $2 Rf8+ 17. Ke2 Kc5) (16. Ne3 Nxe3+ 17. Kf3 Re8) (16. Na3+ Kb4 17. Nc2+ Kc3) 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/3k4/1K6/8/6N1/3p1p1p/n6P/8 w - - 0 1"]
+
+1. Kc5 (1. Ne5+ $2 Ke6 2. Nxd3 Kd5 3. Nf2 Kd4 4. Nxh3 Ke3 $19) (1. Nf2 $2 Kd6 2. Nxd3 Kd5 $19) (1. Ne3 $2 d2 $19) (1. Kb5 $2 d2 2. Nf2 Nc3+ $19) (1. Nf6+ $2 Ke6 $19) (1. Ka5 $2 d2) (1. Kb7 $2 d2 2. Nf6+ Ke6) (1. Nh6 f2) d2 2. Nf2 (2. Ne3 $2 f2 $19) (2. Ne5+ $2 Ke6 3. Nxf3 d1=Q $19) (2. Kd5 $2 d1=Q+ 3. Ke4 Qe2+) (2. Nf6+ $2 Ke6) (2. Kd4 $2 d1=Q+ 3. Ke4 Qe2+) (2. Kc4 $2 d1=Q 3. Ne5+ Ke6) Nc3 3. Kd4 (3. Kc4 $2 Ne4 4. Nxe4 d1=Q $19) (3. Nxh3 d1=Q 4. Nf2 Qd5+) (3. Kb6 d1=Q 4. Nxd1 Nxd1) (3. Kb4 d1=Q 4. Nxd1 Nxd1) d1=Q+ 4. Nxd1 (4. Ke3 $2 Qe2+ 5. Kd4 Qxf2+ 6. Kc4 Nb5 $19 7. Kxb5 Qd4) (4. Kxc3 $2 Qe1+ 5. Kd3 Qxf2) Nxd1 5. Kd3 (5. Ke4 $2 f2) (5. Ke5 $2 f2) Ke6 6. Kd2 (6. Ke4 $2 f2) (6. Kc2 f2 7. Kxd1 f1=Q+) f2 (Ke5 7. Kxd1 Ke4 8. Kd2 Kd4 9. Ke1 Ke3 10. Kf1 f2) 7. Ke2 (7. Kxd1 $2 f1=Q+ 8. Kd2 Qf3) Ke5 8. Kf1 (8. Kxd1 $2 f1=Q+ 9. Kd2 Kd4 10. Kc2 Qa1) (8. Kf3 $2 f1=Q+ 9. Kg3 Qg1+) Ke4 9. Ke2 Kf4 10. Kf1 (10. Kxd1 f1=Q+ 11. Kc2 Qb5) Ne3+ 11. Kxf2 (11. Ke2 $2 f1=Q+ 12. Kd2 Qc4 $19) Ng4+ 12. Kg1 $10 (12. Kf1 $2 Nxh2+ 13. Kf2 Ng4+) 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "6k1/2K2RP1/8/8/2N5/P3p3/8/4r3 w - - 0 1"]
+
+1. Rd7 (1. Re7 $6 e2 2. Kc6 Kh7 3. Kc5 Kg8 4. a4 Kh7 $1 5. a5 Kg8 6. a6 Ra1 7. Rxe2 Rxa6 8. Re7 Rg6 $10) (1. Nxe3 $2 Rc1+ 2. Kb7 $10) (1. Rf8+ $2 Kxg7 2. Nxe3 Rc1+ 3. Kb7 $10) (1. a4 $2 Kxf7 2. Nxe3 Ra1 $10 3. g8=Q+) (1. Rf1 $2 Rxf1 2. Nxe3 Ra1 3. Kd8) e2 (Rc1 2. Re7 (2. Rd4 $2 e2 3. Rd8+ $10) (2. Rd8+ $2 Kxg7 3. Rb8 $10) (2. Kd6 $2 Rd1+ 3. Kc5 Rxd7 4. Nxe3 $10) (2. a4 $2 Rxc4+ 3. Kb7) Rxc4+ 3. Kb6 (3. Kd6 $2 e2 4. a4 $10 Rd4+ 5. Kc6) (3. Kb8 $2 e2 4. a4 $10) (3. Kd8 $2 e2 4. a4 $10 Rd4+ 5. Kc8) (3. Kd7 $2 e2 4. a4 Rd4+ 5. Kc7) (3. Kb7 $2 e2 4. a4) Rc3 4. a4 $3 $18 (4. Kb5 $2 e2 5. a4) (4. Ka5 $2 e2 5. a4 Rc5+ 6. Ka6) (4. Re8+ $2 Kxg7 5. a4)) 2. Re7 (2. Rd2 $2 Kxg7 3. Rc2 Kf6 $10) (2. Kc6 $2 Rc1 3. Re7 $10) (2. Kd6 Rd1+ 3. Kc7 e1=Q) Kh7 3. Kc6 (3. Kb6 $2 Rb1+ 4. Kc5 $10) (3. Kc8 $2 Rc1 4. Rxe2 Rxc4+ 5. Kb7 $10) (3. Kd6 $2 Rd1+ 4. Kc5 $10) (3. Rd7 $2 Rg1 4. g8=R+ $10) (3. g8=Q+ $2 Kxg8 4. Kd8 $10 Rd1+ 5. Nd6) (3. Re3 $2 Kxg7 4. Re6) (3. Rxe2 $2 Rxe2 4. g8=Q+) Kg8 4. Kc5 (4. a4 $2 Ra1 5. Rxe2 Rxa4 6. Nb6 $10) (4. Re8+ $2 Kxg7 5. a4 $10) (4. Kb5 $2 Rb1+ 5. Kc5 $10) (4. Kd5 $2 Rd1+ 5. Kc5 $10) (4. Nd6 $2 Rc1+ 5. Nc4) (4. Rxe2 $2 Rxe2 5. a4) Kh7 5. a4 (5. Kd4 $2 Rd1+ 6. Kc5 $10) (5. Nd2 $2 Rc1+ 6. Nc4 $10) (5. Kc6 $18 Kg8 6. Kc5) (5. Kb4 $2 Rb1+ 6. Kc5) (5. Ra7 $2 Ra1 6. Re7) (5. g8=Q+ $2 Kxg8 6. a4) (5. Re8 Kxg7 6. Kc6) Kg8 6. a5 (6. Kb4 $2 Rb1+ 7. Kc5) (6. Kc6 $2 Ra1 7. Rxe2 Rxa4 8. Re8+) Kh7 7. a6 (7. Kc6 $6 Kg8 8. Kc5) (7. Kb6 $2 Rb1+ 8. Kc5) (7. Re6 Kxg7 8. Kc6) Ra1 8. Rxe2 (8. Kb6 $2 Rb1+ 9. Ka5 $10) (8. a7 $2 Rxa7 9. Rxe2 Kxg7 10. Re6 $10) (8. Re6 $2 e1=Q 9. Rxe1 Rxe1 10. g8=R $10) (8. Na5 $2 Rxa5+ 9. Kb4) (8. g8=Q+ $2 Kxg8 9. a7 Rxa7 10. Rxa7) (8. Na3 $2 Rxa3 9. a7 Rxa7 10. Rxe2 Rxg7 11. Re1) (8. Re8 $2 Kxg7 9. a7) (8. Kc6 e1=R 9. Rxe1 Rxe1 10. a7) Rxa6 9. Rg2 (9. Re7 $2 Rg6 10. g8=Q+ $10) (9. Rh2+ $2 Kxg7 10. Nb6 $10) (9. Re6 $2 Rxe6 10. g8=Q+ $10) (9. Re3 $2 Kg8 10. Re7) (9. Nb6 $2 Ra5+ 10. Kc4) (9. g8=Q+ $2 Kxg8 10. Nb6) (9. Na3 Rf6 10. g8=Q+) (9. Rb2 Re6 10. g8=Q+) Kg8 10. Nd6 (10. Nb6 $2 Ra7 11. Na8 $10) (10. Ne5 $2 Ra7 11. Nd7 $10) (10. Kb5 $2 Ra7 11. Nb6) (10. Ne3 $2 Ra7 11. Nf5) (10. Kd4 $2 Rf6 11. Nb6) (10. Kd5 $2 Ra7 11. Nb6) (10. Rg6 Rxg6) Ra7 11. Ne8 $18 (11. Nf5 $2 Ra5+ 12. Kc4 $10) (11. Nc8 $2 Rb7 12. Ne7+) (11. Kd5 $2 Rd7 12. Rf2) (11. Kb6 $2 Rxg7 12. Nc8 Rxg2 13. Ne7+) (11. Nf7 Rc7+ 12. Kb5) (11. Nb7 Rxb7 12. Rf2) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/K4B2/P5P1/5k2/q7/8/8/8 w - - 0 1"]
+
+1. g7 (1. Kb7 $2 Qb5+ 2. Kc7 Qxa6 $19) (1. Kb6 $2 Ke5 2. g7 Qb4+) (1. Bd5 $2 Qd4+ 2. Kb7 Qxd5+ 3. Kb6 Ke5 $19 4. a7 Kd6) (1. Ka8 $2 Qxa6+ 2. Kb8 Qb6+ $19) (1. Kb8 $2 Qb5+ 2. Kc7 Qxa6 $19) (1. Bg8 $2 Ke5 $19 2. g7 Qd4+) (1. Bc4 $2 Ke5 $19 2. Bb5 Qxb5) Qd4+ (Qd7+ 2. Kb8 (2. Kb6 Qd8+ 3. Kb5 $10) Qxf7 3. a7 $1 $10 (3. g8=Q $2 Qxg8+ 4. Kb7 Qd5+ $19) (3. Ka8 Qxg7)) 2. Kb7 (2. Kb8 $2 Qb6+ 3. Ka8 Qxa6+ 4. Kb8 Qb6+ $19) Qxg7 (Qb2+ 3. Kc8 (3. Kc6 $2 Qf6+ 4. Be6+ Qxe6+ 5. Kc7 Qe5+ $19) (3. Bb3 $2 Qxb3+ 4. Kc7 Qc3+ $19) Qxg7 4. a7 (4. Bd5 $2 Ke5 $19 5. Bb7 Qf7) (4. Be8 $2 Ke5 $19 5. Ba4 Kd6) (4. Kb8 $2 Qf8+ 5. Kb7 Qxf7+ 6. Kb6 Qd5 $19 7. a7 Ke5) (4. Bc4 $2 Ke5 $19 5. a7 Qxa7) Qf8+ (Qc3+ 5. Bc4 $1 $10 (5. Kb8 $2 Qb4+ 6. Kc7 Qc5+ $19) (5. Kb7 $2 Qb4+ 6. Kc8 Qc3+ 7. Bc4 $10) (5. Kd7 $2 Qa3 6. Bh5 Qxa7+ 7. Kd6 Qa2) (5. Kd8 $2 Qa5+ 6. Kd7 Qxa7+ 7. Kd6 Qxf7 $19)) (Qg2 5. Bd5 $1 $10 (5. Kb8 $2 Qb2+ 6. Kc8 Qc3+ 7. Bc4 $10) (5. Kd7 $2 Ke5 $19 6. Kc7 Qa8) (5. Be8 $2 Qa8+ 6. Kc7 Qxa7+ 7. Kc6 Qa4+ $19) (5. a8=Q $2 Qxa8+ 6. Kc7 Qa7+ $19) (5. Bg8 $2 Qc6+ 6. Kb8 Qb6+)) 5. Be8 $1 $10 (5. Kb7 $2 Qb4+ 6. Kc8 Qc3+ 7. Bc4 $10) (5. Kc7 $2 Qc5+ 6. Kb7 Qb5+ $19) (5. Kd7 $2 Qxf7+ 6. Kd6 Qxa7 $19)) 3. a7 Qb2+ 4. Bb3 $1 (4. Kc7 $2 Qa3 5. Kb7 Qb4+ 6. Kc7 Qa5+ 7. Kb7 Qb5+ 8. Kc7 Qa6 9. Kb8 Qb6+ $19) (4. Ka6 $2 Qg2 5. Kb6 Ke5 6. Be8 Kd6 $19) Qg7+ 5. Bf7 (5. Kb6 Qg1+ 6. Kb7 $10) (5. Kb8 $2 Qe5+ 6. Kc8 Qc5+ $19) (5. Ka6 $2 Qg2 $19 6. Bc2+ Ke5) (5. Kc8 $2 Qxa7 $19 6. Bc2+ Ke5) (5. Kc6 $2 Qxa7 6. Bc2+ Ke5) (5. Ka8 $2 Qc7 6. Bc2+ Ke5) Qg2+ 6. Bd5 $10 (6. Kb8 $2 Qb2+ 7. Bb3 Qe5+ $19) (6. Kc8 $2 Qa8+ 7. Kc7 Qxa7+ 8. Kc6 Qxf7 $19) (6. Kb6 $2 Qb7+ 7. Kxb7) (6. Ka6 Qc6+ 7. Ka5 Ke5) 1/2-1/2
+
+[Event "3.p USSR team champ I (tt)"]
+[Source "USSR team champ I 1956-1957"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "5r2/8/3P4/6R1/8/3Nkp2/7K/8 w - - 0 1"]
+
+1. d7 $1 (1. Ne5 $2 Ke2 2. d7 Rh8+ 3. Rh5) (1. Rd5 $2 f2 2. Nxf2 Rxf2+ 3. Kh1) (1. Rg4 Kxd3 2. d7) f2 2. Re5+ $1 (2. Rg3+ $2 Ke2 $1 3. Nf4+ Kd2 $1 4. Rd3+ Ke1 5. Ng2+ Ke2 6. Re3+ Kd2 7. Rf3 Rd8 $1 8. Rxf2+ Kc3 9. Rf7 Kd4 10. Nf4 Ke5 $10 11. Ng6+ Ke6 12. Rh7 Kf6 $1 13. Nf4 Ke5 $1) (2. Nxf2 $2 Rxf2+ 3. Rg2 $10) (2. d8=Q $2 f1=N+ 3. Kg2) (2. Kg2 f1=Q+ 3. Kh2 Rh8+) Kd4 (Kxd3 3. Re8 (3. Rd5+ $4 Ke2 $19 4. Re5+ Kf3) (3. Ra5 $4 f1=Q 4. d8=Q+ Rxd8 5. Ra3+ Ke2 $19) (3. Rf5 $2 Rxf5 4. d8=Q+) (3. d8=Q+ $2 Rxd8 4. Kg2) (3. Kg2 $4 f1=Q+ 4. Kg3 Rg8+) (3. Re3+ Kxe3) Rxe8 4. dxe8=Q f1=Q 5. Qb5+ $1 $18 (5. Qd8+ $2 Kc3 6. Qc8+) (5. Qg6+ $2 Kc3 6. Qe6) (5. Qa8 $2 Qe1 6. Qb8) (5. Qd7+ Kc4 6. Qc8+)) (Kf3 3. Nxf2 (3. Nf4 $4 f1=Q $19 4. Re3+ Kxe3) (3. Re8 $2 Rxe8 4. dxe8=Q $10 f1=N+ $4 (f1=Q $5) 5. Kh3) (3. Ne1+ $2 fxe1=Q 4. Rxe1 Rh8+ 5. Kg1) (3. Rf5+ $4 Rxf5 4. Nxf2 Kxf2) (3. d8=Q $2 f1=N+ 4. Kh1) (3. Nc5 $4 Rh8+ 4. Rh5 Rxh5#) (3. Re6 $4 Rh8+ 4. Rh6 Rxh6#) Kxf2 4. Re8 (4. Kh3 $2 Rd8 5. Rd5) Rf7 5. Re2+ $1 $18 (5. Rh8 $2 Rxd7 6. Rf8+) (5. Kh3 $2 Rh7+ 6. Kg4) (5. d8=Q $4 Rh7+ 6. Qh4+ Rxh4#)) 3. Re8 (3. Rf5 $2 Rd8 4. Nc5 $10) (3. Nxf2 $2 Kxe5 4. d8=Q) (3. Re4+ $4 Kxe4 4. Nxf2+ Rxf2+ 5. Kh3 Rd2 6. Kg4 Rxd7) (3. d8=Q+ $2 Rxd8 4. Nxf2 Kxe5 5. Nh3) (3. Nc1 $4 f1=Q 4. d8=Q+ Rxd8 5. Nb3+ Kxe5) (3. Nc5 $4 f1=Q 4. d8=Q+ Rxd8 5. Ne6+ Kxe5 6. Nxd8 Qf2+) (3. Rd5+ $2 Kc4 4. d8=Q Rxd8 5. Nxf2 Kxd5 6. Ng4) (3. Re1 $2 fxe1=Q 4. d8=Q+ Rxd8 5. Nxe1) Rxe8 4. dxe8=Q (4. Nxf2 $2 Rd8 5. Ng4) f1=Q 5. Qe5+ $1 (5. Qd7+ $2 Kc4 6. Nc5 $10) (5. Qd8+ $2 Kc3 6. Nc5) (5. Qa4+ $2 Kd5 6. Nc5) (5. Nf2 $2 Qc1 6. Ne4) (5. Qh8+ $2 Kc4 6. Nc5) (5. Qe1 Qxe1 6. Nxe1) Kc4 (Kxd3 6. Qb5+) 6. Qc5+ $1 (6. Nb2+ $2 Kb3 7. Na4) (6. Qe4+ $2 Kb5 7. Nc5) (6. Qe6+ $2 Kc3 7. Nc5) (6. Qc7+ $2 Kxd3 7. Qd8+) (6. Qe1 Qxe1 7. Nxe1) (6. Nc1 Qd1 7. Nb3) (6. Nb4 Qd1 7. Na6) (6. Qd5+ Kxd5) (6. Nf4 Qd1 7. Ne6) (6. Nc5 Qd1 7. Nb7) Kb3 7. Qb4+ (7. Qb6+ $18) (7. Qb5+ Kc3 8. Qb4+) (7. Nc1+ $2 Kb2 8. Nb3) (7. Qd5+ Kc3 8. Nc5) Kc2 8. Qb2+ $1 (8. Qc4+ $2 Kd2 9. Ne5) (8. Ne1+ $2 Kc1 9. Nd3+) (8. Qa4+ Kd2 9. Nc5) (8. Qb3+ Kxb3 9. Nc5+ Kc2) (8. Qb1+ Kxb1) Kd1 9. Qc1+ (9. Qb1+ $2 Ke2 10. Qxf1+ Kxf1 11. Kg3 $10) (9. Nf2+ $2 Ke1 10. Ne4) (9. Qa1+ $2 Ke2 10. Qxf1+ Kxf1 11. Kg3 $10) (9. Qb3+ $2 Kd2 10. Nc5) (9. Qc2+ $4 Kxc2 10. Nb4+ Kd2) (9. Qf2 Qh1+ 10. Kxh1) Ke2 10. Nf4+ $1 (10. Qxf1+ $4 Kxf1 11. Nc5 $10) (10. Qc2+ $4 Ke3 11. Nc5 $10) (10. Qc4 $4 Qb1 11. Nc5+) (10. Ne1 $4 Qxe1 11. Qxe1+ Kxe1 12. Kg2) (10. Qe1+ $4 Qxe1 11. Nxe1 Kxe1 12. Kh3) (10. Qb2+ $4 Ke3 11. Nc5) (10. Qf4 Qb1 11. Nc5) Kf2 11. Nh3+ $1 (11. Qd2+ $4 Kf3 12. Ne6 $10) (11. Nd3+ $4 Qxd3 12. Qg1+) (11. Qc2+ $4 Ke3 12. Ne6) (11. Qc5+ $4 Kf3 12. Qa5) (11. Qxf1+ Kxf1 12. Ne6) (11. Qc4 Qg1+ 12. Kh3 Qg3#) (11. Qe1+ Kxe1) (11. Qb2+ Kf3 12. Ne6) (11. Qd1 Qxd1 12. Nh3+ Ke3) Ke2 12. Ng1+ $1 (12. Qc4+ Ke1 13. Qc1+ Ke2 $18) (12. Qc2+ $4 Ke3 13. Ng5 $10) (12. Nf4+ Kf2 13. Nh3+ Ke2 $18) (12. Qb2+ $4 Ke3 13. Ng5) (12. Qxf1+ Kxf1 13. Ng5) (12. Qb1 Qxb1 13. Ng1+ Ke3) Kf2 13. Qd2+ (13. Qc2+ $4 Ke3 14. Nf3) (13. Qf4+ Ke1 14. Qc1+) (13. Qc5+ Ke1 14. Qc1+) (13. Nh3+ Qxh3+ 14. Kxh3) (13. Qxf1+ $4 Kxf1 14. Nf3) (13. Qd1 Qg2#) (13. Qb2+ Ke3 14. Nf3) Qe2 14. Qxe2# (14. Nxe2 Kf3 15. Ng3) (14. Qd4+ Qe3 15. Nf3) (14. Qe3+ Qxe3 15. Nh3+ Kf1) (14. Nh3+ Kf1+ 15. Qxe2+ Kxe2 16. Ng5) (14. Qf4+ Ke1+ 15. Nxe2 Kxe2 16. Qd4) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "K3k3/7b/8/8/8/2p5/B3P3/n5N1 w - - 0 1"]
+
+1. e4 (1. e3 $2 Bd3 2. Bb1 Bxb1 3. Ne2 Be4+ $1 4. Ka7 c2 $19) (1. Nf3 $2 c2 2. e3 c1=Q $19) (1. Kb7 $2 Be4+ 2. Kc7 c2 $19) (1. Bb3 $2 Nxb3 2. e3 $19) Bxe4+ 2. Ka7 (2. Kb8 $2 Bd3 3. Bb1 Bxb1 4. Ne2 c2 5. Nc1 Kd8 $19) (2. Bd5 $2 Bxd5+ 3. Kb8 c2) Bd3 (c2 3. Ne2 (3. Bd5 $2 c1=Q 4. Bxe4 Qc5+) (3. Ka6 $2 c1=Q 4. Bf7+ Kd8) (3. Bb3 $2 c1=Q 4. Ba4+ Kd8) (3. Kb6 $2 c1=Q 4. Bf7+ Kd8) Kd7 4. Kb6 Kd6 5. Nc1 $10) (Bf3 3. Bb1 Bg4 4. Kb6 Kd7 5. Kc5 Ke6 6. Kd4 $10) 3. Bb1 (3. Kb6 $2 c2 $19 4. Bf7+ Ke7) (3. Nf3 $2 c2 4. Bf7+ Kd8) (3. Bf7+ $2 Ke7) (3. Bd5 $2 c2) (3. Bg8 $2 c2) (3. Nh3 $2 c2) (3. Kb7 $2 c2) Bxb1 (c2 4. Bxc2 Nxc2 5. Kb6 Kd7 6. Kc5 Ke6 7. Nf3 $10) 4. Ne2 (4. Kb6 $2 Bd3 $19) (4. Ka6 $2 Bd3+ 5. Kb6 c2 $19) c2 5. Nc1 (5. Kb6 $2 Nb3 $19) (5. Nc3 $2 c1=Q $19 6. Nxb1 Qxb1) (5. Ka6 $2 Nb3) (5. Kb7 $2 Ba2) Ke7 (Nb3 6. Nxb3 Ba2 7. Nc1 $10) (Ba2 6. Nxa2 Nb3 7. Kb6 $10) 6. Ka6 (6. Kb6 $2 Kd6 $19) (6. Kb7 $2 Kd7 $19) (6. Ne2 $2 Ba2) (6. Nd3 Ba2) (6. Nb3 Nxb3) (6. Ka8 Ke6) (6. Kb8 Ke6) Ke6 7. Ka5 (7. Kb5 $2 Kd5 $19) (7. Ne2 Ke5) (7. Na2 Bxa2) (7. Kb6 Kd6) (7. Nd3 Kf5) (7. Nb3 Nxb3) (7. Kb7 Kd5) Ke5 8. Ka4 (8. Kb4 $2 Kd4 $19 9. Nb3+ Nxb3) (8. Na2 Bxa2) (8. Kb5 Kd5) (8. Nd3+ Ke4 9. Nc5+ Kd4) Ke4 9. Ka3 (9. Kb4 Kd4 10. Nb3+ Nxb3) (9. Nb3 Nxb3) Ke3 10. Kb2 (10. Nb3 Nxb3 11. Kxb3 c1=Q) Kd2 11. Kxa1 (11. Nb3+ $2 Nxb3 12. Kxb3 c1=Q) (11. Ne2 $2 Kxe2 12. Kxa1 Kd2) (11. Na2 $2 Bxa2 12. Kxa2 Kc3) (11. Ka3 Kxc1) (11. Nd3 Kxd3 12. Kxa1 c1=R) Kxc1 (Kc3 12. Nb3 $10) 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/2kP3P/8/8/5N2/2K5/7q/8 w - - 0 1"]
+
+1. Kb3 (1. Ne6+ $2 Kxd7 2. Nc5+ Kd6) (1. Ng6 $2 Qxh7 2. d8=B+ Kd6 3. Be7+ Kd5 4. Nf4+ Ke4) (1. d8=Q+ $2 Kxd8 2. Ne6+ Ke7 $19) (1. h8=Q $2 Qxh8+ 2. Kd3 Kxd7) (1. Kb4 $2 Qxf4+ 2. Kb3 Qd4 3. d8=B+ Qxd8) (1. Nh5 $2 Qxh5 2. d8=Q+ Kxd8 3. h8=Q+ Qxh8+ 4. Kd3 Qe8 5. Kd2 Kd7) (1. Nh3 $2 Qxh3+ 2. Kc2 Qxh7+ 3. Kd2 Qxd7+ 4. Ke2 Qe7+) Kd8 (Kxd7 2. Ng6 (2. Nd5 $2 Kd6 $19 3. Nf4 Qxh7) (2. Kc4 $2 Qxf4+ 3. Kc3 Qh4 $19) (2. Nd3 $2 Qxh7 3. Ne5+ Kd6) (2. Kb4 $2 Qxf4+ 3. Kb3 Qd4) (2. Kc3 Qxh7) (2. Nh3 Qxh3+ 3. Kb2 Qxh7) (2. Ng2 Qxh7) (2. Ne2 Qxh7) (2. Ne6 Kxe6) Qxh7 3. Nf8+ $3 $10 (3. Ne5+ $2 Kd6 4. Nc4+ Kd5) (3. Nf4 Qf7+ 4. Ne6 Qf3+)) (Qxh7 2. Ne6+ Kxd7 3. Nf8+ $10) 2. Kc3 $10 (2. Ka3 Qxf4 3. h8=Q+ $10) (2. h8=Q+ $2 Qxh8 $19 3. Ne6+ Kxd7 4. Nc5+ Kc6) (2. Nh5 $2 Qxh5 3. h8=Q+ Qxh8) (2. Nd3 Kxd7 3. Nc5+ Kc6) (2. Ng2 Qxh7) (2. Nh3 Qxh3+ 3. Kc2 Qxh7+ 4. Kc3 Qe4) 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "k7/P7/1K4p1/3p2P1/3P4/8/2N5/7q w - - 0 1"]
+
+1. Na3 (1. Nb4 $2 Qb1 2. Ka6 Qa1+ $19) (1. Kc5 $2 Qc1 2. Kxd5 Qxc2 $19) (1. Kc7 $2 Qh2+ 2. Kc6 Qxc2+ 3. Kxd5 Kxa7 $19) (1. Ne3 $2 Qe4) (1. Ka6 $2 Qd1) (1. Kc6 $2 Qc1 2. Kxd5 Qxc2) (1. Ne1 Qxe1) (1. Ka5 Qc1) (1. Kb5 Qc1 2. Nb4 Qc4+) Qh7 2. Nb5 (2. Kc6 $2 Qb7+ 3. Kd6 Qb3 $19) (2. Kc5 Qxa7+ 3. Kxd5 Qxa3) Qb7+ 3. Kc5 (3. Ka5 $2 Qc6 $19) Qe7+ 4. Kb6 (4. Kc6 $2 Qxg5 5. Nc7+ Kxa7 6. Nxd5 Qf5 $19 7. Kd6 g5) (4. Kxd5 $2 Qxg5+ 5. Kc6 Qf6+ $19) Qe6+ 5. Kc5 (5. Kc7 $2 Qa6 6. Nd6 Qxa7+ 7. Kc6 Qxd4) (5. Ka5 $2 Qc6 $19) (5. Nd6 $2 Qxd6+ 6. Ka5 Kxa7) Qe1 (Kb7 6. a8=Q+ (6. Nd6+ $4 Kxa7 7. Nb5+ Kb7 $19) (6. Nc7 $4 Qc6+ 7. Kb4 Qxc7 8. a8=Q+ Kxa8 $19) (6. Kb4 $4 Qe7+ 7. Ka4 Qxg5 8. a8=Q+ Kxa8) (6. Nc3 Qc6+ 7. Kb4 Qc4+) Kxa8 7. Nc7+ $1 $18 (7. Na7 Kxa7)) 6. Kb6 (6. Kxd5 $2 Qc1 $19) (6. Nc7+ $2 Kxa7 7. Nxd5 Kb7 $19) (6. Kc6 $2 Qa5 7. Nc7+ Kxa7 $19 8. Nxd5 Qd2) Qb4 7. Ka6 (7. Kc6 $2 Qa5 8. Nc7+ Kxa7 $19 9. Nxd5 Qd2) Qe7 8. Kb6 $10 (8. Nc3 $2 Qa3+ 9. Na4 Qxa4+ 10. Kb6 Qc2) (8. Ka5 $2 Qxg5 9. Nc7+ Kxa7 10. Nb5+ Kb8) 1/2-1/2
+
+[Event "Shakhmaty v SSSR#754 (c)"]
+[Source "Shakhmaty v SSSR/1"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3R4/2N1p3/8/2P2p2/8/K3p3/3p4/2k5 w - - 0 1"]
+
+1. Nb5 $1 (1. Ne6 $2 d1=Q 2. Rxd1+ Kxd1 3. Nd4 (3. Nf4 e5 4. Ng2 (4. Nd5 f4 5. c6 Kd2) f4 5. c6 e2 6. c7 f3 7. c8=Q fxg2 8. Kb2 Ke1) f4 $1 (e5 $2 4. Nxf5 e2 5. Ne3+) 4. c6 e5 5. c7 exd4 6. c8=Q f3 7. Qg4 Ke2 8. Kb2 d3) e2 (d1=Q 2. Rxd1+ Kxd1 3. c6 Kd2 (e2 4. Nc3+) 4. c7 e2 5. Nd4 $1 e1=Q 6. Nf3+) 2. Rxd2 $1 e1=Q (Kxd2 3. Nd4 e5 4. Nxe2 Kxe2 5. c6 f4 6. c7 f3 7. c8=Q f2 8. Qc4+ Ke1 9. Qe4+ Kd2 10. Qf3 Ke1 11. Qe3+ Kf1 12. Qe4 $1 Kg1 13. Qg4+ Kh2 14. Qf3 Kg1 15. Qg3+ Kf1 16. Kb2) 3. Nd4 $1 Qe5 4. Ka2 $1 1-0
+
+[Event "64"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k3r3/Pp4P1/1P3P2/8/8/8/4P1K1/8 w - - 0 1"]
+
+1. Kh1 $1 (1. Kf1 $2 Rd8 2. Kf2 Re8 3. e3 Rd8 4. Kf3 Re8 5. e4 Rd8 6. Kf4 Re8 7. e5 Rd8 8. Kf5 Re8 9. e6 Rd8 10. Kg6 Rg8) (1. Kg1 $2 Rg8 $1) (1. e4 $2 Rg8) (1. e3 $2 Rg8) Rd8 2. Kh2 $1 Re8 (Rc8 3. f7) 3. e3 Rd8 4. Kh3 Re8 5. e4 Rd8 6. Kh4 Re8 7. e5 Rd8 8. Kh5 Re8 9. e6 (9. Kh6 {<or>} Rd8 10. e6) Rd8 10. Kh6 $1 Re8 11. e7 (11. Kh7 $2 Rg8 $1) Rc8 12. Kh7 $1 Rg8 $1 13. e8=Q+ $1 (13. Kxg8 $2) Rxe8 14. f7 1-0
+
+[Event "Shakhmaty v SSSR#18"]
+[Source "Shakhmaty v SSSR/12"]
+[Date "1945.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "Chekhover, V"]
+[Black " Tyulin, Y."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1R6/7k/8/1P5K/nP1P4/p7/p7/8 w - - 0 1"]
+
+1. Rb7+ $1 Kg8 2. Kg6 Kf8 3. Kf6 $1 (3. Rf7+ $2 Ke8 4. Rf1 Kd7) Ke8 (Kg8 4. Rg7+) 4. Ke6 $1 (4. Re7+ $2 Kd8 5. Re1 Nc3 6. Ra1 Kc7 7. Ke5 Kb6 8. d5 Nxd5 9. Kxd5 Kxb5 10. Rxa2 Kxb4 11. Kd4 Kb3) Kd8 (Kf8 5. Rf7+ Kg8 6. Rf1) 5. Kd6 Nb6 $1 (Kc8 6. Rc7+ Kb8 7. Rc1) 6. Rxb6 (6. Rb8+ $2 Nc8+) Ke8 7. Ke6 Kf8 (Kd8 8. Rd6+ Kc8 (Ke8 9. Ra6) 9. Rc6+) 8. Kf6 Kg8 9. Kg6 Kf8 10. Rf6+ Ke7 11. Rf1 1-0
+
+[Event "Bulletin USSR champ"]
+[Date "1945.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K2/2Q5/6q1/8/3kN3/8/8/8 w - - 0 1"]
+
+1. Qc5+ $1 (1. Qc3+ $2 Kd5 2. Qc5+ Ke6 3. Qd6+ Kf5 4. Ng3+ Kg5) Kd3 (Kxe4 2. Qc2+) 2. Qc3+ Ke2 3. Qd2+ Kf3 (Kf1 4. Qf2#) 4. Qf2+ Kg4 5. Qg3+ Kf5 (Kh5 6. Qh3#) 6. Nd6+ Kf6 7. Ne8+ Kf5 8. Ng7+ Kf6 9. Qf4+ Qf5 {<eg>} 10. Qxf5# 1-0
+
+[Event "Sovyetsky Sport"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6p1/2P3p1/2P3p1/2p1P3/8/2K3k1 w - - 0 1"]
+
+1. c6 $1 (1. e4 $2 g3 2. e5 g2 3. e6 Kf2 4. e7 g1=Q+) g3 2. c7 g2 3. c8=Q Kf2 4. Qg4 $1 (4. Qf8+ $2 Ke2) g1=Q+ 5. Qxg1+ Kxg1 6. c5 (6. e4 $2 g4 7. e5 g3 8. e6 g2 9. e7 Kf2 10. e8=Q g1=Q+) g4 7. c6 g3 8. c7 g2 9. c8=Q Kf2 10. Qg4 $1 g1=Q+ 11. Qxg1+ Kxg1 12. e4 g5 13. e5 g4 14. e6 g3 15. e7 g2 16. e8=Q 1-0
+
+[Event "Bulletin Leningrad IZT"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p6/1p2p1N1/4P3/pp6/8/k1K3N1/8 w - - 0 1"]
+
+1. N6f4 $1 (1. N2f4 $2 b3+ 2. Kc3 b2 3. Nd3 b1=Q 4. Nb4+ Qxb4+ 5. Kxb4 a3 6. Nf4 Kb2 7. Nd3+ Kc2 8. Ne1+ Kd1) b3+ 2. Kc3 $1 (2. Kd2 $2 b2 3. Ne2 b1=Q) b2 3. Nd3 b1=Q (a3 4. Nb4+ Kb1 5. Kb3) 4. Nb4+ Ka1 $1 (Qxb4+ 5. Kxb4 a3 6. Ne3 Kb2 7. Nc4+) 5. Nc2+ Qxc2+ 6. Kxc2 b5 7. Nf4 $1 (7. Ne3 $2 b4 8. Nc4 b5 9. Nd2 b3+ 10. Nxb3+ axb3+ 11. Kxb3 Kb1 12. Kb4 Kc2 13. Kxb5 Kd3 14. Kc5 Ke4 15. Kd6 Kf5) (7. Kc3 $2 a3 8. Kb3 (8. Ne1 Kb1 9. Nf3 b4+ $1 10. Kxb4 (10. Kb3 a2 11. Nd2+ Kc1) a2 11. Nd2+ Kb2 12. Nb3 b5 $1) b4 $1 9. Ne3 Kb1 10. Nc2 a2) b4 8. Nxe6 $1 b3+ 9. Kc3 b2 10. Nd4 b1=Q 11. Nc2+ Ka2 12. Nb4+ Ka1 (Qxb4+ 13. Kxb4 a3 14. e6) 13. Nc2+ Ka2 (Qxc2+ 14. Kxc2 b5 15. e6 b4 16. e7 b3+ 17. Kc3 b2 18. e8=Q b1=Q 19. Qxa4+) 14. Nb4+ 1/2-1/2
+
+[Event "Vecherni Leningrad (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - XII-27 2012."]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/P2p4/p2P2p1/1k1P4/n6N/K7 w - - 0 1"]
+
+1. a6 $1 Nb4 2. a7 a3 3. a8=Q a2 4. Qb7 Ka3 5. Qc7 Kb3 6. Nxg4 Nc2+ 7. Qxc2+ Kxc2 8. Ne5 Kc3 9. Nc6 Kb3 10. Nd8 Kc3 11. Ne6 Kb3 12. Nf4 Kc3 13. Kxa2 Kxd4 14. Kb3 Ke3 15. Kc3 Kxf4 16. Kd4 1-0
+
+[Event "Bulletin Budapest ty"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4K2p/8/8/7p/4kP2/6P1/8 w - - 0 1"]
+
+1. Kf6 $1 (1. Kf7 $2 Kf2 $1 (Kf4 $2 2. Kf6) 2. f4 Kxg2 3. f5 h3 4. f6 h2 5. Kg8 h1=Q 6. f7 Qf1) Kf4 (Kf2 2. Kg5) 2. Kg7 $1 Kg3 3. Kxh7 Kxg2 4. f4 h3 5. f5 h2 6. f6 (6. Kg8 {<or>} h1=Q 7. f6) h1=Q+ 7. Kg8 $1 (7. Kg7 $2 Qa1) Qh6 (Kg3 8. f7) 8. f7 Qg6+ {<eg>} 9. Kh8 Qxf7 1/2-1/2
+
+[Event "source unknown"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5K1p/5P2/7N/6kp/8/8 w - - 0 1"]
+
+1. Nf3 $1 (1. Kg6 $2 h2 2. f6 h1=Q 3. Nf5+ Kf4 4. f7 Qc6+ 5. Kg7 Qc3+ 6. Kg6 Qc8 7. Nxh6 Qf8) (1. Kg7 $2 h2 2. f6 h1=Q 3. Nf5+ Kf4 4. f7 Qa1+ 5. Kg6 Qa8) Kxf3 2. Kg6 $1 (2. Kg7 $2 h2 3. f6 h1=Q 4. f7 Qa1+) h2 3. f6 h1=Q 4. f7 Qb1+ (Qg1+ 5. Kxh6) (Qg2+ 5. Kxh6) 5. Kxh6 1/2-1/2
+
+[Event ".hm Trud"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "N7/8/p7/1b6/5QKp/8/6p1/7k w - - 0 1"]
+
+1. Qe4 $1 (1. Qf3 $2 Be2) (1. Kh3 $2 Bd7+) Bd3 (Kh2 2. Qe5+ Kh1 3. Qd5 Kh2 4. Qd6+ Kh1 5. Kh3) 2. Qd5 (2. Qb7 $2 Kh2 3. Qc7+ Kh1 4. Qc6 Kh2 5. Qd6+ Kh1 6. Qd5) Bc4 (Kh2 3. Qe5+ Kh1 4. Kh3 g1=N+ 5. Kg4) 3. Qc6 $1 (3. Qe4 $2 Bd3 4. Qd5 Bc4) Bb5 (Kh2 4. Qd6+ Kh1 5. Kh3) 4. Qb7 $1 Bd7+ (Kh2 5. Qc7+ Kh1 6. Kh3) 5. Kxh4 Bc8 (Kh2 6. Qxd7 g1=Q 7. Qh3#) 6. Qc6 $1 (6. Qf3 $2 Kh2 7. Qf4+ Kh1 8. Qe4 Kh2 9. Qe5+ Kh1 10. Qd5 Kh2 11. Qd6+ Kh1 12. Qc6) Bd7 (Kh2 7. Qxc8 g1=Q 8. Qh3#) 7. Qd5 $1 Be6 8. Qe4 $1 Bf5 9. Qf3 $1 (9. Qd5 $2 Be6 10. Qe4 Bf5) Bg4 10. Kxg4 1-0
+
+[Event "source unknown"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/8/8/3K4/8/7p/7n/8 w - - 0 1"]
+
+1. Ke4 $1 Ng4 (Kg7 2. Kf4 Nf1 3. Kf3 Kg6 4. Kf2 h2 5. Kg2) 2. Kf3 Kg7 3. Kg3 h2 4. Kg2 1/2-1/2
+
+[Event "Sovyetskaya Molodezi"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6Bk/8/3p3P/Kpp5/3p4/3P4/8 w - - 0 1"]
+
+1. Bb2 $1 (1. Bf8 $2 b3 2. Ka3 c3 3. Bb4 b2 4. Ka2 d4) c3 2. Bc1 $1 Kh6 (cxd2 3. Bxd2) (c2 3. Kxb4) 3. dxc3+ 1-0
+
+[Event "3.hm Shakhmaty v SSSR#20"]
+[Source "Shakhmaty v SSSR/5"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/4P1p1/K5n1/4PP2/7P/k7/2b5 w - - 0 1"]
+
+1. e7 $1 (1. exd7 $2 Nf7 2. e5 Nd8) (1. fxg5 $2 dxe6 2. h4 Bf4) Bd2+ (Ne6 2. e8=Q Bd2+ 3. Ka4 $1) (Nxe4 2. e8=Q Bd2+ 3. Ka6 $1) 2. Kb6 $1 (2. Ka6 $2 Ne6 $1 3. Kb7 Ng7 4. f5 gxf5 5. exf5 Ne8 6. Kc8 Nf6) (2. Ka4 $2 Nxe4 $1 3. e8=Q Nc3+ 4. Kb4 Ne4+ $1 5. Ka4 Nc3+ 6. Ka5 Nd5+ $1 7. Ka4 Nc3+) Be3+ 3. Kc7 $1 Bxf4+ (Ne6+ 4. Kxd7 Ng7 5. e5 $1 Kb3 6. e6 Kc4 7. e8=Q Nxe8 8. Kxe8 Kd5 9. Kf7 Bc5 10. h4 $1 Ke4 11. Kxg6 Kxf4 12. h5 Ke5 13. Kf7 Kf5 14. h6) 4. e5 $1 (4. Kd8 $2 Ne6+ 5. Kxd7 Ng7 6. e8=Q Nxe8 7. Kxe8 Kb3 8. Kf7 Kc4 9. Kxg6 Kd4 10. Kf5 Bg3) Bxe5+ 5. Kb6 $1 (5. Kxd7 $2 Ne4 6. Ke6 Nf6 7. Kxe5 Ne8 8. Ke6 Kb3 9. Kf7 Nd6+ $1 10. Kxg6 Kc4 11. h4 Kd5 12. Kf6 Ne8+ 13. Kf7 Nd6+ 14. Kf8 Ke6 15. h5 Kf6) Bd4+ 6. Ka5 $1 Bc3+ 7. Ka4 $1 Ne4 8. e8=Q 1-0
+
+[Event "2.p International Friendship Team ty (t"]
+[Source "EG#00136."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "N4B2/1K3k1p/2p5/b2p2P1/6P1/3p4/3P2P1/8 w - - 0 1"]
+
+1. Bh6 $1 Kg6 (Bxd2 2. g6+) 2. Nc7 Bxc7 (Bxd2 3. Ne6 Be3 (Bc3 4. Nf4+) 4. Nf8+ Kf7 5. g6+) 3. Kxc7 c5 4. Bf8 c4 5. Ba3 $1 c3 6. Bc1 $1 Kxg5 (c2 7. Kd6 Kxg5 8. Kxd5) 7. dxc3+ 1-0
+
+[Event "Vecherni Leningrad"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p3p1/8/8/3k4/8/2P4P/7K w - - 0 1"]
+
+1. Kg2 $1 c5 (Kc3 2. Kf3 Kxc2 3. Ke4 Kd2 4. Kd5 Ke2 5. Kc6 Kf2 6. Kxc7 Kg2 7. Kd6 Kxh2 8. Ke5 Kh3 9. Kf5) (Ke3 2. Kg3 c5 3. Kg4 c4 4. Kg5 c3 5. Kg6 Kd2 6. Kxg7 Kxc2 7. h4 Kd3 8. h5) 2. Kf3 c4 3. Ke2 (3. Kg4 $2 Kc3) g5 4. h3 Ke4 5. c3 (5. Kf2 {<or>} Kf4 6. c3) Kf4 6. Kf2 1/2-1/2
+
+[Event "Shakhmatny Bulletin (te)"]
+[Source "Shakhmatny Bulletin/8"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b6/1P6/P3k3/6p1/4K3/8/8/8 w - - 0 1"]
+
+1. Kd4 $1 Ba7+ (Kf5 2. Kc5) (g4 2. Ke4 $1) 2. Ke4 Kf6 3. Kd5 g4 4. Kc6 g3 (Bb8 5. Kb6 g3 6. a7) 5. Kc7 g2 6. b8=Q Bxb8+ 7. Kxb8 g1=Q 8. a7 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/4"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Chekhover, Vitaly Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7n/7P/8/4R3/1K1R2Br/8/pkp5/8 w - - 0 1"]
+
+1. Re1 $1 a1=Q 2. Rxa1 Kxa1 3. Kb3 Rxg4 (c1=Q 4. Ra4+ Kb1 5. Bf5+) 4. Rd2 c1=Q (c1=R {<main>} 5. Ra2+ Kb1 6. Rb2+ Ka1 7. Ra2+) (c1=B {<main>} 5. Ra2+ Kb1 6. Rb2+ $1 Bxb2) (c1=N+ {<main>} 5. Kc2 Rc4+ 6. Kd1 $1 Rc8 7. Rc2) 5. Ra2+ Kb1 6. Ra1+ $1 Kxa1 1/2-1/2

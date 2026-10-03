@@ -1,0 +1,26 @@
+[Event "Chess Life & Review#0387"]
+[Source "Chess Life & Review/11"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Teodor, Costin"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6BK/4k1P1/8/8/2p5/2p5/2b5/b7 w - - 0 1"]
+
+1. Bh7 $1 Bd3 2. Bxd3 cxd3 3. g8=Q c2+ 4. Kh7 c1=Q 5. Qg5+ $1 Qxg5 1/2-1/2
+
+[Event "Fritz JT"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Teodor, Costin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/8/Pk6/8/8/5p2/5P2/8 w - - 0 1"]
+
+1. Kb8 $1 Kxa6 2. Kc7 Kb5 3. Kd6 Kc4 4. Ke5 Kd3 5. Kf4 Ke2 6. Kg3 Kd3 7. Kxf3 1-0

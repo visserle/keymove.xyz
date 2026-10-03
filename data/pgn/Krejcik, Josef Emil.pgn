@@ -1,0 +1,160 @@
+[Event "Deutsches Wochenschach#0710 (c)"]
+[Source "after game Krejcik=J -. (c): Deutsches Wochenschach=2 8-1-1905."]
+[Date "1904.10.30"]
+[Round "?"]
+[Composer "Krejcik, Josef Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/pk6/pp6/p2K4/N1B5 w - - 0 1"]
+
+1. Bxa3+ $1 Kc4 (Kxa3 2. Kc3 b2 3. Nc2#) 2. Bb2 Kb4 3. Kd3 a3 4. Bc3+ Ka4 5. Kc4 b2 6. Nb3 b1=Q 7. Nc5# 1-0
+
+[Event "Neuigkeits Weltblatt#400"]
+[Date "1916.05.11"]
+[Round "?"]
+[Composer "Krejcik, Josef Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1N6/2Kp1p2/2pP4/3k4/P3q2P/2P2n2/3P2N1/1b6 w - - 0 1"]
+
+1. Nxd7 $1 Nd4 $1 (Kc4 2. Ne3+ Kd3 (Qxe3 3. dxe3 Bf5 4. Nb6+ Kc5 5. d7 Bxd7 6. Nxd7+ Kc4 7. h5) 3. Nc5+ Ke2 4. Nxe4 Ne5 5. Nc5 f5 6. a5 f4 7. a6) (Qe8 2. Nf6+ Ke6 (Ke5 3. Nxe8 Bf5 4. d4+ Ke4 5. d7) 3. Nxe8 Ne5 4. d4) (Qxa4 2. Ne3+ Ke6 3. Nc5+) (Nxd2 2. Nf6+ Ke5 3. Nxe4 Nxe4 4. d7 Nc5 5. Kxc6) (Ng5 2. Ne3+ Ke6 3. Nc5+ Ke5 4. Nxe4 Ne6+ 5. Kc8 Bxe4 6. d7) 2. Ne3+ $1 Qxe3 $1 (Ke6 3. Nc5+ Ke5 4. Nxe4 Ne6+ 5. Kc8 Bxe4 6. d7 f5 7. d8=Q Nxd8 8. Kxd8) 3. c4+ $1 Kxc4 4. dxe3 Ne6+ 5. Kxc6 Kb4 6. Kb6 $1 Kxa4 7. Nc5+ Nxc5 8. Kxc5 Bf5 9. h5 1-0
+
+[Event "Neuburger Wochenschach"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Krejcik, Josef Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p4K2/8/p5B1/6N1/4P1p1/6k1/8 w - - 0 1"]
+
+1. e4 $1 Kf3 (a4 2. Ne3+ Kf3 3. e5 a3 4. e6 a2 5. Bf6) 2. e5 g2 (Kxg4 3. e6 Kxg5 4. e7 g2 5. e8=Q g1=Q 6. Qg8+ Kf5 7. Qxg1) 3. Be3 a4 4. Bg1 Kxg4 (a3 5. Ne3 Ke4 6. e6 Kd3 7. e7 a2 8. e8=Q a1=Q 9. Qb5+ Kd2 10. Qd5+ Ke2 11. Qc4+) 5. e6 a3 6. e7 a2 7. e8=Q a1=Q 8. Qe2+ Kg3 (Kh3 9. Qf3+ Kh4 10. Bf2+ Kg5 11. Be3+ Kh4 12. Qxg2) (Kh4 9. Bf2+ Kg5 10. Qe3+ Kg4 11. Qg3+ Kh5 12. Qf3+) (Kf5 9. Qf3+ Kg5 10. Be3+ Kh4 11. Qxg2) (Kg5 9. Be3+ Kh4 (Kf5 10. Qxg2) 10. Qxg2) 9. Bf2+ Kf4 10. Qe3+ Kg4 11. Qe4+ Kg5 12. Be3+ Kh5 13. Qg6+ Kh4 14. Bf2+ Kh3 15. Qh5# (15. Qg3# {<or>}) 1-0
+
+[Event "Neues Wiener Tagblatt#604"]
+[Source "also Deutsche Schachblätter 1939."]
+[Date "1934.11.03"]
+[Round "?"]
+[Composer "Krejcik, Josef Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3r4/1p1p1b2/1K1k1Pp1/2n1rnb1/q1P1p1N1/Pp6/3N1Q2 w - - 0 1"]
+
+1. Qxc4+ $1 Rxc4 2. Nxe3+ Ke5 3. Nxg4+ Kd5 4. Nxf6+ Ke5 5. Nxd7+ Kd5 6. Nxb6+ Ke5 7. Nxc4+ Kf6 8. Nxa3 Nd5 9. Nb1 Ne3 10. a4 Nxf5 {<eg>} 11. Nxf5 Kxf5 12. a5 g4 13. a6 g3 14. a7 g2 15. a8=Q g1=Q 16. Qd5+ Kf4 17. Qxd6+ 1-0
+
+[Event "Wiener Schachzeitung"]
+[Source "Wiener Schachzeitung/3-4"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Krejcik, Josef Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/p2B1pK1/pk6/1P6/1P6/8/8 w - - 0 1"]
+
+1. bxa5 $1 Kxa5 2. Kxg7 f5 3. Kf6 f4 4. Ke5 f3 5. Kd4 Kb5 6. Ke3 a5 7. Ba3 a4 8. b4 Kc4 9. Kxf3 Kb3 10. b5 Kxa3 11. b6 Kb2 12. b7 a3 13. b8=Q+ 1-0
+
+[Event "Österreichische Schachzeitung"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Krejcik, Josef Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/8/8/PPP5/5ppp/8/6K1/8 w - - 0 1"]
+
+1. Kg1 $1 Kb7 (g3 2. Kg2) (f3 2. Kf2) (h3 2. Kh2) (Kc7 2. a6) 2. b6 $1 f3 (Ka6 3. c6) (Kc6 3. a6) 3. Kf2 h3 4. Kg3 1-0
+
+[Event "Deutsche Schachzeitung#114 (c)"]
+[Source "Deutsche Schachzeitung/8 (c): Krug=P Estudios Artisticos de Ajedrez - XV-28 2015."]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Krejcik, Josef Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2B5/4p1pK/4N3/1p2p2k/3pr2p/2p4P/8/8 w - - 0 1"]
+
+1. Bd7 $1 g6 2. Be8 Rg4 3. Bxb5 Rg2 (Re4 4. Bd3) (d3 4. Bxd3 Rg2 5. Kg7 c2 (e4 6. Bxe4 Rg3 7. Bc2 Rg1 8. Kh7) 6. Be4 Rg3 7. Bxc2 e4 (Rg1 8. Kh7 e4 9. Bxe4 Rg3 10. Bc2 Rg1 11. Kg7) 8. Bd1+ $1 (8. Bxe4 $2 Rxh3 $1) Rf3 9. Kh7) 4. Bd3 c2 (e4 5. Bxe4 Rg3 6. Bc2 Rg1 7. Kg7 d3 8. Bxd3 Rg2 9. Kh7 c2 10. Be4 Rg3 11. Bxc2 Rg1 12. Kg7) 5. Be4 Rg3 6. Bxc2 e4 (Rg1 7. Kg7 d3 8. Bxd3 Rg2 9. Kh7 e4 10. Bxe4 Rg3 11. Bc2 Rg1 12. Kg7) 7. Bd1+ (7. Bxe4 $2 Rxh3 $1) Rf3 8. Be2 (8. Nxd4 $2 Kg5 9. Bxf3 (9. Nxf3+ exf3) exf3 10. Nxf3+ Kf4 11. Ng1 g5) (8. Kg7 $2 g5 9. Nc5 g4 10. Nxe4 d3 11. Bxf3 gxf3) d3 9. Bd1 d2 10. Be2 d1=Q 11. Bxd1 e3 12. Bxf3# 1-0
+
+[Event "Schach Echo#027"]
+[Date "1954.02.20"]
+[Round "?"]
+[Composer "Krejcik, Josef Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1Rp5/8/1p6/1P5p/4K1k1 w - - 0 1"]
+
+1. Rb8 $1 h1=Q 2. Rg8+ Kh2+ (Qg2 3. Rxg2+ Kxg2 4. Ke2 $1 (4. Kd2 $2 Kf2 5. Kd3 Ke1) Kg3 (c4 5. Kd2) 5. Kd3 Kf3 (Kf4 6. Kc4 Ke5 7. Kxc5) 6. Kc4 Ke3 7. Kxc5 Kd3 8. Kb4 Kc2 9. Ka3) 3. Kf2 $1 1-0
+
+[Event "Schach Echo#030"]
+[Date "1954.03.20"]
+[Round "?"]
+[Composer "Krejcik, Josef Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6q1/8/4N3/2p1p3/1pP5/1p6/1P2Q2p/2K4k w - - 0 1"]
+
+1. Nf4 $1 (1. Kd1 $2 Qg1+ 2. Kd2 Qg2) (1. Qxe5 $2 Qg2 $1 2. Kd1 Kg1 3. Qxc5+ Qf2 4. Qg5+ Kf1) (1. Nxc5 $2 Qg2 2. Qe1+ Qg1 3. Nd3 Qxe1+ 4. Nxe1 e4) (1. Qf3+ $2 Qg2 2. Qd1+ (2. Ng5 e4 3. Qd1+ Qg1 4. Nxe4 Qxd1+ 5. Kxd1 Kg2) Qg1 3. Ng5 Qxd1+ 4. Kxd1 Kg2) exf4 (Qg1+ 2. Kd2 exf4 (Qd4+ 3. Nd3 Qg1 4. Nf2+) 3. Qf1 Qxf1 (f3 4. Ke1 $1 f2+ 5. Ke2 Qxf1+ 6. Kxf1)) 2. Qf1+ Qg1 3. Kd2 $1 Qxf1 (f3 {<main>} 4. Ke1 (4. Qxf3+ $2 Qg2+) f2+ 5. Ke2 Qxf1+ 6. Kxf1) 1/2-1/2
+
+[Event "Mein Abschied von Schach-96"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Krejcik, Josef Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1k6/p7/p5p1/P5P1/P4K2/8 w - - 0 1"]
+
+1. Ke3 $1 Kc5 2. Kf4 Kc4 3. Kxg4 Kc3 4. Kf3 (4. Kf5 {<or>}) (4. Kf4 {<or>}) Kb2 5. Ke3 $1 (5. g4 $2 Kxa3 6. g5 Kxa2 7. g6 Kb2 8. g7 a3 9. g8=Q a2 10. Qg2+ Kb1 11. Qf1+ Kb2 12. Qe2+ Kb1 13. Qd1+ Kb2 14. Qd2+ Kb1) (5. Ke4 {<or>}) (5. Ke2 {<or>}) Kxa3 (Kxa2 6. Kd3 Kxa3 7. Kc3 Ka2 8. Kc2) 6. Kd3 (6. Kd2 {<or>}) Kxa2 (Kb4 7. g4 Kc5 8. Ke4) 7. Kc2 Ka1 (Ka3 8. g4 $1) 8. g4 a3 9. g5 a2 10. g6 a4 11. g7 a3 12. Kb3 Kb1 13. g8=Q 1-0
+
+[Event "Schach Echo#074"]
+[Date "1955.05.20"]
+[Round "?"]
+[Composer "Krejcik, Josef Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6p1/8/4K3/p1pp2B1/pNk4P/3R4 w - - 0 1"]
+
+1. Na4 $1 Kxd1 $1 (d2 2. Nxc3) 2. Kxd3 $1 a1=Q (c2 3. Nc3+ Kc1 4. Nxa2+ Kb2 5. Be5+ $1) 3. Nxc3+ Kc1 4. Be5 $1 a2 {<eg>} (Qb2 5. Bf4+) (Qb1+ 5. Nxb1 Kxb1 6. h4) (Kb2 5. Nb5+) (Qxc3+ 5. Bxc3 a2 6. h4) (g5 5. Bf6) 5. Ne2+ Kb1 6. Bxa1 Kxa1 7. Kc2 1-0
+
+[Event "Schach Echo#096 (c)"]
+[Source "(c): Krejcik=J Schach Echo=6 20-3-1956."]
+[Date "1955.11.20"]
+[Round "?"]
+[Composer "Krejcik, Josef Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2q5/4kp2/1p1pp3/1Pp5/K1pPN1B1/P1P5/2P4b/5R2 w - - 0 1"]
+
+1. Rxf7+ $1 Kxf7 2. Nxd6+ Bxd6 3. Bxe6+ Qxe6 (Kxe6 4. d5+ Ke7) 4. d5 Qe2 1/2-1/2

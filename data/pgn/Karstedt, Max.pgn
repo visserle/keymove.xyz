@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[Composer "Karstedt, Max"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/p3P3/8/4r3/8/7R/k1K5/8 w - - 0 1"]
+
+1. Rh7 (1. Rh6 $2 a5 2. e8=Q $10) (1. Rh5 $2 Re2+ 2. Kc1 $10) (1. e8=Q $2 Rxe8 2. Rg3 $10) (1. Rg3 a6 2. e8=Q) (1. Kd1 Rxe7 2. Rg3) Ka3 2. Kc3 (2. Kd2 $18) (2. Rh8 $2 Re2+ 3. Kc1 $10) (2. Rh3+ $2 Ka4 3. e8=Q+ $10) (2. Kd3 $2 Re6 3. e8=Q) (2. e8=Q $2 Rxe8 3. Rg7 Re2+ 4. Kc1) (2. Rh5 Re2+ 3. Kc1) Ka4 3. Kd3 (3. Rh4+ Ka5 4. Rh5) (3. Kc4 Re4+ 4. Kd5 $18) (3. Kd4 $2 Re1 4. e8=Q+ $10) (3. e8=Q+ $2 Rxe8 4. Rg7 Rc8+ 5. Kd2) (3. Kd2 $2 Re6 4. e8=Q+) Kb3 (a5 4. Rh4+ $18) 4. Kd4 (4. Kd2 Re2+ 5. Kxe2) (4. e8=Q $2 Rxe8 5. Rg7 $10) (4. Rh1 $2 a6 5. e8=Q) (4. Rh5 $2 Rxe7 5. Rg5) (4. Rh8 $2 Rxe7 5. Rg8) (4. Rh3 $2 Rxe7 5. Rg3) (4. Rh6 a5 5. e8=Q) (4. Rh4 Rxe7 5. Kd4) (4. Rf7 Re6 5. Rh7) Re6 5. Rh3+ (5. Kd5 $2 Re1 6. e8=Q $10) (5. Rf7 $2 Ka2 6. e8=Q) (5. e8=Q $2 Rxe8 6. Rg7 Rd8+ 7. Ke4) (5. Kd3 $2 a6 6. e8=Q) (5. Rg7 $2 Kb2 6. e8=Q) (5. Rh5 Rxe7 6. Rg5) Kb4 6. Re3 $18 (6. Rh1 $2 a6 7. e8=Q $10) (6. Rd3 $2 Rxe7 7. Rf3 $10) (6. Rh7 $2 Re1 7. e8=Q) (6. e8=Q $2 Rxe8 7. Rg3) (6. Rh6 $2 Re2 7. e8=Q) 1-0

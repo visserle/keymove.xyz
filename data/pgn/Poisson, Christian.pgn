@@ -1,0 +1,14 @@
+[Event "T.Gorgiev-100 MT, 1 prize"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[Composer "Poisson, Christian"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4B3/8/2P5/KR6/8/8/8/k1q5 w - - 0 1"]
+[PlyCount "37"]
+
+1. Ka6 (1. Bd7 $143 $1 Qf4 $11) Qc4 2. Bd7 $1 (2. Kb6 $143 Qg8 3. Bd7 Qb8+ $11) Ka2 3. Kb6 Qd4+ (Qf7 $144 4. Bf5 Qf6 5. Kb7 Ka3 6. c7 $18) 4. Kb7 Ka3 5. Kb8 $1 Ka4 (Qd6+ $144 6. c7 $1 Qxd7 7. Rb6 Qd4 8. Ra6+ Kb4 9. c8=Q $18) 6. Rb7 Qh8+ 7. Bc8 {zz} Ka5 8. c7 {zz} Qf8 (Qe8 $144 9. Rb3 $1 $18 {zz}) (Qg8 $144 9. Rb1 $1 $18 {zz}) 9. Rb2 $1 {zz} (9. Rb1 $143 Qg8 $1 {zz} 10. Rb2 (10. Rd1 $144 Qb3+ $11) Qf8 {zz} 11. Rb3 Qe8 {zz} 12. Rb7 (12. Rd3 $144 Qb5+ $11) Qh8 $1 $11 {zz}) Qh8 10. Rd2 {#30} (10. Rb7 $144 {#36} Qf8 11. Rb2 {loss of time}) Kb6 11. Rd6+ Kc5 12. Rd8 Qb2+ 13. Bb7 {win. eg :} Qh2 14. Rg8 Qf4 15. Rg6 Qh2 16. Rc6+ Kd4 17. Ka8 Qa2+ 18. Ra6 Qc2 19. c8=Q $18 1-0

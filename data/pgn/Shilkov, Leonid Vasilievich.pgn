@@ -1,0 +1,13 @@
+[Event "2.p All-Russian ty Shakhmaty Rossii"]
+[Source "EG#14949."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Shilkov, Leonid Vasilievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1N2k3/4p3/8/1K1P4/3b4/1n1P4/8 w - - 0 1"]
+
+1. d5 $1 exd5 (e5 2. d6+ Kd7 3. Kc3 Ba6 4. Nc5+) 2. Kc3 Ba6 3. Nc5 Nd1+ 4. Kd4 Bc4 5. d3 Ba2 6. Na6 $1 Ke6 (Kd6 7. Nb4 Bb3 8. Nxd5 Bxd5) 7. Nc7+ Kd6 8. Nxd5 Bxd5 1/2-1/2

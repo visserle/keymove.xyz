@@ -1,0 +1,12 @@
+[Event "New Statesman {and Nation}"]
+[Date "1955.05.21"]
+[Round "?"]
+[Composer "Cohen, D"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/P2pP3/7p/b1KQ1rNP/2P5/8/3q3k w - - 0 1"]
+
+1. Nf2+ $1 (1. Qxf4 $2 Qe2+) Rxf2 2. Qxd1+ Bxd1 3. e7 Ba4 (Re2 4. a7 Re4+ 5. Kd3 (5. Kd5 $2 Rxe7) (5. Kb5 $2 Re5+)) 4. a7 Rf4+ 5. Kd3 (5. Kd5 $2 Rf5+) Bb5+ 6. c4 Bxc4+ (Rxc4 7. a8=Q+) (Rf3+ 7. Ke2 Ra3 8. cxb5) 7. Kc3 1-0

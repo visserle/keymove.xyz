@@ -1,0 +1,38 @@
+[Event "Eskilstuna Kuriren"]
+[Date "1919.04.05"]
+[Round "?"]
+[Composer "Lindgren, Fritjof"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6P1/2k5/8/6K1/8/2r4P/6n1 w - - 0 1"]
+
+1. Kg3 $1 (1. Kf5 $2 Rg2 2. Kf6 Nh3 3. Kf7 Ng5+ 4. Kf6 Ne6 5. Kxe6 Rxg7) Ne2+ 2. Kh4 $1 (2. Kg4 $2 Nf4 $1 3. Kxf4 Rg2 4. Kf5 Rxg7 5. h4 Rh7 $1 6. Kg5 Kd6 7. h5 Ke7 8. Kg6 Rh8 9. h6 Rg8+) (2. Kh3 $2 Nf4+) (2. Kf3 $2 Nd4+ 3. Kg3 Nf5+) Nf4 3. g8=Q (3. h3 $2 Ng6+ 4. Kh5 Ne7) Rxh2+ 4. Kg4 (4. Kg3 { <or>}) (4. Kg5 {<or>}) Rg2+ 5. Kh4 Rxg8 1/2-1/2
+
+[Event "1/2.p Sweden ty Svenska Dagbladet"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Lindgren, Fritjof"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1k6/8/1K6/P7/1pR5/2p5/8 w - - 0 1"]
+
+1. Ka5 $1 Ka7 (b2 2. Rxc2 b1=Q 3. Rb2+ Qxb2) 2. Rc8 $1 (2. Rc4 $2 Kb8 $1) (2. Rc5 $2 Kb8 $1) (2. Rc6 $2 Kb8 $1) b2 (Kb7 3. Rc3 $1 (3. Rc4 $2 Kb8 $1) b2 4. Rxc2 b1=Q 5. Rb2+ Qxb2) 3. Rxc2 b1=Q 4. Rc7+ Ka8 5. Ra7+ $1 Kb8 (Kxa7) 6. Rb7+ Qxb7 (Kxb7) 1/2-1/2
+
+[Event "Svenska Dagbladet"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Lindgren, Fritjof"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6B1/3p4/P3p3/2P2b2/1K3p1p/n7/k6P/8 w - - 0 1"]
+
+1. c6 $1 (1. Bxe6+ $2 dxe6 2. c6 Nb5 3. Kxb5 Bd3+ 4. Kb6 Bxa6 5. Kxa6 f3) dxc6 (f3 2. a7 f2 (Nc2+ 3. Kc3 f2 4. a8=Q+ Kb1 5. Qb8+ Kc1 6. Qf4+) 3. a8=Q f1=Q 4. Qxa3+ Kb1 5. Qb3+ Kc1 6. Qc3+ Kd1 7. c7 Qf4+ 8. Kb3) 2. Bxe6+ (2. a7 $2 c5+ 3. Kxc5 Be4 4. Bxe6+ Kb2 $1 5. Bd5 (5. Bd7 f3 6. Bc6 Bxc6 7. Kxc6 f2) Bxd5 6. Kxd5 Nb5 $1 7. a8=Q Nc7+) Bxe6 3. a7 Bd5 (c5+ 4. Kxc5 Bd5 5. Kxd5 Nb5 6. a8=Q+) 4. Kc5 1-0

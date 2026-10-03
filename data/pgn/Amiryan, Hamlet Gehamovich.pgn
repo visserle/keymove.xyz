@@ -1,0 +1,110 @@
+[Event "Shakhmaty v SSSR (tt) (v)"]
+[Source "Shakhmaty v SSSR/11 after Kolodyazhny=D a3e5 1928. (v): Amiryan=G Shakhmaty v SSSR/5 1969."]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Amiryan, Hamlet Gehamovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "q4r1N/1p6/p2pp3/p1p1k1KP/1R1N4/P2p4/5P2/8 w - - 0 1"]
+
+1. Nc6+ $1 bxc6 2. Ng6+ Kd5 3. Ne7+ Ke5 4. f4+ Rxf4 5. Ng6+ Kd5 6. Nxf4+ Ke5 7. Nxd3+ Kd5 8. Nf4+ Ke5 9. Ng6+ Kd5 10. Ne7+ Ke5 11. Rb8 Qxb8 12. Nxc6+ Kd5 13. Nxb8 c4 14. Nc6 $1 Kxc6 15. Kf4 1-0
+
+[Event "Schakend Nederland#1524"]
+[Source "Schakend Nederland/10"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Amiryan, Hamlet Gehamovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2q5/8/1k6/2rR4/8/3R4/K7 w - - 0 1"]
+
+1. Rb2+ $1 Ka6 (Ka5 2. Ra2+ Kb4 3. Rb2+ Kc3 4. Rxc4+ Qxc4 5. Rc2+ Kxc2) 2. Ra2+ Kb7 3. Rb2+ Kc8 4. Rxc4 Qxc4 5. Rc2 Qxc2 1/2-1/2
+
+[Event "Shakhmatny Armenia"]
+[Source "EG#08742. also .c H 200 AT Leninske Plemja 1989."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Amiryan, Hamlet Gehamovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5N2/8/4p3/8/K1k4p/8/8/8 w - - 0 1"]
+
+1. Ng6 $1 (1. Nd7 $2 Kd4 2. Nf6 e5 3. Kb3 Kd3 4. Kb2 (4. Ng4 e4 5. Nf2+ Ke3 6. Nh3 Kd2 7. Ng5 Kd3) Kd2 5. Ne4+ (5. Kb3 h3 6. Ne4+ (6. Ng4 e4) Ke3 7. Ng3 Kf2) Ke3 6. Ng5 (6. Nf6 Kf3) Kf4 7. Nh3+ (7. Ne6+ Kg4) Kg3 8. Ng5 h3 9. Nxh3 Kxh3 10. Kc3 Kg3) h3 2. Ne5+ Kc3 3. Ng4 e5 4. Kb5 $1 e4 5. Kc5 $1 e3 6. Nxe3 h2 7. Nd1+ Kd2 8. Nf2 Ke2 9. Nh1 Kf3 10. Kd4 Kg2 11. Ke3 Kxh1 12. Kf2 1/2-1/2
+
+[Event "Szachy#1630"]
+[Source "Szachy/4"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Amiryan, Hamlet Gehamovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7R/8/5p2/6P1/4kp2/6bK w - - 0 1"]
+
+1. Re6+ $1 Kf3 2. Rf6 Kxg3 3. Rg6+ Kf3 4. Rg3+ $1 Ke2 (fxg3) 5. Rf3 Bh2 6. Kg2 Bg3 7. Kh1 f1=Q+ (Ke1 {<main>} 8. Kg2 Ke2 9. Kh1) 8. Rxf1 Kxf1 1/2-1/2
+
+[Event "6.hm Armenia JT Shakhmatain Aiastan"]
+[Source "EG#04234."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Amiryan, Hamlet Gehamovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/4p3/2p5/5P2/5pR1/5kbK w - - 0 1"]
+
+1. Rg5 $1 e4 (Ke2 2. Rxe5+ Kxf3 3. Rf5+ (3. Rc5 Bh2 (f1=Q 4. Rf5+ Ke2 5. Rxf1 Kxf1) 4. Kxh2 f1=Q 5. Rf5+ Ke2 6. Rxf1 Kxf1) Ke4 4. Rf8 c3 5. Kg2 c2 6. Rc8 Kd3 7. Rd8+ Ke2 8. Re8+) 2. Re5 Ke2 (Bh2 3. Kxh2 Ke2 4. Rxe4+ Kxf3 5. Rxc4 f1=Q 6. Rf4+ Kxf4) 3. Rxe4+ Kxf3 4. Rxc4 f1=Q (f1=R 5. Rc1 Rxc1) 5. Rf4+ Kxf4 1/2-1/2
+
+[Event "Fritz JT"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Amiryan, Hamlet Gehamovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p7/P7/1p6/1P1p4/QKbb2pP/3k2P1/8 w - - 0 1"]
+
+1. Ka2 $1 (1. Qa2+ $2 Kd1 2. Qa5 Bc4+ 3. Ka3 Kc2) Kc2 2. Qb3+ Kc1 3. Qa3+ Kd2 4. h4 Kc2 5. Qb3+ Kc1 6. Qa3+ Kd2 7. h5 Kc2 8. Qb3+ Kc1 9. Qa3+ Kd2 10. h6 Kc2 11. Qb3+ Kc1 12. Qa3+ Kd2 13. h7 Bxh7 14. Qb3 Bd3 15. Qa3 Kc2 16. Qb3+ Kc1 17. Qa3+ Kd2 18. Qb3 Bc4 19. Kb1 $1 Bd3+ 20. Ka2 Bc4 21. Kb1 Bxb3 1/2-1/2
+
+[Event "Revista de Romana de Sah#1039"]
+[Source "Revista de Romana de Sah/3"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Amiryan, Hamlet Gehamovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "N3kB2/5p2/8/8/6p1/5p1p/8/7K w - - 0 1"]
+
+1. Bc5 $1 g3 2. Nc7+ $1 (2. Nb6 $2 f2 $1) Kd7 3. Nd5 Kc6 4. Bf2 $1 (4. Ne7+ $2 Kxc5 5. Nf5 g2+ $1) gxf2 (g2+ 5. Kg1 Kxd5 6. Bg3 Kd4 7. Kf2 $1) 5. Ne3 Kc5 6. Kh2 Kd4 7. Nf1 $1 Kd3 8. Kxh3 Ke2 (f5 {<main>} 9. Nh2 $1 Ke2 10. Kg3) 9. Ng3+ Ke1 10. Kg4 1/2-1/2
+
+[Event "4.hm Molodoj Leninets (Kurgan)"]
+[Source "EG#08015."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Amiryan, Hamlet Gehamovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K1Q5/2P5/6q1/8/8/3b3p/k7/8 w - - 0 1"]
+
+1. Qxh3 $1 Qc6+ 2. Kb8 Be4 3. Qh2+ Ka3 4. Qh3+ Ka4 (Kb4 5. Qc3+ Kxc3 6. c8=Q) 5. Qd7 (5. c8=Q $2 Qb6+) Qxd7 6. c8=Q 1/2-1/2

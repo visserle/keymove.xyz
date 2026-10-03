@@ -1,0 +1,55 @@
+[Event "Tijdschrift v.d. KNSB#240 (c)"]
+[Source "Tijdschrift v.d. KNSB/3 (c): Hadac_Kovan=V Prager Presse 1933."]
+[Date "1918.??.??"]
+[Round "?"]
+[Composer "Weenink, Henri Gerard Marie"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/6B1/3p4/4p3/5p1k/5K2 w - - 0 1"]
+
+1. Bh4 $1 d3 2. Bxf2 $1 d2 3. Be1 $1 d1=R (d1=Q) 4. Ke2 Ra1 5. Bh4 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#246"]
+[Source "Tijdschrift v.d. KNSB/5"]
+[Date "1918.??.??"]
+[Round "?"]
+[Composer "Weenink, Henri Gerard Marie"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/K7/1p5p/3B1p2/3B1P2/1P5p/7k w - - 0 1"]
+
+1. Bf1 $1 h4 2. Bh3 b4 3. Ba7 b3 4. Kb6 Kg1 5. Kb5+ Kh1 6. Kc5 Kg1 7. Kc4+ Kh1 8. Kd4 Kg1 9. Kd3+ Kh1 10. Bf1 h3 11. Bb8 Kg1 12. Bxf4 $1 h1=Q 13. Ke2 $1 h2 14. Be3# 1-0
+
+[Event "Tijdschrift v.d. KNSB#277"]
+[Source "Tijdschrift v.d. KNSB/5"]
+[Date "1919.??.??"]
+[Round "?"]
+[Composer "Weenink, Henri Gerard Marie"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2B5/8/5k1K/4p3/1b4P1/8/8/8 w - - 0 1"]
+
+1. g5+ $1 Ke7 (Kf7 2. g6+) 2. g6 Ke8 3. Bd7+ $1 (3. g7 $2 Bf8) Kxd7 4. g7 1-0
+
+[Event "Algemeen Handelsblad (c)"]
+[Source "(c): Rueb=A H.G.M. Weenink#17 1932."]
+[Date "1919.02.01"]
+[Round "?"]
+[Composer "Weenink, Henri Gerard Marie"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/2B4R/1p6/p2K4/1k6 w - - 0 1"]
+
+1. Rh1+ $1 Kb2 2. Rh3 a1=Q 3. Rxb3+ Ka2 4. Kc2 Qd4 5. Rc3+ 1-0

@@ -1,0 +1,13 @@
+[Event "Deutsche Schachzeitung#0929"]
+[Source "Deutsche Schachzeitung/1"]
+[Date "1904.??.??"]
+[Round "?"]
+[Composer "Sticher, R"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1p3N1P/1p6/1P1p4/3p3K/2rP4/7k w - - 0 1"]
+
+1. h7 $1 Rc8 (Rxd2 2. Ng4) 2. Ng8 (2. Kg4 $2 Rh8 3. Kg5 Kg2 4. Kg6 Kf3 5. Kg7 Rxh7+ 6. Kxh7 Ke2 7. Ne4 Kf3) Rxg8 3. hxg8=N $1 Kg1 4. Kg3 Kf1 5. Nf6 Ke1 6. Ne4 Kd1 7. Kf4 Kc2 8. Ke5 Kb3 9. Kxd4 Kxb4 10. Kxd3 Ka3 11. Ke3 1-0

@@ -1,0 +1,12 @@
+[Event "Shakhmatnoye Obozrenye#143"]
+[Date "1904.??.??"]
+[Round "?"]
+[Composer "Gavrilov, Constantin Grogoryevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b6/1P6/3p2b1/1Q4P1/5kP1/B7/2p3PK/3q4 w - - 0 1"]
+
+1. Bc1+ $1 Qxc1 (Kxg4 2. Qd7+ Bf5 3. Qa4+ Kh5 4. Qe8+ Kg4 5. Qa4+) (Ke4 2. Qc4+ Qd4 3. Qxc2+ Kd5 4. Qc8) 2. Qf1+ Qxf1 3. g3+ Ke5 1/2-1/2

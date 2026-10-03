@@ -1,0 +1,27 @@
+[Event "3.hm Shakhmaty v SSSR#46"]
+[Source "Shakhmaty v SSSR/12 EG#03727."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Mazur, Oleg Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/3N4/K5N1/1rp1R2p/3k4 w - - 0 1"]
+
+1. Ne4 $1 Rb3+ (c1=Q 2. Nf2#) (h1=Q 2. Nc3+ Kc1 3. Rxc2+ Rxc2 4. Nb3#) 2. Kxb3 (2. Ka4 $2 Ra3+ 3. Kxa3 c1=Q+) c1=N+ 3. Kb2 Nxe2 4. Nf3 h1=N 5. Kb1 1-0
+
+[Event ".c Shakhmaty v SSSR#22 (c)"]
+[Source "Shakhmaty v SSSR/6 (c): Garcia=M Estudios Artisticos de Ajedrez - VII-28 2012."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Mazur, Oleg Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4B3/2P5/4p1p1/3N4/6K1/6p1/3b3k/5n2 w - - 0 1"]
+
+1. Nc3 $1 g2 (Bxc3 2. c8=Q) 2. Ne2 Ne3+ 3. Kf3 Nf5 4. c8=Q Nd4+ 5. Nxd4 (5. Kf2 $2 Nxe2 6. Qc7+ Nf4 7. Qh7+ Nh3+) g1=Q 6. Qc7+ Kh1 7. Qh7+ Qh2 8. Bc6 (8. Qxh2+ $2 Kxh2 9. Kf2 Kh3) Qxh7 9. Kg3+ Kg1 10. Nf3+ Kh1 (Kf1 11. Bb5#) 11. Nxd2+ Kg1 12. Nf3+ Kh1 13. Ng5+ Kg1 14. Nxh7 1-0

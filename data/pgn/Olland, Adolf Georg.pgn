@@ -1,0 +1,12 @@
+[Event "Utrechts Dagblad"]
+[Date "1912.03.16"]
+[Round "?"]
+[Composer "Olland, Adolf Georg"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/b7/1p5p/3b4/7K/1B4Q1/6q1/8 w - - 0 1"]
+
+1. Bxd5+ $1 Qxd5 2. Qf3 Qxf3 (Qb7 3. Qf8+ Qb8 4. Qf3+ Qb7 5. Qf8+ Bb8 6. Qa3+ Qa7 7. Qf3+ Qb7 8. Qa3+) 1/2-1/2

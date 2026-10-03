@@ -1,0 +1,81 @@
+[Event "Deutsche Schachzeitung#1779"]
+[Source "Deutsche Schachzeitung/10"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Korn, M"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1q4N1/1N3rp1/2pp4/p1bk1P2/P3pP2/3pP3/2R5/K2B4 w - - 0 1"]
+
+1. Rc3 $1 Qxb7 (Bxe3 2. Bb3+ Kd4 3. Rc4+ Kd5 4. Rb4#) (Rxb7 2. Bb3+ Rxb3 3. Ne7#) 2. Nf6+ gxf6 3. Bb3+ Qxb3 4. Rxc5+ dxc5 1/2-1/2
+
+[Event "Bull. Cercle d'Échecs "]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Korn, M"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3Q4/8/8/5K2/8/2pp4/3k4 w - - 0 1"]
+
+1. Qa4 $1 Ke1 2. Qe4+ Kd1 3. Qh1+ Ke2 4. Qf3+ Ke1 5. Ke3 d1=N+ 6. Kd3 c1=N+ 7. Kc2 1-0
+
+[Event "Bulletin Ouvrier des Échecs#026"]
+[Source "Bulletin Ouvrier des Échecs/2 after Gill=H g1f3 1936."]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Korn, M"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/5N2/5k1p/5p1P/7K w - - 0 1"]
+
+1. Ne2 $1 f1=Q+ 2. Ng1+ Kf2 1/2-1/2
+
+[Event "Bulletin Ouvrier des Échecs#027"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Korn, M"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6N1/8/2k5/8/2B4p/5p1P/7K w - - 0 1"]
+
+1. Bd4+ $1 Kxd4 2. Nf5+ Kd3 3. Ng3 1/2-1/2
+
+[Event "Bulletin Ouvrier des Échecs#043"]
+[Source "Bulletin Ouvrier des Échecs/6"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Korn, M"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/2R5/4K3/2ppp1k1/pp6/6P1/8 w - - 0 1"]
+
+1. Rg6+ $1 (1. Kxe4 $2 b2 2. Rb6 (2. Rg6+ Kh5) a2) Kh5 2. Kf5 a2 3. Rg3 Kh6 4. Kf6 Kh7 5. Kf7 Kh6 6. Kf6 Kh5 7. Kf5 1/2-1/2
+
+[Event "Bulletin Ouvrier des Échecs#090"]
+[Source "Bulletin Ouvrier des Échecs/8-9"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Korn, M"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/8/6p1/1p5p/1pP5/pP5k/P7/8 w - - 0 1"]
+
+1. c5 $1 (1. cxb5 $2 g5 2. b6 g4 3. b7 g3 4. b8=Q g2 5. Qc8+ Kh2 6. Qc2 h4 7. Qf2 h3) g5 (Kg2 2. c6 h4 3. c7 h3 4. c8=Q h2 5. Qg4+) 2. c6 g4 3. c7 g3 4. c8=Q+ Kh2 5. Qd8 Kh3 6. Qd7+ Kh2 7. Qe7 Kh3 8. Qe6+ Kh4 9. Qg6 g2 {<eg>} 10. Kg7 1-0

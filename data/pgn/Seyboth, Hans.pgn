@@ -1,0 +1,12 @@
+[Event "St.Petersburger Zeitung"]
+[Date "1907.??.??"]
+[Round "?"]
+[Composer "Seyboth, Hans"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1R2P3/8/1P6/1kp5/3n4/1NK5/4r3 w - - 0 1"]
+
+1. Nxd3+ $1 cxd3+ 2. Kd2 $1 Re6 (Re5 3. Kxd3 Kc5 4. Rc7+ Kb6 (Kd6 5. Kd4) 5. Kd4 Re1 6. Rd7) 3. Kxd3 (3. b6 $2 Kc5 4. Rd7 Kxb6 5. Rd6+ Rxd6 6. e8=Q Kc5) Kc5 4. Rc7+ $1 Kxb5 5. Kd4 Kb6 6. Kd5 Kxc7 (Re1 7. Rc6+ Kb7 8. Re6) 7. Kxe6 1-0

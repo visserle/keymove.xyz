@@ -1,0 +1,327 @@
+[Event "Rigaer Tageblatt"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "6qk/3R4/2p5/6p1/2P1K1N1/6P1/8/8 w - - 0 1"]
+
+1. Ne5 $1 (1. c5 $2 Qa2 2. Kf5 $10) (1. Ke5 $2 Qxc4 2. Nf6 $10) (1. Re7 $2 c5 2. Ne5) (1. Rd4 $2 Qg6+ 2. Ke5) (1. Ke3 Qe6+ 2. Ne5 Qxe5+ 3. Kd2 Qxg3 4. Rd8+ Kg7) Qe6 $1 2. Rd6 (2. Rd8+ $2 Kg7 3. c5 $10) (2. g4 $2 Kg8 3. Rc7 $10) (2. Rc7 $2 c5 3. g4 $10) (2. c5 $2 g4 3. Rd8+ $10) (2. Kd4 $2 Qh3 3. Ke4 $10) Qh3 (Qc8 3. Rd8+ $3 $18 (3. Nf7+ $2 Kh7 4. Ne5 c5 5. Rg6 $10) (3. Rh6+ $2 Kg7 4. Rxc6 $10) (3. Rxc6 $2 Qb7 4. Kf5 $14 $10) (3. Rd7 $2 Kg8 4. Rd6 $10) (3. Rg6 $2 Qb8 4. Kf5) (3. Nxc6 $2 Qg4+ 4. Kd5) (3. Rd1 $2 Qh3 4. Rd8+) Qxd8 4. Nf7+ Kg7 5. Nxd8) (Qxd6 3. Nf7+ Kg7 4. Nxd6) 3. Rh6+ $1 (3. Rd8+ $2 Kg7 4. Rd6 Qxg3 5. Rxc6 $10 Qe1+ 6. Kd4) (3. Nf7+ $2 Kg7 4. Ne5 $10) (3. Ng6+ $2 Kh7 4. Ne5) (3. g4 $2 Kg7 4. Rxc6 Qg2+ 5. Kf5) (3. Rxc6 $2 Qxg3 4. c5) (3. Rg6 $2 Qxg3 4. Rxg5 Qh4+ 5. Rg4) Qxh6 4. Nf7+ $18 Kh7 5. Nxh6 Kxh6 {<eg>} 6. Kf5 Kh5 7. g4+ Kh4 8. c5 1-0
+
+[Event "Sehwers' Endspielstudien#14"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/3K4/pk6/8/3N4/3RP3/P7/2q5 w - - 0 1"]
+
+1. Rb3+ $1 (1. Ra3 Qxa3) (1. Rd1 Qxd1) (1. a4 Qc7+ 2. Ke8 Qe5+) (1. Kd6 Qc5+ 2. Ke6 Qc4+) (1. Nf3 Qc6+ 2. Kd8 Qf6+) (1. Nc2 Qxc2 2. Rd6+ Kb7) (1. Ke6 Qc4+ 2. Ke5 Qxd3) Ka5 (Kc5 {<main>} 2. Rb5+ (2. Rd3 $2 Qh1 3. Ne6+ Kb5 $10) (2. Rb7 $2 Qxe3 3. Nb3+ Kc4 $10 4. Rc7+) (2. e4 Kxd4 3. Rb4+ Ke5) (2. Nf5 Qd2+ 3. Nd4 Qxa2) (2. Rb4 Kxb4 3. a3+ Kc4) (2. Nf3 Qa1 3. Nd4) (2. Ke7 Kd5 3. Kd8) (2. Ke8 Kd6 3. Rb6+ Ke5) Kc4 (axb5 3. Nb3+ Kb4 4. Nxc1) 3. Rc5+ (3. Rd5 $4 Kxd5 $19 4. e4+ Kxd4) (3. Rb3 $2 Kd5 4. Kd8) (3. Rb4+ $4 Kxb4 4. a3+ Kc4) (3. a4 $4 axb5 4. axb5 Qxe3) (3. Nb3 $4 Qd1+ 4. Ke6 axb5 5. Na5+ Kb4) (3. Kc6 axb5) (3. Ne2 Qd2+ 4. Nd4 axb5) (3. Ra5 Qxe3 4. Nc6) (3. Rb7 Qxe3 4. Nb3) Kxc5 4. Nb3+ $18 Kb4 5. Nxc1) (Ka7 2. Nc6+ Ka8 3. Rb8#) 2. Rb5+ (2. Nc6+ $2 Ka4 3. Rb4+ $10) (2. Rb1 Qxb1) (2. a4 Kxa4 3. Kd6) (2. Ne2 Qd2+ 3. Nd4) (2. Rc3 Qxc3 3. Nc6+ Kb6) Ka4 (axb5 3. Nb3+ Kb4 4. Nxc1) 3. Ra5+ (3. Rb4+ $4 Kxb4 4. a3+ Kc4) (3. Nb3 $4 Qd1+ 4. Ke6 axb5) (3. Nc6 Kxb5 4. Nd4+ Ka4) (3. a3 axb5) (3. Rc5 Qxc5) (3. Rb3 Qd2 4. Kc7) (3. Rb6 a5 4. Rc6) Kb4 (Kxa5 4. Nb3+ Kb4 5. Nxc1) 4. a3+ (4. Nc6+ $18 Kc4 5. Ne5+) (4. Rb5+ $4 axb5 $19 5. Nxb5 Kxb5) (4. Nb3 $4 Qxe3 5. Rxa6 Qd3+) (4. a4 $2 Qc3 5. Rxa6) (4. Rxa6 $2 Qf1 5. a3+) (4. Rc5 Qxc5 5. a3+ Kxa3) (4. Kd6 Qb1 5. Nc6+) Kc4 (Kxa5 5. Nb3+ Kb5 6. Nxc1) 5. Rc5+ (5. Ra4+ $2 Kd3 6. Nc6 Kxe3 7. Nd4) (5. Kd6 $2 Qxe3 6. Nc6) (5. Rxa6 $2 Qxe3 6. Nc6) (5. Nb3 $4 Qxe3 6. Rxa6 Qxb3) (5. Ne2 Qd2+ 6. Ke6 Qxa5) Kxc5 6. Nb3+ $18 (6. a4 Qd2) Kc4 7. Nxc1 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/8/1R2p3/5b2/8/K7/3p4/2k1N3 w - - 0 1"]
+
+1. Rc6+ (1. Nd3+ $2 Bxd3 2. Rc6+ Bc2 $19) (1. Rb1+ $2 Bxb1 $19 2. Nd3+ Bxd3) (1. Nc2 $2 Bxc2 $19 2. Rb1+ Bxb1) (1. Kb3 $2 dxe1=Q 2. Rc6+ Kd2) (1. Ng2 d1=Q 2. Rc6+ Bc2) Kb1 2. Rb6+ (2. Rc1+ $2 dxc1=Q+ 3. Kb4 Be4 $19) (2. Rd6 $2 dxe1=Q 3. Rb6+ Kc1 4. Rxe6 Qa5+) (2. Nd3 $2 Bxd3 3. Rb6+ Ka1 $19) (2. Ng2 d1=Q 3. Rb6+ Ka1) Ka1 3. Rxe6 (3. Nc2+ $2 Bxc2 4. Rxe6 Bd3 $19) (3. Rb1+ $2 Bxb1 $19 4. Nc2+ Bxc2) (3. Nd3 $2 Bxd3 $19 4. Rxe6 d1=Q) (3. Rc6 $2 dxe1=Q 4. Rc1+ Qxc1+ 5. Kb4 Bd3) (3. Nf3 $2 d1=Q 4. Rxe6 Bxe6 5. Kb4 Qxf3) d1=Q (Bxe6 4. Nc2+ Kb1 5. Ne3 $10) 4. Nc2+ (4. Nd3 $2 Bxe6 5. Kb4 Qxd3) (4. Re5 $2 Qd6+ 5. Kb3 Qxe5 6. Nc2+ Bxc2+ 7. Kxc2 Qd5) (4. Rb6 $2 Qxe1 5. Rb1+ Qxb1) (4. Rd6 $2 Qxd6+ 5. Ka4 Qc6+) (4. Rf6 $2 Bd3 5. Nxd3 Qxd3+ 6. Ka4 Qd4+) (4. Nf3 Qxf3+ 5. Ka4 Bxe6) (4. Re3 Qc1+ 5. Kb3 Qxe3+ 6. Kb4 Be4) (4. Ng2 Bxe6) (4. Rc6 Qxe1) Bxc2 5. Re1 (5. Rb6 $2 Qd4 6. Rb1+ Bxb1) (5. Re5 $2 Qd6+ 6. Rc5 Qxc5#) (5. Ra6 $2 Qe1 6. Rb6 Qa5#) (5. Rc6 $2 Qf3+ 6. Kb4 Qxc6) (5. Re4 $2 Qd6+ 6. Rb4 Qa6+) Qxe1 1/2-1/2
+
+[Event "Sehwers' Endspielstudien#10"]
+[Site "?"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "3k4/R6p/2p1p1pq/8/4N2p/4PP2/4K2P/8 w - - 0 1"]
+
+1. Nd6 $1 (1. Ng3 hxg3 2. hxg3 Qh2+) Qh5 2. Ra5 (2. Nf7+ $4 Kc8 3. Nd6+ Kb8 $19) (2. Rb7 $4 Qc5 3. Nf7+ Kc8) (2. Ra6 $4 Kc7 3. Ne8+ Kd8) (2. Re7 $4 Kxe7 3. Nc8+ Kd7) (2. Nb5 $4 Qxb5+ 3. Ke1 Qb1+) (2. Nf5 $4 exf5 3. Ra8+ Kc7) (2. Ra1 $4 Ke7 3. Nc8+ Kf8) (2. Kd3 $4 Qd5+ 3. Ke2 Qxd6 4. Ra8+ Kc7) c5 3. Rxc5 (3. Ra8+ $4 Kc7) (3. Nb7+ $4 Ke7 4. Rxc5 g5 5. Rc7+ Kf8) (3. Nf7+ $4 Ke7 4. Ra7+ Kf8) (3. e4 $4 Ke7 4. Nc8+ Kf6) e5 (Qxc5 4. Nb7+ Kc7 5. Nxc5) 4. Rxe5 (4. Nb7+ $4 Kd7) (4. Rd5 $4 Kc7 5. Ne8+ Kc6) (4. Nf7+ $2 Kd7 5. Rd5+ Kc8 6. Rxe5 g5 7. Rc5+) g5 (Qxe5 5. Nf7+ Ke7 6. Nxe5) 5. Rxg5 (5. Rd5 $4 h6 $15 $17 6. Ne4+ Kc8) (5. Re8+ $4 Kd7) (5. Ne4 $4 h6 6. Rd5+ Kc8) (5. Nb7+ Kc7) Qh6 (Qxg5 6. Nf7+ Ke7 7. Nxg5) 6. Nf7+ $18 (6. Rg8+ $4 Kd7 7. Ne4) 1-0
+
+[Event "St.Petersburger Zeitung#35"]
+[Source "also Rigasche Rundschau#78 Rigasche Rundschau=193 26-8-1900 also also Deutsche Schachzeitung#0852 Deutsche Schachzeitung/12 1900."]
+[Date "1900.08.26"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/2p4q/2P2k1P/4N3/5K2/3P4/6R1 w - - 0 1"]
+
+1. Nd6+ $1 Kf6 (Ke6 {<main>} 2. Re1+ Kf6 (Kd7 3. Re7+ Kxe7 4. Nf5+ Kf6 5. Nxh6) (Kd5 3. Re5+ Kxe5 4. Nf7+ Kf6 5. Nxh6) 3. Re5 $1 Qxd2 (Kxe5 4. Nf7+ Kf6 5. Nxh6) 4. Ne4+ Kxe5 5. Nxd2) 2. Rg5 $1 Ke6 (Kxg5 3. Nf7+ Kxh5 4. Nxh6 Kxh6 5. d4 Kg6 6. d5 Kf6 7. d6) (Qxg5 3. Ne4+ Kf5 4. Nxg5) 3. Re5+ $1 Kf6 (Kxe5 4. Nf7+ Kf6 5. Nxh6) (Kd7 4. Re7+ Kxe7 5. Nf5+ Kf6 6. Nxh6) 4. Ke2 $1 Qf4 {<eg>} (Qg7 5. Ne8+ Kxe5 6. Nxg7) 5. Rf5+ Qxf5 6. Nxf5 Kxf5 7. Ke3 Ke5 8. d4+ 1-0
+
+[Event ".c La Stratégie#467"]
+[Source "La Stratégie/9"]
+[Date "1901.??.??"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p3N1/5pqp/1BBp4/6kP/6P1/8/2K5 w - - 0 1"]
+
+1. Nh5 $1 Qf7 (Kf3 {<main>} 2. Be2+ Ke4 (Kxe2 3. Nf4+ Kf3 4. Nxg6) 3. Bd3+ Kxd3 4. Nf4+ Ke4 5. Nxg6) (Qf5 {<main>} 2. Bd7 Qxd7 3. Nxf6+ Kf5 4. Nxd7) (Kxh5 {<main>} 2. Be2+ Qg4 3. Kd2 (3. Bxg4+ $2 Kxg4) Qxe2+ 4. Kxe2 Kg4 5. Kf2 f5 6. Be3 h5 {<eg>} 7. Bf4 c5 8. Bd6 c4 9. Be5 f4 10. Bxf4 d4 11. Be5 d3 12. Bc3) (Qxh5 2. Be2+ Kxg3 3. Bxh5 Kxh4 { <eg>} 4. Bf3) 2. Be8 Qe6 (Qxe8 3. Nxf6+ Kxg3 4. Nxe8) 3. Bd7 Qxd7 4. Nxf6+ Kxg3 5. Nxd7 1-0
+
+[Event "Shakhmatnoye Obozrenye#114"]
+[Source "also Rigaer Tageblatt 4-1-1903."]
+[Date "1902.??.??"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1q1p4/p2k3B/8/R1P1P2P/3K4/8/8 w - - 0 1"]
+
+1. Rb4 $1 Qc8 (Qa7 2. Be3 Qa8 3. Rb8 Qxb8 4. Bf4+ Kc6 5. Bxb8) (Qxb4 2. Bf8+ Ke6 3. Bxb4) (Qa8 2. Rb8 Qa7 3. Be3 Qxb8 4. Bf4+ Kc6 5. Bxb8) 2. Rb8 Qc6 (Qxb8 3. Bf4+ Kc6 4. Bxb8) 3. Rb6 $1 Qxb6 4. c5+ Qxc5 (Kxc5 {<main >} 5. Be3+ Kc6 6. Bxb6) 5. Bf8+ Kc6 6. Bxc5 1-0
+
+[Event "Baltische Schachblätter#097"]
+[Date "1902.??.??"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/8/7q/1Pk5/K5R1/1P3PN1/8 w - - 0 1"]
+
+1. Rc3+ $1 Kd4 2. Rd3+ Kc4 (Ke4 {<main>} 3. f3+ Ke5 (Kxd3 4. Nf4+ Ke3 5. Nxh5) 4. Rd5+ Kxd5 5. Nf4+ Ke5 6. Nxh5) (Kxd3 3. Nf4+ Ke4 4. Nxh5) 3. Rd5 Qh3+ (Qxd5 4. Ne3+ Kd4 5. Nxd5) (Kxd5 4. Nf4+ Ke4 5. Nxh5) 4. Ne3+ Qxe3+ 5. fxe3 1-0
+
+[Event "Düna Zeitung#107"]
+[Date "1902.12.21"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4N3/q7/3p4/p7/k7/4P3/1K1P4/5R2 w - - 0 1"]
+
+1. Rf4+ $1 Kb5 2. Rf7 $1 Qc5 (Qb8 3. Rb7+ Qxb7 4. Nxd6+ Kc6+ 5. Nxb7) (Qxf7 3. Nxd6+ Kc6 4. Nxf7) (Qb6 3. Rb7 Qxb7 4. Nxd6+ Kc6+ 5. Nxb7) 3. Rf5 d5 4. Rxd5 Qxd5 5. Nc7+ Kc5 6. Nxd5 1-0
+
+[Event "Düna Zeitung#123"]
+[Date "1903.09.27"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1q6/8/8/Bp1p1p2/8/3k4/N7/3K3B w - - 0 1"]
+
+1. Nb4+ $1 Ke3 $1 (Kc4 {<main>} 2. Bxd5+ Kc5 (Kd4 3. Nc6+ Kxd5 4. Nxb8) 3. Na6+ Kxd5 4. Nxb8) 2. Bb6+ $1 Kf4 (d4 {<main>} 3. Bxd4+ Kf4 (Kxd4 4. Nc6+ Kc5 5. Nxb8) 4. Be5+ $1 Qxe5 (Kxe5 {<main>} 5. Nc6+ Kd6 6. Nxb8) 5. Nd3+ Ke3 6. Nxe5) (Qxb6 3. Nxd5+ Kd4 4. Nxb6) 3. Bc7+ $1 Qxc7 4. Nxd5+ Ke5 5. Nxc7 1-0
+
+[Event "St.Petersburger Zeitung"]
+[Date "1904.??.??"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3p4/4qNpR/8/B7/4b1k1/4K3 w - - 0 1"]
+
+1. Nh4+ $1 Kg1 (Kg3 2. Bxd6 Qxd6 3. Nf5+ Kf4 4. Nxd6) 2. Bc5+ $1 dxc5 (Qxc5 {<main>} 3. Rxg5+ Qxg5 4. Nf3+ Bxf3) 3. Rxg5+ Qxg5 4. Nf3+ Bxf3 1/2-1/2
+
+[Event "Revaler Beobachter"]
+[Date "1905.08.06"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5pR1/1k6/7B/8/1p6/1p6/3K4 w - - 0 1"]
+
+1. Rg6+ $1 Ka7 (Kc7 {<main>} 2. Rc6+ Kxc6 3. Bf3+ Kc5 4. Be4) (fxg6 2. Bxg6) (Kc5 2. Rc6+ Kxc6 3. Bf3+ Kc5 4. Be4) (Ka5 2. Ra6+ Kxa6 3. Be2+ Ka5 4. Bd3) 2. Ra6+ Kxa6 3. Be2+ Ka5 4. Bd3 1/2-1/2
+
+[Event "Sehwers' Endspielstudien#31"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4B3/R6p/8/P3p3/8/8/3kp2K/8 w - - 0 1"]
+
+1. Rd7+ $1 Ke3 (Kc3 {<main>} 2. Rd3+ Kxd3 3. Bb5+ Kd2 4. Bxe2) (Kc2 { <main>} 2. Rd1 Kxd1 (exd1=Q 3. Ba4+ Kd2 4. Bxd1) 3. Bh5) (Kc1 2. Bh5) (Ke1 2. Bh5) 2. Rd3+ Kf4 (Ke4 {<main>} 3. Bc6+ Kxd3 4. Bb5+ Kd2 5. Bxe2) (Kxd3 3. Bb5+ Kd2 4. Bxe2) 3. Rf3+ Ke4 (Kxf3 4. Bh5+ Kf2 5. Bxe2) 4. Bc6+ Kd4 5. Rd3+ $1 Kxd3 6. Bb5+ Kd2 7. Bxe2 1-0
+
+[Event "Sehwers' Endspielstudien#73"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7B/8/1N6/8/7p/8/4kp2/1N5K w - - 0 1"]
+
+1. Nd2 $1 Kxd2 2. Nc4+ (2. Kg2 $2 Ke2) Ke2 3. Ne3 $1 (3. Nd2 $2 Kxd2 4. Kg2 Ke2) Kxe3 4. Bd4+ $1 Kxd4 5. Kg2 Ke3 6. Kf1 h3 (Kf3 {<main>}) 1/2-1/2
+
+[Event "Sehwers' Endspielstudien#77"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3b4/3P4/8/RK6/8/Pp2p3/8/7k w - - 0 1"]
+
+1. Ka4 $1 b2 (e2 {<main>} 2. Re5 b2 3. Rxe2 b1=Q 4. Rh2+ Kg1 5. Rh1+ Kxh1) (Bxa5 2. Kxa5 b2 3. d8=Q b1=Q 4. Qh4+ Kg2 5. Qg4+ Kf2 6. Qh4+ Ke2 7. Qh2+ Kd1 8. Qg1+) 2. Rb5 e2 3. Rxb2 e1=Q 4. Rb1 Qxb1 1/2-1/2
+
+[Event "Sehwers' Endspielstudien#02"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6q1/2p1p1N1/7P/4N1k1/P5P1/6K1/8/8 w - - 0 1"]
+
+1. h7 $1 Qxh7 (Qxg7 2. h8=Q) 2. Ne6+ Kh6 (Kf6 3. Nd7+ Kxe6 4. Nf8+ Kf7 5. Nxh7) 3. g5+ Kh5 4. Ng6 $1 Qxg6 {<eg>} (Kxg6 5. Nf8+ Kg7 6. Nxh7) 5. Nf4+ Kxg5 6. Nxg6 c5 {<eg>} 7. a5 c4 8. Nf4 1-0
+
+[Event "Sehwers' Endspielstudien#58"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/2k3Np/8/3p2pK/3R4/4bp1B/8 w - - 0 1"]
+
+1. Ne5+ $1 Kd5 (Kc5 2. Rd1) (Kb5 2. Rb3+ Ka4 3. Rb1) (Kc7 2. Nxg4+) 2. Nxg4 Bxg4 (f1=Q 3. Ne3+ Ke4 4. Nxf1) (Bxd3 3. Nxf2) 3. Rxd4+ Kxd4 (Kc5 4. Rf4) 4. Bg1 $1 fxg1=Q (fxg1=N 5. Kxg4) (fxg1=B 5. Kxg4) (fxg1=R) 1/2-1/2
+
+[Event "Sehwers' Endspielstudien#57 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - X-14 2012."]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4p2n/8/4p3/3p2RK/8/7k w - - 0 1"]
+
+1. Re3 $1 d2 2. Rxe4 $1 (2. Re2 $2 e3 3. Rxe3 Ng4 4. Rd3 Nf2+ 5. Kg3 Nxd3) d1=Q (Nf5 {<main>} 3. Re2 (3. Rg4 $2 Ne3 4. Rd4 d1=Q) d1=Q 4. Rh2+ Kg1 5. Rh1+ $1 Kxh1) 3. Re1+ $1 Qxe1 1/2-1/2
+
+[Event "Sehwers' Endspielstudien#76"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/R3P3/1Nk5/7b/1K6/8/1p6/8 w - - 0 1"]
+
+1. e8=Q+ $1 Bxe8 2. Rc7+ Kxb6 (Kxc7 3. Nd5+ Kd6 4. Nc3) 3. Ka3 b1=Q 4. Rb7+ Kxb7 1/2-1/2
+
+[Event "Sehwers' Endspielstudien#09"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p1q1/3p4/5k2/2K5/1R6/P3N1P1/8 w - - 0 1"]
+
+1. Nd4+ $1 Kf6 (Ke4 2. Re3+ Kxe3 3. Nf5+ Kf4 4. Nxg7) (Kg4 2. Rg3+ Kxg3 3. Nf5+ Kxg2 4. Nxg7) 2. Rf3+ Ke5 3. Re3+ Kf6 $1 4. Re6+ Kg5 $1 (Kf7 5. Rxe7+ Kxe7 6. Nf5+ Kf7 7. Nxg7) 5. Re5+ $1 Kg4 $1 (Kf6 6. Rf5+ Kg6 7. Rg5+ Kxg5 8. Ne6+ Kf6 9. Nxg7) (dxe5 6. Ne6+ Kf6 7. Nxg7) 6. Re4+ Kh5 7. Rh4+ $1 Kxh4 8. Nf5+ Kg5 9. Nxg7 1-0
+
+[Event "Sehwers' Endspielstudien#65 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - X-14 2012."]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2B5/6BR/8/2n4p/1p5p/7K/4p3/7k w - - 0 1"]
+
+1. Bb7+ $1 Nxb7 2. Bc3 bxc3 3. Re7 c2 4. Rxe2 c1=Q 5. Re1+ Qxe1 1/2-1/2
+
+[Event "Sehwers' Endspielstudien#11"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/p2P4/2Rp4/q4P1P/Pp1N4/8/8/4K3 w - - 0 1"]
+
+1. Rc5 $1 Qxa4 (Qb6 2. a5 Qa6 (Qb7 3. Ne6+ Kxd7 4. Rc7+ Qxc7 5. Nxc7) 3. Nc6+ Kxd7 4. Nb8+ Ke7 5. Nxa6) 2. Ra5 $1 Qxd7 3. Rxa7 $1 Qc8 (Qxa7 4. Nc6+ Kc7 5. Nxa7) (Qe8+ 4. Ne6+ Kc8 5. Ra8+ Kd7 6. Rxe8) 4. Ne6+ Ke8 5. Ra8 Qxa8 6. Nc7+ Kd7 7. Nxa8 1-0
+
+[Event "Sehwers' Endspielstudien#16"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3q4/8/3p4/3N3P/7P/1k6/8/K1R5 w - - 0 1"]
+
+1. Rc3+ $1 Ka4 2. Rc8 Qa5 (Qxh4 {<main>} 3. Rc4+ Qxc4 4. Nb6+ Kb4 5. Nxc4) 3. Ra8 Qxa8 4. Nb6+ Kb5+ 5. Nxa8 1-0
+
+[Event "1234 (Dover edition)#0686"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Sehwers, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6b1/3R4/2pPp1p1/3k4/8/1P3P2/K6p/8 w - - 0 1"]
+
+1. Rh7 $1 Bxh7 2. d7 h1=Q 3. d8=Q+ Kc5 4. Qa5+ Kd6 5. Qd8+ Ke5 6. Qg5+ Kd4 7. Qd2+ 1/2-1/2

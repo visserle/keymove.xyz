@@ -1,0 +1,188 @@
+/* Keymove: collections. */
+
+.collections {
+	margin-top: calc(-1 * var(--gutter));
+}
+
+.collection-browser {
+	display: grid;
+	/* Match the library card tracks: the collection list occupies the first
+	   track and the selected panel spans the remaining tracks. */
+	grid-template-columns: repeat(
+		auto-fill,
+		minmax(min(100%, var(--catalogue-track-min)), 1fr)
+	);
+	gap: var(--catalogue-track-gap);
+	align-items: start;
+}
+
+.collection-sidebar {
+	grid-column: 1;
+}
+
+.collection-panels {
+	grid-column: 2 / -1;
+}
+
+.collection-options {
+	display: grid;
+	padding: 0 0 4px;
+	background: var(--c-bg);
+	box-shadow: var(--box-shadow);
+}
+
+.collection-list-separator {
+	height: 8px;
+	background: transparent;
+}
+
+.collection-heading {
+	display: flex;
+	align-items: center;
+	height: 1.5em;
+	margin: 0 0 12px;
+	color: var(--c-font);
+	line-height: 1.5;
+}
+
+.collection-panel__header {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+	font-size: var(--font-size-field-label);
+	height: 1.5em;
+	margin: 0 0 12px;
+}
+
+.collection-panel__header .collection-heading {
+	margin: 0;
+}
+
+.collection-count {
+	font-size: var(--font-size-field-label);
+	color: var(--c-font-dim);
+	font-variant-numeric: tabular-nums;
+}
+
+.hide-solved {
+	display: inline-flex;
+	align-items: center;
+	gap: 6px;
+	margin-left: auto;
+	font-size: var(--font-size-field-label);
+	color: var(--c-font-dim);
+}
+
+.hide-solved input {
+	accent-color: var(--c-primary);
+}
+
+.collection-option {
+	display: block;
+	padding: 10px 8px;
+	border-bottom: 1px solid var(--c-border);
+	border-left: 2px solid transparent;
+	cursor: pointer;
+	transition: background-color 0.12s ease;
+	font-size: var(--font-size-md);
+	color: var(--c-font);
+}
+
+.collection-option:last-child {
+	border-bottom: 0;
+}
+
+.collection-option:hover {
+	background: var(--c-bg-low);
+}
+
+#collection-0:checked ~ .collection-sidebar label[for="collection-0"],
+#collection-1:checked ~ .collection-sidebar label[for="collection-1"],
+#collection-2:checked ~ .collection-sidebar label[for="collection-2"],
+#collection-3:checked ~ .collection-sidebar label[for="collection-3"],
+#collection-bookmarks:checked ~ .collection-sidebar label[for="collection-bookmarks"],
+#collection-solved:checked ~ .collection-sidebar label[for="collection-solved"],
+#collection-in-progress:checked ~ .collection-sidebar label[for="collection-in-progress"] {
+	background: var(--c-primary);
+	color: var(--c-bg);
+}
+
+
+.collection-panels {
+	min-width: 0;
+}
+
+.collection-panel {
+	display: none;
+}
+
+.collection-selector:nth-of-type(1):checked ~ .collection-panels .collection-panel:nth-child(1),
+.collection-selector:nth-of-type(2):checked ~ .collection-panels .collection-panel:nth-child(2),
+.collection-selector:nth-of-type(3):checked ~ .collection-panels .collection-panel:nth-child(3),
+.collection-selector:nth-of-type(4):checked ~ .collection-panels .collection-panel:nth-child(4),
+.collection-selector:nth-of-type(5):checked ~ .collection-panels .collection-panel:nth-child(5),
+.collection-selector:nth-of-type(6):checked ~ .collection-panels .collection-panel:nth-child(6),
+.collection-selector:nth-of-type(7):checked ~ .collection-panels .collection-panel:nth-child(7) {
+	display: block;
+}
+
+#collection-0:focus-visible ~ .collection-sidebar label[for="collection-0"],
+#collection-1:focus-visible ~ .collection-sidebar label[for="collection-1"],
+#collection-2:focus-visible ~ .collection-sidebar label[for="collection-2"],
+#collection-3:focus-visible ~ .collection-sidebar label[for="collection-3"],
+#collection-bookmarks:focus-visible ~ .collection-sidebar label[for="collection-bookmarks"],
+#collection-solved:focus-visible ~ .collection-sidebar label[for="collection-solved"],
+#collection-in-progress:focus-visible ~ .collection-sidebar label[for="collection-in-progress"] {
+	outline: 2px solid var(--c-primary);
+	outline-offset: -2px;
+}
+
+.collection-panel .cards {
+	margin-top: 0;
+}
+
+@media (max-width: 760px) {
+	.collection-browser {
+		grid-template-columns: 144px minmax(0, 1fr);
+		gap: 16px;
+	}
+
+	.collection-sidebar,
+	.collection-panels {
+		grid-column: auto;
+	}
+
+	.collection-option {
+		padding: 12px 8px;
+	}
+}
+
+@media (max-width: 640px) {
+	.collection-panel .card {
+		gap: 8px;
+		padding: 8px;
+	}
+}
+
+@media (max-width: 400px) {
+	.collection-browser {
+		grid-template-columns: 128px minmax(0, 1fr);
+		gap: 10px;
+	}
+
+	.collection-option {
+		padding: 10px 6px;
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.collection-browser {
+		grid-template-columns: minmax(0, 1fr);
+		gap: 24px;
+	}
+
+	.collection-sidebar,
+	.collection-panels {
+		grid-column: auto;
+	}
+}

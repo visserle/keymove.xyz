@@ -1,0 +1,235 @@
+[Event "2.c Shakhmaty v SSSR#06 (c)"]
+[Source "Shakhmaty v SSSR/2 (c): Shakhmaty v SSSR/6 1959."]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Evreinov, Viktor Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B6k/p1p3p1/2P2P2/4r1P1/2K5/P3P3/8/8 w - - 0 1"]
+
+1. f7 $1 Rf5 2. g6 a5 $1 3. e4 a4 $1 4. e5 Rf3 (Rf4+ 5. Kb5) 5. Kb5 (5. e6 $2 Rf5) (5. Kd5 $2 Rf5 6. f8=Q+ Rxf8 7. Ke6 Re8+ 8. Kd7 Rxe5 9. Kxc7 Re3 10. Kd6 Rd3+ 11. Ke5 Rxa3) Rb3+ 6. Ka6 Rb6+ 7. Ka7 Ra6+ 8. Kb7 $1 Ra7+ 9. Kc8 Rxa8+ 10. Kd7 Rd8+ 11. Ke7 Ra8 12. f8=Q+ (12. e6 $2 Rf8 $1) Rxf8 13. Kd7 Rf3 14. e6 (14. Kxc7 $2 Kg8) Rxa3 15. Kxc7 (15. e7 $2 Re3) Re3 16. Kd7 (16. Kd6 $2 Rd3+ 17. Kc5 Rd8 18. Kb4 Ra8 19. Ka3 Ra7 $1) Rd3+ 17. Ke8 Rc3 18. e7 Rxc6 19. Kd7 Rxg6 20. e8=Q+ Kh7 21. Qe4 Kh6 {<eg>} 22. Qh4# 1-0
+
+[Event "Ceskoslovensky Sach#042"]
+[Source "Ceskoslovensky Sach/4"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Evreinov, Viktor Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K5k/1P5p/4B2P/7b/1b6/8/7p/8 w - - 0 1"]
+
+1. Kc7 $1 Ba5+ 2. Kd6 $1 (2. Kc6 $2 Bf3+) (2. Kd7 $2 Be8+) Bb4+ 3. Ke5 Bc3+ 4. Kf4 $1 (4. Kf5 $2 Bg4+ 5. Kf4 Bxe6 6. b8=Q+ Bg8 7. Qc7 Bd2+ 8. Kf5 Bxh6 9. Qxh2 Bg7) Bd2+ 5. Kf5 $1 (5. Kg3 $2 h1=N+) Bg6+ 6. Ke5 Bc3+ 7. Kf4 Bd2+ 8. Kg3 h1=N+ 9. Kf3 Bh5+ 10. Bg4 Bxg4+ 11. Kxg4 Nf2+ 12. Kf3 1-0
+
+[Event "2.c Revista de Romana de Sah#0449"]
+[Source "Revista de Romana de Sah/8"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Evreinov, Viktor Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k4/4p2r/5P1P/4P2P/8/5K2/8/8 w - - 0 1"]
+
+1. f7 $1 Rxf7+ 2. Kg4 Ke8 3. Kg5 (3. e6 $2 Rf6 $1) Kf8 4. Kg6 Kg8 5. h7+ $1 Rxh7 6. e6 (6. h6 $2 Rf7 7. e6 Rf8) Rh8 (Rg7+ 7. Kh6 Rg1) 7. h6 1/2-1/2
+
+[Event "Ceskoslovensky Sach#063"]
+[Source "Ceskoslovensky Sach/7"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Evreinov, Viktor Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/4B3/1p6/7p/1N2K1p1/4n1k1 w - - 0 1"]
+
+1. Nd1 $1 (1. Kxe1 $2 h2) Nd3 (h2 2. Bd4+ Kh1 3. Nf2+ Kg1 4. Nh3+) 2. Kxd3 h2 3. Bd4+ Kf1 4. Ne3+ Ke1 5. Bf6 (5. Be5 $2 g1=Q) h1=Q (g1=Q {<main>} 6. Bh4+ Qf2 7. Bxf2+ Kxf2 8. Ng4+ Kg2 9. Nxh2) (Kf2 6. Ng4+ Kg3 7. Be5+ Kxg4 8. Bxh2) 6. Bh4+ Qxh4 7. Nxg2+ Kf2 8. Nxh4 1/2-1/2
+
+[Event "sp.hm All-Russian ty"]
+[Source "EG#14965."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Evreinov, Viktor Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/p7/p7/4B1kP/P7/7K w - - 0 1"]
+
+1. Bg1 $1 Kxh3 2. Bh2 Kg4 3. Kg2 Kf5 4. Kf3 Ke6 5. Ke4 Kd7 6. Kd5 Kc8 7. Kc6 a3 8. Bc7 a4 9. Bd6 Kd8 10. Bxa3 Kc8 11. Bd6 a3 12. Kb6 Kd7 13. Bxa3 1-0
+
+[Event "2/4.p Russian Federation Team champ (c)"]
+[Source "Russian Federation Team champ 1967-1968. (c): Krug=P Estudios Artisticos de Ajedrez - XV-47 2015."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Evreinov, Viktor Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r7/6pp/pPP5/Pp5K/6P1/1P3kP1/7P/2b5 w - - 0 1"]
+
+1. c7 $1 (1. b7 $2 Rd8 $1) (1. g5 $2 g6+ 2. Kh6 Rh8 3. c7 Ba3 4. Kg7 Rc8 5. Kxh7 Bd6 6. Kxg6 Bxc7) Re8 $1 (Rc8 2. Kh4) 2. g5 Ba3 3. b7 Re2 4. h3 Re6 5. c8=N $1 Bf8 6. b8=Q (6. Kh4 {<or>} g6 7. b8=Q) g6+ 7. Kh4 Re4+ 8. g4 Bc5 9. Qg3+ Ke2 10. Nd6 Re6 11. Ne4 $1 (11. Nf5 $2 Bf2 12. Nd4+ Bxd4 13. b4 h6 14. gxh6 Bf2 15. Qxf2+ Kxf2) Rxe4 12. b4 Bf2 13. Qxf2+ Kxf2 1/2-1/2
+
+[Event "64#079"]
+[Date "1969.08.01"]
+[Round "?"]
+[Composer "Evreinov, Viktor Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7R/5k2/p7/P5P1/8/3P1pP1/7K w - - 0 1"]
+
+1. g5+ $1 Kg6 2. Rh6+ Kxg5 3. Rh5+ Kg4 4. Rf5 Kxf5 5. g4+ Kxg4 6. Kg2 f1=Q+ 7. Kxf1 Kf3 8. Ke1 Ke4 9. Ke2 $1 Kd4 10. d3 Kc3 11. Ke3 Kb3 12. Kd4 $1 Kb4 13. Kd5 Kxa4 14. Kc4 Ka3 15. d4 a4 16. d5 Kb2 17. d6 a3 18. d7 a2 19. d8=Q a1=Q 20. Qd2+ Kb1 21. Kb3 1-0
+
+[Event "5.p 64#087"]
+[Source "EG#01615."]
+[Date "1970.10.16"]
+[Round "?"]
+[Composer "Evreinov, Viktor Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/B3P3/7P/rP6/8/8/8/4K3 w - - 0 1"]
+
+1. h7 $1 Ra1+ 2. Kd2 Rh1 3. b6 Rh2+ 4. Kd3 Rh3+ 5. Kc4 Rh4+ 6. Kb5 Rh5+ 7. Ka6 Rh6 $1 8. Bb8 Kxe7 9. Be5 $1 Rxh7 10. b7 Rh3 $1 11. Bd6+ $1 Kxd6 12. b8=Q+ 1-0
+
+[Event "3.hm Rubinstein MT Problemista (@2)"]
+[Source "EG#@4799. î2: EG=71 4/1983."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Evreinov, Viktor Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5bk1/4R2p/5P1P/r1P5/8/pp6/1P6/1K6 w - - 0 1"]
+
+1. f7+ $1 Kh8 2. Re8 a2+ 3. Ka1 Ra8 4. c6 Rd8 5. Re1 Rc8 (Ba3 6. Rc1 Bd6 7. Rd1) 6. Rg1 Bd6 7. Rg2 Rf8 8. Rf2 Rc8 9. Re2 Bf8 10. Rg2 Bd6 11. Rg1 Rd8 (Rf8 12. Rf1 Rc8 13. c7 Rf8 14. Rc1 Rc8 15. Re1 Bf8 16. Re8) 12. Rd1 (12. Re1 $2 Be5 13. c7 Rd1+ 14. Rxd1 Bxb2+ 15. Kxb2 a1=Q+ 16. Kxa1 b2+ 17. Ka2 b1=Q+ 18. Rxb1) Bf8 13. Rd7 Ra8 14. c7 Rc8 15. Rd8 Rxd8 (Ra8 16. Rd2 Rc8 17. Rg2 Ra8 18. Rg8#) 16. cxd8=B (16. cxd8=Q $2) Be7 (Bg7 17. Bf6) 17. Bc7 (17. Bb6 $1 {<minor dual>}) Bd6 18. Bb8 $1 1-0
+
+[Event "6/7.c Kommunist (@2)"]
+[Source "EG#@2370. î2: Roycroft=A EG=41 7/1975."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Evreinov, Viktor Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7k/3P1P2/8/rr3BR1/2K5/8/8 w - - 0 1"]
+
+1. f7 $1 (1. Rg7+ $2 Kh8 2. d7 Rc4+ 3. Kd3 Rd4+) Rc4+ 2. Kd3 Rc8 (Rxf4 3. Rxf4 Rxf4 4. d7) 3. d7 Rd8 4. Bd6 $1 Ra7 $1 (Rxg4 5. f8=Q Rxf8 6. Bxf8) (Raa8 5. f8=Q Rxf8 6. Bxf8 Rxf8 7. Rd4) 5. Rg7+ $1 (5. f8=Q $1 {<minor dual AR>} Rxf8 6. Rg7+) (5. Rg8 $2 Raxd7) Kxg7 6. f8=Q+ Rxf8 7. Bxf8+ Kxf8 8. d8=Q+ 1-0
+
+[Event "64#08"]
+[Date "1975.01.31"]
+[Round "?"]
+[Composer "Evreinov, Viktor Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/4K1p1/5P2/b3B1P1/4r1N1/8/8/8 w - - 0 1"]
+
+1. f7+ $1 (1. Ke6 $2 Bb4 2. Kf5 Rxg4) Kh7 2. f8=Q $1 (2. Kd7 $2 Bb4 3. Bd6 Rd4 4. f8=Q Rxd6+) Bb4+ 3. Kf7 Bxf8 4. g6+ Kh8 5. Kxf8 Rxe5 $1 6. Nh6 $1 Rf5+ 7. Nf7+ $1 Rxf7+ 8. gxf7 1-0
+
+[Event ".c Molodoj Leninets (Kurgan)"]
+[Source "EG#02887."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Evreinov, Viktor Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/P7/1N6/6p1/1N6/4pk1K/7b w - - 0 1"]
+
+1. Nc1 $1 g3+ 2. Kh3 g2 3. Nxe2 Kxe2 4. Nd4+ Kf2 5. Nf3 Kxf3 6. a7 Kf2 7. a8=Q g1=N+ 8. Kh2 Bxa8 1/2-1/2
+
+[Event "Sachové Umenie#5481"]
+[Source "Sachové Umenie/9"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Evreinov, Viktor Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3pp3/3p1p2/3P1P2/1pP1P3/1P3k2/7K/8 w - - 0 1"]
+
+1. e5 $1 Ke4 $1 (fxe5 2. c5 e4 (dxc5 3. d6 exd6 4. f6) 3. cxd6 e3 (exd6 4. f6 e3 5. f7 e2 6. f8=Q+) 4. dxe7 e2 5. e8=Q) (dxe5 2. c5 e4 3. Kg1 Ke2 4. c6 e3 5. cxd7 Kd2 6. d8=Q e2 7. Qxe7) 2. c5 $1 Kxd5 $1 (dxc5 3. d6 exd6 4. exf6) (Kxf5 3. e6 $1 dxe6 4. c6) (Kxe5 3. c6) 3. cxd6 e6 $1 4. exf6 Kxd6 5. Kg3 exf5 6. Kf4 Ke6 7. Kg5 Kf7 8. Kxf5 Ke8 (d6 9. Kg5 Kg8 10. Kf4 Kf8 11. Ke4 Ke8 12. Kd5) 9. Ke5 Kf7 10. Kd6 Kxf6 11. Kxd7 Ke5 12. Kc6 Kd4 13. Kb5 Kc3 14. Ka4 1-0
+
+[Event "5.hm Tungsram ty"]
+[Source "EG#04884."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Evreinov, Viktor Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2p5/1BPp4/3Pp2p/4Pp1p/5P1k/4K3 w - - 0 1"]
+
+1. Kf1 $1 (1. Bf1 $2 Kg1 2. Bxh3 Kh2 3. Bf1 Kg1) Kh1 2. Ba4 h2 3. Bd1 h3 4. Bxf3+ exf3 5. e4 dxe4 6. d5 e3 (cxd5 7. c6 e3 8. fxe3 d4 9. c7 dxe3 10. c8=Q e2+ 11. Ke1 f2+ 12. Kxf2) 7. fxe3 f2 8. Kxf2 cxd5 9. c6 d4 10. c7 dxe3+ 11. Kf1 (11. Kxe3 $2 Kg1 12. c8=Q h1=Q) e2+ 12. Kxe2 Kg1 13. c8=Q h1=Q 14. Qc1+ Kg2 15. Qg5+ Kh2 16. Qf4+ Kg2 17. Qf2# 1-0
+
+[Event "6.hm Mongolian Thematic ty"]
+[Source "EG#04768."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Evreinov, Viktor Alexandrovich"]
+[White "Evreinov, V"]
+[Black " Nadareishvili, G."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/p1B1K2p/P4P1P/1p2b3/8/8/pp2pp2/8 w - - 0 1"]
+
+1. f7 $1 Bd6+ 2. Bxd6 e1=Q+ 3. Kf8 Qb4 4. Bxb4 b1=N 5. Bd6 a1=B 6. Ke8 f1=Q 7. f8=Q+ Qxf8+ 8. Kxf8 Nd2 9. Bc5 Nf3 10. Bxa7 Bd4 11. Bxd4+ Nxd4 12. a7 Ne6+ {<eg>} 13. Ke7 Nc7 14. Kd6 Na8 15. Kc5 Kg8 (b4 16. Kxb4) (Nc7 16. Kc6) 16. Kxb5 Kf7 17. Kc6 Ke7 18. Kb7 Kd7 19. Kxa8 Kc8 1/2-1/2
+
+[Event "Revista de Romana de Sah#0898"]
+[Source "Revista de Romana de Sah/9"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Evreinov, Viktor Alexandrovich"]
+[White "Evreinov, V"]
+[Black " Katsnelson, L."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2b5/2P5/3P3k/8/8/4K2p/3BB2b w - - 0 1"]
+
+1. d6 $1 (1. Kf1+ $2 Kg5 2. d6 Bxc6 $1) Bxd6 (Bf3+ 2. Kf2 $1) (Bxc6 2. dxc7 $1) 2. c7 $1 (2. Kf1+ $2 Kg5 3. c7 Bb7 $1) Bxc7 $1 (Bb7 3. Kf2+ $1) 3. Kf1+ $1 (3. Bg3 $2 Bf3+ $1 4. Kf2 Bxd1) Kg5 4. Bg3 $1 Bxg3 5. Bf3 $1 Bxf3 1/2-1/2
+
+[Event "Shakhmaty v SSSR#29 (@2)"]
+[Source "Sha@hmaty v SSSR/9 î2: Shakhmaty v SSSR/3 1983."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Evreinov, Viktor Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p7/8/8/4K3/P7/1k2N3 w - - 0 1"]
+
+1. a4 $1 Kb2 2. Nd3+ Kc3 (Kb3 3. Nc5+ Kc4 4. Nxa6 Kb3 5. Nc5+ Kc4 6. Nb3 Kxb3 7. a5) 3. Ke4 (3. Nc5 $1 {<minor dual>} a5 4. Ke4) a5 4. Nc5 Kc4 5. Nd7 Kb4 6. Nb6 Kc5 7. Nd5 Kc4 8. Ke5 Kc5 9. Ke6 Kc6 10. Nc3 Kc5 11. Nd1 Kb4 12. Nb2 Kb3 13. Kd5 Kxb2 14. Kc4 Kc2 15. Kb5 1-0

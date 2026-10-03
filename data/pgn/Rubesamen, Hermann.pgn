@@ -1,0 +1,12 @@
+[Event "Deutsche Schachblätter#885"]
+[Date "1913.07.20"]
+[Round "?"]
+[Composer "Rubesamen, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/1P6/1kP5/3P4/8/8/1p5b/8 w - - 0 1"]
+
+1. d6 $1 Bxd6 2. b8=Q+ $1 Bxb8 3. c7 $1 Bxc7 (Kxc7) 1/2-1/2

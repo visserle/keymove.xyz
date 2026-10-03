@@ -1,0 +1,12 @@
+[Event "source unknown"]
+[Date "1795.??.??"]
+[Round "?"]
+[Composer "Allgaier, Johann Baptist"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/2k5/P1P5/7K/8 w - - 0 1"]
+
+1. a4 $1 Kc5 2. Kg3 Kb6 3. c4 Ka5 4. c5 Ka6 5. Kf3 Kb7 6. a5 Kc6 7. a6 Kc7 8. Ke4 Kc6 9. Ke5 Kc7 10. Kd5 Kb8 11. c6 Kc7 12. a7 1-0

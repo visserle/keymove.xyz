@@ -1,0 +1,374 @@
+[Event "The Chess Player#101"]
+[Source "also The Chess Monthly#047 1879."]
+[Site "?"]
+[Date "1852.??.??"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/8/8/7N/5b2/5k1K/5p2/8 w - - 0 1"]
+
+1. Ng3 $1 (1. Nxf4 $2 f1=Q+ 2. Kh2 Qf2+ $19) (1. Kh4 $2 f1=Q 2. Nxf4 Kxf4) (1. Nf6 $2 f1=Q+ 2. Kh4 Qh1#) (1. Ng7 $2 f1=Q+ 2. Kh4 Qh1#) Be5 (Bxg3) 2. Nf1 (2. Kh2 $2 Bxg3+ 3. Kh1 f1=Q#) (2. Ne4 $2 f1=Q+ 3. Kh4 Qe1+) (2. Nh1 $2 f1=Q+ 3. Kh4 Bf4 4. Ng3 Qa1) (2. Kh4 $2 Bxg3+ 3. Kg5 f1=Q) (2. Nf5 $2 f1=Q+ 3. Kh4 Bf6+) (2. Ne2 $2 f1=Q+ 3. Kh4 Qxe2) (2. Nh5 $2 f1=Q+ 3. Kh4 Bf4) Ke2 3. Kg2 (3. Nh2 $2 Bxh2 4. Kxh2 Kf3 5. Kh3 f1=Q+) (3. Ng3+ $2 Bxg3 4. Kxg3 f1=Q $19 5. Kg4 Qf6) (3. Kg4 Bb8) Bf4 4. Kh1 $1 (4. Ng3+ $2 Bxg3 5. Kxg3 f1=Q $19 6. Kg4 Qf6) (4. Nh2 $2 Bxh2 5. Kxh2 Kf3 6. Kh3 f1=Q+) Kf3 (Kxf1) 5. Ng3 $10 $1 (5. Nh2+ $2 Bxh2 6. Kxh2 f1=R $19 7. Kh3 Rh1#) Be3 (Kxg3) 6. Kh2 Bf4 7. Kh1 Bxg3 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1889.??.??"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/8/b2K4/kp2N3/p7/P1P5/8/8 w - - 0 1"]
+
+1. Kc7 (1. Kc5 $2 Bc8 2. c4 $10) (1. Nc6+ $2 Kb6 2. Ne7 $10) (1. Nd7 $2 Bb7 2. Kc5 $10) (1. c4 $2 bxc4 2. Ng4 $10 Bb7 3. Ne3) b4 2. cxb4+ (2. Nc6+ Kb5 3. cxb4 $18) (2. c4 $2 Bxc4 3. Nxc4+ Kb5 4. Nd6+ $10) (2. Nc4+ $4 Bxc4 3. cxb4+ Kb5 $19) (2. axb4+ $2 Kb5 3. Nd3 $10) (2. Kc6 $4 bxc3 $19 3. Nc4+ $2 (3. Kc7 $5 Kb5) Bxc4) (2. Kb8 bxa3 3. Nc6+ (3. Kc7 $5 a2) Kb5) (2. Nf7 bxa3) (2. Nd7 bxa3) (2. Nd3 bxa3) Kb5 3. Nf7 Kc4 4. Nd6+ (4. Kb6 $2 Kb3 5. b5 $10) (4. Ne5+ $2 Kc3 5. b5 $10) (4. b5 $2 Bxb5 5. Ng5 $10) (4. Kc6 $2 Bb5+ 5. Kb6) (4. Ng5 Bb5 5. Nf7) (4. Kb8 Kb3 5. Nd6) (4. Nd8 Kb3 5. Nb7) Kb3 5. b5 (5. Kb6 $2 Bd3 6. b5 $10) (5. Nb7 $2 Bb5 6. Nd6 $10) (5. Ne4 Bb5 6. Nd6) (5. Kc6 Bd3 6. b5) (5. Nc4 Bxc4) Bxb5 6. Nxb5 $18 (6. Kc8 $4 Bd3 7. Nf7 Kxa3) 1-0
+
+[Event "Chess Studies (Kling & Horwitz 1851)-9 "]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "Horwitz, B"]
+[Black " Kling, J."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2k5/2Pp3p/1P6/8/2K5/8/8 w - - 0 1"]
+
+1. Kb4 $1 (1. Kd4 $2 h5 2. Kd5 h4 3. b6+ Kxb6 4. Kxd6 h3) h5 2. Ka5 h4 3. b6+ (3. Ka6 {<or>} h3 4. b6+ Kxc6 5. b7) Kxc6 4. Ka6 h3 5. b7 h2 6. b8=Q h1=Q 7. Qa8+ 1-0
+
+[Event "source unknown"]
+[Date "1851.??.??"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "Horwitz, B"]
+[Black " Kling, J."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/k1K5/8/pB6/P7/8/8 w - - 0 1"]
+
+1. Bc5 $1 Ka5 2. Kb7 Kb5 3. Bb6 $1 Kc4 4. Kc6 Kb3 (Kd3 5. Kb5 Ke4 6. Kxa4 Kd5 7. Kb5 Kd6 8. Ka6 Kc6 9. a4 Kd7 10. Kb7) 5. Bc5 Kc4 6. Bd6 Kd4 7. Kb5 Kd5 8. Bh2 Ke6 9. Kxa4 Kd7 10. Kb5 Kc8 11. Kc6 1-0
+
+[Event "The Chess Player's Chronicle#066 (cr)"]
+[Source "The Chess Player's Chronicle/5"]
+[Date "1860.??.??"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/b7/7P/2p5/pk2KPP1/R7 w - - 0 1"]
+
+1. Kd3 $1 Kxa1 2. Kc2 1/2-1/2
+
+[Event "The Westminster Club Papers#012"]
+[Date "1869.07.01"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p1pp/4Ppk1/8/5PPK/8/8/8 w - - 0 1"]
+
+1. f5+ $1 Kh6 2. g5+ fxg5+ 3. Kg4 g6 4. f6 exf6 5. e7 1-0
+
+[Event "The Westminster Club Papers#012 (v)"]
+[Date "1869.07.01"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p1pp/4Ppk1/8/5PPK/7P/8/8 w - - 0 1"]
+
+1. f5+ $1 Kh6 2. g5+ fxg5+ 3. Kg4 g6 4. f6 exf6 5. e7 1-0
+
+[Event "The Westminster Club Papers#020"]
+[Source "also Schachzeitung#213 Schachzeitung/2 1871."]
+[Date "1870.09.01"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5bb1/8/1p1N1K1k/2pB4/2P5/8/8/8 w - - 0 1"]
+
+1. Nf5+ $1 Kh7 2. Bxg8+ Kxg8 3. Kg6 b5 (Kh8 4. Kf7) 4. cxb5 c4 5. b6 Bc5 6. b7 Ba7 7. Ne7+ Kf8 8. Nc6 c3 9. Nxa7 c2 10. b8=Q+ 1-0
+
+[Event "The Westminster Club Papers#028"]
+[Source "also Neue Berliner Schachzeitung#32 Neue Berliner Schachzeitung/1 1871 also Schachzeitung#211 Schachzeitung/2 1871 also The Chess Monthly#152 The Chess Monthly/7 1882."]
+[Date "1870.11.01"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1pp5/1q1pK2B/1pk5/3R4/2PP4/8 w - - 0 1"]
+
+1. Rd4+ $1 Kc5 2. Rxd5+ cxd5 3. d4+ Kc4 4. Be2+ Kc3 5. Bxb5 Kxc2 {<eg>} 6. Kxd5 b3 7. Ke4 b2 8. d5 Kc1 9. Bd3 b5 10. d6 b4 11. d7 b1=Q 12. Bxb1 Kxb1 13. d8=Q 1-0
+
+[Event "Schachzeitung#210"]
+[Source "Schachzeitung/2"]
+[Date "1871.??.??"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/kp6/pqp5/2n5/p1K5/P1B5/1Q6 w - - 0 1"]
+
+1. Qxb5+ $1 Kxb5 2. Ba4+ Kxa4 3. Kxc4 b5+ 4. Kxc5 b4 5. Kc4 b3 6. axb3# 1-0
+
+[Event "The Westminster Club Papers#036 (cr)"]
+[Date "1871.01.01"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/4p1p1/4P1P1/8/5kBK w - - 0 1"]
+
+1. Kh2 $1 Ke2 2. Kg2 Ke1 3. Bf2+ Ke2 4. Kg1 Kf3 5. Be1 Ke2 6. Ba5 Kf3 7. Kf1 Kxg3 8. Bc7+ Kf3 9. Bf4 g3 10. Bh6 g2+ 11. Kg1 Kg3 12. Bf8 Kf3 13. Bc5 Kg3 14. Bd6+ Kf3 15. Bf4 1-0
+
+[Event "Land and Water#06"]
+[Source "also The Chess Monthly#105 The Chess Monthly/7 1881."]
+[Date "1871.09.23"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/5p1p/P1P1p1p1/3n1rP1/1Np1p3/8/3RK3/8 w - - 0 1"]
+
+1. Nxd5 $1 Rxd5 (exd5 2. Rb2+ Ka7 3. c7) 2. Rxd5 exd5 3. Kd2 d4 4. Kd1 e3 (d3 5. Kd2) (c3 5. Kc2) 5. Ke2 c3 6. Kd3 1-0
+
+[Event "Land and Water#61"]
+[Date "1873.05.31"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/6p1/3p2Pk/3P3P/3P2P1/7K w - - 0 1"]
+
+1. Kg1 $1 (1. Kh2 $2) Kg3 2. Kf1 Kh4 3. Ke1 Kg3 4. Ke2 Kh4 (Kxg2 5. h4 gxh4 6. g5 h3 7. g6 h2 8. g7 h1=Q 9. g8=Q+ Kh3 10. Qh7+ Kg2 11. Qg6+ Kh3 12. Qh5+ Kg2 13. Qg4+ Kh2 14. Kf2) 5. Kd1 Kg3 6. Kc2 Kxg2 7. h4 gxh4 8. g5 h3 9. g6 h2 10. g7 h1=Q 11. g8=Q+ Kf1 12. Qf7+ 1-0
+
+[Event "Nordisk Skaktidende#13"]
+[Date "1874.??.??"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4pkp1/5b2/4p1BP/4K1P1/5P2/8 w - - 0 1"]
+
+1. Bxf5 $1 gxf5 (exf5 2. Kf4) (Kxf5 2. Kd4) 2. g4 1-0
+
+[Event "The Chess Monthly (pl) (@2)"]
+[Source "The@Chess Monthly/10 = Roll=J f3a8 1851. î2: Ulrichsen=J HHdbIII#65240 13-2-2003."]
+[Date "1879.??.??"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/P7/1P6/4p3/4Pp2/5K2/8/8 w - - 0 1"]
+
+1. Ke2 $1 Kb7 2. Kd3 Ka8 3. Kc4 Kb7 4. Kc5 (4. Kd5 $1 {<minor dual JU>}) f3 5. Kd6 f2 6. a8=Q+ Kxa8 7. Kc7 f1=Q 8. b7+ Ka7 9. b8=Q+ Ka6 10. Qb6# 1-0
+
+[Event "The Chess Monthly#031"]
+[Source "The Chess Monthly/2"]
+[Date "1880.??.??"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/p5N1/p7/2K5/k7 w - - 0 1"]
+
+1. Ne3 $1 Ka2 (a2 2. Kc1 a3 3. Nc2#) 2. Nd5 Ka1 3. Nb4 a2 4. Kc1 a3 5. Nc2# 1-0
+
+[Event "The Chess Monthly#051"]
+[Source "The Chess Monthly/7"]
+[Date "1880.??.??"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5nk1/7b/6PP/5K2/6N1/8/8/8 w - - 0 1"]
+
+1. Nf6+ $1 Kh8 2. Nxh7 Nxh7 (Nd7 3. Nf6) 3. g7+ Kg8 4. Kg6 1-0
+
+[Event "The Chess Monthly"]
+[Date "1880.??.??"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5b2/7p/7P/5PP1/8/1K4k1/8 w - - 0 1"]
+
+1. f5 $1 Kg3 2. g5 hxg5 (Bxh5 3. gxh6) (Kg4 3. g6 Bd5 4. f6 Kxh5 5. f7) 3. h6 Bg8 4. f6 Kf4 5. h7 Bxh7 6. f7 1-0
+
+[Event "The Chess Monthly#086"]
+[Source "The Chess Monthly/3"]
+[Date "1881.??.??"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/p1p1k3/K2p4/2p1PR2/8 w - - 0 1"]
+
+1. exd3+ $1 cxd3 (Kxd3 2. Kb2 a3+ 3. Kc1 a2 4. Rf3+ Kd4 5. Ra3) 2. Rxc2 (2. Rf1 $2 d2) (2. Kb2 $2 a3+ 3. Kc1 a2) dxc2 3. Kb2 Kd3 4. Kc1 a3 1/2-1/2
+
+[Event "The Chess Monthly#086 (v)"]
+[Source "The Chess Monthly/3"]
+[Date "1881.??.??"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/p3k3/K2p4/2p2R2/8 w - - 0 1"]
+
+1. Rxc2 $1 (1. Kb2 $2 a3+ 2. Kc1 a2) dxc2 2. Kb2 Kd3 3. Kc1 a3 (Kc3) 1/2-1/2
+
+[Event "The Chess Monthly#002"]
+[Source "The Chess Monthly/10"]
+[Date "1883.??.??"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2nk4/4p3/3pP3/1K1P4/3p4/3P4/8/8 w - - 0 1"]
+
+1. Kc6 $1 Ke8 (Na7+ 2. Kb6 Nc8+ 3. Kb7) 2. Kc7 Na7 3. Kb6 Nc8+ 4. Ka6 Kd8 5. Kb7 Na7 6. Kxa7 Kc7 7. Ka6 Kc8 8. Kb5 Kb7 9. Kc4 Kb6 10. Kxd4 Kb5 11. Ke3 $1 Kb4 12. Kf4 Kc5 13. Ke4 Kb5 14. Kf5 Kc5 15. Kg6 Kxd5 16. Kf7 1-0
+
+[Event "The Chess Monthly#011"]
+[Source "The Chess Monthly/12"]
+[Date "1883.??.??"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2q2k2/2p2p1K/1PP1PP2/8/8/8/P2P4/8 w - - 0 1"]
+
+1. b7 $1 (1. e7+ $2 Ke8) Qb8 2. e7+ Ke8 3. a4 Qa7 4. a5 Qb8 5. d4 Qa7 6. d5 Qb8 7. a6 Qa7 8. d6 cxd6 9. c7 1-0
+
+[Event "The Chess Monthly#028 (v)"]
+[Source "The Chess Monthly/5"]
+[Date "1884.??.??"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/8/7Q/4kB2/P3P3/P4q1K/8 w - - 0 1"]
+
+1. Kh3 $1 Qf1+ 2. Kg4 Qf3+ 3. Kg5 Qxh5+ 4. Kxh5 d5 5. a4 d4 6. exd4 Kxd4 7. Be3+ Kc4 8. a3 Kd5 9. a5 Kc6 10. a6 Kc7 11. Ba7 Kc6 12. a4 1-0
+
+[Event "The Chess Monthly#023"]
+[Source "The Chess Monthly/3 after Cassidy=F c2d5 1884."]
+[Date "1884.??.??"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B7/8/2n5/k2bPN2/prR5/8/1PK5/8 w - - 0 1"]
+
+1. Rc5+ $1 Rb5 2. Rxb5+ Kxb5 3. Bxc6+ Kxc6 4. Ne7+ Kc5 5. Nxd5 Kxd5 6. Kb1 $1 Kxe5 7. Ka2 1-0
+
+[Event "The Chess Monthly#031"]
+[Source "The Chess Monthly/6"]
+[Date "1884.??.??"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5b2/7p/5P2/6PP/1p6/1K4k1/8 w - - 0 1"]
+
+1. h5 $1 Kf3 2. g5 hxg5 (Bxh5 3. gxh6) 3. h6 g4 4. h7 g3 5. h8=Q g2 6. Qg7 Kf2 (Kf4 7. Qxg2 Kxf5 8. Qf3+ Kg6 9. Qf4 Bg8 10. Qg4+ Kh7 11. Qg5 Bf7 12. Qf6 Kg8 13. Kc3) 7. Qxf7 g1=Q 8. Qa7+ 1-0
+
+[Event "The Chess Monthly#046 (c)"]
+[Source "The Chess Monthly/1 (c): Van_Reek=J Bernard Horwitz#3.33 1996."]
+[Date "1885.??.??"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5N2/rp6/1pkp4/p3b3/PPK5/1p6/1P6/6B1 w - - 0 1"]
+
+1. b5+ $1 Kc7 2. Bxb6+ $1 Kxb6 (Kb8 3. Nd7+ Ka8 4. Nxe5 dxe5 5. Kd5 Kb8 6. Bxa7+ Kxa7 7. Kxe5 Kb8 8. Ke6 Kc7 9. Ke7 Kc8 10. b6 Kb8 11. Kd7 Ka8 12. Kd6 Kb8 13. Kc5 Kc8 14. Kb5 Kd7 15. Kxa5 Kc6 16. Kb4 Kxb6 17. Kxb3 Ka5 18. Ka3 b6 19. b3 $1) 3. Nd7+ Kc7 4. b6+ Kc8 5. bxa7 b5+ 6. axb5 (6. Kxb5 $2 Kb7 7. Nxe5 dxe5 8. Kxa5 (8. Kc4 Kxa7 9. Kxb3 Kb6 10. Kc4 e4 $1) e4 $1 9. Kb4 e3 $1 10. Kc3 Kxa7) Kb7 7. Nxe5 (7. b6 $2 Bxb2 8. Kb5 Bd4 $1 9. a8=Q+ Kxa8 10. Ka6) dxe5 8. b6 $1 a4 9. Kd5 a3 10. Kd6 $1 axb2 11. a8=Q+ Kxa8 12. Kc7 b1=Q 13. b7+ Ka7 14. b8=Q+ Ka6 15. Qb6# 1-0
+
+[Event "The Chess Monthly#062"]
+[Source "The Chess Monthly/8"]
+[Date "1885.??.??"]
+[Round "?"]
+[Composer "Horwitz, Bernhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/p3K3/P7/1B2Nb2/8/8/8/8 w - - 0 1"]
+
+1. Kd8 $1 Be4 (Bc8 2. Bc6 Be6 3. Bb7) (Bh3 2. Bc6 Bc8 3. Bd5 Bf5 4. Bb7) (Be6 {<main>} 2. Bf1 Bc8 3. Bg2 Bf5 4. Bb7) 2. Nd7+ Ka8 3. Kc7 Bd5 4. Nc5 Be4 5. Bd7 Bd5 6. Bc8 Be4 7. Bb7+ Bxb7 8. axb7# 1-0

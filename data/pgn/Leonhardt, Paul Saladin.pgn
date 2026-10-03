@@ -1,0 +1,12 @@
+[Event "L'Italia Scacchistica"]
+[Date "1914.??.??"]
+[Round "?"]
+[Composer "Leonhardt, Paul Saladin"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/p4R2/K1b5/7k/1p6/8 w - - 0 1"]
+
+1. Rf3+ $1 Kg4 2. Rb3 $1 Bxb3+ 3. Ka3 $1 b1=N+ $1 (b1=Q) 4. Kxb3 1/2-1/2

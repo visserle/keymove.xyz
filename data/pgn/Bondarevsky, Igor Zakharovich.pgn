@@ -1,0 +1,12 @@
+[Event "source unknown (cr)"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Bondarevsky, Igor Zakharovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p5/8/1p6/8/KP6/1Pk5/8 w - - 0 1"]
+
+1. Kb4 $1 c6 2. Ka3 c5 3. b4 c4 4. Ka2 Kd2 5. Kb1 Kd1 6. Ka1 Kc1 7. Ka2 Kc2 8. Ka3 $1 Kb1 9. b3 c3 1/2-1/2

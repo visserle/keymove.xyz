@@ -1,0 +1,12 @@
+[Event "Münchner Illustrierte"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Kreutmeier, Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1p6/3pp3/P7/PK6/B1P5/k7 w - - 0 1"]
+
+1. a5 $1 bxa5 2. a4 e4 3. Ka3 e3 4. Bc4 dxc4 5. c3 e2 1/2-1/2

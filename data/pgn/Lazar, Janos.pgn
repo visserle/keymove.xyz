@@ -1,0 +1,275 @@
+[Event "Magyar Sakkvilág#436"]
+[Source "Magyar Sakkvilág/12"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Lazar, Janos"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/P1k5/P2p4/p2P2n1/Pp1Pp3/2P5/8/8 w - - 0 1"]
+
+1. cxb4 $1 e3 2. b5 $1 e2 3. b6+ Kxb6 4. Kb8 e1=Q 5. a8=N+ $1 Kxa6 6. Nc7+ Kb6 7. Na8+ 1/2-1/2
+
+[Event "Magyar Sakkvilág#507"]
+[Source "Magyar Sakkvilág/7 also 6.p Hungary-Finland match Magyar Sakkélet#1375 Magyar Sakkélet/9 1979."]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Lazar, Janos"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K2R4/P2p4/1k6/8/8/8/p7/8 w - - 0 1"]
+
+1. Rb8+ $1 (1. Kb8 $2 a1=Q 2. a8=Q Qe5+ 3. Kc8 Qc7#) Ka6 2. Rb1 $1 axb1=B $1 (axb1=Q) 3. Kb8 Be4 4. Kc7 Bc6 5. a8=Q+ Bxa8 6. Kxd7 1/2-1/2
+
+[Event "Magyar Sakkvilág#506"]
+[Source "Magyar Sakkvilág/7"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Lazar, Janos"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/N7/p6p/Ppp4p/2p4k/K1Pp4/P2P4/8 w - - 0 1"]
+
+1. Nxb5 $1 Kg3 2. Ka4 $1 (2. Nc7 $2 h4 3. Nxa6 h3 4. Nc7 h2 5. a6 h1=Q 6. a7 h5) h4 3. Na3 h3 4. Nb1 h2 5. a3 $1 h1=Q 1/2-1/2
+
+[Event "Magyar Sakkélet#0037"]
+[Source "Magyar Sakkélet/6"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Lazar, Janos"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/5p2/k4K2/4pPp1/6PP/P7/8 w - - 0 1"]
+
+1. Kxe4 $1 gxh3 2. Kf3 Ka4 3. Kf2 $1 (3. g4 $2 Ka3 4. Kg3 Kxa2 5. Kxh3 Kb3 6. g5 fxg5 7. fxg5 Kc4 8. Kg4 Kd4 $1) Ka3 4. Kg1 $1 Kxa2 5. Kh2 Kb3 6. Kxh3 Kc4 7. Kg4 Kd5 8. Kf5 1-0
+
+[Event "3.p Budapest ty Magyar Sakkélet (c)"]
+[Source "Magyar Sakkélet/11-12 (c): Garcia=M Estudios Artisticos de Ajedrez - XII-66 2012."]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Lazar, Janos"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/p7/P1p4p/2p1p2p/2PpPk1p/PKNP3P/7N b - - 0 1"]
+
+Kg2 $1 (dxc2 2. Kxc2 Kg2 3. Kd1 Kxh1 4. Ke1 Kxh2 5. Kf2) 2. Na3 (2. Nb4 $2 cxb4 $1 (Kxh1 $2 3. Nd5 $1 Kxh2 4. Nf4 Kg3 5. Nxh3 Kxh3 6. Ka3 Kg2 7. Ka4 h3 8. a3 h2) 3. cxb4 Kxh1 4. b5 axb5) Kxh1 3. Nb1 Kxh2 4. Ka3 Kg2 5. Ka4 h2 6. a3 h1=Q 1/2-1/2
+
+[Event "Magyar Sakkélet#0252"]
+[Source "Magyar Sakkélet/10"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Lazar, Janos"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k7/P2P4/P1P1p2p/4P2P/K1p4r/7P/8 w - - 0 1"]
+
+1. d7 $1 (1. c6 $2 c2+ 2. Kb2 Rc3 $1) c2+ 2. Kb2 Rc3 $1 (Rd3 3. c6 Rd6 4. Kc1 $1 Rd4 5. Kxc2 Rd6 6. Kb3) (Rb3+ 3. Kxb3 $1 (3. Kc1 $2 Rb1+ $1 4. Kxc2 Rb8 5. c6 Rd8 6. c7 Rxd7 7. c8=Q Rd2+ 8. Kxd2) c1=Q 4. d8=Q) 3. Kc1 Rd3 4. c6 Rd6 $1 5. h3 (5. c7 $2 Rxd7 $1 6. c8=Q Rd1+ 7. Kb2 $1 Rb1+ $1 8. Kxc2 Rc1+ 9. Kxc1) Kb8 (Rd1+ 6. Kxc2 Rd6 7. Kb3 Rd4 8. c7 Rxd7 9. c8=Q Rd3+ 10. Qc3) 6. a7+ Kxa7 7. a6 $1 Kb8 8. a7+ Kxa7 9. c7 1-0
+
+[Event "Magyar Sakkélet"]
+[Source "Magyar Sakkélet/6"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Lazar, Janos"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6p1/8/8/5k1p/8/7P/7K w - - 0 1"]
+
+1. Kg1 $1 Kg4 (Kf3 2. Kf1 $1 Kg4 3. Kg2 $1) 2. Kg2 $1 g6 (g5 {<main>} 3. Kg1 $1 Kh3 4. Kh1 g4 5. Kg1 g3 6. hxg3 hxg3 7. Kh1 g2+ 8. Kg1 Kg3) 3. Kh1 $1 Kh3 4. Kg1 g5 5. Kh1 g4 6. Kg1 g3 {<eg>} 7. Kh1 g2+ 8. Kg1 1/2-1/2
+
+[Event "Magyar Sakkélet#0295c (tw)"]
+[Source "Magyar Sakkélet/9"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Lazar, Janos"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/5p2/5p2/5P2/N6P/ppK4P/b4k2 w - - 0 1"]
+
+1. Nb1 $1 axb1=Q+ 2. Kxb1 Kg2 3. h4 Kh3 4. h5 Kh4 5. h6 Kh5 6. h7 Kg6 7. h8=R $1 (7. h8=Q $2) 1-0
+
+[Event "2.p Budapest ty (tw)"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Lazar, Janos"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/8/p3p3/P7/3N4/7k/5Pp1/8 w - - 0 1"]
+
+1. Ne2 $1 (1. Nf3 $2 e5 $1) Kg4 $1 (e5 2. Kb7 (2. f4 $2 Kg4 $1)) 2. Ng1 $1 e5 3. Kb7 e4 4. Kxa6 e3 $1 5. fxe3 Kg3 6. Kb6 Kf2 7. Nh3+ Kg3 8. Nf4 $1 1-0
+
+[Event "2.p Budapest ty (tw)"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Lazar, Janos"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/8/p6p/P7/8/3N3k/5Pp1/8 w - - 0 1"]
+
+1. Nf4+ $1 Kh2 2. Ne2 $1 (2. Nxg2 $2 Kxg2 3. f4 (3. Kb7 h5 4. Kxa6 h4 5. Kb5 h3 6. a6 h2 7. a7 Kxf2 $1 8. a8=Q Kg1) h5) g1=Q 3. Nxg1 Kxg1 4. f4 h5 5. f5 h4 6. f6 h3 7. f7 h2 8. f8=Q h1=Q 9. Qc5+ $1 1-0
+
+[Event "2.p Budapest ty (tw)"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Lazar, Janos"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/8/p3p3/P7/8/3N3k/5Pp1/8 w - - 0 1"]
+
+1. Nf4+ $1 Kh2 2. Ne2 $1 (2. Nxg2 $2 Kxg2 3. f4 Kg3) e5 $1 3. f3 $1 (3. Kb7 $2 e4) g1=Q 4. Nxg1 Kxg1 5. Kb7 1-0
+
+[Event "2.p Magyar Sakkélet#0595"]
+[Source "Magyar Sakkélet/6 EG#00358."]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Lazar, Janos"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B6k/7P/K7/7p/7p/8/6P1/8 w - - 0 1"]
+
+1. Be4 $1 (1. Bf3 $2 h3 2. g3 Kxh7 3. Bxh5 Kh6 4. Bf3 Kg5) h3 2. g3 h2 3. Kb5 $1 h1=Q (h4 4. g4 h3 5. Kc4 $1 h1=Q 6. Bxh1 Kxh7 7. Kd4 Kg6 8. Ke4 Kg5 9. Kf3) 4. Bxh1 Kxh7 5. Bg2 $1 (5. Kc4 $2 Kg6 6. Bg2 Kf5 7. Bh3+ Ke4) Kg6 6. Bh3 Kf6 (Kg5 7. Kc4 h4 8. g4) 7. Kc4 Ke5 8. Kd3 1-0
+
+[Event "2.p Elekes Dezso MT Magyar Sakkélet#064"]
+[Source "Magyar Sakkélet/7 EG#00442."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Lazar, Janos"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/K7/8/k2p1p2/p7/p3PP2/7R w - - 0 1"]
+
+1. f3 $1 (1. Kb6 $2 f3 2. exf3 d3 3. Kc5 Kb3) Kb4 2. Kb6 Kc4 (Ka4 3. Kc5 Kb3 4. Kb5) 3. Ka5 Kb3 4. Kb5 Kc3 5. Ka4 Kd2 6. Kb3 Kxe2 7. Kc4 Kxf3 8. Kxd4 Kg2 9. Ra1 f3 10. Ke3 1-0
+
+[Event "2.hm Magyar Sakkélet#0692"]
+[Source "Magyar Sakkélet/3 EG#00525."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Lazar, Janos"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k1r5/p1P4P/P5K1/P1p5/1PP5/8/8/8 w - - 0 1"]
+
+1. b5 $1 Re8 $1 2. b6 axb6 3. Kf7 $1 Rc8 4. Ke6 (4. axb6 $2 Rf8+ 5. Ke6 Rf6+ 6. Kxf6) Rh8 (Rf8 5. Kd7 Rf7+ 6. Kc6 $1 Rf6+ 7. Kb5 Rf8 8. axb6) 5. axb6 Re8+ 6. Kd7 $1 (6. Kd6 $2 Re6+ $1) Re7+ 7. Kc6 Re6+ 8. Kb5 Rxb6+ 9. Kxc5 (9. Kxb6 $2) 1-0
+
+[Event "2.p Budapest Leningrad match"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Lazar, Janos"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/7P/7k/7p/4NP1P/7P/b6p/8 w - - 0 1"]
+
+1. f5 $1 h1=Q (Be6 {<main>} 2. Ng3 Bd5 3. Nh1 Bxh1 4. f6 Bd5 5. f7 h1=Q (Bxf7) 6. f8=Q+ Kg6 7. Qf6+ Kxf6) 2. Nf6 Qa8+ (Qa1) 3. Ng8+ Bxg8 4. hxg8=N+ $1 Qxg8+ 5. Kxg8 1/2-1/2
+
+[Event "Magyar Sakkélet#0829"]
+[Source "Magyar Sakkélet/11"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Lazar, Janos"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/P7/4K3/6k1/6pR/5P1p/6b1 w - - 0 1"]
+
+1. a7 $1 (1. Rxg3+ $2 Kh4) Kxh3 (gxf2 2. a8=Q f1=Q 3. Qc8+ Kg5 4. Qg8#) (h1=Q 2. Rxh1 gxf2 3. a8=Q f1=Q 4. Rxg1+ $1 Qxg1 5. Qg8+) 2. a8=Q gxf2 (g2 3. Qf3+) 3. Qf3+ Kh4 4. Kf4 f1=Q 5. Qxf1 h1=Q 6. Qe1+ Kh5 (Kh3 7. Qg3#) 7. Qe8+ Kh6 8. Qh8+ 1-0
+
+[Event ".c Magyar Sakkélet#0872"]
+[Source "Magyar Sakkélet/8 EG#01494."]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Lazar, Janos"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1p6/rNP4K/1N6/8/7k/6R1 w - - 0 1"]
+
+1. Rg5 $1 Rxb5 (bxc5 2. Rxc5) 2. c6 Rxb4 3. Rc5 $1 bxc5 4. c7 1-0
+
+[Event "Magyar Sakkélet#0909 (c)"]
+[Source "Magyar Sakkélet/4 (c): Garcia=M Estudios Artisticos de Ajedrez - VI-47 2012."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Lazar, Janos"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3pp1b1/3pP3/4P3/6K1/8/2P2Rp1/4k3 w - - 0 1"]
+
+1. Rxg2 $1 dxe6 2. Kf3 $1 (2. exd6 $2 exd6) Bxe5 (Bh8 3. Re2+ Kd1 4. c4) 3. Re2+ Kd1 4. Rxe5 dxe5 5. c4 Kd2 6. Ke4 $1 (6. c5 $2 Kd3) Kc3 7. c5 Kc4 8. c6 Kc5 9. c7 Kd6 10. c8=R $1 (10. c8=Q $2) 1-0
+
+[Event ".c Olympic ty"]
+[Source "EG#02212."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Lazar, Janos"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3N4/p7/p7/p7/P7/6p1/1kP4p/7K w - - 0 1"]
+
+1. c4 $1 Kc3 2. c5 Kc4 (Kd2 3. Ne6 Ke3 4. Kg2 h1=Q+ 5. Kxh1 Kf2 6. Nf4) (Kd4 3. c6 Ke3 $1 4. Ne6 $1 (4. Kg2 $2 h1=Q+ 5. Kxh1 Kf2) Kf2 5. Nf4) 3. c6 Kc5 4. c7 Kb6 5. c8=B (5. Ne6 $2 Kb7) (5. c8=Q $2 g2+ 6. Kxg2 h1=Q+ 7. Kxh1) Kc7 6. Bb7 (6. Bxa6 $2 Kxd8) Kxd8 7. Kg2 Kc7 8. Bf3 Kb6 9. Kxg3 Kc5 10. Kxh2 Kb4 11. Bc6 1-0
+
+[Event "3.hm Magyar Sakkélet#0970 (@2)"]
+[Source "Mag@ar Sakkélet/7 EG#02015. î2: Ulrichsen=J EG=171 1/2008."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Lazar, Janos"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p7/8/8/7p/2kp3B/8/3K4 w - - 0 1"]
+
+1. Kc1 $1 (1. Bc8 $2 a5 2. Bd7 d2) (1. Bd7 $2 a6 2. Bc8 a5 3. Bd7 d2) a6 $1 (d2+ 2. Kd1 a5 3. Bd7) 2. Bc8 $1 (2. Bg4 $1 {<minor dual JU>}) (2. Bf5 $1 {<minor dual JU>}) (2. Be6 $1 {<minor dual JU>}) (2. Bd7 $2 a5) a5 3. Bd7 d2+ 4. Kd1 Kd3 5. Bf5+ (5. Bb5+ {<or>}) Kc3 6. Bd7 Kd3 7. Bf5+ Ke3 8. Bd7 1/2-1/2

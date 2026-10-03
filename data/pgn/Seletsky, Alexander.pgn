@@ -1,0 +1,13 @@
+[Event "Shakhmaty v SSSR#610 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - X-16 2012."]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Seletsky, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1bP5/NN1n4/6k1/8/3p2BK/8 w - - 0 1"]
+
+1. c7 $1 Bxc7+ (d1=Q 2. c8=Q+) (Nxc7 2. Nc3 Bxa5 3. Nd1) 2. Nxc7 Ne3 $1 (d1=Q 3. Nxd5) (Nxc7 3. Nc4) 3. Nd5 $1 Nxd5 (Nxg2 4. Nc4 d1=Q 5. Nce3+ Nxe3 6. Nxe3+ Kf3 7. Nxd1) 4. Bh3+ Kh4 5. Bg4 $1 Kxg4 6. Nc4 d1=Q 7. Ne3+ Nxe3 1/2-1/2

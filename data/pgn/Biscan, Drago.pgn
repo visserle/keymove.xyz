@@ -1,0 +1,13 @@
+[Event "Problem#297"]
+[Source "Problem/11"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Biscan, Drago"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7b/1p1p1k1N/1PpP1p1P/2p2P2/8/p1P5/P1P5/3K4 w - - 0 1"]
+
+1. c4 $1 Kg8 2. Nf8 Kxf8 3. c3 Kg8 4. Kc2 Kh7 5. Kb3 Kxh6 6. Kxa3 Bg7 (Kg5 7. Ka4 Kxf5 8. Ka5 Ke4 9. a4 Kd3) (Kh5 7. Ka4 Bg7 8. Ka5 Bh6 9. a4 Bd2) 7. Ka4 Bf8 8. Ka5 Bxd6 9. a4 Kg5 1/2-1/2

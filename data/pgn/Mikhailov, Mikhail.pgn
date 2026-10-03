@@ -1,0 +1,40 @@
+[Event "Ceskoslovensky Sach#3086"]
+[Source "Ceskoslovensky Sach/10"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Mikhailov, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7N/8/4n3/8/5pK1/7p/8/7k w - - 0 1"]
+
+1. Kxh3 $1 Ng5+ 2. Kg4 f3 3. Kg3 Kg1 4. Nf7 $1 f2 5. Nxg5 f1=Q 6. Nh3+ Kh1 7. Nf2+ Kg1 8. Nh3+ 1/2-1/2
+
+[Event "source unknown"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Mikhailov, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6P1/4k2P/7K/8/2p5/8 w - - 0 1"]
+
+1. g7 $1 c1=R $1 (c1=Q 2. g8=Q Qh1+ 3. Kg5 Qg2+ 4. Kh6 Qxg8) 2. h6 $1 Kf6 3. g8=N+ $1 Kf7 4. h7 Rh1+ 5. Kg5 Rxh7 6. Nf6 1/2-1/2
+
+[Event "Shakhmatna Misl#24 (c)"]
+[Source "Shakhmatna Misl/4 (c): Garcia=M Estudios Artisticos de Ajedrez - VII-33 2012."]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Mikhailov, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/p7/1p3P2/7P/7k/r3B3/2P5/4b3 w - - 0 1"]
+
+1. f7 $1 Bb4 2. h6 Rc3 (Ra5 {<main>} 3. Bc5 $1 Rxc5 (Bxc5 {<main>} 4. h7) 4. f8=Q) 3. Bc5 $1 Rf3 (Bxc5 {<main>} 4. h7) (Rxc5 {<main >} 4. f8=Q) 4. h7 Bc3 5. Be7+ Kg4 6. Bf6 $1 Rxf6 (Bxf6 {<main>} 7. f8=Q) 7. h8=Q 1-0

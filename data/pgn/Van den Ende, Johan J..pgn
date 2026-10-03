@@ -1,0 +1,124 @@
+[Event "source unknown"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Van den Ende, Johan J."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4P3/8/2p5/1pP1K3/2k3P1/8 w - - 0 1"]
+
+1. e7 $1 b2 2. e8=B $1 1-0
+
+[Event "Tijdschrift v.d. KNSB"]
+[Source "Tijdschrift v.d. KNSB/7"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Van den Ende, Johan J."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2N5/2p5/8/K3k3/8/Pp6/5B2 w - - 0 1"]
+
+1. Bg2+ $1 Ke3 2. Be4 Kxe4 3. Nb5 $1 cxb5+ 4. Ka3 b1=Q (b1=B 5. Kb4 Bd3 6. a4) (b1=N+ 5. Kb4) (b1=R) 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB"]
+[Source "Tijdschrift v.d. KNSB/3"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Van den Ende, Johan J."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6R1/8/1K3N2/8/4p3/k7/5p1P/8 w - - 0 1"]
+
+1. Rg3+ $1 Ka4 $1 (Ka2 2. Rg2 e3 3. Ng4) (Kb4 2. Nxe4 f1=Q 3. Rb3+) 2. Nxe4 f1=Q 3. Rb3 $1 Kxb3 (Qg1+ 4. Nc5+) 4. Nd2+ 1-0
+
+[Event "Tijdschrift v.d. KNSB#069 (c)"]
+[Source "Tijdschrift v.d. KNSB/4 (c): Benko=P EG=77 6/1984."]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Van den Ende, Johan J."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4B1K1/8/2P2p1k/8/6p1/1p6/8/8 w - - 0 1"]
+
+1. c7 $1 (1. Bg6 $2 g3 $1 2. c7 (2. Be4 b2) g2 3. c8=Q g1=Q 4. Qh3+ Kg5 $1 (Kxg6 5. Qh7+ Kg5 6. Qg7+)) b2 2. Bg6 $1 Kxg6 3. c8=Q b1=Q 4. Qxg4+ Kh6 5. Qh4+ Kg6 6. Qh7+ 1-0
+
+[Event "Tijdschrift v.d. KNSB#069 (c)"]
+[Source "Tijdschrift v.d. KNSB/4 (c): Nunn=J EG=71 4/1983."]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Van den Ende, Johan J."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4BK2/8/2P2p1k/8/7p/1p6/1b5P/8 w - - 0 1"]
+
+1. c7 $1 Ba3+ 2. Kg8 b2 3. Bg6 Kxg6 4. c8=Q b1=Q 5. Qg4+ Kh6 6. Qxh4+ Kg6 7. Qh7+ 1-0
+
+[Event "Tijdschrift v.d. KNSB#069 (c)"]
+[Source "Tijdschrift v.d. KNSB/4"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Van den Ende, Johan J."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K2/5B2/2P2p1k/3p4/8/1p5P/1b6/8 w - - 0 1"]
+
+1. c7 $1 Ba3+ 2. Kg8 b2 3. Bg6 $1 Kxg6 4. c8=Q b1=Q 5. Qg4+ Kh6 6. Qh4+ Kg6 7. Qh7+ 1-0
+
+[Event "De Schaakwereld#405 (c)"]
+[Source "(c): Selman's archive."]
+[Date "1941.04.24"]
+[Round "?"]
+[Composer "Van den Ende, Johan J."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/kp6/rp6/8/R3K3 w Q - 0 1"]
+
+1. O-O-O $1 Ra1+ 2. Kb2 Rxd1 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#159"]
+[Source "Tijdschrift v.d. KNSB/1 1950"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Van den Ende, Johan J."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/8/p7/5P2/8/4K3/8/1n6 w - - 0 1"]
+
+1. Kd4 $1 Na3 2. Kc5 Nb5 3. Kb6 Nc7 4. Kxc7 a5 5. Kd6 $1 Kf7 6. Kc5 1/2-1/2
+
+[Event "Schakend Nederland#0826 (c)"]
+[Source "Schakend Nederland/1 1963 (c): Kovalenko=V Zadachy i Etyudy=46 12-12-2008."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Van den Ende, Johan J."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/8/P5Pb/P7/1p6/3p1K2/8/6N1 w - - 0 1"]
+
+1. g7 $1 (1. Kf2 $2 b3 2. Nf3 b2 3. Nd2 Bxd2 $1 4. g7 b1=Q 5. g8=Q+ Ka7 6. Qf7+ Kxa6 7. Qe6+ Kxa5 8. Qd5+ Ka4) Bxg7 2. Ke3 Bd4+ $1 3. Kxd3 Bxg1 4. Kc4 Bc5 $1 5. Kxc5 $1 b3 6. Kb6 $1 b2 7. a7+ Ka8 8. Ka6 b1=Q 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "Magyar Sakkvilág#589"]
+[Source "Magyar Sakkvilág/3"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Von Garay, G"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/8/8/2p5/1pKP4/8/7k w - - 0 1"]
+
+1. d4 $1 b2 2. Kxb2 c3+ 3. Kc2 $1 h5 4. d5 h4 5. d6 h3 6. d7 h2 7. d8=Q Kg2 8. Qg8+ Kh1 9. Kd3 c2 10. Qg5 c1=Q 11. Qxc1+ 1-0

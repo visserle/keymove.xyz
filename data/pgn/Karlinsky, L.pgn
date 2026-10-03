@@ -1,0 +1,12 @@
+[Event "64#365"]
+[Date "1929.04.20"]
+[Round "?"]
+[Composer "Karlinsky, L"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4R3/7p/2p4P/3p1P2/3P1k2/7p/1b2K3/8 w - - 0 1"]
+
+1. f6 $1 h2 $1 (Bxd4 2. f7 Bc5 3. f8=Q+) 2. f7 Ba3 $1 3. f8=Q+ Bxf8 4. Rxf8+ Kg3 5. Rf1 Kg2 6. Rh1 $1 (6. Rc1 $2 h1=Q 7. Rxh1 Kxh1 8. Kf3 Kg1 9. Kf4 Kf2 10. Ke5 Ke3) Kxh1 7. Kf2 $1 c5 8. dxc5 d4 9. c6 d3 10. c7 d2 11. c8=Q d1=Q 12. Qc6+ (12. Qa8+ {<or>}) (12. Qb7+ {<or>}) 1-0

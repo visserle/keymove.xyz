@@ -1,0 +1,13 @@
+[Event "Sach#064 (tw)"]
+[Source "Sach/7"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Glaser, J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3K4/8/p6p/P2kp2P/P7/P3P3/8 w - - 0 1"]
+
+1. Ke6 $1 Ke3 2. Ke5 $1 (2. Kf5 $2 Kf2 $1) (2. Kd5 $2 Kd2 $1) Kf2 (Kd2 {<main>} 3. Kf4 $1) 3. Kd4 $1 1-0

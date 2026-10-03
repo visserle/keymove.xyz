@@ -1,0 +1,26 @@
+[Event "Wiener Schachzeitung#26"]
+[Source "Wiener Schachzeitung/3"]
+[Date "1900.??.??"]
+[Round "?"]
+[Composer "Wardener, Friedrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/1q5p/2p1R2p/p1P2P1P/p7/K7/P4B2/8 w - - 0 1"]
+
+1. Re8+ $1 Kg7 2. Re7+ Qxe7 3. f6+ Qxf6 4. Bd4 $1 Qxd4 1/2-1/2
+
+[Event "Bohemia#067"]
+[Date "1905.10.22"]
+[Round "?"]
+[Composer "Wardener, Friedrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K3k3/bp2P3/2pP1p2/2P4P/8/2n5/1p4B1/8 w - - 0 1"]
+
+1. h6 $1 b1=Q 2. h7 Qxh7 3. Bxc6+ bxc6 4. d7+ Kxd7 (Kxe7 {<main>} 5. d8=Q+ Kf7 (Ke6 6. Qd6+ Kf5 7. Qf4+ Kg6 8. Qg5+ Kf7 9. Qxf6+ Kxf6) 6. Qxf6+ Kg8 (Ke8 7. Qd8+) 7. Qf8+ Kxf8) 5. e8=Q+ Kc7 6. Qc8+ Kxc8 1/2-1/2

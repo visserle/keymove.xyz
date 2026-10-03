@@ -1,0 +1,13 @@
+[Event "2.hm All-Union Fizkultura i Sport Commi"]
+[Source "Shakhmaty v SSSR/10 1956"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Zusmanovich, L"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6b1/8/2P2b1p/1P6/4KP1k/7p/7P/8 w - - 0 1"]
+
+1. b6 $1 Bh7+ 2. f5 Bd8 3. c7 Bxc7 4. bxc7 h5 5. c8=B $1 (5. c8=Q $2 Bxf5+ 6. Kxf5 (6. Qxf5)) Bxf5+ 6. Bxf5 Kg5 7. Ke5 $1 Kh6 8. Kf6 1-0

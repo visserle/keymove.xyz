@@ -1,0 +1,138 @@
+[Event "Al Hamishmar"]
+[Source "EG#07008.4/7.c Israel Ring ty 1945-1962."]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Aloni, Hillel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3N4/7p/8/5K1k/8/3p2P1/6P1/8 w - - 0 1"]
+
+1. Ne6 $1 d2 2. Ng7+ Kh6 3. Kf6 d1=Q 4. Nf5+ Kh5 5. g4+ Qxg4 6. Ng7+ Kh6 7. Nf5+ Kh5 8. Ng7+ Kh6 9. Nf5+ 1/2-1/2
+
+[Event "2.hm Thèmes 64#0595"]
+[Source "Thèmes 64/4-6 1960"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Aloni, Hillel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/5p2/8/6P1/8/6kp/1B2K1N1 w - - 0 1"]
+
+1. Be4+ $1 Kxg1 (Kg3 2. Ne2+ $1) 2. Bh1 $1 Kxh1 (f5 3. g5 f4 4. Ke2 f3+ 5. Kxf3) 3. Kf1 $1 (3. Kf2 $2 f5 4. g5 f4 5. Kf1 f3 6. Kf2 f5 (f6 $2 7. g6 f5 8. g7 f4 9. Kxf3) 7. g6 f4 8. g7) f5 4. g5 f4 5. Kf2 f3 6. Kf1 f5 7. g6 f4 8. g7 f2 9. Kxf2 $1 (9. g8=Q $2 f3) f3 10. Kxf3 Kg1 11. g8=Q+ (11. g8=R+ $2 Kf1 12. Rh8 Kg1) 1-0
+
+[Event "Arbejder Skak"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Aloni, Hillel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7q/6p1/8/6N1/7B/6N1/5K1k w - - 0 1"]
+
+1. Nf4 $1 Qb7 2. Bg2+ Qxg2+ 3. Nxg2 g5 4. Nh4 gxh4 5. Kf2 h3 6. Kf1 h2 7. Nf2# 1-0
+
+[Event "3.hm Shahmati Sahs (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - XVII-67 2015."]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Aloni, Hillel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6N1/1p2BR2/N1p1k2b/K1p2p2/p3p3/8 w - - 0 1"]
+
+1. Nxc3+ $1 (1. Rf4+ $2 Ke3 2. Bd4+ Kd3) Kxf5 2. Nxh4+ Kxe5 3. Nxf3+ Kf4 4. Nxe2+ Kxf3 5. Nd4+ Ke3 6. Nc2+ Kd2 7. Na1 $1 (7. Kb2 $2 c3+ 8. Kb3 Kc1 9. Kxc3 b4+ 10. Kb3 Kb1) Kc3 8. Kxa2 b4 9. Nb3 cxb3+ 10. Ka1 b2+ (Kc2) 11. Kb1 Kb3 (b3) 1/2-1/2
+
+[Event "Europe Échecs#03"]
+[Source "Europe Échecs/12"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Aloni, Hillel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2n5/6p1/6p1/6PP/8/1K6/7k/8 w - - 0 1"]
+
+1. h6 $1 gxh6 2. gxh6 Nd6 $1 3. h7 $1 Nf7 4. Kc4 g5 (Kg3 5. Kd5 Kf4 6. Ke6 Ng5+ 7. Kf6) (Kh3 5. Kd5 g5 6. Ke6 Nh8 7. Kf6 g4 8. Kg7 g3 9. Kxh8) 5. Kd5 g4 6. Ke6 (6. Ke4 $2 g3 7. Kf5 g2 8. Kf6 Nh8 9. Kg7 g1=Q+ 10. Kxh8 Kg3 $1 11. Kg7 Kf4+ 12. Kf8 Qd4 13. Kg8 Kg5 14. h8=Q Qd8+ 15. Kg7 Qe7+ 16. Kg8 Kg6) Nh8 (Ng5+ 7. Kf5) 7. Kf6 g3 8. Kg7 g2 9. Kxh8 g1=Q 1/2-1/2
+
+[Event "Magyar Sakkélet#0517"]
+[Source "Magyar Sakkélet/9"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Aloni, Hillel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/P6p/8/8/K1k5/1n6 w - - 0 1"]
+
+1. a6 $1 Nc3+ 2. Ka3 Nb5+ 3. Kb4 Na7 4. Kc5 h4 5. Kb6 Nc8+ 6. Kc7 Na7 7. Kb6 Nc6 8. Kxc6 h3 9. a7 h2 10. Kc7 (10. Kb7 {<or>}) h1=Q 11. Kb8 1/2-1/2
+
+[Event "Shahmat"]
+[Source "EG#04718.2.hm Israel Ring ty 1978-1979."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Aloni, Hillel"]
+[White "Aloni, H"]
+[Black " Aloni, Y."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/2r5/2P5/1P1K4/8/8/7p/7B w - - 0 1"]
+
+1. b6 $1 (1. Kd6 $2 Kb8 (Rc8 $2 2. b6) 2. b6 Rb7 (Rg7 $2 3. c7+) 3. c7+ Kc8 4. Bxb7+ (4. Kc6 Rxc7+ 5. bxc7) Kxb7 5. Kd7 h1=Q 6. c8=Q+ Kxb6) Rh7 2. c7 (2. Kd6 $2 Rh6+) Rxc7 (Kb7 3. Kd6+ Kc8 4. b7#) 3. bxc7 (3. Kd6+ $2 Rb7) Kb7 4. Kd6+ Kc8 5. Bc6 (5. Bd5 $2 h1=Q 6. Be6+ Kb7 7. c8=Q+ Ka7 8. Qc5+ Kb8 9. Qc7+ Ka8 10. Bd5+ Qxd5+ 11. Kxd5) h1=Q 6. Bd7+ Kb7 7. c8=Q+ Ka7 8. Qc5+ Kb8 9. Qc7+ Ka8 10. Bc6+ Qxc6+ 11. Qxc6+ 1-0
+
+[Event "2.hm Schweizerische Schachzeitung"]
+[Source "Schweizerische Schachzeitung/11 EG#04732."]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Aloni, Hillel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/P2k4/n7/8/PPP1p3/2P5/4P3/7b w - - 0 1"]
+
+1. Kb7 $1 (1. b5 $2 e3#) (1. e3 $2 Kc8) Nc5+ (Nc7 2. e3 Bf3 3. b5) (e3+ 2. Kxa6 Kc7 3. b5 Be4 4. c5) 2. bxc5 (2. Kb6 $2 Nxa4+ 3. Ka5 e3 4. Kxa4 Kc7 5. Kb5 Kb7 6. Kc5 Bf3 7. Kd4 Bxe2 8. c5 Kxa7) e3+ 3. Kb8 Ba8 $1 4. a5 (4. Kxa8 $2 Kc8) (4. c6+ $2 Kxc6) Kc6 $1 (Kd8 5. c6 Bxc6 6. a8=Q) 5. Kc8 $1 (5. a6 $2 Kd7 6. c6+ Kxc6 7. c5 Kd7 8. c4 Kc6 9. Kc8 Kxc5 10. Kc7 Be4) Bb7+ 6. Kd8 (6. Kb8 $2 Ba8) Ba8 7. a6 $1 Kxc5 8. Kc7 Be4 9. Kb8 Kb6 10. c5+ $1 Kxc5 (Kxa6 11. c4) 11. a8=Q Bxa8 12. Kxa8 Kb6 13. Kb8 Kxa6 14. Kc7 Kb5 15. Kd6 Kc4 16. Ke5 Kxc3 17. Ke4 $1 Kd2 18. Kf3 1-0
+
+[Event "Variantim#0028"]
+[Source "Variantim/5-8 EG#08504.3/4.hm Israel Ring ty 1988."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Aloni, Hillel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4k1N1/1p2B3/2p5/K1N2p2/p1B1p3/8 w - - 0 1"]
+
+1. Bf5+ $1 (1. Nxe2 $2 fxe2) Kxf5 (Kf7 2. Nxb5 $1 a1=Q+ (Ke8 3. Nd6+ Kd8 4. Nf7+) 3. Bxa1 e1=Q 4. Nd6+ Kg8 5. Be5 $1 Qa5+ (Qg1 6. Ne7+ Kf8 7. Ng6+ Qxg6 8. Bxg6 f2 9. Bg7+ $1 Kg8 10. Bf7+) 6. Kb2 Qd8 7. Ne4) 2. Nh4+ $1 Kxe5 (Kg4 3. Nxe2 fxe2 4. Ng2) 3. Nxf3+ Kf4 4. Nxe2+ Kxf3 5. Nd4+ Ke3 $1 (Ke4 6. Nc2 Kd3 7. Nb4+) 6. Nc2+ Kd2 7. Na1 $1 (7. Kb2 $2 c3+ 8. Kb3 Kc1 9. Na1 Kb1 10. Nc2 b4) Kc3 8. Kxa2 (8. Nb3 $2 Kc2 9. Na1+ Kb1) b4 9. Nb3 $1 cxb3+ 10. Ka1 $1 b2+ 11. Kb1 $1 b3 (Kb3) 1/2-1/2
+
+[Event "Shahmat#552"]
+[Source "EG#08498.2.p Israel Ring ty 1988."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Aloni, Hillel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/5Rp1/3n2P1/6PK/2n1p3/2B2N1k w - - 0 1"]
+
+1. Ne3 $1 (1. Nd2 $2 Nxf5 $1 2. Nf3 Nfd4) (1. Bd2 $2 Nxf5 2. Nh2 Nfd4) (1. Rf2 $2 e1=Q (Nf3 $2 2. Rxf3 e1=Q 3. Nh2 Qxc1 4. Rf1+ Qxf1+ 5. Nxf1 Nd4 6. Nd2) 2. Rh2+ Kg1 3. Nd2 $1 Ne3 $1 4. Nf3+ Nxf3 5. Bxe3+ Qxe3 6. Rh1+ (6. Rf2 Qd3) Kf2 7. Rf1+ Ke2 8. Rf2+ Kd3) Nxe3 (Nxf5 2. Nxc2) (e1=Q 2. Rf1+ Qxf1+ 3. Nxf1 Nf3 4. Bxg5) (Ne1 2. Rf1+ exf1=Q+ 3. Nxf1 Ndf3 4. Bxg5) 2. Rf2 $1 (2. Bd2 $2 Nexf5 3. gxf5 Nf3 $1 4. Bc3 Ne5 5. f6 Kg1) (2. Bxe3 $2 Nxf5 3. Bd2 Nd4) Nf3 $1 (e1=Q 3. Bxe3 Nf3 $1 (Qxe3 4. Rf1+ Qg1 5. Rxg1+ Kxg1) 4. Rxf3 Qa1 5. Bd4 Qb1 6. Rf5) 3. Rxf3 Nf1 (e1=Q 4. Bxe3) 4. Bd2 $1 Nxd2 5. Rf2 $1 (5. Ra3 $2 Kg1 $1) (5. Re3 $2 Nf3 $1 6. Rxf3 e1=Q 7. Rf5 (7. Rf2 Qg1) Kg1 8. Rxg5 Qf2 9. Rf5 Qh2#) e1=Q (Nf3 6. Rg2 $1) 6. Rg2 $1 (6. Rh2+ $2 Kg1 7. Rg2+ Kf1 8. Rxd2 Qe4) Nf3 (Qf1) 7. Rh2+ $1 Kg1 (Nxh2) 8. Rg2+ Kf1 9. Rf2+ Kg1 10. Rg2+ Kf1 11. Rf2+ Kxf2 1/2-1/2

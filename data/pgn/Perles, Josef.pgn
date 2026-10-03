@@ -1,0 +1,26 @@
+[Event "(The) Palestine Post"]
+[Date "1942.??.??"]
+[Round "?"]
+[Composer "Perles, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4r3/8/1N1P2P1/6k1/7p/4n2R/6PK/1b6 w - - 0 1"]
+
+1. Rxe3 $1 Rxe3 2. d7 (2. g7 $2 Bh7 $1) Rd3 3. g7 Ba2 4. Nd5 $1 Rxd5 (Bxd5 {<main>} 5. d8=Q+) 5. g8=Q+ 1-0
+
+[Event "(The) Palestine Post#005"]
+[Source "also Schweizerische Schachzeitung#835 Shakhmatain Aiastan=1 Schweizerische Schachzeitung/1 1951."]
+[Date "1946.01.25"]
+[Round "?"]
+[Composer "Perles, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "knb5/rppp4/3P3p/p6P/2N2p1K/2N5/8/8 w - - 0 1"]
+
+1. Nb6+ $1 cxb6 2. Nd5 $1 Na6 (Ra6 {<main>} 3. Nc7+ Ka7 4. Nb5+ Ka8 5. Nc7+) 3. Nxb6+ Kb8 4. Nxd7+ Ka8 (Bxd7) 5. Nb6+ Kb8 6. Nd7+ Bxd7 1/2-1/2

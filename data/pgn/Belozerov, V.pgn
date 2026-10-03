@@ -1,0 +1,27 @@
+[Event "4.hm Shakhmaty v SSSR#30"]
+[Source "Shakhmaty v SSSR/8 EG#00885."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Belozerov, V"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b6/N7/k1B3P1/3Rp3/8/4K3/2r3p1/8 w - - 0 1"]
+
+1. Bb5+ $1 Kb7 (Kxa7 2. Rd1 Kb7 3. g7 Rc8 4. Bc4) 2. Rd7+ $1 (2. Rd1 $2 Bxa7+ 3. Kd3 Rc7 4. Be8 Re7 5. Bf7 Rd7+) Ka8 3. Rd1 Bxa7+ 4. Kf3 $1 g1=Q 5. Rxg1 Bxg1 6. g7 e4+ 7. Kg3 Bh2+ 8. Kh3 Bb8 $1 9. Bc6+ Ka7 10. Bxe4 Rc3+ 11. Bf3 $1 Rxf3+ 12. Kg2 Rg3+ 13. Kh1 Rh3+ 14. Kg2 $1 Rg3+ 15. Kh1 Rxg7 1/2-1/2
+
+[Event "Shakhmaty v SSSR#31"]
+[Source "Shakhmaty v SSSR/8"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Belozerov, V"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3R3K/8/6P1/1B3n1k/8/8/2p5/r7 w - - 0 1"]
+
+1. g7 $1 Nxg7 2. Rc8 (2. Rd5+ $2 Nf5 $1 3. Rxf5+ Kg6 4. Bd3 c1=Q 5. Rc5+ Kh6 6. Rxc1 Ra8+) Ra8 3. Be8+ $1 Nxe8 (Kh6 4. Rc6+ Ne6 5. Kg8 $1 Rxe8+ 6. Kf7) 4. Rxc2 Kh6 5. Rh2+ Kg6 6. Rg2+ Kf7 7. Kh7 Nf6+ 8. Kh6 Rh8+ 9. Kg5 Rg8+ 10. Kh6 Ng4+ 11. Kh5 Nf6+ 12. Kh6 Rxg2 1/2-1/2

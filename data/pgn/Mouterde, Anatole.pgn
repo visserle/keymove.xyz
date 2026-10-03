@@ -1,0 +1,157 @@
+[Event "ts17"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Mouterde, Anatole"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/4N3/2K2N1r/8/7B/8/8/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Kb7 $1 Rxh4 (Kxe7 $144 2. Ng8+ Kf7 3. Nxh6+ Kg6 4. Ng8 $18) (Rxf6 $144 2. Nd5 $18) 2. Nc6# 1-0
+
+[Event "ts17#323"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Mouterde, Anatole"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7b/R6p/6k1/6P1/6p1/4N3/1P3r2/K7 w - - 0 1"]
+[PlyCount "10"]
+
+1. Nxg4 (1. Nd1 $143 Rd2 $19) (1. Nc4 $143 g3 $19) (1. Ra2 $143 Re2 $19) Rxb2 $1 (Bxb2+ $144 2. Kb1 Rg2 3. Nf6 Bxf6 4. gxf6 Rf2 5. Rg7+ Kh6 6. Rf7 $11) 2. Rxh7 $1 Kxh7 (Rb8+ 3. Rxh8 Rxh8 $11) 3. g6+ $1 Kg8 (Kxg6 $144 4. Ne5+ Bxe5 $11) 4. g7 $1 Bxg7 5. Nf6+ Bxf6 $11 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[Composer "Mouterde, Anatole"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/1k6/1b6/p3p2P/1B5p/P7/5P2/2K5 w - - 0 1"]
+
+1. h6 (1. a4 h3) Bd4 (e4 2. Bc3 $18 (2. h7 $2 Bd4 3. Bc5 $10) (2. Bd6 $4 Bxf2 $10 3. Kd2) (2. Bf8 $4 h3 $10 3. h7) (2. Kd2 $4 axb4 3. axb4 h3) (2. Be1 $4 h3 3. Bxa5 Bxa5) (2. Bd2 $2 h3 3. h7) (2. Be7 $4 h3 $10 3. h7) (2. Kc2 $4 axb4 3. axb4 h3) (2. Kd1 $4 axb4 3. axb4 Bxf2) (2. f3 $4 axb4 3. axb4 exf3)) 2. Bc5 (2. Bf8 $4 h3 $10 3. h7) (2. h7 $2 e4 3. Bc5 $10) (2. Kc2 $4 axb4 $19 3. axb4 h3) (2. Bd6 $4 Kc6 $10 3. h7) (2. Bxa5 $4 h3) (2. Be7 $4 h3 $10) (2. Be1 $4 h3 3. Bxa5 h2) (2. Bd2 $2 h3 3. h7) (2. f3 $4 axb4 3. axb4 h3) (2. f4 $4 axb4 3. axb4 exf4) Ba1 3. Kb1 (3. h7 $2 e4 4. a4 $10) (3. Kd2 $2 h3 4. h7 $10) (3. f4 exf4 4. Bd6) (3. Kd1 Kc6 4. h7) Bc3 4. Kc2 (4. Be7 $4 h3 $10 5. h7) (4. Bf8 $4 h3 5. h7) (4. h7 $2 e4 5. Kc2) (4. Kc1 $2 h3 5. h7) (4. Be3 $2 h3 5. h7) (4. Bb4 $4 axb4 5. axb4 h3) (4. Ka2 h3) (4. f3 h3 5. Bg1) (4. a4 h3 5. h7) Ba1 5. Bd4 (5. Be7 $2 h3 6. h7 $10) (5. h7 $2 e4 6. Bd6 $10) (5. Bd6 $2 Kc6 6. h7 $10) (5. Kb1 $6 Bc3 6. Kc2 $18) Bxd4 6. Kd3 (6. h7 $4 e4 $19) (6. f3 $4 h3) (6. Kd2 h3) (6. Kb3 h3) Ba1 7. Ke4 $18 (7. h7 $4 e4+ 8. Kxe4 h3) (7. Kc2 $4 h3) (7. f4 $4 h3 8. fxe5 h2) (7. Kc4 h3) (7. f3 h3 8. h7 e4+) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1916.??.??"]
+[Round "?"]
+[Composer "Mouterde, Anatole"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/R7/6q1/8/8/7k/8/2KR4 w - - 0 1"]
+
+1. Ra3+ (1. Rh1+ $2 Kg2 2. Rah7 $10) (1. Ra2 $2 Qe4 2. Rb2) (1. Rd2 Qg1+ 2. Kc2 Qxa7) (1. Kb2 Qb6+ 2. Ka3 Qxa7+ 3. Kb4 Qb6+) Kg2 2. Rd2+ (2. Ra2+ $2 Kf3 3. Rb2 $10) (2. Rg3+ $4 Qxg3 3. Rd2+ Kf1 $19) (2. Rdd3 $2 Qe6 3. Rab3 $10) (2. Rh1 Kxh1) Kf1 3. Ra1 (3. Rf3+ $2 Kg1 4. Re3 $10) (3. Rh3 $2 Qc6+ 4. Rc2 $10) (3. Re3 $2 Qf6 4. Red3 $10) (3. Rd1+ $2 Kf2 4. Rb3) (3. Rg2 Qxg2) Ke1 (Qf6 4. Kb1 (4. Kc2+ $2 Qxa1 5. Rd1+ $10) (4. Rb1 $2 Qc3+ 5. Rc2 $10) (4. Rda2 $2 Qe6 5. Rb2 $10) (4. Rd1+ $2 Kf2 5. Ra2+ $10) (4. Rb2 $2 Qe6 5. Rba2) (4. Kd1 $4 Qxa1+ 5. Kc2 Qe5) (4. Rh2 $4 Qxa1+ 5. Kc2 Qa2+) (4. Rf2+ Qxf2) (4. Ra6 Qxa6) (4. Rc2 Qxa1+ 5. Kd2 Qd4+) Ke1 5. Rh2 $18) 4. Rh2 (4. Rc2 $2 Qb6 5. Rb2 $10) (4. Rd1+ $2 Ke2 5. Rb1 $10) (4. Raa2 $2 Qc6+ 5. Rac2 $10) (4. Rb2 $2 Qd3 5. Rba2) (4. Ra3 $2 Qf6 5. Rb3) Qf6 5. Kc2+ (5. Kb1 Qb2+ 6. Kxb2#) (5. Rb1 $2 Qc3+ 6. Rc2 $10) (5. Rh1+ $2 Ke2 6. Ra2+) (5. Rb2 Qe6 6. Rba2) Qxa1 6. Rh1+ $18 (6. Rd2 Qa2+ 7. Kd3 Qxd2+ 8. Ke4 Qd6) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Mouterde, Anatole"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "1r6/1B5P/8/8/8/k7/p7/K7 w - - 0 1"]
+
+1. h8=Q (1. Be4 $2 Rc8 2. h8=N Rc1+ $19) (1. h8=R Rxb7 2. Rb8 $10) Rxh8 2. Bd5 (2. Bg2 $2 Rc8 $19 3. Bc6 Rc7) (2. Be4 $2 Re8 $19 3. Bb1 axb1=Q+ 4. Kxb1 Rc8) (2. Ba8 $2 Rc8 $19 3. Bc6 Rc7) (2. Bf3 $2 Rc8 $19 3. Bc6 Rc7) (2. Bc6 $2 Rc8 $19 3. Be4 Rc1+) (2. Ba6 $2 Rh1+ 3. Bf1 Rxf1#) Rh2 3. Bg2 (3. Bb3 $2 Rh1+ 4. Bd1 Rxd1#) (3. Bxa2 $2 Rxa2+ 4. Kb1 Rd2 $19 5. Kc1 Rd4) (3. Bf3 $2 Rc2 $19 4. Be4 Rc1+) (3. Ba8 $2 Re2) Kb3 4. Bd5+ (4. Bf3 $2 Rf2 5. Bd5+ Ka3 $19) (4. Be4 $2 Re2 5. Bd5+ Ka3 $19) (4. Bf1 $2 Rf2 5. Bc4+ Ka3 6. Bxa2 Rxa2+ 7. Kb1 Rd2 $19 8. Kc1 Rd4) (4. Bh3 $2 Rh1+ 5. Bf1 Rxf1#) (4. Bb7 $2 Re2 5. Bd5+ Ka3) (4. Bh1 Rxh1#) Ka3 5. Bg2 $10 (5. Bb3 $2 Rh1+ 6. Bd1 Rxd1#) (5. Bxa2 $2 Rxa2+ 6. Kb1 Rd2 $19 7. Kc1 Rd4) (5. Bf3 $2 Rc2 $19 6. Be4 Rc1+) (5. Ba8 $2 Re2) 1/2-1/2
+
+[Event "4.p Sydsvenska Dagbladet Snällposten#38"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - VII-49 2012."]
+[Date "1913.??.??"]
+[Round "?"]
+[Composer "Mouterde, Anatole"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/pk6/pb6/p3p2P/1B5p/P7/5P2/2K5 w - - 0 1"]
+
+1. h6 $1 Bd4 (Bd8 2. h7 Bf6 3. Be7 Bg7 4. Bxh4 Kc6 (a4 5. f3) 5. Kd2 Kd5 6. Ke3 Ke6 7. Ke4 a4 8. f3 Bh8 9. Bf2 Kf6 10. Bxa7 Kg6 11. Bb8 Kxh7 12. Bxe5) 2. Bc5 Ba1 $1 3. Kb1 Bc3 4. Kc2 Ba1 5. Bd4 $1 Bxd4 (exd4 6. Kd3) 6. Kd3 Bb2 7. Ke4 1-0
+
+[Event "Lyon Sport"]
+[Date "1914.??.??"]
+[Round "?"]
+[Composer "Mouterde, Anatole"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1Pk2P2/4p3/8/4K3/2p4R/2r5 w - - 0 1"]
+
+1. Rxc2+ $1 (1. Kd2 $2 Rf1) (1. Ke2 $2 Re1+) (1. Re2 $2 Kxb6) Rxc2 2. f7 Rc3+ 3. Ke4 (3. Kf2 $2 Rc4) Rc4+ 4. Kxe5 Rc5+ 5. Ke4 (5. Ke6 $2 Rc1 6. f8=Q Re1+ 7. Kf7 Rf1+) Rc4+ 6. Ke3 Rc3+ 7. Kf2 Rc2+ 8. Kg3 Rc3+ 9. Kg4 Rc4+ 10. Kg5 Rc5+ 11. Kg6 Rc1 12. f8=Q Rg1+ 13. Kh5 Rh1+ 14. Kg4 Rg1+ 15. Kh3 Rh1+ 16. Kg2 1-0
+
+[Event "Lyon Sport"]
+[Date "1915.??.??"]
+[Round "?"]
+[Composer "Mouterde, Anatole"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4n2R/6R1/5n1P/8/8/1K6/7p/k5b1 w - - 0 1"]
+
+1. Rxe8 $1 Nxe8 (Be3 2. Rg2 h1=Q 3. Ra8+ Kb1 4. Rb2+ Kc1 5. Ra1#) (Bf2 2. Ra7+ Kb1 3. Re2 h1=Q 4. Rb2+ Kc1 5. Ra1#) 2. h7 h1=Q (Nxg7 3. h8=Q Bd4 4. Qxh2) 3. Rxg1+ Qxg1 4. h8=Q+ Qg7 (Ng7 5. Qa8+) 5. Qh1+ 1-0
+
+[Event "La Stratégie#0550"]
+[Source "La Stratégie/1"]
+[Date "1916.??.??"]
+[Round "?"]
+[Composer "Mouterde, Anatole"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5P2/8/8/5r2/k7/p4P2/K2B4 w - - 0 1"]
+
+1. Bh5 $1 Rxf2 (Rf5 2. Bg6 Rf4 3. Bh5 Rf6 4. f3 Rf4 5. Bg6 Rxf3) 2. f8=Q+ Rxf8 3. Bf7 Rxf7 1/2-1/2
+
+[Event "Schweizerische Schachzeitung"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Mouterde, Anatole"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2N3k1/8/4N3/4rB2/8/2K5/8 w - - 0 1"]
+
+1. Ne8+ $1 Kf8 $1 2. Nd7+ Ke7 3. Bg5+ Kxd7 4. Nf6+ Ke6 5. Nxe4 Kf5 6. Kd3 1-0
+
+[Event "Schweizerische Schachzeitung#253"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Mouterde, Anatole"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/ppp2Kp1/8/Rp6/1p6/1p6/6p1/8 w - - 0 1"]
+
+1. Rxb5 $1 g6 (c5 2. Rxc5 g6 3. Rc4 g5 4. Kg6 g1=Q 5. Rc8#) 2. Rxb4 g5 3. Rxb3 g1=N $1 4. Rg3 Kh7 5. Rxg1 Kh6 6. Rh1# 1-0

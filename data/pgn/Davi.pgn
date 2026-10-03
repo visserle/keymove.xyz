@@ -1,0 +1,13 @@
+[Event "ABC des Échecs (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - II-51 2012."]
+[Date "1860.??.??"]
+[Round "?"]
+[Composer "Davi"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/1p5p/1K5P/PN6/8/7q/8/2R5 w - - 0 1"]
+
+1. Rc8+ $1 (1. Rd1 $2 Qc8 2. Rd6 Kb8) Qxc8 2. Nc7+ Kb8 3. Na6+ Ka8 4. Nc7+ Kb8 5. Na6+ bxa6 1/2-1/2

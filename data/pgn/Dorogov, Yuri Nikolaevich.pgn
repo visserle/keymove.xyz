@@ -1,0 +1,54 @@
+[Event "Krasnoyarskii Rabochi"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Dorogov, Yuri Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/2p3P1/5P1P/8/p2p4/8/1p2N2P/3K4 w - - 0 1"]
+
+1. Nc3 $1 (1. Kc2 $2 d3+) dxc3 2. Kc2 a3 3. Kb1 c6 4. h3 $1 c5 5. h4 c4 6. h5 c2+ 7. Kxc2 b1=Q+ 8. Kxb1 c3 9. h7+ Kxh7 10. g8=Q+ Kxg8 11. h6 1-0
+
+[Event "4.c Shakhmaty v SSSR#31"]
+[Source "Shakhmaty v SSSR/9 EG#00433."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Dorogov, Yuri Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/6Pk/4b1p1/6P1/2p5/8/8/3B4 w - - 0 1"]
+
+1. Ke7 $1 Bd5 2. Kf8 $1 (2. Kf6 $2 c3 $1 3. Bc2 Bf7 4. Ba4 Kg8 5. Bd1 Bc4 6. Kxg6 c2 7. Bxc2 Bd3+ 8. Bxd3) c3 $1 3. Ba4 c2 4. Bxc2 Bb3 5. Bd1 $1 Bg8 6. Ba4 Bb3 7. Be8 Bc4 (Bg8 8. Bxg6+) 8. g8=Q+ $1 Bxg8 9. Bf7 Kh8 10. Ke7 $1 (10. Bxg6 $2 Ba2 11. Bc2 Bf7) (10. Bxg8 $2) Bh7 11. Kf6 Bg8 12. Bxg8 Kxg8 13. Kxg6 1-0
+
+[Event ".c Shakhmaty v SSSR#31"]
+[Source "Shakhmaty v SSSR/8 EG#03491."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Dorogov, Yuri Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/8/4NP2/1n1P4/n1p5/2P5/pp2K3/R7 w - - 0 1"]
+
+1. f7 $1 Naxc3+ 2. Kf3 (2. Kf2 $2 Ne4+ 3. Kg2 bxa1=Q) Nd4+ 3. Kg2 Nxe6 4. dxe6 bxa1=Q 5. e7 (5. f8=Q+ $2 Kh7 6. Qf7+ Kh6 7. e7 Qb2+ 8. Kh3 a1=Q) Qf1+ (Qb2+ 6. Kh3 a1=Q 7. e8=Q+ Kh7 8. Qg8+ Kh6 9. f8=Q+ Kh5 10. Qg4#) 6. Kxf1 a1=Q+ 7. Kg2 Qa8+ 8. Kh2 Qb8+ 9. Kh3 Qc8+ 10. Kh4 1-0
+
+[Event "1.c Szachy#07"]
+[Source "EG#06779."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Dorogov, Yuri Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/8/RP6/PR6/1P1rr3/4b2K/8/8 w - - 0 1"]
+
+1. b7 $1 Rh4+ 2. Kg3 (2. Kg2 {<or>}) Rdg4+ 3. Kf3 Ba7 4. Rxa7 $1 Rf4+ 5. Ke3 Re4+ 6. Kd3 Rd4+ 7. Kc3 Rc4+ 8. Kb3 Rxb4+ $1 9. Rxb4 Rxb4+ 10. Kxb4 Kxa7 11. a6 Kxa6 12. b8=R $1 (12. b8=Q $2) 1-0

@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Tavariani, Revaz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/3R1P2/7K/2b5/2p4k/8/4p3/8 w - - 0 1"]
+
+1. Rd4+ (1. f8=Q $2 Bxf8+ 2. Kg6 e1=Q $19) (1. Rd1 $2 exd1=Q 2. f8=Q Bxf8+ 3. Kg6 Qf1) (1. Rd5 $2 Bf8+ 2. Kh7 e1=Q $19) (1. Kg7 $2 e1=Q 2. Rd4+ Bxd4+ 3. Kh7 Qe7) Kg3 (Bxd4 2. f8=Q (2. Kh7 $2 Bc5 $19) (2. f8=R $2 e1=Q 3. Rf4+ Kh3) (2. Kg6 $2 Bc5) Be3+ 3. Kg6 e1=Q 4. Qe7+ $10) 2. Rxc4 (2. Re4 $2 Kf2 3. Rxc4 Bf8+ 4. Kh7 e1=Q 5. Kg8 Be7 6. Rc7 Qg1+ $19) (2. Rd5 $2 Bf8+ 3. Kh7 e1=Q) (2. Rd8 $2 e1=Q 3. Rg8+ Kh3) (2. f8=Q $2 Bxf8+ 3. Kg6 e1=Q) (2. Kg7 $2 Bxd4+ 3. Kh7 Bc5) (2. Rf4 $2 Kxf4 3. f8=R+ Bxf8+ 4. Kg6 e1=Q) (2. Rd1 exd1=Q) (2. Rd6 Bxd6) Bf8+ 3. Kh7 (3. Kg6 $2 e1=Q $19 4. Rc3+ Qxc3) (3. Kg5 $2 e1=Q 4. Rg4+ Kh3 $19) (3. Kh5 $2 e1=Q 4. Rg4+ Kf3 $19) e1=Q 4. Kg8 $3 (4. Rc8 $2 Be7 5. Rc3+ Qxc3) (4. Kg6 $2 Qe6+ 5. Kg5 Be7+) (4. Rc6 $2 Qe5 5. Rg6+ Kf4) (4. Rh4 $2 Qe5 5. Rh3+ Kxh3) (4. Re4 $2 Qxe4+ 5. Kg8 Qb4 6. Kh8 Qd4+) (4. Kh8 $2 Qe5+ 5. Kh7 Qg7#) (4. Rc7 Qe5) Qe7 (Ba3 5. Ra4 Bc5 6. Rc4 Bd6 7. Rc6 Be7 8. Rc7 $10) 5. Re4 $1 (5. Rc3+ $2 Kg4 $19 6. Rc4+ Kf5) (5. Rc8 $2 Bh6 $19 6. Rc3+ Kg4) (5. Rc7 $2 Qd8 $19 6. Rc3+ Kf4) (5. Rc6 $2 Qd8 6. Rc3+ Kf4) (5. Kh8 $2 Qe5+ 6. Kg8 Qg7#) (5. Rc1 $2 Qd8 6. Rg1+ Kf2) (5. Ra4 $2 Bh6 6. Ra3+ Qxa3) (5. Kh7 $2 Qxf7+ 6. Kh8 Qg7#) Qc5 6. Re5 (6. Rc4 $2 Qd6 $19 7. Rg4+ Kxg4) (6. Re8 $2 Bh6 $19 7. Re3+ Kf4) (6. Re6 $2 Kg4 7. Rg6+ Kf5) (6. Re3+ $2 Kg4 7. Re4+ Kg5) (6. Kh7 $2 Qg5 7. Re3+ Kf4 8. Re4+ Kxe4) (6. Rd4 $2 Bh6 7. Rd3+ Kg4) (6. Re1 $2 Kf4) (6. Ra4 Be7) (6. Kh8 Qc3+ 7. Rd4 Qxd4+ 8. Kg8 Qg7#) (6. Rf4 Kxf4) Qb4 7. Re4 (7. Rg5+ $2 Kf4 $19 8. Rg4+ Kxg4) (7. Re3+ $2 Kf4 $19 8. Rf3+ Kxf3) (7. Rb5 $2 Qd6) (7. Re8 $2 Bh6 8. Re3+ Kf2) (7. Rh5 $2 Bd6 8. Rg5+ Kf4) (7. Rd5 $2 Kg4) (7. Re2 $2 Bh6 8. Re3+ Kf2) (7. Rf5 Kg4) Qd6 8. Re6 $10 (8. Rd4 $2 Qb8 9. Rd3+ Kg4) (8. Re8 $2 Bh6 9. Re3+ Kf4) (8. Re3+ $2 Kf4 9. Re4+ Kxe4) (8. Re5 $2 Kf4 9. Re4+ Kxe4) 1/2-1/2

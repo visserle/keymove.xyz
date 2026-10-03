@@ -1,0 +1,27 @@
+[Event "Shakhmatna Misl#037"]
+[Source "Shakhmatna Misl/4"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Krachunov, Krachun"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6b1/6P1/1P3P1p/7P/3K4/8/6kr/8 w - - 0 1"]
+
+1. f7 $1 (1. b7 $2 Rh4+) Bxf7 2. b7 $1 Rh4+ 3. Kc3 (3. Kc5 $2 Rc4+) Rc4+ 4. Kb2 $1 Rb4+ 5. Ka1 $1 Rxb7 (Rb3 6. g8=Q+ Bxg8 7. b8=Q Ra3+ 8. Kb1 Rb3+ 9. Ka1 Rxb8) 6. g8=Q+ Bxg8 1/2-1/2
+
+[Event "Shakhmatna Misl#064"]
+[Source "Shakhmatna Misl/6"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Krachunov, Krachun"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b6/pP6/2P3P1/8/4K3/8/rk6/8 w - - 0 1"]
+
+1. c7 $1 (1. g7 $2 Ra4+ 2. Kf3 Rf4+ 3. Kg2 Rg4+ 4. Kh1 Rxg7 5. c7 Rh7+) Bxc7 2. g7 (2. b8=Q+ $2 Bxb8 3. g7 Ra4+ 4. Kf3 Rf4+ $1 5. Kg2 Rg4+ 6. Kh1 Bg3) Ra4+ 3. Kf3 Ra3+ 4. Kg2 $1 Rg3+ 5. Kh1 Rxg7 6. b8=Q+ Bxb8 1/2-1/2

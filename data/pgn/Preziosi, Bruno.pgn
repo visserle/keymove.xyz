@@ -1,0 +1,13 @@
+[Event "1.c Revista de Romana de Sah#0347"]
+[Source "Revista de Romana de Sah/12"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Preziosi, Bruno"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/1K6/6p1/1N2k2p/1N5B w - - 0 1"]
+
+1. Nd3 $1 (1. Nc3+ $2 Kf1 2. Nbd1 Kg1) Kf1 (Kxd3 2. Nc3 Ke3 3. Ne4 Ke2 4. Bg2) 2. Nf4 Kg1 (g2 3. Bxg2+ Kg1 4. Nd2 h1=Q 5. Nf3+) 3. Nc3 Kxh1 (g2 4. Nce2+) 4. Nce2 g2 5. Ng3+ Kg1 6. Nh3# 1-0

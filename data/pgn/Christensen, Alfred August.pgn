@@ -1,0 +1,12 @@
+[Event "Vendsissel Tidende"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Christensen, Alfred August"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p2p1p1P/2pP1P2/2p5/k1P5/p1P1p1p1/P1K1P1P1/8 w - - 0 1"]
+
+1. h8=N $1 a5 2. Ng6 fxg6 3. f7 g5 4. f8=N $1 g4 5. Ne6 dxe6 6. d7 e5 7. d8=Q e4 8. Qd5 cxd5 9. cxd5 Kb5 10. c4+ Kb6 11. Kb3 Ka6 12. Kxa3 Kb6 13. Ka4 Ka6 14. d6 Kb6 15. d7 Kc7 16. Kxa5 1-0

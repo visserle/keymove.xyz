@@ -1,0 +1,12 @@
+[Event "source unknown"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Gabovich, Jakob"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6pN/3p1p2/3P4/2BPp1Pp/k3P3/4P3/1K6 w - - 0 1"]
+
+1. Ng5 $1 fxg5 2. Ka1 h3 3. Ba2 h2 4. Bb1 h1=Q (h1=B 5. Bxe4 Bxe4) 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "Deutsches Wochenschach#0689"]
+[Source "also British Chess Magazine#052 British Chess Magazine/9 1909."]
+[Date "1904.06.19"]
+[Round "?"]
+[Composer "Bosshard, K"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7P/1B6/8/8/8/pkpK1p1P/8 w - - 0 1"]
+
+1. h8=Q+ $1 Kb1 (Ka3 2. Qc3+ Ka4 3. Qa5+ Kb3 4. Qb5+ Ka3 5. Bc5#) 2. Qa1+ $1 Kxa1 3. Kxc2 f1=Q 4. Bd4# 1-0

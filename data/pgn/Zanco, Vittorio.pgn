@@ -1,0 +1,13 @@
+[Event "L'Italia Scacchistica#3195"]
+[Source "L'Italia Scacchistica/4"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Zanco, Vittorio"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7Q/1p6/1N6/P1p5/2K5/k3q3 w - - 0 1"]
+
+1. Qc1+ $1 Qxc1+ 2. Kxc1 c2 3. a4 bxa4 4. Kxc2 a3 5. Kc1 a2 6. Nc2# 1-0

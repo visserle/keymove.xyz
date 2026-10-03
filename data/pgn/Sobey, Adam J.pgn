@@ -1,0 +1,173 @@
+[Event "New Statesman {and Nation}"]
+[Date "1961.09.08"]
+[Round "?"]
+[Composer "Sobey, Adam J"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/p4kp1/1Pp5/2K5/7P/2n5 w - - 0 1"]
+
+1. bxa5 $1 Nb3 2. a6 Nc5 3. a7 Na4+ 4. Kxc4 Nb6+ 5. Kc5 Na8 6. Kc6 Ke6 7. Kb7 Kd7 8. Kxa8 Kc7 9. h3 Kc8 10. h4 gxh4 1/2-1/2
+
+[Event "The Field#5390"]
+[Date "1964.01.16"]
+[Round "?"]
+[Composer "Sobey, Adam J"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1P3pb1/k7/6P1/8/8/7K w - - 0 1"]
+
+1. b7 $1 Be4+ 2. Kh2 Bxb7 3. Kg3 Be4 (Bc8 4. Kf4 Kb6 5. g5) 4. g5 f5 5. Kf4 1/2-1/2
+
+[Event "(The) Guardian#0773"]
+[Date "1964.03.16"]
+[Round "?"]
+[Composer "Sobey, Adam J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p3B1/1p1p2p1/4p2k/3p4/7P/6PK/8 w - - 0 1"]
+
+1. g4+ $1 Kh4 (Kg5 2. Kg3) 2. Bf6+ g5 3. Bd8 d3 4. Bxc7 d2 5. Bxb6 d1=N 6. Ba5 Nf2 7. Be1 1-0
+
+[Event "New Statesman {and Nation}"]
+[Date "1964.09.04"]
+[Round "?"]
+[Composer "Sobey, Adam J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K2/8/8/P3N2k/8/p7/6P1/8 w - - 0 1"]
+
+1. g4+ $1 Kh6 2. g5+ Kh5 3. g6 a2 4. g7 a1=Q 5. g8=Q Qa3+ 6. Kg7 Qxa5 7. Qh7+ Kg5 8. Qh6+ Kf5 9. Qf6+ Ke4 10. Qf3+ Kd4 11. Nc6+ 1-0
+
+[Event "The Field#5487"]
+[Date "1965.12.02"]
+[Round "?"]
+[Composer "Sobey, Adam J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K2/8/8/3qnk2/p3N3/P7/4NP2/5B2 w - - 0 1"]
+
+1. Bh3+ $1 Kxe4 (Ng4 2. Bxg4+ Ke5 (Kxg4 3. Nf6+) 3. f4+ Kxe4 4. Nc3+) 2. Bg2+ Nf3 3. Nc3+ Kd4 4. Nxd5 Kxd5 5. Bxf3+ 1-0
+
+[Event "(The) Guardian#0932"]
+[Date "1967.04.20"]
+[Round "?"]
+[Composer "Sobey, Adam J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "n1kb4/8/8/8/1Np5/5p2/4p3/3BQ1K1 w - - 0 1"]
+
+1. Bxe2 $1 (1. Kh2 $2 Ba5 $1) f2+ 2. Qxf2 Bb6 3. Bg4+ Kb7 (Kc7 4. Nd5+) 4. Bf3+ Kc8 5. Bxa8 Bxf2+ 6. Kxf2 1-0
+
+[Event "The Problemist#0024"]
+[Source "The Problemist/5 EG#00970."]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Sobey, Adam J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4P3/8/K4b2/8/2k5/1n6 w - - 0 1"]
+
+1. e7 $1 Nc3+ 2. Ka5 Nd5 (Bd2 3. e8=Q) 3. e8=Q Bd2+ 4. Ka4 Nc3+ 5. Kb4 Ne4+ 6. Ka3 Bc1+ 7. Ka4 1-0
+
+[Event "The Problemist#0023 (c)"]
+[Source "The Problemist/5 (c): Sobey=A The Problemist=23 9/1969."]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Sobey, Adam J"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/8/8/1NB5/3p4/5p2/k7/2b5 w - - 0 1"]
+
+1. Bxd4 $1 Bb2 2. Bxb2 f2 (Kxb2 3. Nd6 f2 4. Nc4+) 3. Nc3+ Kb3 4. Ne4 f1=Q 5. Nd2+ 1/2-1/2
+
+[Event "The Problemist#0048"]
+[Source "The Problemist/5"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Sobey, Adam J"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4pp2/4P3/b7/4K3/8/4k3/1n6 w - - 0 1"]
+
+1. exf7 $1 Nd2+ 2. Kd5 (2. Kd4 $2 e5+ 3. Kc5 Ne4+ 4. Kd5 (4. Kb5 Nd6+) (4. Kc4 Nd6+) Nf6+ 5. Kxe5 Nd7+ 6. Ke6 Nf8+ 7. Ke7 Bb4+) (2. Ke5 $2 Nf3+ 3. Ke6 Ng5+ 4. Kxe7 Bb4+) (2. Kf5 $2 e6+ 3. Kf6 Bb4 4. Kg7 e5) (2. Kf4 $2 e5+) e6+ (Bb4 3. Ke6) 3. Kc5 Ne4+ 4. Kd4 Bb4 5. Kxe4 Bd6 6. f8=Q Bxf8 7. Ke5 1/2-1/2
+
+[Event "New Statesman {and Nation}"]
+[Date "1971.06.18"]
+[Round "?"]
+[Composer "Sobey, Adam J"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3BN3/1p6/8/8/5K2/p7/3p3k/8 w - - 0 1"]
+
+1. Nf6 $1 d1=Q 2. Ng4+ Kg1 3. Bb6+ Kf1 4. Ne3+ Ke2 5. Nxd1 Kxd1 6. Ke4 Kc2 7. Kd5 Kb3 8. Bd4 1/2-1/2
+
+[Event "New Statesman {and Nation}"]
+[Date "1974.10.18"]
+[Round "?"]
+[Composer "Sobey, Adam J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2BN1k1P/3p4/1K6/8/6p1/8 w - - 0 1"]
+
+1. h7 $1 Kg7 2. Nf7 g1=Q 3. h8=Q+ Kxf7 4. Bxd5+ Ke7 5. Qe5+ Kd8 6. Qf6+ Kd7 7. Be6+ Kd6 8. Bg4+ Kc7 9. Qe7+ Kb8 10. Qd8+ Kb7 11. Bf3+ Ka7 12. Qc7+ Ka6 13. Qa5# 1-0
+
+[Event "The Problemist#0158"]
+[Source "The Problemist/5-6"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Sobey, Adam J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/6N1/3kP3/8/6p1/8/8/8 w - - 0 1"]
+
+1. Kd8 $1 g3 2. e7 g2 3. e8=Q (3. Nf5+ $2 Kc5) g1=Q 4. Qd7+ Ke5 5. Qe6+ Kf4 6. Nh5+ (6. Qf5+ $2 Kg3) Kf3 7. Qf5+ Kg2 (Ke2 8. Nf4+) 8. Nf4+ 1-0
+
+[Event "New Statesman {and Nation}"]
+[Source "EG#03016."]
+[Date "1976.04.09"]
+[Round "?"]
+[Composer "Sobey, Adam J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1P6/3PP3/3K4/1b6/3k2n1 w - - 0 1"]
+
+1. b6 $1 Nf3 2. b7 Bxd4 3. b8=Q Ne5+ 4. Kxd4 Nc6+ 5. Kd5 (5. Kc5 { <or>}) Nxb8 6. Kd6 1-0

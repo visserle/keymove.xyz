@@ -1,0 +1,131 @@
+[Event "?"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[Composer "Havasi, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/B4p2/2p5/P2p4/5P2/1K1k1P2/3P4/5b2 w - - 0 1"]
+
+1. a6 (1. Be3 Bh3 2. a6 $16 $18) (1. Bc5 $2 Kxd2 2. f5 $10) Bh3 (Kxd2 2. Be3+ Kxe3 3. a7 $18) 2. Bc5 (2. Bb8 $2 Bc8 3. a7 $10) (2. f5 $6 Bxf5 3. Bc5 $14) Bc8 3. a7 (3. Kb4 $4 Bxa6 $10 4. Be3) Bb7 4. Kb4 (4. Ka4 Kxd2 5. Ka5 $18) (4. f5 $6 Kxd2 5. Kb4 $14) (4. Be3 $2 d4 5. Bf2) (4. Bb4 $2 c5 5. Bxc5 Kxd2 6. f5) (4. Kb2 $2 f5 5. Bb4) (4. Bd4 Kxd4) (4. Bd6 Kxd2 5. Kb4) (4. Bb6 Kxd2 5. f5) d4 5. Ka5 (5. Bb6 $18) (5. f5 Kxd2 6. Bxd4 c5+ 7. Bxc5) (5. Kb3 Kxd2 6. Bxd4) Kc4 6. Kb6 (6. Bd6 $6 Ba8 7. Kb6) (6. Bb6 Ba8 7. f5) Ba8 7. d3+ $2 Kd5 $4 (Kxd3 $5) 8. f5 (8. Ba3 c5 9. Bxc5) (8. Bf8 c5 9. Bxc5) (8. Bb4 c5 9. Bxc5) (8. Kc7 $2 Kxc5 9. Kb8 $10) (8. Be7 $6 Ke6 9. Bc5 $16) (8. Ka5 Kxc5) f6 9. f4 $18 (9. Be7 c5 10. Bxf6 $18) (9. Bf8 c5 10. Bxc5) (9. Ba3 c5 10. Bxc5) (9. Kc7 $2 Kxc5 10. f4 $10) (9. Bb4 c5 10. Bxc5) (9. Bxd4 $4 Kxd4 $10 $15 10. Kc7) (9. Bd6 Kxd6) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Havasi, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/8/N2b4/8/K2N4/pPk5/8/8 w - - 0 1"]
+
+1. Nb5+ (1. b4 $2 a2 2. Nb3 $10) (1. Ne2+ $4 Kd2 $19) (1. Nb4 $2 Bxb4 2. Nb5+ $10) (1. Nf5 $4 Bf8) (1. Nc2 $4 Kxc2 2. Nb4+ Bxb4 3. Kxb4 a2) (1. Nc7 $2 a2 2. Ndb5+) (1. Nc6 $4 a2) (1. Nc5 a2 2. Nb5+) (1. Kb5 Kxd4) Kb2 2. Nxa3 (2. Nxd6 $2 a2 3. b4 $10) (2. Nd4 $4 a2 $19) (2. Nb4 $2 Bxb4 3. Nxa3 $10 Bxa3 4. b4) (2. b4 $2 a2 3. Nxd6 a1=Q+ 4. Kb5 $10) (2. Nc5 $2 a2 3. Nxd6 a1=Q+ 4. Kb4) (2. Nb8 a2 3. Nxd6 a1=Q+ 4. Kb5) (2. Na7 a2) (2. Ka5 a2 3. Nxd6 a1=Q+ 4. Kb5) Bxa3 3. Nb4 $18 (3. b4 $2 Bxb4 4. Nb8 $10) (3. Nc5 $2 Bxc5 4. b4 $10) (3. Nc7 $2 Ka2 4. b4) (3. Nb8 $2 Bc5 4. b4) (3. Kb5 $2 Bd6 4. b4) (3. Ka5 $2 Bd6 4. b4) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Havasi, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "6N1/5p2/7P/1r6/2N5/8/7K/4k3 w - - 0 1"]
+
+1. Ne5 (1. Nd6 $2 Rh5+ 2. Kg2 $10) (1. Nf6 Rb8 2. Ne5 $18) (1. Kg3 $2 f6 2. h7 $10 Rg5+ 3. Kf3) (1. Nd2 $2 Kxd2 2. Nf6) (1. Nb6 $2 Rf5 2. h7) Rxe5 (Rb4 2. Nf3+ Kf2 3. h7 $18) 2. Nf6 (2. h7 $4 Rh5+ 3. Kg3 Rxh7 $19) (2. Kg3 $4 Rg5+ 3. Kf4 Rxg8 $19) (2. Kh3 $2 f6 3. h7 Rh5+ 4. Kg3) (2. Kg2 $4 Rg5+ 3. Kh2 Rxg8) (2. Kg1 Rg5+ 3. Kh1 Rxg8) Re2+ 3. Kg3 (3. Kg1 Rf2 4. h7 $18) (3. Kh1 Rf2 4. h7 $18) (3. Kh3 $2 Kf1 4. h7 $10) Kf1 4. h7 (4. Kf3 $4 Rf2+ 5. Kg4 Rxf6) (4. Nh5 $4 Re6 5. h7 Rg6+) (4. Nd7 $2 f6 5. h7 Re3+ 6. Kg4) (4. Ng4 $2 f6 5. h7) (4. Kh3 $2 Rd2 5. h7) (4. Kg4 Rg2+ 5. Kf4) (4. Kh4 Rd2 5. h7) (4. Ne4 Rxe4) Rg2+ 5. Kh3 (5. Kf4 $2 Rh2 6. Ng4 $10) (5. Kf3 $2 Rh2 6. Ng4 $10) (5. Kh4 $2 Rh2+ 6. Kg4) Kg1 6. Nh5 (6. Ng4 $2 f5 7. Nf6 $10) (6. Ne4 $2 f6 7. h8=Q $10 Rh2+ 8. Kg3) (6. Ng8 $4 Rh2+ 7. Kg4 Rxh7 $19) (6. Kh4 $2 Rh2+ 7. Kg4 $10) (6. h8=Q $4 Rh2+ 7. Kg3 Rxh8) (6. Nd5 Rh2+ 7. Kg4 Rxh7) Rh2+ 7. Kg4 Rg2+ 8. Kf3 (8. Kf4 Rf2+ 9. Ke3 $18 (9. Kg3 Rg2+ 10. Kf4 $18) (9. Kg4 Rg2+) (9. Kg5 Rg2+ 10. Kf4 $18) (9. Ke5 $2 Re2+ 10. Kd5) (9. Ke4 $2 Re2+ 10. Kd4)) (8. Kf5 Rf2+ 9. Kg4 Rg2+ $18) (8. Kh4 Rh2+ 9. Kg4 $18) (8. Kh3 Rh2+ 9. Kg4 Rg2+ $18) (8. Ng3 $2 f5+ 9. Kf4 Rf2+ $4 (Rh2 $5) 10. Kg5) Rf2+ 9. Ke3 $18 (9. Kg3 Rg2+ 10. Kf3 $18) (9. Kg4 Rg2+ $18 10. Kf3) (9. Ke4 $2 Re2+ 10. Kd4) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "Havasi, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "1k6/p7/8/1p5P/8/2pK4/1P5n/8 w - - 0 1"]
+
+1. h6 (1. bxc3 $2 Ng4 $19) (1. Kxc3 $2 Ng4 $19 2. Kb4 a6 3. b3 Ka8) (1. Kc2 $2 Ng4 2. Kxc3 Kc7 $19 3. Kd3 a5) (1. b4 $2 Ng4 2. Kxc3 Kc7) (1. b3 $2 Ng4 2. Kxc3 Kc7) Ng4 2. h7 Ne5+ 3. Kxc3 (3. Ke4 $2 Nf7 4. bxc3 Ng5+ $19) (3. Kc2 $2 Nf7 4. Kxc3 Kc7 $19 5. Kd4 Kc6) (3. Kd4 Nf7 4. bxc3 Kc7 $10) Nf7 4. Kb4 (4. Kd4 $2 Kb7 $19) (4. b4 $2 Kb7 $19) (4. Kd3 $2 Kc7 $19 5. Kd4 Kc6) (4. b3 $2 a5) a6 5. Ka5 (5. Kc5 $2 Kb7 $19) (5. b3 $2 Ka8) Kb7 6. b3 (6. b4 $2 Nd8 7. h8=Q Nc6#) (6. Kb4 $2 Kb6) Ka7 7. h8=Q (7. h8=R Nxh8 8. b4 $10) (7. h8=B $10) (7. h8=N $2 Ne5 $1 8. Kb4 Kb6 9. Kc3 Kc5 $19) (7. b4 $2 Ne5 8. h8=Q Nc4#) (7. Kb4 $2 Kb6 $19 8. Kc3 a5) Nxh8 8. b4 (8. Kb4 $2 Kb6 $19 9. Kc3 a5) Kb7 1/2-1/2
+
+[Event "Sydsvenska Dagbladet Snällposten"]
+[Date "1914.??.??"]
+[Round "?"]
+[Composer "Havasi, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1N6/5P2/P4r1b/8/8/8/8/K6k w - - 0 1"]
+
+1. a7 $1 Rf1+ 2. Ka2 (2. Kb2 $2 Bg7+) Rf2+ 3. Kb3 (3. Ka3 $2 Bf8+ 4. Kb3 Rf3+) Rf3+ 4. Ka4 Rf4+ 5. Kb5 Rf5+ 6. Ka6 Rf6+ 7. Nc6 $1 Rxc6+ 8. Kb7 Rf6 9. a8=Q Rxf7+ 10. Ka6+ $1 Kg1 11. Qc6 $1 1-0
+
+[Event "The Chess Amateur#0737 (c)"]
+[Source "The Chess Amateur/2 (c): Havasi=A The Chess Amateur/11 1922."]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Havasi, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5B2/8/r2P1p1P/k4p1R/8/p4K2/8 w - - 0 1"]
+
+1. Rh1 $1 Kb5 2. d6 Kc6 (a1=Q 3. Rxa1 Rxa1 4. d7 Ra8 5. Be8 Kb6 6. h6 $1 (6. Kf3 Kc7 7. Kxf4 Ra3 8. Kxf5 Rh3 9. Kg6 Rg3+ 10. Kh7 Kd8 11. h6 Ke7) Kc7 7. h7 Ra2+ 8. Kg1 Ra1+ 9. Kh2 Ra2+ 10. Kh3 Ra1 11. d8=Q+ Kxd8 12. Bc6) 3. h6 a1=Q 4. Rxa1 Rxa1 5. h7 Rh1 6. Bd5+ Kxd5 7. d7 Rxh7 8. d8=Q+ Ke4 9. Qe8+ 1-0
+
+[Event "L'Échiquier#034"]
+[Source "L'Échiquier/10"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Havasi, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K5R1/5R2/1p4nk/8/8/8/6p1/8 w - - 0 1"]
+
+1. Rf6 $1 g1=Q 2. Rgxg6+ $1 (2. Rxb6 $2 Qxb6 3. Rh8+ Kg5 4. Rh5+ Kf4 5. Rf5+ Ke3 6. Re5+ Kd3 7. Rd5+ Kc4) Qxg6 3. Rxb6 Qxb6 1/2-1/2
+
+[Event "The Chess Amateur#1090 (c)"]
+[Source "The Chess Amateur/9 (c): Garcia=M Estudios Artisticos de Ajedrez - IV-22 2012."]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Havasi, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1P6/K7/8/2P3r1/5nk1/8 w - - 0 1"]
+
+1. b7 $1 (1. c4 $2 Rb3 2. c5 Nd3 3. c6 Ne5 4. c7 Nc4+ 5. Ka4 (5. Ka6 Nxb6) Rb1 6. c8=Q Nxb6+ 7. Ka3 Nxc8) Rg8 2. c4 (2. Kb6 $2 Nd3 3. Ka7 (3. Kc7 Nc5 4. b8=Q Na6+) Ne5 4. b8=Q Nc6+) Nd3 3. c5 Nxc5 (Ne5 4. Kb5 Rg3 5. c6) 4. b8=Q (4. b8=R {<or>} Rxb8) Rxb8 1/2-1/2
+
+[Event "Revista de Romana de Sah#0167 (v)"]
+[Date "1937.07.30"]
+[Round "?"]
+[Composer "Havasi, Artur"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4N3/4p3/8/3PK3/8/4Pp2/N2k4 w - - 0 1"]
+
+1. Nc2 $1 Kxc2 2. Nd5 $1 exd5+ 3. Ke3 f1=B $1 (f1=Q) (f1=R) (f1=N+ 4. Kf4) 4. Kf3 Kc3 5. e4 $1 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "1.p Sovyetskaya Kuban"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Zaitsev, N"]
+[Composer2 "Podgorny, A"]
+[White "Zaitsev, N"]
+[Black " Podgorny, A."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B6/P2k3K/8/8/8/5q2/p6p/Q7 w - - 0 1"]
+
+1. a8=Q $1 Qxa8 2. Qg7+ Ke6 3. Qg8+ Kd7 4. Qf7+ Kd8 5. Qc7+ Ke8 6. Qc8+ Kf7 7. Qg8+ Ke7 8. Bd6+ Kxd6 9. Qxa8 Kc5 10. Qa5+ Kd4 11. Qa7+ $1 Kc3 12. Qa3+ Kd4 13. Qc1 1-0

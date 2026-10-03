@@ -1,0 +1,25 @@
+[Event "Aufgaben fur Schachspieler#05 (v)"]
+[Date "1832.??.??"]
+[Round "?"]
+[Composer "Mendheim, Julius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4pN2/6p1/5p2/7p/8/5K1k w - - 0 1"]
+
+1. Ng4 $1 f3 (e5 {<main>} 2. Nxe5 Kh2 3. Kf2 Kh1 4. Ng4 f3 5. Kf1 f2 6. Kxf2 h2 7. Ne3 g4 8. Nf1 g3+ 9. Nxg3#) 2. Kf2 e5 3. Nxe5 Kh2 4. Ng4+ Kh1 5. Kf1 f2 6. Kxf2 $1 h2 7. Ne3 g4 8. Nf1 g3+ 9. Nxg3# 1-0
+
+[Event "Aufgaben fur Schachspieler#21"]
+[Date "1832.??.??"]
+[Round "?"]
+[Composer "Mendheim, Julius"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/pppQ4/8/2B5/8/nq5p/1b3P2/6K1 w - - 0 1"]
+
+1. Bd4+ $1 Bxd4 2. Qxh3+ Qxh3 1/2-1/2

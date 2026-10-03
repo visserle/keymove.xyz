@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Sakkoni, Antonio"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "K5k1/4p3/7p/4p1pP/4P1P1/4P3/8/8 w - - 0 1"]
+
+1. Ka7 (1. Kb7 $2 Kf7 2. Kc7 $18) (1. Kb8 $2 Kf8 2. Kc7 $18) Kg7 2. Ka6 (2. Kb6 $2 Kf8 3. Kc7 $18) (2. Kb7 $2 Kf7 3. Kc7 $18) (2. Ka8 Kg8 $18 3. Ka7) (2. Kb8 $2 Kf8 3. Kc7 $18) Kf6 3. Kb5 (3. Kb6 Kf7 4. Kc5 $18) (3. Ka5 $2 Ke6 4. Kb5 $10) (3. Kb7 $2 Kf7 4. Kc6 $18) (3. Ka7 $2 Ke6 4. Kb6) Kf7 4. Kc5 (4. Kc6 $2 Ke6 $4 (Kg7 $5 5. Kb5 $18) 5. Kc5 $10) (4. Kb6 $2 Kf8 5. Kc7 $18) (4. Kc4 $2 Ke6 5. Kb5 $10) (4. Kb4 $2 Ke6 5. Kc5) (4. Ka4 $2 Ke6 5. Kb5) (4. Ka6 $2 Kg7 5. Kb5) (4. Ka5 $2 Ke8 5. Kb4) Kg7 (Ke8 $5 5. Kd5 $18) 5. Kc6 (5. Kd5 $2 Kf6 6. Kc6 $18) (5. Kc4 Kf7 6. Kc5 $18) (5. Kb6 $2 Kf8 6. Kc6 $18) (5. Kb5 $2 Kg8 6. Kc6) (5. Kb4 Kf6 $4 (Kf8 $5 6. Kb5) 6. Kb5) Kf7 6. Kd7 (6. Kb7 $18) (6. Kd5 $2 Kf6 7. Kc6 $18) (6. Kc5 Ke8 7. Kc6 $18) (6. Kc7 $2 Kg8 7. Kb8 $18) Kf6 7. Ke8 (7. Kc7 Ke6 8. Kc6 $18) (7. Kd8 Kf7 8. Kd7 $18) (7. Kc6 $2 Kg7 8. Kb5 $18) Ke6 8. Kf8 (8. Kd8 Kf7 9. Kd7) Kf6 (Kd6 $5 9. Kg7 $18) 9. Kg8 (9. Ke8 Ke6 10. Kf8 $18) e6 (Ke6 10. Kg7 $18) 10. Kh8 (10. Kh7 $2 Kf7 11. Kxh6 $18) (10. Kf8 $2) Kf7 11. Kh7 $18 1-0

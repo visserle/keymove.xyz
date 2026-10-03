@@ -1,0 +1,13 @@
+[Event "Deutsche Schachblätter#33 (pl)"]
+[Source "Deutsche Schachblätter/3 = Jespersen=J a1e7 1884."]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Mundra, E"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3k2N1/1n1p4/3p4/1B1Q3n/6q1/B6p/7K w - - 0 1"]
+
+1. Bxd5 $1 Nxd5 2. Qa7+ Nc7 3. Qxc7+ (3. Qa4+ $2 Kc8) Kxc7 4. Bxd6+ Kxd6 5. Nf5+ Nxf5 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "Schach#09104"]
+[Source "Schach/3"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Rozenfeld, Isai Khilelovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p3r2/1pP1N2p/4P3/4k3/8/1P6/K7 w - - 0 1"]
+
+1. c7 $1 Rf1+ $1 (Rxc7 2. Nxc7 Kxe5 3. Nb5 h5 4. Nc3 h4 5. Ne2 h3 6. Ng3) 2. Ka2 Rc1 3. b4 $1 Rc6 4. b5 $1 Rxc7 (Rc4 5. Kb3 Rc1 6. Kb2) 5. Nxc7 Kxe5 6. Na8 $1 (6. Na6 $2 h5 7. Nb4 Ke4 $1) (6. Kb3 $2 h5 7. Kc4 h4 8. Nd5 Ke4 $1 9. Nc3+ (9. Nf6+ Kf3 $1 10. Nh7 Kf4 11. Nf6 h3) Kf3 $1) h5 7. Nxb6 h4 (Kd4 8. Nd7 h4 9. Nf6 h3 10. Ng4) 8. Nc4+ Kf4 9. Nd2 h3 10. Nf1 Kf3 11. Nh2+ Kg2 12. Ng4 Kg3 13. Ne3 Kf3 14. Nf1 Kf2 15. Nh2 1/2-1/2

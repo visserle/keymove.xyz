@@ -1,0 +1,26 @@
+[Event "3.hm Pravda#103"]
+[Source "also Magyar Sakkvilág=6 Magyar Sakkvilág/6 1929."]
+[Date "1928.09.16"]
+[Round "?"]
+[Composer "Soloviev, Alexey F"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/P7/3P2P1/2P1P3/3P2P1/N1p3p1/K4p2/5nqb w - - 0 1"]
+
+1. g7 $1 Bd5+ 2. Nc4 Bxc4+ 3. Ka3 Qg2 4. d5 Qxd5 (Bxd5 {<main>} 5. a8=Q+ Bxa8 6. g8=Q+ Kd7 7. e6+ Kc6 8. Qxa8+ Kxc5 9. Qxg2) 5. g8=Q+ Qxg8 6. a8=Q+ Kd7 7. c6+ Ke6 8. Qxg8+ 1-0
+
+[Event "1/2.p North Caucasian ty"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Soloviev, Alexey F"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5n1K/1Pr5/2P1p2k/8/2P2P2/8/4N3/8 w - - 0 1"]
+
+1. f5 $1 (1. b8=Q $2 Ng6+ 2. Kg8 Rg7#) exf5 2. Nf4 Nd7 $1 3. cxd7 Rxd7 (Rxb7 {<main>} 4. d8=R $1 (4. d8=Q $2 Rh7+ 5. Kg8 Rh8+ $1 6. Kxh8) Rh7+ 5. Kg8 Rh8+ 6. Kxh8) 4. b8=R $1 (4. b8=Q $2 Rd8+ 5. Qxd8) Rd4 5. Rb6+ Kg5 6. Ne6+ Kg4 7. Nxd4 1-0

@@ -1,0 +1,885 @@
+[Event "Union-80 (version 2008) 3-4 prize"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7n/8/4P3/1N6/r7/3Pk3/1B5K/8 w - - 0 1"]
+[PlyCount "37"]
+
+1. e7 $1 (1. Bxh8 $143 Rh4+ $11) Ra8 2. Nc7 Ng6 3. Nxa8 Nxe7 4. d4 Nd5 5. Ba1 $1 (5. Kg3 $143 Ke4 $1 6. Kh2 Kd3 $1 7. Kg3 Ke4 $11) Ke4 6. Kh1 $3 Ke3 7. Kg2 (7. Kg1 $143 Kf3 8. Kf1 Ne3+ 9. Ke1 Ke4 $11) Kf4 8. Kh3 (8. Kf2 $143 Ke4 $11 {zz}) (8. Kf1 $143 Ke3 9. Ke1 Kd3 10. Kd1 Ne3+ 11. Kc1 Nc2 $11) Ke4 9. Kh2 $1 {Black to move.} Kf3 10. Kg1 Ke3 11. Kf1 Kd3 (Kf3 $144 12. Ke1 Ke3 13. Bb2 Ke4 14. Kd2 $18 {wins.}) 12. Kg2 $1 Kc4 13. Kf3 Kb5 {(or Bb2! first)} 14. Ke4 Kc6 15. Bb2 Nf6+ 16. Ke5 $1 (16. Kf5 $143 Nd5 17. Ke5 Ne3 18. Bc1 Nc4+ 19. Ke6 Kb7 $11) Ng4+ 17. Ke6 Ne3 18. Bc1 Nc4 19. Bf4 $18 {wins.} 1-0
+
+[Event "Shakhmatnaya kompozitsia"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1R6/3p2P1/8/7n/1Np2p1n/kr1p4/3K3Q w - - 0 1"]
+[PlyCount "21"]
+
+1. Qf1 (1. Nxd2 $143 Nf2+ 2. Ke1 Nd3+ 3. Kf1 Rxd2 $19) (1. Nc1+ $143 dxc1=Q+ 2. Kxc1 Rxb7 3. g7 (3. Qxh3 $144 Rb1+ 4. Kc2 Rb2+ 5. Kxc3 Rb3+ 6. Kc4 Nxg6 $11) Rxg7 4. Qxh3 Rg2 5. Qxh4 Kb3 $11) Nf2+ (Rb1+ $144 2. Kc2 Rxf1 3. Ra7#) 2. Qxf2 c2+ (Rb1+ $144 3. Kc2 Rb2+ 4. Kd3 (4. Kxc3 $143 d1=N+ 5. Kc4 Rxf2 $19) d1=Q+ 5. Kxc3 {See main Line}) 3. Kxd2 c1=Q+ 4. Kd3 (4. Kxc1 $143 Rxf2 5. Nc5 (5. Nd4 $144 Ka3 6. g7 Rg2 7. Nc2+ Ka4 $11) dxc5 (Ka3 $143 6. Ra7+ Kb4 7. Nd3+ $18) 6. g7 Rf1+ 7. Kc2 Rf2+ 8. Kc3 Rg2 9. Rb2+ Rxb2 10. g8=Q+ Kb1 11. Qh7+ Kc1 12. Qh6+ Kb1 13. Qxh4 Rc2+ 14. Kd3 c4+ 15. Ke4 f2 $11) Qd1+ (Rxf2 $144 5. Nxc1+ Ka3 6. Kc3 Ka4 7. Nb3 Re2 (Nxg6 $144 8. Rb4+ Ka3 9. Rb5 $18) 8. g7 Re3+ 9. Kc4 d5+ 10. Kxd5 Re8 11. Nc5+ Ka3 12. Rf7 Rg8 13. Ne6 $18) 5. Kc3 Qxb3+ 6. Rxb3 Rxf2 7. g7 Rg2 8. Rb2+ Rxb2 9. g8=Q+ Ka1 10. Qg5 Kb1 11. Qxh4 $18 {"A prickly study with an interesting thematie try, White rejects taking bQ so that he can avoid obstructing wS. In case of White altempting to carry out elÎmÎnatÎon of the 'traitor' to his own side bP shifts to the c-file giving fise 10 theory's drawn endgame of R+PP vs Q, Highly original! Just one remark: the solution should hait with 9,g8Q+, to preserve uniqueness of choice." [Oleg Pervakov]} 1-0
+
+[Event "Shakhmatnaya kompozitsia"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/3K1p2/3P1Pp1/pp1p4/3P4/7P/4P1p1/8 w - - 0 1"]
+[PlyCount "29"]
+
+1. Kc8 (1. Kc7 $143 g1=Q 2. d7 Qg3+ 3. Kc8 Qd6 $19) (1. Kc6 $143 g1=Q 2. d7 Qe3 3. d8=Q+ Qe8+ 4. Qxe8+ Kxe8 5. Kxb5 Kd7 $11) g1=Q 2. d7 Qc1+ 3. Kb7 Qe3 4. h4 (4. d8=Q+ $143 Qe8 5. Qd6+ Kg8 6. Qe7 Qf8 7. e4 b4 8. exd5 b3 9. d6 b2 10. Qxf8+ Kxf8 11. d7 b1=Q+ 12. Ka7 Qb5 13. d8=Q+ Qe8 14. Qd6+ Kg8 15. d5 a4 16. Qe7 Qb5 17. d6 a3 18. d7 Qa5+ $11 {Perpetual check}) Qe8 (b4 $144 5. h5 b3 6. h6 b2 7. d8=Q+ Qe8 8. h7 b1=Q+ 9. Ka7 Qh1 10. Qd6+ $18) 5. dxe8=Q+ Kxe8 6. h5 gxh5 (Kf8 $144 7. e4 b4 8. exd5 b3 9. d6 b2 10. d7 b1=Q+ 11. Ka7 $18) 7. Kc7 Kf8 8. e4 dxe4 9. d5 e3 10. d6 e2 11. d7 e1=Q 12. d8=Q+ Qe8 13. Qd6+ Kg8 14. Qg3+ Kh7 15. Qg7# {"It's tough these days to find something new in a P-ending, but Didukh has done it. The win of tempo right at the point of introducing the logical idea (line-opening) is curious indeed." [Oleg Pervakov]} 1-0
+
+[Event "1-2p. The Ukrainian Problemist"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5P2/7p/4P2P/1p2p1pK/pP1pP1p1/P2P1pP1/6k1 w - - 0 1"]
+[PlyCount "37"]
+
+1. f8=R (1. f8=Q $143 Kh2 $11 {And next 2...f1Q! 3.Qxf1 stalemate}) f1=Q 2. Rxf1+ Kxf1 3. Kxg3 Ke1 4. e6 Kxd2 5. e7 Kxe3 6. e8=R (6. e8=Q $143 d2 7. Qd7 d1=Q 8. Qxd1 $11 {Stalemate}) d2 7. Rd8 Ke2 8. Kxg4 d1=Q 9. Rxd1 Kxd1 10. Kf4 Kc2 11. Kxe4 Kb2 12. Kd3 Kxa2 13. Kc2 Ka1 14. g4 Ka2 15. g5 hxg5 16. h6 g4 17. h7 g3 18. h8=B (18. h8=Q $143 g2 19. Qg7 g1=Q 20. Qxg1 $11 {Stalemate}) g2 19. Bd4 $18 1-0
+
+[Event "3.p Dvoretski"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K4k/6N1/4p3/8/3Pn3/7b/8/R7 w - - 0 1"]
+[PlyCount "25"]
+
+1. Nh5 $1 (1. Rh1 $143 Kxg7 (Nf2 $143 2. Rh2 Kxg7 3. Kc7 $18) 2. Rxh3 Nd6+ 3. Kd7 Nf5 4. Rd3 Kf6 $11 {Drawing fortress}) (1. Ne8 $143 e5+ 2. Kd8 exd4 3. Rh1 (3. Rd1 $144 Kh7 4. Rxd4 $11 {EGTB}) Ng5 $11) e5+ (Kg8 $144 2. Kd8 Kf7 3. Ra7+ Kf8 4. Ra3 Bg4 5. Re3 Nd6 6. Ng3 Nc4 7. Re1 Kf7 8. Kc7 Kf6 9. Ne4+ Ke7 10. Nc5 Kf7 11. Nd7 Bf5 12. Ne5+) 2. Kb8 $3 (2. Kc7 $143 exd4 3. Rh1 Bg2 4. Rh4 Kg8 5. Rg4+ Kh7 6. Rxg2 d3 7. Rg1 d2 8. Rd1 Kg6 9. Nf4+ Kf5 10. Nd3 Kg4 11. Rf1 Nc3 12. Nb2 Nd5+ 13. Kd6 Ne3 $11) (2. Kd8 $143 exd4 3. Rh1 d3 4. Rxh3 Nf2 5. Rg3 d2 6. Nf6 $11) exd4 (Bg4 $144 3. Re1 $11) 3. Rh1 Bg2 (d3 $144 4. Rxh3 Nf2 5. Rg3 d2 (Kh7 $144 6. Nf6+ Kh6 7. Ng4+ $18) 6. Nf6 d1=Q 7. Rg8#) 4. Rh4 {Now White has set up a threatening battery} Kg8 5. Rg4+ {main} Kh7 (Kf8 $144 6. Rxg2 d3 7. Rg1 d2 (Nf2 $144 8. Rf1 Ke7 9. Rxf2 $18) (Nc3 $144 8. Rf1+ Ke7 9. Rf2 $18) 8. Rd1 Ke7 9. Nf4 Kd6 10. Nd3 Kd5 11. Nf2 Nxf2 12. Rxd2+ $18) (Kf7 $144 6. Rxg2 d3 7. Rg7+ Ke6 8. Nf4+ $18) 6. Rxg2 d3 7. Rg1 $1 d2 8. Rd1 Kg6 9. Nf4+ Kf5 10. Nd3 $1 Kg4 11. Rf1 $1 {The barrier comes down on the bK} Nc3 12. Nb2 {The tempo to transfer bK simply isn't here} Kg3 13. Nd1 $18 {Les commentaires sont de Dvorestsky} 1-0
+
+[Event "EG"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1b1N2pk/2r5/6PB/6K1/3R4/1p4P1/8 w - - 0 1"]
+[PlyCount "25"]
+
+1. Bf7 (1. Rb3 $143 Rc4+ 2. Kg3 Rc3+ 3. Rxc3 b1=Q $11) (1. g6+ $143 Kh6 2. Rb3 (2. Ne5 $143 Rc4+ 3. Nxc4 b1=Q 4. Ne5 Qb4+ $19) Rc4+ 3. Kf5 Be4+ 4. Ke6 b1=Q 5. Rxb1 Bxb1 $17) b1=Q (g6 $144 2. Nf6+ Kg7 3. Ba2 Bc8+ 4. Kf3 Ra6 5. Rc3 Rxa2 6. Rc7+ Kf8 7. Rxc8+ Ke7 8. Rb8 $18) (Bc8 $144 2. Rh3+ Rh6 3. g6+ Kh8 4. Rb3 $18) 2. Nf8+ Kh8 3. Ng6+ Rxg6 4. Rd8+ Kh7 5. Bg8+ Kh8 6. Ba2+ Kh7 7. Bxb1 Be4 $1 8. Rd3 $3 (8. Bxe4 $143 $11) Kg8 (Re6 9. Re3 Bxb1 10. Rxe6) 9. Ba2+ Kf8 10. Rd2 $1 Ra6 (Ba8 $144 11. Rd8+ $18) (Bb7 $144 11. Rf2+ Ke7 12. Rf7+ $18) (Bc6 $144 11. Kf5 Be8 12. Be6 Ke7 13. Re2 Kf8 14. Rb2 Rxe6 15. Kxe6 $18) 11. Rf2+ Ke7 12. Re2 Kf8 13. Bc4 $18 1-0
+
+[Event "2.hm Skrynnik-JT50"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5B2/8/8/8/BN1P2pp/2q4k/7P/R6K w - - 0 1"]
+[PlyCount "16"]
+
+1. Rf1 Qc7 2. Bd6 Qxd6 3. Rf3+ gxf3 4. Bd7+ Qxd7 5. Nd3 Kg4 6. Ne5+ Kh3 7. Nd3 Qxd4 8. Nf2+ Qxf2 $11 1/2-1/2
+
+[Event "The Problemist vol20 n.11"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1RR1p3/6p1/5kP1/7K/r5PP/4q3 w - - 0 1"]
+[PlyCount "27"]
+
+1. g3+ Kf3 2. Rb3+ Kf2 3. Rc2+ Rxc2 4. Rf3+ Kg1 (Ke2 $144 5. Re3+ Kxe3 $11) 5. Rf2 Qc1 6. Rg2+ (6. Rxc2 $143 Qf1+ 7. Rg2+ Qxg2#) Kf1 7. Rxc2 Qe3 8. Rf2+ Ke1 9. Rf1+ Ke2 10. Rf2+ Kd3 11. Rf3 e5 12. Rxe3+ Kxe3 13. Kg2 e4 14. h4 $11 1/2-1/2
+
+[Event "Leonid Topko-65JT"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5q2/8/8/6k1/1Q3p2/B5pP/4N2p/3n3K w - - 0 1"]
+[PlyCount "14"]
+
+1. Qa5+ (1. Qxf8 $143 Nf2+ 2. Kg2 h1=Q#) Kh4 2. Nxg3 (2. Bxf8 $143 Nf2+ 3. Kg2 h1=Q#) fxg3 3. Be7+ (3. Bxf8 $143 Nf2+ 4. Kg2 h1=Q#) (3. Qa4+ $143 Qb4 $3 4. Qxb4+ Kxh3 $19) Qxe7 4. Qa4+ Qb4 (Kxh3 $144 5. Qd7+ Qxd7 $11) 5. Qxb4+ Kxh3 6. Qb2 Nf2+ 7. Qxf2 gxf2 {"Two thematic elements with inversion. Witty play: two active sacrifi ces of wQ, one ofbQ." [Viktor Sizonenko]} 1/2-1/2
+
+[Event "1.p Humor Tourney EBUR#108"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r4B1k/3p2Rp/7K/2pp4/1q3pBp/1N4b1/4R3/4r3 w - - 0 1"]
+[PlyCount "24"]
+
+1. Be6 $1 (1. Bd6 $143 Qc3 2. Re5 Qxe5 3. Bxe5 Rxe5 4. Rxh7+ Kg8 5. Rg7+ Kf8 6. Nxc5 Rd8 7. Nxd7+ Rxd7 8. Rxd7 Ke8 $19) dxe6 2. Bd6 $1 (2. Bxc5 $143 Qc3 $1 3. Nd4 Qd3 $19) (2. Rxh7+ $143 Kg8 3. Bd6 Qc3 $19) Qc3 3. Nd4 $1 Qxd4 (Qd3 $144 4. Be5 $1 Rxe2 (Qxd4 $144 5. Ra2 $1 Rxa2 6. Rg6+ Rxe5 7. Rg8+ Kxg8 $11) 5. Rxh7+ Kg8 6. Rg7+ Kf8 7. Bd6+ Ke8 8. Re7+ $11) 4. Re5 $1 (4. Be5 $143 f3 $19) Qd3 $1 (Qxe5 $144 5. Bxe5 Rxe5 6. Rg8+ Kxg8 $11) 5. Re4 $1 (5. Reg5 $143 f3 $1 6. Be5 Bxe5 $19) Qc3 $1 6. Rd4 $1 (6. Be5 $143 Ra6 7. Rb4 Qxe5 $19) (6. Re5 $143 Qc2 7. Re4 Qb2 8. Re5 Qb1 9. Re4 Qa1 10. Re5 Ra7 11. Rxa7 Qxa7 12. Rg5 f3 $1 $19) Qc2 7. Rd3 $1 (7. Ra4 $143 Rf8 $1 8. Ra8 $1 Qf5 $1 9. Be5 $1 Qh5+ $1 10. Kxh5 Rxe5+ 11. Kh6 Rh5+ $1 $19) Qb2 8. Rc3 Qb1 9. Rc2 Qa1 10. Rb2 $1 (10. Rc3 $143 Ra7 $19) Qxb2 11. Be5 $1 Rxe5 (f3 $144 12. Rxg3+ Rxe5 13. Rg8+ Kxg8 $11) (Rf8 $144 12. Rxh7+ Kg8 13. Rg7+ $11) 12. Rg8+ $1 Kxg8 $11 1/2-1/2
+
+[Event "64 - Sh. obozrenie, com (version)"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7B/7p/2p1N2k/b1P5/7K/3N3P/7q w - - 0 1"]
+[PlyCount "17"]
+
+1. Ndf3 Bd7+ (Bc2 $144 2. Bg8 Bg6 3. Kg3 $1 Qb1 4. Be6 Bf5 5. Bf7+ $18 {wins.}) 2. Kg3 Bf5 $1 3. Bg8 $1 (3. Bxf5 $143 Qg2+ 4. Kf4 Qg3+ 5. Ke4 Qf4+ 6. Kxf4 $11 {stalemate.}) Be6 4. Bxe6 Qg2+ 5. Kf4 Qg3+ 6. Ke4 Qf4+ 7. Kd5 Qe4+ 8. Kd6 Qd5+ 9. cxd5 $18 {not stalemate.} 1-0
+
+[Event "Zadachi i etudy, 1 prize"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "q7/2P5/1b6/8/1k6/4p3/B7/N2RK3 w - - 0 1"]
+[PlyCount "19"]
+
+1. Rb1+ Ka5 (Ka4 $144 2. Rxb6 $11) 2. Nb3+ $1 (2. Bd5 $143 Qf8 $1 3. Nb3+ Ka4 4. Ke2 Qf2+ 5. Kd3 Qf5+ 6. Be4 Qd7+ 7. Ke2 Qxc7 $19 {win.}) Ka6 (Ka4 $144 3. Nc5+ $11) 3. Nc5+ Ka7 4. Bd5 $1 (4. Be6 $143 Qh1+ 5. Ke2 Qh2+ 6. Kd3 Qd6+ 7. Ke2 Qd2+ 8. Kf3 Bxc7 $19 {win.}) Qxd5 (Qh8 $144 5. c8=Q Qxc8 6. Ra1+ $11 {draw.}) 5. Ra1+ Ba5+ 6. Rxa5+ Kb6 7. Rb5+ $1 (7. Nb3 $143 Qg2 $19) Kxb5 (Kxc7 $144 8. Na6+ $11) 8. Ne4 $1 Qd7 (Qxe4 $144 9. c8=Q Qh4+ 10. Kd1 $1 Qd4+ 11. Ke2 Qd2+ 12. Kf3 Qf2+ 13. Ke4 e2 14. Qd7+ $11 {perpetual check.}) 9. c8=Q Qxc8 10. Nd6+ $11 1/2-1/2
+
+[Event "Sp.c Moscow Ty"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p2K1/8/1P3P2/1k1P4/p3N3/8/2b5 w - - 0 1"]
+[PlyCount "25"]
+
+1. Nc2+ (1. b6 $143 Bxe3 2. b7 Bxd4+ 3. f6 Be5 $11) Ka5 $1 (Kxb5 $144 2. f6 Kc4 3. f7 Kc3 4. Na1 $1 Kb2 5. f8=Q Kxa1 6. Qb4 $18) 2. f6 a2 3. f7 Ba3 4. Nxa3 a1=Q 5. f8=Q Qxd4+ 6. Qf6 d5 $1 7. Kf7 $1 (7. Qxd4 $143 $11 {stalemate}) Qxf6+ 8. Kxf6 d4 9. Ke5 d3 10. Kd4 d2 11. Kc5 d1=Q 12. Nc4+ Ka4 13. Nb2+ $18 1-0
+
+[Event "3p Azerbaijan Composition Committee 35t"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/7p/P6P/4P1K1/1B3p2/4b3/R5p1/8 w - - 0 1"]
+[PlyCount "23"]
+
+1. Ra1 (1. Rxg2 $143 f3+ $19) f3+ 2. Kh4 f2 3. a7 Bxa7 4. Rc1 Bc5 (Kg8 $144 5. e6 $18) 5. Rxc5 g1=Q 6. Rc8+ Qg8 7. Bf8 Qc4+ 8. Rxc4 f1=Q 9. Bg7+ Kg8 10. Rc8+ Kf7 11. Rf8+ Kg6 12. Rf6+ $18 (12. Rxf1 $143 $11) 1-0
+
+[Event "4.p Nona"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7R/8/1p4K1/kqp3P1/p7/2R5/1PP5/8 w - - 0 1"]
+[PlyCount "31"]
+
+1. Ra8+ Kb4 {Thematic try} 2. Rxa4+ $1 (2. Rc4+ $143 Qxc4 3. Rxa4+ Kxa4 4. b3+ Qxb3 5. cxb3+ Ka3 $1 (Kxb3 $143 6. Kh5 $18) 6. Kf5 b5 7. g6 c4 8. g7 c3 9. g8=Q c2 10. Qg1 Kb2 $11 {The wP prevents white to beat out king from a fortress}) Qxa4 3. Rc4+ Kxc4 4. b3+ Qxb3 5. cxb3+ Kxb3 {Thematic try} 6. Kh5 $1 (6. Kf5 $143 c4 {(Kb2 )} 7. g6 c3 {(Kb2 )} 8. g7 c2 {(Kb2 )} 9. g8=Q+ Kb2 $11) c4 7. g6 c3 8. g7 c2 9. g8=Q+ Kb2 10. Qg7+ Kb1 11. Qg6 Kb2 12. Qf6+ Kb1 13. Qf5 b5 14. Qd3 b4 15. Qb3+ Kc1 16. Kg4 $1 $18 1-0
+
+[Event "1sp c. Polasek & Vlasak 50JT"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "Bk5r/1Pr5/2Q5/2N5/5np1/3b2n1/5K1b/8 w - - 0 1"]
+[PlyCount "12"]
+
+1. Na6+ Ka7 (Bxa6 $144 2. Qe8+ $1 Rxe8 $11 {stalemate 1.}) 2. b8=Q+ (2. Nxc7 $143 Ne4+ 3. Ke3 Rh3+ 4. Kd4 Ne2+ 5. Kd5 Rh5+ 6. Ke6 Nd4+ $18) (2. Qxc7 $143 Ne4+ 3. Ke3 Rh3+ 4. Kd4 Ne6+ $18) Rxb8 3. Qxc7+ Kxa6 4. Qxb8 Nh1+ $1 (Ne4+ $144 5. Bxe4 Nh3+ 6. Kg2 Bxb8 7. Bxd3+ Ka5 8. Bf5 {draw.}) 5. Bxh1 Nh3+ 6. Kg2 Bxb8 $11 {stalemate 2.} 1/2-1/2
+
+[Event "1.p Shakhmatnaya Poeziya"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K6k/7p/3P3P/3Pp1P1/2p5/p4P2/P4Pr1/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. f4 (1. d7 $143 Rxg5 2. d8=Q+ Rg8 3. Qb8 c3 4. d6 c2 5. d7 c1=Q 6. d8=Q (6. d8=N $143 Qf4 $19) Qc6+ 7. Ka7 Qa4+ 8. Kb6 Qd4+ 9. Kc7 Qc3+ $11) exf4 2. d7 Rxg5 3. d8=Q+ Rg8 4. Qb8 c3 5. d6 c2 6. d7 c1=Q 7. d8=N (7. d8=Q $143 Qc6+ 8. Ka7 Qa4+ 9. Kb6 Qb4+ 10. Kc6 Qc4+ 11. Kd6 Qd4+ 12. Ke7 Qe4+ $11) Qh1+ 8. Ka7 Qxh6 9. Qe5+ Qg7+ (Rg7+ $144 10. Nf7+ Kg8 11. Qe8#) 10. Nf7# 1-0
+
+[Event "4.hm JT50-Avni"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7n/5B1P/2p4P/7p/7b/8/1K4k1/B7 w - - 0 1"]
+[PlyCount "29"]
+
+1. Bd5+ $1 (1. Kb3 $143 Nxf7 $11) cxd5 2. Kb3 $1 Nf7 3. h8=Q Nxh8 4. Bxh8 Bg3 5. h7 h4 6. Ba1 h3 7. h8=Q h2 8. Qb2+ Bf2 9. Qg7+ Bg3 10. Be5 h1=Q 11. Qxg3+ {(anticipation par Prokop, 1923)} Kf1 12. Bd4 Qg2 13. Qe3 {zz} Qd2 14. Qf3+ Ke1 15. Bc3 1-0
+
+[Event "1.p Bilek"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2b4B/5P2/8/Kp4b1/2rR4/8/5k2 w - - 0 1"]
+[PlyCount "21"]
+
+1. f7 Bd6 (Ra3+ $144 2. Rxa3 Bd7+ 3. Kb3 Be6+ 4. Kc2 b3+ 5. Kb1 {(d3 )} Bxf7 6. Ra7 $18 {wins.}) 2. Rxd6 Rf3 {Thematic try} 3. Bd3+ $1 (3. Bg6 $143 Bf5 4. Bh5 Bg4 {Thematic} 5. Rd3 {Thematic} (5. Rd1+ $144 Kg2 $1 $11) (5. Bxg4 $144 Rxf7 $11) Rf2 $1 (Rxd3 $143 6. f8=Q+ $18) 6. Bg6 Be6 $11 {draw.}) Ke1 (Kg1 $144 4. Bg6 Bf5 5. Bh5 Bg4 6. Rg6 $18) (Kg2 $144 4. Be4 $18) (Kf2 $144 4. Bg6 Bf5 5. Bh5 Bg4 6. Rd3 Rf6 7. Bg6 Ra6+ 8. Kxb4 Ra8 $18) 4. Bg6 Bf5 $1 5. Bh5 $1 (5. Rd1+ $143 Kf2 6. Bh5 Bc2+ $11) Bg4 6. Rd1+ $1 {Thematic} Kf2 {Thematic} 7. Rd3 $1 Rf6 {Thematic. The black rook cannot play to f2 any more, and 7...Rf4 loses at once.} (Rf4 $144 8. Rd4 $18) 8. Bg6 Bf5 {Thematic} (Ra6+ $144 9. Kxb4 Ra8 10. Rd6 Ke3 11. Rf6 Rf8 12. Kc5 $18 {wins.}) 9. Rd6 $1 Bc2+ {Thematic.} 10. Ka5 $1 {Thematic} (10. Kb5 $143 Rxf7 11. Bxf7 b3 $11 {draw.}) Rf4 (Rxf7 $144 11. Bxf7 $18) 11. Rd2+ $18 {wins. Six thematic moments in the main line. During the logical struggle White benefits twice from temporary blocks to evict bR from f-file. Black manages to free his Rook but only for the price of Bishop. The study was left out from the first circle because of a fatal mistake. We apologise to the author and all applicants!! Theme: In an endgame study with win or draw stipulation some (more is better) unprotected pieces (not pawns) are not captured. At least two variants are required. The theme can be shown in the start position or during the play} 1-0
+
+[Event "2.hm Die Schwalbe"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/p2p4/P2p1N2/2k5/2B5/R1P2q2/5P2/8 w - - 0 1"]
+[PlyCount "21"]
+
+1. Ne4+ Qxe4 2. Ra5+ Kb6 3. Rb5+ Kxa6 4. Bf1 Qh1 5. Be2 (5. Bd3 $143 Qh3 6. Be2 d5 $11) Qe1 6. Bd3 Qd1 7. Bc4 Qg4 8. Bf1 Qg1 9. Rb1+ Ka5 10. Kc7 Ka4 (a6 $144 11. Ra1#) (d5 $144 11. Ra1#) 11. Bb5+ $18 1-0
+
+[Event "4.p JT50-Gurgenidze"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1q3N2/5pk1/8/5P1p/1p5p/6P1/8/5KQ1 w - - 0 1"]
+[PlyCount "17"]
+
+1. f6+ $1 (1. Qd4+ $143 Kg8 2. Nd7 Qb5+ 3. Ke1 Qxf5 4. gxh4 b3 5. Nf6+ Kf8 6. Nd5 Qb1+ 7. Ke2 Qc2+ 8. Kf3 Qf5+ 9. Ke3 f6 $11) Kh8 2. Qc5 Qxg3 3. Qxh5+ (3. Qf5 $143 Kg8 $11 {z}) Kg8 4. Qf5 $1 (4. Qh7+ $143 Kxf8 5. Qh8+ Qg8 6. Qh5 Qg6 7. Qh8+ Qg8 8. Qxh4 Ke8 $11) b3 5. Qh7+ Kxf8 6. Qh8+ Qg8 7. Qxh4 Ke8 (Qg6 $144 8. Qh8+ Qg8 9. Qh3 $18) 8. Qa4+ Kd8 9. Qa8+ $18 1-0
+
+[Event "sp.hm Chervony girnik XXX"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B1q1r1k/5p2/5p2/1B3K1N/8/8/2Q5/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. Be5 (1. Qc6 $143 Qc8+ 2. Qxc8 Rxc8 3. Ba7 Ra8 4. Bd4 Ra5 $11) fxe5 2. Qh2 Qc8+ 3. Bd7 Qxd7+ 4. Kg5 Rg8+ 5. Ng7+ Kxg7 6. Qh6# 1-0
+
+[Event "Shakhmatnaya Poezia"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/7p/p6P/6P1/7B/6p1/p5p1/3B2K1 w - - 0 1"]
+[PlyCount "16"]
+
+1. g6 a1=Q 2. Bf6+ Qxf6 3. g7+ Kg8 4. Bb3+ Qf7 5. Bd5 (5. Bxf7+ $143 Kxf7 6. Kxg2 a5 $19) (5. Ba2 $143 a5 6. Bd5 a4 7. Ba2 Qb3 $19) a5 6. Ba2 a4 7. Bd5 a3 8. Ba2 Qxa2 $11 {stalemate "Pleasingly built on reci-zug with stalemate as the motivation. The judge failed to trace a clear anticipation." [Oleg Pervakov]} 1/2-1/2
+
+[Event "Springaren"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "b1r5/8/1p1PN3/PN1n4/B5k1/7p/8/6K1 w - - 0 1"]
+[PlyCount "17"]
+
+1. d7 Rh8 2. d8=Q h2+ 3. Kh1 Rxd8 4. Nxd8 Kh3 5. Nd6 Nb4+ 6. Bc6 (6. Nc6 $143 Nxc6 7. axb6 Ne5+ 8. b7 Bxb7+ 9. Nxb7 Nd3 $19 {mat en 2}) Nxc6 7. axb6 Nxd8+ 8. b7 Nxb7 9. Ne4 $11 1/2-1/2
+
+[Event "2.p  Nona"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4pB2/4p3/4P1P1/2K1k1P1/Npp5/p7/2B5 w - - 0 1"]
+[PlyCount "21"]
+
+1. Bg6+ $1 (1. Kxc3 $143 a1=Q+ 2. Bb2 Qe1+ 3. Kxb3 Qd1+ 4. Kb4 Qe2 5. Bc3 Qxg4 $11) (1. g6 $143 a1=Q 2. g7 Qxc1 3. g8=Q Qxa3 $11) Kf3 (Kxe5 $144 $2 2. Kc5 a1=Q 3. Nc4#) 2. Bb2 $1 (2. Kxb3 $143 a1=Q 3. Kc2 Qa2+ 4. Kxc3 Qa1+ 5. Kc2 Qd4 6. Bd3 Qa4+ 7. Kc3 Qd1 8. Bb2 Qe1+ 9. Kc4 Qd2 $11) cxb2 3. Bb1 a1=Q {Thematic try} 4. Kb4 $3 (4. Kxb3 $143 Kf4 5. g6 Kg5 6. g7 Kh6 7. g8=N+ (7. g8=B $144 Kg5 8. Bxe6 Kf4 9. Bc4 e6 $1 10. Kb4 Qxa3+ $1 11. Kxa3 Kxg4 $11 {with two useless white bishops.}) (7. g8=Q $143 Qxa3+ $11) (7. g8=R $143 Qxa3+ $11) Kg5 8. Nxe7 Kxg4 9. Nd5 $1 Kf3 $1 10. Kb4 (10. Nb6 Ke3 11. Nbc4+ Kd4) Ke2 $1 {(f2 )} 11. Nf4+ Ke3 {(Kf3 )} 12. Nxe6 Qxb1 $1 13. Nxb1 Ke4 $11 {with two useless white knights.}) Kf4 $1 5. g6 Kg5 6. g7 Kh6 7. g8=B $1 (7. g8=R $143 Qxa3+ 8. Kxa3 $11 {stalemate.}) Kg5 8. Bxe6 Kf4 9. Bxb3 e6 10. B3a2 $1 (10. Bxe6 $143 Kxe5 11. Bea2 Kf4 $1 $11) Kxe5 11. g5 $18 {win. .A new interpretation of a known idea (V.Smislov ) with a beautiful thematic try.} 1-0
+
+[Event "4.p Matous60JT"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "bK4R1/8/4ppP1/8/2k5/8/r7/6N1 w - - 0 1"]
+[PlyCount "17"]
+
+1. Rc8+ (1. g7 $143 Bc6 2. Rh8 (2. Rc8 $144 {EV} Ra8+ 3. Kc7 Ra7+ $11) Ra8+ 3. Kc7 Ra7+ 4. Kxc6 Rxg7 $11) Bc6 $1 (Kd4 $144 2. g7 Rg2 3. g8=Q Rxg8 4. Rxg8 Bd5 5. Kc7 $18 {wins.}) 2. Rxc6+ Kd5 (Kb5 $144 3. Rxe6 Rg2 (Kc5 {EV} 4. Rxf6 Kd5 5. Nf3 Rg2 6. Kc7) 4. Rxf6 $18 {wins.}) 3. Rc7 $1 (3. Rc1 $143 Rg2 4. Nh3 e5 5. Rg1 Rxg1 6. Nxg1 Ke6 $11) (3. g7 $143 {EV} Rg2 4. Rc7 Rxg1 $11) Rg2 4. Nh3 e5 (Rxg6 $144 5. Nf4+ $18) 5. g7 f5 (Ke6 $144 {EV} 6. Kc8 f5 7. Kd8 $18) 6. Kc8 Ke6 7. Kd8 Kf6 8. Ke8 Rxg7 9. Rc6# {Ideal mate with 3 active self-blocks.} 1-0
+
+[Event "Mat Plus Review, 1st prize"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/b3p3/P7/6k1/6P1/5KPB/6P1/3n4 w - - 0 1"]
+[PlyCount "26"]
+
+1. Ke4 Nc3+ 2. Ke5 Bc5 (Bb6 $144 3. Ke6 Bc5 4. a7 Nb5 5. a8=N $1 $11 {draw.}) 3. Ke6 Na4 (Nb5 $144 4. Kd5 Bd6 5. Kc6 Na7+ 6. Kb6 (6. Kb7 $143 Bc5 $19) e5 (Nc8+ $144 7. Kb7 e5 8. Kxc8 Bc5 9. Kb7 e4 10. Kc6 Ba7 11. Kd5 e3 12. Ke4 e2 13. Kf3 $11) 7. Kxa7 Bc5+ 8. Kb7 e4 9. Kc6 Ba7 10. Kd5 e3 11. Ke4 e2 12. Kf3 e1=Q $11 {stalemate.}) 4. Kd5 $1 (4. a7 $143 Nb6 5. Ke5 Na8 6. Ke6 Bd6 $1 7. Kd5 e5 8. Ke4 Nc7 9. Kd3 Bc5 10. Ke4 Bd4 11. Kd3 Bxa7 $19) Bd6 5. a7 $1 (5. Kc6 $143 Bb8 6. Kb7 Nc5+ 7. Kxb8 Nxa6+ 8. Kb7 e5 9. Kc6 e4 10. Kd5 e3 11. Ke4 e2 12. Kf3 e1=R $1 $19) Nb6+ 6. Kc6 Na8 7. Kb7 Bc5 8. Kxa8 Bxa7 9. Kb7 $1 e5 10. Kc6 e4 11. Kd5 e3 12. Ke4 e2 13. Kf3 e1=Q $11 {(R) stalemate.} 1/2-1/2
+
+[Event "2.p Rezvov JT"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7R/8/r4P2/r2p4/1p1k4/1K6/1b5N/7R w - - 0 1"]
+[PlyCount "33"]
+
+1. f7 Ra3+ 2. Kc2 $1 (2. Kxb2 $143 Ra2+ 3. Kb3 R2a3+ 4. Kxb4 R6a4+ 5. Kb5 Ra5+ 6. Kc6 Ra6+ 7. Kd7 Ra7+ 8. Ke8 Ra8+ 9. Ke7 Re3+ 10. Kf6 Rxh8 $11) b3+ 3. Kxb2 Ra2+ 4. Kxb3 R2a3+ (R6a3+ $144 5. Kb4 Ra4+ 6. Kb5 Ra5+ 7. Kc6 Ra6+ 8. Kd7 Ra7+ 9. Ke8 Ra8+ 10. Ke7 Re2+ 11. Kf6 Rxh8 12. Nf3+ $1 $18) 5. Kb2 Ra2+ 6. Kc1 Ra1+ 7. Kc2 R1a2+ 8. Kd1 Ra1+ 9. Ke2 R1a2+ 10. Ke1 $1 (10. Kf3 $143 Rf6+ 11. Kg4 Raf2 $11) Rf6 11. Nf3+ $1 Rxf3 12. f8=Q Rxf8 13. R1h4+ Rf4 $1 14. Rxf4+ Ke3 15. Ra4 $1 Rxa4 16. Rh3+ Kf4 17. Rh4+ $18 1-0
+
+[Event "1.p Shakhmatnaya Poezia#2676"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7p/8/1P6/3K3n/1R6/3k1p2/7n w - - 0 1"]
+[PlyCount "33"]
+
+1. Rb2+ $1 (1. Rb1 $143 Nf3+ 2. Ke4 Ne1 3. Rb2+ Kc3 $19) Kc1 2. Ra2 $1 (2. Rxf2 $143 Nxf2 3. Ke3 Nh3 4. b6 Nf5+ 5. Kf3 Nd6 6. Kg4 Nf2+ 7. Kh5 Nfe4 8. Kh6 Nf6 9. Kg7 h5 10. Kxf6 h4 11. Ke5 h3 12. Kxd6 h2 13. b7 h1=Q 14. b8=Q Qh2+ $19) Kb1 3. Rxf2 Nxf2 4. Ke3 $1 (4. b6 $143 Nf5+ $1 5. Ke5 Ne7 6. Kf6 Nc6 7. Kg5 Ne4+ 8. Kh6 Nf6 $19) Nh3 (Ng4+ $144 5. Kf4 Nf6 6. Kg5 Nd7 7. Kxh4 $11) 5. b6 Nf5+ 6. Kf3 $1 Nd6 (Nd4+ $144 7. Kg4 Nf2+ 8. Kg5 Ne4+ 9. Kh6 Nf6 10. Kg7 h5 11. Kxf6 h4 12. Ke5 h3 13. Kxd4 $11) 7. Kg4 Nf2+ 8. Kh5 $1 (8. Kg5 $143 Nf7+ $1 9. Kh5 (9. Kf6 $144 Nd8 10. Kg5 Ne4+ 11. Kh6 Nf6 $19) Ne4 10. b7 Nf6+ 11. Kh4 Nd7 $19) Nfe4 9. Kh6 Nf6 10. Kg7 $1 Nde8+ 11. Kh6 Nd6 12. Kg7 h5 13. Kxf6 h4 14. Ke5 h3 15. Kxd6 h2 16. b7 h1=Q 17. b8=Q+ $11 1/2-1/2
+
+[Event "1.p Uralski Problemist#2987"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/2p5/1p6/1P1K4/7N/3p2R1/2p5/3b4 w - - 0 1"]
+[PlyCount "20"]
+
+1. Ng6+ Ke8 2. Re3+ Kd8 3. Ne5 $1 c1=Q (Bf3+ $144 4. Rxf3 c1=Q 5. Rf8+ Ke7 6. Ng6+ $11) 4. Nc6+ Qxc6+ 5. Kxc6 d2 (Be2 $144 6. Rg3 d2 7. Rg8+ Ke7 8. Rg1 $11) 6. Rd3+ Kc8 7. Rh3 $1 (7. Rxd2 $143 Bf3+ 8. Rd5 Bxd5+ $19) (7. Rg3 $143 Bg4 $1 (Bb3 $143 8. Rg8+ Bxg8 $11) 8. Rxg4 d1=Q 9. Rg8+ Qd8 10. Rxd8+ Kxd8 $19) Bf3+ (Bh5 $144 8. Rxh5 d1=Q 9. Rh8+ Qd8 10. Rg8 Qxg8 $11) (Kb8 $144 8. Rh8+ Ka7 9. Kxc7 Ba4 10. Rb8 d1=Q 11. Rb7+ Ka8 12. Rb8+ Ka7 13. Rb7+ $11) 8. Rxf3 d1=Q 9. Rf8+ Qd8 10. Rg8 $1 Qxg8 $11 1/2-1/2
+
+[Event "1.p Zhigulevskie Zori"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/K4R2/5Bk1/8/8/3p2b1/8/4n3 w - - 0 1"]
+[PlyCount "23"]
+
+1. Rf8 Bf2+ 2. Kb7 Bd4 3. Bxd4 d2 4. Rf6+ Kh5 5. Rh6+ Kg4 6. Rg6+ Kf3 7. Rf6+ Ke4 8. Bc3 d1=Q 9. Bxe1 Qd7+ 10. Ka6 Qd3+ 11. Ka7 Ke5 12. Rb6 $11 1/2-1/2
+
+[Event "3.p World Cup"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "b7/3K4/4P3/3k4/8/2R5/r1pN1p2/8 w - - 0 1"]
+[PlyCount "33"]
+
+1. e7 Bc6+ $1 (Ra7+ $144 2. Kd8 Bc6 3. Rxc2 $1 (3. Rxc6 $143 Rxe7 4. Rxc2 Re2 $1 $19) Rd7+ 4. Ke8 $1 $11) 2. Rxc6 Ra7+ 3. Kc8 $1 (3. Kd8 $143 Rxe7 4. Rxc2 Re2 5. Kd7 (5. Ra2 $144 Kc6 6. Rc2+ Kb5 7. Rb2+ Ka4 $19) Kd4 $1 (Ke5 $143 6. Nc4+ $1 Kd4 7. Rxe2 f1=Q 8. Re4+ $1 Kxe4 9. Nd2+ Kd3 10. Nxf1 $11) 6. Nf3+ Kd3 7. Rc1 Re3 8. Nh2 Re1 9. Rc6 Rh1 10. Rd6+ Ke4 $1 11. Re6+ Kf5 12. Rf6+ $1 Kxf6 13. Ng4+ Kf5 $1 14. Nxf2 Rh2 $19) Rxe7 4. Rxc2 Re2 5. Kd8 $1 (5. Kb8 $143 Kd4 $1 6. Nf3+ Kd3 7. Rxe2 f1=Q 8. Rb2 Qa1 $1 9. Ne5+ Kd4 10. Rb5 Qa6 $1 11. Ra5 Qb6+ $1 $19) Kd4 (Ke5 $144 6. Nf3+ Kf4 7. Rxe2 f1=Q 8. Re7 $1 Qd3+ 9. Rd7 $11) (f1=Q $144 6. Nxf1 Rxc2 7. Ne3+ Ke4 8. Nxc2 $11) 6. Nf3+ Kd3 7. Rc1 $1 Re3 8. Nh2 Re1 9. Rc7 $1 Rh1 10. Rd7+ Ke4 11. Re7+ Kd4 (Kf5 $144 12. Rf7+ $11) 12. Rd7+ Kc5 13. Rc7+ Kb5 (Kd6 $144 14. Rd7+ Ke6 15. Re7+ Kf6 16. Ng4+ $11) 14. Rb7+ $1 (14. Rf7 $143 Rxh2 15. Rf4 Kc5 16. Ke7 Kd5 17. Kf6 Rg2 18. Kf5 Rg8 19. Rxf2 Rf8+ $19) Kc6 15. Rc7+ $1 Kb6 16. Rf7 $1 Rxh2 17. Rf5 $1 $11 1/2-1/2
+
+[Event "1.p Olimpiya Dunyasi#405"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/5P2/P7/3B4/8/pp2KPp1/r1k1N3 w - - 0 1"]
+[PlyCount "49"]
+
+1. Be3+ Kb1 2. f3 $1 (2. f4 $143 g1=Q 3. Bxg1 Kc1 4. Be3+ Kb1 5. Bc5 Kc1 6. Ba3 Rb1 7. Bb4 Ra1 8. Bd2+ Kb1 9. Nf3 Kc2 10. Nd4+ Kb1 11. Bb4 Kc1 12. Ba3 Rb1 13. Bd6 Ra1 14. Ba3 Rb1 15. f5 a1=B $1 16. Bb4 $11) g1=Q 3. Bxg1 Kc1 4. Be3+ Kb1 5. Bc5 Kc1 6. Ba3 Rb1 7. Bf8 Ra1 (a1=Q $144 8. Bh6#) 8. Bh6+ Kb1 9. f4 Kc1 10. f5+ Kb1 11. Bf8 Kc1 12. Ba3 Rb1 13. Bb4 Ra1 14. Bd2+ Kb1 15. Nf3 Kc2 16. Nd4+ Kb1 17. Bb4 Kc1 18. Ba3 Rb1 19. Bd6 Ra1 20. Bf4+ $1 Kb1 21. Be5 Kc1 22. Nb3+ Kc2 23. Nxa1+ Kc1 24. Bxb2+ Kxb2 25. a6 $18 1-0
+
+[Event "1.p Scacchi & Dintorni"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r1q4k/3Npnp1/1P6/4P2p/7K/1p6/1B4Q1/8 w - - 0 1"]
+[PlyCount "21"]
+
+1. b7 Qc4+ 2. Kxh5 Rg8 (g6+ $144 3. Qxg6 Qe2+ 4. Qg4 Qh2+ 5. Qh4 Qe2+ 6. Kg6+ $18) (Rd8 $144 3. e6 Qb5+ 4. Kg6 Nh6 5. Bxg7+ $18) 3. e6 $1 Qxe6 (Qb5+ $144 4. Kg6 Nh6 5. Qh3 $1 Qxb7 6. Qxh6#) 4. Qxg7+ (4. Bxg7+ $143 Kh7 5. Nf6+ Qxf6 6. Bxf6 Rxg2 7. b8=Q exf6 $11) Rxg7 5. b8=R+ (5. b8=Q+ $143 Nd8 6. Qxd8+ Qg8 7. Nf8 e5 8. Bxe5 b2 9. Bxb2 Qd5+ 10. Qxd5 $11) Nd8 (Kh7 $144 6. Nf8+ $18) 6. Rxd8+ Qg8 7. Nf8 e5 8. Bxe5 b2 9. Bxb2 Qf7+ 10. Ng6+ Kh7 11. Rh8# 1-0
+
+[Event "3.p Zadachy i Etiudy"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2P5/3Pb3/6p1/1N1P4/7P/5k1P/7K w - - 0 1"]
+[PlyCount "17"]
+
+1. h4 $1 (1. c8=Q $143 Bxc8 2. h4 Bh3 3. Nd3+ Kf1 4. Ne1 Kxe1 5. d7 Kf1 6. d8=Q Bg2#) Bh3 2. Nd3+ Kf1 3. Ne1 gxh4 (Kxe1 $143 4. c8=Q Bxc8 5. hxg5 Bh3 6. Kg1 $18) 4. d7 $1 (4. c8=Q $143 Bxc8 5. Ng2 Bb7 6. d5 Bxd5 7. h3 Bxg2+ 8. Kh2 Bc6 $19 9. d7 Bxd7 10. Kh1 Bxh3 $19) Bxd7 5. c8=Q Bxc8 6. Ng2 Bb7 7. d5 Bxd5 8. h3 Bxg2+ 9. Kh2 $11 {the positional stalemate} 1/2-1/2
+
+[Event "3.p Tolush 100 MT"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1K4P1/5kp1/2p4R/4Pr2/3B4 w - - 0 1"]
+[PlyCount "39"]
+
+1. Rh5 $1 (1. Rxc3 $143 g3 2. g6 g2 3. Rc4+ Kg3 4. Rc5 g1=Q $11 5. Rg5+ Kh2 6. Rxg1 Kxg1 $11) g3 (Rf1 $144 2. g6 Rxd1 3. g7 Rd8 4. Rh8 Rd5+ 5. Kb4 $1 Rg5 6. g8=Q Rxg8 7. Rxg8 c2 8. Rc8 $18) 2. g6 g2 3. Rg5 $1 c2 4. Bxc2 Rxe2 5. g7 Re5+ $1 6. Rxe5 g1=Q 7. Re4+ (7. Rf5+ $143 Ke3 8. Rf7 Qg3 $11) Kf3 8. Rg4 Qf1+ 9. Rc4 Qg1 10. Bd1+ (10. Rg4 $144 Qf1+ 11. Rc4 Qg1 $18 {minor dual}) Ke3 11. Rg4 $18 {The end could be:} Qf1+ 12. Kc5 Qf5+ 13. Kb4 $1 Qb1+ 14. Bb3 Qe1+ 15. Kb5 Qf1+ 16. Rc4 Qg1 17. Rc7 Qg5+ 18. Kb6 Qg6+ 19. Ka7 Qg5 20. g8=Q $18 1-0
+
+[Event "1.p Osintsev 50 JT"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/K2P3p/6P1/5P2/4p3/5P2/3r1P2/k7 w - - 0 1"]
+[PlyCount "25"]
+
+1. Kb6 $1 ({Thematic try} 1. Kb7 $143 e3 $1 2. fxe3 Rxd7+ 3. Kc6 Ra7 4. gxh7 Rxh7 5. e4 Kb2 6. e5 Kc3 7. Kd5 Rd7+ 8. Ke4 Rd4+ $1 9. Ke3 Rd8 $11 {EGTB}) (1. Kb8 $143 Rxd7 2. Kc8 Ra7 3. fxe4 hxg6 4. f6 Ra2 $1 5. f4 Ra4 6. f5 (6. f7 $143 Ra7 $1 $19) gxf5 7. Kb8 $1 $11 {EGTB}) Rxd7 2. Kc6 Ra7 3. gxh7 Rxh7 4. fxe4 Kb2 (Rh2 $144 5. f4 $1 Rh4 6. Kd6 $1 Rxf4 7. Ke5 Rh4 8. f6 Rh1 9. Ke6 Kb2 10. e5 Kc3 11. Kf5 $1 Rf1+ 12. Kg5 Kd4 13. e6 $18) 5. e5 Kc3 6. Kd5 $1 Rd7+ 7. Ke4 $1 (7. Ke6 $143 Rd4 $1 8. f6 Rf4 9. Kf7 Kd4 10. e6 Ke5 11. e7 Rxf6+ 12. Kg7 Re6 $11) Rd4+ 8. Kf3 $1 Rd5 9. Kf4 Rd4+ 10. Kg5 Rd8 11. f6 Kd4 12. Kf5 $1 Kd5 13. f7 $18 1-0
+
+[Event "2.p Osintsev 50 JT"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/1p6/1P6/8/5P1K/1N2pB2/5Pn1/5r2 w - - 0 1"]
+[PlyCount "29"]
+
+1. Kg3 $1 (1. Bxg2 $143 e2 $19) Ne1 2. Bxb7 Rg1+ 3. Kh3 $1 ({Thematic try} 3. Kh2 $143 exf2 4. Nd2 f1=Q 5. Nxf1 Rxf1 6. Be4 Rxf4 7. b7 Rf2+ $1 8. Kg3 Rf8 {zz} 9. Bf5 Kg7 10. Kg4 (10. Bc8 $144 Rf3+ 11. Kg4 Rb3 $19) Rb8 11. Be4 Kf6 $19) exf2 4. Nd2 f1=Q+ 5. Nxf1 Rxf1 6. Be4 $1 Rxf4 7. b7 Rf8 $1 8. Kg3 $1 {zz} (8. Bf5 $143 Rb8 9. Be4 Rd8 10. Bf5 Kg7 11. Kg3 Rf8 $19) Kg8 9. Bb1 $1 {zz} Kh8 10. Be4 Kg7 11. Bf5 $1 Kh6 12. Kg4 $1 Rb8 13. Be4 Kg7 14. Kg3 $1 Rf8 15. Bf5 $11 {positional draw} 1/2-1/2
+
+[Event ".hm Razumenko-70 JT Zadachy i Etyudy"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2r2k2/8/8/3Rp1N1/2P3K1/8/2p4B/8 w - - 0 1"]
+[PlyCount "21"]
+
+1. Ne6+ $1 (1. Nh7+ $143 Kf7 2. Kf5 Re8 3. Ng5+ Kg8 4. Ne4 c1=Q 5. Nf6+ Kf7 6. Nxe8 Qc2+ 7. Kxe5 Qxh2+ $19 {EGTB #54}) (1. Rd7 $143 Rxc4+ 2. Kh5 Ke8 3. Bxe5 c1=Q 4. Rd6 Rc6 5. Rxc6 Qxc6 $19 {#36}) Ke7 (Kf7 $144 2. Nd8+ $1 Kg8 (Kg6 $144 3. Rd6+ Kh7 4. Rd7+ Kg8 5. Bxe5 Rxc4+ 6. Bd4 $1 c1=Q 7. Ne6 Qh6 8. Kf5 $11) 3. Rxe5 c1=Q 4. Re8+ Kh7 5. Re7+ Kg6 6. Re6+ Kg7 7. Be5+ Kf8 8. Bd6+ $11) 2. Bf4 $1 (2. Rxe5 $143 c1=Q 3. Nd4+ Kf7 4. Rf5+ Kg8 5. Be5 Qxc4 {eg:} 6. Kh5 Rf8 7. Rg5+ Kf7 8. Kg4 Rd8 9. Rf5+ Ke7 10. Bf6+ Kd7 11. Bxd8 Qxd4+ 12. Kg5 Kxd8 $19 {#29}) (2. Bxe5 $143 c1=Q 3. Nf4 Rg8+ 4. Kf5 Qc2+ 5. Nd3 Rf8+ 6. Ke4 Qxc4+ 7. Bd4 Re8 8. Re5+ Kd6 9. Rxe8 Qc6+ $19 {EGTB #40}) exf4 3. Re5 (3. Nd4 $143 Rg8+ 4. Kh4 c1=Q $19) c1=Q (Rg8+ $144 4. Ng5+ $11) 4. Nd4+ Kd6 5. Rd5+ Kc7 6. Rc5+ Kb7 7. Rb5+ Ka6 8. Ra5+ Kxa5 9. Nb3+ Kb4 10. Nxc1 Rf8 11. Nd3+ $11 1/2-1/2
+
+[Event "1 prize Pervakov-50 JT"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3p1p2/1KP1b2n/4P3/8/4P3/k3P3/8 w - - 0 1"]
+[PlyCount "23"]
+
+1. c7 d5 2. exd6 f6 3. e4 (3. Kb7 $143 Nf7 4. c8=N (4. d7 $144 Bxd7 5. c8=Q Bxc8+ 6. Kxc8 Kb3 7. Kd7 Ng5 8. Ke7 Ne4 9. Ke6 Kc4 10. Kf5 Kd5 $19) Kb3 5. Kc7 (5. e4 $144 Kc3 6. d7 Bxd7 7. Nb6 Be6 8. Kc6 Kd4 $19) Bxc8 6. Kxc8 Nxd6+ 7. Kd7 Ne4 8. Ke6 Kc4 9. Kf5 Kd5 $19) (3. Kc6 Nf7 4. d7 Ne5+ 5. Kd6 Bxd7 $19 {wins:} 6. Ke7 Kb3 7. Kxf6 Nc6 8. e4 Bc8 9. e5 Nd4 10. Ke7 Ne6 11. Kd6 Kb4 12. Kc6 Ka5 13. e3 Ka6 14. e4 Ka7 15. Kb5 Nxc7+ $19) Nf7 4. e5 Nxe5 (fxe5 $144 5. Kc6 e4 6. d7 Ne5+ 7. Kd6 Bxd7 8. Kxe5 $11) (f5 $144 5. Kb7 Nxe5 6. c8=Q Bxc8+ 7. Kxc8 Kb3 8. d7 $11) 5. Kb7 Nc4 (Nf7 $144 6. c8=N Kb3 7. Kc7 Bxc8 8. Kxc8 $11 (8. d7 $143 Ba6 $19)) 6. c8=N Kb3 7. Kc7 Bxc8 (Ne5 $144 8. Nb6 $11) 8. Kxc8 (8. d7 $143 Bxd7 9. Kxd7 f5 10. Ke6 Ne3 11. Ke5 Kc3 (Kc2 $143 12. Kf4 Kd2 13. Kf3 Nd5 14. e4 $11) 12. Kf4 Kd4 $19) Nxd6+ 9. Kd7 Ne4 10. Ke6 Kc4 11. Kf5 Kd5 (Kd4 $144 12. Ke6 Ke3 13. Kf5 Kd4 14. Ke6 $11) 12. e3 $11 1/2-1/2
+
+[Event "1-2 Prize, Reti-2 MT"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/2r3Pp/k1P2p1p/8/p7/5P2/2PN4/8 w - - 0 1"]
+[PlyCount "49"]
+
+1. Kh8 $3 (1. Kxh7 $143 h5 2. Kg6 Rxg7+ 3. Kxg7 h4 4. Kxf6 Kb6 5. Ke5 Kxc6 6. Kd4 (6. Kf4 $144 a3 $1 7. Nb3 Kd5 8. Nc1 Kd4 9. Na2 h3 10. Kg3 Ke3 11. f4 h2 12. Kxh2 Kxf4 13. Kg2 Ke3 14. Kf1 Kd2 15. c4 Kc2 16. c5 Kb2 17. c6 Kxa2 18. c7 Kb2 19. c8=Q a2 $11) h3 (a3 $144 $1 7. Kc3 h3 $11) 7. Nf1 a3 8. Kc3 Kd5 9. Kb3 Ke5 10. c4 Kd4 11. Kxa3 Kxc4 12. Kb2 Kd3 13. Kc1 Ke2 14. Nh2 Kf2 15. Kd2 Kg3 16. Ke3 Kxh2 17. Kf2 Kh1 18. f4 h2 19. f5 $11 {stalemate}) (1. Nc4 $143 Kb5 2. Kxh7 h5 3. Kg6 Rxg7+ 4. Kxg7 Kxc6 5. Kxf6 h4 $19) Rc8+ 2. g8=Q Rxg8+ 3. Kxg8 Kb6 4. Kf7 (4. Kg7 $144 $11 {Or}) h5 (Kxc6 $144 5. Kxf6 a3 6. f4 a2 7. Nb3 h5 8. Kg5 Kd5 9. Kxh5 Ke4 10. Kg4 h5+ 11. Kg3 $1 h4+ 12. Kg4 $1 h3 13. Kxh3 Kxf4 14. Kg2 Ke3 15. Kf1 $18) (f5 $144 5. Ke6 Kxc6 6. Nb1 $18 {wins :} f4 7. Ke5 Kd7 8. Kxf4 h5 9. Kg3 Kc6 10. Kh4 Kd7 11. f4 Ke8 12. Kxh5 Ke7 13. f5 Kf7 14. f6 Kxf6 15. Kh6 $18) 5. Kxf6 h4 6. Ke5 $1 {Reti maneuver} Kxc6 (h3 $144 7. Kd6 h2 8. Nc4+ Kb5 9. c7 h1=Q 10. c8=Q Qd1+ 11. Ke6 Qxf3 12. Nd6+ Kb4 13. Qc4+ Ka3 14. Nb5+ Kb2 15. Qb4+ Kc1 16. c4 $18) 7. Kd4 h3 8. Nf1 a3 (Kd6 $144 9. f4 a3 (Ke6 $144 10. c4 $18) 10. Kc3 Kd5 11. Kb3 Ke4 12. c4 Kxf4 13. c5 Ke5 14. Kxa3 $18) 9. Kc3 Kd5 10. Kb3 Ke5 11. c4 Kd4 12. Kxa3 $1 (12. Nh2 $143 h5 13. Kxa3 Kxc4 14. Kb2 Kd3 15. Kc1 Ke3 16. Kd1 Kf2 17. f4 Kg3 $1 $11 {Reti saves Black}) Kxc4 13. Kb2 Kd3 14. Kc1 Ke2 (h5 $144 15. Kd1 $18) 15. Nh2 Kf2 16. Kd2 h5 17. f4 Kg3 18. Ke3 Kxh2 19. Kf2 Kh1 20. f5 h2 21. f6 h4 22. f7 {with mate} h3 23. Kg3 Kg1 24. f8=Q h1=Q 25. Qf2# {The point of the 1st move becomes clear only at the end, after the capture of bPh7 it would have been a stalemate. Combination of 'Reti Manoeuvre' with remote effect of foreknowing.} 1-0
+
+[Event "2.Prize, MatPlus"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/2BK2RP/8/6p1/8/2r3p1/6Pr/8 w - - 0 1"]
+[PlyCount "22"]
+
+1. Be5 (1. Re7 $143 Rxc7+ 2. Kxc7 Rxg2 $19) Re3 (Rc5 $144 2. Bf6 Rxh7 3. Kd6 $1 Rf5 4. Rg6+ Rxf6+ 5. Rxf6 Rh2 6. Rg6 Rxg2 7. Ke5 Rg1 8. Ke4 $1 $11) 2. Re7+ $1 ({Thematic try} 2. Rxg5+ $143 Rxe5 3. Rxe5 Rxg2 4. Ke6 Kxh7 5. Kf5 Rf2+ 6. Kg4 g2 7. Kh3 g1=R $1 $19 (g1=Q $143 8. Rh5+ Kg6 9. Rg5+ Qxg5 $11 {stalemate})) Rxe5 3. Rxe5 Rxg2 4. Ke6 Kxh7 5. Kf5 $1 Rf2+ 6. Kg4 $1 g2 7. Kh3 $1 g1=R (g1=Q $144 8. Re7+ Rf7 9. Rxf7+ Kg6 10. Rf6+ Kh5 11. Rh6+ Kxh6 $11 {stalemate}) (g1=N+ $144 8. Kg3 $11) 8. Re7+ Kg8 9. Rg7+ Kf8 10. Rg8+ Ke7 11. Re8+ Kxe8 $11 {stalemate} (Kd7 12. Re7+ Kd6 13. Re6+ Kd5 $11 {Total harmony between try and solution.}) 1/2-1/2
+
+[Event "4.Prize, Aleksandr Sarychev-100 MT"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1R6/6pN/6pk/B6P/3P4/p2P1K2/r7 w - - 0 1"]
+[PlyCount "19"]
+
+1. Rh7 $1 (1. Ng8 $143 Rf1+ 2. Kxf1 a1=Q+ 3. Kg2 gxh4 $1 $11) Rf1+ (gxh4 $144 2. Nf7+ Kg4 3. Bd7+ Kf4 4. Rxh4#) 2. Kxf1 a1=Q+ 3. Kg2 Qxa4 4. Kh3 $3 ({Thematic try} 4. Nf5+ $143 Kg4 5. Ne3+ Kf4 6. Re7 gxh4 $1 7. Re4+ Qxe4+ 8. dxe4 Kxe4 9. Kh3 g5 $11) Qxh4+ (gxh4 $144 5. Nf7#) 5. Kg2 Qe1 ({main} Qa4 $144 6. Nf5+ Kg4 7. Ne3+ Kf4 8. Re7 g4 9. Re4+ $18) (Qb4 $144 6. Nf5+ Kg4 7. Ne3+ Kf4 8. Nd5+ $18) (Qf4 $144 6. Nf5+ Kg4 7. Ne3+ $18) 6. Nf5+ Kg4 7. Ne3+ Kf4 8. Rf7+ Ke5 9. Re7+ Kf6 ({main} Kd6 $144 10. Nf5+ $18) 10. Nd5+ $18 {4.Shh3!! ela gedishdir! Esl fantastik puantadir!! Ag shah birbasha qara vezirin zerbesi altina atilir! Qara vezirin choxsayli udushu da maraqlidir. Girish oyunu ise teessurati nisbeten ashagi salir. 4.Kh3!! is excellent,a real fantastic move! The wK is under immediate threat coming from the bQ. Interesting multiple ways to win the latter. Introductory play, somewhat, diminishes the impression.} 1-0
+
+[Event "2nd hm. Kekely 50 JT"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4n3/8/P7/1P2kN2/B4p2/3n1KP1/1p3P2/8 w - - 0 1"]
+[PlyCount "39"]
+
+1. Bc2 $1 (1. gxf4+ $143 Kf6 2. Bc2 Ne1+ 3. Kg3 Nxc2 4. a7 Nc7 5. b6 b1=Q 6. bxc7 Qg1+ 7. Kh3 Qg8 8. Nd6 Ne1 $19) Ne1+ 2. Kg4 Nxc2 3. a7 Nc7 4. b6 b1=Q 5. bxc7 Ne3+ 6. Nxe3 Qg6+ 7. Kh3 (7. Kh4 $143 Qh7+ 8. Kg4 Qg8+ 9. Kh4 fxe3 $19) Qh6+ 8. Kg4 Qg6+ 9. Kh3 f3 10. Kh2 $1 (10. Nc4+ $143 Kd4 11. Kh2 Qh5+ 12. Kg1 Qh3 13. Ne3 Qc8 14. Nf5+ Ke5 15. Ne7 Qh3 16. Ng6+ Kd6 17. Nh4 Qc8 $19) Qh6+ 11. Kg1 Qc6 12. Nc4+ Kd4 13. Nd6 Qc1+ 14. Kh2 Qf1 15. Nf5+ Ke5 16. Ne3 Qa6 17. Nc4+ Kd4 18. Nd6 Qf1 19. Nf5+ Ke5 20. Ne3 $11 1/2-1/2
+
+[Event "1st Hm. Kopnin 90 MT"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/6p1/4NpP1/4RK2/2p5/2Pr1P2/4pp2/8 w - - 0 1"]
+[PlyCount "23"]
+
+1. Ra5 $1 (1. Rc5 $143 Rxf3+ 2. Nf4 Rxf4+ 3. Ke6 Re4+ 4. Kf7 Re7+ 5. Kxe7 e1=Q+ 6. Kf7 Qe8+ 7. Kxe8 f1=Q 8. Kf7 Qf5 9. Rxf5 $11 {stalemate}) Rxf3+ 2. Nf4 Rxf4+ 3. Ke6 Re4+ 4. Kf7 Re7+ 5. Kxe7 e1=Q+ 6. Kf7 Qe8+ 7. Kxe8 f1=Q 8. Kf7 Qh1 9. Rb5 Qh2 10. Rc5 Qh3 11. Rd5 Qd3 12. Rh5# 1-0
+
+[Event "1st Comm. Kopnin 90 MT"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "q2br3/6P1/B2B4/1R6/3k4/R2p4/1p3K2/2r5 w - - 0 1"]
+[PlyCount "24"]
+
+1. Ra4+ Kc3 2. Ra3+ Kd2 3. Rxb2+ Rc2 4. Rxc2+ Kd1 (dxc2 $143 5. Bf4+ Re3 6. Bxe3+ Kd1 7. Rd3#) 5. Rd2+ (5. Ra1+ $143 Kxc2 6. Bxd3+ Kxd3 7. Rxa8 Bb6+ 8. Kf3 Rxa8 9. Bf8 Ra1 10. g8=Q Rf1+ $19) Kxd2 6. Bf4+ Kd1 7. Ra1+ Kc2 8. Bxd3+ Kxd3 9. Rxa8 Bb6+ (Bh4+ $144 10. Kf1 Rxa8 11. Bb8 Rxb8 12. g8=Q Rxg8 $11 {stalemate}) 10. Be3 $1 Bxe3+ 11. Kf3 Rxa8 12. g8=Q Rxg8 $11 {stalemate} 1/2-1/2
+
+[Event "1st HM, Olimpiya dunyasi"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/7p/3k3p/6P1/1P6/p7/PP6/8 w - - 0 1"]
+[PlyCount "33"]
+
+1. g6 $1 ({Thematic WT} 1. bxa3 $143 hxg5 2. a4 g4 3. a5 g3 4. a6 g2 5. a7 g1=Q 6. a8=Q Qg8+ 7. Kb7 Qxa8+ 8. Kxa8 Kc6 9. Ka7 Kb5 10. a4+ Kxa4 11. Kb6 Kxb4 12. Kc6 Kc4 13. Kd6 Kd4 14. Ke6 Ke4 15. Kf6 Kf4 16. Kg7 h5 $18) hxg6 2. bxa3 g5 3. a4 g4 4. a5 g3 5. a6 g2 6. a7 g1=Q 7. a8=Q Qg8+ 8. Kb7 $1 (8. Ka7 $143 Qxa2+ $19) Qxa8+ 9. Kxa8 Kc6 (h5 $144 10. Ka7 h4 11. b5 $11) 10. Ka7 $1 (10. a4 $143 Kb6 11. a5+ Ka6 12. Kb8 h5 13. Kc7 h4 14. Kc6 h3 15. b5+ Kxa5 16. b6 h2 17. b7 h1=Q+ $19) Kb5 11. a4+ $1 Kxa4 (Kxb4 $144 12. Kb6 $11) 12. Kb6 $1 Kxb4 13. Kc6 Kc4 14. Kd6 Kd4 15. Ke6 Ke4 16. Kf6 Kf4 17. Kg6 $11 {draw. Done in good time effect in a P-study. The purpose of the 1st move becomes apparent only by the end. Despite the fact that ,in the main line, after the 10th move, Reti-manoeuvre is well-known, the synthesis is very good.} 1/2-1/2
+
+[Event "3/4.p  Georgian ITT 2011"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2n5/5p2/P2P1P2/K3kPpP/4r3/8/5P2/8 w - - 0 1"]
+[PlyCount "29"]
+
+{Three passed pawns in the centre and on the both flanks look very dangerous. Can a sickly black knight do anything against such power?} 1. d7 Na7 2. d8=Q $1 (2. h6 $143 Nc6+ 3. Kb5 (3. Kb6 $144 Kd6 $19) Kd6 4. d8=Q+ Nxd8 5. a7 Nc6 $1 6. a8=Q Rb4+ 7. Ka6 Kc7 $1 $19) Nc6+ 3. Kb5 Nxd8 4. a7 Rb4+ $1 (Kxf5 $144 5. a8=Q Ne6 6. Qg8 Nc7+ 7. Kc5 Ne8 8. h6 Nxf6 9. h7 $18) 5. Kxb4 Nc6+ 6. Kc4 $3 ({Logical (thematic) try} 6. Kc5 $143 Nxa7 7. h6 Kxf6 {White in zz 1. The zugzwang is quite unexpected. Not only due to material advantage that promises to last long as the knight has enough freedom to escape his aggressor. The main surprise comes from a pair of pawns: g5 and f2. They are placed at the distance of one move! A spare tempo that usually helps winning battles for zugzwangs has no effect here because the pawns don't oppose each other. The white pawn is in duel against theblackknight(correspond ing squares f2-a7, f3-c8)! And the black pawn fights vs. king (corresponding squares g5-c5, g4-d7) ! Another unusual thing here - squares c5 and d7 are neighboring! The white king jumps from one corresponding square to another like a knight!} 8. Kb6 (8. f3 $143 Nc8 $19 {zz 2.}) Nc8+ 9. Kc7 Na7 $1 10. Kd7 g4 $1 {(zz 3.)} 11. Ke8 Nc6 12. Kf8 Ne5 13. h7 Kxf5 14. Kg7 (14. h8=Q $143 Ng6+ $19 {Third fork!}) Ng6 $11) Nxa7 7. h6 Kxf6 8. Kc5 {Black in zz 1!} g4 ({main line II} Nc8 $144 9. f3 $1 {(zz 2.)} Na7 10. Kb6 Nc8+ 11. Kc7 Ne7 (Na7 $144 12. Kd7 $18 {bonus zz, not seen in the logical try.}) 12. h7 Nd5+ (Kg7 $144 13. f6+ $1 $18) 13. Kd6 $1 (13. Kc6 $143 Nb4+ 14. Kb5 Kg7 $11) Kg7 14. Kxd5 Kxh7 15. Kd6 $1 $18 (15. Ke5 $143 Kg7 $11)) 9. Kb6 Nc8+ 10. Kc7 {with: main line A} Na7 ({main line B} Ne7 $144 11. h7 Nd5+ 12. Kd6 $1 Kg7 13. Kxd5 Kxh7 {Similar pawn ending, but a pair of pawns is one rank higher. The white king corrects his move.} 14. Ke5 $1 (14. Kd6 $143 Kh6 $11) Kg7 15. Kf4 $18 {win.}) 11. Kd7 {(zz 3.)} Nb5 12. Ke8 Nd4 13. Kf8 Kxf5 14. h7 Ne6+ 15. Kg8 $18 {(e8) win. ---------------- Multivariate study of contemporary style.} 1-0
+
+[Event "Mark Liburkin 100MT 1.p"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1q4k1/4K2p/5Pp1/6pP/P5P1/2P2P2/5B1b/8 w - - 0 1"]
+[PlyCount "27"]
+
+1. f7+ Kg7 2. h6+ (2. Bd4+ $143 Be5 3. h6+ Kxh6 (Kh8 $143 4. f8=Q+ Qxf8+ 5. Kxf8 Bxd4 6. c4 $18) 4. f8=Q+ Qxf8+ 5. Kxf8 Bxd4 6. c4 Bb6 7. Kf7 Ba5 8. c5 Bc7 9. c6 Ba5 10. Ke7 Kg7 $11) Kxh6 3. f8=Q+ Qxf8+ 4. Kxf8 Bg1 (Bg3 $144 5. Bd4 Be5 6. Ke7 $18) 5. Bg3 (5. Be1 $143 Bf2 6. Bd2 Be3 $11 {and the wB cannot escape}) (5. a5 $143 Bxf2 6. a6 Bc5+ 7. Kf7 Ba7 8. c4 Bc5 9. Kf6 (9. Ke6 $144 Kg7 10. Kd5 Ba7 11. Kc6 (11. c5 $143 Kf7 12. c6 Ke7 $19) h6 $11) Ba7 10. Kf7 Bc5 $11) Bh2 (Bf2 $144 6. Bd6 Bc5 7. Be7 $18) 6. Be1 Bg3 7. Bd2 Be1 (Bf4 $144 8. Bxf4 $18) 8. Be3 (8. Bc1 $143 Bxc3 9. Ke8 Bb2 (Kg7 $143 10. Bxg5 $18) 10. Bd2 Bc3 11. Be3 Bd4 12. Bxd4 $11 {stalemate}) Bf2 (Bxc3 $144 9. Bc5 Bb4 10. Be7 $18) 9. Bc1 Be3 10. Bb2 Bc1 11. Ba1 (11. a5 $143 Bxb2 12. a6 Ba3+ 13. Ke8 Bc5 $11) Bb2 12. a5 Bxa1 13. a6 Bxc3 14. a7 $18 1-0
+
+[Event "Olympia dünyasi "]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k4/p3R1p1/4p3/4P3/P4bP1/K7/bPp5/R7 w - - 0 1"]
+[PlyCount "34"]
+
+1. Rf7 (1. Rxg7 $143 Bb1 2. Rg8+ Kc7 3. Rg7+ Kc6 4. Rg8 Bxe5 5. Rc8+ Bc7 $19) Bb1 2. Rf8+ Kd7 3. Rf7+ Kc6 4. Rf8 Kb7 (Bxe5 $143 5. Rf1 $18) 5. Rf7+ Kb6 6. a5+ Kb5 7. Rc7 Bxe5 8. Rc8 Bd4 9. g5 (9. a6 $143 e5 10. Kb3 Bc5 11. Ra5+ Kxa5 12. Rxc5+ Kb6 13. Rc3 e4 14. Kc4 e3 15. Kd3 c1=Q+ $19) g6 (e5 $144 10. b4 Bxa1 11. Rc5+ Ka6 12. Rc7 Kb5 13. Rc5+ Ka6 14. Rc7 $11 {positionnal draw}) 10. a6 (10. Rc7 $143 Bc5+ 11. Rxc5+ Kxc5 12. b4+ Kc4 13. Kb2 Kxb4 14. a6 e5 15. Ra3 c1=Q+ $19) Bc5+ 11. Rxc5+ Kxc5 12. b4+ Kc4 13. Kb2 Kxb4 14. Kc1 e5 15. Kd2 e4 16. Kc1 e3 17. Ra3 Kxa3 $11 {stalemate A juicy study with two rooks dealing with tow black bishops plus an advanced pawn [HH]} 1/2-1/2
+
+[Event "Sp.p  Georgian ITT 2011"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "Q7/1N1pp3/3p2p1/6P1/7K/4p3/4P1p1/3n3k w - - 0 1"]
+[PlyCount "17"]
+
+{If the knight didn't interfere with his queen Pg2 would have been pinned and White could mate in a couple of moves. Consequently, the knight is allowed to do whatever he wants to. The capture of black Pd6 is a nice tactical move, but it is only a logical (thematic) try.} 1. Na5 $3 {Quiet transfer of the knight to e3.} ({Logical (thematic) try} 1. Nxd6 $143 Kh2 2. Qf3 Nf2 3. Qg3+ Kh1 4. Qf3 Kh2 5. Nc4 g1=Q 6. Nxe3 d6 $1 {White in zz!} 7. Nd1 $1 Qxd1 8. Qxf2+ Kh1 9. Kh3 Qb3+ 10. e3 Qe6+ 11. Kg3 Qe5+ $1 $11 {draw.}) Kh2 ({Black can try to get rid of his pawn} d5 $144 2. Qxd5 Kh2 3. Qxd1 {but his knight falls too} (3. Qf3 $143 Nf2 4. Nc4 g1=Q 5. Nxe3 d6 $11 {zz}) g1=Q 4. Qxg1+ Kxg1 5. Kg3 $1 $18) 2. Qf3 Nf2 3. Nc4 $1 (3. Qf4+ $143 Kh1 4. Qf3 Kh2 5. Nc4 $18 {loss of time}) g1=Q 4. Nxe3 {Black in zz! His spared Pd6 blocks the square. King, queen and knight are totally paralyzed. And what is wrong withthepawnsmoves?} e5 (d5 $144 5. Nd1 $1 Qg2 6. Qxf2 d4 7. Qf4+ Kh1 8. Nf2+ Kg1 9. Nh3+ Kh1 10. Qxd4 $18) 5. Nd1 $1 Qxd1 ({The knight cannot desert his post.} Nxd1 $144 6. Qh3#) 6. Qxf2+ Kh1 7. Kh3 (7. Kg3 $143 Qg1+ $19) Qb3+ 8. e3 Qe6+ 9. Kg3 $1 $18 {win. Black cannot play Qe5+. An evil chance seldom comes alone - because of the blocking on d6 another pawn has blocked square e5. This combination of material and tempo logical ideas with a deep logical try was called as "Krikheli forsight effect" by Andrey Visokosov. "I dedicate my study to him for his development of this interesting and complex theme in his creative work."(S.Didukh)} 1-0
+
+[Event "1.p Olympic Ty"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1P5k/5ppn/3K4/1p4b1/2p1PN2/1p5B/R7 w - - 0 1"]
+[PlyCount "21"]
+
+1. Ng5+ $1 ({try} 1. Ra7 $143 Bxf3+ 2. e4 Bxe4+ 3. Kxe4 b1=Q+ 4. Kd4 Nf5+ $11 {etc}) fxg5 2. Ra7 $1 (2. Rf1 $143 Bf3+ 3. Rxf3 b1=Q 4. b8=Q Qd1+ $11) Bf3+ 3. e4 $1 ({Thematic try} 3. Ke6 $143 Bxb7 4. Rxb7+ Nf7 5. Rxf7+ Kh6 6. Rf1 c2 $19) Bxe4+ 4. Ke6 $1 (4. Kxe4 $143 b1=Q+ 5. Kd4 Nf5+ $11) Bxb7 5. Rxb7+ Nf7 6. Rxf7+ Kh6 ({main} Kg8 $144 7. Ke7 b1=Q 8. Rf8+ Kh7 9. Be5 Kh6 10. Rh8#) 7. Rf1 c2 8. Rh1 c1=Q 9. Bg1+ Kg7 10. Bd4+ Kf8 11. Rh8# 1-0
+
+[Event "CB 25 AT 065 - 3rd HM"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/4p1r1/kr2P3/2R1P1p1/1b2KR2/3N4 w - - 0 1"]
+[PlyCount "9"]
+
+1. Rc2 $1 ({Try} 1. Rc4 $143 Rxc4 $1 2. Nxb2+ Kb3 3. Nxc4 gxf2 4. Nd2+ Kc2 5. Nf3 Rh5 6. Kf1 Kd3 7. Kxf2 Kxe4 8. Ke2 Kf5 9. Kf2 e4 10. Nd4+ Kg4 11. Kg2 Rh3 12. Kf2 Rh2+ 13. Kf1 Rd2 14. Ke1 Ra2 15. Kd1 Kg3 16. Ke1 Kg2 17. Kd1 Kf2 18. Nf5 Ra5 19. Ne7 Kxe3 $19) g2 $1 (gxf2 $144 2. Rxb2 $1 Rxb2+ 3. Nxb2+ Kb3 4. Nd3 Kc3 5. Nxf2 $11) 2. Nxb2+ Ka3 (Rxb2 $144 3. Rxb2 g1=Q 4. Kd3 $1 Rg8 (Qc1 $144 5. Rfc2 Qf1+ 6. Kc3 $11) (Qd1+ $144 5. Kc4 $11) 5. Ra2+ Kb5 6. Rfb2+ Kc6 7. Ra6+ Kd7 8. Ra7+ Kd6 9. Ra6+ {perpetual} Kc5 $11 (Ke7 $143 10. Rb7+ Kf8 11. Ra8#)) (Kb3 $144 3. Rc1 g1=Q 4. Rxg1 Rxg1 5. Nd3 $11) 3. Nc4+ $1 (3. Kd3 $143 g1=Q 4. Nc4+ Rxc4 $1 (Ka4 $143 5. Ra2+ Kb5 6. Ra5+ Kc6 7. Rf6+ Kb7 (Kd7 $143 8. Ra7+ Ke8 9. Nd6+ Kd8 10. Rf8#) 8. Rf7+ Kb8 9. Rf8+ $11 {perpetual}) 5. Kxc4 Qb1 $1 $19) Rxc4 4. Rxg2 $1 Rxg2+ (Rxc2+ $144 5. Kf3 $1 $11) 5. Kd3 $11 {stalemate.} 1/2-1/2
+
+[Event "2nd Prize, Kudesnik 2009-1010"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3nb2k/5p2/2R2P2/1Q4pK/3r2n1/8/8 w - - 0 1"]
+[PlyCount "14"]
+
+1. Qc4 $1 Nxf5+ 2. Rxf5 Ne5 3. Rh5+ $1 (3. Rxe5 $143 fxe5+ 4. Kxg4 Rd4+ 5. Kh5 Kg7 $1 {zz} 6. Qa4 Rb4 $1 7. Qe8 Rh4#) (3. Qxd3 $143 Nxd3 4. Kxg4 Ne5+ $19 {#55}) Kg7 4. Rxe5 fxe5+ 5. Kxg4 Rd4+ 6. Kh5 $1 {zz} Rf4 7. Qe4 $1 Rxe4 $11 {stalemate} 1/2-1/2
+
+[Event "2.Hm Kozlowski 100 MT"]
+[Site "?"]
+[Date "2012.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p7/1p1p4/1P5N/3Pp2P/2B1pk1B/2K5 w - - 0 1"]
+[PlyCount "19"]
+
+1. Bg1+ $1 (1. Nf3 $143 Kxf3 2. Bd1 exd1=Q+ 3. Kxd1 Kf2 4. Bg1+ Kxg1 5. Ke2 d4 6. h4 a5 7. h5 (7. bxa5 $143 b4 8. a6 b3 9. a7 b2 10. a8=Q b1=Q $19) a4 8. h6 a3 $11) Kxg1 2. Bd1 exd1=Q+ 3. Kxd1 Kf2 4. Ng2 $1 Kxg2 5. Ke2 d4 (Kxh3 $144 6. Kxe3 Kg4 7. Kd4 Kf5 8. Kxd5 $18) 6. h4 a5 7. bxa5 b4 8. a6 b3 9. a7 b2 10. a8=Q+ $18 1-0
+
+[Event "Milu Milescu 100-MT 1.p"]
+[Site "?"]
+[Date "2012.05.01"]
+[Round "22"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2Q5/1Pp1p1k1/5pPp/p1P1p2K/P7/4P1P1/3p2B1/1q6 w - - 0 1"]
+[PlyCount "42"]
+
+1. Bf3 (1. Kh4 $143 d1=Q 2. b8=Q Qh5+ $1 3. Kxh5 Qxg6+ 4. Kh4 Qg5+ 5. Kh3 Qh5#) Qf1 (Qh1+ $144 2. Bxh1 d1=Q+ 3. Kh4 $1 Qxh1+ 4. Kg4 e6 5. Qd7+ Kxg6 6. Qe8+ $11) 2. Qg4 d1=Q 3. Bxd1 Qh1+ 4. Qh4 Qxd1+ 5. g4 (5. Qg4 $143 Qh1+ 6. Qh4 Qxb7 $19) Qb1 6. e4 (6. Qh2 $143 Qxb7 7. Kh4 e6 $19) (6. c6 $143 Qxg6#) Qxb7 (Qxe4 $144 7. g5 Qxg6+ 8. Kg4 Qe4+ (fxg5 $144 9. Qh1 $1 Qe6+ 10. Kg3 $11) (hxg5 $144 9. Qe1 $1 f5+ 10. Kg3 f4+ $11) 9. Kg3 Qd3+ 10. Kh2 Qc2+ 11. Kg3 Qb3+ 12. Kh2 hxg5 13. Qe4 $11) 7. Qg5 $3 hxg5 8. c6 Qb5 9. axb5 a4 10. b6 a3 11. b7 (11. bxc7 $143 a2 12. c8=Q a1=Q $19 {mates.}) a2 12. b8=Q a1=Q 13. Qb1 Qa8 (Qa3 $144 14. Qb3 $1 $11) 14. Qb8 Qa2 15. Qb2 Qg8 16. Qb8 Qh8+ {The black queen appears in all four corners during the solution!} 17. Qxh8+ Kxh8 18. g7+ (18. Kh6 $143 f5 $1 $19) Kh7 (Kxg7 $144 $11 {stalemate.}) 19. g8=Q+ Kxg8 20. Kg6 Kf8 21. Kf5 Kf7 $11 {stalemate.} 1/2-1/2
+
+[Event "2nd prize Akobia 75 JT"]
+[Site "?"]
+[Date "2012.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2pP1PB1/1p2P3/p3p2q/3n3k/7P/8/7K w - - 0 1"]
+[PlyCount "23"]
+
+1. d8=Q+ $1 ({Thematic try} 1. f8=Q $143 Kxh3 2. Qh8 (2. Qa3+ $144 Nf3 3. Bxe5 Qg4 $19 {with mate.}) Qxh8 3. Bxh8 Nxe6 4. Bxe5 c5 $1 (a4 $143 5. Bxc7 a3 6. Kg1 $1 a2 7. Be5 $11) 5. Bc7 a4 6. Bxb6 a3 7. Bxc5 (7. Ba5 $144 Kg3 8. Bc3 Kf3 $19) a2 8. Bg1 $1 Kg4 $1 (a1=Q $143 9. d8=Q Nxd8 $11 {stalemate.}) 9. Bd4 Nxd4 10. d8=Q a1=Q+ 11. Kg2 Qb2+ $19) Kxh3 2. Qh8 Qxh8 3. Bxh8 Nxe6 4. Bxe5 c5 $1 5. Bc7 a4 (b5 $144 6. Bxa5 $11) 6. Bxb6 a3 (c4 $144 7. Bc5 $11) 7. Bxc5 a2 8. Bg1 $1 (8. f8=Q $143 Nxf8 $1 9. Bd4 Kg3 {(g4)} 10. Kg1 Kf3 {(f4)} 11. Kf1 Ke4 12. Ba1 Kd3 13. Ke1 Kc2 14. Ke2 Ne6 $19) Kg4 (a1=Q $144 9. f8=Q Nxf8 $11 {stalemate.}) (Kg3 $144 9. Bh2+ Kf3 10. Be5 $11) 9. Bd4 Nxd4 10. f8=Q a1=Q+ 11. Kg2 Qb2+ 12. Qf2 $1 {=. Compare with the end of the thematic try. Nice study with the interesting content. Of course, the technical weakness is 5 captures in the first 4 moves. But can "close eyes", because here have clear realization of the logical idea.} 1/2-1/2
+
+[Event "1.p Pobeda 65"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/r7/rp4P1/kPP2p2/Pp3P2/1P3K1B/7N w - - 0 1"]
+[PlyCount "19"]
+
+1. c5 $1 (1. bxa5 $143 bxc4 2. Bxf4 c3 3. Be5 cxb2 4. Bxb2 Rxa5 5. f4 Rc5 6. Ke3 Rc2 7. Bf6 b2 8. Bxb2 Rxb2 9. Nf2 Kb5 10. Nd3 Rb3 11. Ke4 Rxa3 12. Ne5 Ra7 13. Kd5 Ra4 14. f5 Rf4 $11) Rh6 $1 (Rc6 $144 2. bxa5 $18) 2. gxh6 (2. Bxf4 $143 Raa6 $1 3. gxh6 Rxh6 $11) Ra6 3. c6 $3 ({Thematic try} 3. Bxf4 $143 Rxh6 $1 4. Bxh6 (4. Ng3 $144 Rh2+ 5. Ke3 Rxb2 6. Ne4 Kxa3 7. c6 Rc2 8. c7 b2 9. Nd2 Kxb4 $11) f5 5. Be3 f4 6. Kg2 fxe3 7. Ng3 e2 8. Nxe2 $11 {stalemate} (8. Ne4 $143 $19 {and impossible Nc5#, because wP on c5})) Rxc6 4. Bxf4 Rxh6 (f5 $144 5. h7 Rc2+ 6. Ke3 Rh2 7. Nf2 Rxh7 8. Nd3 Re7+ 9. Be5 Rxe5+ 10. Kd4 f4 11. Nc5+ $18) 5. Bxh6 f5 6. Be3 $1 f4 7. Kg2 $1 fxe3 8. Ng3 e2 9. Ne4 e1=Q 10. Nc5# 1-0
+
+[Event "4. rec Argentina Bicentennial"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[Composer "Didukh, Serhiy Ihorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6q1/Q1B2k2/7b/8/3P4/6p1/8/4K3 w - - 0 1"]
+[PlyCount "27"]
+
+1. Bf4+ Kg6 2. Qa6+ (2. Qb6+ $143 Kf5 3. Bxh6 Ke4 4. Qb2 g2 5. Qc2+ Kxd4 $11 6. Bg7+ Ke3 7. Qf2+ Ke4 8. Qxg2+ Kf5 9. Qf3+ Kg5 $1 10. Qf6+ Kg4 11. Qg6+ Kf3 $1 $11) Kf5 3. Bxh6 Ke4 (g2 $144 4. Qd3+ Kf6 5. Qf3+ $18) 4. Ke2 $1 Kxd4 (Qg4+ $144 5. Kd2 Kxd4 6. Qa4+ $18) (Qb3 $144 5. Qc6+ Kxd4 6. Bg7#) 5. Bg7+ $1 Kc5 (Qxg7 $144 6. Qa1+ $18) 6. Bf8+ Kd4 (Qxf8 $144 7. Qa3+ $18) 7. Qd3+ Ke5 8. Bg7+ $1 Kf4 (Qxg7 $144 9. Qc3+ $18) 9. Qf3+ Kg5 10. Qxg3+ Kf5 11. Qf3+ Kg5 (Ke6 $144 12. Qb3+ $18) (Kg6 $144 12. Qf6+ Kh7 13. Qh6#) 12. Qf6+ Kg4 13. Qg6+ Kf4 (Kh3 $144 14. Qh5+ Kg2 15. Qg4+ Kh1 16. Qh3+ Kg1 17. Bd4#) 14. Bh6+ $18 1-0
+

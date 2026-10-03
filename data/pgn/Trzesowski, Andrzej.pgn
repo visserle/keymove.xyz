@@ -1,0 +1,12 @@
+[Event "2.p Problemas {SEPA}"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Trzesowski, Andrzej"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3N4/1n5p/7k/P3K3/6P1/8/2p5/n2N4 w - - 0 1"]
+
+1. Kf6 $1 Nd6 2. Nf7+ Nxf7 3. Ne3 Nd6 4. Nxc2 Nxc2 5. g5+ Kh5 6. a6 (6. Kg7 $2 Kxg5 7. Kxh7 Nc8) Ne8+ 7. Kf7 Nb4 8. a7 Nc7 9. Kg7 Kxg5 10. Kxh7 1/2-1/2

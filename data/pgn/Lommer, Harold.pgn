@@ -1,0 +1,46 @@
+[Event "?"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Lommer, Harold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/8/3P4/1b2R3/8/8/4p1rk/1n2K3 w - - 0 1"]
+
+1. Rh5+ (1. Rxe2 $2 Rxe2+ 2. Kd1 Nc3+) (1. Re4 Rg1+ 2. Kf2 Rf1+) (1. Re8 Bxe8) Kg3 2. Rxb5 (2. Rg5+ $2 Kf3 3. Rxg2 Kxg2 $19) (2. Rh1 $2 Rf2 3. Rh3+ Kxh3 4. Kxf2 Na3) (2. Rf5 $2 Rg1+ 3. Rf1 exf1=Q#) (2. Rc5 Rg1#) (2. Rh4 Rg1#) Rg1+ 3. Kxe2 Nc3+ 4. Kd2 Nxb5 5. d7 (5. Kc2 Nxd6) (5. Kd3 Nxd6 6. Kc3 Kf3) Nc3 6. d8=Q (6. d8=R $10) (6. Ke3 $2 Nb1 7. d8=Q Re1+) (6. Kxc3 $2 Rd1 $19 7. Kc4 Rxd7) (6. Kc2 $2 Rd1 7. Kxc3 Rxd7) (6. Kd3 $2 Rd1+ 7. Kxc3 Rxd7) Rd1+ 7. Ke3 (7. Kc2 $2 Rxd8 8. Kxc3 Kf4) Rxd8 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Lommer, Harold"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "3N2n1/4p3/3P4/4k3/6K1/8/2B5/8 w - - 0 1"]
+
+1. Nf7+ (1. d7 $2 Nf6+ 2. Kh4 $10) (1. dxe7 $2 Nxe7 2. Nf7+ $10) (1. Nc6+ $2 Ke6 2. d7 $10 Nf6+) (1. Bf5 $2 exd6 2. Nf7+ $10) (1. Bb3 $2 Nf6+ 2. Kh4) (1. Kg5 $2 exd6 2. Nf7+) (1. Bh7 $2 Nf6+ 2. Kh4) (1. Nb7 Nf6+ 2. Kg5) Ke6 (Kd4 2. Bh7 (2. d7 $2 Nf6+ 3. Kf4 $10) (2. Bb3 $2 exd6 3. Nh8 $10 Nh6+ $4 (Ne7 $5) 4. Kg5) (2. Nh6 $2 Nxh6+ 3. Kf4) (2. dxe7 $2 Nxe7 3. Nh8) Nf6+ 3. Kf5 $1 $18 (3. Kf3 $2 exd6 4. Nh8 $10 Nxh7 5. Ng6) (3. Kf4 $2 exd6 4. Nh8 $10 Nd5+ 5. Kg4) (3. Kg5 $2 Nxh7+ 4. Kf5) (3. Kg3 exd6 4. Nh8) (3. Kh4 exd6 4. Bf5)) 2. Bb3+ (2. Bf5+ $2 Kxf7 3. d7 $10) (2. Bh7 $2 Nf6+ 3. Kf4 $10) (2. Bg6 $2 exd6 3. Nh8 $10 Nf6+ 4. Kf4) (2. Ng5+ $2 Kxd6 3. Nf7+) (2. Nh6 Nxh6+ 3. Kf4) Kd7 3. Ba4+ (3. Ne5+ $2 Kxd6 4. Nd7 $10 Nf6+ 5. Nxf6 exf6 6. Kf5) (3. Kf5 $2 exd6 4. Nh8 $10 Ne7+ 5. Kg5) (3. Be6+ $2 Kxe6 4. d7 Kxd7 5. Nh8) (3. Nh8 Nf6+ 4. Kf4) Ke6 4. d7 (4. Bb3+ Kd7 $18 5. Ba4+) (4. Ng5+ $2 Kxd6 5. Nf7+ $10) (4. Kg5 $2 exd6 5. Nh8 $10) (4. dxe7 $2 Nf6+ 5. Kf4 $10) (4. Kh5 $2 Kxf7 5. d7) (4. Bd7+ Kf6 5. dxe7 Nxe7 6. Nh8) (4. Nh6 Nxh6+ 5. Kf4) Nf6+ 5. Kg5 (5. Kf4 $4 Nxd7 6. Nh8 $10) (5. Kf3 $4 Nxd7 6. Nh8 $10) (5. Kh4 $4 Nxd7 6. Nh8) (5. Kg3 $4 Nxd7 6. Nh8) (5. Kh3 Nxd7 6. Nh8) Nxd7 6. Bb3# (6. Nd8+ $4 Kd6 7. Nf7+ $10) (6. Bxd7+ $4 Kxd7 7. Nh8 $10) (6. Kg6 $4 Nf8+ 7. Kh6) (6. Ne5 $4 Nf8 7. Nd7) (6. Nh6 Nf8 7. Ng8) (6. Bc6 Nf8 7. Nh8) (6. Nh8 Nf8 7. Ng6) (6. Kf4 Nf8 7. Nh8) (6. Bc2 Kxf7 7. Bb3+) 1-0
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[Composer "Lommer, Harold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Draws by perpetual check or by repetition"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "1R1B4/1K6/8/8/8/8/1k3p2/7r w - - 0 1"]
+
+1. Kc8+ (1. Kc6+ $2 Kc2 $19) (1. Ka8+ $2 Ka2 $19 2. Rb2+ Kxb2 3. Bf6+ Ka2) (1. Bb6 $2 Rh7+ 2. Bc7 f1=Q $19 3. Kc6+ Ka2) (1. Be7 $2 f1=Q 2. Kc7+ Kc3) Kc2 (Ka2 2. Ra8+ Kb3 3. Rb8+ $10) 2. Rb7 (2. Rb2+ $2 Kxb2 3. Bf6+ Ka2 $19) (2. Ba5 $2 f1=Q 3. Bd8 Rh7) (2. Be7 Rh8+ 3. Kc7 Rxb8 4. Kxb8 f1=Q) f1=Q 3. Rc7+ (3. Rb5 Qxb5) Kd3 4. Rd7+ (4. Re7 Qf5+ 5. Kb7 Rb1+) Ke4 (Kc4 5. Rc7+ (5. Kb8 $2 Qf5 6. Rc7+ Kd5) Kb5 6. Rb7+ (6. Kb7 $2 Rh8 $19 7. Rc5+ Kxc5 8. Be7+ Kb5) Ka6 7. Rb6+ (7. Ra7+ $2 Kxa7 $19 8. Bb6+ Kxb6) (7. Kb8 $2 Qf4+ 8. Kc8 Rc1+) (7. Rb8 $2 Qf5+ 8. Kc7 Rc1+) (7. Rc7 $2 Qf5+ 8. Rd7 Rd1) (7. Bb6 $2 Qf5+ 8. Kb8 Rh7) (7. Rb1 $2 Qxb1 8. Bc7 Rd1) (7. Rd7 $2 Qf5 8. Be7 Rd1) (7. Bc7 Qf5+ 8. Kd8 Rh8+) Ka7 8. Rb7+ (8. Ra6+ $2 Qxa6+ 9. Kd7 Rh7+) (8. Rf6 Qc4+ 9. Kd7 Re1) Ka8 9. Rb8+ $3 $10 (9. Bb6 $2 Qf5+ 10. Kc7 Rc1+) (9. Rb6 Qf5+ 10. Kc7 Rh7+) (9. Rf7 Qxf7)) 5. Re7+ Kd5 6. Rd7+ Ke6 7. Re7+ Kf5 8. Rf7+ Kg6 9. Rxf1 $10 (9. Rf6+ $2 Qxf6 10. Bxf6 Kxf6 $19) (9. Rc7 $2 Qa6+ 10. Rb7 Rh7) (9. Rd7 $2 Qa6+ 10. Rb7 Rh7) 1/2-1/2

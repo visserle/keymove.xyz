@@ -1,0 +1,15 @@
+[Event "Die Tat"]
+[Site "?"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Fontana, Robert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "2k5/8/1PpK1p1p/8/1Pp1PP2/8/8/8 w - - 0 1"]
+
+1. e5 $1 (1. Kxc6 $4 c3 $19) (1. Ke7 $4 c3 2. Kxf6 c2 $19) (1. b5 $4 c3 2. Kxc6 c2) (1. Kc5 $4 c3 2. Kxc6 c2) (1. Ke6 $4 c3 2. Kxf6 c2) fxe5 (c3 2. exf6 c2 3. f7 c1=Q 4. f8=Q+ Kb7 5. Qe7+ $1 (5. Qa8+ $2 Kxa8 6. Kc7 Qxf4+) Kxb6 6. Qc7+ Kb5 (Ka6 7. Qxc6+ Qxc6+ 8. Kxc6 Ka7 9. f5) 7. Qa5+ Kc4 8. Qc5+) 2. f5 $1 (2. fxe5 $2 c3 3. e6 $10 c2 4. e7 c1=Q 5. e8=Q+ Kb7 6. Qd7+ Kxb6 7. Qc7+ Ka6 8. Qxc6+ Qxc6+ 9. Kxc6 Ka7 10. Kc7 Ka6 11. Kc6 Ka7) (2. Kxe5 $4 c3 $19) (2. b7+ Kxb7 3. fxe5 c3) c3 3. f6 c2 4. f7 c1=Q 5. f8=Q+ Kb7 6. Qa8+ $1 (6. Qe7+ $4 Kxb6 7. Qd8+ $10) (6. Qd8 $4 Qd1+ 7. Ke7 Qxd8+ 8. Kxd8 e4) (6. Qc8+ $4 Kxc8 7. Kxe5 Qe3+) (6. Kxe5 $4 Qe3+ 7. Kd6 Qd4+) (6. b5 $4 Qa3+ 7. Kd7 Qxf8 8. bxc6+ Kxb6) (6. Qf3 $4 Qd2+ 7. Kxe5 (7. Ke6 $5 Qxb4 8. Qf7+ $2 (8. Kxe5 $5 h5) Kxb6 9. Kxe5 h5) Qxb4 8. Qxc6+ Kxc6) (6. Qxh6 $4 Qxh6+ 7. Kxe5 Qe3+) (6. Ke6 $4 Qc4+ 7. Kxe5 h5) Kxa8 (Kxb6 7. Qb8+ (7. Qa7+ Kxa7 8. Kxe5 Qc4) (7. Kd7 Qd1+ 8. Ke7 Qd5) (7. Qa6+ Kxa6 8. Kxe5 Qe3+) (7. Qa1 Qxa1) (7. Ke7 Qe3 8. Qb8+ Ka6) Ka6 8. Kc7 (8. b5+ $4 cxb5 9. Qa8+ Kb6 $17 $19) (8. Qa8+ Kb5 9. Qa5+ $18) (8. Qc8+ $4 Kb5 9. Qb7+ $10) (8. Kxe5 $4 Qe3+ 9. Kf5 Qb6) (8. Qb5+ $4 Kxb5 9. Kxe5 Qe3+) (8. Ke6 $4 Qc3 9. Qa8+ Kb5) (8. Qb7+ $4 Kxb7 9. Kxe5 Qe3+) h5 9. Qb7#) 7. Kc7 (7. b7+ $4 Kxb7 8. Kxe5 Qe3+) (7. Kxe5 $4 Qe3+ 8. Kf5 h5) (7. Kd7 Kb7) (7. b5 cxb5 8. b7+ Kb8) Qc4 8. b7+ Ka7 9. b8=Q+ Ka6 10. Qb6# 1-0

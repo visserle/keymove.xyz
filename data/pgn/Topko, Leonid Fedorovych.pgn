@@ -1,0 +1,31 @@
+[Event "?"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Topko, Leonid Fedorovych"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "3K4/5kpp/2Bn1p1P/8/8/6N1/8/8 w - - 0 1"]
+
+1. Kd7 (1. Bd5+ $2 Kg6 2. hxg7 Kxg7 3. Nh5+ $10) (1. hxg7 $2 Kxg7 2. Nh5+ $10) (1. Nf5 $4 Nxf5 2. Be8+ Kf8 $19) (1. Ne4 $2 Nxe4 2. Bd5+ $10) (1. Nh5 $2 gxh6 2. Kd7 $10) (1. Kc7 $6 Ne8+ 2. Kd8) (1. Be4 $2 Nxe4 2. Nxe4 gxh6 3. Kd7) (1. Ne2 $2 gxh6 2. Kd7) (1. Bd7 $2 g6 2. Bh3) Ne8 2. Ne4 (2. Kd8 Nd6 3. Kd7 $18) (2. Nf5 $2 gxh6 3. Bd5+ $10) (2. Bd5+ $2 Kf8 3. hxg7+ Nxg7 4. Nf5 $10) (2. hxg7 $2 Nxg7 3. Kd6 $10) (2. Bf3 $2 f5 3. Bd5+) gxh6 (f5 3. Ng5+ (3. Bd5+ $2 Kf8 4. Ng5 $10 Nf6+ 5. Ke6) (3. Nd6+ $2 Nxd6 4. Kxd6 gxh6 5. Bd5+) (3. hxg7 $2 Nxg7 4. Nd2) (3. Nc5 $2 Nf6+ 4. Kd6) (3. Kd8 $2 Nf6 4. Nxf6 Kxf6 5. hxg7 Kxg7 6. Bd5) Kf8 4. hxg7+ (4. Ne6+ Kf7 5. Ng5+ $18) (4. Nxh7+ $2 Kg8 5. Ng5 Nf6+ 6. Ke6) (4. Bd5 $2 Nf6+ 5. Kd6 $10) (4. Ke6 $2 gxh6 5. Nh3) (4. Kd8 $2 gxh6 5. Nxh7+ Kg8 6. Kxe8 Kxh7 7. Bd5) Nxg7 5. Bd5 (5. Nxh7+ $2 Kg8 6. Ng5 $10) (5. Ne6+ $2 Nxe6 6. Bh1 Nc5+ 7. Kd6) (5. Bf3 $2 Kg8 6. Nxh7 Kxh7 7. Bg2) (5. Kd8 $2 h6 6. Nh7+) (5. Kc7 $2 h6 6. Nh7+) (5. Kd6 $2 h6 6. Nf7) (5. Kc8 $2 h6 6. Nh7+) (5. Be4 $2 h6 6. Nh7+) (5. Nf3 $2 h6 6. Ne5) Nh5 6. Ne6+ (6. Nxh7+ $2 Kg7 7. Ng5 $10) (6. Bf3 $2 Kg7 7. Nf7 Nf6+ 8. Ke7) (6. Ke6 $2 h6 7. Nf7 Nf4+ 8. Kd6) (6. Bf7 $2 h6 7. Bg6 hxg5 8. Bxh5) (6. Nf3 $2 h6 7. Ne5) (6. Nf7 $2 h6 7. Ke6) (6. Nh3 $2 h6 7. Ng5) Kf7 7. Nf4+ $1 $18 (7. Nd8+ $2 Kg7 8. Nf7 $10) (7. Ng5+ $2 Kg7 8. Nf7 $10 Nf6+ 9. Ke6) (7. Nd4+ $2 Kg7 8. Nc6 Nf6+ 9. Ke6) (7. Nc7+ $2 Kg7 8. Ne8+) (7. Kd8 $2 Ng7 8. Nf8+)) 3. Bd5+ (3. Kd8 $2 Ng7 4. Bd5+ $10) (3. Nc5 $2 Ng7 4. Nd3 $10) (3. Nd6+ $2 Nxd6 4. Kxd6 $10) (3. Ng3 $2 Ng7 4. Be4) (3. Nxf6 $4 Nxf6+ 4. Kd6 Kg6 5. Be8+ Nxe8+ 6. Ke6 h5) (3. Ng5+ $4 hxg5 4. Bd5+ Kf8) (3. Nf2 $2 Ng7 4. Nd3) Kf8 4. Nc5 (4. Ng3 $2 f5 5. Nh5 $10) (4. Nd6 $2 Nxd6 5. Kxd6 $10) (4. Ke6 $2 Nc7+ 5. Kd6 $10 Nxd5 6. Kxd5 Kg7) (4. Be6 $2 h5 5. Ba2) (4. Nf2 $2 Ng7 5. Ng4) (4. Kc6 $2 Ke7 5. Nd2) Ng7 5. Kd8 Nf5 6. Ne6+ (6. Nd7+ $2 Kg7 7. Be4 $10) (6. Be6 $2 Nd4 7. Bg4) (6. Ne4 Ne3 7. Bb7) Kf7 7. Nd4+ (7. Nf4+ $2 Kg7 8. Ne6+ $10) (7. Nc7+ $2 Kg6 8. Ne6 $10) (7. Ng5+ $2 Kg6 8. Ne6 $10) (7. Kd7 $2 Ne3 8. Bf3) (7. Nc5+ $2 Kg6 8. Ne6) Kg6 8. Be4 $18 (8. Nf3 $2 Kh5 9. Kd7 $10) (8. Bf7+ $4 Kxf7 9. Nxf5 Kg6) (8. Bg8 $4 Nxd4 9. Bxh7+ Kxh7) (8. Ke8 $4 Nxd4 9. Bf7+ Kg5) (8. Be6 $4 Nxd4 9. Bf7+ Kxf7) (8. Ne6 $2 Ng3 9. Ke7 $10) (8. Nxf5 $2 Kxf5 9. Bf3) (8. Nc6 h5) (8. Bc6 Nxd4 9. Be4+ f5) 1-0
+
+[Event "Szachy#699"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Topko, Leonid Fedorovych"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "4R2K/4N3/5k2/8/5r2/8/1p6/8 w - - 0 1"]
+
+1. Nd5+ $1 (1. Rb8 $2 Kf7 2. Ng6 Kxg6 3. Rb6+ Rf6 $19) (1. Rf8+ $2 Kxe7 2. Rxf4 b1=Q $19) (1. Kh7 $2 b1=Q+ 2. Nf5 Rh4+ 3. Kg8 Qg1+) (1. Rd8 Rh4+ 2. Kg8 b1=Q) (1. Kg8 Rg4+ 2. Kf8 b1=Q) Kf7 2. Re7+ (2. Nxf4 $2 b1=Q 3. Rf8+ Kxf8 4. Ng6+ Qxg6) (2. Rf8+ $2 Kxf8 3. Nxf4 b1=Q $19) (2. Re4 Rxe4) Kf8 3. Nxf4 (3. Rb7 $2 b1=Q 4. Rb8+ Qxb8 5. Nxf4 Qb2+) (3. Rf7+ $2 Kxf7 4. Nxf4 b1=Q) (3. Nc3 $2 Rf3 $19 4. Re8+ Kxe8) (3. Kh7 $2 b1=Q+ 4. Kh6 Rg4) (3. Rh7 $2 b1=Q 4. Nxf4 Qa1+) (3. Re8+ $2 Kxe8 4. Nxf4 b1=Q) (3. Rg7 $2 Rh4+ 4. Rh7 b1=Q 5. Rxh4 Qa1+) (3. Rc7 $2 Rh4+ 4. Rh7 b1=Q 5. Rxh4 Qa1+) (3. Nb4 Rh4+ 4. Rh7 b1=Q) b1=Q 4. Ng6+ (4. Re5 $2 Qh1+ 5. Nh5 Qa1) (4. Rh7 Qa1+ 5. Rg7 Qxg7#) Qxg6 5. Rf7+ (5. Re8+ $2 Qxe8 6. Kh7 Qh5#) (5. Re1 Qh6#) Ke8 6. Re7+ (6. Rf8+ Kxf8) (6. Rg7 $2 Qh5+ 7. Kg8 Qd5+) (6. Ra7 $2 Qd6) Kd8 7. Rd7+ $10 (7. Re8+ $2 Qxe8+ 8. Kh7 Ke7) (7. Rg7 $2 Qh5+ 8. Kg8 Ke8) (7. Rf7 $2 Qg4) 1/2-1/2

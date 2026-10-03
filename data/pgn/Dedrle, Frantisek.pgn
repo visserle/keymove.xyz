@@ -1,0 +1,209 @@
+[Event "The Chess Monthly (v)"]
+[Source "The Chess Monthly/3 (v): Dedrle=F Kalendar Ceskych Sachistu#25 1918."]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Dedrle, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/8/5k2/8/p7/8/1PK5/8 w - - 0 1"]
+
+1. Kb1 $1 (1. Kc3 $2 a3 $1 2. b4 Ke5 $10 3. Kb3 Kd5 4. Kxa3 Kc6 5. Ka4 Kb6) (1. Kd3 $2 a3 2. bxa3 $10) (1. b3 $2 axb3+ 2. Kb2 $10) (1. b4 $2 axb3+ 2. Kxb3) (1. Kd2 $2 a3 2. bxa3) (1. Kc1 a3 2. b3) (1. Kd1 a3 2. bxa3) a3 $1 (Ke5 2. Ka2 Kd5 3. Ka3 Kc5 4. Kxa4 Kb6 5. Kb4) 2. b3 $1 (2. b4 $2 Ke6 (Ke5) 3. b5 $10) (2. bxa3 $2 Ke6 3. a4 $10) (2. Ka2 $2 axb2 3. Kxb2) (2. Ka1 $2 axb2+ 3. Kxb2) Ke5 3. Ka2 (3. b4 $2 a2+ 4. Ka1) (3. Ka1 $2 Kd5 4. b4) (3. Kc2 a2 4. Kb2) Kd5 4. Kxa3 (4. b4 $2 Kd6 5. b5) Kc6 5. Ka4 $18 $1 (5. b4 $2 Kb6 6. b5 $10) (5. Kb4 $2 Kb6 6. Ka4) (5. Kb2 $2 Kb6 6. b4) Kb6 6. Kb4 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Dedrle, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "7B/7b/1P1N4/8/3KN3/k4r1n/8/8 w - - 0 1"]
+
+1. b7 (1. Nc4+ $6 Kb4 2. b7 $14) (1. Nb5+ $2 Ka4 2. Nbc3+ $14 $10) (1. Nc3 $6 Rf8 2. b7 $14) (1. Kc5 $2 Bxe4 2. Nxe4 $10 Rf5+ 3. Be5) (1. Nf6 $2 Rd3+ 2. Ke5) (1. Kd5 $2 Nf4+ 2. Kc6) (1. Nf5 Bxf5 2. b7) Rb3 (Rf8 2. Nc8 $1 (2. Nc4+ $6 Kb4 3. Ned6 $14) (2. Nb5+ $2 Ka4 3. Nbc3+ $14 $10) (2. Be5 $6 Rd8 3. Kc5 $18) (2. Bg7 $2 Bxe4 3. Bxf8 Bxb7 4. Nxb7+ Kb2 5. Nd8) (2. Nc5 $6 Rb8 3. Nc4+) (2. Nc3 $6 Rb8 3. Be5) (2. Nf7 $2 Bxe4 3. Be5 Bxb7 4. Bd6+) (2. Nf6 $6 Rd8 3. Nd7) Rd8+ 3. Ned6 $18) 2. Nc4+ (2. Nc5 $6 Rb4+ 3. Nc4+ $14) (2. Nd2 $6 Rxb7 3. Nxb7 $14) (2. Kc4 $4 Bxe4 3. Nb5+ Rxb5 4. Kxb5) (2. Kc5 $2 Bxe4 3. Nb5+ Rxb5+ 4. Kxb5) (2. Nc8 $4 Rb4+ 3. Ke3 Rxe4+ 4. Kd2 Rb4) (2. Be5 $2 Bxe4 3. Kxe4 Nf2+ 4. Kd4) (2. Nc3 $6 Rb4+ 3. Ke3) (2. Bf6 Bxe4 3. Kxe4) (2. Nf6 Ng5 3. Nxh7 Ne6+ 4. Ke5) Ka2 3. Nc3+ (3. Nc5 $6 Rb4 4. Kc3 $14) (3. Na5 $2 Bxe4 4. Kxe4 Rxb7 5. Nxb7 Ng5+ 6. Kd4) (3. Ned6 $2 Ng5 4. Nd2) Ka1 4. Nb5 (4. Na5 $2 Rxb7 5. Nxb7 $10) (4. Nd6 $2 Rxb7 5. Nxb7 $10) (4. Ne2 $4 Rxb7 5. Ke3+ Kb1) (4. Ke3 $4 Rxb7 5. Ne2+ Kb1) (4. Be5 Rxb7) Rxb5 5. Nb6 (5. Nd6 $2 Rxb7 6. Nxb7 $10) (5. Ke3+ $4 Ka2 $17 $19) (5. Na5 $2 Kb1 6. Be5 $10) (5. Ne3 Ka2) (5. Be5 Rxb7) Rxb6 6. Kc5+ $18 (6. Kd5+ $4 Kb1) (6. Kc4+ $4 Kb1) (6. Kc3 Rxb7 7. Kc4+ Kb1) 1-0
+
+[Event "Casopis Ceskoslovensky Sach#288 (cr)"]
+[Source "Casopis Ceskoslovensky Sach/10"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Dedrle, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p1p4/8/2P5/8/8/2K3k1/8 w - - 0 1"]
+
+1. Kc3 $1 (1. Kc1 $2 Kf3) (1. Kb2 $2 Kf2) (1. Kd2 $2 Kf2) (1. Kb3 $2 Kf3) (1. Kd3 $2 Kf3) Kg3 2. Kc4 Kg4 3. Kd5 1/2-1/2
+
+[Event "Deutsches Wochenschach"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Dedrle, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/2p1k3/2P5/2K5/4P3/8 w - - 0 1"]
+
+1. Kb2 $1 (1. Kd3 $2 Kf5) (1. Kb3 $2 Kd4) (1. e3 $2 Ke4 2. Kd2 Ke5 3. Ke1 Ke4 4. Ke2 Kf5 $1) Ke4 (Kd4 2. Kb3) 2. Ka3 $1 Kd4 (Ke3 3. Ka4) 3. Kb3 Ke3 4. Ka4 Ke4 5. Kb5 Kd4 6. e3+ 1-0
+
+[Event "Casopis Ceskoslovensky Sach#287 (v)"]
+[Source "Casopis Ceskoslovensky Sach/10 (v): 1924."]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Dedrle, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/8/k7/3p4/8/2P1P3/8/8 w - - 0 1"]
+
+1. Kg8 $1 (1. Kh7 $2 Kb5) (1. Kg7 $2 Ka7) Kb6 $1 (Kb5 2. Kf7 Kc4 3. Ke6 Kc5 4. Kd7) 2. Kf8 $1 Kc6 $1 3. Ke8 Kd6 4. Kf7 Kd7 5. Kf6 Kd6 6. Kf5 Kd7 7. Ke5 Kc6 8. Ke6 Kc5 9. Kd7 Kb5 10. Kd6 Kc4 11. Kc6 1-0
+
+[Event "source unknown (te)"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Dedrle, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k7/1p6/1P6/8/8/7K/8 w - - 0 1"]
+
+1. Kg3 $1 Kb7 2. Kf4 Kc7 3. Ke5 Kd7 4. Kd5 $1 Kc7 5. Ke6 $1 Kc8 6. Kd6 Kb7 7. Kd7 $1 Kb8 8. Kc6 Ka7 9. Kc7 Ka8 10. Kxb6 Kb8 11. Ka6 $1 (11. Kc6 $2 Ka7 12. b6+ $2 Ka8 13. Kc7) Ka8 12. b6 Kb8 13. b7 1-0
+
+[Event "Studie (Dedrle)-77"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Dedrle, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3k1p2/5P2/5K2/5P2/8/8/8 w - - 0 1"]
+
+1. Kg4 $1 (1. Ke5 $2 Kc6 2. Kf5 Kd7) Ke8 2. Kh5 Kf8 3. Kg5 $1 Kg8 4. Kf5 Kf8 (Kh7 5. Ke4 $1) 5. Ke5 Ke8 6. Kd6 Kd8 7. f5 1-0
+
+[Event "Národní Noviny#267 (m)"]
+[Source "(m): Dedrle=F Ceskoslovensky Sach#150 Ceskoslovensky Sach=2 2/1929."]
+[Date "1925.11.22"]
+[Round "?"]
+[Composer "Dedrle, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1r4k1/8/BPP4P/8/8/2K5/6r1/8 w - - 0 1"]
+
+1. Bc4+ $1 (1. c7 $2 Rg3+ $1 2. Kc4 (2. Bd3 Rc8 3. Kd2 Rf3) (2. Kd2 Rg2+ 3. Be2 Re8 4. b7 Rgxe2+ 5. Kc3 R2e3+ 6. Kb4 R3e4+ 7. Ka5 R4e5+ 8. Ka6 R5e6+ 9. Ka7 R6e7 $1) (2. Kb4 Rxb6+ 3. Kc5 Rc3+) Rg4+ 3. Kb5 Rg5+ 4. Ka4 Rg4+ 5. Ka5 Rg5+ 6. Bb5 Ra8+ 7. Kb4 Rf5 $1 8. Bc6 Rc8 9. Bd7 Rxc7) Kh8 $1 2. c7 Rg3+ 3. Kb4 $1 (3. Kd4 $2 Rg4+ 4. Kc5 Rg5+ 5. Bd5 Rc8 $1 6. Kd6 Rf5 $1 7. Be6 Rxc7 $1) Rxb6+ 4. Kc5 Rg8 $1 5. Bxg8 Rb8 $1 6. cxb8=B (6. cxb8=Q $2) (6. cxb8=R $2) (6. cxb8=N $2 Kxg8) 1-0
+
+[Event "Národní Listy#132"]
+[Date "1930.06.22"]
+[Round "?"]
+[Composer "Dedrle, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3P3R/2N5/8/3P3b/7q/K7/2k5 w - - 0 1"]
+
+1. Rxh4 $1 Qxd7 2. d5 $1 Qxd5+ 3. Ka3 $1 (3. Ka1 $2 Qb3 $1 4. Rh1+ Kd2 5. Rh2+ Ke1 6. Rh1+ Kf2 7. Rc1 Ke3 $1) Qd6+ 4. Rb4 $1 Qxc6 5. Rc4+ Qxc4 1/2-1/2
+
+[Event "Ceskoslovensky Sach#527"]
+[Source "Ceskoslovensky Sach/10"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Dedrle, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3B4/8/8/1r6/8/7k/p6p/R6K w - - 0 1"]
+
+1. Bh4 $1 (1. Ba5 $2 Rb3 $1 2. Bd2 (2. Be1 Rb1 $1 3. Rxb1 axb1=B $1) Rg3 $1) Rb2 (Rb1+ {<main>} 2. Be1 Rxa1) (Kxh4 2. Rxa2) 2. Bg5 $1 (2. Be1 $2 Rb1 3. Rxb1 axb1=B $1) (2. Bf2 $2 Rxf2) Rb1+ (Kg4 3. Bf6) (Kg3 3. Bf4+ Kxf4 4. Rxa2) 3. Bc1 Kg3 (Kg4 4. Rxa2) (Rxa1) 4. Rxb1 axb1=B (axb1=Q) 5. Bf4+ Kh3 6. Bxh2 1/2-1/2
+
+[Event "1/2.p La Stratégie (tt) (v)"]
+[Source "La Stratégie/7"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Dedrle, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3K1k1p/8/8/7P/6P1/8 w - - 0 1"]
+
+1. Kd7 $1 (1. g3 $2 Kf5 2. Kd5 Kf6 3. Ke4 Ke6 4. Kf4 Kf6 5. Kg4 Kg6 6. Kh4 h5 $1) (1. Kd5 $2 Kf5 2. Kd6 Kf6 3. Kd7) Kf7 $1 2. g3 $1 Kf6 (Kf8 3. Ke6) 3. Ke8 $1 (3. Kd6 $2 Kf5 4. Ke7 Ke4 5. Kf6 Kf3 6. h4 Kxg3 7. h5 Kf4 $1) Ke6 4. Kf8 Kf6 5. Kg8 Kg6 6. Kh8 $1 Kf6 (h5 7. Kg8 Kh6 8. Kf7 Kg5 9. h4+) 7. Kh7 Kg5 8. h4+ 1-0
+
+[Event "La Stratégie (tt)"]
+[Source "La Stratégie/8"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Dedrle, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4k3/2p5/8/1PP5/8/8/3K4 w - - 0 1"]
+
+1. Ke1 $1 Ke6 2. Ke2 Ke5 3. Ke3 Kd6 4. Kf4 Ke6 5. Ke4 Kd6 6. Kf5 1-0
+
+[Event "Národní Listy"]
+[Date "1937.08.08"]
+[Round "?"]
+[Composer "Dedrle, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p5/2P2p2/5Pk1/8/3K4/8/8 w - - 0 1"]
+
+1. Kc4 $1 (1. Ke4 $2 Kg4 2. Kd4 Kf4 3. Kc4 Ke4 4. Kc5 Ke5 5. Kc4 Kd6 6. Kb5 Kd5) (1. Kd4 $2 Kf4 2. Kc4 Ke4 3. Kc5 Ke5 4. Kc4 Kd6 5. Kb5 Kd5) Kg4 $1 (Kxf5 2. Kd5) (Kf4 2. Kd4) 2. Kc5 $1 (2. Kd4 $2 Kf4 $1) Kf4 $1 3. Kd4 Kxf5 (Kg4 4. Kc5) 4. Kd5 1/2-1/2
+
+[Event "Sach#081 (tw)"]
+[Source "Sach/10"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Dedrle, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4K3/4P3/8/4b3/8/8/4b3/7k w - - 0 1"]
+
+1. Kd7 $1 (1. Kf7 $2 Bh5+ $1 2. Ke6 Bf4 3. Kd7 Bg4+ 4. Kc6 (4. Kd8 Bg5) Bd1 5. Kd7 Ba4+) (1. Kd8 $2 Bf6 2. Kd7 (2. Ke8 Bg5 $1 3. Kf8 (3. Kf7 Bh5+) (3. Kd7 Bb5+) Bh6+ 4. Ke8 Kg2 5. Kd8 Bg5 6. Kd7 (6. Ke8 Bg4 7. Kf8 Bh6+) Bb5+) Bb5+ $1 3. Ke6 Bg5 $1 4. Kf7 Bc4+ 5. Kf8 (5. Ke8 Be6) Bh6+ 6. Ke8 Be6) (1. Kf8 $2 Bd6) Bb5+ (Bg4+ 2. Kc6 Bd1 3. Kd5) 2. Ke6 Bg3 3. Kf7 Bc4+ 4. Kg6 1/2-1/2
+
+[Event "Sach#080 (tw)"]
+[Source "Sach/10"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Dedrle, Frantisek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4K3/4P3/8/8/4b3/8/3b4/7k w - - 0 1"]
+
+1. Kf7 $1 (1. Kd7 $2 Bf5+ 2. Kc7 Bf4+ $1 (Ba5+ $2 3. Kc6 $1 Bc2 4. Kb5 $1) 3. Kc6 (3. Kd8 Bg5 4. Ke8 Be6) Bc2 $1 4. Kd7 Ba4+ 5. Ke6 Be8 6. Kf6 Bd6 7. Ke6 Bc5 8. Kf6 Kg2) (1. Kd8 $2 Bg5 $1 (Ba5+ $2 2. Kd7 Bf5+ 3. Kc6 $1 (3. Kd6 $2 Bb4+ 4. Ke5 Bg6 5. Kf4 Be8) Bc2 4. Kb5 $1) 2. Ke8 (2. Kd7 Bc2) Bd5 3. Kd7 (3. Kf8 Bh6+) Bb3 $1 4. e8=Q Ba4+) (1. Kf8 $2 Bb4 $1 (Bh6+ $2 2. Kf7 Bd5+ 3. Kg6) 2. Kf7 Bf3 $1 3. Ke6 Bg4+ 4. Kf7 Bh5+ 5. Ke6 (5. Kf8 Kg2) Be8) Bd5+ 2. Kg6 (2. Kf8 $2 Bb4 3. Ke8 Be6 4. Kd8 Ba5+ 5. Ke8 Kg2 6. Kf8 Bb4 7. Ke8 Kf3) (2. Kg7 $2 Bc3+ 3. Kg6) Bc6 3. Kf7 1/2-1/2

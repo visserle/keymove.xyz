@@ -1,0 +1,66 @@
+[Event "Przyjazn"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Wójcik,Stanisław"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2K1R3/8/8/8/5qk1/p7/P4PP1/8 w - - 0 1"]
+
+1. Re4 $1 Qxe4 2. f3+ Qxf3 3. gxf3+ Kxf3 4. Kd7 $1 Ke4 5. Ke6 Kd4 6. Kf5 $1 Kc3 7. Ke4 Kb2 8. Kd3 Kxa2 9. Kc2 1/2-1/2
+
+[Event "Szachy#065"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Wójcik,Stanisław"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/7R/1K3k1p/2p5/2P1p2n/8 w - - 0 1"]
+
+1. Rxh4+ $1 Ng4 2. Rh1 Ne3 3. Re1 $1 Nxc2+ 4. Kxc3 Nxe1 5. Kd2 1/2-1/2
+
+[Event "Szachy"]
+[Source "14.p Polish champ 1959-1960"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Wójcik,Stanisław"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1p5K/8/8/7P/8/6k1 w - - 0 1"]
+
+1. Kg5 $1 b5 2. Kf4 Kf2 (b4 3. Ke3) 3. h4 Ke2 (b4 4. Ke4) 4. Ke4 Kd2 5. Kd4 Kc2 6. Kc5 $1 Kc3 7. h5 $1 (7. Kxb5 $2 Kd4) b4 8. h6 b3 9. h7 b2 10. h8=Q+ 1-0
+
+[Event "Szachy#045"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Wójcik,Stanisław"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5K1k/1p6/8/4N3/1N6/8/7p/8 w - - 0 1"]
+
+1. Nd5 $1 h1=Q 2. Nf6 Qh6+ 3. Kf7 Qg7+ 4. Ke6 Qg2 5. Kf7 Qa2+ 6. Kf8 Qa3+ 7. Kf7 Qb3+ 8. Kf8 Qb4+ 9. Kf7 1/2-1/2
+
+[Event "Szachy#074"]
+[Source "EG#00704.20.p Polish champ 1963-1964."]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Wójcik,Stanisław"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6P1/8/7K/7P/2bp2r1/R7/7k w - - 0 1"]
+
+1. Rd2 $1 Bxg7 (Bxd2 2. g8=Q Rxg8) 2. Rh2+ Kg1 3. Rg2+ Rxg2 1/2-1/2

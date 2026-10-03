@@ -1,0 +1,13 @@
+[Event "16.p International Friendship Team ty ("]
+[Source "EG#01408."]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Fabel, Karl"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k5/p1P2pp1/2PPp3/PpKp4/2pP4/3P3P/2p1P3/n7 w - b6 0 1"]
+
+1. axb6 $1 Nb3+ 2. Kb5 Nxd4+ 3. Ka6 axb6 (Nxc6 4. b7+ Kd7 5. b8=Q) 4. Kxb6 Nxc6 5. Kxc6 1-0

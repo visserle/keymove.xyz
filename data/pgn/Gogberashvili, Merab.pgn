@@ -1,0 +1,41 @@
+[Event "3.c 64#75 (c)"]
+[Source "EG#04170. (c): Gogberashvili=M 64=28(523) 13-7-1978."]
+[Date "1977.12.01"]
+[Round "?"]
+[Composer "Gogberashvili, Merab"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1KR5/4k3/P7/8/8/1p6/8/6b1 b - - 0 1"]
+
+Bh2+ $1 (b2 2. Rc7+ Kd6 3. Rb7) 2. Ka8 (2. Rc7+ $2 Kd8 3. a7 b2 4. a8=Q b1=Q+ 5. Qb7 Bxc7+ 6. Ka7 Qg1+ 7. Ka8 (7. Ka6 Qa1+ 8. Kb5 Qb2+ 9. Ka6 Qa3+ 10. Kb5 Qd3+ 11. Kc6 Qc4#) Qa1+ 8. Qa7 Qh8 9. Qb7 (9. Kb7 Qh1+ 10. Ka6 Qc6+) Kd7+ 10. Ka7 Qa1+ 11. Qa6 Qd4+ 12. Kb7 Qb2+ 13. Ka7 Qb8#) b2 3. a7 b1=Q 4. Rc7+ Kf6 5. Rf7+ Ke5 6. Re7+ Kd4 7. Rd7+ Kc3 8. Rc7+ Kd2 9. Rd7+ Ke1 10. Re7+ Kf1 11. Rb7 $1 Qf5 (Qd3 12. Rb1+ Kg2 13. Rb2+ Kh1 14. Rxh2+ Kxh2) 12. Rf7 (12. Rb1+ $2 Kg2 13. Rb2+ Kg3 14. Rxh2 Qc8#) Qxf7 1/2-1/2
+
+[Event ".c Magyar Sakkélet#1721"]
+[Source "Magyar Sakkélet/5 EG#07993."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Gogberashvili, Merab"]
+[White "Gogberashvili, M"]
+[Black " Sumbatyan, K."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3b1k1n/P6K/2B5/3N4/5P2/p6N/1p6/3n4 w - - 0 1"]
+
+1. Nc3 $1 Nxc3 2. a8=Q b1=Q+ 3. Kxh8 Qb6 4. Qxa3+ Kf7 5. Ng5+ Bxg5 6. Be8+ Kxe8 7. fxg5 Kf7 8. Qb3+ $1 Qxb3 9. g6+ Ke7 10. g7 1/2-1/2
+
+[Event "Revista de Romana de Sah#1037 (c)"]
+[Source "Revista de Romana de Sah/3 (c): Gogberashvili=M Revista de Romana de Sah=3 3/ 1987."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Gogberashvili, Merab"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B5K/3p4/k6p/8/2P5/8/8/8 w - - 0 1"]
+
+1. Kg7 $1 (1. Bd6 $2 h5 2. Kg7 h4 3. Kf6 h3 4. Ke7 Kb6 5. Kxd7 h2 6. c5+ Kb5) h5 2. Kf6 Kb6 3. Bd6 Kc6 4. c5 (4. Ke5 {<or>} h4 5. c5) h4 5. Ke5 h3 6. Kd4 Kb5 7. Kd5 Ka5 8. Ke4 Kb5 9. Kf3 1-0

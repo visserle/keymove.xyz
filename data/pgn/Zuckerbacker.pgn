@@ -1,0 +1,13 @@
+[Event "Deutsche Schachzeitung#0458"]
+[Source "Deutsche Schachzeitung/1"]
+[Date "1892.??.??"]
+[Round "?"]
+[Composer "Zuckerbacker"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2B3K1/1Pk3P1/8/8/8/8/8/5r2 w - - 0 1"]
+
+1. Kh7 $1 Rh1+ 2. Kg6 Rg1+ 3. Kf7 $1 Rf1+ 4. Bf5 $1 Rxf5+ (Rg1 5. Bg6 Rf1+ 6. Ke6 Re1+ 7. Kf5) 5. Kg6 Rf1 6. b8=Q+ Kxb8 7. g8=Q+ 1-0

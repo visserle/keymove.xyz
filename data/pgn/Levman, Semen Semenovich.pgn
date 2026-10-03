@@ -1,0 +1,25 @@
+[Event "64#040"]
+[Date "1925.02.28"]
+[Round "?"]
+[Composer "Levman, Semen Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/7N/7P/5p1R/5P2/6K1/pb6/8 w - - 0 1"]
+
+1. Nf6+ $1 Bxf6 2. h7+ Kh8 3. Rh1 a1=Q 4. Rxa1 Bxa1 5. Kh4 Bf6+ 6. Kh5 Kxh7 (Kg7 7. h8=Q+ Kxh8 8. Kg6) 1/2-1/2
+
+[Event "64#074"]
+[Date "1925.06.15"]
+[Round "?"]
+[Composer "Levman, Semen Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6B1/8/6b1/q5pp/6R1/4B1K1/5P2/4bk2 w - - 0 1"]
+
+1. Bc4+ $1 Kg1 2. Rxg5 Qb4 (Qa4 3. Kh3+ Kh1 4. Bd5+ Be4 5. Bxe4+ Qxe4 6. Rg1+ Kxg1 7. f3+ Qxe3) 3. Kh3+ Kh1 4. Bd5+ $1 (4. Be6 $2 Be4 5. f4 Bf2 6. Bxf2 Qc3+ 7. Bg3 Qf6 8. Bd7 Qe7 9. Bb5 Bg2+ 10. Kh4 Qe6 11. f5 Qe7) Be4 5. Bxe4+ (5. f4 $2 Bf2 $1 6. Bxf2 Qc3+ 7. Rg3 Qc8+ $1) Qxe4 6. Rg1+ Kxg1 7. f3+ Qxe3 1/2-1/2

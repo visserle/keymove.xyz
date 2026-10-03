@@ -1,0 +1,1762 @@
+[Event "Shakhmaty"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1K6/1P6/8/4P3/1p1k4/5P2/6bB w - - 0 1"]
+[PlyCount "14"]
+
+1. Ka8 $1 b2 2. b7 Bh2 3. f4 Bxf4 4. e5 Bxe5 5. b8=Q Bxb8 6. Bd5 b1=Q 7. Be4+ Kxe4 $11 1/2-1/2
+
+[Event "Isvestia WZIK"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3N1k2/1K4pq/8/p1p1R2p/8/7P/P1P2P2/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. Ne6+ Kg8 $1 2. Ng5 Qg6 3. Kc7 h4 4. Kd7 Kf8 5. a4 c4 (Qh5 $144 6. Ne6+ $18) 6. f3 $1 (6. f4 $143 c3 7. Ne6+ Kg8 8. Ng5 Kf8 $11) c3 7. f4 $18 1-0
+
+[Event "Shakhmatny Listok"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1npp4/1P1P1pb1/8/8/2kp1K1R/8/8 w - - 0 1"]
+[PlyCount "12"]
+
+1. dxc7 Nd6 2. c8=Q+ (2. Kf4 $143 Be4 3. c8=Q+ Nxc8 4. Kxe4 f5+ 5. Kxf5 Nxb6 {EGTB 6 pièces} 6. Ke5 d5 7. Rg3 Kc4 8. Rg2 Nd7+ 9. Kf4 Kc3 10. Kf3 Ne5+ 11. Kf2 d2 12. Ke2 Kc2 13. Ke3 Nc4+ 14. Kd4 Nb6 15. Ke3 Kc3 16. Ke2 Na4 17. Rg3+ Kc2 18. Rd3 d1=Q+ 19. Rxd1 Nc3+ 20. Ke3 Kxd1 21. Kd3 Nb5 22. Ke3 Kc2 23. Kf4 d4 $19) Nxc8 3. b7 Be4+ 4. Kxe4 Nd6+ 5. Kd5 Nxb7 6. Rxd3+ Kxd3 $11 1/2-1/2
+
+[Event "64"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3N3n/p3p3/7q/3PPk2/B2P3p/4p2K/P3P3/8 w - - 0 1"]
+[PlyCount "12"]
+
+1. Bc2+ Kg5 2. Ne6+ Kh5 3. Be4 $1 a5 4. a4 Nf7 5. Bf3+ Kg6 6. Be4+ Kh5 $11 1/2-1/2
+
+[Event "Zadatschy & Etudjy"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4B1pp/8/pp1PppP1/b3p3/P7/P3KP1P/2k5 w - - 0 1"]
+[PlyCount "15"]
+
+1. g6 hxg6 2. Bb4 $1 Bd1+ (axb4 $144 3. d6 b3 (bxa3 $144 4. d7 Kb2 5. d8=Q Kxa2 6. Qa5 $18) 4. axb3 b4 5. bxa4 bxa3 6. d7 a2 7. d8=Q a1=Q 8. Qd1+ $18) (f4 $144 3. Ke1 Bd1 4. h3 $18) 3. Ke1 $1 Bg4 (f4 $144 4. h3 $18) 4. Bd2+ Kb2 5. Bf4 $1 Kxa2 6. d6 exf4 7. d7 Kxa3 8. d8=Q $18 1-0
+
+[Event "Isvestia WZIK"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5N2/2pB4/P2pp3/2k5/2P3bb/P3K2p/3P4/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. a7 Bg5+ 2. Kd3 $1 Bf5+ $1 3. Kc3 $1 Bf6+ $1 4. d4+ $1 Bxd4+ 5. Kb3 Be4 6. Bc6 $1 Bxc6 7. Nd7+ $18 1-0
+
+[Event "L'Echiquier"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2B3n1/8/2R1K2P/1k4P1/6n1/8/4p3/3b4 w - - 0 1"]
+[PlyCount "12"]
+
+1. Ba6+ Kxc6 2. Bxe2 Bxe2 3. h7 Bc4+ 4. Kf5 Bd3+ 5. Ke6 Bxh7 6. g6 $1 Bxg6 $11 1/2-1/2
+
+[Event "1.hm Magyar Sakkvilág"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6R1/pN6/p7/2p4k/3r4/2K1b3/8/7N w - - 0 1"]
+[PlyCount "13"]
+
+1. Ng3+ Kh6 2. Nf5+ Kh7 3. Rg7+ $1 Kh8 4. Nxe3 $1 Kxg7 5. Nxc5 Rh4 6. Nf5+ Kf6 7. Nxh4 $18 1-0
+
+[Event "6.hm Isvestia WZIK"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1n6/5k2/2R5/N7/2K1b3/p3p3/1Pp1P3/8 w - - 0 1"]
+[PlyCount "27"]
+
+1. Rc7+ Kf6 2. Kb3 Nc6 (a2 $143 3. Kxa2 Nc6 4. Nb3 $18) (Bc6 $144 3. Kxc2 a2 4. Nb3 Ba4 5. Kc3 Bxb3 6. Ra7 Nc6 7. Ra6 Be6 8. b3 Ke5 9. Rxa2 $11) 3. Rxc6+ Bxc6 4. Kxc2 a2 5. Nb3 Ba4 6. Kc1 Kg5 (Bxb3 $144 $11) (Ke5 $144 7. Na1 Bb5 (Kd4 $144 8. b3 Bc6 9. Kb2 Be4 10. b4 $1 Bb1 11. Nb3+ $11) 8. Kd1 Kd5 9. Ke1 Kc4 10. Kd1 Ba4+ 11. Ke1 Kb4 12. Kf1 $11) 7. Na1 Bb5 8. Kd1 Kf4 9. Ke1 Kg4 10. Kf1 Kg3 11. Nc2 Ba4 12. Na1 Kh2 13. Ke1 Kg1 14. Nb3 $11 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1rPP3p/5Pk1/1p5p/1p5P/1P6/K7 w - - 0 1"]
+[PlyCount "7"]
+
+1. d7 $1 Kh5 $3 $1 2. c7 $1 (2. d8=Q $2 Ra6+ 3. Kb1 Ra1+ 4. Kxa1) Rc6 (Rd6 $144 {<main>} 3. d8=R $1 (3. d8=Q $2 Ra6+ 4. Kb1 Ra1+ 5. Kxa1) Rc6 (Rxd8 4. cxd8=R $1 (4. cxd8=Q $2)) 4. c8=R $18) 3. c8=R $1 (3. c8=Q $143 $2 Rc1+ 4. Qxc1 $11) Rd6 4. d8=R $1 $18 (4. d8=Q $143 $2 Ra6+ 5. Kb1 Ra1+ 6. Kxa1 $11) 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2Kp2p1/6PB/k7/p2RP3/q7/P7/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. Bd2+ (1. Rd5+ $143 Kb4 2. Bxg7 Qxa2 3. Bf8+ Kc4 4. g7 Qg2 $11) Kb5 $1 (Ka6 $144 2. Rd5 Qg3+ 3. e5 $18) 2. Rb4+ Kc5 (Ka5 $144 3. Rb3+ $18) (Ka6 $144 3. Rb6+ Ka7 4. Rb5 $18) 3. Bf4 Qd3 4. a3 d6 (d5 $144 5. Bd6#) 5. Bh2 $1 Qd1 $1 6. Bg3 $1 (6. Kd7 $143 Qg4+ $19) Qd2 $1 7. Kd7 $18 1-0
+
+[Event "2.p Tyovaen Shakki"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5rk1/3qPb2/8/7P/8/3B4/8/1K1R4 w - - 0 1"]
+[PlyCount "5"]
+
+1. Bh7+ Kh8 (Kg7 $144 2. exf8=B+ (2. h6+ $143 Kf6 3. Rxd7 Re8 4. Bd3 Bg8 $11) (2. exf8=Q+ $143 Kxh7 3. Rxd7 $11) Kxf8 3. Rxd7 $18) (Kxh7 $144 2. exf8=N+ Kg8 $1 3. Nxd7 (3. Rxd7 $143 Kxf8 4. h6 Kg8 5. h7+ Kh8 6. Rxf7 $11)) 2. exf8=R+ (2. exf8=Q+ $143 Kxh7 3. Rxd7 $11) Bg8 3. Rxg8+ $18 1-0
+
+[Event "64"]
+[Source "64/12"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1n6/P1R5/1Pn5/8/p2R4/kq6/8/K7 w - - 0 1"]
+[PlyCount "8"]
+
+1. Rxa4+ $1 Qxa4 2. a8=Q Qxa8 3. Ra7+ Nxa7 4. b7 Qxb7 $11 1/2-1/2
+
+[Event "3/4.p Magyar Sakkvilág"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/k1P5/8/8/2r5/7R/1K2P3/2r5 w - - 0 1"]
+[PlyCount "11"]
+
+1. c8=N+ (1. c8=Q $143 R1c2+ 2. Kb1 Rxc8 $19) Rxc8 (Kb8 $144 2. Nd6 R4c2+ 3. Kb3 Rxe2 $11 {EGTB 6 pièces}) 2. Ra3+ Kb6 3. Rb3+ Ka5 4. Ra3+ Kb4 5. Rb3+ Kc4 6. Rd3 $3 $11 1/2-1/2
+
+[Event "Shakhmaty"]
+[Source "Shakhmaty v SSSR/5"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3k1p1P/p7/3r2np/8/5P2/5K2 w - - 0 1"]
+[PlyCount "26"]
+
+1. h7 $1 Nh2+ 2. Kg2 (2. Kg1 $2 Nf3+ 3. Kf1 Rd1+ 4. Kg2 h3+ 5. Kg3 h2 6. h8=Q h1=Q) h3+ 3. Kg3 (3. Kxh3 $2 Nf3) Rg4+ 4. Kxh3 Nf3 $1 5. Kxg4 Ne5+ 6. Kf5 Nf7 7. Kxf6 Nh8 8. Kg7 Ke7 9. Kxh8 Kf8 (Kf7 10. f4 $1 (10. f3 $2 a4 11. f4 a3 12. f5 a2 13. f6 Kf8 14. f7 a1=Q#) a4 11. f5 a3 12. f6) 10. f3 $1 a4 11. f4 a3 (Kf7 $144 12. f5 a3 13. f6 Kf8 14. f7 a2 $11) 12. f5 a2 13. f6 a1=Q $11 1/2-1/2
+
+[Event "1/2.p Schackvärlden"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6Nk/4R2p/5R2/8/5p1K/4b3/4r1p1/5b2 w - - 0 1"]
+[PlyCount "15"]
+
+1. Rf8 Bf2+ 2. Kh5 Rxe7 3. Kh6 Rf7 4. Ra8 Ra7 5. Rb8 (5. Re8 $143 Bb5 $11) Rb7 6. Rc8 Rc7 7. Rd8 Rd7 8. Re8 $18 1-0
+
+[Event "64"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3r2R1/4k3/1Rpr4/3P4/K2P4/1p3p2/5P1p/8 w - - 0 1"]
+[PlyCount "18"]
+
+1. Rg7+ Kf6 2. Rh7 Ra8+ 3. Kxb3 Ra1 4. Rxh2 Rb1+ 5. Kc4 Rxb6 6. Kc5 cxd5 7. Rh6+ Ke7 8. Rh7+ Kf8 9. Rf7+ Kxf7 $11 1/2-1/2
+
+[Event "64"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3B4/k2P4/p1K5/1P6/8/8/2p2b1p/8 w - - 0 1"]
+[PlyCount "41"]
+
+1. b6+ $1 Ka8 $1 (Bxb6 $144 2. Bxb6+ $18) (Kb8 $144 2. Bc7+ $18) 2. b7+ Ka7 3. Bb6+ $1 Bxb6 4. b8=Q+ $1 Kxb8 5. Kxb6 c1=Q 6. d8=Q+ Qc8 7. Qd6+ (7. Qe7 $143 $2 Qc6+ $3 $1 8. Kxc6 h1=Q+ $11) Ka8 8. Qd5+ Kb8 9. Qe5+ Ka8 10. Qe4+ Kb8 11. Qf4+ Ka8 12. Qf3+ Kb8 13. Qg3+ Ka8 14. Qg2+ Kb8 15. Qxh2+ Ka8 16. Qg2+ Kb8 17. Qg3+ Ka8 18. Qf3+ Kb8 19. Qf4+ Ka8 20. Qe4+ Kb8 21. Qe7 $18 1-0
+
+[Event "1/2.p64"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/3p1K2/2P5/8/p2r3p/8/2p5/R7 w - - 0 1"]
+[PlyCount "16"]
+
+1. c7 Rf4+ 2. Kg6 Rc4 3. Rxa4 Rg4+ 4. Rxg4 c1=Q 5. c8=Q+ Qxc8 6. Kf7 Qd8 7. Rg6 Kh7 8. Rh6+ Kxh6 $11 1/2-1/2
+
+[Event "Shakhmaty"]
+[Source "Shakhmaty v SSSR/3"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2r5/P2p3P/3P4/1p6/1P6/1P2R3/1K6/2rk4 w - - 0 1"]
+[PlyCount "14"]
+
+1. Rd3+ $1 (1. Ka3 $143 Ra8 2. Kb2 Rc2+ 3. Kb1 Rh2 4. Rc3 Rxh7 5. Rc7 Kd2 $19) Ke2 2. h8=Q $1 Rxh8 3. a8=Q $1 Rxa8 4. Rd2+ $1 Ke1 (Kxd2) 5. Kxc1 Ra1+ 6. Kc2 Ra2+ 7. Kc3 Rxd2 $11 1/2-1/2
+
+[Event "3.hm Fizkultura i Sport"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2P1PKPk/4p3/2n3qN/8/2Q1bb2/3n4/8 w - - 0 1"]
+[PlyCount "18"]
+
+1. Nf6+ Qxf6+ 2. Kxf6 Nde4+ 3. Ke5 (3. Kf7 $143 Bh5+ 4. Kf8 Nd7#) Nd7+ 4. Kxe6 Bg4+ 5. Kd5 (5. Kf7 $143 $1 Nd6#) Nxc3+ (Ndf6+ $144 6. Ke5 Nxc3 7. g8=Q+ (7. Kxf6 $143 Nd5+ 8. Kf7 Nxe7 9. Kxe7 Kxg7 10. Kd6 Bf4+ 11. Kc6 Bc8 $19) (7. e8=Q $143 Bd4+ 8. Kxd4 Nxe8 $19) (7. c8=Q $143 Bd4+ 8. Kxd4 Bxc8 $19) Kxg8 8. c8=Q+ (8. e8=Q+ $143 Nxe8 9. c8=Q Bd4+ 10. Kxd4 Bxc8 $19) Bxc8 9. e8=Q+ Nxe8 $11) 6. Kc6 Nf6 7. g8=Q+ (7. e8=Q $143 Bf3+ 8. Kd6 Nxe8+ $19) (7. c8=Q $143 Bxc8 8. e8=Q (8. g8=Q+ $144 Nxg8 9. e8=Q Bh6 10. Qxc8 Ne7+ $19) Bd7+ $19) Kxg8 8. c8=Q+ (8. e8=Q+ $144 {petit dual} Nxe8 9. c8=Q Bf3+ 10. Kd7 Bg4+ 11. Kc6 Bxc8 $11) Bxc8 9. e8=Q+ Nxe8 $11 1/2-1/2
+
+[Event "1.hm Dagestaner Committee Fizkultura i "]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "R7/1R6/8/2p5/K7/2kpnb2/8/2N5 w - - 0 1"]
+[PlyCount "17"]
+
+1. Rb3+ Kc2 $1 2. Rc8 $1 (2. Nxd3 $143 Bxa8 3. Nxc5 $11 {EGTB 6 pièces}) Kxc1 3. Rxd3 Bd1+ 4. Ka5 $1 Nc4+ 5. Kb5 Be2 6. Rc3+ $1 (6. Kxc4 $143 Kc2 7. Rcd8 Bf1 $11) Kb2 $1 7. Rh3 $3 (7. Rxc4 $143 Kb3 8. R8xc5 Bd3 $11) (7. Rg3 $143 Nd6+ 8. Kxc5 Ne4+ $11) Nd6+ 8. Kxc5 Nxc8 9. Rh2 $1 $18 1-0
+
+[Event "2.p Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7K/1R5B/5k2/1p6/2P5/pbP5/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. Rb5+ $1 (1. Ra6 $143 Ba3 $19) Ke6 $1 (Kf6 $143 2. Bg7+ Kf7 3. Rf5+ Ke6 4. Ra5 $18) 2. Ra5 Ba3 3. Bg7 $1 (3. Re5+ $143 Kxe5 4. Bg7+ Ke4 5. cxb4 Bxb4 $19) a1=Q 4. Re5+ Kf7 5. Rf5+ Ke6 6. Re5+ Kd6 7. Rd5+ $1 Kc6 8. Rc5+ Kb6 $1 9. Rb5+ $1 Ka6 10. Ra5+ $11 1/2-1/2
+
+[Event ".c Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/7"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1R6/8/2b3P1/2p4k/8/8/7K/2r5 w - - 0 1"]
+[PlyCount "16"]
+
+1. g7 $1 (1. Rb3 $143 $2 Kg4 (Rh1+ 2. Kg3 Rg1+ 3. Kf2 Rg2+ $1) 2. Rg3+ Kf4 $19) Rh1+ (Bd5 $144 2. Rd8 $1 $11 (2. g8=Q $143 $1 (2. Rd8 $2 Bf7 $1 (Bc4 $2 3. Rc8 Ba2 4. Ra8) 3. Rf8 Kg6 4. g8=Q+ Bxg8 5. Rxg8+ Kf7 6. Rc8 Ke6 7. Kg2 Kd7 8. Rh8 Re1 9. Kf2 Re6 10. Rh3 Kc6) Rh1+ (Bxg8 3. Rxg8) 3. Kg3 Rg1+ 4. Kf4 Rxg8 $19)) 2. Kg3 Rg1+ 3. Kf4 Rxg7 4. Rh8+ $1 Kg6 5. Rc8 $1 Rf7+ 6. Ke5 $1 Rf6 7. Rg8+ $1 Kf7 (Kh7 8. Rg7+ $1 Kxg7) 8. Rg7+ $1 Kxg7 $11 1/2-1/2
+
+[Event "British Chess Magazine"]
+[Source "British Chess Magazine/12"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[Composer2 "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2B1pN2/2p1B1q1/8/6N1/3kP3/1Kp1p1p1/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. Nfe5+ $1 Ke4 2. Nf2+ Kxe3 3. Bb6+ c5 4. Bxc5+ Kf4 5. Nfd3+ (5. Nxg6+ $143 $2 Kg3 6. Nd3 c1=Q+ 7. Kxc1 g1=Q+ 8. Bxg1 e1=Q+ 9. Nxe1 $11) Ke4 6. Bd5+ (6. Nxg6 $143 $2 c1=Q+ 7. Kxc1 g1=Q+ 8. Bxg1 e1=Q+ 9. Nxe1 $11) Kxd5 7. Nxg6 c1=Q+ 8. Kxc1 e1=Q+ 9. Nxe1 Kxc5 10. Nxg2 $18 1-0
+
+[Event "7.p USSR Study Composition champ"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/P1k5/6p1/1p4Pp/5R1K/2p5/8 w - - 0 1"]
+[PlyCount "18"]
+
+1. Rf6+ $1 (1. a7 $143 Kb7 2. Rf7+ Ka8 3. Rc7 b3 4. Rc3 Kxa7 $19) Kc7 2. a7 Kb7 (c1=Q $143 3. a8=Q Qc3+ 4. Rf3 $18) 3. Ra6 $1 (3. Rc6 $143 b3 4. a8=Q+ Kxa8 5. Rc7 Kb8 $1 6. Rc3 Ka7 7. Rc6 Kb7 8. Rc3 Ka6 9. Rc5 Kb6 10. Rc3 Ka5 11. Rc4 Kb5 $19) Ka8 4. Rc6 b3 5. Rc7 $1 b2 6. Rc8+ $1 Kxa7 7. Rxc2 b1=Q 8. Ra2+ Kb7 9. Rb2+ Qxb2 $11 1/2-1/2
+
+[Event "2.p Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3kn3/4pp2/n7/5B2/3N4/b6N/4K3/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. Ng5 Nd6 (f6 $144 2. Nge6+ $11) 2. Nxf7+ $1 Nxf7 3. Ne6+ Ke8 (Kd7 $144 4. Ng5+ (4. Nc5+ $143 Kc6 5. Nxa6 Kb7 6. Bd3 Ne5 7. Bb5 Kb6 $19) Ke8 5. Bg6 $11) 4. Bg6 $1 Bc1 5. Bd3 $1 (5. Kd1 $143 Bh6 $1 6. Bd3 Kd7 $1 $19) Nb8 (Kd7 $144 6. Nf8+ Ke8 7. Ne6 $11) 6. Bb5+ Nd7 7. Kd1 $1 Bh6 8. Be2 Be3 9. Ke1 $11 1/2-1/2
+
+[Event "Ceskoslovensky Sach"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3b4/6p1/2n2k1N/7K/6Bn/6P1/8 w - - 0 1"]
+[PlyCount "22"]
+
+1. Ng7+ Kf6 2. Nh5+ gxh5 3. Kxh5 $1 Be8+ $1 4. Kh6 $1 (4. Kg4 $143 Ng5 5. Bh4 Nce6 $19) Ng5 (Ne4 $144 5. Bh4+ Nhg5 6. g4 $11) 5. Bh4 Nce6 6. g4 $1 Ba4 (Bf7 $144 7. Bxg5+ Nxg5 $11) 7. Kh5 Nf4+ 8. Kh6 Nfh3 9. Kh5 Bd1 10. Kh6 Bxg4 11. Bxg5+ Nxg5 $11 1/2-1/2
+
+[Event "2.p Spartak"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "R7/B7/2K5/3R4/8/5b1p/7r/k7 w - - 0 1"]
+[PlyCount "17"]
+
+1. Bd4+ Kb1 2. Ra1+ Kc2 3. Ra2+ Kd3 4. Ra3+ $1 (4. Rxh2 $143 Bxd5+ 5. Kxd5 (5. Kc5 $144 Bg2 $11)) Ke2 5. Re3+ $1 Kf2 6. Re4+ $1 Kf1 7. Rf5 Rf2 8. Kd6 h2 (Bxe4 $144 9. Rxf2+ Ke1 10. Ra2 $18) 9. Rh4 $18 1-0
+
+[Event "Izbrannje Shakhmatnje Etjudi (Herbstman"]
+[Source "(c): Fleck=J EBUR/4 1995."]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3pp3/2P5/8/3K2k1/2P5/b1r5/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. c7 $1 Rd2+ 2. Ke3 Re2+ $1 3. Kd4 $1 (3. Kd3 $143 $2 Bc4+ $1 4. Kxc4 Re6 $1 5. c8=Q Rc6+ 6. Qxc6 dxc6 $19 7. Kc5 e5 8. c4 e4) (3. Kxe2 $143 Bc4+ 4. Ke3 Ba6 $19) Re4+ $1 (e5+ $144 4. Kd3 $1 (4. Kc5 $143 $2 Re4 $19 (d6+ 5. Kxd6 Rd2+ 6. Ke7 Rd7+ $1 7. Kxd7 Kf5)) e4+ (Kf3 $144 5. c8=Q e4+ 6. Kd4 Rd2+ 7. Kc5 e3 $11) (d5 (e4+ 5. Kxe2 Bc4+ 6. Ke3 Ba6 7. Kxe4) 5. c8=Q+) 5. Kxe2 Bc4+ 6. Ke3 Ba6 7. Kxe4 $11) 4. Kxe4 Be6 $1 5. Ke5 Bf5 6. c8=N $1 $11 1/2-1/2
+
+[Event "1.p Shakhmaty Moskva"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p7/P7/8/Q2p1ppk/7p/1p4PK/5bB1 w - - 0 1"]
+[PlyCount "20"]
+
+{Correction par Daniel Keith : ajout d'un pion blanc en a6 et d'un pion noir en a7 pour éviter une démolition commençant par 4....h1=Q.} 1. Bxd4 (1. gxh3 $143 g3+ 2. Kh1 b1=Q 3. Qxd4 Qg6 $1 4. Qh8+ Qh5 5. Qxh5+ Kxh5 6. Bxa7 f3 $19) g3+ 2. Kg1 $1 h2+ 3. Kh1 Bxg2+ $1 4. Kxg2 f3+ (h1=Q+ $144 5. Kxh1 b1=Q+ 6. Kg2 Qe4+ 7. Kf1 Qh1+ 8. Bg1 Qf3+ 9. Ke1 Kh3 10. Qd7+ Kg2 11. Qb7 Qxb7 12. axb7 f3 13. b8=Q f2+ 14. Bxf2 gxf2+ 15. Kd2 f1=Q 16. Qxa7 $11) 5. Kh1 b1=Q+ 6. Bg1+ Qb4 $1 7. Qxb4+ Kh3 8. Bxh2 $1 f2 9. Qh4+ $1 Kxh4 10. Bxg3+ Kxg3 $11 1/2-1/2
+
+[Event ".hm Armenian Central Chess Club Ty"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[Composer2 "Katsnelson, Leonard Ilyich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K4Q/3p1kp1/7p/7p/5N1P/3p4/2R5/q7 w - - 0 1"]
+[PlyCount "17"]
+
+1. Rc5 $1 (1. Qd8 $143 Qa8+ $19) (1. Qh7 $143 dxc2 $11) (1. Kxd7 $143 Qd4+ $19) Qa8+ 2. Kxd7 Qxh8 3. Rf5+ Kg8 4. Ng6 d2 $1 (Qh7 $144 5. Rf8#) 5. Rf1 d1=Q+ 6. Rxd1 Qh7 7. Rg1 $1 Kf7 8. Rf1+ Kxg6 9. Rf8 $1 $18 1-0
+
+[Event "1.p Achalgazdra Kommunisti"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3R1P2/1ppP1p2/3r4/8/K7/p4k2/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. Kb2 $3 (1. Kxa2 $143 f5 $1 2. f8=Q (2. Ra7 $144 Re5 3. f8=Q Re2+ 4. Ka3 Re3+ 5. Ka4 Re4+ 6. Kb3 Re3+ 7. Kc4 Re4+ $11) Ra5+ 3. Kb2 Rb5+ 4. Kc3 Rc5+ 5. Kd4 Rd5+ 6. Kc3 Rc5+ $11) a1=Q+ (Rb5+ $144 2. Ka1 $1 $18 (2. Kxa2 $143 f5 $11)) (Rd2+ $144 2. Ka1 Rd1+ 3. Kxa2 $18) (f5 $144 2. Ra7 (2. f8=Q $143 a1=Q+ 3. Kxa1 Ra5+ $11) Re5 3. Rxa2 $18) 2. Kxa1 Ra5+ (f5 $144 3. Ra7 Re5 4. Ra2+ $18) 3. Kb2 Rb5+ (f5 $144 4. Ra7 $1 Rxa7 5. f8=Q Ra5 6. d7 Rb5+ 7. Kc3 Rc5+ 8. Qxc5+ $18) (Ra8 $144 4. Re7 Rf8 5. d7 $18) 4. Kc3 Rc5+ 5. Kd4 f5 6. Ra7 $1 Rd5+ 7. Kc3 Rc5+ 8. Kb2 Rb5+ 9. Ka1 Re5 10. Ra2+ $18 1-0
+
+[Event "Zadatschy & Etudjy#09 {v}"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "b6n/kP3p1q/p2K1Pp1/P5Pp/7P/8/7B/8 w - - 0 1"]
+[PlyCount "9"]
+
+1. b8=Q+ Kxb8 2. Kd7+ $1 (2. Ke7+ $143 Kc8 3. Kf8 Kd7 4. Bg3 Ke6 5. Be1 Bd5 6. Bg3 Kf5 7. Bf2 Kg4 8. Be1 Qh6+ $1 9. gxh6 g5 10. hxg5 Kxg5 11. Kg7 Ng6 $19) Ka7 3. Bg1+ Kb7 $1 4. Bc5 $3 Qg8 5. Bf8 $11 1/2-1/2
+
+[Event "4.hm Troitzky MT Bulletin Central Chess"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/1p5R/2P5/8/P1Kp4/4r3/8/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. c7 $1 (1. Kxd4 $143 Re8 $1 2. Rxb7 (2. cxb7+ $144 Ka7 3. Kd5 Re1 4. a5 Rb1 5. Kc6 Rc1+ 6. Kd6 Rb1 $11) Re4+ $1 3. Kc5 Rc4+ $1 4. Kb6 Rxc6+ 5. Kxc6 $11) (1. Rxb7 $143 Rc3+ 2. Kd5 (2. Kb5 $144 d3 3. Rd7 (3. Kb6 $144 Rb3+ 4. Kc7 d2 5. Rxb3 d1=Q $11) Kb8 4. a5 (4. Kb6 $144 Rb3+ 5. Kc5 Rc3+ 6. Kb5 Kc8 7. a5 Rb3+ $11) Kc8 5. a6 Ra3 6. a7 d2 $11) d3 3. Rb2 (3. Rb1 $144 d2 4. Rd1 Kb8 5. Rxd2 Kc7 6. Rh2 Rd3+ $11) Rc2 4. Rb3 (4. Rb1 $144 d2 5. Rd1 Ka7 6. Kd6 Kb6 7. a5+ Kxa5 $11) d2 5. Rd3 Kb8 6. Kd6 Kc8 7. a5 Ra2 8. Rd5 Rxa5) (1. Rh8+ $143 Ka7 2. c7 (2. Kxd4 $144 Re7 $11) Rc3+ $11) b5+ $1 (Rc3+ $144 2. Kxd4 Rc1 3. Rh8+ $18) (Re8 $144 2. Rd7 Rc8 3. Rd8 b5+ 4. axb5 Kb7 5. b6 $18) 2. axb5 $1 (2. Kxd4 $143 Re8 3. Kd5 (3. Kc5 $144 Kb7 4. axb5 (4. a5 $144 Re6 5. Kxb5 Re5+ 6. Kb4 Re6 $11) Re6 5. b6 Rc6+ $11) Kb7 4. axb5 (4. Kd6 $144 Rc8 5. axb5 Kb6 $11) Rc8 5. Kd6 Kb6 $11) (2. Kxb5 $143 Kb7 3. a5 Re5+ 4. Kb4 Re6 $11) (2. Kc5 $143 Kb7 3. Kd6 Rc3 4. a5 d3 $11) Kb7 $1 (Rc3+ $144 3. Kxd4 Rc1 4. b6 Kb7 5. Rh8 $18) (Re8 $144 3. Rd7 Rc8 4. Rd8 $18) 3. b6 $1 Kxb6 4. c8=N+ $1 Kc6 (Ka6 $144 5. Ra7#) (Ka5 $144 5. Ra7#) 5. Ne7+ Kb6 (Kd6 $144 {main} 6. Nf5+ $18) 6. Nd5+ $18 1-0
+
+[Event "1.p Shakhmaty v SSSR#785"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K1k/5p1p/7P/5rP1/8/3P4/3P2p1/4R3 w - - 0 1"]
+[PlyCount "31"]
+
+1. Re8 Re5 $1 2. Ra8 $1 (2. Rb8 $143 Rb5 3. Ra8 (3. Rxb5 $144 g1=Q 4. Rb8 Qa7 $11) Rb7 $11) Ra5 3. Rxa5 g1=Q 4. Ra8 Qg2 5. Rb8 $1 Qg3 6. Rc8 Qg4 7. Rd8 Qxg5 (Qe6 $144 8. d4 f5 9. d5 Qg8+ 10. Ke7 $18) 8. Re8 Qg8+ (Qf6 $144 9. d4 $18) 9. Ke7 Qxe8+ 10. Kxe8 f5 11. d4 f4 12. d5 f3 13. d6 f2 14. d7 f1=Q 15. d8=Q Qf8+ 16. Kd7 $18 1-0
+
+[Event "Shakhmaty"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4pp2/p1P2P1p/7r/4bp1P/1BP5/8/5K1k w - - 0 1"]
+[PlyCount "15"]
+
+1. c7 Rc5 (Bb7 $144 2. fxe7 Re5 3. Bd5+ $18) (Bf5 $144 2. fxe7 Bh3+ 3. Kf2 Re5 4. Be6 $1 {Nowotny} Rxe6 (Bxe6 $144 5. e8=Q $18) 5. c8=Q Re2+ 6. Kxe2 Bxc8 7. e8=Q $18) (Bg2+ $144 2. Kf2 Rb5 3. fxe7 Rxb3 4. e8=Q Rb2+ 5. Ke1 f3 6. Qxf7 f2+ 7. Qxf2 Rxf2 8. c8=Q $18) 2. fxe7 Bd3+ (Bc6 $144 3. Bd5+ $1 $18) 3. Kf2 Bb5 4. Bd5+ Kh2 5. Bc6 $1 {Nowotny} Rxc6 (Bxc6 $144 6. c8=Q $18) 6. e8=Q Rxc7 7. Qe4 Bc6 8. Qxf4+ $18 1-0
+
+[Event "2.hm Isvestia#268"]
+[Site "?"]
+[Date "1930.01.09"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1P2P3/8/8/nr2P3/1P3b2/K3k1N1 w - - 0 1"]
+[PlyCount "14"]
+
+1. Nf3+ $1 Kd1 $1 (Ke2 $143 2. Nd4+ $18) (Kf1 $143 2. Nd2+ $18) 2. e7 Rxe3 3. b7 Bg3 4. Ne5 $1 {Novotny} Bxe5 $1 (Rxe5 $143 5. b8=Q $18) 5. e8=Q Bxb2+ 6. Ka2 $1 (6. Kxb2 $143 Nc4+ 7. Ka2 Rxe8 $19) Rxe8 7. b8=Q Rxb8 $11 {stalemate} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "7n/1k6/8/2P5/8/1K4R1/8/5b2 w - - 0 1"]
+
+1. Rg8 (1. Rg7+ $2 Kc6 2. Re7 $10) (1. Rf3 $2 Be2 2. c6+ $10) (1. c6+ $2 Ka7 2. c7 $10) (1. Re3 $2 Ng6 2. c6+) (1. Kc2 Nf7 2. c6+) (1. Rg2 Bxg2 2. c6+ Kxc6) (1. Rg6 Nxg6) (1. Rd3 Bxd3 2. c6+ Kc7) Nf7 2. Rf8 (2. Rg7 $2 Kc6 3. Rxf7 Bc4+ 4. Kxc4) (2. Kb4 $2 Nh6 3. c6+ $10) (2. Rg1 $2 Bh3 3. c6+) (2. Re8 $2 Nh6 3. c6+) (2. Rg6 $2 Ne5 3. c6+) (2. c6+ Ka7 3. c7) (2. Rg4 Nh6 3. c6+) (2. Rb8+ Kxb8) (2. Rg3 Kc6 3. Rg1) Kc6 3. Kb4 (3. Rxf7 $2 Bc4+ 4. Kxc4) (3. Kc3 $2 Be2 4. Re8 $10) (3. Rc8+ $2 Kd7 4. Rb8) Ne5 4. Rxf1 (4. Rf6+ Kd5 5. Rxf1 Nc6+ 6. Kb5 $18) (4. Rc8+ $2 Kd5 5. c6) (4. Rd8 $2 Nd7 5. Rc8+) (4. Rf5 $2 Nd3+ 5. Ka4) Nd3+ 5. Kc4 (5. Ka5 $2 Nxc5 6. Re1 $10) (5. Ka3 $2 Nxc5 6. Re1 $10) (5. Kc3 $2 Nxc5 6. Re1 $10) (5. Kb3 Nxc5+ 6. Ka3) Nxc5 6. Rf6+ $18 (6. Rf5 $2 Nb7 7. Re5 $10) (6. Rc1 Nb7 7. Rb1) (6. Rf8 Nb7 7. Re8) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "5B2/p7/3p4/PPk5/8/8/4K3/8 w - - 0 1"]
+
+1. b6 (1. Be7 $2 Kxb5 2. a6 $10 Kxa6 3. Bf6) (1. Bxd6+ $2 Kxb5 2. a6 $10) (1. a6 $2 Kxb5 2. Bxd6 Kxa6 3. Be5) (1. Kd1 Kxb5 2. Bxd6 Kxa5 3. Kc2) (1. Kd3 Kxb5 2. Bxd6 Kxa5 3. Kc4) (1. Kf3 Kxb5 2. Bxd6 Kxa5 3. Ke3) axb6 2. a6 (2. Bxd6+ $2 Kb5 3. a6 $10 Kxa6 4. Be5) (2. axb6 $2 Kc6 3. b7 $10 Kxb7 4. Bg7) Kc6 3. Be7 (3. Bxd6 $2 b5 4. Bc5 b4 5. Kd3 b3 6. Kc3 Kc7 7. Ba7 Kc6 $10) (3. a7 $2 Kb7 4. a8=Q+ $10 Kxa8 5. Bxd6) (3. Bh6 $2 Kc7 4. a7) Kc7 (b5 4. Bd8 $1 (4. Bxd6 $2 b4 5. a7 $10 Kxd6 $4 (Kb7 $5) 6. a8=Q) (4. Kd3 $2 Kb6 5. a7 $10 Kxa7 6. Bxd6) (4. a7 $2 Kb7 5. a8=Q+) (4. Kd2 $2 Kb6 5. a7 Kxa7 6. Bf6) (4. Ke3 $2 Kb6 5. a7 Kxa7 6. Bf6) (4. Bg5 Kb6 5. a7) (4. Bf6 Kb6 5. a7) b4 5. Kd3 d5 6. Kd4 b3 7. Kc3 $18) 4. Bxd6+ (4. Bd8+ $2 Kc8 5. a7 $10 Kxd8 $4 (Kb7 $5) 6. a8=Q+) (4. Kd3 $2 Kb8 5. a7+) (4. a7 $2 Kb7 5. a8=Q+) (4. Bf6 b5 5. a7) (4. Bh4 Kb8 5. Be7) (4. Bg5 Kb8 5. Be7) Kc6 5. Kd3 (5. Bb4 $18 Kc7 6. Bd6+) (5. Bb8 $2 b5 6. a7 $10) (5. a7 $2 Kb7 6. a8=Q+ $10) (5. Bc7 $2 Kxc7 6. a7) (5. Bc5 $2 bxc5 6. a7) b5 6. Bc5 (6. Kd4 $2 b4 7. a7 $10 Kxd6 $4 (Kb7 $5) 8. a8=Q) (6. Bb4 $2 Kb6 7. a7 $10) (6. a7 $2 Kb7 7. a8=Q+) (6. Bc7 $2 Kxc7 7. a7) Kc7 7. Ba7 (7. Kc3 $2 b4+ 8. Bxb4 $10) (7. Bd6+ $2 Kb6 8. a7 $10) (7. Bb6+ $2 Kb8 8. a7+ $10) (7. a7 $2 Kb7 8. a8=Q+ $10) Kc6 8. Kc3 $18 (8. Bg1 $18) (8. Be3 $18) (8. Bd4 b4 9. Kc4) (8. Bf2 $18) (8. Kd4 $2 b4 9. Bb6 $10) (8. Bb8 $2 b4 9. a7 $10) (8. Bc5 Kc7 9. Ba7 Kc6 $18) (8. Ke4 $2 b4 9. Bb6) (8. Bb6 $2 Kxb6 9. a7) (8. Kc2 b4 9. Bb6) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/2K1k3/3pP2b/3B1P2/7p/8/7P/8 w - - 0 1"]
+
+1. f6+ (1. h3 $6 Bg5 2. Kc6 $14) (1. Kc6 $6 Bg5 2. Bg2 $14 $16) (1. Kc8 $6 Bf8 2. Be4) (1. Bc6 h3 2. Kc8) (1. Bf3 Bg7 2. h3) (1. Be4 h3 2. Kc8) (1. Bc4 Bf8 2. Kc6) (1. Bg2 Bf4 2. Bd5) Kxf6 2. Kd7 (2. Kd8 $2 Bg5 3. Bb3 $10) (2. Kxd6 $2 Bc1 3. e7 $10) (2. e7 $2 Kxe7 3. h3) (2. Be4 Kxe6 3. Kd8) (2. Bb3 Ke7 3. h3) (2. Ba2 Ke7 3. h3) (2. Bc4 Ke7 3. h3) (2. h3 Ke7 3. Ba2) (2. Kc6 Ke7 3. h3) Bf8 3. Ke8 (3. h3 $2 Ke5 4. Bf3 $10) (3. Be4 $2 Ke5 4. Ke8 $10) (3. Bf3 $2 Kf5 4. Bd5) (3. Bb3 $2 d5 4. Bxd5 $14 $10) (3. Bg2 $2 d5 4. Bxd5) (3. Bc4 $2 Ke5 4. e7) (3. Kd8 $2 Ke5 4. Ba2) Be7 4. h3 $18 (4. Kd7 Bf8 5. Ke8 $18) (4. Bc6 $2 Kxe6 5. Bd7+ Kf6 $10) (4. Bf3 $2 Kxe6 5. Bg4+ Kf6 $10) (4. Bc4 $2 d5 5. Bxd5) (4. Ba2 $2 d5 5. Bxd5) (4. Bb3 $2 d5 5. Bxd5) (4. Bg2 Kxe6 5. Bh3+) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "5k2/2pK4/8/2p3b1/2R5/8/4N1b1/8 w - - 0 1"]
+
+1. Nf4 (1. Rxc5 $2 Bh3+ 2. Kxc7 $10 Bd8+ $4 (Bh6 $5) 3. Kxd8) (1. Ng3 $2 Kf7 2. Rc2 Bh3+ 3. Kc6 $10) (1. Kxc7 $2 Ke7 2. Nd4 $10 cxd4 3. Rxd4) (1. Ng1 $2 Be3 2. Ne2 $10) (1. Rc3 $2 Bd5 2. Kxc7 Bf4+ $4 (Be6 $5) 3. Nxf4) (1. Rc1 $2 Bxc1 2. Nxc1 Bh3+ 3. Kxc7) (1. Rf4+ $2 Bxf4 2. Nxf4 $10 Bh3+ 3. Nxh3) (1. Nd4 $2 cxd4 2. Rxd4 c5) Bf1 2. Ne6+ (2. Rc3 $2 Bxf4 3. Rf3 $10 Bh3+ 4. Rxh3) (2. Rc1 $4 Bb5+ 3. Kc8 Bxf4 4. Rxc5 $10) (2. Rxc5 $2 Bxf4 3. Kc8 $10) (2. Re4 $2 Kf7 3. Kxc7 $10) (2. Ng6+ $2 Kg7 3. Rxc5 Kxg6 4. Ra5 Bb5+ 5. Rxb5) Kg8 $1 3. Rg4 (3. Nxg5 $2 Bxc4 4. Nf3 $10 Be6+ 5. Kxc7) (3. Rxc5 $2 Bd2 4. Nd8 $10 Bh3+ 5. Kxc7) (3. Rh4 $4 Bxh4 4. Nxc5 Bg3) (3. Rc1 $4 Bxc1 4. Nxc5 Be3) (3. Rc3 $2 Bd2 4. Rf3 Bb5+ 5. Ke7) Bh3 4. Rg3 $18 (4. Rxg5+ $2 Kf7 5. Re5 Kf6 6. Re3 Bg4 7. Rf3+ $10) (4. Rg2 $4 Bxg2 5. Nxc5 Be3 $19 6. Kxc7 Bxc5) (4. Ra4 $4 Kf7 5. Re4) (4. Rg1 $2 Kf7 5. Rxg5 Bxe6+ 6. Kxc7) (4. Re4 $2 Kf7 5. Kxc7 Bxe6 6. Kc6) (4. Nxg5 $2 Bxg4+ 5. Kxc7) (4. Kxc7 $2 Bxg4 5. Nxg5) (4. Rc4 $2 Kf7 5. Kxc7 Kxe6 6. Rc3) (4. Nf4 $4 Bxg4+ 5. Kc6 Bxf4 6. Kxc5 Bd6+) (4. Nxc5 $4 Bxg4+ 5. Kxc7 Be7) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "7k/2Pp4/6K1/8/6Rp/8/8/2q5 w - - 0 1"]
+
+1. c8=Q+ (1. c8=R+ Qxc8 2. Kf7 $10) (1. Re4 Qc6+ 2. Kf7 $10) (1. Kf7 $2 Qf1+ 2. Ke7 Qe2+ $19) (1. Rf4 $2 Kg8 2. Rxh4 d5 3. Rh8+ Kxh8 4. c8=Q+ Qxc8) (1. Rc4 $2 Qxc4 2. c8=Q+ Qxc8 $19) (1. Rg5 $2 d5 2. Rh5+ Kg8) (1. Rb4 $2 Qxc7 2. Rxh4+ Kg8) (1. Rg1 $2 Qxg1+ 2. Kh5 Qc1) Qxc8 2. Kf7 (2. Rxh4+ $2 Kg8 $19 3. Rh8+ Kxh8) (2. Kh6 $2 h3 $19 3. Rg8+ Qxg8) (2. Kh5 $2 h3 $19 3. Rg8+ Qxg8) (2. Re4 $2 Qc6+ 3. Kf5 h3) (2. Kf6 $2 Qd8+ 3. Kf7 d5 4. Rg8+ Qxg8+ 5. Ke7 h3) (2. Rg5 $2 Qe8+ 3. Kf5 h3) (2. Rf4 $2 Qd8 3. Rf3 d5) (2. Rd4 $2 Qc2+ 3. Kf6 Qc3) (2. Kg5 $2 Qd8+ 3. Kf4 Qf6+) Qd8 3. Rg6 (3. Rg7 $2 Qa8 4. Rg6 Qf3+) (3. Rg8+ $2 Qxg8+ 4. Ke7 h3 $19) (3. Re4 $2 h3 4. Re8+ Qxe8+ 5. Kxe8 d5) (3. Rd4 $2 Qg8+ 4. Ke7 Qg7+) (3. Ra4 $2 Qg5 4. Rxh4+ Qxh4) (3. Kg6 $2 d5 4. Rxh4+ Qxh4) Kh7 4. Rh6+ (4. Rg7+ $2 Kh6 5. Rh7+ Kg5 6. Rg7+ Kf5) (4. Rf6 $2 Qg8+ 5. Ke7 Qg5 $19 6. Kxd7 Qxf6) (4. Rg4 $2 d5 5. Rg7+ Kh6 $19) (4. Re6 $2 dxe6 5. Kxe6 h3 $19) (4. Rd6 $2 Qg8+ 5. Ke7 h3 $19 6. Rxd7 h2) (4. Rg8 $2 Qxg8+ 5. Ke7 h3) (4. Rg3 $2 Qf8+ 5. Kxf8 hxg3) Kxh6 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "1k6/5b2/2K2N2/3P4/8/1N6/8/8 w - - 0 1"]
+
+1. d6 (1. Nd7+ $2 Kc8 2. d6 Be8 $1 3. Nbc5 Kd8 4. Ne6+ Kc8 $10) (1. Nc5 $2 Bxd5+ 2. Nxd5 $10) (1. Kd6 $2 Bxd5 2. Ne8 Bxb3 3. Kc6) (1. Na5 $2 Bxd5+ 2. Nxd5) (1. Kd7 Bxd5 2. Nxd5) (1. Ne8 Bxe8+ 2. Kb6) (1. Kb6 Bxd5 2. Nxd5) Bxb3 2. Nd7+ (2. d7 $2 Ba4+ 3. Kb6 $10) (2. Nd5 $2 Bc2 3. d7 $10) Ka7 3. Nc5 (3. Nb6 $4 Be6 4. d7 $10) (3. Kc7 $4 Bc2 4. Nf8 $10) (3. Kb5 $4 Bf7 4. Nf8) (3. Nf8 $4 Bc2 4. Kc7) (3. Ne5 $4 Bc2 4. d7) (3. Nb8 $4 Bc2 4. d7) (3. Kc5 $4 Bc2 4. Nf8) Bf7 4. d7 (4. Kd7 Bg6 5. Ke7 $18) (4. Kc7 $4 Be8 5. d7) (4. Nb7 $4 Be8+ 5. d7) (4. Ne6 $4 Be8+ 5. d7) (4. Nd7 $4 Bg6 5. Nf8) (4. Na4 Be8+ 5. d7) (4. Ne4 Be8+ 5. d7) Be8 $1 5. dxe8=B $18 (5. dxe8=R $4) (5. dxe8=Q $4) (5. Kc7 $4 Bxd7 6. Nb7 $10) (5. dxe8=N $4 Kb8 6. Ng7) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/7r/4R3/6k1/3n4/4K3/1B1p4/8 w - - 0 1"]
+
+1. Re5+ (1. Rd6 $2 Nf5+ 2. Kxd2 Nxd6 3. Bf6+ Kxf6) (1. Ke4 $2 Nxe6 2. Bf6+ Kxf6) (1. Rg6+ Kxg6 2. Kxd2 Rh2+) (1. Bc1 dxc1=Q+ 2. Kd3 Nxe6) (1. Rc6 d1=Q 2. Rg6+ Kxg6 3. Bxd4 Re7+) Kf6 2. Kxd2 (2. Kd3 $2 d1=Q+ 3. Kc4 Kxe5 4. Bxd4+ Qxd4+ 5. Kb3 Rc7) (2. Rh5 $2 d1=N+ 3. Ke4 Rxh5 4. Bxd4+ Ke6 5. Bb6 Rh4+) (2. Rf5+ $2 Kxf5 3. Kxd2 Ke4) (2. Kf4 $2 Rh4+ 3. Kg3 d1=Q 4. Kxh4 Kxe5 5. Bxd4+ Qxd4+ 6. Kg3 Qe4) (2. Re7 Rxe7+ 3. Kxd2 Re2+) Kxe5 (Nf3+ 3. Ke3 (3. Kd3 $10 Nxe5+ 4. Ke4) (3. Kd1 Nxe5) Nxe5 4. Ke4 (4. Kf4 $2 Rh4+ 5. Ke3 Ke6 $19) (4. Kd4 $2 Ke6) (4. Kf2 Rh2+ 5. Ke3 Rxb2) Rh5 5. Kd5 $1 $10 (5. Kf4 $2 Rh4+ 6. Ke3 Ke6 $19) (5. Bc3 $2 Ke6 $19 6. Bxe5 Rxe5+ 7. Kd4 Kd6) (5. Bxe5+ $2 Rxe5+ 6. Kd4 Ke6) (5. Ke3 $2 Rh4) (5. Bd4 $2 Ke6 6. Bxe5 Rxe5+ 7. Kd4 Kd6) (5. Kd4 $2 Ke6) (5. Ba1 $2 Ke6 6. Bxe5 Rxe5+ 7. Kd4 Kd6)) 3. Kd3 (3. Ke3 $2 Rh3+ 4. Kd2 Rh2+ $19) (3. Kc3 Rb7) (3. Bxd4+ Kxd4) Rh4 (Rd7 4. Bc3 $10) 4. Kc4 $10 (4. Ke3 $2 Rh3+ 5. Kd2 Rh2+) (4. Bxd4+ $2 Rxd4+ 5. Ke3 Re4+) (4. Ba1 Kd5) (4. Kc3 Rh2) (4. Ba3 Rh3+ 5. Kc4 Rxa3) (4. Bc3 Kd5) 1/2-1/2
+
+[Event "1.p All-Union Fizkultura i Sport Commit"]
+[Source "Shakhmaty v SSSR/3 1955"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Iosifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/8/1p6/8/K6b/1P6/B7/k7 w - - 0 1"]
+
+1. Ka3 $1 (1. Kb5 $2 Bf2 $19) Bg5 (Bf6 (Bg5 {<main>} 2. b4 Bc1+ 3. Kb3 Bb2 4. b5 Bg7 5. Ka3 Bf8+ 6. Ka4 $1 (6. Kb3 $2 Bh6 7. Ka3 Bc1+ 8. Kb3 Bb2) Kxa2) 2. b4 Bb2+ 3. Kb3 b5 (Bc1 4. Kc2) 4. Bb1 $3 $1 Kxb1) 2. b4 (2. Ka4 Kxa2) (2. Bb1 Kxb1) Bc1+ 3. Kb3 Bb2 4. b5 (4. Kc2 Kxa2) Bg7 5. Ka3 Bf8+ 6. Ka4 (6. Kb3 $2 Bh6 7. Ka3 Bc1+ 8. Kb3 Bb2 $19) Kxa2 1/2-1/2
+
+[Event "Shakhmaty#204"]
+[Source "Shakhmaty/12"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6p1/8/R1N5/p7/p2p3p/1k1K4 w - - 0 1"]
+
+1. Rb4+ $1 Ka1 2. Nxd2 h1=Q+ 3. Kc2 Qc6+ 4. Rc4 Qg2 (Qb5 5. Nb3+ Qxb3+ 6. Kxb3 Kb1 7. Rg4 a1=N+ 8. Kc3) 5. Re4 Qf2 6. Re1+ Qxe1 7. Nb3# 1-0
+
+[Event "Shakhmaty#242"]
+[Source "Shakhmaty/9"]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/8/4K2P/6b1/8/4p1Rp/6p1/8 w - - 0 1"]
+
+1. h7 $1 (1. Rxg5 $2 e2) Kg7 2. h8=Q+ Kxh8 3. Kf7 Kh7 4. Rxh3+ Bh6 5. Rg3 e2 6. Rxg2 e1=Q 7. Rg7+ Kh8 8. Rg8+ Kh7 9. Rg7+ Bxg7 1/2-1/2
+
+[Event "64#169"]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5N2/4p3/2p5/2P3Pp/4Pk1P/6p1/1B1K4 w - - 0 1"]
+
+1. Be4+ $1 Kxe4 2. Ke2 g1=Q (g1=N+ 3. Kf2 Nxh3+ 4. Kg2) 3. Ng5+ Ke5 4. Nf3+ 1-0
+
+[Event "Isvestia#196"]
+[Date "1926.10.27"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4p1pp/p3kP2/6K1/5P2/8/7P/8 w - - 0 1"]
+
+1. fxg7 $1 Kf7 2. Kh6 Kg8 3. f5 a5 4. h4 a4 5. h5 a3 6. f6 exf6 1/2-1/2
+
+[Event "Isvestia#196 (v)"]
+[Date "1926.10.27"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p3p1pp/4kP2/6K1/5P2/7P/8/8 w - - 0 1"]
+
+1. fxg7 $1 Kf7 2. Kh6 Kg8 3. f5 a5 4. h4 a4 5. h5 a3 6. f6 exf6 1/2-1/2
+
+[Event "Pravda#033 (s)"]
+[Date "1926.12.19"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3P4/8/kP6/pp1K4/2P5/r1N5 w - - 0 1"]
+
+1. d7 $1 Rxc1 (b2 2. d8=Q bxc1=Q 3. Qa5#) 2. d8=Q Rd1+ 3. Kc4 Rxd8 4. cxb3# 1-0
+
+[Event ".hm Magyar Sakkvilág#160"]
+[Source "Magyar Sakkvilág/12"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4B1k1/2q1P2p/8/8/8/2p5/2Nn3R/K3n3 w - - 0 1"]
+
+1. Bf7+ $1 Kxf7 2. Rxh7+ Ke8 3. Rh8+ Kxe7 4. Rh7+ Kd6 5. Rxc7 $1 Nxc2+ $1 6. Ka2 Nb4+ (Kxc7) 7. Ka1 Nb3+ (Kxc7) 8. Kb1 $1 Nd2+ (Kxc7) 9. Ka1 $1 Kxc7 1/2-1/2
+
+[Event "Shakhmaty#298"]
+[Source "Shakhmaty/8"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1b4p1/5k1P/5npP/8/pK6/P7/8 w - - 0 1"]
+
+1. h7 $1 Bd5+ 2. Kc2 Nh6 3. h8=Q Bg8 4. Kb1 Kf7 5. Ka1 Kf8 6. Qh7 Bxh7 1/2-1/2
+
+[Event "Pravda#047"]
+[Date "1927.05.08"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5N1k/8/P2P1pK1/8/7p/8/4b1P1/6r1 w - - 0 1"]
+
+1. d7 $1 Rd1 2. a7 Bd3+ 3. Kh6 Be4 4. Ng6+ Kg8 5. Ne7+ Kf7 6. Nd5 Rxd5 (Bxd5 {<main>} 7. d8=Q) 7. a8=Q Rh5+ 8. Kxh5 Bxa8 9. d8=Q 1-0
+
+[Event "Pravda#052 (s)"]
+[Date "1927.06.12"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6B1/8/1P4P1/p7/P5b1/K4k2/5Pp1/7r w - - 0 1"]
+
+1. Bd5+ $1 Kxf2 2. Bxg2 Kxg2 3. g7 Be6 (Rh3+ 4. Kb2 Be6 5. b7 Rb3+ 6. Ka1) 4. b7 Rh3+ (Rb1 {<main>} 5. g8=Q+ Bxg8 6. b8=Q Rxb8 (Rb3+ 7. Qxb3 Bxb3 8. Kxb3)) 5. Kb2 Rb3+ 6. Ka1 Rxb7 7. g8=Q+ Bxg8 1/2-1/2
+
+[Event "64#221 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - IV-37 2012."]
+[Date "1927.06.15"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "n7/3K4/1P1pp3/8/1p3P2/B1k5/2p5/8 w - - 0 1"]
+
+1. Bxb4+ $1 Kxb4 (Kb3 2. b7 Nb6+ 3. Ke7 c1=Q 4. b8=Q) 2. b7 Nb6+ 3. Kxe6 c1=Q 4. b8=Q Qe3+ 5. Kxd6 Qxf4+ 6. Kc6 Qxb8 1/2-1/2
+
+[Event "Shakhmatny Listok#215"]
+[Date "1927.06.25"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/P3kPKp/8/Bpb1r2P/8/1P1P4/8 w - - 0 1"]
+
+1. a7 $1 Rg4+ (Bd5 2. Bb3 $1) 2. Kh7 Bd3+ 3. Kh8 Be4 4. Bc2 $1 Bc6 5. Bf5+ $1 Kxf5 6. f7 1-0
+
+[Event "Shakhmatny Listok#221"]
+[Date "1927.07.25"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1r6/2N5/B5k1/4p2p/7P/4pP2/6Kp/8 w - - 0 1"]
+
+1. Nd5 $1 e2 2. Bxe2 Rb2 3. Kh1 $1 Rxe2 (Rb1+ 4. Kxh2 Rb2 5. Kh3 $1 Rxe2 6. Nf4+ exf4) 4. Nf4+ $1 exf4 1/2-1/2
+
+[Event "source unknown"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4kP2/8/2R4p/b3K2P/8/1p6/8 w - - 0 1"]
+
+1. Rc7+ $1 Kf8 2. Rc8+ Kxf7 3. Rb8 b1=Q+ 4. Rxb1 Bc2+ 5. Kf4 $1 Bxb1 6. Kg5 Bg6 7. Kh6 Kf6 1/2-1/2
+
+[Event "L'Échiquier"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/5p2/5p2/8/4K3/7P/7k w - - 0 1"]
+
+1. h4 $1 Kg2 2. Kf4 Kh3 3. h5 Kh4 4. h6 Kh5 5. h7 Kg6 6. h8=R 1-0
+
+[Event "Zadachy i Etyudy#26 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - IV-37 2012."]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6P1/KpPP4/P1r1k3/6r1/3P4/3R2p1/8 w - - 0 1"]
+
+1. d4+ $1 Kxd6 2. dxc5+ Kxc6 3. Rxg2 Rxg2 4. cxb6 Rxg7 5. b7 Kc7 (Rxb7 {<main >}) 6. Ka7 Rg8 7. a6 Rf8 8. b8=Q+ Rxb8 1/2-1/2
+
+[Event "Magyar Sakkvilág#173 (c)"]
+[Source "Magyar Sakkvilág/7 (c): Krug=P Estudios Artisticos de Ajedrez - XV-44 2015."]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2B5/6p1/p4P2/Pp6/1P5n/P7/1b1Kp3/1k6 w - - 0 1"]
+
+1. f7 $1 e1=Q+ 2. Kxe1 Ng6 3. Bf5+ Kc1 4. Bxg6 Bxa3 5. f8=B $1 (5. f8=Q $2 Bxb4+ 6. Qxb4) Bxb4+ 6. Bxb4 1-0
+
+[Event "1.p USA chess fed. ty (c)"]
+[Source "(c): Keith=D Sachová Skladba#09918 Sachová Skladba=15 10/2009."]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1B2K3/8/4P2p/N7/1P6/k3p3/Br6 w - - 0 1"]
+
+1. Nc3+ $1 (1. Bc3 $2 Kxb3 $1 (h4 $2 2. Bd2 $1 Kxb3 3. Nc3 e1=Q 4. Bxe1 Rxe1 5. Ne4 h3 6. e6 h2 7. Nf2 $1 Rf1 8. Nh1) 2. Bf3 h4 $1 (e1=Q $2 3. Bxe1 Rxe1 4. Nc5+ Kc4 5. Nd7) 3. Bxe2 h3 4. e6 h2 5. Bf3 h1=Q 6. Bxh1 Rxh1 7. Kf7 Rf1+ $1 8. Kg6 Rg1+ 9. Kf7 Rf1+ $1) Kxa1 2. Nxe2 Rxb3 3. Bc6 $1 (3. Ba6 $2 h4 $1 4. Nd4 Rb8 $1 (Rb1 $2 5. Bc8) 5. Bf1 (5. Bc4 h3 6. Ne2 Rb1 7. Ng3 Rg1 8. Nf1 Rh1) Rb1 $1 6. Bh3 Rh1 7. Bg2 (7. Bd7 h3 8. Nf3 Rf1 9. Bc6 Rf2 10. e6 h2) (7. Bg4 h3 8. e6 h2 9. Nf3 Rg1 10. Nxh2 Rg2) Rg1 8. Bd5 h3) Re3 $1 4. Nd4 Rxe5+ 5. Kf6 Rc5 (Re3 {<main>} 6. Nc2+ Kb2 7. Nxe3) (Re1 {<main>} 6. Nc2+ Kb2 7. Nxe1) (Ra5 {<main>} 6. Nb3+ Kb2 7. Nxa5) 6. Nb3+ Kb2 7. Nxc5 1-0
+
+[Event "Molot#7"]
+[Source "also L'Échiquier#148 L'Échiquier/8 1928."]
+[Date "1928.01.22"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5B2/8/1p1p4/P1k5/8/8/4K3/8 w - - 0 1"]
+
+1. a6 $1 Kc6 2. Be7 $1 Kc7 (b5 3. Bd8 b4 4. Kd3) 3. Bxd6+ Kc6 4. Kd3 b5 5. Bc5 Kc7 6. Ba7 b4 7. Kc4 Kc6 8. Kxb4 1-0
+
+[Event "3.hm Shakhmatny Listok#263"]
+[Date "1928.03.10"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3R2R1/6K1/8/7k/1b1p1p2/3b4 w - - 0 1"]
+
+1. Rd3+ $1 Kh2 $1 2. Rxd2 Bc1 3. Kh4 $1 Bxd2 4. Rg2+ $1 Kh1 $1 (Kxg2) 5. Rxf2 Be1 6. Kh3 $1 Bxf2 1/2-1/2
+
+[Event "64#289"]
+[Date "1928.04.20"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7N/2p5/4pp2/2p1PBk1/2P3P1/2P1p3/6Pp/4K3 w - - 0 1"]
+
+1. Nf7+ $1 Kf4 $1 2. g3+ Kf3 $1 3. Be4+ Kxe4 4. Ke2 h1=Q $1 5. Ng5+ Kxe5 6. Nf7+ Ke4 7. Ng5+ fxg5 1/2-1/2
+
+[Event "Shakhmatny Listok#301"]
+[Date "1928.08.25"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/6p1/P1P5/7r/1N3P2/8/7P/5b1K w - - 0 1"]
+
+1. c7 $1 Bh3 (Rc5 2. a7) 2. f5 $1 (2. a7 $2 Ra5) Bxf5 $1 3. a7 Be4+ (Rg5 4. a8=Q+) 4. Kg1 Rg5+ 5. Kf2 $1 (5. Kf1 $2 Rf5+ 6. Ke2 Rf8) Rc5 (Rf5+ 6. Ke3 Rf8 7. Kxe4) 6. Nc6 $1 Bxc6 (Rxc6 {<main>} 7. a8=Q+) 7. c8=Q+ 1-0
+
+[Event "L'Échiquier#041"]
+[Source "L'Échiquier/9"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1R6/8/8/kp2R1pK/6p1/8/3q4/8 w - - 0 1"]
+
+1. Rexb5+ $1 Ka6 (Ka4 {<main>} 2. Rb2 Qd5 $1 3. Ra8+ $1 Qxa8 4. Ra2+ Kb3 5. Rxa8) 2. Rb2 Qd5 $1 3. Ra2+ $1 Qxa2 4. Ra8+ Kb7 5. Rxa2 1-0
+
+[Event "L'Échiquier#006"]
+[Source "L'Échiquier/2"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7P/8/3P4/1k6/4P3/K1n3b1 w - - 0 1"]
+
+1. e3 $1 Bxe3 2. h7 Bxd4+ 3. Kb1 Na2 4. h8=Q Nc3+ (Bxh8) 5. Ka1 Bxh8 1/2-1/2
+
+[Event "5.p Casino di Saragossa#20"]
+[Source "Casino di Saragossa/2"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/B2N4/p7/1q6/1k1p4/3P4/1PP5/K7 w - - 0 1"]
+
+1. Bc5+ $1 Ka5 $1 (Qxc5 2. Nxc5 Kxc5 3. Ka2) (Ka4 2. Nb6+ Ka5 3. b4+) 2. b4+ Ka4 3. Nb6+ Ka3 4. Nc4+ Ka4 5. Nb2+ Ka3 6. Bd6 $1 Qc6 (a5 7. bxa5+) 7. b5+ Qxd6 8. Nc4+ Kb4 9. Nxd6 1-0
+
+[Event "The Gambit (c)"]
+[Source "The Gambit/3 (c): Garcia=M Krug=P Estudios Artisticos de Ajedrez - XIII-23 2014."]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5p2/2P1k3/p7/P2K3b/5R2/5Pp1/8 w - - 0 1"]
+
+1. c7 $1 Kd7 2. Rxf7+ Kc8 3. Rf8+ Kxc7 4. Rg8 Bxf2+ 5. Kc4 g1=Q 6. Rxg1 Bxg1 7. Kb5 Bb6 8. Ka6 Kc6 1/2-1/2
+
+[Event "4.hm Troitzky ty Zadachy i Etyudy#51"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r7/1P2pK2/p2kP2q/8/1p6/PPp5/2Pn1B2/8 w - - 0 1"]
+
+1. Bg3+ $1 Kc5 2. Bf2+ Kb5 3. a4+ Ka5 4. bxa8=Q Qh7+ 5. Ke8 Qh8+ 6. Kd7 Qxa8 7. Kc7 Nc4 8. Bb6+ Nxb6 1/2-1/2
+
+[Event "L'Échiquier#045"]
+[Source "L'Échiquier/10"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3rP3/1k6/4K3/8/4N3/8 w - - 0 1"]
+
+1. Nd4+ $1 Kc5 2. e7 Re6+ $1 (Rxd4+ 3. Ke3 Rd1 4. Ke2) 3. Nxe6+ Kd6 4. e8=R $1 (4. e8=Q $2) 1-0
+
+[Event "L'Échiquier#47"]
+[Source "L'Échiquier/11"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1rP5/k7/1NK5/8/8/8 w - - 0 1"]
+
+1. c7 $1 Rc6+ 2. Nxc6+ Kb6 3. c8=R $1 1-0
+
+[Event "3.p 64#352"]
+[Date "1929.02.20"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3nk3/2p3R1/4P3/6K1/4bp2/4P2p/8/8 w - - 0 1"]
+
+1. Kf6 $1 Nxe6 2. Kxe6 Kf8 $1 3. Rf7+ Kg8 $1 4. Rxf4 h2 5. Rg4+ Kf8 6. Rf4+ Ke8 $1 7. Rh4 h1=Q (h1=R 8. Rxe4) 8. Rh8+ $1 Qxh8 1/2-1/2
+
+[Event "Shakhmatny Listok#350"]
+[Date "1929.03.10"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1P1p2p1/r2p1R2/5p1P/1p6/5p2/5P1k/5K2 w - - 0 1"]
+
+1. Ke1 $1 Rb6 2. h6 $1 gxh6 3. Rxh6+ Kg2 4. Rxd6 Rxb7 5. Rxd7 Rb8 6. Rd8 Rb6 7. Rd6 Rb5 8. Rd5 Rxd5 1/2-1/2
+
+[Event "4.hm 64#359"]
+[Date "1929.03.20"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2b5/1pPp4/PP6/8/p7/6pp/Nn2k1P1/6K1 w - - 0 1"]
+
+1. a7 $1 h2+ $1 2. Kh1 Nd3 (Ke3 3. Nc3 $1 Nd3 4. Nd1+ Ke2 5. a8=Q Nf2+ 6. Nxf2 gxf2 7. Qxc8 f1=Q+ 8. Kxh2 Qf4+ 9. g3) (Nd1 {<main>} 3. Nc3+ $1 Nxc3 4. a8=N $1 Nd1) 3. Nc1+ $1 Nxc1 4. a8=N $1 (4. a8=Q $2 Nd3) Nd3 1/2-1/2
+
+[Event "4.c Národní Listy#099"]
+[Date "1929.09.28"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/3n4/3N4/8/8/7b/4R3/4K3 w - - 0 1"]
+
+1. Re8+ $1 Kg7 2. Re3 Bg4 3. Rg3 Nf6 (Ne5 {<main>} 4. Nc4 $1 Nxc4 5. Rxg4+ Kf6 6. Rxc4) 4. Ne4 $1 Nxe4 5. Rxg4+ Kf6 6. Rxe4 1-0
+
+[Event "64#410 (c)"]
+[Source "(c): 1982."]
+[Date "1929.10.20"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K1k/1p1q4/7N/1p5P/pP3P2/8/P7/5B2 w - - 0 1"]
+
+1. Nf7+ $1 Kh7 2. Bh3 $1 Qd5 (Qxh3 3. Ng5+ Kh6 4. Nxh3) 3. Bg4 b6 4. Bf3 $1 Qc4 (Qxf3 5. Ng5+ Kh6 6. Nxf3) 5. Be4+ $1 Qxe4 6. Ng5+ Kh6 7. Nxe4 1-0
+
+[Event "64#410 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - IV-39 2012."]
+[Date "1929.10.20"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K1k/pp1q4/7N/1p5P/1P3P2/3p4/3P4/5B2 w - - 0 1"]
+
+1. Nf7+ $1 Kh7 2. Bh3 $1 Qd5 (Qxh3 3. Ng5+ Kh6 4. Nxh3) 3. Bg4 b6 4. Bf3 $1 Qc4 (Qxf3 5. Ng5+ Kh6 6. Nxf3) 5. Be4+ Qxe4 6. Ng5+ Kh6 7. Nxe4 1-0
+
+[Event "64#410 (c)"]
+[Source "(c): Benko=P Chess Life & Review=4 4/1994."]
+[Date "1929.10.20"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K1k/1p1q4/1p6/6NP/1P3P2/8/P7/5B2 w - - 0 1"]
+
+1. Nf7+ $1 Kh7 2. Bh3 $1 Qb5 (Qxh3 3. Ng5+ Kh6 4. Nxh3) 3. Ng5+ $1 Kh6 (Kh8 4. a3 $1) 4. Bg4 $1 Qd5 (Qxb4+ 5. Kg8 Qxf4 6. Nf7+) 5. Nf7+ Kh7 6. Bf3 $1 Qd3 (Qxf3 7. Ng5+ Kh6 8. Nxf3) 7. Be4+ $1 Qxe4 8. Ng5+ Kh6 9. Nxe4 1-0
+
+[Event "2.p 64#416 (c)"]
+[Date "1929.11.20"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/8/1K6/8/6R1/3b4/6B1/4b3 w - - 0 1"]
+
+1. Be4 $1 Bf2+ (Be2 2. Bc6+ Kf7 3. Re4 Bf2+ 4. Kb7 Bd3 5. Rf4+) (Bf1 2. Bc6+ Kd8 3. Rg8+ Ke7 4. Re8+ Kd6 5. Rxe1) 2. Kc7 Bxe4 (Bb5 {<main>} 3. Rg5 Bc4 4. Re5+ Kf7 5. Rf5+) 3. Rxe4+ Kf7 4. Rf4+ Ke6 5. Rxf2 1-0
+
+[Event "Shakhmatny Listok#409 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - IV-35 2012."]
+[Date "1929.12.10"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p1p2p1/2pPp3/P5p1/3P2P1/3P2P1/6P1/k2K4 w - - 0 1"]
+
+1. Kc2 $1 Ka2 $1 2. Kc3 Ka3 3. Kc4 Ka4 4. a6 $1 bxa6 5. Kc5 Ka5 $1 6. d5 $1 exd5 (cxd5 { <main>} 7. d4 g6) 7. d4 g6 1/2-1/2
+
+[Event "L'Échiquier#065"]
+[Source "L'Échiquier/7"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4P3/3p1p2/3P1P1p/5K1p/4pP1P/3k4 w - - 0 1"]
+
+1. e7 $1 Kd2 $1 (e1=Q 2. e8=Q Qxe8) 2. e8=Q e1=N+ $1 3. Qxe1+ Kxe1 4. Ke3 Kf1 5. Kf3 Kg1 6. Ke2 Kh1 $1 7. Ke1 $1 Kxh2 8. Kf1 Kh1 9. f3 $1 1/2-1/2
+
+[Event "L'Échiquier#064"]
+[Source "L'Échiquier/7"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/5p2/5p2/7P/8/3K4/6k1 w - - 0 1"]
+
+1. Ke3 $1 Kg2 $1 2. Kf4 $1 (2. h5 $2 Kg3 3. h6 f4+ 4. Ke2 Kg2) Kh3 3. h5 Kh4 4. h6 Kh5 5. h7 Kg6 6. h8=R $1 (6. h8=Q $2) 1-0
+
+[Event "1.p Hamburger Arbeiterszeitung"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2B5/8/5B2/k7/P4n2/2Kp1rP1/8 w - - 0 1"]
+
+1. Bd7+ $1 (1. gxf3 $2 d1=Q+ $1 2. Kxd1 Rxf3) Kxa3 2. Bd6+ Ka2 3. Be6+ Ka1 4. gxf3 d1=Q+ $1 5. Kxd1 Rxf3 6. Ke2 $1 Rc3 7. Be5 Kb2 8. Kd2 Kb1 9. Kxc3 (9. Bxc3 $2) 1-0
+
+[Event "Shakhmatny Listok#433"]
+[Date "1930.02.25"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p6/8/8/3bP3/2k5/8/KB6 w - - 0 1"]
+
+1. Ka2 $1 (1. Ba2 $2 Kc2#) Be5 $1 2. Ka3 $1 b5 $1 3. Ka2 (3. Ba2 $2 Bd6#) (3. Bc2 $2 Bd6+ 4. Ka2 Kxc2) b4 4. Bc2 $1 Kxc2 1/2-1/2
+
+[Event "Shakhmatny Listok#447"]
+[Date "1930.05.10"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/K1p2p2/4b2P/1p6/4Q3/5p1k/P4Pq1/8 w - - 0 1"]
+
+1. h7 $1 Qxf2+ 2. Ka8 Qxa2+ 3. Kb8 Qb2 (Qa1 4. Qxf3+ Kh4 5. Qh1+ $1 Qxh1 6. h8=Q+) 4. Qxf3+ Kh4 $1 5. Qf4+ $1 Kh5 6. Qh2+ $1 Qxh2 7. h8=Q+ 1-0
+
+[Event "6.hm Shakhmatny Listok#497"]
+[Date "1930.12.30"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p6/8/8/4p3/1k1P4/5b2/KB6 w - - 0 1"]
+
+1. Ba2+ $1 Kc2 $1 2. Bb1+ Kc3 $1 3. dxe4 Bd4 4. Ka2 $1 (4. Ba2 $2 Kc2#) Be5 $1 5. Ka3 $1 b5 $1 6. Ka2 $1 (6. Ba2 $2 Bd6#) (6. Bc2 $2 Bd6+ $1) b4 7. Bc2 $1 Kxc2 1/2-1/2
+
+[Event "5.p Shakhmaty v SSSR#558 (v)"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/5p2/1P3P1R/r7/1p1p2p1/8/4P1P1/7K w - - 0 1"]
+
+1. Rh8+ $1 Kd7 2. b7 g3 3. Ra8 $1 (3. Rd8+ $2 Kc6 4. Ra8 Rh5+ 5. Kg1 Kxb7) Rc5 4. Rd8+ $1 Ke6 (Kxd8 5. b8=Q+ Kd7 6. Qxg3) (Kc6 5. Rc8+) 5. Rd6+ $1 (5. Rc8 $2 Ra5 6. Ra8 (6. Rc6+ Kd5 7. Rd6+ (7. Rc1 Rb5) Kc5) Rc5 7. Rc8 Ra5) Ke5 (Kxd6 6. b8=Q+ Ke6 (Rc7 7. Qxb4+) 7. Qxg3) (Kf5 6. Rd5+ $1 Rxd5 7. b8=Q) 6. Rc6 $1 Rb5 $1 (Rxc6 7. b8=Q+ Ke6 (Rd6 8. Qxb4) 8. Qxg3) 7. Rc5+ $1 Rxc5 8. b8=Q+ 1-0
+
+[Event "64#515"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/1P3P2/R1K3p1/p3p2N/1kb5 w - - 0 1"]
+
+1. Rb3+ $1 Bb2+ (Ka1 2. Nf3 g2 3. Ne1 g1=Q 4. Nc2#) 2. Rxb2+ Kc1 $1 3. Rc2+ Kb1 (Kd1 4. Rxa2 e1=Q+ 5. Kd3) 4. Rxe2 a1=Q+ 5. Kb3 1-0
+
+[Event "Shakhmaty v SSSR#633"]
+[Date "1933.06.30"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/k6p/8/K5P1/6p1/6P1/1p2p2b/R1R5 w - - 0 1"]
+
+1. Kb4+ $1 Kb6 2. Kc3 bxc1=Q+ 3. Rxc1 Bxg3 4. Rb1+ $1 (4. Kd2 $2 Bf4+) Kc5 5. Kd2 e1=Q+ 6. Rxe1 Bxe1+ 7. Kxe1 Kd4 8. Kf2 Ke4 9. Kg3 Kf5 10. Kh4 Kf4 11. g6 hxg6 1/2-1/2
+
+[Event "3.p Communist Party Congress ty 64 (v)"]
+[Source "64/3"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/5r2/2K2P1p/6R1/k3p3/4bB2 w - - 0 1"]
+
+1. Rg2 $1 Rxf4+ 2. Kd3 Rxf1 3. Kxe2 Rh1 4. Kf3+ Ka3 5. Ra2+ Kxa2 6. Kg2 1/2-1/2
+
+[Event "4.p Trud"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "Herbstman, A"]
+[Black " Korolkov, V."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5Pk1/8/2r1P3/5b2/3K1n2/3P3R/8 w - - 0 1"]
+
+1. Rh7+ $1 Kf8 2. Rh8+ (2. Ke4 $2 Ng5+ $1) Kxf7 3. e6+ $1 (3. Ke4 $2 Nxe5 4. Kxf4 (4. d4 Rc4 5. Kd5 Ng6 6. Rh7+ Kg8) Ng6+ $1) Kxe6 (Ke7 4. Ke4 Ne5 5. Rh7+) 4. Ke4 $1 Ne5 $1 5. d4 $1 (5. Kxf4 $2 Ng6+) Rc4 $1 6. Rh6+ $1 Bxh6 1/2-1/2
+
+[Event "1.p Schackvärlden"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5p2/1p2pP2/7r/4p3/N2P3p/p2BK2P/kr6 w - - 0 1"]
+
+1. Bc3+ $1 Rb2+ 2. Kd1 exd3 (Ra5 3. Kc1) 3. Nc2+ $1 dxc2+ 4. Kc1 Rhb5 5. Bd4 R5b4 $1 6. Bc3 $1 (6. Be5 $2 R4b3 $1 7. Bd4 Rb5 $1 8. Bc3 e5) R4b3 7. Be5 $1 (7. Bd4 $2 Rb5) b5 (Rb5 {<main>} 8. Bd4 $1 e5 9. Bc3 e4 10. Bd4 e3 11. Bxb2+ Rxb2) 8. Bd4 b4 9. Be5 Rc3 10. Bxc3 bxc3 1/2-1/2
+
+[Event "Ceskoslovensky Sach#034"]
+[Source "Ceskoslovensky Sach/8-9"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p3p1p/7P/5P2/3P1p1k/4P3/1K1pP2P/8 w - - 0 1"]
+
+1. Kc2 $1 fxe3 2. d5 Kg5 3. d6 Kf6 4. Kd1 b6 (b5 5. h4 $1) 5. h3 $1 (5. h4 $2 b5) b5 6. h4 b4 7. h5 b3 8. d7 Ke7 9. f6+ Kxd7 1/2-1/2
+
+[Event "Ceskoslovensky Sach#033"]
+[Source "Ceskoslovensky Sach/8-9"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/2k5/5Rp1/p1K1p1p1/P3p1P1/5P2/5r2 w - - 0 1"]
+
+1. Rc5+ $1 Kd6 (Kb6 {<main>} 2. Rb5+ Ka6 3. fxe3 Rc1+ 4. Kb4 Rb1+ 5. Kxa4 Rxb5) 2. Rd5+ Ke6 3. fxe3 Rc1+ 4. Kd4 Rd1+ 5. Kxe4 Rxd5 1/2-1/2
+
+[Event "64#56"]
+[Source "64/11"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6p1/8/6K1/6P1/2b4B/7k w - - 0 1"]
+
+1. Kh3 $1 Be4 2. g4 Bg2+ 3. Kg3 g5 4. Bg1 Kxg1 1/2-1/2
+
+[Event "Magyar Sakkvilág#433 (v)"]
+[Source "Magyar Sakkvilág/12"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2B5/8/8/6P1/p5P1/P2kP3/pP6/3K4 w - - 0 1"]
+
+1. Bf5+ $1 Kxe3 2. Kc1 Kf4 3. Bb1 a1=Q 4. g6 Kg5 $1 5. g7 Kh6 $1 6. g8=N+ $1 (6. g8=Q $2 Qxb1+ 7. Kxb1) (6. g8=B $2 Kg5 7. Be6 Kf4 8. Bd7 Kg5 9. Bxa4 Kxg4 10. Bb3 Kf4 11. B3a2 Ke5) 1-0
+
+[Event "Magyar Sakkvilág#433"]
+[Source "Magyar Sakkvilág/12"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4B3/8/8/6P1/p5P1/P2kP3/pP6/3K4 w - - 0 1"]
+
+1. Bg6+ $1 Kxe3 2. Kc1 Kf4 (a1=Q+ 3. Bb1) 3. Bb1 a1=Q 4. g6 Kg5 $1 5. g7 Kh6 $1 6. g8=N+ $1 (6. g8=Q $2 Qxb1+ 7. Kxb1) (6. g8=B $2 Kg5 7. Be6 Kf4 8. Bd7 Kg5 9. Bxa4 Kxg4 10. Bb3 Kf4 11. B3a2 Ke5) 1-0
+
+[Event "Shakhmaty v SSSR#764"]
+[Source "Shakhmaty v SSSR/4"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p2K3/5P2/b1p1p3/3Pk3/8/4B3/8 w - - 0 1"]
+
+1. d5 $1 Kxd5 2. Bc4+ $1 Kc6 3. f7 Bc7 4. Bb5+ $1 Kd5 5. Kd7 Bd6 6. Bc4+ $1 Kxc4 7. Kxd6 1-0
+
+[Event "64 (v)"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/8/pK1P4/8/8/8/2p4p/8 w - - 0 1"]
+
+1. d7 $1 c1=Q 2. d8=Q+ Qc8 3. Qd6+ Ka8 4. Qd5+ Kb8 5. Qe5+ Ka8 6. Qe4+ Kb8 7. Qf4+ Ka8 8. Qf3+ Kb8 9. Qg3+ Ka8 10. Qg2+ Kb8 11. Qxh2+ Ka8 12. Qg2+ Kb8 13. Qg3+ Ka8 14. Qf3+ Kb8 15. Qf4+ Ka8 16. Qe4+ Kb8 17. Qe7 1-0
+
+[Event "Schackvärlden#161 (c)"]
+[Source "Schackvärlden/6 (c): Garcia=M Estudios Artisticos de Ajedrez - IV-33 2012."]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3R4/1PpP1PP1/3p1pP1/k3p3/8/7p/6pP/b4bK1 w - - 0 1"]
+
+1. Ra8+ $1 Ba6 $1 2. Rxa6+ $1 Kxa6 3. b8=N+ Kb5 4. Nc6 Kxc6 5. d8=N+ Kd5 6. Ne6 Kxe6 7. f8=N+ Kf5 8. Ne6 Kxe6 9. g8=Q+ 1-0
+
+[Event "Schackvärlden#154"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/2p3pP/2P1B1Pp/2PpK2p/3P3P/8/8/8 w - d6 0 1"]
+
+1. cxd6 $1 (1. Bg4 $2 hxg4 2. Kf4 g3 3. Kf3 g2 4. Kf2 g1=Q+ 5. Kxg1 h5 6. Kf2) cxd6+ 2. Kf4 (2. Ke4 $2 d5+ 3. Kf4) d5 3. Bg4 hxg4 4. c7 (4. Kxg4 $2 h5+ 5. Kg3) 1-0
+
+[Event "Shakhmaty v SSSR#828"]
+[Source "Shakhmaty v SSSR/10"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "N7/p2p4/2p4K/4Pp2/5P1k/pP5P/2P2P2/6N1 w - - 0 1"]
+
+1. e6 $1 dxe6 2. Nc7 a2 3. Nxe6 a1=Q 4. Nd4 $1 Qxd4 (Qxg1 5. Nf3+) 5. Nf3+ 1-0
+
+[Event "Schackvärlden#157"]
+[Source "Schackvärlden/5"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5K1k/3p4/3P4/8/2q4p/5p1P/5P2/6R1 w - - 0 1"]
+
+1. Rg4 $1 Qc8+ 2. Kf7 Qd8 3. Rg6 Kh7 4. Rh6+ Kxh6 1/2-1/2
+
+[Event "5.hm Tschigorin MT (c)"]
+[Source "(c): Cheron=A Journal de Genève=253 29-10-1963."]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2rp4/4p3/8/1k2p3/2R2R2/2p1p3/2K5 w - - 0 1"]
+
+1. Rb3+ $1 Kc4 $1 (Ka4 2. Ra3+ Kb4 3. Rfb3+ Kc4 4. Re3) 2. Rfc3+ $1 (2. Rfe3 $2 e1=Q+ 3. Rxe1 Kxb3) (2. Rbc3+ $2 Kd4) Kd4 3. Re3 Rb7 $1 4. Ra3 $1 (4. Rxb7 $2 Kxe3 5. Rb3+ Kf2) (4. Rbc3 $2 e1=Q+ 5. Rxe1 Kxc3) Ra7 (Rb1+ 5. Kxc2 e1=Q) 5. Rab3 $1 (5. Rac3 $2 e1=Q+ 6. Rxe1 Kxc3) Ra1+ 6. Kxc2 Ra2+ (e1=Q 7. Rxe1) 7. Kb1 $1 (7. Kc1 $2 d5 $1 8. Kb1 Rd2 9. Kc1 Rd1+ 10. Kc2 e1=Q 11. Rxe1 Rxe1 12. Kd2 Rh1 13. Rd3+ Ke5) Rd2 8. Kc1 Rd1+ (Rd3 9. Rbxd3+ exd3 10. Kd2 Kc4 11. Re4+) 9. Kc2 e1=Q 10. Rxe1 Rxe1 11. Kd2 $1 Rh1 (Kc4 12. Rb7 Rh1 13. Rxd7) 12. Rd3+ $1 exd3 (Ke5 13. Rxd7) 1/2-1/2
+
+[Event ".c Shakhmaty v SSSR#076"]
+[Source "Shakhmaty v SSSR/2"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1N6/3p1pP1/6p1/r5p1/P2P4/2k5/2r5/K1R5 w - - 0 1"]
+
+1. Kb1 $1 Rxc1+ 2. Kxc1 Rxa4 3. Kd1 Rxd4+ 4. Ke2 $1 Re4+ 5. Kf3 Re8 6. Nxd7 Rg8 7. Nf6 $1 Rxg7 8. Kg4 Kd4 9. Kxg5 Ke5 10. Kh6 Kxf6 1/2-1/2
+
+[Event "Shakhmaty v SSSR#087"]
+[Source "Shakhmaty v SSSR/5"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/k7/Pp6/Pp6/1p6/p3P3/K7 w - - 0 1"]
+
+1. e4 $1 Kxa5 (bxa4 2. e5) 2. e5 Kxa4 (Kb6 3. e6 Kc7 4. axb5) 3. Kb2 $1 (3. e6 $2 Ka3) a1=Q+ 4. Kxa1 Ka3 5. e6 b2+ 6. Kb1 b3 7. e7 b4 8. e8=R $1 (8. e8=Q $2) 1-0
+
+[Event "Vecherni Leningrad"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "Herbstman, A"]
+[Black " Korolkov, V."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k1br/p3pN1p/1P6/4P3/8/8/K7/8 w - - 0 1"]
+
+1. b7 $1 (1. e6 $2 axb6 2. Nxh8 Bxe6+) Bxf7+ 2. e6 $1 (2. Ka1 $2 Kd7 3. b8=Q Rxb8 4. e6+ Kxe6 (Bxe6 $2)) Bxe6+ 3. Ka1 $1 Kf7 4. b8=Q Rxb8 (Rc8 5. Qxa7) 1/2-1/2
+
+[Event "Shakhmaty v SSSR#37"]
+[Source "Shakhmaty v SSSR/12"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7R/8/8/p2p4/K7/P2P1p2/p7/rk6 w - - 0 1"]
+
+1. Kb3 $1 a4+ $1 (Kc1 2. Rh1+ Kd2 3. Rxa1 f2 4. Rxa2+ Ke3 5. Ra1 Ke2 6. Ra2+ Kf3 7. Ra1 Kg2 8. Ka4 f1=Q 9. Rxf1 Kxf1 10. Kxa5 Ke2 11. Kb4 Kxd3 12. a4) 2. Kc3 d4+ 3. Kd2 $1 Kb2 4. Rb8+ Kxa3 5. Rb3+ $1 Kxb3 (axb3) 1/2-1/2
+
+[Event "4.hm Tschigorin MT Shakhmaty v SSSR"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "Herbstman, A"]
+[Black " Korolkov, V."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/pp1P3N/kb4p1/1p1P2P1/1P1p4/3Pp3/8/8 w - - 0 1"]
+
+1. Nf8 $1 (1. Nf6 $2 e2 2. Ne4 e1=Q 3. d8=Q Qxe4 $1 4. Qxb6+ Kxb6 5. dxe4 d3) e2 (Bd8 2. Ne6 e2 3. Nxd8 e1=Q 4. Ne6 $1 Qe5+ 5. Nc7+ $1 Kb6 6. d8=Q) 2. Ne6 e1=Q 3. d8=Q $1 (3. Nc5+ $2 Bxc5 4. d8=Q (4. bxc5 Qe7 5. Kc8 Qxc5+ 6. Kd8 Qxd5) Qe5+ 5. Ka8 Bxb4) (3. Nc7+ $2 Bxc7+ 4. Kxc7 Qc1+ 5. Kb8 Qxg5 6. Kc7 Qxd5 7. d8=Q Qxd8+ 8. Kxd8 g5) Qxe6 $1 (Bxd8 4. Nc5+ Kb6 5. Nd7+ Ka6 6. Nc5+) (Qe5+ 4. Nc7+ $1 Bxc7+ 5. Qxc7 $1 Qe8+ (Qxd5 6. Qa5#) (Qxc7+ 6. Kxc7) 6. Qc8 Qe5+ 7. Qc7) 4. Qxb6+ $1 (4. dxe6 $2 Bxd8 5. Kc8 Bxg5) Qxb6 $1 (axb6 5. dxe6) (Kxb6 5. dxe6 Kc6 6. Kxa7 Kd6 7. Kxb7 Kxe6 8. Kc6 Kf5 9. Kxb5 Kxg5 10. Kc6) 5. Kc8 $1 Qd6 (Qc6+ 6. dxc6 bxc6 7. Kc7 $1 c5 8. bxc5 b4 9. c6 b3 10. Kd6 b2 11. c7 b1=Q 12. c8=Q+ Qb7 13. Qc4+) (Qa5 6. bxa5 b4 7. d6 b3 8. d7 b2 9. d8=Q b1=Q 10. Qxd4) 1/2-1/2
+
+[Event "Shakhmaty v SSSR#33"]
+[Source "Shakhmaty v SSSR/9"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4B3/8/6P1/3b3r/1pR5/1kp5/1P6/1RK5 w - - 0 1"]
+
+1. Rd4 $1 (1. bxc3+ $2 Kxc4 2. cxb4 Kc3 $1) Rh1+ (c2 2. Rd3+ Kc4 3. Kxc2 Rh2+ (b3+ 4. Kd2 Rh2+ 5. Ke3 Rh3+ 6. Kf4) 4. Rd2 Be4+ 5. Kc1 Rh1+ 6. Rd1 Rxd1+ 7. Kxd1 Bxb1 8. g7 Bh7 9. Bf7+) 2. Rd1 Rxd1+ 3. Kxd1 c2+ 4. Kc1 Ka2 $1 (cxb1=Q+ 5. Kxb1 Be4+ 6. Ka1) 5. Kxc2 (5. Ra1+ $2 Kxa1 6. Kxc2 (6. Bf7 Bb3 7. Bxb3) (6. Ba4 b3 7. Bb5 Be4 8. g7 Bd5 $1) Be4+ 7. Kc1 (7. Kb3 Bxg6 8. Bxg6) Bxg6 8. Bxg6 b3) Be4+ 6. Kc1 (6. Kd2 $2 Bxb1 $1 (Kxb1 $2 7. b3) 7. g7 Bh7 8. Bg6 Bg8 9. Kc2 Bb3+ (b3+ $2 10. Kc3)) Bxg6 $1 (Bxb1 7. g7 Bh7 8. Bf7+ b3 9. Bd5 Ka1 10. Bxb3) 7. Bxg6 b3 $1 8. Bc2 $1 bxc2 9. Ra1+ $1 (9. Kxc2 $2) 1-0
+
+[Event "4.hm Fizkultura i Sport Committee Uzbek"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6P1/5r2/1p1p4/kP1Pp3/1pB1Pp2/pP1R1P2/7K w - - 0 1"]
+
+1. Rd1 $1 Rh6+ (Rg6 2. Be1 Rxg7 3. Rc1) 2. Kg1 Rg6+ 3. Kf1 Rxg7 4. Ke1 $1 Rg1+ 5. Kd2 Rg2 $1 6. Ke1 $1 (6. Rf1 $2 Rh2 $1 (Rxf2+ 7. Rxf2 a1=Q 8. Rf1 Qxf1)) Rh2 $1 7. Rc1 $1 (7. Ra1 $2 Rh1+ 8. Kd2 Rb1 $1 9. Rxb1 axb1=N+ $1 10. Kc1 Nxc3) Rh1+ 8. Kd2 Rxc1 9. Kxc1 a1=Q+ (a1=N 10. Kd2 Nc2 11. Kc1 Nxb4 12. Bxb4 Kxb4 13. Kd1 Kc4 14. Kd2 b4 15. Ke1 Kd3 16. Kd1) 10. Kd2 Qa2 11. Kc1 $1 (11. Kd1 $2 Qb1+) 1/2-1/2
+
+[Event "Shakhmaty v SSSR#42"]
+[Source "Shakhmaty v SSSR/11"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2P5/R3pp2/8/3Kp3/5p1q/5P2/3k4 w - - 0 1"]
+
+1. c8=Q $1 e5+ 2. Ke3 Qxc8 3. Rd6+ Ke1 (Kc2 4. Rc6+ Qxc6) 4. Rc6 $1 Qd7 5. Rc1+ Qd1 6. Rb1 $1 f5 (Qxb1) 7. Rxd1+ Kxd1 1/2-1/2
+
+[Event "Kazachstan Pravda"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2R5/8/1p2q3/2p5/2p5/K1P5/8/k7 w - - 0 1"]
+
+1. Re8 $1 Qf5 (Qxe8) 2. Re1+ Qb1 3. Rd1 $1 b5 (Qxd1) 4. Rxb1+ Kxb1 1/2-1/2
+
+[Event "Shakhmaty v SSSR#05 (c)"]
+[Source "Shakhmaty v SSSR/2 (c): Garcia=M Estudios Artisticos de Ajedrez - IV-30 2012."]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3B3k/6NB/8/1n6/2N2pnP/1K3b2/8/8 w - - 0 1"]
+
+1. Ne6 $1 Bd5 2. Nxf4 (2. Ng5 $2 Nd4+ 3. Kc3 Ne2+ 4. Kd3 Bxc4+ 5. Kxc4 f3) Bxc4+ 3. Kxc4 Nd6+ 4. Kd5 Nf7 5. Bf5 Ne3+ 6. Ke4 Nxf5 7. Bf6+ Ng7 8. Nh5 Nd6+ 9. Ke5 Nde8 10. Bxg7+ Nxg7 11. Nf6 Nh5 (Ne8 {<main>} 12. Nxe8) 12. Nxh5 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/4 also 1.hm Platov MT Problem=87-90 Problem/4 1963."]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k4P2/8/Pp4P1/1P6/8/5r2/7K w - - 0 1"]
+
+1. g6 $1 Ka6 $1 2. Kg1 $1 (2. g7 $2 Rxf7 3. g8=Q Rh7+ 4. Kg2 (4. Qxh7) Rg7+ 5. Qxg7) Rf6 $1 3. Kh2 $1 Rf3 4. Kg2 (4. g7 $2 Rxf7 5. g8=Q Rh7+ 6. Kg3 (6. Qxh7) Rg7+ 7. Qxg7) Rf6 5. Kh3 (5. g7 $2 Rxf7 6. g8=Q Rg7+ 7. Qxg7) Rf4 6. Kg3 (6. g7 $2 Rxf7 7. g8=Q Rh7+ 8. Kg4 (8. Qxh7) Rg7+ 9. Qxg7) Rf6 7. Kh4 (7. g7 $2 Rxf7 8. g8=Q Rg7+ 9. Qxg7) Rf5 8. Kg4 (8. g7 $2 Rxf7 9. g8=Q Rh7+ 10. Kg5 (10. Qxh7) Rg7+ 11. Qxg7) 1-0
+
+[Event "Shahmati Sahs"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2K5/8/kP4P1/8/8/7p/3r3P/8 w - - 0 1"]
+
+1. g7 $1 Rc2+ $1 (Rg2 2. b7 Rxg7 3. b8=Q Rg8+ 4. Kc7) 2. Kb8 Rg2 3. b7 Rxg7 4. Ka8 Rg8+ (Rxb7) 5. b8=Q Rxb8+ 6. Kxb8 Kb6 7. Ka8 $1 Kc6 8. Ka7 $1 1/2-1/2
+
+[Event "Shakhmaty (Riga) (c)"]
+[Source "(c): Popov=L 64 Shakhmatnoye Obozrenye=3(931) 3/1995."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/8/2RK2p1/8/8/3ppP2/8/8 w - - 0 1"]
+
+1. Ke6 $1 Kf8 2. Kf6 Kg8 3. Kxg6 Kf8 4. Kf6 Kg8 5. Rc8+ Kh7 6. Rc7+ Kh6 (Kg8 7. Rg7+ Kh8 8. Kf7 e2 9. Rg5) 7. Rb7 (7. Rc1 $2 Kh7 8. f4 d2 9. Rg1 e2 10. Kf7 d1=Q) d2 (e2 8. Re7 d2 9. Rxe2 d1=Q 10. Rh2#) 8. Rd7 e2 9. Rxd2 e1=Q 10. Rh2+ 1-0
+
+[Event "3.p Revista de Romana de Sah#0467"]
+[Source "Revista de Romana de Sah/8"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1rP5/k7/1N2b3/1K6/3N4/8 w - - 0 1"]
+
+1. Nc4+ $1 Kb5 2. Nd6+ Ka5 3. c7 Bd5+ 4. Nc4+ Bxc4+ 5. Kxc4 Rc6+ (Rxb4+ {<main>} 6. Kd3 $1 (6. Kc3 $2 Rb6 $1 7. c8=Q Rc6+ 8. Qxc6)) 6. Nxc6+ Kb6 7. c8=R $1 (7. c8=Q $2) 1-0
+
+[Event "Izbrannye Etyudy (Herbstmann)#XXa"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5B1p/8/3K4/1P6/8/n3k2P/8 w - - 0 1"]
+
+1. b5 $1 Nc3+ 2. Ke5 $1 Nxb5 3. Bc4+ Kf2 4. Bxb5 Kg2 5. h4 Kg3 6. h5 Kg4 7. Be2+ $1 (7. Be8 $2 Kg5 8. Ke6 Kh6) Kg5 8. Ke6 Kh6 9. Kf7 1-0
+
+[Event "Shakhmaty v SSSR#18"]
+[Source "Shakhmaty v SSSR/4"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Herbstman, Alexander Osipowitsj"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/6p1/3RK1P1/p3p3/5k2/8 w - - 0 1"]
+
+1. Rd3 $1 e2 2. Rf3+ Kg2 3. Re3 Kf1 4. Rf3+ Kg1 5. Rg3+ Kh1 6. Rh3+ $1 (6. Kf3 $2 a2 (e1=Q $2 7. Rh3+ Kg1 8. Rh1+ Kxh1)) Kg1 7. Rg3+ Kf1 8. Rf3+ 1/2-1/2

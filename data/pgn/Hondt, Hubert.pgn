@@ -1,0 +1,26 @@
+[Event "British Chess Federation ty#85"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Hondt, Hubert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/KP6/3p4/8/7P/6k1 w - - 0 1"]
+
+1. Kb4 $1 Kf2 2. Kc4 Ke3 3. b6 d3 4. b7 d2 5. b8=Q d1=Q 6. Qe5+ Kf2 7. Qg3+ Kf1 8. Qd3+ 1-0
+
+[Event "The Chess World#01"]
+[Source "The Chess World/10"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Hondt, Hubert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/5p2/1Bk5/4p3/p7/8/5Q2/1q6 w - - 0 1"]
+
+1. Qc5+ $1 Kb7 2. Qc7+ Ka6 3. Qc8+ Kb5 4. Qc5+ Ka6 5. Qa5+ Kb7 6. Qa7+ Kc6 7. Be3 Qd3 (Qf5 8. Qb6+ Kd5 9. Qc5+ Ke4 10. Qc2+) 8. Qc5+ Kb7 9. Qb6+ Kc8 10. Qc6+ Kb8 11. Bb6 Qa6 12. Bc7+ Ka7 13. Bb8+ Kxb8 14. Qxa6 1-0

@@ -1,0 +1,80 @@
+[Event "Zadachy i Etyudy#59"]
+[Source "Zadachy i Etyudy/8"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Frankl, Joszef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1R1p4/8/1B1p4/8/b7/k1K4p/8 w - - 0 1"]
+
+1. Bc6 $1 h1=Q (dxc6 2. Rh7 Bd6 3. Ra7+ Ba3 4. Rh7) 2. Bxd5+ Qxd5 3. Rb2+ Ka1 4. Rb1+ Ka2 5. Rb2+ Bxb2 1/2-1/2
+
+[Event "Národní Listy#11"]
+[Date "1941.01.05"]
+[Round "?"]
+[Composer "Frankl, Joszef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4k3/8/p2P3K/8/8/6N1/8 w - - 0 1"]
+
+1. Kg6 $1 Kd6 2. Ne3 Ke5 (a4 3. Kf5 a3 4. Ke4 a2 5. Nc2) 3. Kf7 a4 4. Ke7 a3 5. d6 a2 6. Nc2 1-0
+
+[Event "Práce"]
+[Source "Práce/2"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Frankl, Joszef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p3k1p1/p5p1/P5P1/P5P1/P5P1/8/5K2 w - - 0 1"]
+
+1. Ke1 $1 Ke6 (Kd6 2. Kd2) (Kd7 2. Kd1 Kc7 3. Ke2) 2. Ke2 1-0
+
+[Event "Práce"]
+[Source "Práce/8"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Frankl, Joszef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p3/8/3P3p/4P3/8/3k2PK/n7 w - - 0 1"]
+
+1. g4 $1 (1. e5 $2 Nc2 2. d6 exd6 3. e6 Ne3 $1) hxg4 2. e5 Nc2 3. d6 exd6 4. e6 $1 1-0
+
+[Event "Svobodné Slovo#140"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Frankl, Joszef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/8/8/3PP3/5k2/8/8/n4b2 w - - 0 1"]
+
+1. d6 $1 Bh3 2. e6 Bxe6 3. Kb7 Nb3 4. Kc6 Nd4+ 5. Kc7 1/2-1/2
+
+[Event "2.p Nepsavi"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Frankl, Joszef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1pp5/k6P/2Kn4/3P4/P7/5n2/8 w - - 0 1"]
+
+1. h7 $1 Ne4+ 2. Kc4 Nd6+ 3. Kxd5 Nf7 4. Kc4 (4. Ke6 $2 Ng5+ 5. Kd7 Nxh7 6. Kxc7 Nf6 7. a4 b6 8. Kc6 Ka5 9. Kb7 Nd5 10. Kc6 Ne3 11. Kb7 Nc4 12. d5 Kxa4 13. d6 b5 14. d7 Nd6+ 15. Kc6 Nf7) Kb6 $1 5. a4 (5. Kd3 $2 Kc6 6. Ke4 Kd6 7. Kf4 Ke6) c6 6. Kb4 Kc7 7. a5 Kd6 8. Kb3 Kd5 9. Kc3 Ke6 (c5 10. dxc5 Kxc5 11. a6 $1) 10. Kc4 Kf6 11. Kc5 Kg7 12. Kb6 Nd8 13. Kc7 Ne6+ 14. Kxb7 Nxd4 15. a6 1/2-1/2

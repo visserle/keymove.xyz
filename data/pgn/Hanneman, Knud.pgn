@@ -1,0 +1,15 @@
+[Event "Politiken"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Hanneman, Knud"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/7K/4bkP1/7P/8/6P1/8/8 w - - 0 1"]
+
+1. g7 $1 (1. g4 $2 Bxg4 2. g7 $10) (1. Kh8 $2 Kg5 2. g7 $10) (1. h6 $2 Bf5 2. g4 $10) (1. Kh6 $2 Bf5 2. g7 $10) Kg5 2. h6 (2. g4 $2 Kxg4 3. g8=Q+ $10) (2. g8=Q+ $2 Bxg8+ 3. Kg7 Kxh5 4. g4+ Kxg4) (2. Kh8 $2 Kxh5 3. g8=Q) Bd5 3. g4 (3. g8=Q+ $2 Bxg8+ 4. Kg7 $10) (3. Kh8 $2 Kxh6 4. g8=Q) Be6 4. g8=Q+ $1 (4. g8=R+ $18) (4. g8=B $18) (4. Kh8 $2 Kxh6 5. g8=Q $10) Bxg8+ 5. Kg7 $18 (5. Kxg8 $2 Kxh6 6. g5+ $10) (5. Kh8 $2 Bf7 6. h7 $10) 1-0

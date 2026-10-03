@@ -1,0 +1,35 @@
+
+
+[Event "1.p Shakhmaty v SSSR#13"]
+[Source "Shakhmaty v SSSR/4 EG#08292"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Kondratev, Vladimir Nikolaevich"]
+[Composer2 "Kopnin, Alexey Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/P7/2r3p1/7B/3k1K2 w - - 0 1"]
+[PlyCount "25"]
+
+1. Bg1 Rc2 $1 2. Ba7 $1 (2. Bd4 $143 g2+ 3. Kg1 Rc4 4. Bf2 Rg4 5. a5 Ke2 6. a6 Kf3 7. a7 Ra4 $19) g2+ 3. Kg1 Rc7 4. Bf2 $1 (4. Bb8 $143 Rg7 5. a5 Rg8 $1 6. Bh2 Ke2 7. a6 Kf3 8. a7 Rh8 $19) Rg7 5. a5 Ke2 6. a6 Kf3 7. a7 Rg8 8. Bg3 $1 Rh8 (Kxg3 $144 9. a8=Q $1 Rxa8 $11 {stalemate}) 9. Bh2 $1 Re8 10. Be5 $1 Rd8 $1 11. Bd6 $1 Rc8 12. Bc7 $1 Ra8 13. Bb8 $1 $11 1/2-1/2
+
+[Event "1.p Zadachy i Etyudy#1067"]
+[Source "EG#15608"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[Composer "Kondratev, Vladimir Nikolaevich"]
+[Composer2 "Sumbatyan, Karen"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/3P4/2kr2pP/2p3P1/1P6/8/2P5/7b w - - 0 1"]
+[PlyCount "27"]
+
+1. h7 Kc7+ $1 2. Ka7 Bb7 (Rd1 $143 3. h8=Q $18) 3. b5 Rd4 $1 4. b6+ $1 (4. c4 $143 Rh4 5. b6+ Kxd7 $19) Kc6 5. c4 Rd2 6. d8=N+ $1 (6. Kb8 $143 Ra2 $1 7. d8=N+ Kxb6 8. Nxb7 Rh2 $19) Rxd8 7. h8=Q Ra8+ $1 8. Qxa8 Bxa8 9. Ka6 $1 Bb7+ 10. Ka7 Bc8 11. Kb8 Ba6 (Kxb6 $144 12. Kxc8 $11) 12. Ka7 Bb7 13. Kb8 $1 Ba8 14. Ka7 $1 $11 1/2-1/2

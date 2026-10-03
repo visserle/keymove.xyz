@@ -1,0 +1,13 @@
+[Event "64 Shakhmatnoye Obozrenye (pl)"]
+[Source "64 Shakhmatnoye Obozrenye/8 = Galiakerov=A d6e8 1982."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Kovalev, S"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k2r/8/pP1K2PP/8/8/8/8/8 w k - 0 1"]
+
+1. g7 $1 (1. b7 $2 O-O $1) (1. h7 $2 Kf8 $1 2. Kc5 $1 Kg7 3. Kb4 Kxg6 $1 4. Ka5 Kf7 5. Kxa6 Ke7 6. b7 Kd7 7. Ka7 Kc7) Rxh6+ 2. Kc5 $1 (2. Kc7 $2 Rh7 $1) Rh5+ (Kf7 3. b7 Rh5+ 4. Kb6 Rb5+ 5. Kxa6) 3. Kc6 Kf7 4. Kb7 $1 (4. b7 $2 Rb5) a5 5. Ka6 $1 Rh1 6. Kxa5 $1 (6. b7 $2 Rb1) 1/2-1/2

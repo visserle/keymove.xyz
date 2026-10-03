@@ -1,0 +1,110 @@
+[Event "Novi Temi#023"]
+[Source "Novi Temi/9-10"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Miloseski, Bosko"]
+[White "Miloseski, B"]
+[Black " Mihajloski, Z."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2N2p2/8/6PR/2k4K/3p4/3P1p2/8 w - - 0 1"]
+
+1. Nd5 $1 Kxd5 2. g6+ Ke4 3. Rf5 Kxf5 4. gxf7 1-0
+
+[Event "2.hm SFRJ champ Problem"]
+[Source "Problem/5 1976"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Miloseski, Bosko"]
+[White "Miloseski, B"]
+[Black " Mihajloski, Z."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K1k1/2p5/3p4/4P2P/8/8/8/n7 w - - 0 1"]
+
+1. e6 $1 Nb3 2. e7 Nc5 3. h6 Ne6 4. Kd7 Nf8+ 5. Kd8 Ne6+ 6. Kc8 Kf7 7. h7 1-0
+
+[Event "2.c SFRJ champ"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Miloseski, Bosko"]
+[White "Miloseski, B"]
+[Black " Mihajloski, Z."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B6/8/3K1p2/1Pp5/5p1p/5k2/5P2/8 w - - 0 1"]
+
+1. Ke6 $1 h3 2. Bxf4 Kxf4 3. b6 h2 4. b7 h1=Q 5. b8=Q+ Kg4 6. Qg8+ Kf4 7. Qg3+ Ke4 8. Qe3# 1-0
+
+[Event "1.hm SFRJ champ Problem"]
+[Source "Problem/5 1976"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Miloseski, Bosko"]
+[White "Miloseski, B"]
+[Black " Mihajloski, Z."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1P1Pp3/2P5/8/2P2k2/7K/2r5 w - - 0 1"]
+
+1. d7 $1 Rd1 2. c6 Rd2+ 3. Kh3 Rd1 4. Kh4 $1 Kf4 5. Kh5 Kf5 6. Kh6 Kf6 7. Kh7 Kf7 8. d8=N+ Rxd8 9. b7 $1 Rd1 10. Kh6 Kf6 11. Kh5 Kf5 12. Kh4 Kf4 13. b8=Q+ 1-0
+
+[Event "3.c Solidarity ty"]
+[Source "EG#02189."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Miloseski, Bosko"]
+[White "Miloseski, B"]
+[Black " Mihajloski, Z."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7N/p7/8/8/1K6/3p4/6P1/3k4 w - - 0 1"]
+
+1. Ng6 $1 d2 2. Nf4 Kc2 3. Nd5 Kd3 4. Nf4+ (4. Nc3 $2 a5+ 5. Kb3 a4+ 6. Kb4 a3) Ke4 5. Ne2 Kd3 6. Nf4+ 1/2-1/2
+
+[Event "4.c Solidarity ty"]
+[Source "EG#02190."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Miloseski, Bosko"]
+[White "Miloseski, B"]
+[Black " Mihajloski, Z."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7r/7P/8/6P1/2p2k1K/2P4p/7P/8 w - - 0 1"]
+
+1. g6 $1 Kf5 2. Kh5 Kf6 3. Kh6 Re8 4. g7 Re4 5. g8=N+ Kf7 6. Nf6 1-0
+
+[Event "17.p WCCT2 ty (tt)"]
+[Source "EG#05374. WCCT2 ty 1980-1981."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Miloseski, Bosko"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/4r2b/4PPP1/8/7K/8/8/8 w - - 0 1"]
+
+1. f7 $1 Rxf7 (Kg7 2. gxh7 Rxf7 3. exf7) 2. exf7 Bg8 3. f8=R (3. f8=Q $2) Kg7 4. Re8 (4. Rd8 $2 Kh6 5. Rd6 (5. Kg4 Be6+) Bb3 6. Kg4 Bc2) Kh6 (Bb3 5. Kg5) 5. Kg4 (5. Rxg8 $2) Bb3 6. Kf5 Bc2+ 7. Kf6 1-0
+
+[Event "4.p Solidarity ty (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - VII-32 2012."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Miloseski, Bosko"]
+[White "Miloseski, B"]
+[Black " Mihajloski, Z."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/k7/4r2P/4B3/3K4/p5p1/6P1/4b3 w - - 0 1"]
+
+1. h7 $1 a2 2. Kc4 Rxe5 3. h8=Q a1=Q 4. Qg7+ (4. Qh7+ $2 Ka6 5. Qg6+ Ka5) Ka6 5. Qf6+ Ka5 6. Qd8+ Ka4 7. Qd1+ Qxd1 1/2-1/2

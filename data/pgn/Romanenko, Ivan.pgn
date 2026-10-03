@@ -1,0 +1,13 @@
+[Event "Chess Life & Review#0889"]
+[Source "Chess Life & Review/11"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Romanenko, Ivan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6K1/3k3P/1p1P4/1P6/4b1p1/4N3/8 w - - 0 1"]
+
+1. h7 $1 (1. Nxg3 $2 Bxh6+ 2. Kxh6 Kxd5) g2 2. Kf7 $1 Bd4 3. Nxd4 g1=Q 4. h8=Q Kxd5 (Qf2+ 5. Qf6+) 5. Qh5+ $1 Ke4 (Kxd4 6. Qc5+) 6. Qf5+ Ke3 7. Qe5+ Kd3 8. Qxb5+ 1-0

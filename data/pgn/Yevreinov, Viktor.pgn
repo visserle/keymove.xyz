@@ -1,0 +1,47 @@
+[Event "?"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Yevreinov, Viktor"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/4K2p/6pr/5pk1/1pB2R2/p4PP1/8/8 w - - 0 1"]
+
+1. Rg4+ (1. Be6 $2 Rh3 2. Rxb4 Rxg3 3. f4+ $10) (1. Kf8 Rh2) (1. Bb5 a2 2. Rxb4 a1=Q) (1. Bd5 b3 2. Bxb3) fxg4 (Kh5 2. Rh4+ (2. Bf7 $4 fxg4 3. f4) (2. Ba2 fxg4 3. f4) Kg5 3. f4# $1 (3. Rg4+ $6 fxg4 4. f4+ $16 $18) (3. Rxh6 $4 Kxh6 4. f4 $10) (3. Rh5+ Rxh5)) 2. f4+ (2. Kf8 gxf3) (2. fxg4 Rh2) (2. Bf7 gxf3) Kh5 (Kf5 3. Bd3#) 3. Kf8 (3. Bf7 $2 b3 4. Bxb3 $10) (3. Bb3 $2 g5 4. Bf7+ $10) g5 4. Bf7+ (4. Kg7 $4 gxf4 5. gxf4 Rg6+ $19) (4. f5 $4 Rf6+ 5. Kg8 Rxf5 6. Kxh7 Rf3) (4. Be6 Rxe6) Rg6 5. f5 (5. Ke7 $4 gxf4 6. gxf4 Kh4 $19) (5. Ke8 $4 gxf4 6. gxf4 Kh4 $19) a2 6. fxg6 (6. Bxg6+ $4 hxg6 7. fxg6 Kxg6) (6. Bxa2 $4 Rf6+ 7. Ke7 Rxf5 $19) (6. f6 $4 a1=Q 7. Bxg6+ Kxg6) a1=Q $4 (hxg6 $5 7. Bxa2 $16 $18) 7. g7+ (7. gxh7+ $4 Kh6 8. h8=Q+ Qxh8+ 9. Ke7 Qe5+ $19) Kh6 8. g8=N# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Yevreinov, Viktor"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#8"]
+[Theme "Attacking the king"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "5r2/1B5r/2N5/8/8/5R2/5p1p/5K1k w - - 0 1"]
+
+1. Rf7 (1. Ke2 Rxf3 2. Kxf3 f1=Q+) Rhxf7 (Rfxf7 2. Ne7+ (2. Nd4+ $4 Rxb7 3. Kxf2 Rh3) (2. Nd8+ $4 Rxb7 3. Nxb7 Rxb7 4. Kxf2 Rb3 $19) (2. Ba8 $4 Rb7 3. Nd8) (2. Nb4+ Rxb7) (2. Na7+ Rxb7 3. Kxf2 Rh3) (2. Bc8 Rhg7) (2. Na5+ Rxb7 3. Nxb7 Rxb7 4. Kxf2 Rb2+) Rf3 3. Bxf3# (3. Bd5 $6 Rhf7 4. Nc8 $18) (3. Nf5 $4 Rxb7 4. Ng3+ Rxg3 5. Kxf2 Rbb3) (3. Be4 Rhf7 4. Nc8) (3. Ng6 Rxb7) (3. Nc8 Rxb7)) 2. Ne7+ (2. Nd8+ $4 Rxb7 3. Nxb7 Re8) Rf3 3. Nc8 (3. Ng6 $4 R8f7 4. Bd5 R7f5 5. Ne5 R5f4 6. Nxf3 Re4 $1 7. Bc6 Rc4 8. Bb7 Rb4 $10) (3. Nd5 $4 Rb8 $19) (3. Nf5 $4 R8xf5 4. Bc6 $10) (3. Ng8 $4 R8f4 4. Ne7 $10) (3. Bd5 $4 R8f4 4. Ba8 $10) (3. Be4 $4 R8f4 4. Bb7 $10) (3. Nc6 $4 Rg8 $19) (3. Ke2 $4 f1=Q+ 4. Kd2 Qg2+ $19) (3. Bc6 $4 R8f4 4. Bb7) R8f5 4. Be4 (4. Nd6 $4 Rd5 5. Bxd5) (4. Ne7 $4 R5f4 5. Bd5 $10) (4. Nb6 $4 R5f4 5. Nc4 $10) (4. Ba8 $4 Rd5 5. Bxd5) (4. Bc6 $4 Rd5 5. Bxd5) (4. Na7 $4 R5f4 5. Nc8 $10) Rf6 5. Nd6 (5. Ne7 $4 R6f4 6. Bd5 $10) (5. Nb6 $4 R6f4 6. Bb7 $10) (5. Na7 $4 R6f4 6. Bd5) (5. Bd5 R6f5 6. Be4) R6f4 6. Bxf3+ (6. Bb7 $6 Rf7 7. Bxf3+ Rxf3 8. Ne4 $18) (6. Bc6 $6 Rf8 7. Bxf3+ Rxf3 8. Ne4 $18) (6. Ba8 $6 Rf6 7. Bxf3+ Rxf3 8. Ne4 $18) (6. Nb7 Rxe4 7. Nd6 Re1#) (6. Bf5 Rd4) Rxf3 7. Ne4 (7. Ke2 f1=Q+ 8. Kd2 Qg2+) (7. Nc4 Rc3) Rf5 8. Ng3# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Yevreinov, Viktor"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/1pp5/b7/2P3K1/8/7p/RP6/7k w - - 0 1"]
+
+1. c6 (1. b4 $2 Bf1 2. Kh4 $10) (1. Kf5 h2 2. Ra1+ Kg2) h2 (bxc6 2. Rxa6 h2 3. b4 $18) 2. b4 (2. cxb7 $2 Bxb7 3. Kh4 $10) (2. Kh4 $4 Kg1 3. Ra1+ Bf1 $19) (2. Ra1+ $4 Kg2 3. cxb7 $2 (3. Kf6 $5) Bxb7 4. Rg1+ hxg1=Q) (2. Kf4 $2 Kg1 3. cxb7 Bxb7 4. Kg3) (2. Kg4 $4 Be2+ 3. Kg3) (2. b3 $4 Kg1 3. Ra1+ Kg2) (2. Ra5 Kg2 3. cxb7 Bxb7) (2. Ra3 Kg2 3. cxb7 Bxb7) (2. Ra4 Kg2 3. Rg4+) (2. Kf6 Kg1 3. Ra1+ Kg2) Kg1 3. Rxh2 (3. b5 $2 Bxb5 4. Rxh2 Bxc6 5. Re2 $10) (3. Ra1+ $2 Bf1 4. Rxf1+ Kxf1 5. cxb7 $10) Kxh2 4. b5 (4. Kf4 $4 b6 $19) (4. Kg4 bxc6) Kg3 5. Kf6 (5. Kf5 Kf3 6. Ke5 Ke3 7. Ke6 Ke4 8. Ke7 Kd5 9. cxb7 $10 (9. Kd8 $4 Kd6 10. Kc8 Bxb5 11. cxb7 Ba6 $19)) (5. Kg6 $18) (5. bxa6 $2 bxa6 6. Kf5 $10) (5. b6 $4 bxc6 6. bxc7 Bc8 $19) (5. cxb7 $2 Bxb7 6. Kf6) Kf4 6. Ke7 (6. Ke6 $2 Ke4 7. bxa6 bxa6 8. Ke7 $10) (6. bxa6 $2 bxa6 7. Ke6) (6. Kf7 $2 Ke5 7. cxb7 Bxb7 8. Ke7) (6. cxb7 Bxb7 7. Ke6) Ke5 (Ke4 7. Kd8 $1 Kd5 8. Kxc7 Kc5 9. bxa6 $18) 7. bxa6 (7. Kd8 $4 Kd6 8. cxb7 Bxb7 $19) (7. Kd7 $4 Bxb5 8. Kxc7 Bxc6 $19) (7. b6 $4 bxc6 $19 8. bxc7 c5) (7. cxb7 $2 Bxb7 8. Kd7) bxa6 8. Kd7 (8. Kd8 $4 Kd6 $19) a5 9. Kxc7 a4 10. Kd7 a3 11. c7 (11. Kc7 $2 a2 12. Kb7) (11. Ke7 $2 a2 12. c7) a2 12. c8=Q a1=Q 13. Qh8+ $18 (13. Qc7+ $4 Kd5 14. Qb7+) (13. Qc5+ $4 Ke4 14. Qb5) (13. Qd8 $4 Qb1 14. Qc8) (13. Qe8+ $4 Kd5 14. Qd8) 1-0

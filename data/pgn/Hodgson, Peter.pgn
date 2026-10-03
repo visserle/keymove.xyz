@@ -1,0 +1,25 @@
+[Event "New Statesman {and Nation}"]
+[Date "1964.10.30"]
+[Round "?"]
+[Composer "Hodgson, Peter"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k5/K7/7P/2N5/8/2P5/6p1/8 w - - 0 1"]
+
+1. h7 $1 g1=Q 2. h8=Q+ Kc7 3. Qb8+ Kc6 4. Qb6+ Kd5 5. Qe6+ Kxc5 6. Qb6+ 1-0
+
+[Event "New Statesman {and Nation}"]
+[Date "1967.07.07"]
+[Round "?"]
+[Composer "Hodgson, Peter"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5K2/8/4N2k/2p5/4P1R1/3q4 w - - 0 1"]
+
+1. Rh2+ $1 Kg4 2. Nf2+ Kg3 3. Nxd1 c2 4. Rh3+ Kf4 5. Nf2 c1=Q 6. Rf3# 1-0

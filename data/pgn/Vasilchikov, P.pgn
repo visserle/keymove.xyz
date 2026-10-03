@@ -1,0 +1,51 @@
+[Event "64"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Vasilchikov, P"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/b7/1p1BP3/8/3k4/1p6/bK6 w - - 0 1"]
+
+1. e6 $1 Bc8 2. e7 Bf5 3. Be6 Be4 4. Bd5 Bh7 5. Bg8 Bg6 6. e8=Q $1 Bxe8 7. Bf7 Bd7 8. Be6 Bc6 9. Bd5 Bxd5 1/2-1/2
+
+[Event "Shakhist"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Vasilchikov, P"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k1K/5N2/7p/5P2/6P1/7p/8/8 w - - 0 1"]
+
+1. g5 $1 hxg5 2. Nxg5 h2 3. f6 h1=Q+ 4. Nh7+ Ke8 5. f7+ Kxf7 1/2-1/2
+
+[Event "Trud"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Vasilchikov, P"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1n1K4/8/3k4/p6P/8/8/5P2/8 w - - 0 1"]
+
+1. h6 $1 Nd7 2. h7 Ne5 3. Ke8 (3. h8=N $2 a4) Ng6 4. Kf7 Nh8+ 5. Kg7 Ke7 6. Kxh8 Kf8 (Kf7 7. f4) 7. f3 $1 a4 8. f4 a3 9. f5 a2 10. f6 a1=Q 1/2-1/2
+
+[Event "2.p Fizkultura i Sport Committee Ukrain"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Vasilchikov, P"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/P7/1p3K1B/2k1P3/3b4/8 w - - 0 1"]
+
+1. a6 $1 Kd3 2. Bf2 b3 3. a7 Bxe3+ (b2 4. a8=Q Kc2 5. Qe4+ Kc1 6. Be1 $1 Bxe1 7. Qc4+ Kd1 8. Kf3 Bd2 9. Qb3+ Kc1 10. Ke2) 4. Bxe3 b2 5. a8=B $1 (5. a8=Q $2 b1=Q 6. Qe4+ Ke2 7. Qxb1) b1=Q 6. Be4+ Ke2 7. Bxb1 1-0

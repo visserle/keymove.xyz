@@ -1,0 +1,27 @@
+[Event "sp.hm Kiev 1500 AT Komsomolskaja Znamja"]
+[Source "EG#05037."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Aberman, Victor"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3B3N/K1p5/8/8/p7/1k6/8/8 w - - 0 1"]
+
+1. Bf6 $1 (1. Nf7 $2 c5 2. Nd6 c4 3. Nb5 c3 4. Be7 c2 5. Ba3 Kc4 6. Kb6 Kd3 7. Bc1 a3 8. Bxa3 Kd2 9. Nd4 c1=N) a3 (c5 2. Ng6 c4 3. Nf4 c3 4. Ne2 c2 5. Nc1+) 2. Nf7 a2 3. Ng5 Kc2 4. Ne4 c5 5. Nxc5 Kb1 6. Nb3 1-0
+
+[Event "sp.hm Shakhmaty v SSSR#01"]
+[Source "Shakhmaty v SSSR/1 EG#05673."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Aberman, Victor"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/7p/3K4/P7/8/1b1k4 w - - 0 1"]
+
+1. Ke3 $1 (1. a4 $2 Ke2 2. a5 Kf3 3. a6 Be4) Ke1 2. a4 (2. Kf3 $2 Kd2 $2 3. a4 Kd3 4. a5 Kd4 5. a6 Ke5 6. Kg3 Kf5 7. Kh4 Kg6) h4 3. Kf3 (3. a5 $2 Be4 4. Kf4 Bg2 5. Kg4 h3 6. Kg3 Kf1 7. Kh2 Kf2 8. a6 Kf3 9. a7 Kg4) (3. Kf4 $2 Bf5 4. a5 Kf2 5. a6 h3 6. a7 Be4 7. Kxe4 h2 8. a8=Q h1=Q+) Bf5 4. a5 Kf1 5. a6 h3 6. Kg3 Kg1 7. a7 1/2-1/2

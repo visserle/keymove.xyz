@@ -1,0 +1,872 @@
+[Event "4.hm Shakhmaty v SSSR#06"]
+[Source "Shakhmaty v SSSR/2"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2K1b3/1B6/8/6Pp/6k1/7N/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. Kd7 $1 Bg5 2. Bc7+ Bf4 3. g5 $1 (3. Bxf4+ $143 $2 Kxf4 4. Ke6 h3 $1 5. Kf6 Kg3 6. g5 Kxh2 7. g6 Kg1 8. g7 Kf2 9. g8=Q h2 $11) Bxc7 4. Kxc7 Kxh2 5. g6 h3 6. g7 Kh1 $1 7. Kd6 $1 (7. g8=Q $143 $2 h2 $11) h2 8. Ke5 Kg2 9. g8=Q+ $18 1-0
+
+[Event "Shakhmaty v SSSR#23"]
+[Source "Shakhmaty v SSSR/6"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r7/5p1P/7K/1p1p4/1BP5/1k6/4P3/8 w - - 0 1"]
+[PlyCount "12"]
+
+1. Bf8 $1 Rxf8 2. Kg7 Ra8 (Rb8 $144 3. c5 $18) (Rd8 $144 3. c5 $18) (Re8 $144 3. cxd5 $18) 3. cxb5 Kb4 4. b6 Kb5 5. b7 Rb8 6. h8=Q Rxb7 $18 1-0
+
+[Event "3.p Ceskoslovensky Sach#180"]
+[Source "Ceskoslovensky Sach/10 EG#01139"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p4R/7P/p1p4K/8/2b5/2k5/8 w - - 0 1"]
+[PlyCount "24"]
+
+1. Rg7 $1 (1. Rxc7 $143 Bd4 2. h7 (2. Ra7 $144 c4 3. Rxa5 c3 $1 $11 {EGTB}) (2. Rd7 $144 Bc3 3. h7 a4 4. Rf7 c4 5. Kg6 Be5 6. Rf6 Bxf6 7. Kxf6 $11 {EGTB}) Kb3 3. Rxc5 a4 $1 $11 {EGTB}) (1. Rf7 $143 Bh8 2. Rf4 (2. Rf8 $144 Ba1 3. h7 a4 4. Rf3 c4 5. Kg5 c5 6. Kg6 Be5 7. Rf6 Bxf6 8. Kxf6 a3 9. h8=Q c3 10. Qh2+ $11 {EGTB}) Kb3 $11) a4 $1 2. Rg4 $1 (2. Kg6 $143 a3 3. h7 Bxg7 4. Kxg7 a2 $19) a3 (Kb3 $144 3. Rg3 $18) (Be5 $144 3. Re4 Bh8 4. Rxa4 Kb3 5. Ra8 Bd4 6. Rd8 Ba1 7. Rb8+ $1 Kc4 8. Kg6 Kd3 9. h7 c4 10. Rf8 Be5 11. Rf6 $18) 3. Rc4 $1 a2 4. Rxc3+ Kb2 $1 (Kxc3 $144 5. h7 a1=Q 6. h8=Q+ $18) 5. h7 a1=Q 6. h8=Q Qd1+ (Qh1+ $144 7. Rh3+ $18) 7. Rf3+ {eg:} Kb1 8. Qb8+ Kc1 9. Qa8 Qe2 10. Qa1+ Kc2 11. Qa2+ Kd1 12. Qxe2+ Kxe2 $18 1-0
+
+[Event "1.p Shakhmaty v SSSR#44"]
+[Source "Shakhmaty v SSSR/10 EG#01915"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Katsnelson, Leonard Ilyich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k6r/pn5p/1p3P1p/1K5P/1PP5/8/b6B/4R3 w - - 0 1"]
+[PlyCount "29"]
+
+1. f7 Nd8 $1 2. Re8 Kb7 $1 3. Re7+ $1 (3. Rxh8 $143 Bb3 4. Rxd8 a6#) (3. f8=Q $143 Rxf8 4. Rxf8 Bb3 5. Rf7+ Nxf7 6. c5 a6#) Ka8 (Kc8 $144 4. Rc7+ Kb8 5. Be5 Rf8 6. Ka6 Ne6 7. Rxa7+ Kc8 8. Kb5 Kd8 9. Bd6 Rxf7 10. Rxf7 $18) 4. Ka6 Bxc4+ 5. b5 Nc6 (Bxb5+ $144 6. Kxb5 $18) 6. Re8+ Nb8+ 7. Bxb8 Bxf7 $1 8. Re7 $1 (8. Rxh8 $143 Bg8 $1 9. Bh2 $11 {stalemate} (9. Rxg8 {stalemate})) Be6 $1 (Kxb8 $144 9. Rxf7 Re8 10. Rxa7 Re5 (Re6 $144 11. Rb7+ Kc8 12. Rxb6 Re1 13. Rxh6 Re7 14. b6 Kb8 15. Rf6 Re8 16. Rf7 h6 17. Rh7 $18) 11. Rxh7 Rxh5 12. Kxb6 Kc8 13. Kc6 Kd8 14. b6 $18) 9. Rxe6 (9. Bxa7 $143 Bc8+ 10. Kxb6 Bg4 11. Re5 (11. Ka6 $144 Bxh5 $11) Rf8 12. Ka6 Bc8+ $11) Re8 $1 (Kxb8 $144 10. Re7 $18 {eg:} Rf8 11. Rxa7 Rf6 12. Rb7+ Kc8 13. Rxb6 $18) 10. Rxh6 (10. Rxe8 $143 $11 {stalemate}) (10. Re5 $143 Rxe5 11. Bxe5 {stalemate}) Re1 $1 11. Bxa7 Ra1+ $1 12. Kxb6 Ra6+ $1 (Rxa7 $144 13. Rd6 Rb7+ 14. Kc6 Rb8 15. Rd7 $18) 13. Kc7 $1 (13. Kxa6 $143 $11 {stalemate}) (13. bxa6 $143 $11 {stalemate}) Rxh6 14. b6 Rxb6 15. Bxb6 $1 $18 (15. Kxb6 $143 h6 $11) 1-0
+
+[Event ".hm Bulletin Central Chess Club USSR#19"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Katsnelson, Leonard Ilyich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4rk1K/4p2P/5P2/5N2/r2R4/8/8/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. Rd8 $1 Ra8 $1 2. Rxe8+ Rxe8 3. Ng7 (3. Nxe7 $143 Kf7+ 4. Ng8 Re6 5. Ne7 Ra6 6. Ng8 Ra5 7. Ne7 Kxf6 8. Ng8+ Kf7 9. Nh6+ Kg6 10. Ng8 Ra7 $19 {#2}) Rc8 4. fxe7+ Kxe7+ 5. Ne8 $1 Kf8 $1 6. Nd6 $1 (6. Nf6 $143 Kf7+ 7. Ng8 Rc2 8. Nh6+ Kg6 9. Ng8 Rc7 $19 {#2}) Rd8 (Rc5 $144 7. Nf7 $1 $11) 7. Ne8 $1 $11 1/2-1/2
+
+[Event "Chess Life & Review#0296"]
+[Source "Chess Life & Review/9"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5b1k/7N/1K6/R7/7r/8/4pPP1/8 w - - 0 1"]
+[PlyCount "33"]
+
+1. Re5 Rh6+ 2. Nf6 $1 Rxf6+ 3. Kb5 Rf5 (Rxf2 $144 4. Kc4 $11) 4. Rxf5 e1=Q 5. Rxf8+ Kh7 6. Rf7+ Kh6 7. Rf6+ Kg5 8. Rf3 $1 Qc1 9. Kb4 $1 (9. Kb6 $143 Qc4 $19 {EGTB #36}) (9. Ka4 $143 Qb1 $19 {EGTB #38}) Qc2 10. Kb5 Qc7 11. Kb4 Qc6 12. Kb3 Qc5 13. Kb2 Qc4 14. Kb1 Kg6 (Qe2 $144 15. Rg3+ Kh4 16. Rh3+ $11) 15. Kb2 Kh7 16. Rh3+ Kg6 17. Rf3 $11 1/2-1/2
+
+[Event "1.p Szachy#762"]
+[Source "EG#01521"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Katsnelson, Vladimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/6PR/2K5/8/5R2/P7/2k1p1r1/1r6 w - - 0 1"]
+[PlyCount "15"]
+
+1. Rh2 $1 (1. Rc4+ $2 Kd3 $19) (1. a4 $2 e1=Q 2. g8=Q Rxg8 3. Rh2+ Kc3) (1. Kd7 Rd1+ 2. Kc6 e1=Q) (1. Rf5 Rg6+ 2. Kd7 Rd1+) (1. g8=Q $143 Rxg8 2. Rh2 Re8 3. Rff2 Re1 4. Rh5 Kd3 5. Rd5+ Ke3 6. Rxe2+ Rxe2 $19) (1. Re4 $143 e1=Q 2. Rxe1 Rxe1 3. a4 Rg6+ 4. Kd5 Kb3 5. Kd4 Kxa4 $19 {#23}) Rxh2 2. g8=Q (2. Rc4+ $2 Kb2 3. Rb4+ Ka1 $19) (2. g8=R $2 e1=Q 3. Rc4+ Kd3 $19) (2. Re4 $2 Rg1 $19) (2. Rg4 $2 e1=Q 3. Rc4+ Kd3) e1=Q 3. Qa2+ $1 (3. Rf2+ $2 Rxf2 4. Qg6+ Kb2 5. Qg7+ Qc3+) (3. Kd5 Qa5+ 4. Kd4 Rd2+) (3. Rf1 Rh6+ 4. Qg6+ Rxg6+ 5. Rf6 Rxf6+ 6. Kd7 Rf4) (3. Qe8 Qxe8+ 4. Kc5 Rb5+) (3. Qe6 Qxe6+ 4. Kc7 Rh7+) (3. Qd8 Qe6+ 4. Qd6 Rb6+) (3. Qg4 Qe8+ 4. Qd7 Rh6+) (3. Kd7 Qd2+ 4. Kc8 Qxf4 5. Qg6+ Kb2) (3. Qg6+ $143 Kc3 $1 4. Qg7+ Kb3 5. Rb4+ Kxa3 6. Rxb1 Rc2+ $1 $19 {eg:} 7. Kd5 Qa5+ 8. Ke4 Rc4+ 9. Kd3 Qd5+ 10. Ke2 Qe4+ 11. Kf1 Qf3+ 12. Kg1 Qe3+ 13. Kh1 Qe4+ 14. Qg2 Qxb1+ 15. Kh2 Rc2 $19) Rb2 (Kd3 $143 4. Rf3+ Ke4 5. Qd5#) 4. Rc4+ (4. Qc4+ $2 Qc3 5. Qxc3+ $4 (5. Kc5 $5 Rh5+) Kxc3 $19 6. Rf3+ Kd4) (4. Qxb2+ $2 Kxb2 5. Rb4+ Ka2 $19 6. Rb2+ Kxb2) (4. Re4 $2 Qxe4+ 5. Qd5 Rh6+) (4. Rf2+ $2 Qxf2 5. Qc4+ Kb1) (4. Qf7 $2 Rh6+ 5. Rf6 Qc3+) (4. Rd4 Rxa2 5. Kd7 Rxa3) Kd3 5. Rd4+ $1 (5. Rc1 $2 Qxc1+ 6. Qc4+ Qxc4+ 7. Kd7 Rbe2) (5. Rc3+ $2 Qxc3+ 6. Qc4+ Qxc4+ 7. Kd7 Rbe2) (5. Re4 $2 Rh6+ 6. Re6 Rxe6+ 7. Qxe6 Qxe6+ 8. Kc7 Rf2) (5. Kd5 $2 Rh5+ 6. Kd6 Qe5+) (5. a4 Qe6+ 6. Kc7 Rh7+) (5. Rc2 Rhxc2+ 6. Kd6 Rb6+) (5. Qb1+ Rxb1) (5. Qb3+ Rxb3 6. Rd4+ Kxd4) Kxd4 (Ke3 $144 6. Qe6+ $11) 6. Qd5+ (6. Qa1 $2 Qe6+ 7. Kc7 Rhc2+ $19) (6. a4 Rxa2) Ke3 (Kc3 $144 7. Qa5+ Kb3 8. Qxe1 Kxa3 $11 {EGTB}) 7. Qe5+ $1 (7. Qf5 $2 Qc1+ 8. Qc5+ Qxc5+ 9. Kxc5 Rh6) (7. Qe6+ Kd2 8. Qd6+ Kc1) Kd2 (Kf2 $144 8. Qxh2+ $1 $10 (8. Qxb2+ $2 Qe2 9. Qd4+ Kf3 $19) (8. Qf4+ $2 Kg2 9. Qg4+ Qg3 $19) (8. Qd4+ $2 Kf1 9. Qc4+ Rbe2 $19) (8. Qf5+ $2 Kg1 9. Qg5+ Rbg2) (8. Qf6+ $2 Kg1 9. Qg5+ Rhg2) Kf3 9. Qxb2 $11 {EGTB}) 8. Qxb2+ $10 $11 (8. Qxh2+ $2 Kc1 9. Qh6+ Rd2 $19) (8. Qd4+ $2 Kc2 9. Qc4+ Qc3) (8. Qa5+ $2 Kd1 9. Qd5+ Rbd2) (8. Qd5+ Kc1 9. Qg5+ Rhd2) (8. Qe6 Qxe6+ 9. Kc5 Rh4) 1/2-1/2
+
+[Event "1.p Ajedrez"]
+[Source "EG#01467"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5brk/8/1K1n1R2/8/8/7B/4pPP1/8 w - - 0 1"]
+[PlyCount "37"]
+
+1. Re6 Nc4+ 2. Kb5 $1 (2. Kb7 $143 Rg7+ 3. Kc8 Re7 $19) (2. Ka6 $143 Rg6 $19) Ne5 $1 (Na3+ $144 3. Ka4 Bd6 4. Rxe2 Rb8 5. Be6 $11) 3. Rxe5 Rg5 $1 4. Bf5 $1 Rxf5 5. Rxf5 e1=Q (Bd6 $143 6. Rh5+ Kg7 7. Rh1 $18) 6. Rxf8+ Kh7 7. Rf7+ (7. Rf3 $143 Qf1+ $19) Kh6 8. Rf6+ Kh5 (Kg5 $144 9. Rf3 $1 Qc1 10. Kb4 $1 (10. Kb6 $143 Qc4 $1 $19 {#37}) (10. Ka4 $143 Qb1 11. Ka3 Qb5 12. Ka2 Qb4 13. Ka1 Qd2 14. Kb1 Kg4 15. Ka1 Qc2 $19 {#28}) Qc2 11. Kb5 Qc7 12. Kb4 Qc6 13. Kb3 Qc5 14. Kb2 Qc4 15. Kb1 Kg6 16. Kb2 Kh7 17. Rh3+ Kg6 18. Rf3 $1 $11) 9. Rf5+ Kg4 10. Rf3 $1 Qc1 11. Kb4 $1 $11 {EGTB} (11. Kb6 $143 {#34} Qc4 $19) (11. Ka4 $143 Qb1 12. Ka3 Qb5 13. Ka2 Qb4 14. Ka1 Qd2 $19 {#32}) Qc2 12. Kb5 Qc7 (Qe4 $144 13. Rg3+ Kf4 14. Rf3+ $11) 13. Kb4 Qc6 14. Kb3 Qc5 15. Kb2 Qc4 16. Kb1 Kg5 (Qe2 $144 17. Rg3+ $11) 17. Kb2 Kh6 18. Rh3+ $1 (18. Kb1 $143 Qf1+ $19 {lose in 32}) Kg6 19. Rf3 $1 $11 1/2-1/2
+
+[Event "1.p USSR team champ IX (tt)"]
+[Source "EG#01597"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "2"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7q/8/3Q4/8/K5N1/5p1k/2N5 w - - 0 1"]
+[PlyCount "15"]
+
+1. Nf1+ (1. Qf3 $143 Qa7+ 2. Kb2 Qb8+ 3. Kc2 Qxg3 $11) (1. Nce2 $143 Qe7+ 2. Kb3 Qxe2 3. Nxe2 f1=Q $11 {EGTB}) Kg1 2. Ne2+ Kxf1 3. Nf4 $1 Qa7+ (Ke1 $144 4. Qe5+ Kd2 5. Qe2+ Kc3 6. Qb2+ Kc4 7. Qb4#) 4. Kb3 (4. Kb2 $143 Qg7+ $1 5. Ka2 Kg1 $11) Qb8+ 5. Kc2 $1 Qxf4 6. Qh1+ Ke2 7. Qd1+ Ke3 8. Qd3# 1-0
+
+[Event "sp.hm Shakhmaty v SSSR#26"]
+[Source "Shakhmaty v SSSR/7 EG#02676"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Katsnelson, Leonard Ilyich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/7R/4kr1P/8/8/8/8/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. Kg8 Rg6+ (Rf1 $144 2. Rg7 Ra1 3. Rf7 Rg1+ 4. Kf8 $18) (Ke5 $144 2. Re7+ Kd6 3. Ra7 $18) 2. Kf8 Rf6+ 3. Ke8 Kf5 4. Rf7 Kg6 5. h7 $1 Ra6 $1 6. Rf6+ $1 $18 1-0
+
+[Event "2/3.p Tbilisi Ty"]
+[Source "EG#03044"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Katsnelson, Leonard Ilyich"]
+[Composer2 "Mitrofanov, Leopold Adamovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k5B1/p6R/3p4/3K4/rP6/p7/p7/2B5 w - - 0 1"]
+[PlyCount "13"]
+
+1. Bb2 $1 (1. Kxd6 $143 $2 a1=Q 2. Bd5+ Kb8 3. Bf4 Rxb4 4. Rf7 (4. Be5 Rb6+) Rxf4 5. Rxf4 $11 a5 6. Rf8+ Ka7 7. Ra8+ Kb6 $11) axb2 2. Kxd6 (2. Kc6 $143 $2 Rxb4 3. Bd5 a5 $11 4. Bxa2 Rb8 5. Kxd6 $11) Ra6+ 3. Kc7 Rc6+ $1 4. Kxc6 b1=Q $1 (a1=Q $144 5. Bd5 Qc1+ 6. Kd7+ Kb8 7. Rh8+ Qc8+ 8. Rxc8#) 5. Rh8 $1 (5. Bd5 $143 $2 Qxh7 $19) a1=Q (a5 $144 6. Bxa2+ $1 $18) 6. Bd5+ Qxh8 7. Kc7# 1-0
+
+[Event "3.p Shakhmaty v SSSR#06"]
+[Source "Shakhmaty v SSSR/2 EG#02971"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7n/B7/pK6/7p/4Nk2/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. Nc3 $1 (1. Ng3 $143 Kxg3 2. Bc7+ Kg2 3. Kxa4 Nf5 $19) (1. Bc7 $143 Kxe2 $19 2. Kc3 Kf3 3. Kd4 a3 4. Kc4 a2 5. Be5 $19) h2 2. Ne4+ Kg2 3. Ng3 $1 Nf5 $1 4. Nh1 $1 a3 $1 (Nd6 $144 5. Bc7 a3 6. Kb3 $1 Nb5 7. Bxh2 $1 $11) 5. Kxa3 (5. Kb3 $143 Nd4+ 6. Ka2 Nb5 $19) Nd6 $1 6. Be1 $1 (6. Bc7 $143 Nb5+ $19) Ne4 $1 7. Ba5 $1 Nd6 (Kxh1 $144 8. Bc7 $11) 8. Be1 $11 1/2-1/2
+
+[Event "5.p Shakhmaty v SSSR#41"]
+[Source "Shakhmaty v SSSR/11 EG#03484"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Katsnelson, Leonard Ilyich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1RP5/K7/3k4/p5p1/8/3b2b1 w - - 0 1"]
+[PlyCount "15"]
+
+1. c7 $1 Bg4 (a2 $144 2. Rd6+ $18) 2. Rb4+ Kd3 $1 3. Rxg4 a2 4. Ra4 $1 (4. Rxg3+ $143 $2 Be3 $11) Bb6+ $1 5. Kxb6 g2 6. Rd4+ $3 $1 (6. c8=Q $143 $2 g1=Q+ 7. Qc5 a1=Q 8. Rxa1 Qxa1 $11) Kxd4 (Ke2 $144 7. c8=Q g1=Q 8. Qc4+ Kf3 9. Qd5+ Ke2 10. Qxa2+ $18) 7. c8=Q a1=Q (g1=Q $144 8. Qc5+ $18) 8. Qh8+ $18 1-0
+
+[Event "64#40"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p7/8/p1p5/k7/2P1p1p1/PP6/K4B2 w - - 0 1"]
+[PlyCount "22"]
+
+1. Kb1 $1 (1. a3 $143 $2 Kb3 $19) e2 $1 (c4 $143 2. Bg2 Kb5 3. Kc2 $18) 2. Bxe2 g2 3. a3 $1 g1=Q+ (Kb3 $144 {<main>} 4. Bd1+ Kc4 5. Be2+ Kb3 (Kd5 $143 6. Bf3+ $18) 6. Bd1+ $11) 4. Ka2 c4 (Qg8+ $143 5. c4 $18 {#2}) 5. Bxc4 Qg2 $1 6. Ba6 Qc2 $1 7. c4 $1 (7. Bc4 $143 $2 a6 $1 8. Bxa6 Qb3+ 9. Ka1 Qe6 $19 {eg:} 10. Bb7 Kb3 11. Be4 Qxe4 12. a4 Qe1#) Qb3+ 8. Kb1 (8. Ka1 {<or>}) Qb6 9. Ka2 $1 Qb3+ 10. Kb1 Qh3 11. Ka2 Qb3+ $11 1/2-1/2
+
+[Event "2.p USSR team champ X (tt)"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "2"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3q4/1P3P1P/8/8/1p6/k7/pN6/K3b3 w - - 0 1"]
+[PlyCount "17"]
+
+1. b8=Q $1 (1. f8=Q $143 Bc3 $1 2. Qxb4+ Kxb4 $19 3. Kxa2 Bxb2 4. b8=Q+ Qxb8 $19) (1. h8=Q $143 Qxh8 2. f8=Q Qxb2#) Qxb8 2. f8=Q Qxf8 (Bc3 $144 3. h8=Q Bxh8 4. Qxh8 Qxh8 $11) 3. h8=Q Bc3 $1 (Qxh8 $144 $11 {stalemate}) 4. Qf6 $1 Qd6 $1 (Qxf6 $144 $11 {stalemate}) 5. Qd4 $1 Qa6 $1 (Qxd4 $144 $11 {stalemate}) (Bxd4 $144 $11 {stalemate}) 6. Qd3 $1 (6. Qf6 $143 Qf1+ 7. Qxf1 Bxb2#) Qb5 $1 (Qc4 $144 7. Qxc3+ Qxc3 $11 {stalemate}) (Qxd3 $144 $11 {stalemate}) 7. Qe2 $1 Qc4 (Qxe2 $144 $11 {stalemate}) 8. Qd3 Qb5 (Qxd3 $144 $11 {stalemate}) 9. Qe2 $11 1/2-1/2
+
+[Event "1.sp.p Shakhmaty v SSSR#27"]
+[Source "Shakhmaty v SSSR/7 48/5 EG#04833"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r3k2r/1p2p3/4P1P1/pP6/4K3/R6p/5b1B/8 w kq - 0 1"]
+[PlyCount "11"]
+
+1. g7 Rg8 (O-O-O $144 2. Rc3+ Bc5 3. Rxc5#) (Rh4+ $144 2. Kf3 $18 {#3}) (Bd4 $144 2. Kxd4 O-O-O+ (Rg8 $144 3. Rxh3 O-O-O+ 4. Ke4 Rxg7 5. Rc3#) 3. Ke4 (3. Ke3 $144 $1 b6 4. Rc3+ Kb7 5. Rc7+ Ka8 6. gxh8=Q Rxh8 7. Rxe7 a4 8. Rd7 Re8 9. e7 Rxe7+ 10. Rxe7 $18) Rh4+ 4. Kf3 b6 5. Rc3+ Kb7 6. Rc7+ Ka8 7. Rxe7 Rc4 8. Rf7 Rcc8 9. e7 Rg8 10. Kg4 Rce8 11. Kf5 a4 12. Ke6 Ka7 13. Bg3 a3 14. Be5 a2 15. Rf2 Kb7 16. Rxa2 $18) 2. Rxh3 Be1 $1 (Bh4 $144 3. Rxh4 O-O-O 4. Rh3 Rd2 5. Rc3+ Kd8 6. Bc7+ Ke8 7. Bxa5 Re2+ 8. Kd5 Rd2+ 9. Ke5 Re2+ 10. Kd5 Rd2+ 11. Ke4 Re2+ 12. Kf5 Rf2+ 13. Kg5 Rxg7+ 14. Kh6 Rh2+ 15. Kxg7 Rg2+ 16. Kh6 Rh2+ 17. Kg5 Rg2+ 18. Kf4 Rf2+ 19. Ke3 Kf8 20. Kxf2 $18) 3. Bb8 $1 (3. Bc7 $143 Bc3 $1 4. Rxc3 Rxg7 5. Bxa5 $11) (3. Rh8 $144 O-O-O $1 $19) Bc3 4. Rxc3 Rxb8 5. Rh3 Kd8 6. b6 $1 $18 1-0
+
+[Event "6.p Ban MT Magyar Sakkélet (v)"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1pk1p3/4P3/8/4N3/8/1K6 w - - 0 1"]
+[PlyCount "39"]
+
+1. Kc2 (1. Kb2 $143 Kc5 2. Kc3 b5 3. Ng4 b4+ 4. Kb3 Kb5 5. Nh6 Kc5 6. Nf7 Kb5 7. Ng5 Kc5 8. Nxe6+ Kd5 $11) Kc5 2. Kd3 $1 (2. Kc3 $143 b5 3. Kd3 b4 4. Ng4 Kd5 $11) b5 (Kb5 $144 3. Kd4 $1 $18) 3. Kc3 $1 (3. Ke4 $143 b4 $11) b4+ 4. Kb3 Kd4 5. Nc4 (5. Ng4 $143 Ke4 $11) Kc5 6. Nd6 Kd5 7. Nf7 Kc5 8. Nh8 $1 (8. Nh6 $143 Kd5 9. Ng4 Ke4 10. Kxb4 Kf4 11. Kc4 Kxg4 $11) Kd5 9. Ng6 Kc5 10. Nf8 $1 Kd5 11. Nd7 Kc6 12. Kxb4 Kxd7 13. Kb5 $18 {eg:} Kc7 14. Kc5 Kd7 15. Kb6 Kd8 16. Kc6 Ke7 17. Kc7 Ke8 18. Kd6 Kf7 19. Kd7 Kf8 20. Kxe6 $18 1-0
+
+[Event "2.hm Magyar Sakkélet#1470"]
+[Source "Magyar Sakkélet/7 42/4 EG#04849"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Katsnelson, Leonard Ilyich"]
+[Composer2 "Mitrofanov, Leopold Adamovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5R2/Bn6/3k2n1/8/1p6/6q1/K7 w - - 0 1"]
+[PlyCount "16"]
+
+1. Bb7+ $1 Kd4 $1 2. Rf4+ (2. Bxg2 $143 $2 Nxf7 3. Kb2 Kc4 $19 {EGTB:} 4. Bf3 Kb4 5. Kc1 Kc3 6. Kd1 Nc4 7. Be4 Kd4 8. Bb1 Nfd6 9. Bg6 Ne4 10. Bh7 Ke3 11. Kc1 Nc3 12. Bg6 Kd4 13. Bb1 Kc5 14. Bf5 b2+ 15. Kc2 b1=Q+ 16. Kxc3 Qb2+ 17. Kd3 Qd2+ 18. Ke4 Qe3#) Ne4 3. Rxe4+ Kd3 (Kc5 $144 4. Re5+ Nd5 5. Rxd5+ Kb6 6. Rb5+ Kxb5 7. Bxg2 $11) (Qxe4 $144 4. Bxe4 $11) 4. Re3+ Kc2 $1 (Kxe3 $144 5. Bxg2 $11) 5. Be4+ $1 Qxe4 6. Re2+ $1 (6. Rxe4 $143 b2+ $19 {#2}) Kc1 7. Re1+ Kc2 8. Re2+ Qxe2 $11 {stalemate} (Kc3 $144 9. Rxe4 $11) 1/2-1/2
+
+[Event "2.hm Shakhmaty (Riga)#18"]
+[Source "Shakhmaty (Riga)/6 1982 EG#05717"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Katsnelson, Leonard Ilyich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B7/8/5PPq/b7/k7/8/PPP5/1K6 w - - 0 1"]
+[PlyCount "11"]
+
+1. g7 (1. a3 $143 Bc3 $1 2. g7 Bxb2 3. Kxb2 Qxf6+ $19) (1. Bc6+ $143 Kb4 2. g7 Qxf6 3. a3+ Kc5 4. g8=Q Kxc6 5. Qa8+ Kd7 6. Qxa5 Qf1+ $11) (1. Be4 $143 Qf4 2. Bc6+ Kb4 3. a3+ Kc5 $19) Qxf6 (Qg5 $144 2. Bc6+ Kb4 3. a3+ Kc5 4. Ba4 $1 Bd8 5. Bb3 $1 $18) 2. a3 $1 (2. b3+ $143 Ka3 3. c3 Qxc3 4. g8=Q Qb2#) Qf1+ (Qg6 $144 3. g8=Q Qxg8 4. Bc6#) 3. Ka2 Qf7+ 4. Bd5 $1 Qxd5+ (Qxg7 $144 5. Bc6#) (Qe8 $144 5. g8=Q Qxg8 6. Bxg8 $18) 5. b3+ Kb5 6. c4+ $18 1-0
+
+[Event "2.p Vecherni Leningrad"]
+[Source "EG#13362"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/1kB5/6P1/1K6/3p1R2/4r3/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. Rf6 $1 Kc7 (Re5 $144 2. Bb5+ Kc7 3. Rxf7+ Kb6 4. Rf6+ Kb7 5. Bc6+ Kc7 6. g6 d2 7. Bf3 Re1 8. Ra6 d1=Q 9. Bxd1 Rxd1 $18) 2. Bf3 (2. Bb5 $143 $2 Rg2 $11) Re5 3. Rxf7+ Kd6 4. g6 Rg5 (Re6 $144 5. g7 Rg6 6. Rf6+ $1 $18) 5. g7 (5. Rf6+ $143 $2 Ke5 6. Ra6 Kf4 $1 7. Bd1 Kf5 $11) d2 $1 6. Kc3 $1 (6. Bd1 $143 $2 Rg3 $1 7. Ka5 Ke6 8. Bb3+ Ke5 9. Ka6 Kd6 10. Ka5 $11 (10. Ka7 Ke5 11. Rd7 d1=Q 12. Bxd1 Kf6)) Ke6 7. Bd5+ $1 Kxd5 8. Rf5+ $1 Rxf5 9. g8=Q+ $18 {#30} 1-0
+
+[Event "1/3.p Kharkov Liberation Ty Leninska Sm"]
+[Source "EG#05584"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/K5B1/4kp2/P2p4/5b2/5P2/8/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. a6 $1 (1. Kb7 $143 d4 2. Bh6 Kf5 3. a6 d3 4. a7 d2 5. a8=Q d1=Q $11) (1. Kb6 $143 d4 2. a6 d3 3. a7 Be3+ 4. Kb5 Bxa7 5. Bh6 Kd5 6. Kb4 Bd4 7. Kb3 Ba1 8. Bf4 Kc5 $11) d4 2. Bh6 $1 (2. Kb7 $143 d3 3. a7 d2 4. a8=Q d1=Q 5. Qe8+ Kf5 6. Qe4+ Kg5 $11) Bxh6 (Kf5 3. Kb6 $1 d3 4. a7 d2 5. a8=Q d1=Q 6. Qe4#) 3. Kb7 $1 d3 4. a7 d2 5. a8=Q d1=Q 6. Qe8+ Kf5 7. Qe4+ Kg5 8. Qg4# 1-0
+
+[Event "1/2.p Miru Mir Molodoj Leninets (Kurgan"]
+[Source "EG#06914"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4B3/8/8/2r5/6k1/4K1p1/N7/8 w - - 0 1"]
+[PlyCount "18"]
+
+1. Bd7+ (1. Bg6 $143 Re5+ $19) Kh4 2. Nb4 $1 (2. Kf3 $143 Rc2 $19 3. Nb4 Rd2 4. Bc6 g2 5. Ke3 g1=Q+ 6. Kxd2 $19) Rc3+ 3. Ke2 (3. Nd3 $143 Rxd3+ 4. Kxd3 g2 $19) (3. Kd2 $143 Rb3 4. Bc6 Rxb4 5. Kc3 Rf4 6. Bg2 Rf2 7. Bd5 g2 $19) Rc4 $1 (Rb3 $144 4. Nc2 Rb2 5. Bf5 Kg5 6. Bh7 Kg4 7. Be4 Kf4 8. Bd3 Rb3 9. Ne1 $11) (Rc7 $144 4. Bc6 $11) 4. Nd3 (4. Nd5 $143 g2 5. Kf2 Rc2+ 6. Kg1 Kg3 $19 {#2}) Rc2+ (g2 $144 5. Ne1 $1 $11) 5. Kf1 g2+ (Rd2 $144 6. Bb5 $1 (6. Bf5 $143 g2+ 7. Kg1 Kg3 {#6 eg:} 8. Nb2 Rxb2 9. Bd3 Rb7 10. Bh7 Ra7 11. Bb1 Ra6 12. Bc2 Ra1+ 13. Bb1 Rxb1#) g2+ 7. Kg1 Kg3 8. Ne1 $1 Rd1 9. Bf1 $11) 6. Kg1 Kg3 7. Bb5 $1 (7. Ba4 $143 Rc4 $1 (Ra2 $143 $1 8. Bd1 $1 Rd2 9. Ne1 $1 Rxd1 $11 {stalemate}) 8. Bd1 (8. Bb5 $144 Rh4 $19 {#10}) Rh4 9. Nf2 Rf4 10. Nh1+ gxh1=Q+ 11. Kxh1 Rf1#) Ra2 (Rd2 $144 8. Ne1 $1 $11) 8. Ne1 $1 Ra1 9. Bf1 $1 Rxe1 $11 {stalemate} (gxf1=Q+ $144 10. Kxf1 $11) 1/2-1/2
+
+[Event "USSR vs Rest of the World ty (tt)"]
+[Source "EG#11400"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K1b2/6pk/8/5pP1/5P1B/7P/8/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. Ke8 (1. Be1 $143 Kg6 2. Ke8 Bd6 3. Bd2 Kh5 4. Kf7 g6 $11) Bd6 (Kg8 $144 2. g6 Bd6 3. Bg5 $18) (Ba3 $144 2. Kf7 Bb2 3. Bg3 Ba1 4. h4 Bb2 5. h5 Ba1 6. Ke6 g6 7. Kf7 $18 {#9}) 2. Kf7 (2. Bg3 $143 Kg6 3. Kd7 Bb8 4. Ke6 Bc7 5. h4 Bb8 6. h5+ Kxh5 7. Kxf5 Bc7 8. Bh2 g6+ 9. Ke4 $11) Bxf4 (g6 $144 3. Bg3 Ba3 4. h4 Bb2 5. h5 $18 {#9}) 3. g6+ Kh8 (Kh6 $144 4. Bf6 $18) 4. Bf6 Bh6 5. Bd4 $1 f4 6. h4 $1 f3 7. h5 f2 $1 8. Bxf2 Be3 $1 9. h6 $1 (9. Be1 $144 Bd2 10. h6 Bc3 11. hxg7+ Bxg7 12. Bh4 Bd4 13. Bf6+ Bxf6 14. Kxf6 Kg8 15. g7 Kh7 16. Kf7 $18) Bxh6 (Bd4 $144 10. hxg7+ Bxg7 11. Bh4 Bc3 12. Bf6+ Bxf6 13. Kxf6 $18) 10. Bd4 $18 {#1} 1-0
+
+[Event "1.p Krikheli MT Merani"]
+[Source "EG#09462"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5B2/5P2/8/5pr1/1K2p3/7k/1R6 w - - 0 1"]
+[PlyCount "15"]
+
+1. Bd5 $1 (1. Be6 $143 Rg6 2. f7 Rf6 3. Kc3 f3 4. Kd3 Kg3 $11) (1. Bh5 Rg5 2. f7 Rf5 3. Kc3 f3 $11) f3 $1 (Rg5 $144 2. Be4 $1 Rb5+ 3. Kc3 Rc5+ 4. Kd3 Rc7 5. Bd5 Rd7 6. Ke4 Kg3 7. f7 Rd8 8. Rg1+ Kf2 9. Rg8 Rf8 10. Rxf8 e2 11. Rd8 e1=Q+ 12. Kf5 Qf1 13. f8=Q Qh3+ 14. Kxf4 $18) 2. Rh1+ $1 (2. Bxf3 $143 Rf4 $11) Kxh1 3. Bxf3+ Rg2 4. Kc3 Kg1 $1 5. f7 e2 6. Kd2 Kf2 $1 7. Bxe2 Rg8 $1 8. fxg8=N $1 $18 (8. fxg8=Q $143 $11 {stalemate}) 1-0
+
+[Event "3.p Kaiev MT Shakhmatnaya Poezia#0057"]
+[Source "Shakhmatnaya Poezia/4-6 1991 EG#08522"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p3/8/2p5/2P1P3/5kp1/2R5/5K1b w - - 0 1"]
+[PlyCount "19"]
+
+1. Kg1 $1 g2 2. e5 Ke4 (e6 $144 3. Rd2 Ke4 4. Rd5 $1 $18) 3. e6 Kd3 (Ke5 $144 4. Rd2 Kf6 (Kxe6 $144 5. Rd5 $18) (Kf5 $144 5. Rd6 $1 $18) 5. Rd7 (5. Rd5 $143 Kxe6 $11) Kxe6 6. Rd5 $1 Kf7 7. Rxc5 Ke6 8. Rd5 $18) 4. Rc1 Kd4 5. Rd1+ Kc3 $1 (Kxc4 $144 6. Rd7 $1 $18) (Ke5 $144 6. Re1+ Kd4 7. Rd1+ Ke5 8. Rd7 Kxe6 9. Rd5 Kf6 10. Rxc5 e5 11. Rd5 e4 12. c5 e3 13. Rd3 Ke5 14. Rxe3+ Kd4 15. c6 $18) 6. Rd5 (6. Rd7 $143 Kxc4 $11) Kb4 7. Rd3 Kxc4 8. Rd7 $1 Kb5 9. Rxe7 Kc6 10. Rd7 $18 1-0
+
+[Event "3.p Kurjatnikov JT Saratovskie Vesti"]
+[Source "EG#09627"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7n/Pk3p2/8/2K5/6R1/8/1p3p2/1b6 w - - 0 1"]
+[PlyCount "13"]
+
+1. a8=Q+ Kxa8 2. Kb6 Bh7 (Ng6 $144 3. Rd4 $18 {#2}) 3. Kc7 Bc2 4. Rg3 $1 b1=N 5. Kb6 $1 (5. Rg5 $143 f5 6. Kb6 Bb3 7. Rxf5 f1=Q 8. Rxf1 Nf7 $11 {EGTB}) Bg6 (Ng6 $144 6. Re3 Ne7 7. Rxe7 Ba4 8. Rxf7 f1=Q 9. Rxf1 $18 {#2}) 6. Rh3 $1 Bh7 7. Re3 $18 {#2} 1-0
+
+[Event "2/4.p Mitrofanov MT Vecherni Peterburg"]
+[Source "EG#09905"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/8/6k1/5R2/8/2b1p3/8/R7 w - - 0 1"]
+[PlyCount "15"]
+
+1. Raa5 $1 (1. Raf1 $143 e2 $11) e2 (Bxa5 $144 2. Rxa5 Kf6 3. Ra3 $18) 2. Rg5+ Kh6 (Kf6 $144 3. Raf5+ Ke6 4. Rc5 Kf6 (Kd6 $144 5. Kf7 Be5 6. Rgxe5 e1=Q 7. Red5#) 5. Kd7 Kf7 6. Rxc3 Kf6 7. Rcc5 e1=Q 8. Rcf5#) 3. Rh5+ Kg6 4. Rag5+ Kf6 5. Rf5+ Ke6 6. Rc5 $1 Kd6 (Kf6 $144 7. Rc6+ Kg7 8. Rg5+ Kh7 9. Kf7 e1=Q 10. Rh5#) 7. Kf7 e1=Q 8. Rhd5# 1-0
+
+[Event "3.p Russian Federation Ty Victory-50 AT"]
+[Source "(c): Katsnelson=L Katsnelson=V Zadachy i Etyudy=11 1996"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k7/1b1P2BK/8/8/5p2/2R1p3/1n6 w - - 0 1"]
+[PlyCount "31"]
+
+1. Ra2+ Kb8 2. Be4 Ba7 (Kc8 $144 3. Bc6 $1 Na3 {eg:} 4. Rxa3 Bc7 5. Ra8+ Bb8 6. d7+ Kc7 7. Rxb8 Kxc6 8. d8=Q e1=Q 9. Rc8+ Kb5 10. Qd5+ Ka4 11. Ra8+ Kb4 12. Rb8+ Kc3 13. Rb3+ Kc2 14. Qd3+ Kc1 15. Rb1#) 3. Rb2+ (3. d7 $143 Be3+ $1 $19) Kc8 4. Bf5+ Kd8 5. Rc2 Ke8 6. Kg6 $1 (6. Kg7 $143 Nc3 $1 7. Rxc3 Bd4+ $19) Bb6 7. Rc8+ Bd8 8. Rc1 Ba5 (Bh4 $144 9. d7+ Ke7 10. d8=Q+ $1 Kxd8 11. Kf7 $1 e1=Q 12. Rc8#) 9. Rh1 (9. d7+ $143 Ke7 10. d8=Q+ Bxd8 11. Bg4 Ba5 $11) Bc3 10. Rxb1 Ba5 11. Rb8+ $1 (11. Rh1 $143 Bc3 12. Rg1 e1=Q 13. Rxe1+ Bxe1 $11) Bd8 12. Bd3 $1 (12. Bc2 $143 Kd7 13. Ba4+ Kxd6 14. Rxd8+ Kc5 $11) Kd7 (e1=Q $144 13. Bb5+ Kf8 14. Rxd8+ Qe8+ 15. Rxe8#) 13. Bb5+ Kxd6 14. Rxd8+ Kc5 15. Bxe2 $1 fxe2 16. Re8 $18 1-0
+
+[Event "1.p Zadachy i Etyudy#0037"]
+[Source "EG#11346"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7n/5p2/P1k5/K7/6R1/8/1p1Pp3/1b6 w - - 0 1"]
+[PlyCount "19"]
+
+1. a7 Kb7 (e1=Q $144 2. a8=Q+ Kc5 3. Qc8+ Kd6 4. Qd8+ Ke6 5. Qe8+ Kf5 6. Qxe1 Kxg4 7. Qxb1 Kg5 8. Qxb2 f6 9. d4 {#14}) 2. a8=Q+ Kxa8 3. Kb6 Bh7 (Ng6 $144 4. Rd4 $1 {#2 eg:} Bf5 5. Rd8+ Bc8 6. Rxc8#) 4. Kc7 Bc2 5. Rg3 $1 (5. Rg5 $143 f5 6. Rg3 b1=N 7. Kb6 Bb3 8. Re3 Ba4 (Bf7 $144 9. Rd3 $18 {#3}) 9. Rxe2 $11) b1=N $1 6. Rg5 $1 (6. Kb6 $143 Ng6 $1 (Bg6 $143 7. Rh3 $1 $18 {#4}) 7. Re3 Ne7 (Ba4 $143 $18 8. Rd3 {#3}) 8. Rxe7 Ba4 $11) f5 7. Kb6 Bb3 8. Rxf5 Nf7 9. Kc7 $1 e1=Q (Bc4 $144 10. Ra5+ Ba6 11. Rxa6#) 10. Ra5# 1-0
+
+[Event "2.p Zadachy i Etyudy#0575"]
+[Source "EG#11704"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B6/3P4/6k1/2b5/3r3P/8/8/R6K w - - 0 1"]
+[PlyCount "19"]
+
+1. Bd6 $1 (1. Ra6+ $143 Kf7 2. Rd6 (2. Bd6 $144 Rxh4+ 3. Kg2 Rh8 $1 4. Bxc5 Rd8 5. Rd6 Ke7 $1 $11) Rxh4+ (Rxd6 $143 3. Bxd6 Bb6 4. h5 $1 $18) 3. Kg2 Bb6 $1 4. Rxb6 Ke7 5. Rd6 Rh8 6. Bc7 Rd8 $11) Bb6 (Rxd6 $143 2. Ra6 $1 $18) 2. Ra6 $1 (2. Rb1 $143 Rxh4+ 3. Kg2 Bd8 $11) Rxh4+ 3. Kg2 (3. Bh2 $143 Kf7 $1 4. Rxb6 Ke7 5. Rd6 Rh8 6. Rd1 Rd8 $11) Rh7 $1 4. Be7 $1 Kf7 $1 (Rxe7 $144 5. d8=Q $18) 5. Rxb6 Rg7+ $1 {Or Rh2 Or Rh1} 6. Kh3 $1 (6. Kf3 $143 Kxe7 7. Rb8 Rf7+ 8. Ke4 Kxd7 $11) Kxe7 (Rh7+ $144 7. Kg4 $18) 7. Rb8 $1 Rh7+ 8. Kg4 Rg7+ 9. Kh5 $1 (9. Kf5 $143 Rf7+ 10. Kg6 Rf6+ $11) Kxd7 10. Rb7+ 1-0
+
+[Event "2.p Zadachy i Etyudy#1063 (c)"]
+[Source "EG#15609 (c): Katsnelson=L Zadachy i Etyudy=28 18-12-2002"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6K1/8/2P1r3/2k2p2/8/7R/1N6 w - - 0 1"]
+[PlyCount "15"]
+
+1. c6 $1 (1. Rc2+ $143 Kd5 $1 2. Nd2 Re2 3. c6 (3. Kf7 $143 Kc6 $11) Re7+ 4. Kf8 Rc7 $11) Kb5 (Kd5 $144 2. Rh5 $1 (2. Rc2 $143 Re7+ 3. Kf6 Re6+ $11) Rxh5 3. c7 Rg5+ 4. Kf7 Rf5+ 5. Ke7 Re5+ 6. Kd7 Rh5 7. Nc3+ Ke5 8. c8=Q Rh7+ 9. Kc6 $18) (Kc5 $144 2. Kf6 $18 (2. Rh5 $143 Rxh5 3. c7 Rg5+ $11)) (Kb3 $144 2. Rh3+ Kb2 3. Rc3 $18) 2. Rc2 Re7+ 3. Kf6 Rc7 4. Nc3+ Kc5 (Kc4 $144 5. Ke5 $18) 5. Ne2+ Kd5 (Kd6 $144 6. Nd4 $18) 6. Nxf4+ Kd6 7. Ne6 Rxc6 8. Rd2# 1-0
+
+[Event "3.p Zadachy i Etyudy#2193"]
+[Source "EG#16648"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7r/8/8/1K1p3r/8/P1PR3R/1k4p1/8 w - - 0 1"]
+[PlyCount "31"]
+
+1. Rhg3 d4+ 2. Kc4 $1 (2. Kb4 $143 Rb8+ 3. Ka4 Kc2 $1 4. Rxd4 g1=Q 5. Rxg1 Kxc3 6. Rg3+ Kxd4 7. Rd3+ Ke5 8. Re3+ Kf6 9. Re6+ Kg7 10. Re7+ Kh8 $19) g1=Q (Rc8+ $144 3. Kxd4 Rd8+ 4. Kc4 $1 Rxd3 5. Rxg2+ Kxa3 6. Kxd3 $11) 3. Rxg1 dxc3 4. Rg2+ c2 5. Rb3+ Ka1 (Kc1 $144 6. Rg1+ Kd2 7. Rd3+ Ke2 8. Rg2+ Ke1 9. Rxc2 Rc8+ 10. Kb3 Rb5+ 11. Ka4 $11) 6. Rxc2 Rc8+ 7. Kd3 Rh3+ 8. Kd4 $1 Rh4+ 9. Kd3 Rd8+ 10. Kc3 Rh3+ 11. Kc4 Rc8+ 12. Kd4 Rd8+ (Rxc2 $144 13. Rxh3 $11) (Rxb3 $144 13. Rxc8 $11) 13. Kc4 Rh4+ 14. Kc3 Rc8+ 15. Kd3 Rh3+ 16. Kd4 $11 1/2-1/2
+
+[Event "2.p Vecherni Peterburg"]
+[Source "EG#16885"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K1R4/7p/3P4/8/2r4P/p5k1/8/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. d7 $1 (1. Rg8+ $143 Rg4 $1 $11 {eg:} 2. Rxg4+ Kxg4 3. d7 a2 4. d8=Q a1=Q $11) Rd4 (a2 $144 2. Rg8+ Rg4 3. d8=Q a1=Q 4. Qd3+ Kxh4 5. Qxh7+ Kg3 6. Qd3+ Kh4 7. Qd8+ $1 Kg3 (Kh3 $144 8. Rh8+ Qxh8 9. Qxh8+ Kg2 $18 {#29}) 8. Qd6+ $1 Kh3 9. Qh6+ Kg3 10. Qe3+ Kh4 11. Qf2+ Kh3 12. Qf3+ Kh2 13. Qxg4 $18 (13. Rxg4 $143 Qa7+ {desesperado Queen} 14. Kc8 Qc7+ 15. Kxc7 $11 {stalemate})) 2. Kc7 $1 (2. Rg8+ $143 Kxh4 3. d8=Q+ Rxd8+ 4. Rxd8 a2 5. Rd1 h5 6. Kc7 Kg3 $11) a2 (h5 $144 3. Ra8 $1 Kxh4 (Rxd7+ $144 4. Kxd7 Kxh4 5. Ke6 Kg4 6. Kf6 $1 $18) 4. Ra4 $1 Rxa4 5. d8=Q+ Kg3 6. Qd3+ Kh4 7. Qb3 Rf4 8. Qxa3 $18) 3. Ra8 Rc4+ 4. Kd6 Rd4+ 5. Ke6 (5. Kc6 $144 $1 {dual} Rc4+ 6. Kb5 Rd4 7. Kc6 Kxh4 8. Rxa2 $18 {EGTB #32}) Re4+ 6. Kf5 $1 (6. Kd5 $143 Re2 7. Ra3+ Kg4 $11) Rd4 7. Ra3+ Kxh4 8. Ra4 $1 (8. Ke6 $143 Kg4 9. Rxa2 Rxd7 $1 10. Ra4+ Kg5 $1 11. Kxd7 h5 12. Ke6 h4 13. Ke5 h3 $11) a1=Q (Rxa4 $144 9. d8=Q+ Kh3 10. Qd3+ Kh4 11. Qc2 $1 a1=Q 12. Qh2#) 9. d8=Q+ 1-0
+
+[Event "1.p Zadachy i Etyudy#2891"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/K7/1B1n4/8/1p5k/p4p2/6R1/8 w - - 0 1"]
+[PlyCount "43"]
+
+1. Bf2+ Kh5 (Kh3 $144 2. Rg3+ Kh2 3. Rxf3 $11 {eg:} Kg2 4. Rb3 Nb5+ 5. Kb6 a2 6. Bd4 Nxd4 7. Rb2+ Kf3 8. Rxa2 $11) 2. Rh2+ Kg5 3. Bc5 $1 (3. Be3+ $143 Kg4 $1 4. Bc5 Nb5+ (b3 $144 5. Bxa3 Nb5+ 6. Ka8 $1 Nxa3 7. Rb2 Nb5 8. Rxb3 $11) 5. Ka8 Kg3 $1 6. Rd2 b3 7. Bxa3 Nxa3 8. Rb2 f2 9. Rxb3+ Kg4 10. Rxa3 f1=Q $19) Nb5+ (b3 $144 4. Bxa3 Nb5+ 5. Kb8 Nxa3 6. Rb2 $1 $11) 4. Kb8 $1 (4. Ka8 $143 b3 5. Bxa3 Nxa3 $19 {#27} 6. Rb2 (6. Rf2 $144 Kf4 $1 7. Rb2 Ke4 $19 {loose #21}) Kg4 7. Kb8 (7. Ka7 $144 Nb5+ 8. Kb6 Nd4 9. Kc5 Nc2 10. Rxb3 f2 11. Rb1 Ne1 12. Rb4+ Kg5 $19) (7. Rxb3 $144 $19 {loose #26}) Nc2 8. Rxb3 f2 9. Rb1 Ne1 10. Rb4+ Kg5 11. Rb5+ Kg6 12. Rb6+ Kg7 13. Rb7+ Kg8 $19) (4. Kb7 $143 b3 5. Bxa3 Nxa3 6. Rb2 Nc4 7. Rxb3 Na5+ $19) b3 5. Bxa3 Nxa3 6. Rb2 Kg4 (Kf4 $144 7. Rxb3 f2 8. Rb7 $1 $11) 7. Ka8 $1 Nc2 8. Rxb3 f2 9. Rb1 Ne1 10. Rb4+ Kg5 11. Rb5+ Kg6 12. Rb6+ Kg7 13. Rb7+ Kg8 14. Rb8+ Kf7 15. Rb7+ Ke6 16. Rb6+ Ke5 17. Rb5+ Ke4 18. Rb4+ Ke3 19. Rb3+ Kd2 20. Rb2+ Nc2 21. Rb1 Ne1 22. Rb2+ $11 1/2-1/2
+
+[Event "sp.p Kopnin MT Shakhmatnaya Poezia"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/3p4/1p6/1P6/1pk1p2P/8/PP2P3/8 w - - 0 1"]
+[PlyCount "23"]
+
+1. h5 $1 (1. b3+ $143 Kxb5 2. h5 d5 3. h6 d4 4. h7 d3 5. exd3 e3 $1 6. Kg7 e2 7. h8=Q e1=Q $11) d5 2. h6 d4 3. h7 d3 4. exd3+ exd3 5. b3+ Kxb5 (Kc3 $144 6. Kg8 $1 d2 7. h8=Q+ Kc2 8. Qh2 Kc1 9. Qf4 Kc2 10. Qc4+ Kb2 11. Qd3 Kc1 12. a4 $1 bxa3 13. Qc3+ Kd1 14. Kf7 Ke2 15. Qe5+ Kd3 16. Qd5+ Kc2 17. Qc4+ Kd1 18. Ke6 Ke1 19. Qb4 Ke2 20. Qe4+ Kf1 21. Qd3+ Ke1 22. Qe3+ Kd1 23. Kd5 Kc2 24. Qe4+ Kc1 25. Qc4+ Kd1 26. b4 a2 27. Qxa2 Ke1 28. Qa1+ d1=Q+ 29. Qxd1+ Kxd1 30. Kc6 $18) 6. Kg7 d2 7. h8=Q d1=Q 8. Qe8+ $1 (8. a4+ $143 bxa3 9. Qe8+ Kb4 10. Qa4+ Kc3 $11) Kc5 (Ka6 $144 9. Qa8+ Kb5 10. a4+ bxa3 (Kc5 $144 11. Qc8+ Kd6 12. Qd8+ $18) 11. Qa4+ Kc5 12. b4+ Kc4 13. Qxd1 $18) 9. Qc8+ Kb5 10. a4+ $1 bxa3 11. Qc4+ Ka5 12. Qa4# 1-0
+
+[Event "3-5.p Zadachy i Etiudy"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K2k1/6PN/3p4/1r1P3p/8/R7/3P4/3b4 w - - 0 1"]
+[PlyCount "25"]
+
+1. Rg3 Bg4 2. Nf6+ Kxg7 3. Nxh5+ Kg6 4. Rxg4+ (4. Nf4+ $143 Kf5 5. Ng2 Be2 6. Kc7 Rxd5 7. Ne3+ Kf4 8. Nxd5+ Kxg3 $11) Kxh5 5. Re4 $1 (5. Rd4 $143 Rb7 6. Re4 Kg6 7. Re6+ Kf5 $11 {EGBD}) Kg5 6. Ke7 $1 Rxd5 7. d4 Kf5 8. Rh4 Kg5 9. Ke6 $18 {eg:} Ra5 10. Rh8 d5 11. Rd8 Ra3 12. Kxd5 Kf6 13. Re8 $18 {#34} 1-0
+
+[Event "3-5.p Zadachy i Etiudy"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1n6/8/4R3/P3PP2/k7/p4r2/5P2/K7 w - - 0 1"]
+[PlyCount "31"]
+
+1. a6 Nxa6 2. Rxa6+ Kb5 (Kb4 $144 3. f6 Rxf2 4. Rb6+ (4. Ra7 $143 Rf1+ 5. Ka2 Rf2+ 6. Kb1 Kb3 7. Rb7+ Ka4 8. Ka1 Rf1+ 9. Rb1 Rf2 $11 {zz}) Ka4 (Kc4 $143 5. Rb7 Kd5 6. Re7 Kc4 7. f7 a2 8. e6 Kb3 9. Rb7+ Ka3 10. Rb1 axb1=Q+ 11. Kxb1 $18 {#37}) 5. Rb1 $1 {zz} Rf3 6. Re1 Kb3 7. e6 $18) 3. Rf6 Kb4 4. e6 ({Thematic try} 4. Rf7 $143 Rxf2 5. Rb7+ Ka4 6. f6 Rf5 7. f7 Rf1+ 8. Ka2 Rf2+ 9. Kb1 a2+ 10. Ka1 Ka3 11. Ra7+ Kb3 $11) Rxf2 5. e7 Rf1+ 6. Ka2 Rf2+ 7. Kb1 a2+ 8. Ka1 Ka3 9. Ra6+ Kb3 10. Rb6+ Ka3 11. Rb1 $1 Re2 12. f6 axb1=Q+ 13. Kxb1 Kb3 14. Kc1 Kc3 15. Kd1 Re6 16. f7 $18 1-0
+
+[Event "4.p Tolush 100 MT"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[Composer "Katsnelson, Vladimir"]
+[Composer2 "Katsnelson, Leonard Ilyich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/1b2r3/1P6/2P5/6B1/6R1/8/2K1n3 w - - 0 1"]
+[PlyCount "21"]
+
+1. Bd7 $3 Rxd7 (Bd5 $144 2. c6 Nf3 3. c7 $19) (Nd3+ $144 2. Rxd3 Re5 3. Rc3 $18) 2. Rg8+ Bc8 3. c6 $1 (3. Rxc8+ $143 Kb7 4. c6+ Kxc8 5. b7+ Rxb7 $11) Rb7 $1 4. Rxc8+ Rb8 5. b7+ Ka7 6. Kd2 $1 (6. c7 $143 Rxb7 7. Ra8+ $1 Kb6 $1 (Kxa8 $143 8. c8=Q+ $18) 8. c8=Q Rc7+ 9. Qxc7+ Kxc7 10. Ra3 Ng2 $1 $11) Nf3+ 7. Ke3 Ne5 8. c7 Rxb7 9. Ra8+ Kxa8 10. c8=Q+ Ka7 11. Qc5+ $18 1-0
+
+[Event "2.p Zadachy i Etiudy"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1r3R2/1k6/4Pb2/pp1P4/6p1/8/1P5p/7K w - - 0 1"]
+[PlyCount "25"]
+
+1. Rf7+ $1 (1. Rxf6 $143 Rh8 2. e7 g3 3. Rg6 Re8 $11) Be7 $1 (Kb6 $144 2. Rxf6 Kc5 3. e7 Re8 4. d6 Kc6 5. Rf8 Kd7 6. Kxh2 a4 7. Kg3 b4 8. Kf4 a3 9. bxa3 bxa3 10. Kf5 a2 11. Rxe8 a1=Q 12. Rd8+ $18) 2. Rxe7+ Kb6 3. d6 g3 4. d7 Kc7 ({main} Rf8 $144 5. Rf7 Rg8 ({or} Rh8 $144 6. Rh7 $1 Rxh7 7. d8=Q+ $18) 6. Rg7 $1 Rxg7 7. d8=Q+ Kc6 8. Qa8+ $18) 5. Re8 Rd8 6. Kg2 $1 a4 7. e7 Rxd7 8. Rc8+ Kb7 9. Rb8+ $1 (9. e8=Q $143 Rd2+ 10. Kxg3 h1=Q $11) Ka7 10. Ra8+ $1 (10. e8=Q $143 Rd2+ 11. Kxg3 h1=Q $11) Kb6 11. e8=Q Rd2+ 12. Kxg3 $18 {eg:} h1=Q 13. Qe3+ 1-0
+
+[Event ".p Razumenko-70 JT Zadachy i Etyudy"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3n4/1p6/k7/6P1/1PK5/2n2PQ1/1p6/8 w - - 0 1"]
+[PlyCount "23"]
+
+1. Qd6+ (1. b5+ $143 Nxb5 2. Qe1 b1=Q $11) (1. Qc7 $143 b5+ 2. Kxc3 b1=Q 3. Qxd8 Qc1+ $11) Nc6 (Ka7 $144 2. Qxd8 b1=Q 3. Qa5+ Kb8 4. Qe5+ Ka7 5. Qxc3 $18) 2. Qg6 (2. Kxc3 $143 b1=Q 3. Qd3+ Qxd3+ 4. Kxd3 Nxb4+ 5. Ke4 b5 6. f4 Nc6 7. g6 Ne7 8. f5 b4 $1 9. g7 b3 10. Kd3 Ng8 $11) b1=Q 3. Qxb1 Nxb1 4. b5+ Kb6 (Ka7 $144 5. bxc6 bxc6 6. g6 $18) 5. bxc6 Nd2+ 6. Kd5 $1 (6. Kb4 $143 Nxf3 7. g6 Ne5 8. cxb7 Kxb7 9. g7 Nc6+ 10. Kc5 Ne7 $11) Nxf3 7. g6 Nh4 8. g7 Nf5 9. g8=Q (9. g8=N $143 bxc6+ $11) Ne7+ 10. Kd6 Nxg8 11. c7 Ne7 12. Kd7 $1 $18 (12. Kxe7 $143 Kxc7 $19) 1-0
+
+[Event "2 Prize, A.Guljaev & R.Kofman MT"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k5/p4K2/P1p1P3/2P3r1/b7/8/1p5p/RB4R1 w - - 0 1"]
+[PlyCount "23"]
+
+1. e7 Bb3+ 2. Kf8 Re5 3. e8=Q+ Rxe8+ 4. Kxe8 hxg1=Q (bxa1=Q $144 5. Bf5+ Kc7 6. Rxa1 Bd5 7. Rb1 h1=Q 8. Rb7#) 5. Bf5+ Be6 6. Bxe6+ Kc7 7. Rxg1 b1=Q 8. Rg7+ (8. Rxb1 $143 $11 {stalemate}) Kb8 9. Ke7 $1 Kc7 10. Kf6+ Kd8 11. Rg8+ Kc7 12. Rc8# 1-0
+
+[Event "s. Hm  Zadachy i Etiudy"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5B1k/5p1p/3K1Pb1/8/5Q2/2p5/2r5 w - - 0 1"]
+[PlyCount "15"]
+
+1. Qh5 (1. Bg6+ $143 Kg7 2. Qf2 Rd1+ 3. Ke4 Re1+ 4. Kd3 c1=N+ $11) Kh8 2. Qg6 Rd1+ 3. Ke6 $1 Rd8 4. Bg8 Rxg8 5. Kf7 $1 Rxg6 6. fxg6 c1=Q 7. g7+ Kh7 8. g8=Q# 1-0
+
+[Event "1.p Tolush 100 MT"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[Composer "Katsnelson, Leonard Ilyich"]
+[Composer2 "Sochniev, Aleksej"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/B4P2/8/8/1b2P2p/8/P1PP1Pp1/1K1k4 w - - 0 1"]
+[PlyCount "23"]
+
+1. f3 $1 ({Thematic try} 1. f4 $143 Ke2 2. Bg1 (2. c4 $144 h3 3. Bg1 Kf1 4. c5 Kxg1 5. f8=Q Kf2 $19) Kf1 3. Bh2 h3 4. a4 g1=Q 5. Bxg1 Kxg1 6. c3 Bc5 7. a5 h2 8. a6 h1=Q 9. f8=Q Qxe4+ $19) Ke2 2. Bg1 $1 Kf1 3. Bh2 h3 4. a4 $1 (4. c3 $143 Ba3 $19) g1=Q 5. Bxg1 Kxg1 6. c3 $1 ({Thematic try} 6. a5 $143 h2 7. a6 h1=Q 8. f8=Q Bxf8 9. a7 Kf2+ 10. Ka2 Qc1 11. a8=Q Qxc2+ 12. Ka1 Bg7+ $19) Bc5 7. a5 $1 (7. d4 $143 Be7 8. a5 h2 9. a6 h1=Q 10. f8=Q Bxf8 11. a7 Kf2+ 12. Ka2 Qc1 13. a8=Q Qc2+ 14. Ka1 Qxc3+ 15. Ka2 Qc2+ 16. Ka1 Bb4 $19) h2 8. a6 h1=Q 9. f8=Q Bxf8 10. a7 Kf2+ 11. Ka2 $1 Qc1 12. a8=Q $11 1/2-1/2
+
+[Event "Hm. Kalashnikov 50 JT (win studies)"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/8/1P6/NP5K/3n1p1P/4p1PR/r7/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. b7+ Kb8 2. Nc6+ Nxc6 3. bxc6 f3 4. Rh1 Rc2 5. Kg4 f2 6. Kf3 e2 7. c7+ Kxc7 8. b8=Q+ Kxb8 9. Rb1+ Kc7 10. Kxf2 $18 1-0
+
+[Event "1/2 p. Zhigulovskie Zori - 4"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2n4N/7p/4Pk2/3PRp2/1K4p1/3rP3/3N4/8 w - - 0 1"]
+[PlyCount "27"]
+
+1. e7 $1 (1. Nc4 $143 g3 $1 $11) Nxe7 2. Re6+ Kg7 3. Rxe7+ Kxh8 4. Nf1 $1 Rxd5 (f4 $144 5. exf4 Rxd5 6. Kc3 Rf5 7. Re8+ Kg7 8. Re4 Rf6 9. Ne3 h5 10. Kd3 Rd6+ 11. Rd4 Rf6 12. Rd7+ Kg6 13. f5+ Kh6 14. Re7 Rf8 15. Ke4 Rb8 16. f6 $18) 5. Kc4 (5. Ng3 $143 f4 6. exf4 Rd4+ 7. Kc5 Rxf4 8. Kd5 h5 $11) Ra5 6. Ng3 $1 f4 7. exf4 Ra4+ (h5 $144 8. Ne2 h4 9. Re5 Ra7 10. Rh5+ $18) 8. Kd5 Rxf4 9. Nh5 $1 (9. Re8+ $143 Kg7 10. Nh5+ Kf7 $11) Rf5+ 10. Ke6 Rxh5 11. Kf6 h6 12. Kg6 Rg5+ 13. Kxh6 Rg8 (Ra5 $144 14. Re8#) 14. Rh7# 1-0
+
+[Event "3.hm Seneca MT Thèmes 64"]
+[Source "Thèmes 64/12 1980 EG#04388."]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Katsnelson, Vladimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "7k/r4P1n/8/5PP1/2p5/8/3K4/4R3 w - - 0 1"]
+
+1. g6 $1 (1. Re8+ $2 Kg7 2. g6 $10) (1. Rh1 $2 Rxf7 2. g6 $10) (1. f6 $4 Rxf7 2. Re8+ Rf8) (1. Kc3 $2 Rxf7 2. Rh1) (1. Kc1 Ra1+ 2. Kd2 Rxe1 3. Kxe1 Kg7) (1. Kd1 Rxf7) (1. Ke3 Re7+ 2. Kf2 Rxf7 3. Re8+ Kg7) (1. Kc2 Rxf7 2. g6) c3+ $1 2. Kc1 $1 (2. Kxc3 $6 $2 Kg7 3. gxh7 Rxf7 4. Re7 Kh8 $10 5. Rxf7) (2. Kc2 $2 Rxf7 $4 (Kg7 $5 $10) 3. gxf7 $18) (2. Kd3 $2 Rd7+ 3. Kc2 Rxf7 $4 (Kg7 $5 $10) 4. gxf7 $18) (2. Ke3 $2 Re7+ $4 (Kg7 $5 $10) 3. Kf4 $18) (2. Ke2 $2 Kg7 3. Kd3 $10) (2. Kd1 $2 Kg7 3. Kc2 Ra2+ 4. Kb3 $14 $10) Kg7 $1 (Ra1+ 3. Kc2 Rxe1 4. gxh7) (Nf8 3. f6) 3. gxh7 (3. Re8 $2 Nf8 4. Kc2 $10) (3. Kb1 $2 Rb7+ 4. Kc2) (3. Kc2 $2 Ra2+ 4. Kxc3) (3. Kd1 $2 Ra1+ 4. Ke2 Rxe1+ 5. Kxe1) Rxf7 4. Re7 $1 (4. Rg1+ $2 Kxh7 5. f6 $10) (4. f6+ $2 Rxf6 5. h8=Q+) (4. Rh1 $2 Kh8 5. f6) (4. Re6 c2 5. h8=Q+) (4. Kc2 Rxf5 5. Kxc3) Rxe7 5. f6+ Kxf6 6. h8=Q+ $18 (6. Kc2 Rxh7 7. Kxc3 Rd7) 1-0
+
+[Event "Shakhmaty v SSSR#52"]
+[Source "Shakhmaty v SSSR/11"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Katsnelson, Leonard Ilyich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/1Pp3p1/P1P5/kB6/1n1K3b/1PP4P/8 w - - 0 1"]
+
+1. a6 $1 Bf1+ (Nxc5+ 2. Kc4 Bf1+ 3. Kxc5) 2. Kc3 Bxa6 3. cxb3+ Kb5 4. h4 g5 5. h5 g4 6. Kc2 (6. Kd2 {<or>}) Kxb4 (g3 7. Bc3) 7. h6 g3 8. h7 g2 9. h8=Q g1=Q 10. Qc3+ Kb5 11. Qc4+ Ka5 12. Qa4# 1-0
+
+[Event ".c Shakhmaty v SSSR#02"]
+[Source "Shakhmaty v SSSR/1 EG#01261.26.p USSR overall champ X 1969-1970."]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Katsnelson, Leonard Ilyich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/ppK5/6Pp/8/7k/8 w - - 0 1"]
+
+1. g5 $1 b4 (a4 2. Kb4 a3 $1 3. Kb3 $1 b4 4. g6 h3 5. g7 a2 6. Kxa2 b3+ 7. Kb1 $1 Kh1 8. g8=Q) 2. Kc4 b3 $1 3. Kc3 $1 (3. Kxb3 $2 a4+ 4. Ka3 h3 5. g6 Kh1 6. g7 h2 7. g8=Q (7. Kb2 a3+ 8. Ka2 Kg2)) a4 4. g6 a3 5. g7 b2 6. Kc2 a2 7. Kxb2 a1=Q+ 8. Kxa1 h3 9. g8=Q 1-0
+
+[Event "1.p Ajedrez (v)"]
+[Source "(c): Katsnelson=L source unknown 1971."]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Katsnelson, Leonard Ilyich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5kr1/8/1K6/8/1b6/3R3B/2p2PP1/8 w - - 0 1"]
+
+1. Rd8+ $1 Kg7 2. Rd7+ Kh6 $1 3. Rc7 Rg6+ 4. Kb5 Bc5 $1 5. Rxc5 Rg5 6. Bf5 $1 Rxf5 7. Rxf5 c1=Q 8. Rf6+ Kh7 9. Rf7+ Kh8 10. Rf8+ Kh7 11. Rf7+ Kh6 12. Rf6+ Kh5 13. Rf5+ Kg4 14. Rf3 $1 Kg5 15. Kb4 $1 Qc2 16. Kb5 Qc7 17. Kb4 Qc6 18. Kb3 Qc5 19. Kb2 Qc4 20. Kb1 Kg6 21. Kb2 Kh7 22. Rh3+ Kg6 23. Rf3 1/2-1/2
+
+[Event "4.p Petrov MT Bulletin Central Chess Cl"]
+[Source "EG#02574."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Katsnelson, Leonard Ilyich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3B4/8/2KP4/8/2p5/2p2p1k/1PP5/8 w - - 0 1"]
+
+1. Bf6 $1 cxb2 2. Bxb2 c3 $1 (f2 3. d7 f1=Q 4. d8=Q Qg2+ 5. Qd5 Qxc2 6. Qf3+ Kh2 7. Be5+ Kg1 8. Bd4+ Kh2 9. Qh5+ Kg2 10. Qg4+ Kh2 11. Be5+ Kh1 12. Qh3+ Kg1 13. Bd4+) 3. Bxc3 f2 4. d7 f1=Q 5. d8=Q Qg2+ (Qc4+ 6. Kb6 Qxc3 7. Qd3+) 6. Kb5 $1 (6. Qd5 $2 Qxc2) Qxc2 7. Qc8+ $1 Kg2 8. Qc6+ Kf1 (Kh3 9. Qf3+) 9. Qh1+ Ke2 10. Qg2+ Kd3 (Kd1 11. Qf1#) 11. Qf3# 1-0
+
+[Event "Chess Life & Review#0758"]
+[Source "Chess Life & Review/5"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Katsnelson, Leonard Ilyich"]
+[White "Katsnelson, L"]
+[Black " Mitrofanov, L."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7R/Bn6/3k2n1/8/1p6/6q1/K7 w - - 0 1"]
+
+1. Bb7+ $1 Kd4 $1 2. Rh4+ Ne4 $1 3. Rxe4+ Kd3 4. Re3+ $1 Kc2 $1 5. Be4+ $1 (5. Bxg2 $2 b2+) Qxe4 6. Re2+ $1 Kc1 (Qxe2) 7. Re1+ $1 Kc2 (Qxe1) 8. Re2+ Qxe2 1/2-1/2
+
+[Event ".c Molodoj Leninets (Kurgan)"]
+[Source "EG#02889."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Katsnelson, Leonard Ilyich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/2n1k3/PP6/8/1n6/8/8/8 w - - 0 1"]
+
+1. a7 $1 Na8 (Ncd5 2. Kb7) (Nbd5 2. bxc7) 2. Kb7 (2. b7 $2 Nb6+ 3. Kc7 N6d5+) Kd7 $1 (Kd6 3. Kxa8 Na6 4. Kb7 Nc5+ 5. Kc8) 3. Kxa8 Na6 $1 (Kc6 4. Kb8 Na6+ 5. Kc8) 4. Kb7 $1 (4. b7 $2 Kc6 5. b8=N+ (5. b8=Q Nc7+ 6. Qxc7+ Kxc7) Kc7 6. Nxa6+ Kc8) Nc5+ 5. Kb8 Na6+ 6. Ka8 $1 Kd6 (Kc6 7. b7 Nc7+ 8. Kb8 Na6+ 9. Kc8) 7. Kb7 (7. b7 $2 Kc6 8. b8=N+ Kc7 9. Nxa6+ Kc8) Nc5+ 8. Kc8 Nd7 9. b7 1-0
+
+[Event ".hm Kazantsev JT"]
+[Source "EG#03225."]
+[Date "1976.12.24"]
+[Round "?"]
+[Composer "Katsnelson, Leonard Ilyich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6R1/4p3/8/p3p3/1k1P2P1/6p1/1Pp5/2K5 w - - 0 1"]
+
+1. Rb8+ $1 Ka4 2. Kxc2 g2 3. Kb1 $1 g1=Q+ 4. Ka2 Qh2 $1 5. d5 $1 e4 6. d6 $1 exd6 7. g5 d5 8. Rb7 e3 9. g6 d4 (Qc2 {<main>} 10. g7 e2 11. g8=Q e1=Q 12. Qg4+ Qc4+ 13. b3#) 10. g7 Qg2 11. Rb8 (11. Rb6 {<or>} d3 12. Rb8) d3 12. Rb6 d2 13. b3# 1-0
+
+[Event ".c Gantiadi"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Katsnelson, Leonard Ilyich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/8/6N1/8/3pk1P1/1P6/8/8 w - - 0 1"]
+
+1. g5 $1 (1. b4 $2 d3 2. b5 d2 3. b6 d1=Q 4. b7 Qa4+) (1. Ne7 $2 d3 2. g5 d2 3. g6 d1=Q 4. g7 Qd8+) d3 2. Nf4 $1 d2 3. Ne2 $1 Kd3 4. Nf4+ Ke3 5. Nd5+ Kd4 6. g6 d1=Q 7. g7 $1 Qa1+ $1 (Qg4 8. Ne7) 8. Kb8 $1 (8. Kb7 $2 Qg1 9. Ne7 Qxg7) Qg1 9. Ne7 $1 Qxg7 10. Nf5+ 1/2-1/2
+
+[Event "2.p 64#60"]
+[Source "EG#04163."]
+[Date "1977.10.06"]
+[Round "?"]
+[Composer "Katsnelson, Leonard Ilyich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3K4/1pp5/8/2P5/1k6/5p2/4PP2/8 w - - 0 1"]
+
+1. c6 $1 (1. exf3 $2 Kxc5) bxc6 2. exf3 Kc5 $1 3. Ke7 $1 (3. f4 $2 Kd6 $1) (3. Kd7 $2 Kd5 4. f4 c5 5. Ke7 c4 $1) Kd4 $1 4. f4 $1 Ke4 5. Kd7 $1 c5 6. Ke6 $1 Kxf4 (c4 7. f5) 7. Kd5 1/2-1/2
+
+[Event "sp.hm Shakhmaty v SSSR#18"]
+[Source "Shakhmaty v SSSR/5 EG#05847."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Katsnelson, Leonard Ilyich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/KP6/8/pkr5/1p3P2/5B2/8 w - - 0 1"]
+
+1. Be1+ $1 (1. b7 $2 Rc6+ 2. Bb6 b2) Ka3 2. b7 Rc6+ 3. Kb5 (3. Ka5 $2 Rc5+) Rb6+ (b2 4. Bb4+ Ka2 5. Kxc6 b1=Q 6. b8=Q Qg6+ 7. Bd6 Qc2+ 8. Bc5 Qg6+ 9. Qd6 Qe8+ 10. Kb6) 4. Kxb6 b2 5. Bb4+ $1 (5. b8=Q $2 b1=Q+ 6. Ka7 Qxe1) Kxb4 6. Ka6 $1 (6. b8=Q $2 b1=Q 7. Ka6+ Ka3 8. Qxb1) (6. b8=R $2 Kc3 7. Ka5 a3) Ka3 7. b8=R $1 (7. b8=Q $2 b1=Q 8. Qxb1) Ka2 8. Ka5 a3 9. Ka4 1-0
+
+[Event ".c Shakhmaty v SSSR (tt)"]
+[Source "EG#06558."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Katsnelson, Leonard Ilyich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/4p3/4P2p/5P1P/5p1P/1k5K w - - 0 1"]
+
+1. Kg2 $1 Kc2 2. Kf1 $1 (2. Kxf2 $2 Kd3) (2. f4 $2 Kd3 $1) Kc3 $1 (Kd3 3. Kxf2) 3. f4 exf4 (Kd4 4. f5 $1) 4. e5 Kd4 5. e6 Ke3 6. e7 Kf3 7. e8=N $1 (7. e8=Q $2) 1-0
+
+[Event "1/5.p Kazantsev JT 64 Shakhmatnoye Oboz"]
+[Source "(c): Katsnelson=L Korolkov=V 64 Shakhmatnoye Obozrenye=18(785) 9/1987."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Katsnelson, Leonard Ilyich"]
+[White "Katsnelson, L"]
+[Black " Korolkov, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2P5/P7/8/2K5/k3r3/8 w - - 0 1"]
+
+1. Kb4 $1 (1. Kc4 $2 Ka3 $1 2. Kb5 Re5+ 3. Kb6 Kb4 4. a6 Rb5+ 5. Kc7 Kc5) (1. a6 $2 Re6) Rc2 2. Kb5 Rb2+ 3. Kc5 $1 (3. Ka6 $2 Kb1 4. c7 Rc2 5. Kb7 Rb2+ 6. Kc8 Ra2 7. a6 Rxa6 8. Kb7 Ra2 9. c8=Q Rb2+) Rc2+ 4. Kb6 $1 (4. Kd6 $2 Kb1 5. a6 Ra2) Rb2+ 5. Kc7 Kb1 $1 6. a6 Ra2 7. Kb7 Rb2+ 8. Ka8 $1 Rb6 9. a7 (9. c7 $2 Rxa6+ 10. Kb7 Ra2 11. c8=Q Rb2+) Rxc6 10. Kb7 1-0
+
+[Event "Mugnos MT Ajedrez de Estilo#60"]
+[Source "Ajedrez de Estilo/10"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Katsnelson, Leonard Ilyich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3n4/8/2P1bN2/4K3/8/1B1k4/5p2/8 w - - 0 1"]
+
+1. c7 $1 Nc6+ $1 (Nf7+ 2. Kxe6 f1=Q 3. Bc4+ Kxc4 4. c8=Q+) 2. Kxe6 f1=Q (Na7 3. Ng4 f1=Q 4. Bc4+ Kxc4 5. Ne3+) 3. Bc4+ $1 Kxc4 4. c8=Q Qh3+ 5. Ng4 $1 Qxg4+ 6. Kd6 Qxc8 1/2-1/2

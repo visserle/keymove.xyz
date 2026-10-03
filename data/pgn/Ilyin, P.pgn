@@ -1,0 +1,13 @@
+[Event "4.p All Union Team champ USSR ty (tt) ("]
+[Source "Shakhmaty v SSSR/6 1950 (c): Garcia=M Estudios Artisticos de Ajedrez - IV-65 2012."]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Ilyin, P"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/8/3P3P/2K5/N7/pp1Nk3/8 w - - 0 1"]
+
+1. Ndb1 $1 a1=Q 2. Kb3 (2. Kb4 $2 Ke1 3. Kb3 h6 4. d6 Kd1 5. d7) h6 3. d6 Kd1 4. d7 Kc1 5. d8=B $1 (5. d8=Q $2 Qa2+ 6. Kxa2) Kd1 6. Bg5 hxg5 7. h6 Ke2 8. h7 Kf3 9. h8=Q g4 10. Qh2 1-0

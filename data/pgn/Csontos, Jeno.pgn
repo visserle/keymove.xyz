@@ -1,0 +1,13 @@
+[Event "Magyar Sakkélet#0080"]
+[Source "Magyar Sakkélet/12"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Csontos, Jeno"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/n2K4/8/kP6/3R4/8/8/8 w - - 0 1"]
+
+1. Ra4+ $1 Kb6 (Kxa4 {<main>} 2. b6) 2. Rxa7 Kxa7 3. Kc6 (3. Kc7 {<or>}) 1-0

@@ -1,0 +1,13 @@
+[Event "3.hm Beginner ty Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/10 1958"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Holin, H"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1K6/8/3p4/1P6/8/N1k5 w - - 0 1"]
+
+1. b4 $1 (1. Nc2 $2 Kxc2 2. b4 d3) Kb2 2. Nc2 $1 (2. b5 $2 d3 3. Kc7 d2 4. b6 d1=Q 5. b7 Qc1+) Kxc2 3. b5 (3. Kc7 {<or>} d3 4. b5) d3 4. Kc7 d2 5. b6 d1=Q 6. b7 1/2-1/2

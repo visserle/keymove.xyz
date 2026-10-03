@@ -1,0 +1,13 @@
+[Event "Chess Life & Review#0781"]
+[Source "Chess Life & Review/8"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Trader, J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2BN3k/3K4/8/7p/8/p7/8/8 w - - 0 1"]
+
+1. Ke7 $1 a2 (Kg7 2. Be6 Kg6 3. Nf7 h4 4. Ne5+ Kh5 5. Kf6 h3 6. Nf3 a2 7. Bxa2 Kg4 8. Bd5 Kg3 9. Ng5) 2. Kf8 a1=Q (Kh7 { <main>} 3. Bf5+ Kh6 4. Nf7#) 3. Nf7+ Kh7 4. Bf5# 1-0

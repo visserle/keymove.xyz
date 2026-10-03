@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Knist, Peter"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/1K1b1p2/5p2/7P/8/8/8/3k3N w - - 0 1"]
+
+1. Ng3 (1. h6 $2 Bf5 2. Ng3 $10) (1. Nf2+ $2 Kc1 2. h6 $10) (1. Kc7 $2 Be6 2. h6) (1. Kb6 Be6 2. h6) Bb5 $1 2. Ne4 (2. h6 $2 Bd3 3. Nh5 $10) (2. Kb6 $2 Bc4 3. h6 $10) (2. Nf5 $2 Bd3 3. Ne7) (2. Kc7 Bc4 3. h6) (2. Ne2 Kxe2) (2. Nh1 Ba4 3. h6) (2. Nf1 Bxf1) Bd7 3. Nd6 (3. Nxf6 $2 Be6 4. h6 $10) (3. h6 $2 Bf5 4. Nd6 $10) (3. Kc7 $2 Be6 4. h6 $10) (3. Nc5 $2 Bh3 4. h6) (3. Ng3 Bb5 4. Ne4 Bd7 $18) (3. Nc3+ $2 Kc1 4. h6) (3. Nf2+ $2 Kd2 4. h6) (3. Kb6 Be6 4. h6) (3. Ng5 fxg5) Ba4 4. Nf5 (4. Nc4 $2 Kc1 5. h6 $10) (4. Ne4 $2 Bb3 5. Nd6 $10) (4. Nxf7 $2 Bb3 5. h6 $10) (4. h6 $2 Bc2 5. h7) (4. Kc7 $2 Bc2 5. Kb7) (4. Ne8 $2 Bb3 5. Nd6) (4. Kb6 $2 Bc2 5. Kb7) (4. Nc8 $2 Bb3 5. Nd6) (4. Ka6 $2 Bb3 5. Kb7) (4. Kb8 $2 Bc2 5. h6) Bc2 5. Ne3+ $18 (5. Ne7 $2 f5 6. Ng6) (5. Nd6 $2 f5 6. h6) (5. Nd4 $2 Bb1 6. h6) (5. Ng7 $4 f5) (5. Nh6 $2 f5 6. Nxf7) 1-0

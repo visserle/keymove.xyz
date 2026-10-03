@@ -1,0 +1,39 @@
+[Event "New Statesman {and Nation}"]
+[Date "1963.07.12"]
+[Round "?"]
+[Composer "Stallybrass, Don H.R."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/K1N5/8/kPP5/P7/P1p5/8/3B4 w - - 0 1"]
+
+1. Ne8 $1 c2 2. Nd6 $1 cxd1=Q 3. Nc4+ Kxa4 4. Nb2+ 1-0
+
+[Event "New Statesman {and Nation}"]
+[Date "1963.07.12"]
+[Round "?"]
+[Composer "Stallybrass, Don H.R."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/8/b3p3/5q2/8/6pP/8/Q5KB w - - 0 1"]
+
+1. Qe1 $1 (1. Bg2 $2 Qf2+ 2. Kh1 Bb7 3. Qg1 Qf5) Qxh3 2. Qxe6+ Qxe6 3. Bd5 Qxd5 1/2-1/2
+
+[Event ".c L'Italia Scacchistica#4076"]
+[Source "L'Italia Scacchistica/7 EG#00302."]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Stallybrass, Don H.R."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4N3/2K2p2/2P1kP2/1p5R/2p5/8 w - - 0 1"]
+
+1. Rf3 $1 Kxf3 2. Nd4+ Kxf4 3. Nxb3 Ke3 4. Kb4 f4 5. Kc3 f3 6. Kxc2 f2 7. Nd2 1-0

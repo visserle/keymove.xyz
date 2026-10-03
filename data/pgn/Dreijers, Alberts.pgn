@@ -1,0 +1,26 @@
+[Event "Shakhmaty (Riga)"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Dreijers, Alberts"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3pp3/2p5/3PPk2/4pp2/8/2P2K2/8 w - - 0 1"]
+
+1. e6 $1 d6 $1 (dxe6 2. dxc6) 2. dxc6 Kxe6 3. c4 d5 4. c5 $1 d4 (e3+ 5. Kf3 $1 d4 6. Ke2) 5. Ke1 $1 e3 6. Ke2 1-0
+
+[Event "Shakhmaty (Riga)"]
+[Source "Shakhmaty (Riga)/6"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Dreijers, Alberts"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/pk6/3P4/1K6/6p1/8/7P/8 w - - 0 1"]
+
+1. d7 $1 (1. Kc5 $2 Kc8 2. Kc6 Kd8 3. d7 a5) Kc7 2. Ka6 (2. d8=Q+ $2 Kxd8 3. Ka6 Ke7 4. Kxa7 Kf6) Kxd7 3. Kxa7 Kc7 $1 4. Ka8 $1 (4. Ka6 $2 Kc6) Kc6 5. Kb8 Kd5 6. Kc7 Ke4 7. Kd6 Kf3 8. Ke5 Kg2 9. Kf4 1/2-1/2

@@ -1,0 +1,4 @@
+# Copy to .dev.vars and replace with a locally generated secret.
+BETTER_AUTH_URL=http://localhost:4321
+BETTER_AUTH_SECRET=replace-with-openssl-rand-base64-32
+LICHESS_CLIENT_ID=keymove-localhost-dev

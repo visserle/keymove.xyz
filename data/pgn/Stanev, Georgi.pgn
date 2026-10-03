@@ -1,0 +1,13 @@
+[Event "Shakhmatna Misl#81"]
+[Source "Shakhmatna Misl/12"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Stanev, Georgi"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/Pk1p1p2/1Pp5/4P2p/8/6K1/8/8 w - - 0 1"]
+
+1. Kf4 $1 h4 2. e6 $1 fxe6 3. Ke5 h3 4. Kd6 h2 5. a8=Q+ Kxa8 6. Kc7 h1=Q 7. b7+ Ka7 8. b8=Q+ Ka6 9. Qb6# 1-0

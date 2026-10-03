@@ -1,0 +1,13 @@
+[Event "Schakend Nederland (cr)"]
+[Source "Schakend Nederland/4"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Dirkse, A"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6r1/4P3/6N1/8/8/7k/7b/3K4 w - - 0 1"]
+
+1. Nf8 $1 Rg1+ 2. Ke2 (2. Kd2 $2 Bf4+) Bg3 3. Ne6 $1 Re1+ 4. Kf3 Rxe6 5. e8=Q Rxe8 1/2-1/2

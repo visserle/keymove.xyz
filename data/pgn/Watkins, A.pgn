@@ -1,0 +1,13 @@
+[Event "The Chess Amateur#27"]
+[Source "The Chess Amateur/9"]
+[Date "1908.??.??"]
+[Round "?"]
+[Composer "Watkins, A"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3K4/1k6/1N6/5B2/p1p2p2/8 w - - 0 1"]
+
+1. Nxa2 $1 f1=Q 2. Be2+ Qxe2 3. Nc3+ Kc4 4. Nxe2 1/2-1/2

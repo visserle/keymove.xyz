@@ -1,0 +1,12 @@
+[Event "Albion#0259"]
+[Date "1853.12.10"]
+[Round "?"]
+[Composer "Bowly, F"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1kN5/1Pp5/P4p2/3q1P1B/1p5K/1P6/8/8 w - - 0 1"]
+
+1. a7+ $1 Kxb7 2. a8=Q+ Kxa8 3. Nb6+ cxb6 4. Bf3 Qxf3 1/2-1/2

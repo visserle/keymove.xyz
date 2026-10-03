@@ -1,0 +1,12 @@
+[Event "Chess#218"]
+[Date "1940.08.20"]
+[Round "?"]
+[Composer "Attwell, S"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6R1/8/5k2/p4p2/P3b3/p7/4K3/8 w - - 0 1"]
+
+1. Rg3 $1 (1. Rg1 $2 a2 2. Ra1 Bb1) a2 2. Ra3 Bd5 3. Kd2 f4 4. Kc2 f3 5. Rxf3+ $1 Bxf3 6. Kb2 1/2-1/2

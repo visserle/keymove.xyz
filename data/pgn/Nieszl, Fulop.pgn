@@ -1,0 +1,139 @@
+[Event "Magyar Sakkvilág#302"]
+[Source "Magyar Sakkvilág/7"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Nieszl, Fulop"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2N5/8/7p/4k2P/6B1/2p3K1/8 w - - 0 1"]
+
+1. Bf4 $1 Kxf4 2. Nd5+ Ke5 (Kf5 3. Ne3+) (Kg4 3. Ne3+) 3. Nb4 1/2-1/2
+
+[Event "Revista de Romana de Sah#0231"]
+[Source "Revista de Romana de Sah/8"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Nieszl, Fulop"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7r/8/2P5/1P6/K3k3/8/8/8 w - - 0 1"]
+
+1. b6 $1 (1. c7 $2 Ra8+ 2. Kb4 Kd5) (1. Ka5 $2 Kd5 2. Kb6 Kd6 3. Kb7 Rh7+ $1 4. Kc8 (4. Kb8 Rh5) Kc5 $1 (Rh5 $2 5. c7 Rxb5 6. Kd8 Rh5 7. c8=N+ $1) 5. c7 Kb6) Kd5 (Ra8+ 2. Kb5 Kd5 3. c7 $1 (3. b7 $2 Rb8)) 2. Kb5 Kd6 3. c7 (3. b7 $2 Kc7) Kd7 4. Ka6 Kc6 $1 5. Ka7 Rg8 (Rc8 6. b7) 6. c8=Q+ $1 Rxc8 7. b7 Rc7 8. Ka8 Rxb7 1/2-1/2
+
+[Event "6.hm Revista de Romana de Sah#0297"]
+[Source "Revista de Romana de Sah/9"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Nieszl, Fulop"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2pp2p1/1N4Pp/2k3PP/4P3/1p2K3/8 w - - 0 1"]
+
+1. Na3+ $1 Kb3 2. Nb1 Kc2 3. Nd2 hxg4 4. Nc4 $1 (4. h5 $2 g3 5. Nc4 g2) b1=N $1 5. Na3+ $1 Nxa3 6. h5 Nb5 (Nc4 7. hxg6) 7. h6 $1 (7. hxg6 $2 Nc3+ 8. Ke1 Nd5) 1-0
+
+[Event "Revista de Romana de Sah#0334"]
+[Source "Revista de Romana de Sah/8"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Nieszl, Fulop"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p2KBk/2p4p/2p1P2P/p1P5/5p2/8/N7 w - - 0 1"]
+
+1. Nc2 $1 f2 2. Ne3 a3 3. e6 (3. Ng4 $2 f1=Q+ 4. Nf6+ Qxf6+ 5. Bxf6 a2 6. e6 a1=Q 7. Bxa1) a2 4. e7 a1=Q 5. e8=N $1 f1=Q+ 6. Nxf1 Qxf1+ 7. Nf6+ Qxf6+ 8. Kxf6 (8. Bxf6 $2) 1-0
+
+[Event ".c Revista de Romana de Sah#0355"]
+[Source "Revista de Romana de Sah/3"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Nieszl, Fulop"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/5R2/7p/7p/N4K1k w - - 0 1"]
+
+1. Ke2 $1 Kg2 (Kg1 2. Rf1+ Kg2 3. Nc2 h1=Q 4. Ne3+ Kh2 5. Ng4+ Kg2 6. Rxh1 Kxh1 7. Kf1 h2 8. Nf2#) 2. Nc2 $1 h1=Q (h1=N 3. Ne3+) 3. Rg4+ Kh2 4. Ne1 $1 Qd5 5. Nf3+ Qxf3+ 6. Kxf3 Kh1 7. Kg3 h2 8. Ra4 1-0
+
+[Event "Revista de Romana de Sah#0441"]
+[Source "Revista de Romana de Sah/4"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Nieszl, Fulop"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p6/PK6/3B1p2/6kp/8/2r5/8 w - - 0 1"]
+
+1. a7 $1 Rc8 2. Bxb7 Rh8 (Rf8 3. Kc7 h3 4. Bc8 Rf7+ 5. Bd7 Rf8) 3. Kc5 $1 f4 4. Kd4 Rd8+ 5. Bd5 h3 6. a8=Q $1 Rxa8 7. Bxa8 h2 8. Bh1 $1 1/2-1/2
+
+[Event "Revista de Romana de Sah#0516"]
+[Source "Revista de Romana de Sah/10"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Nieszl, Fulop"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k4/3P4/5K2/P6p/pn6/1P6/1P2p2p/2R5 w - - 0 1"]
+
+1. a6 $1 (1. Ke6 $2 Nc2 $1) Nxa6 2. Ke6 Nc5+ 3. Kd6 Nxd7 $1 (Ne4+ 4. Ke6 Nc5+ 5. Kd6) 4. bxa4 $1 (4. Kd5 $2 h4 $1) Nf6 (h4 5. a5 Nf6 6. a6) 5. Ke5 Ng4+ 6. Kf4 Nf2 7. Ke3 $1 Nh3 8. Kf3 Ng1+ 9. Kg2 h1=Q+ 10. Kxh1 Nf3 11. Kg2 e1=Q 12. Rxe1 Nxe1+ 13. Kg3 1/2-1/2
+
+[Event "3.c Revista de Romana de Sah#0589"]
+[Source "Revista de Romana de Sah/12 1969 EG#02730."]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Nieszl, Fulop"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6p1/8/1p6/p3k2p/4P1P1/1P1K2P1/8 w - - 0 1"]
+
+1. gxh4 $1 b4 2. h5 $1 a3 3. bxa3 bxa3 4. Kc3 Kxe3 5. Kb3 Kf4 6. Kxa3 Kg3 7. Kb3 (7. Kb4 {<or>}) (7. Kb2 {<or>}) Kxg2 8. Kc3 (8. Kc4 {<or>}) (8. Kc2 {<or>}) Kg3 9. Kd3 (9. Kd2 {<or>}) Kg4 10. h6 $1 gxh6 11. Ke2 Kg3 12. Kf1 Kh2 13. Kf2 1/2-1/2
+
+[Event "Revista de Romana de Sah#0602"]
+[Source "Revista de Romana de Sah/5"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Nieszl, Fulop"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6pk/8/8/3p4/8/6P1/5K2 w - - 0 1"]
+
+1. Ke2 $1 Kg6 2. Kd3 Kg5 3. Kxd4 Kf4 $1 4. Kd3 $1 (4. Kd5 $2 g5 5. Ke6 g4 6. Kf6 g3 7. Kg6 Ke3 8. Kg5 Kf2) g5 5. Ke2 Kg3 6. Kf1 Kh2 $1 7. g4 $1 (7. Kf2 $2 g4 8. g3 Kh3 9. Kf1 Kxg3 10. Kg1 Kh3 11. Kh1 g3 12. Kg1 g2 13. Kf2 Kh2) Kg3 8. Kg1 Kxg4 9. Kg2 Kh4 10. Kh2 1/2-1/2
+
+[Event "Revista de Romana de Sah#0614"]
+[Source "Revista de Romana de Sah/10"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Nieszl, Fulop"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5p2/6p1/p3K1P1/PkP5/8/8 w - - 0 1"]
+
+1. Kd3 $1 Kxa3 2. Kc2 Ka2 3. c4 f5 4. c5 f4 (fxg4 {<main>} 5. c6 g3 6. c7 g2 7. c8=Q g1=Q 8. Qc4+ Ka3 9. Qc3+) 5. c6 f3 6. Kd2 1-0

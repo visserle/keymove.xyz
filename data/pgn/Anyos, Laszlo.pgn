@@ -1,0 +1,13 @@
+[Event "Magyar Sakkélet#0483"]
+[Source "Magyar Sakkélet/12"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Anyos, Laszlo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p7/8/3K3p/1P3k2/P6P/8 w - - 0 1"]
+
+1. b4 $1 h3 2. a3 $1 Kg2 3. Ke3 Kxh2 4. Kf2 Kh1 (a5 5. b5 $1 a4 6. b6 Kh1 7. b7 h2 8. Kg3 Kg1 9. b8=Q h1=Q 10. Qb1#) 5. Kg3 $1 h2 6. Kf2 a5 7. a4 $1 axb4 8. a5 b3 9. a6 b2 10. a7 b1=Q 11. a8=Q+ 1-0

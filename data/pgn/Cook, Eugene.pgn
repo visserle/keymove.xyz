@@ -1,0 +1,16 @@
+[Event "Tijdschrift v.d. KNSB"]
+[Source "Tijdschrift v.d. KNSB/11"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Cook, Eugene"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/K1p1P3/4r2P/5k2/1P4pb/8/4P2P/R7 w - - 0 1"]
+
+1. h7 $1 (1. Rc1 Rxe7 2. Rf1+ Kg6) (1. Re1 Bxe1 2. e4+ Kxe4) (1. Rg1 Bf2+ 2. Kb8 Bxg1 3. e4+ Kxe4) (1. h3 Kg6 2. e8=Q+ Rxe8 3. Ra6+ Kg5) (1. Ra2 Bxe7 2. Ra5+ Kg6) Bf2+ (Bf6 2. Rf1+ (2. Ra6 $4 Bd4+ 3. Kb8 Rxe7 4. e4+ Kg5 5. Ra5+ Kg6) (2. Ra5+ $4 Kg6 $17) (2. e4+ $4 Kg5 3. Ra5+ Kh4) (2. Rg1 $4 Bd4+ 3. Kb8 Rxe7 4. e4+ Kf4 5. Rf1+ Kxe4 6. Re1+) (2. Kb8 Bxa1) (2. Ra2 Rxe7 3. e4+ Kg6) (2. Rb1 Bd4+ 3. Kb7 Rxe7 4. Rf1+ Kg5) (2. b5 Bxa1) (2. h4 Bxa1) Kg6 3. Rxf6+ $18 (3. Kb8 Bg7 4. Rf8) (3. b5 Bd4+ 4. Kb8 Kxh7 5. Kxc7 Rxe7+ 6. Kd6 Rxe2) (3. Rg1 Kh5) (3. h4 Be5 4. Rf4 Rxe7 5. Rxg4+ Kxh7 6. Kb7) (3. Rf2 Bd4+ 4. Kb8 Kxh7 5. Rf7+ Kg6) (3. Re1 Rxe7) Rxf6 4. e8=Q+) 2. Kb8 $1 (2. Kb7 $6 $2 Bd4 3. e4+ $14 Rxe4 4. Ra5+ c5 $1 5. Rxc5+ Kg6 6. Rc4 (6. Re5 Rxe5 7. h8=Q Rxe7+) Rxe7+) (2. Ka8 $2 Bd4 3. Rf1+ $10) (2. e3 $2 Bxe3+ 3. Kb8 $10) Bd4 3. e4+ (3. Rf1+ $2 Kg6 4. h8=R $10) (3. Ra5+ $2 Ke4 4. Rg5 $10) (3. e3 $4 Bxa1 $19 4. Kxc7 Rxe7+ 5. Kc6 Rxh7) (3. Rd1 $2 Rxe7 4. e4+) (3. Kxc7 $4 Rxe7+ 4. Kd8 Rxh7) (3. Ra6 $4 Rxe7 4. e4+ Kxe4) (3. Kc8 $4 Bxa1 4. e4+ Kg6) (3. Re1 $4 Rxe7 4. e4+ Ke6) (3. Ra8 $4 Rxe7 4. Ra5+ Kg6) (3. Ra4 Rxe7 4. Ra5+ Kg6) Rxe4 (Kxe4 4. Re1+ (4. h8=Q $18) (4. Rf1 Rxe7 5. Re1+ $18) (4. Rb1 $2 Kf5 5. Rf1+) Kf5 5. Rxe6 $1 $18 (5. e8=Q $18) (5. Rf1+ $2 Kg5 6. Rd1 $10)) (Kg6 4. Ra6) (Kg5 4. e5 Bxe5 5. Re1 Rxe7 6. Rxe5+ Rxe5 7. h8=Q) (Kf4 4. Rf1+ Ke3 5. e5 Bxe5 6. Re1+) 4. Ra5+ (4. Rf1+ $2 Kg5 5. Rf7 $10) (4. Rd1 $2 Rxe7 5. Rxd4 Rxh7 6. Rd2) (4. Ra2 $4 Rxe7 5. Ra5+ Kg6) (4. Ra6 $4 Rxe7 5. Ra5+ Kg6) (4. Ra7 $4 Rxe7 5. Ra5+ Kg6) Kf4 (c5 5. Rxc5+ (5. bxc5 $2 Rxe7 6. c6+ $10) (5. Kc8 $2 Rxe7 6. Rxc5+ Kg6 7. Rc4) Kg6 6. Rc4 $1 $18 (6. Rc6+ $2 Kf7 7. Rh6 $10) (6. Rd5 $2 Bb2 7. Rd8 $10) (6. Rc8 $2 Rxe7 7. h8=R $10) (6. h8=Q $2 Bxh8 7. Rc8) Kxh7 7. Rxd4 Rxe7 8. Rxg4) 5. Re5 $1 (5. Rc5 $4 Rxe7 6. Rxc7 Re8+) (5. Rd5 $2 Bf6 6. Rd7 $10) (5. Rh5 $2 Rxe7 6. h8=Q $10) (5. h8=Q $4 Bxh8 6. Kxc7 Rxe7+ 7. Kc6 Re2) (5. Kxc7 $4 Rxe7+ 6. Kc6 Rxh7) (5. Rb5 Rxe7) (5. Ra6 Rxe7) Rxe5 (Bxe5 6. e8=Q) 6. h8=Q (6. h8=B $4 Ba7+ 7. Kxa7 Rxe7) (6. h3 Rxe7 7. hxg4 c6) Rb5+ 7. Kc8 $1 (7. Kxc7 $6 Bxh8 8. e8=Q Be5+ 9. Kc6 Rb8 $18) (7. Ka8 $6 Bxh8 8. e8=Q $18) Bxh8 8. e8=Q $18 (8. Kxc7 $4 Be5+ 9. Kd7 Rb7+ $19) 1-0

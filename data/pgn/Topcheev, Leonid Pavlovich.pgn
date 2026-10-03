@@ -1,0 +1,39 @@
+[Event "64#199"]
+[Date "1927.01.30"]
+[Round "?"]
+[Composer "Topcheev, Leonid Pavlovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3Nk3/r7/7R/8/3K4/8/8/8 w - - 0 1"]
+
+1. Rh8+ $1 Kd7 2. Rh7+ Kd6 $1 3. Nf7+ $1 (3. Rxa7 $2) Kc7 (Kc6 4. Ne5+) 4. Ne5+ $1 (4. Nd6+ $2 Kd8 $1 5. Rxa7) Kb6 (Kb8 5. Nc6+) 5. Nc4+ Ka6 6. Rh6+ Kb7 (Kb5 {<main>} 7. Rb6+ Ka4 8. Kc3 Rb7 (Rh7 9. Rb4#) 9. Nb2+ (9. Rxb7 $2) Ka5 10. Rxb7) 7. Nd6+ Kb8 $1 (Ka8 8. Rh8#) 8. Rh8+ Kc7 9. Nb5+ Kb6 10. Nxa7 1-0
+
+[Event "64#199 (m)"]
+[Source "(m): Gurvich=A Shakhmatny Listok#201 Shakhmatna Misl=8 25-4-1927."]
+[Date "1927.01.30"]
+[Round "?"]
+[Composer "Topcheev, Leonid Pavlovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4N3/r4k2/4N3/8/3K2R1/8/8/8 w - - 0 1"]
+
+1. Nd8+ $1 (1. Rg7+ $2 Kxe8 $1 2. Rxa7) (1. Nd6+ $2 Kxe6 2. Rg6+ Kd7 3. Rg7+ Kd8 4. Rxa7) Kxe8 $1 2. Rg8+ Kd7 3. Rg7+ Kd6 $1 4. Nf7+ $1 (4. Rxa7 $2) Kc7 5. Ne5+ (5. Nd6+ $2 Kd8 $1 6. Rxa7) Kb6 $1 6. Nc4+ Ka6 7. Rg6+ Kb7 (Kb5 8. Rb6+ Ka4 9. Kc3 Rb7 $1 10. Nb2+ (10. Rxb7 $2)) 8. Nd6+ $1 Kb8 $1 9. Rg8+ Kc7 10. Nb5+ Kb6 11. Nxa7 1-0
+
+[Event "Isvestia#226"]
+[Date "1928.01.22"]
+[Round "?"]
+[Composer "Topcheev, Leonid Pavlovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/8/2N4P/1p1k2P1/2p3K1/8/8 w - - 0 1"]
+
+1. h6 $1 Kc4 2. h7 c2 3. h8=Q c1=Q 4. Qd4+ Kxd4 5. Nb3+ Kc3 6. Nxc1 Kc2 7. Ne2 Kd2 8. Nd4 Kc3 9. Nb5+ Kc4 10. g5 Kxb5 11. g6 b3 12. g7 b2 13. g8=Q b1=Q 14. Qb8+ 1-0

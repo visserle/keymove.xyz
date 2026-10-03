@@ -1,0 +1,55 @@
+[Event "British Chess Magazine#0308"]
+[Source "British Chess Magazine/5"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Zepler, Erich Ernest"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5K2/5P2/4p1p1/5k2/5B2/8 w - - 0 1"]
+
+1. Ke5 $1 (1. Kg5 $2 g3 $1 2. Bxg3 Kxg3 3. f6 e3 4. f7 e2 5. f8=Q e1=Q) e3 (g3 2. Bxg3 Kxg3 3. Kxe4) (Kxf2 2. f6 e3 (g3 3. f7 g2 4. f8=Q+) 3. f7 e2 4. f8=Q+) 2. Bxe3 Kxe3 3. f6 g3 4. f7 g2 5. f8=Q g1=Q 6. Qc5+ Kf3 7. Qxg1 1-0
+
+[Event "British Chess Magazine#0299 @2"]
+[Source "Bri@ish Chess Magazine/3 î2: Ulrichsen=J HHdbIII#50250 27-5-2003."]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Zepler, Erich Ernest"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p3p1/8/4p3/1P5P/4K3/8/4k3 w - - 0 1"]
+
+1. b5 $1 (1. h5 $2 Kd1 $1 2. Ke4 Kc2 3. Kxe5 Kb3 4. b5 Kc4 5. Ke6 Kxb5 6. Kf7 c5 7. Kxg7 c4 8. h6 c3 9. h7 c2 10. h8=Q c1=Q 11. Qb8+ Ka6) Kf1 2. Ke4 (2. h5 {<or>}) Kg2 3. Kxe5 Kg3 4. h5 $1 Kg4 5. Kd5 (5. Ke6 $1 {<minor dual JU>} Kxh5 6. Kd7 g5 7. Kxc7) Kxh5 6. Kc6 g5 7. Kxc7 g4 8. b6 g3 9. b7 g2 10. b8=Q g1=Q 11. Qh8+ Kg6 12. Qg8+ 1-0
+
+[Event "sp.p British Chess Federation ty"]
+[Source "EG#01114."]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Zepler, Erich Ernest"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p3/4K3/8/1P5P/4k3/4n3/8 w - - 0 1"]
+
+1. Ke5 $1 (1. b5 $2 Nd4+ 2. Kxe7 Kf4 $1 (Nxb5 $2 3. h5 $1 Nd4 4. Kf6) 3. b6 Nc6+) (1. h5 $2 Nf4+ 2. Kxe7 Nxh5 $1 (Kd4 $2 3. h6) 3. b5 Nf4 4. Kd6 Nd3 5. b6 Nb4 6. b7 Na6) Nf4 (Kf3 {<main>} 2. h5 $1 (2. b5 $2 Kg4 3. b6 Nc1 4. h5 Kxh5 5. b7 Nd3+ 6. Kf5 e6+ 7. Kf6 Nc5)) (Nd4 2. h5 Nc6+ 3. Ke6 Ke4 4. h6) 2. b5 $1 Kf3 (Ng6+ {<main>} 3. Ke6 (3. Kd5 $2 Nf8 $1) Ke4 4. b6 Nf4+ 5. Kf7 $1 (5. Kd7 $2 Nd3 $1 6. Kc6 Ne5+ 7. Kc7 Nd3 $1) (5. Kxe7 $2 Nd5+ 6. Ke6 Nxb6 7. h5 Nd7 $1 8. Kxd7 Kf5)) 3. b6 Kg4 4. h5 $1 (4. b7 $2 Nd3+ 5. Kd4 Nb4) 1-0
+
+[Event "British Chess Magazine#1072"]
+[Source "British Chess Magazine/5"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Zepler, Erich Ernest"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/P7/8/4p3/2n1K2k/5R1p/8 w - - 0 1"]
+
+1. Rf5 $1 h1=Q 2. Rh5+ Kg2 3. Rxh1 Kxh1 4. a7 Nd5+ 5. Kxe4 Nc7 6. Kd3 Kg2 7. Kc4 Kf3 8. Kc5 Ke4 9. Kc6 Na8 10. Kb7 Kd5 11. Kxa8 Kc6 12. Kb8 1-0

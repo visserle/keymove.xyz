@@ -1,0 +1,12 @@
+[Event "source unknown"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Kilicaslan, H"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/Pk6/2p5/4Pp1p/K1P2P2/7b/8 w - - 0 1"]
+
+1. e5 $1 Bg1 2. a7 $1 (2. e6 $2 c4 3. a7 Bc5+) Kxa7 3. e6 c4 4. Kb4 (4. e7 $2 Bc5+) Kb6 5. e7 Bc5+ 6. Ka4 $1 (6. Kxc4 $2 Bxe7) Bxe7 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "The Problemist#0177 (c)"]
+[Source "The Problemist/4-6 (c): The Problemist=4 10-12/1976."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "McSheehy, C"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1R6/4bP2/8/8/1pP5/8/K1k5 w - - 0 1"]
+
+1. c4 $1 Bxc4 2. Rb4 Bf7 3. Rb5 Bc4 4. Rb7 Kc2 5. f7 Bxf7 6. Rc7+ Kd2 7. Rxf7 1-0

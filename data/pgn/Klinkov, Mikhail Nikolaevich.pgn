@@ -1,0 +1,160 @@
+[Event "3.p Komsomolets Zaporozjskaja"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Klinkov, Mikhail Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7r/6kp/Pp3R2/5K1P/8/8/1P3pb1/8 w - - 0 1"]
+
+1. h6+ $1 Kg8 2. Ke6 f1=Q 3. Rxf1 Bxf1 4. a7 Bg2 5. Ke7 b5 6. b4 Ba8 7. Ke8 Bh1 8. Ke7 Bc6 9. Kd6 Ba8 10. Ke7 1/2-1/2
+
+[Event "Novi Temi"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Klinkov, Mikhail Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7p/8/8/N1b5/3k1p1B/7K w - - 0 1"]
+
+1. Nc4+ $1 Ke2 2. Ne3 $1 Kxe3 3. Bg1 $1 fxg1=Q+ 4. Kxg1 1/2-1/2
+
+[Event "Szachy#481"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Klinkov, Mikhail Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/8/8/5P2/pk6/7P/2K5 w - - 0 1"]
+
+1. Kb1 $1 a2+ 2. Ka1 Kc4 3. h4 Kd5 4. h5 Ke6 5. h6 Kf6 6. f5 1-0
+
+[Event "Shakhmaty v SSSR#37"]
+[Source "Shakhmaty v SSSR/10"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Klinkov, Mikhail Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5k1P/1P5K/8/7n/8/8 w - - 0 1"]
+
+1. h7 $1 (1. b6 $2 Nf4+ 2. Kg4 Nd3 3. b7 Ne5+ 4. Kf4 Nd7) Kg7 2. h8=Q+ $1 Kxh8 3. b6 Nf4+ 4. Kh6 $1 1-0
+
+[Event "Problemista#1590"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Klinkov, Mikhail Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3B3K/8/6kN/2b3p1/6PP/8/5p2/8 w - - 0 1"]
+
+1. h5+ $1 Kxh6 2. Bf6 Bf8 3. Kg8 f1=Q 4. Bg7+ Bxg7 1/2-1/2
+
+[Event "Thèmes 64#1580"]
+[Source "Thèmes 64/1-3"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Klinkov, Mikhail Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K6/8/7P/r6p/7k/8/5N2/8 w - - 0 1"]
+
+1. h7 $1 Rb5+ 2. Kc7 Rc5+ 3. Kd7 Rd5+ 4. Ke7 Re5+ 5. Kf7 Rf5+ 6. Kg7 Rg5+ (Rxf2 7. h8=Q) 7. Kf6 (7. Kh6 {<or>}) Rg8 $1 8. hxg8=B (8. hxg8=Q $2) 1-0
+
+[Event "Szachy#565"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Klinkov, Mikhail Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5KR1/8/2N5/7k/2N2p1p/8 w - - 0 1"]
+
+1. Rh6+ $1 Kg2 2. N2e3+ Kg1 3. Rxh2 Kxh2 4. Nf1+ Kh3 5. Kg5 Kg2 6. Ncd2 Kh3 7. Kh5 Kg2 8. Kg4 Kh1 9. Kg3 Kg1 10. Kh3 Kh1 11. Ng3+ Kg1 12. Nf3# 1-0
+
+[Event "Sinfonie Scacchistiche#0340"]
+[Source "Sinfonie Scacchistiche/1-3"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Klinkov, Mikhail Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B6/2K5/8/8/5k2/4p3/3R4/b7 w - - 0 1"]
+
+1. Kc6+ $1 Be5 2. Rd4+ Kf3 3. Bxe5 e2 4. Rf4+ Ke3 5. Kd5 e1=Q 6. Re4+ Kd2 (Kf2 7. Bg3+) 7. Bc3+ 1-0
+
+[Event "Problemista"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Klinkov, Mikhail Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3B3Q/8/2pp2p1/8/3K2P1/1P6/pkp1p3/8 w - - 0 1"]
+
+1. Kd3+ $1 Kb1 2. Qa1+ $1 Kxa1 3. Kxc2 e1=Q (e1=N+ 4. Kc1 Nd3+ 5. Kc2 Nb4+ 6. Kc1) 4. Bf6+ Qe5 5. g5 c5 6. Kc1 Qd4 7. Kc2 (7. b4 $2 Qxf6 8. gxf6 cxb4) Qe5 8. Kc1 Qd4 9. Kc2 1/2-1/2
+
+[Event "Gazeta Czestochowska"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Klinkov, Mikhail Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k4K1/1P2b3/P6B/Pp6/7q/8/3R4/8 w - - 0 1"]
+
+1. Rc2 $1 Qg4+ 2. Kf7 Qf5+ 3. Kxe7 Qxc2 4. Bf4+ Qc7+ 5. Bxc7+ Kxc7 6. b8=Q+ Kxb8 7. Kd6 b4 8. Kc5 b3 9. Kb6 b2 10. a7+ Ka8 11. Ka6 b1=Q 1/2-1/2
+
+[Event "Problemista#2376"]
+[Source "Problemista/1-3"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Klinkov, Mikhail Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1r2B3/p7/4P1p1/2p3p1/2P3k1/5pP1/5P2/7K w - - 0 1"]
+
+1. Bd7 $1 Kh3 $1 2. e7+ g4 3. Bb5 a5 4. e8=Q Rxe8 5. Bxe8 a4 6. Bxg6 (6. Bxa4 $2 g5 7. Bc2) a3 7. Bd3 a2 8. Bf1# 1-0
+
+[Event "sp.p Bulletin Central Chess Club USSR#2"]
+[Source "Bulletin Central Chess Club USSR/8 EG#04040."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Klinkov, Mikhail Nikolaevich"]
+[White "Klinkov, M"]
+[Black " Kuznetsov, AP."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/1P4R1/3b1p2/5p2/3K1p2/4p1P1/8/8 w - - 0 1"]
+
+1. Kd5 $1 e2 2. Kc6 $1 Ka7 3. Rg8 Bb8 4. Re8 f3 5. Re3 Bd6 6. Rb3 Kb8 7. Rb1 Be5 8. Rh1 Ka7 9. Rh8 Bb8 10. Re8 f2 11. Re3 $1 (11. Rxe2 $2 f1=Q) Bd6 12. Rxe2 f1=Q 13. Ra2+ Qa6+ 14. Rxa6+ Kxa6 15. Kxd6 1-0

@@ -1,0 +1,122 @@
+[Event "Shakhmaty v SSSR#28"]
+[Source "Shakhmaty v SSSR/12"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Tavariani, Revaz Levonovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p4B/8/7P/8/2p5/8/1K1kn3 w - - 0 1"]
+
+1. h6 $1 (1. Be4 $2 c5 $1 2. h6 c4 3. h7 Nd3) c5 2. Ka2 $1 (2. Be4 $2 c4 3. h7 Nd3) (2. Ka1 $2 c4 3. Bb1 c2 4. Bxc2+ Nxc2+ 5. Kb2 Kd2 6. h7 c3+) c4 3. Bb1 $1 c2 4. Bxc2+ Nxc2 5. h7 1-0
+
+[Event "1.sp.p Molodost Gruzzi"]
+[Source "EG#01145.28.p USSR overall champ X 1969-1970."]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Tavariani, Revaz Levonovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K6/p7/2kPp1p1/2p2p2/P1P5/1p6/1P2pP1B/8 w - - 0 1"]
+
+1. Kc8 $1 e1=Q 2. d7 Qb4 $1 3. d8=N+ $1 (3. d8=Q $2 Qb7#) Kb6 4. Bc7+ Ka6 5. Nc6 $1 Qb7+ 6. Kd7 Qa8 7. Nb8+ Kb7 8. a5 $1 a6 (Qxb8 9. Bxb8 Kxb8 10. f4) 9. f4 $1 (9. Bd6 $2 g5) Ka7 10. Nc6+ Kb7 11. Bb8 $1 1-0
+
+[Event "2.p USSR team champ VII (tt)"]
+[Source "EG#01592. USSR team champ VII 1970-1971."]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Tavariani, Revaz Levonovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/1P1k4/P2Pp3/4Pp2/2p2P2/2p4p/2b5/6b1 w - - 0 1"]
+
+1. a7 $1 h2 2. a8=B Ba7+ 3. Kxa7 h1=Q 4. b8=N+ Ke8 5. Bc6+ Kd8 6. Bxh1 Ba4 7. Bc6 c2 8. Bxa4 c1=Q 9. Nc6+ Kc8 (Ke8 10. Nd4+ Kf7 11. d7 Ke7 12. Nxe6) 10. Ne7+ Kd8 11. Nc6+ 1/2-1/2
+
+[Event "2.p USSR team champ VII (tt) (v)"]
+[Source "USSR team champ VII 1970-1971"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Tavariani, Revaz Levonovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/1P1k4/P2Pp3/4Pp2/5P2/2p4p/2b5/6b1 w - - 0 1"]
+
+1. a7 $1 h2 (Bxa7+ 2. Kxa7) 2. a8=B $1 (2. a8=Q $2 h1=Q) Ba7+ (h1=Q) 3. Kxa7 h1=Q 4. b8=N+ $1 (4. b8=Q $2 Qa1+ 5. Kb6 Qb2+ 6. Ka7 Qa3+ 7. Kb6 Qb4+ 8. Ka7 Qa5+ 9. Kb7 Be4#) Kd8 5. Bxh1 Ba4 6. Bc6 $1 c2 (Bxc6 7. Nxc6+) 7. Bxa4 c1=Q 8. Nc6+ Kc8 9. Ne7+ Kd8 10. Nc6+ Kc8 (Ke8 11. Kb8) 11. Ne7+ 1/2-1/2
+
+[Event "Socialist Rustavi (tw)"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Tavariani, Revaz Levonovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r2k1b2/P7/KP6/2P5/8/5p2/8/8 w - - 0 1"]
+
+1. c6 $1 Bc5 2. c7+ $1 Kd7 3. Kb7 Rc8 (Bxb6 4. Kxa8 Kxc7) (f2 4. Kxa8 f1=Q 5. c8=Q+ Kxc8 6. b7+ Kd7 7. b8=Q Qf3+ 8. Qb7+ Qxb7+ 9. Kxb7) 4. a8=Q Rxa8 5. Kxa8 Bxb6 6. c8=Q+ Kxc8 1/2-1/2
+
+[Event "64#43"]
+[Date "1972.06.02"]
+[Round "?"]
+[Composer "Tavariani, Revaz Levonovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5K2/3k4/5PP1/7r/4n3/8/8/8 w - - 0 1"]
+
+1. f7 $1 Ng5 2. g7 Nh7+ $1 3. Kg8 Nf6+ $1 4. Kf8 Rf5 $1 5. g8=Q Nxg8 6. Kg7 $1 Rg5+ 7. Kf8 $1 Nf6 (Rf5 8. Kg7 $1) 1/2-1/2
+
+[Event "64#72"]
+[Date "1976.11.19"]
+[Round "?"]
+[Composer "Tavariani, Revaz Levonovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4K3/2R1P3/4p3/8/3p4/k7 w - - 0 1"]
+
+1. Ra5+ $1 Kb1 2. Rb5+ Kc1 3. Rc5+ Kb1 4. Rb5+ Kc2 5. Rd5 e3 6. Kd7 e2 7. Rxd2+ Kxd2 8. e6 e1=Q 9. e7 1/2-1/2
+
+[Event ".c 64 Shakhmatnoye Obozrenye#68"]
+[Source "EG#05933."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Tavariani, Revaz Levonovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1B2k3/2R5/8/p7/2K5/pP6/8 w - - 0 1"]
+
+1. Rc7+ $1 Kd6 (Ke8 2. Bc6+ Kf8 3. Rf7+ Kxf7 4. Bd5+) (Kd8 2. Rh7 a1=Q 3. Rh1 Qa2 4. Rd1+ Kc7 5. Bd5) 2. Rh7 a1=Q 3. Rh1 Qa2 4. Rd1+ Kc5 5. Bd5 $1 Qxd5 6. Rxd5+ Kxd5 7. Kb4 1-0
+
+[Event "sp.p Chavchavadze MT"]
+[Source "EG#07784."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Tavariani, Revaz Levonovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2K5/3p2p1/5p2/8/4p1P1/3B1kP1/5B2 w - - 0 1"]
+
+1. Bxe3+ $1 (1. Bc1 $2 Kxf1 2. Bxe3 Kxg2 3. Bf4 g5) Kxf1 (Kxe3 {<main>} 2. Bc4 Kf2 (Kd4 3. Bf7) 3. Bd5 Kxg3 4. Kxd6 g5 5. Ke5 f4 6. Bf3 g4 7. Ke4 gxf3 8. gxf3) 2. Kxd6 Kxg2 3. Bf4 Kf3 4. Ke5 Kg4 5. Kf6 g5 (Kh5 6. Be5) 6. Ke5 gxf4 7. gxf4 1-0

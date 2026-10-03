@@ -1,0 +1,13 @@
+[Event "Europa Rochade#0482"]
+[Source "Europa Rochade/12"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Krausser, Helmut"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p5/8/p7/8/1pP5/p7/k1KR4 w - - 0 1"]
+
+1. Rd2 $1 a4 (c6 2. c4) 2. Rb2 c6 3. c4 c5 4. Rd2 $1 a3 5. Rd1 b2+ 6. Kc2+ $1 b1=Q+ (b1=N 7. Kb3) 7. Kc3 Qxd1 (Qc1+ 8. Rxc1#) 1/2-1/2

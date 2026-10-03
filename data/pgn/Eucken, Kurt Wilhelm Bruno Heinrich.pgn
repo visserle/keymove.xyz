@@ -1,0 +1,12 @@
+[Event "Cabalgata"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Eucken, Kurt Wilhelm Bruno Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7B/7K/8/6k1/3p4/8/3Np3/8 w - - 0 1"]
+
+1. Nf3+ $1 (1. Bxd4 $2 e1=N) Kf4 2. Ne1 Ke3 (d3 3. Bg7 (3. Nxd3+ $2 Ke3 4. Ne1 Kd2)) 3. Bf6 $1 Kd2 4. Bh4 d3 5. Kg6 Kc3 6. Bd8 $1 Kd2 7. Ba5+ Ke3 8. Kf5 d2 9. Bb6# 1-0

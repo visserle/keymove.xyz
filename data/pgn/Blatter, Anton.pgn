@@ -1,0 +1,26 @@
+[Event "Basler Nachrichten"]
+[Source "Basler Nachrichten/10"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Blatter, Anton"]
+[White "Blatter, A"]
+[Black " Haefele, H."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/1p1k4/6N1/4K3 w - - 0 1"]
+
+1. Kd1 $1 b2 2. Nf4+ Kc3 3. Ne2+ $1 Kb3 4. Nc1+ 1/2-1/2
+
+[Event "Schweizerische Schachzeitung#625"]
+[Date "1945.??.??"]
+[Round "?"]
+[Composer "Blatter, Anton"]
+[White "Blatter, A"]
+[Black " Haefele, H."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/4pN2/7K/5p2/8/2B1k3 w - - 0 1"]
+
+1. Ba3 $1 f2 2. Bb4+ Kf1 $1 3. Kh3 e4 4. Kh2 Ke2 5. Ng3+ Kf3 6. Nf1 e3 7. Bc5 e2 8. Nd2+ 1-0

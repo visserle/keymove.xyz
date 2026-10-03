@@ -1,0 +1,39 @@
+[Event "3.p Fizkultura i Sport Committee Ukrain"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Lyubchenko, Georgy Georgievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r3b3/1pkp4/p7/1P6/5N2/K1B5/P7/8 w - - 0 1"]
+
+1. Nd5+ $1 (1. Ba5+ $2 Kd6 2. Bb4+ (2. b6 Bf7) Ke5 3. Nd3+ Kd4 4. Nc5 axb5+) (1. Be5+ $2 Kc8 2. b6 (2. Nd5 axb5+) Bf7 3. Bd6 Kd8) Kd6 $1 (Kd8 2. Bf6+ Kc8 3. Nb6+ Kb8 4. Nxa8) (Kb8 2. Be5+ Kc8 3. Nb6+) 2. Nb6 Rd8 3. Bf6 Rb8 4. bxa6 (4. Be5+ $2 Kxe5 5. bxa6 Kd6 6. a7 Rd8 7. a8=Q Rxa8+ 8. Nxa8 Kc6 9. Kb4 b6) bxa6 5. Be5+ Kxe5 6. Nxd7+ Bxd7 1/2-1/2
+
+[Event "11.p Rumania Ukrain match Revista de Ro"]
+[Source "Revista de Romana de Sah/10"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Lyubchenko, Georgy Georgievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k1K/8/8/6P1/3Nr1P1/8/2b5/8 w - - 0 1"]
+
+1. g6 $1 (1. Nxc2 $2 Re2 2. Kh7 Rxc2) Rxg4 (Re7 2. Ne6+ Ke8 3. g7) (Rxd4 2. g7+) (Re8 2. Nxc2 Ke7+ 3. Kh7 Kf6 4. g5+ Kxg5 5. g7 Re7 6. Kh8) 2. g7+ Kf7 (Rxg7 3. Ne6+) 3. Nf3 $1 Rxg7 (Rg3 4. Ne5+ Kf6 5. Nd7+ (5. g8=Q $2 Rh3+) Kf7 6. Ne5+) 4. Ne5+ Kf8 5. Nd7+ Kf7 (Rxd7) 6. Ne5+ Kf6 7. Ng4+ Kg6 8. Ne5+ Kh6 9. Ng4+ Rxg4 1/2-1/2
+
+[Event "source unknown"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Lyubchenko, Georgy Georgievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6K1/p5p1/Pk6/8/PPp2B2/8/8 w - - 0 1"]
+
+1. Be4 $1 g5 2. Kf6 g4 3. Ke5 g3 4. Kd6 c2 (Kxa5 {<main>} 5. Kc6 g2 6. Bc2 g1=Q 7. b4#) 5. Bc6+ Kxa5 6. Kc7 c1=Q 7. b4# 1-0

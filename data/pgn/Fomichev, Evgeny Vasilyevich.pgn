@@ -1,0 +1,12 @@
+[Event "Pruboj"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Fomichev, Evgeny Vasilyevich"]
+[White "Fomichev, E"]
+[Black " Hlinka, M."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/6p1/8/3NK3/6pp/1N4k1 w - - 0 1"]
+
+1. Nd2 $1 (1. Nf2 $2 h1=Q 2. Nd2 Qh5 $1 3. Nf3+ Kf1 4. Nd2+ Ke1 5. Nf3+ Qxf3+ $1) g4 $1 2. Nf2 (2. Ne5 $2 Kh1 $1) h1=Q 3. Nxg4 $1 Qh3+ 4. Nf3+ Qxf3+ $1 5. Kxf3 Kh1 6. Nf2+ Kh2 7. Ng4+ Kh1 8. Nf2+ 1/2-1/2

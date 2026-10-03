@@ -1,0 +1,12 @@
+[Event "5.p Bucharest ty"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Niculescu, Marin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k1r5/Pp2p3/1Pp1P3/K1R1P3/2p1P3/8/2P5/8 w - - 0 1"]
+
+1. c3 $1 Rh8 (Rd8 2. Rxc6 $1 Rd5+ 3. exd5 bxc6 4. Ka6) 2. Rxc6 $1 Rd8 $1 3. Kb5 $1 bxc6+ (Rd5+ 4. exd5) 4. Ka6 $1 Rb8 5. axb8=Q+ Kxb8 6. b7 c5 7. Kb5 Kxb7 8. Kxc5 Kc7 9. Kxc4 Kc6 10. Kd4 1-0

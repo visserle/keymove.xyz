@@ -1,0 +1,41 @@
+[Event "The Chess Amateur#0833"]
+[Source "The Chess Amateur/9"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Howell, Clarence Seaman"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2q4k/4P3/8/7N/P1p5/4B3/1K6/8 w - - 0 1"]
+
+1. Kc3 $1 (1. Bd4+ $2 Kg8 2. e8=Q+ Qxe8 3. Nf6+ Kf8 4. Nxe8 Kxe8 5. a5 Kd7 6. a6 Kc7 7. Ba7 Kc6 8. Kc3 Kb5) Qe6 2. Bd4+ Kg8 3. e8=Q+ (3. Nf6+ {<or>} Kf7 4. e8=Q+) Qxe8 4. Nf6+ Kf8 5. Nxe8 Kxe8 6. a5 Kd7 7. a6 Kc7 8. Ba7 Kc6 9. Kxc4 1-0
+
+[Event "The Chess Amateur#0832"]
+[Source "The Chess Amateur/9"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Howell, Clarence Seaman"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4Q3/6k1/3q4/4n3/P1p5/2K1B3/8/8 w - - 0 1"]
+
+1. Qxe5+ $1 Qxe5+ 2. Bd4 Kf6 3. a5 Ke6 4. Bxe5 Kd7 5. a6 Kc6 6. Bd4 Kc7 7. Ba7 Kc6 8. Kxc4 1-0
+
+[Event "The Chess Amateur#0835"]
+[Source "The Chess Amateur/9"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Howell, Clarence Seaman"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1q5k/4P3/8/B6N/P7/8/P7/K7 w - - 0 1"]
+
+1. Bc7 $1 (1. e8=Q+ $2 Qxe8 2. Bc3+ Kg8 3. Nf6+ Kf7 4. Nxe8 Kxe8 5. a5 Kd7 6. a6 Kc7 7. Bd4 Kb8) Qa8 (Qxc7 2. e8=Q+ Kh7 3. Qd7+ Qxd7 4. Nf6+) 2. Be5+ Kg8 3. e8=Q+ (3. Nf6+ {<or>} Kf7 4. e8=Q+) Qxe8 4. Nf6+ Kf7 5. Nxe8 Kxe8 6. a5 Kd7 7. a6 Kc6 8. Bd4 Kc7 9. Ba7 Kc6 10. a4 1-0

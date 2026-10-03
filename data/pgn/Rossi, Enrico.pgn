@@ -1,0 +1,27 @@
+[Event "L'Italia Scacchistica#233"]
+[Source "L'Italia Scacchistica/7"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Rossi, Enrico"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3B2p1/N7/8/1N6/6p1/2b1p3/1k5K w - - 0 1"]
+
+1. Nxc2 $1 Kxc2 2. Nb4+ Kd2 3. Nd3 Kxd3 4. Bb5+ Kd2 5. Bxe2 Kxe2 6. Kg2 1/2-1/2
+
+[Event "3.p L'Italia Scacchistica#255"]
+[Source "L'Italia Scacchistica/10"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Rossi, Enrico"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4Pk2/2q4p/8/4NK2/2P5/3R4/b7 w - - 0 1"]
+
+1. Rd7 $1 Qxd7 (Ke8 2. Nd6+ Kxd7 3. e8=Q+ Kxd6 4. Qxc6+ Kxc6 5. Kg3) (Qc4 2. Ke3 Qe6 3. Kf4) 2. e8=Q+ (2. e8=B+ {<or>}) Kxe8 3. Nf6+ Ke7 4. Nxd7 Kxd7 {<eg>} 5. Kg3 1/2-1/2

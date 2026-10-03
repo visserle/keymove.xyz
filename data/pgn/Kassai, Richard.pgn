@@ -1,0 +1,82 @@
+[Event "Magyar Sakkélet#0035a (tw)"]
+[Source "Magyar Sakkélet/6"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Kassai, Richard"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3r4/1Q4Kp/7P/q4k2/8/8/8/8 w - - 0 1"]
+
+1. Qf3+ $1 Ke6 2. Qf6+ Kd7 3. Qf5+ Qxf5 1/2-1/2
+
+[Event "Magyar Sakkélet#0138"]
+[Source "Magyar Sakkélet/7"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Kassai, Richard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3kB3/R2pq3/pP4Pp/P2pp2K/P5P1/8/8 w - - 0 1"]
+
+1. Rxd6+ $1 Qxd6 (Kxe7 {<main>} 2. Rxe6+ Kxe6 3. b6 d3 4. b7 d2 5. b8=Q d1=Q 6. Qe8+ Kf5 7. Qf7+ Ke5 8. Qf6+ Kd5 9. Qd8+) 2. Bxd6 Kxd6 3. g6 e3 4. g7 e2 5. g8=Q e1=Q 6. Qd8+ Kc5 7. Qc7+ Kd5 8. Qc6+ Ke5 9. Qe8+ 1-0
+
+[Event "Nepsavi"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Kassai, Richard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4B3/8/5p2/5P2/1N6/7p/4P1p1/4K1k1 w - - 0 1"]
+
+1. Nc2 $1 Kh2 2. Ne3 g1=Q+ 3. Nf1+ Kh1 4. Bc6+ Qg2 5. Be4 Qxe4 6. Ng3+ Kg2 7. Nxe4 h2 8. Nf2 1-0
+
+[Event ".c Magyar Sakkélet#0184"]
+[Source "Magyar Sakkélet/3"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Kassai, Richard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p3/2p1P2p/2p4P/8/3P4/3P4/4K2k w - - 0 1"]
+
+1. Kf1 $1 Kh2 2. Kf2 Kh3 3. Kf3 Kh4 4. Kf4 Kxh5 5. Kf5 Kh4 6. Kg6 h5 7. Kf7 Kg3 $1 8. Kxe7 h4 9. Kd6 $1 (9. Kf6 $2 h3 10. e7 h2 11. e8=Q h1=Q 12. Qe3+ Qf3+) h3 10. e7 h2 11. e8=Q h1=Q 12. Qe3+ Qf3 (Kg4 13. Qe4+) 13. Kxc5 $1 1-0
+
+[Event ".c Magyar Sakkélet#0251"]
+[Source "Magyar Sakkélet/10"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Kassai, Richard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6K1/2N5/5Pk1/5p2/8/N7 w - - 0 1"]
+
+1. f5 $1 (1. Nd3 $2 f2 2. Nc2 Kf3 3. Nd4+ Ke3 $1) f2 2. Nc2 Kf3 3. Nb3 Ke2 $1 4. Ncd4+ $1 Kd1 5. Nd2 $1 Kxd2 6. Nf3+ Ke2 7. Nh2 1-0
+
+[Event "2.c Hungarian Chess Federation ty Magya"]
+[Source "Magyar Sakkélet/3 1960"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Kassai, Richard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/1p6/2k4P/7P/5ppK/7P/8 w - - 0 1"]
+
+1. Kxg3 $1 Kd4 $1 2. h6 Ke3 3. h7 f2 4. h8=Q f1=Q 5. Qe5+ Kd2 $1 6. Qf4+ (6. Qd4+ {<or>} Kc2 7. Qf2+ Qxf2+ 8. Kxf2) Qxf4+ 7. Kxf4 b5 8. h5 b4 9. h6 b3 10. h7 b2 11. h8=Q b1=Q 12. Qd4+ Ke2 13. Qe4+ Qxe4+ 14. Kxe4 b5 15. h4 Kd2 16. Kd4 Kc2 17. Kc5 Kc3 18. h5 $1 b4 19. h6 b3 20. h7 b2 21. h8=Q+ 1-0

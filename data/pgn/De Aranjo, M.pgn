@@ -1,0 +1,13 @@
+[Event "Xadrez Brasiliero"]
+[Source "EG#14046."]
+[Date "1945.??.??"]
+[Round "?"]
+[Composer "De Aranjo, M"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/2B5/8/p7/K2k4/2p5/8 w - - 0 1"]
+
+1. Be4+ $1 Kxe4 2. Kb2 Kd3 3. Kc1 a3 (Kc3 {<main>}) 1/2-1/2

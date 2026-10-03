@@ -1,0 +1,12 @@
+[Event "Landeszeitung für die Lüneburger Heide"]
+[Date "1983.06.10"]
+[Round "?"]
+[Composer "Von Alvensleben, Wichard"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/q1p5/8/8/2P5/7K/4N3/2B4k w - - 0 1"]
+
+1. c5 $1 (1. Bb2 $2 c5 $1 (Qb6 $2 2. Ng3+ Kg1 3. Bd4+ Qxd4 4. Ne2+)) (1. Ng3+ $2 Kg1 2. c5 Kf2 $1) Qxc5 2. Ng3+ Kg1 3. Bb2 Qb6 (Kf2 4. Ne4+) 4. Bd4+ Qxd4 5. Ne2+ Kf2 6. Nxd4 1/2-1/2

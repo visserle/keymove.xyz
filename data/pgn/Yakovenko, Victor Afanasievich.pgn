@@ -1,0 +1,39 @@
+[Event "3.hm Fizkultura i Sport Committee Ukrai"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Yakovenko, Victor Afanasievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/2kr4/8/8/8/8/pp4Q1/8 w - - 0 1"]
+
+1. Qc2+ $1 (1. Qxb2 $2 Rd8+ 2. Kg7 Ra8) Kd6 2. Qxb2 Rd8+ 3. Kh7 $1 (3. Kg7 $2 Ra8 4. Qb6+ Kd5 5. Qb7+ Kc4 6. Qxa8 Kb3 7. Qh1 Kb2) Ra8 4. Qb6+ Kd5 (Ke5 5. Qc5+ Kf4 6. Qd4+ Kg3 7. Qe3+ Kh2 8. Qf2+ Kh3 (Kh1 9. Qf3+) 9. Qf3+) 5. Qb7+ Kc4 6. Qxa8 Kb3 7. Qh8 $1 Kc2 8. Qa1 1-0
+
+[Event "Socialist (Donbase)"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Yakovenko, Victor Afanasievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7p/8/5p2/6k1/6N1/4K2B w - - 0 1"]
+
+1. Kf1 $1 Kh2 2. Ne1 $1 (2. Nh4 $2 f3 $1 (Kxh1 $2 3. Nf3) 3. Bxf3 Kg3) Kxh1 3. Nf3 $1 h5 4. Kf2 h4 5. Kf1 h3 6. Ne5 $1 Kh2 7. Kf2 f3 8. Ng4+ Kh1 9. Kf1 f2 10. Nxf2+ Kh2 11. Ne4 Kh1 12. Kf2 Kh2 13. Nd2 Kh1 14. Nf1 h2 15. Ng3# 1-0
+
+[Event "4.p Shakhmaty v SSSR#37"]
+[Source "Shakhmaty v SSSR/11 EG#08203."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Yakovenko, Victor Afanasievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7b/3k4/3P2b1/8/4N3/4pB2/4P3/3K4 w - - 0 1"]
+
+1. Bg4+ $1 Kc6 (Kd8 2. Nc5 Be8 3. Nb7#) 2. d7 Kc7 3. Ng5 (3. Nc5 $2 Bf7) Bb1 4. d8=Q+ (4. Nf7 $2 Bf6) Kxd8 5. Nf7+ Ke7 6. Nxh8 Kf6 7. Bh5 Ba2 8. Be8 (8. Kc2 $2 Kg7 9. Nf7 Bxf7 10. Bxf7 Kxf7 11. Kd3 Ke6 12. Kxe3 Ke5) Bb3+ 9. Ke1 (9. Kc1 $2 Bc4 10. Kd1 Bb3+) Bc2 10. Bb5 (10. Bh5 $2 Bb3) Kg7 11. Bd3 Bxd3 12. exd3 Kxh8 13. Ke2 Kg7 14. Kxe3 1-0

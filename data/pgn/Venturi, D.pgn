@@ -1,0 +1,12 @@
+[Event "Il Puttino#03"]
+[Date "1634.??.??"]
+[Round "?"]
+[Composer "Venturi, D"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/p5p1/7p/PP4q1/2r2P1Q/7P/6PK/8 w - - 0 1"]
+
+1. fxg5 $1 Rxh4 2. g4 hxg5 3. b6 1-0

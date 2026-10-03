@@ -1,0 +1,46 @@
+/* Piece images, by indirection.
+
+   No file name appears here. Every piece points at a custom property, so a
+   piece set is nothing but the twelve ---<color>-<role> values defined in
+   src/lib/board/piecesets.ts; switching sets redefines them and these rules never
+   change. The selectors match chessground's board, the promotion chooser, and
+   the server-rendered catalogue cards alike, so a piece is a piece everywhere.
+
+   Ported from lichess-org/lila ui/lib/css/theme/_pieces.scss. */
+
+piece.pawn.white {
+	background-image: var(---white-pawn);
+}
+piece.knight.white {
+	background-image: var(---white-knight);
+}
+piece.bishop.white {
+	background-image: var(---white-bishop);
+}
+piece.rook.white {
+	background-image: var(---white-rook);
+}
+piece.queen.white {
+	background-image: var(---white-queen);
+}
+piece.king.white {
+	background-image: var(---white-king);
+}
+piece.pawn.black {
+	background-image: var(---black-pawn);
+}
+piece.knight.black {
+	background-image: var(---black-knight);
+}
+piece.bishop.black {
+	background-image: var(---black-bishop);
+}
+piece.rook.black {
+	background-image: var(---black-rook);
+}
+piece.queen.black {
+	background-image: var(---black-queen);
+}
+piece.king.black {
+	background-image: var(---black-king);
+}

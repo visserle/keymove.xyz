@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Shtaydte, Hans-Hilmar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/8/p7/8/kPK1N1pp/8/7P/8 w - - 0 1"]
+
+1. Nc3+ (1. Nc5+ $2 Ka3 2. Ne4 $10) (1. Nf2 $2 g3 2. hxg3 hxg3 3. Nh3 $10) (1. Ng3 $2 hxg3 2. hxg3 $10) (1. h3 $2 gxh3 2. Nf2 $10) (1. Kc5 $2 Kb3 2. b5) (1. b5 $2 axb5+ 2. Kd3) (1. Kd5 Kxb4 2. Kd4) Ka3 2. Ne2 Ka4 3. Nf4 Ka3 4. b5 (4. Ng2 $2 h3 5. Ne1 $10) (4. Kc3 Ka2 5. Ne2 $18) (4. h3 $2 gxh3 5. Nxh3 $10) (4. Kc5 Kb2 5. Kc4 Ka3 6. b5 g3 7. h3 $18) (4. Nd3 $2 g3 5. hxg3 hxg3 6. Ne5) (4. Kd5 $2 Kxb4 5. Kd4) axb5+ 5. Kxb5 Kb3 6. Kc5 (6. Ng2 $2 Kc2 7. Nf4) (6. Nh5 $2 Kc2 7. Nf4) (6. Nd3 $2 Kc2 7. Nc5) (6. h3 $2 gxh3 7. Nxh3) (6. Ne2 $2 g3 7. h3) (6. Nd5 $4 g3 7. hxg3 h3) (6. Kc6 $2 h3 7. Ne6) (6. Ng6 $4 g3 7. hxg3 h3) Kc3 7. Kd5 (7. Ne2+ $2 Kd3 8. Nd4) (7. Nd5+ $2 Kd3 8. h3) Kd2 8. Ke4 (8. Kd4 $2 h3 9. Nh5 $10) (8. Ke5 $2 h3 9. Nh5 $10) (8. Ng6 $2 g3 9. h3) (8. Ng2 $2 h3 9. Nf4) (8. Ne6 g3 9. hxg3 hxg3 10. Ke4) (8. Kd6 Ke3 9. Ke5) h3 (Ke1 9. Kf5 (9. Ke3 $2 Kf1 10. h3 $10) (9. Ng2+ $2 Kf2 10. Nf4 $10) (9. Nd3+ $2 Ke2 10. h3) (9. h3 $2 gxh3 10. Nxh3) (9. Ke5 $2 h3 10. Ne6) (9. Nd5 g3 10. hxg3 hxg3 11. Nf4) (9. Ne2 Kxe2) g3 10. h3 (10. hxg3 $2 hxg3 11. Ne6 $10) (10. Kg4 $4 gxh2 11. Kxh4 h1=Q+ 12. Kg5 Qe4) (10. Ng2+ $4 Kf2 11. hxg3 h3) (10. Kg5 $4 gxh2 11. Kxh4 h1=Q+ 12. Kg5 Qe4) (10. Nd3+ $4 Kf1 11. hxg3 h3) (10. Ke4 gxh2 11. Nd3+ Kf1) Kf1 11. Kg4 $18 (11. Kg5 g2 12. Nxg2 Kxg2 13. Kxh4) (11. Nd5 $18) (11. Ke4 g2 12. Nxg2 Kxg2 13. Kf4) (11. Nd3 g2) (11. Ng6 g2 12. Nxh4 g1=Q)) 9. Nh5 (9. Nxh3 $2 gxh3 10. Kd4 $10) (9. Kf5 $4 g3 10. hxg3 h2 $19) (9. Nd3 $2 g3 10. hxg3 $10) (9. Nd5 $4 g3 10. hxg3 h2) (9. Ne6 $2 g3 10. Ng5) (9. Kd4 $2 g3 10. Nxh3 gxh2 11. Nf2) (9. Ng6 $2 g3 10. Nh4) (9. Ke5 $2 g3 10. Nxh3 gxh2 11. Nf2) (9. Ng2 hxg2) Ke2 10. Kf4 (10. Kf5 $2 Kf2 11. Kxg4 $10) (10. Nf6 $2 g3 11. Nh5 $10) (10. Ng3+ $2 Kf2 11. Kf4 $10) (10. Nf4+ $2 Kf2 11. Nh5 Kg2 12. Ng3) Kf2 11. Nf6 $18 (11. Ng3 $2 Kg2 12. Nf5 $10 Kxh2 13. Nh4) (11. Kxg4 $2 Kg2 12. Ng7 $10) (11. Kg5 $2 g3 12. Nxg3) (11. Ng7 $4 g3 12. hxg3 h2) (11. Ke4 Kg2 12. Kf5) (11. Ke5 g3 12. Nxg3) (11. Kf5 g3 12. Nxg3) 1-0

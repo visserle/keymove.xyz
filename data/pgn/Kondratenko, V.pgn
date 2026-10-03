@@ -1,0 +1,13 @@
+[Event ".p Socialist (Donbase)"]
+[Source "EG#01136."]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Kondratenko, V"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "b1B5/8/K1P5/8/8/2n2k2/7P/8 w - - 0 1"]
+
+1. c7 $1 (1. Bb7 $2 Nd5 2. Bxa8 Nb4+) (1. Bg4+ $2 Kf4 2. c7 Bb7+ 3. Kxb7 Nb5 4. c8=Q Nd6+) Ne4 2. Bg4+ Kf4 3. Bf3 $1 Kxf3 4. c8=Q Bb7+ 5. Qxb7 1-0

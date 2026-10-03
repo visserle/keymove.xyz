@@ -1,0 +1,26 @@
+[Event "3.c Sachová Skladba#01764"]
+[Source "Sachová Skladba/11 EG#10252."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Desensky, Jiri"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2B5/8/8/8/7K/8/5R1p/6k1 w - - 0 1"]
+
+1. Re2 $1 (1. Rd2 $2 h1=Q+ 2. Kg3 Qh5 $1) (1. Kg3 $2 h1=N+) h1=Q+ 2. Kg3 Kf1 $1 3. Ba6 Qg1+ 4. Rg2+ 1-0
+
+[Event "Pruboj"]
+[Date "1988.11.26"]
+[Round "?"]
+[Composer "Desensky, Jiri"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5bkr/3P3p/1K5P/8/8/8/2B5 w - - 0 1"]
+
+1. d7 $1 Rh8 2. Bb2+ Kh7 3. Bxh8 Be8 4. dxe8=N $1 1-0

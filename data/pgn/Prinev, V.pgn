@@ -1,0 +1,12 @@
+[Event "2.p Central Chess Club USSR - 30 AT Bul"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Prinev, V"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p2K1p1/7p/7P/4p3/8/2kPP3/8 w - - 0 1"]
+
+1. d4 $1 exd3 2. exd3 Kc3 $1 3. d4 $1 Kc4 4. Ke6 $1 (4. d5 $2 Kxd5) Kxd4 5. Kf7 b5 6. Kxg7 b4 7. Kxh6 b3 8. Kg7 b2 9. h6 b1=Q 10. h7 1/2-1/2

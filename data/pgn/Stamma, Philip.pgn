@@ -1,0 +1,189 @@
+[Event "Essai sur le Jeu des échecs#085"]
+[Date "1737.??.??"]
+[Round "?"]
+[Composer "Stamma, Philip"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/8/2P1B3/8/8/p2K4/1k6 w - - 0 1"]
+
+1. Ba1 $1 Kxa1 (b5 2. c6 b4 3. c7 b3 4. c8=Q b2 5. Qf5+ Kxa1 6. Qe5 Kb1 7. Qe1#) 2. Kc2 b5 3. c6 b4 4. c7 b3+ 5. Kxb3 Kb1 6. c8=Q a1=Q 7. Qc2# 1-0
+
+[Event "Essai sur le Jeu des échecs#075 (c)"]
+[Source "(c): Hornecker=S Internet 5-9-2005."]
+[Date "1737.??.??"]
+[Round "?"]
+[Composer "Stamma, Philip"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/P7/4p3/k1K5/1p6/2p5/1r3R2 w - - 0 1"]
+
+1. Rc1 $1 Rxc1 (b2 2. a7 bxc1=Q 3. a8=Q#) 2. a7 Ka3 3. Kc3 Ka4 4. a8=Q+ 1-0
+
+[Event "Essai sur le Jeu des échecs#088"]
+[Date "1737.??.??"]
+[Round "?"]
+[Composer "Stamma, Philip"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/8/5KP1/5p2/5P2/8/6p1/R6r w - - 0 1"]
+
+1. Rg1 $1 Rxg1 2. g7 Rf1 3. g8=Q+ 1-0
+
+[Event "Essai sur le Jeu des échecs#075 (v)"]
+[Source "(v): Stamma=P The Noble Game of Chess#075 1745."]
+[Date "1737.??.??"]
+[Round "?"]
+[Composer "Stamma, Philip"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/P7/8/k1K5/1p6/2p5/1r3R2 w - - 0 1"]
+
+1. Rc1 $1 Rxc1 (b2 2. a7 Ka5 3. a8=Q+ Kb6 4. Qb8+ Kc6 5. Rxc2) (Ka3 2. Kc3 Rxc1 3. a7 Ka4 (Ka2 4. a8=Q+ Kb1 5. Qa3) 4. a8=Q+ Kb5 5. Qb7+) 2. a7 Ka3 3. Kc3 $1 Ka4 4. a8=Q+ Kb5 {<eg>} 5. Kxb3 Rb1+ 6. Kxc2 1-0
+
+[Event "Essai sur le Jeu des échecs#074"]
+[Date "1737.??.??"]
+[Round "?"]
+[Composer "Stamma, Philip"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1P6/8/8/4k1np/8/1B1K2p1/8 w - - 0 1"]
+
+1. Bd4 $1 Kxd4 (h3 2. b8=Q h2 3. Qa8+ Kxd4 4. Qxg2) 2. b8=Q g1=Q 3. Qa7+ (3. Qb6+ {<or>}) Ke4 4. Qxg1 1-0
+
+[Event "Essai sur le Jeu des échecs#067"]
+[Date "1737.??.??"]
+[Round "?"]
+[Composer "Stamma, Philip"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5R2/8/8/8/2p4R/3k2q1/3p4/3K4 w - - 0 1"]
+
+1. Rd8+ $1 Kc3 (Ke3 2. Rh3 Qxh3 3. Rd3+ cxd3 (Kxd3)) 2. Rh3 Qxh3 3. Rd3+ $1 Qxd3 (cxd3) (Kxd3) 1/2-1/2
+
+[Event "Essai sur le Jeu des échecs#090 (c)"]
+[Source "(c): Stamma=P The Noble Game of Chess#090 1745."]
+[Date "1737.??.??"]
+[Round "?"]
+[Composer "Stamma, Philip"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "N2k4/8/2PKb3/8/6P1/2p5/1p6/8 w - - 0 1"]
+
+1. c7+ $1 Kc8 2. Nb6+ Kb7 3. Kxe6 b1=Q (Kxc7 4. Nd5+) 4. c8=Q+ Ka7 5. Qa8+ Kxb6 6. Qb8+ Ka6 7. Qxb1 1-0
+
+[Event "Essai sur le Jeu des échecs#059"]
+[Date "1737.??.??"]
+[Round "?"]
+[Composer "Stamma, Philip"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/7K/5NP1/4n1P1/2p5/3b4/8/8 w - - 0 1"]
+
+1. Nd7+ $1 Nxd7 (Ke7 2. Nxe5) 2. Kh8 Bxg6 (Ke7 3. g7 Ne5 4. g8=Q Nf7+ 5. Kg7) (Nf6 3. g7+ Kf7 4. gxf6) 1/2-1/2
+
+[Event "Essai sur le Jeu des échecs#045 (v)"]
+[Source "(v): Stamma=P The Noble Game of Chess#045 1777."]
+[Date "1737.??.??"]
+[Round "?"]
+[Composer "Stamma, Philip"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6P1/1K3R2/1N6/7P/1p6/p7/k5r1 w - - 0 1"]
+
+1. Rf1+ $1 Rxf1 2. g8=Q b2 3. Qg7 Rg1 (Rh1 4. Nd4 Rxh4 5. Nb3+ Kb1 6. Qg6+) (Kb1 4. Na3+ Ka1 5. Nc4 Rf2 6. Kb5 Rg2 7. Qd4 Rc2 8. Kb4 Kb1 9. Na3+ Kc1 10. Qg1+) 4. Qe5 Re1 5. Qxe1+ b1=Q 6. Qc3+ Qb2 7. Kc5 Kb1 8. Na3+ Ka1 9. Qe1+ 1-0
+
+[Event "Essai sur le Jeu des échecs#053 (v)"]
+[Source "(v): Lewis=W."]
+[Date "1737.??.??"]
+[Round "?"]
+[Composer "Stamma, Philip"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1r6/7p/6p1/5RP1/8/p1K5/k7 w - - 0 1"]
+
+1. Rf1+ $1 Rb1 2. Rc1 $1 Rxc1+ 3. Kxc1 h5 4. gxh5 g4 5. h6 g3 6. h7 g2 7. h8=Q# 1-0
+
+[Event "Essai sur le Jeu des échecs#090 (c)"]
+[Source "(c): Keith=D Estudios Artisticos de Ajedrez - XV-18 2015."]
+[Date "1737.??.??"]
+[Round "?"]
+[Composer "Stamma, Philip"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "N2k4/8/2PKb3/8/4P3/2p5/1p6/8 w - - 0 1"]
+
+1. c7+ $1 Kc8 2. Nb6+ Kb7 3. Kxe6 b1=Q (Kxc7 4. Nd5+ Kd8 5. Nxc3) 4. c8=Q+ Ka7 5. Qa8+ Kxb6 6. Qb8+ Ka6 7. Qxb1 1-0
+
+[Event "Essai sur le Jeu des échecs#067 (v)"]
+[Source "(v): Stamma=P The Noble Game of Chess#067 1745."]
+[Date "1737.??.??"]
+[Round "?"]
+[Composer "Stamma, Philip"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4R3/8/8/8/2p4R/3k2q1/3p4/3K4 w - - 0 1"]
+
+1. Rd8+ $1 Kc3 2. Rh3 Qxh3 3. Rd3+ Kxd3 (cxd3) (Qxd3) 1/2-1/2
+
+[Event "Essai sur le Jeu des échecs#080 (v)"]
+[Source "(v): Stamma=P The Noble Game of Chess#080 1745."]
+[Date "1737.??.??"]
+[Round "?"]
+[Composer "Stamma, Philip"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/2k5/P1P4p/4K3/8/8 w - - 0 1"]
+
+1. a5 $1 h3 2. Kf3 Kc6 3. Kg3 Kb7 4. c5 Ka6 5. c6 Ka7 6. Kxh3 Kb8 7. a6 1-0
+
+[Event "Essai sur le Jeu des échecs#053"]
+[Date "1737.??.??"]
+[Round "?"]
+[Composer "Stamma, Philip"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1r5p/6p1/4R1P1/8/p1K5/k7 w - - 0 1"]
+
+1. Re1+ $1 Rb1 2. Rc1 $1 Rxc1+ 3. Kxc1 h5 4. gxh5 g4 5. h6 g3 6. h7 g2 7. h8=Q# 1-0

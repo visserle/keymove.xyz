@@ -1,0 +1,27 @@
+[Event "Tijdschrift v.d. KNSB#282"]
+[Source "Tijdschrift v.d. KNSB/11"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Cool, W"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3N4/8/8/8/2K4B/k3p3/pp6/8 w - - 0 1"]
+
+1. Be7+ $1 Ka4 2. Nb7 b1=Q (a1=Q 3. Nc5+ Ka3 4. Ne4+ Ka4 (Ka2 5. Nc3#) 5. Nc5+) 3. Nc5+ Ka5 (Ka3 4. Nd3+ Ka4 5. Nc5+) 4. Bd8+ Qb6 5. Nb3+ Ka6 6. Bxb6 Kxb6 7. Kd3 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#312"]
+[Source "Tijdschrift v.d. KNSB/5"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Cool, W"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3Rnk2/6p1/4KpP1/5P2/8/1N6/4p2b/1R4r1 w - - 0 1"]
+
+1. Re1 $1 Rxe1 2. Nc5 Rd1 3. Nd7+ Rxd7 4. Rxe8+ Kxe8 1/2-1/2

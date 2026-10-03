@@ -1,0 +1,13 @@
+[Event "The Chess Amateur#0943"]
+[Source "The Chess Amateur/10"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Abrahams, Gerald"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r7/4P1k1/3P1b1p/7P/8/5RPK/p7/8 w - - 0 1"]
+
+1. Ra3 $1 Rxa3 (a1=Q 2. Rxa1 Bxa1 3. d7 Kf7 4. d8=Q) (Bxe7 2. Rxa8) 2. e8=Q a1=Q 3. Qd7+ 1/2-1/2

@@ -1,0 +1,17 @@
+
+
+[Event "2.p Slovensko - Ukraina Pat a Mat"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[Composer "Tarasyuk, Vladislav Volodimirovich"]
+[Composer2 "Tkachenko, Sergey Nikolayovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2rk4/K1pp4/PQ6/5B2/7b/B7/8/5q2 w - - 0 1"]
+[PlyCount "25"]
+
+1. Qb4 $1 (1. Qg6 $143 Bf2+ 2. Kb7 Qb5+ 3. Qb6 Qxb6#) Ra8+ (Bf2+ $144 2. Kb7 Qg2+ 3. Be4 Qg7 4. Qe7+ Qxe7 5. Bxe7+ Kxe7 6. Kxc8 $11) (Qxf5 $143 2. Qxh4+ $18 {#2}) 2. Kxa8 Qxa6+ 3. Kb8 Qc8+ 4. Ka7 Bf2+ 5. Qc5 Bxc5+ 6. Bxc5 Ke8 7. Bg6+ Kd8 8. Bf5 $1 c6 9. Bd6 $1 c5 10. Be4 $1 Ke8 11. Bg6+ Kd8 12. Be4 $1 c4 13. Bb7 $1 $11 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "British Chess Magazine#1079"]
+[Source "British Chess Magazine/8"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Roth, K"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/N2p4/8/1B6/K3k3/8/Pp6/8 w - - 0 1"]
+
+1. Bc6+ $1 dxc6 (Kf4 2. Be4 Kxe4 3. Nb5 b1=Q 4. Nc3+) 2. Nb5 cxb5+ 3. Ka3 b1=Q 1/2-1/2

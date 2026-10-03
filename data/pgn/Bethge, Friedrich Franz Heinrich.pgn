@@ -1,0 +1,25 @@
+[Event "Deutsche Schachblätter (s)"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Bethge, Friedrich Franz Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4N3/k7/N1P4p/4r2P/8/2p5/8/1K6 w - - 0 1"]
+
+1. Nd6 $1 c2+ 2. Kc1 Rd5 (Re1+ 3. Kxc2 Re2+ 4. Kc3 Re3+ 5. Kc4) (Re6 3. Nb5+ Kb6 4. c7 Rc6 5. Nd6) 3. c7 Rd1+ 4. Kxc2 Rxd6 5. c8=N+ $1 (5. c8=Q $2 Rc6+ 6. Qxc6) Kxa6 6. Nxd6 1-0
+
+[Event "Deutsche Schachblätter (s)"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Bethge, Friedrich Franz Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/8/2P5/3R4/8/n2n4/K1p5/8 w - - 0 1"]
+
+1. c7+ $1 Kc8 2. Rd8+ Kxc7 3. Rxd3 c1=Q 4. Rc3+ Qxc3 1/2-1/2

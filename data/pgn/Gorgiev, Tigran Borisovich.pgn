@@ -1,0 +1,1872 @@
+[Event "4.hm 64#285"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "1"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3kb2R/8/7N/4P3/3P3q/1K6/P4b2/8 w - - 0 1"]
+[PlyCount "14"]
+
+1. Nf7+ $1 Ke7 $1 (Kd7 $144 2. Rxh4 (2. e6+ Kxe6 3. Rxh4 Bxh4 4. Ne5) Bxf7+ 3. e6+ Bxe6+ 4. d5 Bxd5+ 5. Rc4 Be1 6. a3 Be6 7. Ka4 Bxc4 $11) (Kc7 $144 2. Rxh4 Bxf7+ 3. e6 Bxe6+ 4. d5 Bxd5+ 5. Rc4+ $11) 2. Rxh4 Bxf7+ $1 3. e6 $1 Bxe6+ 4. d5 $1 Bxd5+ 5. Rc4 Be1 $1 6. a3 $1 (6. a4 $143 $2 Ba5 $1 $19) Be6 7. Ka4 $1 (7. a4 $143 Ba5 $19) Bxc4 $11 1/2-1/2
+
+[Event "Isvestia#243"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3N1kBK/5P2/2N4p/3p4/3Pq3/8/8/8 w - - 0 1"]
+[PlyCount "16"]
+
+1. Ne5 (1. Bh7 $143 Qg4 $1 $19) Qf5 $1 2. Ne6+ $1 Qxe6 3. Kh7 $1 h5 $1 4. Ng6+ Qxg6+ $1 5. Kxg6 h4 6. Kh7 h3 7. Kh8 h2 8. Bh7 h1=Q (Ke7 $143 9. Kg7 $18) (Kxf7 $143 9. Bg8+ Ke7 10. Bxd5 $18) 1/2-1/2
+
+[Event "3.hm Magyar Sakkvilág#188"]
+[Source "Magyar Sakkvilag/11"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2k5/2pr3B/1P3p2/2P2K1b/2n4N/3R4/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. b6+ Kxb6 (Kd7 $144 2. b7 Kc7 3. Rxd6 Bg3+ 4. Kxg3 Ne4+ 5. Kf3 Nxd6 6. Bf4 $18) 2. Rxd6 (2. c5+ $143 Kxc5 3. Bf8 Nd5+ 4. Ke5 Bf6+ 5. Kxf5 Be7 $11) Bg3+ $1 3. Kxg3 Ne4+ 4. Kf3 $1 Nxd6 5. c5+ $1 (5. Be3+ $143 $2 c5 $1 $11) Kxc5 6. Bf8 Kd5 7. Nf4+ Ke5 (Kc5 $144 8. Ke3 $18) 8. Bg7# 1-0
+
+[Event "5.p Shakhmaty#340"]
+[Source "Shakhmaty/6"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2kr4/3n4/1P4p1/NN2b1K1/B7/8/8/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. Na7+ Kb8 2. N7c6+ $1 Kc8 $1 (Ka8 $144 3. b7#) 3. Ne7+ Kb8 4. Nac6+ Ka8 $1 (Kb7 $144 5. Nxd8+ Kxb6 6. Bxd7 Kc7 7. Ba4 $18) 5. b7+ $1 (5. Nxd8 $143 Nxb6 $11) Kxb7 6. Nxd8+ Kc7 $1 (Kb6 $144 7. Bxd7 Kc7 8. Ba4 Kxd8 9. Nc6+ $18) 7. Ne6+ Kd6 $1 8. Nc8+ $1 Kxe6 9. Bb3# 1-0
+
+[Event "1.p Shakhmaty#350"]
+[Source "Shakhmaty/9"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1K3b1B/8/1k6/5B2/bN6/1N6 w - - 0 1"]
+[PlyCount "17"]
+
+1. Nd3+ Kc4 $1 2. Bd5+ $1 Kxd5 3. Nb4+ Kc4 $1 4. Nxa2 Kb3 5. Nc1+ Kb2 6. Nd2 $1 Bd8+ $1 (Bd4+ $144 7. Kc6 Kxc1 8. Nf3+ $18) 7. Kc6 $1 Kxc1 $1 8. Kd7 Bh4 (Bf6 $144 9. Ne4+ $18) (Bb6 $144 9. Nc4+ $18) (Ba5 $144 9. Nc4+ $18) 9. Nf3+ $18 1-0
+
+[Event "4.p 64#299"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "1"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6b1/N2p2B1/2Pk4/3p4/4p1K1/8/8/8 w - - 0 1"]
+[PlyCount "7"]
+
+1. Be5+ (1. Nc8+ $143 Kc7 $1 $11) Kxe5 $1 2. c7 Be6+ 3. Kg5 d6 4. Nc6# 1-0
+
+[Event "1.hm Shakhmatny Listok#309"]
+[Source "after Gurvich=A h3h6 1928"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "2"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4NN2/8/8/6Pk/8/5nK1/8/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. g6 Nh4 $1 (Nd4 $144 {<main>} 2. Kf4 $1 Nc6 $1 (Ne6+ $144 3. Kf5 Nxf8 4. g7 Ng6 5. Nf6+ $18) 3. Ng7+ Kh4 4. Nf5+ $18) 2. Ng7+ $1 Kg5 $1 (Kh6 $144 3. Kxh4 Kxg7 4. Kg5 Kxf8 5. Kf6 $18) 3. Nge6+ Kh6 $1 (Kh5 $144 4. Nf4+ Kg5 5. Nh7+ $1 $18) 4. g7 $1 (4. Kxh4 $143 $11 {stalemate}) Nf5+ 5. Kg4 $1 Nxg7 6. Nd4 $1 Ne6 7. Nf5# 1-0
+
+[Event "1.p 64#338 (v)"]
+[Source "(v): Gorgiev=T 64=3 5-2-1929"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "2"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "Bb6/6k1/2K5/6Bp/6N1/6N1/2b5/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. Bf4 $1 (1. Nxh5+ $2 $143 Kg6 $11 2. Bf4 $14 $10) (1. Bf6+ $2 $143 Kg8 $1 2. Be5 Bxe5 3. Nxe5 h4 $1 4. Ne2 Be4+ $10 $11) (1. Nf6 $2 Bxg3 2. Nxh5+ Kg6 3. Ng7 $10) (1. Ne3 $2 $143 Ba4+ $1 $11 2. Kd5 $14 $10) (1. Ne2 $2 Be4+ 2. Kb5) (1. Ne5 $2 Bxe5 2. Bf4) (1. Bd2 hxg4 2. Nh5+) Bxf4 $2 (Ba4+ $144 2. Kc5 Ba7+ 3. Kb4 $18) 2. Nxh5+ (2. Ne2 $4 Bg5 $10 3. Kd6) (2. Nf1 $4 Be4+ 3. Kc5 Bxa8) Kg6 3. Nxf4+ (3. Nf2 $2 Ba4+ 4. Kb6) (3. Kd7 $2 Bb3 4. Ng7) (3. Ne5+ $2 Bxe5 4. Ng3) Kg5 4. Nd5 $1 (4. Ne3 $2 Ba4+ 5. Kb6 $10) (4. Ne6+ $2 Kxg4 5. Nd8 $10) (4. Ng2 $2 Be4+ 5. Kb6) (4. Kc5 $2 Bb3 5. Ne6+) (4. Kd5 $2 Bd1 5. Ne6+) Ba4+ (Kxg4 $144 5. Ne3+ $18) 5. Kc5 (5. Kd6 $2 Kxg4 6. Nc7 $10) (5. Kb6 $2 Kxg4 6. Nc7) (5. Kc7 $2 Kxg4 6. Ne7) (5. Kb7 Kxg4 6. Nc7) Kxg4 6. Kb4 (6. Ne3+ $2 Kf4 7. Nd5+ $10) (6. Kd4 $2 Bb3 7. Nc7 $10) (6. Kc4 $2 Kh4 7. Nc7) Be8 (Bd7 $144 7. Nf6+ $18) (Bc2 $144 7. Ne3+ $18) (Bd1 $144 7. Ne3+ $18) 7. Nf6+ $18 (7. Ne3+ $2 Kf4 8. Nd5+) (7. Ne7 $2 Bf7 8. Ng8) (7. Kc5 $2 Bf7 8. Nc7) 1-0
+
+[Event "Shakhmatny Listok#410"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1B6/8/8/R1b5/8/4k3/P3b3/rrR1K2B w - - 0 1"]
+[PlyCount "16"]
+
+1. Bf4+ $1 Kxf4 (Kd3 $143 2. Raxc5 $18) 2. Rxb1 Ke3 $1 3. Rab5 $1 Bxb5 4. Rxa1 Bb4+ 5. Kd1 Ba4+ 6. Kc1 Ba3+ 7. Kb1 Kd3 $1 8. Be4+ $1 Kxe4 $11 {stalemate} 1/2-1/2
+
+[Event "6.p Shakhmaty#406"]
+[Source "Shakhmaty/9"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p1pp4/6k1/2P1p1P1/8/1P2P3/6K1/8 w - - 0 1"]
+[PlyCount "14"]
+
+1. Kf3 $1 Kxg5 2. Ke4 Kf6 3. Kd5 Kf5 (a5 $144 4. e4 $1 $11) (a6 $144 4. b4 $1 $11) 4. b4 $1 a6 $1 5. c6 $1 d6 (dxc6+ $144 6. Kxc6 Ke4 7. Kxc7 Kxe3 8. Kb6 Kd4 9. Kxa6 $11) 6. e4+ Kf6 (Kf4 $144 7. Ke6 Kxe4 8. Kd7 $11) 7. b5 axb5 $11 {stalemate} 1/2-1/2
+
+[Event "4.p Isvestia#264 (m)"]
+[Source "(v): Mat Plus Review=12 2009"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#8"]
+[SetUp "1"]
+[FEN "5rB1/4b3/2q1r1P1/2ppp3/3kN2P/6K1/P2P4/4Q3 w - - 0 1"]
+[PlyCount "15"]
+
+1. Qe3+ Kc4 2. Qb3+ Kd4 3. Nf6 $1 (3. Qc3+ $143 Kxe4 4. Qc2+ Kd4 5. Qc3+ $11) Bxf6 (Rexf6 $144 {<main>} 4. Qc3+ Ke4 5. Qe3+ Kf5 6. Qf3+ Kxg6 7. Qg4+ Kh6 8. Qg5#) 4. Qc3+ Ke4 5. Qe3+ Kf5 6. Qf3+ Kxg6 7. Qf5+ Kxf5 (Kg7 $144 8. Qh7#) 8. Bh7# 1-0
+
+[Event "1.hm 64#346"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "1"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3n1q2/5p2/7p/5b2/P2Q4/2B2pk1/8/3K4 w - - 0 1"]
+[PlyCount "19"]
+
+1. Be1+ f2 $1 2. Qxf2+ $1 (2. Bxf2+ $143 Kf3 $1 $19) Kg4 $1 3. Qh4+ Kf3 4. Qg3+ Ke4 5. Bb4 $1 Qh8 $1 (Qxb4 $144 6. Qh4+ $18) 6. Qg2+ $1 Ke3 $1 7. Bc5+ Kf4 $1 8. Bd6+ Ke3 $1 9. Qe2+ Kd4 10. Qb2+ $18 1-0
+
+[Event "2.hm Troitzky Ty Zadachy i Etyudy#49"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4r3/1P5K/8/1p2kr2/8/R7/R7 w - - 0 1"]
+[PlyCount "15"]
+
+1. Re1+ $1 (1. Re2+ $143 $2 Kf5 2. Rxe7 Kf6 3. Rf7+ Kxf7 4. b7 Rf6+ 5. Kg5 (5. Kh7 Rf5 $1 6. Rf1 Rxf1 7. b8=Q Rh1+) Rb6 $11) Kf5 2. Rxe7 Kf6 3. Rf7+ $1 (3. Re6+ $143 $2 Kxe6 4. b7 Rf6+ 5. Kg5 Rf5+ 6. Kg4 Rb5 $11) (3. Ra5 $143 $2 Kxe7 4. b7 Rf6+ 5. Kg5 Rb6 6. Ra7 Kd8 7. Ra8+ Kc7 8. Kf4 $11) (3. Kh7 $143 $2 Kxe7 4. b7 Rf7+ 5. Kg6 Rf6+ 6. Kg5 Rb6 7. Ra7 Kd8 $11) Kxf7 4. b7 $1 (4. Ra7+ $143 $2 Kf6 $1 $19) Rf6+ 5. Kh7 Rb6 (Rf5 $144 6. Rf2 $1 Rxf2 7. b8=Q $18) 6. Ra7 $1 (6. Rg2 $143 $2 Rb5 $1 7. Rg7+ Ke6 $19) Ke6 7. Ra6 $1 Rxa6 8. b8=Q $18 1-0
+
+[Event "1.hm 64#419"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2R1Nrb1/8/8/3kn2p/3B4/6KN w - - 0 1"]
+[PlyCount "15"]
+
+1. Rd6+ Ke4 2. Ng5+ Ke5 3. Rxf6 h2+ 4. Kxh2 Ng4+ 5. Kh3 Nxf6 6. Bc3+ Kf5 7. Ng3+ Kxg5 8. Bd2# 1-0
+
+[Event "5/6.p North Caucasian Ty"]
+[Source "8.p USSR Study Composition champ 1929."]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3B4/5N1p/4kPr1/7p/4nP2/5K2/7P/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. f5+ $1 Kxf5 2. Nh6+ $1 Rxh6 3. f7 Ng5+ $1 4. Bxg5 Kxg5 5. h4+ $1 (5. f8=Q $143 $2 Rf6+ $11) Kg6 $1 6. f8=B $1 (6. f8=Q $143 $11 $2 {stalemate}) Kf5 7. Bxh6 $18 1-0
+
+[Event "1.p 64#377 (v)"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "1"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "3B4/8/4p3/1N6/7K/3nk3/7n/1N6 w - - 0 1"]
+[PlyCount "13"]
+
+1. Kg3 (1. Bb6+ $2 Kf4 2. N1c3 $14 $10) (1. N5c3 $2 Nf4 2. Bb6+ $14 $10) (1. Kh3 $6 Nf3 2. Bb6+ $14 $10) (1. N1a3 $2 Nf1 2. Bb6+ $14 $10) (1. Ba5 $2 Nb2 2. Kg3 $10) (1. Nd6 $2 Ne5 2. Nc3) (1. Nd2 $2 Kxd2 2. Kg3) (1. Nd4 $2 Kxd4 2. Kg3) Nf1+ (Nf3 $144 2. Bb6+ Ke4 3. N5c3+ $18) 2. Kg2 (2. Kg4 $2 Ne5+ 3. Kh3 $10) Nd2 $2 (Ke2 $144 3. N5c3+ $18 Ke3 $5 (Ke1 $2 4. Bh4+ $1 (4. Na3 $4 Ne3+ 5. Kf3 $14) (4. Kf3 $4 Nd2+ 5. Ke3 Nxb1 6. Bh4+) (4. Ba5 $4 Ne3+ 5. Kg3) (4. Ne4 $4 Ne3+ 5. Kg3) (4. Nd5 exd5 5. Ba5+) Ng3 5. Bxg3+ Nf2 6. Bxf2#) 4. Bb6+ $18) 3. Bb6+ (3. Bg5+ Nf4+ (Ke4 $5 4. Nxd2+ $18) 4. Bxf4+ Kxf4 5. Nxd2 $18) (3. N1c3 $2 Nf4+ 4. Kh1 $10) (3. Kg3 $2 Nxb1 4. Bb6+ Ke4) (3. N5c3 $2 Nf4+ 4. Kg3) (3. Kh3 $2 Nxb1 4. Bg5+ Ke4) (3. Nxd2 $2 Nf4+ 4. Kh2) Ke2 $4 (Kf4 $5) 4. N1c3+ (4. N5c3+ $4 Ke1 5. Nxd2 Kxd2 6. Nb5 $10) (4. Nd4+ $6 Kd1 5. Nc3+) (4. Nxd2 $4 Ne1+ 5. Kh2) Ke1 5. Bf2+ $1 (5. Ne4 Nf4+ 6. Kg3) (5. Nd1 Kxd1 6. Kg3) (5. Be3 $143 Nc4 $11) Nxf2 6. Nd4 (6. Na3 $4 Nb3 7. Nab5) (6. Nd6 e5 7. Nf5) (6. Kg1 e5 7. Na7) e5 (Nd3 (Nde4 $144 7. Nf3#) (e5 $144 7. Nc2#) 7. Nc2#) 7. Nc2# (7. Nf3+ $4 Nxf3 8. Kxf3 e4+ 9. Nxe4 Nxe4 10. Ke3 $10) (7. Nde2 $4 e4 8. Nb5 Kxe2 9. Nd6) (7. Nf5 $4 e4 8. Ne7) (7. Nd5 exd4 8. Nb4) 1-0
+
+[Event "L'Echiquier#052"]
+[Source "L'Echiquier/1"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "R2K4/2B5/8/8/3k4/8/R1r5/7r w - - 0 1"]
+[PlyCount "11"]
+
+1. Be5+ $1 (1. R8a4+ $143 Kd3 2. R2a3+ Rc3 $11) (1. Bb6+ $143 Kd3 2. R8a3+ Rc3 $11) Kxe5 (Kd3 $144 2. R8a3+ Kd2 3. Bf4+ Kd1 4. Ra1+ $18) 2. R8a5+ Rc5 $1 (Kd6 $144 3. Ra6+ Rc6 4. Rd2+ Kc5 5. Rc2+ $18) 3. Rxc5+ Kd6 4. Rh5 $1 Rxh5 5. Ra6+ Kc5 6. Ra5+ $18 1-0
+
+[Event "1.p Vecherni"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/B4p2/4N3/6N1/1bK5/3n4/8/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. Ng7+ (1. Nd4 $143 Be7 $1 $11 (Ne5+ $143 2. Kxb4 $18)) Kf8 (Ke7 $144 2. Bd4 f6 3. Nf5+ Kd7 4. Ne4 Ke6 5. Neg3 Ne5+ 6. Kxb4 Nc6+ 7. Kc4 Nxd4 8. Kxd4 $18 {#27}) 2. Nf5 $1 Ne5+ $1 (Be7 $144 3. Nh7+ (3. Nxe7 $143 Ne5+ 4. Kd5 Kxe7 5. Kxe5 f6+ $11) Ke8 4. Nxe7 $18) (Bd2 $144 3. Nh7+ Kg8 4. Nf6+ $18) (f6 $144 3. Ne6+ Kf7 4. Nfd4 $18) 3. Kxb4 Nc6+ 4. Kc5 Nxa7 5. Nh7+ $1 (5. Kb6 $143 f6 6. Ne6+ Kf7 $11) Ke8 $1 6. Nf6+ (6. Kb6 $143 f6 7. Kxa7 Kf7 $11) Kd8 (Kf8 $144 {<main>} 7. Nd5 $1 (7. Kb6 $143 Nb5 $1 8. Kxb5 $11 {stalemate}) Ke8 8. Kb6 Nc8+ 9. Kc7 Na7 10. Nd4 $1 (10. Nd6+ $143 Kf8 11. Kb7 f5 12. Nf4 Ke7 $11) f5 $1 11. Nf4 $1 $18 {#51}) 7. Kb6 Nc8+ 8. Kb7 $1 Ne7 9. Nd4 Ng6 10. Nc6# 1-0
+
+[Event "2.hm 64#532"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/r7/B2K4/8/8/N7/4P3/2n1k3 w - - 0 1"]
+[PlyCount "29"]
+
+1. Nc2+ Kd2 $1 (Kd1 $144 2. Ne3+ Kd2 3. Nc4+ Kc3 4. Bb5 Kb4 5. Kc6 Nb3 6. Nd6 Nd4+ 7. Kb6 Nxb5 8. Nxb5 $11) 2. Nb4 Na2 $1 3. Nxa2 Rxa6+ 4. Kd7 $1 (4. Kd5 $143 Rxa2 5. e4 Ke3 6. e5 Kf4 7. e6 Re2 8. Kd6 Kf5 9. e7 Kf6 $19) (4. Kc7 $143 Rxa2 5. e4 Kd3 6. e5 Re2 7. Kd6 Ke4 8. e6 Kf5 9. e7 Kf6 $19) Ra4 $1 5. Kd6 $1 (5. e3 $143 Rc4 $1 6. Kd6 Kxe3 7. Kd5 Kd3 8. Ke5 Kc2 9. Kd5 Ra4 $19) Ra6+ 6. Kd7 $1 Rxa2 7. e4 Ra5 $1 8. Kd6 $1 Ke3 9. e5 Ke4 10. e6 Ra6+ 11. Kd7 Ke5 12. e7 Ra7+ 13. Kd8 Kd6 14. e8=N+ $1 Kc6 15. Nf6 $18 1/2-1/2
+
+[Event "3.p Ceskoslovensky Sach#603"]
+[Source "Ceskoslovensky Sach/10"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6r1/P1P1k3/b2p4/2p4B/4KN2/8/8/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. Nd5+ Kd7 $1 2. c8=Q+ Rxc8 $1 3. Bg4+ Kc6 4. Bxc8 Bb7 $1 5. Kd3 $1 Ba8 6. Kc4 $1 Bb7 7. a8=Q $1 Bxa8 8. Ba6 $1 Bb7 (Kd7 $144 9. Nb6+ $18) 9. Bb5# 1-0
+
+[Event "Shakhmaty v SSSR#713 (m)"]
+[Source "Shakhmaty v SSSR/4 (m): Gorgiev=T Shakhmaty v SSSR/5 1936"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "bN2N3/7k/1Pr1rp2/2P3P1/8/5K2/B7/8 w - - 0 1"]
+[PlyCount "47"]
+
+1. b7 $1 (1. Bxe6 $143 Rxe6+ $19) (1. Nxc6 $143 Bxc6+ $19) (1. Nxf6+ $143 Rxf6+ $1 2. Kg4 Rf2 3. Bb1+ Kg7 4. Nxc6 Bxc6 $19) Bxb7 2. Nxf6+ Rxf6+ $1 3. gxf6 Rc8+ 4. c6 Ba8 5. Na6 $1 Rxc6 $1 6. Nb4 Rc4+ $1 7. Nd5 $1 Bxd5+ 8. Ke3 $1 Re4+ (Rc5 $144 9. Kd4 $11) 9. Kf3 $1 (9. Kd3 $143 Bb7 $19) Rd4+ (Bb7 $144 10. Bb1 $11) 10. Ke3 Rd1 11. Ke2 Rd4 12. Ke3 Re4+ 13. Kf3 Re5+ 14. Kf4 Rh5 15. Kg4 $1 Kg6 $1 16. f7 $1 Rg5+ 17. Kh4 $1 Rh5+ 18. Kg4 Rg5+ 19. Kh4 (19. Kf4 $143 Rf5+ 20. Kg4 Bxa2 $19) Bxf7 20. Bxf7+ Kf5 $1 21. Kh3 $1 Kf4 22. Kh2 Kf3 23. Kh3 Rf5 24. Be8 $11 {(Fg6)} 1/2-1/2
+
+[Event "Shakhmaty v SSSR#765"]
+[Source "Shakhmaty v SSSR/4"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p7/1p6/8/P7/4kP2/8/4K3 w - - 0 1"]
+[PlyCount "12"]
+
+1. a5 $1 (1. f4 $143 $2 Kxf4 2. Kd2 Ke4 3. a5 b5 4. a6 b4 $19) b5 (Kxf3 $144 2. axb6 axb6 3. Kd2 $11) 2. a6 $1 Kxf3 3. Kd2 Ke4 4. Kc3 Kd5 5. Kb4 Kc6 6. Ka5 Kc5 $11 {stalemate} 1/2-1/2
+
+[Event "1.hm Ty dedicated to 3rd International "]
+[Source "64/9"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3P4/2r5/4B2k/4r1p1/8/5R1K w - - 0 1"]
+[PlyCount "13"]
+
+1. d7 g2+ 2. Kxg2 (2. Bxg2 $143 Rd3 $11) Re2+ (Rg3+ $144 3. Kf2 Rg8 4. Rh1+ $18) 3. Kf3 Rd2 4. Kf4 $1 Rc3 5. Bd3 $1 {Plachutta} Rdxd3 {<main>} (Rcxd3 {<main>} 6. d8=Q+ Rxd8 7. Rh1+ Rh2 8. Rxh2#) (Rc4+ $144 6. Ke3 $1 $18 (6. Bxc4 $143 Rd4+ 7. Kf5 Rxd7 $11)) 6. Rh1+ Rh3 {<eg>} 7. d8=Q+ $18 1-0
+
+[Event "2.hm Leningrad Central Chess Club Ty 64"]
+[Source "64/8 after Adamson=H c8a7 1915"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/5p2/p7/3k4/7P/8/1P6/8 w - - 0 1"]
+[PlyCount "31"]
+
+1. h5 Ke6 2. h6 Kf6 3. Ke8 $1 (3. h7 $143 Kg7 4. Ke7 f5 $19) Kg6 4. h7 Kxh7 5. Kxf7 Kh6 (Kh8 $144 6. b4 Kh7 7. Ke6 $18) (a5 $144 6. Ke6 $18) 6. Kf6 $1 (6. b4 $143 Kg5 7. Ke6 Kf4 8. Kd5 Ke3 $11) (6. Ke6 $143 Kg5 $1 $11 (Kg6 $143 7. b4 $18)) Kh5 (Kh7 7. b4) (a5 $144 7. Ke6 $18) 7. Kf5 (7. Ke5 $143 Kg4 $11 (Kg5 $143 8. b4 $18)) Kh4 (Kh6 $144 8. b4 Kg7 9. Ke6 $18) (a5 $144 8. Ke5 Kg4 9. Kd5 Kf4 10. Kc5 Ke4 11. Kb5 Kd3 12. Kxa5 $18) 8. Kf4 Kh3 9. Kf3 Kh2 10. Kf2 Kh3 $1 (Kh1 $144 11. b4 Kh2 12. Ke3 Kg3 13. Kd4 Kf4 14. Kc5 Ke4 15. Kb6 Kd4 16. Kxa6 $18) (a5 $144 11. Ke3 Kg2 12. Kd4 Kf3 13. Kc5 Ke3 14. Kb5 Kd3 15. Kxa5 $18) 11. b3 $1 (11. b4 $143 Kg4 12. Ke3 Kf5 13. Kd4 Ke6 (a5 $143 14. bxa5 Ke6 15. a6 $18) 14. Kc5 a5 $1 15. bxa5 Kd7 16. Kb6 Kc8 $11) Kg4 12. Ke3 Kf5 13. Kd4 Ke6 14. Kc5 Ke5 (a5 $144 15. Kb5 a4 16. Kxa4 $1 $18) 15. b4 $1 (15. Kb6 $143 Kd4 $11) Ke4 16. Kb6 $18 1-0
+
+[Event "1.hm Ceskoslovensky Sach#44"]
+[Source "Ceskoslovensky Sach/6"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6P1/6P1/7k/4B3/3K4/1p6/r5b1 w - - 0 1"]
+[PlyCount "11"]
+
+1. Ke2 $1 b1=Q $1 2. Bxb1 Ra8 3. Be4 (3. g8=Q $143 Rxg8 4. Ba2 Ra8 5. Bd5 Ra7 $19) Re8 4. g8=Q $1 Rxg8 5. Bd5 Rg7 {eg:} (Re8+ $144 {<main>} 6. Kf1 Bd4 7. g7 Bxg7 8. Bf7+ $11) (Rxg6 $144 6. Bf7 $11) 6. Bf7 $11 (6. Kf1 $144 Bd4 7. Bf7 $11) 1/2-1/2
+
+[Event "1.p Revista de Romana de Sah#0145"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k4r2/PpB5/1P1PP1Q1/8/1p6/1P6/6P1/6K1 w - - 0 1"]
+[PlyCount "19"]
+
+1. Qe8+ $1 (1. e7 $143 Rf1+ {desesperado tower} 2. Kh2 Rh1+ 3. Kxh1 $11 {stalemate}) Rxe8 2. d7 $1 Rh8 $1 (Rf8 $144 3. Bf4 $18) 3. Bh2 $1 Rg8 4. Bg3 $1 Rh8 (Rf8 $144 5. Bf4 Rg8 6. Kf1 $18) 5. Bh4 $1 Rg8 6. Bg5 $1 (6. Kh1 $144 Rh8 7. Kg1 Rg8 $18 {loss of time}) Rh8 7. Bh6 $1 Rg8 8. Bg7 $1 Rh8 $1 9. Bc3 $1 bxc3 10. e7 $18 1-0
+
+[Event "3.p 64#84"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/b4b2/p2p4/N2k4/3N2B1/2K5/8/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. Bf3+ Kc5 2. Nb7+ Kb6 3. Nxd6 Bd5 $1 4. Bxd5 (4. Nc8+ $143 $2 Kc7 5. Nxa7 Bxf3 6. Nxf3 Kb7 $11) Kc5 5. Nc8 Bb8 (Kxd5 $144 6. Nxa7 a5 (Kc5 $144 7. Nc2 $18) 7. Nab5 a4 8. Na3 $18 {#90}) 6. Nc6 $1 Kxd5 (Be5+ $144 7. Nxe5 Kxd5 $18 {#85}) 7. Nxb8 a5 $1 8. Nb6+ Kc5 9. Nc4 $1 (9. Na4+ $143 Kb5 10. Kb3 $11 {stalemate} (10. Nb2 $144 a4 $1 $11)) a4 10. Na3 $18 {#92} 1-0
+
+[Event "2.p VCSPS Chess Club Ty"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/8/k7/p7/P5pp/8/8/b3N1B1 w - - 0 1"]
+[PlyCount "17"]
+
+1. Nd3 $1 (1. Ba7 $143 Be5 $11) h3 (Bc3 $144 2. Nc5+ Kb6 3. Ne4+ Kc6 4. Nxc3 h3 5. Ne4 Kd5 6. Nf2 $18) 2. Ba7 $1 Bd4 $1 3. Bxd4 h2 4. Nc5+ Kb6 5. Ne4+ Ka6 $1 6. Ng3 h1=Q+ $1 7. Nxh1 g3 8. Bg1 $1 (8. Be3 $143 g2 9. Ng3 g1=Q 10. Bxg1 $11 {stalemate}) (8. Nxg3 $143 $11 {stalemate}) g2 9. Nf2 $1 $18 1-0
+
+[Event "4.hm Shakhmaty v SSSR#73"]
+[Source "Shakhmaty v SSSR/12"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1Q6/r3q2r/p7/P5N1/5p2/4p3/4P1k1/4K2R w K - 0 1"]
+[PlyCount "16"]
+
+1. Rg1+ $1 (1. Rxh7 $143 $2 Qxg5 $1 2. Rb7 Qxa5+ 3. Rb4 Qa1+ 4. Rb1 Qc3+ 5. Kd1 Qd2#) (1. Nxh7 $143 $2 Rb7 2. Qg8+ Kxh1 $19) Kxg1 2. Qxf4 Qb4+ $1 (Qb7 $144 3. Qf1+ Kh2 4. Nf3+ Kg3 (Qxf3 $144 5. Qxf3 Rae7 6. Qf4+ $11) 5. Qg1+ $11) (Qc7 $144 3. Qxe3+ Kh1 4. Qf3+ Kh2 5. Qf2+ $11) 3. Qxb4 Rh1 $1 4. Kd1 Rc7 $1 5. Nf3+ $1 Kg2+ $1 6. Ne1+ (6. Qe1 $143 $2 Rxe1+ 7. Nxe1+ Kf1 8. Nd3 Rd7 9. Kc2 Rxd3 10. Kxd3 Kf2 $19) Rxe1+ 7. Qxe1 (7. Kxe1 $143 $2 Rc1#) Rc4 8. Qf1+ $1 Kxf1 $11 {stalemate} 1/2-1/2
+
+[Event "2.p Shakhmatna Misl#75"]
+[Source "Shakhmatna Misl/10 1956"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1p5P/8/PpP5/1P1K4/8/1r5k w - - 0 1"]
+[PlyCount "26"]
+
+1. c5 $1 (1. Kd4 $143 Rd1+ 2. Ke5 Rd3 3. h7 (3. Kf6 $144 Rxb3 4. a5 bxa5 5. c5 Rh3 6. Kg7 b3 7. c6 b2 8. c7 Rc3 $19) Rh3 4. c5 bxc5 5. Kd5 Rxh7 6. Kxc5 Rb7 7. a5 Kg2 8. a6 Rb8 9. a7 Ra8 10. Kxb4 $1 (10. Kb6 $144 Kf3 11. Kb7 Rh8 12. a8=Q Rxa8 13. Kxa8 Ke4 $19) Rxa7 11. Kc5 Rc7+ $1 12. Kd5 (12. Kb6 $144 Rc3 13. b4 Kf3 14. b5 Ke4 15. Ka7 Kd5 16. b6 Kc6 17. b7 Ra3+ 18. Kb8 Rb3 19. Ka8 Kc7 $19) Rb7 13. Kc4 Kf3 14. b4 Ke4 15. Kc5 Ke5 16. b5 Rc7+ $19) Rxb3+ (Rd1+ $143 2. Ke2 Rd8 3. cxb6 $18) (bxc5 $144 2. Kc4 Rc1+ 3. Kb5 Kg2 4. h7 Rh1 5. Kxc5 Kf3 6. Kxb4 Ke4 7. Kc5 Rxh7 8. a5 $11) 2. Kd4 $1 (2. Kc4 $143 Rc3+ 3. Kxb4 Rxc5 $1 4. h7 Rh5 5. h8=Q Rxh8 6. Kb5 Rh6 $19) Rh3 $1 (bxc5+ $144 3. Kxc5 $11) 3. cxb6 $1 Rxh6 $1 4. a5 Rh4+ $1 5. Kd3 $1 b3 6. Kc3 Rb4 $1 7. Kxb4 b2 8. Kb5 $1 b1=Q+ 9. Ka6 $1 (9. Kc6 $143 Qe4+ 10. Kb5 (10. Kc7 $144 Qa8 $19) Qb7 11. a6 Qd5+ 12. Kb4 Qc6 $19) Qb4 $1 10. b7 $1 Qd6+ (Kg2 $144 11. b8=Q Qxb8 $11 {stalemate}) 11. Ka7 Qc5+ 12. Ka6 $1 Qc7 13. b8=Q Qxb8 $11 {stalemate} 1/2-1/2
+
+[Event "1.p USSR team champ I (tt)"]
+[Source "USSR team champ I 1956-1957"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "1"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/8/2P4K/3r4/4k1B1/2p4R/5n2/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. Bf3+ $1 (1. Rxc3 $2 $143 Nxg4+ 2. Kg6 $10 (2. Kg7 Rd8 $11)) (1. Bf5+ $2 Rxf5 2. Rxc3 Ng4+ 3. Kg6) (1. Bd1 Nxh3 2. Bc2+ Ke3) (1. Rh1 Nxh1) Kd4 $1 (Kd3 $144 2. Bxd5+ Nxh3 3. Bb3 $18) (Ke5 $144 2. Rh5+ $18) 2. Rh4+ $1 (2. Bxd5 $4 $2 c2 $19 3. Rd3+ Nxd3) (2. c7 $4 Rc5 3. Rh4+ Ke3) (2. Rh5 $4 Rxh5+ 3. Kxh5 c2) (2. Rh1 $4 Nxh1 3. Bxh1 Rc5) (2. Rh2 $4 c2 3. Rh4+ Kc5) (2. Kg6 Nxh3) (2. Rg3 Rc5) Ne4 $1 {Novotny} 3. Rxe4+ (3. Bxe4 $2 $143 Rc5 $1 4. Bh1+ $10 (4. Kg6 Ke3 $11)) (3. c7 $2 Rd6+ 4. Kg7 $10) (3. Bh5 $4 c2) Kd3 (Kc5 $144 4. Rc4+ Kxc4 5. Bxd5+ Kd3 6. Bb3 $18 $1 (6. Be4+ $143 $2 Kxe4 $11)) 4. Rc4 $1 (4. c7 $2 Rc5 5. c8=Q $10) (4. Re1 $2 Rd6+ 5. Kh5) (4. Ra4 $2 c2 5. Be4+) (4. Re7 $2 Rc5 5. c7 c2 6. Be4+ Kd4 7. Bxc2 Rxc2) Rd6+ (Kxc4 $144 5. Bxd5+ Kxd5 6. c7 $18) (Rd8 $144 5. c7 $1 Rc8 6. Bg4 Kxc4 7. Bxc8 c2 8. Be6+ $18) 5. Kg5 $1 (5. Kg7 $4 Kxc4 6. Be2+ Kd5) (5. Kh5 $2 $143 Rd8 $1 6. Be2+ $10 Kxe2 7. Rxc3 Kd2 8. Rc5 Kd3 9. Kg6 Kd4 10. Rc1 Rc8 $11) (5. Kh7 $4 Kxc4 6. Be2+ Kd4) Kxc4 (Rd8 $144 6. Be2+ (6. c7 $143 Rg8+ $1 $19) Kxe2 (Kd2 (Kxe2 $144 7. Rxc3 Kd2 8. Rc5 Kd3 9. Kf6 $18 $1) 7. Bd1 $18 $1 Kxd1 (Kd3 8. Bb3) 8. Rxc3 $18) 7. Rxc3 $18) 6. c7 $1 (6. Kf4 $4 c2 7. c7 Rf6+) (6. Be2+ $4 Kd4) (6. Kf5 $4 Rxc6 7. Bxc6 c2) (6. Bd5+ $4 Rxd5+ 7. Kg4 c2) Rc6 $1 7. Bxc6 (7. Bg4 $4 c2 8. Be6+ Kd4) (7. Be4 $4 Rxc7 8. Bd5+ Kxd5) (7. Be2+ $4 Kd4) (7. Bd5+ Kxd5) c2 8. Bb5+ $1 (8. Bd5+ $2 $143 Kc3 $1 (Kd3 $143 $2 9. Be4+ $1 Kxe4 10. c8=Q Kd3 11. Kf4 Kd2 12. Qd7+ Kc3 $1 13. Qg7+ Kd2 14. Qb2 Kd1 15. Kf3 c1=Q 16. Qe2#) 9. c8=Q+ Kd2 $10 $1 $11) (8. c8=Q $2 c1=Q+ 9. Kf5 $10) Kb3 $1 9. c8=Q (9. Ba4+ $4 $143 $2 Kxa4 10. c8=Q $10 Kb3 $11) (9. c8=N $4 c1=Q+ 10. Kf5 Qxc8+ 11. Kf6 Qd8+) (9. Bc4+ $4 Ka3 10. c8=Q) Kb2 $1 10. Qh8+ $18 (10. Ba4 $4 c1=Q+ 11. Qxc1+ Kxc1 12. Bb3) (10. Qxc2+ $4 Kxc2 11. Bc4) 1-0
+
+[Event "1.hm Revista de Romana de Sah#0301"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B7/2pp4/2p5/r7/1K6/8/1Pk5/1N6 w - - 0 1"]
+[PlyCount "17"]
+
+1. Na3+ $1 (1. Kxa5 $143 Kxb1 2. b4 Kc2 3. Bb7 Kc3 4. Bc8 $11) Rxa3 $1 (Kxb2 $144 2. Nc4+ $18) 2. bxa3 $1 (2. Kxa3 $143 c5 3. Be4+ Kc1 4. Kb3 c6 5. Bf5 d5 6. Bd7 c4+ 7. Ka3 c5 8. Be6 c3 9. bxc3 Kc2 $11) c5+ $1 3. Kc4 $1 (3. Kb5 $143 Kb3 4. a4 c6+ $11) Kb2 4. a4 Ka3 5. Bc6 $1 (5. a5 $143 Ka4 6. a6 Ka5 7. Bb7 Kb6 $11) dxc6 6. a5 $1 Ka4 7. a6 Ka5 8. a7 Kb6 9. a8=R $18 (9. a8=Q $143 $11 {stalemate}) 1-0
+
+[Event "5.p Problem#015"]
+[Source "Problem/9 EG#09666"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/1pR5/1P2b3/1KP5/6n1/8/8/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. Re7 (1. c6 $143 bxc6+ 2. Kxc6 Nf6 3. Re7 Bd7+ 4. Kd6 Kb7 5. Rf7 (5. Kc5 $144 Ka6 $11) Ne4+ 6. Kxd7 Kxb6 $11) Bc8 $1 2. c6 $1 (2. Re8 $143 Kb8 3. c6 bxc6+ 4. Kxc6 Nf6 $1 $11) bxc6+ 3. Kxc6 Bb7+ (Ba6 $144 4. Re8+ Bc8 5. Rxc8#) (Bd7+ $144 4. Kc7 $18) (Nf6 $144 4. b7+ Bxb7+ (Kb8 $144 5. bxc8=Q+ Kxc8 6. Re6 $18) 5. Rxb7 $18) (Kb8 $144 4. b7 $1 Bxb7+ (Ne5+ $144 5. Rxe5 Bxb7+ 6. Kb6 Kc8 7. Rc5+ Kb8 8. Rg5 $18) (Bd7+ $144 5. Kxd7 Kxb7 $18) 5. Rxb7+ $18) 4. Rxb7 Ne5+ 5. Kc7 Nc6 $1 6. Ra7+ $1 (6. Kxc6 $143 $11 {stalemate}) Nxa7 7. b7# 1-0
+
+[Event "3.p Tuwinsk Com Phys Sport (v)"]
+[Source "(v): Gorgiev=T Shakhmaty v SSSR#07 2/1960 (v): Gorgiev=T Shakhmaty v SSSR/12 1963"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K1R5/6b1/2P5/5P2/n7/4k3/3p4/8 w - - 0 1"]
+[PlyCount "14"]
+
+1. Re8+ (1. Rd8 $143 Bd4 2. f6 d1=Q 3. f7 Nb6+ 4. Kb7 Qb3 $19) (1. f6 $143 Bxf6 2. Re8+ Kf4 $1 $19) Kd3 2. f6 $1 Bxf6 3. c7 d1=Q (Nb6+ $144 4. Kb7 d1=Q 5. Rd8+ Bd4 6. Rxd4+ Kxd4 7. Kxb6 Qg4 8. Kb7 $11) 4. Rd8+ Bd4 5. Rxd4+ Kxd4 6. Ka7 $1 Qc2 7. c8=Q Qxc8 $11 {stalemate} 1/2-1/2
+
+[Event "1.p Tijdschrift v.d. KNSB#590 (c)"]
+[Source "Tijdschrift v.d. KNSB/5 1958 (c): Visokosov=A Skakhmatnaya Nedelya=22(53) 5/ 2003"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[Composer2 "Preuyt, G"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1b3N2/1P6/k1P2P2/2P5/6N1/7p/2r5/4K3 w - - 0 1"]
+[PlyCount "19"]
+
+1. Ne6 $1 (1. Nd7 $143 $2 Bg3+ $1 2. Kd1 h2 3. Nxh2 Rxh2 4. f7 Rf2 5. f8=Q Rxf8 6. Nxf8 Kb5 $1 7. Nd7 Kxc6 $11) (1. Ng6 $143 $2 Rxc5 2. f7 Rf5 3. f8=Q Rxf8 4. Nxf8 Kb6 $11) (1. f7 $143 $2 Bg3+ 2. Kd1 Rxc5 3. Nd7 Rf5 4. b8=Q Bxb8 5. Nxb8+ Kb6 $11) Bg3+ 2. Kd1 $1 (2. Kf1 $143 $2 h2 3. Nxh2 Rxh2 4. b8=Q (4. Kg1 $144 Rh7 $1 5. Kg2 Bb8 6. Nf8 Rh8 7. Nd7 Bc7 8. f7 Kb5 $1 $11) Bxb8 5. c7 Bxc7 6. Nxc7+ Kb7 7. f7 Rh8 8. Ne6 Kc6 $1 9. Ke2 Kd7 $11) h2 $1 3. Nxh2 (3. b8=N+ $143 $2 Bxb8 4. Nxh2 Rxh2 5. c7 Bxc7 6. Nxc7+ Kb7 $11) Rxh2 4. f7 Rf2 (Rh8 $144 5. Kc2 Kb5 (Bh2 $144 6. Kd3 Bb8 7. Ke4 Rh4+ 8. Kf5 Rh8 9. f8=Q $18) 6. c7 Bxc7 7. Nxc7+ Kc6 8. b8=Q Rxb8 9. Ne8 $1 $18) 5. Nf4 $1 {Novotny} Rxf4 6. b8=Q Rf1+ (Rd4+ $144 7. Kc2 Bxb8 8. f8=Q Rb4 9. Qc8+ Ka7 10. c7 $18) 7. Ke2 $1 Rf2+ 8. Ke3 $1 Bxb8 9. c7 $1 (9. Kxf2 $143 $2 Ba7 $1 10. f8=B $1 (10. f8=Q $144 Bxc5+ 11. Qxc5 $11 {stalemate}) Bb6 $1 11. Bd6 Ba5 12. Kf3 Kb5 $1 $11) Bxc7 10. Kxf2 $18 1-0
+
+[Event "1.p Ukrain Ty"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2b1K2n/bP1N1n1k/5pNp/8/8/8/8/6B1 w - - 0 1"]
+[PlyCount "17"]
+
+1. Ngf8+ (1. bxc8=Q $143 Nd6+ $11) (1. bxc8=N $143 Kxg6 $11) (1. Ndf8+ $143 Kg7 $11) Kg7 (Kg8 $144 2. Nxf6+ Kg7 3. Nh5+ Kg8 4. bxc8=N Nd6+ 5. Nxd6 Bxg1 6. Nf5 $18) 2. bxc8=N (2. Ne6+ $143 $2 Kg6 3. bxc8=N Kf5 $11) Bxg1 3. Ne6+ Kg6 (Kh7 $144 4. Ndf8+ Kg8 5. Ne7#) 4. Ne7+ Kh5 5. Nxf6+ Kh4 6. Nf5+ Kh3 7. Nf4+ Kh2 8. Ng4+ Kh1 9. Ng3# 1-0
+
+[Event "2.p Kazachstan SSR Ty"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7R/8/1k6/7b/8/1p1pRp2/3K4 w - - 0 1"]
+[PlyCount "27"]
+
+1. Rh5+ $1 Kc6 (Kc4 $144 2. Rxh4+ $11) 2. Rh6+ Kc7 3. Rh7+ Kc8 4. Rh8+ Bd8 5. Rxd8+ Kc7 (Kxd8 $144 6. Rxd2+ $11) 6. Rd7+ Kc6 7. Rd6+ Kc5 8. Rd5+ Kc4 9. Rd4+ Kc3 10. Rd3+ Kxd3 11. Rxd2+ Kc3 (Ke3 $144 {<main>} 12. Re2+ Kf3 13. Rxf2+ Kxf2 14. Kc2 $11) 12. Rc2+ Kb3 13. Rxb2+ Kxb2 14. Ke2 $11 1/2-1/2
+
+[Event "Revista de Romana de Sah#0434"]
+[Source "Revista de Romana de Sah/1"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "R7/r3P1R1/P7/5PPr/4Pn2/4p3/1k5n/7K w - - 0 1"]
+[PlyCount "21"]
+
+1. e8=Q Nf3+ $1 2. Qxh5 e2 3. Rb7+ $1 Rxb7 4. Qh8+ Kb3 $1 (Kb1 $144 5. Qa1+ $1 Kxa1 6. axb7+ Kb2 7. b8=Q+ $18) 5. Qg8+ Kb4 6. Qf8+ Kb5 7. Qe8+ Kb6 8. Qd8+ Kb5 9. Qa5+ $1 Kxa5 10. axb7+ Kb5 11. b8=Q+ $18 1-0
+
+[Event "1.p Ukrain Ty"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/8/4k3/5RpR/8/8/b1p5/2b5 w - - 0 1"]
+[PlyCount "20"]
+
+1. Rc5 $1 (1. Rf1 $143 Bd5+ 2. Kb8 Bf4+ 3. Kc8 c1=Q+ 4. Rxc1 Bxc1 $19) Bd5+ 2. Rxd5 Be3 $1 (Kxd5 $144 3. Rh2 $1 $11) (Ba3 $143 3. Rhxg5 c1=Q $18 {#50}) 3. Rb5 c1=Q 4. Rh6+ Kf7 5. Rb7+ Kg8 6. Rg6+ Kf8 7. Rf6+ Ke8 8. Re6+ Kd8 9. Rd6+ Kc8 10. Rc6+ $1 Qxc6 $11 {stalemate} 1/2-1/2
+
+[Event "1/2.p Zaporozjskaja Pravda"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3R4/4b3/p7/KpP4r/p4k2/2B5/3N4 w - - 0 1"]
+[PlyCount "12"]
+
+1. Rd3+ Ke2 2. Nc3+ bxc3 3. Rxc3 Rxc4+ 4. Rxc4 a2 5. Bd1+ Kxd1 6. Kb3 a1=Q $11 {stalemate} (a1=B $144 7. Ka2 Be5 8. Kb1 Bxc4 $11 {stalemate}) 1/2-1/2
+
+[Event "1/2.p Thèmes 64#0952"]
+[Source "Themes 64/10-12"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3kP3/6P1/7n/3K3P/7n/8/8 w - - 0 1"]
+[PlyCount "14"]
+
+1. g7 $1 (1. Ke5 $143 Kxe7 2. Kf5 N3f4 3. Kg5 Ke6 $1 4. Kh6 (4. g7 $144 Kf7 5. Kh6 Kg8 $19 {#84}) Kf6 5. g7 Nxg7 6. h5 Nge6 7. Kh7 Nd5 8. Kh8 Ne7 9. Kh7 Ng5+ 10. Kh8 Kf7 11. h6 Ng6#) Nxg7 2. h5 $1 Nf5+ 3. Ke5 Nh6 4. Kf6 Nf2 5. Kg7 $1 Nfg4 6. Kf8 Nf6 7. e8=Q+ (7. Kg7 $143 $2 Nfg8 $19 {#90}) Nxe8 $11 {stalemate} 1/2-1/2
+
+[Event "5.p Shakhmaty v SSSR-40 JT Shakhmaty v "]
+[Source "Shakhmaty v SSSR/5 (m): Shakhmaty v SSSR/5 1966"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k4b/P7/KPn1N3/8/2N5/8/8/1r6 w - - 0 1"]
+[PlyCount "13"]
+
+1. a8=Q+ Nb8+ 2. Ka5 Ra1+ 3. Kb5 Rxa8 4. b7+ $1 Kxb7 5. Nd6+ Ka7 6. Nd8 $1 Nd7 7. Nc6# 1-0
+
+[Event "5.hm Rustaveli MT Vecherni Tbilisi"]
+[Source "EG#00398"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6pp/7P/3N2P1/6k1/1Bp2Rp1/4n1K1/r7 w - - 0 1"]
+[PlyCount "25"]
+
+1. Ne3+ Kh5 $1 2. Rf1 $1 Rxf1 3. Kxf1 g2+ 4. Kxg2 c2 5. Bxc2 Nf4+ 6. Kf3 $1 Ne6 $1 7. g6 $1 (7. Nf5 $143 gxh6 8. gxh6 Nf8 9. Kf4 Ng6+ 10. Ke4 Kg5 11. Bd1 Nh8 12. Bb3 Ng6 13. Bf7 Nf8 14. Bc4 Nd7 15. Nd4 Nf6+ 16. Kf3 Kxh6 $11) hxg6 8. h7 $1 Ng5+ 9. Kf4 Nxh7 10. Bd1+ Kh6 $1 11. Ng4+ Kh5 12. Nf6+ Kh6 13. Ng8# 1-0
+
+[Event "Tidskrift för Schack#1390 (c)"]
+[Source "Tidskrift foer Schack/10 (c): Gorgiev=T Tidskrift foer Schack=4 5/1971"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/BB6/7p/1r2k1PK/8 w - - 0 1"]
+[PlyCount "25"]
+
+1. Bc3 Ra2 2. Bb3 Ra3 3. Bc4+ Ke3 (Kd1 $144 4. Bb4 $18) 4. Bb4 (4. Bb2 $143 Ra4 $11) Ra4 5. Bc5+ Ke4 (Kd2 $144 6. Bb3 $18) 6. Bb5 Ra5 7. Bc6+ Ke5 8. Bb6 Ra6 9. Bc7+ Ke6 10. Bb7 Ra7 11. Bc8+ Ke7 12. Bb6 Ra8 13. Bxh3 $18 1-0
+
+[Event "4.p Lenin MT 64"]
+[Source "EG#01336"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/Kp6/1p6/Np6/4r3/8/3BB2k w - - 0 1"]
+[PlyCount "29"]
+
+1. Bf2 (1. Bd2 $143 Rd3 $11) Rd3 2. Be2 $1 (2. Nb2 $143 Rd2 3. Bf3+ Kh2 4. Nd1 Rxf2 5. Nxf2 Kg3 $11) Rd2 3. Bf3+ Kh2 4. Be3 $1 (4. Be1 $143 Rd3 5. Be2 (5. Be4 $144 Re3 $11) Re3 $11) Rd3 5. Bf4+ Kh3 $1 (Kg1 $144 6. Be4 Rd4 7. Be3+ $18) 6. Be4 $1 Rd4 7. Bf5+ Kh4 $1 8. Be5 Rd5 9. Bf6+ Kh5 10. Be6 Rd6 11. Bf7+ Kh6 12. Be5 $1 (12. Be7 $143 Rd7 13. Bf8+ Kh7 14. Be8 Rd8 $11) Rd7 13. Be8 $1 (13. Bf4+ $144 Kg7 14. Be8 Re7 $18 {See main line after 14.Rg7}) Re7 14. Bf4+ Kg7 15. Bxb5 $1 $18 1-0
+
+[Event "EG"]
+[Source "EG/7"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/2p5/p3p3/rp6/p5N1/rkpKN3/qb6 w - - 0 1"]
+[PlyCount "15"]
+
+1. Nc1 c5 2. Ne4 c4 3. Nc5 c3+ 4. Ke2 e4 5. N5b3 c5 6. Ke3 c4 7. Kxe4 cxb3 8. Nd3# 1-0
+
+[Event "sp.p Problem"]
+[Source "Problem/8 1974 EG#09867"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/2p5/2P5/3P3n/8/4n3/6k1/8 w - - 0 1"]
+[PlyCount "18"]
+
+1. d6 $1 cxd6 2. c7 Nd5 $1 3. c8=N $1 Ndf6+ 4. Kh8 $1 d5 5. Ne7 d4 6. Nc6 d3 7. Ne5 d2 8. Nc4 d1=N 9. Ne3+ Nxe3 $11 {stalemate} 1/2-1/2
+
+[Event "Problem#313"]
+[Source "Problem/6"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1P6/B2r4/4N3/4bK2/8/5k1r w - - 0 1"]
+[PlyCount "21"]
+
+1. Ng3+ Kg1 2. Ne2+ Kh2 3. b7 Bf4 4. Nxf4 Rb5 5. Bc7 Rxb7 6. Nd5+ Kh3 7. Nf4+ Kh2 8. Nd5+ Kg1 9. Bb6+ Kf1 10. Ne3+ Kg1 11. Nd5+ $11 1/2-1/2
+
+[Event "Thèmes 64#3078"]
+[Source "Themes 64/7-9"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6bN/6Pp/8/8/3K3p/8/8/4k3 w - - 0 1"]
+[PlyCount "22"]
+
+1. Ke3 $1 (1. Ke4 $143 $2 Kf2 $1 $19) h3 (Bd5 $144 2. Kf4 Be6 3. g8=Q Bxg8 4. Kg4 Kf2 5. Kxh4 Kf3 6. Kh5 Kf4 7. Kh6 Kf5 8. Nf7 $11 $1 (8. Kg7 $143 $2 h5 $1 9. Ng6 Kg5 10. Ne5 Bd5 $1 $19)) 2. Kf3 h2 $1 3. Kg2 h1=Q+ 4. Kxh1 Kf2 $1 5. Kh2 Be6 $1 6. g8=Q $1 Bxg8 7. Kh3 Kf3 8. Kh4 Kf4 9. Kh5 Kf5 10. Kh6 Kf6 11. Ng6 $1 hxg6 $11 {stalemate} 1/2-1/2
+
+[Event "Tidskrift för Schack#1899"]
+[Source "Tidskrift for Schack/6-7"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/1p2P2p/1P1K3P/8/8/3bk3 w - - 0 1"]
+[PlyCount "22"]
+
+1. Kc5 $1 Be2 $1 2. e6 $1 Bg4 $1 3. Kd6 Bf5 $1 4. Ke5 $1 Bd3 5. Kf6 $1 Be4 6. Ke5 Bg6 7. Kf6 Be8 8. Ke7 $1 Bc6 9. Kd6 Be4 10. Ke5 Bg6 (Bc6 11. Kd6 Be8 12. Ke7) 11. Kf6 Be8 $11 1/2-1/2
+
+[Event "64#82"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p6/1p6/7N/2P5/4Bk1P/7p/5K2 w - - 0 1"]
+[PlyCount "24"]
+
+1. Ng3 $1 Kxg3 2. Bf4+ Kxf4 3. Kg2 h1=Q+ 4. Kxh1 Kg3 5. Kg1 Kxh3 6. Kf2 Kg4 7. Ke3 Kf5 8. Kd4 Ke6 9. c5 $1 b5 $1 10. Kc3 Kd5 11. Kb4 Kc6 12. Ka5 Kxc5 $11 {stalemate} 1/2-1/2
+
+[Event "3.p La Nau#4 (v)"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "7k/pR6/8/8/2K1p3/8/2b1B2b/8 w - - 0 1"]
+
+1. Rb2 $1 (1. Rxa7 $2 Bf4 2. Kd5 $10) (1. Re7 $2 Bg1 2. Kc3 $14 $10) (1. Kd5 $2 Bd3 2. Bg4 $14 $10) (1. Bd3 Bxd3+ 2. Kc3 Bg1) (1. Rb4 Be5 2. Kd5) (1. Bd1 Bxd1 2. Rxa7 e3) (1. Rb3 Bxb3+ 2. Kxb3 Kh7) (1. Bf3 exf3 2. Rxa7 Bg1) Ba4 (Bd3+ 2. Bxd3 Be5 3. Rb5) 2. Ra2 (2. Bh5 $2 Bg1 3. Kd5 $14 $10) (2. Kb4 $2 Be8 3. Kc4 $10 (3. Bb5 Bd6+)) (2. Kd4 $2 Kg7 3. Ba6 $14 $10 Bg1+ 4. Kxe4) (2. Kd5 $2 Bc7 3. Kxe4 $10) (2. Bd1 $2 Be5 3. Rb1 $10) (2. Rb4 $2 Bc6 3. Kc5 $10) (2. Bf3 $2 exf3 3. Rxh2+ Kg7 4. Rd2) (2. Rb5 Bxb5+ 3. Kxb5 Kg7) Be8 (Bd7 (Be8 {<main>} 3. Bh5 $1 Bxh5 4. Rxh2 Kg7 5. Rxh5) (Bc6 {<main>} 3. Ra6 Bd7 4. Rh6+ Kg7 5. Rxh2) 3. Bg4 $1 (3. Kd4 $2 Bf5 4. Bc4 $14 $10) (3. Ra3 $2 Be6+ 4. Kd4 $14 $10) (3. Kd5 $2 Bg1 4. Kxe4 $14 $10) (3. Ra1 Be5 4. Rxa7 Be6+ 5. Kb4) Bxg4 $4 (Bb5+ $5 4. Kxb5 $18) (Bb8 $5 4. Bxd7 $18) 4. Rxh2+ $1 $18 (4. Rg2 $2 Bf5 5. Rxh2+ Bh7 6. Rg2) (4. Rxa7 Be6+ 5. Kc3 Be5+) Kg7 5. Rg2 Kf6 6. Rxg4) (Bb3+ $5 3. Kxb3 $18) (Bb5+ $5 3. Kxb5 $18) 3. Bh5 (3. Bg4 $4 Bf7+ 4. Kd4 Bxa2 5. Kxe4 Bb3) (3. Rxa7 $2 Bg6 4. Bf1) (3. Bd1 $4 Bf7+ 4. Kb5 Bxa2) (3. Bf1 $4 Bf7+ 4. Kd4 Bxa2 5. Kxe4 a5) Bxh5 $4 (Bb5+ $5 4. Kxb5 $18) (Bg1 $5 4. Bxe8 $18) (Bb8 $5) 4. Rxh2 $18 (4. Ra1 $4 e3 5. Rxa7 e2 6. Ra8+ Kg7) (4. Rb2 $4 Be5) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "1N1r4/5P2/R7/7k/8/7p/7P/7K w - - 0 1"]
+
+1. Nd7 (1. Ra5+ $2 Kg4 2. Kg1 $10) (1. f8=Q $4 Rd1+ 2. Qf1 Rxf1#) (1. Rh6+ $2 Kxh6 2. Nd7) (1. Kg1 $2 Rxb8 2. f8=Q) (1. Rf6 $4 Rd1+ 2. Rf1 Rxf1#) (1. Ra1 $2 Rxb8 2. f8=Q) (1. Rg6 Kxg6) (1. Rb6 Rd1#) Rxd7 2. Rh6+ (2. Ra5+ $2 Kh4 3. Ra4+ $10) (2. f8=Q $4 Rd1+ 3. Qf1 Rxf1#) (2. Kg1 $2 Rxf7 3. Rb6 $10) (2. Rg6 $2 Rxf7 3. Rg3 $10) (2. Rf6 $4 Rd1+ 3. Rf1 Rxf1#) (2. Ra1 $2 Rxf7 3. Rb1) (2. Re6 $4 Rd1+ 3. Re1 Rxe1#) Kg5 3. Rg6+ (3. Rxh3 $2 Rxf7 4. Rg3+ $10) (3. Rf6 $4 Rd1+ 4. Rf1 Rxf1#) (3. f8=Q $4 Rd1+ 4. Qf1 Rxf1#) (3. Kg1 $2 Rxf7 4. Re6) (3. Rh4 Rd1#) Kxg6 4. f8=N+ $18 (4. f8=Q $4 Rd1+ 5. Qf1 Rxf1#) 1-0
+
+[Event "Tyovaen Shakki"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Draws by perpetual check or by repetition"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "1k5N/8/1K6/2P5/8/2p5/2n5/8 w - - 0 1"]
+
+1. Ng6 $1 (1. c6 $2 Ne3 (Nb4 2. c7+ Kc8 3. Nf7 Nd5+ 4. Kc6 Ne7+) 2. c7+ Kc8 $19) (1. Nf7 $2 Nb4 $19) (1. Kc6 $2 Nb4+ 2. Kb6 c2 $19) (1. Kb5 $2 Ne3 2. c6 c2) (1. Ka6 $2 Nd4 2. Ng6 c2) (1. Ka5 $2 Nd4) Nb4 $1 (Ne3 2. Ne5 (2. Nf4 Nd5+ 3. Nxd5 $10) (2. Ne7 $2 c2 3. Nc6+ Ka8 $19) (2. c6 $2 Nc4+ 3. Kb5 c2 $19) (2. Nf8 $2 c2 3. Nd7+ Kc8) (2. Kc6 $2 c2) (2. Ka6 $2 c2) Nc4+ 3. Nxc4 (3. Kc6 $2 Nxe5+ 4. Kd6 Nf7+) c2 4. c6 $10 (4. Na5 $2 c1=Q 5. Nc6+ Kc8 $19) (4. Ne5 $2 c1=Q 5. Nc6+ Kc8 $19) (4. Nd2 c1=Q) (4. Ne3 c1=Q)) 2. Nf4 $1 (2. Ne5 $2 c2 $19 3. Nd7+ Kc8) (2. Ne7 $2 c2 $19 3. Nc6+ Nxc6 4. Kxc6 c1=Q) (2. c6 $2 Nd5+ 3. Kc5 c2 $19) (2. Nh4 $2 c2 $19 3. Kb5 c1=Q) (2. Kb5 $2 c2 $19 3. Kxb4 c1=Q) (2. Nf8 $2 c2 $19 3. Nd7+ Kc8) (2. Ka5 $2 c2 3. Kxb4 c1=Q) Nd5+ $1 3. Nxd5 c2 4. c6 (4. Nb4 $2 c1=Q 5. Nc6+ Kc8 $19) (4. Ne7 $2 c1=Q 5. Nc6+ Kc8 $19) c1=Q 5. c7+ (5. Ne7 $2 Qe3+ 6. Kb5 Qxe7 7. c7+ Qxc7) (5. Nc3 $2 Qxc3 6. c7+ Kc8) (5. Nb4 Qe3+ 6. Kb5 Qd4) Ka8 $1 6. c8=Q+ $1 (6. c8=R+ Qxc8 7. Nc7+ $10) (6. c8=N $10) (6. Ka6 $2 Qa3+ 7. Kb5 Kb7 $19 8. c8=B+ Kxc8) (6. Nc3 $2 Qxc3 7. c8=Q+ Qxc8) (6. Ka5 Kb7 7. c8=B+ Qxc8) (6. Nf6 Qb2+ 7. Kc5 Qc3+) (6. Ne3 Qxe3+ 7. Ka5 Qa7+) (6. Nf4 Qe3+ 7. Kc6 Qe8+) (6. Ne7 $2 Qe3+ 7. Kc6 Qe6+ 8. Kb5 Qd7+ 9. Kb6 Qd6+ 10. Nc6 Qe6) Qxc8 7. Nc7+ (7. Nb4 $2 Qc4) (7. Ne7 Qd8+ 8. Kc6 Qxe7) (7. Kb5 Qc2) Kb8 8. Na6+ $10 (8. Kc6 $2 Qxc7+ 9. Kd5 Qf4) (8. Nd5 $2 Qc7+ 9. Nxc7) Ka8 9. Nc7+ 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "r4k2/8/7K/8/8/1p6/8/6R1 w - - 0 1"]
+
+1. Kg5 (1. Re1 $2 Re8 2. Rd1 Ke7 3. Kg5 Rf8 4. Kg4 Ke6 5. Re1+ Kd5 $19) (1. Kh7 $2 Ra7+ 2. Kh6 Rb7 $19) (1. Rg4 $2 Rb8 2. Rf4+ Ke7) (1. Rg7 $2 Ra6+ 2. Kh7 Rb6 3. Rg8+ Ke7) (1. Rc1 $2 Ke7 2. Re1+ Kd6) (1. Kh5 $2 Ra4 2. Rf1+ Ke8) (1. Rh1 $2 Kf7) (1. Ra1 Rxa1) Ke7 (b2 2. Rb1 Rb8 3. Kf4 $10) 2. Kf4 (2. Rb1 $2 Rf8 3. Rxb3 $10 (3. Kg4 $4 Rb8 4. Kf4 Kd6 5. Ke3 Kc5 6. Kd2 $2 (6. Rc1+ $5 Kb4) Kb4 7. Kc1 $2 (7. Ke3 $5 Kc5) Rh8 $19) Rf5+ $4 (Rf1 $5) 4. Kxf5) (2. Kf5 $2 Kd6) (2. Kg6 Rg8+ 3. Kf5 Rxg1) (2. Rg2 Rg8+ 3. Kf5 Rxg2) (2. Kh6 Rb8) (2. Re1+ Kd6) (2. Kg4 Rg8+ 3. Kf3 Rxg1) Kd6 3. Ke3 (3. Ke4 $2 Kc5) (3. Kf3 $2 Kc5 4. Rc1+ Kd4) (3. Kf5 $2 Kc5 4. Rc1+ Kd4) (3. Kg4 $2 Rg8+ 4. Kf3 Rxg1) (3. Rd1+ Kc5 4. Rc1+ Kd4) (3. Rg6+ Kc5 4. Rg5+ Kc4) (3. Rc1 Re8) Kc5 4. Kd2 (4. Kd3 $2 Kb4 $19 5. Rg4+ $2 (5. Rb1 $5 Rd8+) Ka3) (4. Ke2 $2 Kd4 5. Rd1+ Kc3) (4. Rg6 b2 5. Rg5+ Kc4) (4. Rb1 Rb8 5. Rc1+ Kb4) Kb4 5. Kc1 (5. Rg4+ $2 Ka3 $19 6. Ra4+ Rxa4) (5. Kd3 $2 b2 6. Kd2 Ra1) (5. Rb1 $2 Ra5 $19 6. Rxb3+ Kxb3) (5. Rg3 Ka3 6. Rf3 Rd8+) (5. Rg7 Ka3) (5. Rh1 Ra2+ 6. Kd3 b2) (5. Rc1 Ra2+ 6. Kd3 b2) (5. Rd1 Rd8+ 6. Ke2 Rxd1 7. Kxd1 Kc4) (5. Ra1 Rxa1) (5. Re1 Ra2+ 6. Ke3 b2) Ra1+ 6. Kb2 (6. Kd2 Rxg1) Rxg1 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/8/4Nr2/8/1p6/p5B1/8/2K4k w - - 0 1"]
+
+1. Nd4 (1. Nc5 $2 Rf3 2. Be5 b3 3. Nxb3 Rxb3 $19) (1. Bd6 $2 Rxe6 2. Bxb4 a2) (1. Ng7 b3 2. Be5 Rf1+) b3 (Rf1+ 2. Kc2 (2. Kd2 $2 a2 $19 3. Nb3 Rb1) (2. Be1 Rxe1+ 3. Kc2 a2) a2 3. Nb3 (3. Kb3 $2 a1=Q $19 4. Kxb4 Qxd4+ 5. Kb5 Rb1+) (3. Nf3 $2 b3+ 4. Kxb3 a1=Q 5. Ne1 Qd4 6. Kc2 Rg1) (3. Ne2 $2 a1=Q 4. Kd3 b3 5. Bb8 Rf3+) (3. Kb2 $2 a1=Q+ 4. Kb3 Qxd4) (3. Be5 a1=Q 4. Kd3 Qc3+) Rb1 4. Be5 (4. Bd6 $2 Rxb3 5. Kxb3 a1=Q 6. Bxb4 Qd1+) (4. Bf4 $2 Rxb3 5. Kxb3 a1=Q 6. Kxb4 Qd4+) (4. Bh4 $2 Rxb3 5. Kxb3 a1=Q 6. Kxb4 Qd4+) (4. Nc1 $2 a1=Q 5. Nb3 Rb2+) (4. Nd2 $2 a1=Q 5. Nxb1 Qa2+) (4. Kd3 $2 Rxb3+ 5. Kd4 a1=Q+) (4. Bf2 Rxb3 5. Kxb3 a1=Q) (4. Be1 Rxb3 5. Kxb3 a1=Q) Kg2 5. Nc1 a1=Q 6. Bxa1 (6. Nb3 $2 Qa2+ 7. Bb2 Rh1 8. Nd2 Rh3) (6. Nd3 $2 Qa2+ 7. Nb2 Kf3 8. Bd4 Rxb2+ 9. Bxb2 Ke2) (6. Kd2 Qxe5) Rxa1 7. Nd3 Ra4 8. Kb3 Ra3+ 9. Kc4 Rc3+ 10. Kd4 $10) 2. Nxb3 (2. Be5 $2 b2+ 3. Kd2 Rb6 $19) (2. Bd6 $2 b2+ 3. Kc2 Rxd6) (2. Nb5 $2 b2+ 3. Kc2 Rc6+) (2. Kb1 $2 Rf1+ 3. Be1 Rxe1#) (2. Bc7 b2+ 3. Kb1 Rf1+) (2. Nc2 Rc6 3. Bf4 Rxc2+ 4. Kd1 Rc6) (2. Nf3 Rxf3) (2. Kd2 b2) (2. Bh4 Rf1+ 3. Kd2 b2) Rf3 3. Na1 Rf1+ (Rxg3 4. Kb1 (4. Nc2 $2 Rg1+ 5. Kd2 a2 $19 6. Kc3 Rb1) (4. Kc2 $2 a2 5. Kb2 Rg2+) (4. Kd2 $2 Rg1 $19 5. Nb3 a2) Rg2 5. Nc2 (5. Nb3 $2 Rb2+ 6. Ka1 Rxb3 $19) (5. Kc1 $2 Rg1+ 6. Kc2 Rxa1) a2+ 6. Ka1 $1 (6. Kxa2 $2 Rxc2+ 7. Ka3 Rc4 $19 8. Kb3 Rh4) (6. Kb2 $2 a1=Q+ 7. Kxa1 Rxc2 $19) (6. Kc1 $2 Rxc2+ 7. Kxc2 a1=Q $19 8. Kb3 Qa5) Rxc2) 4. Kc2 (4. Be1 $2 Rxe1+ 5. Kc2 Rxa1) Rxa1 5. Kb3 (5. Bh4 Rc1+ 6. Kxc1 $10) (5. Be5 $2 Re1 $19 6. Bh8 a2) (5. Bd6 $2 a2 6. Kb3 Rb1+ 7. Kxa2 Ra1+ 8. Kb2) (5. Bf4 a2) (5. Bc7 a2) a2 6. Bh4 (6. Kb2 $2 Rg1 7. Kxa2 Rxg3) (6. Bf2 $2 Rc1 7. Kxa2 Rc2+) (6. Bf4 $2 Rf1 7. Kxa2 Rxf4) (6. Be1 $2 Rxe1 7. Kxa2 Re3 8. Kb2 Kg1) (6. Bd6 $2 Rd1 7. Kxa2 Rxd6) (6. Ka4 $2 Re1 7. Bxe1 a1=Q+) (6. Kb4 $2 Rb1+ 7. Kc4 a1=Q) Kg2 7. Bg5 (7. Bf6 $2 Rf1 $19 8. Kxa2 Rxf6) (7. Kb2 $2 Rh1 8. Kxa2 Rxh4 $19) (7. Be7 $2 Re1 8. Kxa2 Rxe7) (7. Bd8 $2 Rd1 8. Kxa2 Rxd8) (7. Be1 $2 Rxe1 8. Kxa2 Re3) (7. Ka3 Rh1 8. Kxa2 Rxh4) (7. Kc3 Rb1) (7. Kc2 Rf1 8. Bg5 a1=Q) Kh3 8. Bh6 (8. Be3 $2 Re1 9. Kxa2 Rxe3) (8. Bc1 $2 Rxc1 9. Kxa2 Rc3) (8. Bd8 Rd1 9. Kxa2 Rxd8) (8. Kc2 Rf1 9. Bf6 Rxf6) (8. Ka3 Rg1 9. Kxa2 Rxg5) Kg4 9. Bg7 $10 (9. Kc2 $2 Rc1+ 10. Bxc1 a1=Q 11. Bb2 Qa6) (9. Bf8 $2 Rf1 10. Kxa2 Rxf8) (9. Kb2 $2 Rh1 10. Kxa2 Rxh6) (9. Bd2 Rd1 10. Kxa2 Rxd2+ 11. Kb3 Rd4) (9. Bg5 Kxg5) (9. Kc4 Rc1+ 10. Bxc1 a1=Q) (9. Kb4 Rb1+ 10. Kc4 Rc1+) 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "3KNB1k/7p/8/8/8/8/3n4/8 w - - 0 1"]
+
+1. Bh6 (1. Ke7 h6 2. Kf7 $18) (1. Nf6 $2 h6 2. Ne8 $10) (1. Bg7+ $2 Kg8 2. Nf6+ $10) (1. Ng7 $2 h6 2. Ne8) (1. Nd6 $2 h6 2. Ne8) (1. Bb4 $2 Nc4 2. Ng7) (1. Kd7 $2 h6 2. Kd8) (1. Be7 h6 2. Bf8) Ne4 2. Kd7 (2. Ke7 $4 Kg8 3. Nf6+ $10) (2. Nf6 $4 Nxf6 3. Bf8) (2. Nd6 $4 Nxd6 3. Bf8) (2. Ng7 $4 Nd6 3. Nh5) (2. Bg7+ $4 Kg8 3. Nf6+) (2. Nc7 $4 Nd6 3. Ne8) (2. Kc7 $4 Nf2 3. Ng7) (2. Bg5 Nxg5 3. Nf6) (2. Bf8 Kg8 3. Be7) Nf6+ 3. Ke7 (3. Nxf6 $4) (3. Ke6 $4 Nxe8 4. Bf8 $10) (3. Kd8 $4 Nxe8 4. Kxe8 $10) Nxe8 4. Kf8 $3 (4. Kf7 $4 Nd6+ 5. Kf6 $10) (4. Kxe8 $4 Kg8 5. Bf8 $10) (4. Kd7 $4 Kg8 5. Bg5 Nf6+ 6. Bxf6) (4. Bf8 $4 h6 5. Bxh6) (4. Ke6 $4 Ng7+ 5. Bxg7+ Kg8 6. Bh6) (4. Kd8 $4 Ng7 5. Be3) Nc7 5. Bg7# (5. Kf7 $4 Ne6 6. Be3 Ng5+ 7. Bxg5) (5. Bf4 Ne6+ 6. Ke7 Nxf4) 1-0
+
+[Event "Shakhmaty#310 (v)"]
+[Source "Shakhmaty/11 (v): Gorgiev=T Sovyetskaya Rossija 30-6-1957."]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3rP3/4p2B/8/4B3/8/3pK3/k7 w - - 0 1"]
+
+1. Bg7+ $1 e5 (Ka2 2. Bd5+ $1) 2. Bxe5+ Ka2 3. Bd6 (3. Bd5+ $2 Rxd5) d1=Q+ (Rxd6 4. Kd1 Re6 5. Bd5+) 4. Kxd1 Rxd6+ 5. Bd3 $1 (5. Kc2 $2 Re6 6. Bd5+ Ka1 7. Bxe6) (5. Ke2 $2 Re6) Rxd3+ 6. Ke2 1-0
+
+[Event "Shakhmaty#310"]
+[Source "Shakhmaty/11"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3rP3/8/8/8/6B1/k2pK3/5B2 w - - 0 1"]
+
+1. Bd6 $1 d1=Q+ (Rxd6 2. Kd1 Re6 3. Bc4+) 2. Kxd1 Rxd6+ 3. Bd3 $1 Rxd3+ (Re6 4. Bc4+) 4. Ke2 1-0
+
+[Event "64#265"]
+[Date "1927.12.30"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1N6/8/pr1N1B2/kp1b4/8/K7 w - - 0 1"]
+
+1. Bc1+ $1 (1. Nc4+ $2 Rxc4 $1 2. Bd6+ Rb4 3. Bxb4+ Kxb4) b2+ 2. Bxb2+ Rxb2 3. Nc4+ $1 (3. Nb5+ $2 Rxb5 $1) Bxc4 4. Nb5+ Kb3 (Bxb5) (Rxb5) 5. Nd4+ Kc3 6. Nb5+ Kc2 (Rxb5) (Bxb5) 7. Nd4+ $1 Kc1 8. Ne2+ Rxe2 (Bxe2) 1/2-1/2
+
+[Event "Isvestia"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p4K/8/7k/8/8/6PP/8 w - - 0 1"]
+
+1. g4+ $1 Kg5 $1 (Kxg4 2. Kg6 c5 3. h4 Kxh4 4. Kf5) 2. Kg7 $1 (2. h4+ $2 Kxh4 $1 3. Kg6 Kxg4 4. Kf6 Kf4) c5 3. h4+ $1 Kxh4 (Kxg4 {<main>} 4. Kg6 $1 Kxh4 5. Kf5) 4. Kf6 c4 5. g5 1/2-1/2
+
+[Event "4.hm Shakhmaty#327 (m)"]
+[Source "Shakhmaty/3 (m): Gorgiev=T Shakhmaty/5 1928."]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2B5/3N4/4N3/pk6/1prn4/P7/K7/8 w - - 0 1"]
+
+1. a4+ $1 Kxa4 (Kc6 2. Ne5+ Kd5 3. Nxc4) 2. Ndc5+ Rxc5 $1 (Kb5 3. Ba6+) 3. Bd7+ $1 Nc6 (Rb5 4. Nc5#) (Rc6 4. Nxd4) 4. Nxc5+ Kb5 5. Na4 $1 Kxa4 6. Bxc6# 1-0
+
+[Event "Shakhmaty#371"]
+[Source "Shakhmaty/1"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p1p2p1/1P6/P2PRp2/k7/7K/7P/6r1 w - - 0 1"]
+
+1. a6 $1 bxa6 (Rg6 2. Re3) 2. b7 Rb1 3. Re1 Rb3+ $1 (Rxb7 4. Ra1+ Kb3 5. Rb1+) 4. Kg2 $1 (4. Kh4 $2 Rb4+ $1 5. Kh3 Ka3 $1) Ka3 $1 5. Re3 $1 Rxe3 6. b8=Q 1-0
+
+[Event "Ceskoslovensky Sach#187"]
+[Source "Ceskoslovensky Sach/6"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1k6/3K3b/8/8/3R4/n5b1/8 w - - 0 1"]
+
+1. Rb3+ $1 Kc8 $1 (Ka6 2. Ra3+ Kb5 3. Rxa2) 2. Rb2 Bf8+ 3. Ke6 Bf1 $1 4. Kf7 (4. Rxa2 $2 Bc4+ 5. Ke5 Bxa2) Ba3 (Bh6 5. Kg6) 5. Rxa2 $1 Bc4+ 6. Ke8 Bxa2 1/2-1/2
+
+[Event "6.hm Magyar Sakkvilág#226"]
+[Source "Magyar Sakkvilág/12"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4Pk2/5p2/8/K7/3p2p1/3P2P1/8 w - - 0 1"]
+
+1. Kb5 $1 (1. Kb4 $2 f5 2. Kc4 f4 3. Kxd3 f3 4. Ke3 fxg2) (1. Kb3 $2 f5 $1 2. Kc3 f4 3. Kxd3 f3) f5 2. Kc6 $1 (2. Kc4 $2 f4) Kxe7 (f4 3. Kd7) 3. Kd5 Kf6 4. Kd4 f4 $1 (Kg5 5. Kxd3 f4 6. Ke2 Kg4 7. d4 f3+ 8. Kf1 f2 9. d5) 5. Ke4 $1 (5. Kxd3 $2 f3 $1) Kg5 6. Kf3 Kf5 1/2-1/2
+
+[Event "Ceskoslovensky Sach#172"]
+[Source "Ceskoslovensky Sach/4"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4Bk2/1pp2p1K/3p4/P5Pb/4P3/5N2/8/8 w - - 0 1"]
+
+1. Bc6 $1 bxc6 2. a6 Bg6+ (Bxf3 {<main>} 3. a7 Bxe4+ 4. g6 $1 c5 5. a8=Q+ Bxa8 6. g7+) 3. Kh8 $1 Bxe4 4. g6 $1 fxg6 5. Ng5 Bd5 6. Ne6+ Ke7 7. Nc5 $1 dxc5 8. a7 1-0
+
+[Event "sp.p Shakhmaty#376 (tw)"]
+[Source "Shakhmaty/2"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4R1b1/4p3/3kp3/B6K/8/8/1r3N2/8 w - - 0 1"]
+
+1. Ne4+ $1 Ke5 (Kc6 2. Rxg8 Rb5+ 3. Rg5) (Kd5 2. Nc3+ Kc4 3. Rxg8) 2. Ng5 $1 Bf7+ 3. Nxf7+ Kf6 4. Nd8 $1 (4. Ne5 $2 Rb5 $1 (Rh2+ $2 5. Kg4 Kxe5 6. Bc7+) (Kxe5 $2 5. Bc3+) 5. Bc3 $1 Rxe5+ $1 6. Bxe5+ Kf7 7. Ra8) Rb5+ 5. Kh6 $1 Rxa5 6. Rf8+ Ke5 7. Nc6+ Kd6 8. Nxa5 1-0
+
+[Event "6.p Shakhmaty#406 (v)"]
+[Source "Shakhmaty/9 (v): Wiener Schachzeitung=21 11/1931."]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p1pp3k/8/2P1p3/8/1P2P3/6K1/8 w - - 0 1"]
+
+1. Kf3 $1 Kg6 (d5 2. cxd6 cxd6 3. Ke4 Kg6 4. Kd5 Kf5 5. b4 a6) 2. Ke4 Kf6 3. Kd5 Kf5 $1 (a5 4. e4 $1) (a6 4. b4 $1) 4. b4 $1 (4. c6 $2 dxc6+ 5. Kxc6 Ke4 6. Kxc7 Kxe3 7. Kb7 Kd3) (4. e4+ $2 Kf4 $1 5. b4 (5. c6 dxc6+) c6+ $1) a6 5. c6 $1 d6 (dxc6+ 6. Kxc6 Ke4 7. Kxc7 Kd5 $1 (Kxe3 8. Kb6) 8. e4+ (8. Kb6 $2 Kc4 9. Ka5 e4 10. Ka4 Kd3 11. Ka5 Kc3 12. Ka4 Kb2) Kd4 $1 (Kc4 9. Kd6 $1 Kd4 10. Kc6 (10. Kc7 {<or>})) (Kxe4 9. Kb6 Kd4 10. Kxa6 e4 11. b5) 9. Kb6 Kc4 10. Ka5 Kc3 (Kb3 11. b5 axb5 12. Kxb5) 11. Ka4 Kd4 (Kb2 12. b5) 12. Ka5) 6. e4+ $1 Kf6 (Kf4 7. Ke6 Kxe4 8. Kd7 Kd5 9. Kxc7 e4 10. Kb6 e3 11. c7 e2 12. c8=Q) 7. b5 axb5 1/2-1/2
+
+[Event "Národní Listy#045"]
+[Date "1929.03.10"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4B2q/P1k2p2/3p3R/4r3/8/4N2K/8/8 w - - 0 1"]
+
+1. Nd5+ $1 (1. Rxh8 $2 Rxe3+ 2. Kg2 Kb7) Rxd5 2. a8=N+ $1 (2. Rxh8 $2 Ra5) Kb7 3. Rxh8 Rd3+ 4. Kg2 $1 Rd2+ 5. Kf3 $1 Kxa8 6. Ke3 $1 Rb2 $1 7. Bc6+ Ka7 8. Ra8+ Kb6 9. Rb8+ Kxc6 10. Rxb2 1-0
+
+[Event "Isvestia#257"]
+[Date "1929.06.30"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1K4p1/p7/p4P2/8/P7/2k2P2/8 w - - 0 1"]
+
+1. Kb6 $1 (1. Kxa6 $2 a4 $1) (1. Kc6 $2 Kb3 $1 2. Kd5 Kxa3 3. Ke6 (3. Kc4 Kb2 $1) Kb4 4. Kf7 a4 5. Kxg7 a3 6. f6 a2 7. f7 a1=Q+) a4 2. Kc5 Kc3 3. Kd5 $1 (3. f3 $2 Kb3 4. Kd4 Kxa3 5. Kc3 a5 6. f4 Ka2 7. Kc2 a3 8. f6 gxf6 9. f5 a4) Kb3 4. Kd4 $1 Kxa3 5. Kc3 Ka2 (a5 6. f3 $1 (6. f4 $2 Ka2 7. Kc2 a3)) 6. Kc2 a3 7. f3 $1 (7. f4 $2 a5) (7. Kc1 $2 Kb3) Ka1 $1 8. Kc1 (8. Kb3 $2 Kb1 9. Kxa3 Kc2) (8. f4 $2 Ka2 $1) Ka2 9. Kc2 $1 a5 10. f4 $1 a4 11. f6 $1 gxf6 12. f5 Ka1 13. Kc1 $1 1/2-1/2
+
+[Event "64#398 (m)"]
+[Source "(m): Gorgiev=T 64=24 20-12-1929."]
+[Date "1929.08.20"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/5pp1/3pp3/3pP1P1/6K1/3P4/8/8 w - - 0 1"]
+
+1. g6 $1 fxg6 2. exd6 Kb7 3. Kf4 Kc6 4. Ke5 Kd7 5. d4 g5 1/2-1/2
+
+[Event ".c 64#411"]
+[Date "1929.10.20"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/1p6/1P1p4/pP6/P7/8/8/7K w - - 0 1"]
+
+1. Kg2 $1 Kg7 2. Kf3 Kf6 3. Ke4 Ke6 4. Kd4 d5 5. Kc5 $1 Ke5 1/2-1/2
+
+[Event "4.p Shakhmatny Listok#397"]
+[Date "1929.11.10"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/8/K7/8/8/4bb2/k4BR1 w - - 0 1"]
+
+1. Rh1 $1 Be1+ $1 (Bb6+ 2. Kb4 $1 Bxf1 (c5+ 3. Ka3 $1) 3. Kb3) 2. Ka4 Bd1+ 3. Kb5 $1 (3. Ka3 $2 c5 $1) Bf3 $1 (Kb2 4. Bc4 c6+ 5. Ka6) 4. Bg2 $1 Bxg2 5. Rxe1+ Kb2 6. Re2+ Kc3 7. Rxg2 1-0
+
+[Event "3.p La Nau#4 (c)"]
+[Source "(c): Keith=D Estudios Artisticos de Ajedrez - XIII-55 2014."]
+[Date "1929.11.21"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/2pR4/8/8/2K1p3/8/2b1B2b/8 w - - 0 1"]
+
+1. Rd2 $1 Ba4 (Bb1 2. Rb2 Bd3+ 3. Bxd3 Be5 4. Re2) (Bd3+ 2. Bxd3 Bf4 3. Rf2 Bg3 (Be3 4. Re2) 4. Rg2) 2. Ra2 (2. Kb4 $2 Bc6 3. Bb5 Bd6+ $1) Bd7 (Bc6 {<main>} 3. Ra6 Bd7 4. Rh6+ Kg7 5. Rxh2) (Be8 3. Bh5 $1 Bxh5 4. Rxh2) 3. Bg4 $1 Bxg4 4. Rxh2+ Kg7 5. Rg2 Kf6 6. Rxg4 1-0
+
+[Event "3.p La Nau#4 (c)"]
+[Source "(c): Jaque/3 1930."]
+[Date "1929.11.21"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/p2R4/8/2p5/2K1p3/8/2b1B2b/8 w - - 0 1"]
+
+1. Rd2 $1 Ba4 $1 (Bb1 2. Rb2 Bd3+ 3. Bxd3 exd3 4. Rxh2+) 2. Ra2 Bd7 (Bc6 {<main>} 3. Ra6 Bd7 4. Rh6+ Kg7 5. Rxh2) (Be8 {<main>} 3. Bh5 Bxh5 4. Rxh2 Kg7 5. Rxh5) 3. Bg4 $1 Bxg4 4. Rxh2+ Kg7 5. Rg2 Kf6 6. Rxg4 1-0
+
+[Event "Ceskoslovensky Sach#319"]
+[Source "Ceskoslovensky Sach/10"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1p5B/p2p4/5RpK/P7/P3p3/7k w - - 0 1"]
+
+1. Re4 $1 dxe4 2. Bd2 Kg2 3. Kxg4 e3 (Kf2 4. Kf4 e1=Q 5. Bxe1+ Kxe1 6. Kxe4 Kd2 7. Kd5 Kc3 8. Kc6) 4. Bc3 Kf2 5. Kf4 e1=Q 6. Bxe1+ Kxe1 7. Kxe3 Kd1 8. Kd3 Kc1 9. Kc3 $1 (9. Kc4 $2 Kb2 10. Kb5 Kxa2 11. Kxb6 a4 12. Kb5 Kxa3 13. Kc4 Kb2) Kb1 10. Kb3 Ka1 11. a4 Kb1 12. Ka3 $1 Kc2 1/2-1/2
+
+[Event "6.hm Ceskoslovensky Sach#271"]
+[Source "Ceskoslovensky Sach/3"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K1k5/7p/8/2P5/8/8/P7/8 w - - 0 1"]
+
+1. c6 $1 (1. a4 $2 h6 $1) (1. a3 $2 h5 $1) h6 $1 (h5 {<main>} 2. a4 h4 3. a5 h3 4. a6 h2 5. a7 h1=Q) (Kc7 2. a4 $1 Kxc6 3. a5 Kb5 4. Kb7 Kxa5 5. Kc6) 2. a3 $1 h5 (Kc7 {<main>} 3. a4 Kxc6 4. a5 $1 (4. Ka7 $2 h5 5. a5 h4 6. a6 Kb5 7. Kb7 h3 8. a7 h2 9. a8=Q h1=Q+ 10. Ka7 Qa1+) Kb5 5. Kb7 $1 Kxa5 6. Kc6 h5 7. Kd5 h4 8. Ke4 h3 9. Kf3 h2 10. Kg2) 3. a4 h4 4. a5 h3 5. a6 h2 6. a7 h1=Q (h1=R 7. c7) 1/2-1/2
+
+[Event "L'Échiquier#056"]
+[Source "L'Échiquier/4"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7B/6n1/7N/8/8/5k2/3K1p2/8 w - - 0 1"]
+
+1. Ng4 $1 Kxg4 $1 2. Ke2 Kg3 3. Kf1 Nf5 $1 4. Bd4 $1 (4. Be5+ $2 Kf3 5. Bd4 (5. Bf4 Ne3+ 6. Bxe3 Kxe3) Ne3+ 6. Bxe3 Kxe3) Nxd4 1/2-1/2
+
+[Event ".hm Magyar Sakkvilág#369"]
+[Source "Magyar Sakkvilág/9-10"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/8/7R/8/p7/8/PPpk4/8 w - - 0 1"]
+
+1. Rh2+ $1 Kd1 2. Rh1+ Kd2 3. Kc7 $1 c1=Q+ 4. Rxc1 Kxc1 5. b4 Kb2 6. b5 Kxa2 7. b6 a3 8. b7 Ka1 9. b8=Q a2 10. Kb6 Kb1 {<eg>} 11. Kc5+ 1-0
+
+[Event "64#07"]
+[Source "64/7"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6k1/7p/8/7p/6Pp/5P2/7K w - - 0 1"]
+
+1. g4 $1 (1. gxh4 $2 Kg6 2. Kh2 Kf5 3. Kxh3 Kf4 4. Kg2 Kg4) h5 $1 (Kf6 2. f4 (2. Kh2 $2 Ke5 3. Kxh3 Kf4 4. Kxh4 Kf3 5. Kh5 Kf4) Ke6 3. Kh2 Kd5 4. Kxh3 Ke4 5. f5 Ke5 6. Kxh4 Kf6 7. Kh5 Kg7 8. f6+) (Kg6 2. f4 h5 3. g5) 2. g5 Kg6 3. f4 Kf5 4. Kh2 $1 (4. Kg1 $2 Kxf4 5. g6 Kg3 6. g7 h2+ 7. Kh1 Kh3 8. g8=R (8. g8=Q)) Kxf4 $1 5. g6 Kg5 6. g7 Kh6 7. g8=R $1 (7. g8=Q $2) 1-0
+
+[Event "La Stratégie (tt)"]
+[Source "La Stratégie/9"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6p1/8/7p/5k2/7K/6P1/8 w - - 0 1"]
+
+1. Kh4 $1 g6 2. g4 hxg4 1/2-1/2
+
+[Event "Ceskoslovensky Sach#13"]
+[Source "Ceskoslovensky Sach/4"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/qp4p1/4PPP1/8/p4N2/P7/P7/K7 w - - 0 1"]
+
+1. f7+ $1 Kf8 2. e7+ $1 Kxe7 3. Nd5+ Kf8 4. Nb6 $1 Qxb6 1/2-1/2
+
+[Event "1.p Magyar Sakkvilág#429"]
+[Source "Magyar Sakkvilág/10"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7p/1p2p1P1/1Pp1Pk1K/5Pp1/2RP2P1/1p5p/2N1N2b w - - 0 1"]
+
+1. Nc2 $1 (1. Rc2 $2 Bg2 $1 2. Nxg2 h1=Q+ 3. Nh4+ Qxh4+) hxg6+ 2. Kh6 bxc1=Q 3. Nd4+ $1 cxd4 4. Rxc1 Ba8 $1 5. Rc7 h1=Q+ 6. Kg7 Qb7 $1 7. Kh6 Qxc7 (g5 8. Rxb7 gxf4 (Bxb7 9. fxg5) 9. Rf7+ Kxe5 10. Rxf4) 1/2-1/2
+
+[Event "Shakhmaty v SSSR#786"]
+[Source "Shakhmaty v SSSR/11"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/k5p1/6Pp/8/8/6P1/K7 w - - 0 1"]
+
+1. Kb2 $1 Kb5 2. Kc3 Kc5 3. Kd3 Kd5 4. Ke3 Ke5 5. Kf3 Kf5 (Kd4 6. Kf4) 6. Kg3 Kxg5 (Ke4 7. Kh4 Kf4 8. g4 hxg4) 7. Kh3 $1 Kf5 $1 (Kf4 8. Kh4 Kf5 9. g3 Kf6 10. g4) (h4 8. g3 hxg3 9. Kxg3) 8. Kh4 Kf4 9. g4 $1 (9. g3+ $2 Kf5 10. Kh3 Kg5 $1 (g5 $2 11. g4+) 11. Kh2 Kg4 12. Kg2 h4) hxg4 1/2-1/2
+
+[Event "Shakhmaty v SSSR#788"]
+[Source "Shakhmaty v SSSR/12"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "Bk3r1q/1P4pP/KP4PN/6P1/8/8/6R1/8 w - - 0 1"]
+
+1. Nf7 $1 (1. Ng4 $2 Rf4) Rxf7 2. gxf7 g6 $1 3. Rb2 $1 Qf8 (Qg7 {<main >} 4. Ra2 $1 Qf8 (Qh8 5. Ra4 Qf8 6. Ra5 Qd8 7. Rb5 Qh8 8. Re5) 5. Ra5 Qd8 6. Rb5 Qh8 7. Re5) 4. Rb4 $1 Qh8 (Qg7 5. Ra4 Qf8 6. Ra5 Qd8 7. Rb5) 5. Rd4 $1 Qf8 6. Rd6 $1 Qh8 7. Rf6 Qf8 8. h8=Q (8. h8=R {<or>}) Qxh8 9. f8=Q+ (9. f8=R+ {<or>}) (9. f8=N {<or>}) Qxf8 10. Rxf8# 1-0
+
+[Event "4.hm 64"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5b1N/8/5k2/8/K1P1nP2/8/8/8 w - - 0 1"]
+
+1. f5 $1 Kxf5 2. Nf7 Ke6 (Be7 3. Nh6+) 3. Nd8+ Kd7 4. Nb7 $1 (4. Nf7 $2 Bg7) Kc7 5. Na5 Kb6 6. c5+ $1 Nxc5+ 7. Kb4 Nb7+ 8. Ka4 Nxa5 1/2-1/2
+
+[Event "Unii Proletarii"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3R1K2/1r4r1/8/8/6P1/8/8/k7 w - - 0 1"]
+
+1. Ra8+ $1 Kb2 2. Rb8 Kc3 (Rxb8+ 3. Kxg7 Kc3 4. g5 Kd4 5. Kf6 Rb6+ 6. Kf5) (Rgf7+ 3. Kg8 Kc3 4. Rxb7 Rxb7 5. g5 Kd4 6. g6 Ke5 7. g7 Kf6 8. Kh8 Rxg7) 3. Rxb7 Rxb7 4. g5 Kd4 5. g6 Ke5 6. g7 Kf6 7. g8=N+ 1/2-1/2
+
+[Event "3.p Leningrad Central Chess Club ty 64 "]
+[Source "64/8"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1r6/8/1P6/8/K2k4/8/2P5/8 w - - 0 1"]
+
+1. Kb5 $1 Kd5 2. c4+ Kd6 3. c5+ Kd7 4. c6+ Kd6 5. c7 Rh8 6. Ka6 Kc6 7. Ka7 Rg8 8. c8=Q+ Rxc8 9. b7 Rc7 10. Ka8 Rxb7 1/2-1/2
+
+[Event "Chess#017"]
+[Source "also Molot 1941."]
+[Date "1936.04.14"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1p6/8/8/P7/8/5k1K w - - 0 1"]
+
+1. Kh2 $1 Kf2 (Ke2 2. Kg3 Kd3 3. Kf4 Kc4 4. Ke5 Kb3 5. Kd5 Kxa3 6. Kc6) (b5 2. Kg3 Ke2 3. Kf4 Kd3 4. Ke5 Kc4 5. Kd6) 2. Kh3 Kf3 $1 (b5 3. Kg4) 3. Kh4 (3. Kh2 $2 b5) Kf4 4. Kh5 Kf5 (b5 5. Kg6) 5. Kh6 Kf6 6. Kh7 Kf7 $1 (b5 7. Kg8 $1 Ke7 8. Kg7 Ke6 9. Kf8 $1 Kd7 $1 10. Kf7 Kd6 11. Ke8) 7. Kh6 $1 (7. Kh8 $2 b5 $1 8. Kh7 Ke6 9. Kg6 Kd5 10. Kf5 Kc4 11. Ke4 Kb3) b5 (Kf6 8. Kh7) (Ke6 8. Kg7) 8. Kg5 $1 Ke6 9. Kf4 Kd5 10. Ke3 Kc4 11. a4 $1 bxa4 (b4 12. Kd2) 12. Kd2 Kb3 13. Kc1 Ka2 14. Kc2 1/2-1/2
+
+[Event "Revista de Romana de Sah#0137"]
+[Date "1936.11.20"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1r6/8/7N/3B2pk/R3K3 w Q - 0 1"]
+
+1. Ng1 $1 Kxg1 (Re5+ 2. Kf2 Rf5+ 3. Ke2 Re5+ 4. Be3) 2. Bf4 Rb2 (Kh1 3. Kf2+) 3. O-O-O+ $1 Kf2 4. Kxb2 g1=Q 5. Be3+ $1 Kxe3 6. Rxg1 1-0
+
+[Event ".c Shakhmaty v SSSR#804"]
+[Source "Shakhmaty v SSSR/3"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k4r2/PpP1p3/1P2P1q1/6P1/P5B1/3p2P1/3Pp3/4K2Q w - - 0 1"]
+
+1. Bf3 $1 Qe4 $1 2. a5 $1 (2. Bxe4 $2 Rf1+ 3. Qxf1 exf1=Q+ 4. Kxf1) Qxf3 3. Qxf3 Rh8 $1 4. Qh5 $1 (4. a6 $2 Rh1+ 5. Qxh1) Rf8 5. Qf7 Rh8 6. Qh7 Rf8 7. Qf5 Rh8 8. Qh3 Rf8 9. a6 Rf1+ 10. Qxf1 exf1=Q+ 11. Kxf1 1-0
+
+[Event "4.p Shakhmaty v SSSR#836"]
+[Source "Shakhmaty v SSSR/11-12"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "BR6/P2P4/7P/7r/p7/k1P5/p1P5/K7 w - - 0 1"]
+
+1. Rb3+ $1 axb3 2. cxb3 Rd5 $1 3. d8=R $1 (3. d8=Q $2 Rd1+ 4. Qxd1) Rxd8 4. Bd5 $1 (4. Bf3 $2 Rd1+ 5. Bxd1) Rxd5 5. a8=Q+ 1-0
+
+[Event "Revista de Romana de Sah#0169"]
+[Source "Revista de Romana de Sah/8"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/P7/PB6/8/5Kp1/7p/N7/2n5 w - - 0 1"]
+
+1. Nc3 $1 Ne2+ $1 (Nd3+ 2. Kg3 Nb4 3. Nb5 Nxa6 4. Bg1) 2. Nxe2 h2 3. Ng3 h1=Q $1 4. Nxh1 g3 5. Bg1 $1 (5. Nxg3 $2) g2 6. Nf2 $1 1-0
+
+[Event "Tyovaen Shakki"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/1p5P/1P1P4/1p5p/5B2/8/1bN2pPP/3n1n1K w - - 0 1"]
+
+1. d7 $1 Ng3+ 2. hxg3 f1=Q+ 3. Kh2 Qd3 4. Nd4 $1 Qxd4 5. Be5 $1 Qxe5 6. d8=Q+ Qb8 7. Qg8 Nc3 8. h8=Q 1-0
+
+[Event "2.hm VTSPS Shakhmaty v SSSR#048"]
+[Source "Shakhmaty v SSSR/9"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "b7/3P3p/1b1P3P/3R4/7K/6p1/5P2/7k w - - 0 1"]
+
+1. Rd1+ $1 (1. Rb5 $2 gxf2) Kg2 2. fxg3 Bd8+ 3. Kh5 Bf3+ 4. g4 Be4 (Bxd1 {<main>}) 5. g5 Bf3+ 6. Kh4 Bxd1 1/2-1/2
+
+[Event "3.c VTSPS Shakhmaty v SSSR (c)"]
+[Source "Shakhmaty v SSSR/9 (c): Missiaen=R EG=77 4/1984."]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3K4/p2P4/k2p1p2/p7/8/1B6 w - - 0 1"]
+
+1. Kc5 $1 Kb3 (d3 2. Kc4 $1 (2. d6 $2 a2 3. Bxa2 d2) f3 (d2 3. Bc2#) (a2 3. Bxa2 d2 (Ka3 4. Kxd3) 4. Bb3+) 3. Ba2 $1 (3. Kxd3 $2 f2 4. Ke2 f1=Q+ 5. Kxf1 Kb3 6. d6 Kb2 7. d7 Kxb1 8. d8=Q a2) f2 4. Bb3#) 2. d6 (2. Kxd4 $2 Kb2) f3 (Kb2 3. d7 Kxb1 4. d8=Q) 3. d7 f2 4. d8=Q f1=Q 5. Qd5+ (5. Qb6+ $2 Kc3 6. Qxa5+ Kb2) Kc3 6. Qxd4+ Kb3 7. Qa4+ $1 Kb2 (Kc3 8. Qc2#) (Kxa4 8. Bc2#) 8. Qc2+ Ka1 9. Qa2# 1-0
+
+[Event "Shakhmaty v SSSR#095"]
+[Source "Shakhmaty v SSSR/6"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K1kq4/2p5/2P1P2P/1p6/1P5P/2PN4/8/8 w - - 0 1"]
+
+1. h7 $1 Qf6 $1 2. Ne5 $1 (2. e7 $2 Qxc6+) Qxe5 3. e7 $1 Qh5 $1 4. Ka7 Qe8 5. h5 $1 Qxh5 6. Ka8 $1 Qe5 7. Ka7 Qh8 8. Ka8 $1 Qe8 9. Ka7 1/2-1/2
+
+[Event "1.hm Shakhmaty v SSSR#081"]
+[Source "Shakhmaty v SSSR/4"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "RB6/8/5P2/8/6P1/1k6/5r2/K7 w - - 0 1"]
+
+1. Ra3+ $1 Kxa3 2. Kb1 Rb2+ 3. Kc1 Rxb8 4. g5 $1 (4. f7 $2 Rf8 5. Kd2 Kb4) (4. Kd2 $2 Kb4 $1 5. g5 Kc5 6. g6 Kd6 7. f7 (7. g7 Ke6) Ke7) Rf8 $1 (Kb4 5. g6 Kc3 $1 6. f7 Ra8 $1 7. Kd1 Kd3) (Rg8 $2 5. f7) 5. Kd2 Kb4 6. Ke3 $1 (6. Kd3 $2 Kc5 7. Ke4 Kd6 8. Kf5 Ra8 9. Kg6 (9. g6 Ra5+ 10. Kf4 Ke6) (9. f7 Ke7 10. Kg6 Rf8) Ke6 10. Kg7 Ra7+ 11. Kg8 Rb7 12. Kf8 Kf5 13. Kg8 Kg6 14. Kf8 Kxg5) Kc5 7. Kf4 $1 (7. g6 $2 Rxf6) Kd6 8. g6 $1 (8. Kf5 $2 Ra8) Ke6 (Rxf6+ 9. Kg5 Ke5 (Ke7 10. g7 Rf1 11. g8=N+ $1 Kf7 12. Nh6+) (Rf1 10. g7 Ke5 (Ke6 11. g8=Q+) 11. Kg6 $1) 10. g7 Rf1 11. Kg6) (Ra8 9. Kg5 $1 Ke6 10. f7 Ke7 11. Kh6) 9. Kg5 $1 (9. g7 $2 Ra8 10. Kg5 Kf7 11. Kh6 (11. Kf5 Ra6 12. Kg5 Rb6 13. Kh6 Rxf6+) Ra1 12. Kg5 Ra6) Ra8 (Rxf6 10. g7 Kf7 11. g8=Q+ Kxg8 12. Kxf6) 10. f7 $1 (10. g7 $2 Kf7) Ke7 11. Kh6 $1 (11. Kf5 $2 Ra5+ 12. Kf4 Kf8 13. Kg4 Kg7 14. Kh4 Ra6 15. Kh5 Rb6 16. Kg5 Rxg6+) (11. Kh5 $2 Kf8 12. Kh6 Ra1 13. Kg5 Kg7) Kf6 (Kf8 12. Kh7 Rb8 13. Kh8 $1 (13. Kh6 $2 Rb1 14. g7+ Kxf7)) (Ra1 12. Kg7 Rf1 13. Kg8 Rf6 14. g7 Rxf7 15. Kh8) 12. Kh7 $1 (12. f8=Q+ $2 Rxf8 13. Kh7 Ra8) Rb8 (Rf8 13. g7 Rxf7 14. Kh8 Rxg7) 13. f8=Q+ $1 (13. g7 $2 Kxf7) Rxf8 14. g7 Rf7 (Ra8 15. g8=Q) 15. Kh8 Rxg7 1/2-1/2
+
+[Event "1/2.p Erevan ty"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "kr6/2p5/BPP5/PKR5/2P5/4P3/1p2P3/b7 w - - 0 1"]
+
+1. Bb7+ $1 Rxb7 2. Ka6 $1 (2. cxb7+ $2 Kxb7 3. a6+ (3. Rxc7+ Ka8) Kb8 4. bxc7+ Kc8) Ra7+ $1 (Rxb6+ 3. axb6 b1=Q 4. bxc7 Qa2+ 5. Ra5) 3. bxa7 b1=Q 4. Rd5 $1 (4. Rb5 $2 Qb2 $1 5. Rxb2 (5. Rb7 Qh8 6. Rxc7 Be5) Bxb2 6. e4 Bg7 7. Kb5 Kxa7 8. Kc5 Ka6 9. Kd5 Kxa5 10. e5 Kb6 11. e6 Bf8 12. e4 Be7 13. Ke5 (13. e5 Bh4 14. Ke4 Kxc6 15. Kf5 Kc5 16. Kg6 Kxc4 17. Kf7 Kd5) Kxc6 14. Kf5 Kc5 15. Kg6 Kxc4 16. Kf7 Bh4 17. e7 Bxe7 18. Kxe7 Kd4) Bf6 $1 5. Rb5 $1 Qb2 $1 (Qxb5+ 6. cxb5) 6. Rb7 $1 (6. e4 $2 Bc3 7. Rb7 Qb4 $1 8. Rxb4 Bxb4 9. Kb5 (9. e5 Be7 10. e6 Bd6 11. e4 Bf8 12. e5 Be7 13. Kb5 Kxa7 14. c5 Bh4 15. Kc4 Ka6 16. Kd5 Kxa5 17. Ke4 Kb5) Bc3 10. c5 Kxa7 11. Kc4 Bb2 12. Kd5 Ka6 13. e5 Kxa5 14. e6 (14. Ke6 Kb5 15. Kf5 Kxc5 16. e6 Kxc6) (14. e4 Kb5 15. Ke6 Kxc5 16. Kf5 Kxc6) Bf6 15. e4 (15. Ke4 Kb5 16. Kf5 Bh4) Kb5 16. e5 Bh4 17. Ke4) Be5 7. e4 Bd4 8. e5 $1 (8. Rxc7 $2 Bxa7 9. Rxa7+ Kb8 10. Rb7+ Ka8 11. Rxb2) Bxe5 9. e3 $1 Bd4 $1 (Bh2 10. Rxb2) (Bf6 10. Rxc7) 10. Rb8+ $1 (10. exd4 $2 Qb5+ 11. Rxb5) Qxb8 11. axb8=Q+ Kxb8 12. exd4 1-0
+
+[Event ".c Shakhmaty v SSSR#14"]
+[Source "Shakhmaty v SSSR/5"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4k3/5p2/7P/4K1pP/8/8/8 w - - 0 1"]
+
+1. h6 $1 (1. Kf4 $2 f5 2. h6 Kf6 $1 3. h5 Kf7 $1) Kf8 $1 (Kf7 2. Kf4 f5 3. h5) 2. h5 $1 (2. Kf4 $2 f5 $1 3. Kxf5 g3 4. Kf6 Kg8 5. Kg6 g2) Kf7 $1 (f5+ 3. Kxf5 $1) (Kg8 3. Kf4 f5 4. Kxf5 g3 5. Kg6) 3. Ke3 $1 (3. Kf4 $2 f5 4. Kg3 Kg8) f5 (Kf8 {<main>} 4. Kf4 $1 (4. Ke4 {<or>}) f5 5. Kxf5 g3 6. Kf6 $1 (6. Kg6 $2 g2) Kg8 7. Kg6 g2 8. h7+ Kh8 9. Kh6 g1=Q) 4. Kf4 $1 Kf6 5. Kg3 $1 (5. h7 $2 Kg7 6. Kxf5 g3) (5. Ke3 $2 g3) Kf7 6. Kf4 Kf8 (Kg8 7. Kxf5 g3 8. Kg6 $1) 7. Kxf5 $1 g3 8. Kf6 $1 Kg8 (g2 9. h7) 9. Kg6 g2 10. h7+ Kh8 11. Kh6 g1=Q (g1=R) 1/2-1/2
+
+[Event ".c Trud"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/q7/1p6/pP6/8/8/R7/R3Kn2 w Q - 0 1"]
+
+1. O-O-O+ $1 Ke7 $1 2. Re2+ Ne3 $1 3. Rxe3+ Kf6 4. Rf1+ Kg5 5. Rg3+ Kh4 6. Rg8 $1 Qc7+ (Qb7 7. Kb2 Kh3 8. Rfg1 Kh2 9. R1g7) 7. Kb1 (7. Kb2 $2 Qe5+) Qh7+ 8. Kb2 $1 (8. Ka1 $2 Qe4) Qe4 (Qxg8 {<main>} 9. Rh1+ Kg3 10. Rg1+ Kf2 11. Rxg8) 9. Rh1+ $1 Qxh1 10. Rh8+ Kg3 11. Rxh1 1-0
+
+[Event "2.p Latvia ty"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4b3/3B4/8/2q5/1k6/N2K4/4PP2/4rn1Q w - - 0 1"]
+
+1. Nc2+ $1 (1. Qb7+ $2 Kxa3 2. Qa6+ Kb2 3. Qf6+ Kb1 $1) (1. Qe4+ $2 Kxa3 2. Qa8+ Kb2 3. Qb8+ Kc1 $1 4. Qf4+ Ne3 $1) Qxc2+ $1 (Kb3 2. Qb7+) (Ka5 2. Qa8+ Kb6 3. Qb8+ Ka6 4. Qa8+ Qa7 5. Qxa7+ Kxa7 6. Nxe1) 2. Kxc2 Ne3+ 3. fxe3 Bg6+ $1 (Rxh1 4. Bxe8) 4. Bf5 $1 Bxf5+ 5. Qe4+ $1 Bxe4+ 6. Kd2 Ra1 1/2-1/2
+
+[Event "Bulletin USSR champ"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K1B5/2P1R3/8/1r6/1n6/6r1/8/2k5 w - - 0 1"]
+
+1. Ba6 $1 Rg8+ 2. c8=Q+ Rxc8+ 3. Bxc8 Nc6 4. Re1+ $1 Kd2 $1 5. Re2+ $1 Kd1 $1 (Kxe2 6. Ba6) 6. Bb7 Ra5+ 7. Ba6 Rxa6+ 8. Kb7 Ra7+ 9. Kc8 $1 Ra8+ (Kxe2) 10. Kb7 Rb8+ 11. Ka6 $1 Kxe2 1/2-1/2
+
+[Event "source unknown"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1P6/PK6/8/8/8/1q5k w - - 0 1"]
+
+1. Ka6 $1 Qb4 2. b7 Qd6+ 3. Ka7 Qc5+ 4. Ka6 Qc7 5. b8=Q Qxb8 1/2-1/2
+
+[Event "Sovyetskaya Rossija"]
+[Date "1956.07.15"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3p3k/3P4/3p4/3P4/8/3K4 w - - 0 1"]
+
+1. Kc2 $1 (1. Ke2 $2 Kg5 2. Kf3 Kf5) Kg5 2. Kb3 Kf4 3. Kb4 $1 Kf3 $1 4. Kb5 $1 Ke2 $1 5. Kc6 $1 (5. Kc4 $2 Ke3) Kxd3 6. Kxd6 Kc4 (Ke4 { <main >} 7. Ke6 $1 d3 8. d6 d2 9. d7 d1=Q 10. Ke7 $1) 7. Kc6 d3 8. d6 d2 9. d7 (9. Kc7 {<or>} d1=Q 10. d7) d1=Q 10. Kc7 $1 1/2-1/2
+
+[Event "Tidskrift for Schack#0783 (c)"]
+[Source "Tidskrift for Schack/7-8 (c): Gorgiev=T Tidskrift for Schack#0866 Tidskrift for Schack=6 8/1959."]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k2q2/2P5/pP2P3/2r1P3/8/4K3/1Q6/8 w - - 0 1"]
+
+1. e7 $1 Qxe7 2. b7+ Kd7 $1 3. c8=Q+ Rxc8 4. Qd4+ Kc7 5. Qb6+ $1 Kb8 (Kxb6 {<main>} 6. bxc8=N+ $1 Kc5 {<eg>} (Kc7 7. Nxe7 Kd7 8. Ng6 Ke6 9. Kd4 Kf5 10. Kd5 Kxg6 11. Kd6) 7. Nxe7 a5 8. Ke4 a4 9. Nd5 a3 10. Nc3 Kc4 11. Na2 Kb3 12. e6 Kxa2 13. e7 Kb1 14. e8=Q a2 15. Qb5+ Ka1 16. Qa4 Kb2 17. Qb4+ Kc2 18. Qa3 Kb1 19. Qb3+ Ka1 20. Qc3+ Kb1 21. Kd3 $1 a1=Q 22. Qc2#) 6. Qa7+ Kxa7 $1 7. bxc8=N+ Kb7 8. Nxe7 1-0
+
+[Event "Shakhmaty v SSSR#30"]
+[Source "Shakhmaty v SSSR/8"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/7K/6pP/8/7n/8/6P1/8 w - - 0 1"]
+
+1. g3 $1 (1. g4 $2 g5 2. Kh8 Kf7 3. Kh7 Nf3 4. Kh8 Ne5 5. Kh7 Nd7 6. Kh8 Nf8 7. h7 Ng6#) (1. Kh8 $2 g5 2. g3 Ng6+ 3. Kh7 Kf7 4. g4 Nf8+ 5. Kh8 Kg6 6. Kg8 Nd7 7. h7 Nf6+) g5 2. gxh4 (2. Kh8 $2 Kf7 3. gxh4 g4 4. h7 g3 5. h5 g2 6. h6 Ke7 $1 7. Kg7 g1=Q+) g4 (gxh4 3. Kh8 h3 4. h7) 3. Kg6 $1 (3. Kh8 $2 g3 4. h7 g2 5. h5 g1=Q 6. h6 Qa1#) Kg8 4. h7+ Kh8 5. Kg5 $1 (5. h5 $2 g3 6. Kh6 g2 7. Kg6 g1=Q+) g3 6. Kh6 g2 7. h5 g1=Q 1/2-1/2
+
+[Event "Tidskrift for Schack#0906"]
+[Source "Tidskrift for Schack/6-7"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "Gorgiev, T"]
+[Black " Olmutsky, L."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/P1K2P2/k4r2/1R6/1p6/8/8 w - - 0 1"]
+
+1. Rb5+ $1 Rxb5 2. a7 Rb6+ 3. Kd5 $1 Ra6 4. f7 b2 5. f8=Q b1=Q 6. Qa3+ Kb6 7. Qxa6+ $1 Kxa6 8. a8=Q+ Kb6 9. Qb8+ Ka5 10. Qxb1 1-0
+
+[Event "1.hm Gazeta Czestochowska"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "n7/n7/5K2/5R2/8/8/Pk6/4r3 w - - 0 1"]
+
+1. Ra5 $1 Re7 $1 2. Kxe7 Nc6+ 3. Kd6 $1 Nxa5 4. Kc5 $1 Ka3 5. Kb5 Nb7 6. Kc6 Nd8+ 7. Kd7 Nf7 8. Kc6 Nd8+ 9. Kd7 Nb7 10. Kc6 1/2-1/2
+
+[Event "Ceskoslovensky Sach#101"]
+[Source "Ceskoslovensky Sach/9"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "Gorgiev, T"]
+[Black " Olmutsky, L."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2K5/8/P7/3P4/1p2k3/1r6/8/8 w - - 0 1"]
+
+1. d6 $1 Ra3 (Rc3+ 2. Kb7 b3 3. a7) 2. Kb7 b3 3. d7 b2 4. d8=Q b1=Q+ 5. Qb6 Rb3 6. Ka8 $1 Rxb6 (Kd5 7. a7) (Ke5 7. Qc5+ Ke4 8. Qc4+ Ke3 9. Qxb3+ Qxb3 10. a7) 7. a7 Rh6 1/2-1/2
+
+[Event ".hm FIDE ty FIDE revue (tt)"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4b1r1/4K2p/3p1P1p/3P3k/3p2p1/3N2P1/8/8 w - - 0 1"]
+
+1. f7 $1 Bxf7 (Rh8 2. Kf6) 2. Kf6 Rg6+ 3. Kf5 Rg5+ 4. Kf6 Rf5+ 5. Kxf5 Bg6+ 6. Kf4 Bf7 (Bxd3) (Be8 7. Kf5 Bd7+ 8. Kf6) 7. Kf5 Bg6+ 8. Kf4 Bxd3 1/2-1/2
+
+[Event "1.hm Magyar Sakkélet#0413"]
+[Source "Magyar Sakkélet/11"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "Gorgiev, T"]
+[Black " Olmutsky, L."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/2P5/Pk6/8/4n3/pN6/8/3r4 w - - 0 1"]
+
+1. Kb8 $1 Nc5 (Nd6 2. a7 Rh1 3. c8=Q Nxc8 4. a8=Q) 2. Nxc5 (2. c8=Q $2 Nxa6+ 3. Ka8 Nc7+ 4. Kb8 Na6+) a2 3. Na4+ $1 (3. Nb3 $2 Rc1 $1 4. Nxc1 a1=Q 5. c8=Q Qxa6) Ka5 $1 4. a7 Rb1+ 5. Nb2 $1 (5. Kc8 $2 a1=Q 6. a8=Q+ Kb4) Rxb2+ 6. Kc8 Kb4 {<eg>} 7. a8=Q Kb3 8. Qf3+ Kb4 9. Qe4+ 1-0
+
+[Event "Problem#087 (c)"]
+[Source "Problem/1 (c): Garcia=M Estudios Artisticos de Ajedrez - VIII-68 2012."]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5P1R/rpb5/k1p5/2K4p/6pP/1P3pP1/2N5 w - - 0 1"]
+
+1. Nb3+ $1 Ka4 2. Nxc5+ $1 (2. Nd2 $2 Ra8 3. f8=Q Bb5+ 4. Kc3 Rxf8 5. Ra7+ Ba6 6. Rxa6+ Kb5 7. Ra1 Re8) bxc5 (Ka5 3. b4#) 3. b3+ Ka5 $1 4. f8=Q f1=Q+ (Bb5+ 5. Kxc5 f1=Q (Rc6+ 6. Kd5 f1=Q 7. Qa3+ Kb6 8. Qa7#) 6. Qd8+) 5. Qxf1 Bb5+ 6. Kxc5 Bxf1 7. Rxh4 Bb5 8. Ra4+ $1 Bxa4 9. b4# 1-0
+
+[Event "Shakhmatna Misl#009"]
+[Source "Shakhmatna Misl/1"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/B1p5/8/qPR5/kN6/2K5 w - - 0 1"]
+
+1. Rc2 $1 c4 $1 (Ka1 2. Bc3 $1 Ka2 3. Be5 Qa8 4. Nc4+ $1 Kxb3 5. Nd2+ Ka3 6. Rc4 $1 Qc6 7. Re4 $1 Qa8 8. Kb1 Qb7+ 9. Ka1 Qb5 10. Rh4 Qb7 11. Nc4+ Kb3 12. Na5+ Ka3 13. Nxb7) (Qxb3 2. Nc4+ $1) 2. Bb4 $1 Qxb4 3. Nd3+ Ka1 4. Nxb4 cxb3 $1 5. Ra2+ $1 bxa2 6. Nc2# 1-0
+
+[Event "Szachy#157"]
+[Source "Szachy/10"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "R7/pK6/8/p7/4P3/3b4/8/k7 w - - 0 1"]
+
+1. e5 $1 Be4+ 2. Kb8 Bxa8 3. Kxa8 a4 4. e6 a3 5. e7 a2 6. e8=Q a5 7. Qb8 a4 8. Ka7 a3 9. Kb6 1-0
+
+[Event "2.hm Szachy#243 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - VIII-67 2012."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "q6k/1p4p1/p2bPPPN/1P2p3/p1KpP3/P2P4/8/8 w - - 0 1"]
+
+1. Nf7+ $1 Kg8 2. Nxd6 axb5+ 3. Kb4 Qa6 4. f7+ Kf8 5. e7+ Kxe7 6. Nc8+ Kf8 7. Nb6 Qxb6 1/2-1/2
+
+[Event "2.hm Szachy#243 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - VIII-71 2012."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "q6k/1p4p1/1p2PPPN/4p3/p1KpP3/P1pP4/2P5/8 w - - 0 1"]
+
+1. Nf7+ $1 (1. e7 $2 Qc8+ 2. Kb5 (2. Kd5 Qc6+ 3. Kxe5 Qxf6+) Qc5+ 3. Kxa4 Qa5+ 4. Kb3 Qb5+ 5. Ka2 Qb2#) Kg8 2. Nd6 $1 b5+ $1 (gxf6 3. e7 Qa6+ 4. Kd5) (Qa6+ 3. Nb5 gxf6 4. e7 Qa8 5. Nc7) 3. Kb4 $1 (3. Kc5 $2 Qa6 4. f7+ Kf8 5. e7+ Kxe7 6. Nc8+ Kf8 7. Nb6 Qxb6+ $1 8. Kxb6 b4) (3. Kd5 $2 b6+ 4. Kxe5 gxf6+ 5. Kxf6 Qd8+ 6. Ke5 Qc7) (3. Nxb5 $2 Qc8+ 4. Kd5 Qc6+) Qa6 4. f7+ Kf8 5. e7+ Kxe7 6. Nc8+ Kf8 7. Nb6 $1 Qxb6 1/2-1/2
+
+[Event "Schach Echo#368a (tw)"]
+[Date "1962.09.23"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/p7/p7/8/8/8/3P4/k7 w - - 0 1"]
+
+1. d4 $1 a5 2. d5 a4 3. d6 a3 4. d7 a2 5. d8=Q a5 $1 6. Qb8 $1 (6. Qd1+ $2 Kb2 7. Qd2+ Kb1 8. Qd3+ (8. Qb4+ axb4) Kb2 9. Qb5+ Kc1 $1 (Ka1 $2 10. Qb3 a4 11. Qc2 a3 12. Qc1#)) a4 7. Ka7 $1 a3 8. Kb6 $1 1-0
+
+[Event "Dnepropetrovsk-Chenstokhov match (c)"]
+[Source "(c): Gorgiev=T Shakhmaty v SSSR/7 1964."]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B7/3K4/2P5/8/8/4p3/Nr6/1k6 w - - 0 1"]
+
+1. Nc3+ $1 Ka1 $1 2. c7 e2 3. Nxe2 Rd2+ 4. Bd5 $1 (4. Ke7 $2 Rxe2+ 5. Kd6 Re8) (4. Kc8 $2 Rxe2 5. Bc6 Re7 $1 6. Bd7 Re2 7. Kb7 Rb2+) Rxd5+ 5. Kc6 Rd2 6. Nd4 $1 Rxd4 7. Kb5 Rd5+ 8. Kb4 Rd4+ 9. Kb3 Rd3+ 10. Kc2 Rd4 11. c8=R $1 (11. c8=Q $2 Rc4+ 12. Qxc4) Ra4 12. Kb3 1-0
+
+[Event "2.hm Vecherni Kiev (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - VIII-65 2012."]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "Gorgiev, T"]
+[Black " Kakovin, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r7/1ppK4/5p1p/6pP/3RP1P1/2k1p2q/3RP3/8 w - - 0 1"]
+
+1. R4d3+ $1 Kc4 2. Rc2+ Kb5 3. Rb2+ Kc5 4. Rc2+ Kb6 5. Rb2+ (5. Rb3+ $2 Ka7 6. Ra2+ Kb8 7. Rxa8+ Kxa8 8. Kxc7 Qg3+ 9. Kb6 Qd6+) Ka7 6. Ra2+ Kb8 7. Rxa8+ Kxa8 8. Kxc7 Qh2+ 9. Kb6 Qg3 (f5 10. Rd8+) 10. Rd4 (10. Rd1 $2 Qe5) Qf4 11. Rd3 Qe5 12. Ra3+ Kb8 13. Ra8+ Kxa8 1/2-1/2
+
+[Event "Problem#150"]
+[Source "Problem/12"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/8/7p/K2n3P/6P1/6P1/8/8 w - - 0 1"]
+
+1. g5 $1 hxg5 2. h6 Nf6 3. Kb6 Kc8 4. Kc6 Kd8 5. Kd6 Ke8 6. Ke6 Nh7 7. Kf5 Kf7 8. g4 Kf8 9. Kg6 Kg8 10. Kh5 Kf7 1/2-1/2
+
+[Event "Shakhmaty v SSSR#02"]
+[Source "Shakhmaty v SSSR/1 EG#00531."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3p2kP/7p/5P2/6K1/8/8/8 w - - 0 1"]
+
+1. f6+ $1 Kxh7 2. Kf5 $1 Kg8 3. Kg6 d5 $1 4. Kf5 h5 (Kf7 5. Ke5 h5 6. Kxd5 Kxf6 7. Ke4) 5. Ke6 $1 Kf8 6. Kxd5 h4 7. Ke4 1/2-1/2
+
+[Event ".c Birnov MT Wolgogradskaya Pravda"]
+[Source "EG#01010."]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7n/4K3/6P1/6Bn/8/3k4/3P4/4b3 w - - 0 1"]
+
+1. g7 $1 Nxg7 2. Bf6 Bh4 3. Bxh4 Nf5+ 4. Kf6 Nxh4 5. Kg5 N4g6 6. Kf6 Nf4 7. Ke5 Ng2 8. Kf6 Nh4 9. Kg5 Ng2 10. Kf6 Nf4 11. Ke5 Nh5 12. Kf5 Kd4 13. Kg5 (13. d3 $2 Kd5 14. Kg5 Ng7 15. Kf6 Ne8+ 16. Ke7 Nd6) Ng3 14. Kf6 Nh5+ 15. Kg5 Ng7 16. Kf6 Ne8+ 17. Ke7 Nc7 18. Kf6 Ne8+ 19. Ke7 1/2-1/2
+
+[Event "1.c Lenin MT 64"]
+[Source "EG#01342."]
+[Date "1970.07.24"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/7P/Pp1P4/3N4/8/3b3r/QKp5/2r5 w - - 0 1"]
+
+1. Nc3 $1 Rb1+ $1 2. Nxb1 cxb1=Q+ 3. Qxb1 Rh2+ $1 4. Kc1 Bxb1 5. d7 $1 Rh1+ 6. Kd2 $1 Rh2+ 7. Ke3 Rh3+ 8. Kf4 Rh4+ 9. Ke5 $1 Rh5+ 10. Kd4 Rh4+ 11. Kc3 Rh3+ 12. Kb2 Rd3 13. a7 1-0
+
+[Event "Problem"]
+[Source "Problem/8"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3n4/6Pk/4p2n/8/3P1K2/8/8/8 w - - 0 1"]
+
+1. d5 $1 e5+ $1 2. Kxe5 Nhf7+ 3. Kf6 Nd6 4. Ke7 N8f7 5. Kf8 Nh6 6. g8=Q+ Nxg8 1/2-1/2
+
+[Event "Szachy#0523"]
+[Source "Szachy/6"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5k2/3Pp2p/8/K6P/7P/8/7n w - - 0 1"]
+
+1. Kb5 $1 Ke8 2. Kc6 Kd8 3. d7 e5 $1 4. Kd5 Kxd7 5. Kxe5 Ke7 6. Kf5 $1 Kf7 7. Kg4 Nf2+ 8. Kh5 Kg7 1/2-1/2
+
+[Event ".c Sachové Umenie#4641"]
+[Source "Sachové Umenie/8 EG#03550."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p5k/1p6/8/2P4K/5pP1/8/8 w - - 0 1"]
+
+1. Kh3 $1 Kg6 2. g4 (2. Kh2 $2 Kg5 3. Kg1 Kg4 4. Kf2 b5 5. cxb5 b6) Kg5 3. Kg3 f2 $1 4. Kxf2 Kxg4 5. Ke3 Kf5 6. Kd4 Ke6 7. c5 $1 b5 8. Kc3 Kd5 9. Kb4 Kc6 10. Ka5 Kxc5 1/2-1/2
+
+[Event "64"]
+[Date "1977.04.13"]
+[Round "?"]
+[Composer "Gorgiev, Tigran Borisovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/p1P4K/8/8/8/4b3/5k2 w - - 0 1"]
+
+1. c7 $1 Bg4 2. Kg5 Bc8 3. Kf4 Ke2 4. Ke4 Kd2 5. Kd4 Be6 6. Ke5 Bc8 7. Kd4 Be6 8. Ke5 1/2-1/2

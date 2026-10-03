@@ -1,0 +1,13 @@
+[Event "Revista de Romana de Sah#0320 (c)"]
+[Source "Revista de Romana de Sah/3 (c): Garcia=M Estudios Artisticos de Ajedrez - VIII-35 2012."]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Cabiaglia, G"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3N4/1K3p2/1p6/k1p1p3/3P4/1P3p1B/8 w - - 0 1"]
+
+1. Nc5+ $1 Kb4 2. Nxe4 f1=Q 3. Bd6+ Ka4 4. b3+ Kxb3 (cxb3 5. Nc3#) 5. Nd2+ Kc2 6. Nxf1 cxd3 7. Bf4 1-0

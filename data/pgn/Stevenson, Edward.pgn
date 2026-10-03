@@ -1,0 +1,26 @@
+[Event "Chess#251"]
+[Date "1941.07.25"]
+[Round "?"]
+[Composer "Stevenson, Edward"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3q1r1k/3P3p/7P/2p3b1/2Q3N1/8/8/3R3K w - - 0 1"]
+
+1. Qc3+ $1 Bf6 (Rf6 2. Nxf6) 2. Nxf6 Rxf6 3. Qxf6+ Qxf6 4. d8=Q+ Qxd8 5. Rxd8# 1-0
+
+[Event "Chess#286"]
+[Source "Chess/10"]
+[Date "1942.??.??"]
+[Round "?"]
+[Composer "Stevenson, Edward"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3B2R1/4p3/K7/P2k2r1/8/p7/2R5/6q1 w - - 0 1"]
+
+1. Rxg5+ $1 (1. Rc5+ $2 Qxc5 2. Rxg5+ e5) Qxg5 2. Rc5+ $1 Kxc5 3. Bxe7+ Qxe7 (Kc6 4. Bxg5 a2 5. Bf6) 1/2-1/2

@@ -1,0 +1,59 @@
+[Event "?"]
+[Site "?"]
+[Date "1890.??.??"]
+[Round "?"]
+[Composer "Neustadtl, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/8/8/4p1p1/8/5P2/6K1/3k4 w - - 0 1"]
+
+1. Kh1 (1. Kf1 $2 Kd2 2. Kf2 Kd3 3. Kg3 Ke3 4. Kg2 Ke2 5. Kg3 Kf1 6. Kg4 Kf2 $19) (1. Kg3 $2 Ke1 $19) (1. Kf2 $2 Kd2 $19) (1. Kg1 $2 Ke1 $19) (1. Kh2 $2 Kd2 $19) (1. Kh3 $2 Ke1 $19 2. Kg2 Ke2) Kd2 (Kc1 2. Kg1 (2. Kg2 $2 Kc2 $19) (2. Kh2 $2 Kd2 $19) g4 3. Kg2 (3. fxg4 $2 e4 $19) (3. Kf2 $2 Kd2 $19) Kd2 4. fxg4 $1 $10 (4. Kf2 $2 gxf3 5. Kxf3 Kd3 $19 6. Kf2 e4) (4. Kg3 $2 gxf3 5. Kxf3 Kd3 $19 6. Kf2 e4) (4. f4 exf4)) 2. Kh2 (2. Kg2 $2 Ke2 $19) (2. Kg1 $2 g4 $19) (2. f4 gxf4) Ke2 3. Kg2 (3. Kg3 $2 Kf1 $19) (3. Kg1 Kxf3) (3. f4 exf4) Ke3 4. Kg3 Kd3 5. Kh3 $10 (5. Kg4 $2 Ke2 $19) (5. Kf2 $2 Kd2 $19) (5. Kg2 $2 Ke2 $19) (5. f4 $2 gxf4+ 6. Kf3 e4+) (5. Kh2 $2 Kd2) 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Neustadtl, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/8/4Pp1B/k1b1p2P/p7/8/b3P2K/3B4 w - - 0 1"]
+
+1. Bd2+ (1. e4 $4 Bxe6 2. Bd2+ Bb4 $17 $19) (1. Bg7 $4 a3 2. Bxf6 Bxe6 3. Bxe5 Be3 $15) (1. Bc2 $4 Bxe6 2. Bd2+ Kb5 $15) (1. Kg3 $4 Bxe6 2. Bd2+ Bb4 $15 $17) (1. e3 $4 a3) (1. Bg5 $4 fxg5 2. Bxa4 Kxa4) (1. Bc1 Bxe6) (1. Bf4 exf4) (1. Bb3 Bxb3 2. Bd2+ Kb5) Ka6 2. h6 (2. e4 $2 Bxe6 3. Bxa4 $14 $10) (2. Bc2 $6 Bxe6 3. h6 $14) (2. Bxa4 $6 Bxe6 3. h6 $14 $16) (2. Bc3 $2 Kb5 3. h6 $10) (2. Be3 $4 Bxe3 3. e7) (2. e7 $2 Bxe7 3. Bxa4) (2. e3 $2 a3 3. h6 Bxe6 $4 (Bb1 $5 4. Bf3) 4. h7) (2. Bb4 $4 Bxb4 3. Bxa4 Bxe6) (2. Bc1 Kb5 3. Bc2) (2. Bb3 axb3) Bb1 3. e4 (3. Bxa4 $6 Kb7 4. Ba5 $16 $18) (3. Kg3 $2 a3 4. Bb3 $10) (3. Be3 $6 Ba3 4. Bxa4 $16) (3. Kg2 Be4+ 4. Kh2) (3. Bg5 fxg5 4. Bxa4 Kb6) (3. Bf4 exf4 4. Bxa4 Bf8) (3. Bb4 Bxb4 4. Bxa4 Kb6) (3. Bc3 Kb5 4. Kg3) Bxe4 4. Be2+ (4. Bxa4 $6 Kb7 5. Ba5 $10) (4. Bf4 exf4 5. Bxa4 f3) (4. Bb4 Bxb4 5. Bxa4 Bf8) (4. Bg5 fxg5 5. Bxa4 Be7) (4. Bg4 Be7) (4. e7 Bxe7 5. Bxa4 Bh7) (4. h7 Bxh7 5. Bxa4 Ba3) Kb6 (Kb7 5. Bf3 $18 (5. Be3 $4 a3 $15 $17) (5. Bb5 $4 a3) (5. Kg3 $4 Bh7) (5. Bc4 $4 Kc6) (5. Bc3 $4 Kb6) (5. Ba5 $2 Bg6 6. Bd8) (5. Bh5 $4 Bh7) (5. Bd1 a3 6. Bf3) (5. Bg4 Bh7) (5. Bc1 Kc7)) 5. Be3 $18 (5. Kg3 $4 a3 $15 $17) (5. e7 $4 Bxe7 6. Be3+ Bc5 $19) (5. Bh5 $4 Be7 $17 6. Be3+ Kc7) (5. Bc3 $4 Bf8 $17) (5. Bf3 $6 Bg6 6. Bh5 $14) (5. Bf1 $4 Bd6 6. Be3+ Kc7) (5. Bc4 $4 Bf8 6. Be3+ Kc7) (5. Bd3 $2 Bxd3 6. Be3) (5. Bc1 Kc7) 1-0
+
+[Event "International Chess Magazine#006 (v)"]
+[Source "International Chess Magazine/2"]
+[Date "1890.??.??"]
+[Round "?"]
+[Composer "Neustadtl, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/4p1p1/8/5P2/8/3k2K1 w - - 0 1"]
+
+1. Kh1 $1 (1. Kf1 $2 Kd2 2. Kf2 Kd3 3. Kg3 Ke3 4. Kg2 Ke2 5. Kg3 Kf1 6. Kh3 Kf2 7. Kg4 Kg2 8. Kxg5 Kxf3) Kd2 2. Kh2 Kd3 3. Kh3 Ke3 4. Kg3 Ke2 5. Kg2 Kd1 6. Kh1 1/2-1/2
+
+[Event "Deutsches Wochenschach#0329 (c)"]
+[Source "(c): Kopnin=A Kondratev=V source unknown 1985."]
+[Date "1897.07.04"]
+[Round "?"]
+[Composer "Neustadtl, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7B/8/r2p4/3PP3/8/8/7K/k7 w - - 0 1"]
+
+1. e6+ $1 Ka2 2. Be5 $1 (2. e7 $2 Ra8 3. Be5 Kb3 $1 4. Bxd6 Rh8+ 5. Kg3 Kc4 6. Be5 Rg8+ 7. Kf4 Kxd5) Kb3 3. Bxd6 Kc4 4. e7 Ra8 (Ra2+ {<main>} 5. Kg3 Re2 6. Be5 $1 Rxe5 7. d6) 5. Bb8 $1 Rxb8 6. d6 1-0

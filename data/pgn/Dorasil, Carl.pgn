@@ -1,0 +1,26 @@
+[Event "2/5.p Bohemia#120"]
+[Date "1906.12.27"]
+[Round "?"]
+[Composer "Dorasil, Carl"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r2b2k1/1p3ppp/P2P1n2/3p4/8/2R5/2P1R1PP/7K w - - 0 1"]
+
+1. Rc8 $1 (1. Re8+ $2 Nxe8 2. Rc8 Rxa6) Rxc8 2. Re8+ $1 Nxe8 3. d7 Nd6 4. dxc8=Q Nxc8 5. axb7 1-0
+
+[Event "Deutsche Schachzeitung#1673 (c)"]
+[Source "Deutsche Schachzeitung/1 (c): Garcia=M Estudios Artisticos de Ajedrez - II-59 2012."]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Dorasil, Carl"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2N5/2p5/k1P3Bq/p4p2/P1p2p1p/1p1R1p1P/1P3P2/K7 w - - 0 1"]
+
+1. Rxb3 $1 (1. Bxf5 $2 Qxc6 2. Bd7 Qc5) cxb3 2. Bxf5 Qxc6 3. Bd3+ Kb7 4. Be4 Qxe4 5. Nd6+ cxd6 1/2-1/2

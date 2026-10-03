@@ -1,0 +1,15 @@
+[Event "L'Italia Scacchistica"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Palazzi, Piero"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/1pk5/1p6/3p2p1/KP1p4/Pp1Pp3/1P2P3/3B4 w - - 0 1"]
+
+1. b5 $1 (1. Bxb3 $2 Kc6 $19) (1. Kb5 $2 g4 2. Bxb3 Kd6 $19) (1. Kxb3 $2 g4 $19) Kd6 2. Kb4 (2. Bxb3 $2 Kc5 $19) (2. Kxb3 $2 Kc5 $19) g4 3. Bxb3 (3. a4 $2 g3 4. Bxb3 g2 $19) (3. Kxb3 $2 g3 $19) (3. Ka4 $2 g3 4. Bxb3 g2) g3 4. Ba4 (4. Bd1 $2 g2 $19) (4. a4 $2 g2 $19) (4. Ba2 $2 g2 $19) (4. Bc4 $2 g2 $19) (4. Ka4 $2 g2 $19) (4. Bc2 $2 g2 $19) g2 5. b3 g1=Q 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "Schach#06034"]
+[Source "Schach/7"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Dupont, Gerhard"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2Pk4/8/5N2/q1p3P1/2Rp4/4p3/4K3 w - - 0 1"]
+
+1. c8=Q+ $1 Kxc8 2. Rxc4+ Qxc4 3. Nd6+ Kd7 4. Nxc4 Ke6 5. Nb2 $1 (5. Nd2 $2 Kf6) (5. Ne3 $2 Kf6) Kf6 6. Nxd3 Kg5 7. Nf2 1-0

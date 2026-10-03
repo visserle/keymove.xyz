@@ -1,0 +1,12 @@
+[Event "Evening News#0566"]
+[Date "1956.11.24"]
+[Round "?"]
+[Composer "Sansom, Claude Micah"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2R5/P3pp1p/2p1r2k/4P3/6PK/8 w - - 0 1"]
+
+1. a6 $1 c3 (Rxe3 2. Rxc4+ Kg5 3. Ra4) (Rg4 2. a7 Rg8 3. Rg6 Ra8 4. g3#) 2. a7 Ra4 3. Rc4+ Rxc4 4. a8=Q c2 5. Qg8 1-0

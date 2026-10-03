@@ -1,0 +1,54 @@
+[Event "3.c Bulletin Central Chess Club USSR#13"]
+[Source "Bulletin Central Chess Club USSR/4"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Zababurin, Nikolay Fedorovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "kn6/1pQ5/2p5/5p2/3K4/2P3p1/5p2/2n5 w - - 0 1"]
+
+1. Qa5+ $1 Na6 2. Qxf5 g2 3. Qf8+ Ka7 4. Qxf2 g1=Q 5. Kc4+ $1 Ka8 6. Qa7+ Qxa7 1/2-1/2
+
+[Event "Shakhmaty (Riga)#216"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Zababurin, Nikolay Fedorovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3R4/3P3q/2pk4/1P6/7p/8/3N2P1/7K w - - 0 1"]
+
+1. Nc4+ $1 (1. b6 $2 h3 $1 2. g3 Qc2 3. b7 Qd1+ 4. Kh2 Qxd2+ 5. Kxh3 Qh6+ 6. Kg4 Qg6+ 7. Kh3 $1 Qh5+ 8. Kg2 Qe2+) Kc7 (Ke7 2. Rb8 $1 Qb1+ 3. Kh2 Kxd7 4. bxc6+) 2. Rb8 $1 Qxd7 3. Rb7+ $1 Kxb7 4. bxc6+ Kxc6 5. Ne5+ Kd6 6. Nxd7 h3 $1 7. g3 $1 Kxd7 8. Kh2 Ke6 9. Kxh3 Kf5 10. Kh4 Kg6 11. Kg4 1-0
+
+[Event "L'Italia Scacchistica#090 (c)"]
+[Source "L'Italia Scacchistica/4 (c): Borodavkin=S Zaporozhskaya Pravda 1985."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Zababurin, Nikolay Fedorovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "KN6/2k5/P7/2p5/2P4p/8/8/8 w - - 0 1"]
+
+1. a7 $1 h3 2. Na6+ Kc8 3. Nc7 $1 h2 (Kxc7) 4. Nd5 h1=R $1 (h1=Q) 5. Ne7+ Kc7 6. Nd5+ Kc6 7. Ne7+ Kb6 8. Nd5+ Ka6 9. Nc7+ Kb6 10. Nd5+ 1/2-1/2
+
+[Event "L'Italia Scacchistica#111"]
+[Source "L'Italia Scacchistica/9"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Zababurin, Nikolay Fedorovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1p4P1/p2k3P/K2n4/8/8 w - - 0 1"]
+
+1. g6 $1 b4+ 2. Kxa4 Nc5+ (b3 3. Kxb3 Nc5+ 4. Kb4 (4. Kb2 {<or>}) (4. Kc2 {<or>}) Ne6 5. h5 Ke5 6. g7 Nxg7 7. h6 Ne8 8. h7) 3. Kxb4 Ne6 4. h5 Ke5 5. g7 (5. h6 $2 Kf6) Nxg7 6. h6 Kf6 7. h7 1-0

@@ -1,0 +1,550 @@
+[Event "?"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/3p4/5k2/2P1NN2/2p3p1/1p6/8/1K3b2 w - - 0 1"]
+
+1. c6 (1. Nxg4+ $2 Kxf5 2. Ne3+ Ke4 3. Nxf1 Kd5 4. c6 Kxc6 5. Ng3 $10 (5. Nd2 $4 d5 6. Kb2 Kc5 $19)) (1. Nd3 $2 Bxd3+ 2. Kb2 Bxf5) (1. Nh6 Kxe5 2. Nxg4+ Kf5) (1. Nf7 c3 2. Nd4 Bd3+) dxc6 (c3 2. cxd7 (2. Nxg4+ $4 Kxf5 3. Ne3+ Ke4 $19) (2. Nxd7+ $2 Kxf5 3. Nc5 $10) (2. Ne3 $4 Kxe5 3. Nxf1 dxc6) (2. Nd4 $4 Kxe5 3. Nxb3 dxc6) (2. Nc4 $4 Bxc4 3. cxd7 Bd3+) (2. Nd3 Bxd3+ 3. Ka1 b2+) (2. Ng3 Kxe5 3. Nxf1 dxc6) Kxe5 3. d8=Q $1 $18 (3. Ne3 $4 Bd3+ 4. Ka1 b2+ $19) (3. Ng3 $4 Bd3+ 4. Ka1 b2+) (3. Nd4 $4 Bd3+ 4. Ka1 b2+) (3. Ne7 $4 Bd3+ 4. Ka1 b2+) (3. Ng7 Bd3+ 4. Ka1 Bc2) (3. Kc1 Bd3 4. Kd1 Bc2+ 5. Ke2)) 2. Nxg4+ (2. Nxc6 $2 c3 $19) (2. Ne3 $2 Kxe5 3. Nxf1 Kf4 $19) (2. Ng3 $2 Kxe5 3. Nxf1 Kf4 $19) (2. Nd4 $2 Kxe5 3. Nxc6+ Ke4) (2. Nf7 $2 c3 3. Ne5 Kxe5) (2. Nd3 $2 Bxd3+ 3. Kb2 Bxf5) (2. Nf3 $2 c3) (2. Ng6 $2 c3 3. Ne5 Kxe5) Kxf5 3. Ne3+ (3. Nh6+ Kg6) Ke4 4. Nd1 (4. Nxf1 $2 Kd3 5. Nh2 $10) (4. Nc2 $2 c3 $19 5. Na3 c5) (4. Ng4 $2 c3 5. Nf2+ Ke3) Kd3 5. Kb2 (5. Nb2+ $2 Kd2 $19 6. Nxc4+ Bxc4) (5. Kc1 $2 c3 6. Nf2+ Kd4) (5. Nf2+ $2 Ke3 6. Ng4+ Kd2) (5. Ka1 $2 c3 6. Nb2+ Kc2) Kd2 6. Nc3 $10 (6. Nf2 $2 Bd3 7. Nxd3 Kxd3) (6. Ka1 $2 c3 7. Nxc3 Kxc3) (6. Ka3 Kxd1) 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "3B4/5pp1/8/6KP/8/p3k3/8/8 w - - 0 1"]
+
+1. h6 (1. Ba5 $2 Kd3 2. Bc7 a2 3. Be5 f6+ $19) (1. Bf6 $2 gxf6+ 2. Kh6 f5 $19) (1. Bb6+ $2 Kd3 $19) (1. Kg4 $2 a2 2. Bb6+ Ke4) (1. Be7 $2 f6+ 2. Kg6) (1. Bc7 $2 a2 2. Bb6+ Ke4) (1. Kf5 $2 a2 2. Bb6+ Kd3) gxh6+ 2. Kg4 (2. Kxh6 $2 f5 $19 3. Bb6+ Ke4) (2. Kf5 $2 a2 3. Bb6+ Kd3) (2. Kh5 $2 f5 3. Bb6+ Ke4 $19) (2. Kf6 $2 a2 $19 3. Bb6+ Ke4) (2. Kh4 $2 f5 3. Bb6+ Ke4 $19) h5+ 3. Kf5 (3. Kxh5 $2 f5 4. Bg5+ f4 $19) (3. Kg3 $2 f5 4. Bg5+ Ke4 $19 5. Bc1 f4+) (3. Kh4 $2 f5 4. Bb6+ Kd3 $19) (3. Kg5 $2 h4 4. Kxh4 f5) (3. Kh3 $2 f5 4. Bb6+ Kd3) Kf3 4. Bf6 (4. Kg5 $2 f5 5. Kxf5 a2 $19) (4. Bg5 $2 a2 $19) (4. Bh4 $2 a2 $19) (4. Be7 $2 a2 $19) (4. Ke5 $2 a2 5. Bb6 a1=Q+) (4. Bc7 $2 h4) (4. Kf6 $2 a2 5. Kxf7 a1=Q) (4. Bb6 $2 h4) (4. Ba5 $2 h4) Kg3 5. Be5+ (5. Ke4 $2 h4 6. Be5+ Kg2) (5. Be7 $2 a2 6. Bd6+ Kf3) (5. Bc3 $2 f6 6. Be1+ Kf3) (5. Bb2 axb2) Kh3 6. Kf4 (6. Bf6 Kh2 7. Be5+ $10) (6. Kg5 $2 h4 $19 7. Bf6 Kg3) (6. Kf6 $2 Kg4 $19 7. Kxf7 Kf5) (6. Ke4 $2 Kg2 $19 7. Kd3 f5) (6. Bd6 $2 a2) (6. Bd4 $2 h4) (6. Bb2 axb2) (6. Ba1 h4) (6. Bg3 Kxg3) Kg2 7. Bf6 $10 (7. Kg5 $2 f5 8. Kxh5 Kf3 $19) (7. Ke3 $2 h4 $19) (7. Kf5 $2 h4 $19) (7. Bd4 $2 h4) (7. Ba1 $2 h4) (7. Bd6 $2 a2) (7. Ke4 $2 h4 8. Kd4 f6) 1/2-1/2
+
+[Event "Ellenzek"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/8/PP6/2n5/7p/8/8/7k w - - 0 1"]
+
+1. a7 $1 h3 2. b7 Nxb7 (Nd7 {<main>} 3. b8=Q Nxb8 4. Kb7 $1) 3. Kb8 $1 h2 4. a8=Q Kg1 5. Qa1+ Kg2 6. Qb2+ Kg1 7. Qb1+ Kg2 8. Qe4+ Kg1 9. Qg4+ Kf2 10. Qh3 Kg1 11. Qg3+ Kh1 12. Qf2 1-0
+
+[Event "L'Italia Scacchistica#347"]
+[Source "L'Italia Scacchistica/9"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p3/8/8/1Kpp1P1p/1p5P/k3p2Q/5Nn1 w - - 0 1"]
+
+1. Qg2 $1 Ka1 (Kb1 2. Qxg1 e1=Q+ 3. Nd2+) (Kb2 2. Kxc4 Ka3 3. Qf2 exf1=Q+ 4. Qxf1 Ka2 5. Qxg1 b2 6. Qg2) (b2 2. Nd2 b1=Q+ 3. Nxb1) (c3 2. Qa8+ Kb2 3. Qa3+ Kc2 4. Qxb3+ Kd3 5. Qb1+ c2 6. Qb3+ Ke4 7. Qxc2+ d3 8. Qc1) (d3 2. Kxc4 b2 3. Nd2 b1=Q 4. Nxb1 d2 5. Nc3+ Ka3 6. Qa8+ Kb2 7. Qb7+) 2. Ka3 b2 3. Nd2 b1=N+ 4. Nxb1 Kxb1 5. Qxg1+ Kc2 6. Qe1 1-0
+
+[Event "L'Italia Scacchistica#350"]
+[Source "L'Italia Scacchistica/9"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/1p6/pP2P3/Kp6/8/1P5p/7P/b7 w - - 0 1"]
+
+1. e7 $1 Bc3+ 2. b4 Be5 3. e8=R+ $1 (3. e8=Q+ $2 Bb8 4. Qe2 (4. Qe3 Bxh2 5. Qxh3 Bb8) Bxh2 5. Qxh2) Bb8 4. Re2 $1 Bd6 5. Rc2 Be5 (Kb8 {<main>} 6. Rd2 Be7 7. Rd7) 6. Rc8+ Bb8 7. Rc7 $1 Bxc7 8. bxc7 Ka7 9. c8=N+ $1 Kb8 10. Nb6 Kc7 (Ka7 11. Nd7) 11. Nd5+ Kd6 12. Nf4 Kc7 13. Nxh3 Kb8 14. Kb6 1-0
+
+[Event "2.p Gininger MT Revista de Romana de Sa"]
+[Date "1935.04.15"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/r5p1/1K3Pp1/1P3pn1/5R2/1b5p/8/5R2 w - - 0 1"]
+
+1. Ra1 $1 (1. Rh4 $2 Rb7+ $1 2. Kc6 Nf7) Rxa1 2. Rh4 Nf7 3. Rh8+ $1 (3. fxg7 $2 Nd8 $1 4. Rh8 Rd1 $1) Nxh8 4. fxg7 1-0
+
+[Event "4.c Gininger MT Revista de Romana de Sa"]
+[Date "1935.12.23"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K6/2Bkp3/3P1P2/3p1P2/2p5/8/8/4r3 w - - 0 1"]
+
+1. f7 $1 exd6 (Rb1+ 2. Ka7 Ra1+ 3. Kb7 Rb1+ 4. Bb6) 2. Bd8 $1 (2. f8=Q $2 Re8+ $1 3. Qxe8+ Kxe8 4. Bxd6 d4 5. Be5 d3 6. Bc3 Kf7) Re8 (Rb1+ 3. Ka7 Ra1+ 4. Kb6) 3. fxe8=Q+ Kxe8 4. Bf6 (4. Bg5 $2 d4 5. Kc7 d3 6. Kxd6 (6. Bd2 Ke7) Kf7 $1 (c3 $2 7. Ke6 d2 8. f6 d1=Q 9. f7+ Kf8 10. Bh6#) 7. Bd2 Kf6) 1-0
+
+[Event "Revista de Romana de Sah#0104 (v)"]
+[Date "1936.03.18"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/B7/1p5p/bR5P/1p6/2p4p/7P/6K1 w - - 0 1"]
+
+1. Bxb6 $1 (1. Rxb4 $2 Bxb4 2. Bxb6 c2 3. Be3 Bc5 4. Kh1 Kb7 5. Bxh6 Kc6 6. Bc1 Kd5 7. h6 (7. Bb2 Be3) Ke4 8. h7 (8. Bb2 Be3 9. h7 Bd4) Bd4 9. Ba3 Kf5 10. Bc1 Kg6 11. h8=Q Bxh8 12. Kg1 Kf5 13. Kf1 Be5) Bxb6+ 2. Kh1 $1 (2. Rxb6 $2 c2) c2 3. Rc5 $1 b3 4. Rxc2 bxc2 (Bd4 5. Rc1) 1/2-1/2
+
+[Event "Revista de Romana de Sah#0103"]
+[Date "1936.03.18"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6R1/6p1/6p1/3n2K1/3p4/7k w - - 0 1"]
+
+1. Ra6 $1 (1. Rh6+ $2 Kg1 2. Rh2 (2. Rh5 Nf2) d1=R $1 3. Rf2 $1 (3. Rg2+ Kf1 4. Rh2 Ne5) Nf4 $1 (Ne5 4. Rd2 $1) 4. Ra2 Re1 5. Kxg4 (5. Rb2 Re3+ 6. Kxg4 Ne6) Ne6) (1. Rd6 $2 d1=R (d1=Q $2 2. Rh6+ Kg1 3. Rh1+ Kxh1) 2. Rh6+ (2. Kxg4 Nf2+) Kg1 3. Kxg4 (3. Rd6 Rd2) Ne5+ 4. Kf5 Re1) (1. Rb6 $2 Kg1 2. Rb1+ Nc1 3. Rb2 Ne2+) (1. Rf6 $2 Kg1 2. Rf2 d1=R 3. Re2 (3. Ra2 Nf2) Kf1) (1. Rc6 $2 Nc5 $1 (Kg1 $2 2. Rc2) 2. Kf2 g3+ 3. Ke2 g2 4. Rh6+ Kg1 5. Kxd2 Kf2 6. Rf6+ Kg3) Kg1 (d1=Q 2. Rh6+ Kg1 3. Rh1+ Kxh1) (d1=R {<main>} 2. Kxg4 Rg1+ 3. Kf5) 2. Ra2 $1 d1=Q (d1=R 3. Kxg4 Nb4 4. Ra4) (Nf2 3. Rxd2 Ne4+ 4. Kxg4 Nxd2 5. Kxg5) (Nb2 3. Ra1+) 3. Rg2+ Kh1 (Kf1 4. Rg1+ Ke2 (Kxg1) 5. Rxd1 Kxd1 6. Kxg4) 4. Rh2+ Kg1 5. Rh1+ Kxh1 1/2-1/2
+
+[Event "Revista de Romana de Sah#0104"]
+[Date "1936.03.18"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/B7/1p6/bR6/1p6/2p4p/7P/6K1 w - - 0 1"]
+
+1. Bxb6 $1 (1. Rxb4 $2 Bxb4 2. Bxb6 c2 3. Be3 Bc5 $1 4. Kh1 $1 Kb7 $1 5. Bd2 Kc6 6. Be3 Kd5 7. Bd2 Ke4 8. Bc1 Kd3 9. Bb2 $1 Be3 $1 10. Ba3 Kc3 11. Bb2+ Kb3 12. Ba3 Bd2) Bxb6+ 2. Kh1 $1 (2. Rxb6 $2 c2 $1 3. Ra6+ Kb7 4. Ra1 b3) c2 3. Rc5 $1 b3 4. Rxc2 bxc2 1/2-1/2
+
+[Event "Revista de Romana de Sah#0135"]
+[Date "1936.11.20"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/7K/3R3p/1k1B2p1/8 w - - 0 1"]
+
+1. Bc3+ $1 (1. Bc1+ $2 Kxc1 $1) Kc1 (Kc2 2. Rg3) (Kb1 2. Rd1+ Kc2 3. Rg1 h2 4. Rxg2+) (Kb3 2. Bd4+ Kc2 3. Rxh3) 2. Bb2+ $1 Kxb2 (Kb1 3. Rd1+ Kxb2 4. Rg1) 3. Rg3 h2 4. Rxg2+ 1-0
+
+[Event "Magyar Sakkvilág#456"]
+[Source "Magyar Sakkvilág/10"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7R/1k3p1P/3pp3/PK6/8/1p6/p6p/8 w - - 0 1"]
+
+1. a6+ $1 Kc7 (Ka7 2. Ra8+) 2. Rc8+ Kxc8 3. a7 $1 (3. h8=Q+ $2 Kd7) h1=Q (a1=Q 4. h8=Q+ Qxh8 5. a8=Q+) (Kb7 {<main> } 4. h8=Q Kxa7 5. Kc6 e5 $1 6. Qh3 $1 Ka6 7. Qd3+ Ka7 8. Qe3+ Ka8 9. Qe4) (b2 {<main>} 4. a8=Q+ Kd7 5. Qc6+ Ke7 6. Qc7+) 4. h8=Q+ Qxh8 5. a8=Q+ Kd7 6. Qxh8 1-0
+
+[Event "Revista de Romana de Sah#0148"]
+[Date "1937.02.23"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/1q5P/1N1p4/5ppK/8/4Rp2/8/8 w - - 0 1"]
+
+1. Re8+ $1 Kxh7 2. Nd7 $1 Qxd7 (Qc6 3. Re7+ Kg8 4. Kg6 d5+ 5. Nf6+ Qxf6+ 6. Kxf6 g4 (f2 7. Kg6 (7. Re8+ $2 Kh7 8. Re7+ Kh6 9. Re2 f1=N 10. Re1 Ng3) Kf8 8. Rf7+ Ke8 9. Rxf5) 7. Re8+ (7. Kg6 $2 Kf8 8. Rf7+ Ke8 9. Rxf5 d4) Kh7 8. Re7+ Kg8 (Kh6 9. Re1) 9. Re8+) (Qe4 3. Rxe4 $1 (3. Nf6+ $2 Kg7 4. Nxe4 fxe4 5. Rxe4 f2) fxe4 (f2 4. Re7+) 4. Nf6+ Kg7 5. Nxe4 d5 6. Nf2 Kf6 7. Kg4) (Qb1 3. Re7+ Kg8 4. Kh6 f4 (Qb2 5. Kg6 Qe5 6. Nxe5) 5. Rg7+ Kh8 6. Nf6) (Qb2 3. Re7+ Qg7 4. Nf6+ Kh8 5. Re8+ Qg8 6. Rxg8#) (f2 3. Re7+ Kg8 4. Kg6 f1=Q (Qxd7 5. Rxd7) 5. Re8#) 3. Re7+ Qxe7 (Kg8 4. Rxd7 f2 (Kf8 5. Rxd6 (5. Kg6 $2 Ke8 6. Rxd6 (6. Rf7 f4) f2 7. Rd1 g4) Ke7 6. Rd1 Kf6 7. Rf1 g4 8. Kh4) 5. Kg6 Kf8 6. Rf7+) 1/2-1/2
+
+[Event "Shakhmaty v SSSR#122"]
+[Source "Shakhmaty v SSSR/10"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/2p5/2P5/3p2p1/B1k3p1/6Pb/7K w - - 0 1"]
+
+1. Bb2+ $1 Kd3 2. Ba1 $1 (2. Bxd4 $2 Bg1 $1) Ke4 3. Bxd4 $1 Bg1 4. Bxg1 Kd3 5. Bh2 gxh2 6. Kxh2 Kd4 7. Kg3 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#281"]
+[Source "Tijdschrift v.d. KNSB/9"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/1p2N3/8/6K1/1p2R3/2p1p3/8/8 w - - 0 1"]
+
+1. Nf5 $1 (1. Kf6 $2 e2 $1) c2 (b3 2. Rd4+ Kc8 (Ke8 3. Kf6) (Kc7 3. Nxe3 c2 (b2 4. Nd5+) 4. Nxc2 bxc2 5. Rc4+) 3. Rc4+ Kd7 4. Nxe3 b2 5. Rb4) 2. Rd4+ Ke8 (Kc8 3. Rc4+) 3. Kf6 c1=Q 4. Ng7+ Kf8 5. Rd8# 1-0
+
+[Event "Magyar Sakkvilág#575 (c)"]
+[Source "Magyar Sakkvilág/11 (c): Magyar Sakkvilág=1 1/1944."]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/n2k4/P6P/r6P/8/8/8/8 w - - 0 1"]
+
+1. Kg7 $1 (1. h7 $2 Rg5 2. h6 Nc8 3. a7 Nd6 4. a8=Q Nf7#) Rg5+ 2. Kf6 $1 (2. Kf7 $2 Rf5+ 3. Kg7 (3. Kg6 Rf8) Ke7 4. h7 Rf7+ 5. Kg6 Rf8 6. Kg7 Rh8 $1 7. h6 (7. Kxh8 Kf7 8. h6 Nc6 9. a7 Ne5 10. a8=Q Ng6#) Nc6 8. a7 Ne5 9. a8=Q Rxa8 10. h8=Q Rxh8 11. Kxh8 Kf7 12. Kh7 Nd7 13. Kh8 Nf8 14. h7 Ng6#) Rg8 (Rxh5 {<main>} 3. Kg7 (3. Kg6 $2 Rh1 4. h7 Ke7 5. Kg7 Rg1+ 6. Kh6 Kf7) Ke7 4. h7 Rh3 $1 5. h8=Q Rg3+ 6. Kh6 $1 (6. Kh7 $2 Kf7)) 3. h7 $1 (3. Kf7 $2 Re8 4. h7 Rh8 5. h6 $1 Nc6 6. a7 (6. Kf6 Kd6 7. a7 Ne5) Ne5+ 7. Kf6 Kd6) Rh8 (Ra8 4. Kg7) 4. h6 $1 (4. Kg7 $2 Ke7 5. h6 Nc6) Nc6 5. a7 $1 (5. Kg7 $2 Ke7) Ne7 6. Kg7 (6. a8=Q $2 Rxa8 7. h8=Q Rxh8 8. Kg7 Re8) Ke6 7. a8=Q $1 Rxa8 8. h8=Q Rxh8 9. h7 $1 (9. Kxh8 $2 Kf7 10. Kh7 Nc6 11. Kh8 Ne5 12. Kh7 Nd7 13. Kh8 Nf8 14. h7 Ng6#) 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#469 (s)"]
+[Source "Tijdschrift v.d. KNSB/8"]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/8/P7/8/kN1pp3/2p5/8/8 w - - 0 1"]
+
+1. Nc6 $1 (1. Na2 $2 Kb3 2. a7 Kxa2 3. a8=Q+ Kb2) (1. Nc2 $2 d3 2. a7 dxc2 3. a8=Q+ Kb3) c2 2. a7 c1=Q 3. a8=Q+ Kb5 (Kb3 4. Nxd4+ Kb4 5. Qb7+ Ka4 6. Qb5+ Ka3 7. Qb3#) 4. Nxd4+ Kb6 5. Qb8+ Ka6 6. Qb5+ Ka7 7. Nc6+ 1-0
+
+[Event "Magyar Sakkvilág#570 (c)"]
+[Source "Magyar Sakkvilág/9 (c): Magyar Sakkvilág=1 1/1944."]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4PkrP/pp6/7P/7R/8/4K3 w - - 0 1"]
+
+1. Re3 $1 Ke7 (Rg8 2. e7 Re8 3. h5 $1 Kf7 (a4 4. Kd2 Kf7 5. Rf3+ Kg8 6. Rf8+) 4. Rf3+ Kg8 5. Rf8+ Rxf8 6. h7+) 2. h7 Rh6 3. Rc3 $1 Rxe6+ 4. Re3 $1 Rxe3+ 5. Kd2 1-0
+
+[Event "Magyar Sakkvilág#594"]
+[Source "Magyar Sakkvilág/5"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/8/1B2k3/7P/3P4/8/p7/8 w - - 0 1"]
+
+1. d5+ $1 (1. h6 $2 a1=Q 2. h7 Qa8+ 3. Kg7 Qb7+) Kxd5 (Ke5 {<main>} 2. d6 $1 (2. Bd4+ $2 Kxd4) a1=Q 3. d7) 2. Bd4 $1 (2. h6 $2 a1=Q 3. h7 Qa8+ 4. Kg7 Qb7+ 5. Kg8 Ke6) Kxd4 3. h6 a1=Q 4. h7 1/2-1/2
+
+[Event "Magyar Sakkvilág#595 (c)"]
+[Source "Magyar Sakkvilág/5 (c): Magyar Sakkvilág=10 10/1944."]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5K2/8/5k2/1N5P/4P3/8/4p3/8 w - - 0 1"]
+
+1. e5+ $1 Kxe5 2. Nd4 $1 Kxd4 3. h6 e1=Q 4. h7 1/2-1/2
+
+[Event "Magyar Sakkvilág#585"]
+[Source "Magyar Sakkvilág/2"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/2p2N1p/3p3P/1p3k2/2p2p2/1PP3P1/N6K w - - 0 1"]
+
+1. g3+ $1 Kxg3 2. b3 f2 3. Ne4+ Kf3 (dxe4) 4. Ng3 $1 (4. Nxf2 $2 Kxf2 5. Kh2 c5 6. Kh3 Kf3 7. Kh4 d4 8. Kh3 Ke3 9. Kg3 d3 10. cxd3 Kxd3 11. Kf4 c2) Kxg3 (c5 5. Nf1 d4 6. Kh2 Ke2 7. Kg2 d3 8. cxd3 Kxd3 9. Kxf2 c2 10. Nxc2 Kxc2 11. Ke2 Kxb3 12. Kd2 $1 c4 13. Ne3 $1 c3+ 14. Kc1 Ka2 15. Nd5 $1 Ka3 16. Nxb4) 1/2-1/2
+
+[Event "Magyar Sakkvilág#588 (c) (@2)"]
+[Source "Mag@ar Sakkvilág/3 (c): Magyar Sakkvilág=9 9/1944 î2: Ulrichsen=J HHdbIV#21589 27-12-2005."]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6pK/3p1P2/3b2k1/7p/5B2/5B2 w - - 0 1"]
+
+1. fxg6 $1 (1. Bxd4 $2 h2 2. Bg2 gxf5 3. Bxd5 f4 4. Be5 f3 $1 5. Be6+ Kh4 6. Bxh2 f2 7. Bc4 Kh3 8. Bd6 Kg2 9. Bd5+ Kh3 $1) Kf3 $1 (Bxf2 2. g7) (h2 2. Bg2) 2. Bg1 $1 Bxg1 (Kg3 3. Bxd4 h2 4. Be5+) (Be5 3. Bxh3 d4 4. Bf1 Ke4 5. g7) 3. g7 h2 (Be3+ 4. Kg6 h2 5. g8=Q h1=Q 6. Qxd5+) 4. Bg2+ Kxg2 5. g8=Q+ Kf1 6. Qxd5 (6. Qf7+ $2 Bf2) Be3+ 7. Kh5 Kg1 8. Qd1+ Kg2 9. Qg4+ Kf2 10. Qh4+ (10. Qh3 $1 {<minor dual JU>} Bf4 11. Kg4 Bc7 12. Qf3+) Kg2 11. Qe4+ Kf1 12. Kg4 1-0
+
+[Event "1.p Tijdschrift v.d. KNSB#032 (c)"]
+[Source "Tijdschrift v.d. KNSB/12 1946 (c): Farago=P Tijdschrift v.d. KNSB#062 8-9/ 1947."]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "N7/4p1p1/4n1P1/P4K2/6pk/2P4p/2R5/8 w - - 0 1"]
+
+1. Rb2 $1 g3 (Nf8 {<main>} 2. Nc7 g3 (Nxg6 3. Ne6 $1) 3. Rb4+ Kh5 4. Ne6 $1 (4. Rb8 $2 g2 5. Rxf8 Kh4 6. Kf4 e5+ $1) Nxe6 (Nxg6 5. Rg4 h2 (g2 6. Rxg6 h2 7. Nf4+ Kh4 8. Rg4#) 6. Rxg6 h1=Q 7. Nxg7+) (h2 5. Nf4+ Kh4 (Kh6 6. Rb1 Nxg6 7. Kg4) 6. Ne2+) 5. Rb8 $1 Nf8 $1 6. Rxf8 e6+ 7. Kf4 (7. Kxe6 $2 g2) g2 8. Rh8+ Kxg6 9. Rxh3) (Kg3 2. Kxe6) 2. Rb4+ Nf4 $1 (Kh5 3. Rb8) 3. Kxf4 (3. Rxf4+ $2 Kh5) h2 4. Kf3+ (4. Rb8 $2 e5+ 5. Kxe5 g2 $1) Kh3 5. Rh4+ $1 (5. Rb1 $2 e5 $1 (g2 $2 6. Rb8 $1) 6. Nc7 e4+) Kxh4 6. Kg2 1-0
+
+[Event "L'Échiquier de Paris#145"]
+[Source "L'Échiquier de Paris/10"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/7p/4Bkp1/2B2p2/7K w - - 0 1"]
+
+1. Be4+ $1 Kxe4 (Kxe3 {<main>} 2. Bg2 Ke2 3. Bf1+ Kxf1) 2. Bxf2 $1 gxf2 (Kf3 3. Be1 (3. Bxg3 $2 hxg3)) 3. Kg2 Ke3 4. Kf1 Kf3 (h3) 1/2-1/2
+
+[Event "5.p Hinds JT Suomen Shakki"]
+[Source "Suomen Shakki/4"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3K1k2/3R4/5rP1/5B2/2q2N1p/7P/8/8 w - - 0 1"]
+
+1. Be4 $1 (1. Nd5 $2 Qa6 $1 2. Nc7 Qb6 3. g7+ Kg8 4. Be4 Qb8+ 5. Ke7 Rf7+ 6. Kd6 Qb4+) Qxe4 (Rxf4 2. g7+ Kg8 3. Bd5+) 2. Rf7+ Rxf7 3. Ne6+ $1 Qxe6 (Kg8 4. gxf7+ Kxf7 5. Ng5+) 4. g7+ Kg8 (Rxg7) (Kxg7) 1/2-1/2
+
+[Event "2.p Enroque"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K1B5/P1kp2n1/P2pP1P1/8/8/2p1p3/b1P1P3/8 w - - 0 1"]
+
+1. exd7 $1 Ne6 2. g7 (2. d8=Q+ $2 Nxd8 3. g7 Bd5+ 4. Bb7 Bg8 5. Be4 Ne6 6. Bd5 Nc5 7. Bc6 Nd7) (2. Bb7 $2 Nc5 3. d8=Q+ Kxd8 4. Kb8 Nd7+ 5. Ka8 Kc7) Nd8 $1 3. Bb7 $1 (3. g8=Q $2 Bxg8 4. Bb7 d5 5. Bc6 d4 $1) Bc4 (Be6 { <main>} 4. Bg2 $1 d5 5. Bh3 Bf7 6. Be6 $1) (Bf7 {<main>} 4. Bf3 $1 d5 5. Bh5 Bg8 6. Bf7 Nxf7 7. d8=Q+ Nxd8) (Bg8 {<main>} 4. Be4 $1 d5 5. Bh7 Bxh7 6. g8=Q Bxg8) 4. Bh1 $1 (4. Be4 $2 Bg8 5. Bf3 d5 6. Bh5 d4 7. Bf7 Bh7 8. g8=Q Bxg8 9. Bxg8 d3) (4. Bf3 $2 Bf7 5. Be4 Bg8) (4. Bg2 $2 Be6 5. Bf3 Bf7 6. Be4 Bg8) Bf7 (Bg8 5. Be4 d5 6. Bh7 Bf7 7. Bg6) (Be6 5. Bg2 d5 6. Bh3 Bf7 7. Be6 Nxe6 8. d8=Q+ Kxd8 9. Kb7 Nc7 10. a8=Q+ Nxa8 11. Kxa8 Kc7 12. a7 d4 13. g8=Q Bxg8) 5. Bf3 d5 6. Bh5 Bg8 7. Bf7 Nxf7 8. d8=Q+ Nxd8 (Kxd8 9. Kb7) 1/2-1/2
+
+[Event "Magyar Sakkélet#0031 (tw)"]
+[Source "Magyar Sakkélet/1"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k5/8/P2K4/8/3N4/8/B2ppp2/8 w - - 0 1"]
+
+1. Be6+ $1 Kb8 2. Nc6+ Ka8 3. Bc8 d1=Q+ 4. Kc7 Qb3 5. Bb7+ Qxb7+ 6. axb7# 1-0
+
+[Event "1.p Centurini MT L'Italia Scacchistica"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6n1/5p1K/kp2pp2/6P1/2P2P2/N7 w - - 0 1"]
+
+1. gxf4 $1 (1. Kxg6 $2 e3 $1) (1. Nb3 $2 e3 $1) Nxf4+ 2. Kg5 (2. Kh4 $2 Ne6 3. Nb3 Ka3 4. Nd2 Kb2) Ne6+ (Nd3 3. Kxf5 Ne1 4. Nb3 Nxc2 5. Nc5+ Kb5 6. Nxe4) (Nd5 3. Kxf5 Nc3 4. Nb3) 3. Kxf5 Nd4+ $1 (Nc5 4. Ke5 Ka3 5. Kd5) 4. Kf6 $1 (4. Kxe4 $2 Nxc2 5. Nxc2 b3 6. Kd3 b2) (4. Kf4 $2 e3 5. fxe3 Nxc2 6. e4 Nxa1 7. e5 Nb3 8. e6 Nc5 9. e7 Ne6+) (4. Kg4 $2 e3 5. fxe3 Nxc2 6. e4 Nxa1 7. e5 Nc2 8. e6 Ne3+) (4. Kg5 $2 e3 5. fxe3 Nxc2 6. e4 Nxa1 7. e5 Nb3 8. e6 Nc5 9. e7 Ne4+) (4. Ke5 $2 e3 5. fxe3 Nxc2 6. Nxc2 b3) e3 (Ka3 5. Ke5 Kb2 6. Kxd4 Kxa1 7. Kc4) (Nxc2 5. Nxc2 b3 6. Ne3 b2 7. Nd1) 5. fxe3 Nxc2 6. e4 (6. Nxc2 $2 b3) Nxa1 7. e5 Nc2 {<eg>} (b3 8. e6 b2 9. e7 b1=Q 10. e8=Q+) 8. e6 Ne3 9. Ke5 Nc4+ 10. Kd5 Nb6+ 11. Kc6 Nc8 12. Kd7 1/2-1/2
+
+[Event "Magyar Sakkélet#0033 (tw)"]
+[Source "Magyar Sakkélet/1"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/8/P2K4/8/3N4/8/Bp1pp3/8 w - - 0 1"]
+
+1. Be6+ $1 (1. a7 $2 Kb7 2. Bd5+ Kxa7 3. Kc7 b1=Q 4. Nc6+ Ka6 $1 5. Bc4+ Qb5) Kb8 2. Nc6+ Ka8 3. Bc8 $1 (3. Kc7 $2 e1=Q 4. Bc8 Qg3+ 5. Kb6 b1=Q+) b1=Q 4. Kc7 Qh7+ 5. Kb6 Qb1+ 6. Kc7 1/2-1/2
+
+[Event "Magyar Sakkélet#0032 (tw)"]
+[Source "Magyar Sakkélet/1"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/5p2/P2K4/8/3N4/8/B2pp3/8 w - - 0 1"]
+
+1. a7 $1 Kb7 2. a8=Q+ Kxa8 3. Kc7 d1=Q 4. Bd5+ Ka7 5. Nc6+ Ka8 6. Nd4+ Ka7 7. Nc6+ 1/2-1/2
+
+[Event "4.c Bulletin Ouvrier des Échecs"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p7/8/5p2/P4K1p/7P/k7 w - - 0 1"]
+
+1. Kg4 $1 (1. a4 $2 Kb2 2. Kg4 Kc3 3. a5 Kc4 $1 4. Kxh3 (4. Kxf4 Kb5) Kd3 $1) (1. Kxf4 $2 Kb2 2. a4 Kb3 3. a5 Kb4 4. Kg3 Kxa5 5. Kxh3 Kb4) Kb2 (a5 2. a4 Kb2 3. Kxh3 Kb3 4. Kg4) (f3 2. Kxh3 Kb2 3. Kg3) 2. Kxh3 (2. a4 $2 Kc3 3. a5 Kc4 $1) Kxa3 3. Kg2 $1 (3. Kg4 $2 f3 $1 4. Kxf3 a5 5. h4 a4 6. h5 Kb2 $1 7. h6 a3 8. h7 a2 9. h8=Q+ Kb1) f3+ (a5 4. h4 a4 5. h5 Kb2 6. h6 a3 7. h7 a2 8. h8=Q+) 4. Kf2 $1 Kb2 $1 5. h4 a5 6. h5 a4 7. h6 a3 8. h7 a2 9. h8=Q+ Kb1 10. Qb8+ Ka1 11. Ke3 $1 f2 12. Qb5 $1 f1=Q 13. Qxf1+ 1-0
+
+[Event "6.p Rumanian champ (tt) (cr)"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/N6k/7p/1p2B3/5p2/1K5p/8 w - - 0 1"]
+
+1. Bxf3 $1 Kg5 2. Nxb4 $1 Kf4 3. Bh1 $1 1-0
+
+[Event "2.p Rumanian champ Revista de Romana de"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6b1/P5k1/8/2P3P1/P7/K6n/2P5/8 b - - 0 1"]
+
+Bd5 $1 2. Kb4 $1 (2. c4 $2 Ba8 3. c6 $1 (3. Kb4 Nxg5 4. c6 (4. Kb5 Kf7 5. Kb6 Ne6) Ne6 5. Ka5 (5. Kb5 Nd4+) Bxc6 6. Kb6 Ba8) Bxc6 4. Kb4 Nxg5 5. Kc5 Ba8 (Bg2 $2 6. Kb6 Ne6 7. c5 Nd8 8. c6) 6. Kd6 (6. Kb6 Ne6) Kf7 7. c5 (7. Kc7 Ke7 8. c5 Ne6+ 9. Kc8 (9. Kb8 Kd8) Nd4 10. Kb8 Kd8 $1 11. c6 Ne6) (7. Kd7 Ne6 8. Kc8 Ke7 9. c5 Nd4 10. Kb8 Kd8) Ke8 8. Kc7 Ne6+ 9. Kc8 Nd4 10. Kb8 Kd8 $1 (Kd7 $2 11. c6+ $1) 11. Kxa8 Kc8) (2. c6 $2 Bxc6 3. Kb4 Nxg5 4. Kc5 Ba8) Nf4 $1 (Nxg5 3. Kb5 Ba8 (Ne6 4. c6 Nc7+ 5. Kb6) 4. Kb6 Ne6 5. c6) 3. c6 $1 (3. Kb5 $2 Ba8 4. c4 (4. c6 Nd5 5. c4 Ne7 6. c7 Nc8) Ng6 5. c6 Ne7 6. c7 Nc8) (3. c4 $2 Ba8 4. c6 Ng6) Bxc6 4. Kc5 Ba8 (Bg2 5. Kd6) 5. Kd6 (5. Kb6 $2 Ne6) Nd5 6. c3 $1 Kg6 (Nxc3 {<main>} 7. Kc7 (7. a5 $2 Nd5) Nxa4 (Nd5+ 8. Kb8 Nb6 9. a5) 8. Kb8 Nb6 9. Kc7 Na4 10. Kb8) 7. Kd7 (7. a5 $2 Kxg5 8. Kd7 Kf6 9. Kc8 Ke7 10. c4 Nb4 11. Kb8 Kd8) Bb7 $1 8. a5 (8. c4 $2 Nb4 9. Kc7 Bg2) Kxg5 9. a6 Ba8 10. Kc8 Nb6+ 11. Kc7 (11. Kb8 $2 Bg2) Nc4 12. Kb8 1/2-1/2
+
+[Event "L'Italia Scacchistica#581 (v)"]
+[Source "(v): Farago=P L'Italia Scacchistica#659 1957."]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p5p1/P1p5/1p3P2/kp1Ppp2/5p1K/B1q4R/8 w - - 0 1"]
+
+1. Rxc2 $1 b3 (e3 2. Bf7 $1 b3 3. Rc1 b2 4. Rb1 e2 5. Bh5 Kb3 6. Bxf3 Kc2 7. Be4+ Kd2 8. Rxb2+ Ke3 9. Rxe2+ Kxe2 10. Bxc6) 2. Bb1 $1 bxc2 3. Bxc2+ Kb4 4. Bxe4 Kc4 5. Bxc6 b4 6. Bxf3 (6. d5 $2 Kc5) Kxd4 (b3 7. Kg4 Kxd4 8. Kxf4) 7. Kg4 Ke3 8. Bd5 Kd4 9. Bf7 Ke3 10. Bd5 1/2-1/2
+
+[Event "2.hm Revista de Romana de Sah#0314 (tw)"]
+[Source "Revista de Romana de Sah/12"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3K4/8/6R1/4p1p1/p7/5P2/7k w - - 0 1"]
+
+1. Re5 $1 (1. Ke6 $2 e3 2. fxe3 g3 3. Rxg3 a2) (1. Ra5 $2 Kg2) (1. Rc5 $2 Kg2 2. Rc2 Kf3 3. Ke6 e3 4. fxe3 g3) a2 $1 (e3 2. Rxe3 Kg2 (a2 3. Ra3) 3. Rg3+ Kxf2 4. Rxg4) (g3 2. fxg3 a2 3. Ra5 Kg2 4. g4) (Kg2 2. Rxe4 Kf3 3. Ra4) 2. Ra5 $1 Kg2 3. Rxa2 g3 (Kf3 4. Ke6 e3 (g3 5. fxg3 Kxg3 (e3 6. Kf5) 6. Ke5 (6. Kf5 $2 Kf3) Kf3 7. Kd4) 5. fxe3 Kxe3 (g3 6. Kf5 g2 7. Rxg2) 6. Kf5 g3 7. Kg4) 4. f4+ $1 Kh1 (Kh3 {<eg>} 5. f5 g2 6. Ra1 Kh2 7. f6) (Kf1 5. Ra1+) 5. Ra1+ Kh2 6. f5 1-0
+
+[Event "3.hm Tijdschrift v.d. KNSB#516"]
+[Source "Tijdschrift v.d. KNSB/3"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/N5p1/6P1/pp5P/7k/K7 w - - 0 1"]
+
+1. h4 $1 gxh4 2. g5 h3 3. g6 Kg2 4. g7 h2 5. g8=Q+ Kf2 6. Qd5 $1 Kg1 7. Qd1+ Kg2 8. Qg4+ Kf2 9. Qh3 b2+ 10. Ka2 Kg1 (b1=Q+ { <main>} 11. Kxb1 Kg1 12. Qg3+ Kh1 13. Qg7 a2+ 14. Kc2 a1=Q 15. Qxa1+ Kg2 16. Qg7+) 11. Qg3+ Kh1 12. Qg6 $1 b1=Q+ 13. Qxb1+ Kg2 {<eg>} 14. Qe4+ Kg1 15. Qe1+ Kg2 16. Nc4 h1=Q 17. Ne3+ Kh2 18. Qh4+ Kg1 19. Qg3+ 1-0
+
+[Event "Shakhmaty v SSSR#07"]
+[Source "Shakhmaty v SSSR/3"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/8/2kPKp1p/2p4P/2P5/3P4/8 w - - 0 1"]
+
+1. d6 $1 (1. Kxf5 $2 Kxd5 2. Kg5 Ke5 3. Kxh5 Kf5 4. Kh6 Kf6 5. h5 c6 6. Kh7 Kf7 7. h6 c5) cxd6+ 2. Kxf5 Kd5 (d5 3. Kg5 d4 4. Kxh5 Kd5 (dxc3 5. dxc3 Kd5 6. Kg4) 5. Kg4 Ke4 6. h5 Kd3 7. cxd4 (7. h6 $2 Kxd2 8. h7 dxc3 9. h8=Q c2) Kxd4 8. h6) 3. Kg5 Ke5 4. Kxh5 Kf5 5. Kh6 Kf6 6. h5 d5 7. Kh7 Kf7 8. h6 1-0
+
+[Event "Shakhmaty v SSSR#04 (m)"]
+[Source "Shakhmaty v SSSR/1 (m): 64 Shakhmatnoye Obozrenye=7 4/1983."]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/7p/2P5/2p5/8/R3K1kr w Q - 0 1"]
+
+1. O-O-O+ $1 (1. Ke2+ $2 Kg2 2. Rxh1 Kxh1 3. c5 c2 4. Kd2 c1=Q+ 5. Kxc1 h4 6. c6 h3 7. c7 h2 8. c8=Q Kg1) Kg2 2. Rxh1 Kxh1 3. c5 h4 4. c6 h3 5. c7 h2 6. c8=Q c2 7. Kd2 1-0
+
+[Event "Shakhmaty v SSSR#35"]
+[Source "Shakhmaty v SSSR/9"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6b1/6k1/1Pn5/P1P3P1/P7/K1P4n/8/8 w - - 0 1"]
+
+1. a6 $1 Bc4 (Bd5 2. b7) 2. a7 Nxa7 3. bxa7 Bd5 4. Kb4 $1 Nf4 5. c6 $1 Bxc6 6. Kc5 Ba8 7. Kd6 Nd5 8. Kd7 Bb7 (Nxc3 9. Kc7) 9. a5 Kg6 10. a6 Ba8 11. Kc8 Nb6+ 12. Kc7 1/2-1/2
+
+[Event ".c Schakend Nederland#0862"]
+[Source "Schakend Nederland/11"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Farago, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4P3/2pP2k1/8/r5pB/6K1/8 w - - 0 1"]
+
+1. e7 $1 Ra8 (Ra2+ 2. Kxg3 Ra8 3. Bd7 $1 Kf6 4. e8=Q $1 Rxe8 5. Bxe8 Ke5 6. Bc6) 2. Bc8 $1 Rxc8 3. d6 Kf6 4. d7 1-0

@@ -1,0 +1,12 @@
+[Event "source unknown"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Vukovic, C"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4R3/8/8/2K5/k7/3pp3/5p2/8 w - - 0 1"]
+
+1. Kc4 $1 Ka3 (Ka5 2. Kc5 Ka6 3. Kc6 Ka7 4. Re7+ Kb8 5. Re8+ Ka7 6. Re7+ Ka6 7. Re8) 2. Kc3 $1 Ka2 3. Rf8 $1 d2 (e2 4. Rxf2) 4. Kc2 Ka3 5. Kd1 Kb3 6. Ke2 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "Problemisten#346"]
+[Source "Problemisten/9-10"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Kolberg, Oddmund"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/3P4/2P5/8/8/8/pr6/R3K3 w Q - 0 1"]
+
+1. c7+ $1 Kxc7 2. d8=Q+ Kxd8 3. O-O-O+ Kc7 4. Kxb2 1-0

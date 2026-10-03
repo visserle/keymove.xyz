@@ -1,0 +1,13 @@
+[Event "The Chess Monthly"]
+[Source "The Chess Monthly/3"]
+[Date "1884.??.??"]
+[Round "?"]
+[Composer "Cassidy, F"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/3kP3/p7/8/1PK5/8 w - - 0 1"]
+
+1. Kb1 $1 (1. e6 $2 Kxe6) (1. Kc3 $2 a3 $1 2. bxa3 (2. b4 Kxe5 3. Kb3 Kd6 4. Kxa3 Kc6 5. Ka4 Kb6) (2. b3 Kxe5 3. Kc2 Kd5) Kxe5 3. Kc4 Kd6 4. Kb5 Kc7 5. Ka6 Kb8) a3 (Kxe5 2. Ka2 a3 3. Kxa3) 2. b3 $1 (2. b4 $2 Kxe5 3. Ka2 Kd6 4. Kxa3 Kc6 5. Ka4 Kb6) Kxe5 3. Ka2 Kd6 4. Kxa3 Kc6 5. Ka4 $1 Kb6 6. Kb4 1-0

@@ -1,0 +1,13 @@
+[Event "Bulletin Ouvrier des Échecs#018"]
+[Source "Bulletin Ouvrier des Échecs/11"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Hesse, J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/1pp5/p6p/P1P5/1P6/5k2/2P5/8 w - - 0 1"]
+
+1. c6 $1 bxc6 2. c4 Ke4 (h5 3. b5 h4 4. bxa6 h3 5. a7 h2 6. a8=Q h1=Q 7. Qxc6+) 3. b5 cxb5 4. cxb5 Kd5 5. bxa6 Kc6 6. Kf8 (6. Kf7 {<or>}) h5 7. Ke8 (7. Ke7 {<or>}) h4 8. Kd8 h3 9. Kc8 h2 10. a7 h1=Q 11. a8=Q+ 1-0

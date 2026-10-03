@@ -1,0 +1,15 @@
+[Event "2.p München Olympiad Deutsche Schachblä"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Elekesh, Dezco"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "6kB/6P1/8/2p5/8/2p1p3/8/2K5 w - - 0 1"]
+
+1. Kd1 $1 (1. Kc2 $2 e2 2. Kxc3 e1=Q+ $19) (1. Kb1 e2) c4 2. Kc1 $1 (2. Kc2 $2 e2 3. Kxc3 e1=Q+ $19) (2. Ke2 $2 c2 $19 3. Kxe3 c3) (2. Ke1 $2 c2 $19) e2 3. Kc2 (3. Kb1 $2 e1=Q+ 4. Ka2 Qd1) e1=R $1 (e1=Q) 4. Kxc3 Re4 5. Kb4 (5. Kc2 $2 Re6 $19 6. Kd2 Rc6) (5. Kd2 $2 Re6 $19 6. Kc2 Rc6) (5. Kb2 $2 Re6 $19 6. Kc2 Rc6) Rg4 6. Kc3 (6. Kc5 $2 c3 $19 7. Kd6 Rg5) (6. Ka4 Rg6 7. Kb4 Rc6) (6. Kb5 c3) (6. Ka5 c3) Kf7 7. Kb4 (7. g8=Q+ $2 Rxg8 $19 8. Kxc4 Rxh8) (7. Kc2 $2 Rg3 8. g8=Q+ Rxg8 $19) (7. Kd2 $2 Rg3 8. g8=Q+ Rxg8) Ke7 8. Kc5 $1 (8. Kc3 $2 Ke6 9. Kb4 Kd5 10. g8=Q+ Rxg8 $19) (8. g8=Q $2 Rxg8 $19 9. Bf6+ Kxf6 10. Kxc4 Ke5) (8. Ka3 $2 Ke6 $19 9. Kb2 Rg2+) (8. Ka4 $2 Kd6 $19 9. Kb4 Kd5) (8. g8=N+ $2 Rxg8 $19 9. Bf6+ Kxf6 10. Kxc4 Ke5) (8. Kb5 $2 Kd6) (8. Ka5 Ke6) Ke6 9. g8=Q+ (9. g8=N $10) (9. g8=B+ Rxg8 10. Bb2 $10) (9. g8=R $10) (9. Kb4 $2 c3+ 10. Kb3 $10 Rxg7 11. Bxg7) (9. Kc6 $2 c3 $19 10. g8=B+ Rxg8 11. Bxc3 Rc8+) (9. Kb5 $2 Kd5 $19 10. g8=B+ Rxg8) (9. Kb6 $2 Kd5) Rxg8 10. Bc3 Rc8+ 11. Kd4 $10 (11. Kb4 $2 Kd5 $19 12. Bb2 Rf8) (11. Kb5 $2 Kd5 $19 12. Kb6 Rb8+) (11. Kb6 $2 Kd5 $19 12. Kb7 Rf8) Rc6 12. Bb4 Kd7 13. Ba5 Kc8 14. Be1 Kc7 15. Kc3 Kb6 16. Kb4 1/2-1/2

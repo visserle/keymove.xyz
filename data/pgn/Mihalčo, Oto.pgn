@@ -1,0 +1,39 @@
+[Event "1.c Sachové Umenie#6122 (c)"]
+[Source "Sachové Umenie/2 (c): Garcia=M Estudios Artisticos de Ajedrez - VII-33 2012."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Mihalčo, Oto"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p1N/p2p4/p4p1P/k6p/2P4P/KP2pP2/8 w - - 0 1"]
+
+1. Ng5 $1 e1=Q 2. Nf3 Qe6+ 3. Ka1 f4 (f6 4. Nd4 Qf7 5. h6 f4 6. h7 Qxh7 7. Ka2 Qf7+ 8. b3+ Qxb3+ 9. Nxb3 Kb5 10. Nd2 a4 11. Nf3 Kc4 12. Nxh4) 4. Nd4 Qe1+ 5. Ka2 Qxf2 6. h6 Qxd4 7. cxd4 f3 8. h7 f2 9. h8=Q f1=Q 10. Qb8 $1 Qb5 11. b3+ Kb4 12. Qxd6+ Kc3 13. Qc5+ Kd3 14. Qxb5+ axb5 15. d5 Kc2 16. Ka3 Kc3 17. d6 b4+ 18. Ka4 1-0
+
+[Event "Fritz JT"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Mihalčo, Oto"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/K4k1p/7P/N6P/7P/2p5/p7/7B w - - 0 1"]
+
+1. Bd5+ $1 Kf8 2. Bxa2 c2 3. Nb3 Kg8 4. Nc1+ Kh8 5. Bg8 $1 Kxg8 6. Kb6 Kf7 7. Kc5 Ke6 8. Kc6 Ke7 9. Kd5 Kf6 10. Ke4 Ke6 11. Ne2 Kf6 12. Kf4 Ke7 13. Ke3 Kf6 14. Ke4 Ke7 15. Kd3 Kf6 16. Kxc2 Kf5 17. Kd3 1-0
+
+[Event ".c Nedelna Pravda#1359"]
+[Date "1982.09.03"]
+[Round "?"]
+[Composer "Mihalčo, Oto"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/p2pP3/k2P4/5p1p/KP6/8 w - - 0 1"]
+
+1. e6 $1 f2 (h2 {<main>} 2. e7 h1=Q 3. e8=Q+ Kb4 4. Qc6 $1 Qd1 5. Qc5+ Ka4 6. Qxd5 $1 Qc2 7. Qxf3 Kb4 (Kb5 8. Qb3+ Qxb3+ 9. Kxb3) 8. Qc3+ $1 Qxc3 9. bxc3+) (Kb4 2. e7 f2 (h2 3. e8=Q h1=Q 4. Qc6) 3. e8=Q) 2. e7 f1=Q 3. e8=Q+ Qb5 (Kb4 4. Qe7+ (4. Qb8+ $2 Kc4 $1) Kc4 (Kb5 5. Qb7+ Kc4 6. Qa6+) (Ka4 5. b3+ (5. Qd7+ $2 Qb5 $1) Kb5 6. Qb7#) 5. Qc5+ Kd3 6. Qb5+) 4. b3+ Kb4 5. Qe1# 1-0

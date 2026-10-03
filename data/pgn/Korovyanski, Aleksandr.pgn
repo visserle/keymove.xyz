@@ -1,0 +1,13 @@
+[Event "1.hm Sverdlovsk ty Na Smenu!"]
+[Source "EG#00576. also 5.c Merani Zarja Vostoka 1970."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Korovyanski, Aleksandr"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K6/5p2/1k3p2/5P2/3R4/pp1p2P1/Pp1B4/8 w - - 0 1"]
+
+1. Rb4+ $1 (1. Rxd3 $2 bxa2) Ka6 2. Kc7 (2. Rxb3 $2 b1=Q 3. Rxb1) b1=Q (bxa2 3. Rb6+ Ka7 4. Be3) 3. Rb6+ Ka7 4. Be3 Qc2+ (Qe1 5. Re6+ Qxe3 6. Rxe3) 5. Rc6+ Ka8 6. Bc5 $1 Qc4 7. Kb6 $1 Qb5+ 8. Kxb5 Kb7 9. Bxa3 1-0

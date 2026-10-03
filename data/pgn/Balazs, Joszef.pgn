@@ -1,0 +1,55 @@
+[Event "4.hm Magyar Sakkélet#0353"]
+[Source "Magyar Sakkélet/9"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Balazs, Joszef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/8/4p2P/5p2/8/p2Rp2p/P3P2p/2q3bK w - - 0 1"]
+
+1. h7+ $1 Kxh7 (Kf7 2. Rd7+ Kg6 3. Rg7+ Kf6 4. h8=Q Qc6+ 5. Rg2+ Ke7 6. Qd8+ Kf7 7. Qf8+ Kxf8) 2. Rd7+ Kg6 3. Rg7+ Kf6 4. Rf7+ $1 Ke5 5. Rxf5+ $1 Kd4 6. Rc5 $1 Qb1 7. Rc4+ Ke5 8. Rc5+ Kf6 9. Rf5+ Ke7 10. Rf7+ Kd6 11. Rd7+ Kc5 12. Rc7+ $1 Kd4 13. Rc4+ $1 Kxc4 1/2-1/2
+
+[Event "3.p Blanar MT Magyar Sakkélet#0561"]
+[Source "Magyar Sakkélet/9"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Balazs, Joszef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2B5/1p6/1P6/1K6/p6p/k7 w - - 0 1"]
+
+1. Bh1 $1 (1. Ka3 $2 Kb1 2. Be4+ Ka1 3. Bd5 Kb1 4. Bxa2+ Kc1 5. Bd5 Kc2 $1) (1. Be4 $2 h1=Q 2. Bxh1 Kb1 3. Be4+ Ka1 $1) Kb1 2. Be4+ Ka1 3. Ka3 $1 h1=Q 4. Bxh1 Kb1 5. Be4+ Ka1 6. Bd5 $1 Kb1 7. Bxa2+ 1-0
+
+[Event "Elekes Dezso MT Magyar Sakkélet#0639"]
+[Source "Magyar Sakkélet/6 EG#00437."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Balazs, Joszef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/5b1p/P6P/3p4/p7/Pp1p2p1/1P1P3p/7K w - - 0 1"]
+
+1. a7 $1 d4 2. a8=R+ $1 (2. a8=Q+ $2 Bg8 3. Qa5 Bd5+ 4. Qxd5 g2+ 5. Kxg2 h1=Q+ 6. Kxh1) (2. a8=B $2 g2+ 3. Kxg2 Bd5+ 4. Bxd5 h1=Q+ 5. Kxh1) Bg8 3. Ra5 Be6 4. Rb5 $1 (4. Rc5 $2 Bd7) Bf7 5. Rg5 1-0
+
+[Event "2.p Tipografia Magyar Sakkélet#1116"]
+[Source "Magyar Sakkélet/1 1975 EG#02450."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Balazs, Joszef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p4p2/P7/3pP3/5Pk1/4p2p/P3P2p/RB2K3 w Q - 0 1"]
+
+1. Be4 $1 dxe4 2. O-O-O Kxf4 3. Rh1 Kg3 4. Kd1 Kf2 $1 (Kg2 5. Ke1 Kxh1 6. Kf1) 5. a3 $1 Kg3 6. Ke1 Kg2 7. a4 $1 Kg3 8. Kf1 Kg4 9. Rxh2 Kg3 10. Kg1 Kg4 11. Rh1 Kg3 12. a5 Kg4 {<eg>} 13. Kh2 1-0

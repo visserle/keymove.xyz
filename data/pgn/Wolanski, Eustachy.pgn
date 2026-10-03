@@ -1,0 +1,12 @@
+[Event ".hm Szachy (tt)"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Wolanski, Eustachy"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k2K4/p7/p4P2/N7/8/8/4p3/8 w - - 0 1"]
+
+1. f7 $1 e1=Q 2. f8=Q Qxa5+ (Qb4 {<main>} 3. Qf3+ (3. Qxb4 $2) Kb8 4. Nc6+) (Qg3 3. Kd7+ Qb8 4. Qf3+) 3. Kd7+ Kb7 4. Qc8+ Kb6 5. Qc6# 1-0

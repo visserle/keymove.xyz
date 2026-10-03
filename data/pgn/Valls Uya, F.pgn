@@ -1,0 +1,25 @@
+[Event "L'Italia Scacchistica#353"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Valls Uya, F"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/4P3/8/p1pp4/1P4N1/8/2K3n1/8 w - - 0 1"]
+
+1. bxa5 $1 Nf4 2. a6 Ne6 3. a7 Nc7 4. Nf6+ Kxe7 5. Nxd5+ Nxd5 6. a8=Q 1-0
+
+[Event "8.c Enroque"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Valls Uya, F"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/p3p3/P2p4/3P1PpP/2p1Kp2/4nP2/1P1b4/8 w - - 0 1"]
+
+1. h6 $1 Bc1 2. h7 Bxb2 3. f6 $1 Bxf6 4. h8=Q+ Bxh8 1/2-1/2

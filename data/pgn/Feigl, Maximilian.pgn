@@ -1,0 +1,27 @@
+[Event "3.hm La Stratégie#475 (cr)"]
+[Source "La Stratégie/9"]
+[Date "1900.??.??"]
+[Round "?"]
+[Composer "Feigl, Maximilian"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "R5Q1/2pq3p/1p5P/1P6/1PK5/2n1p3/1k6/3b4 w - - 0 1"]
+
+1. Ra2+ $1 Nxa2 (Kxa2 2. Kxc3+ Ka3 (Ka1 3. Qa8+ Kb1 4. Qe4+ Kc1 5. Qxe3+) (Kb1 3. Qd5 Qg4 4. Qe4+ Kc1 5. Qc2+ Bxc2) 3. Qb3+ Bxb3) (Kb1 2. Kxc3 Qf5 3. Ra1+ Kxa1 4. Qa8+ Kb1 5. Qe4+ Qxe4) 2. Qh8+ Kb1 (Nc3 3. Qxc3+ Ka2 4. Qb2+ Kxb2) 3. Qb2+ Kxb2 1/2-1/2
+
+[Event ".c Rigaer Tageblatt"]
+[Date "1909.??.??"]
+[Round "?"]
+[Composer "Feigl, Maximilian"]
+[Composer2 "Lowy, L"]
+[White "Feigl, M"]
+[Black " Lowy, L."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7R/5r2/P1P5/8/8/8/5p1K/5k2 w - - 0 1"]
+
+1. a7 $1 Rxa7 2. Rf8 Rh7+ (Rg7 {<main>} 3. Rf6 $1 Rg2+ 4. Kh1 Rg1+ 5. Kh2 $1 Rg7 6. Rf8 $1 Rg2+ 7. Kh3 Kg1 8. c7 Rh2+ 9. Kg3 Rg2+ 10. Kh3) 3. Kg3 Kg1 4. Rxf2 Rg7+ 5. Kf4 Kxf2 6. Ke5 1/2-1/2

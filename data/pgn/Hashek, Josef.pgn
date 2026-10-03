@@ -1,0 +1,31 @@
+[Event "?"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Hashek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "7k/7b/8/p1P1Kp2/5B2/p7/8/8 w - - 0 1"]
+
+1. c6 (1. Kd6 $2 a2 2. c6 a1=Q 3. Be5+ Kg8 $10) (1. Kf6 $2 Bg8 2. c6 $10) (1. Bc1 $4 a2 $10 2. Bb2) (1. Ke6 $2 Bg8+ 2. Kxf5 Bd5 $10 3. Be5+) (1. Bg5 $4 Kg7) (1. Bd2 $4 f4 2. Kxf4 a2) (1. Kd4 $4 a2 2. Be5+ Kg8) (1. Kd5 $4 a2 2. Be5+ Kg8) (1. Be3 $2 f4 2. Kxf4) (1. Bh6 $4 a2) a2 2. Kf6 (2. Kd6 $2 a1=Q 3. Be5+ $10) (2. Ke6 $2 Bg8+ 3. Kxf5 a1=Q $10 4. Be5+) Bg8 (a1=Q+ 3. Be5 (3. Ke7 $4 Qg7+ 4. Ke6 Bg8+) (3. Kf7 $4 Qg7+ 4. Ke6 Bg8+) (3. Kg5 $4 Qg7+ 4. Kh5 Qg4+) (3. Ke6 Bg8+ 4. Kxf5 Qb1+) Qa2 4. c7 (4. Ke7+ $4 Kg8 $19) (4. Kg5+ $4 Kg8 $19) Qg8 5. Ke7+ $18 (5. c8=Q $4 Bg6 6. Kg5+ Kh7 7. Qxg8+ Kxg8 8. Kxg6) (5. c8=R $4 Bg6 6. Rxg8+ Kxg8 7. Kxg6 $10) (5. Bf4 $4 Qe8 6. Be5 Kg8)) 3. c7 (3. Be5 $2 Bd5 4. c7 Bb7 5. Kxf5+ Kg8 6. c8=Q+) (3. Kxf5 $2 Kh7 4. c7) (3. Kg6 $4 a1=Q 4. Kxf5 Qb1+ $19) (3. Bc7 $4 a1=Q+ 4. Be5 Qe1 5. Kxf5+ Kh7) (3. Kg5 $4 a1=Q 4. Kxf5 Qb1+) (3. Bh2 a1=Q+ 4. Be5 Qe1) (3. Ke7 a1=Q) (3. Ke5 a1=Q+ 4. Kxf5 Qb1+) a1=Q+ 4. Be5 (4. Ke7 $4 Qg7+ 5. Kd6 Qf6+) (4. Kg6 $4 Be6 5. c8=R+ Bxc8) (4. Kxf5 $4 Qb1+ 5. Ke5 Qe1+) Qg1 5. c8=Q (5. Kxf5+ $2 Kh7 6. c8=Q $10) (5. Ke7+ $4 Kh7 $15 $17) Qg4 6. Qa8 (6. Qc1 $4 Ba2 7. Qd2 $14 $10) (6. Qd7 $4 Bc4 7. Qd8+ Kh7 8. Qc7+ Kh8 $10) (6. Qc7 $4 f4 7. Qd7 $10) (6. Qd8 $4 Kh7 7. Qd7+ Kh6 $10) (6. Qe8 $4 Qg7+ $4 (Kh7 $5 7. Bf4) 7. Kxf5 Qxe5+ 8. Qxe5+ Kh7 9. Qe7+) (6. Qc4 $4 Bxc4 7. Ke7+ Kg8) (6. Qe6 $4 Bxe6 7. Kxe6+ Kh7) (6. Bd6 $4 Qh4+ 7. Kg6 Qh7+ 8. Kf6) Qh5 7. Qg2 (7. Qf8 Qf7+ 8. Kg5+ $18) (7. Bd4 Kh7 8. Qg2 Qh4+ 9. Kxf5 Qxd4 10. Qh2+) Qh6+ 8. Qg6 (8. Kxf5+ Kh7 9. Qb7+ $18) (8. Ke7+ $4 Kh7 9. Qb7 $10) Ba2 9. Qxh6+ Kg8 10. Qg7# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Hashek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "6K1/6R1/2r3pr/5Pp1/6P1/B4P2/8/k7 w - - 0 1"]
+
+1. f6 (1. Ra7 $2 gxf5 2. gxf5 $10) (1. Bb2+ $2 Kxb2 2. Rb7+ Kc3 $10 $15) (1. fxg6 $2 Rhxg6 2. Rxg6 Rxg6+ 3. Kf7) (1. Rh7 $2 Rxh7 2. Kxh7 gxf5 3. gxf5 Rh6+ $4 (Kb1 $5) 4. Kxh6) (1. Rxg6 $2 Rcxg6+ 2. fxg6 Rxg6+ 3. Kf7) (1. Bd6 $2 Rxd6 2. Ra7+) (1. f4 $2 gxf4 2. Ra7) (1. Re7 $2 Rh3 2. Re1+) Rxf6 2. Bb2+ (2. Ra7 $6 Rxf3 3. Bf8+ Kb2 4. Bxh6 Rf4 $14) (2. Bf8 $2 Rh4 3. Ra7+ $10) (2. Be7 $2 Rxf3 3. Bf6+ $10 Rxf6 4. Ra7+) (2. Bc5 $2 Rxf3 3. Ra7+ Kb1 $10 $15) (2. Bc1 $2 Rxf3 3. Bxg5 $10) (2. Bb4 $2 Rxf3 3. Ra7+ Kb1 $10 $15) (2. Rf7 $2 Rxf7 3. Kxf7 $10) (2. Rh7 $2 Rxh7 3. Kxh7 Rxf3 4. Bc1 Rf7+ 5. Kh6 Rh7+ $4 (Rf1 $5) 6. Kxh7) (2. Re7 $2 Rxf3 3. Re1+ Ka2) (2. Rc7 Rxf3) Kxb2 3. Rb7+ (3. Rf7 $4 Rh8+ 4. Kg7 Rxf7+ 5. Kxf7 Rh3 $19 6. Kxg6 Rxf3 7. Kxg5 Kc3) (3. f4 $4 Rxf4 4. Rb7+ Kc3 $19) (3. Rxg6 $4 Rhxg6+ 4. Kh8 Rb6) (3. Ra7 $4 Rxf3 $19 4. Rb7+ Kc3) (3. Rh7 $4 Rxh7 4. Kxh7 Rb6) Kc3 4. Kg7 (4. Rc7+ $2 Kd3 5. Kg7 $10) (4. f4 $4 Rxf4 5. Rc7+ Kd4 $19) (4. Ra7 $4 Rb6) (4. Rb8 $4 Rxf3 5. Rc8+ Kb4) Rxf3 $2 (Rf4 $5 5. Kxh6 $18) 5. Kxh6 (5. Rc7+ Kd4 6. Kxh6 $16) (5. Kg8 $4 Rh4 6. Rc7+ Kd2) (5. Ra7 $4 Rfh3 $19) (5. Rb3+ $4 Kxb3 6. Kxh6 Rg3) (5. Rb8 $4 Rh4 6. Rc8+ Kb2) (5. Rf7 $4 Rxf7+ 6. Kxf7 Rh4) (5. Rb6 Rh4) (5. Rb5 Rh4 6. Rxg5 Rg3) Rf4 $4 (Kc4 $5 6. Kxg6 $18) (Kd4 $5 6. Kxg5 $18) 6. Kxg5 $18 (6. Rc7+ Kd4 7. Kxg5 Rf5+ 8. gxf5 gxf5 9. Kxf5) (6. Kxg6 $2 Rxg4 7. Ra7) (6. Rg7 $2 Rxg4 7. Rf7) 1-0

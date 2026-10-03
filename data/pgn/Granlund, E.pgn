@@ -1,0 +1,81 @@
+[Event "Tidskrift for Schack#0091"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Granlund, E"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2R5/p7/P1p5/2p5/K1P5/1pP5/k7/8 w - - 0 1"]
+
+1. Rd8 $1 (1. Rc7 $2 b2 2. Rxa7 b1=Q 3. Rb7 Qd1+ 4. Ka5 Qd8+ 5. Ka4 Qd3 $1 6. Ka5 Qxc3+ 7. Kb6 Qxc4 8. a7 Qb5+ 9. Kc7 Qa5+ 10. Kxc6 c4) b2 2. Rd2 Ka1 3. Rd1+ b1=Q (b1=R 4. Rd6 $1 Rb6 5. Ka5 Kb2 6. Rd7 $1 Kxc3 7. Rxa7 Rb1 8. Rc7 Kxc4 9. Rxc6 Rb5+ 10. Ka4 Rb2 11. Ka5) 4. Ka3 Qxd1 1/2-1/2
+
+[Event "Magyar Sakkélet#0443"]
+[Source "Magyar Sakkélet/10"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Granlund, E"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/5b2/4n1RK/1p2p2R/5k2 w - - 0 1"]
+
+1. Rf3+ $1 Kg1 2. Rxe2 b1=Q 3. Rg3+ $1 Bxg3 (Kf1 { <main>} 4. Rg1+ $1 Kxg1 5. Re1+ Qxe1) 4. Re1+ Qxe1 (Bxe1) 1/2-1/2
+
+[Event "Tidskrift for Schack#1108"]
+[Source "Tidskrift for Schack/4-5"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Granlund, E"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7B/8/4p1p1/1pp1P2N/1p4K1/3p1B2/5k2 w - - 0 1"]
+
+1. Nf3 $1 d1=Q 2. Bg8 Ke2 (Qd3 3. Bxc4 Qxc4 4. Nd2+ Ke2 5. Nxc4 Kd3 6. Nxe5+ Kxe4 7. Nc4 Kd3 8. Nb2+ Kc3 9. Na4+) 3. Bxc4+ Qd3 4. Bxd3+ Kxd3 5. Nxe5+ Kxe4 6. Nc4 Kd3 7. Nb2+ Kc2 (Kc3 8. Na4+) 8. Bd4 1-0
+
+[Event "Ceskoslovensky Sach#061"]
+[Source "Ceskoslovensky Sach/5"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Granlund, E"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/2p1R1p1/2Pp2P1/3P4/2pp2PK/3p2R1/5n1k w - - 0 1"]
+
+1. g4 $1 d1=Q 2. Rh2+ Nxh2 3. Re1+ Nf1 (Qxe1) 4. Rxd1 Kg1 5. Rxd3 c2 6. Rc3 Ne3 7. Rxe3 c1=Q 8. Re1+ Qxe1 1/2-1/2
+
+[Event "Tidskrift for Schack#1242"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Granlund, E"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/7K/1PPk2N1/7p/8/8/8 w - - 0 1"]
+
+1. c6 $1 (1. Ne4 $2 h3 2. c6 h2 3. Ng3 bxc6 4. b6 Kd6) bxc6 2. b6 h3 3. Nxh3 Kd6 4. Nf4 $1 Kd7 (c5 5. Nd5) 5. Ne6 Kc8 6. Nc5 1-0
+
+[Event "Tidskrift for Schack#1332 (s)"]
+[Source "Tidskrift for Schack/11"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Granlund, E"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p7/8/1Bp5/p7/K7/P2p4/3k4 w - - 0 1"]
+
+1. Kb2 $1 a3+ 2. Kxa3 Kc1 (a5 3. Kb2 Ke1 4. Ba4) 3. Be2 c4 (a5 4. Kb3) 4. Kb4 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "3.p Volzhskaja Zarja"]
+[Source "EG#06837."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Yurlov, N"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/P2R4/1kP5/8/3p4/r6N/4K3 w - - 0 1"]
+
+1. c6 $1 d2+ 2. Kd1 Ra1+ 3. Kxd2 Rxa6 4. Nf3 Kc5 5. c7 Rxd6+ 6. Nd4 Rxd4+ 7. Ke3 1-0

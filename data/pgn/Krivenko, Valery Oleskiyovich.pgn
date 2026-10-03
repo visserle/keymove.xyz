@@ -1,0 +1,27 @@
+[Event "Canadian Chess Chat#064 (s)"]
+[Source "Canadian Chess Chat/11"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Krivenko, Valery Oleskiyovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2b5/1k6/8/8/pN6/P5R1/1p2K1P1/8 w - - 0 1"]
+
+1. Rg7+ $1 Ka8 2. Nc6 Bb7 3. Rg8+ Bc8 4. Rxc8+ Kb7 5. Rb8+ Ka6 6. Nd4 (6. Ne5 {<or >}) (6. Ne7 {<or>}) (6. Rxb2 $2) 1-0
+
+[Event "Buletin Problemistic#286 (c)"]
+[Source "Buletin Problemistic/1-6 (c): Buletin Problemistic=58 7-12/1982."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Krivenko, Valery Oleskiyovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p6k/1p1P2pp/p2nr3/1pP5/3P4/7P/K6R w - - 0 1"]
+
+1. d7 $1 (1. c5 $2 Nc3 $1) (1. d4 $2 Re8 $1) (1. cxd5 $2 Rxd5 $1) Nc3 (Re2 2. cxd5) 2. Kb2 (2. d8=Q $2 Re2) Re2+ (a4 3. Rc1 Re2+ 4. Rc2 a3+ 5. Kb3) 3. Kb3 Ne4 $1 4. d4 $1 (4. d8=Q $2 Nc5#) Rd2 (Nc5+ 5. dxc5 Rd2 6. c6) 5. Rd1 $1 Rxd1 6. d8=Q 1-0

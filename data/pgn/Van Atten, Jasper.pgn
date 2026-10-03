@@ -1,0 +1,13 @@
+[Event "Schakend Nederland#1689"]
+[Source "Schakend Nederland/5"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Van Atten, Jasper"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/p4P2/P1K5/8/6B1/7p/5r1B/8 w - - 0 1"]
+
+1. Be6 $1 (1. Bc8 $2 Rc2+ 2. Kd7 Rxc8 3. Kxc8) Rxf7 (Rf6 2. Bd6 $1 h2 3. Bd5) (Rc2+ 2. Kd7 Rd2+ 3. Bd6) 2. Bd5 (2. Bc8 $2 Rf6+ 3. Bd6 Rxd6+ 4. Kxd6 Kb8) (2. Bd6 $2 h2 3. Bd5 h1=Q 4. Bxh1 Rf1 5. Be4 Re1 6. Bd5 Rd1 7. Be6 Re1 8. Bc8 Rc1+ 9. Kd7 Rxc8 10. Kxc8) Rf5 3. Be4 Rd5 $1 4. Bg1 $1 Re5 5. Bh1 $1 (5. Bf3 $2 Rf5 6. Bh1 Rf7 $1 7. Bh2 Rf1 8. Be4 Re1 9. Bd5 Rd1 10. Bg1 h2 $1 11. Bxh2 Rxd5) Rg5 {<eg>} 6. Kc7+ Rg2 7. Kc8 h2 8. Bxg2# 1-0

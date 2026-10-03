@@ -1,0 +1,1391 @@
+[Event "ts22#355"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4bKP1/2n3p1/5Ppk/4bP1p/p5PB/2P5/8 w - - 0 1"]
+[PlyCount "22"]
+[WhiteTeam "Shakhmatny Listok"]
+
+1. c4 (1. g8=Q $143 Bd5+ 2. Kg7 Bf6+ 3. Kxf6 Bxg8 4. g4+ Kh6 5. fxg5+ Kh7 6. fxg6+ Kh8 7. g7+ Kh7 8. g6+ Kh6 9. g5+ Kh5 $19 10. Bg4+ Kxg4 $19) Bd3 2. g8=Q Bxc4+ {(le pion c a été éliminé)} 3. Kg7 Bf6+ 4. Kxf6 Bxg8 5. g4+ Kh6 6. fxg5+ Kh7 7. fxg6+ Kh8 8. g7+ Kh7 9. g6+ Kh6 10. g5+ Kh5 11. Bg4+ Kxg4 $11 {pat} 1/2-1/2
+
+[Event "1.p tp18"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5Q2/PP1B1P2/1P6/2B5/1p1P4/7p/nPR1bp1P/3k3K w - - 0 1"]
+[PlyCount "23"]
+[WhiteTeam "Pravda"]
+
+1. Rd2+ Kc1 (Kxd2 $2 2. Qh6+ Kc2 3. Qxh3 $18) 2. Rd1+ (2. Rc2+ $143 Kb1 3. Rc1+ Nxc1 4. Bf5+ Kxb2 5. Bxh3 Bf3+ 6. Bg2 f1=Q#) Kxd1 3. Ba4+ b3 $1 4. Bxb3+ Ke1 5. Bb4+ Nc3 6. Bxc3+ Kf1 7. Bc4 Bxc4 8. Qc5 $1 (8. Qd6 $143 Bd3 9. Qe6 Be4+ 10. Qxe4 $11) Bd3 9. Qb5 $1 Bxb5 10. b8=N $1 Bd3 11. a8=B $1 (11. a8=Q $143 Be4+ 12. Qxe4 $11) Be2 12. f8=R $1 (12. f8=N $143 Bb5 13. Bf3 (13. Ne6 $143 Ke2 14. Nf4+ Ke3 15. Ng2+ hxg2+ 16. Bxg2 Be2 17. h4 Bf3 18. Kh2 Bxg2 19. Kxg2 Ke2 20. Kg3 f1=Q $19) Be2 14. Be4 $11) (12. f8=Q $143 Bf3+ 13. Qxf3 $11) 1-0
+
+[Event "1/2.p wn01 tk48"]
+[Source "3.p USSR Study Composition champ 1929."]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2b5/P1n1Ppp1/P2p4/3P2PK/5k1P/8/4B2P/8 w - - 0 1"]
+[PlyCount "11"]
+[WhiteTeam "Mat-Pat - Kavkaz ty"]
+
+1. g6 $1 (1. e8=Q $143 $2 Nxe8 2. a8=Q Bf5 $1 3. Qxe8 Bg6#) (1. a8=Q $2 Bf5) f5 (fxg6+ 2. Kxg6 Bd7 3. h5 Be8+ 4. Kxg7) 2. Bb5 $1 (2. a8=Q $143 Ne8 $18 {(mat au suivant)}) Ne8 $1 (Nxd5 3. e8=N $1 Nb6 4. Nxg7) (Nxb5 3. e8=Q Nc7 4. Qxc8 $1) 3. Bxe8 Bxa6 4. Bb5 $1 (4. a8=Q $2 Be2#) Bxb5 5. e8=R $1 (5. e8=Q $2 Be2+ 6. Qxe2 $11) Bxe8 6. a8=R $1 $18 (6. a8=Q $143 $2 Bb5 7. Qa2 Be2+ 8. Qxe2 $11) Bb5 7. Ra2 1-0
+
+[Event ".c ti05"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/4bP1P/B7/5P2/1p5p/4pPB1/1q6/4K1R1 w - - 0 1"]
+[PlyCount "15"]
+[WhiteTeam "Isvestia"]
+
+1. h8=Q+ Qxh8 2. Be5 $1 Qxe5 (Qh7 $144 3. Bc4 $18) (Qh6 $144 3. Rg8+ Kxf7 4. Bc4+ $18) (Qh5 $144 3. Rg8+ Kxf7 4. Bc4#) 3. Rg8+ Kxf7 4. Bc4+ Kf6 5. Rg6+ Kxf5 6. Bd3+ Kf4 7. Rg4+ Kxf3 8. Be2# 1-0
+
+[Event "1/2.p ts23 {c}"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2r5/Q5p1/P5p1/4p2P/1p6/2b5/2P4p/k1K2B2 w - - 0 1"]
+[PlyCount "21"]
+[WhiteTeam "Shakhmaty v SSSR"]
+
+1. Qb7 (1. Bg2 $143 Rd8 $19) (1. Qd7 $143 Bb2+ 2. Kd2 h1=Q 3. Qxc8 Qxf1 4. a7 Bc1#) e4 $1 (Rd8 $144 2. Bd3 e4 3. Qxe4 Re8 4. a7 $18) (Rf8 $144 2. Bd3 Rf7 3. a7 h1=Q+ 4. Qxh1 Rxa7 5. hxg6 $18) 2. Qxe4 (2. Qxc8 $143 h1=Q 3. Qh3 Qxh3 4. Bxh3 $11) Re8 $1 (Rd8 $144 3. Bd3 Re8 4. a7 h1=Q+ 5. Qxh1 $18) 3. a7 $1 (3. Qxe8 $144 Bb2+ 4. Kd1 (4. Kd2 $144 Bc3+ 5. Ke2 h1=Q 6. hxg6 Qh2+ 7. Kd3 Qd6+ 8. Ke4 Qd4+ 9. Kf3 Qf6+ 10. Kg2 Qg5+ 11. Kh1 Qh4+ 12. Kg2 Qg4+ $11) h1=Q 5. Qe2 Qd5+ 6. Qd3 Qxh5+ 7. Be2 Qh1+ $11) h1=Q $1 (Bb2+ $144 4. Kd2 Rxe4 5. a8=Q+ $18) 4. a8=Q+ $1 Rxa8 5. Qxh1 Re8 $1 6. Be2 $1 Rd8 (Rxe2 $144 7. Qa8#) (b3 $144 7. cxb3 Rxe2 8. Qf3 Bb2+ 9. Kd1 $18) 7. Bd3 Re8 8. Be4 (8. Kd1 $143 Re1+ 9. Qxe1 Bxe1 10. Kxe1 gxh5 $11) Rd8 9. Bd5 Re8 10. Be6 $1 Rd8 11. Bd7 $1 $18 1-0
+
+[Event "1.p tt27"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2B5/pR6/2pP1k2/8/6Kb/4p1P1/5p2/8 w - - 0 1"]
+[PlyCount "19"]
+[WhiteTeam "Trud"]
+
+1. d7 Ke7 (f1=Q $144 2. d8=Q+ $18) 2. Rb8 $1 Bxg3 (f1=Q $144 3. d8=Q+ Kxd8 4. Ba6+ Kc7 5. Bxf1 Kxb8 6. gxh4 $18) 3. Ra8 $1 (3. Kxg3 $143 f1=Q 4. d8=Q+ Kxd8 5. Ba6+ Kc7 6. Rb7+ Kc8 7. Rb6+ Kc7 8. Rb7+ Kc8 9. Rxa7+ Kb8 10. Rb7+ Ka8 11. Bxf1 Kxb7 $11) f1=Q 4. d8=Q+ Kxd8 5. Ba6+ Bb8 $3 6. Bxf1 Kc7 7. Ba6 e2 $1 8. Bxe2 Kb7 9. Bf3 Kxa8 10. Bxc6# 1-0
+
+[Event "1/2.p t001#76 {v}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4N3/2PP2P1/6b1/2bN3k/6p1/p7/K1pn4/8 w - - 0 1"]
+[PlyCount "15"]
+[WhiteTeam "64"]
+
+1. Nf4+ {(Les Blancs sont sous la menace d'un mat en 2 : .... Nc1+ Ka1 Nb3#)} Kh6 2. g8=N+ Kh7 3. Ngf6+ Kh6 (Kh8 $144 4. Nxg6#) 4. Nxg4+ Kh7 5. Nef6+ Kg7 6. Ne6+ Kf7 7. d8=N+ Ke7 8. c8=N# 1-0
+
+[Event "2.p ts23"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5KBk/3p1P1P/3P1P2/6r1/8/8/1p4p1/7Q w - - 0 1"]
+[PlyCount "27"]
+[WhiteTeam "Shakhmaty v SSSR"]
+
+1. Qg1 b1=Q 2. Qxb1 g1=Q 3. Qxg1 Rg3 $3 (Rxg1 $144 4. Ke7 Re1+ 5. Kxd7 $18) (Rg2 $144 4. Ke7 Re2+ 5. Qe3 $1 (5. Kxd7 $143 Re7+ 6. Kc6 Rc7+ {(Tour folle)}) Rxe3+ 6. Kxd7 $18) 4. Qg2 $1 (4. Ke7 $143 Re3+ 5. Kxd7 Re7+ 6. Kc6 Rc7+ {(Tour folle)}) Rg4 $1 5. Qg3 $1 Rg5 $1 6. Qg4 $1 Rxg4 7. Ke7 Re4+ 8. Kxd7 Rd4 9. f8=Q Rxd6+ 10. Ke7 Rd7+ 11. Ke6 Re7+ (Rd6+ $144 12. Ke5 $18) 12. Kd6 Rd7+ 13. Ke5 Re7+ 14. Be6+ $18 1-0
+
+[Event "ts20#107"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[Composer2 "Troitsky, Alexey Alexeyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "R7/PB3p2/P4P2/1r2NP1P/8/6pk/6p1/6Kb w - - 0 1"]
+[PlyCount "17"]
+[WhiteTeam "Shakhmaty"]
+
+1. Be4 Rxe5 2. Re8 Rxe8 (Rc5 $144 3. Bc2 Rxc2 4. Re1 $18) 3. a8=B $1 (3. a8=Q $143 Rxe4 4. Qxe4 $11) Rd8 4. Bad5 $1 Rc8 5. Bc6 Rd8 6. Bf3 Rb8 7. Bd1 Rb2 (Rb1 $144 8. Bcf3 $18) 8. h6 (8. a7 $143 Rf2 9. Bb5 Ra2 10. Bba4 Rf2 11. Bb5 Ra2 12. h6 Rxa7 13. Be8 Ra8 14. Bda4 $11) Rf2 9. Bb5 $18 1-0
+
+[Event "t001"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/P1P3P1/P2n4/8/1n1pP1P1/3P1b1B/3P1p2/5Kbk w - - 0 1"]
+[PlyCount "17"]
+[WhiteTeam "64"]
+
+1. a8=B $3 (1. a8=Q $143 Nc4 2. dxc4 d3 3. e5 Nc6 (Nd5 $144 4. Qxd5 Kh2 5. Qxd3 Bg2+ 6. Bxg2 $11 {pat}) 4. Qxc6 Kh2 5. Qxf3 $11 {pat}) Nc4 $1 2. dxc4 d3 3. e5 Bxa8 4. c8=B $3 (4. c8=Q $143 Bf3 5. Qb7 Nc6 (Nd5 $144 6. Qxd5 Kh2 7. Qxd3 Bg2+ 8. Bxg2 $11 {pat}) 6. Qxc6 Kh2 7. Qxf3 $11 {pat}) Bf3 $1 5. Bb7 Nc6 $1 6. Bxc6 Bxc6 7. g8=B $3 (7. g8=Q $143 Bf3 8. Qd5 Kh2 9. Qxd3 Bg2+ 10. Bxg2) Bf3 8. Bd5 Kh2 9. Bxf3 $18 1-0
+
+[Event "2/3.hm ws08 @2"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/P1p3p1/KpP2pPP/1P6/1p2PPr1/pP1B4/8/8 w - - 0 1"]
+[PlyCount "43"]
+[WhiteTeam "Sverdlovsk Ty"]
+
+1. h7 Rh4 2. Bb1 a2 $1 (Rh2 $144 3. Ba2 $18) 3. Bxa2 Rh1 (f5 $144 4. Bb1 $3 (4. exf5 $143 Rh2 5. Bb1 Ra2+ 6. Bxa2 $11) Rh2 5. Bc2 $1 (5. exf5 $143 Ra2+ 6. Bxa2 $11) Rh1 6. Bd1 Rh2 7. Be2 Rh1 8. Bf1 Rh2 9. Bg2 Rh4 10. exf5 Rh1 11. Bf1 Rh2 12. Be2 Rh1 13. Bd1 Rh2 14. Bc2 Rh1 15. Bb1 Rh4 16. f6 Rh2 17. Bc2 $1 (17. f5 $143 gxf6 $11) Rh1 18. Bd1 Rh2 19. Be2 Rh1 20. Bf1 Rh2 21. Bg2 gxf6 22. g7 $18) 4. Bb1 $3 (4. e5 $143 f5 5. Bb1 Rh2 6. Bc2 Rh1 7. Bd1 Rh2 8. Be2 Rh1 9. Bf1 Rh2 10. Bg2 Rh1 11. Bxh1 $11) Rh2 (f5 $144 5. exf5 $18) 5. Bc2 $3 Rh1 6. Bd1 Rh2 7. Be2 Rh1 8. Bf1 Rh2 9. Bg2 Rh4 (f5 $144 10. exf5 Rh1 11. Bf1 Rh2 12. Be2 Rh1 13. Bd1 Rh2 14. Bc2 Rh1 15. Bb1 Rh5 16. f6 Rh2 17. Bc2 Rh1 18. Bd1 Rh2 19. Be2 Rh1 20. Bf1 Rh2 21. Bg2 Rh5 22. f7 $18) 10. f5 $3 (10. e5 $144 $1 {dual} f5 11. e6 Rh1 12. Bf1 Rh2 13. Be2 Rh1 14. Bd1 Rh2 15. Bc2 Rh1 16. h8=Q+ Rxh8 17. e7 Re8 18. Bxf5 Rc8 (Rxe7 $144 19. Bc8) 19. Bd7 Re8 20. f5 Rg8 21. f6 gxf6 22. e8=Q+ $18) Rh1 11. Bf1 Rh2 12. Be2 Rh1 13. Bd1 Rh2 14. Bc2 Rh1 15. Bb1 Rh3 (Rh2 $144 16. e5 Rh3 17. exf6 Rh2 18. Bc2 Rh1 19. Bd1 Rh2 20. Be2 Rh1 21. Bf1 Rh2 22. Bg2 $18) 16. e5 Rh2 17. Bc2 $1 (17. exf6 $143 gxf6 18. Bc2 Rxh7 19. gxh7 $11) Rh1 18. Bd1 Rh2 19. Be2 Rh1 20. Bf1 Rh2 21. Bg2 Rh4 22. exf6 $18 1-0
+
+[Event "2.hm ws08"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5b2/2pN1p1P/2p1P3/5p1n/2p2P1k/7p/1PP5/4K3 w - - 0 1"]
+[PlyCount "27"]
+[WhiteTeam "Sverdlovsk Ty"]
+
+1. Kf2 (1. h8=Q $143 h2 $11) Bg7 2. e7 Bd4+ 3. Kf3 h2 4. Kg2 h1=Q+ $1 5. Kxh1 Kh3 6. h8=Q $1 Bxh8 7. c3 $1 (7. e8=Q $143 Bd4 $1 8. Qg8 Ng3+ 9. Qxg3+ Kxg3 $19) Ng7 8. Nf6 c5 (Kg3 $144 9. Nh5+ $18) 9. Kg1 c6 10. Kh1 Kh4 11. Kh2 Ne8 12. Nxe8 Bf6 13. Ng7 (13. Nxf6 $143 $11) Bxe7 14. Nxf5+ $18 1-0
+
+[Event ".hm ts23 {c}"]
+[Source "Shakhmaty v SSSR/6 after Chekhover=V a6a3 1937."]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1p6/8/1pK5/kP5p/Pr3RR1/8 w - - 0 1"]
+[PlyCount "17"]
+[WhiteTeam "Shakhmaty v SSSR"]
+
+1. Rh2 $1 (1. Rxb2 $143 $2 h2 (hxg2 $2 2. Rb1) 2. Rb1 h1=Q 3. Rxh1 b5+ 4. Kxb5 $11) Rd2 $1 (b5+ $144 2. Kd3 Rb1 3. Rf7 Rd1+ 4. Rd2 $18) (Rb1 2. Rf8 Rc1+ 3. Kd3 Rd1+ 4. Kc2) (Rxf2 2. Rxf2 h2 3. Rf1 $1) (Rc2+ 2. Kd3 b5 (Rc3+ 3. Kd4 b5 4. Rh1 h2 5. Rf5) 3. Kxc2) 2. Kb5 $1 (2. Re2 $143 b5+ 3. Kc5 Rd5+ 4. Kc6 Rd6+ $11 {(Tour noire folle)}) (2. Rxd2 $2 b5+ 3. Kd5) Re2 $1 (Rd5+ $144 3. Ka6 $1 $18 Ra5+ 4. Kb7 $1 b5 5. Rh1 $1) (Rxf2 3. Rxf2 h2 4. Rf1) 3. Ka6 $1 (3. Kxb6 $2 Re6+ 4. Kc7 Rc6+) (3. Kc6 $2 b5) b5 4. Ka5 $1 Rd2 (Rxf2 5. Rxf2 h2 6. Rf1) (Rb2 5. Rc2 (5. Rd2 $2 Rc2 $1 6. Rde2 Rd2 $1 7. Ref2 Re2 $1 8. Rxe2)) 5. Re2 $1 (5. Rxd2 $2) Rc2 6. Rd2 $1 Rb2 7. Rc2 $1 Rxc2 8. Rxc2 h2 9. Rc1 $18 1-0
+
+[Event "1/2.p tr11#0330"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Korolkov, V MitrofanovL; Korolov=V Mitrofanov=L"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/2p5/K1p1P1P1/2p2P2/P1P1pQ2/4p3/3qp3/5n2 w - - 0 1"]
+[PlyCount "37"]
+[WhiteTeam "Revista de Romana de Sah"]
+
+1. Qe5 {Menace Qh8#} (1. e7 $143 Qd7 {Mat en 4}) (1. g7 $143 Qd8 {Mat en 4}) Qa5+ 2. Kxa5 Kb7 {Menace e1=Q #} 3. Qb2+ Ka7 4. Qb8+ Kxb8 5. Ka6 e1=Q 6. g7 {Menace g8=Q #} (6. e7 $143 Qa5+ 7. Kxa5 Kb7 8. e8=Q e2 9. Qa8+ Kxa8 10. Ka6 e1=Q 11. g7 Qg3 $19) Qa5+ (Qg3 $143 7. e7 $18) 7. Kxa5 Kb7 8. g8=Q e2 {Menace e1=Q #} 9. Qa8+ Kxa8 10. Ka6 e1=Q 11. e7 {Menace e1=Q #} Qa5+ 12. Kxa5 Kb7 13. e8=Q Nd2 {Menace Nb3 #} 14. Qa8+ Kxa8 15. Ka6 Nxc4 16. f6 Ne5 17. f7 Nd7 18. f8=Q+ Nxf8 19. a5 $11 1/2-1/2
+
+[Event "1.p wf01"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Korolkov, V MitrofanovL; Korolov=V Mitrofanov=L"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3r4/1p3r2/RR6/4kp2/p7/1n1P1PK1/P2P4/8 w - - 0 1"]
+[PlyCount "20"]
+[WhiteTeam "FIDE Ty"]
+
+1. Rb5+ $1 (1. Rxa4 $143 f4+ 2. Kf2 Nc5 3. Ra5 Rc7 $19) (1. Re6+ $143 Kd5 2. Rf6 Rxf6 3. Rxf6 Nd4 $19) (1. f4+ $143 Kd5 2. Rb5+ Nc5 3. Raa5 Rc7 $19) (1. d4+ $143 Kd5 2. Rb5+ Kc4 3. Rab6 Nxd4 $19) Nc5 $1 2. Rxc5+ (2. Raa5 $143 f4+ 3. Kf2 b6 $1 4. Rxb6 Rd5 $19) Kd4 3. Raa5 $1 (3. Rc4+ $143 Kxd3 4. Raxa4 b5 $1 $19) Rg7+ $1 (b6 $144 4. Rxf5 $1 Rg7+ 5. Rg5 Rxg5+ 6. Rxg5 $11) 4. Kf4 $1 b6 $1 5. Rc4+ Kxd3 6. Raxa4 b5 7. Rc3+ Kxd2 8. Raa3 b4 $1 9. Rc5 $1 bxa3 10. Rd5+ Rxd5 $11 1/2-1/2
+
+[Event "1.p wt07 {c}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Korolkov, V MitrofanovL; Korolov=V Mitrofanov=L"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5N2/2k5/1p3R2/1p6/1p3P2/1K3p2/8/4n3 w - - 0 1"]
+[PlyCount "27"]
+[WhiteTeam "Tuwinsk Com Phys Sport"]
+
+1. Ne6+ Kd7 2. Nf8+ Kc8 3. Rc6+ $1 (3. Rh6 $143 f2 4. Rh1 Nf3 5. Ne6 Ng1 6. Rh8+ Kd7 7. Rd8+ Kxe6 8. Rd1 Nf3 9. Kc2 Ne1+ 10. Kd2 f1=Q 11. Rxe1+ Qxe1+ 12. Kxe1 Kf5 $19) Kb7 4. Rh6 f2 5. Rh1 Nf3 6. Ne6 $1 (6. Rf1 $143 Nd2+ $19) Ng1 7. Rh7+ Kc8 (Kc6 $144 8. Nd4+ $1 (8. Rc7+ $144 $11) Kc5 9. Nf5 $1 f1=Q 10. Rc7+ Kd5 11. Ne3+ Kd6 12. Nxf1 Kxc7 $11) 8. Rc7+ $1 Kb8 9. Rc1 Nf3 $1 10. Rh1 $1 Ng1 11. Rh8+ Kb7 12. Rh7+ Kc8 13. Rc7+ Kb8 14. Rc1 $11 1/2-1/2
+
+[Event "1.p wf01"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Korolkov, V MitrofanovL; Korolov=V Mitrofanov=L"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5R2/8/P7/1K1k4/8/1b2r3/5PPr/6b1 w - - 0 1"]
+[PlyCount "27"]
+[WhiteTeam "FIDE Ty"]
+
+1. a7 Ba4+ $1 2. Kxa4 Rh4+ 3. g4 $1 (3. f4 $143 Re4+ 4. Kb5 Bxa7 $19) Rxg4+ 4. f4 Re4+ 5. Kb5 Bxa7 6. Rd8+ Ke6 7. Re8+ Kf5 8. Rf8+ Kg6 9. Rg8+ Kh5 10. Rh8+ Kg6 11. Rg8+ Kf5 12. Rf8+ Ke6 13. Re8+ Kd5 14. Rd8+ $11 1/2-1/2
+
+[Event "tp21#090"]
+[Source "Problem/1"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K1k1n3/P7/8/5pQn/1p2p2p/1Pp2P1b/2P1P2P/8 w - - 0 1"]
+[PlyCount "20"]
+[WhiteTeam "Problem"]
+
+1. Qg8 $1 Nhg7 2. f4 Bg2 3. e3 Bf1 4. h3 Bd3 5. Qf8 Bc4 6. bxc4 b3 7. c5 b2 8. c6 b1=Q 9. Qe7 Nc7+ 10. Qxc7+ Kxc7 $11 1/2-1/2
+
+[Event "1.p wi01 {tt}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "Bk4q1/5Nbp/3p4/8/8/R2K4/8/8 w - - 0 1"]
+[PlyCount "27"]
+[WhiteTeam "International Friendship Team Ty"]
+
+1. Bd5 Bf8 (Kc7 $144 2. Ra8 Bf8 3. Rc8+ Kb6 4. Rb8+ {(Voir ligne principale)}) 2. Ra8+ Kc7 3. Rc8+ Kb6 (Kxc8 $144 4. Nxd6+ $11) 4. Rb8+ Ka5 (Kc5 $144 5. Rb5+ Kxb5 6. Nxd6+ $11) 5. Ra8+ Kb4 6. Rb8+ Ka3 7. Ra8+ Kb2 8. Ra2+ Kb1 9. Rg2 $1 Bg7 10. Rg1+ Kb2 11. Rg2+ Ka3 12. Ra2+ Kb4 13. Ra8 $1 Bf8 14. Rb8+ $11 {(même position qu'après 6.Rb8+)} 1/2-1/2
+
+[Event "1.p wf01"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Korolkov, V MitrofanovL; Korolov=V Mitrofanov=L"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5pq1/5p2/6NR/5K2/1pp5/RP4k1/8 w - - 0 1"]
+[PlyCount "23"]
+[WhiteTeam "FIDE Ty"]
+
+1. Ra1 $1 Qg6 $1 (fxg5+ $144 2. Rxg5+ Qxg5+ 3. Kxg5 c2 4. Kf4 Kf2 5. Ke4 Ke2 6. Kd4 Kd2 7. Kc4 c1=Q+ 8. Rxc1 Kxc1 9. Kxb3 $11) 2. Rh2+ $1 Kxh2 3. Nf3+ $1 Kh3 4. Rh1+ Kg2 5. Rh2+ $1 Kf1 6. Ke3 {(Menace Rf2#)} Qc2 7. Rh1+ $1 Kg2 8. Rg1+ $1 Kh3 9. Kf4 $1 {Menace Rg4#} Qg6 (Qg2 $144 10. Rxg2 Kxg2 11. bxc3 b2 12. Nd2 $11) 10. Rh1+ Kg2 11. Rh2+ Kf1 12. Ke3 $11 {(même position qu'après 6.Ke3)} 1/2-1/2
+
+[Event "1.p ts83"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "3R4/2P5/pn2N3/8/8/7K/k3p3/5n2 w - - 0 1"]
+[PlyCount "15"]
+[WhiteTeam "Spartak"]
+
+1. Ra8 $1 (1. Rd6 $2 e1=Q 2. Rd2+ Qxd2 $19) (1. Rd3 $2 e1=Q 2. Rd2+ Nxd2 $19) (1. Rd4 $2 e1=Q 2. Rd2+ Nxd2 $19) (1. Rf8 $2 e1=Q 2. Rxf1 Qxf1+ 3. Kg4 a5 4. Ng5 Qc4+) (1. Rd7 $2 e1=Q 2. Rd2+ Nxd2 $19) (1. Rd5 $2 e1=Q 2. Rd2+ Nxd2) (1. Kg4 $2 e1=Q 2. Nf4 Qg3+) (1. Kh4 e1=Q+ 2. Kg5 Qxe6) e1=Q {(Menace Qg3#)} (Nxa8 $144 2. c8=Q (2. c8=R $2 e1=Q 3. Rc2+ Ka3) e1=Q 3. Qxa6+ $1 $10 $11 (3. Qc2+ Ka1 $15 $17) (3. Qc4+ $2 Kb2 4. Qd4+ Qc3+ $19) (3. Qh8 Qg3#) (3. Nf4 Qg3#) (3. Nd4 Qg3#) (3. Qg8 Qc3+ 4. Kh4 Qc4+) (3. Qe8 Qg3#) (3. Qc7 Qxe6+ 4. Kg2 Qe2+)) (Nc8 $144 2. Rxa6+ (2. Nd4 $2 e1=Q 3. Rxa6+ Kb2) (2. Rb8 e1=Q) (2. Nc5 e1=Q 3. Rxa6+ Kb1) Kb1 (Kb2 $143 3. Nf4 e1=Q 4. Nd3+ $18) 3. Nd4 (3. Ra1+ Kxa1 $19) (3. Ra8 $2 e1=Q $19 4. Rb8+ Kc1) (3. Ra5 $2 e1=Q 4. Rb5+ Ka2) e1=Q 4. Ra1+ (4. Ra3 $2 Ne3 5. Rb3+ Ka2) (4. Rg6 $2 Qc3+ 5. Kg2 Qxd4 6. Kxf1 Qd3+) (4. Nf5 $2 Qc3+ 5. Kg2 Qc2+) Kxa1 5. Nc2+ $10 $11) 2. Rxa6+ (2. Rg8 $2 Qxe6+ 3. Kg2 Qxg8+ 4. Kxf1 Qg4) (2. Nd4 Qg3#) Na4 $1 (Kb2 3. Rxb6+ Ka3 4. Ra6+ Kb4 5. Rb6+ Ka5 6. Ra6+ (6. Rb3 $2 Qxe6+ 7. Kh4 Qe7+ $19) (6. Rb5+ $2 Kxb5 7. Nd4+ Kb6) (6. Kg2 $2 Qe2+ 7. Kh3 Qd3+) (6. Rd6 Qg3#) (6. Kg4 Nh2+ 7. Kf5 Qf2+) Kb5 7. Nd4+ $10 (7. Rb6+ $2 Kxb6 8. c8=N+ Kc6 $19) (7. Kg4 $2 Qd1+ 8. Kh4 Nh2) (7. Ra3 $2 Qxe6+ 8. Kg2 Qe2+) (7. Nf4 Qg3#) (7. Kg2 Qg3+ 8. Kxf1 Qf3+)) (Kb3 $144 3. Rxb6+ Ka4 4. Ra6+ Kb5 (Kb4 $144 5. Rb6+ Ka5 6. Ra6+ Kb5 7. Nd4+ $11) 5. Nd4+ Kxa6 6. c8=Q+ $11) 3. Rxa4+ (3. Nf4 Qg3#) (3. Nd4 Qg3#) Kb2 4. Rb4+ (4. Kg2 $2 Qxe6 5. Rb4+ Kc3 6. Rb8 Qc6+ $19) (4. Rg4 $2 Qe3+ 5. Kg2 Qe2+ $19) (4. Kg4 $2 Qxe6+ 5. Kf4 Qd6+) (4. Rd4 Qg3#) Ka3 5. Rb3+ $1 (5. Ra4+ $2 Kxa4 6. Nc5+ Kb5 $19) (5. Kg4 $2 Qxe6+ 6. Kf4 Kxb4 $19) (5. Rg4 $2 Qe3+ 6. Kg2 Qe2+ $19) (5. Kg2 $2 Qe2+ 6. Kg1 Ne3 7. Rb3+ Ka2) (5. Rb5 Qg3#) (5. Nf4 Qg3#) (5. Ng5 Qg3#) (5. Rb6 Qg3#) Kxb3 (Ka2 6. c8=Q $18) 6. Nd4+ $1 (6. Nc5+ $2 Kc2 $19) Ka4 7. Ne2 $3 (7. Nf5 $2 Qe6 8. c8=Q Qxc8) (7. Kg2 $2 Qg3+ 8. Kxf1 Qxc7) (7. Kg4 $2 Qg3+ 8. Kf5 Qxc7) Qxe2 8. c8=Q $11 (8. Kh4 $2 Qc2 9. Kg4 Qxc7) Qh2+ 9. Kg4 Qg3+ 10. Kh5 $10 (10. Kf5 $2 Qh3+ 11. Ke5 Qxc8 $19) 1/2-1/2
+
+[Event "3.p wf01 {c}"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6nk/5K2/3B4/5pp1/2P5/4p3/4P3/6b1 w - - 0 1"]
+[PlyCount "23"]
+[WhiteTeam "FIDE Ty"]
+
+1. c5 f4 2. c6 f3 3. exf3 (3. c7 $143 f2 4. Kg6 {(Menace Be5+)} Bh2 $1 5. c8=Q f1=Q 6. Qc3+ Qf6+ 7. Qxf6+ Nxf6 8. Bxh2 $11) Ne7 4. Bxe7 Bh2 5. f4 $1 Bxf4 6. Bxg5 e2 7. Bxf4 e1=Q 8. c7 Qc3 9. Be5+ Qxe5 10. c8=Q+ Kh7 11. Qg8+ Kh6 12. Qg6# 1-0
+
+[Event "1.p wm02"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "q6n/5p1p/1p6/pPB5/5p2/5P2/pr6/k1K4Q w - - 0 1"]
+[PlyCount "31"]
+[WhiteTeam "Budapest-Leningrad match"]
+
+1. Qg2 $1 (1. Bd4 $143 Qc8+ 2. Kd1 Qc2+ $19) Rb1+ (Rxg2 $2 2. Bd4+ Rb2 3. Bxb2#) 2. Kc2 Qd8 (Rb2+ $144 3. Kc1 Rb1+ 4. Kc2 $11) 3. Qg7+ $1 f6 $1 4. Qxf6+ $1 Qxf6 5. Bd4+ $1 Rb2+ (Qxd4 $144 $11 {pat}) 6. Kc1 a4 7. Bxf6 a3 8. Bxh8 h5 9. Bf6 h4 10. Bxh4 Rb1+ 11. Kc2 Rxb5 12. Bf6+ Rb2+ 13. Kc1 b5 14. Be5 b4 15. Bg7 b3 16. Bd4 $11 1/2-1/2
+
+[Event "sp.p ts23 {m}"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3pp1P1/1pp1pk2/1p6/4PK1p/PP5P/4r2N w - - 0 1"]
+[PlyCount "23"]
+[WhiteTeam "Shakhmaty v SSSR"]
+
+1. g7 Rf1+ 2. Ke2 Rg1 3. Ng3+ Rxg3 4. hxg3 h2 5. g4+ $1 Ke4 6. g8=N $3 (6. g8=Q $143 h1=Q 7. Qg6+ Kd5 8. Qd3+ Kc6 $19) Kd5 7. Ne7+ Kc4 8. Nc8 b3 9. a3 b4 10. a4 Kd5 11. Ne7+ Ke4 12. Ng8 $11 1/2-1/2
+
+[Event "1/2.hm tk05"]
+[Source "EG#02356. USSR team champ VIII 1972-1973. also 1/2.hm Kommunist 1973."]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/6p1/1P6/P1pR4/2p3r1/pp1P4/6P1/1K6 w - - 0 1"]
+[PlyCount "16"]
+[WhiteTeam "Kommunist"]
+
+1. a6 $1 (1. Rd8+ $2 Kb7 2. Rd7+ Kc6 3. b7 Rxg2 4. b8=N+ Kb5 5. Rb7+ Ka4) (1. dxc4 $2 Rxg2 2. Rd1 Rb2+) (1. Rxc5 $2 Rxg2 2. Rxc4 Rg1+) Rd4 2. dxc4 $1 (2. a7+ $143 $2 Kb7 $1 3. dxc4 (3. Rxd4 cxd4 4. dxc4 d3 5. c5 d2 6. c6+ Kxb6 7. a8=Q d1=Q#) (3. Rxc5 Rxd3 4. Rc7+ Kxb6 5. a8=N+ Ka6 6. Rxc4 Rd1+ 7. Rc1 a2+) a2+ 4. Ka1 (4. Kb2 Rxd5 5. cxd5 c4) Ka8 $1 $19) Ka8 3. a7 (3. g4 $2 g6 $1 4. g5 Kb8 5. a7+ Ka8 $1 6. Ka1 a2) a2+ (Kb7 $144 4. Rxd4 cxd4 5. c5 d3 6. c6+ $18) 4. Ka1 $1 (4. Kb2 $143 $2 Rxd5 5. cxd5 c4 6. d6 c3+ $19) g6 (Rxd5 $144 5. cxd5 c4 6. d6 $18) 5. g3 $1 g5 6. g4 Kb7 (Rxd5 $144 7. cxd5 $18) 7. Rxd4 $1 cxd4 8. c5 d3 $18 9. c6+ Ka8 10. c7 1-0
+
+[Event "1.p Lelo"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "2b4k/8/5Pr1/5N2/8/8/8/K1B5 w - - 0 1"]
+[PlyCount "23"]
+
+1. f7 (1. Bb2 $2 $143 Rxf6 $11 2. Ne7 $10 Kh7 3. Nxc8 Ra6+ 4. Ba3) (1. Ne7 $2 Bf5 2. f7 $10 Ra6+ 3. Ba3) (1. Ba3 $2 Bd7 2. f7 $10) (1. Ka2 $4 Bxf5 $19 2. Ka1 Rg2) (1. Bd2 Bxf5) (1. Bg5 Bxf5) (1. Bh6 Be6 2. Bg7+ Kh7) (1. Kb2 Bxf5) (1. Ng7 Rxf6) Ra6+ (Rf6 $144 2. Bb2 $18) (Rg8 $144 2. fxg8=Q+ Kxg8 3. Ne7+ $18) 2. Ba3 $1 (2. Kb2 $2 Rf6 3. Ne7 $10) (2. Kb1 $4 $143 Bxf5+ $19 3. Kb2 Kg7 $19 4. f8=Q+ Kxf8) Rxa3+ 3. Kb2 (3. Kb1 $4 Bxf5+ 4. Kb2 Ra8 5. f8=R+ Rxf8) Ra2+ $1 4. Kc1 $1 (4. Kc3 $2 Rc2+ 5. Kxc2 Bxf5+ 6. Kb2 $10) (4. Kxa2 $2 Be6+ 5. Kb2 $10) (4. Kb1 $2 Bxf5+ 5. Kxa2 Be6+ 6. Kb2 $10) (4. Kb3 $4 Be6+ 5. Kc3 Bxf7 $19) Ra1+ 5. Kd2 (5. Kb2 $2 $143 Rb1+ 6. Ka2 $10 (6. Kc3 Rb3+ 7. Kd4 Rd3+ 8. Kxd3 Bxf5+ $11) Be6+ 7. Kxb1 Bxf5+ 8. Kb2) (5. Kc2 $4 Bxf5+ 6. Kb2 Rb1+) Ra2+ 6. Ke3 (6. Ke1 $6 Bxf5 7. f8=Q+ $18) (6. Kc3 $2 Rc2+ 7. Kxc2 Bxf5+ 8. Kc3 $10) (6. Kd3 Bxf5+ 7. Kd4 Kg7) Ra3+ 7. Kf4 (7. Kd4 $2 Rd3+ 8. Kxd3 Bxf5+ 9. Kc3 $10) (7. Kd2 $2 Rd3+ 8. Kxd3 Bxf5+ 9. Kc4 $10) (7. Ke4 $4 Bxf5+ 8. Kxf5 Kg7) (7. Kf2 Ra2+ 8. Ke3) Ra4+ 8. Kg5 (8. Ke5 $4 Ra5+ 9. Ke4 Bxf5+ 10. Kd4 Kg7 $19) (8. Kf3 $4 Bb7+ 9. Ke3 Ra8 10. Kd4 Ba6) (8. Kg3 $4 Rg4+ 9. Kxg4 Bxf5+ 10. Kxf5) Rg4+ 9. Kh6 $1 (9. Kxg4 $4 $143 Bxf5+ 10. Kxf5 Kg7 $10 11. Ke6 Kf8 12. Kf6 $11) (9. Kf6 $4 Rg8 10. fxg8=B Kxg8 11. Ne7+) (9. Kh5 $4 $143 Rg8 10. fxg8=Q+ (10. Ne7 Rf8 11. Ng6+ Kg7 $11) Kxg8 11. Ne7+ $10) Rg8 (Rg6+ $144 10. Kxg6 Bxf5+ 11. Kh6 $18) 10. Ne7 (10. Nh4 $4 Be6 11. Ng6+ $10) (10. Nd6 $4 Rf8) Be6 11. fxg8=Q+ $1 (11. fxg8=R+ Bxg8 12. Ng6#) (11. Ng6+ $4 $143 Rxg6+ 12. Kxg6 Bxf7+ $11 13. Kf6 $10) (11. f8=Q $4 Rxf8 12. Ng6+ $10) (11. Nxg8 $4 Bxf7 12. Nf6) (11. f8=B $4 Rxf8 12. Ng6+ $10) (11. Nd5 Bxf7) (11. Kh5 Bxf7+ 12. Kh4 Rg1) (11. Nc6 Bxf7) (11. Nc8 Rxc8) Bxg8 12. Ng6# (12. Nxg8 $4 Kxg8 13. Kg6) (12. Kg6 $4 Bh7+ 13. Kf6) 1-0
+
+[Event "1.p Erevan Ty"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7q/k1PR4/8/5ppp/7p/7P/3B3K w - - 0 1"]
+[PlyCount "17"]
+
+1. c7+ Ka7 (Ka5 $144 2. Ra6+ $1 Kb5 3. Be2+ Kb4 4. Rb6+ $11) (Kb7 $144 2. c8=Q+ $1 Kxc8 3. Bxg4+ Kc7 4. Rd7+ Qxd7 5. Bxd7 Kxd7 $11) (Kb5 $144 2. Be2+ Ka5 3. Ra6+ Kb4 4. Rb6+ $11) 2. Ra6+ (2. c8=N+ $143 Kb8 $19) Kb7 3. Bf3+ $3 (3. c8=Q+ Kxc8 4. Bxg4+ (4. Ra8+ $144 Kb7 $19) Kb7 $19) gxf3 4. c8=Q+ $1 (4. Rg6 $143 Qd7 5. c8=Q+ Qxc8 6. Rg7+ Kb6 7. Rg6+ Kb5 $19) (4. Ra7+ $143 Kxa7 5. c8=Q Qb1+ 6. Qc1 Qxc1#) Kxc8 5. Rg6 $1 Qh5 (Kd8 $144 6. Rg8+ Kd7 7. Rg7+ Ke6 8. Rxh7 f2 9. Re7+ $11) (Qxg6 $144 $11) (f2 $144 6. Rc6+ Kd7 7. Rd6+ $11) 6. Rg5 $1 Qh6 (f2 $144 7. Rc5+ Kd7 8. Rc7+ (8. Rd5+ $143 Qxd5#) Ke6 9. Rc6+ Kf5 10. Rf6+ (10. Rc5+ $143 Kg4 11. Rg5+ Kf3 12. Rg3+ hxg3 $19) Kg5 11. Rg6+ Kf5 12. Rf6+ (12. Rg5+ $143 Ke4 13. Re5+ Kf3 14. Re3+ Kg4 $19) Ke4 13. Rxf4+ $1 Ke3 14. Re4+ $1 Kd2 15. Re2+ Kd1 16. Rd2+ Ke1 17. Re2+ Kf1 18. Re1+ $11) 7. Rg6 $1 Qh5 8. Rg5 Qe8 9. Rg8 $11 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4R3/8/8/4b3/2p2kp1/1PP2Pp1/2P1pPPP/1K6 w - - 0 1"]
+[PlyCount "19"]
+
+1. hxg3+ Kf5 2. fxg4+ Kf6 3. g5+ Kf5 4. g4+ Kf4 5. g3+ Ke4 6. f3+ Kd5 7. bxc4+ Kd6 8. c5+ Kd5 9. c4+ Kd4 10. c3+ $18 1-0
+
+[Event "Modern Chess Endings {div. talen}"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2n2kp1/2b5/8/p1pnp2R/1R1N4/K2PPP2/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. Ne5+ Ke6 (Kf6 $144 2. Ng4+ Kg5 3. Rbh3 Nf5 4. Ne5 Nxh4 5. Nxc6 $18) 2. Rb6 Kxe5 3. e3 Nf5 (Nd5 $144 4. exd4+ Kxd4 5. Rb8 $18) 4. Rxc6 Nd5 (Nxh4 $144 5. Rxc7 $18) 5. f4+ exf3 6. d4+ cxd3 7. Re4+ Kxe4 8. Re6# 1-0
+
+[Event ".c Shakhmaty v SSSR#155"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "n6r/b7/1R4R1/2k5/2pppppp/8/1PPPPPP1/r4NK1 w - - 0 1"]
+[PlyCount "42"]
+
+1. b4+ cxb3 2. Rgc6+ Kd5 3. c4+ dxc3 4. Rd6+ Ke5 5. d4+ exd3 6. Re6+ Kf5 7. e4+ fxe3 8. Rf6+ Kg5 9. f4+ gxf3 10. Rg6+ Kh5 11. g4+ hxg3 12. Rg5+ Kxg5 13. Rg6+ Kf5 14. Rf6+ Ke5 15. Re6+ Kd5 16. Rd6+ Kc4 17. Rc6+ Bc5 18. Rxc5+ Kb4 19. Rb5+ Ka3 20. Rxb3+ Ka4 21. Rb4+ Kxb4 $11 1/2-1/2
+
+[Event "1.hm USSR Study Composition champ Shakh"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5q2/1p1kp3/1P4p1/4B3/3N3K/1B6/5P2/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. Be6+ Ke8 (Kd8 $144 2. Nf5 $3 gxf5 3. Kg5 $3 f4 4. f3 Ke8 5. Kg6 Kd8 6. Kh7 $18) 2. Nf5 $1 gxf5 (Kd8 $144 3. Kg5 Ke8 (gxf5 $144 $1 4. f4 Ke8 5. Kg6 Kd8 6. Kh7 $18) 4. Ng7+ Kd8 5. Bc7#) (g5+ $144 3. Kg4 Kd8 4. Ng7 Qxf2 5. Bc7#) 3. Kh5 $1 f4 4. f3 $1 Kd8 5. Kg5 $1 Ke8 6. Kg6 $1 Kd8 7. Kh7 $1 Qe8 (Ke8 $144 8. Bg7 $18) 8. Bc7# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "2k5/7q/R7/8/5p1p/5p1p/7P/7K w - - 0 1"]
+
+1. Rg6 (1. Ra8+ $2 Kb7 2. Rb8+ Kxb8 $19) (1. Rc6+ $2 Kd7 $19) (1. Ra1 $2 Qe4 2. Rc1+ Kb7 $19) (1. Kg1 $2 Qg7+ 2. Rg6 Qxg6+ 3. Kf1 Qg2+ $19) (1. Rb6 $2 Qe4 2. Rc6+ Qxc6) (1. Ra2 Qb1#) (1. Re6 Qb1+ 2. Re1 Qxe1#) Qh5 (f2 2. Rc6+ Kd7 3. Rd6+ Ke7 4. Re6+ Kf7 $10) 2. Rg5 $3 (2. Rg8+ $2 Kd7 3. Rg7+ Ke6 $19) (2. Rc6+ $2 Kd7 $19) (2. Rg4 $2 Qe5 3. Rg8+ Kd7 $19) (2. Rg1 $2 Qd5 3. Rg8+ Kd7 $19) (2. Rg3 $2 hxg3 3. hxg3 fxg3 $19) (2. Rf6 $2 Qe8 3. Rc6+ Qxc6) (2. Rg2 $2 hxg2+ 3. Kg1 Qc5#) (2. Rg7 $2 Qd5 3. Rg8+ Kd7) Qh6 3. Rg6 $10 (3. Rg1 $2 Qc6 4. Rg8+ Kd7 $19) (3. Rg8+ $2 Kd7 4. Rg7+ Ke8) (3. Rg4 $2 Qe6 4. Rg8+ Kd7) (3. Rc5+ Kd7 4. Rd5+ Ke6) 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Draws by perpetual check or by repetition"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "2n3B1/8/6k1/2p5/8/8/2bP4/K7 w - - 0 1"]
+
+1. Kb2 (1. Bc4 $2 Nd6 2. Bf7+ Kxf7) (1. Be6 $2 Nd6 2. Bf7+ Kxf7) (1. Ba2 $2 Nd6 2. Bf7+ Kxf7) (1. Bd5 $2 Nb6 2. Bf7+ Kxf7) (1. d4 $2 cxd4 2. Bf7+ Kxf7) (1. d3 $2 Nb6 2. Bh7+ Kxh7) (1. Ka2 $2 Nd6 2. Bf7+ Kxf7) (1. Bb3 Bxb3) (1. Bh7+ Kxh7) (1. Bf7+ Kxf7) Ba4 2. Kc3 (2. Ka3 $2 Nb6 $19 3. Bh7+ Kxh7) (2. Be6 $2 Nd6 $19 3. Bf7+ Nxf7) (2. Kc1 $2 Nd6 $19 3. Bh7+ Kxh7) (2. Bb3 $2 Bxb3 3. Kxb3 Nd6 $19 4. Kc3 Kf6 5. Kb3 Kf5) (2. Bc4 $2 Kf6) (2. d3 $2 Nd6) (2. Bd5 $2 Nd6 3. Bf7+ Nxf7) (2. Ka2 $2 Be8) (2. Ba2 $2 Nd6 3. Bb1+ Kf6) Nd6 3. d4 (3. Bc4 $2 Ne4+ 4. Kd3 Kf5 $19 5. Be6+ Kxe6 6. Kxe4 Bc2+) (3. d3 $2 Kf6 $19 4. Ba2 Bb5) (3. Bb3 $2 Bxb3 4. Kxb3 Kf5 $19 5. Kc3 Ke4) (3. Bd5 $2 Kf6 $19 4. Bc4 Ke5) (3. Kd3 $2 Bb5+ 4. Ke3 Nf7) (3. Ba2 $2 Bb5 4. Bb1+ Kf6) (3. Be6 $2 Bb5) (3. Kb2 $2 Nf7) Nb5+ 4. Kc4 (4. Kd3 $2 Nxd4 $19 5. Bh7+ Kxh7) cxd4 5. Kb4 (5. Bd5 $2 Kf6 $19 6. Kc5 Ke5) (5. Kd3 $2 Kf5 6. Bh7+ Ke5 $19) (5. Kd5 $2 d3 6. Be6 Kg5) (5. Be6 $2 Kf6) (5. Kc5 d3) (5. Bh7+ Kxh7) Nc3 6. Kc4 (6. Bb3 $2 Bxb3 7. Kxb3 Kf5 $19) (6. Ka3 $2 d3 $19 7. Bf7+ Kxf7) (6. Bc4 $2 Kf5 7. Bd3+ Kf4 $19) (6. Kc5 d3) (6. Ka5 d3) Nb5 7. Kb4 (7. Bd5 $2 Kf6 $19 8. Kc5 Ke5) (7. Kd3 $2 Kf5 8. Bh7+ Ke5 $19) (7. Kd5 $2 d3 8. Be6 Kg5) (7. Be6 $2 Kf6) (7. Kc5 d3) (7. Bh7+ Kxh7) Nc3 8. Kc4 (8. Bb3 $2 Bxb3 9. Kxb3 Kf5 $19) (8. Ka3 $2 d3 $19 9. Bf7+ Kxf7) (8. Bc4 $2 Kf5 9. Bd3+ Kf4 $19) (8. Kc5 d3) (8. Ka5 d3) Ne2 9. Kd3 (9. Bd5 $2 Kf5 $19 10. Be6+ Kxe6) (9. Kb4 $2 Bd1 $19 10. Bh7+ Kxh7) Bd1 10. Kd2 (10. Bd5 $2 Kf5 $19 11. Be4+ Ke5) (10. Bc4 $2 Kf5 $19 11. Be6+ Kxe6) (10. Bb3 $2 Bxb3 11. Kxe2 Bc2 $19 12. Kf3 d3) Nc3 11. Kd3 (11. Bc4 $2 Kf6) (11. Ba2 $2 Be2) Ne2 12. Kd2 $10 (12. Bd5 $2 Kf5 $19 13. Be4+ Ke5) (12. Bc4 $2 Kf5 $19 13. Be6+ Kxe6) (12. Bb3 $2 Bxb3 13. Kxe2 Bc2 $19 14. Kf3 d3) 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "7k/3p1K2/8/B7/8/8/7P/7n w - - 0 1"]
+
+1. Bb6 (1. h4 $2 Ng3 2. h5 $10) (1. Kg6 $2 Nf2 2. h3 $10) (1. Bc3+ $2 Kh7 2. h3 $10) (1. Bc7 $2 d5 2. h3 $10) (1. Ke7 $2 Kg7 2. h3) (1. Kf8 $2 d6 2. h3) Kh7 2. Be3 (2. Kf6 $2 Kh6 3. h3 $10) (2. Bg1 $2 d5 3. h3 $10) (2. h3 $2 d6 3. h4 $10) d5 3. Kf6 (3. Ke6 $2 d4 4. Bg1 $10) (3. Bg5 $2 Nf2 4. h3) (3. Bd4 $2 Kh6 4. h3) d4 4. Bxd4 (4. Bf4 $2 d3 5. h3 $10) (4. Bd2 $2 d3 5. h3) (4. Kf5 dxe3) (4. Bg1 d3 5. Be3) (4. Bg5 d3 5. Be3) Kh6 5. Kf5 (5. Be3+ $2 Kh5 6. h3 $10) (5. Bf2 $2 Nxf2 6. h3) (5. h4 $2 Ng3 6. h5) (5. Be5 Nf2 6. h3) (5. Ke5 Kg5 6. h3) (5. h3 Ng3 6. h4) (5. Ke6 Kg6 6. h3) (5. Bg1 Kh5 6. h3) (5. Bc3 Nf2 6. h3) Kh5 6. Kf4 (6. Bf2 $2 Nxf2 7. h3) (6. Bf6 $2 Nf2 7. h3) (6. Be3 $2 Ng3+ 7. hxg3) (6. Ke4 Kg4 7. h3+) (6. Be5 Nf2 7. h3) (6. Bg7 Ng3+ 7. hxg3) (6. h4 Ng3+ 7. Ke5) Kh4 7. Kf3 (7. Bf2+ $2 Nxf2 8. h3) (7. Bf6+ $2 Kh3 8. Bd4) (7. Bg1 $2 Kh3 8. Bf2) (7. Be5 $2 Nf2 8. h3) (7. Kf5 Ng3+ 8. hxg3+ Kxg3 9. Be3) (7. Be3 Kh3 8. Bf2) (7. Bc3 Kh3 8. Bd4) Kh3 8. Be5 (8. Bg1 $2 Ng3 9. hxg3) (8. Be3 $2 Nf2 9. Bxf2 Kxh2 10. Bg1+) (8. Bf6 $2 Nf2 9. Bg5) (8. Bf2 $2 Nxf2 9. Ke3) (8. Kf4 $2 Nf2 9. Be3) (8. Ke2 Ng3+ 9. hxg3 Kxg3 10. Be3) (8. Bg7 Nf2 9. Bh6) (8. Ke3 Ng3 9. hxg3 Kxg3 10. Bc5) (8. Ba7 Kxh2 9. Bc5) (8. Bc5 Kxh2 9. Bf2) Ng3 9. hxg3 $18 (9. Bxg3 $4) (9. Kf2 $4 Nf5 10. Bf4) (9. Bd6 Nf5 10. Be5) (9. Bf4 Nf5 10. Kf2) (9. Bc7 Nf5 10. Bd6) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "K7/8/2P5/8/P7/8/kr6/8 w - - 0 1"]
+
+1. a5 (1. c7 $2 Rc2 2. Kb7 Rb2+ 3. Kc6 Rc2+ 4. Kd7 Rd2+ 5. Kc8 Kb1 $1 6. a5 Ra2 7. a6 Rxa6 8. Kb7 Ra2 9. c8=Q Rb2+ $10) (1. Ka7 $2 Rc2 2. c7) Kb1 2. a6 (2. c7 $2 Rc2 3. c8=Q $10) (2. Ka7 Rc2 3. Kb7) Rb6 3. a7 (3. c7 $2 Rxa6+ 4. Kb7 Ra2 $10) (3. Ka7 $2 Rxc6 4. Kb7 $10) Rxc6 4. Kb7 (4. Kb8 $2 Rb6+ 5. Ka8 $10) Rc2 5. a8=Q $18 (5. Ka8 $2 Rb2) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/1p2pk1B/2P4r/6P1/p7/8/8/3K4 w - - 0 1"]
+
+1. g6+ (1. gxh6 $2 bxc6 2. Be4 $10) (1. Kd2 Rxc6) Kg7 2. cxb7 (2. c7 $2 Rh1+ 3. Kc2 $10) (2. Kc2 bxc6) Rh1+ 3. Kc2 (3. Kd2 $4 Rb1 4. Ke3 Rxb7) (3. Ke2 $4 Rb1 4. Bg8 Kxg8 5. b8=Q+ Rxb8) Rh2+ 4. Kc1 (4. Kb1 $2 a3 5. b8=Q $16 $18) (4. Kc3 $4 Rh3+ 5. Kb4 Rb3+ $19) (4. Kd3 $4 Rb2 5. Kd4 a3 $19) (4. Kd1 $4 Rh1+ 5. Kc2 $18) Rh1+ 5. Kb2 (5. Kc2 Rh2+ 6. Kc1 $18) (5. Kd2 $4 Rh2+ 6. Kc1) Rh2+ $2 (Rxh7 $5 6. gxh7 $18) (Rh3 $5 6. Bg8 $18) 6. Ka3 (6. Kb1 $6 a3 7. b8=Q $16 $18) (6. Ka1 $6 Rh3 7. Bg8 $18) (6. Kc1 $6 Rh1+ 7. Kc2 $18) (6. Kc3 $4 Rh3+ 7. Kb2 Rb3+ $19) Rh3+ 7. Kxa4 (7. Kb4 $4 Rb3+ 8. Kc5 Rxb7) (7. Ka2 $4 Rb3 8. Ka1 e5) (7. Kb2 Rb3+ 8. Ka2 e5) Rh1 8. Bg8 (8. Ka3 $4 Rb1 9. Bg8 Kxg8 10. b8=R+ Rxb8) (8. Kb5 $4 Rb1+ 9. Kc5 Rxb7 $19) (8. Ka5 $4 Ra1+ 9. Kb5 Rb1+) (8. b8=Q $4 Ra1+ 9. Kb4 Rb1+) (8. b8=R $4 Ra1+ 9. Kb4 Rb1+) (8. Kb4 $4 Rb1+ 9. Kc4 e6) (8. Kb3 $4 Rb1+ 9. Kc4 e6) (8. b8=N $4 Ra1+ 9. Kb4 Rb1+) e6 9. Bxe6 (9. Bf7 $2 Rf1 10. b8=Q Ra1+ 11. Kb4) (9. Kb5 $4 Rb1+ 10. Kc5 Kxg8) Rh8 10. Bc8 (10. Kb5 $2 Rb8 11. Bf5 $10) (10. Bf7 $2 Rb8 11. Be8) (10. Ka5 $2 Rb8 11. Bf5) (10. Bf5 $2 Rf8 11. b8=Q) (10. Bd5 $2 Rf8 11. b8=Q) Rh1 11. Bf5 (11. Be6 Rh8 $18 12. Bc8) (11. Bd7 $2 Rf1 12. b8=Q $10) (11. Ka3 $2 Rb1 12. b8=Q $10) (11. Bh3 $2 Kf6 12. b8=Q) (11. b8=Q $2 Ra1+ 12. Kb4) (11. Ka5 $2 Kxg6 12. b8=Q) (11. b8=N $2 Rg1 12. Nd7) Rh8 12. Ka5 $18 1-0
+
+[Event "Shakhmaty#398"]
+[Source "Shakhmaty/7"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1n6/1K1p3k/2P4P/8/B2pb3/8/8/8 w - - 0 1"]
+
+1. Bc2 $1 (1. Kxb8 $2 dxc6 2. Kc7 (2. Bd1 c5 3. Kc7 c4 4. Kd6 c3 5. Ke5 d3) d3 3. Kd6 Bf3 4. Kc5 d2 5. Bc2+ Kxh6) d3 $1 (Nxc6 2. Bxe4+ Kxh6 3. Kc7 Ne5 (Kg5 4. Kxd7 Ne5+ 5. Ke6 Kf4) 4. Kd6 Ng4 5. Kd5) 2. Bxd3 Bxd3 3. c7 Ba6+ 4. Ka8 $1 (4. Kxb8 $2 d5) (4. Ka7 $2 Nc6+ 5. Kxa6 Ne7 6. Kb6 Kxh6 7. Kc5 Nc8) Nc6 5. c8=Q Bxc8 1/2-1/2
+
+[Event ".c 64#374"]
+[Date "1929.05.20"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2k5/8/6p1/4KpP1/4N1Np/5PPp/8 w - - 0 1"]
+
+1. Nh1 $1 fxe3 2. g3 $1 e2 3. Kf3 e1=Q 1/2-1/2
+
+[Event "sp.hm 64#407"]
+[Date "1929.10.05"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k2Kn/2p5/1p3R1p/B4P2/8/8/4Pp2/8 w - - 0 1"]
+
+1. Rd6+ $1 (1. Kxh8 $2 bxa5 2. Rf8+ Ke7) (1. Rf8+ $2 Kd7 2. Bc3 f1=Q 3. Bxh8 h5 4. f6 h4 5. f7 h3 6. Re8 h2 7. f8=Q Qxf8+ 8. Rxf8 h1=Q) cxd6 2. Bxb6+ Ke7 (Ke8 3. Bxf2 Nf7 4. e4 h5 5. f6 Ne5 6. Bg3 Nf7 7. Kg7 Ng5 8. Bxd6) 3. Bxf2 Kf6 $1 4. e4 (4. Kxh8 $2 Kxf5 5. Kg7 h5 6. Kh6 Kg4 7. Kg6 (7. Bb6 h4 8. Bc7 h3 9. Bxd6 Kf5 10. Bh2 Ke4 11. Bg1 h2 12. Bxh2 Ke3) h4 8. Kf6 h3 9. Bg1 Kg3) Nf7 (d5 5. Bh4+ Ke5 6. Kxh8 dxe4 7. f6 Ke6 8. Kg7) (Ke5 5. Kxh8 Kxe4 6. f6) 5. Kf8 (5. Bh4+ $2 Ng5 6. Kf8 Ke5 7. Bxg5 hxg5 8. Ke7 g4) (5. Bd4+ $2 Ne5 6. Kh7 h5) h5 (Ng5 6. Bd4#) (Ne5 6. Bh4#) (Nd8 6. Bh4+) (Nh8 6. Bd4+) (d5 6. Bd4+ Ne5 7. Bxe5+ Kxe5 8. exd5 h5 9. d6 Kxd6 10. f6 h4 11. f7 h3 12. Kg7 h2 13. f8=Q+) 6. Bh4+ Ng5 7. Bxg5+ Kxg5 8. Kg7 h4 9. f6 h3 10. f7 h2 11. f8=Q h1=Q 12. Qf5+ Kh4 13. Qh7+ 1-0
+
+[Event "64#442"]
+[Date "1930.03.20"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4b3/6p1/P7/kP4rP/6P1/8/1N2K3/8 w - - 0 1"]
+
+1. a7 $1 Bxb5+ (Re5+ 2. Kf2) 2. Nc4+ $1 Bxc4+ 3. Kf3 Bd5+ 4. Kf4 Rg6 5. hxg6 Ka6 6. Ke5 Bf3 7. Ke6 (7. Kd6 {<or>}) Kxa7 8. Kf7 1/2-1/2
+
+[Event "64#545"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5n2/8/1P1p4/1K2P1b1/3kP3/8/8/8 w - - 0 1"]
+
+1. e6 $1 (1. exd6 $2 Ke5 2. b7 Nd7 3. Kc6 Ke6) (1. b7 $2 Nd7 2. Kc6 Nb8+ 3. Kc7 Na6+ 4. Kb6 Nb8 5. exd6 Bf4 6. Kc7 Kxe4) d5 2. e5 (2. exd5 $2 Kxd5 3. b7 Bf4 4. e7 Ne6 5. e8=Q Nc7+) Bd8 3. b7 Bc7 4. e7 Ne6 5. e8=Q 1-0
+
+[Event "1/2.p 64#533"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/3B4/4p2p/4RPbp/3K3k w - - 0 1"]
+
+1. Re1+ $1 (1. Rxe3 $2 Kg1 2. f3 Bxf3+ 3. Rxf3+ Kg2 4. Rf2+ Kg3 5. Rf1 Kg2) Bf1 2. Rxf1+ Kg2 3. Ke2 $1 h1=Q (exf2 4. Rxf2+ Kg1 5. Rf8+ Kg2 6. Be5 h1=Q 7. Rg8#) 4. Rxh1 exf2 5. Rf1 h2 6. Rxf2+ Kh3 7. Rf3+ Kg2 8. Be5 h1=Q 9. Rg3+ Kh2 10. Kf2 Qe4 11. Re3+ (11. Rg4+ $2 Kh3 12. Rxe4) Kh1 12. Rh3# (12. Rxe4 $2) 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/4"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/4p1pP/6Pk/3Q1P1n/5pBK/2b2PpP/3r1RR1 w - - 0 1"]
+
+1. Qc5 $1 (1. Bxh4 $2 gxf1=Q+ 2. Rxf1 Rxd4 3. Kg3 (3. Bg3 Bf5#) (3. Rc1 Rxf4 4. Rxc2 Rxh4+ 5. Kg3 Rg4+ 6. Kxf3 Rxg5) Rd1 4. Rxd1 Bxd1) (1. Qe5 $2 gxf1=Q+ 2. Rxf1 Rxf1 3. Bxh4 Rg1) Bf5+ (gxf1=Q+ 2. Rxf1 Rxf1 (Bf5+ 3. Qxf5 exf5 4. Rxd1 Ng2 5. Rd4 Nxf4+ 6. Rxf4 $1) 3. Qxc2) (Rxf1 2. Qxc2 Rxg1 3. Bxh4 Re1 4. Qd3 g1=N+ 5. Kg3 Ne2+ 6. Kxf3) 2. Qxf5 exf5 $1 3. Re1 (3. Rxd1 $2) Rc1 (Rxe1 4. Rxe1 g1=Q 5. Rxg1 Ng2 6. Rxg2 (6. Ra1 Nxf4+ 7. Bxf4) fxg2 7. Kxg2) (Rd7 4. Re3 (4. Bxh4 $2 Rd1) Rc7 5. Bxh4 Rc1 6. Rxf3 Rxg1 7. Rg3 Re1 8. Kxg2) (Rd4 4. Re7) 4. Rd1 (4. Bxh4 $2 Rxe1 5. Rxe1 g1=Q 6. Rxg1) Rb1 5. Rc1 (5. Rge1 $2 g1=N+ 6. Rxg1 Ng2 7. Rxb1 (7. Rxg2 Rxd1) (7. Bh4 Nxf4+ 8. Kg3 Ne2+ 9. Kxf3 Nxg1+ 10. Rxg1 Rxg1) (7. Rd3 Rxg1 8. Rxf3 Ne3 $1 9. Bh4 (9. fxe3 Rxg3+ 10. Kxg3) Nd5 10. Bg3 Ne3) (7. Rd7 Rxg1 8. Rxh7 Nxf4+ $1 9. Bxf4 Rg4 10. Bg3 f4 11. Bxf4 Rh4+ 12. Kg3 Rh3+ 13. Kxh3) (7. Rc1 Rxc1 8. Rxc1 Nxf4+ 9. Bxf4) Nxf4+ 8. Bxf4) Ra1 6. Rb1 $1 Rxb1 7. Rxb1 g1=Q 8. Rxg1 Ng2 9. Rxg2 (9. Ra1 $2 Nxf4+ 10. Bxf4) fxg2 10. Kxg2 1-0
+
+[Event "3.p VTSPS Shakhmaty v SSSR (c)"]
+[Source "Shakhmaty v SSSR/8"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K1k/5P1p/2p2P1p/p1P1r2P/P7/P1P1N2P/1B6/2RN3R w - - 0 1"]
+
+1. Nd5 $1 Rxd5 2. Ne3 Re5 3. Nd5 $1 Rxd5 4. Rcd1 Re5 5. Rd5 $1 Rxd5 6. Bc1 Re5 7. Bg5 $1 Rxg5 8. Rg1 $1 Rg2 9. h4 $1 Rg3 10. Rg2 $1 Rg4 11. Rg3 Rxg3 12. Ke7 Re3+ 13. Kd7 Rd3+ 14. Kxc6 Rd6+ 15. Kb5 Rb6+ 16. Kc4 Rxf6 17. Kb5 1-0
+
+[Event "3.p VTSPS Shakhmaty v SSSR (v)"]
+[Source "Shakhmaty v SSSR/8 (v): Didukh=S Shakhmatnaya Poezia=45 15-4-2009."]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K1k/5P1p/2p2P1p/p1P1r2P/P7/P1P2Q1P/1B6/2RN3R w - - 0 1"]
+
+1. Qd5 $1 Rxd5 2. Ne3 Re5 3. Nd5 $1 Rxd5 4. Rcd1 Re5 5. Rd5 $1 Rxd5 6. Bc1 Re5 7. Bg5 $1 Rxg5 8. Rg1 Rg2 $1 (Rxg1 9. Ke7 Re1+ 10. Kd7 Rd1+ 11. Kxc6 Rd6+ 12. Kb5 Rb6+ 13. Kc4) 9. h4 $1 Rg3 10. Rg2 $1 Rg4 11. Rg3 $1 Rxg3 12. Ke7 Re3+ 13. Kd7 Rd3+ 14. Kxc6 Rd6+ 15. Kb5 Rb6+ 16. Kc4 Rxf6 17. Kb5 1-0
+
+[Event "2.hm Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/11"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "Korolkov, V"]
+[Black " Dolukhanov, A."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6qk/1pppppp1/8/R7/P7/K3P3/5pp1/4BB2 w - - 0 1"]
+
+1. Rh5+ $1 Qh7 2. Rxh7+ $1 Kg8 (Kxh7 3. Bd3+ Kh6 4. Bxf2) 3. Rxg7+ $1 Kf8 (Kxg7 4. Bc3+ Kg6 5. Bxg2) (Kh8 4. Rh7+ Kg8 5. Rh8+ $1) 4. Rxf7+ $1 Ke8 5. Rxe7+ $1 Kd8 6. Rxd7+ $1 Kc8 (Ke8 7. Re7+ Kd8 8. Re8+) 7. Rxc7+ $1 Kb8 8. Rxb7+ Kc8 (Ka8 9. Bxg2 fxe1=Q 10. Rb1+) 9. Rc7+ Kb8 10. Rc8+ Ka7 11. Ra8+ Kxa8 12. Bxg2+ 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/11-12"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/8/4p3/6p1/p7/8/Pp4N1/3K4 w - - 0 1"]
+
+1. Kc2 $1 a3 2. Ne3 Kb7 3. Ng4 Kc6 4. Ne5+ (4. Nf6 $2 Kc7 $1 (e5 $2 5. Kb1)) Kd5 (Kc5 {<main>} 5. Kb1 Kb5 6. Kc2 Kb4 7. Ng4 Kc4 8. Ne5+) 5. Nf3 g4 6. Nh2 g3 7. Nf1 g2 8. Ne3+ Ke4 9. Nxg2 1/2-1/2
+
+[Event "1.hm Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/3"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k4/7r/1PP4P/8/4P3/P1p1K3/1B1p4/8 w - - 0 1"]
+
+1. b7 $1 (1. Bxc3 $2 d1=Q 2. b7 Qb3 3. Kd2 Rxh6 4. Ba5+ Ke8 5. Bc7 Qb2+ 6. Kd3 Rh3+) Kc7 (d1=Q 2. b8=Q+ Ke7 3. Qe5+ Kd8 4. Bxc3) (d1=N+ 2. Ke2 Kc7 3. Bc1 $1 Rf7 4. h7) 2. Bxc3 d1=N+ $1 (d1=Q 3. Be5+ Kxc6 4. b8=Q Qe1+ 5. Kf3 Rf7+ 6. Bf4 Qf1+ 7. Ke3 Qh3+ 8. Ke2 Qg2+ 9. Ke3) 3. Kf4 $1 (3. Kd4 $2 Nxc3 4. Kxc3 Rxh6 5. Kd4 Rxc6 6. e5 Kxb7 7. Kd5 Kc7) Nxc3 4. Kg5 Nxe4+ (Ne2 5. Kg6 Re7 6. Kf6 $1 Re8 7. h7 Nf4 8. Kf7 $1 (8. Kg7 $2 Re7+ 9. Kh6 Re6+ 10. Kg7 Ng6) Rd8 9. e5 $1 Kxc6 (Nh5 10. e6 Rh8 11. Kg6 $1 Kxc6 12. b8=Q Rxb8 13. Kxh5 Kd6 14. Kg6 Kxe6 15. Kg7) 10. e6 Nxe6 (Nd5 11. e7 Nxe7 12. Kxe7 Rh8 13. Kf6 Kxb7 14. Kg7) 11. Kxe6 Rh8 12. Kf6) 5. Kg6 Nf6 $1 (Rh8 6. Kg7 Re8 7. h7 Re7+ 8. Kg6 Re6+ 9. Kg7) 6. a4 (6. Kxf6 $2 Rxh6+) (6. Kg5 $2 Ng8 7. Kg6 Rxh6+) Kb8 (Re7 7. Kxf6) 7. a5 Ka7 8. b8=Q+ $1 (8. a6 $2 Kb8) Kxb8 9. a6 $1 Rh8 (Ka7 10. c7 Rh8 11. Kxf6 Rxh6+ 12. Ke7 Rc6 13. Kd7) (Kc7 10. a7 Rh8 11. Kxf6 Kxc6 12. Kg7 Ra8 13. h7) 10. Kg7 Rh7+ 11. Kg6 Rh8 12. Kg7 1/2-1/2
+
+[Event "3.hm Erevan ty"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2K1k2r/Pp2p3/qp1b4/4P3/8/8/Q7/8 w - - 0 1"]
+
+1. a8=Q $1 Qxa8+ 2. Qxa8 Kf7+ 3. Kd7 Rxa8 4. e6+ Kg7 1/2-1/2
+
+[Event "4.p Fizkultura i Sport Committee Uzbeki"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/p5bp/P1Pr3N/N7/8/K2p4/P3p3/3B4 w - - 0 1"]
+
+1. c7 $1 Rc6 2. Nxc6 Bf8+ 3. Kb2 $1 (3. Nb4 $2 Bxb4+ $1 4. Kb2 Bc3+ 5. Kc1 Bd2+ 6. Kxd2 e1=Q+ 7. Kxe1 d2+ 8. Ke2) Bg7+ 4. Kc1 Bxh6+ 5. Kb2 Bg7+ 6. Ka3 Bf8+ 7. Nb4 $1 Bxb4+ 8. Kb2 Bc3+ 9. Kc1 Bd2+ 10. Kxd2 e1=Q+ 11. Kxe1 d2+ 12. Kxd2 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/6 after Simkhovich=F a3b5 1938."]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p6/kP2bp1N/P1K2p2/p4P2/1p3P2/1P6/8 w - - 0 1"]
+
+1. Kb4 $1 a3 2. Kxa3 Kxa5 3. Nf7 (3. Ng8 {<or>} Bxg8) Bxf7 1/2-1/2
+
+[Event "4.p Fizkultura i Sport Committee Uzbeki"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/p1p4p/PPP2P1N/4b1r1/1N1p4/6P1/PK2p3/3B4 w - - 0 1"]
+
+1. f7 $1 d3+ 2. Kc1 Bg7 3. f8=Q+ Bxf8 4. bxc7 Rc5+ 5. Kb2 Bg7+ 6. Ka3 Rxc6 7. Nxc6 Bf8+ 8. Kb2 Bg7+ 9. Kc1 Bxh6+ 10. Kb2 Bg7+ 11. Ka3 Bf8+ 12. Nb4 Bxb4+ 13. Kb2 Bc3+ 14. Kc1 Bd2+ 15. Kxd2 exd1=Q+ 16. Kxd1 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6bk/4p2p/p7/1P1P4/2p2p2/n3N3/K7/8 w - - 0 1"]
+
+1. b6 $1 fxe3 2. b7 e2 3. b8=Q e1=Q 4. Qb2+ c3 (e5 5. dxe6+ c3 6. Qxc3+ Qxc3) 5. Qxc3+ Qxc3 1/2-1/2
+
+[Event "1.hm Shakhmaty v SSSR#47"]
+[Source "Shakhmaty v SSSR/5"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/PR6/1p6/2p1p3/2p3p1/K1P3P1/P1b1P2p/k7 w - - 0 1"]
+
+1. Rh7 $1 (1. a8=Q $2 h1=Q) Bxh7 2. a8=Q e4 3. Qa4 (3. Qd5 $2 h1=Q 4. Qd2 Qb1 5. e3 b5) h1=Q 4. Qc2 Qb1 5. e3 $1 Bf5 (Qxc2) (Qb5 6. Qc1+ Qb1 7. Qc2) (b5 6. Qxb1+ Kxb1) 6. Qd1 $1 Bc8 (Bd7 7. Qxb1+ Kxb1) 7. Qc2 Ba6 8. Qd1 b5 (Bb5 9. Qxb1+ Kxb1) 9. Qxb1+ Kxb1 1/2-1/2
+
+[Event "Trud#03"]
+[Date "1949.03.20"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4B2k/1Q5P/6Pb/8/2p5/8/2pP3q/2K5 w - - 0 1"]
+
+1. Qd5 $1 (1. Qd7 $2 c3 2. Qd4+ Bg7 3. Qd5 Qxd2+) (1. Qb2+ $2 Bg7 2. Qxc2 (2. Qb6 c3 3. dxc3 Bh6+) Qh1+ 3. Qd1 Qb7 4. Qa4 (4. Qe2 Qb2+ 5. Kd1 Qb1#) (4. Qg4 Qb2+ 5. Kd1 Qb1+ 6. Ke2 Qd3+ 7. Ke1 c3 8. dxc3 Bxc3+ 9. Kf2 Qd4+) (4. Qh5 Qb2+ 5. Kd1 Qb1+ 6. Ke2 Qe4+) Qb2+ 5. Kd1 Qb1+ 6. Ke2 Qd3+ 7. Ke1 Qe4+) (1. g7+ $2 Bxg7 2. Qc8 Kxh7 3. Qf5+ Kh8) Qxd2+ (Qg1+ 2. Kxc2 Kg7 3. Qe5+) (Bxd2+ 2. Qxd2 Qh1+ (Qe5 3. Kxc2 Qf5+ 4. Kb2) 3. Kxc2 Qe4+ 4. Kc3 Qf3+ 5. Kxc4 Qf1+ 6. Kb3 Qb1+ 7. Qb2+) 2. Qxd2 c3 $1 3. g7+ $1 (3. Qxh6 $2) Kxh7 4. Qxh6+ (4. g8=Q+ $2 Kxg8 5. Qxh6) (4. Bg6+ $2 Kxg7) Kxh6 5. g8=R $1 (5. g8=Q $2) (5. g8=N+ $2 Kg7 6. Ne7 Kf8) 1-0
+
+[Event "Budapest ty"]
+[Source "after Chekhover=V f7f1 1949."]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3R3K/8/8/7p/4kp2/8/8 w - - 0 1"]
+
+1. Kg8 $1 (1. Re7+ $2 Kf2 2. Kg8 h3 3. Rh7 Kg2 4. Rg7+ Kh1 $1 5. Rf7 h2 $1 6. Rxf3 Kg2) f2 2. Re7+ Kf3 3. Rf7+ Kg3 4. Rg7+ Kh3 5. Rf7 Kg2 6. Rg7+ Kf1 7. Rh7 h3 8. Rxh3 $1 Kg2 9. Rh7 $1 f1=Q 10. Rg7+ 1/2-1/2
+
+[Event "5.p Lelo"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/2r5/K1pP4/8/p1R5/3kPPPP/8 w - - 0 1"]
+
+1. Rd3+ $1 (1. dxc6 $2 Kxc3 2. cxb7 (2. c7 a2 3. c8=Q a1=Q+ 4. Kb6 Qa6+ 5. Kc7 Qc6+ 6. Kb8 Qxc8+ 7. Kxc8 Kd4 8. h4 c4) a2 3. b8=Q a1=Q+ 4. Kb6 Qb1+ 5. Kc7 (5. Ka7 Qa2+ 6. Kb7 Qd5+ 7. Kc8 (7. Kb6 Qe6+ 8. Kxc5 Qc4+ 9. Kb6 Qb4+ 10. Kc7 Qf4+) Qf5+ 8. Kd8 Qf8+ 9. Kc7 Qf4+ 10. Kb7 Qe4+) Qh7+ (Qxb8+ $2 6. Kxb8 Kd4 7. h4 c4 8. h5 Ke5 9. h6 Kf6 10. e4 Kg6 11. e5 Kxh6 12. e6 Kg7 13. Kc8 c3 14. e7 c2 15. e8=Q c1=Q+ 16. Kd8 Qg5+ (Qd2+ 17. Qd7+) 17. Qe7+) 6. Kd6 Qxh2+ 7. g3 Qxf2) (1. Rxa3 $2 Ra6+ 2. Kb5 Rxa3 3. e4 (3. d6 Kxe2 4. g4 Kxf2 5. g5 Kf3) Kd3 4. e5 Kd4 5. d6 Kxe5 6. Kxc5 Rc3+) (1. Rb3 $2 Ra6+ 2. Kb5 a2 3. Rb2+ Kc3 4. Rxa2 Rxa2 5. Kxc5 Rxe2 6. h4 Rxf2 7. g4 Rf4 8. d6 Rxg4 9. d7 Rg8) Kxe2 (Kc2 2. dxc6 a2 3. Ra3) 2. Re3+ $1 (2. dxc6 $2 Kxd3 3. cxb7 a2 4. b8=Q a1=Q+ 5. Kb6 Qb1+ 6. Kc7 Qxb8+ 7. Kxb8 c4) Kxf2 3. Rf3+ $1 Kxg2 4. Rg3+ $1 Kxh2 5. dxc6 $1 Kxg3 6. cxb7 a2 7. b8=Q+ 1-0
+
+[Event "Shakhmaty v SSSR#04"]
+[Source "Shakhmaty v SSSR/2"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6B1/7b/6pK/5kPp/7p/6P1/8/8 w - - 0 1"]
+
+1. Be6+ $1 Kxe6 2. gxh4 Bg8 (Ke7 3. Kxh7 Kf7 4. Kh6) 3. Kg7 Bf7 (Kf5 4. Kxg8 Kg4 5. Kg7 Kxh4 6. Kxg6 Kg4 7. Kf6) 4. Kf8 $1 1-0
+
+[Event "3.p Lelo"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6KB/4p2P/8/3P4/8/1r2P2k/7p/1B5r w - - 0 1"]
+
+1. Bf5+ $1 (1. Be5 $2 Rg1+ 2. Kf7 h1=Q) Kg2 2. Be4+ (2. Be5 $2 Rg1 $1 3. h8=Q h1=Q 4. Be4+ Kf2+ $1) Kf2 $1 (Kg1 3. Bg7 Rb8+ 4. Bf8) 3. Bxh1 Rb8+ $1 (Kg1 4. Be5 $1) 4. Kf7 $1 (4. Kg7 $2 Kxe3 5. Kf7 Rxh8 6. Kg7 Rd8 7. h8=Q Rxh8 8. Kxh8 Kd4 $1 9. Kg7 Ke5 10. Kf7 Kd6 11. Bg2 Kd7) Rxh8 5. Kg7 Rd8 6. h8=Q Rxh8 7. Kxh8 Kg1 (Kxe3 8. Kg7 Kd4 9. Kf7 Ke5 10. Kxe7) 8. Be4 $1 (8. Bf3 $2 Kf2 9. Bh1 (9. Be4 Kxe3)) 1-0
+
+[Event "3.p Trud"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6R1/2p1pk2/P1p4p/2PpPKpP/6P1/6P1/3Pr3/8 w - - 0 1"]
+
+1. Rf8+ $1 Kxf8 2. a7 Kf7 3. e6+ Rxe6 4. a8=Q Re1 5. Qc8 $1 e6+ 6. Qxe6+ Rxe6 7. d4 $1 Rf6+ (Re1) (Rd6 8. cxd6 cxd6) (Rg6 8. hxg6+ Kg7 9. Ke6 Kxg6 10. Kd7 h5 11. gxh5+ Kxh5 12. Kxc7 Kg4 13. Kxc6 Kxg3 14. Kxd5 Kf4 15. c6 g4 16. c7 g3 17. c8=Q) 8. Ke5 Re6+ (Rf1) 9. Kf5 1/2-1/2
+
+[Event ".c Magyar Sakkélet#0306"]
+[Source "Magyar Sakkélet/8 also Ceskoslovensky Sach#075 Ceskoslovensky Sach/6 1959."]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p3p2/1R1p4/N2p4/1P1p1p2/p2P1P2/p6P/1k1K4 w - - 0 1"]
+
+1. Nb3 $1 Kb2 2. Na1 Kxa1 3. Kc2 f5 4. Rb5 b6 5. Rxd5 b5 6. Rxd4 d5 7. Rxf4 d4 8. Rxd4 f4 9. Kb3 Kb1 10. Re4 1-0
+
+[Event "Shakhmaty v SSSR (c)"]
+[Source "Shakhmaty v SSSR/3 (c): Korolkov=V Shakhmaty v SSSR/7 1954."]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k3r1r/5pPP/P1P5/n1P3P1/7K/8/8/8 w - - 0 1"]
+
+1. g6 $1 fxg6 2. Kg5 Nxc6 (Nc4 {<main>} 3. gxf8=Q+ $1 (3. gxh8=Q $2 Rxh8 4. Kxg6 Ne5+ 5. Kg7 Nf7 6. c7+ Kxc7 7. a7 Kb7 8. c6+ Kxa7 9. c7 Kb7 10. Kg6 Ng5) Rxf8 4. Kxg6) (Rc8 3. gxh8=Q Rxh8 4. Kxg6) (Rhg8 3. gxf8=Q+ (3. hxg8=Q $2 Rxg8 4. Kxg6 Nxc6 5. Kf7 Ne7 6. c6 Kc7 7. a7 Kd6) Rxf8 4. Kxg6 Nxc6 5. Kg7) 3. gxh8=Q $1 (3. gxf8=Q+ $2 Rxf8 4. Kxg6 Nd8 5. Kg7 Ne6+) (3. Kxg6 $2 Ne7+ 4. Kg5 (4. Kh6 Nf5+) (4. Kh5 Rxh7+) Rf5+ 5. Kh6 Rxh7+) Rxh8 4. Kxg6 Nd8 5. Kg7 Nf7 6. c6 (6. Kxf7 $2 Rxh7+) (6. Kg6 $2 Ng5) 1/2-1/2
+
+[Event "Latvia ty"]
+[Source "21.p USSR overall champ IV 1953-1956"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "Korolkov, V"]
+[Black " Mitrofanov, L."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p1PQ3/3PP3/7p/3p4/3p3k/5P1p/5K2 w - - 0 1"]
+
+1. Qh4+ $1 Kxh4 2. Kg2 h1=Q+ $1 3. Kxh1 Kh3 4. d8=Q d2 5. Qh4+ $1 Kxh4 6. Kh2 d1=Q 7. d7 Qd2 8. d8=Q+ Qg5 {<eg>} 9. Qxg5+ Kxg5 10. e7 1-0
+
+[Event "1.hm Achalgazdra Kommunisti (c)"]
+[Source "(c): De_Zeeuw=M EBUR=4 12/1996."]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/6p1/2pP4/8/7k/4P2p/4n2K w - - 0 1"]
+
+1. d6 $1 Ng2 2. d7 Nf4 $1 3. d8=Q Nh5 $1 4. Qh8 c4 5. e4 (5. Qc8+ $2 f5) c3 6. e5 $1 (6. Qc8+ $2 f5 $1) c2 7. Qc8+ $1 f5 8. exf6+ 1-0
+
+[Event "4.p Achalgazdra Kommunisti"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3P4/3pP1pp/b6k/5K1p/3p3P/8/8 w - - 0 1"]
+
+1. e7 $1 d2 2. d8=Q (2. e8=Q $2 d1=Q 3. d8=Q Qf1+ 4. Ke3 Bxd8) Bxd8 3. e8=N $1 Bg5+ 4. Ke4 Be7 (Be3 5. Nf6+ Kg5 6. Nh7+ Kh5 7. Nf6+) (d5+ 5. Ke5 Be7 6. Ng7+ Kg5 7. Ne6+) 5. Kf4 Bg5+ 6. Ke4 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/1 after Vaisman=L a3d3 1955."]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1n6/1N6/P2p4/K7/1P5p/3k4/n7/8 w - - 0 1"]
+
+1. b5 $1 (1. a7 $2 Nc6+ 2. Kb6 Nxa7) Nxa6 (Nb4 2. Kxb4 h3 (Nxa6+ 3. bxa6) (Nd7 3. Ka5 h3 4. a7 h2 5. a8=Q h1=Q 6. Nc5+) 3. a7 Na6+ (Nc6+ 4. bxc6 h2 5. a8=Q h1=Q 6. Qa6+) 4. bxa6 h2 5. a8=Q h1=Q 6. Qg8 Qe1+ 7. Kb5 Qb1+ 8. Kc6 Qc1+ 9. Kd7) (h3 2. a7 Nc6+ (h2 3. Nc5+ dxc5 4. a8=Q) 3. bxc6 h2 4. c7 h1=Q 5. c8=Q Qd5+ (Qe1+ 6. Kb6 Qf2+ (Qb4+ 7. Kc7 Qc4+ 8. Kb8) 7. Nc5+ dxc5 8. a8=Q c4+ (Qb2+ 9. Ka7 Qa3+ 10. Kb8 Qb2+ 11. Qab7 Qe5+ 12. Qcc7 Qe8+ 13. Ka7 Qa4+ 14. Qa6+) 9. Qc5 Qb2+ 10. Ka7 Qg7+ 11. Qb7) 6. Nc5+ $1 dxc5 7. a8=Q) 2. bxa6 Nb4 $1 (h3 3. a7 h2 4. a8=Q h1=Q 5. Nc5+) 3. Kxb4 (3. a7 $2 Nc6+) (3. Nc5+ $2 dxc5) h3 4. Nxd6 (4. a7 $2 h2 5. a8=Q h1=Q 6. Nc5+ dxc5+) h2 5. Ne4 $1 Kxe4 (h1=Q 6. Nf2+) 6. a7 h1=Q 7. a8=Q+ 1-0
+
+[Event "Schach#02683"]
+[Source "Schach/8"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/6p1/2pP2P1/2pkPp2/B1N2P2/p1PPK3/6q1 w - - 0 1"]
+
+1. Nb5+ $1 (1. Bb2 $2 Qg2+ (a1=Q $2 2. Nb5#) 2. Ke1 Qxf3) Ke5 2. Bb2+ (2. d4+ $2 cxd3+ $1 (cxd4 $2 3. Bd6#) 3. cxd3 a1=Q) c3 $1 (Qd4 3. Nxd4 cxd4 (c3 4. dxc3 cxd4 5. cxd4+) 4. Ba1 d6 5. Kd1 c3 6. dxc3 d3 7. c4#) 3. Bxc3+ Qd4 4. Nxd4 (4. Bxd4+ $2 cxd4 5. c3 (5. d3 a1=Q 6. c3 Qb2+) d3+ 6. Kxd3 a1=Q 7. Ke2 (7. Kc4 Qf1+ 8. Kc5 Qxf3) Qb2 8. c4 d6 9. Kd1 Qb3+) cxd4 5. Ba1 $1 (5. Bb2 $2 d6 6. c3 (6. c4 a1=Q 7. Bxa1) d3+ $1 7. Kxd3 a1=Q 8. Bxa1 (8. Kc4 Qa2+)) d6 6. c4 $1 (6. Bb2 $2 a1=Q 7. Bxa1) (6. c3 $2 d3+ $1 (dxc3 $2 7. Bxc3#) 7. Kxd3) dxc3 7. Bxc3# 1-0
+
+[Event "L'Échiquier de France#43"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/1p1k4/4R2p/P5pp/1K3BB1 w - - 0 1"]
+
+1. Rd3+ $1 Kc4 2. Rd4+ Kc5 (Kc3 3. Rc4+ Kd2 4. Rc2+ Ke1 5. Rc1+ Kd2 6. Bxh2) 3. Rc4+ Kb5 (Kd5 4. Rc5+ Kd6 5. Bxh2+ Kxc5 6. Be2 Kd4 7. Bg4 Ke3 8. Bxh3) 4. Rc5+ (4. Bd3 $2 hxg1=Q+ 5. Rc1+ Kb6 6. Rxg1 h2) Kb6 $1 5. Rb5+ (5. Bd4 $2 g1=Q) Ka6 $1 6. Rb6+ Ka7 7. Ra6+ Kb7 8. Ra7+ Kb8 9. Bxh2+ 1-0
+
+[Event ".c Magyar Sakkélet#0235"]
+[Source "Magyar Sakkélet/6"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/1pk5/8/pP6/7r/P7/pRPPPPP1/8 w - - 0 1"]
+
+1. b6+ $1 (1. Rxa2 $2 Kb6 $1) Kc8 (Kc6 2. Rxa2 Kxb6 3. Rb2+ Ka6 4. Rxb7) 2. Rxa2 a4 (Rh5 3. a4 $1) 3. g4 $1 Rxg4 4. f4 $1 Rxf4 5. e4 $1 Rxe4 6. d4 $1 Rxd4 7. c4 $1 Rxc4 {<eg>} (Rd2 {<main>} 8. c5 $1 (8. Rxd2 $2) Rxa2 9. c6 $1 bxc6 10. b7+) (Rd3 8. c5 Rc3 9. Rh2 Rxa3 10. Rh8+) 8. Rh2 Rc3 9. Rh8+ Kd7 10. Kxb7 Rxa3 11. Ka6 Rb3 12. b7 Kd6 { <eg>} 13. b8=Q+ Rxb8 14. Rxb8 Kc5 15. Ka5 a3 16. Ka4 a2 17. Rc8+ 1-0
+
+[Event "Shakhmatna Misl"]
+[Source "Shakhmatna Misl/11"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k2r/p3p2p/PP6/p3P3/P7/K7/P7/8 w - - 0 1"]
+
+1. b7 $1 Kd7 2. b8=Q (2. e6+ $2 Kc7 3. b8=Q+ Kxb8) Rxb8 3. e6+ Kc7 1/2-1/2
+
+[Event "Schach"]
+[Source "Schach/12"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "Q7/1Ppp3P/P4p2/1PPP2n1/3n2Pk/7p/1P5K/8 b - - 0 1"]
+
+Ndf3+ $1 2. Kh1 Ne4 3. h8=Q+ Kg3 4. Qxh3+ $1 Kxh3 5. Qh8+ Kg3 6. Qh2+ $1 Nxh2 7. b8=Q Nf3 8. Qxc7+ Kh3 9. Qh2+ $1 Nxh2 10. Kg1 Kg3 11. b6 Nd2 12. b7 Nhf3+ 13. Kh1 Ne4 14. b8=Q+ d6 (Kh3 15. Qh8+ Kg3 16. Qb8+) 15. Qxd6+ Kh3 16. Qh2+ $1 Nxh2 17. Kg1 Kg3 18. a7 Nd2 19. a8=Q Nhf3+ 20. Kh1 Ne4 21. Qb8+ Kh3 22. Qh8+ Kg3 23. Qb8+ 1/2-1/2
+
+[Event "3.hm Shakhmatna Misl#06"]
+[Source "Shakhmatna Misl/1 1960"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p1p2/1p1p1p2/1p1P4/1P1P4/4Kp2/p4P2/2k1B2N w - - 0 1"]
+
+1. Bc3 $1 Kc2 (f5 2. Ng3 Kc2 3. Ba1 f4+ 4. Kxf4 Kb1 5. Bc3 a1=Q 6. Bxa1 Kxa1 7. Ke3 Kb2 8. Kd3 Kb3 9. Nf5 Kxb4 10. Nxd6 f6 11. Ne4 Ka3 12. Nxf6 b4 (d6 13. Ne4 b4 14. Nxd6) 13. Nxd7 b5 14. Nc5 b3 15. Nxb3) 2. Ba1 Kb1 3. Kd2 Kxa1 4. Kc1 f5 5. Ng3 f4 6. Nf5 f6 7. Nxd6 f5 8. Nxb5 d6 9. Na3 b5 10. Nc2# 1-0
+
+[Event "5.p Lelo"]
+[Source "also Shakhmaty (Riga)#1682 Shakhmaty (Riga)=15(87) Shakhmaty (Riga)/8 1963."]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2P3N1/4P3/2n1p3/5k2/7n/4K3 w - - 0 1"]
+
+1. c7 $1 (1. e6 $2 Ng4 $1 2. Ne5+ Ngxe5 3. c7 Nd6 4. e7 e3 5. e8=Q Nxe8 6. c8=Q Nd3+ 7. Kd1 e2+) Nb6 2. e6 Ng4 (Nc8 3. e7 Nxe7 4. Nxe7 e3 5. c8=Q) 3. Ne5+ $1 (3. e7 $2 Nf6 4. Ne5+ Kg3 $1 5. Nd7 Ne8 6. Nxb6 Nxc7 7. Nd5 Ne8) Kf4 $1 (Kg3 4. Nxg4 Nc8 5. Ne5 Kf4 6. Nc6 Kf5 7. e7) (Nxe5 4. e7 e3 5. e8=Q Nd3+ 6. Kf1) 4. e7 $1 (4. Nxg4 $2 Nc8 $1 5. Nh6 Ke5) Nf6 5. Nd7 $1 Ne8 (Nc8 {<main>} 6. Nxf6 Nxe7 7. Nd5+ $1 Nxd5 8. c8=Q) 6. Nxb6 Nxc7 7. Nd5+ $1 Nxd5 8. e8=Q 1-0
+
+[Event "Shakhmatna Misl#091"]
+[Source "Shakhmatna Misl/10"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "Korolkov, V"]
+[Black " Mitrofanov, L."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5r2/5P2/5pkp/4P3/3PP2P/8/4B2K/6n1 w - - 0 1"]
+
+1. Bh5+ $1 Kxh5 2. e6 Nf3+ $1 3. Kg3 $1 Nxd4 4. e7 Nf5+ $1 5. exf5 Rxf7 6. e8=N $1 Rf8 (Re7 {<main>} 7. Nxf6#) 7. Ng7# 1-0
+
+[Event "3.p Magyar Sakkélet#0449"]
+[Source "Magyar Sakkélet/11"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B6/2pk4/6P1/3N1p2/2P2PnK/1P6/p7/8 w - - 0 1"]
+
+1. g7 $1 Nh6 2. Kg5 $1 Ng8 3. Nf6+ $1 Ke6 $1 (Nxf6 4. Kxf6 a1=Q+ 5. Kf7) 4. Nxg8 Kf7 $1 (a1=Q 5. Kg6 $1) 5. Ba7 $1 (5. Bxc7 $2 a1=Q 6. Nh6+ Kxg7 7. Be5+ Kh7 $1 8. Bxa1) (5. Ne7 $2 Kxg7 6. Bxc7 a1=Q 7. Be5+ Kh7 8. Bxa1) c5 $1 (a1=Q 6. Nh6+ Kxg7 7. Bd4+ Qxd4 8. Nxf5+) 6. Bxc5 a1=Q 7. Bd4 $1 (7. Nh6+ $2 Kxg7 8. Bd4+ Kh7 $1 9. Bxa1) Qxd4 8. Nh6+ Kxg7 9. Nxf5+ 1-0
+
+[Event "Lidova Demokracie"]
+[Source "4.hm Bohemian Ring ty 1961."]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4N1k1/4p3/6PK/q2P1p2/5P2/2p5/B1P5/1b6 w - - 0 1"]
+
+1. d6+ $1 Bxa2 2. dxe7 Qb6 3. Kh5 Bf7 4. gxf7+ Kxf7 5. Nf6 Qxf6 6. e8=Q+ Kxe8 1/2-1/2
+
+[Event "4.p Shakhmaty v SSSR#04 (v)"]
+[Source "Shakhmaty v SSSR/1 1962"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[Composer2 "Mitrofanov, Leopold Adamovich"]
+[White "Korolkov, V"]
+[Black " Mitrofanov, L."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/2pp4/8/P7/1k4p1/8/8/N7 w - - 0 1"]
+
+1. a6 $1 g3 2. Nc2+ $1 (2. a7 $2 g2 3. Nc2+ Kc3) Kb5 3. a7 g2 4. Nd4+ $1 Kb6 5. a8=Q g1=Q 6. Qb8+ Kc5 (Ka6 7. Qb5+ Ka7 8. Qa5+ Kb7 9. Qxc7+ Ka6 10. Qd6+ Ka5 11. Qc5+ Ka6 12. Qb5+ Ka7 13. Qxd7+) 7. Qxc7+ Kd5 (Kb4 8. Qb6+ Kc4 9. Qb5+) 8. Qb7+ $1 (8. Qxd7+ $2 Ke4 $1 9. Qe6+ Kd3 10. Qb3+ Ke4) Kc5 9. Qb5+ Kd6 10. Qxd7+ Kc5 11. Qb5+ Kd6 12. Qc6+ Ke5 13. Nf3+ Kf4 14. Nxg1 1-0
+
+[Event "Problem#124"]
+[Source "Problem/9 also Shakhmaty v SSSR/10 1962."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/n1K5/p1pP1k2/7R/p1P5/3n4 w - - 0 1"]
+
+1. Ra3 $1 Nb3+ $1 2. Kxc4 a1=Q 3. Rxa1 Nxa1 4. Kb4 Nb2 (Ne3 5. d5 Ke5 6. d6 Kxd6 7. c4 Nac2+ 8. Kxa4 Kc5) 5. Ka3 Nc4+ 6. Kxa4 Ke4 (Nxc2 7. Kb5 $1 (7. Kb3 $2 N2e3 8. d5 (8. Kb4 Nd6 9. Kc5 Nef5) Nd6) N2e3 8. Kc5 $1 Nd2 9. d5 Ne4+ 10. Kc6) 7. Kb4 $1 (7. Kb5 $2 Kd5 8. c3 Nc2 9. Ka6 Nd6) Kd5 (Kxd4 8. Kb5 $1 (8. Ka4 $2 Kc5)) 8. Kc3 Ne3 (Na3 9. Kb2 N1xc2 (N3xc2 10. Kb1) 10. Kb3) 9. Kd3 $1 Nexc2 (Naxc2 10. Kd2) 10. Kc3 $1 (10. Kd2 $2 Na3 11. Kc3 Nc4) Ne1 11. Kd2 (11. Kb2 $2 Nac2 12. Kc3 Na3 13. Kb4 Nc4) Ng2 12. Kc3 Ne3 13. Kd2 $1 (13. Kd3 $2 Nd1 14. Kd2 Nb2 15. Kc3 Na4+ 16. Kb4 Nb6 17. Kc3 Nc4) Nc4+ 14. Kc3 Ne3 (Na5 15. Kb2 N1b3 16. Kc2 $1 Na1+ 17. Kb2) 15. Kd2 1/2-1/2
+
+[Event "Na Pervenstvo Mira"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "Korolkov, V"]
+[Black " Herbstman, A."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K4bnr/4p3/4Pp1p/4kPpP/2P3P1/7P/8/8 w - - 0 1"]
+
+1. Kb7 $1 Kd4 2. Kc6 Kxc4 3. Kd7 Kd4 4. Ke8 Ke3 5. Kxf8 Kf3 6. Kg7 Kg3 7. Kxh8 Kxh3 8. Kxg8 Kxg4 9. Kf7 Kxf5 10. Kxe7 g4 11. Kd7 $1 g3 12. e7 g2 13. e8=Q g1=Q 14. Qe6+ Kf4 15. Qxf6+ Kg3 16. Qg6+ Kf2 17. Qxg1+ Kxg1 18. Ke6 Kf2 19. Kf6 Kf3 20. Kg6 Kf4 21. Kxh6 Kf5 22. Kg7 1-0
+
+[Event "Shakhmaty v SSSR#04 (c)"]
+[Source "Shakhmaty v SSSR/1 (c): Garcia=M Estudios Artisticos de Ajedrez - VII-14 2012."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "Korolkov, V"]
+[Black " Mitrofanov, L."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/2pp4/8/8/PN4p1/k7/8/N7 w - - 0 1"]
+
+1. a5 $1 Kxb4 (g3 2. Nac2+ Ka4 3. a6 g2 4. a7 g1=Q 5. a8=Q+) 2. a6 g3 3. Nc2+ $1 (3. a7 $2 g2 4. Nc2+ Kc3) Kb5 4. a7 g2 5. Nd4+ $1 Kb6 6. a8=Q g1=Q 7. Qb8+ Kc5 (Ka6 8. Qb5+ Ka7 9. Qa5+ Kb7 10. Qxc7+ Ka6 11. Qd6+ Ka5 12. Qc5+ Ka6 13. Qb5+ Ka7 14. Qxd7+) 8. Qxc7+ Kd5 (Kb4 9. Qb6+ Kc4 10. Qb5+) 9. Qb7+ $1 (9. Qxd7+ $2 Ke4 $1 10. Qe6+ Kd3 11. Qb3+ Ke4) Kc5 10. Qb5+ Kd6 (Kxd4 11. Qb6+ Kd3 12. Qxg1) 11. Qxd7+ Kc5 {<eg>} (Ke5 12. Nf3+ Kf4 13. Nxg1) 12. Qb5+ Kxd4 13. Qb6+ Kd3 14. Qxg1 1-0
+
+[Event "1.p Szachy (c)"]
+[Source "(c): Keith=D Estudios Artisticos de Ajedrez - XV-19 2015."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "Korolkov, V"]
+[Black " Mitrofanov, L."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K2N3/2p5/4P3/1p2k2P/6PP/2P5/2nB4/q7 w - - 0 1"]
+
+1. e7 $1 (1. Nxc7 $2 Qa3 $1 2. Bf4+ Kxf4 3. e7 Qxe7 4. Nd5+ Kxg4 5. Nxe7 Kxh5) Nb4 2. cxb4 Ke6 3. Bc3 $1 Qg1 (Qc1 4. Bf6 $1 Qc6 5. Nxc7+ $1 (5. Ng7+ $2 Kd6 6. e8=Q Qb6+ 7. Kc8 Qa6+ 8. Kb8 Qb6+) Kd6 6. e8=N+ $1 Kd7 7. Bd4 Qc4 8. Bg7) (Qxc3 4. Nxc7+) 4. Bd4 Qxd4 5. Ng7+ Kxe7 6. Nf5+ Kf6 7. Nxd4 1-0
+
+[Event "1/2.p Problemista (c)"]
+[Source "(c): Bergkwist=D Springaren=98 6/2005."]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1Prp1P1P/P4p1p/1PPp2p1/6Pk/5n1p/1P1n4/7K w - - 0 1"]
+
+1. f8=Q $1 Ne4 2. Qxh6+ Kg3 (Kxg4 3. Qxh3+ $1 Kxh3 4. h8=Q+ Kg3 5. Qh2+ $1 Nxh2 6. b8=Q Nf2+ 7. Kg1 Nh3+ 8. Kh1 Nf2+ 9. Kg1) 3. Qxh3+ $1 Kxh3 4. h8=Q+ (4. h8=R+ $2 Kg3 5. Rh2 d6 $1 6. Rg2+ Kf4 $1 7. Rh2 Rxc5 $1) Kg3 5. Qh2+ $1 Nxh2 6. b8=Q Nf3 7. Qxc7+ Kh3 (d6 8. Qxd6+ Kh3 9. Qh2+ $1 Nxh2 10. Kg1 Kg3 11. b6) 8. Qh2+ $1 Nxh2 9. Kg1 Kg3 10. b6 Nd2 11. b7 Nhf3+ 12. Kh1 Ne4 13. b8=Q+ d6 14. Qxd6+ Kh3 15. Qh2+ $1 Nxh2 16. Kg1 Kg3 17. a7 Nd2 18. a8=Q Nhf3+ 19. Kh1 Ne4 20. Qb8+ Kh3 (Kf2 21. c6 d4 (f5 22. gxf5 g4 23. Qf4 Kf1 24. Qc1+) 22. b4 f5 (Kf1 23. Qb5+ Kf2 24. Qb8 d3 25. Qa7+ Kg3 26. Qc7+ Ne5 27. Qh7 $1) 23. gxf5 g4 24. f6 g3 25. Qg8 Kf1 26. Qc4+ d3 $1 27. Qxd3+ Kf2 28. Qc2+ Nfd2 29. Qc1 g2+ 30. Kh2 Nf1+ 31. Kh3 g1=Q 32. Qf4+) 21. Qh8+ Kg3 22. Qb8+ 1/2-1/2
+
+[Event "3.hm Olympic ty"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K2/8/3p4/1P4R1/p4kP1/8/4p1B1/8 w - - 0 1"]
+
+1. Rf5+ $1 Kxg4 2. Rf1 exf1=Q+ 3. Bxf1 d5 4. Be2+ Kf5 5. b6 a3 6. Bd3+ Ke6 7. b7 a2 8. b8=Q a1=Q 9. Qb6+ Ke5 10. Qc7+ Ke6 11. Qe7# 1-0
+
+[Event "4.p Shakhmaty v SSSR#46"]
+[Source "Shakhmaty v SSSR/12 EG#00109."]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2b5/8/8/R3P3/5k1P/1KB4p/8 w - - 0 1"]
+
+1. e5 $1 Bxe5+ (h1=Q 2. Be4+) 2. Ka2 $1 Bd4 $1 3. Bb3 $1 (3. Rxd4 $2 h1=Q 4. Be4+ Ke3 5. Bxh1 Kxd4 6. h4 Ke5) Ke4 4. Ra5 Bc5 $1 5. Ba4 $1 (5. Rxc5 $2 h1=Q 6. Bd5+ Kd4 7. Bxh1 Kxc5) Kd5 6. Ra6 Bb6 $1 7. Rxb6 h1=Q 8. Bc6+ Kc5 9. Bxh1 Kxb6 10. h4 Kc7 11. h5 Kd6 12. h6 Ke7 13. h7 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/8"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/3B4/5R2/5K1p/7k w - - 0 1"]
+
+1. Ke2 $1 (1. Ke1 $2 Kg2 2. Rf2+ Kh3 3. Rf3+ Kg2) Kg2 2. Be5 $1 (2. Rf2+ $2 Kh3 3. Rf1 Kg2) h1=Q 3. Rg3+ Kh2 4. Kf2 Qe4 $1 5. Re3+ $1 (5. Rg4+ $2 Kh1 6. Rxe4) Kh1 6. Rh3# (6. Rxe4 $2) 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/12 after Gorgiev=T g3a3 1965."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3pp1P1/1pp1pk2/1p6/1p2PK1p/1P5P/4r2N w - - 0 1"]
+
+1. g7 $1 Rf1+ 2. Ke2 Rg1 3. Ng3+ Rxg3 4. hxg3 h2 5. g4+ Ke4 6. g8=N Kd5 7. Ne7+ Kc4 8. Nc8 Kd5 9. Ne7+ Ke4 10. Ng8 1/2-1/2
+
+[Event "Vecherni Peterburg"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2n1P3/1P6/8/1b4n1/4Pk1p/8/5BK1 w - - 0 1"]
+
+1. Be2+ $1 (1. bxc7 $2 h2+ 2. Kh1 Kg3 3. e8=Q Nf2#) Kxe2 2. bxc7 h2+ 3. Kg2 $1 (3. Kh1 $2 Bd6 4. e8=Q Nf2+ 5. Kg2 h1=Q#) h1=Q+ $1 4. Kxh1 Kf1 $1 5. c8=N $1 (5. c8=Q $2 Nf2+ 6. Kh2 Bd6#) (5. e8=N $2 Bc3 6. c8=Q Nf2+ 7. Kh2 Be5#) Ba5 $1 6. Nd6 $1 (6. e8=N $2 Bc3 $1) Nf2+ 7. Kh2 Bc7 8. e8=N $1 1/2-1/2
+
+[Event "4.p October Revolution AT (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - VI-13 2012."]
+[Date "1968.11.29"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1R6/PP1k3P/1p1p4/2p2P1p/n6P/2P2p2/3pn2K/3rb3 w - - 0 1"]
+
+1. Rg8 $1 (1. Rd8+ $2 Kc6 2. Rxd6+ Kb5 3. Rxb6+ Nxb6) Bg3+ 2. Rxg3 Rh1+ (Nxg3 3. a8=Q Rh1+ 4. Kxg3 Rg1+ 5. Kf4 Rg4+ 6. Ke3) 3. Kxh1 Nxg3+ 4. Kh2 Nf1+ 5. Kh3 $1 d1=N $1 6. b8=N+ $1 (6. b8=Q $2 Nf2#) Kc7 7. Na6+ Kd7 (Kb7 8. a8=Q+ Kxa8 9. h8=Q+) 8. Nb8+ Ke7 9. Nc6+ Kf7 10. Nd8+ Ke7 (Kg7 11. Ne6+ Kxh7 12. Ng5+ Kg7 13. Nxf3) 11. Nc6+ Kd7 12. Nb8+ Kc7 13. Na6+ 1/2-1/2
+
+[Event "4.p October Revolution AT (c)"]
+[Source "(c): Keith=D Estudios Artisticos de Ajedrez - XV-19 2015."]
+[Date "1968.11.29"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1R6/PP1k3P/1p1p4/5P1p/7P/2P2p2/3pn2K/r3b3 w - - 0 1"]
+
+1. Rg8 $1 (1. Rd8+ $2 Kc6 $1 2. Rxd6+ Kxb7 3. a8=Q+ (3. h8=Q Bg3+ 4. Kh3 Rh1#) Rxa8) Bg3+ 2. Rxg3 Rh1+ (Nxg3 3. b8=Q Rh1+ 4. Kxg3 Rg1+ 5. Kf4 $1 Rg4+ 6. Ke3) 3. Kxh1 Nxg3+ (d1=Q+ 4. Kh2 Qe1 5. b8=N+) 4. Kh2 Nf1+ 5. Kh3 $1 d1=N $1 6. b8=N+ $1 (6. b8=Q $2 Nf2#) Kc7 7. Na6+ Kd7 (Kb7 8. a8=Q+ Kxa8 9. h8=Q+) 8. Nb8+ Ke7 9. Nc6+ Kf7 10. Nd8+ Ke7 (Kg7 11. Ne6+ Kxh7 12. Ng5+) 11. Nc6+ Kd7 12. Nb8+ Kc7 13. Na6+ 1/2-1/2
+
+[Event "4.hm October Revolution AT"]
+[Date "1968.12.06"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "Korolkov, V"]
+[Black " Kotov, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "N1b1n3/PR1p4/1B1k4/8/8/3p2pp/3P4/4K3 w - - 0 1"]
+
+1. Bc7+ $1 Nxc7 2. Rb6+ Ke7 $1 3. Nxc7 Bb7 $1 4. Rxb7 h2 5. Nd5+ Kd6 $1 6. Rxd7+ $1 Ke5 (Kc5 {<main>} 7. Rc7+ Kd4 $1 8. Rc4+ $1 Ke5 $1 9. Re4+ $1 Kd6 $1 10. Re6+ $1 Kc5 $1 11. Rc6+ $1 Kd4 12. Rc4+ Ke5 13. Re4+) (Kxd7 7. Nb6+ Kc7 8. a8=Q) 7. Re7+ Kd4 $1 8. Re4+ $1 Kc5 $1 9. Rc4+ $1 Kd6 $1 10. Rc6+ $1 Ke5 $1 11. Re6+ $1 Kd4 12. Re4+ 1/2-1/2
+
+[Event "Chess Life & Review#0469"]
+[Source "Chess Life & Review/10 EG#09859. also 2.hm Problem#288 Problem=152-156 Problem/4 1973."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7p/1p3B1P/pPpp4/K7/3R4/p7/qNk5 w - - 0 1"]
+
+1. Bg5+ $1 Kc2 2. Rd2+ Kxb1 3. Rd1+ Kb2 4. Bf6+ d4 5. Rxd4 $1 cxd4 (Qc1 6. Rc4+ Kb1 7. Rxc1+ Kxc1 8. Kb3 Kb1 (c4+ 9. Kxc4 Kb1 10. Kd5) 9. Ba1 $1 a4+ 10. Kc3 c4 11. Kd2 $1) 6. Bxd4+ Kb1 7. Bb2 $1 Kc2 8. Bxa1 Kb1 9. Kb3 a4+ 10. Kc3 Kxa1 11. Kc2 a3 12. Kc1 1/2-1/2
+
+[Event "Kirovskii Rabochi"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Alexandrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/3K2k1/6p1/1B3R2/6p1/8 w - - 0 1"]
+
+1. Rg3 $1 Kh4 2. Rxg2 Kh3 3. Rf2 g3 4. Rf3 Kh2 5. Bc4 g2 6. Bf1 g1=Q 7. Rh3# 1-0
+
+[Event "1.p Shakhmaty v SSSR#35"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[Composer2 "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5k1N/1p1r1p2/3P4/1p6/3p4/1K1P1P1R/8 w - - 0 1"]
+[PlyCount "25"]
+
+1. Rh6 $1 (1. Rh3 $143 Kg7 2. Rxd3 Kxh7 $11) Kg7 2. Ng5 $1 (2. Rxf6 $143 Rxd5 3. Rxb6 Kxh7 4. Rxb4 Rc5 5. Ka3 $1 Rc2 6. Rb2 Rc1 7. Rb3 Rf1 8. Rxd3 Rxf2 $11) Rxd5 3. Rh7+ Kg6 4. Ne4 $1 f5 (Rd4 $144 5. Re7 $18 f5 6. Re6+ Kh5 7. Nf6+ $18) (Re5 $144 5. Rh4 $18) 5. Rh5 $1 Rd4 (Ra5 $144 6. Ng3 Rc5 7. Kb3 Rc2 8. Rxf5 Rxd2 9. Rf6+ $1 Kg7 10. Rf4 $18) 6. Ng3 f4 7. Rh4 $1 Kg5 (Rc4 $144 8. Rg4+ Kf7 9. Kb3 b5 10. Nf5 $18) 8. f3 $1 Kxh4 9. Nf5+ Kh3 10. Nxd4 Kg2 11. Kb3 Kf2 12. Kxb4 Ke1 13. Kc3 $18 1-0
+
+[Event "2.hm FIDE Ty FIDE revue"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[Composer2 "Mitrofanov, Leopold Adamovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5b2/2PK4/8/k2N4/1pP5/7B/4r3 w - - 0 1"]
+[PlyCount "21"]
+
+1. c7 $1 (1. Nxb3 $143 $2 Kxb3 2. c7 Be6 3. Ke7 Bg4+ 4. Kd8 Rd1+ $19) (1. Kd7 $143 $2 b2 2. c7 Bh5 3. c8=Q (3. Ne6 $144 Bg4 $19) Bg4+ $19) (1. Be5 $143 $2 Bc4 2. Nxb3 (2. c7 $144 Ba6 $19) Kxb3 3. c7 Ba6 $19) Re8 (b2 $143 2. c8=Q b1=Q 3. Qa6#) 2. Nxb3 Bxb3 (Kxb3 $144 {<main>} 3. Kd7 Re2 $1 4. Be5 $1 Bg6 $1 (Bh5 $144 5. Bd4 $1 Bg4+ 6. Kd8 $11) 5. Ke6 $1 (5. Bd4 $143 $2 Bf5+ 6. Kd8 Rg2 $1 7. c8=Q Rg8+ $19) Rf2 $1 6. Bf4 $1 Bh5 7. Kf5 Rg2 $1 8. Bg3 $1 Rxg3 9. c8=Q Bg4+ 10. Kf4 Bxc8 11. Kxg3 $11) 3. Kd7 Re2 $1 4. Be5 $1 (4. c8=Q $143 $2 Be6+ 5. Kd8 Bxc8 6. Kxc8 Rxh2 $19) Bc2 $1 (Rxe5 $144 5. c8=Q (5. Kd6 $143 $2 Re8 6. Kd7 Re3 $19) Be6+ 6. Kd6 Bxc8 7. Kxe5 $11) 5. Ke6 (5. c8=Q $143 $2 Bf5+ 6. Kd8 Bxc8 7. Kxc8 Rxe5 $19) Rf2 $1 6. Bf4 $1 (6. c8=Q $143 $2 Bf5+ $19) Bd1 (Rxf4 $144 7. c8=Q Bf5+ 8. Ke5 $11) 7. Kf5 Rg2 $1 8. Bg3 $1 Rxg3 9. c8=Q Bg4+ 10. Kf4 Bxc8 11. Kxg3 $11 1/2-1/2
+
+[Event "3.p WCCT1 Ty {tt}"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "2"]
+[Composer "Korolkov, Vladimir Aleksandrovich"]
+[Composer2 "Yakimchik, Vitold"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1B5k/8/K3R1p1/2pPP2p/b1P3p1/1p3p2/7P/8 w - - 0 1"]
+[PlyCount "37"]
+
+1. Re7 f2 2. Rf7 b2 3. e6 b1=Q 4. Be5+ Kg8 5. Rg7+ Kf8 6. Bf6 Qe4 $1 (g5 $144 7. Rf7+ Ke8 8. Re7+ Kf8 9. Rf7+ Kg8 10. Rg7+ Kf8 11. Rf7+ Ke8 12. Re7+ Kf8 $11) 7. Rf7+ Ke8 8. Re7+ Kd8 9. Rf7+ $1 Kc8 10. Rf8+ Kc7 11. Rf7+ Kd6 12. Be7+ Ke5 13. Bf6+ Kf4 14. Bd4+ Kg5 15. Bf6+ Kh6 16. Bg7+ Kh7 17. Bf6+ $1 Kg8 18. Rg7+ Kf8 19. Rf7+ $11 1/2-1/2

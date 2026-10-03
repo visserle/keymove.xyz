@@ -1,0 +1,52 @@
+[Event "Schlesische Tageszeitung#418"]
+[Date "1938.10.23"]
+[Round "?"]
+[Composer "Renner, Kurt"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k2r/p6p/P1P1P3/PpK5/8/8/8/8 w k b6 0 1"]
+
+1. axb6 $1 axb6+ 2. Kd6 O-O 3. Kd7 1-0
+
+[Event "Deutsche Schachblätter#07"]
+[Date "1939.03.01"]
+[Round "?"]
+[Composer "Renner, Kurt"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3p2p1/1p1P2P1/1P3p2/3R1P2/5p2/8/3K2k1 w - - 0 1"]
+
+1. Kd2 $1 (1. Rd3 $2 Kg2 $1) f2 2. Ke3 $1 f1=Q 3. Rd1 $1 Qxd1 1/2-1/2
+
+[Event "8.p Grossdeutscher Schachbund ty Deutsc"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Renner, Kurt"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/pK6/pP6/8/8/r6N/8/5k2 w - - 0 1"]
+
+1. bxa7 $1 Rb3+ 2. Kc7 (2. Kc6 {<or>}) Rc3+ 3. Kd7 (3. Kd8 $2 Rxh3 $1 4. a8=Q Rh8+) Rd3+ 4. Ke7 Re3+ 5. Kf7 Rf3+ 6. Kg7 Rg3+ 7. Ng5 $1 Rxg5+ 8. Kf7 Rf5+ 9. Ke7 Re5+ 10. Kd7 Rd5+ 11. Kc7 Rc5+ 12. Kb7 Rb5+ 13. Kc6 $1 (13. Kxa6 $2 Rb1 $1 14. a8=Q Ra1+) 1-0
+
+[Event "Deutsche Schachzeitung#2224"]
+[Source "Deutsche Schachzeitung/6"]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Renner, Kurt"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k1n5/n2p4/K2PP2p/8/8/6b1/8/8 w - - 0 1"]
+
+1. exd7 $1 Bh4 2. dxc8=Q+ Nxc8 3. d7 Na7 (Kb8 4. dxc8=Q+ Kxc8 5. Kb5) (Nd6 4. d8=Q+ Bxd8) 4. d8=Q+ Bxd8 1/2-1/2

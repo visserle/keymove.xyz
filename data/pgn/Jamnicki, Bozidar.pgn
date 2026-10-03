@@ -1,0 +1,69 @@
+[Event "3.hm Yugoslavia ty Problem"]
+[Source "Problem/7 1960"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Jamnicki, Bozidar"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5p2/7p/2P4p/7P/b4K2/P7/7k w - - 0 1"]
+
+1. c6 $1 Bd6 2. a4 Bc7 3. a5 Bxa5 4. Kg3 Kg1 5. Kh3 Kf1 6. c7 Bxc7 1/2-1/2
+
+[Event "5.hm Problem#134"]
+[Source "Problem/4 1963 EG#09714."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Jamnicki, Bozidar"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p6/2p1P3/P3K3/1p1P4/1P1r2p1/1P1P2Pk/8 w - - 0 1"]
+
+1. a6 $1 bxa6 2. Ke4 Rxd2 3. Ke3 Rd1 4. Ke2 Rxd4 5. e7 Re4+ 6. Kf1 Rxe7 1/2-1/2
+
+[Event "Problem#191 (pl)"]
+[Source "Problem/10 = Gunst=J d5d8 1922."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Jamnicki, Bozidar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4kBN1/4p2p/8/4K3/8/8/8/8 w - - 0 1"]
+
+1. Bg7 $1 Kf7 2. Bh6 Kxg8 3. Ke6 Kh8 4. Kf7 e5 5. Bg7# 1-0
+
+[Event "Problem#344 (c)"]
+[Source "Problem/8 (c): Jamnicki=B Problem=198-201 7/1980."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Jamnicki, Bozidar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4q3/4P3/6p1/4N2k/5P2/6PK/P4P2/8 w - - 0 1"]
+
+1. Ng4 $1 Qxe7 2. Nf6+ Qxf6 3. g4+ Kh6 4. g5+ Qxg5 5. fxg5+ Kxg5 6. a4 1-0
+
+[Event "Problem#378"]
+[Source "Problem/7 EG#11594."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Jamnicki, Bozidar"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/pPp4p/2P5/PK6/5p2/R1p5/1pP5/8 w - - 0 1"]
+
+1. Rb3 $1 f3 2. Ka6 f2 3. Rb5 f1=R (f1=Q) 4. Rf5 b1=Q 5. Rf8+ Rxf8 1/2-1/2

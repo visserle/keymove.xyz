@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Tjulin, Yuri"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "r7/2p1k2p/7R/2K3P1/p7/4N3/8/8 w - - 0 1"]
+
+1. g6 (1. Rxh7+ $6 Ke6 2. Rh6+ $14) (1. Nf5+ $6 Kf7 2. Nd4 $14 $10) (1. Kc6 $2 Ra6+ 2. Kb5 Rxh6 3. gxh6 $10) (1. Ng4 $6 a3 2. Rxh7+ Ke6 3. Rh1 $14 $10) (1. Kd5 $6 Ra5+ 2. Kc4 $14) (1. Re6+ Kxe6) (1. Rd6 cxd6+ 2. Kb4 a3) hxg6 2. Nd5+ (2. Rh7+ $2 Ke6 3. Rh6 $10) (2. Rxg6 $2 Kd7 3. Nd5 $10) (2. Ng4 $2 a3 3. Rh1 $10) (2. Kd5 $2 a3 3. Rh1 $10) (2. Nc4 $2 a3 3. Rh1 $10) (2. Kc6 $2 Kf6 3. Nd5+) Kd7 (Kf7 3. Rh7+ (3. Nxc7 $2 Ra5+ 4. Nb5 $10) (3. Nf4 a3 4. Rh7+) (3. Kc6 g5 4. Rf6+) Ke6 4. Nxc7+ $1 $18 (4. Re7+ $2 Kf5 5. Nxc7 Ra5+ 6. Nb5 $10) (4. Rxc7 $4 Ra5+ 5. Kc4 Rxd5 6. Re7+ Kxe7 7. Kxd5 a3) (4. Nf4+ $2 Kf5 5. Rf7+) (4. Ne3 a3 5. Rh1)) 3. Rh7+ (3. Rxg6 $2 Ra5+ 4. Kc4 $10) (3. Nf6+ $2 Ke6 4. Nd5) (3. Nb6+ $4 cxb6+ 4. Kd5 Ra5+) (3. Nxc7 Ra5+ 4. Nb5) Kc8 4. Nb6+ (4. Nxc7 Ra5+ $18 5. Kc6) (4. Rxc7+ $2 Kd8 5. Rb7 $10) (4. Ne7+ $2 Kb7 5. Rh4 $14 $10) (4. Kc6 $6 Ra6+ 5. Kb5 $14 $10) (4. Rh8+ $2 Kb7 5. Rh1 $10) (4. Rg7 a3 5. Nxc7) (4. Nf6 a3 5. Rh8+) (4. Nb4 Kb7 5. Kc4) (4. Kb5 Ra7 5. Nb6+) cxb6+ 5. Kc6 (5. Kxb6 Rb8+ 6. Kc6 $18) (5. Kb5 Ra5+ 6. Kxb6 Re5) Kb8 6. Kxb6 (6. Rb7+ Kc8 7. Rh7 $18) (6. Rh8+ $4 Ka7 $19 7. Rh7+ Ka6) (6. Rh6 $4 Ka7 $19 7. Rxg6 Ka6) (6. Kd7 Ra7+ 7. Kd6 Rxh7) (6. Kb5 Ra7 7. Rh6) (6. Kd6 a3 7. Rh8+ Kb7) Kc8 7. Rh8+ $18 (7. Rg7 Rb8+ $18 8. Kc6) (7. Rf7 $18) (7. Kc6 $2 Ra6+ 8. Kb5) (7. Rc7+ $2 Kd8 8. Rg7) (7. Re7 Rb8+ 8. Kc6) 1-0

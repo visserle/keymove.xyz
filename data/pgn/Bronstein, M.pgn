@@ -1,0 +1,13 @@
+[Event "1.p Sinfonie Scacchistiche#0330 (c)"]
+[Source "Sinfonie Scacchistiche/10-12 (c): Garcia=M Estudios Artisticos de Ajedrez - XVI-55 2015."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Bronstein, M"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1n4Q1/K1N2pp1/5B2/4N3/5q2/1P3n1k/6p1/8 w - - 0 1"]
+
+1. Qh7+ $1 Kg3 (Nh4 2. Bxh4 Qxh4 (g1=Q+ 3. Bf2+ Kg2 4. Bxg1) 3. Qd3+ Qg3 (Kh2 4. Nf3+) 4. Qf5+ Kh2 5. Nf3+ Qxf3 6. Qxf3 g1=Q+ 7. Kxb8 Qb6+ 8. Kc8) (Qh6 2. Qf5+) 2. Qxg7+ Kh3 (Ng5 3. Kxb8 g1=Q 4. Nd5 Qe4 5. Bxg5 Qxd5 (Qgg2 6. Be3+ Kh2 7. Qh6+ Qh3 8. Bf4+ Kg2 9. Ne3+) (Kh2 6. Qh6+ Kg2 7. Nf4+) 6. Be3+) 3. Nd5 $1 (3. Nxf3 $2 Qxc7+ 4. Ka8 Qc6+ 5. Kxb8 Qb6+ 6. Kc8 Qc6+ 7. Kd8 Qb6+ 8. Ke8 Qb5+ 9. Kf8 Qb8+ 10. Kxf7 Qxb3+) Qd4+ (Nc6+ 4. Nxc6 Qe4 5. Qh8+ Kg3 6. Qb8+ Kg4 7. Qc8+ Kg3 8. Qc7+ Kg4 9. Qd7+ Kg3 (Qe6 10. Ne3+ Kh3 11. Qxe6+ fxe6 12. Nxg2) 10. Qd6+ Kg4 11. Bd4 Nxd4 12. Nf6+ Kh3 13. Nxd4 Qe3 14. Qd7+) (Qe4 4. Nxf3 Nc6+ 5. Kb6 Qxd5 6. Ng5+ Kh2 (Kg4 7. Ne4+ Kf4 8. Qg3+ Kxe4 9. Qxg2+) 7. Qh7+ Kg3 8. Ne4+ Qxe4 9. Qxe4 g1=Q+ 10. Kxc6) 4. Kxb8 g1=Q 5. Qxg1 Nxg1 6. Nd3 $1 Nf3 (Qxd3 7. Nf4+ Kg4 8. Nxd3) (Qxd5 7. Nf4+ Kg4 8. Nxd5) 7. Bxd4 Nxd4 8. b4 Nc6+ 9. Kc7 Nxb4 10. N3xb4 (10. N5xb4 {<or>}) f5 11. Nf4+ Kg4 12. Nbd3 1-0

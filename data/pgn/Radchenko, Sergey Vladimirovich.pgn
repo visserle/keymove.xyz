@@ -1,0 +1,55 @@
+[Event "Shakhmaty (Riga)#075"]
+[Source "Shakhmaty (Riga)/11"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Radchenko, Sergey Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6pp/8/5P2/7P/2KR4/1p6/k7 w - - 0 1"]
+
+1. Kc4 $1 (1. Rd4 $2 b1=Q 2. Ra4+ Qa2 3. Rxa2+ Kxa2 4. h5 h6 5. Kc4 Kb2 6. Kd5 Kc3 7. Ke6 Kd4 8. Kf7 Ke5 $1 9. Kg6 Ke4 $1) b1=Q 2. Ra3+ Kb2 3. Rb3+ Kc2 4. Rxb1 Kxb1 5. h5 h6 6. Kd5 Kc2 7. Ke6 Kd3 8. Kf7 Ke4 9. Kg6 Ke5 (Kf4 10. f6) 10. f6 gxf6 11. Kxh6 f5 12. Kg6 $1 (12. Kg5 $2 Ke6 $1) f4 13. h6 f3 14. h7 f2 15. h8=Q+ 1-0
+
+[Event "Shakhmatnaya Moskva#36 (c)"]
+[Source "(c): Radchenko=S Shakhmatnaya Moskva=23(237) 15-12-1967."]
+[Date "1967.09.23"]
+[Round "?"]
+[Composer "Radchenko, Sergey Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4b3/pk6/p3K3/1p1P4/7p/8/6B1/8 w - - 0 1"]
+
+1. Ke7 $1 h3 $1 2. Bh1 $1 (2. Bxh3 $2 Kb6 $1 3. Kxe8 (3. d6 Kc5) Kc5 4. Bg2 Kd6 $1) Bc6 $1 3. d6 $1 (3. dxc6+ $2 Kc7) h2 (Kb6 4. Bxc6 Kxc6 5. d7 h2 6. d8=Q h1=Q 7. Qa8+) 4. d7 Bxh1 5. d8=Q Bc6 $1 6. Kd6 h1=Q 7. Qc7+ Ka8 8. Qc8# 1-0
+
+[Event "Problem#200"]
+[Source "Problem/2"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Radchenko, Sergey Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1b6/k7/1N1p4/1P1P4/2K5/8/8/8 w - - 0 1"]
+
+1. Na8 $1 (1. Nc8+ $2 Kb7 2. b6 Kxc8 3. Kb4 Kd7 4. Kb5 Kd8 5. Kc6 (5. Ka6 Kc8) Kc8) Kb7 $1 2. b6 Kxa8 3. Kb4 $1 (3. Kb5 $2 Kb7 4. Ka5 Ba7) Kb7 4. Kb5 Ka8 (Kc8 {<main>} 5. Ka6 $1) 5. Kc6 $1 (5. Ka6 $2 Bc7 6. bxc7) 1-0
+
+[Event "sp.p Schach#12355"]
+[Source "Schach/8-9 EG#08772."]
+[Date "1989.??.??"]
+[Round "?"]
+[Composer "Radchenko, Sergey Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/Pp6/1kp5/1P6/8/3B4/2p5/8 w - - 0 1"]
+
+1. a8=N+ $1 (1. a8=Q $2 c1=Q) Ka7 2. b6+ Kxa8 3. Kc8 c1=Q 4. Ba6 bxa6 5. b7+ Ka7 6. b8=Q# 1-0

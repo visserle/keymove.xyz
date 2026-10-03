@@ -1,0 +1,41 @@
+[Event "1.p Yugoslavia ty Problem (c)"]
+[Source "Problem/11 (c): Garcia=M Estudios Artisticos de Ajedrez - XI-109 2012."]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Zlatic, Savo"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6r1/2P1p3/5b2/4P3/R6P/5Kpk/1n6/8 w - - 0 1"]
+
+1. Rg4 $1 Rf8 2. Rxg3+ Kxh4 (Kh2 3. Rg2+ Kh3 (Kh1 4. exf6) 4. Rg3+) 3. Rg4+ Kh5 4. Rf4 $1 Nd3 $1 5. exf6 Nxf4 6. fxe7 Rc8 7. Kxf4 Kg6 8. Ke5 Kf7 9. e8=Q+ Kxe8 10. Kd6 Ra8 11. Kc6 Rc8 12. Kd6 $1 1/2-1/2
+
+[Event "5.p International Friendship Team ty (t"]
+[Source "EG#00134b."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Zlatic, Savo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5R2/8/N7/p7/8/8/pk1K4/8 w - - 0 1"]
+
+1. Rb8+ $1 Ka3 2. Nb4 axb4 3. Kc2 a1=N+ 4. Kb1 Nb3 5. Ra8+ 1-0
+
+[Event "5.p International Friendship Team ty (t"]
+[Source "EG#00134c."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Zlatic, Savo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5R2/8/N7/p7/K7/8/pk6/8 w - - 0 1"]
+
+1. Rf2+ $1 Kb1 2. Nc5 a1=Q+ 3. Kb3 a4+ 4. Nxa4 1-0

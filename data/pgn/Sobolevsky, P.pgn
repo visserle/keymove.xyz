@@ -1,0 +1,27 @@
+[Event ".p Beginner ty Shakhmaty v SSSR (c)"]
+[Source "Shakhmaty v SSSR/9 1951"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Sobolevsky, P"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5k1N/5BN1/8/8/7K/6nb/8 w - - 0 1"]
+
+1. Nh8+ $1 (1. Ngf8 $2 Bd6) Kg8 $1 (Ke6 2. Kxh2) 2. Kxg2 $1 (2. Kxh2 $2 Ne3) Bf4 $1 3. Ng6 $1 Bh6 $1 4. Ng5 Bg7 $1 5. Ne7+ $1 (5. Bd8 $2 Bf6 $1 6. Bxf6 (6. Ne7+ Kf8 7. Nh7+ Ke8)) (5. Be7 $2 Bf6 6. Bxf6) Kh8 (Kf8 6. Ne6+) 6. Nf7+ Kh7 7. Bh4 $1 Bf6 $1 8. Ng5+ $1 (8. Bxf6 $2) Kh6 9. Ng8+ Kh5 10. Nxf6+ $1 Kxh4 11. Nf3# 1-0
+
+[Event ".c Shakhmaty v SSSR#02"]
+[Source "Shakhmaty v SSSR/1"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Sobolevsky, P"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/B3pP2/3q4/2N4p/K1PN4/8/8/8 w - - 0 1"]
+
+1. Bb8 $1 Qh6 (Qxb8 2. Nd7+ Kxf7 3. Nxb8) 2. Bf4 $1 Qh8 (Qh7 3. Nce6+ Kxf7 4. Ng5+) (Qxf4 3. Nde6+ Kxf7 4. Nxf4) 3. Be5 $1 Qh6 (Qxe5 4. Nd7+ Kxf7 5. Nxe5+) 4. Bg7+ $1 Kxg7 (Qxg7 5. Nde6+ Kxf7 6. Nxg7) 5. Nf5+ Kxf7 6. Nxh6+ 1-0

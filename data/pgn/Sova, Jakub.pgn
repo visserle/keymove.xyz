@@ -1,0 +1,12 @@
+[Event "Slovensky Narod"]
+[Date "1926.04.25"]
+[Round "?"]
+[Composer "Sova, Jakub"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p7/8/1P6/7p/4K1kp/R7 w - - 0 1"]
+
+1. Rh1 $1 Kxh1 (Kg3 2. Kf1) (a5 2. b5) 2. Kf2 a5 3. b5 1-0

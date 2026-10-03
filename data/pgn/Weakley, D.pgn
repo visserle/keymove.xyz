@@ -1,0 +1,13 @@
+[Event "Chess Life & Review#1478"]
+[Source "Chess Life & Review/11"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Weakley, D"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p6/1p3p2/1P1q4/Q2p2K1/3P4/8/6k1 w - - 0 1"]
+
+1. Qd1+ $1 Kh2 2. Qe2+ $1 Qg2+ 3. Kh4 $1 Kh1 (Qxe2) (f5 4. Qe5+) 4. Qd1+ (4. Qe1+ $2 Qg1 $1 5. Qe4+ Kh2 6. Qf4+ (6. Qe2+ Qg2 $1) Kg2 7. Qg4+ Kf1 8. Qd1+ Kf2 9. Qd2+ Kf3) Kh2 5. Qe2 $1 Kg1 6. Qe1+ Qf1 7. Qg3+ Kh1 8. Qf3+ $1 Qxf3 1/2-1/2

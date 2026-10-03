@@ -1,0 +1,38 @@
+[Event "Schach Echo#361"]
+[Date "1962.08.23"]
+[Round "?"]
+[Composer "Mockel, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/kP6/5K2/p7/b7/8/8/8 w - - 0 1"]
+
+1. Ke5 $1 (1. Ke6 $2 Bc6 2. Ke5 (2. Kd6 a4 3. Kxc6 Kb8) a4 3. Kd4 a3 4. Kc3 Ba4) Bd1 $1 (Bc6 2. Kd4) 2. Kd6 $1 (2. Kd4 $2 a4 3. Kc3 a3) Kxb7 3. Kc5 a4 (Ka6 4. Kc4) (Be2 4. Kd4) 4. Kb4 1/2-1/2
+
+[Event "Schach Echo#413"]
+[Date "1963.07.23"]
+[Round "?"]
+[Composer "Mockel, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5Kpk/8/2b2pP1/2R1p3/2p5/3pRn2/8 w - - 0 1"]
+
+1. Rxf2 $1 Bxf2 2. Rxc3 e3 3. Rc6 d1=Q 4. Rh6+ $1 gxh6 5. g6+ Kh8 6. g7+ Kh7 7. g8=Q# 1-0
+
+[Event "Schach Echo#470"]
+[Date "1964.11.23"]
+[Round "?"]
+[Composer "Mockel, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1PP4K/qp4N1/6pk/8/2rP1P1p/1bb4P/4R3 w - - 0 1"]
+
+1. c8=Q $1 (1. b8=Q $2 Qxd3) Rxc8 2. bxc8=Q (2. b8=Q $2 Qxd3) Qxc8 3. Nf4+ $1 gxf4 (Kh4 {<main>} 4. Ng6+ Kh5 5. Nf4+ Kh4) 4. Re5+ Kh4 (Bxe5) 5. Rh5+ Kxh5 1/2-1/2

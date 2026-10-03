@@ -1,0 +1,28 @@
+[Event "?"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Laisaari, Mauno Kalervo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "6K1/2p2B2/5P2/k1P2b2/p7/Pp6/8/3n2B1 w - - 0 1"]
+
+1. Bd4 (1. c6 $4 b2 $19) (1. Bh2 $4 b2 2. Bxc7+ Kb5 $17 $19) (1. Be6 $4 Bxe6+ 2. Kg7 b2 $19) (1. Bc4 $2 b2 2. f7 $10) (1. Bd5 $2 b2 2. f7 $10) (1. Bh5 $2 b2 2. f7) (1. Be8 $4 b2) (1. Kg7 $4 b2 $10 $15) (1. Kh8 $4 b2 $15 $17) (1. Bf2 $4 b2 2. Be1+ Kb5) b2 2. Bxb2 (2. Ba2 $4 Be6+ 3. Bxe6 b1=Q $19) (2. Bc4 $4 b1=Q 3. Be5 Qb8+ $19) (2. Be5 $4 b1=Q $19 3. Bxc7+ Kb5) (2. Bg6 $4 Bxg6 3. Bxb2 Nxb2) (2. Bh5 $4 b1=Q 3. f7 Be6) (2. c6 b1=Q) (2. Bd5 b1=Q 3. f7 Bh7+) (2. Bb3 b1=Q) (2. Be3 Nxe3) Nxb2 3. Bd5 (3. Bh5 $4 Kb5 $10 $15 4. Kf7) (3. Be8 $4 Nd3 $10) (3. Ba2 $2 Bg6 4. Bf7 $10) (3. Kg7 $4 Nd3 $10 4. Bd5) (3. c6 $4 Kb5 $10) (3. Be6 $4 Bxe6+ 4. Kf8 c6) (3. Kf8 Nd3) Bg6 4. Kg7 (4. Bc6 $4 Nc4 $19) (4. f7 $4 Bxf7+ 5. Kxf7 Kb5 $17 $19) (4. c6 $4 Kb5 $10) (4. Kf8 $4 Kb5 $17 $19) (4. Bf7 $2 Bxf7+ 5. Kxf7) (4. Bf3 $4 Nc4) Be8 5. Bc6 (5. Bf7 $2 Bxf7 6. Kxf7 $10) (5. Kf8 $4 Bh5 $10 6. Ke7) (5. Bf3 $4 Nd3 $17) (5. f7 $4 Bxf7 6. Kxf7 Kb5 $17 $19) (5. c6 $4 Nd3 $10) (5. Be4 $4 Kb5 $10) (5. Kh6 $4 Kb5) (5. Ba2 $4 Kb5) (5. Be6 Nd3 6. f7) Bh5 6. Bf3 (6. Kh6 $4 Bf7 $15) (6. Bd7 $4 Nd3 $19) (6. Be4 $2 Nc4 7. Bf3 $10) (6. f7 $4 Bxf7 7. Kxf7 Nc4 $19) (6. Kf8 $4 Nc4 $17) (6. Bd5 $4 Nd3 $10) (6. Kh8 $4 Nc4) (6. Kh7 Nc4) (6. Bg2 Nd3) Be8 7. Be2 (7. Bc6 $6 Bxc6 8. f7 $18) (7. Kf8 Bg6 8. Kg7 $18) (7. Kh6 $4 Nc4 $19) (7. Bg4 $4 Nd3 $17) (7. Bd5 $4 Kb5 $17 $19) (7. Be4 $4 Kb5 $10) (7. c6 $4 Nc4 $19) (7. f7 $4 Bxf7 8. Kxf7 Nc4 $19) (7. Bb7 $4 Kb5 $19) (7. Ba8 $4 Kb5) c6 8. Kf8 (8. f7 $2 Bxf7 9. Kxf7 Nd3 10. Bxd3) (8. Bf3 $2 Nd3 9. Kf8 $10) (8. Bg4 $4 Nd3 $10) (8. Kh6 $2 Bf7 9. Kg7) (8. Bf1 $2 Nd1 9. f7) (8. Kg8 $6 Bg6 9. Kg7) Bg6 9. Ke7 $18 (9. Kg7 Bd3 10. f7 $18) (9. Bf3 $2 Nd3 10. Bxc6 Nxc5 11. Ke7) (9. Bg4 $4 Nd3 $10) (9. f7 $2 Bxf7 10. Kxf7) (9. Kg8 $4 Nd3 $10) 1-0
+
+[Event "Karjala"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Laisaari, Mauno Kalervo"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "N5K1/6P1/8/k7/8/8/5p1B/5b2 w - - 0 1"]
+
+1. Nb6 $1 Kxb6 2. Kh8 Bc4 3. g8=Q Bxg8 4. Bg1 $1 fxg1=Q (fxg1=R) 1/2-1/2

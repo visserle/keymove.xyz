@@ -1,0 +1,13 @@
+[Event "Mat {Yugoslavia}"]
+[Source "Mat (Yugoslavia /7-8"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Ukmar, Mitja"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "kb6/1b1p4/pP1p4/K2PP3/P7/5B2/8/8 w - - 0 1"]
+
+1. e6 $1 dxe6 2. dxe6 Bxf3 3. e7 Bc6 (Bh5 4. Kxa6 Ba7 5. bxa7 Be8 6. Kb6 Bxa4 7. Kc7 d5 8. Kb6 d4 9. Ka5 Bd7 10. Kb4) 4. Kxa6 Ba7 5. b7+ Kb8 6. a5 d5 7. e8=Q+ Bxe8 1/2-1/2

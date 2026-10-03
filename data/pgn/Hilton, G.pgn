@@ -1,0 +1,12 @@
+[Event "New Statesman {and Nation}"]
+[Date "1959.06.27"]
+[Round "?"]
+[Composer "Hilton, G"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/k5K1/Ppp3P1/p2p4/8/P3P3/8 w - - 0 1"]
+
+1. Kf7 $1 b4 2. g6 b3 3. axb3 a3 4. g7 a2 5. g8=Q a1=Q 6. Qa8+ Kb5 7. Qxb7+ Kxa5 8. Qa7+ 1-0

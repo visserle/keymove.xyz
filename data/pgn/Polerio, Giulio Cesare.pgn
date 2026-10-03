@@ -1,0 +1,28 @@
+[Event "L'Elegantia, sottilità, Professione de'"]
+[Site "?"]
+[Date "1585.??.??"]
+[Round "?"]
+[Composer "Polerio, Giulio Cesare"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/8/6p1/7p/7P/8/pk1K4/2R5 w - - 0 1"]
+
+1. Ra1 $1 (1. Rg1 $2 a1=Q 2. Rxa1 Kxa1 3. Ke3 Kb2 4. Kf4 Kc3 5. Kg5 Kd4 6. Kxg6 Ke5 7. Kxh5 Kf6 $10) (1. Rc2+ Ka3 2. Rc1 Kb2 $18) (1. Ke2 Kxc1) Kxa1 2. Kc2 (2. Kc1 $4 g5 3. hxg5 h4 4. g6 h3 5. g7 h2 6. g8=Q h1=Q+ $10) (2. Kc3 $4 Kb1 $19) (2. Kd3 $4 Kb1 $19) (2. Ke3 $4 Kb1) (2. Kd1 Kb1) g5 3. hxg5 (3. Kc1 $4 g4) (3. Kb3 g4) h4 4. g6 h3 5. g7 h2 6. g8=Q h1=Q 7. Qg7# (7. Kc3 Qf1 8. Qa8) (7. Qh7 Qxh7+ 8. Kd2 Qh4) (7. Qa8 Qxa8) (7. Qxa2+ Kxa2) (7. Qg1+ Qxg1) (7. Qb8 Qb1+ 8. Qxb1+ axb1=Q+ 9. Kc3 Qe4) (7. Qf7 Qg2+ 8. Kd3) 1-0
+
+[Event "L'Elegantia, sottilità, Professione de'"]
+[Date "1590.??.??"]
+[Round "?"]
+[Composer "Polerio, Giulio Cesare"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/P7/1Pb5/1p6/8/6K1/k7/8 w - - 0 1"]
+
+1. Kf4 $1 b4 2. Ke5 b3 3. Kd6 Bh1 4. Kc7 b2 5. b7 Bxb7 6. Kxb7 b1=Q+ 7. Kc8 (7. Ka8 $2 Kb3 8. Kb8 Kc4+ 9. Kc8 Qh1 10. Kb8 Kb5 11. a8=Q Qh8+ 12. Kb7 (12. Ka7 Qd4+ 13. Kb8 Qd8+ 14. Kb7 Qd7+ 15. Kb8 Kb6) Qg7+ 13. Kc8 Qf8+ 14. Kb7 Qe7+ 15. Kc8 Qe8+ 16. Kb7 Qd7+ 17. Kb8 Kb6) (7. Kc7 {<or>}) 1/2-1/2

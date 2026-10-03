@@ -1,0 +1,27 @@
+[Event "2.c Beginner ty Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/9 1957"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Belenky, B"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3q4/K6p/BP6/3k4/7P/8/8/8 w - - 0 1"]
+
+1. b7 $1 Qc7 2. Ka8 Qa5 3. Ka7 $1 Qc5+ 4. Ka8 Qc6 5. Ka7 Qc5+ 6. Ka8 Qb6 7. Bc4+ Kxc4 8. b8=Q Qa6+ 9. Qa7 Qxa7+ 10. Kxa7 1/2-1/2
+
+[Event "1.c Beginner ty Shakhmaty v SSSR (m)"]
+[Source "Shakhmaty v SSSR/9 1957 also Shakhmatna Misl#74 Shakhmatna Misl=10 Shakhmatna Misl/10 1957. (m): Korolkov=V Shakhmaty v SSSR/9 1957."]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Belenky, B"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7p/BK6/1P1k4/7P/2p5/8/8 w - - 0 1"]
+
+1. Ka7 $1 c2 2. b6 c1=Q 3. b7 Qc7 4. Ka8 Qa5 5. Ka7 $1 Qc5+ 6. Ka8 Qc6 7. Ka7 Qc5+ 8. Ka8 Qb6 9. Bc4+ $1 Kxc4 10. b8=Q Qa6+ 11. Qa7 Qxa7+ 12. Kxa7 1/2-1/2

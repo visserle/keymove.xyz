@@ -1,0 +1,41 @@
+[Event "2.c Sachové Umenie#2752 (c)"]
+[Source "Sachové Umenie/4 EG#02302. (c): Sachové Umenie/12 1971."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Fort, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/8/4N1RB/1P1b2P1/p3k3/3p4/PPp5/8 w - - 0 1"]
+
+1. Nc5+ $1 Kd4 2. Nxd3 Kxd3 3. Rc6 Bxc6 4. g6 Bxb5 5. g7 Bc4 6. g8=Q Bxg8 7. Kxg8 c1=Q $1 8. Bxc1 Kc2 9. Kf7 $1 Kxc1 10. b4 $1 Kb2 11. b5 Kxa2 12. b6 a3 13. b7 Ka1 14. Ke6 $1 a2 15. Kd5 $1 Kb2 16. b8=Q+ 1-0
+
+[Event "Sachové Umenie#3266"]
+[Source "Sachové Umenie/9"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Fort, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/2p5/8/6PK/B7/p3p3/8/8 w - - 0 1"]
+
+1. g6 $1 Ke7 (a2 2. g7 a1=Q 3. g8=Q+ Ke7 4. Qe8+) (e2 2. g7 e1=Q 3. g8=Q+ Ke7 4. Qe8+) 2. g7 Kf7 3. Kh6 a2 $1 (e2 4. Kh7 e1=Q 5. g8=Q+ Kf6 (Ke7 6. Qe8+) 6. Qg6+ Ke7 7. Qe8+) 4. Kh7 a1=Q 5. g8=Q+ Ke7 (Kf6 6. Qh8+) 6. Qe8+ Kd6 (Kf6 7. Qh8+) 7. Qd7+ Kc5 (Ke5 8. Qg7+) 8. Qc6+ Kb4 (Kd4 9. Qf6+) 9. Qb5+ Ka3 (Kc3 10. Qe5+) 10. Qb3# 1-0
+
+[Event "Sachové Umenie#5023"]
+[Source "Sachové Umenie/1 after Vlasak=E e1a1 1977."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Fort, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b6/5p2/8/3P1p1P/q4r2/4QP2/pp3P2/rk2KN2 w - - 0 1"]
+
+1. Qd3+ $1 Qc2 (Kc1 2. Qc3+ Qc2 3. Qe3+ Kb1 4. Nd2+ Qxd2+ 5. Kxd2) 2. Qd1+ Qxd1+ 3. Kxd1 Rd4+ 4. Nd2+ Rxd2+ 5. Kxd2 Bd6 6. f4 Bc7 7. Kd1 Bxf4 8. f3 f6 9. d6 (9. h6 $2 Bxh6 10. d6 Bf8 11. d7 Be7 12. Kd2 Bd8 13. Kd1 Ba5 14. f4 Bc7) Bxd6 10. h6 Bf8 11. h7 Bg7 12. f4 Bh8 13. Kd2 1/2-1/2

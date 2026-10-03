@@ -1,0 +1,1657 @@
+[Event "Shakhmaty v SSSR#45"]
+[Source "Shakhmaty v SSSR/12"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4k3/3p4/3P3p/3p3P/3P3P/3K3P/8 w - - 0 1"]
+
+1. Kc2 $1 Kf7 $1 2. Kb2 $1 Kg6 $1 3. Ka3 $1 Kf6 4. Kb3 $1 Kf5 5. Kb4 Kf4 6. Kb5 $1 Ke3 7. Kc4 $1 Kf3 8. Kxd4 Kf4 9. Kc3 $1 Kf3 10. Kc4 1-0
+
+[Event "Krimskaja Pravda"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k5K1/8/8/4p1p1/1p2p1p1/1p2P1P1/1P6/8 w - - 0 1"]
+
+1. Kg7 $1 Ka7 $1 2. Kg6 $1 Kb6 $1 3. Kf6 $1 (3. Kxg5 $2 Kc5 4. Kf5 Kd5) Kb5 4. Kf5 $1 (4. Kxe5 $2 Kc5) Kc6 5. Ke6 $1 (5. Kxg4 $2 Kd5 6. Kf5 g4) (5. Kxe4 $2 Kd6 6. Kf5 Kd5) Kb6 6. Kd6 $1 Kb5 7. Kd5 $1 Kb6 8. Kxe4 $1 1-0
+
+[Event ".c Put k Kommunizmu"]
+[Source "EG#03471."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6p1/3p2k1/8/7K/P7/8 w - - 0 1"]
+
+1. a4 $1 d4 2. Kg2 d3 3. Kf1 Kf4 4. a5 Ke3 5. Ke1 1-0
+
+[Event "64"]
+[Date "1977.09.08"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p1p5/2p5/P1P5/2p3K1/6P1/8/5k2 w - - 0 1"]
+
+1. Kf3 $1 Ke1 $1 2. Ke3 $1 Kd1 3. Kd4 $1 Kd2 $1 4. Kxc4 Ke3 5. a6 $1 Kf3 6. Kd4 Kxg3 7. Ke5 $1 Kf3 8. Ke6 $1 Ke4 9. Kd7 Kd5 10. Kc8 $1 (10. Kxc7 $2 Kxc5 11. Kb7 Kd6 12. Kxa7 Kc7) 1-0
+
+[Event "Buletin Problemistic"]
+[Source "Buletin Problemistic/7-9 after Joitsa=P e3g3 1955."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1P2P3/5p2/3K1Pp1/8/6k1 w - - 0 1"]
+
+1. b6 $1 (1. e6 $2 Kf2 $1) Kh2 (Kf2 {<main>} 2. b7 g2 3. b8=B $1 (3. b8=Q $2 g1=Q 4. Qb6+ Kxf3 5. Qxg1) g1=Q 4. Ba7+) 2. b7 g2 3. b8=R $1 (3. b8=Q $2 g1=Q 4. Qh8+ Kg2 5. Qg8+ Kxf3 6. Qxg1) g1=Q 4. Rh8+ Kg2 5. Rg8+ 1-0
+
+[Event "Bulletin Central Chess Club USSR#17 (v)"]
+[Source "Bulletin Central Chess Club USSR/6 (v): Zinar=M Garmonia Peshechnogo Etyuda#217 1986."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p5p1/P3K1P1/p7/P6p/2P1k1pP/6P1/8 w - - 0 1"]
+
+1. Kf7 $1 Kf2 2. Kxg7 Kxg2 3. Kh6 $1 Kxh3 4. g7 g2 5. g8=R $1 (5. g8=Q $2 g1=Q 6. Qxg1) Kh2 6. Kh5 $1 h3 7. Kh4 $1 g1=Q 8. Rxg1 Kxg1 9. Kxh3 Kf2 10. c4 Ke3 11. c5 Kd4 12. c6 Kc5 13. c7 Kb6 14. c8=R $1 (14. c8=Q $2) 1-0
+
+[Event "3.p Bulletin Central Chess Club USSR#17"]
+[Source "Bulletin Central Chess Club USSR/6 EG#04036."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/P6K/p5P1/P5pp/2P4k/8/8 w - - 0 1"]
+
+1. g6 $1 g3 2. g7 g2 3. g8=R (3. g8=Q $2 g1=Q 4. Qxg1) Kh2 4. Kh5 h3 5. Kh4 g1=Q 6. Rxg1 Kxg1 7. Kxh3 Kf2 8. c4 Ke3 9. c5 Kd4 10. c6 Kc5 11. c7 Kb6 12. c8=R (12. c8=Q $2) 1-0
+
+[Event "4.p Thèmes 64#3353"]
+[Source "Thèmes 64/7-9 EG#04074."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/4kp2/8/1p1KP3/1P2P3/8 w - - 0 1"]
+
+1. Kc3 $1 Ke4 2. Kd2 Kd5 $1 (Ke5 3. Kd3 Kd5 4. e4+) 3. Ke1 (3. Kd3 $2 Ke5 4. e4 $2 f4) Ke5 4. Kf1 $1 Kd5 5. Kg2 $1 Ke4 6. Kf2 Kd5 7. Kf3 Ke5 8. e4 $1 fxe4+ 9. Kg4 $1 Kd5 10. Kf5 (10. Kg5 {<or>}) (10. Kf4 $2 Kd4 $1) Kd4 11. Kf4 Kd5 12. e3 Kc5 13. Ke5 $1 Kb5 14. Kd5 $1 Kb4 15. Kd4 Kb5 16. Kc3 Ka4 17. Kc4 Ka5 18. Kxb3 1-0
+
+[Event "4.p Thèmes 64#3353 (v)"]
+[Source "Thèmes 64/7-9"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5pk1/8/4p3/8/1p6/1P2PP2/K7 w - - 0 1"]
+
+1. Kb1 $1 e4 $1 2. Kc1 $1 e3 $1 3. fxe3 Kf6 4. Kd2 $1 Ke5 5. Kd3 $1 (5. Ke1 $2 Ke4 6. Kf2 f5) f5 6. Kc3 $1 Ke4 7. Kd2 $1 Kd5 8. Ke1 Ke5 9. Kf1 $1 Kd5 10. Kg2 $1 Ke4 11. Kf2 Kd5 12. Kf3 Ke5 13. e4 $1 fxe4+ 14. Kg4 Kd5 15. Kf5 1-0
+
+[Event "Thèmes 64#3398"]
+[Source "Thèmes 64/10-12"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/p2Pp3/2P5/2p1p3/4P3/8/1pK5/8 w - - 0 1"]
+
+1. Kb1 $1 (1. Kxb2 $2 a5 2. Kb3 Kc7 3. Kc3 a4 4. Kc4 e6 $1 5. Kc3 Kd8 $1) a6 2. Kc2 a5 3. Kxb2 Kc7 4. Kb3 e6 (Kd8 5. Kc4 a4 6. Kxc5 a3 7. Kb6 a2 8. Kb7 a1=Q 9. c7+ Kxd7 10. c8=Q+ Kd6 11. Qc6#) 5. Kc3 $1 a4 6. Kc4 Kd8 7. Kxc5 a3 8. Kd6 a2 9. c7# 1-0
+
+[Event "2.c Thèmes 64"]
+[Source "Thèmes 64/4-6 1979 EG#08185."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/7p/3p4/k7/P5pP/8/1P4P1/8 w - - 0 1"]
+
+1. Kb7 $1 d5 2. b4+ $1 Kxb4 $1 (Kxa4 3. Kc6 $1) 3. Kb6 $1 d4 $1 4. a5 d3 5. a6 d2 6. a7 d1=Q 7. a8=Q Qd6+ $1 8. Qc6 $1 (8. Ka7 $2 Qc5+ $1 9. Ka6 Qa5+ 10. Kb7 Qxa8+ 11. Kxa8 Kc4) Qxc6+ 9. Kxc6 Kc4 10. Kd6 (10. Kd7 {<or>}) Kd4 11. Ke6 $1 Ke3 12. Kf5 g3 13. Kg4 Kf2 14. Kh3 h5 1/2-1/2
+
+[Event "Thèmes 64"]
+[Source "Thèmes 64/4-6 after Prokes=L f8e4 1948 after Grigoriev=N a6a2 1937."]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p6p/Kp4p1/6P1/8/k2P3P/8 w - - 0 1"]
+
+1. Kb4 $1 Kb2 $1 (a5+ 2. Kxa5 $1 Kb3 3. Kxb5) 2. d4 a5+ $1 3. Kxb5 $1 Kb3 $1 4. d5 $1 a4 5. d6 a3 6. d7 a2 7. d8=Q a1=Q 8. Qd3+ $1 Qc3 9. Qxc3+ Kxc3 10. Kc5 $1 Kd2 11. Kd6 $1 Kd3 12. Kd5 $1 Ke2 13. Ke6 $1 Ke3 14. Ke5 $1 Kf2 15. Kf6 $1 Kf3 16. Kf5 $1 Kg2 17. Kg6 Kh3 18. Kh5 $1 1-0
+
+[Event "Thèmes 64"]
+[Source "Thèmes 64/4-6 after Prokes=L f8e4 1948 after Selezniev=A a5b3 1913."]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/p7/Kp5P/7P/8/k2P4/8 w - - 0 1"]
+
+1. Kb4 $1 Kb2 $1 2. d4 a5+ $1 3. Kxb5 $1 Kb3 $1 4. d5 a4 5. d6 a3 6. d7 a2 7. d8=Q a1=Q 8. Qd3+ Qc3 $1 9. Qxc3+ Kxc3 10. Kc5 Kd3 11. Kd5 Ke3 12. Ke5 Kf3 13. Kf5 $1 Kg3 14. h6 $1 gxh6 15. h5 1-0
+
+[Event "64"]
+[Source "after Selezniev=A e1d4 1919."]
+[Date "1979.03.15"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6p1/8/2P1k3/2p5/P7/1P6/1K6 w - - 0 1"]
+
+1. Kc2 $1 g5 $1 2. Kc3 $1 (2. Kd2 $2 Kd5 3. Ke3 Kxc5 4. Kf3 Kb5 5. Kg4 Ka4 6. Kxg5 Kb3 7. a4 Kxa4) g4 $1 3. Kd2 $1 Kd5 4. Ke3 Kxc5 5. Kf4 Kb5 6. Kxg4 Ka4 7. Kf5 $1 (7. Kf4 $2 Kb3 8. a4 Kxb2 9. a5 c3 10. a6 c2 11. a7 c1=Q+) (7. Kf3 $2 Kb3 8. a4 Kxb2 9. a5 c3 10. a6 c2 11. a7 c1=Q 12. a8=Q Qh1+) Kb3 8. a4 $1 1/2-1/2
+
+[Event "64 (v)"]
+[Date "1979.03.15"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6p1/3P1kp1/5P2/K7/8/8 w - - 0 1"]
+
+1. Kb4 $1 (1. fxg5 $2 Ke5 2. Kb3 Kxd5 3. Kc3 Ke5 4. Kd3 Kf5 5. Ke3 Kxg5 6. Kf3 Kh4 $1) g4 $1 (gxf4 2. d6 f3 3. d7) 2. d6 $1 Ke6 (g3 3. d7) 3. Kc5 $1 Kd7 $1 (g5 4. fxg5 g3 5. Kc6 g2 6. d7 g1=Q 7. d8=Q) 4. Kd4 Kxd6 5. Ke3 $1 Kd5 6. Kf2 Ke4 7. Kg3 Kf5 8. Kh4 $1 Kxf4 1/2-1/2
+
+[Event "2.hm Revista de Romana de Sah (tt)"]
+[Source "Revista de Romana de Sah/5 EG#04284."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p4k/8/2pP4/7K/8/8/8 w - - 0 1"]
+
+1. Kg3 $1 (1. Kg4 $2 Kh6 $1 2. Kf5 Kg7 3. Ke5 Kf7 $1 4. Kf5 Ke7 5. Ke5 Kd7) Kh6 $1 2. Kg4 $1 Kg7 3. Kf3 $1 Kg6 4. Kf4 $1 Kf7 5. Ke3 $1 Kf6 6. Ke4 $1 Ke7 7. Kd3 $1 Kd7 8. Kc3 $1 Kd6 9. Kc4 1/2-1/2
+
+[Event "Pobeda AT"]
+[Source "also Shakhmaty v SSSR/1 1987."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5P2/6k1/p7/8/8/1Pp5/4K3 w - - 0 1"]
+
+1. f8=N+ $1 (1. Kd2 $2 Kxf7 2. Kxc2 Ke6 3. Kb3 Kd5 4. Ka4 Kc4) Kg7 2. Kd2 $1 c1=Q+ 3. Kxc1 Kxf8 4. Kc2 $1 a4 5. Kb1 $1 (5. Kc3 $2 a3 $1 6. bxa3 Ke7) a3 (Ke7 6. Ka2 Kd6 7. Ka3 Kc5 8. Kxa4 Kb6 9. Kb4) 6. b3 Ke7 7. Ka2 Kd6 8. Kxa3 Kc5 9. Ka4 Kb6 10. Kb4 1-0
+
+[Event ".hm Chervoni Girnik"]
+[Source "EG#06309."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3pp3/2P2k2/7K/3PP3/1p4pp/P6P/8 w - - 0 1"]
+
+1. c7 $1 bxa2 (b2 {<main>} 2. c8=Q b1=Q 3. Qf8+ Ke6 4. Qf5+ Kd6 5. e5+ Kd5 6. Qxb1) (gxh2 {<main>} 2. c8=Q h1=Q 3. Qf8+ Ke6 4. Qf5+ Kd6 5. Qc5+ Ke6 6. Qd5+ Kf6 7. e5+ Kg7 8. Qxh1) (g2 {<main>} 2. c8=Q g1=Q 3. Qf8+ Ke6 4. Qf5+ Kd6 5. Qc5+ Ke6 6. d5+ Kf7 7. Qxg1) 2. c8=Q a1=Q 3. Qf8+ Ke6 4. Qf5+ Kd6 5. Qe5+ Kc6 6. d5+ Kb7 7. Qxa1 1-0
+
+[Event "64 Shakhmatnoye Obozrenye#28 (pl)"]
+[Source "64 Shakhmatnoye Obozrenye/4 = Herbstman=A b6b8 1937."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/8/4P1Kp/8/8/8/p4p2/8 w - - 0 1"]
+
+1. e7 $1 f1=Q 2. e8=Q+ Qf8 3. Qe6+ $1 Kh8 4. Qe5+ Kg8 5. Qd5+ Kh8 6. Qd4+ Kg8 7. Qc4+ Kh8 8. Qc3+ Kg8 9. Qb3+ Kh8 10. Qb2+ Kg8 11. Qxa2+ Kh8 12. Qb2+ Kg8 13. Qb3+ Kh8 14. Qc3+ Kg8 15. Qc4+ Kh8 16. Qd4+ Kg8 17. Qd7 1-0
+
+[Event "Pobeda"]
+[Source "also Shakhmatnaya Kompozitsia=10 30-4-1995."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/2P2p2/k6K/8 w - - 0 1"]
+
+1. c4 $1 Kb3 2. c5 Kc4 3. c6 Kd3 4. c7 f2 5. c8=Q f1=Q 6. Qa6+ 1-0
+
+[Event "1.p 64 Shakhmatnoye Obozrenye#44"]
+[Source "EG#05923."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5K1p/1kP5/2p5/2P5/8/P7/8 w - - 0 1"]
+
+1. Kg7 $1 (1. Kf6 $2 Kxc6 2. Kg5 Kb6 3. Kh6 Ka5 4. Kxh7 Kb4 5. Kg6 Kxc4 6. Kf5 Kc3 7. Ke5 c4 8. a4 Kb4) h5 2. Kf6 $1 h4 3. Ke5 Kxc6 (h3 4. Kd6) 4. Kf4 Kb6 5. Kg4 Ka5 6. Kxh4 Kb4 7. Kg3 $1 (7. Kg4 $2 Kxc4 8. Kf3 Kd3 $1 9. a4 c4 10. a5 c3 11. a6 c2 12. a7 c1=Q 13. a8=Q Qh1+ 14. Kf4 Qxa8) Kxc4 8. Kf2 $1 (8. Kf3 $2 Kd3 9. a4 c4 10. a5 c3 11. a6 c2 12. a7 c1=Q 13. a8=Q Qh1+ 14. Kf4 Qxa8) (8. Kf4 $2 Kd3 9. a4 c4 10. a5 c3 11. a6 c2 12. a7 c1=Q+) Kc3 9. Ke2 $1 c4 10. a4 1/2-1/2
+
+[Event "Shakhmatny Bulletin"]
+[Source "Shakhmatny Bulletin/7"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/p7/6p1/3K4/P7/8/8/8 w - - 0 1"]
+
+1. Ke6 $1 (1. a5 $2 Ke7) Kg7 2. a5 $1 Kh6 (a6 3. Kd5 g5 4. Ke4 $1) 3. Kd5 $1 g5 4. Ke4 $1 (4. a6 $2 g4 5. Ke4 Kg5) Kh5 5. Kf3 Kh4 6. Kg2 a6 7. Kh2 1/2-1/2
+
+[Event "Shakhmatny Bulletin"]
+[Source "Shakhmatny Bulletin/7"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/k7/5p2/p7/3K4/P7/8/8 w - - 0 1"]
+
+1. Kc5 $1 (1. Kd5 $2 Kb6 2. a4 f5) Ka6 $1 (a4 2. Kd6) (Kb7 2. Kb5 $1 (2. Kd5 $2 Kb6) f5 3. a4) 2. a4 $1 Kb7 3. Kd5 $1 (3. Kb5 $2 f5 $1 4. Kc5 Kc7 5. Kd5 Kb6) (3. Kd6 $2 Kb6 $1) Kb6 4. Kd6 $1 f5 5. Kd5 $1 f4 6. Ke4 1/2-1/2
+
+[Event "Shakhmatny Bulletin"]
+[Source "Shakhmatny Bulletin/7"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/8/6Kp/8/7P/p7/P7/8 w - - 0 1"]
+
+1. h5 $1 (1. Kxh6 $2 Kg8 2. Kg6 Kh8 $1 3. Kf6 Kh7 4. Ke5 Kg6 5. Kd5 Kh5 6. Kc4 Kxh4 7. Kb4 Kg5 8. Kxa3 Kf6 9. Kb4 Ke7 10. Kb5 Kd8 11. Kb6 Kc8) Kg8 2. Kf6 $1 Kf8 3. Ke6 $1 Kg7 $1 4. Ke7 $1 Kg8 5. Kd6 Kf7 6. Kc5 Kf6 7. Kb4 Kg5 8. Kxa3 1-0
+
+[Event "Shakhmatny Bulletin"]
+[Source "Shakhmatny Bulletin/7"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/p4k2/P7/5P2/6K1 w - - 0 1"]
+
+1. Kf1 $1 (1. Kg2 $2 Ke4 2. Kg3 Kd5 $1 3. f4 Ke6 $1 4. Kg4 Kf6) Ke5 (Kf3 2. Ke1 Kf4 3. Kd2) (Kf5 2. f3 $1 Ke5 3. Kf2 $1 Kd4 4. Ke2 Kc4 5. f4 Kd5 6. Kd3) 2. Ke1 $1 (2. Ke2 $2 Ke4 $1 3. f3+ Kd4 4. Kd2 Kc4 5. f4 (5. Ke3 Kb3 $1) Kd4) Kd5 3. Kd1 $1 Kd4 4. Kd2 Kc4 5. f3 $1 Kb3 (Kd4 6. Ke2 Kc4 7. f4) 6. f4 Kxa3 7. f5 Kb2 8. f6 a3 9. f7 a2 10. f8=Q a1=Q 11. Qb4+ Ka2 12. Kc2 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/4"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/8/k1P5/7p/1P6/P1p5/2P5/8 w - - 0 1"]
+
+1. Kf7 $1 Kb6 2. Ke6 $1 (2. b5 $2 h4 3. Ke7 Kc7) Kxc6 (h4 3. Kd6) 3. Kf5 Kb5 4. Kg5 Ka4 5. Kh4 $1 Kb5 6. Kxh5 Ka4 7. Kg4 $1 Kxa3 8. b5 Kb2 9. b6 Kxc2 10. b7 Kd2 11. b8=Q c2 12. Qb2 Kd1 13. Kf3 c1=Q 14. Qe2# 1-0
+
+[Event "Buletin Problemistic"]
+[Source "Buletin Problemistic/1-6 after Moravec=J b5e5 1952 after Grigoriev=N b4e3 1931."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/8/3p4/1p6/8/8/1P6/1K6 w - - 0 1"]
+
+1. Kc2 $1 Kg7 2. Kc3 $1 (2. Kb3 $2 d5 $1 3. Kb4 d4) Kf6 3. Kb4 $1 (3. Kd4 $2 Ke6 4. b4 d5 5. Kc5 Ke5 6. Kxb5 d4 7. Kc4 Ke4 8. b5 d3 9. Kc3 Ke3 10. b6 d2 11. b7 d1=Q 12. b8=Q Qc1+ 13. Kb3 Qb1+) Ke5 4. Kxb5 d5 5. Kb4 (5. Ka4 $2 Ke4 $1 6. Kb3 Kd3 $1 7. Ka2 Kc2 8. b4 d4) Kd4 (Ke4 6. Kc3 $1 Ke3 7. Kc2 $1 Ke2 8. Kc3 $1) 6. Ka5 $1 1/2-1/2
+
+[Event "sp.c Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/4 EG#05677. after Reti=R h8a6 1921."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/8/kP4p1/2p5/8/P7/1P6/8 w - - 0 1"]
+
+1. Kf7 $1 g5 2. Ke6 $1 g4 3. Kd5 $1 Kxb6 4. Ke4 c4 5. Kf4 Kb5 6. Kxg4 Ka4 7. Kf5 $1 (7. Kf4 $2 Kb3 8. a4 Kxb2 9. a5 c3 10. a6 c2 11. a7 c1=Q+) (7. Kf3 $2 Kb3 8. a4 Kxb2 9. a5 c3 10. a6 c2 11. a7 c1=Q 12. a8=Q Qh1+) Kb3 8. a4 Kxa4 9. Ke4 1/2-1/2
+
+[Event "1.hm Ribak Primorja"]
+[Source "EG#05305."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/5pK1/6p1/2Pk2P1/8/P7/8 w - - 0 1"]
+
+1. c5 $1 (1. Kxg7 $2 f5) Kd5 $1 (Kxc5 2. Kxg7 f5 3. gxf5 g4 4. f6 g3 5. f7 g2 6. f8=Q+) 2. a3 $1 (2. a4 $2 Kc6 3. a5 Kb5) Kc6 3. a4 $1 Kd5 (Kc7 4. a5 Kb7 5. Kf5 Kc6 6. a6) 4. a5 $1 Kxc5 (Kc6 5. a6 Kc7 6. a7 Kb7 7. a8=Q+ Kxa8 8. Kxg7 f5 9. gxf5 g4 10. f6 g3 11. f7 g2 12. f8=Q+) 5. Kxg7 $1 f5 6. gxf5 g4 7. f6 g3 8. f7 g2 9. f8=Q+ 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/4"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6K1/k1P3p1/8/5Pp1/8/8/8 w - - 0 1"]
+
+1. Kf6 $1 Kb6 2. Ke5 $1 Kxc6 3. Kd4 (3. Ke4 {<or>}) Kd6 4. Ke3 $1 Kd5 5. Kf2 Ke4 6. Kg3 Kf5 7. Kh4 Kxf4 1/2-1/2
+
+[Event "64 Shakhmatnoye Obozrenye"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/2p5/8/8/8/1P6/1P6/K7 w - - 0 1"]
+
+1. Ka2 $1 Kb7 2. Ka3 $1 (2. b4 $2 Kb6 3. Ka3 Kb5 4. Kb3 $1 c6 $1 5. Kc3 c5) Kc6 3. Kb4 $1 (3. Ka4 $2 Kc5 4. Ka5 Kd4 $1 5. Kb5 Kd3 6. Kc6 Kc2 7. b4 Kb3 8. b5 Kc4 9. b3+ Kb4) Kd5 $1 (Kb6 4. Kc4 Kc6 5. b4 Kb6 6. b5 Ka5 7. b3 Kb6 8. Kb4) 4. Kb5 Ke4 $1 5. Kc6 $1 (5. Kc5 $2 Kd3 $1 6. b4 Kc2 7. b5 Kb3 8. Kd5 Kb4 9. Kc6 Kc4 10. b3+ Kb4) (5. b4 $2 Kd3 6. Kc6 Kd4 $1 (Kc4 $2 7. b5 Kb4 8. b3) 7. b3 Kc3 8. b5 Kb4) Kd4 $1 6. b4 Kd3 7. Kd5 $1 1-0
+
+[Event "1.c Buletin Problemistic#191"]
+[Source "Buletin Problemistic/1-6 EG#07235."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/P1k4p/7p/8/8/8/P3P3/8 w - - 0 1"]
+
+1. e4 $1 h5 2. e5 h4 3. e6 h3 4. e7 h2 5. e8=N+ $1 Kc8 6. Nd6+ Kd7 7. Kb8 h1=Q 8. a8=Q Qxa8+ 9. Kxa8 Kxd6 10. a4 $1 Kc6 11. a5 $1 Kb5 12. Kb7 Kxa5 13. Kc6 h5 14. Kd5 h4 15. Ke4 h3 16. Kf3 h2 17. Kg2 1/2-1/2
+
+[Event "Vecherni Leningrad"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/5p2/3p1p2/P6P/8/7p/4K2k w - - 0 1"]
+
+1. Kf2 $1 d4 2. a5 d3 3. a6 d2 4. a7 d1=N+ $1 5. Kf1 $1 Ne3+ 6. Ke2 Kg1 7. a8=Q h1=Q 8. Qxh1+ Kxh1 9. Kxe3 Kg2 10. Kf4 Kh3 11. h5 Kh4 12. h6 Kh5 13. h7 Kg6 14. h8=R (14. h8=Q $2) 1-0
+
+[Event "Shakhmatny Bulletin"]
+[Source "Shakhmatny Bulletin/7"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4K1pk/p7/P7/8/8/8/8 w - - 0 1"]
+
+1. Kd6 $1 g5 2. Kc5 $1 g4 (Kg6 3. Kb6) 3. Kd4 $1 Kg6 4. Ke3 Kg5 5. Kf2 Kh4 6. Kg2 1/2-1/2
+
+[Event "Shakhmatny Bulletin"]
+[Source "Shakhmatny Bulletin/7"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/8/8/8/p5P1/6K1/P7/8 w - - 0 1"]
+
+1. Kh4 $1 (1. Kf4 $2 a3 $1) (1. a3 $2 Kg7 2. Kf4 Kf6) Kg7 (a3 2. Kh5) (Kg8 2. Kg5 $1) 2. Kh5 $1 a3 3. Kg5 1-0
+
+[Event "Shakhmatny Bulletin"]
+[Source "Shakhmatny Bulletin/7"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3p2k1/8/4K1p1/2P5/8/8/8 w - - 0 1"]
+
+1. Kf5 $1 (1. c5 $2 g4 $1 2. Kf4 Kf6) Kh6 2. c5 $1 Kh5 3. Ke5 (3. Kf6 {<or>}) 1/2-1/2
+
+[Event "Shakhmatny Bulletin"]
+[Source "Shakhmatny Bulletin/7"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3p4/8/k7/8/p3K3/P7/8 w - - 0 1"]
+
+1. Ke4 $1 (1. Kd4 $2 Kb4 2. Kd3 Kc5 3. Kc3 d6 4. Kb3 Kd4 5. Kxa3 Kc3) Ka4 2. Ke5 $1 Ka5 3. Ke4 $1 Kb6 4. Kd4 $1 Kb5 5. Kd5 Kb4 6. Kd4 d6 7. Kd3 Kc5 8. Kc3 1/2-1/2
+
+[Event "Shakhmatny Bulletin"]
+[Source "Shakhmatny Bulletin/7"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/8/8/8/8/p5P1/P6K/8 w - - 0 1"]
+
+1. Kg2 $1 (1. Kh3 $2 Kg7 2. Kg4 Kg6) Kg7 2. Kf3 $1 Kh6 (Kf7 3. Ke3 Kg6 4. Kd3 Kg5 5. Kc3 Kg4 6. Kb3 Kxg3 7. Kxa3 Kf4 8. Kb4 Ke5 9. Kb5 Kd6 10. Kb6) 3. Kf4 $1 Kg6 4. Kg4 1-0
+
+[Event "Shakhmatny Bulletin"]
+[Source "Shakhmatny Bulletin/7"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/4k3/p7/P4P2/8/1K6 w - - 0 1"]
+
+1. Kb2 $1 Kd4 2. Kc2 $1 Kc4 3. Kd2 Kd4 4. Ke2 $1 Kc4 5. f4 $1 Kd5 (Kd4 6. Kf3) 6. Kd3 $1 1-0
+
+[Event "Shakhmatnye Okonchaniya: Peshechnye#722"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/2p5/1pPp4/p2P2p1/P2P2P1/P7/8/K7 w - - 0 1"]
+
+1. Kb1 $1 Kg7 2. Kc1 Kg8 3. Kd1 Kg7 4. Ke2 Kf8 5. Kd2 Ke8 6. Kc3 Ke7 7. Kd3 1-0
+
+[Event "Shakhmatnye Okonchaniya: Peshechnye#705"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2k2p2/2p2P2/2P2P2/2P5/2K5/8 w - - 0 1"]
+
+1. Kd2 $1 Kc7 2. Kd3 Kc6 3. Ke2 Kd6 4. Kf2 Kd7 5. Ke3 Ke7 6. Kf3 1-0
+
+[Event "Shakhmatnye Okonchaniya: Peshechnye#727"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5k2/8/p6p/P6P/1P6/8/6K1 w - - 0 1"]
+
+1. Kf1 $1 Ke7 2. Ke1 Kf7 3. Kd2 $1 Ke6 4. Kc3 Kd5 5. b4 1-0
+
+[Event ".c Fizkultura i Sport Committee Ukrain "]
+[Source "EG#05465. = Pogosyants=E a2g3 1976."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/p7/pP6/Pk3p2/7K/8 w - - 0 1"]
+
+1. b5 $1 Kc3 (Kc4 {<main>} 2. b6 Kd3 3. b7 f2 4. b8=Q f1=Q 5. Qb5+ Kd2 6. Qxf1) 2. Kg1 (2. Kg3 $2 Kd4) Kc4 3. b6 Kb5 4. b7 Ka6 5. b8=R (5. b8=Q $2 f2+) 1-0
+
+[Event "Shakhmatnye Okonchaniya: Peshechnye#697"]
+[Source "after Bahr=W b1d7 1936."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k5/8/5p2/1p3P2/1P3P2/1P6/5P2/4K3 w - - 0 1"]
+
+1. Kd2 $1 Kd8 2. Ke2 Ke8 3. Kd3 Kd7 4. Ke3 $1 Kd6 5. Ke4 Kc6 6. Kf3 Kd5 7. Kg4 Kd4 8. Kh5 Kc3 9. Kg6 Kxb3 10. Kxf6 1-0
+
+[Event "Shakhmatnye Okonchaniya: Peshechnye#714"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/1p6/8/p1P1p1p1/P5P1/P4P2/K7/8 w - - 0 1"]
+
+1. Kb2 $1 Kc8 2. Kc2 $1 Kd8 3. Kd2 Kc8 4. Ke3 Kd7 5. Kd3 Ke7 6. Kc4 Ke6 7. Kb5 Kd5 8. Kb6 Kc4 9. Kxb7 Kxc5 10. Ka6 Kd4 11. Kxa5 Ke3 12. Kb5 Kxf3 13. a5 e4 14. a6 e3 15. a7 e2 16. a8=Q+ 1-0
+
+[Event "source unknown"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/7p/8/8/5P1K/7P/8/8 w - - 0 1"]
+
+1. Kg4 $1 Kg8 2. Kh5 Kf8 3. Kh6 Kg8 4. h4 $1 Kh8 5. Kg5 Kg7 6. h5 1-0
+
+[Event ".c Chervoni Girnik"]
+[Source "EG#05600."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3K4/8/2p5/1p6/1P5k/8/8 w - - 0 1"]
+
+1. Ke6 $1 (1. Kd6 $2 c4 2. bxc4 b3 3. c5 b2 4. c6 b1=Q 5. c7 Qf5) c4 2. bxc4 b3 3. c5 b2 4. c6 b1=Q 5. c7 Qd1 6. Ke7 1/2-1/2
+
+[Event "Shakhmatnye Okonchaniya: Peshechnye#706"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/p6p/P1p2k1P/2p5/2P5/P7/3K4 w - - 0 1"]
+
+1. Ke1 $1 Ke5 2. Kf1 Kf5 3. Ke1 Kg5 4. Ke2 Kg4 5. Ke3 Kxh5 6. Kd2 $1 Kg4 7. Kc2 h5 8. Kb2 h4 9. Ka3 h3 10. Ka4 h2 11. a3 h1=Q 1/2-1/2
+
+[Event "Shakhmatnye Okonchaniya: Peshechnye#702"]
+[Source "after Halberstadt=V b2c8 1930."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k5/8/3p4/3P1p2/1p1P1p2/1P3P2/1K3P2/8 w - - 0 1"]
+
+1. Kc1 $1 Kb8 2. Kd1 Kb7 3. Kd2 Kc7 4. Ke2 $1 (4. Kc2 $2 Kb7 5. Kd3 Kb6 6. Ke2 Kc7 7. Kd2 Kb7 8. Kd1 Kc8) Kd7 5. Kd3 $1 Kc7 (Ke7 6. Kc4) 6. Kc4 1-0
+
+[Event "Shakhmatnye Okonchaniya: Peshechnye#696"]
+[Source "after Bianchetti=R a1h8 1925."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p5k/1P2p3/1P2P3/4P1p1/5pP1/K4P2/8 w - - 0 1"]
+
+1. Kb2 $1 Kh8 2. Kc2 Kh7 3. Kd2 Kh6 4. Kc3 Kg6 5. Kc4 $1 Kf7 6. Kd4 $1 1-0
+
+[Event "Shakhmatnye Okonchaniya: Peshechnye#725"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/P7/3p4/6k1/3pP1p1/3P2P1/2K5 w - - 0 1"]
+
+1. Kb1 $1 Kg5 2. Ka2 Kf6 3. Ka3 Ke6 4. Ka4 Ke5 5. Kb3 Kf5 (d4 6. e4 $1) 6. Kb4 $1 Ke5 7. Kc5 Ke4 8. Kd6 d4 9. exd4 Kxd4 10. Kc6 Ke5 $1 11. Kc5 $1 Ke6 12. Kd4 Kd6 13. Kxd3 Kc5 14. Ke4 Kb6 15. Kd5 Kxa6 16. Kc6 $1 1-0
+
+[Event "Shakhmatnye Okonchaniya: Peshechnye#436"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/8/8/7p/8/p4K2/P6P/8 w - - 0 1"]
+
+1. Ke4 $1 (1. h4 $2 Kb7 2. Ke4 Kc6 3. Kd4 Kd6 4. Kc4 Ke5 5. Kb4 Kd4 6. Kxa3 Kc3) (1. h3 $2 Kb7 2. Ke4 Kc6 3. Kd4 Kd6 4. Kc4 Ke5 5. Kb3 Kf4 $1) h4 $1 (Kb7 2. Kd5 Kb6 (Kc7 3. Kc5 $1) 3. Kc4 Kc6 4. Kb3 Kd5 5. Kxa3 Kc4 6. Ka4 $1) 2. h3 $1 (2. Kd5 $2 h3 3. Kc4 Kb7 4. Kb3 Kc6 5. Kxa3 Kb5) Kb7 3. Kd5 $1 Kb6 4. Kc4 Kc6 5. Kb3 Kd5 6. Kxa3 Kc4 7. Ka4 $1 Kc5 8. Kb3 Kb5 9. Kc3 1-0
+
+[Event "Shakhmatnye Okonchaniya: Peshechnye#752"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/8/7P/k7/5P2/8/1K6 w - - 0 1"]
+
+1. Kc2 $1 Kb5 $1 2. Kd3 Kc6 3. Ke4 Kd6 4. Kf4 Ke6 5. Kg4 Kf6 6. f4 1-0
+
+[Event "Shakhmatnye Okonchaniya: Peshechnye#707"]
+[Source "after Bianchetti=R a1h8 1925."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/1p6/pP2p3/Pp2P3/1P2P1p1/1K4P1/8/8 w - - 0 1"]
+
+1. Kc2 $1 Kg8 2. Kc3 Kf8 3. Kd2 Kf7 4. Ke2 Kg7 5. Kd3 Kg6 6. Ke3 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/8"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/K7/P7/7p/3k4/1P6/8 w - - 0 1"]
+
+1. b4 $1 h3 2. b5 h2 3. b6 h1=Q 4. b7 Qc6+ 5. Ka7 Qc7 (Qc5+ 6. Ka6 Qc7 7. b8=Q Qxb8) 6. a6 Kc4 7. Ka8 Qc6 8. Ka7 (8. a7 $2 Qd5 9. Kb8 Qd8#) Qd7 9. Ka8 Kb5 10. b8=Q+ Kxa6 11. Qd6+ Qxd6 1/2-1/2
+
+[Event "64 Shakhmatnoye Obozrenye"]
+[Source "64 Shakhmatnoye Obozrenye/3"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3k4/4p3/p7/P7/4P3/3K4/8 w - - 0 1"]
+
+1. Kc3 $1 Kc7 2. Kd3 $1 Kd7 3. Ke4 $1 Kd6 4. Kd4 $1 Kc6 (e5+ 5. Kc4 Kc6 6. e4) 5. Ke5 Kc5 $1 (Kd7 6. Kf6 Kd6 7. e4) 6. Kxe6 Kb4 7. Kd5 $1 Kxa4 8. Kc4 Ka3 9. e4 Kb2 10. e5 $1 (10. Kb5 $2 Kb3 $1 11. Kxa5 Kc4) a4 11. e6 a3 12. e7 a2 13. e8=Q a1=Q 14. Qe2+ Kc1 15. Qe1+ Kb2 16. Qd2+ Kb1 17. Kb3 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/8"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6P1/7k/8/8/1K6/3p1P2/8 w - - 0 1"]
+
+1. g8=N+ $1 (1. Kc2 $2 Kxg7 2. Kxd2 Kf6 3. Ke2 Ke6 $1) Kh7 2. Kc2 $1 (2. Nf6+ $2 Kg6) Kxg8 3. Kxd2 Kf7 4. Ke3 1-0
+
+[Event ".c Spartak-50 AT Sovyetskaya Zaural"]
+[Source "EG#06129."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/4P1P1/4p1pp/4K2k/8/8 w - - 0 1"]
+
+1. g6 $1 g3 (Kg3 2. g7 h3 3. g8=R (3. g8=Q $2 h2 4. Qh8 h1=Q 5. Qxh1) h2 4. Rh8) 2. g7 g2 3. g8=R (3. g8=Q $2 g1=Q+ 4. Qxg1) Kh2 4. e6 1-0
+
+[Event "Shakhmatny Bulletin"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5p1p/6p1/4P3/7P/5K2/7k/8 w - - 0 1"]
+
+1. Kf4 $1 h6 2. Kg4 $1 (2. h5 $2 gxh5 3. Kf5 Kg3 4. Kf6 Kf4) Kg2 (Kg1 3. h5 g5 4. Kf5) 3. h5 $1 g5 4. e6 $1 fxe6 1/2-1/2
+
+[Event "Thèmes 64#4368"]
+[Source "Thèmes 64/7-9"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7k/1p6/pPp1p3/P1P1P2p/1P2P2P/7K/8 w - - 0 1"]
+
+1. Kg1 $1 Kg7 2. Kf1 $1 Kf7 3. Ke1 $1 Ke7 4. Kf2 $1 Kf6 5. Ke2 $1 Kg6 (Ke6 6. Kf3) 6. b4 $1 cxb4 7. c5 $1 b3 8. Kd2 bxc5 (Kf6 9. cxb6) 9. b6 1-0
+
+[Event "5.hm L'Italia Scacchistica#468"]
+[Source "L'Italia Scacchistica/8 EG#06884."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/2p5/2p1PP2/K1p1pp2/P1P5/1p2p3/4p3/8 w - - 0 1"]
+
+1. Ka6 $1 (1. f7 $2 Kb7 2. f8=Q e1=Q#) e1=Q (b2 2. e7 b1=Q 3. e8=Q+ Qb8 4. Qxc6+) 2. f7 $1 (2. e7 $2 Qa5+ 3. Kxa5 Kb7 4. e8=Q b2 $1 5. Qxe5 b1=Q 6. Qxc5 Qe1+ 7. Qb4+ Qxb4+ 8. Kxb4 e2 9. f7 e1=Q+) Qa5+ 3. Kxa5 Kb7 4. f8=Q e2 5. Qa8+ Kxa8 6. Ka6 e1=Q 7. e7 Qa5+ 8. Kxa5 Kb7 9. e8=Q b2 10. Qxe5 b1=Q 11. Qb2+ Qxb2 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/8"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6kP/4p3/p5P1/3K4/8/8/8 w - - 0 1"]
+
+1. g6 $1 a4 2. Kc4 $1 e5 (Kh8 3. Kb4 e5 4. Kxa4) 3. Kd5 $1 a3 4. Ke6 a2 5. h8=Q+ Kxh8 6. Kf7 a1=Q 7. g7+ Kh7 8. g8=Q+ Kh6 9. Qg6# 1-0
+
+[Event "64 Shakhmatnoye Obozrenye (tw)"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/6P1/6pK/4P1P1/5k2/8/8 w - - 0 1"]
+
+1. e5 $1 Ke4 2. e6 Ke5 3. e7 Kf6 4. e8=N+ $1 (4. e8=Q $2) (4. e8=R $2) (4. e8=B $2 Ke7 5. Bf7 Kf8) 1-0
+
+[Event "64 Shakhmatnoye Obozrenye (tw) (pl)"]
+[Source "= Prokes=L g3h6 1950."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/8/7k/4PK2/8/8/8 w - - 0 1"]
+
+1. Kf5 $1 Kh6 2. e5 Kh7 3. Ke6 g5 4. Kf7 g4 5. e6 g3 6. e7 g2 7. e8=Q g1=Q 8. Qe4+ Kh6 9. Qh4# 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/9"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7k/8/1p6/8/3p4/3P4/3K4 w - - 0 1"]
+
+1. Ke1 $1 (1. Kc1 $2 Kg6 2. Kb2 Kf5 3. Kb3 Kf4 4. Kc3 Ke4 5. Kb4 Kf3) b4 (Kg6 2. Kf2) 2. Kd1 $1 (2. Kf2 $2 b3) Kg6 3. Kc1 Kf5 4. Kb2 Ke4 5. Kb3 Kf3 6. Kxb4 Ke4 (Kf2 7. Kc4 Ke2 8. Kc3) 7. Kc4 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/2 also 64 Shakhmatnoye Obozrenye=20(739) 64 Shakhmatnoye Obozrenye/10 1985."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/7p/8/8/1P6/K7/8/8 w - - 0 1"]
+
+1. Ka4 $1 Kd7 (h5 2. Ka5 $1 Kd7 3. Ka6 Kc7 4. Ka7 Kc6 5. Ka6) 2. Kb5 $1 Kc7 (h5 3. Ka6 $1) 3. Kc4 $1 1/2-1/2
+
+[Event "64 Shakhmatnoye Obozrenye (tw)"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/6P1/K5p1/4P1P1/5k2/8/8 w - - 0 1"]
+
+1. e5 $1 Ke4 2. e6 Ke5 3. e7 Kf6 4. e8=R $1 (4. e8=Q $2) 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/2"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/2p5/2P4p/4K2k/8/8/8 w - - 0 1"]
+
+1. Kf4 $1 (1. Ke5 $2 Kg5 $1 2. Kd6 h4 3. Kxc6 h3 4. Kd7 h2 5. c6 h1=Q 6. c7 Qb7 7. Kd8 Kf6 8. c8=Q Qe7#) Kh3 2. Ke5 $1 Kg4 3. Kd6 h4 4. Kxc6 h3 5. Kd7 1/2-1/2
+
+[Event "64 Shakhmatnoye Obozrenye (tw)"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/3p4/3P2Pp/7p/6kp/8/5K2 w - - 0 1"]
+
+1. Kg1 $1 h2+ 2. Kh1 Kh3 3. g6 Kg3 4. g7 Kh3 5. g8=B $1 (5. g8=Q $2) (5. g8=R $2) (5. g8=N $2 Kg4 6. Nf6+ Kf5) 1-0
+
+[Event "64 Shakhmatnoye Obozrenye (tw)"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/3p4/6Pp/3P3p/6kp/8/5K2 w - - 0 1"]
+
+1. Kg1 $1 h2+ 2. Kh1 d5 3. g6 d6 4. g7 Kh3 5. g8=N $1 (5. g8=Q $2) (5. g8=R $2) (5. g8=B $2 Kg3 6. Bxd5 Kf4 7. Bg8 d5 8. Bxd5 Ke3 9. Bf7 Kxd4) 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/4"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/3p4/P5Kp/p7/8/8/p4p2/8 w - - 0 1"]
+
+1. a7 $1 f1=Q 2. a8=Q+ Qf8 3. Qd5+ Kh8 4. Qd4+ Kg8 5. Qc4+ Kh8 6. Qc3+ Kg8 7. Qb3+ d5 $1 8. Qxd5+ Kh8 9. Qd4+ Kg8 10. Qc4+ Kh8 11. Qc3+ Kg8 12. Qb3+ Kh8 13. Qb2+ Kg8 14. Qxa2+ Kh8 15. Qb2+ Kg8 16. Qb3+ Kh8 17. Qc3+ Kg8 18. Qc4+ Kh8 19. Qd4+ Kg8 20. Qd7 1-0
+
+[Event "64 Shakhmatnoye Obozrenye"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1P2p3/3pPp1P/3PkP2/2p1P1p1/1pP3Pp/4p3/4K3 w - - 0 1"]
+
+1. h7 $1 b2 2. b8=R $1 (2. b8=Q $2 h2 3. h8=R b1=Q+ 4. Qxb1 h1=Q+ 5. Rxh1) h2 3. h8=R $1 (3. h8=Q $2 b1=Q+ 4. Rxb1 h1=Q+ 5. Qxh1) h1=Q+ 4. Rxh1 b1=Q+ 5. Rxb1 1-0
+
+[Event "64 Shakhmatnoye Obozrenye"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4p3/1p2P3/8/3K4/8/2k5/8 w - - 0 1"]
+
+1. Kc4 $1 (1. Kd5 $2 b5 $1 2. Kc5 Kd3 3. Kxb5 Kd4) Kd2 2. Kb5 Kd3 3. Kc6 $1 b5 4. Kd7 b4 {<eg>} 5. Kxe7 b3 6. Kd8 b2 7. e7 1/2-1/2
+
+[Event "64 Shakhmatnoye Obozrenye"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5p2/8/4p1PK/8/8/1k6/8 w - - 0 1"]
+
+1. Kg4 $1 Kc3 2. Kf5 Kd4 3. Kf6 e4 4. Kxf7 1/2-1/2
+
+[Event ".c Shakhmaty (Riga) (tt)"]
+[Source "Shakhmaty (Riga)/11"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/P6p/P6p/P6p/1P1K3p/3P3p/7k w - - 0 1"]
+
+1. a7 $1 Kg1 2. a8=Q h1=Q 3. Qxh1+ Kxh1 4. a6 Kg1 5. a7 h2 6. a8=Q h1=Q 7. Qxh1+ Kxh1 8. a5 h3 9. a6 h2 10. a7 Kg1 11. a8=Q h1=Q 12. Qxh1+ Kxh1 13. b4 Kg1 14. b5 h4 15. b6 h3 16. b7 h2 17. b8=Q h1=Q 18. Qb1+ Kh2 19. Qxh1+ Kxh1 20. Ke2 $1 Kg2 21. d4 h5 22. d5 h4 23. d6 h3 24. d7 h2 25. d8=Q h1=Q 26. Qg5+ Kh3 27. Qh5+ Kg2 28. Qg4+ Kh2 29. Kf2 1-0
+
+[Event ".c Shakhmaty (Riga) (tt)"]
+[Source "Shakhmaty (Riga)/11"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2pppp1p/2p3pP/1pP1P1P1/1P5P/3k4/P7/1K6 w - - 0 1"]
+
+1. a4 $1 (1. e6 $2 dxe6 $1) bxa4 2. b5 $1 cxb5 3. c6 $1 dxc6 4. e6 $1 (4. h5 $2 e6 $1) fxe6 5. h5 $1 gxh5 6. g6 $1 hxg6 7. h7 1-0
+
+[Event "64 Shakhmatnoye Obozrenye (tw)"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6p1/3k2p1/8/4KP2/8/8/8 w - - 0 1"]
+
+1. f5 $1 g5 2. Kf3 Ke5 3. Kg4 Kf6 4. Kh5 Kxf5 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/9 also Archakov=V Zinar=M Ranok 1986."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7p/4p2P/4P3/8/8/8/4k2K w - - 0 1"]
+
+1. Kg1 $1 Kd2 $1 (Ke2 2. Kg2 Ke3 3. Kg3 Ke4 4. Kg4 Kd5 5. Kh4 Kd4 6. Kh5) (Kd1 2. Kh1 Kc2 3. Kg2 Kd3 4. Kh3 Kc3 5. Kg4 Kd4 6. Kh5) 2. Kh2 $1 Ke2 3. Kg2 $1 Kd3 4. Kh3 $1 Ke3 5. Kg3 $1 Kd4 $1 6. Kh4 $1 Kd5 7. Kh5 $1 (7. Kg4 $2 Ke4 $1 8. Kh4 Kf4 $1 9. Kh5 Kf5 $1 10. Kh4 Kg6 $1) Ke4 (Kxe5 8. Kg5 Kd4 9. Kf6 e5 10. Kg7 e4 11. Kxh7 e3 12. Kg7) 8. Kg4 $1 1/2-1/2
+
+[Event ".c Moscow ty"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3k4/8/Pp5p/3Pp3/8/7K/8 w - - 0 1"]
+
+1. a6 $1 Kc8 (Kc7 {<main>} 2. d5 e3 3. Kg2 h4 4. d6+ Kxd6 5. a7 h3+ 6. Kf1 (6. Kg3 {<or>}) h2 7. a8=Q) 2. d5 $1 e3 3. Kg1 $1 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/2"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3pp3/1p6/3P3K/7P/8/8/6k1 w - - 0 1"]
+
+1. Kg4 $1 b5 2. Kf3 $1 b4 3. Ke2 $1 b3 4. Kd1 $1 (4. Kd2 $2 e5 5. dxe6 dxe6 6. h5 e5 7. h6 e4 8. h7 e3+) e5 5. dxe6 dxe6 6. h5 e5 7. h6 e4 8. h7 e3 9. h8=Q 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/9"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6p1/3P4/8/pPK5/k7/8 w - - 0 1"]
+
+1. Kc2 $1 g5 2. d6 g4 3. d7 g3 4. d8=B $1 (4. d8=Q $2 g2 5. Qg8 g1=Q 6. Qxg1) g2 5. Bb6 1-0
+
+[Event "64 Shakhmatnoye Obozrenye"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6pp/8/3p2k1/8/8/P6K/8 w - - 0 1"]
+
+1. a4 $1 d4 2. Kg1 $1 d3 3. Kf1 $1 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/3"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4p3/2p1P3/8/4K3/8/4k3/8 w - - 0 1"]
+
+1. Kf5 $1 (1. Kd4 $2 Kf3 2. Kc5 Ke4 3. Kxc6 Ke5 4. Kd7 Kf6) c5 2. Ke4 $1 Kf2 3. Kd5 Kf3 4. Kxc5 Ke4 5. Kc4 $1 Ke5 6. Kd3 Kxe6 7. Ke4 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/5"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5p2/5P2/3p4/7K/8/8/5k2 w - - 0 1"]
+
+1. Kg4 $1 (1. Kg5 $2 d4 2. Kh6 (2. Kf4 Ke2) d3 3. Kg7 d2 4. Kxf7 d1=Q 5. Ke8 Qe1+ 6. Kf8 Qb4+) Kg2 $1 (Ke2 2. Kg5 d4 3. Kh6 d3 4. Kg7 d2 5. Kxf7 d1=Q 6. Ke7) (d4 2. Kf3) (Kf2 2. Kf4) 2. Kg5 $1 (2. Kf4 $2 Kh3 3. Ke5 Kg4 4. Kxd5 Kf5) d4 3. Kf4 Kh3 4. Ke4 Kg4 5. Kxd4 Kf5 6. Ke3 Kxf6 7. Kf4 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/5"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/p1p2k2/8/2P5/2K5/8/8 w - - 0 1"]
+
+1. Kb4 $1 (1. Kd4 $2 Ke6 2. Kc5 a5 3. Kxc6 a4) Ke5 (Ke6 2. Ka5 $1) 2. Kc5 $1 (2. Ka5 $2 Kd4 3. Kxa6 Kxc4) a5 3. Kxc6 a4 4. c5 a3 5. Kb7 1/2-1/2
+
+[Event "Shakhmaty v SSSR (m)"]
+[Source "Shakhmaty v SSSR/3 (m): Zinar=M Shakhmaty v SSSR/5 1986."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p1p3/8/4P3/4K3/8/4k3/8 w - - 0 1"]
+
+1. e6 $1 (1. Kd5 $2 Kf3 2. e6 Kf4) c6 $1 2. Kf5 $1 (2. Kd4 $2 Kf3 3. Kc5 Ke4 4. Kxc6 Ke5) c5 3. Ke4 $1 Kf2 4. Kd5 Kf3 5. Kxc5 Ke4 6. Kc4 Ke5 7. Kd3 Kxe6 8. Ke4 1/2-1/2
+
+[Event "Wolgogradskaya Pravda"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5P2/4kP2/7P/5Pp1/5p2/6p1/4K3 w - - 0 1"]
+
+1. f8=N+ $1 Kf7 2. Kf2 g3+ 3. Kg1 Kxf8 $1 4. h6 Kg8 5. f5 Kf8 6. h7 Kf7 7. h8=R $1 (7. h8=Q $2 f2+ 8. Kxg2 f1=Q+ 9. Kxf1 g2+ 10. Kxg2) 1-0
+
+[Event "64 Shakhmatnoye Obozrenye#24"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/k7/2p2p2/5P2/P6K/8/8/8 w - - 0 1"]
+
+1. Kh5 $1 c5 $1 2. Kg4 $1 (2. Kg6 $2 c4 3. Kxf6 c3 4. Kg6 c2 5. f6 c1=Q) Ka6 3. Kf3 (3. Kf4 {<or>}) Ka5 4. Ke4 Kb4 $1 5. a5 $1 (5. Kd5 $2 c4 6. a5 c3 7. a6 c2 8. a7 c1=Q 9. a8=Q Qh1+) Kxa5 6. Kd5 Kb5 7. Ke6 c4 8. Kxf6 c3 9. Kg7 c2 10. f6 c1=Q 11. f7 1/2-1/2
+
+[Event "3.hm Miru Mir Molodoj Leninets (Kurgan)"]
+[Source "EG#06924."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3p1p2/3P1P2/5P2/8/8/8/4k2K w - - 0 1"]
+
+1. Kg1 $1 Kd2 2. Kh2 Ke2 3. Kg2 Kd3 4. Kh3 Ke3 5. Kg3 Kd4 6. Kh4 Ke4 7. Kg4 Kd5 8. Kh5 Ke5 9. Kg5 Ke4 10. Kg4 Kd5 11. Kh5 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/5"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3p4/3P4/5K1p/1P1k4/8/8/8 w - - 0 1"]
+
+1. Kg5 $1 (1. Kf6 $2 h4 2. Ke7 h3 3. Kxd7 h2 4. Kc7 h1=Q 5. d7 Qc1+ 6. Kb7 Qg5 7. Kc7 Qe5+ 8. Kc8 Qe6 9. Kc7 Qc4+) Kc4 (Kd5 2. Kxh5 Kc4 3. Kg4) 2. Kf6 $1 (2. Kxh5 $2 Kxb4 3. Kg4 Kc5) h4 3. Ke7 h3 4. Kxd7 h2 5. Kc7 h1=Q 6. d7 Qh7 7. Kc8 Qf5 8. Kc7 1/2-1/2
+
+[Event "Magadanskaja Pravda (c)"]
+[Source "(c): Zinar=M Problemist Ukraini=1(23) 1-3/2010."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7P/8/3P4/P2p1p2/p1pPk2K/P1P1p3/8 w - - 0 1"]
+
+1. h8=R $1 (1. h8=Q $2 e1=Q 2. Qe5+ Kf3 3. Qxe1) e1=Q 2. Re8+ Kf2 3. Rxe1 Kxe1 4. Kg4 Kd2 5. d6 f3 6. Kxf3 Kxc2 7. d7 Kxd3 8. d8=R $1 (8. d8=Q $2 c2 9. Qc7 c1=Q 10. Qxc1) c2 9. Rc8 Kd2 10. Ke4 c1=Q 11. Rxc1 Kxc1 12. a5 1-0
+
+[Event "Khliborob Ukraini"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "Zinar, M"]
+[Black " Archakov, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/p2p3P/6P1/8/8/8/7K/8 w - - 0 1"]
+
+1. Kg3 $1 a5 2. Kf4 $1 a4 3. Ke5 $1 Kg7 (a3 {<main>} 4. Kf6 a2 5. g7+ Kxh7 6. Kf7 a1=Q 7. g8=Q+ Kh6 8. Qg6#) 4. Kd4 $1 d5 5. Kc3 $1 1-0
+
+[Event "64 Shakhmatnoye Obozrenye#36 (c)"]
+[Source "(c): Zinar=M 64 Shakhmatnoye Obozrenye=1(840) 1/1990."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p5p/6Pp/8/1p3P1P/PP6/p1K1p3/k7 w - - 0 1"]
+
+1. gxh7 $1 e1=N+ $1 2. Kc1 Nd3+ 3. Kd2 Kb1 4. h8=Q a1=Q 5. Qxa1+ Kxa1 6. Kxd3 bxa3 (Kb2 7. axb4) 7. Kc2 a2 8. f5 b5 9. f6 b4 10. f7 h5 11. Kd3 $1 Kb2 $1 12. f8=B $1 (12. f8=Q $2 a1=Q 13. Qf6+ Kxb3 14. Qxa1) 1-0
+
+[Event "2.c Sportivnaya Gazeta"]
+[Source "EG#07265."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/8/6pp/2Kp1Ppk/6p1/1P4P1/8 w - - 0 1"]
+
+1. f5 $1 d3 2. Kc3 c5 3. f6 d2 4. Kc2 c4 5. f7 d1=Q+ 6. Kxd1 c3 7. f8=N c2+ 8. Ke2 c1=Q 9. Ng6# 1-0
+
+[Event ".c Galitzky MT Kommunist"]
+[Source "EG#07134."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3K4/7p/3kp3/P7/7P/6p1/6P1/8 w - - 0 1"]
+
+1. Kc8 $1 Kc6 2. Kb8 $1 Kb5 3. Kb7 $1 Kxa5 4. Kc6 Kb4 5. Kd6 Kc4 6. Kxe6 Kd4 7. Kf5 Ke3 8. Kg4 Kf2 9. Kh3 h5 1/2-1/2
+
+[Event "1.sp.hm Kozlov MT Na Smenu!"]
+[Source "EG#07151."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1p4p1/1P4p1/p3K1P1/Pp6/1P3kP1/8 w - - 0 1"]
+
+1. Kd5 $1 Ke2 2. Kc6 Kd2 3. Kxb6 Kc2 4. Ka5 Kxb2 5. b6 Kxa3 6. b7 b2 7. b8=R Ka2 8. Kxa4 b1=Q 9. Rxb1 Kxb1 10. Kb5 Kc2 11. Kc6 Kc3 12. Kc5 Kd2 13. Kd6 Kd3 14. Kd5 Ke2 15. Ke6 Ke3 16. Ke5 Kf2 17. Kf6 Kg3 18. Kxg5 1-0
+
+[Event "Shakhmaty v SSSR#23 (c)"]
+[Source "Shakhmaty v SSSR/6 (c): Zinar=M Shakhmaty v SSSR/10 1987."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/P1k1P1p1/4p1Pp/8/P2p4/3P4/3P3p/8 w - - 0 1"]
+
+1. e8=N+ $1 Kc8 2. Nd6+ Kd7 3. Kb8 h1=Q 4. a8=Q Qxa8+ 5. Kxa8 Kxd6 6. a5 $1 (6. Kb8 $2 Kc6) (6. Kb7 $2 h5 7. a5 h4 8. a6 h3 9. a7 h2 10. a8=Q h1=Q+ 11. Kb8 Qxa8+ 12. Kxa8 Ke5 13. Kb7 Kf6 14. Kc6 Kxg6) Kc7 $1 (h5 7. Kb8) 7. a6 e5 8. a7 e4 9. dxe4 h5 10. e5 h4 11. e6 h3 12. e7 h2 13. e8=N+ $1 Kc8 14. Nd6+ $1 Kd7 15. Kb8 h1=Q 16. a8=Q Qxa8+ 17. Kxa8 Kxd6 18. Kb7 $1 1/2-1/2
+
+[Event ".c Seletzky MT Gorkovskaja Pravda (v)"]
+[Source "EG#07829."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/P4pP1/5P2/5p2/3K1kp1/8/8 w - - 0 1"]
+
+1. g7 $1 g2 2. g8=R (2. g8=Q $2 g1=Q 3. Qxg1) Kf2 3. Ke4 g1=Q 4. Rxg1 Kxg1 5. Kxf4 Kf2 6. Ke4 Kg3 7. Kd5 Kf4 8. Kc6 Ke5 9. Kc7 Kd5 10. Kd7 Ke5 11. Kc6 1-0
+
+[Event ".c Seletzky MT Gorkovskaja Pravda"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/P4p2/5PP1/5pp1/3K1k2/8/8 w - - 0 1"]
+
+1. g6 $1 g3 2. g7 g2 $1 3. g8=R $1 (3. g8=Q $2 g1=Q 4. Qxg1) Kf2 4. Ke4 g1=Q 5. Rxg1 Kxg1 6. Kxf4 Kf2 $1 7. Ke4 Kg3 8. Kd5 Kf4 9. Kc6 Ke5 10. Kc7 Kd5 11. Kd7 Ke5 12. Kc6 1-0
+
+[Event "Prapor Peremogy"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p1p/P2P1P1P/1p1p1P2/pPp4p/p1P5/k1K1P3/8 w - - 0 1"]
+
+1. a7 $1 (1. d7 $2 h3 2. d8=Q h2 3. Qxd5 h1=Q 4. Qxh1) h3 2. a8=B $1 (2. a8=Q $2 h2 3. Qxd5 h1=Q 4. Qxh1) h2 3. Bxd5 Ka1 4. d7 a2 5. d8=N $1 a3 6. Ne6 fxe6 7. Bh1 (7. Be4 {<or>}) (7. Bg2 {<or>}) e5 8. f7 e4 9. f8=N $1 e3 10. Ng6 1-0
+
+[Event "Molodoj Ukrain"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/7P/6P1/1pK5/pP6/8/8/8 w - - 0 1"]
+
+1. Kd4 $1 Kg7 2. Kc3 (2. Kd3 {<or>} Kh8 3. Kc3 Kg7 4. Kd4) Kh8 3. Kd3 Kg7 4. Kd4 Kh8 5. Ke5 a3 6. Kf6 a2 7. g7+ Kxh7 8. Kf7 a1=Q 9. g8=Q+ Kh6 10. Qg6# 1-0
+
+[Event "Shakhmaty v SSSR (@2)"]
+[Source "Sha@hmaty v SSSR/1 î2: Zadachy i Etyudy=40 25-12-2006."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4Pk2/5P2/p1p5/8/8/8/1K6 w - - 0 1"]
+
+1. Kb2 $1 Ke8 2. Kb3 $1 (2. Kc3 $2 a4) (2. Kc2 $1 {<minor dual>}) Kd7 3. Kc3 $1 a4 4. Kc4 Ke8 5. Kxc5 a3 6. Kd6 a2 7. Ke6 a1=Q 8. f7# 1-0
+
+[Event "64 Shakhmatnoye Obozrenye (c)"]
+[Source "(c): 1990."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/3P1p2/5P2/1p2p1P1/pP1k2K1/P2p2PP/8 w - - 0 1"]
+
+1. d7 $1 d1=Q 2. d8=R+ $1 (2. d8=Q+ $2 Ke3 3. Qxd1) Ke2 3. Rxd1 Kxd1 4. Kf4 Kc2 5. Kxe4 Kb2 6. Kd3 Kxa2 7. Kc2 Ka1 8. h4 $1 a2 9. g5 fxg5 10. h5 $1 (10. hxg5 $2 f6 $1 11. g6) g4 11. h6 g3 12. h7 f6 13. Kd3 (13. Kd2 $2 Kb1 $1) Kb2 14. h8=B $1 (14. h8=Q $2 a1=Q 15. Qxf6+ Kxb3 16. Qxa1) 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/1"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5k2/2p5/2p5/3P2K1/8/P7/8 w - - 0 1"]
+
+1. a4 $1 Ke6 2. a5 (2. Kf4 $2 cxd4) (2. dxc5 $2 Kd5) c4 $1 (Kd6 3. a6 Kc7 4. dxc5) 3. Kf3 $1 Kd6 $1 4. Ke2 $1 (4. Kf4 $2 c3) (4. Ke3 $2 c5 5. a6 cxd4+) Kc7 5. Kd2 Kd6 6. Kc2 $1 c5 7. a6 $1 Kc7 8. dxc5 1-0
+
+[Event ".c All-Russian ty"]
+[Source "EG#14946. also .hm 64 Shakhmatnoye Obozrenye=11(802) 64 Shakhmatnoye Obozrenye/6 1988."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p5/8/7K/4k3/8/P7/8 w - - 0 1"]
+
+1. Kg4 $1 (1. Kg5 $2 c5 2. a4 c4 3. a5 c3 4. a6 c2 5. a7 c1=Q+) (1. Kg6 $2 c5 2. a4 c4 3. a5 Kd5) Kd3 $1 2. Kf5 $1 (2. Kf3 $2 c5 3. a4 c4 4. a5) (2. Kf4 $2 c5) c5 3. a4 Kc4 4. Ke4 $1 (4. Ke5 $2 Kb4 5. Kd5 c4 6. a5 c3) Kb4 5. Kd3 $1 1/2-1/2
+
+[Event "2/3.p Birnov MT Molodoj Leninets (c)"]
+[Date "1987.07.10"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p4p2/Pp3P2/3p4/6pP/pP4Pp/P1k1P2P/5K2 w - - 0 1"]
+
+1. Ke1 $1 Kb2 2. Kd1 (2. Kd2 {<or>}) Kxa2 3. Kc2 d4 $1 4. h5 d3+ 5. exd3 Ka1 6. h6 a2 7. h7 b5 8. h8=N $1 b4 9. Ng6 $1 fxg6 10. f7 g5 11. Kd2 Kb2 12. f8=B $1 (12. f8=Q $2 a1=Q 13. Qf6+ Kxb3 14. Qxa1) a1=Q 13. Bg7+ Kxb3 14. Bxa1 1-0
+
+[Event "2/3.p Birnov MT Molodoj Leninets (c)"]
+[Source "(c): Zinar=M Garmonia Peshechnogo Etyuda#221 1990."]
+[Date "1987.07.10"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p4p2/Pp1p1P2/3P2p1/7P/pP4Pp/k6P/3K4 w - - 0 1"]
+
+1. Kc2 $1 g4 2. h5 b5 3. h6 b4 4. h7 Ka1 5. h8=N a2 6. Ng6 fxg6 7. f7 g5 8. Kd3 $1 (8. Kd2 $2 Kb2 9. f8=Q a1=Q 10. Qf6+ Ka2 11. Qxa1+ Kxa1 12. Kd3 Kb2 13. Kc4 Ka3) Kb2 $1 9. f8=B $1 (9. f8=Q $2 a1=Q 10. Qf6+ Kxb3 11. Qxa1) a1=Q 10. Bg7+ Kxb3 11. Bxa1 1-0
+
+[Event "2/3.p Birnov MT Molodoj Leninets (c)"]
+[Source "(c): Zinar=M Shakhmatnaya Poezia=47 15-12-2009."]
+[Date "1987.07.10"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p2p1p2/Pp3P2/k2P4/p3p1pP/1P4Pp/P6P/7K w - - 0 1"]
+
+1. Kg1 $1 Kb4 2. Kf2 Kc3 $1 3. Ke3 a3 4. Kxe4 Kb2 5. Kd3 Kxa2 6. Kc2 d6 7. h5 b5 8. h6 b4 9. h7 Ka1 10. h8=N $1 a2 11. Ng6 fxg6 12. f7 g5 13. Kd3 $1 (13. Kd2 $2 Kb2 14. f8=Q a1=Q 15. Qf6+ Kb1 16. Qxa1+ Kxa1 17. Kd3 Kb2 18. Kc4 Ka3) Kb2 14. f8=B $1 (14. f8=Q $2 a1=Q 15. Qf6+ Kxb3 16. Qxa1) a1=Q 15. Bg7+ Kxb3 16. Bxa1 1-0
+
+[Event "Vestnik Pribuzja"]
+[Source "also Shakhmaty v SSSR/4 1989."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/8/8/2P5/8/P7/1k3K2 w - - 0 1"]
+
+1. a4 $1 b6 2. Ke2 $1 Kb2 3. Kd3 $1 Kb3 4. a5 $1 bxa5 5. c5 a4 6. c6 a3 7. c7 a2 8. c8=Q a1=Q {<eg>} 9. Qc4+ Ka3 10. Qa6+ Kb2 11. Qb6+ Ka3 12. Qa5+ Kb2 13. Qb4+ Ka2 14. Kc2 1-0
+
+[Event "Nove Zhittya"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p3p1/PpP3P1/1P6/1p5p/pk1K2pP/6P1/8 w - - 0 1"]
+
+1. a7 $1 a2 2. a8=R $1 (2. a8=Q $2 a1=Q 3. Qxa1) Kb2 3. Kc4 a1=Q 4. Rxa1 Kxa1 5. Kxb4 Kb2 6. Kc4 Kc2 7. Kd5 Kd2 8. Ke6 Ke2 9. Kf7 Kf2 10. Kxg7 Kxg2 11. Kh6 $1 Kxh3 12. g7 g2 13. g8=R $1 (13. g8=Q $2 g1=Q 14. Qxg1) Kh2 14. Kh5 $1 h3 15. Kh4 $1 g1=Q 16. Rxg1 Kxg1 17. Kxh3 Kf2 18. Kg4 Ke3 19. Kf5 Kd4 20. Ke6 Kc5 21. Kd7 Kxb5 22. Kxc7 1-0
+
+[Event "1.sp.hm Na Smenu!"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6p1/KP4p1/pp4P1/k7/6P1/8 w - - 0 1"]
+
+1. b6 $1 b3 2. b7 b2 3. b8=R $1 (3. b8=Q $2 b1=Q 4. Qxb1) Ka2 4. Kxa4 b1=Q 5. Rxb1 Kxb1 6. Kb5 $1 Kc2 7. Kc6 $1 Kc3 8. Kc5 $1 Kd2 9. Kd6 $1 Kd3 10. Kd5 $1 Ke2 11. Ke6 $1 Ke3 12. Ke5 $1 Kf2 13. Kf6 Kg3 14. Kxg5 1-0
+
+[Event ".c Shakhmaty v SSSR#07"]
+[Source "Shakhmaty v SSSR/2 EG#08306."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p4P2/P4p2/4pP2/1p2P2p/pP4pP/k1K1P3/8 w - - 0 1"]
+
+1. f8=B $1 (1. f8=Q $2 g2 2. Qg7 g1=Q 3. Qxg1) g2 (Ka1 2. Bxb4) 2. Bc5 Ka1 $1 (g1=Q 3. Bxg1 Ka1 4. Be3 a2 5. Bg5) 3. Be3 $1 (3. Bxa7 $2 a2 $1) g1=Q (Ka2 4. Bxa7 Ka1 5. Bc5) (a2 4. Bc1 $1 g1=Q 5. Bb2#) 4. Bxg1 a2 5. Bd4+ $1 (5. Bb6 $2 axb6 6. a7 b5 7. a8=Q) exd4 6. e5 fxe5 7. f6 e4 8. f7 d3+ 9. exd3 exd3+ 10. Kxd3 $1 Kb2 $1 11. f8=B $1 (11. f8=Q $2 a1=Q 12. Qf6+ Kxb3 13. Qxa1) a1=Q 12. Bg7+ 1-0
+
+[Event "64 Shakhmatnoye Obozrenye (tw)"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2p1p3/8/6P1/8/1k1K4/8 w - - 0 1"]
+
+1. Kd3 $1 Kb3 $1 2. Kd4 Kb4 3. g5 c5+ 4. Ke3 $1 Kb3 5. g6 1-0
+
+[Event "5.hm Sarychev MT Shakhmaty (Baku)"]
+[Source "EG#07425."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/6Pp/1p5P/1p6/PP6/p1K1p1P1/k7 w - - 0 1"]
+
+1. gxh7 $1 e1=N+ $1 2. Kc1 Nd3+ 3. Kd2 Kb1 4. h8=Q a1=Q 5. Qxa1+ Kxa1 6. Kxd3 bxa3 7. Kc2 b4 $1 8. g4 Ka2 9. g5 hxg5 10. h6 g4 11. h7 g3 12. h8=B $1 (12. h8=Q $2 g2 13. Qd4 g1=Q 14. Qxg1) g2 13. Bd4 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/3"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/2p5/5P2/p7/8/3K4/8/8 w - - 0 1"]
+
+1. Kc4 $1 c6 2. Kb3 $1 (2. Kc5 $2 Kg8 3. Kxc6 a4 4. Kd6 Kf7) c5 3. Kc4 $1 a4 4. Kxc5 $1 a3 5. Kd6 a2 (Kg8 6. Ke7) 6. f7 1/2-1/2
+
+[Event "Nove Zhittya"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/5pP1/P4P2/pp5p/1k1K1PpP/6P1/8 w - - 0 1"]
+
+1. a6 $1 a3 2. a7 a2 3. a8=R $1 (3. a8=Q $2 a1=Q 4. Qxa1) Kb2 4. Kc4 a1=Q 5. Rxa1 Kxa1 6. Kxb4 Kb2 7. Kc4 (7. Kc5 {<or>}) Kc2 8. Kd5 Kd2 9. Ke6 Ke2 10. Kf7 Kf2 11. Kxg7 Kxg2 12. Kh6 $1 Kxh3 13. g7 g2 14. g8=R $1 (14. g8=Q $2 g1=Q 15. Qxg1) Kh2 15. Kh5 h3 16. Kh4 g1=Q 17. Rxg1 Kxg1 18. Kxh3 Kf2 19. Kg4 Ke3 20. Kh5 Kf4 21. Kg6 Ke5 22. f4+ $1 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/3"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5Kp1/5p2/7P/2p5/8/1P6/6k1 w - - 0 1"]
+
+1. Kg6 $1 (1. Kxg7 $2 f5 2. h6 f4 3. h7 f3 4. h8=Q f2) Kg2 2. Kxg7 f5 3. h6 f4 4. h7 f3 5. h8=Q f2 6. Qa8+ 1-0
+
+[Event ".hm Birnov MT Molodoj Leninets"]
+[Source "EG#07567."]
+[Date "1988.06.02"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7k/8/1p5p/1P1p4/KP5P/PPp4P/8 w - - 0 1"]
+
+1. h4 $1 c1=N 2. h3 Nxa2 3. Kxa2 Kg6 4. Kb1 Kf5 5. Kc2 $1 Kf4 6. Kd3 Ke5 7. Ke2 (7. Kc2 {<or>}) Ke4 8. Kd2 d3 9. Kc3 $1 Ke3 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/4"]
+[Date "1989.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/5p2/8/4P3/4P3/8/K7/8 w - - 0 1"]
+
+1. Kb3 $1 Kg7 2. Kc4 $1 (2. e6 $2 fxe6 3. e5 Kg6) Kf8 (Kg6 3. Kd5 $1 Kg5 4. e6) 3. e6 $1 f6 (fxe6 4. e5 $1) 4. Kc5 $1 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/4"]
+[Date "1989.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/8/8/Pp2p3/1P6/6K1/8/8 w - - 0 1"]
+
+1. Kg4 $1 (1. Kf3 $2 Kc7 2. Ke3 Kc6 3. Ke4 Kd6 4. Kf5 Kd5) Kc7 2. Kf5 Kd6 3. Ke4 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/4"]
+[Date "1989.??.??"]
+[Round "?"]
+[Composer "Zinar, Mikhail"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/1P5p/P7/8/8/8/K7/8 w - - 0 1"]
+
+1. Kb3 $1 h5 2. Kc4 h4 3. Kd5 h3 4. Kc6 h2 5. Kb6 h1=Q 6. a7# 1-0

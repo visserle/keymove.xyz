@@ -1,0 +1,41 @@
+[Event "Wiener Schachzeitung#1223"]
+[Source "Wiener Schachzeitung/6"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Buchwald, Julius"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "n7/3q4/p7/k6B/8/p1KpN3/P2P4/8 w - - 0 1"]
+
+1. Nc4+ $1 Ka4 (Kb5 2. Be8 Qxe8 3. Nd6+) 2. Bd1+ Kb5 3. Ba4+ Kxa4 4. Nb6+ Nxb6 1/2-1/2
+
+[Event "British Chess Magazine#0569"]
+[Source "British Chess Magazine/5"]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Buchwald, Julius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/8/1K6/8/2k5/7P/8 w - - 0 1"]
+
+1. Kc5 $1 Kd3 2. Kd5 f6 3. h4 Ke3 4. h5 f5 5. h6 f4 6. h7 f3 7. h8=Q f2 8. Qe5+ Kd2 9. Qh2 Ke1 10. Kd4 (10. Ke4 {<or>}) f1=Q 11. Ke3 1-0
+
+[Event "Chess Life & Review#0141a (tw)"]
+[Source "Chess Life & Review/8"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Buchwald, Julius"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6nq/7P/7p/3p4/8/8/p1PPp3/k1K1B3 w - - 0 1"]
+
+1. d4 $1 Qxd4 2. h8=Q Qxh8 3. Bc3+ Qxc3 1/2-1/2

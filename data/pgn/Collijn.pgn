@@ -1,0 +1,12 @@
+[Event "source unknown"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Collijn"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k5/8/KPP5/8/1b6/8/8/8 w - - 0 1"]
+
+1. b7+ $1 Kb8 2. c7+ $1 Kxc7 3. Ka7 Bc5+ 4. Ka8 1-0

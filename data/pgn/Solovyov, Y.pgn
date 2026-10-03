@@ -1,0 +1,13 @@
+[Event "4.hm October Revolution AT Leninskoye Z"]
+[Source "EG#07508."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Solovyov, Y"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5R2/1n1K1P2/n7/5k2/2P1q3/8/2p5/2R5 w - - 0 1"]
+
+1. Rf1+ $1 Kg4 2. Rg8+ Kh3 3. Rh1+ Qxh1 4. Rh8+ Kg2 5. Rxh1 Kxh1 6. f8=Q Nbc5+ (Nac5+ {<main>} 7. Kc8 c1=Q 8. Qf3+ Kg1 9. Qg4+ Kf2 10. Qf4+ Qxf4) 7. Kc8 c1=Q 8. Qf3+ Kh2 9. Qh5+ Kg2 10. Qg5+ Qxg5 1/2-1/2

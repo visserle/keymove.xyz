@@ -1,0 +1,12 @@
+[Event "Sahovski Glasnik#126"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Mihailovic, G"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/7p/3Np3/Kp1pN3/5P1P/2pP4/pr6/8 w - - 0 1"]
+
+1. Kb6 $1 a1=Q 2. Nc6+ Ka8 3. Ne8 Qg1+ 4. d4 Qxd4+ 5. Nxd4 Kb8 6. Nd6 Rg2 7. Nc6+ Ka8 8. Ne8 Rg7 9. Nxg7 c2 10. Ne8 c1=Q 11. Nc7# 1-0

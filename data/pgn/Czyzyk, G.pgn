@@ -1,0 +1,13 @@
+[Event "Szachy#837 (c)"]
+[Source "Szachy/8 (c): Garcia=M Estudios Artisticos de Ajedrez - II-47 2012."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Czyzyk, G"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/1p6/1ppK3N/p2R3p/4kN2 w - - 0 1"]
+
+1. Re2+ $1 (1. Rxh2 $2 a1=Q) Kxf1 (Kd1 2. Ne3+ Kc1 3. Re1+ Kb2 4. Nc4#) 2. Rf2+ Ke1 3. Rxh2 Kf1 4. Rf2+ (4. Rh1+ $2 Kg2 5. Rg1+ Kxh3) Ke1 5. Rg2 a1=Q 6. Rg1# 1-0

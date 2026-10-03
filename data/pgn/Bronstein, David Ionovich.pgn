@@ -1,0 +1,13 @@
+[Event "5.hm Shakhmaty v SSSR#09"]
+[Source "Shakhmaty v SSSR/3"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Bronstein, David Ionovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k1K3/4p3/8/3P2br/1R2B3/8/4p3/8 w - - 0 1"]
+
+1. Bf5+ $1 (1. Rb1 $2 Bh4 2. Bf3 Rh8+) Kc7 2. Re4 Bh4 (Rh2 3. Bg4 Rh4 4. Rc4+ Kd6 5. Bxe2) 3. Rxe2 Rxf5 4. Rxe7+ $1 Bxe7 5. d6+ $1 Kc8 (Bxd6 {<main>}) (Kxd6 {<main>}) (Kc6 {<main>} 6. dxe7 Kc7) 6. d7+ $1 (6. dxe7 $2 Re5) Kc7 (Kb7 {<main>} 7. Kxe7 Re5+ 8. Kd6) 7. d8=Q+ $1 Bxd8 1/2-1/2

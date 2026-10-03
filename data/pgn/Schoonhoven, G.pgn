@@ -1,0 +1,13 @@
+[Event "Tijdschrift v.d. KNSB#169"]
+[Source "Tijdschrift v.d. KNSB/1"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Schoonhoven, G"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5N2/6k1/8/5p2/P7/1p2K3/5B2 w - - 0 1"]
+
+1. Kf2 $1 (1. Kd2 $2 b1=Q 2. Bd3+ Qxd3+ 3. Kxd3 Kxf7) b1=Q (Kxf7 2. Bd3 Ke6 3. Ke2 Kd5 4. Kd2 Kd4 5. Bf5 $1 (5. Kc2 $2 b1=Q+ $1 6. Kxb1 Kxd3) f3 6. Kc2 f2 7. Bh3) 2. Bd3+ Qxd3 3. Ne5+ 1-0

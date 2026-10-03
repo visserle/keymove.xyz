@@ -1,0 +1,27 @@
+[Event "El Ajedrez Argentino"]
+[Source "El Ajedrez Argentino/2"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Borelli, Rodolfo R"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/5p1p/1N3P2/pk1K3P/5N1B w - - 0 1"]
+
+1. Na1 $1 Kxa1 2. Kc2 h3 3. Bg2 hxg2 4. Nd2 g1=Q 5. Nb3# 1-0
+
+[Event "El Ajedrez Argentino"]
+[Source "El Ajedrez Argentino/5"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Borelli, Rodolfo R"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/p4P2/R3P3/8/8/8/b4p2/6nK w - - 0 1"]
+
+1. e7+ $1 (1. Kg2 $2 Bc4 2. e7+ (2. Ra1 f1=Q+ 3. Rxf1 Bxf1+ 4. Kxf1 (4. Kxg1 a5) Nf3) Kxf7 $1 3. Rf6+ Kxf6 4. Kxf2 Kxe7 5. Kxg1 a5) (1. Rxa2 $2 f1=Q 2. e7+ Kxe7 $1) Kxf7 $1 (Kxe7 2. f8=Q+ Kxf8 3. Rf6+) 2. Rxa2 (2. e8=Q+ $2 Kxe8 3. Rf6 Bd5+ 4. Kh2 Nf3+ 5. Kg2 Nd2+ 6. Kxf2 Ne4+) (2. Rf6+ $2 Kxf6 3. e8=Q f1=Q 4. Qf8+ Bf7) f1=Q 3. Rf2+ $1 Qxf2 4. e8=Q+ Kg7 5. Qg8+ Kh6 6. Qg6+ Kxg6 1/2-1/2

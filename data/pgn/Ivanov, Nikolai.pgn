@@ -1,0 +1,13 @@
+[Event "Shakhmatny Listok#208 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - IV-72 2012."]
+[Date "1927.05.25"]
+[Round "?"]
+[Composer "Ivanov, Nikolai"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6NK/6P1/8/P2b1Pk1/p7/8/8/8 b - - 0 1"]
+
+a3 $1 2. Nf6 Kxf6 (a2 3. Nxd5 a1=Q 4. Ne3 Qh1+ 5. Kg8 Kf6 6. Ng4+ Kxf5 7. Kf8 Qa8+ 8. Kf7) 3. a6 a2 4. a7 a1=Q 5. g8=Q Bxg8 6. a8=Q Qxa8 1/2-1/2

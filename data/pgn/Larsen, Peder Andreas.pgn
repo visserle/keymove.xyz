@@ -1,0 +1,95 @@
+[Event "Tidskrift for Schack#035"]
+[Source "also Deutsches Wochenschach#0563 Deutsches Wochenschach=46 17-11-1901."]
+[Date "1897.05.08"]
+[Round "?"]
+[Composer "Larsen, Peder Andreas"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6B1/8/1p1k4/1p1P4/1K6/7p/8/8 w - - 0 1"]
+
+1. Bh7 $1 Kxd5 (Ke5 2. d6 h2 3. d7 h1=Q 4. d8=Q) (h2 2. Be4) 2. Bf5 h2 3. Bc8 $1 Kc6 4. Bg4 $1 h1=Q 5. Bf3+ Qxf3 1/2-1/2
+
+[Event "Tidskrift for Schack#035 (m)"]
+[Source "(m): Villeneuve=A British Endgame Study News=3 2005."]
+[Date "1897.05.18"]
+[Round "?"]
+[Composer "Larsen, Peder Andreas"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6B1/8/1pk5/1p6/1K1P4/7p/8/8 w - - 0 1"]
+
+1. d5+ $1 Kd6 2. Bh7 Kxd5 (Ke5 3. d6 h2 4. d7 h1=Q 5. d8=Q) 3. Bf5 h2 4. Bc8 Kc6 5. Bg4 $1 h1=Q 6. Bf3+ Qxf3 1/2-1/2
+
+[Event "Tidskrift for Schack#013"]
+[Source "Tidskrift for Schack/5-6"]
+[Date "1916.??.??"]
+[Round "?"]
+[Composer "Larsen, Peder Andreas"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2b2P2/5Pp1/6P1/k1P5/6pp/2P4P/7K w - - 0 1"]
+
+1. f8=B $1 (1. f8=Q $2 g2+ 2. Kg1 Bb6+ 3. c5 Bxc5+ 4. Qxc5) g2+ 2. Kg1 Bb6+ 3. c5 Ba5 4. Bd6 Bc3 5. Bg3 Bd4+ 6. Bf2 Be5 {<eg> } 7. f7 Bg7 8. c6 1-0
+
+[Event "Tidskrift for Schack#063 (v)"]
+[Source "Tidskrift for Schack/11"]
+[Date "1917.??.??"]
+[Round "?"]
+[Composer "Larsen, Peder Andreas"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2B4k/2N5/3pPp1K/2Pp4/b6p/3R3P/6p1/8 w - - 0 1"]
+
+1. Rd1 $1 Bxd1 2. e7 Ba4 3. Nb5 Bxb5 4. c6 Bxc6 5. Bd7 Bxd7 6. e8=Q+ Bxe8 1/2-1/2
+
+[Event "Skakbladet"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Larsen, Peder Andreas"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/5p1N/8/6P1/2p5/7p/7P/7K w - - 0 1"]
+
+1. g6 $1 fxg6 2. Ng5 c3 3. Nf3 c2 4. Ng1 c1=Q 1/2-1/2
+
+[Event "Skakbladet"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Larsen, Peder Andreas"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6p1/1p4P1/4Pk1K/7P/p7/7B/8 w - - 0 1"]
+
+1. Bg1 $1 Kxe5 2. Be3 a2 3. Bh6 Kf6 4. Be3 a1=Q 5. Bd4+ Qxd4 1/2-1/2
+
+[Event "Skakbladet (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - VI-45 2012."]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Larsen, Peder Andreas"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3K4/8/1k4n1/R6B/7n/8/1p6/8 w - - 0 1"]
+
+1. Ra8 $1 Kb7 2. Bxg6 Nxg6 3. Ra5 b1=Q (Kb6 4. Ra8) 4. Rb5+ Qxb5 1/2-1/2

@@ -1,0 +1,26 @@
+[Event "Ceské Slovo"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Votruba, Otakar"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p6/pp6/kp6/8/K1P5/8/8 w - - 0 1"]
+
+1. Kb3 $1 b4 2. c4 b5 3. c5 b6 4. c6 1/2-1/2
+
+[Event "Ceskoslovensky Sach#77"]
+[Source "Ceskoslovensky Sach/10-11"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Votruba, Otakar"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/k2q4/P1p2QpR/2p3P1/2p3Pp/2p4P/2p3r1/2K5 w - - 0 1"]
+
+1. Rh7 $1 Rg1+ (Qxh7 2. Qg7+ Qxg7) 2. Kxc2 Rg2+ (Qxh7 {<main>} 3. Qg7+ Qxg7) 3. Kxc3 Rg3+ (Qxh7 {<main>} 4. Qf7+ Qxf7) 4. Kxc4 Qxh7 5. Qe7+ Qxe7 1/2-1/2

@@ -1,0 +1,55 @@
+[Event "?"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Genttner, Jaroslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/p6p/1pP5/n5P1/1r1N3k/R7/1p6/1K6 w - - 0 1"]
+
+1. g6 (1. c7 $2 Rc4 2. g6 $10) (1. Nf3+ $2 Kh5 2. g6 $14 $10) (1. Ra1 bxa1=Q+ 2. Kxa1 Rxd4) (1. Ra2 Rxd4 2. Rxb2 Nxc6) hxg6 (Rxd4 2. gxh7 (2. c7 $4 Nc4 3. Rb3 Rd1+ $19) (2. g7 $4 Nc4 $19) (2. Rxa5 $6 hxg6 3. c7 $16) (2. Ra4 $2 Rxa4 3. gxh7 $10) (2. Rf3 $4 Nc4 $17) (2. Rc3 $4 hxg6 3. Kxb2 Nc4+) (2. Rh3+ Kxh3 3. gxh7 Rd1+) Rd8 $2 (Rd1+ $5 3. Kxb2 $18) 3. c7 (3. Rd3 $6 Rh8 4. c7 $16 $18) (3. Ra4+ $2 Kh5 4. c7) (3. Rc3 $2 Nxc6 4. Rxc6) Rh8 4. Rc3 (4. Rd3 $6 Nc6 5. Rd8 $16 $18) (4. Rh3+ $4 Kxh3 5. c8=Q+ Rxc8 6. h8=Q+ Rxh8 7. Kxb2 Rc8) (4. Ra4+ $2 Kh5 5. Re4 Nb7 6. Rd4 Kg5 $14 $10) (4. Rxa5 $4 bxa5 5. Kxb2 Kg5 $19 6. Kb3 Kf5) (4. Rb3 $4 Nxb3 5. Kxb2 Nd4) (4. Kxb2 $4 Nc4+ 5. Kb3 Nxa3 6. Kxa3 a6) (4. Rg3 $4 Kxg3 5. Kxb2 Kf4) (4. Ra2 Nc4 5. Rxa7 Rf8) (4. Re3 Nb7 5. Rd3) Rc8 5. Rd3 $3 (5. h8=Q+ $2 Rxh8 6. c8=Q $10) (5. Rc2 $6 Kg3 6. Rd2 $18) (5. Kxb2 $6 Kg4 6. Rc1 $18) (5. Ra3 $6 Nc6 6. Rd3) Nc6 6. Rd8 $18) 2. c7 (2. Nf3+ $2 Kh5 3. c7 $14 $10) (2. Rc3 $4 Rxd4 3. Kxb2 Nc4+) (2. Rb3 Nxb3 3. Nf3+ Kg3) (2. Ne2 Nxc6) (2. Rxa5 bxa5 3. Nf3+ Kh5) (2. Ra4 Rxa4 3. Nf3+ Kg3) (2. Rd3 Rc4 3. Nf3+) (2. Nb5 Rxb5 3. Ra4+ Kg5) (2. Nc2 Rc4 3. Kxb2 Nxc6) Rc4 3. Nf3+ (3. Ne6 $2 Rc1+ 4. Kxb2 Rxc7 5. Rxa5 bxa5 6. Nxc7 $10) (3. Nb5 $4 Rc5 $10) (3. Ra4 $4 Rxc7 4. Nf3+ Kg3 $17 $19) (3. Nf5+ $4 Kg5 $10) (3. Nb3 $4 Nxb3 4. Rxa7 Na5 $19) (3. Rc3 $4 Rxc3 4. Kxb2 Rxc7) (3. Nc2 $4 Rxc7 4. Ra4+ Rc4) (3. Rd3 $4 Rxc7 4. Kxb2 g5) (3. Rxa5 bxa5 4. Nf3+ Kh5) Kh5 4. Ra4 (4. Ne1 Rxc7 5. Rh3+ Kg4) Rxc7 5. Rh4# (5. Rb4 $4 Nc4 $19 6. Nd4 a5) (5. Ne5 $4 g5 6. Kxb2 Rc5 $19) (5. Kxb2 $4 g5 6. Rd4 Rf7) (5. Rxa5+ $4 bxa5 6. Kxb2 g5) 1-0
+
+[Event "Národní Listy (tw)"]
+[Date "1937.02.14"]
+[Round "?"]
+[Composer "Genttner, Jaroslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p2pkp/2P5/3K3P/5P2/8/8/8 w - - 0 1"]
+
+1. Ke5 $1 (1. Kc5 $2 Kf6 $1 (Kh6 $2 2. Kb5 Kxh5 3. Ka6)) Kh6 (h6 2. Kf5 $1 Kg8 3. Kf6 Kf8 4. f5 Ke8 5. Kg7 Ke7 6. Kxh6 Kf6 7. Kh7) 2. Kf6 Kxh5 3. Ke7 $1 (3. Kxf7 $2 Kg4 4. Ke6) (3. f5 $2 Kg4) Kg6 4. Kd7 h5 5. Kxc7 h4 6. Kd6 $1 h3 7. c7 h2 8. c8=Q h1=Q 9. Qg8+ Kf5 10. Qg5+ Ke4 11. Qd5+ 1-0
+
+[Event "Sachové Umenie#121"]
+[Date "1948.11.10"]
+[Round "?"]
+[Composer "Genttner, Jaroslav"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k1K/7R/8/5P1R/4q3/8/8/8 w - - 0 1"]
+
+1. Rg7 $1 (1. Rd7 $2 Qe5+ 2. Kh7 Qe8) (1. R5h6 $2 Qe5+ 2. f6 Qg5 3. Rg6 Qxg6 4. Rf7+ Ke8 5. Re7+ Kd8) (1. f6 $2 Qg6) Qd4 2. f6 (2. Rhg5 $2 Qh4+ 3. Rh7 Qxg5) (2. Rhh7 $2 Qf6) Qxf6 3. Rf5 Qxf5 4. Rf7+ Kxf7 (Qxf7) 1/2-1/2
+
+[Event "3.p Ceskoslovensky Sach#3035"]
+[Source "Ceskoslovensky Sach/5"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Genttner, Jaroslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7k/8/3p4/8/1p2P3/1P2P3/7K w - - 0 1"]
+
+1. Kg2 $1 Kg6 2. Kf3 Kf5 3. e4+ $1 dxe4+ 4. Kg3 $1 Kg5 (Ke5 5. e3 Kf5 6. Kh4) 5. e3 $1 Kf5 6. Kh4 Ke5 7. Kg5 Kd5 8. Kf5 Kc5 $1 9. Ke5 $1 (9. Kxe4 $2 Kc4 $1) Kb5 10. Kd5 $1 Kb4 11. Kd4 $1 Kb5 12. Kc3 Ka4 13. Kc4 1-0

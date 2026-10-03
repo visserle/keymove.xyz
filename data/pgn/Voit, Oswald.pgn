@@ -1,0 +1,55 @@
+[Event "3.hm Isenegger MT National Zeitung"]
+[Source "EG#00502."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Voit, Oswald"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1N2p2K/4PP2/8/3k4/8/2r5 w - - 0 1"]
+
+1. f6 $1 Rc7 $1 (Rf1 2. Kg6) 2. Nd5 $1 (2. Kg6 $2 Ke4) Ra7 $1 (exd5 3. e6 Rc6 4. f7 Rxe6+ 5. Kg5) (Rc8 3. Ne7 Ra8 4. f7 Ke4 5. Ng6) 3. Ne7 Ke4 4. f7 (4. Ng6 $2 Rb7 $1) Ra8 5. Ng6 (5. Ng8 $2 Rf8) (5. Nc6 $2 Kd5 6. Ne7+ Kxe5) Kf5 6. Kg7 Ra7 7. Kg8 Ra8+ 8. f8=Q+ Rxf8+ 9. Kxf8 Kxg6 10. Ke7 Kf5 11. Kd6 1-0
+
+[Event "Schach Echo#551"]
+[Source "Schach Echo/9 EG#01603."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Voit, Oswald"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K4k2/PPb5/2b5/4p3/R3r3/8/5P2/8 w - - 0 1"]
+
+1. Rxe4 $1 Bxe4 2. f4 $1 (2. f3 $2 Bc6 3. f4 Ke7 4. fxe5 Kd8 5. e6 Bg3 6. e7+ Kc7 7. e8=N+ Kb6 8. Nd6 Ka6 9. Kb8 Bxd6+) Ke7 3. fxe5 Kd8 4. e6 Bf4 (Bd6 5. e7+ Kc7 6. e8=N+) (Be5 5. e7+ Kc7 6. e8=N+ Kb6 7. Nd6 Bc6 8. Nc4+) 5. e7+ Kc7 6. e8=N+ Kb6 7. Nd6 Bd5 (Bf5 8. Ne4 Ka6 9. Nc5+ Kb6 10. Ne4) 8. Nc4+ Ka6 9. Na5 Be4 10. Nc6 Bd6 (Bxc6) 11. Na5 1/2-1/2
+
+[Event "Tidskrift for Schack#1378"]
+[Source "Tidskrift for Schack/7-8 after Sokka=H d4f1 1965."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Voit, Oswald"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6r1/8/3R2P1/6b1/4K1B1/8/8/5k2 w - - 0 1"]
+
+1. Kf3 $1 Rf8+ 2. Bf5 $1 Rxf5+ 3. Kg4 Rf6 (Ra5 4. g7 Be7 5. g8=Q Ra4+ (Bxd6 6. Qc4+) 6. Kf5) 4. g7 Rxd6 5. g8=Q 1-0
+
+[Event "Die Schwalbe#124"]
+[Source "Die Schwalbe/4"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Voit, Oswald"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2k1K1P1/7n/8/3P4/8/2P3b1/8 w - - 0 1"]
+
+1. c4 $1 Bf1 (Be4 {<main>} 2. Kf8 $1 (2. d5 $2 Ng8+ 3. Kf7 Bh7 4. Ke6 Bg6 5. d6+ Kc6 6. d7 Kc7 7. c5 Bh5 8. c6 Bg6 9. Kd5 Bf7+ 10. Ke5 Ba2) Bh7 3. g8=Q Bxg8 4. Kg7) 2. d5 Bxc4 3. d6+ Kc6 4. d7 Ng8+ 5. Kf8 $1 (5. Ke8 $2 Nf6+) Kc7 6. d8=Q+ Kxd8 1/2-1/2

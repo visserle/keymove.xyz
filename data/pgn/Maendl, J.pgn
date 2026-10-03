@@ -1,0 +1,13 @@
+[Event "Casopis Ceskoslovensky Sach#245 (c)"]
+[Source "Casopis Ceskoslovensky Sach/7 (c): Cheron=A Journal de Genève=249 25-10-1955."]
+[Date "1919.??.??"]
+[Round "?"]
+[Composer "Maendl, J"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/Np6/k7/8/6N1/1pp5/1P6/8 w - - 0 1"]
+
+1. Ne5 $1 (1. Ne3 $2 c2) cxb2 2. Nc4 $1 b1=Q 3. Nb5 $1 Kxb5 (Qh7 4. Nc7+) (Qe4 4. Nc7#) 4. Na3+ Kb4 5. Nxb1 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "Schach#07908 (c)"]
+[Source "Schach/2 (c): Kos=V Schach/7 1977."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Kos, Vladimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6b1/8/4PpB1/1r6/4P1p1/3N3P/4k1p1/6K1 w - - 0 1"]
+
+1. Kxg2 $1 gxh3+ 2. Kh2 Rb7 (Kxd3 3. e7 $1 Re5 4. e8=Q) 3. e5 (3. Bf5 $2 Kxd3 4. e5+ Ke3 5. exf6 Kf3 6. Bxh3 Kf2 $1) fxe5 4. Kxh3 Bxe6+ 5. Kh4 Rb5 6. Nf4+ exf4 7. Bd3+ Kxd3 1/2-1/2

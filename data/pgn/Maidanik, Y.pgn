@@ -1,0 +1,12 @@
+[Event "2.c Fizkultura i Sport Committee Ukrain"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Maidanik, Y"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7B/p7/P7/K7/1N1n1p2/kq6/6Q1 w - - 0 1"]
+
+1. Qa1+ $1 Qxa1 2. Nxa1 Nb2+ 3. Kb4 f2 4. Nb3 f1=Q 5. Bb1+ $1 Qxb1 (Kxb1 6. Nd2+) 6. Nc1+ $1 Ka1 7. Nb3+ Ka2 8. Nc1+ Qxc1 1/2-1/2

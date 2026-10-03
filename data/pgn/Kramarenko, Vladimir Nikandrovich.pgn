@@ -1,0 +1,12 @@
+[Event "2.p Fizkultura i Sport Committee Ukrain"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Kramarenko, Vladimir Nikandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "n7/8/8/1k4N1/b6P/1p1P2p1/2P5/2K5 w - - 0 1"]
+
+1. h5 $1 g2 2. Nf3 $1 (2. Nh3 $2 Kb4 3. h6 Bd7 4. Ng1 Bf5) b2+ 3. Kxb2 Bxc2 $1 4. Kxc2 Nc7 5. h6 Ne6 6. h7 Ng5 7. Nd4+ $1 (7. h8=Q $2 Nxf3) Kc5 8. h8=Q g1=Q 9. Qe5+ Kb6 10. Qb8+ $1 Kc5 11. Qc7+ Kd5 12. Qd8+ $1 Ke5 (Kc5 {<main>} 13. Qxg5+ Qxg5 14. Ne6+ Kd6 15. Nxg5) 13. Qxg5+ Qxg5 14. Nf3+ Kf5 15. Nxg5 1-0

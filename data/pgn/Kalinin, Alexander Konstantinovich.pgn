@@ -1,0 +1,218 @@
+[Event "Schach#03441"]
+[Source "Schach/4"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Kalinin, Alexander Konstantinovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/8/k3N3/P6B/8/pP2P2K/8 w - - 0 1"]
+
+1. Nc6+ $1 Kb6 (Ka6 2. Nb4+) (Kxa4 2. b3+ Kxb3 3. Bf6) 2. Na5 $1 a1=Q (Kxa5 3. Bf6 $1 a1=Q 4. b4+) 3. Bd8+ Ka6 (Kc5 4. Nb3+) 4. Nb3 $1 Qxa4 5. Nc5+ 1-0
+
+[Event ".hm Szachy#584 (c)"]
+[Source "Szachy/5"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Kalinin, Alexander Konstantinovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5Q2/6pk/4q2N/6PK/8/8/8/8 w - - 0 1"]
+
+1. Qg8+ $1 (1. Ng4 $2 g6+ 2. Kh4 Qxg4+ 3. Kxg4) Qxg8 2. g6+ Kh8 3. Nf7+ Qxf7 4. gxf7 g6+ 5. Kh6 $1 (5. Kxg6 $2) g5 6. f8=Q# 1-0
+
+[Event "3.c Chervoni Girnik"]
+[Source "EG#01233."]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Kalinin, Alexander Konstantinovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1pp2p2/p2p4/3Pk2P/8/7K/6N1/8 w - - 0 1"]
+
+1. h6 $1 Kf6 2. Nh4 b5 3. Kg4 b4 4. Kh5 b3 5. Nf5 b2 6. h7 b1=Q 7. h8=Q+ Kxf5 8. Qh7+ 1-0
+
+[Event "Voenni Vestnik"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Kalinin, Alexander Konstantinovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/8/p1P2k1P/8/8/8/2b5/8 w - - 0 1"]
+
+1. Kc7 $1 a5 2. Kd6 a4 3. c7 Bf5 4. h7 Kg7 5. Ke5 Bc8 6. Kd4 $1 1/2-1/2
+
+[Event "Voenni Vestnik"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Kalinin, Alexander Konstantinovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k4/3NR3/8/6b1/8/8/K2p4/8 w - - 0 1"]
+
+1. Nf6 $1 Bxf6 (Kxe7 2. Nd5+ Kd6 3. Nc3) 2. Re3 $1 d1=Q 3. Rd3+ Qxd3 1/2-1/2
+
+[Event "Shakhmaty v SSSR#14 (v)"]
+[Source "Shakhmaty v SSSR/4"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Kalinin, Alexander Konstantinovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p6/8/p6R/1P6/1p6/p7/k1K5 w - - 0 1"]
+
+1. Rh2 $1 a4 2. Rb2 b5 3. Rd2 a3 4. Rd1 b2+ 5. Kc2+ $1 (5. Kd2+ $2 b1=R $1 6. Rc1 Kb2) b1=Q+ (b1=R 6. Rc1 Rxc1+ 7. Kxc1) 6. Kc3 Qxd1 1/2-1/2
+
+[Event "Shakhmaty v SSSR#14"]
+[Source "Shakhmaty v SSSR/4"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Kalinin, Alexander Konstantinovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p6/8/p3R3/1P6/1p6/p7/k1K5 w - - 0 1"]
+
+1. Re2 $1 a4 $1 2. Rb2 b5 $1 3. Rd2 $1 a3 4. Rd1 $1 b2+ 5. Kc2+ $1 (5. Kd2+ $2 b1=R $1) b1=Q+ (b1=R {<main>} 6. Rc1 Rxc1+ 7. Kxc1) 6. Kc3 $1 Qxd1 1/2-1/2
+
+[Event "1.c Chervoni Girnik (@2)"]
+[Source "EG#@2276. also Bulletin Central Chess Club USSR#39 Bulletin Central Chess Club USSR=19(148) Bulletin Central Chess Club USSR/10 1973. î2: Korolkov=V Bulletin Central Chess Club USSR/10 1974."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Kalinin, Alexander Konstantinovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/3p4/R2K4/8/4p3/3p4/8/8 w - - 0 1"]
+
+1. Ke7 $1 d2 2. Rd6 (2. Kf8 $1 { <minor dual VK>} Kh7 3. Rd6 e3 (d1=Q 4. Rxd1 Kg6 5. Ke7 Kf5 6. Kd6 Kf4 7. Kd5 e3 8. Kd4 e2 9. Re1 Kf3 10. Kd3) 4. Kf7) e3 3. Kf8 Kh7 4. Kf7 e2 5. Rxd2 e1=Q 6. Rh2+ 1-0
+
+[Event "1.hm 64 Shakhmatnoye Obozrenye#24"]
+[Source "EG#05927."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Kalinin, Alexander Konstantinovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/1n1K4/2P3PP/p7/4b3/8/8/8 w - - 0 1"]
+
+1. h7 $1 Kg7 2. c7 $1 Bf5+ 3. Ke7 Nc5 $1 4. h8=Q+ $1 Kxh8 5. Kf7 $1 Be6+ 6. Kf8 Nd7+ 7. Ke7 $1 Nc5 8. Kf8 Nd7+ 9. Ke7 Nb6 10. Kxe6 Kg7 11. Kd6 a4 12. Kc5 Nc8 13. Kb4 1/2-1/2
+
+[Event ".c Friendship-200 AT Achalgazdra Kommun"]
+[Source "EG#05632."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Kalinin, Alexander Konstantinovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2b3K1/8/5b1P/5P2/4p3/4P3/8/1k6 w - - 0 1"]
+
+1. Kf7 $1 Bh8 2. Kg6 Kc2 3. f6 Be6 4. f7 Bxf7+ 5. Kh7 Bg6+ 6. Kxh8 Kd3 7. Kg7 Bf5 8. Kf6 Bh7 9. Kg7 Bf5 10. Kf6 1/2-1/2
+
+[Event "64 Shakhmatnoye Obozrenye#04"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Kalinin, Alexander Konstantinovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K3b1/6k1/6PR/7P/2p5/8/2B5/8 w - - 0 1"]
+
+1. Rh8 $1 Kxh8 2. h6 Bh7 3. g7+ Kg8 4. Bxh7+ $1 Kxh7 5. Kd7 Kg8 (c3 6. Ke7 c2 7. Kf7 c1=Q 8. g8=Q+ Kxh6 9. Qg6#) 6. Ke7 c3 7. Kf6 c2 8. Kg6 c1=Q 9. h7# 1-0
+
+[Event "Voenni Vestnik"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Kalinin, Alexander Konstantinovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K6/pP6/2k5/P7/8/P3b3/8/8 w - - 0 1"]
+
+1. Ka8 $1 Bf4 2. Kxa7 (2. a4 $2 a6 3. Ka7 Be5 4. Kxa6 Bb8 $1) Kb5 3. a6 Ka5 4. a4 $1 Be5 5. b8=Q $1 Bxb8+ 6. Kb7 $1 1-0
+
+[Event "Voenni Vestnik"]
+[Source "also Shakhmaty v SSSR/4 1987."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Kalinin, Alexander Konstantinovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/7p/5R2/3Np3/4p1K1/8/4p3/8 w - - 0 1"]
+
+1. Rd6+ $1 Ke8 2. Kf5 e1=Q 3. Nf6+ Kf8 4. Rd8+ Kg7 5. Rd7+ Kf8 6. Ke6 Qa5 7. Rf7# 1-0
+
+[Event "3.p Moscow ty"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Kalinin, Alexander Konstantinovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1N6/8/8/p3R3/p2k4/3P4/K1pb4/8 w - - 0 1"]
+
+1. Nc6+ $1 Kxd3 2. Rc5 Bc3 3. Rxc3+ Kxc3 4. Nd4 $1 Kxd4 5. Kb2 Kd3 6. Kc1 a3 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/2"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Kalinin, Alexander Konstantinovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7N/8/p2k4/R1p5/K1p5/8 w - - 0 1"]
+
+1. Nf5+ $1 Kd3 $1 2. Rxc3+ $1 Kxc3 3. Nd4 $1 (3. Ng3 $2 Kd3) Kxd4 (c1=Q 4. Ne2+) 4. Kb2 Kd3 5. Kc1 a3 (Kc3) 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/5"]
+[Date "1989.??.??"]
+[Round "?"]
+[Composer "Kalinin, Alexander Konstantinovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4B3/8/8/6p1/7k/pP6/5KPP/8 w - - 0 1"]
+
+1. g3+ $1 Kh3 (Kg4 2. Bg6 a2 3. Kg2 a1=Q 4. h3#) 2. Kg1 a2 (Kg4 3. Bg6 a2 4. Kg2 a1=Q 5. h3#) 3. Bd7+ g4 4. Bb5 a1=Q+ 5. Bf1+ Qxf1+ 6. Kxf1 Kxh2 7. Kf2 (7. b4 $2 Kxg3 8. Kg1 Kf4) 1-0

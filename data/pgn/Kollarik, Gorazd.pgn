@@ -1,0 +1,13 @@
+[Event "Schach#08129"]
+[Source "Schach/12"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Kollarik, Gorazd"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/p3p1p1/1p2P1P1/pP1P1P2/2k4P/K6P/8 w - - 0 1"]
+
+1. d5 $1 exd5 2. f5 d4 3. e6 fxe6 (d3 4. exf7 $1 d2 5. f8=Q d1=Q 6. Qc5+) 4. f6 $1 d3 5. f7 d2 6. f8=Q d1=Q 7. Qc5+ Kd3 8. Qd6+ Kc2 9. Qxd1+ Kxd1 10. h4 e5 11. h5 e4 12. h6 $1 e3 13. h7 e2 14. h8=Q e1=Q 15. Qa1+ Kd2 16. Qxe1+ Kxe1 17. h4 Kf2 18. h5 gxh5 19. g6 h4 20. g7 h3 21. g8=Q 1-0

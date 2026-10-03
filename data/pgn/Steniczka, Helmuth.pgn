@@ -1,0 +1,40 @@
+[Event "2.c Schach Echo#214"]
+[Date "1958.12.20"]
+[Round "?"]
+[Composer "Steniczka, Helmuth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4R3/4P3/2r1k1B1/1b6/8/4PK2/8/8 w - - 0 1"]
+
+1. Bf5+ $1 (1. Rb8 $2 Kxe7 2. Be8 Rf6+ $1) Kxf5 (Kf7 2. Rb8 Rc5 3. Rxb5 Rxb5 4. Bd7) 2. Rb8 Rf6 $1 (Re6 3. Rxb5+ Kf6 4. Rb6 $1 Kxe7 5. Rxe6+ Kxe6 6. Ke4) 3. Rxb5+ Ke6+ 4. Rf5 $1 Rxf5+ (Kxe7 5. Rxf6 Kxf6 6. Kf4) 5. Kg4 $1 Kxe7 6. Kxf5 1-0
+
+[Event "Schach Echo#560"]
+[Source "Schach Echo/10"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Steniczka, Helmuth"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/7P/7k/8/1B1p4/p7/4P3/b7 w - - 0 1"]
+
+1. Bf8+ $1 (1. Kg8 $2 d3 2. Bf8+ Kg5 $1 (Kg6 $2 3. exd3 a2 4. d4 Bxd4 5. h8=Q Bxh8 6. Bg7 Bxg7) (Kh5 $2 3. Bg7) 3. Bg7 Bxg7 4. Kxg7 a2) Kg6 2. Kg8 $1 (2. Bg7 $2 d3 3. Bxa1 d2 4. Kg8 d1=Q 5. h8=Q Qd8#) d3 3. exd3 a2 4. d4 $1 Bxd4 5. h8=Q Bxh8 6. Bg7 $1 Bxg7 1/2-1/2
+
+[Event "Schach Echo#611"]
+[Source "Schach Echo/9"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Steniczka, Helmuth"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3N1B2/4pb2/6k1/8/5P2/Kp1p4/8/8 w - - 0 1"]
+
+1. f5+ $1 Kh7 2. Bh6 $1 (2. Nxf7 $2 d2) Kxh6 3. Nxf7+ Kg7 4. Nd6 $1 (4. Kxb3 $2 Kxf7) d2 $1 (exd6 5. Kxb3) 5. f6+ $1 Kf8 6. fxe7+ Kxe7 7. Nf5+ Kf6 8. Ne3 1/2-1/2

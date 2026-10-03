@@ -1,0 +1,12 @@
+[Event "Sovyetskaya Moldavia"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Chikanov, N"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/2k1p3/4P1p1/2P1P1P1/p1P1ppPK/P3PR2/7b w - - 0 1"]
+
+1. Rh2 $1 Bg2+ 2. Rxg2 fxg2 3. Kh2 $1 Kb6 $1 4. Kg1 Kc5 (Kc6 5. Kh2 (5. Kxg2 $2 Kc5 6. Kf3 Kxc4 7. Kxe3 Kxc3)) 5. Kxg2 Kxc4 6. Kf3 Kxc3 7. Kxe3 Kc2 8. Kd4 Kb2 9. Kd3 Kxa2 10. Kc2 1/2-1/2

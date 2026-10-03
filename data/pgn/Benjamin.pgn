@@ -1,0 +1,12 @@
+[Event "source unknown"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Benjamin"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5K1k/7p/4p2P/8/5p2/R7 w - - 0 1"]
+
+1. Ke5 $1 e3 2. Ra6+ Kg7 3. Ra7+ Kf8 4. Ra8+ Ke7 5. Ra7+ Kd8 6. Kd6 Kc8 7. Kc6 Kb8 8. Rf7 e2 9. Rf8+ Ka7 10. Rf7+ Ka6 11. Rxf2 e1=Q 12. Ra2+ Qa5 13. Rxa5+ Kxa5 14. Kd5 1/2-1/2

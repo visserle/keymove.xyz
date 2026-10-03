@@ -1,0 +1,40 @@
+[Event "De Schaakcourant"]
+[Source "De Schaakcourant/10"]
+[Date "1912.??.??"]
+[Round "?"]
+[Composer "Graafland, J. C. N."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3K4/8/8/4k3/8/N2bB3/p7/8 w - - 0 1"]
+
+1. Nb5 $1 Bxb5 2. Bh6 Kf6 3. Bd2 a1=Q 4. Bc3+ Qxc3 1/2-1/2
+
+[Event "La Stratégie#0422"]
+[Source "La Stratégie/8"]
+[Date "1913.??.??"]
+[Round "?"]
+[Composer "Graafland, J. C. N."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p5p1/1p2K3/3p1pBP/3k4/1PpP3p/2P1P3/6b1 w - - 0 1"]
+
+1. b4 $1 Be3 $1 (a5 2. e3+ Bxe3 3. Bd8) (h2 2. Bf4 h1=Q 3. e3+ Bxe3 4. Be5#) 2. h6 h2 3. hxg7 Bxg5 4. g8=Q h1=Q 5. Qxg5 Qh2 {<eg>} 6. e3# 1-0
+
+[Event "Orgaan Discendo Discumis"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Graafland, J. C. N."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5p1N/8/6P1/2p5/k6p/7P/7K w - - 0 1"]
+
+1. g6 $1 fxg6 2. Ng5 c3 3. Nf3 c2 4. Ng1 $1 c1=Q (g5 5. Ne2) 1/2-1/2

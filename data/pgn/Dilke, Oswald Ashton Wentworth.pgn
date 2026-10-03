@@ -1,0 +1,38 @@
+[Event "Chess#124"]
+[Date "1938.07.14"]
+[Round "?"]
+[Composer "Dilke, Oswald Ashton Wentworth"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/4p3/8/3k4/7p/1K5N w - - 0 1"]
+
+1. Ng3 $1 (1. Kc1 $2 Ke2) (1. Nf2+ $2 Ke2) e4 (Ke3 2. Nf1+) 2. Kc1 e3 3. Kd1 e2+ 4. Ke1 Ke3 5. Nh1 Kf3 6. Nf2 1/2-1/2
+
+[Event "Chess#167"]
+[Date "1939.07.20"]
+[Round "?"]
+[Composer "Dilke, Oswald Ashton Wentworth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/Pk1p2p1/1PpP2P1/K1p5/2P5/8/8/8 w - - 0 1"]
+
+1. Ka4 $1 Ka8 2. Kb3 Kb7 3. Ka3 Ka8 4. Ka4 Kb7 5. Ka5 Ka8 6. b7+ $1 Kxb7 7. a8=Q+ $1 Kxa8 8. Ka6 1-0
+
+[Event "Chess#181"]
+[Date "1939.10.20"]
+[Round "?"]
+[Composer "Dilke, Oswald Ashton Wentworth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/7p/4PPp1/5N2/6P1/6p1/1P2p1K1/8 w - - 0 1"]
+
+1. e7 $1 e1=Q 2. e8=Q+ Qxe8 3. f7+ $1 Qxf7 4. Nh6+ Kg7 5. Nxf7 Kxf7 6. g5 $1 Ke6 7. Kxg3 Kf5 8. b4 1-0

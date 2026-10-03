@@ -1,0 +1,25 @@
+[Event "Chess#114"]
+[Date "1938.04.14"]
+[Round "?"]
+[Composer "Hulf, L"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p1p1pp/2P1P1p1/5k2/6p1/Pp1K2P1/1P4P1/8 w - - 0 1"]
+
+1. a4 $1 Kg5 $1 2. a5 Kh5 3. a6 g5 4. a7 g6 5. a8=N $1 h6 6. Nb6 cxb6 7. c7 b5 8. c8=N b4 9. Nd6 exd6 10. e7 d5 11. e8=N d4 12. Nf6# (12. Ng7# {<or>}) 1-0
+
+[Event "Chess#135"]
+[Date "1938.10.14"]
+[Round "?"]
+[Composer "Hulf, L"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/q1Ppp3/8/8/8/3Q4/4R1Pp/5n1K w - - 0 1"]
+
+1. Qxd7+ $1 (1. Rf2 $2 Qxf2 2. Qa6+ Kxc7 3. Qa5+ Kd6 4. Qa6+ Ke5 5. Qb5+ Kf6 $1 6. Qa6+ d6 $1 7. Qa1+ e5) Kxd7 2. Rxe7+ Kxe7 3. c8=N+ 1/2-1/2

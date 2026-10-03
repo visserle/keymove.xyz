@@ -1,0 +1,53 @@
+[Event "Nedelna Pravda#1134"]
+[Date "1980.03.07"]
+[Round "?"]
+[Composer "Todek, Stefan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/1Pp1pp2/1pP4K/4P3/8/8/8/8 w - - 0 1"]
+
+1. e6 $1 fxe6 (f6 2. Kg6) 2. Kg5 b5 3. Kf4 b4 4. Ke3 b3 (e5 5. Kd3 e6 6. Kc4 e4 7. Kxb4 e3 8. Kc3) 5. Kd3 e5 6. Kc3 e4 7. Kxb3 e3 8. Kc3 e2 9. Kd2 1-0
+
+[Event "Nedelna Pravda#1358 (@2)"]
+[Source "î@: Nedelna Pravda 15-10-1982."]
+[Date "1982.09.03"]
+[Round "?"]
+[Composer "Todek, Stefan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7p/8/6k1/6p1/8/5KpP/8 w - - 0 1"]
+
+1. Kg1 $1 (1. Kxg2 $2 Kh4 $1 2. Kg1 (2. Kh1 Kh3 $1 (h6 $2 3. Kg2 Kg5 (h5 4. Kg1 Kh3 5. Kh1) 4. Kg1 Kf4 5. Kf2) 3. Kg1 h6 $1 4. Kh1 h5 5. Kg1 h4 6. Kh1 g3 7. hxg3 hxg3) Kh3 3. Kh1 h5 4. Kg1 h4 5. Kh1 g3) Kh5 2. Kf2 Kh4 3. Kxg2 h5 (h6 4. Kh1) 4. Kg1 $1 (4. Kh1 $2 Kh3 5. Kg1 h4 6. Kh1 g3) Kh3 5. Kh1 h4 6. Kg1 g3 7. hxg3 (7. Kh1 $1 { <minor dual>}) hxg3 8. Kh1 1/2-1/2
+
+[Event "1.c Nedelna Pravda#1565"]
+[Source "EG#06901."]
+[Date "1984.05.11"]
+[Round "?"]
+[Composer "Todek, Stefan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2B2R2/kpp2p2/1p6/1P1P4/K7/4p1pP/8/8 w - - 0 1"]
+
+1. Bxb7 $1 Kxb7 2. d6 $1 g2 (e2 3. d7 e1=Q 4. d8=N+) 3. Rg8 e2 4. d7 e1=Q 5. d8=N+ Kc8 6. Nc6+ Kd7 7. Rd8+ 1-0
+
+[Event "Nedelna Pravda#2025"]
+[Date "1987.12.31"]
+[Round "?"]
+[Composer "Todek, Stefan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2K5/8/8/5P1P/4n3/8/k7 w - - 0 1"]
+
+1. h5 $1 Nd5+ (Nf5 {<main>} 2. Kc6 $1 Kb2 3. Kd5 Kc3 4. Ke5 Nh6 5. Kf6 $1 (5. f5 $2 Kd3 6. Kf4 Nf7 $1) Kd4 6. Kg6) 2. Kc8 $1 Kb2 3. h6 Nf6 4. Kc7 $1 Kc3 5. Kd6 Kd4 6. Ke6 Nh7 7. Kf5 (7. Kf7 {<or>}) 1-0

@@ -1,0 +1,287 @@
+[Event "Buletin Problemistic#074"]
+[Source "Buletin Problemistic/7-9"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Kichigin, Viktor Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7K/8/1r5k/3p1R2/B6P/3P1Pp1/8 w - - 0 1"]
+
+1. Be7 $1 Rg5 2. Rf6 $1 Rg7+ 3. Kxg7 g1=Q+ 4. Kh7 Qb1+ (Qg5 5. f4 $1) 5. d3 $1 Qxd3+ 6. Kg7 Qxh3 7. Rh6+ Kg4 8. Rxh3 Kxh3 9. Bc5 $1 (9. Kf6 $2 Kg4) 1-0
+
+[Event "Revista de Romana de Sah#0726"]
+[Source "Revista de Romana de Sah/7"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Kichigin, Viktor Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4Q3/6nk/5r2/4N3/5q2/8/8/4R2K w - - 0 1"]
+
+1. Qh8+ $1 Kxh8 2. Ng6+ Rxg6 3. Re8+ Kh7 4. Rh8+ Kxh8 1/2-1/2
+
+[Event "Buletin Problemistic#131"]
+[Source "Buletin Problemistic/1-3"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Kichigin, Viktor Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4BK2/7p/5p1k/8/1p4PP/1P2pP1P/1p1r4/2b1R3 w - - 0 1"]
+
+1. Rg1 $1 (1. f4 $2 Rg2 $1 2. g5+ fxg5 3. fxg5+ Rxg5) Rg2 (Rd5 2. f4 e2 3. g5+ fxg5 4. hxg5+ $1 Rxg5 5. Rxg5 e1=Q 6. Rh5#) 2. Rxg2 e2 3. g5+ fxg5 (Bxg5 4. hxg5+ fxg5 5. Rxe2 b1=Q 6. Re6+ Qg6 7. Bxg6) 4. Rxe2 gxh4 (b1=Q 5. Re6+ Qg6 6. Bxg6 hxg6 7. hxg5+ Kxg5 8. Re4 Bd2 9. Ke7) 5. Re5 Bg5 6. f4 $1 (6. Re6+ $2 Bf6 $1 7. Rxf6+ Kg5) Be7+ {<eg>} 7. Rxe7 (7. Kxe7 $2 b1=Q 8. Kf8 Qf5+ $1 9. Kg8 Qf8+ $1 10. Kxf8) 1-0
+
+[Event "Sachové Umenie#5120"]
+[Source "Sachové Umenie/6"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Kichigin, Viktor Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/p7/rP6/1p3R2/5p2/5K2/8/3B4 w - - 0 1"]
+
+1. b7 $1 Rb6 2. Rxb5 Rxb5 3. Ba4 Kd8 4. Bxb5 Kc7 5. Bc6 (5. Ba6 $2 Kb8) a5 6. Ke2 $1 1-0
+
+[Event "Buletin Problemistic#137"]
+[Source "Buletin Problemistic/4-6"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Kichigin, Viktor Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4B3/R7/7k/8/8/2p5/2p3N1/K7 w - - 0 1"]
+
+1. Rh7+ $1 (1. Ra6+ $2 Kg7 $1 2. Ra7+ Kg8 $1) Kxh7 2. Bg6+ $1 Kxg6 3. Nf4+ Kf5 4. Ne2 $1 (4. Nd3 $2 Ke4 5. Nc1 Ke3) Ke4 5. Nxc3+ Kd3 6. Na2 1/2-1/2
+
+[Event "Revista de Romana de Sah#0809"]
+[Source "Revista de Romana de Sah/12"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Kichigin, Viktor Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4R3/k1p1P3/pp6/8/1P6/8/1q1p3r/3K2Q1 w - - 0 1"]
+
+1. Ra8+ $1 (1. Qxb6+ $2 cxb6 2. Ra8+ Kb7 $1 3. Rb8+ Kc7 $1 4. Rc8+ Kd6) Kb7 2. Rb8+ Kxb8 3. e8=Q+ Ka7 4. Qxb6+ Kxb6 5. Qb5+ (5. Qb8+ $2 Kc6 6. Qb5+ Kd6 $1) Ka7 6. Qc5+ Kb8 7. Qb5+ Kc8 8. Qe8+ Kb7 9. Qb5+ axb5 1/2-1/2
+
+[Event "Sachové Umenie#5170"]
+[Source "Sachové Umenie/8"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Kichigin, Viktor Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K1k3/4Pp2/1pp2P2/8/PpP5/6P1/8/8 w - - 0 1"]
+
+1. c5 $1 bxc5 2. a5 b3 3. a6 b2 4. a7 b1=Q 5. a8=Q Qb6 6. g4 c4 7. g5 c3 8. g6 fxg6 9. Qa2 1-0
+
+[Event "Rokada"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Kichigin, Viktor Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1R6/6p1/7k/8/5K1P/4P3/1B5p/3b3n w - - 0 1"]
+
+1. h5 $1 Bxh5 2. Bxg7+ $1 Kxg7 3. Rb1 Nf2 4. Kg3 h1=Q 5. Rxh1 Nxh1+ 6. Kg2 1/2-1/2
+
+[Event "Magyar Sakkélet#1448"]
+[Source "Magyar Sakkélet/2-3"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Kichigin, Viktor Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2K5/3p4/2k5/1pP1p3/1P2p2p/2P1p1P1/B4p2/6N1 w - - 0 1"]
+
+1. Nf3 $1 exf3 (d6 2. Nxe5+ dxe5 3. Bb1 Kd5 4. Ba2+ Kc6 5. Bb1 $1) 2. Bb1 $1 Kd5 $1 (f1=Q 3. Be4+ d5 4. Bf5 Qh3 5. g4 $1 Qxg4 6. Bxg4 d4 7. Bxf3+ e4 8. Bxe4#) 3. Ba2+ Ke4 4. Bb1+ Kd5 5. Ba2+ Kc6 6. Bb1 $1 1/2-1/2
+
+[Event "EG"]
+[Source "EG/7 EG#04297."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Kichigin, Viktor Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/4p1P1/2n4k/7P/1p4P1/1P2p1P1/pPp5/2b1B3 w - - 0 1"]
+
+1. Bc3 $1 Bxb2 2. Bxb2 a1=Q 3. Bxa1 c1=Q 4. Bf6 $1 exf6 5. g8=Q Ne5 6. Qg7# 1-0
+
+[Event "3.c Revista de Romana de Sah#0920"]
+[Source "Revista de Romana de Sah/4 EG#05779."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Kichigin, Viktor Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K2k3/1R4P1/3pP3/1p3P2/5p2/8/4r3/6r1 w - - 0 1"]
+
+1. f6 $1 Rxg7 2. fxg7 Rg2 3. Rf7 f3 4. Kc7 f2 5. Kxd6 Rxg7 $1 (f1=Q 6. Rxf1 Rxg7 7. Ra1 $1) 6. Rxg7 f1=Q 7. Rg8+ Qf8+ 8. Rxf8+ Kxf8 9. Kd7 1-0
+
+[Event "Canadian Chess Chat"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Kichigin, Viktor Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1RR2B2/7p/8/8/8/p2K4/pb5p/k7 w - - 0 1"]
+
+1. Rc1+ $1 Bxc1 2. Bg7+ Bb2 3. Rxb2 axb2 4. Kc2 h1=Q 5. Bxb2# 1-0
+
+[Event "Chess Life & Review#1381"]
+[Source "Chess Life & Review/12 also The Independent 1987."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Kichigin, Viktor Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k2N/3pPp2/3P1Pp1/8/1p6/8/4P1PK/8 w - - 0 1"]
+
+1. e4 $1 b3 2. e5 b2 3. e6 $1 dxe6 4. Nxf7 $1 Kxf7 (b1=Q 5. Ne5 $1) 5. d7 1-0
+
+[Event "Na Smenu!"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Kichigin, Viktor Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "kbK5/8/1p5p/2P5/8/1Rpr4/2pP4/3N4 w - - 0 1"]
+
+1. Ra3+ $1 Ba7 2. cxb6 Rd8+ $1 3. Kxd8 c1=Q 4. Kc7 $1 cxd2+ 5. Nc3 Qxc3+ 6. Rxc3 Bxb6+ 7. Kxb6 Kb8 8. Rd3 1-0
+
+[Event "Molodoj Leninets"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Kichigin, Viktor Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2K1k1Pb/7B/1P6/8/8/8/4n3 w - - 0 1"]
+
+1. b6 $1 Nd3 2. b7 Nc5 3. g8=Q $1 Bxg8 4. Bf8+ $1 Kxf8 5. b8=Q+ 1-0
+
+[Event "Szachy#68 (@2)"]
+[Source "Sza@hy/11 î2: Ulrichsen=J HHdbIII#16099 1-8-2002."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Kichigin, Viktor Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6B1/kP6/1pR5/8/8/1P1p4/3p4/6K1 w - - 0 1"]
+
+1. b8=Q+ $1 Kxb8 2. Rc8+ $1 Ka7 3. Ra8+ Kxa8 4. Bd5+ Ka7 5. Bf3 Ka6 6. Kf2 (6. Bd1 $1 {<minor dual JU>}) Kb5 7. Ke3 Kb4 8. Bd1 Kc3 9. Ke4 b5 10. Ke3 b4 11. Ke4 1-0
+
+[Event "Molodoj Leninets"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Kichigin, Viktor Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/1P1K3p/8/P6k/8/8/7b w - - 0 1"]
+
+1. a5 $1 Bb7 2. Kc7 Ba6 3. b7 Bxb7 4. Kxb7 g5 5. a6 g4 6. a7 g3 7. a8=Q g2 8. Qa1 Kg3 9. Qg1 h5 10. Kc6 h4 11. Kd5 h3 12. Ke4 h2 13. Qe3+ 1-0
+
+[Event "RSFSR ty"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Kichigin, Viktor Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7p/R2PR3/5p1p/2rr4/p4kPK/P6P/8 b - - 0 1"]
+
+Rh4+ $1 2. gxh4 Rc3 3. Rc6 Rxc6 4. d7 Rc3 5. Rc6 Rd3 6. Rd6 Rxd6 7. d8=Q Rxd8 1/2-1/2
+
+[Event "8.c Chavchavadze MT"]
+[Source "EG#07775."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Kichigin, Viktor Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/R2P4/2P2k2/1P6/3P4/1p3PPK/2r5 w - - 0 1"]
+
+1. d7 $1 Rh1+ (b1=Q 2. d8=Q Rh1+ 3. Kg3) 2. Kxh1 (2. Kg3 $2 Rh8) b1=Q+ 3. Kh2 Qxb4 (Qxd3 4. Rd6) 4. Rf6+ (4. d8=Q $2 Qf4+ 5. Kh3 Qg4+ 6. Kh2 Qh5+ 7. Kg1 Qd1+) Ke5 5. f4+ (5. d8=Q $2 Qh4+ 6. Kg1 Qh1+ 7. Kxh1) Kxf6 6. d8=Q+ 1-0
+
+[Event "Shakhmaty (Riga)#07"]
+[Source "Shakhmaty (Riga)/1"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Kichigin, Viktor Vladimirovich"]
+[White "Kichigin, V"]
+[Black " Kalyagin, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/5Ppk/5P2/8/8/8/3p2pN/B7 w - - 0 1"]
+
+1. Ng4 $1 (1. f8=Q $2 g1=Q 2. f7 Qe1+ 3. Qe7 Qxe7+ 4. Kxe7 d1=Q 5. f8=Q Qxa1) (1. f8=N+ $2 Kh6 2. Ng4+ Kh5 3. fxg7 g1=Q 4. g8=Q Qxg4 5. Qd5+ Qg5 6. Qh1+ Qh4 7. Qd1+ Qg4 8. Qxd2 Qa4+) g1=Q 2. f8=N+ $1 Kg8 (Kh8 {<main>} 3. fxg7+ Kg8 4. Nh6#) 3. f7+ Kh8 4. Ng6+ Kh7 5. f8=N+ $1 Kg8 6. Nh6+ (6. Nf6+ $2 gxf6 7. Ne7+ Kg7 $1 8. Nf5+ Kg8 $1) gxh6 7. Ne7# 1-0
+
+[Event "Kaminer MT Schakend Nederland#2077"]
+[Source "Schakend Nederland/1"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Kichigin, Viktor Vladimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6B1/8/5K1P/1p4R1/1r6/k7/pp6/8 w - - 0 1"]
+
+1. Rg3+ $1 Rb3 (Ka4 2. Bxa2 b1=Q 3. Bxb1 Rxb1 4. Rh3 Rf1+ 5. Ke7 Re1+ 6. Kd7 Rd1+ 7. Kc7 Rc1+ 8. Kb7 Rf1 9. h7 Rf8 10. h8=Q Rxh8 11. Rxh8 b4 12. Kc6 b3 13. Kc5 b2 14. Kc4) 2. Rxb3+ Ka4 3. Rb4+ Ka3 4. Bxa2 1-0

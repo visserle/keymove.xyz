@@ -1,0 +1,12 @@
+[Event "Deutsche Schachblätter#04"]
+[Date "1942.??.??"]
+[Round "?"]
+[Composer "Burget, A"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4N2k/2N1p2p/7K/8/5p1p/8/8/8 w - - 0 1"]
+
+1. Nf6 $1 exf6 (h3 2. Ng4) (f3 2. Ng4) (e5 2. Nce8) 2. Nd5 $1 h3 (f3 3. Ne3 h3 4. Nf1) 3. Nxf4 h2 4. Nh5 $1 h1=Q (h1=R) (h1=B 5. Nxf6) 1/2-1/2

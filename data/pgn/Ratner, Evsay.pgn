@@ -1,0 +1,42 @@
+[Event "tb26"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "Ratner, Evsay"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/b1p3p1/Bk6/4N3/8/8/8/N5K1 w - - 0 1"]
+[PlyCount "15"]
+
+1. Be2 $3 (1. Bd3 $143 Kb7+ 2. Kg2 Bd4 3. Nb3 Bxe5 4. Na5+ Kb6 $1 5. Nc4+ Kc5 6. Nxe5 Kd4 $11) (1. Bf1 $143 Kb7+ 2. Kg2 $1 Bd4 3. Nb3 Bxe5 4. Na5+ Kc8 $1 5. Ba6+ Kd7 $11) Kb7+ (Ka5+ $144 2. Kg2 Bd4 3. Nb3+ $18) 2. Kg2 $1 Bd4 3. Nb3 Bxe5 4. Na5+ Ka8 (Kc8 $144 5. Bg4+ $18) 5. Nc6 Bd6 6. Ba6 g5 7. Kf3 Bf8 8. Kg4 $18 1-0
+
+[Event "La Stratégie#0825"]
+[Source "La Stratégie/5"]
+[Date "1920.??.??"]
+[Round "?"]
+[Composer "Ratner, Evsay"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/5bB1/8/8/3P4/4k3/3N2p1/8 w - - 0 1"]
+
+1. d5 $1 Bxd5 (g1=Q 2. Bd4+ Kxd4 3. Nf3+ Ke3 4. Nxg1) 2. Bf8 Kd4 3. Ne4 Bxe4 4. Bd6 g1=Q 5. Bc5+ Kxc5 1/2-1/2
+
+[Event "Bulletin Ouvrier des Échecs#030"]
+[Source "Bulletin Ouvrier des Échecs/3"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Ratner, Evsay"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/1b6/8/8/3P4/4k3/1B1N2p1/8 w - - 0 1"]
+
+1. d5 $1 Bxd5 $1 (g1=Q 2. Bd4+ Kxd4 3. Nf3+ Ke3 4. Nxg1) 2. Ba3 Kd4 3. Ne4 Bxe4 4. Bd6 g1=Q 5. Bc5+ Kxc5 1/2-1/2

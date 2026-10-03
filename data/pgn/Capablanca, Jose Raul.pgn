@@ -1,0 +1,40 @@
+[Event "Vossische Zeitung"]
+[Date "1914.07.26"]
+[Round "?"]
+[Composer "Capablanca, Jose Raul"]
+[Composer2 "Lasker, Emanuel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1R1K4/k1n5/Np6/1P1n4/8/8/8/8 w - - 0 1"]
+
+1. Nxc7 $1 Nxc7 2. Ra8+ $1 Nxa8 (Kxa8 3. Kxc7 Ka7 4. Kc6) (Kb7 3. Ra7+) 3. Kc8 Nc7 4. Kxc7 Ka8 5. Kxb6 1-0
+
+[Event "source unknown"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Capablanca, Jose Raul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4k3/1p5p/1P5P/4K3/8/8 w - - 0 1"]
+
+1. Ke4 $1 Kd6 (Kf6 2. Kf4 $1 Kg6 3. Ke5 $1) 2. Kd4 Ke6 3. Kc5 Kf5 4. Kxb5 Kg4 5. Kc4 Kxh4 6. b5 Kg3 7. b6 h4 8. b7 h3 9. b8=Q+ 1-0
+
+[Event "Chess Fundamentals"]
+[Source "Chess Fundamentals/11"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Capablanca, Jose Raul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/8/8/1p5p/1P5P/8/8/4K3 w - - 0 1"]
+
+1. Ke2 $1 Ke7 (Kd7 {<main>} 2. Kd3 (2. Kf3 $2 Kd6 3. Kf4 Kd5 4. Kg5 Ke4) (2. Ke3 $2 Ke7 3. Ke4 (3. Kd3 Kd7) (3. Kf3 Kf7) Ke6) (2. Kd2 $2 Kd6 3. Ke2 Ke6 4. Kf2 (4. Kd3 Kd5) (4. Kd2 Kf5) (4. Kf3 Kf5) (4. Ke3 Ke5) Kd5) Ke7 (Kc6 3. Ke4 Kd6 4. Kd4) (Ke6 3. Ke4) 3. Ke3 (3. Kd4 $2 Kd6) (3. Ke4 $2 Ke6)) (Kd8 {<main>} 2. Kf3 (2. Kd3 $2 Kd7) (2. Ke3 $2 Ke7) (2. Kd2 $2 Ke8 3. Ke2 Kd8) Ke7 3. Ke3) (Kf7 2. Kf3) (Kf8 2. Kd3) 2. Ke3 Ke6 3. Ke4 Kf6 (Kd6 4. Kd4 (4. Kf5 $2 Kd5 5. Kg5 Kc4 6. Kxh5 Kxb4) Kc6 (Ke6 5. Kc5) 5. Ke5) (Kd7 4. Kf4) (Kf7 4. Kd4) 4. Kf4 (4. Kd5 $2 Kf5 5. Kc5 Kg4 6. Kxb5 Kxh4) Kg6 (Ke6 5. Kg5) 5. Ke5 1-0

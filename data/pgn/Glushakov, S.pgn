@@ -1,0 +1,13 @@
+[Event "Shakhmaty v SSSR#33 (c)"]
+[Source "Shakhmaty v SSSR/10 (c): Shakhmaty v SSSR/4 1976."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Glushakov, S"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K6/B7/4B3/8/8/8/4p1Pp/7k w - - 0 1"]
+
+1. Bd5 $1 (1. g4 $2 e1=N $1 2. g5 Kg2 3. Bd5+ Nf3 4. g6 h1=Q 5. g7 Qh7 6. g8=Q+ Qxg8+ 7. Bxg8 Kg3) e1=N 2. Ba8 $1 Nxg2 3. Kb7 Ne1 4. Kc7+ Ng2 5. Kc6 Ne1 6. Kd6+ Ng2 7. Kd5 Ne1 8. Ke5+ Ng2 9. Ke4 Ne1 10. Kf4+ (10. Ke3+ {<or>}) Ng2+ 11. Kf3 Ne1+ 12. Kg3+ (12. Kf2+ {<or>}) Ng2 13. Bxg2# 1-0

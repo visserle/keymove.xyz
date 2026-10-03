@@ -1,0 +1,1727 @@
+
+
+[Event "1-3p Kalandadze-70JT"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/r7/4P2p/7b/4N3/8/1Kp2R2/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. Nf6+ Kh8 2. Nxh5 Ra2+ 3. Kc1 Ra1+ 4. Kxc2 Ra2+ 5. Kd1 $1 (5. Kd3 $143 Rxf2 6. e7 Kh7 7. e8=Q (7. Ke3 $144 Rf7 8. e8=Q Rf3+ 9. Kxf3 $11) (7. Nf4 $144 Rxf4 8. e8=Q $11) Rd2+ 8. Kxd2 $11) Rxf2 6. e7 Kh7 7. Ng3 Rg2 8. Ne4 (8. e8=Q $143 Rxg3 $11) Rg8 9. Nf6+ $18 1-0
+
+[Event "6.c Nunn-JT50"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/K3p3/2p5/8/8/5R2/8/k3r3 w - - 0 1"]
+[PlyCount "23"]
+
+{A database position with a very surprising 4th move. However, similar ideas have been seen before.} 1. Kb6 e5 2. Kxc6 e4 3. Ra3+ $1 {It is essential to lure Black's king to the second rank so that the pawn may be pinned later.} (3. Rh3 $143 {loses to} e3 4. Kd5 e2 $19) Kb2 (Kb1 $144 {gives White a free tempo which allows him to draw by} 4. Kd5 e3 5. Ke4 $11) 4. Rg3 $3 {The key move.} (4. Rh3 $143 {loses to} Kc2 (e3 $144 5. Kd5 Kc3 $19 {transposes}) 5. Kd5 e3 6. Ke4 Kd2 {and we have a reciprocal zugzwang with White to play. After} 7. Rg3 (7. Kd4 $144 Ra1 $19 {wins}) Rh1 $19 {Black wins because White cannot take the pawn.}) e3 5. Kd5 Kc2 (e2 $144 6. Ke4 Rd1 (Kc2 $144 7. Re3 $11 {draws}) 7. Rg2 {this pin was prepared by the preliminary check at move 3} Rd2 8. Rg1 $11 {and Black must repeat moves or lose his pawn to Re1 followed by Ke3.}) 6. Ke4 Kd2 7. Rh3 $1 {Now it is Black to play in the reciprocal zugzwang.} Re2 (Rg1 $144 {may be met by} 8. Rxe3 $11 {as Black doesn't have enough checking distance.}) 8. Kd4 Re1 9. Ke4 e2 10. Rd3+ Kc2 11. Re3 $1 (11. Ke3 $143 Rd1 $19 {wins for Black.}) Kd2 12. Rd3+ $11 1/2-1/2
+
+[Event "1.p Rheinland-Pfalz Schachbundes Ty Eur"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p3/2KPP3/p7/1kp5/1p6/1PP5/3r4 w - - 0 1"]
+[PlyCount "35"]
+
+1. c3+ $1 (1. dxe7 $143 bxc2 2. e8=Q Kb3 3. Qb8+ Ka2 4. e7 Re1 $11) Ka4 2. dxe7 (2. d7 $143 Rd6+ 3. Kc7 (3. Kc5 $144 Rd2 4. Kc6 Rd6+ $11) Rc6+ 4. Kb7 Rb6+ 5. Kc7 Rc6+ 6. Kxc6 $11) Rd8 3. Kc7 (3. Kc5 $143 Rd7 $1 4. e8=R Re7 5. Rd8 Rd7 $11) Ra8 (Rh8 $144 4. Kd7 $18) 4. Kd7 (4. Kd6 $143 Kb5 5. Kd7 a4 6. e8=Q Rxe8 7. Kxe8 a3 8. e7 axb2 $11) Ra7+ 5. Ke8 Rb7 6. Kf7 $1 (6. Kf8 $143 Rb5 7. Ke8 (7. e8=N $143 Rf5+ 8. Kg7 Rf2 9. e7 Rxb2 10. Nf6 Re2 $19) Rd5 $1 8. Kf7 Rf5+ 9. Kg6 Rb5 10. e8=N (10. Kf6 $144 Rb8 11. Kf7 Rb7 $1 $11) Re5 11. Kf6 Re2 12. Nd6 Rxb2 13. e7 Re2 14. Nxc4 b2 15. Nxb2+ Kb5 16. Kf7 Rf2+ $11) Rb5 7. e8=N $1 (7. e8=R $143 Rf5+ 8. Kg7 Rf2 9. Rc8 Rxb2 10. Rxc4+ Ka3 11. Re4 Rg2+ 12. Kh8 b2 13. Re1 Rc2 14. e7 Rc1 15. e8=Q b1=Q $11) Rf5+ (Re5 $144 8. e7 (8. Nc7 $143 Re2 9. e7 Rxe7+ 10. Kxe7 $11) Re2 (Kb5 $144 9. Nc7+ Kc6 10. Ne6 $18) 9. Nf6 $18) (Rb8 $144 8. e7 Kb5 9. Nd6+ Kc6 10. Ne4 Kd7 11. Nf6+ $18) 8. Nf6 Kb5 9. e7 Re5 10. e8=Q+ (10. Nd5 $143 Rxe7+ 11. Nxe7 a4 $19) (10. Ne8 $143 Kc6 11. Ng7 Rxe7+ 12. Kxe7 a4 $19) Rxe8 11. Nxe8 $1 (11. Kxe8 $143 a4 12. Ne4 a3 13. bxa3 Ka4 14. Nd2 Kxa3 15. Nxc4+ Ka2 16. Nd2 Kb2 17. c4 Kc3 $11) a4 12. Nd6+ Kc5 {eg} 13. Ne4+ Kb5 14. Nd2 a3 15. bxa3 b2 16. Ke6 Ka4 17. Kd5 Kxa3 18. Kxc4 $18 1-0
+
+[Event "1.p The Problemist#386"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "kb2n3/8/1P3P2/8/K7/1N6/8/6r1 w - - 0 1"]
+[PlyCount "15"]
+
+1. f7 Rg4+ 2. Ka5 Rg5+ 3. Ka6 Nc7+ 4. bxc7 Rg8 5. fxg8=B Bxc7 6. Nd4 Kb8 (Bh2 $144 7. Nc6 $18) 7. Nc6+ Ka8 8. Be6 $18 1-0
+
+[Event "1.p Shakhmaty v SSSR#26"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "7r/2R5/6P1/8/8/8/K7/6k1 w - - 0 1"]
+[PlyCount "19"]
+
+1. g7 (1. Kb3 $2 $143 Rh5 $1 2. g7 Rg5 3. Kc4 Kg2 4. Kd4 Kg3 5. Ke4 Kg4 6. Rf7 Kg3 7. Ra7 Kg4 8. Ra1 Kh3 9. Rh1+ Kg2 10. Rh7 Kg3 11. Rh1 Kg2 $10 $11) (1. Rh7 $2 Ra8+ 2. Kb2) (1. Rb7 $2 Kf2 2. g7) (1. Rc5 Rg8 2. g7) (1. Rc1+ Kg2 2. g7) (1. Rg7 Rf8 2. Rf7) Rb8 $1 2. Rb7 $1 (2. Rf7 $2 $143 Rg8 $1 3. Kb3 Kg2 4. Kc4 Kg3 5. Kd5 Kg4 6. Ke6 Kg5 $10 $11) (2. Rc1+ $2 Kg2 3. g8=Q+ $10) (2. Rc2 $2 Ra8+ 3. Kb2) (2. Ka3 $2 Kh2 3. g8=Q) Rc8 $1 3. Kb3 (3. Rc7 Rb8 $18 4. Rb7) (3. Rb5 $2 Rg8 4. Ra5 $10) (3. Rb1+ $2 Kh2 4. g8=Q) (3. Rb2 $2 Ra8+ 4. Kb1) (3. Ra7 $2 Kh2 4. g8=Q) (3. Kb2 $2 Kh2 4. g8=Q) (3. Ka3 $2 Kh2 4. g8=Q) (3. Rf7 $2 Rg8 4. Kb2) (3. Rb3 Rg8 4. Rb4) (3. Rb4 Rg8 4. Rb6) Kg2 4. Rc7 $1 (4. Kb4 $2 Kg3 5. g8=Q+ $10) (4. g8=Q+ $2 Rxg8 5. Ra7) (4. Ka4 $2 Ra8+ 5. Kb4) (4. Rf7 $2 Rg8 5. Rb7) (4. Ka2 $2 Ra8+ 5. Kb2) (4. Ka3 $2 Ra8+ 5. Kb4) (4. Kb2 $2 Kh2 5. Rf7) (4. Rb4 Kf3 5. Rb7) Rd8 5. Kc4 (5. Rd7 Rxd7 6. g8=Q+ $18) (5. Kb4 $2 Kh3 6. g8=Q) Kg3 6. Rd7 $1 Re8 7. Kd5 (7. Re7 Rxe7 8. g8=Q+ $18) Kg4 (Kh4 (Kg4 $144 8. Re7 $1 Rg8 9. Ke6 Kg5 10. Kf7 $18) 8. Re7 $1 $18 Rg8 9. Ke6 Kg5 10. Kf7 $18) 8. Re7 (8. Kd6 $2 Kg5 9. g8=Q+) (8. Rf7 Rg8 9. Rb7) Rg8 9. Ke6 (9. Re4+ Kg5 10. Rd4) (9. Ke5 Kg5 10. Rd7) (9. Rf7 Kh4 10. Re7) (9. Re8 Rxe8) Kg5 10. Kf7 $18 1-0
+
+[Event "2.p Probleemblad#053"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "R4K1k/1p3P2/8/7p/8/8/4p3/7r w - - 0 1"]
+[PlyCount "19"]
+
+1. Ke7+ Kh7 2. Rh8+ $1 Kg6 3. Rg8+ Kh7 4. Rg7+ $1 Kh6 5. f8=Q e1=Q+ 6. Kd7 Qd2+ 7. Kc8 (7. Kc7 $143 Qc3+ 8. Kb8 Qxg7 $19) Rc1+ (Qc3+ $144 8. Rc7+ $18) 8. Kb8 Qh2+ 9. Rg3+ Kh7 10. Qg7# 1-0
+
+[Event "2.p WCCC Ty"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4R3/4P1k1/r7/6P1/8/8/5Kpp/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. Rg8+ $1 Kh7 $1 2. Rh8+ $1 (2. Kxg2 $143 Ra2+ 3. Kh1 Ra1+ 4. Kxh2 Re1 5. e8=Q Rh1+ 6. Kxh1 $11) Kg7 3. Kxg2 Ra2+ 4. Kh1 Ra1+ 5. Kxh2 Re1 6. e8=R $1 (6. e8=Q $143 Rh1+ 7. Kxh1 $11) 1-0
+
+[Event "1.p Shakhmaty v SSSR {tt}"]
+[Source "EG#04996."]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7r/4R3/5PP1/6kp/7p/2p4P/8/K7 w - - 0 1"]
+[PlyCount "15"]
+
+1. g7 $1 (1. f7 $143 $2 Ra8+ $1 (Kxg6 $2 2. Re8) 2. Ra7 $1 (2. Kb1 $144 c2+ 3. Kxc2 Kxg6 4. Re8 Ra2+ 5. Kb3 Kxf7 $11) c2 3. Kb2 Rb8+ 4. Rb7 $1 Rc8 $1 5. Rc7 $1 Rb8+ $1 (Rxc7 6. Kc1 $1) (c1=Q+ $2 6. Kxc1 Rxc7+ 7. Kd2) 6. Rb7 $1 Rc8 $11 $1) Ra8+ 2. Ra7 $1 c2 3. Kb2 Rb8+ 4. Rb7 $1 Rc8 $1 (c1=Q+ $144 5. Kxc1 Rc8+ 6. Rc7 $18) 5. g8=Q+ $1 Rxg8 6. Rg7+ Rxg7 7. fxg7 Kh6 $1 8. g8=R $18 $1 (8. g8=Q $2 c1=Q+ 9. Kxc1) (8. g8=N+ $2 Kg5 9. Kxc2 Kf4) 1-0
+
+[Event "1.p WCCT6 Ty {tt}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5N2/6R1/3P4/8/7k/3P4/2K2pb1/5r2 w - - 0 1"]
+[PlyCount "19"]
+
+1. d7 Rc1+ 2. Kd2 Rd1+ 3. Ke3 Rxd3+ 4. Kxf2 Rf3+ (Bc6 $144 5. Ng6+ $18) 5. Kg1 $1 (5. Kxg2 $143 Rxf8 $11 {zz Trait aux Blancs}) Rf1+ (Rxf8 $144 6. Kxg2 $18 {zz Trait aux Noirs. Transpose}) 6. Kh2 $1 Rxf8 7. Kxg2 $1 {zz Trait aux noirs} Kh5 {eg} 8. Kg3 Kh6 9. Re7 Rd8 10. Kf4 $18 1-0
+
+[Event "1.p Golden Fleece Ty Merani"]
+[Source "EG#07720."]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1R6/8/8/7p/1r5p/Kp5P/6pR/4k3 w - - 0 1"]
+[PlyCount "39"]
+
+1. Rg8 $1 b2 2. Rgxg2 Rb3+ $1 3. Ka4 $1 Rb4+ 4. Ka5 Rb5+ 5. Ka6 Rb6+ 6. Ka7 Rb7+ 7. Ka8 $1 Rb8+ 8. Kxb8 b1=Q+ 9. Rb2 Qe4 10. Rh1+ Qxh1 11. Rb1+ Kf2 12. Rxh1 Kg2 13. Ra1 Kxh3 14. Rg1 Kh2 15. Rg8 h3 16. Kc7 Kh1 17. Kd6 h2 18. Ke5 h4 19. Kf4 h3 20. Kg3 $18 1-0
+
+[Event "1/3.p 64-Shakmatnoe Obozrenie {tt}"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3n4/5P2/7R/2K5/2R5/8/kr3n1p/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. f8=Q (1. Ra4+ $143 Kb1 2. f8=Q Ne6+ 3. Rxe6 Nd3+ 4. Kd4 h1=Q 5. Qf5 Rb3 $11) Ne6+ (h1=Q $144 2. Ra6+ Kb1 3. Qf5+ $18) 2. Rxe6 Nd3+ 3. Kd4 h1=Q 4. Ra6+ $1 (4. Ra4+ $143 Kb1 5. Ra1+ Kxa1 6. Qa3+ Kb1 7. Qxd3+ Kc1 8. Qc3+ Kd1 9. Qxb2 Qd5+ 10. Kxd5 $11) Kb1 5. Ra1+ $1 Kxa1 6. Qa3+ Ra2 7. Qc3+ Nb2 (Rb2 $144 8. Ra4+ Kb1 9. Qxd3+ Rc2 10. Rb4+ Kc1 11. Qa3+ Kd1 12. Rb1+ Rc1 13. Rxc1+ Kd2 14. Qb2#) 8. Qc1+ Qxc1 9. Rxc1# 1-0
+
+[Event "1.sp.p Golden Fleece Ty"]
+[Source "EG#06616."]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/1P1p4/2P3pP/8/5P2/3P1r1P/1r6/4K3 w - - 0 1"]
+[PlyCount "27"]
+
+1. c7 $1 Re3+ 2. Kf1 (2. Kd1 $143 Rxd3+ 3. Kc1 Rdb3 4. c8=Q+ Kh7 5. Qxd7+ Kxh6 $11) Rf3+ 3. Kg1 Rg3+ 4. Kh1 Rxh3+ 5. Kg1 Rg3+ 6. Kf1 Rf3+ 7. Ke1 Re3+ 8. Kd1 Rxd3+ 9. Kc1 Rdb3 $1 10. c8=Q+ Kh7 11. Qxd7+ Kxh6 12. Qh3+ $1 Kg7 (Rxh3 13. Kxb2) 13. Qc3+ $1 Rxc3+ 14. Kxb2 $18 1-0
+
+[Event "Shakhmaty v SSSR#33"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5r1k/1p1p1p2/6PP/1K1P2N1/8/r7/2P5/8 w - - 0 1"]
+[PlyCount "23"]
+
+1. g7+ Kg8 2. Nh7 $1 Ra5+ $1 3. Kb4 $1 (3. Kxa5 $143 Ra8+ 4. Kb5 Kxh7 $19) (3. Kb6 $143 Ra6+ 4. Kxb7 Rb8+ $19) Ra4+ 4. Kb3 Ra3+ 5. Kb2 Ra2+ 6. Kc1 $1 Rxc2+ 7. Kb1 $1 (7. Kd1 $143 Rc1+ 8. Kd2 Rc2+ 9. Kd3 Rc3+ 10. Kd4 Rc4+ $11) Rc1+ 8. Kb2 Rc2+ 9. Kb3 Rc3+ 10. Kb4 Rc4+ 11. Kb5 Rc5+ 12. Kb6 $18 1-0
+
+[Event "1.p Shakhmaty (Riga)#264"]
+[Source "EG#02596."]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1N4br/3pkPp1/6PP/8/pp3P2/8/P4r1P/6K1 w - - 0 1"]
+[PlyCount "37"]
+
+1. hxg7 $1 Rg2+ $1 2. Kf1 $3 $1 (2. Kxg2 $143 $2 Rxh2+ $1 3. Kxh2 Bxf7 4. Nxd7 (4. gxf7 $143 Kxf7 5. Nxd7 b3 $19 6. Ne5+ $1 Kxg7 7. Nc4 bxa2) Bxa2 5. Nc5 a3 6. Nd3 $11) Rf2+ 3. Ke1 Re2+ 4. Kd1 Rd2+ 5. Kc1 Rc2+ 6. Kb1 Rb2+ 7. Ka1 $1 Rxa2+ 8. Kb1 Rb2+ 9. Kc1 Rc2+ 10. Kd1 Rd2+ 11. Ke1 Re2+ 12. Kf1 Rf2+ 13. Kg1 Rg2+ 14. Kxg2 $1 Rxh2+ 15. Kxh2 Bxf7 16. gxf7 Kxf7 17. Nxd7 $1 b3 (a3 $144 18. Nc5 $18 a2 19. Nb3) 18. Ne5+ $1 Kxg7 19. Nc4 $18 $1 b2 20. Na3 $1 Kf6 {<eg>} 21. Kg3 Ke6 22. Kf3 Kd5 23. f5 Kc5 24. Nb1 Kb4 25. f6 a3 26. f7 1-0
+
+[Event "1.p Thèmes-64#4256"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7R/P7/8/5k2/8/4K3/8/3r1r2 w - - 0 1"]
+[PlyCount "33"]
+
+1. a8=Q (1. Rf8+ $143 Ke6 $1 2. Rxf1 (2. a8=Q $144 Rde1+ $11) Rd8 $11) Rde1+ 2. Kd4 Rd1+ 3. Kc5 Rc1+ 4. Kd6 Rcd1+ 5. Ke7 Rde1+ 6. Kf7 $1 (6. Kf8 $143 Ke6+ 7. Ke8 Kf6+ $11) Ke5+ 7. Kg6 Rg1+ 8. Kh5 Rh1+ 9. Kg4 Reg1+ 10. Kf3 Rf1+ 11. Ke3 Re1+ 12. Kd3 Rd1+ 13. Kc4 Rc1+ 14. Kb5 Rb1+ 15. Kc6 Rbc1+ 16. Kd7 Rcd1+ 17. Ke7 $18 1-0
+
+[Event "1.p Intellektualnje Igri#081"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6r1/B7/2bR4/5N2/8/K4p1p/4kr2 w - - 0 1"]
+[PlyCount "21"]
+
+1. Be2 Ra7+ (Bd4 $144 2. Rxd4 Ra7+ 3. Kb2 Rb7+ 4. Kc1 $18 {Transpose main line}) 2. Kb1 $1 (2. Kb2 $143 Ba3+ 3. Kb1 Rb7+ 4. Ka1 Bb2+ 5. Ka2 Ra7+ 6. Kxb2 Rb7+ $11) Rb7+ 3. Kc2 $1 Bd4 $1 4. Rxd4 Rc7+ 5. Kb1 Rb7+ 6. Kc1 $1 Rc7+ 7. Bc4 Rxc4+ 8. Rxc4 h1=Q (Rh1 $144 9. Re4+ Kf1 10. Re3 Kg1 11. Rg3+ Kf1 12. Kd2 (12. Kd1 $143 Rg1 $19) Rg1 13. Rc3 $18) (Rg1 $144 9. Re4+ Kf1 10. Rd4 $18) 9. Rc2 Qf3 (Rg1 $144 10. Nd3+ Kf1 11. Rxf2#) 10. Re2+ Qxe2 11. Ng2# 1-0
+
+[Event "1.p Gori Ty"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5R1r/k3N3/8/8/2n5/6r1/8/K4R2 w - - 0 1"]
+[PlyCount "15"]
+
+1. Nc8+ (1. Rxh8 $143 Ra3+ 2. Kb1 Nd2+ 3. Kb2 Nc4+ 4. Kc2 Ne3+ 5. Kb2 Nc4+ 6. Kb1 Nd2+ 7. Kb2 $11) Kb8 (Ka6 $144 2. R1f6+ Kb5 3. Rxh8 $18) 2. Rxh8 Ra3+ 3. Kb1 Nd2+ 4. Kb2 Nc4+ 5. Kc2 Ne3+ 6. Kb1 Nxf1 7. Nd6+ Kc7 8. Nb5+ $18 1-0
+
+[Event "1/2.p Tavariani JT {m} @2"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2R5/3p4/8/5b1R/2r5/k7/2r1p3/1K4NQ w - - 0 1"]
+[PlyCount "23"]
+
+1. Ra8+ (1. Qa8+ $143 Ra4 2. Qxa4+ Kxa4 $11) Kb3 (Kb4 $144 2. Qb7+ Kc3 3. Ra3+ Kd4 4. Nf3+ Kc5 5. Rxf5+ Kd6 6. Rd3+ Rd4 7. Rxd4+ Ke7 8. Qxd7#) (Ra4 $144 2. Rxa4+ Kxa4 3. Rxf5 e1=Q+ 4. Kxc2 $18) 2. Rb8+ (2. Qb7+ $143 Rb4 $11) Ka3 (Rb4 $144 3. Rxb4+ Kxb4 4. Nxe2 $18) (Kc3 $144 3. Nxe2+ Rxe2+ 4. Rxf5 $18) 3. Qa8+ Ra4 4. Nxe2 Rc8+ (Rxe2+ $144 5. Rxf5 $18) (Rb2+ $144 5. Kc1 $18) 5. Rxf5 Rxa8 6. Rf3+ (6. Rb2 $143 Rcb8 7. Rf3+ Ka4 8. Nc3+ Ka5 $11) Ka4 7. Nc3+ Ka5 (Ka3 $144 8. Na2+ Ka4 9. Rb4+ Ka5 10. Ra3#) 8. Rf5+ (8. Rb2 $143 Rf8 9. Rd3 Rab8 10. Rd5+ Ka6 11. Nb5 Rb6 $11) Ka6 9. Rf6+ d6 10. Rxd6+ Ka7 (Ka5 $144 11. Rb5#) 11. Nb5+ (11. Rb2 $144 $1 {cook RM} Rcb8 12. Nb5+ Kb7 13. Rf6 $1 Rh8 14. Nd4+ Kc7 15. Rc6+ Kd8 16. Rb7 $1 Rh1+ 17. Kb2 Rh2+ 18. Kb3 Rh3+ 19. Kb4 Rh1 20. Rg7 Rha1 21. Rh6 R8a4+ 22. Kc3 R1a3+ 23. Nb3 Re4 24. Kb2 Raa4 25. Nc5 Reb4+ 26. Kc3 Rc4+ 27. Kd3 Rd4+ 28. Ke3 Rh4 29. Rd6+ Ke8 30. Nxa4 $18) Kxb8 12. Rb6# 1-0
+
+[Event "1.p Birnov MT Molodoj Leninets"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1P5r/R1R5/6q1/6k1/8/1p6/1K6 w - - 0 1"]
+[PlyCount "21"]
+
+1. Ra4+ (1. b8=Q $143 Rh1+ 2. Kxb2 Qd2+ 3. Rc2 Qd4+ 4. Rc3 Qd2+ 5. Rc2 $11) (1. Rc4+ $143 Kh5 2. b8=Q Qg1+ 3. Kxb2 Rb7+ 4. Qxb7 Qg7+ 5. Kc1 Qxb7 6. Rc5+ Kg4 7. Ra4+ Kf3 8. Rc3+ Ke2 9. Ra2+ Ke1 $11) Kh5 $1 (Kf3 $144 2. Rc3+ Kg2 3. b8=Q $18) 2. b8=Q Qg1+ (Qf5+ $144 3. Kxb2 Qf2+ 4. Rc2 Qf6+ 5. Ka2 Qe6+ 6. Qb3 $18) 3. Kxb2 Rb7+ 4. Qxb7 Qg7+ 5. Kc1 $1 Qxb7 6. Ra5+ Kg4 7. Rc4+ Kf3 8. Ra3+ Ke2 9. Rc2+ Ke1 10. Re3+ (10. Rd3 $143 Qf3 11. Rxf3 $11) Kf1 11. Rd3 $18 1-0
+
+[Event "1.p Ceskoslovensky Sach#286"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6qk/6r1/2R5/8/8/8/pK3Q2/8 w - - 0 1"]
+[PlyCount "33"]
+
+1. Qh2+ $1 Qh7 2. Qb8+ $1 Qg8 3. Rh6+ Rh7 4. Qe5+ Qg7 5. Rf6 $3 Rh4 $1 (a1=Q+ $144 6. Kxa1 Qg1+ 7. Rf1+ Qg7 8. Rf8#) 6. Kxa2 Qa7+ (Qg2+ $144 7. Ka3 Qg7 8. Qe8+ Kh7 9. Rf7 Rh3+ 10. Kb4 Rh4+ 11. Kc5 Rh5+ 12. Kd6 Rh6+ 13. Ke7 $18) 7. Ra6+ Qg7 8. Ra8+ Kh7 9. Qf5+ Qg6 10. Ra7+ (10. Rh8+ $143 Kxh8 11. Qxg6 Ra4+ 12. Kb3 Ra3+ $11) Kh6 11. Qf8+ Kh5 12. Qh8+ (12. Ra5+ $144 {dual} Kg4 13. Ra4+ Kg5 14. Qd8+ Qf6 15. Qxf6+ Kxf6 16. Rxh4 $18) Kg5 (Qh6 $144 13. Rh7 $18) 13. Ra5+ Kg4 14. Ra4+ Kf3 15. Qc3+ Kg2 16. Rxh4 Qa6+ 17. Kb2 $18 1-0
+
+[Event "1.p Mitrofanov JT Sport, Man, Times"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7Q/1P6/8/3P4/8/pK4P1/r4k2/2r3q1 w - - 0 1"]
+[PlyCount "19"]
+
+1. Qd4+ Kf3 2. Qxg1 Rb2+ 3. Kxa3 Rcb1 4. Qf1+ Kg4 5. Qd1+ Kh3 6. Qh1+ Kxg3 (Kg4 $144 7. Qh4+ Kf3 8. Qf6+ $18) 7. Qg1+ Kf3 (Kh3 $144 8. Qe3+ Kg2 9. Qg5+ Kh3 10. Qh6+ Kg2 11. Qg7+ $18) 8. Qf1+ Ke3 (Kg4 $144 9. Qd1+ Kg3 10. Qd3+ Kh2 11. Qh7+ Kg1 12. Qg7+ Rg2 13. b8=Q Rxb8 14. Qa7+ $18) 9. Qc1+ Rxc1 10. Kxb2 $18 1-0
+
+[Event "2.p Suomen Shakki#2924"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/5qp1/3P2r1/K7/8/nr6/8/3R3Q w - - 0 1"]
+[PlyCount "19"]
+
+1. Qa8+ Kd7 2. Qa7+ Kc6 (Ke6 $144 3. Re1+ Kf6 4. Rf1+ $18) (Ke8 $144 3. d7+ $18) 3. Qxf7 Rb5+ 4. Ka6 (4. Ka4 $143 Rg4+ 5. Kxa3 Rg3+ 6. Ka2 Rg2+ 7. Ka1 Ra5+ 8. Kb1 Rb5+ 9. Kc1 Rc5+ $11) Rb6+ 5. Ka7 Nb5+ 6. Ka8 Ra6+ 7. Kb8 Rb6+ 8. Kc8 Nxd6+ 9. Rxd6+ Rxd6 (Kxd6 $144 10. Qxg6+ Kc5 11. Qxg7 $18) 10. Qc4# 1-0
+
+[Event "64#067"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4k2N/7p/1p6/8/8/K7/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. Ka3 $3 $1 (1. Kb2 $143 $2 Kf7 $1 (Ke6 $143 $2 2. Nf8+ Kf5 3. Nd7 h5 4. Nc5 h4 5. Nb3 $1 h3 (Kf4 $144 6. Nd2 h3 7. Nf1 $11) 6. Nd2 h2 7. Nf1 $11) 2. Kc3 Kg7 3. Kb4 Kxh7 4. Kxb5 h5 $19) (1. Kb3 $143 $2 Ke6 $1 2. Nf8+ Kf5 3. Nd7 h5 4. Nc5 h4 5. Nd3 h3 6. Nf2 h2 $19) Ke6 $1 (Kf7 $144 2. Kb4 Kg7 (Kg6 $144 3. Nf8+ Kf5 4. Nd7 $11 {See main line}) 3. Kxb5 Kxh7 4. Kc4 $11) 2. Nf8+ $1 (2. Kb4 $143 $1 $2 Kf5 $1 3. Nf8 h5 4. Nd7 h4 5. Nc5 h3 6. Nd3 h2 7. Nf2 Kf4 8. Kxb5 Kf3 9. Nh1 Kg2 $19) Kf5 $1 3. Nd7 h5 4. Nc5 (4. Nb6 $143 $2 h4 5. Nd5 Ke4 $1 (h3 $143 $2 6. Ne3+ Kf4 (Ke4 7. Nf1) 7. Nf1 $11) 6. Nf6+ (6. Nc3+ Kf3) Kf3 7. Nh7 Kf4 $19) h4 (Kf4 $144 5. Nd3+ $11) 5. Nb3 $1 (5. Nd3 $143 $2 h3 6. Nf2 h2 $19) h3 6. Nd2 h2 (Kf4 $144 7. Nf1 Kf3 8. Kb4 Kf2 9. Nh2 Kg2 10. Ng4 Kg3 11. Ne3 h2 12. Nf1+ Kg2 13. Nxh2 $11) 7. Nf1 $1 h1=Q 8. Ng3+ $11 Kg4 9. Nxh1 1/2-1/2
+
+[Event ".p Bulletin Central Chess Club USSR#14"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p1p5/1kPp3p/3P4/PK6/1P1p3P/3PPp2/3B4 w - - 0 1"]
+[PlyCount "21"]
+
+1. a5+ Ka6 2. e3 $1 (2. exd3 $143 f1=Q 3. Bg4 Qf4+ $19) (2. e4 $143 f1=Q 3. Bg4 Qf8 4. Ka4 Qh8 (Qb8 $143 5. b4 Qb5+ 6. Kb3 Qb8 7. Bf5 h5 8. e5 dxe5 9. Bxd3+ $18) 5. Bc8+ (5. e5 $144 Qb8 6. b4 Qb5+ 7. Kb3 Qxd5+ $19) Qxc8 6. b4 Qb8 $19 7. h4 h5 8. Kb3 Kb5 $19) f1=Q 3. Bg4 Qf8 4. Ka4 Qh8 5. Bc8+ $1 Qxc8 6. b4 Qb8 7. e4 $1 Qb5+ 8. Kb3 $1 h5 9. h4 Qb8 10. Ka4 Qb5+ 11. Kb3 $11 1/2-1/2
+
+[Event "1.p Moscow Sports Committee Ty"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7B/7p/N6k/4K1p1/2p5/1b5N w - - 0 1"]
+[PlyCount "17"]
+
+1. Kf3 c1=Q 2. Bxc1 Be4+ 3. Kxe4 g2 4. Bg5+ Kxg5 5. Nf2 Kh4 6. Kf3 g1=Q 7. Nc5 Qg3+ 8. Ke2 Qe5+ 9. Nce4 $11 1/2-1/2
+
+[Event "2.p Problem#304"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2n5/4R3/2p5/8/K7/1n6/p7/1k4B1 w - - 0 1"]
+[PlyCount "23"]
+
+1. Re1+ Nc1 (Kc2 $144 2. Re2+ Nd2 3. Re1 Nb1 4. Re2+ Nd2 $11) 2. Bd4 Nb6+ (c5 $144 3. Bh8 Nd6 4. Rh1 Nc4 5. Rxc1+ Kxc1 6. Kb3 $11) 3. Kb4 (3. Ka3 $143 Nc4+ 4. Kb4 Nb2 $19) c5+ $1 4. Kxc5 Na4+ 5. Kb4 $1 Nb2 6. Re7 $3 (6. Be3 $143 Nbd3+ $19) a1=Q (Ncd3+ $144 7. Kb5 a1=Q 8. Ra7 $11) 7. Ra7 Na2+ (Nbd3+ $144 8. Kc4 $11) 8. Kb3 Nc1+ (Kc1 $144 9. Rxa2 Qb1 10. Rxb2 Qd3+ 11. Bc3 $11) 9. Kb4 Nbd3+ 10. Kc4 Nb2+ 11. Kb4 Na2+ 12. Kb3 $11 1/2-1/2
+
+[Event "1.p 64#80"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3K4/4p3/1P3kP1/8/8/5p1R/5r2 w - - 0 1"]
+[PlyCount "29"]
+
+1. Ke8 $1 (1. Ke7 $143 e5 2. g6 Kxg6 3. Ke6 e4 4. Rg2+ Kh5 5. Kf5 Kh4 6. Kf4 Kh3 7. Rg3+ Kh2 8. Rg5 Rb1 9. Rh5+ Kg1 10. Rg5+ Kf1 11. Kxe4 Ke1 $19) e5 2. b6 Kxg5 (Kg6 $1 {demolition} 3. b7 Rb1 4. Rxf2 Rxb7 {TBS:} 5. Re2 Kf5 $1 6. Kf8 Rb5 7. Rg2 Rb6 8. Kf7 Rb7+ 9. Kg8 Kg6 $1 10. Kf8 e4 11. Rg4 Rb4 12. Ke8 Kf5 13. Rg1 Rb6 14. Kf7 e3 15. Rg2 Rb7+ 16. Kf8 Kg6 17. Rg4 Rf7+ 18. Ke8 Rf3 19. Kd8 Kf5 (Kh5 $143 20. g6 e2 21. Re4 $11) 20. Rg2 (20. g6 $144 e2 21. g7 Rd3+ 22. Kc8 Rc3+ 23. Kd8 e1=Q $19) Rf2 21. Rg3 Rd2+ 22. Ke8 e2 23. Re3 Kxg5 $19) 3. b7 Rb1 4. Rg2+ Kh4 (Kf4 $144 5. Rxf2+ Ke3 6. Rf7 $11) 5. Rxf2 Rxb7 6. Re2 Rb5 7. Kd7 (7. Ke7 $143 Kg5 8. Kd6 Kf4 $19) Kg4 8. Kc6 Kf3 9. Re1 Ra5 10. Kb6 $1 (10. Rf1+ $143 Ke2 11. Rf5 Kd3 12. Kb6 Rd5 13. Kc6 Kd4 14. Rh5 Rd8 $19) Kf2 11. Re4 Kf3 12. Re1 Rd5 13. Kc6 Ra5 14. Kb6 Kf2 15. Re4 $11 1/2-1/2
+
+[Event ".c Suomen Shakki#2494"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2RK4/1k6/2p5/7P/8/8/2pP4/2r5 w - - 0 1"]
+[PlyCount "33"]
+
+1. Rc7+ (1. Kd7 $143 Rb1 2. Rc7+ Kb8 3. Rc8+ Ka7 4. Rc7+ Rb7 $19) Kb6 2. Kd7 c5 3. Rc6+ Kb5 4. Kd6 c4 5. Rc5+ Kb4 6. Kd5 Rh1 (Rd1 $144 7. Rxc4+ Kb3 8. Rxc2 Kxc2 9. Ke6 $11) 7. Rxc4+ Kb3 8. Rc3+ (8. Rxc2 $143 Kxc2 9. d4 Kd3 $19) (8. Rc8 $143 Rxh5+ 9. Ke6 Rh1 10. d4 Re1+ $1 11. Kf6 c1=Q 12. Rxc1 Rxc1 13. d5 Rd1 14. Ke6 Kc4 15. d6 Kc5 16. d7 Kc6 $19) Kb2 9. Ke6 Rxh5 10. Rxc2+ (10. Rc8 $143 Rh3 11. Ke5 Rd3 12. Ke4 Rxd2 $19) Kxc2 11. d4 Kd3 12. d5 Ke4 13. d6 Rh6+ 14. Ke7 Ke5 15. d7 Rh7+ 16. Ke8 Ke6 17. d8=N+ $11 1/2-1/2
+
+[Event "1/3.p Kommunist"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2r5/8/8/5R2/PK2k3/p7/3p4/7N w - - 0 1"]
+[PlyCount "13"]
+
+1. Ng3+ (1. Rf1 $143 Rc1 2. Nf2+ (2. Ng3+ $144 Ke5 3. Rf5+ Ke6 $19) Kd4 3. Nd1 a2 $19) Kd4 (Ke3 $144 2. Nf1+ Ke4 3. Nxd2+ Kxf5 4. Kxa3 $11) (Kd3 $144 2. Kxa3 Rc3+ 3. Kb2 $11) 2. Rf1 (2. Ne2+ $143 Kd3 $19 3. Kxa3 Rd8 4. Rf1 Kxe2 5. Rb1 d1=Q 6. Rxd1 Rxd1 7. Kb3 Kd3 $19) (2. Rf4+ $143 Ke5 3. Rf1 Rc1 $19) a2 (Kd3 $144 3. Rd1 Rc1 (a2 $144 4. Nf1 Rc2 5. Nxd2 Rxd2 6. Ra1 $11) 4. Rxd2+ Kxd2 5. Kxa3 Rc3+ 6. Kb4 Rxg3 7. a5 $11) 3. Rd1 $1 (3. Ne2+ $143 Kd3 $19) Ke5 $1 (Kd3 $144 4. Nf1 $11) 4. Ne2 Rb8+ (Rc1 $143 5. Nxc1 a1=Q 6. Nd3+ $18) 5. Ka3 $1 Rb1 6. Rxd2 a1=Q+ 7. Ra2 $1 $11 1/2-1/2
+
+[Event "1.p Chervoni Girnik"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/8/3P4/3n4/2R3K1/8/r3p3/8 w - - 0 1"]
+[PlyCount "21"]
+
+1. d7 Nf6+ 2. Kf3 e1=N+ 3. Ke3 Nxd7 4. Rc8+ Kg7 5. Rc7 Ng2+ 6. Kd3 (6. Kf3 $143 Rd2 $19) Nf4+ 7. Kc3 (7. Ke3 $143 Nd5+ $19) Ra3+ 8. Kc2 $1 Rd3 9. Rc4 Rf3 10. Rc7 Rd3 11. Rc4 $11 1/2-1/2
+
+[Event "1.p Kasparjan MT"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/3p2r1/K6R/3B4/p7/n3k3 w - - 0 1"]
+[PlyCount "19"]
+
+1. Ka3 Rg3 2. Kb2 $1 (2. Kxa2 $143 Rxd3 3. Kxa1 Rb3 4. Ka2 Rb5 5. Ka3 Kd2 6. Ka4 Rb1 7. Rd4+ Kc3 8. Rxd5 Kc4 $19) Rxd3 3. Kxa1 Ra3 4. Rh1+ Kf2 (Kd2 $144 5. Rh2+ Kc3 6. Rh3+ Kb4 7. Rxa3 Kxa3 $11) 5. Rh2+ Kg3 6. Rh5 d4 7. Rd5 (7. Rf5 $143 Rf3 $1 $19) Ra4 8. Rf5 d3 9. Rd5 Ra3 10. Rf5 $11 1/2-1/2
+
+[Event "1.p Tbilisi Ty"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3K4/8/8/pR6/1r2pR2/3k4 w - - 0 1"]
+[PlyCount "17"]
+
+1. Rxa3 (1. Rxe2 $143 Rxb3 2. Ra2 Kc1 3. Kc5 Kb1 4. Rh2 a2 $19) (1. Rh3 $143 e1=Q $19) Rd2+ 2. Kc7 $1 (2. Kc6 $143 Rc2+ 3. Kd7 (3. Kd5 $144 e1=Q 4. Ra1+ Rc1 5. Raa2 Qh1+ $19) e1=Q 4. Ra1+ Rc1 5. Raa2 Rb1 6. Kd8 (6. Rg2 $144 Qe3 7. Rh2 Qd4+ 8. Ke8 Qe5+ 9. Kd8 Qd6+ $19) Rb8+ 7. Kc7 Qe5+ $19) (2. Kc5 $143 Rc2+ 3. Kd4 e1=Q 4. Ra1+ Rc1 5. Raa2 Qb4+ $19) Rc2+ 3. Kd8 $1 e1=Q 4. Ra1+ Rc1 5. Raa2 Rb1 6. Kd7 $1 Rb7+ 7. Kc8 $1 Rb1 8. Kd7 Rc1 9. Kd8 $11 1/2-1/2
+
+[Event "1.p Saratov JT Kommunist"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/4K3/1R3P2/r7/4R3/8/p2p4/3b4 w - - 0 1"]
+[PlyCount "21"]
+
+1. f7 Ra7+ (Rf5 $144 2. Ra6+ Kb7 3. Rxa2 Rxf7+ 4. Ke8 Bh5 5. Rxd2 Rf2+ 6. Ke7 Rxd2 $11) 2. Kd6 $1 (2. Ke6 $143 Rxf7 $19) Rxf7 3. Ra6+ Ra7 (Kb7 $144 4. Rxa2 Rd7+ 5. Kc5 Rd5+ 6. Kxd5 Bb3+ 7. Kc5 d1=Q 8. Re7+ Kb8 9. Re8+ Kb7 $11) 4. Rc6 (4. Rb6 $143 Bh5 $19) Rd7+ $1 (a1=Q $144 5. Re8+ $11) (Bh5 $144 5. Rc8+ Kb7 6. Rc7+ Kb6 7. Rc6+ Kb5 8. Rc5+ $11) 5. Kxd7 Bg4+ (a1=Q $144 6. Re8+ Kb7 7. Rc7+ Kb6 8. Rb8+ Ka6 9. Ra8+ Kb6 10. Rxa1 Bg4+ 11. Kd6 d1=Q+ 12. Rxd1 Bxd1 $11) 6. Rxg4 d1=Q+ 7. Kc7 a1=R $1 (a1=Q $144 8. Rg8+ Ka7 9. Ra8+ Kxa8 10. Ra6+ Qxa6 $11) (Ka7 $144 8. Rb4 $11) 8. Rg8+ Ka7 9. Rb8 Qc1 (Rb1 $143 10. Ra8+ Kxa8 11. Ra6#) 10. Rb7+ Ka8 11. Rb8+ $11 1/2-1/2
+
+[Event "2.p Nordisk Postsjakkblad"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1R6/8/8/5b2/K4P1k/5Rp1/p1P5/r7 w - - 0 1"]
+[PlyCount "19"]
+
+1. Ra3 (1. Ka3 $143 Be6 2. f5 Rb1 $19) (1. Rh8+ $143 Kg4 2. Ra3 Be6 3. f5 Bd5 4. c4 (4. Rh7 $144 Rg1 5. f6 a1=Q 6. Rxa1 Rxa1+ 7. Kb5 g2 $19) Bxc4 5. Kb4 Bf7 6. Rh7 Rb1+ 7. Kc5 a1=Q 8. Rxa1 Rxa1 9. Rxf7 Ra5+ 10. Kc4 Rxf5 $19) Bxc2+ (Be6 $144 2. f5 Rb1 (Bf7 $144 3. Rb4+ Kh3 (Kh5 $144 4. Rxg3 Rb1 5. Ra3 $11) 4. c4 $11) (Bxf5 $144 3. Rh8+ Kg4 4. Rg8+ Kf4 5. Rgxg3 Bxc2+ 6. Kb4 Rb1+ 7. Kc4 a1=Q 8. Rxa1 Rxa1 $11) 3. Rh8+ Kg4 4. fxe6 a1=Q 5. Rxa1 Rxa1+ 6. Kb5 $11) 2. Ka5 Bb3 3. Rbxb3 (3. Raxb3 $143 Rg1 4. Rh8+ Kg4 5. Rg8+ Kxf4 6. Rb4+ Kf5 7. Rf8+ Kg6 $19) (3. Rh8+ $143 Kg4 4. Rxb3 Rg1 $19) Rb1 $1 4. Rxg3 $1 a1=Q 5. Rh3+ (5. Rxa1 $143 Rxa1+ 6. Kb4 Kxg3 $19) Kg4 6. Rhg3+ Kxf4 7. Rgf3+ Ke4 8. Rfe3+ Kd4 9. Reb3 $1 (9. Red3+ $143 Kc4 $19) Kc4 10. Rb4+ $11 1/2-1/2
+
+[Event "1.p Hildebrand JT Springaren {v}"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3K2kP/p3R3/6p1/8/4p2P/2p5/2Rb3r w - - 0 1"]
+[PlyCount "15"]
+
+1. Re7+ (1. h8=Q+ $143 Kxh8 2. Rxe3 Bg4+ 3. hxg4 Rd1+ 4. Ke7 Rxc1 5. Rf3 Re1+ 6. Kf7 Rh1 7. Ke7 Rh7+ $19) Kh8 2. Re8+ Kxh7 3. Rxe3 Bg4+ (g4 $144 4. Re7+ Kg6 5. Re6+ Kg5 6. hxg4 $11) 4. hxg4 Rd1+ (Rxc1 $144 5. Re7+ Kg6 6. Re6+ Kf7 7. Re7+ Kf8 8. Re8+ Kf7 9. Re7+ Kf6 10. Re6+ $11) 5. Ke7 Rxc1 6. Rf3 Re1+ 7. Kf7 Rh1 (Re6 $144 8. Rc3 $11) (Re7+ $144 8. Kxe7 c1=Q 9. Rf7+ $11) 8. Ke7 $11 1/2-1/2
+
+[Event "2.p Chess Star"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3K4/1P5r/k7/8/7p/8/1R6/7r w - - 0 1"]
+[PlyCount "23"]
+
+1. Rb6+ $1 Ka5 2. Rb5+ $1 Ka4 3. Rb4+ $1 Ka3 4. Rb3+ $1 Ka2 5. b8=Q (5. Rb2+ $143 Ka1 $19) Rh8+ 6. Ke7 $1 (6. Kd7 $143 Rxb8 7. Rxb8 h3 $19) Rxb8 7. Rxb8 h3 8. Rf8 $1 h2 9. Rf2+ Kb3 10. Kf6 Kc3 11. Kf5 Kd3 12. Kf4 $11 1/2-1/2
+
+[Event "1.hm Chavchavadze MT"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "nK6/PP6/8/k7/8/8/6q1/2N5 w - - 0 1"]
+[PlyCount "19"]
+
+1. Nb3+ (1. bxa8=Q $143 Qg8+ 2. Kb7 Qd5+ 3. Kb8 Qd8+ 4. Kb7 Qd7+ 5. Kb8 Kb6 $19) Kb5 (Kb6 $144 2. bxa8=N+ $1 $11) (Ka6 $144 2. Nc5+ Kb6 3. Nd7+ $11) 2. bxa8=Q (2. bxa8=N $143 Qg8+ 3. Kb7 Qd5+ 4. Kb8 Kc6 $19) Qg8+ 3. Kb7 Qd5+ 4. Kb8 Qd8+ 5. Kb7 Qd7+ 6. Kb8 Kb6 7. Qc6+ Qxc6 8. a8=N+ Ka6 9. Nc7+ Kb6 10. Na8+ $11 1/2-1/2
+
+[Event "1.p Krikheli MT Sakartvelos Respublika"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1Nq5/1n3P1k/4p1p1/7p/3P4/1P3P2/8/1N5K w - - 0 1"]
+[PlyCount "17"]
+
+1. Nd7 Qc1+ (Qxd7 $143 2. f8=N+ $19) 2. Kg2 Qc2+ 3. Nd2 $1 (3. Kh3 $143 Qf5+ $19) (3. Kg1 $143 Qxb1+ 4. Kg2 Qc2+ 5. Kg1 Qc6 6. f8=Q Qxd7 $19) Qxd2+ 4. Kh3 Qxd4 5. Nf8+ Kh6 (Kg7 $144 6. Nxe6+ $11) 6. Nxe6 $1 Qd7 $1 7. f8=Q+ Kh7 8. Qf5 $1 (8. Qf6 $143 Nc5 $1 $19) gxf5 9. Nf8+ $11 1/2-1/2
+
+[Event "1.p The Problemist#787"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "R7/1qP5/8/1P1pR3/8/3k4/1K6/2r5 w - - 0 1"]
+[PlyCount "17"]
+
+1. Rxd5+ (1. Kxc1 $143 Qxc7+ 2. Kb1 Qxe5 $19) Ke4 (Qxd5 $144 2. Rd8 $11) 2. Rdd8 $1 (2. Kxc1 $143 Qxc7+ $19) Rxc7 (Qxc7 $144 3. Re8+ $11) 3. Rab8 $1 Qa7 4. b6 Rb7 $1 5. Re8+ Kd5 6. Red8+ Kc5 7. Rdc8+ Kxb6 8. Ra8 $1 Ka6+ {eg} 9. Ka3 $11 1/2-1/2
+
+[Event "1.p Soplis Tskhovreba"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3R3q/6r1/5k1p/7K/3p4/3R4/6n1/8 w - - 0 1"]
+[PlyCount "21"]
+
+1. Rf3+ Nf4+ 2. Rxf4+ Ke5 3. Rfxd4 Rg5+ 4. Kh4 Rg8 (Qg7 $144 5. R8d5+ Ke6 6. Rd6+ Kf5 7. R6d5+ Kg6 8. Rd6+ Kh7 9. Rd7 Rg4+ 10. Kh5 Rxd4 11. Rxg7+ Kxg7 $11) 5. R8d5+ Ke6 6. Rd6+ Kf7 7. Rd7+ Kg6 8. R7d6+ Kh7 9. Rd7+ Rg7 10. Rd8 Rg8 11. R8d7+ $11 1/2-1/2
+
+[Event "1.p Bulletin Central Chess Club USSR#42"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/R7/2R2P2/8/8/N7/b5q1/1r5k w - - 0 1"]
+[PlyCount "11"]
+
+1. Rh7+ Kg1 2. Rg7 Rb8+ 3. Kh7 Rb7 4. Rc1+ Kh2 5. Rc2 Bb1 (Rxg7+ $144 6. fxg7 Bb1 7. g8=Q Bxc2+ 8. Nxc2 $11) 6. Kh6 $11 1/2-1/2
+
+[Event ".p Liburkin MT EBUR {tt}"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3KR3/1RP1p3/2q1r2r/8/8/8/8/4k3 w - - 0 1"]
+[PlyCount "28"]
+
+1. c8=Q Rd6+ 2. Rd7 Rxd7+ (Qb6+ $144 3. Qc7 Rxd7+ 4. Kxd7 Qb5+ (Rd6+ $144 5. Kc8 Qa6+ 6. Qb7 Rc6+ 7. Kb8 Rb6 8. Rxe7+ Kd2 9. Rd7+ Kc3 10. Rc7+ Kd4 11. Rd7+ Kc5 12. Rc7+ Kb5 13. Qxb6+ Kxb6 14. Rc6+ $11) 5. Kxe7 Rh7+ 6. Kd6+ $11) 3. Qxd7 Qb6+ (Rd6 $144 {main} 4. Rxe7+ Kf2 5. Rf7+ Ke3 6. Re7+ Kf4 7. Rf7+ Ke5 8. Re7+ Kd5 9. Qxd6+ Kxd6 10. Re6+ Kxe6 $11) 4. Qc7 Rd6+ 5. Kc8 Qa6+ (Rc6 $144 {main} 6. Rxe7+ Kd2 7. Rd7+ Ke3 8. Re7+ Kd4 9. Rd7+ Kc5 10. Qxc6+ Kxc6 11. Rd6+ Kxd6 $11) 6. Qb7 Rc6+ 7. Kb8 Rb6 8. Rxe7+ Kd2 9. Rd7+ Ke3 10. Re7+ Kd4 11. Rd7+ Kc4 12. Rc7+ Kb5 13. Qxb6+ Kxb6 14. Rc6+ Kxc6 $11 1/2-1/2
+
+[Event "1.p Problem#277"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6R1/2Q5/1p6/8/4q3/p7/k7/rN1K4 w - - 0 1"]
+[PlyCount "20"]
+
+1. Qf7+ Kb2 (Kxb1 $143 2. Qb3#) 2. Rg2+ $1 (2. Qf6+ $143 Kxb1 $19) (2. Qf2+ $143 Kxb1 3. Rg2 Qd3+ 4. Ke1 Qc3+ $19) Qxg2 3. Qf2+ Kb3 $1 (Qxf2 $144 $11) 4. Qxb6+ (4. Qxg2 $143 Rxb1+ 5. Kd2 Rb2+ $19) (4. Qf7+ $143 Kb4 5. Qf4+ Ka5 6. Qe5+ Ka6 7. Qxa1 a2 8. Kc1 Qf1+ 9. Kb2 Qxb1+ 10. Qxb1 axb1=Q+ 11. Kxb1 Kb5 $19) (4. Qe3+ $143 Ka2 5. Qe6+ Kxb1 $19 6. Qb3+ Qb2 7. Qc4 b5 $19) Ka2 (Kc4 $144 5. Qa6+ $11) 5. Qe6+ Kxb1 6. Qb3+ Qb2 7. Qc4 $1 Ra2 (Qc1+ $144 8. Qxc1+ Ka2 9. Qxa1+ Kxa1 10. Kc2 $11) 8. Qb4 $1 Ka1 (Qxb4 $144 $11) 9. Qc3 $1 Kb1 (Qxc3 $144 $11) 10. Qb4 $1 Qxb4 $11 (Ra1 $144 11. Qc4 $11) 1/2-1/2
+
+[Event "Mat-Pat"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[Composer2 "Akobia, Iuri"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/B7/BPk3n1/8/b7/2n1p2K/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. b6 e1=Q 2. Bxe1 Kxb6 3. Bh4 $1 Nf3+ 4. Kg3 Nxh4 5. Bd3 $1 Ne1 (Nb4 $144 6. Be4 $11) 6. Be4 Be7 7. Kf2 Bb4 8. Kg3 Be7 9. Kf2 $11 1/2-1/2
+
+[Event "Magyar Sakkélet#1161"]
+[Source "Magyar Sakkélet/11"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[Composer2 "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B1r4/2PP4/B7/3p4/8/2pp4/6p1/k1K5 w - - 0 1"]
+[PlyCount "21"]
+
+1. Ba7 $1 d4 (d2+ 2. Kd1) 2. Bxd4 g1=Q+ 3. Bxg1 d2+ 4. Kd1 $1 (4. Kc2 $143 $2 d1=Q+ 5. Kxd1 Rxd7+ $11) c2+ 5. Kxc2 (5. Kxd2 $143 $2 Rxd7+ 6. Bd4+ Rxd4+ 7. Kxc2 Rc4+ 8. Bxc4 $11) d1=Q+ (Rxd7 $144 6. Bd4+ $1 Rxd4 7. Kd1 $1 $18) 6. Kxd1 Rxd7+ 7. Bd4+ $1 Rxd4+ 8. Bd3 $1 Rxd3+ 9. Kc2 Rd4 10. c8=R $1 (10. c8=Q $143 $2 Rc4+ 11. Qxc4 $11) (10. Kb3 $144 $18) Ra4 11. Kb3 $18 1-0
+
+[Event "2.p Shakhmaty v SSSR#19"]
+[Source "Shakhmaty v SSSR/6 EG#02970"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[Composer2 "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p3P3/rp6/kp6/1p4PK/1P6/1P5p/4r2R w - - 0 1"]
+[PlyCount "41"]
+
+1. e8=N $1 (1. e8=Q $143 $1 Rxh1 $11) Rg1 $1 (Rxh1 $144 2. Nd6 $18) 2. Kh5 $1 Rf1 3. g5 $1 Rg1 4. Kh6 Rf1 5. g6 Rg1 6. Kh7 Rf1 7. g7 Rg1 8. Kh8 Rf1 9. g8=Q Rg1 10. Qg7 $1 (10. Qg6 $144 Rf1 11. Qf7 Rg1 12. Qg7 $18 {loss of time}) (10. Qg5 $144 Rf1 11. Qg8 Rg1 12. Qg7 $18 {loss of time}) Rf1 11. Kh7 Rg1 12. Qg6 Rf1 13. Kh6 Rg1 14. Qg5 Rf1 15. Kh5 Rg1 16. Qg4 (16. Qg3 (16. Qg4 $144 Rf1 17. Kh4 (17. Nd6 $143 Rf5+ 18. Kh4 Rh5+ 19. Kg3 Rh3+ 20. Kf4 Rf3+ $11 {desesperado tower}) Rg1 18. Qg3 $1 Rf1 19. Nd6 $1 Rf4+ 20. Kh3 Rh4+ 21. Kg2 $18 {loss of time}) Rf1 {eg:l} 17. Kh4 Rd1 18. Nd6 Rd4+ 19. Kh3 Rh4+ 20. Kg2 $18) Rf1 17. Kh4 (17. Nd6 $143 Rf5+ 18. Kh4 Rh5+ 19. Kg3 Rh3+ 20. Kf2 Rf3+ 21. Ke1 Re3+ (Rf1+ $143 22. Rxf1 h1=Q 23. Nc4+ $18) 22. Kd1 Rd3+ 23. Kc1 Rxd6 $1 $11) Rg1 18. Qg3 Rf1 19. Nd6 $1 Rf4+ 20. Kh3 Rh4+ 21. Kg2 $18 1-0
+
+[Event "1.p Vechernyaya Odessa"]
+[Source "EG#02480"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[Composer2 "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K1k/6pP/6P1/8/Q7/5P1r/7P/1r3N2 w - - 0 1"]
+[PlyCount "19"]
+
+1. Qa8 $1 (1. Qe8 $143 Rb7 $11) (1. Ke7 $143 Rb7+ 2. Kd8 Rb8+ 3. Kc7 Rxf3 $11) (1. Ng3 $143 Rh5 $11) Ra1 $1 2. Qb8 $1 (2. Qc8 $143 Ra7 $1 3. Qxh3 Ra8+ (Ra6 4. Qh6 Ra8+ 5. Kf7 gxh6 6. f4 Ra7+ 7. Kf6 Ra6+ 8. Kf5 Kg7 $11) 4. Kf7 $11) (2. Qxa1 $143 Rxf3+ $11 {desesperado tower}) Rb1 3. Qc8 Rc1 4. Qd8 Rd1 5. Nd2 $1 (5. Qe8 $143 Re1 $11) Rxd2 6. Qc8 $1 (6. Qb8 $143 Rd7 $11 7. Ke8 Rc7 8. Qxc7 Rxf3 $11) Rc2 7. Qb8 Rb2 8. Qa8 Ra2 9. Qxa2 $1 Rxf3+ 10. Qf7 $18 $1 1-0
+
+[Event "1.p Neidze 60-JT Sakartvelos Respublika"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[Composer2 "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3K4/1R6/1p4r1/8/1p6/8/8/7k w - - 0 1"]
+[PlyCount "22"]
+
+1. Rh7+ (1. Rf7 $143 b3 2. Rf2 Rg2 3. Rf1+ Rg1 4. Rf2 Rg4 5. Kd7 Kg1 6. Rb2 Rb4 $19) Kg1 (Kg2 $144 2. Rh4 $11 {See main line}) 2. Rh4 (2. Kc7 $143 b3 3. Rh5 b2 4. Rb5 Rg2 5. Kxb6 Kf1 6. Ka5 Ke1 7. Ka4 Kd1 8. Ka3 Kc1 $19) b3 3. Rb4 Rg3 4. Kc7 Kf2 5. Kc6 $1 (5. Kxb6 $143 Ke2 6. Kb5 Kd2 7. Ka4 Kc2 8. Ka3 Rc3 $19) Ke2 6. Kb5 Kd2 7. Ka4 b5+ (Kc2 $144 {main} 8. Rxb3 (8. Ka3 $144 Rc3 9. Rb5 Rc8 10. Rxb3 Ra8+ 11. Kb4 $11) Rxb3 $11) 8. Ka3 (8. Rxb5 $144 {transpose} Kc2 9. Ka3 $11) Kc2 9. Rxb5 Rc3 10. Rb4 Rc8 11. Rc4+ Rxc4 $11 1/2-1/2
+
+[Event "1.p Olympiad"]
+[Source "EG#03239"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[Composer2 "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5R2/1K2k3/8/8/8/8/p4p1R/r7 w - - 0 1"]
+[PlyCount "19"]
+
+1. Rf7+ $1 (1. Rfxf2 $143 Rb1+ 2. Ka8 (2. Kc7 $144 Rc1+ 3. Kb6 a1=Q 4. Re2+ Kd8 5. Rd2+ Kc8 $19) a1=Q+ 3. Ra2 Qf6 4. Rhe2+ Kd8 5. Red2+ Kc7 6. Ra7+ Kc8 (Kc6 $143 7. Ra6+ Rb6 8. Rxb6+ Kxb6 9. Rd6+ Qxd6 $11) (Kb6 $143 7. Rb7+ Kc6 8. Rc2+ (8. Rxb1 $143 Qh8+ 9. Ka7 Qh7+ 10. Kb8 Qxb1+ $19) Kd5 9. Rd2+ Kc4 10. Rxb1 Qf8+ 11. Kb7 Qf3+ 12. Kc7 Qf7+ 13. Rd7 $11) 7. Rc2+ Kd8 8. Rd2+ Ke8 9. Re2+ Kf8 10. Rf2 Rb8+ (Qxf2 $143 11. Rf7+ Kxf7 $11 {stalemate}) 11. Kxb8 Qxf2 $19 $18) Ke6 $1 (Kxf7 $144 2. Rxf2+ Ke6 3. Ka6 $11) (Kd6 $144 2. Rh6+ Ke5 3. Ra6 Rb1+ 4. Kc6 $11) (Ke8 $144 2. Rf8+ $11 (2. Rfxf2 Rb1+ 3. Kc7 a1=Q 4. Re2+ $11)) 2. Rf6+ (2. Rfxf2 $143 Rb1+ 3. Ka8 (3. Kc6 $144 Rc1+ 4. Kb6 a1=Q 5. Re2+ Kd7 6. Rd2+ Kc8 $19) a1=Q+ 4. Ra2 Qg7 $19 $1 5. Rh6+ (5. Rhe2+ $144 Kd5 6. Rad2+ Kc4 7. Rc2+ Kb5 $19) Kf5 6. Rh5+ Ke4 7. Ra4+ Ke3 8. Rh3+ Kf2 $1 9. Ra2+ Kg1 $1 10. Rh1+ Kxh1 11. Rh2+ Kg1 12. Rh1+ Kf2 13. Rh2+ Qg2+ $19) Ke5 (Kd5 $144 3. Rh5+ Kc4 (Ke4 4. Ra5 $11) 4. Ra5 $11) 3. Rfxf2 (3. Rhxf2 $143 Rb1+ 4. Kc7 a1=Q 5. R2f5+ Kd4 6. Rf4+ Kc3 7. Rf3+ Kb4 8. R3f4+ Ka5 $19) (3. Rf5+ $143 Ke4 4. Rhxf2 Rb1+ 5. Kc6 a1=Q 6. R2f4+ Kd3 7. Rf3+ Kc2 8. Rf2+ Kb3 9. R2f3+ Ka4 $19) Rb1+ 4. Ka8 $1 (4. Ka6 $143 a1=Q+ 5. Ra2 Qc3 $1 6. Rhe2+ Kd5 7. Rad2+ (7. Red2+ $144 Ke4 8. Re2+ Kd3 $19) Kc6 $1 8. Rc2 Ra1+ $19 9. Ra2 Qa3+ 10. Rxa3 Rxa3#) (4. Kc6 $143 a1=Q 5. Re2+ Kd4 6. Rd2+ Kc4 (Kc3 $143 7. Ra2 $11) 7. Rc2+ Kb3 $19) (4. Kc7 $143 a1=Q 5. Re2+ Kd5 6. Rd2+ Kc4 7. Rc2+ Kb3 8. Rcd2 Qe5+ $19) (4. Ka7 $143 a1=Q+ 5. Ra2 Qd4+ $19 6. Ka8 Qd5+ 7. Ka7 Qb7#) a1=Q+ 5. Ra2 Qd4 (Qc3 $144 {<main>} 6. Rhe2+ $1 (6. Rae2+ $143 Kd6 7. Rd2+ Kc7 $19) Kd6 (Kf4 $144 7. Rf2+ Ke4 8. Rae2+ Kd5 9. Rd2+ $11) (Kd5 $144 7. Rad2+ $11) 7. Red2+ Ke5 8. Re2+ Kf4 9. Rf2+ Ke3 (Kg4 $144 10. Rg2+ Kf5 11. Rgf2+ Ke4 12. Rae2+ Kd5 13. Rd2+ Ke6 14. Rfe2+ $11) 10. Rae2+ $11 (10. Rfe2+ $143 Kd3 $19)) 6. Rae2+ (6. Rhe2+ $143 Kf4 7. Rf2+ Kg3 8. Rg2+ Kf3 $19) Kf5 7. Ref2+ Ke6 8. Re2+ Kf5 9. Ref2+ Kg4 10. Rhg2+ $11 (10. Rfg2+ $143 Kf3 $19) 1/2-1/2
+
+[Event "2.p Joseph-100 MT STES Journal"]
+[Source "Gurgenidze=D Kalandadze=V Martsvalashvili=R EG#10786"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[Composer2 "Kalandadze, Velimir Esifovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/4P3/8/8/Kp5R/7p/8/7r w - - 0 1"]
+[PlyCount "29"]
+
+1. Rh7 $1 (1. Rh8+ $143 Kxe7 2. Kb3 (2. Kxb4 $144 h2 $19) Kd6 (h2 $143 3. Kb2 $11) 3. Rh5 (3. Kxb4 $144 h2 4. Kb3 Rb1+ $19) Ke6 4. Kb2 Kf6 5. Kb3 Kg6 6. Rh8 Kf5 $19 7. Rf8+ Kg5 8. Rg8+ Kf4 9. Rf8+ Kg3 10. Rg8+ Kh2 $19) h2 (Kd7 $144 2. Kb3 $1 h2 3. e8=Q+ (3. Kb2 $11) Kxe8 $11) 2. Rh8+ $1 Kxe7 3. Kb3 $1 Rb1+ 4. Ka2 h1=Q 5. Re8+ $1 (5. Rh7+ $143 Kd6 (Qxh7 $143 $11) 6. Rd7+ Kc5 7. Rc7+ Kb6 $19) Kd7 6. Re7+ Kd6 7. Re6+ Kd5 8. Re5+ Kd4 9. Re4+ Kd3 10. Rd4+ $1 (10. Re3+ $143 Kd2 11. Re2+ (11. Rd3+ $144 Kc1 12. Rd1+ Kxd1 $19) Kd1 12. Rd2+ Ke1 13. Re2+ Kf1 14. Rf2+ Kg1 $19) Ke3 11. Re4+ Kf3 12. Rf4+ (12. Re3+ $143 Kf2 (Kf4 $143 13. Re4+ $11) 13. Re2+ Kg1 $19) Kg3 13. Rg4+ Kh3 14. Rh4+ Kg2 15. Rg4+ $11 {deseperado tower} 1/2-1/2
+
+[Event "1/2.p Gaprindashvili-50 JT Lelo"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[Composer2 "Kralin, Nikolai Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2b2B2/np6/p1P2R2/k7/8/1K6/1PP1r3/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. cxb7 Re3+ (Bxb7 $144 2. Bb4+ Kb5 3. c4#) 2. c3 Bxb7 3. Rf5+ Nb5 4. Bb4+ Kb6 5. Bc5+ Ka5 6. Bxe3 Bd5+ 7. c4 (7. Rxd5 $143 $11) Nd4+ 8. Ka3 (8. Bxd4 $143 $11) Nxf5 (Nc2+ $144 9. Ka2 Nxe3 10. Rh5 Nxc4 11. Rxd5+ $19 {EGTB6}) 9. b4# 1-0
+
+[Event "1.p Szachy#31 {c}"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2Kb1B2/8/4k3/r7/B7/2p5/8/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. Bb3+ Kf6 2. Bb4 Rb5 3. Bxc3+ Ke7 4. Bd2 $1 (4. Be1 $143 Rxb3 5. Bh4+ Kd6 6. Be7+ $1 Kc6 7. Kxd8 Rb8#) Rxb3 5. Bg5+ Kd6 6. Bf4+ Ke7 7. Bg5+ $11 1/2-1/2
+
+[Event "1.p Molodoj Leninets (Kurgan) {c}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[Composer2 "Mitrofanov, Leopold Adamovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/2pK3p/8/5N2/1P4pq/5Rbk w - - 0 1"]
+[PlyCount "15"]
+
+1. Rb1 $1 (1. Re1 $143 c4 2. Ke4 h4 3. Rc1 h3 4. Re1 c3 $11) c4 2. Kc6 h4 3. Kb7 h3 4. Ka8 c3 5. bxc3 Qb8+ 6. Rxb8 h2 7. Rh8 Bf2 8. Rxh2# 1-0
+
+[Event "1.p Szachy#0771"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/pp6/7P/k1Kbp3/4p3/4P1r1/1P6/3B4 w - - 0 1"]
+[PlyCount "12"]
+
+1. b4+ (1. h7 $143 b6+ 2. Kxd5 Rh3 $19) Ka6 2. Be2+ (2. h7 $143 b6+ 3. Kxd5 Rh3 4. Be2+ Kb7 5. Kxe4 Rxh7 6. Kxe5 $19) b5 3. h7 (3. Bxb5+ $143 Kb7 4. Kxd5 Kc7 5. Kxe4 Rh3 6. Kd5 Rxh6 7. Bc4 Rh5 8. e4 Kd7 $19) Rh3 4. Bg4 Rxh7 (Rh2 $144 5. Kxd5 Kb6 6. Bf5 a5 7. bxa5+ Kxa5 8. Kxe5 b4 9. Kf6 b3 10. Bxe4 $11) 5. Bc8+ Bb7 (Rb7 $144 6. Kxd5 Kb6 7. Bxb7 Kxb7 8. Kxe5 $11) 6. Bd7 Rxd7 $11 (Ba8 $144 7. Bc8+ Rb7 8. Kc6 $11) 1/2-1/2
+
+[Event "1.p 64-Shakmatnoe Obozrenie#88"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[Composer2 "Pervakov, Oleg Viktorovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2R4K/8/8/7n/k3P1p1/7p/N7/8 w - - 0 1"]
+[PlyCount "27"]
+
+1. Nc3+ Kb3 2. Ne2 h2 3. Rc3+ $1 (3. Rc1 $143 g3 4. Nxg3 (4. Rh1 $144 Kc4 $1 5. e5 Kd5 6. Kh7 Kxe5 7. Kh6 Nf6 $1 8. Nxg3 Kf4 9. Nf1 Ng4+ 10. Kh5 Kf3 11. Nxh2+ Kg2 $11) Nxg3 5. e5 Kb4 $1 6. Kh7 (6. e6 $144 Ne2 $1 7. Rh1 Nf4 8. e7 Ng6+ $11) (6. Re1 $144 Kc5 $11) (6. Kg8 $144 h1=Q 7. Rxh1 Nxh1 8. e6 Ng3 9. e7 Ne4 $11) (6. Kg7 $144 h1=Q 7. Rxh1 Nxh1 8. e6 Ng3 9. e7 Nf5+ $11) h1=Q+ 7. Rxh1 Nxh1 8. e6 Ng3 9. e7 Ne4 $11) Kb4 (Kb2 $144 4. Rc1 Nf4 (g3 $144 5. Rh1 $1 $18) 5. Rh1 Nxe2 6. Rxh2 $18) 4. Rc1 g3 5. Nxg3 $1 (5. Rh1 $143 Kc4 6. e5 Kd5 7. Kh7 Kxe5 8. Kh6 Nf6 9. Nxg3 Kf4 10. Nf1 Ng4+ 11. Kh5 Kf3 12. Nxh2+ Kg2 $11) Nxg3 6. e5 $1 Kb3 $1 (h1=Q+ $144 7. Rxh1 Nxh1 8. e6 Ng3 9. e7 $18) (Kb5 $144 7. e6 Ne2 8. e7 $18) 7. Re1 $1 Kc3 8. e6 Ne2 9. e7 Ng1 10. e8=Q h1=Q+ 11. Kg7 $1 (11. Kg8 $143 Qg2+ 12. Kf8 Qf2+ $11) Qg2+ 12. Qg6 Qxg6+ (Qb7+ $144 {EGTB6} 13. Kh8 Qc8+ 14. Re8 Qc5 15. Rd8 Qe5+ 16. Kg8 Ne2 17. Qd3+ Kb2 18. Qd2+ Kb3 19. Qd1+ Kb2 20. Rd2+ $18) 13. Kxg6 Nf3 14. Re3+ $18 1-0
+
+[Event "T.Gorgiev-100 MT, 1 hm"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4Bk2/1p1R4/p7/1r1P4/p2P4/2K5/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. Rd7 $1 Ra4 2. Bxa3+ (2. Bh4+ $143 Ke6 3. Re7+ Kd6 4. Re1 a2 5. Bg3+ Kd5 6. Ra1 b5 7. Be5 Ra3 8. Kb2 Rxd3 9. Rxa2 Rd2+ $11 {draw.}) Ke8 (Ke6 $144 3. Re7+ $144 Kf6 4. Bd6 Rxd4 5. Be5+ Kxe7 6. Bxd4 $18 {win.}) 3. Re7+ Kd8 (Kf8 $144 4. Bd6 Rxd4 5. Re6+ Kf7 6. Be5 Rd5 7. Rf6+ Ke7 8. d4 $18 {win.}) 4. Bd6 $1 Rxd4 5. Ba3 $1 Ra4 (Rd5 $144 6. Rb7 $18 {wins}) 6. Re4 Rxa3 (Rxe4 $144 7. dxe4 $18) 7. Rd4+ Kc7 8. Kb2 $18 1-0
+
+[Event "1st HM Vlasenko 70 JT"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1bK5/P2n4/8/8/2k3P1/1p6/6p1/R7 w - - 0 1"]
+[PlyCount "23"]
+
+1. a8=Q (1. axb8=Q $143 Nxb8 $11) Nb6+ 2. Kxb8 Nxa8 3. Kb7 $3 (3. Kxa8 $143 b2 $11) b2 4. Rd1 $3 (4. Rg1 $143 Kc5 $1 5. Kxa8 Kd4 6. g5 Ke3 7. Rb1 Kd3 8. Rg1 Ke3 $11 {positional draw}) (4. Re1 $143 Kd3 5. Rg1 Ke3 6. Rb1 Kf4 7. Kxa8 Kxg4 $11) (4. Rb1 $143 Kd3 5. Rg1 Ke3 6. Rb1 Kf4 7. Kxa8 Kxg4 8. Ka7 Kh3 9. Kb6 Kh2 10. Rxb2 Kh1 11. Rb1+ g1=Q+ 12. Rxg1+ Kxg1) Kc3 5. Rg1 Kd4 6. g5 Ke3 7. Rb1 Kd3 8. g6 Kc2 9. g7 Kxb1 10. g8=Q Ka1 11. Qxa8+ Kb1 12. Qa7 $18 1-0
+
+[Event "2.c Liburkin 100 MT"]
+[Site "?"]
+[Date "2012.05.03"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "N1N5/6K1/b7/1k4bp/8/8/8/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. Nc7+ Ka5 2. Nxa6 h4 3. Nb8 (3. Nc5 $2 h3 4. Ne4 Bh4 $19) h3 4. Nc6+ Ka4 5. Nb6+ Ka3 6. Kg6 (6. Nc4+ $2 Kb3 7. N4e5 h2 8. Nd4+ Kb4 9. Ndf3 Bh6+ 10. Kxh6 h1=Q+ 11. Kg6 Kc5 12. Ng5 Kd6 13. Ng4 Qb1+ 14. Kf6 Qf1+ 15. Kg6 Ke7 $19) Bh4 7. Nc4+ Ka2 8. Nb4+ Ka1 9. Nc2+ Ka2 (Kb1 10. Nd2+ Kxc2 11. Nf3 $11) 10. Nb4+ $11 1/2-1/2
+
+[Event "3.p Mkhedruli"]
+[Source "EG#02943."]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/2P5/8/2K5/k7/3r4/8/6N1 w - - 0 1"]
+
+1. Ne2 $1 (1. Kc4 $2 Rd2 $1 2. Kc3 Rd5 $1 3. c8=Q Rc5+ $1 4. Qxc5) (1. Kb6 $2 Rc3 2. c8=Q $10) (1. c8=Q $2 Rc3+ $1 2. Kb6) (1. Kc6 $2 Rc3+ 2. Kb6) (1. c8=R $2 Rc3+ 2. Kd5) (1. Nf3 $2 Rc3+ 2. Kd5) Ka5 $1 2. Kc4 $1 (2. c8=Q $2 Rc3+ $1 3. Nxc3) (2. c8=R $2 Ka6 3. Nd4 $10) (2. Nd4 $2 Rc3+ 3. Kd5 $10) (2. Kc6 $2 Rd2 3. c8=Q) (2. Nc1 $2 Rc3+ 3. Kd6) (2. Nf4 $2 Rc3+ 3. Kd5) (2. Nc3 $4 Rxc3+ 3. Kd5 Rxc7) Rd6 $1 3. Nd4 $1 (3. c8=Q $4 $2 Rc6+ $1 4. Qxc6) (3. Kc5 Rd3 $18 4. Kc4) (3. c8=R $4 Rb6 4. Nd4 $10) (3. Nc3 $4 Rc6+ 4. Kd4) (3. Kb3 Rc6 4. c8=Q) Rc6+ 4. Nxc6+ (4. Kd5 $4 Rxc7 5. Nc6+) Kb6 5. c8=R $18 $1 (5. c8=Q $4 $2) (5. c8=N+ $4 Kc7 6. N8e7) (5. Kd5 $4 Kxc7 6. Nb8) (5. Nb4 Kxc7 6. Na6+) (5. Nd8 Kxc7) 1-0
+
+[Event ".c Shakhmaty (Riga)#150 (s)"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K5n1/8/1P1p4/3k4/3b4/8/8/8 w - - 0 1"]
+
+1. b7 $1 Ba7 2. Kxa7 Ne7 3. Ka6 Nc6 4. Kb6 Nb8 5. Kc7 Nc6 6. Kb6 Nb8 7. Kc7 Na6+ 8. Kb6 1/2-1/2
+
+[Event "2.c Karseladze MT Lelo"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r7/5B2/3K3P/8/8/8/6P1/4k3 w - - 0 1"]
+
+1. h7 $1 Rh8 2. Bg8 Kf2 3. g4 Kg3 4. g5 Kg4 5. g6 Kg5 6. g7 Rxh7 7. Bxh7 Kf6 $1 8. g8=R (8. g8=Q $2) (8. g8=N+ $2 Kg7) 1-0
+
+[Event "Lelo"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2N5/1P6/p5p1/p1k3p1/K5P1/2r3PP/8 w - - 0 1"]
+
+1. Nb5 $1 Kxb5 2. b7 Rc3+ 3. Ka2 Ka6 4. b8=Q Ra3+ $1 5. Kb1 $1 (5. Kb2 $2 Rb3+ 6. Qxb3 axb3 7. h4 gxh3 8. gxh3 Kb5 9. h4 gxh4 10. gxh4 Kb4 11. h5 a4 12. h6 a3+) Rb3+ 6. Qxb3 axb3 7. h4 gxh3 8. gxh3 Kb5 9. h4 gxh4 10. gxh4 Kb4 11. h5 a4 12. h6 a3 13. h7 1-0
+
+[Event "sp.hm Shakhmaty (Riga)#083 (@2)"]
+[Source "EG#@2148. î2: Ulrichsen=J EG=171 1/2008."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "N7/P7/8/8/8/6p1/3K4/1kn5 w - - 0 1"]
+
+1. Ke1 $1 (1. Ke3 $2 Nd3 $1 2. Kf3 Ne5+ 3. Kxg3 Nc6) g2 2. Kf2 Ne2 $1 (Nd3+ 3. Kg1) 3. Kxg2 Nf4+ 4. Kf3 (4. Kf2 $1 {<minor dual JU>} Nd5 5. Nb6 $1 Nxb6 6. Ke3 Kc2 7. Kd4 Kb3 8. Kc5) Nd5 5. Nb6 $1 (5. Ke4 $2 Nc3+ 6. Ke5 Nb5) (5. Nc7 $2 Nxc7 6. Ke4 Kc2 7. Ke5 Kc3 8. Kf6 Kc4 9. Ke7 Kc5 10. Kd7 Kb6) Nxb6 6. Ke4 (6. Ke3 $1 { <minor dual JU>}) Kc2 7. Kd4 Kb3 8. Kc5 1-0
+
+[Event "Sachové Umenie#3270"]
+[Source "Sachové Umenie/9"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6K1/2P3Pp/r5kP/8/8/8/8 w - - 0 1"]
+
+1. Kh7 $1 (1. Kh8 $2 Ra8+ 2. Kh7 Kf6 3. g7 Kf7) Ra7+ 2. g7 Kf6 3. c7 (3. Kxh6 $2 Rxg7 4. c7 Rg8) Rxc7 4. Kxh6 Rxg7 (Kf7 5. Kh7 Rc8 6. h6 Ra8 7. g8=Q+ Rxg8) 1/2-1/2
+
+[Event "EG"]
+[Source "EG/1 EG#01435."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/1P3k2/8/8/5r2/7p/1PPPPP1P/R6R w - - 0 1"]
+
+1. Ra4 $1 Rxa4 2. b4 $1 (2. f4 $2 Ra5 3. f5 Ra4) Rxb4 3. c4 Rxc4 (Rb6 4. Kh7) 4. d4 Rxd4 5. e4 Rxe4 6. f4 Rxf4 7. Rf1 $1 Rxf1 8. b8=Q 1-0
+
+[Event "1.c Revista de Romana de Sah#0606"]
+[Source "Revista de Romana de Sah/8 EG#02090."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/4k1PP/8/3P3b/8/3P4/1b6/8 w - - 0 1"]
+
+1. d4 $1 (1. Kg8 $2 Bf7+ 2. Kh8 Bf6 $1 3. d4 Ke8 4. d6 Bd5 5. d7+ Kf7 6. d8=N+ Kg6) Bxd4 2. Kg8 Bf7+ 3. Kh8 Ke8 4. d6 Ba2 5. d7+ Kf7 6. d8=N+ Kg6 7. Ne6 Be5 8. Nf4+ (8. Nf8+ $2 Kh6 9. Ne6 Bb3) Kh6 9. Nh5 $1 Bd5 10. Nf6 Bxf6 1/2-1/2
+
+[Event "64#55"]
+[Date "1972.08.11"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "Gurgenidze, D"]
+[Black " Kalandadze, V."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/1b5R/2B5/8/8/8/1r4p1/3k4 w - - 0 1"]
+
+1. Rd7+ $1 Kc1 2. Bxg2 Bc6+ 3. Rb7 $1 Rxb7+ 4. Ka8 $1 Rb6+ (Bxg2) 5. Ka7 Rb7+ 6. Ka8 $1 Rc7+ 7. Kb8 Rb7+ 8. Ka8 Bxg2 1/2-1/2
+
+[Event "Shakhmaty v SSSR#22"]
+[Source "Shakhmaty v SSSR/6"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/3N4/3R2p1/7k/8/3P4/6p1/8 w - - 0 1"]
+
+1. Rd5+ $1 (1. Nf6+ $2 Kh6 $1) g5 (Kh6 2. Ne5) (Kh4 2. Ne5) 2. Ne5 $1 g1=Q 3. Rd7 g4 4. Rh7+ Kg5 5. Nf3+ $1 gxf3 6. Rg7+ Kf4 7. Rxg1 Ke3 8. Rg3 $1 (8. Rd1 $2 Ke2) 1-0
+
+[Event "5.p Bulletin Central Chess Club USSR#26"]
+[Source "Bulletin Central Chess Club USSR/7 EG#02736."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "Gurgenidze, D"]
+[Black " Kalandadze, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6N1/7P/5P2/1p1p4/3K2kP/7r/8 w - - 0 1"]
+
+1. Nh5+ $1 Kf2 2. Nf4 b3 3. h7 b2 4. Kc2 d3+ 5. Nxd3+ Kg1+ 6. Nf2 Rxf2+ 7. Kb1 Rf1+ 8. Kxb2 Rf2+ 9. Kc1 Rf1+ 10. Kd2 Rf2+ 11. Ke3 Rh2 12. h8=R (12. h8=Q $2 Rxh3+ 13. Qxh3) 1-0
+
+[Event "5.p Bulletin Central Chess Club USSR#26"]
+[Source "Bulletin Central Chess Club USSR/7"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "Gurgenidze, D"]
+[Black " Kalandadze, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7P/8/5P2/7P/5r2/K5k1 w - - 0 1"]
+
+1. h7 $1 Rf1+ 2. Kb2 Rf2+ 3. Kc1 $1 (3. Kc3 $2 Rf3+ 4. Kd2 Rxh3) Rf1+ 4. Kd2 Rf2+ 5. Ke3 Rh2 6. h8=R (6. h8=Q $2 Rxh3+ 7. Qxh3) 1-0
+
+[Event "Shakhmatna Misl#38"]
+[Source "Shakhmatna Misl/4"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K3k2r/8/1P3p2/5P1P/8/8/8/8 w k - 0 1"]
+
+1. b7 $1 O-O+ $1 (Kf7+ 2. b8=Q Rxb8+ 3. Kxb8 Kg7 4. Kc7 Kh6 5. Kd7 Kxh5 6. Ke7 Kg5 7. Ke6) 2. b8=R $1 (2. b8=Q $2 Kh7 $1 3. Qxf8 (3. Kb7 Rxb8+ 4. Kxb8 Kh6 5. Kc7 Kxh5 (Kg5 $2 6. h6 Kxh6 7. Kd6 Kh5 8. Ke7 Kg5 9. Ke6) 6. Kd6 Kg4 $1 7. Ke6 Kg5)) Rxb8+ 3. Kxb8 Kg7 4. Kc7 (4. Kc8 { <or>}) Kh6 5. Kd6 (5. Kd7 {<or>}) (5. Kd8 {<or>}) Kxh5 6. Ke7 $1 (6. Ke6 $2 Kg5) Kg5 7. Ke6 1-0
+
+[Event "Szachy#0288 (c)"]
+[Source "(c): Gurgenidze=D 1.p Shakhmaty v SSSR (tt) 1976."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5r2/4R3/5PP1/6kp/7p/p6P/8/2K5 w - - 0 1"]
+
+1. g7 $1 Rc8+ 2. Rc7 $1 a2 $1 (Rxc7+ 3. Kb1 Rc8 4. f7) 3. Kb2 Rb8+ 4. Rb7 $1 a1=Q+ (Ra8 5. g8=Q+ Rxg8 6. Rg7+) 5. Kxa1 Ra8+ 6. Ra7 $1 Rxa7+ 7. Kb2 (7. Kb1 {<or>}) Rxg7 $1 8. fxg7 Kh6 9. g8=R $1 (9. g8=Q $2) 1-0
+
+[Event "1.p The Problemist#0135"]
+[Source "The Problemist/5-6 EG#02848."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7R/r6P/3N4/6r1/8/7P/5K2/7k w - - 0 1"]
+
+1. Rg8 $1 Rg2+ $1 (Rxh7 2. Rxg5 Rxh3 3. Ne4 (3. Nf5 $2 Rh2+ 4. Kf1 Rh8 5. Rg1+ Kh2 6. Rg2+ Kh3 7. Kg1 Rg8 8. Rxg8)) (Ra2+ 2. Kf3 Ra3+ 3. Kf4 Rxh3 4. h8=Q) 2. Rxg2 Rf7+ $1 3. Nf5 $1 (3. Nxf7 $2) (3. Kg3 $2 Rg7+ 4. Kf4 (4. Kf3 Rf7+) Rxh7 5. Rg3 Kh2) Rxf5+ 4. Kg3 $1 (4. Ke3 $2 Rh5 5. Rg7 Rh4 6. Kf3 Kh2) Rf3+ $1 5. Kg4 Rxh3 $1 6. Rg1+ (6. Kxh3 $2) Kh2 7. Rh1+ $1 Kxh1 8. Kxh3 1-0
+
+[Event "5.p Bondarenko JT Shakhmaty (Riga)"]
+[Source "EG#02495."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "kN6/8/1K4p1/6Pp/p5rP/1p1p4/3P4/7R w - - 0 1"]
+
+1. Nc6 $1 b2 2. Rb1 $1 (2. Rf1 $2 Rf4 $1 3. Rxf4 b1=Q+ 4. Kc7 (4. Rb4 Qc2 $1 5. Kc7 Qb3 6. Rf4 $1 Qb7+ 7. Kd6 Qg7 $1) Qb7+ 5. Kd6 Qg7 $1 6. Rxa4+ Kb7 7. Ra7+ Kc8 $1 8. Ra8+ (8. Rxg7) Kb7 9. Rb8+ Ka6 10. Kc5 $1 Qb2 $1 11. Ra8+ (11. Rxb2) Kb7 12. Ra7+ Kc8 13. Kd6 Qg7 $1) a3 3. Rf1 (3. Re1 $2 Re4 $1 4. Rxe4 b1=Q+ 5. Kc7 Qb7+ 6. Kd6 Qc8 $1 7. Re7 Qf8 $1) Rf4 $1 4. Rxf4 b1=Q+ 5. Kc7 $1 Qb7+ 6. Kd6 Qc8 (Qb2 {<main>} 7. Rf7 $1 (7. Rb4 $2 Qh8 $1 8. Kc7 Qg7+ 9. Kb6 Qb2 $1 10. Kc5 Qc2+ 11. Kd6 Qb2) (7. Rf8+ $2 Kb7 8. Rb8+ Ka6) Qb6 8. Rf8+ Kb7 9. Rb8+ Ka6 10. Rxb6+ Kxb6 11. Nb4 $1 (11. Nd4 $2 a2 12. Nb3 Kb5) Kb5 12. Na2 (12. Nd5 $2 Kc4 $1 13. Nc3 Kb3 14. Kc5 Kc2 15. Kc4 Kxd2 16. Kb3 Ke1 17. Kxa3 d2 18. Kb4 Kf2 $1) Kc4 13. Nc1 $1 (13. Nc3 $2 Kb3)) (Qg7 7. Ra4+ Kb7 8. Ra7+ Kc8 9. Rxg7 a2 10. Rc7#) 7. Rf7 Qa6 8. Rf8+ Kb7 9. Rb8# 1-0
+
+[Event "1/2.p Sachové Umenie#4464"]
+[Source "Sachové Umenie/12 EG#03410."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4P1r1/6q1/7R/8/7R/k7/7K w - - 0 1"]
+
+1. Rh2+ $1 Ka1 (Kb3 2. R5h3+ Kc4 3. Rh4+) 2. Ra5+ Kb1 3. Rb5+ Kc1 4. Rc5+ Kd1 5. Rd5+ Ke1 6. e8=Q+ $1 Qxe8 7. Re5+ $1 Kf1 $1 8. Rf5+ $1 (8. Rxe8 $2 Rg1#) Ke1 9. Re5+ Qxe5 10. Re2+ $1 Kf1 11. Rf2+ $1 Ke1 12. Re2+ Kxe2 (Qxe2) 1/2-1/2
+
+[Event "5.hm Petrov MT Bulletin Central Chess C"]
+[Source "EG#02580."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6R1/4p1P1/4P3/2r3nP/1p3k2/1P3p2/8/7K w - - 0 1"]
+
+1. Rf8+ $1 Kg3 2. Rxf3+ Nxf3 3. g8=Q+ Kf2 4. Qg2+ Ke3 5. Qb2 Rxh5+ 6. Kg2 Rh2+ 7. Kf1 Rh1+ 8. Kg2 Rg1+ 9. Kh3 Kf4 10. Qg7 Rh1+ 11. Kg2 Rh2+ 12. Kf1 Ke3 13. Qb2 1/2-1/2
+
+[Event "2.hm Komsomolskaja Znamja"]
+[Source "EG#02623."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/P7/1pPp4/k2P4/3p4/1p1P4/qP6/2K5 w - - 0 1"]
+
+1. a8=R+ $1 (1. a8=Q+ $2 Kb5 2. Qa3 Qb1+ 3. Kxb1) Kb5 2. Ra3 Kb4 3. c7 b5 4. c8=N $1 Kc5 5. Rxa2 bxa2 6. b4+ Kxb4 7. Kb2 Kc5 {<eg>} 8. Ne7 1-0
+
+[Event "1.hm Revista de Romana de Sah#0693"]
+[Source "Revista de Romana de Sah/7 EG#03403."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "n7/2k4p/5P2/8/8/5PK1/8/4n2r w - - 0 1"]
+
+1. f7 $1 Rf1 2. f4 Rf3+ 3. Kg4 Ng2 $1 4. f5 (4. Kxf3 $2 Nh4+) (4. f8=Q $2 Rxf4+ 5. Qxf4+ Nxf4 6. Kxf4 Nb6 7. Kg5 Nd7 8. Kh6 Nf8) Rf4+ 5. Kg5 h6+ $1 6. Kg6 $1 (6. Kxh6 $2 Rxf5 7. Kg7 Nf4 $1 8. f8=Q Ne6+) Nh4+ 7. Kxh6 $1 Rxf5 (Nxf5+ 8. Kg5 $1) 8. Kg7 Rg5+ 9. Kh6 Rg6+ 10. Kh7 Rf6 11. Kg7 Rg6+ 12. Kh7 1/2-1/2
+
+[Event "sp.p Shakhmaty v SSSR#01"]
+[Source "Shakhmaty v SSSR/1 EG#02973."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4R1N1/8/8/2K5/8/2p5/3k4/8 w - - 0 1"]
+
+1. Nf6 $1 c2 2. Ne4+ Kd3 $1 (Kc1 3. Nc3) 3. Nf2+ (3. Rd8+ $2 Kxe4 4. Rd4+ Ke3 5. Rc4 Kd2) Kc3 (Kd2 4. Rd8+ Ke2 5. Nd3) 4. Re3+ Kd2 5. Rd3+ Ke2 6. Rc3 Kd2 7. Ne4+ Kd1 (Kc1 8. Rb3 Kd1 9. Nc3+ Kd2 10. Na2) 8. Rd3+ Ke1 (Ke2 9. Rd2+) 9. Re3+ Kd1 10. Nc3+ (10. Nf2+ $2 Kd2) (10. Rd3+ $2 Ke1) Kd2 11. Kd4 $1 c1=Q 12. Re2# 1-0
+
+[Event "Sachové Umenie#4678"]
+[Source "Sachové Umenie/9"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2r1k3/Pr1qPN2/5Q2/8/8/8/K7/8 w - - 0 1"]
+
+1. Nd6+ $1 Qxd6 2. Qf8+ (2. Qxd6 $2 Rxa7+ 3. Kb3 Rb7+) Kd7 3. Qxc8+ Kxc8 4. e8=Q+ $1 (4. a8=Q+ $2 Kc7 5. Qa5+ (5. e8=N+ Kb6) Rb6 6. e8=N+ Kb8 $1 7. Nxd6 Rb2+ $1 8. Ka3 Ra2+ 9. Kxa2) Kc7 5. a8=N# 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/4"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/7K/8/6pk/4B1R1/8 w - - 0 1"]
+
+1. Rg1 $1 (1. Bf1 $2) Kh2 2. Rf1 $1 g2 3. Rf2 Kg1 (Kh3 4. Rf3+ Kh2 5. Bf1 $1 g1=Q 6. Rh3#) 4. Rf3 Kh2 5. Bf1 $1 g1=Q 6. Rh3# 1-0
+
+[Event "2.sp.hm Sportivnaya Gazeta"]
+[Source "EG#03139."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "Gurgenidze, D"]
+[Black " Kalandadze, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/k7/8/K5R1/6R1/8/1q6 w - - 0 1"]
+
+1. Rg6+ $1 Ka7 2. Rg7+ Ka8 3. Rg8+ Ka7 4. R3g7+ Ka6 5. Ra8+ Kb6 6. Rb8+ Ka6 7. Ra7+ $1 (7. Rxb1 $2) Kxa7 8. Rxb1 1-0
+
+[Event "3.hm Revista de Romana de Sah#0732"]
+[Source "Revista de Romana de Sah/10 EG#03522."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6P1/7K/8/7p/3kP3/5b2 w - - 0 1"]
+
+1. g7 $1 Bxe2+ $1 2. Kh4 (2. Kh6 $2 Bc4) h2 3. g8=Q h1=Q+ (h1=R+ {<main>} 4. Kg3 Rg1+ 5. Kf2 Rxg8) 4. Kg5 $1 Qg2+ 5. Kh6 $1 Qxg8 1/2-1/2
+
+[Event "Bulletin Central Chess Club USSR#23"]
+[Source "Bulletin Central Chess Club USSR/6"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/8/8/K5B1/8/p2p2p1/pp1P2P1/3B4 w - - 0 1"]
+
+1. Ba4+ $1 Kf8 2. Bh6+ Ke7 3. Bg5+ Kd6 4. Bf4+ Kc5 5. Be3+ Kc4 6. Be8 Kb3 7. Ba4+ $1 (7. Bf7+ $2 Kc2 8. Bxa2 b1=Q 9. Bxb1+ Kxb1 10. Kb4 a2 11. Bd4 Kc2 12. Bc3 a1=Q 13. Bxa1 Kxd2) Kc4 8. Be8 Kb3 9. Ba4+ 1/2-1/2
+
+[Event "1.hm Thèmes 64#2999"]
+[Source "Thèmes 64/1-3 EG#03366."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3K4/4Pr2/7k/n7/8/8/8 w - - 0 1"]
+
+1. e7 $1 Nc5+ (Nb6+ {<main>} 2. Kd8 Rd6+ 3. Kc7 Rd7+ 4. Kb8 Rxe7) 2. Kc8 $1 Re6 3. Kd8 Nb7+ 4. Kd7 Rd6+ 5. Kc7 $1 (5. Kc8 $2 Rg6 $1 6. Kd7 Nd6) Re6 6. Kd7 Nc5+ 7. Kd8 Rd6+ 8. Kc8 Rc6+ 9. Kd8 Nb7+ 10. Kd7 Rd6+ 11. Kc7 $1 1/2-1/2
+
+[Event "2.sp.p Sportivnaya Gazeta"]
+[Source "EG#03137."]
+[Date "1976.09.28"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/P2k2K1/8/8/8/8/5p2/5r2 w - - 0 1"]
+
+1. a8=Q $1 Rg1+ 2. Kh8 $1 f1=Q 3. Qd5+ Ke7 4. Qe5+ Kf7 5. Qf5+ $1 Ke7 (Qxf5) 6. Qe5+ Kd7 7. Qd5+ Kc7 8. Qc5+ Kb7 9. Qd5+ Kb6 10. Qd6+ Kb5 11. Qd5+ Kb4 12. Qd4+ Kb3 13. Qd3+ $1 Kb2 (Qxd3) 14. Qd2+ Kb1 15. Qd3+ $1 Kc1 (Qxd3) 16. Qc3+ Kd1 17. Qd3+ $1 Ke1 (Qxd3) 18. Qe3+ Kd1 19. Qd3+ Qxd3 1/2-1/2
+
+[Event "Chess Life & Review#0913"]
+[Source "Chess Life & Review/3"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "Gurgenidze, D"]
+[Black " Becker, C."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3K4/2r3q1/2P1k3/8/3P4/8/8/6R1 w - - 0 1"]
+
+1. d5+ $1 Kd6 $1 2. Rg6+ $1 Kxd5 (Qxg6) 3. Rxg7 Rxg7 4. c7 Kd6 5. c8=N+ $1 1/2-1/2
+
+[Event ".c Szachy#1145"]
+[Source "EG#03954."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "Gurgenidze, D"]
+[Black " Pogosyants, E."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3K1pkp/3B3N/7p/8/8/6p1/8 w - - 0 1"]
+
+1. Nf5+ $1 Kf6 2. Nh4 $1 g1=Q 3. Be7+ (3. Be5+ $2 Kxe5 4. Nf3+ Kf4 5. Nxg1 Kg4 6. Kd6 h4) Kg7 4. Nf5+ Kg6 5. Nh4+ Kg7 6. Nf5+ Kg8 7. Nh6+ Kg7 8. Nf5+ Kh8 9. Bf6+ Kg8 10. Nh6+ Kf8 11. Be7+ Kg7 12. Nf5+ 1/2-1/2
+
+[Event "5.p October Revolution AT Molodost Gruz"]
+[Source "EG#09236."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1k6/2R5/8/p1B2p1K/8 w - - 0 1"]
+
+1. Bd3 $1 Ka5 2. Rc1 Kb4 3. Ra1 $1 (3. Bc4 $2 f1=Q 4. Bxf1 Kb3) Kb3 (f1=Q 4. Bxf1 Kb3 5. Bc4+ $1) 4. Bb1 $1 f1=N+ $1 (Kb2 5. Rxa2+ Kxb1 6. Rxf2) (f1=Q 5. Bxa2+ Kb2 6. Rxf1) 5. Kh3 $1 (5. Kg1 $2 Nd2 6. Bxa2+ Kb2 7. Rd1 Kc2 8. Ra1 Kb2) Kb2 (Nd2 6. Bxa2+ Kb2 7. Rd1) 6. Rxa2+ Kxb1 7. Re2 $1 Kc1 8. Re1+ Kd2 9. Rxf1 1-0
+
+[Event "4.p Tidskrift for Schack#1928"]
+[Source "Tidskrift for Schack/1-2 EG#03664."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1P1R4/1rq5/8/k7/8/7R/K7 w - - 0 1"]
+
+1. Rd4+ $1 Ka5 2. Ra2+ Kb5 3. Rb2+ Ka6 4. b8=N+ $1 (4. Rdb4 $2 Qh1+ $1 5. Rb1 Qh8+ 6. Ka2 Qg8+ 7. Ka1 Qg7+ 8. Ka2 Qf7+ 9. Ka3 Qe7 10. Ka4 Qd7+ 11. Ka3 Qd6 12. Ka4 Qc6+ 13. Ka3 Qc5) Rxb8 5. Ra2+ (5. Rxb8 $2 Qc3+) Kb7 6. Rb2+ Kc7 7. Rc2 $1 Ra8+ (Qxc2 8. Rc4+ $1 Qxc4) 8. Kb1 $1 Ra1+ $1 9. Kxa1 Qxc2 10. Rd7+ $1 Kxd7 1/2-1/2
+
+[Event "2.hm The Problemist#0260"]
+[Source "The Problemist/11 1979 EG#04809."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[Composer2 "Kalandadze, Velimir Esifovich"]
+[White "Gurgenidze, D"]
+[Black " Kalandadze, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5PR1/P5K1/8/8/7p/7p/kr5r w - - 0 1"]
+
+1. f8=Q $1 Rhg1+ 2. Kh7 $1 (2. Kh6 $2 Rb6+ 3. Kh7 h1=Q 4. Qa3+ Kb1 5. Qd3+ Ka2 6. Qc4+ Rb3) Rxg7+ 3. Kxg7 $1 (3. Qxg7+ $2 Rb2) Rg1+ 4. Kh8 $1 h1=Q 5. a7 Qa8 $1 6. Qxa8 h2 7. Qh1 $1 Rxh1 8. a8=Q+ 1-0
+
+[Event "1.hm Böök JT Suomen Shakki"]
+[Source "EG#04572."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p5p/7k/K5p1/1r4P1/Q7/7P/4b3 w - - 0 1"]
+
+1. Qh3+ $1 Kg7 2. Qh5 (2. Qf1 $2 Rb1+ 3. Ka4 b5+ 4. Ka3 Bb4+) Bd2 $1 3. h3 $1 (3. h4 $2 Rb2+ $1 4. Ka4 b5+ 5. Ka3 Bc1 $1 6. hxg5 Rh2+ 7. Kb4 Rxh5 8. gxh5 Bxg5 9. Kxb5 Kh6 10. Kc4 Kxh5 11. Kd3 Kg4 12. Ke2 Kg3 13. Kf1 Be3) h6 4. h4 $1 Rb2+ $1 (Rxg4+ 5. Kb6 Rxh4 6. Qe8 Bf4 7. Qe6) 5. Ka4 b5+ 6. Ka3 Bc1 7. Qg6+ $1 (7. hxg5 $2 Rh2+ 8. Kb4 Rxh5 9. gxh5 hxg5) Kxg6 8. h5+ Kg7 1/2-1/2
+
+[Event "Tidskrift for Schack#2130"]
+[Source "Tidskrift for Schack/10"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/8/p7/2p5/1B3r2/3PK3/3P4/8 w - - 0 1"]
+
+1. Bc3+ $1 Rd4 2. Bxd4+ cxd4+ 3. Ke4 $1 a5 4. Kd5 $1 a4 5. Kc4 1-0
+
+[Event "1.p Schach#09575"]
+[Source "Schach/9 EG#05422."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2R5/6P1/1b1K4/4p3/8/7k/r7 w - - 0 1"]
+
+1. Rh7+ $1 (1. g7 $2 Rg1) Kg3 (Kg2 2. g7 Bc6+ 3. Kxc6 Ra6+ 4. Kd5 Rg6 5. Kxe4) 2. g7 Bc6+ $1 (Ra8 3. Rh8) (Rd1+ 3. Kc5 Rd8 4. Rh8) 3. Kd6 $1 (3. Kxc6 $2 Ra6+ 4. Kd5 Rg6 5. Kxe4 Rg5 6. Rh1 (6. Ke3 Rg4 7. Ke2 Rg6 8. Ke3 Rg4) (6. Kd4 Kf4) Kg2 7. Rh7 Kg3) (3. Ke6 $2 Bd7+ $1 4. Ke7 (4. Kxd7 Ra8 $1 5. Ke6 Rg8 6. Kf7 Rxg7+) Be6 5. Kxe6 Ra6+ 6. Kf5 Ra5+ 7. Kxe4 Rg5) (3. Ke5 $2 Ra5+ 4. Kd6 Bd5 5. Rh5 Ra6+) Bd5 $1 (Ra8 4. Rh8) 4. Kxd5 Ra5+ 5. Kd4 $1 (5. Kxe4 $2 Rg5) Rg5 (Ra4+ 6. Ke3 Ra3+ 7. Kxe4 Ra4+ 8. Kd5 Ra5+ 9. Kc6 Ra6+ 10. Kb7 Rg6 11. Kc7 Kf4 12. Kd7) 6. Kxe4 Kg4 7. Rh1 Rxg7 8. Rg1+ Kh5 9. Rxg7 1-0
+
+[Event "2.p Magadansky Komsomolets"]
+[Source "EG#05130."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1PP2k2/5P2/8/8/1r6/r7/7K w - - 0 1"]
+
+1. b8=Q $1 Rh3+ 2. Kg1 Rg3+ 3. Kf1 Rf3+ 4. Ke1 Re3+ 5. Kd1 Rd3+ 6. Kc1 Rc3+ 7. Kb1 Rac2 8. Qb3+ Rxb3+ 9. Kxc2 1-0
+
+[Event "64 Shakhmatnoye Obozrenye#64"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4R3/8/8/4K3/6k1/p7/2p5/8 w - - 0 1"]
+
+1. Rc8 $1 (1. Rg8+ $2 Kf3 2. Rg1 Ke3 3. Kd5 Kd3) a2 2. Rg8+ Kf3 3. Rg1 Ke3 4. Ra1 $1 Kd3 5. Kf4 Kc3 6. Ke3 Kb2 7. Kd2 Kxa1 8. Kxc2 (8. Kc1 {<or>}) 1/2-1/2
+
+[Event "3.p Solidarity ty"]
+[Source "EG#06277."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "R7/4B2k/8/8/8/1p5K/1p6/8 w - - 0 1"]
+
+1. Rh8+ $1 Kg7 2. Bf6+ $1 Kxf6 3. Rf8+ $1 Ke5 4. Rf1 Kd4 5. Kg4 $1 Kd3 (Kc3 6. Kf5 $1 Kb4 7. Ke5 Ka3 8. Kd4 Ka2 9. Kc3) 6. Kf5 $1 Kc2 7. Rf2+ Kb1 8. Rf4 $1 Kc2 9. Rf2+ Kb1 10. Rf4 Ka2 11. Ra4+ Kb1 12. Rf4 $1 1/2-1/2
+
+[Event "sp.hm Revista de Romana de Sah#0956"]
+[Source "Revista de Romana de Sah/4 EG#05964."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/R7/8/4K2k/P7/3p3p/5Pp1/8 w - - 0 1"]
+
+1. Kf5 $1 (1. Ra8 $2 Kg6) Kh6 2. Ra6+ Kg7 $1 3. Ra7+ Kf8 4. Kf6 Ke8 5. Ke6 Kd8 6. Kd6 Kc8 7. Kc6 Kb8 8. Rb7+ $1 (8. Rg7 $2 d2 $1) Ka8 9. Rg7 h2 (d2 10. Kb6) 10. Rg8+ Ka7 11. Rg7+ Ka6 12. Rg8 Ka5 13. Kc5 Kxa4 14. Kc4 Ka3 15. Kc3 Ka2 16. Ra8+ Kb1 17. Rb8+ Kc1 18. Ra8 $1 Kd1 19. Kxd3 Ke1 20. Ke3 Kd1 21. Kd3 1/2-1/2
+
+[Event "Magyar Sakkélet#1635 (tw) (m)"]
+[Source "Magyar Sakkélet/5 EG#07982b. (m): Gurgenidze=D 2.p Magyar Sakkélet Magyar Sakkélet/9-10 1986."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/8/8/5q2/8/2Q5/1pKpR3/8 w - - 0 1"]
+
+1. Kxb2 $1 (1. Kxd2 $2 Qg5+ $1 (b1=N+ $2 2. Ke1 Nxc3 3. Rf2) 2. Re3 b1=N+) d1=N+ 2. Ka1 (2. Kc1 $2 Nxc3 3. Rf2 Ne2+ (Na2+ $2 4. Kd1 Qxf2)) Nxc3 3. Rf2 Qxf2 1/2-1/2
+
+[Event "2.p Odessa ty (tt) (c)"]
+[Source "6/8.p USSR overall champ XVIII 1985-1986. (c): Gurgenidze=D Best Studies 2  (Gurgenidze)#074 1995."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/4pp2/8/1P1KP2r/2p5/2p1p3/5pP1/3R4 w - - 0 1"]
+
+1. Kc6 $1 Rh6+ (Rh8 2. Kc7) 2. e6 $1 (2. Kc7 $2 Ra6 3. b6 Ra7+ 4. Kc8 c2 $1 5. Ra1 (5. Rd5 f1=Q 6. Ra5 Qf5+ $1) Rxa1 6. b7+ Ka7 7. b8=Q+ Ka6 8. Kc7 Rb1 $1) Rxe6+ 3. Kc7 Ra6 $1 4. b6 $1 Ra7+ $1 5. Kc8 $1 (5. Kc6 $2 Rb7) c2 (e2 {<main>} 6. Ra1 $1 Rxa1 7. b7+ Ka7 8. b8=Q+ Ka6 9. Kc7 Ka5 10. Kc6 Ka4 (f1=Q 11. Qb5#) 11. Kc5 Ka3 12. Kxc4 $1 (12. Qb4+ $2 Ka2 13. Kxc4 Rc1 $1) Ka2 13. Qb3#) (e6 {<main>} 6. Rb1 $1 (6. Ra1 $2 Rxa1 7. b7+ Ka7 8. b8=Q+ Ka6 9. Kc7 Ka5 10. Kc6 Ka4 11. Kc5 Ka3 12. Kxc4 f1=Q+) e5 $1 7. g4 $1 (7. Rb5 $2 f1=Q 8. Ra5 Qf5+) c2 8. Rb5 c1=Q 9. Ra5 $1 Qa3 10. b7#) (f6 6. Rd5 f1=Q 7. Ra5 Qf5+ 8. Rxf5 e5 9. Rf1 c2 10. Ra1 Rxa1 11. b7+ Ka7 12. b8=Q+ Ka6 13. Qa8+) 6. Rd5 $1 f1=Q 7. Ra5 $1 Qf5+ $1 8. Rxf5 c1=Q 9. Ra5 $1 Rxa5 10. b7+ Ka7 11. b8=Q+ Ka6 12. Qb7# 1-0
+
+[Event "sp.p Chavchavadze MT"]
+[Source "EG#07746."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3qR3/k7/8/2Kr4/1P6/8/2Q5/8 w - - 0 1"]
+
+1. Kc4 $1 Rd4+ 2. Kc3 (2. Kb3 $2 Qd5+ 3. Ka4 Qd7+ 4. Kb3 Rd3+) Qc7+ 3. Kb2 (3. Kb3 $2 Rxb4+) Rxb4+ 4. Ka1 Qa5+ (Qxc2 5. Ra8+ Kb6 6. Rb8+ Ka5 7. Rb5+) 5. Qa2 Ra4 6. Re2 Qc3+ 7. Kb1 Qd3+ (Rxa2 {<main>} 8. Rxa2+ Kb6 9. Rb2+ Ka5 10. Ra2+ Kb4 11. Rb2+ Ka3 12. Ra2+ Kb3 13. Ra3+ Kxa3) 8. Kc1 (8. Qc2 $2 Qb5+ 9. Qb2 Rb4) Rxa2 (Qc3+ 9. Kb1) 9. Rxa2+ Kb6 10. Rb2+ Ka5 11. Ra2+ Kb4 12. Rb2+ Kc3 (Ka3 13. Ra2+) 13. Rb3+ Kxb3 1/2-1/2
+
+[Event "Ceskoslovensky Sach#141 (@2)"]
+[Source "Ces@oslovensky Sach/9 î2: Ceskoslovensky Sach/4 1988."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2R5/8/8/K6p/1p6/k7/7p/8 w - - 0 1"]
+
+1. Rc1 $1 b3 2. Ra1+ Kb2 3. Rh1 Ka2 4. Rxh2+ (4. Ka6 $1 {<minor dual>}) b2 5. Ka6 $1 h4 (Ka1 6. Rxh5 b1=Q 7. Ra5+) 6. Ka5 h3 7. Ka4 Ka1 8. Rxh3 b1=Q 9. Ra3+ Kb2 10. Rb3+ 1/2-1/2
+
+[Event "2.p Shakhmatna Misl#071"]
+[Source "Shakhmatna Misl/5 EG#09550."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "N4K2/6R1/8/p7/8/8/p6k/8 w - - 0 1"]
+
+1. Rh7+ $1 Kg2 2. Rg7+ Kf2 3. Rf7+ Ke2 4. Re7+ Kd2 5. Rd7+ Kc2 6. Rc7+ Kb2 7. Rb7+ Ka3 8. Ra7 $1 Kb4 (Ka4 9. Nb6+ Kb5 10. Nc4) 9. Rb7+ Ka4 10. Rb2 a1=Q 11. Nb6+ Ka3 12. Nc4+ Ka4 13. Nb6+ 1/2-1/2
+
+[Event "2.hm Mat {Yugoslavia}"]
+[Source "EG#09227."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1k1K2P1/6n1/8/6P1/8/8/6q1 w - - 0 1"]
+
+1. g8=Q $1 Qxg4+ 2. Ke8 Kc6 3. Kf7 (3. Qg7 $2 Qe6+ 4. Kd8 Qd6+ 5. Ke8 Qb8+ 6. Kf7 Nh8+ 7. Ke6 Qb3+ 8. Kf5 Qf3+ 9. Kg5 Qg3+ 10. Kh6 (10. Kf6 Qc3+) Qh4#) Ne5+ 4. Kf8 Qf5+ 5. Kg7 Qg6+ 6. Kf8 (6. Kh8 $2 Qh6+ 7. Qh7 Ng6+ 8. Kg8 Qf8#) Nd7+ 7. Ke7 Qd6+ 8. Kf7 Ne5+ 9. Kg7 Qg6+ 10. Kf8 Nd7+ 11. Ke7 1/2-1/2
+
+[Event "1.hm Sachová Skladba#01860"]
+[Source "Sachová Skladba/12 EG#10247."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/2p5/2PPr3/rp6/p7/8/1PKN4/R7 w - - 0 1"]
+
+1. d7 $1 Rxc6+ (Rd6 2. Ne4 Rd5 3. Nc3 Rd6 4. Rd1) 2. Nc4 $1 Rxc4+ 3. Kd3 Rd4+ $1 4. Kxd4 c5+ 5. Kxc5 Kc7 6. d8=Q+ $1 Kxd8 7. Kb6 Ra8 8. Kb7 Ra5 9. b4 $1 axb3 10. Rxa5 b2 11. Rxb5 1-0
+
+[Event "1.hm Revista de Romana de Sah#1100"]
+[Source "Revista de Romana de Sah/3 EG#08150."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "n7/PP6/5P2/2k5/8/7K/6r1/6r1 w - - 0 1"]
+
+1. f7 $1 (1. b8=Q $2 Rg8 2. Kh2 R8g2+ 3. Kh3 Rg8) (1. bxa8=Q $2 Rg8) Rg3+ 2. Kh4 Rg4+ 3. Kh5 Rg5+ 4. Kh6 Rg6+ 5. Kh7 Rg7+ 6. Kh8 Rxf7 7. bxa8=Q Rgg7 $1 8. Qc8+ Kb4 $1 9. Qb8+ Kc4 10. Qf4+ $1 Rxf4 11. Kxg7 Rg4+ 12. Kf7 Rf4+ 13. Ke7 Re4+ 14. Kd7 Rd4+ 15. Kc7 1-0
+
+[Event "Sachová Skladba"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/N7/7N/8/6p1/1K6/1Pp5/1k6 w - - 0 1"]
+
+1. Nb5 $1 c1=Q (c1=N+ 2. Ka3 g3 3. Nd4 g2 4. Nf3) 2. Na3+ Ka1 3. Nc2+ Kb1 4. Na3+ Ka1 5. Nc2+ Qxc2+ 6. Kxc2 g3 7. Nf5 g2 8. Nd4 g1=Q 9. Nb3+ Ka2 10. Nc1+ Ka1 11. Nb3+ 1/2-1/2
+
+[Event "2.c New Life"]
+[Source "EG#07900."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4b1r1/1P1K4/1P4k1/5R2/8/8/8/8 w - - 0 1"]
+
+1. Kd6 $1 Bc6 2. Rf8 $1 Rxf8 3. Kxc6 Kf5 4. Kc7 Rf7+ 5. Kb8 Ke6 6. Ka8 1-0
+
+[Event "3.hm Birnov MT Molodoj Leninets (c)"]
+[Source "Molodoj Leninets/4-5 1989 EG#10059."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1R2N3/8/8/k7/8/4r3/3p3K/5B2 w - - 0 1"]
+
+1. Nd6 $1 d1=Q 2. Nc4+ Ka4 3. Nb2+ Ka3 4. Nxd1 Re1 5. Ra8+ Kb4 (Kb3 6. Bb5) 6. Nf2 $1 Rxf1 7. Kg2 Re1 (Rc1 8. Nd3+ Kb3 9. Nxc1+) (Rb1 8. Rb8+ Kc3 9. Rxb1) 8. Nd3+ Kc3 9. Nxe1 1-0
+
+[Event "2.hm Leninska Smena"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3n3K/5P2/6kP/1P6/8/2n5/8/8 w - - 0 1"]
+
+1. f8=Q $1 Nf7+ 2. Kg8 $1 (2. Qxf7+ $2 Kxf7 3. b6 Nd5 4. b7 Ne7 5. b8=Q Ng6+ 6. Kh7 Nf8+ 7. Kh8 Ng6+) Nxh6+ 3. Kh8 $1 (3. Qxh6+ $2 Kxh6 4. b6 Nd5 5. b7 Ne7+) Nf7+ 4. Qxf7+ Kxf7 5. b6 Nd5 6. b7 Ne7 7. b8=Q Ng6+ 8. Kh7 Nf8+ 9. Kh6 1-0
+
+[Event "1.hm Mat {Yugoslavia}"]
+[Source "EG#09226."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3q4/5PpK/NP1k2P1/8/8/8/1p6/8 w - - 0 1"]
+
+1. b7 $1 b1=R $1 2. b8=Q+ Rxb8 (Qxb8 {<main>} 3. Nxb8 Rxb8 4. Kxg7 Ke7 5. Kh7 Kf6 6. f8=Q+ Rxf8 7. g7 Rf7 8. Kh8 Rxg7) 3. Nxb8 Qxb8 4. f8=Q+ $1 Qxf8 1/2-1/2
+
+[Event "3.hm Sacharov JT Bulletin Central Chess"]
+[Source "EG#08373."]
+[Date "1989.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/1P5P/1rP2R2/6k1/8/8/p7/2r5 w - - 0 1"]
+
+1. Rf5+ $1 Kxf5 2. h8=Q a1=Q+ 3. Qxa1 Rxa1+ 4. Kb8 Ke6 (Rxc6 { <main>}) (Rab1 {<main>} 5. c7 Rxb7+ 6. Ka8 Rxc7) 5. c7 Rxb7+ 6. Kxb7 Rb1+ 7. Kc8 Ke7 (Kd6 8. Kd8 Rh1 9. c8=N+) 1/2-1/2
+
+[Event "1.sp.p Mkhedruli"]
+[Source "EG#02955"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[Composer2 "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1Rr4p/P1P5/2N5/8/6pp/1q1N4/k5K1 w - - 0 1"]
+[PlyCount "27"]
+
+1. Ncb3+ Ka2 2. a7 Rc8 3. Rb8 h2+ 4. Kg2 h1=Q+ 5. Kxh1 g2+ 6. Kg1 $1 Qa3 7. a8=Q Qxa8 8. Nc1+ Ka3 (Ka1 $144 9. Rb1#) 9. Nb1+ Ka4 10. Nc3+ Ka5 (Ka3 $144 11. Rb3#) 11. Nb3+ Ka6 12. Nc5+ Ka7 (Ka5 $144 13. Rb5#) 13. Nb5+ Kxb8 14. Nd7# 1-0
+
+[Event "1.p Akobia-60 JT"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[Composer2 "Kalandadze, Velimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4R3/k6r/P3p3/K7/5P2/P5pp/8/RN1r4 w - - 0 1"]
+[PlyCount "53"]
+
+1. Nc3 Rh5+ 2. f5 $1 (2. Nb5+ $143 Rxb5+ 3. Kxb5 Rxa1 4. Re7+ Kb8 5. a7+ Ka8 6. Ka6 (6. Kb6 $144 Rb1+ 7. Ka6 Rb8 8. axb8=Q+ Kxb8 9. Kb6 Kc8 10. Kc6 Kd8 11. Kd6 g2 12. Rg7 Ke8 13. Kxe6 Kf8 14. Kf6 h2 15. Rxg2 h1=Q $19 {#46}) Rxa3+ 7. Kb6 Rb3+ 8. Ka6 Rb8 9. axb8=Q+ Kxb8 10. Kb6 Kc8 11. Kc6 Kd8 12. Kd6 g2 13. Ra7 Kc8 14. Kc6 Kb8 15. Ra1 h2 16. Rb1+ Kc8 17. Ra1 Kd8 18. Kd6 Ke8 19. Kxe6 Kf8 20. Kf6 Kg8 21. Ra8+ Kh7 22. Ra7+ Kh6 23. Ra8 Kh5 24. Kf5 Kh4 $19) Rxf5+ 3. Nb5+ Rxb5+ 4. Kxb5 Rxa1 5. Re7+ Kb8 6. a7+ Ka8 7. Ka6 $1 Rxa3+ 8. Kb6 Rb3+ 9. Ka6 Rb8 $1 10. axb8=Q+ Kxb8 11. Kb6 Kc8 12. Kc6 Kd8 13. Kd6 $1 g2 $1 14. Ra7 Kc8 15. Kc6 Kb8 16. Ra1 h2 17. Rb1+ Kc8 18. Ra1 Kd8 19. Kd6 Ke8 20. Kxe6 Kf8 21. Kf6 Kg8 22. Ra8+ Kh7 23. Ra7+ Kh6 24. Ra8 Kh5 25. Kf5 Kh4 26. Kf4 Kh5 27. Kf5 $11 1/2-1/2
+
+[Event "3.p 64 Shakhmatnoye Obozrenye#48"]
+[Source "EG#08680"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[Composer2 "Kuznetsov, Anatoly Georgievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2R3R1/7k/3K3p/7p/3p4/4p3/6P1/4q3 w - - 0 1"]
+[PlyCount "19"]
+
+1. Ke6 h4 2. Rgf8 $1 Qa5 (Qg3 $144 3. Rh8+ $1 Kg6 4. Rcg8+ Kh5 5. Rxg3 e2 6. Kf5 $1 hxg3 7. Re8 d3 8. Re3 d2 9. Rxg3 e1=Q 10. Rh3+ Qh4 11. g4#) 3. Rf7+ Kg6 4. Rg8+ Kh5 5. Rf5+ Qxf5+ 6. Kxf5 e2 (d3 $144 7. g4+ hxg3 8. Rxg3 Kh4 9. Rxe3 $18) 7. Re8 d3 8. Re3 d2 9. Rh3 d1=Q 10. g4# 1-0
+
+[Event "2.p Shakhmaty v SSSR#29"]
+[Source "Shakhmaty v SSSR/8 EG#08201"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[Composer2 "Mitrofanov, Leopold Adamovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7K/3P4/P7/8/4k3/7B/5r2 w - - 0 1"]
+[PlyCount "17"]
+
+1. a6 Ra1 $1 (Rf8 $144 2. a7 Kd4 3. d7 Rd8 4. Bc7 Rxd7+ 5. Kg6 $18) 2. Bg1+ $1 (2. d7 $143 Rd1 $11) Rxg1 (Ke4 $144 3. a7 $18) 3. Kh8 $3 Rh1+ (Rb1 $144 4. a7 $18) (Rc1 $144 4. d7 $18) 4. Kg8 $1 (4. Kg7 $143 Ra1 5. a7 Rxa7+ $11) Rd1 5. a7 Rg1+ 6. Kf8 $1 Rf1+ 7. Ke8 Rh1 8. d7 $1 Rh8+ 9. Ke7 $1 $18 1-0
+
+[Event "1.hm Vecherni Leningrad"]
+[Source "EG#13353."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Gurgenidze, David"]
+[Composer2 "Mitrofanov, Leopold Adamovich"]
+[White "Gurgenidze, D"]
+[Black " Mitrofanov, L."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2B3k1/6P1/8/7P/8/4n1PK/8/3n4 w - - 0 1"]
+
+1. h6 $1 Nf2+ 2. Kh4 Kh7 $1 3. g4 $1 (3. Be6 $2 Kxh6 4. g8=Q Ng2#) Nfxg4 (Ne4 4. g5 $1 Nc5 $1 5. Kh5 Nd5 6. Bf5+ Kg8 7. Bb1 $1 Ne6 8. Ba2) 4. Bxg4 Nxg4 (Nf5+ {<main>} 5. Bxf5+ Kxh6 6. g8=N+ $1 (6. g8=Q $2) (6. g8=R $2) (6. g8=B $2 Kg7) Kg7 7. Be6) 5. Kxg4 Kxh6 6. g8=R $1 (6. g8=Q $2) 1-0

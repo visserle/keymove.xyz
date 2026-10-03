@@ -1,0 +1,40 @@
+[Event "Shakhmaty v SSSR#24"]
+[Source "Shakhmaty v SSSR/8"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Yakhontov, Vasily Mikhailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/4k3/6P1/1p5P/8/8/n7/8 w - - 0 1"]
+
+1. h6 $1 (1. g7 $2 Kf7) (1. Kc7 $2 Kf6) Kf6 2. h7 $1 Kg7 3. Kc7 $1 b4 (Nc3 4. Kd6) 4. Kd6 $1 (4. Kd7 $2 Nc3 $1 (b3 $2 5. Ke7) 5. Ke6 Ne4) (4. Kc6 $2 b3 $1 (Nc3 $2 5. Kc5 b3 6. Kb4 b2 7. Ka3 b1=Q 8. h8=Q+ Kxh8 9. g7+ Kh7 10. g8=Q+ Kxg8)) Nc3 (b3 5. Ke7 b2 6. h8=Q+ Kxh8 7. Kf7 b1=Q 8. g7+) 5. Kc5 $1 (5. Ke7 $2 Nd5+ 6. Ke8 (6. Ke6 Nf4+ 7. Ke5 b3) Nf6+ 7. Ke7 Nxh7) b3 6. Kb4 b2 7. Ka3 $1 b1=Q (b1=B 8. Kb2) (b1=R 8. h8=Q+ Kxh8 9. g7+ Kxg7) 8. h8=Q+ Kxh8 9. g7+ Kh7 10. g8=Q+ Kxg8 1/2-1/2
+
+[Event "source unknown"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Yakhontov, Vasily Mikhailovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/KP2p3/pp2P3/k4P1p/7P/8 w - - 0 1"]
+
+1. b6 $1 b3 (Kb3 2. b7 a3 3. b8=Q a2 4. Qxb4+ Kc2 5. Qe1 Kb2 6. Qd2+ Kb1 7. Kb4 a1=Q 8. Kb3) 2. b7 b2 3. b8=R (3. b8=Q $2 b1=Q 4. Qxb1) Ka2 4. Kxa4 b1=Q 5. Rxb1 Kxb1 6. Kb3 (6. Kb4 $2 Kc2 7. Kc4 Kd2 8. Kd5 Ke3 9. Kxe5 Kxf3 10. Kf5 Kg2 11. e5 Kxh2 12. e6 Kg3) Kc1 7. Kc3 Kd1 8. Kd3 Ke1 9. Ke3 (9. f4 $2 exf4 10. e5 f3 11. e6 f2) Kf1 10. f4 exf4+ 11. Kxf4 Kg2 12. e5 Kxh2 13. e6 Kg2 14. e7 h2 15. e8=Q h1=Q 16. Qe2+ Kg1 17. Kg3 1-0
+
+[Event ".c Nadareishvili JT Molodost Gruzzi"]
+[Source "EG#05404."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Yakhontov, Vasily Mikhailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k4/1p1P4/b2K4/3B4/8/8/8/n7 w - - 0 1"]
+
+1. Kc5 $1 Kc7 2. d8=Q+ Kxd8 3. Kb6 Kc8 4. Be6+ Kb8 5. Bb3 Bd3 6. Bd5 Ba6 7. Bb3 Ka8 8. Bd1 Bd3 9. Bf3 Ba6 10. Bd1 Kb8 11. Bb3 Nxb3 1/2-1/2

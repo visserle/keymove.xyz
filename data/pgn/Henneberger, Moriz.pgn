@@ -1,0 +1,79 @@
+[Event "Schweizerische Schachzeitung#088"]
+[Source "Schweizerische Schachzeitung/10"]
+[Date "1907.??.??"]
+[Round "?"]
+[Composer "Henneberger, Moriz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3N4/8/npRK2n1/k2P4/8/1p6/8 w - - 0 1"]
+
+1. Nb6+ $1 Kb4 2. Rxb5+ Kxb5 3. Nc4 Nxc4 1/2-1/2
+
+[Event "National Zeitung"]
+[Date "1920.??.??"]
+[Round "?"]
+[Composer "Henneberger, Moriz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3r4/2P1R3/K5b1/P7/2kb4/8/8 w - - 0 1"]
+
+1. c7 $1 (1. cxd7 $2 Bd8+ 2. Rb6 Kd4 3. Kb4 Bxb6) Rxc7 2. Rc6+ Kd4 (Rxc6) 3. Rxc7 Bd8 4. Kb6 Be4 5. a5 Ke5 6. a6 Kd6 7. Ka7 $1 Bxc7 (Kxc7) 1/2-1/2
+
+[Event "1.p 28 Rijen#290"]
+[Date "1926.06.26"]
+[Round "?"]
+[Composer "Henneberger, Moriz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1r6/2k1PK2/8/8/8/8/1N1N4/8 w - - 0 1"]
+
+1. Ne4 $1 Kc6 (Rh8 2. Nf6) (Kb6 2. Nc4+ Ka7 3. Ncd6 Rh8 4. Nf6) 2. Nc4 Kd5 3. Nf6+ $1 Kxc4 (Kc6 {<main>} 4. Ne5+ $1 Kb5 (Kd6 {<main>} 5. Ned7 Ra8 6. Nf8 Ra7 7. N6d7 Ra8 8. Nb6 Rb8 9. Nfd7 Rh8 10. Nf8) 5. Ned7 Ra8 6. Nd5 Kc6 7. N5b6) 4. Nd7 Rc8 (Rh8 5. Nf8) (Ra8 5. Nb6+) 5. Nb6+ Kc5 6. Nxc8 1-0
+
+[Event "source unknown"]
+[Date "1930.03.11"]
+[Round "?"]
+[Composer "Henneberger, Moriz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/8/8/1P6/8/3r1B2/6Rp/7k w - - 0 1"]
+
+1. Bc6 $1 Rd8+ 2. Kf7 (2. Kh7 $2 Rh8+ 3. Kg6 Rg8+ 4. Kf5 Rxg2) Rf8+ 3. Ke6 Rf6+ 4. Ke5 Rf5+ 5. Kd4 Rf4+ 6. Ke3 Rf3+ 7. Ke2 Re3+ 8. Kf1 Rf3+ 9. Ke1 (9. Rf2 $2) Rf1+ 10. Ke2 Re1+ 11. Kf3 Re3+ 12. Kg4 Re4+ 13. Kg5 Re5+ 14. Kg6 Re6+ 15. Kg7 Re7+ 16. Kg8 Re8+ 17. Bxe8 1-0
+
+[Event "Le Temps#061"]
+[Date "1930.09.07"]
+[Round "?"]
+[Composer "Henneberger, Moriz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2K5/N4r2/8/8/5B2/6R1/7k w - - 0 1"]
+
+1. Ba8 $1 (1. Rf2+ $2 Kg1) (1. Rg3+ $2 Kh2) (1. Bb7 $2 Rf7+ 2. Kc8 Rxb7) (1. Bd5 $2 Rc6+ $1) (1. Be4 $2 Rc6+) Rf7+ 2. Kb6 Rf6+ 3. Kc5 Rf5+ (Rxa6 4. Ra2+) 4. Kd4 Rf4+ 5. Ke3 Rf3+ 6. Ke2 $1 (6. Kxf3 $2) Re3+ 7. Kd1 $1 Re1+ 8. Kd2 Rd1+ 9. Kc3 Rd3+ 10. Kc4 Rc3+ $1 (Rd4+ 11. Kc5 Rc4+ 12. Kb6 Rb4+ 13. Ka7 Rb7+ 14. Kxb7) 11. Kd4 Rd3+ $1 (Rc4+ 12. Ke5 Rc5+ 13. Kd6) 12. Kc5 $1 Rc3+ $1 13. Kb6 Rb3+ $1 14. Ka7 Rb7+ 15. Kxb7 1-0
+
+[Event "British Chess Magazine#0896"]
+[Source "British Chess Magazine/11"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Henneberger, Moriz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7r/7P/8/8/1p6/kP6/P6R/7K w - - 0 1"]
+
+1. Kg1 $1 (1. Kg2 $2 Kxa2) Rg8+ 2. Kf2 (2. Rg2 $2 Rh8 3. Rh2 Rg8+) Rh8 (Rf8+ 3. Kg2 Rh8 4. Kh1) 3. Kf3 Rf8+ (Re8 4. h8=Q Re3+ 5. Kf2 Rf3+ 6. Ke2 Re3+ 7. Kd2 Rd3+ 8. Kc2) 4. Kg2 Rh8 (Kxa2 5. h8=Q Rxh8 6. Rxh8 Kxb3 7. Kf3) 5. Kh1 Rc8 (Rd8 6. h8=Q Rd1+ 7. Kg2 Rd2+ 8. Kf3 Rd3+ 9. Ke2 Re3+ 10. Kd2) (Rg8 6. Rh6 Rh8 7. Ra6+ Kb2 8. Ra7) 6. h8=Q Rc1+ 7. Kg2 Rg1+ (Rc2+ 8. Kg3) 8. Kf3 Rg3+ 9. Ke2 Re3+ 10. Kd2 Rd3+ 11. Kc2 Rc3+ 12. Qxc3 1-0

@@ -1,0 +1,13 @@
+[Event "Schach#09674"]
+[Source "Schach/2"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Lebedev, Vasily Garrievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2N2K2/8/5k2/6p1/8/2p5/4P2P/8 w - - 0 1"]
+
+1. Nb6 $1 c2 2. Nd7+ $1 Kf5 3. e4+ $1 Kxe4 (Kf4 4. Nc5 c1=Q 5. Nd3+) 4. Nc5+ Kf3 5. Nd3 Kg2 6. Ne1+ Kxh2 7. Nxc2 g4 {<eg>} 8. Ne3 g3 9. Nf1+ Kh3 10. Nxg3 1/2-1/2

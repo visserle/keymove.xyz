@@ -1,0 +1,12 @@
+[Event "Deutsche Schachblätter#464"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Stahle, K"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/p7/P6K/8/5kB1 w - - 0 1"]
+
+1. Kh2 $1 (1. Kg3 $2 Kxg1) Ke2 2. Kg3 Kd3 3. Kf4 Kc4 4. Ke5 Kb5 (Kb3 5. Bc5 Kc4 6. Kd6 Kb5 7. Kd5) 5. Kd6 Ka6 6. Kc6 Ka5 7. Kb7 Kb5 8. Bb6 Kc4 9. Kc6 Kb3 10. Bc5 Kc4 11. Be3 Kb3 12. Bc1 Kc4 13. Bb2 1-0

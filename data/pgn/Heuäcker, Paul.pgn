@@ -1,0 +1,317 @@
+[Event "?"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Heuäcker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "2Q5/6N1/4K3/8/8/8/2p5/k7 w - - 0 1"]
+
+1. Nh5 (1. Nf5 $2 Kb2 2. Qb7+ Ka2 $1 3. Nd4 c1=Q 4. Qb3+ Ka1 5. Nc2+ Qxc2 6. Qxc2) (1. Ne8 $2 Kb1 2. Ng7 $10 c1=Q 3. Qb8+) (1. Qb8 $2 c1=Q 2. Nh5 $10) (1. Qxc2 $2) (1. Qh8 $2 Ka2 2. Nh5) Kb1 2. Qb7+ Ka2 3. Qa6+ Kb1 4. Qb5+ Ka2 5. Qf1 Kb2 6. Nf4 $1 1-0
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[Composer "Heuäcker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#5"]
+[Theme "Attacking the king"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "5k2/7K/3N4/n2NP3/8/1n6/8/8 w - - 0 1"]
+
+1. e6 (1. Nc8 Nc6 2. Nd6) (1. Nb5 Nc5 2. Nd6) (1. Ne4 Nd4 2. Nd6) Nc6 2. e7+ (2. Ne7 Kxe7 3. Nf5+) Nxe7 3. Nf4 (3. Nb4 Nc5 4. Ne8) Nd4 4. Kh8 $3 (4. Nd5 Ne6 5. Kh6 Nf5+ 6. Kg6 Nxd6) (4. Nf7 Kxf7 5. Nd3) (4. Nb5 Nxb5 5. Kh6) Nec6 5. Ng6# (5. Nd5 $4 Nb8 6. Nc8 $10) (5. Nh5 $4 Nb8 6. Nc8 $10) (5. Ne6+ $4 Nxe6 6. Nc8 $10) 1-0
+
+[Event "Reichspost"]
+[Date "1932.05.15"]
+[Round "?"]
+[Composer "Heuacker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1R6/8/8/8/k7/pr6/Kpb5/8 w - - 0 1"]
+
+1. Rb4+ $1 Ka5 (Kxb4) (Rxb4) 2. Rxb3 Bxb3+ 3. Kxa3 b1=Q 1/2-1/2
+
+[Event "Deutsche Schachzeitung#1924"]
+[Source "Deutsche Schachzeitung/12"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Heuacker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6q1/8/8/5n2/Q7/5K1k w - - 0 1"]
+
+1. Qb2 $1 (1. Qf2 $2 Qb1+ 2. Ke2 Ng1+ 3. Kd2 Qb2+ 4. Ke1 Qc1#) (1. Qc2 $2 Qg1+ 2. Ke2 Nd4+ 3. Kd3 Nxc2) Qg1+ 2. Ke2 Qg2+ (Nd4+ 3. Kd3) 3. Kd1 Qxb2 1/2-1/2
+
+[Event "Deutsche Schachblätter#03"]
+[Date "1937.05.01"]
+[Round "?"]
+[Composer "Heuacker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5B1b/7P/7P/K7/8/p7/8/r6k w - - 0 1"]
+
+1. Bg7 $1 a2 2. Bxh8 Re1 3. Ba1 $1 (3. Kb4 $2 Re7 4. Bg7 a1=Q 5. Bxa1 Rxh7 6. Bg7) Rxa1 4. h8=Q Rb1 $1 5. Qa1 $1 Rxa1 6. h7 Re1 7. h8=Q+ Kg1 8. Qg8+ Kf2 9. Qxa2+ 1-0
+
+[Event "Deutsche Schachblätter#01"]
+[Date "1938.01.01"]
+[Round "?"]
+[Composer "Heuacker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1r3p2/3P4/k7/8/N6B/2K5 w - - 0 1"]
+
+1. Bc7 $1 (1. Nc3+ $2 Kb4 2. Kc2 (2. Ne4 f5 3. d6 $1 Rb8 $1 4. d7 Rd8 5. Nf6 Kb5 6. Bc7 Rxd7 $1 7. Nxd7 Kc6) Kc4 3. Bc7 Rb3 $1 4. Nd1 Rh3 5. d6 Rh7 6. Ne3+ Kc5 7. Nf5 Kc6 8. Ne7+ Kd7) (1. Kc2 $2 Ka3 $1) Rb7 (Rb3 2. d6 $1 Rd3 3. Kc2 Rd4 4. Kc3 Rd1 5. Kc4 Ka3 6. Nc3 Rd2 7. Nd5) 2. d6 (2. Nc3+ $2 Kb4 3. d6 Kxc3 4. d7 Ra7 5. Kd1 Ra8) Kb5 3. d7 $1 Rxc7+ 4. Nc3+ $1 Rxc3+ 5. Kd2 1-0
+
+[Event "Deutsche Schachblätter#14 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - IV-41 2012."]
+[Date "1939.03.15"]
+[Round "?"]
+[Composer "Heuacker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/P7/2p5/Nrp5/8/6Kp/NkB5 w - - 0 1"]
+
+1. Nc3+ $1 Kxa1 $1 (Kxc1 2. Na2+ Kd2 3. Nxb4) 2. a7 Rb8 $1 3. Bb2+ (3. Bf4 $2 Ra8 4. Bb8 Kb2 5. Na4+ Kc1) (3. axb8=Q $2 h1=Q+ 4. Kxh1) Rxb2+ 4. Kh1 Rb8 $1 5. axb8=B $1 (5. axb8=Q $2) 1-0
+
+[Event "Deutsche Schachblätter"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Heuacker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/5p2/q4P2/p7/B7/k1K5/1N2R3 w - - 0 1"]
+
+1. Bc5 $1 (1. Rf1 $2 Qe5 $1 (Qa6 $2 2. Bb2 Qe2+ 3. Nd2 Qxd2+ 4. Kxd2 Kxb2 5. Rf4 a3 6. Rb4+ Ka1 7. Kc2 a2 8. Kb3 Kb1 9. Rh4) 2. Nc3+ (2. Rf2 Qc7+ 3. Bc5 Qxc5+ 4. Nc3+ Ka3 5. Rf4 Qc4 6. Rxc4) Kxa3 3. Ra1+ Kb4 4. Rxa4+ Kc5 5. Ra5+ Kd6 6. Rxe5 Kxe5) (1. Nc3+ $2 Kxa3 2. Ra1+ Kb4 3. Rxa4+ Qxa4+ 4. Nxa4 Kxa4) Qxe1 $1 (a3 2. Re2 (2. Nc3+ $2 Qxc3+ 3. Kxc3) Qa4+ 3. Kc1+ Ka1 4. Ra2+ Kxa2 5. Nc3+) (Qxc5+ 2. Nc3+ Ka3 3. Ra1+ Kb4 4. Rxa4#) 2. Nc3+ Ka1 3. Bd4 $1 Qh4 $1 4. Ne2+ Ka2 5. Nc1+ Ka3 6. Bc5+ Qb4 7. Nd3 $1 (7. Bxb4+ $2 Kxb4 8. Nd3+ (8. Kd3 Kc5 9. Ke4 a3) Kc4 9. Nf4 Kd4 10. Nh5 Ke4 11. Ng7 Kf4 12. Kb2 Kg5 13. Ka3 Kh6 14. Ne8 Kg5 15. Nd6 Kf4 16. Kxa4 Ke5) Qxc5+ 8. Nxc5 Kb4 9. Ne4 Kc4 10. Nxf6 Kd4 11. Ne8 f6 12. Kb2 Ke5 13. Ng7 1-0
+
+[Event "Zeit im Bild (@2)"]
+[Source "î@: Entsiklopediya Etyudov-Malyutok#1848 2000."]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Heuacker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7K/8/2p5/1P3k2/4N3/8/8 w - - 0 1"]
+
+1. b5 $1 (1. bxc5 $2 Ke5 2. Kg7 Ke6 3. Kf8 Kd7 4. Kf7 Kc6) Kxe3 2. b6 c4 3. b7 c3 4. b8=Q c2 5. Qh2 $1 Kd3 6. Qh6 (6. Qf4 $1 {<minor dual>}) 1-0
+
+[Event "Deutsche Schachzeitung"]
+[Source "Deutsche Schachzeitung/6"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Heuacker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4K3/8/n1p1b3/5p2/8/1P5k/6N1/8 w - - 0 1"]
+
+1. Nf4+ $1 Kg4 (Kh4 2. Nxe6 Nc7+ 3. Nxc7 f4 4. Ne6 f3 5. Nd4 f2 6. Nf3+) 2. Nxe6 Nc7+ (f4 3. Nxf4 Kxf4 4. Kd7 Nb4 5. Kd6) 3. Nxc7 f4 4. Na8 $1 (4. Ne6 $2 f3 5. Nd4 f2 6. Nc2 Kf4 $1) f3 5. Nb6 f2 6. Nc4 $1 Kf4 (f1=Q 7. Ne3+) 7. Nd2 1/2-1/2
+
+[Event "Illustrierte Berliner Zeitung (c)"]
+[Source "(c): Heuacker=P Deutsche Schachzeitung#159 Deutsche Schachzeitung=15 12/1955."]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Heuacker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4K1r1/8/8/8/3p1p2/RR6/4k3 w - - 0 1"]
+
+1. Kd6 $1 (1. Kd8 $2 d2 2. Rxd2 Ra7 3. Rac2 Rf7 4. Rf2 Rf4 $1) (1. Ke6 $2 d2 2. Rxd2 Ra7 3. Rac2 Rc7) d2 2. Rxd2 Ra7 3. Rac2 Rf7 4. Rf2 Rf8 5. Ke5 Rc8 6. Rxc8 Kxf2 {<eg>} 7. Kf4 1-0
+
+[Event "Deutsche Schachzeitung#152"]
+[Source "Deutsche Schachzeitung/10"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Heuacker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p3p1p/1P1p1P1P/q2P1R2/8/4NK2/8/4k3 w - - 0 1"]
+
+1. Rh5 $1 (1. Rg5 $2 Qa4 2. Rg4 Qd7 $1 3. Rg2 Qh3+ $1) Qa2 (Qa4 2. Rh4 $1 (2. Rh2 $2 Qf4+ $1 3. Kxf4) Qe8 3. Rd4) (Qa8 2. Rh2 Qa6 3. Rc2) (Qb5 2. Rh2 Qa6 3. Rc2) (Qc5 2. Rh2 Qb5 3. Ra2) 2. Rh1+ Kd2 3. Rh2+ Ke1 4. Rc2 $1 (4. Rxa2 $2) Qa6 5. Rb2 $1 (5. Rf2 $2 Qd3 6. Rh2 (6. Rf1+ Qxf1+ 7. Nxf1 Kxf1) Qe4+ $1 7. Kxe4) Qd3 $1 6. Rf2 $1 Qa6 7. Rc2 $1 Qb5 (Qd3 8. Rc1+) 8. Ra2 $1 Qd3 9. Ra1+ Kd2 { <eg>} 10. Rd1+ Kc3 11. Rxd3+ 1-0
+
+[Event "Deutsche Schachzeitung#206"]
+[Source "Deutsche Schachzeitung/11"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Heuacker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/8/8/R7/3K4/3p4/3np3/8 w - - 0 1"]
+
+1. Ra8+ $1 (1. Ra1 $2 Nb1 2. Rxb1 d2) (1. Re5 $2 Ne4 2. Rxe4 d2) (1. Rh5+ $2 Kg7 2. Rh1 Nf1) Kg7 2. Ra7+ $1 Kf6 3. Ra6+ $1 Ke7 (Kf5 {<main>} 4. Ra5+ Kf4 5. Re5 $1 Nf3+ (Ne4 6. Rxe4+) 6. Kxd3 Nxe5+ 7. Kxe2) 4. Ra7+ Kd6 5. Ra6+ Kc7 6. Ra7+ Kb6 7. Ra1 $1 Nb3+ (Nb1 8. Rxb1+) 8. Kxd3 Nxa1 9. Kxe2 1/2-1/2
+
+[Event "Der Tagesspiegel"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Heuacker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k1r/7p/2p3PP/2p5/1pr5/8/1R6/3K4 w - - 0 1"]
+
+1. g7+ $1 Kg8 2. Rd2 $1 Rd4 3. Rxd4 cxd4 4. Kc1 $1 c5 5. Kc2 c4 6. Kc1 b3 (c3 7. Kc2) (d3 7. Kd2) 7. Kb2 1-0
+
+[Event "Deutsche Schachzeitung#366"]
+[Source "Deutsche Schachzeitung/12 after Lauer=G c7e8 1959."]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Heuacker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K5n/5k2/1b1P4/8/8/7p/7p/R7 w - - 0 1"]
+
+1. Rh1 $1 (1. d7 $2 Ke7 2. Rh1 Kxd7) Bg1 2. d7 $1 Ke7 3. Kc8 Nf7 4. d8=Q+ $1 (4. Rxh2 $2 Nd6+ 5. Kc7 Nb5+ 6. Kc8 Na7+) Nxd8 5. Rxh2 Bxh2 1/2-1/2
+
+[Event "Deutsche Schachzeitung#348"]
+[Source "Deutsche Schachzeitung/8"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Heuacker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6R1/1p6/1p5n/8/8/6p1/kN4K1 w - - 0 1"]
+
+1. Rh7 $1 (1. Rg5 $2 Nf4 2. Rxb5 Ne2+ 3. Kxg2 Nc3 4. Nxc3) Nf6 2. Rf7 $1 (2. Rh6 $2 Ng8 $1 3. Rh8 Kxb1 4. Rxg8 b4 5. Rb8 b3 6. Rxb6 b2) Kxb1 (Ne4 3. Na3) 3. Rxf6 b4 4. Rxb6 1-0
+
+[Event "Schachdelikatessen#112"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Heuacker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k2N4/2K5/8/8/6B1/5p1p/8 w - - 0 1"]
+
+1. Bb8+ $1 Ka6 (Ka8 2. Kc7 f1=Q 3. Nb6#) 2. Nc5+ Ka5 3. Bc7+ Kb4 4. Nd3+ Kc3 5. Nxf2 1-0
+
+[Event "Deutsche Schachzeitung"]
+[Source "Deutsche Schachzeitung/7"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Heuacker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K1N1r2/2P5/2P5/n7/1k6/7p/7P/8 w - - 0 1"]
+
+1. Ka7 $1 (1. c8=Q $2 Rxd8 2. Qxd8 Nxc6+) Rxd8 (Nxc6+ 2. Nxc6+ Kc5 3. Nd8) (Kc5 2. c8=Q Rxd8 3. Qf5+ Kb4 4. c7) 2. cxd8=N $1 Nxc6+ (Nc4 3. c7 Nd6 4. Kb8 $1 Kc4 5. Nb7) 3. Nxc6+ Kc5 4. Ne7 $1 Kd4 (Kd6 5. Ng6) 5. Kb6 Kd3 $1 (Ke3 6. Kc5 Kf2 7. Kd4 Kg2 8. Ke3 Kxh2 (Kh1 9. Kf3 $1) 9. Kf2 Kh1 10. Nf5 Kh2 11. Ne3 Kh1 12. Nf1 h2 13. Ng3#) 6. Kc5 Ke3 7. Kc4 Ke4 8. Kc3 Ke3 9. Kc2 Ke2 10. Nf5 Kf2 11. Kd2 Kg2 12. Ke2 $1 (12. Ke3 $2 Kxh2) Kxh2 13. Kf1 $1 Kh1 14. Kf2 Kh2 15. Ne3 Kh1 16. Nf1 h2 17. Ng3# 1-0
+
+[Event "Deutsche Schachzeitung"]
+[Source "Deutsche Schachzeitung/12"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Heuacker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2B5/pb1p4/k3p3/P4p2/1K4p1/7p/1P6/8 w - - 0 1"]
+
+1. Bxd7 $1 Bh1 2. Bc8+ Bb7 3. Bxe6 Bh1 4. Bc8+ Bb7 5. Bxf5 Bh1 6. Bc8+ Bb7 7. Bxg4 Bh1 8. Bc8+ Bb7 9. Bxh3 Bg2 10. Bc8+ (10. Bxg2 $2) Bb7 11. Bxb7+ Kxb7 12. Kb5 Ka8 (Kb8 13. Ka6 Ka8 14. b4 Kb8 15. b5 Ka8 16. b6 axb6 17. axb6 Kb8 18. b7) 13. Ka6 $1 Kb8 14. b3 $1 Ka8 15. b4 Kb8 16. b5 Ka8 17. b6 axb6 18. axb6 1-0
+
+[Event "Stuttgarter Zeitung"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Heuacker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2K5/p3R3/1k6/8/7p/4R2P/3q4 w - - 0 1"]
+
+1. R2e4 $1 a5 2. R6e5+ Ka6 3. Rc4 Qa1 (Qd2 4. Rc6+ Ka7 5. Re7 Qd3 6. Rd7) 4. Rc6+ (4. Rcc5 $2 Qa3 $1 5. Rc6+ Ka7 6. Ree6 Qd3 7. Re7 Qf5 $1) Ka7 5. Rcc5 Ka6 6. Kc8 $1 Kb6 7. Rb5+ Ka6 (Kc6 8. Rxa5) 8. Rbd5 Qc1+ 9. Rc5 Qh6 10. Rxa5+ Kb6 11. Reb5+ Kc6 12. Ra6+ Kxb5 13. Rxh6 1-0
+
+[Event "1.p Schach Echo#474"]
+[Source "EG#00070."]
+[Date "1964.12.23"]
+[Round "?"]
+[Composer "Heuacker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7Q/3q4/3p3N/2p2n2/8/7k/8/6K1 w - - 0 1"]
+
+1. Ng8+ $1 (1. Nxf5+ $2 Kg4 2. Qh4+ Kf3 3. Qh3+ Kf4 $1 (Ke4 $2 4. Ng3+) (Ke2 $2 4. Ng3+) 4. Qe3+ (4. Qg3+ Ke4 5. Qe3+ Kd5 6. Ne7+ Kc4) Kg4 5. Qg3+ Kh5 6. Qh4+ Kg6 7. Qh6+ Kf7 8. Qg7+ Ke6 $1 (Ke8 $2 9. Qg8#)) Nh4 $1 (Kg4 2. Nf6+) (Kg3 2. Qh2+ Kf3 3. Qf2+ Ke4 4. Nf6+) 2. Qc3+ Nf3+ $1 (Kg4 3. Nf6+) 3. Qxf3+ Kh4 4. Qf2+ $1 (4. Nf6 $2 Qg7+ 5. Kh2 Kg5) Kg5 $1 (Kh5 5. Nf6+) (Kh3 5. Qh2+ Kg4 6. Nf6+) 5. Qe3+ $1 (5. Qd2+ $2 Kf5) (5. Qf6+ $2 Kg4) Kg6 (Kh4 6. Qh6+ Kg3 7. Qh2+ Kf3 8. Qf2+) (Kf5 6. Qh3+) (Kg4 6. Nf6+) (Kh5 6. Nf6+) 6. Qh6+ Kf7 (Kf5 7. Qh3+) 7. Qh7+ Ke6 (Ke8 8. Nf6+) 8. Qh3+ Ke5 9. Qxd7 1-0
+
+[Event "Schach Echo#525"]
+[Source "Schach Echo/11 EG#00765."]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Heuacker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/K1k5/5p1P/3P3Q/b3B3/8/7P/rr6 w - - 0 1"]
+
+1. d6+ $1 Kc8 (Kxd6 2. Qd5+ Ke7 3. Qc5+) 2. Bxb1 $1 (2. Qc5+ $2 Bc6+) Be8+ 3. Ba2 $1 (3. Kb6 $2 Rxb1+ 4. Ka5 Bxh5 5. h7 Ra1+ 6. Kb4 Rb1+ 7. Ka3 Ra1+ 8. Kb2 Rb1+ 9. Kc3 Rc1+ 10. Kd2 Rd1+ 11. Kc3 Rc1+) Rxa2+ 4. Kb6 Bxh5 (Rb2+ 5. Ka5 Ra2+ 6. Kb4 Rb2+ 7. Ka3 Bxh5 8. h7 Rb5 9. h8=Q+ Kd7 10. Qxf6) 5. h7 Rb2+ 6. Ka5 Ra2+ 7. Kb4 Rb2+ 8. Ka3 Rxh2 9. h8=Q+ 1-0
+
+[Event "Deutsche Schachzeitung"]
+[Source "Deutsche Schachzeitung/12"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Heuacker, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1qpp2K1/8/8/8/5pQ1/8/4B2k w - - 0 1"]
+
+1. Qh4+ $1 (1. Bf2 $2 Qb2+) Kg2 2. Qf2+ Kh1 3. Qf1+ Kh2 4. Bf2 $1 Qb2+ 5. Kg6 $1 Qc2+ 6. Kg5 Qd2+ 7. Kg4 $1 Qb4+ 8. Kh5 $1 Qa5+ 9. Kg6 Qe5 {<eg>} 10. Qg1+ Kh3 11. Qh1+ Qh2 (Kg4 12. Qh4#) 12. Qxf3+ Qg3+ 13. Qxg3# 1-0

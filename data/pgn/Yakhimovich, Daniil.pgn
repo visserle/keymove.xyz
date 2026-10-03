@@ -1,0 +1,26 @@
+[Event "3.p Vecherni Novosibirsk"]
+[Source "EG#08854."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Yakhimovich, Daniil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k7/P1P5/1p2B3/1K6/8/P7/4r3 w - - 0 1"]
+
+1. c7 $1 Re4+ (Rb1+ {<main>} 2. Bb2 Rxb2+ 3. Kc3 Rb1 4. Kd2 (4. Kc2 $2 Rb4) Rb2+ 5. Kd3) 2. Bd4+ Rxd4+ 3. Kxb5 Rd8 (Rd5+ 4. Kb4 Rd4+ 5. Kb3 Rd3+ 6. Kc2) 4. cxd8=N $1 (4. cxd8=Q $2) (4. cxd8=R $2) (4. cxd8=B $2) 1-0
+
+[Event "4.hm Odessa ty"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Yakhimovich, Daniil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5N2/4P1RB/3p1n2/K1k5/p7/1b6 w - - 0 1"]
+
+1. Rg3+ $1 d3 2. Nd5+ Nxd5 3. Rxd3+ Kc2 4. Rd2+ Kxd2 5. Kb2 Nb4 6. Bf7 a1=Q+ 7. Kxa1 Kc1 8. Bb3 Ba2 9. Be6 Bxe6 1/2-1/2

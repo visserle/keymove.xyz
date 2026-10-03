@@ -1,0 +1,67 @@
+[Event "2.p Sportivnaya Gazeta"]
+[Source "EG#03132."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Samilo, Volodymyr Grigorovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/7B/8/p7/8/8/3P4/3k4 w - - 0 1"]
+
+1. d4 $1 a4 2. Kg7 (2. Bb1 $2 a3 3. d5 Kc1 4. Ba2 Kb2 5. Bc4 Kc3 6. Ba2 Kb2) a3 3. Bg8 Kc2 4. Kf6 Kc3 5. Ke5 1-0
+
+[Event "1.p 64 (tt)"]
+[Date "1976.03.12"]
+[Round "?"]
+[Composer "Samilo, Volodymyr Grigorovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4r3/4P3/3k4/8/8/1P6/8/R3K3 w Q - 0 1"]
+
+1. O-O-O+ $1 (1. Ra7 $2 Rxe7+ 2. Rxe7 Kxe7 3. Kd2 Kd6 4. Kc3 Kc5) Kxe7 2. Re1+ Kd7 3. Rxe8 Kxe8 4. Kb2 $1 Kd7 5. Ka3 $1 Kc6 6. Ka4 $1 Kb6 7. Kb4 1-0
+
+[Event "4.p Ukrain Team champ (tt)"]
+[Source "EG#03772."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Samilo, Volodymyr Grigorovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5K2/1P6/2p5/1k5P/2b5/8 w - - 0 1"]
+
+1. Ke5 $1 Bd1 2. Ke4 Kb4 (Bh5 3. b6 Be8 4. Kd5 Bh5 5. Ke4) 3. b6 Ba4 4. Kd5 Bd1 5. Ke4 1/2-1/2
+
+[Event "Azerbaijan open"]
+[Source "EG#05157."]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Samilo, Volodymyr Grigorovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6k1/8/8/6pp/3Pp3/4P2P/4K3 w - - 0 1"]
+
+1. h3 $1 (1. Kf1 $2 h3) gxh3 (g3 {<main>} 2. Kf1 Kf6 3. Kg2 Ke5 4. Kf3 Kd4 5. Kg2 Kc3 6. Kf3 Kd2 7. d4 Ke1 8. Kg2 Kxe2 9. d5 Kd1 10. d6 e2 11. d7 e1=Q 12. d8=Q+ Qd2+ 13. Qxd2+ Kxd2 14. Kh1) 2. Kf1 Kf6 3. Kg1 Ke5 4. Kh2 Kd4 5. Kxh3 Kc3 6. d4 (6. Kg4 $2 h3 7. Kxh3 Kd2 8. d4 Kxe2 9. d5 Kf3 10. d6 e2 11. d7 e1=Q 12. d8=Q Qg3#) Kxd4 7. Kxh4 1/2-1/2
+
+[Event ".hm Odessa ty"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Samilo, Volodymyr Grigorovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5nKn/k7/2P3P1/8/8/8/8/1b6 w - - 0 1"]
+
+1. g7 $1 (1. c7 $2 Nhxg6 2. c8=N+ (2. c8=Q Ne7+) Kb7) Ba2+ 2. Kxf8 $1 (2. Kxh8 $2 Ng6+ 3. Kh7 Ne7) Ng6+ 3. Ke8 Kb6 $1 (Kb8 4. Kd8) 4. c7 $1 (4. g8=Q $2 Bxg8 5. c7 Be6) Kxc7 5. g8=Q Bxg8 1/2-1/2

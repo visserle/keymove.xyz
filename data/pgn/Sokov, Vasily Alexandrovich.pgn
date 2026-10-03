@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Sokov, Vasily Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "6k1/6P1/p7/3R4/2K5/2p2b2/8/r1B5 w - - 0 1"]
+
+1. Rf5 (1. Rd8+ $2 Kxg7 2. Rd7+ Kg8 $17) (1. Rd3 $2 Be2 2. Kxc3 Bxd3 $19 3. Kxd3 Rxc1) (1. Rd7 $2 Rxc1 2. Rd8+ Kxg7 3. Rd7+ Kg6) (1. Bb2 $2 cxb2 2. Rd8+ Kxg7 3. Rd7+ Kf6) (1. Ba3 $2 Bxd5+ 2. Kxc3 Rxa3+ 3. Kb4 Rd3 4. Ka5 Rb3 5. Kxa6 Bc6) (1. Ra5 $2 Rxa5 2. Kxc3 Kxg7) (1. Rb5 $2 axb5+ 2. Kxc3 Rxc1+ 3. Kb2 Rc4) Bg4 2. Rf8+ (2. Rf4 $2 Be6+ 3. Kxc3 Rxc1+ 4. Kb2 Rc6 $19 5. Rf8+ Kxg7) (2. Rg5 $2 Be6+ 3. Kxc3 $2 (3. Kd4 $5 Rxc1) Rxc1+ 4. Kb4 Bd7 $19) (2. Rf1 $2 Be2+ 3. Kxc3 Bxf1 $19) (2. Re5 $2 Rxc1 3. Re8+ Kxg7 4. Rg8+ Kxg8) (2. Bh6 $2 Bxf5 3. Kxc3 Rh1 4. Be3 a5) (2. Rf2 Rxc1 3. Rf8+ Kxg7 4. Rg8+ Kxg8) (2. Ra5 Rxa5 3. Kxc3 Rc5+) Kxg7 3. Rf1 (3. Bh6+ $2 Kxh6 4. Kxc3 Kg6 $19) (3. Rf3 $2 Bxf3 $19 4. Bh6+ Kxh6 5. Kxc3 Rd1) (3. Re8 $2 Rxc1 4. Rg8+ Kxg8) (3. Rg8+ $2 Kxg8 4. Kxc3 Rxc1+ 5. Kb3 a5) (3. Rf7+ $2 Kxf7 4. Kxc3 Rxc1+ 5. Kb3 Bf5) (3. Rf6 $2 Kxf6 4. Kxc3 Rxc1+ 5. Kd4 a5) (3. Kb3 $2 Kxf8 4. Bh6+ Kf7) (3. Be3 $2 Be6+ 4. Kxc3 Kxf8 5. Bc5+ Kf7) Be2+ 4. Kxc3 (4. Kb4 Bxf1) Bxf1 5. Bb2 (5. Kc2 $2 Ra4 6. Bb2+ Kg6) (5. Kb2 $2 Ra4 $19 6. Bh6+ Kxh6) (5. Kd2 $2 Rb1 6. Bb2+ Rxb2+ 7. Kc3 Rb5) (5. Bh6+ Kxh6) Ra2 6. Kb3+ (6. Kb4+ Rxb2+ 7. Kc3 Rb5) (6. Kc2+ Kf7) Rxb2+ 7. Kxb2 $10 1/2-1/2

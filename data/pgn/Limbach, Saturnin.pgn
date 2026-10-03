@@ -1,0 +1,27 @@
+[Event "Revista de Romana de Sah#0186"]
+[Source "Revista de Romana de Sah/12"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Limbach, Saturnin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6P1/7p/7p/7P/7K/7p/7k w - - 0 1"]
+
+1. Kg3 $1 Kg1 2. g8=Q h1=Q (h1=N+ 3. Kf3+ Kf1 4. Qg2+ Ke1 5. Qe2#) 3. Qa2 1-0
+
+[Event "Revista de Romana de Sah#0222 (tw)"]
+[Source "Revista de Romana de Sah/7"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Limbach, Saturnin"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k4n2/3p4/K7/p3Br2/5N2/8/8/8 w - - 0 1"]
+
+1. Nd5 $1 Rxe5 2. Nb6+ Kb8 3. Nxd7+ Nxd7 1/2-1/2

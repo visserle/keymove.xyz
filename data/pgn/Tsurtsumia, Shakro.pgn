@@ -1,0 +1,12 @@
+[Event "Kommunar"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Tsurtsumia, Shakro"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5P1p/8/5k2/1n4p1/8/4n2K w - - 0 1"]
+
+1. f7 $1 g2+ 2. Kh2 Nf3+ 3. Kxg2 Nh4+ 4. Kh3 Ng6 5. f8=Q+ Nxf8 6. Kh4 Nd4 7. Kh5 Nf5 1/2-1/2

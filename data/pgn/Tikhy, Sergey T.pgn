@@ -1,0 +1,27 @@
+[Event "5.hm Armenian Central Chess Club ty"]
+[Source "EG#00639."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Tikhy, Sergey T"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4b2r/p2p1P1k/B2p2NP/P2p2PK/3P3P/4q3/8/8 w - - 0 1"]
+
+1. Nf8+ $1 Rxf8 2. g6+ Kh8 3. g7+ Kh7 4. Bd3+ Qxd3 5. gxf8=N+ Kh8 6. Ng6+ Kh7 7. f8=N+ (7. fxe8=Q $2 Qf5#) Kg8 8. h7+ Kf7 9. h8=Q 1-0
+
+[Event "2.hm Troitzky MT Molodoj Leninets"]
+[Source "EG#02899."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Tikhy, Sergey T"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7r/2p2P1k/6NP/6PK/2q5/8/2n5/8 w - - 0 1"]
+
+1. Nf8+ $1 Rxf8 2. g6+ Kh8 3. g7+ Kh7 4. gxf8=N+ Kh8 5. Ng6+ Kh7 6. f8=N+ Kg8 7. h7+ Kf7 8. Ne5+ Kxf8 (Kg7 9. Nxc4) 9. h8=Q+ Qg8 10. Qf6+ Ke8 11. Qc6+ Kf8 12. Qc5+ Ke8 13. Qb5+ Kf8 14. Qb8+ Kg7 15. Qxc7+ Kf6 16. Ng4+ Ke6 17. Qc4+ 1-0

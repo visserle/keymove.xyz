@@ -1,0 +1,342 @@
+/* Keymove: layout.
+
+   One module of the stylesheet; order is owned by
+   app.css, which imports every module. */
+
+/* ------------------------------------------------------------- page frame */
+.page {
+	flex: 0 0 auto;
+	width: 100%;
+	max-width: var(--page);
+	margin: 0 auto;
+	padding: var(--gutter) var(--page-pad) 48px;
+}
+
+.page--home {
+	padding-bottom: 16px;
+}
+
+/* ---------------------------------------------------------- home about link
+
+   Place the project link directly after the homepage's key-move definition,
+   with enough contrast and a comfortable touch target to feel intentional. */
+.home-about {
+	display: flex;
+	width: fit-content;
+	min-height: 44px;
+	align-items: center;
+	margin-top: 12px;
+	font-size: 14px;
+	font-weight: 400;
+	color: var(--c-font-clear);
+	touch-action: manipulation;
+}
+
+.home-about:hover {
+	color: var(--c-font-clear);
+	text-decoration: underline;
+	text-decoration-thickness: 1px;
+	text-underline-offset: 3px;
+}
+
+.rule {
+	border: 0;
+	border-top: 1px solid var(--c-border);
+	margin: 20px 0;
+}
+
+/* ------------------------------------------------------- the hero headings */
+.hero__task {
+	margin: 0;
+	font-size: var(--font-size-compact-display);
+	font-weight: 600;
+	line-height: 1.2;
+	letter-spacing: -0.01em;
+	color: var(--c-font-clear);
+}
+
+.hero__credit {
+	margin: 6px 0 0;
+	font-size: var(--font-size-sm);
+	color: var(--c-font-dim);
+}
+
+.hero__credit b {
+	font-weight: 600;
+	color: var(--c-font);
+}
+
+/* ------------------------------------------------------------------- work
+
+   The board grid, shared by the solver (`.work`) and the home page (`.hero`):
+   the board on the left and the text/tools beside it. Both keep the board at
+   the same x, so following "Solve this composition" never moves it.
+
+   Lichess's col2+ grid: the board on the left, the tools on the right. */
+.work,
+.hero {
+	display: grid;
+	grid-template-columns: max-content var(--tools-w);
+	gap: var(--work-gap);
+	font-size: var(--font-size-compact-base);
+	align-items: start;
+	justify-content: center;
+	/* board top = header + gutter + this, on every page */
+	margin-top: 8px;
+	/* lila's `---main-margin`; raised to `1vw` from `$small` up below */
+	--solve-pad: 0px;
+}
+
+/* The home page's own grid: on two columns (and on a landscape phone) the
+   board sits beside a tools-width text column, centred, so on a big screen it
+   runs a little smaller than the solver's and sits a little right of the
+   logo. The board is the part that gives way, so a narrowing row shrinks the
+   board instead of restacking the prose. On a portrait phone the grid
+   restacks (the col1 block below): the board runs full-bleed and the text
+   stacks under it on the page measure.
+
+   The left margin pulls the board to the same x the solver uses; the right
+   margin stays put, so the text keeps the page's right padding. */
+.hero {
+	grid-template-columns: max-content minmax(0, 1fr);
+	/* The column gap is lila's `---block-gap` plus the outside-coordinate band.
+     The solver lets the ranks overflow into its gap (board.css); here they
+     would sit flush against the prose, so the home page reserves the band.
+     `--coord-band` is raised from 0 only while the coordinates are drawn
+     outside the board (board.css), i.e. on two columns or more; on one column
+     they move inside the board and the band collapses to zero. */
+	column-gap: calc(var(--work-gap) + var(--coord-band));
+	align-items: stretch;
+	/* the board sits directly under the header, as the solver's does */
+	margin-top: calc(-1 * var(--gutter));
+	margin-inline: calc(var(--solve-pad) - var(--page-pad)) 0;
+}
+
+.boardcol,
+.movecol {
+	display: flex;
+	flex-direction: column;
+	gap: 12px;
+	min-width: 0;
+}
+
+/* ------------------------------------------------------------- responsive
+
+   Lichess lays the site out on a column count that depends on the viewport
+   *and* the orientation (`ui/lib/css/abstract/_media-queries.scss`):
+   `mq-is-col1` is `max-width: $small and portrait`, `mq-at-least-col2` is
+   `min-width: $small or landscape`, with `$small: 800px`. */
+
+/* col2+ : board (with the key) beside the tools (with the controls). */
+@media (min-width: 799.3px), (orientation: landscape) {
+	:root {
+		/* lila lifts `---block-gap` to 15px from `$small` up */
+		--work-gap: 15px;
+	}
+
+	/* lila's `---main-margin` (`ui/lib/css/layout/_base.scss`): `1vw` from
+     `$small` up, `0` below it (the narrow block). Both grids share it so the
+     board lands on the same x on either page. */
+	.work,
+	.hero {
+		--solve-pad: 1vw;
+	}
+
+	/* The solver's square from two columns up: the width left beside the move
+     box and the room under the header (`$col2-uniboard-max-width` /
+     `$col2-uniboard-max-height`). */
+	.work {
+		--sq: min(
+			calc(
+				(
+					min(100vw, var(--page)) -
+					2 *
+					var(--solve-pad) -
+					var(--work-gap) -
+					var(--tools-w)
+				) /
+				8
+			),
+			calc((100vh - var(--header-h) - 16px) / 8)
+		);
+	}
+
+	/* The home page centres its block exactly as the solver does when its row is
+     wider than board + move box: the board and a tools-width text column,
+     centred on the page, so on a big screen the board sits a little right of
+     the logo. The square runs a touch smaller than the solver's so the block
+     leaves the slack that centring needs. */
+	.hero {
+		grid-template-columns: max-content var(--tools-w);
+		justify-content: center;
+		margin-inline: 0;
+		--sq: calc(
+			min(
+				calc(
+					(
+						min(100vw, var(--page)) -
+						2 *
+						var(--solve-pad) -
+						var(--work-gap) -
+						var(--tools-w)
+					) /
+					8
+				),
+				calc((100vh - var(--header-h) - 16px) / 8)
+			) *
+			0.85
+		);
+	}
+
+	/* The solver is lila's col2: the board is the smaller of the space left
+     beside the move box and the space left under the header
+     (`$col2-uniboard-max-width` / `$col2-uniboard-max-height`), and the move
+     box takes what is left, up to `$col3-uniboard-table-max`
+     (`ui/lib/css/abstract/_uniboard.scss`). The rank numbers beside the board
+     are not reserved here. They overflow into the `--work-gap` between the
+     columns, exactly as lila's coords do (`ui/lib/css/theme/board/_coords.scss`)
+     so that distance is lila's `---block-gap` alone. The solver's own side
+     margin is lila's `---main-margin` (`ui/lib/css/layout/_base.scss`): `1vw`
+     from `$small` up, `0` below it (the narrow block). The page's fixed
+     `--page-pad` is pulled back so the board spends the rest. */
+	.work {
+		/* the board sits directly under the header, as lila's does: the page's
+       top padding and the shared 8px board gap are cancelled so the board top
+       is `---site-header-outer-height`, not that plus 24px */
+		margin-top: calc(-1 * var(--gutter));
+		margin-inline: calc(var(--solve-pad) - var(--page-pad));
+		/* The board's fitted size times the zoom: `--board-scale` is 1 only for a
+       board at `--board-zoom` 100, and the default zoom is below that
+       (tokens.css), so a first visit opens a shade under the home page's
+       board, which is 85% of this fit. */
+		--solve-board: calc(var(--sq) * 8 * var(--board-scale));
+		grid-template-columns: max-content minmax(
+				var(--tools-w),
+				var(--table-max, 400px)
+			);
+	}
+
+	.work .board-frame > .cg-wrap:not(.promo) {
+		width: var(--solve-board);
+		height: var(--solve-board);
+	}
+
+	.work .tools {
+		/* the board's real (chessground-rounded) height, not `--solve-board`;
+       see `board.css` on why the wrapper is not the board */
+		height: var(---cg-height, var(--solve-board));
+	}
+}
+
+/* below `$small`, lila keeps `---block-gap` at 10px and squeezes the move box
+   (`mq-is-col2-squeeze`: `minmax(200px, 240px)`) so the board can be wider */
+@media (max-width: 799.29px) and (orientation: landscape) {
+	:root {
+		--tools-w: 240px;
+		--work-gap: 10px;
+		--table-max: 240px;
+	}
+
+	.work,
+	.hero {
+		--solve-pad: 0px;
+	}
+
+	/* edge to edge, as on one column: lila's `---main-margin` is 0 below
+     `$small` (`ui/lib/css/layout/_base.scss`), so the board may spend the page
+     padding's width too */
+	.work {
+		margin-inline: calc(-1 * var(--page-pad));
+	}
+}
+
+/* col1 : a single column. Board, then the key, then the controls, then the
+   move box, following lichess's mobile order. */
+@media (max-width: 799.29px) and (orientation: portrait) {
+	:root {
+		--page-pad: 14px;
+		/* the catalogue / home boards are sized from `--sq`; the solver board
+       stretches to the column instead */
+		--sq: calc((100vw - 2 * var(--page-pad)) / 8);
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.page {
+		padding-top: var(--gutter);
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	/* one column: board, controls and tools, edge to edge. The key field lives
+     inside the tools strip, so the strip and the move box read as one panel:
+     the rows hug each other, as lila's col1 grid stacks board / controls /
+     tools with no gap. */
+	.work {
+		display: flex;
+		flex-direction: column;
+		align-items: stretch;
+		gap: 3px;
+		margin-top: calc(-1 * var(--gutter));
+		margin-inline: calc(-1 * var(--page-pad));
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.boardcol,
+	.movecol {
+		display: contents;
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.work .diagram {
+		order: 1;
+		width: 100%;
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.work .board-frame > .cg-wrap:not(.promo) {
+		--board-radius: 0;
+		width: 100%;
+		height: auto;
+		aspect-ratio: 1 / 1;
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.work .nav {
+		order: 3;
+		/* the buttons carry the strip now, not a floating card: flat on the page,
+       edge to edge, no padding or shadow (see `solver.css`) */
+		gap: 3px;
+		margin-inline: 0;
+		padding: 0;
+		background: none;
+		border-radius: 0;
+		box-shadow: none;
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.work .tools {
+		order: 4;
+		height: auto;
+		box-shadow: none;
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	/* One column: the full-bleed board first, then the text on the page measure
+     the same reflow the solver takes, so the board does not move between the
+     home and solving pages. The definition of a key move is already its own
+     row below the hero (see index.astro), so it is not part of this stack. */
+	.hero {
+		/* `minmax(0, 1fr)`, not `1fr`: the board's intrinsic width must not set
+       the track's minimum and push the column past the viewport */
+		grid-template-columns: minmax(0, 1fr);
+		gap: 24px;
+		margin-inline: calc(-1 * var(--page-pad));
+	}
+}

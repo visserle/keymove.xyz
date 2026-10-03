@@ -1,0 +1,13 @@
+[Event "Schweizerische Schachzeitung#156"]
+[Source "Schweizerische Schachzeitung/10"]
+[Date "1918.??.??"]
+[Round "?"]
+[Composer "Geiler, H"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3B3k/4K2p/7p/4N3/8/8/p7/4r3 w - - 0 1"]
+
+1. Kf8 $1 Rf1+ 2. Nf7+ Rxf7+ 3. Kxf7 a1=Q 4. Bf6+ Qxf6+ 5. Kxf6 1/2-1/2

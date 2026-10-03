@@ -1,0 +1,12 @@
+[Event "source unknown"]
+[Date "1911.??.??"]
+[Round "?"]
+[Composer "Blackburne, Joseph Henry"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k6p/p1p3p1/P5P1/3K4/2p5/7P/8 w - - 0 1"]
+
+1. Kxc3 $1 Kb8 2. Kb4 Kb7 3. Kc5 Kc7 4. h3 $1 Kd7 5. Kb6 c5 (Kd6 6. Kxa6 c5 7. Kb5 Kd5 8. a6) 6. Kxc5 Kc7 7. h4 Kb7 (Kd7 8. Kb6 Kd6 9. Kxa6 Kc6 10. Ka7 Kc7 11. a6) 8. Kd6 Kb8 9. Kc6 Ka7 10. Kc7 Ka8 11. Kb6 1-0

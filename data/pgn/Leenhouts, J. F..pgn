@@ -1,0 +1,55 @@
+[Event "Tijdschrift v.d. KNSB#275 (c)"]
+[Source "Tijdschrift v.d. KNSB/4 (c): Leenhouts=J Tijdschrift v.d. KNSB/7 1919."]
+[Date "1919.??.??"]
+[Round "?"]
+[Composer "Leenhouts, J. F."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/1bK4P/1P6/8/6k1/8/8 w - - 0 1"]
+
+1. Kd5 $1 Ba5 (Bd8 2. b6 $1 axb6 3. Ke6) 2. b6 axb6 3. Kd4 $1 Bd2 4. h7 Bc1 5. Kc3 1-0
+
+[Event "Kagan's Neueste Schachnachrichten#16"]
+[Source "Kagan's Neueste Schachnachrichten/7-9"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Leenhouts, J. F."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/Pp6/1P3k2/6bK/7p/7p/5B2 w - - 0 1"]
+
+1. Bd3+ $1 Kf4 2. Be4 Kxe4 3. a7 Be6 (Bf3 4. a8=Q+ Ke3 5. Qa3+ Kf2 6. Qb2+ Be2 7. Qd4+ Ke1 8. Qa1+ Kf2 9. Qh1) 4. a8=Q+ Bd5 5. Qa1 $1 1-0
+
+[Event "Orgaan Discendo Discumis"]
+[Source "Orgaan Discendo Discumis/3-4"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Leenhouts, J. F."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7b/PP6/2pP4/1P6/8/p1k3P1/p7/Kb6 w - - 0 1"]
+
+1. b8=Q $1 (1. a8=Q $2 Be5 $1 2. Qh8 Bxh8 3. b8=Q Bd4 4. Qa7 Bxa7 5. d7 Bb6) Bd4 (Be5 2. d7) 2. Qb6 Bg7 (Bxb6 3. a8=Q Bd4 4. Qa4 Be5 5. Qf4) 3. Qb7 (3. Qc7 {<or>}) Bd4 4. Qb6 1/2-1/2
+
+[Event "DD-80 AT Orgaan Discendo Discumis"]
+[Source "Orgaan Discendo Discumis/12"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Leenhouts, J. F."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5N2/8/PpP2kpp/1K6/8/8 w - - 0 1"]
+
+1. Nxg4 $1 Kxg4 2. c5 Kf5 3. a5 (3. c6 $2 Ke6) h3 4. c6 Ke6 5. a6 h2 6. a7 h1=Q 7. a8=Q 1/2-1/2

@@ -1,0 +1,39 @@
+[Event "Shakhmatny Listok#272"]
+[Date "1928.04.10"]
+[Round "?"]
+[Composer "Petrov, Dmitry Fedorovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5R2/8/8/b2b4/4P3/1P6/2k3p1/K7 w - - 0 1"]
+
+1. Rf2+ $1 Kxb3 2. Rb2+ Ka3 3. Rxg2 Bc3+ 4. Kb1 Bxe4+ 5. Rc2 Kb3 (Bb2) (Bd2 6. Ka1 Bxc2) 6. Kc1 Bxc2 1/2-1/2
+
+[Event "Shakhmaty v SSSR#600"]
+[Date "1932.08.30"]
+[Round "?"]
+[Composer "Petrov, Dmitry Fedorovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "R3r1r1/1P6/3Kn3/4BB2/2k5/8/1p6/8 w - - 0 1"]
+
+1. Rc8+ $1 Rxc8 2. Bxe6+ Kd3 (Kb4 {<main>} 3. Bxc8 Rxc8 4. bxc8=R $1 (4. bxc8=Q $2 b1=Q 5. Qb7+ Kc4 6. Qxb1) b1=Q 5. Rb8+ Kc4 6. Rxb1) 3. Bxc8 Rxc8 4. bxc8=B $1 (4. bxc8=Q $2 b1=Q 5. Qf5+ Kc4 6. Qxb1) b1=Q 5. Bf5+ Kc4 6. Bxb1 1-0
+
+[Event "Shakhmaty v SSSR#16"]
+[Source "Shakhmaty v SSSR/4"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Petrov, Dmitry Fedorovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/1P3pp1/6n1/4N1pq/8/5PP1/6P1/6K1 w - - 0 1"]
+
+1. g4 $1 Qh4 2. Nxg6+ fxg6 3. b8=Q+ Kh7 4. g3 Qh3 5. Qe5 $1 Kg8 6. Qe8+ Kh7 7. Qb8 Qh6 8. Kg2 1-0

@@ -1,0 +1,13 @@
+[Event "3.c Bron JT"]
+[Source "EG#06423."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Shupletsov, Vladimir"]
+[White "Shupletsov, V"]
+[Black " Maksimovskikh, A."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/k4Pr1/1pp4b/P1R5/rPP5/8/8/8 w - - 0 1"]
+
+1. f8=Q $1 Rc7+ 2. Kxc7 Bxf8 3. axb6+ Ka6 4. Ra5+ $1 (4. b5+ $2 cxb5 5. cxb5+ Ka5 6. b7 Bxc5 7. b8=Q Rc4 $1 8. Qe8 Bb6+ 9. Kb7 Rc7+ 10. Kb8 Rc5) Rxa5 5. b7 $1 (5. bxa5 $2 Kxa5 6. b7 Bh6 7. Kxc6 Bf4 8. c5 Ka6) Rb5 $1 (Bh6 6. b8=N+ Ka7 7. Nxc6+ Ka6 8. Nxa5) 6. cxb5+ cxb5 7. b8=R (7. b8=Q $2 Bd6+ 8. Kxd6) 1-0

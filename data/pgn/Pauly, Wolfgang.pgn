@@ -1,0 +1,55 @@
+[Event "The Chess Amateur (tt)"]
+[Source "The Chess Amateur/7 1924"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Pauly, Wolfgang"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4B3/4p3/4p3/4P3/3pKp2/3pPp2/4k3/8 w - - 0 1"]
+
+1. exd4 $1 (1. exf4 $2 Ke1 $1 2. Kxd3 (2. Kxf3 d2 3. Ba4 d1=Q+ 4. Bxd1 Kxd1 5. Ke4 Ke2 6. Kxd4 Kf3) f2) Ke1 $1 (d2 2. Bh5) (f2 2. Bb5) 2. Kxf3 d2 3. Ba4 $1 d1=Q+ 4. Bxd1 Kxd1 5. Kxf4 Kd2 6. Ke4 Ke2 7. d5 exd5+ 8. Kxd5 1/2-1/2
+
+[Event "The Chess Amateur (tt)"]
+[Source "The Chess Amateur/7 1924"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Pauly, Wolfgang"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/1p6/PrP5/1k6/8/8/8/8 w - - 0 1"]
+
+1. cxb7 $1 (1. axb7 $2 Kxc6 2. Kc8 Rxb7) Kxa6 2. Ka8 Rxb7 1/2-1/2
+
+[Event "The Chess Amateur (tt) (m)"]
+[Source "The Chess Amateur/7 1924 (m): Pauly=W The Chess Amateur 1924."]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Pauly, Wolfgang"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K2/5p2/4PkP1/5r2/8/8/8/8 w - - 0 1"]
+
+1. e7 $1 (1. g7 $2 Ra5 2. e7 Ra8+ 3. e8=Q Rxe8+ 4. Kxe8 Kxg7) Rh5 (Re5 2. g7) (Rg5 2. g7) 2. g7 1-0
+
+[Event "The Chess Amateur (tt)"]
+[Source "The Chess Amateur/7 1924"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Pauly, Wolfgang"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K2/5p2/4PkP1/5r2/8/5p2/5P2/8 w - - 0 1"]
+
+1. e7 $1 (1. g7 $2 Ra5 2. e7 Ra8+ 3. e8=Q Rxe8+ 4. Kxe8 Kxg7) Rh5 (Re5 2. g7) (Rg5 2. g7) 2. g7 1-0

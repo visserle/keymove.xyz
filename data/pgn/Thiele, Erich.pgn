@@ -1,0 +1,13 @@
+[Event "11.p International Friendship Team ty ("]
+[Source "EG#01403."]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Thiele, Erich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r3k3/3p4/P5P1/1K1P4/P7/8/8/8 w - - 0 1"]
+
+1. d6 $1 (1. Kb6 $2 d6 $1 2. a7 Rd8 3. a5 Kf8 4. Kb7 Rd7+) Kf8 2. Kb6 Rb8+ 3. Kc7 Rb4 4. a5 Rb5 (Rc4+ 5. Kb6 Rb4+ 6. Kc5) 5. a7 Rxa5 6. Kb7 Kg7 7. a8=Q Rxa8 8. Kxa8 Kxg6 9. Kb7 Kf6 10. Kc8 Ke6 11. Kc7 1-0

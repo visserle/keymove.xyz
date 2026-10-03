@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Veurman, Johannes"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "K1k5/P7/8/7P/8/4N1b1/8/8 w - - 0 1"]
+
+1. Nc4 (1. h6 $2 Bf4 2. h7 Be5 3. Nc4 Ba1 4. Nd6+ Kc7 5. Nf7 Kc8 $1 6. h8=Q+ Bxh8 7. Nxh8 Kc7 $1 8. Nf7 Kc8 9. Nd6+ Kc7 $10) (1. Nf5 $2 Bh2 2. h6 $10) (1. Nd5 $2 Bh2 2. h6 $10) (1. Ng4 $2 Bf4 2. h6 $10) (1. Nf1 $2 Bf4 2. h6) (1. Ng2 $2 Bh2 2. h6) (1. Nd1 $2 Bh2 2. h6) (1. Nc2 Bh2 2. h6) Kc7 (Bf4 2. Nb6+ (2. Nd6+ $2 Bxd6 3. h6 $10) (2. Ne5 $2 Bxe5 3. h6) (2. Ne3 $2 Be5 3. h6) (2. h6 $2 Bxh6 3. Nb6+) (2. Na5 Be5 3. h6) Kc7 3. Nd5+ $18 (3. Nd7 $4 Bd6 4. h6) (3. h6 $4 Be5 4. h7) (3. Nc4 Bc1 4. h6) (3. Nc8 Bg3 4. h6)) (Bh4 2. h6 Bf6 3. Nd6+ Kc7 4. Ne8+ $18) (Bf2 2. h6 Bd4 3. Nd6+ Kc7 4. Nb5+ $18) 2. h6 (2. Ne3 $2 Bh2 3. h6 $10) (2. Nd6 $2 Bxd6 3. h6) (2. Nb6 $2 Bh2 3. h6) (2. Na5 $2 Bh2 3. h6) (2. Nb2 Bh2 3. h6) (2. Ne5 Bf4 3. h6) (2. Nd2 Bh2 3. h6) (2. Na3 Bh2 3. h6) Bh4 3. Nd6 (3. Ne3 Kc8 4. Nf5 $18) (3. Na3 $18) (3. h7 $2 Bf6 4. h8=Q $10) (3. Ne5 $2 Bf6 4. h7 $10) (3. Nb6 $2 Kxb6 4. h7) (3. Na5 Bg5 4. h7) Bg3 4. h7 (4. Nf7 Bh4 5. h7 $18) (4. Ne8+ Kc8 $18 5. h7) (4. Nb5+ $18 Kc8 5. h7) (4. Nf5 $2 Bh2 5. h7 $10) (4. Nc4 Bh4 5. Nd6 Bg3 $18) (4. Ne4 Bh2 5. h7) Be5 5. Nf7 (5. Nb5+ $18 Kc6 6. Nd6 Kc7) (5. Ne8+ $18 Kc6 6. Nd6 Kc7) (5. Nb7 $2 Bd4 6. h8=Q) (5. Nf5 Bc3 6. h8=Q) (5. Nc4 Bf6 6. h8=Q) (5. Ne4 Bh8 6. Nd6) Ba1 6. h8=Q (6. h8=B $18) (6. h8=R $18) (6. Nd6 $2 Bb2 7. h8=Q) (6. Nd8 $2 Bb2 7. h8=Q) (6. Ne5 $2 Bxe5 7. h8=Q) (6. Ng5 Bb2 7. h8=Q) (6. Nh6 Bb2 7. h8=Q) (6. Nh8 Bb2 7. Ng6) Bxh8 7. Nxh8 $18 (7. Nd6 $2 Bg7 8. Nc8) (7. Nd8 $2 Bg7 8. Nf7) 1-0

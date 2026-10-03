@@ -1,0 +1,13 @@
+[Event "Tidskrift for Schack#036"]
+[Source "Tidskrift for Schack/1"]
+[Date "1917.??.??"]
+[Round "?"]
+[Composer "Henriksen, Thorleif Cammillo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5n2/2pp3P/p5Pk/1P3K2/3b2P1/8/P7/8 w - - 0 1"]
+
+1. h8=Q+ $1 Bxh8 2. g5+ Kh5 $1 (Kg7 3. bxa6) 3. bxa6 Bd4 4. g7 Ng6 $1 5. Ke4 $1 1-0

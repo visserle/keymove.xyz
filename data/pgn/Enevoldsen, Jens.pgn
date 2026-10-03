@@ -1,0 +1,26 @@
+[Event "Skakbladet"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Enevoldsen, Jens"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k4/8/p1PK2p1/6P1/8/8/8/8 w - - 0 1"]
+
+1. c7+ $1 (1. Kd5 $2 Kc7 2. Kc5 a5 3. Kb5 a4 4. Kxa4 Kxc6) (1. Ke6 $2 a5 2. Kf7 a4 3. Kxg6 a3 4. Kf7 a2 5. g6 a1=Q 6. g7 Qf1+ 7. Kg6 Qc4) Kc8 2. Ke6 (2. Ke7 {<or>}) (2. Ke5 {<or>}) a5 3. Kf6 a4 4. Kxg6 a3 5. Kf7 $1 (5. Kh7 $2 a2 6. g6 a1=Q 7. g7 Qh1+ 8. Kg6 Qd5 9. Kh7 Qh5+ 10. Kg8 Kxc7) a2 6. g6 a1=Q 7. g7 Qf1+ 8. Ke7 Qc4 9. Kf8 Qc5+ 10. Ke8 Qc6+ 11. Kf8 Qf6+ 12. Ke8 $1 Qxg7 1/2-1/2
+
+[Event "Hyg dem med Shak#20"]
+[Source "EG#00833. also Schakend Nederland#1059 Schakend Nederland/4 1967."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Enevoldsen, Jens"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/p5p1/Pk5P/7K/8 w - - 0 1"]
+
+1. h4 $1 g3+ 2. Kg1 Kxa3 3. h5 Kb2 4. h6 a3 5. h7 a2 6. h8=Q+ Kb1 7. Qb8+ Kc1 8. Qf4+ Kb1 9. Qb4+ Kc2 10. Qa3 Kb1 11. Qb3+ Ka1 12. Qc2 g2 13. Qc1# 1-0

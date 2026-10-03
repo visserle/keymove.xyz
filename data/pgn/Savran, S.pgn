@@ -1,0 +1,12 @@
+[Event "1.p 64 (tt)"]
+[Date "1977.08.04"]
+[Round "?"]
+[Composer "Savran, S"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/2p1p3/2p1P2n/K1P1P3/P7/1p6/5p1p/5R2 w - - 0 1"]
+
+1. Ka6 $1 Nf5 2. a5 $1 b2 3. Rd1 $1 (3. Rg1 $2 Ng7 4. Rd1 Nxe6 5. Rd8+ Nxd8 6. e6 f1=Q#) Nd4 4. Rg1 $1 f1=Q+ 5. Rxf1 Nxe6 6. Rf8+ Nxf8 7. e6 Nd7 8. exd7 b1=Q 9. d8=Q+ Qb8 10. Qxb8+ Kxb8 1/2-1/2

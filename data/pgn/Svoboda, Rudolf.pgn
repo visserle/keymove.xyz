@@ -1,0 +1,106 @@
+[Event "Chemnitzer Tageblatt"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Svoboda, Rudolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k4N2/P7/K7/8/3p4/8/2P3r1/8 w - - 0 1"]
+
+1. Nd7 $1 Rg6+ 2. Nb6+ Rxb6+ 3. Kxb6 d3 4. cxd3 1/2-1/2
+
+[Event "Cesky Svet#412"]
+[Date "1928.03.01"]
+[Round "?"]
+[Composer "Svoboda, Rudolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1R3R2/p1K5/k7/8/8/q7/8 w - - 0 1"]
+
+1. Rb5+ $1 axb5 (Ka4 2. Rf4+ Ka3 3. Ra5+) 2. Ra7+ Kb4 3. Rxa2 1-0
+
+[Event "Cesky Svet#413"]
+[Date "1928.03.01"]
+[Round "?"]
+[Composer "Svoboda, Rudolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2K5/rRp5/k2q4/8/1p6/rP6/R1N5 w - - 0 1"]
+
+1. Nxb3+ $1 Qxb3 2. Rxa2+ Qxa2 3. b4+ Ka4 4. Rxa6+ Kb3 5. Rxa2 Kxa2 6. Kxc6 1-0
+
+[Event "Jas#18"]
+[Date "1928.08.02"]
+[Round "?"]
+[Composer "Svoboda, Rudolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/7N/4P3/6P1/8/4p1p1/8/6K1 w - - 0 1"]
+
+1. Kf1 $1 Ke7 2. Nf8 $1 Kxf8 3. g6 $1 1-0
+
+[Event "Revista de Romana de Sah#0182"]
+[Source "Revista de Romana de Sah/8"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Svoboda, Rudolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k7/2K5/8/1P6/r1p5/3R4/8 w - - 0 1"]
+
+1. Rd7+ $1 Kb8 $1 (Ka6 2. b5+ Ka5 3. Kc5 Ka4 4. Kc4 Ka5 5. Ra7+) 2. b5 $1 Rb3 (c2 3. Rd8+ Ka7 4. b6+ Ka6 5. Ra8#) 3. b6 $1 Kc8 4. b7+ Rxb7 (Kb8 5. Rd8+ Ka7 6. Ra8#) 5. Rxb7 c2 $1 6. Rc7+ $1 1-0
+
+[Event "Revista de Romana de Sah#0260"]
+[Date "1939.03.29"]
+[Round "?"]
+[Composer "Svoboda, Rudolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2r5/p7/4P3/p1n2p2/4k3/3N4/R1P2K2/8 w - - 0 1"]
+
+1. Nxc5+ $1 Rxc5 2. Ra4+ Kd5 3. Rxa5 Rxa5 4. e7 1-0
+
+[Event "L'Échiquier de Paris#065"]
+[Source "L'Échiquier de Paris/4"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Svoboda, Rudolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6n1/1b4q1/B7/7K/8/1p3R1p/1P2Q3/6nk w - - 0 1"]
+
+1. Rxh3+ $1 (1. Bxb7 $2 Nxe2 $1 2. Rf7+ Qg2 $1 3. Bxg2+ hxg2 4. Rg7 g1=Q) Nxh3 2. Bxb7+ Qxb7 (Kg1 3. Qe1+ Kh2 4. Qh1+ Kg3 5. Qg2+) 3. Qe4+ Qxe4 1/2-1/2
+
+[Event "Chess Life & Review#0937"]
+[Source "Chess Life & Review/7"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Svoboda, Rudolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/2p2k2/2P2P1p/5K1P/5P2/5P2/8 w - - 0 1"]
+
+1. Ke4 $1 Ke7 2. f6+ $1 Ke6 $1 (Kxf6 3. Kf4) 3. f4 Kxf6 4. f5 Ke7 5. f6+ $1 Ke6 6. f3 $1 Kxf6 7. Kf4 1-0

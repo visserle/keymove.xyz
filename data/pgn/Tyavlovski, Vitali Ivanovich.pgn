@@ -1,0 +1,191 @@
+[Event "4.p Beginner ty Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/10 1958 EG#01064."]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Tyavlovski, Vitali Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/8/1P3P2/K2P4/6k1/8/4b3 w - - 0 1"]
+
+1. f6 $1 (1. d5 $2 Bc3 2. d6 Be5 3. d7 Bf6 4. Ka5 Bd8+) Bd2 2. f7 (2. d5 $2 Bf4 3. f7 Bd6 4. Ka5 Bc7+) Bh6 3. d5 (3. Ka5 $2 Kf4 4. Kb6 Kf5 5. Kxb7 Ke6 6. Kc6 Kxf7 7. d5 Ke7 8. b6 Bf4 9. b7 Bb8) Bf8 4. Ka5 Kf4 5. d6 $1 (5. Kb6 $2 Ke5 6. Kxb7 Kxd5 7. b6 Bd6) Bxd6 6. Kb6 Ke5 7. Kxb7 Kd5 (Ke6 8. Kc6 Ke7 9. f8=Q+) 8. b6 $1 Bc5 (Kc5 9. Ka7) 9. Kc7 Ke6 10. b7 Bd6+ 11. Kc6 1-0
+
+[Event "Szachy#197"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Tyavlovski, Vitali Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1n6/6k1/P2P4/4K3/8/1P2b3/8/8 w - - 0 1"]
+
+1. d7 $1 Nxd7+ (Bb6 {<main>} 2. Kd6 Nxa6 3. Ke7 Nb4 4. d8=N $1 (4. d8=Q $2 Nc6+ 5. Kd7 Nxd8)) 2. Kd6 Nb8 3. a7 Bxa7 4. Kc7 Kf7 5. Kb7 1/2-1/2
+
+[Event "Lit Novin (tw)"]
+[Source "EG#01074c. also Shakhmaty v SSSR/10 1985."]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Tyavlovski, Vitali Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4NP2/5K2/p7/pk6/8/8 w - - 0 1"]
+
+1. Nd4+ $1 Kb2 (Kc4 2. f7 a2 3. Nc2 Kc3 4. Na1 Kb2 5. f8=Q Kxa1 6. Ke4 Kb2 7. Qb4+ Kc1 8. Qc3+ Kb1 9. Qe1+ Kb2 10. Qd2+ Kb1 11. Kd3) 2. f7 a2 3. f8=Q a1=Q 4. Qb4+ Kc1 (Ka2 5. Qxa4+ Kb2 6. Qb3+) 5. Qe1+ Kb2 6. Qd2+ Ka3 7. Nc2+ 1-0
+
+[Event "FIDE revue#471a (tw)"]
+[Source "EG#01066a."]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Tyavlovski, Vitali Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6p1/8/2n3KP/3k4/2p5/2B5 w - - 0 1"]
+
+1. Kg5 $1 (1. Kf3 $2 Nd2+ $1 2. Kf4 (2. Kf2 Nb3 3. Ba3 Kd2 4. Kf3 Na5 5. Ke4 Nc4) Ke2 3. Kg5 Kd1 4. Ba3 Nc4) Ke2 2. Kxg6 Kd1 3. h5 Kxc1 4. h6 Ne5+ 5. Kf5 $1 (5. Kg7 $2 Kb1 6. h7 c1=Q 7. h8=Q Qg5+ 8. Kf8 Ng6+) (5. Kh5 $2 Kb1 6. h7 c1=Q 7. h8=Q Qh1+) Nf7 6. h7 Nh8 7. Kf6 Kb1 8. Kg7 1/2-1/2
+
+[Event ".p Ceskoslovensky Sach (tt)"]
+[Source "Ceskoslovensky Sach/5 EG#01067."]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Tyavlovski, Vitali Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4r3/7P/5R2/P3b2k/4p3/5PP1/6K1 w - - 0 1"]
+
+1. h7 $1 Rxh7 2. Rf4+ Kg5 3. Rxe4 Rh1+ 4. Kxh1 exf2 5. Re5+ Kg6 6. Rf5 Kxf5 7. g4+ Kxg4 8. Kg2 Kf4 9. a5 Ke3 10. Kf1 1-0
+
+[Event "Lit Novin (tw)"]
+[Source "EG#01074a. also Shakhmaty v SSSR/10 1985."]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Tyavlovski, Vitali Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5NP1/6K1/1p6/1pk5/8/8 w - - 0 1"]
+
+1. Nd5+ $1 (1. Ne4+ $2 Kc2) Kd4 2. Nxb4 Kc3 (b2 3. Nc2+ Kc3 4. Na3 Kb3 5. Nb1 Kc2 6. g7) 3. Nd3 Kxd3 4. g7 b2 5. g8=Q b1=Q 6. Qh7+ 1-0
+
+[Event "Lit Novin (tw)"]
+[Source "EG#01074b. also Shakhmaty v SSSR/10 1985."]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Tyavlovski, Vitali Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5NP1/2p3K1/8/1pk5/8/8 w - - 0 1"]
+
+1. Ne4+ $1 (1. Nd5+ $2 Kd4 (Kd3 $2 2. g7) (Kd2 $2 2. Nb6) (Kc2 $2 2. Ne3+) 2. Nc7 $1 Kc3 $1 (b2 $2 3. Nb5+ Kc4 4. Na3+ Kb3 5. Nb1 Ka2 6. g7 Kxb1 7. g8=Q)) Kc2 2. Nd6 Kc3 (b2 3. Nc4) 3. Nc4 Kxc4 4. g7 b2 5. g8=Q+ 1-0
+
+[Event "Trud (tw)"]
+[Date "1960.07.10"]
+[Round "?"]
+[Composer "Tyavlovski, Vitali Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5N2/8/4B3/8/p7/8/8/1k1K4 w - - 0 1"]
+
+1. Nd7 $1 a3 2. Ba2+ Kb2 3. Nc5 Kxa2 4. Kc1 Ka1 5. Kc2 Ka2 6. Nd3 Ka1 7. Nc1 a2 8. Nb3# 1-0
+
+[Event "Trud (tw)"]
+[Date "1960.07.10"]
+[Round "?"]
+[Composer "Tyavlovski, Vitali Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5N2/8/4B3/8/p2K4/8/8/1k6 w - - 0 1"]
+
+1. Kc3 $1 a3 2. Bf5+ Ka1 3. Bh7 a2 4. Ng6 Kb1 5. Nf4+ Ka1 6. Nd3 Kb1 7. Nc5+ Ka1 8. Nb3# 1-0
+
+[Event ".c Magyar Sakkélet#0439"]
+[Source "Magyar Sakkélet/9"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Tyavlovski, Vitali Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/8/4P3/8/n4k2/5p2/2N5/8 w - - 0 1"]
+
+1. e7 $1 Nb6+ 2. Kb7 $1 Nc4 $1 3. Kc7 Nd6 $1 4. Kxd6 f2 5. e8=R $1 (5. e8=Q $2 f1=Q 6. Qf8+ Ke4 $1 7. Qxf1) 1-0
+
+[Event "Ceskoslovensky Sach#041 (c)"]
+[Source "Ceskoslovensky Sach/5 (c): Garcia=M Estudios Artisticos de Ajedrez - X-57 2012."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Tyavlovski, Vitali Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1N6/8/5K1p/k4Pp1/3p4/6b1/8 w - - 0 1"]
+
+1. Nc5+ $1 Kb4 (Kb5 2. Nxd3) 2. Nxd3+ Kc3 3. Ne1 $1 (3. Ne5 $2 g3 4. Ng6 Bh3+) Bf3 $1 4. Kg5 Kd2 $1 5. Ng2 $1 (5. Kxh5 $2 Kxe1 6. Kh4 Kf2) Bxg2 6. Kxh5 Bf3 7. Kh4 $1 Ke3 8. f5 Kf4 9. f6 Bd5 10. f7 Bxf7 1/2-1/2
+
+[Event "Shakhmaty v SSSR#28"]
+[Source "Shakhmaty v SSSR/7"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Tyavlovski, Vitali Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/8/n7/7P/3k4/8/4P3/1b6 w - - 0 1"]
+
+1. h6 $1 (1. Kg8 $2 Nc5 $1 2. h6 Ne4) Nc7 2. Kg8 $1 (2. h7 $2 Ne8) (2. e4 $2 Ke5 3. h7 Kf6 4. e5+ Kg6 5. Kg8 Ba2+ 6. Kh8 Ne6) Ne8 3. e4 $1 (3. Kf7 $2 Nd6+ 4. Kg7 Nf5+ 5. Kg6 Ng3+ 6. Kg7 Nh5+) Bxe4 4. Kf7 Nd6+ 5. Kg8 Ne8 6. Kf7 1/2-1/2
+
+[Event "4.c Szachy#400"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Tyavlovski, Vitali Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5k2/8/1P6/KP6/7B/4p3/4n3 w - - 0 1"]
+
+1. b6 $1 Nd3 $1 2. Be6+ $1 (2. b7 $2 Nc5+ 3. bxc5 e1=Q 4. b8=Q Qa1+ 5. Kb3 Qb1+) Kxe6 3. b7 Nc5+ $1 4. bxc5 e1=Q 5. b8=Q Qa1+ 6. Kb5 Qb1+ 7. Kc6 Qxb8 1/2-1/2
+
+[Event "Problem#254"]
+[Source "Problem/8"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Tyavlovski, Vitali Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/8/7B/4K3/p1k5/2P5/5N2 w - - 0 1"]
+
+1. Bf7 $1 d5+ (Kxc2 2. Ne3+) 2. Bxd5 Kxc2 3. Ba2 (3. Ne3+ $2 Kb1 4. Nd1 Kc2 5. Ne3+ Kb1) Kb2 4. Kd3 Kxa2 5. Kc2 Ka1 6. Nd2 a2 7. Nb3# 1-0

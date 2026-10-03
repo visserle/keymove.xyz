@@ -1,0 +1,32 @@
+[Event "?"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Grzeban, Grzegorz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "4b3/p3b3/PP5R/1N6/K1k5/8/8/8 w - - 0 1"]
+
+1. bxa7 (1. Rh4+ $2 Bxh4 2. bxa7 Bxb5+ 3. Ka3 Bc6 $19) (1. b7 $2 Bxb5+ 2. Ka5 Bb4#) (1. Rh5 $2 Bxh5 2. Na3+ Bxa3 3. Kxa3 axb6 $19) (1. Rc6+ $2 Bxc6 2. bxa7 Bxb5+ 3. Ka5 Bd8#) (1. Ka5 $2 Bb4+ 2. Ka4 Bxb5#) (1. Rd6 $2 Bxd6 2. bxa7 Bxb5+ 3. Ka5 Bc7#) Bxb5+ 2. Ka5 Bd8+ 3. Rb6 Kc5 4. a8=N Bc6 5. a7 Bb5 6. Nc7 Bxc7 7. a8=N Bd8 8. Nc7 Bxc7 1/2-1/2
+
+[Event "3.c New Statesman {and Nation}#71"]
+[Source "EG#02255."]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Grzeban, Grzegorz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "k7/p1p5/K7/P1p5/3r1pb1/8/2PQ1P2/8 w - - 0 1"]
+
+1. Qe1 $1 (1. Qb4 $2 Rxb4 2. c3 Bc8#) (1. Qxf4 $2 Be2+ 2. c4 Bxc4#) (1. Kb5 $2 Rxd2 $19 2. Kxc5 Rxf2) (1. Qe2 $2 Bxe2+ 2. c4 Bxc4#) (1. Qd3 $2 c6) Bd7 $1 (Bh5 2. Qh1+ f3 3. Qxh5) 2. Qh1+ (2. Qe4+ $2 Rxe4 3. c3 Re6#) (2. Qe8+ $2 Bxe8 3. c3 Rd6#) (2. Qe7 $2 Rd6+ 3. Qxd6 cxd6 $19) (2. Qe5 $2 Rd6+ 3. Qxd6 cxd6 $19) (2. Qb1 $2 Rd6+ 3. Qb6 cxb6 4. axb6 Rxb6+ 5. Ka5 Rb2) (2. Qd2 $2 Rxd2 3. c3 Rd6#) (2. Qe3 Rd6#) (2. Qc3 Rd6#) Re4 $1 (c6 3. Qh8+) 3. c4 $1 (3. Qh8+ $2 Re8 4. Qxe8+ Bxe8 $19) (3. Qb1 $2 Re6+ 4. Qb6 axb6 5. axb6 Rxb6+ 6. Ka5 Ka7) (3. Qg2 $2 c6 4. Qg8+ Re8) (3. Qe1 Rxe1 4. c3 Re6#) (3. Qxe4+ $2 c6) c6 (Kb8 4. Qxe4 c6 5. Qe5+ Ka8 6. Qc7) (Bc6 4. Qh6 Be8 5. f3) (f3 4. Qh8+ $1 (4. Qxf3 $2 c6 $1 5. Qf8+ Re8 6. Qg7 Bc8+ 7. Qb7+ Bxb7#) Be8 $1 5. Qf6) 4. Qh8+ (4. Qb1 $2 Bc8+ 5. Qb7+ Bxb7#) (4. Qh3 $2 Bxh3 5. f3 Bc8#) (4. Qh7 $2 Bc8+ 5. Qb7+ Bxb7#) (4. Qh6 Bc8#) Re8 5. Qxe8+ $1 (5. Qg7 $2 Bc8+ 6. Qb7+ Bxb7#) (5. Qb2 $2 Bc8+ 6. Qb7+ Bxb7#) (5. Qh7 $2 Bc8+ 6. Qb7+ Bxb7#) (5. Qh4 Bc8#) (5. Qg8 Bc8#) Bxe8 6. f3 $10 Bd7 1/2-1/2

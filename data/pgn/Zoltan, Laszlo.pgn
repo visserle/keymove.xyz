@@ -1,0 +1,56 @@
+[Event "1.p Magyar Sakkélet#0286"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Zoltan, Laszlo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/8/2P1PRPp/1r5P/5p2/6p1/1P1Pb3/2n1K3 w - - 0 1"]
+[PlyCount "19"]
+
+1. c7 (1. e7 $143 Re5 2. Rf8+ (2. c7 $143 Nd3#) Kg7 3. Rf7+ $11) Rc5 2. e7 Bb5 3. Rc6 $1 {Novotny} (3. Rf8+ $143 Kg7 4. c8=Q Rxc8 5. Rxc8 f3 6. e8=N+ Bxe8 7. Rxc1 Bb5 8. Rc7+ Kg8 9. Rf7 f2+ 10. Rxf2 gxf2+ 11. Kxf2 $11) Re5+ 4. Kd1 Be2+ 5. Kxc1 Bg4 6. Re6 $1 {Novotny} Rc5+ 7. Kb1 Bf5+ 8. d3 $1 Bxd3+ 9. Ka2 Bb5 10. Rc6 $1 $18 {Novotny} 1-0
+
+[Event "Magyar Sakkélet#0292"]
+[Source "Magyar Sakkélet/8 after Grzeban=G d1b3 1956."]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Zoltan, Laszlo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1B1N4/N7/k7/8/p7/p2K4/8 w - - 0 1"]
+
+1. Nac5 $1 Kb4 2. Nb3 $1 (2. Nd3+ $2 Kb5 $1) (2. Na6+ $2 Kb5 $1) Kxb3 3. Bd5+ Kb2 4. Bxa2 Kxa2 5. Kc2 $1 Ka1 6. Nc5 Ka2 7. Nd3 Ka1 8. Nc1 a2 9. Nb3# 1-0
+
+[Event "1.p Magyar Sakkélet#0580"]
+[Source "Magyar Sakkélet/3 EG#00357."]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Zoltan, Laszlo"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "b4rkB/K7/p5P1/8/1p2B3/1P6/8/8 w - - 0 1"]
+
+1. g7 $1 (1. Bxa8 $2 Rxa8+ 2. Kxa8 Kxh8 3. Kb7 a5 4. Kc6 a4 5. Kd5 axb3 6. Ke6 Kg7) Re8 2. Bxa8 (2. Bg6 $2 Rd8 3. Bc2 a5 4. Kb6 a4 5. bxa4 Bd5 6. Bd3 b3 7. a5 b2 8. a6 Ba2 9. a7 b1=Q+ 10. Bxb1 Bxb1) (2. Bc2 $2 Bd5 3. Kxa6 Re2 4. Bf5 Rf2 5. Bd3 Bxb3 6. Ka5 Rf4) Rxa8+ $1 3. Kb7 $1 (3. Kxa8 $2 a5 4. Ka7 a4 5. bxa4 b3 6. a5 b2 7. a6 b1=Q 8. Ka8 Qe4+ 9. Kb8 Qe5+ 10. Kc8 Qa5 11. Kb7 Qb5+ 12. Ka7 Qc6) Ra7+ (Re8 4. Kxa6 Re3 (Re5 5. Kb6 Rg5 6. Kc6 Kf7 7. Kd6) 5. Kb5 Rxb3 6. Ka4 Rb1 7. Kb5) (a5 4. Kxa8) 4. Kxa7 (4. Kb6 $2 a5 5. Kxa7 a4) a5 5. Ka8 $1 a4 6. bxa4 b3 7. a5 b2 8. a6 b1=Q 9. a7 Qd3 (Kf7 10. g8=Q+ Kxg8 11. Bd4 Kf7 12. Bb6 $1) (Qe4+ 10. Kb8 Qe8+ 11. Kb7 Qd7+ 12. Kb8 Qb5+ 13. Kc8 Qa6+ 14. Kb8 Qb6+ 15. Ka8 Kf7 16. g8=Q+ Kxg8 17. Be5 $1 (17. Bd4 $2 Qc7 18. Be5 Qc8+ 19. Bb8 Qc6#) Kf7 18. Bc7 (18. Bf4 $2 Ke6 19. Bc7 Qc6+ 20. Kb8 Kd7 21. a8=Q Qxc7#) Qb5 19. Bb6 $1 Qxb6 (Ke6 20. Kb7 Qd5+ 21. Kb8) (Qc6+ 20. Kb8 Qxb6+ 21. Ka8 Ke7)) 10. Kb7 Qb5+ 11. Kc7 Qa6 12. Kb8 Qb6+ 13. Ka8 Kf7 14. g8=Q+ Kxg8 15. Be5 $1 (15. Bd4 $2 Qc7 $1 16. Be5 Qc8+ 17. Bb8 Qc6#) Kf7 16. Bc7 $1 Qb5 17. Bb6 $1 Qxb6 1/2-1/2
+
+[Event "Chess Life & Review#0796"]
+[Source "Chess Life & Review/10"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Zoltan, Laszlo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K2/1pP4N/1npp1n2/4k3/4P2p/8/3N4/8 w - - 0 1"]
+
+1. Nc4+ $1 Ke6 2. Nxb6 Nd7+ $1 3. Ke8 Nxb6 4. Nf8+ Ke5 5. Nd7+ $1 Kxe4 6. Nxb6 h3 7. c8=Q 1-0

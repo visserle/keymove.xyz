@@ -1,0 +1,39 @@
+[Event "source unknown"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Zhigis, Sergei Yu."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/7p/4k3/8/6PK/1b6 w - - 0 1"]
+
+1. Kh3 $1 (1. Kg3 $2 Bc2 2. Kh4 Bd1) Kf4 $1 (Kf5 2. Kh4 Kg6 3. g4) 2. Kh4 Bg6 3. g4 $1 hxg4 1/2-1/2
+
+[Event "Shakhmatny Listok#288 (@2)"]
+[Source "î@: Ulrichsen=J HHdbIII#56205 4-3-2003."]
+[Date "1928.06.25"]
+[Round "?"]
+[Composer "Zhigis, Sergei Yu."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/2pp4/K7/3P3P/8/1p6/8/8 w - - 0 1"]
+
+1. d6 $1 c6 $1 2. h6 b2 3. h7 b1=Q 4. h8=Q+ (4. h8=R+ $1 {<minor dual JU>} Qb8 5. Rd8 Qxd8) Qb8 5. Qd8 $1 Qxd8 1/2-1/2
+
+[Event "Shakhmatny Listok#414"]
+[Date "1929.12.25"]
+[Round "?"]
+[Composer "Zhigis, Sergei Yu."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3k4/3p4/1p6/1p2P3/1P2P3/5K2 w - - 0 1"]
+
+1. Kg2 $1 (1. Kf2 $2 Ke6) Ke6 (Ke5 2. Kf3 Kf5 3. e4+ dxe4+ 4. Kg3 Kg5 5. e3 Kf5 6. Kh4) 2. e4 $1 (2. Kf3 $2 Ke5 $1 3. e4 dxe4+ 4. Ke3 (4. Kg3 Kf5 $1) Kf5 $1) dxe4 (d4 3. Kg3 Ke5 4. Kf3) 3. Kh3 $1 (3. Kg3 $2 Kf5 4. e3 Kg5) (3. Kf2 $2 Ke5 4. Ke3 Kf5) (3. e3 $2 Kd5 $1) Ke5 (Kf5 4. Kg3 Kg5 5. e3 Kf5 6. Kh4 Ke5 7. Kg4 Kd5 8. Kf4 Kc5 $1 9. Ke5 $1 (9. Kxe4 $2 Kc4 10. Kf4 Kd3) Kb5 10. Kd5 Kb6 11. Kxe4) 4. Kg4 $1 (4. e3 $2 Kd5 $1) Kd5 5. Kf5 $1 Kd4 6. Kf4 Kd5 7. e3 Kc5 8. Ke5 $1 1-0

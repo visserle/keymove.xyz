@@ -1,0 +1,13 @@
+[Event "Tijdschrift v.d. KNSB"]
+[Source "Tijdschrift v.d. KNSB/1 after Somov_Nasimovich=E h8a8 1927."]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Verkaik, E. P. W."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k1N3K1/2R5/8/8/7P/8/1p6/8 w - - 0 1"]
+
+1. Ra7+ $1 Kb8 2. Nd6 $1 Kxa7 3. Nb5+ Kb6 4. Nc3 Ka5 $1 5. h5 Kb4 6. Nb1 Kb3 7. h6 Kc2 8. h7 Kxb1 9. h8=Q 1-0

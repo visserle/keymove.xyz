@@ -1,0 +1,53 @@
+[Event ".c Isvestia#278"]
+[Date "1930.03.02"]
+[Round "?"]
+[Composer "Mironov, G"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/7P/7K/5p1P/5p2/p2PP3/2p5/2N5 w - - 0 1"]
+
+1. d4 $1 (1. Ne2 $2 c1=Q 2. Nxc1 a2 3. Nxa2 f3 4. Nc3 f2 5. Nd5 f1=Q 6. Ne7 Qf4+ 7. exf4) f3 (fxe3 {<main>} 2. Ne2 c1=Q 3. Nxc1 a2 4. Nd3 (4. Ne2 {<or>} a1=Q 5. Nf4 Qa6+ 6. Ng6+) a1=Q 5. Ne5 Qa6+ 6. Ng6+ Qxg6+ 7. hxg6 e2 8. g7#) 2. Nd3 c1=Q 3. Nxc1 f2 4. Nd3 f1=Q 5. Ne5 Qa6+ 6. Ng6+ Qxg6+ 7. hxg6 a2 8. g7# 1-0
+
+[Event "Razmishleniya Lubitelja Etyudov#096"]
+[Source "after Asaba=E d8b8 1972."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Mironov, G"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k2K4/1p6/1P6/r7/5p2/8/p5P1/4R3 w - - 0 1"]
+
+1. Re8 $1 Re5 2. Rg8 (2. Rf8 $2 Rf5 3. Rg8 Rf7) Rg5 3. Rxg5 a1=Q 4. Rg8 Qa2 5. Rf8 Qa3 6. Ke8 1-0
+
+[Event "Razmishleniya Lubitelja Etyudov#048"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Mironov, G"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2P5/8/7r/1K5p/8/k5B1 w - - 0 1"]
+
+1. c7 $1 (1. Bd4+ $2 Rxd4 2. c7 Rc4) h2 2. Bxh2 (2. c8=Q $2 Rb4+) Rh3+ 3. Kb4 Rh4+ 4. Kb5 Rh5+ 5. Kb6 Rh6+ 6. Bd6 $1 Rxd6+ 7. Kb5 Rd5+ 8. Kb4 Rd4+ 9. Kc3 Rd1 10. Kc2 Rd4 11. c8=R $1 (11. c8=Q $2 Rc4+ 12. Qxc4) Ra4 12. Kb3 1-0
+
+[Event "1.sp.hm Sportivnaya Gazeta"]
+[Source "EG#03138."]
+[Date "1976.08.19"]
+[Round "?"]
+[Composer "Mironov, G"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/8/6Pk/R7/8/8/5b2/8 w - - 0 1"]
+
+1. Rg5 $1 (1. Ra6 $2 Bh4+ 2. Ke8 Kg7 3. Rc6 Bf6) Bh4 2. Ke8 Bxg5 3. Kf7 1-0

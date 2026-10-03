@@ -1,0 +1,415 @@
+[Event "2.hm Schackvärlden {m}"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4K2b/7r/3p3p/3N1pkp/6P1/1p3P1P/1P3B2/8 w - - 0 1"]
+[PlyCount "12"]
+
+1. h4+ Kg6 2. gxh5+ Kg7 (Kxh5 $143 3. Nf4#) 3. Bd4+ Kg8 4. Bg7 $1 {Novotny } (4. Ne7+ $143 Rxe7+ $19) (4. Bxh8 $143 Kxh8 $19) Kxg7 (Rxg7 $143 5. Nf6#) (Bxg7 $144 5. Ne7+ Kh8 6. Ng6+ $11) (f4 $144 5. Nf6+ Kxg7 6. Nd5 Kg8 7. Nf6+ Bxf6 $11) 5. f4 $1 Kg8 6. Nf6+ Bxf6 $11 (Kg7 $144 7. Nd5 Kg8 8. Nf6+ $11) 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#217"]
+[Source "Tijdschrift v.d. KNSB/11"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2B5/2KN3p/2p4p/P6k/8/2p4P/8 w - - 0 1"]
+
+1. Ne4 $1 c1=Q 2. Nf2 $1 Qd2 (Kg5 {<main>} 3. Bf4+ Qxf4 (Kxf4 {<main>} 4. Nd3+) 4. Nh3+) (Qg5 {<main>} 3. Bg3+ Qxg3 4. hxg3+ Kxg3 5. Kxc5) 3. Bg3+ Kg5 4. Ne4+ Kf5 5. Nxd2 1-0
+
+[Event "2.c Tijdschrift v.d. KNSB#224"]
+[Source "Tijdschrift v.d. KNSB/12"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k2r/6p1/1PP3p1/6P1/8/7p/6pK/8 w k - 0 1"]
+
+1. b7 $1 O-O $1 2. c7 Kh7 $1 3. c8=Q $1 (3. b8=Q $2 g1=Q+ 4. Kxg1 h2+ 5. Kh1 Rf1+ 6. Kxh2 Rf2+ 7. Kg3 Rf3+ 8. Kg4 Rf4+ 9. Kxf4) Rxc8 4. bxc8=B $1 (4. bxc8=Q $2 g1=Q+ 5. Kxg1 h2+ 6. Kh1) (4. bxc8=N $2 Kg8 5. Nd6 $1 Kf8 6. Nb5 Ke7 7. Nd4 Kd6 8. Nf3 Ke6 9. Kxh3 Kf5 10. Kxg2 Kg4 $1) 1-0
+
+[Event "Tijdschrift v.d. KNSB#210"]
+[Source "Tijdschrift v.d. KNSB/7-8"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p5/2P3p1/5pPk/5P2/p1p5/4p1KP/7B w - - 0 1"]
+
+1. Kh3 $1 e1=N $1 2. Bd5 c2 3. Bc4 c1=N 4. Be2+ Nxe2 1/2-1/2
+
+[Event "Spirit (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - X-18 2012."]
+[Date "1938.08.04"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p1p4/3P2p1/p5Pk/P6P/p1p5/4p1K1/7B w - - 0 1"]
+
+1. Kh3 $1 e1=N (e1=Q 2. Bf3#) 2. Bd5 c2 (b5 3. Be6 dxe6 4. d7 a2 5. d8=Q a1=Q 6. Qh8#) 3. Bc4 c1=N (c1=Q 4. Be2+ Nf3 5. Bxf3#) (Nd3 4. Bxd3 c1=N 5. Be4) 4. Be6 (4. Bb5 $2 Ncd3 5. Bxd7 Nf2+ 6. Kg3 Ne4+ 7. Kh3 (7. Kf4 a2) Nxg5+) dxe6 (a2 5. Bg4#) 5. d7 a2 (Ned3 6. d8=Q Nf4+ 7. Kg3 Nfe2+ 8. Kf3 Kxh4 9. Qh8+ Kxg5 10. Qe5+ Kh4 11. Qe3 Kh5 12. Qxa3) (Ng2 6. d8=Q Nf4+ 7. Kg3) 6. d8=Q a1=Q 7. Qd1+ Nf3 8. Qxf3# 1-0
+
+[Event "Tijdschrift v.d. KNSB"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/8/6k1/6p1/6P1/8/8/8 w - - 0 1"]
+
+1. Kh8 $1 (1. Kf8 $2 Kf6 $1 2. Kg8 Ke5 3. Kg7 Kf4) Kh6 (Kf7 2. Kh7 Kf6 3. Kh6) 2. Kg8 Kg6 3. Kh8 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#266"]
+[Source "Tijdschrift v.d. KNSB/6"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/P5PP/7k/6p1/2b3P1/8/8/7q w - - 0 1"]
+
+1. a8=Q $1 Qxa8+ 2. g8=N+ Bxg8 3. hxg8=N+ Kg6 (Qxg8+ 4. Kxg8 Kg6 5. Kh8 $1 Kf6 6. Kh7) 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#288 (v)"]
+[Source "Tijdschrift v.d. KNSB/10"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2k2P2/5P2/2p4P/pP6/1p1K4/8 w - - 0 1"]
+
+1. Kc2 $1 cxb3+ 2. Kb1 Kd7 3. h5 (3. f7 $2 Ke7 4. h5 Kxf7 5. h6 Kf6) Ke8 4. h6 Kf8 (Kf7 5. h7) 5. h7 Kf7 $1 6. h8=R $1 (6. h8=Q $2 a2+ 7. Kxb2 a1=Q+ 8. Kxa1 b2+ 9. Ka2 b1=Q+ 10. Kxb1) (6. h8=B $2 Kg8 7. Bg7 Kf7) 1-0
+
+[Event "Tijdschrift v.d. KNSB#288"]
+[Source "Tijdschrift v.d. KNSB/10"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2k2P2/5P2/1p5P/p7/1p1K4/8 w - - 0 1"]
+
+1. Kc2 $1 b3+ (Kd7 2. h5 Ke8 3. h6 Kf8 4. Kb1 Kf7 5. h7 b3 6. h8=R) 2. Kb1 Kd7 3. h5 Ke8 4. h6 Kf8 $1 (Kf7 5. h7) 5. h7 Kf7 6. h8=R $1 (6. h8=Q $2 a2+ 7. Kxb2 a1=Q+ 8. Kxa1 b2+ 9. Kxb2) (6. h8=N+ $2 Kxf6) (6. h8=B $2 Kg8 7. Bg7 Kf7 8. Bh8 Kg8 9. f7+ Kxf7 10. Bd4 Ke7) 1-0
+
+[Event "De Schaakwereld#286"]
+[Date "1939.08.11"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2q2k2/P2p3p/2bP3P/2p1p3/1pP1N3/1P4p1/8/4K2R w K - 0 1"]
+
+1. O-O+ $1 Kg8 (Ke8 2. Nf6+ Kd8 3. Nxh7) 2. Nf6+ Kh8 3. Ne8 $1 Qxe8 4. a8=Q Qxa8 5. Rf8+ Qxf8 1/2-1/2
+
+[Event "Revista de Romana de Sah#0291"]
+[Date "1939.11.26"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/8/4pPp1/6P1/4P2P/1p4P1/pP6/K7 w - - 0 1"]
+
+1. g4 $1 (1. e5 $2 Ke8 2. g4 Kf7 3. h5 Kf8 4. h6 (4. hxg6 Kg8) Kg8) Ke8 (e5 2. h5) 2. h5 (2. e5 $2 Kf8 3. h5 Kf7 $1 4. h6 Kg8) Kf8 $1 (gxh5 3. gxh5 Kf7 4. e5) (Kf7 {<main>} 3. h6 Kg8 4. e5 Kf8 5. h7 Kf7 6. h8=N+ $1 (6. h8=Q $2)) 3. h6 $1 (3. e5 $2 Kf7 4. h6 (4. hxg6+ Kxg6 5. f7 Kxf7) Kg8) (3. hxg6 $2 e5 4. g7+ Kg8) Kg8 4. e5 $1 Kh8 (Kf8 { <main>} 5. h7 Kf7 6. h8=N+ $1) 5. f7 Kh7 6. f8=N+ $1 (6. f8=Q $2) 1-0
+
+[Event "De Schaakwereld#320"]
+[Date "1939.12.18"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3N4/8/8/8/p2p4/6k1/6p1/6K1 w - - 0 1"]
+
+1. Ne6 $1 (1. Nb7 $2 a3) (1. Nc6 $2 d3) d3 $1 2. Nc5 a3 (d2 3. Ne4+) 3. Nxd3 a2 4. Ne1 $1 (4. Nc1 $2 a1=B $1 5. Ne2+ Kf3 6. Kh2 $1 Kf2 $1 (Bf6 $2 7. Nf4 $1 Be5 8. Kg1 Bxf4) 7. Kh3 (7. Ng1 Be5+) Be5) a1=Q (a1=B 5. Nxg2) (a1=R) 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#308"]
+[Source "Tijdschrift v.d. KNSB/1"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/6p1/7p/1P3n2/8/8/8/1k6 w - - 0 1"]
+
+1. b6 $1 Nd6 2. Kxg7 h5 3. Kf6 h4 4. Ke5 h3 (Nb7 5. Kf4) 5. Kxd6 h2 6. b7 h1=Q 7. b8=Q+ 1/2-1/2
+
+[Event "Revista de Romana de Sah#0302"]
+[Date "1940.02.12"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "N1k1K3/3p4/2P5/8/1q4B1/4p3/8/8 w - - 0 1"]
+
+1. cxd7+ $1 (1. Bxd7+ $2 Kb8 2. c7+ Kxa8 3. c8=Q+ Ka7 4. Qc7+ Qb7) Kb7 $1 2. d8=N+ $1 (2. d8=Q $2 Qxg4) (2. Bf3+ $2 Ka7 $1 3. d8=Q Qb5+ $1 4. Qd7+ Qxd7+ 5. Kxd7 e2 $1) Kxa8 (Ka6 3. Nc7+ (3. Be2+ $2 Qb5+ 4. Bxb5+ Kxb5 5. Nc7+ Kc4) Kb6 (Ka7 4. Nc6+) (Ka5 4. Nc6+) 4. Nd5+) 3. Bf3+ Kb8 (Ka7 4. Nc6+) 4. Nc6+ Kc7 5. Nxb4 1-0
+
+[Event "De Schaakwereld#350 (v)"]
+[Date "1940.04.08"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4N3/8/8/8/7K/2p5/7k w - - 0 1"]
+
+1. Nf5 $1 c1=Q (Kg1 2. Nd4 $1 c1=Q 3. Ne2+) 2. Ng3+ Kg1 3. Ne2+ 1/2-1/2
+
+[Event "De Schaakwereld#350"]
+[Date "1940.04.08"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4N3/8/7R/7K/2p4p/7p/6k1 w - - 0 1"]
+
+1. Ra5 $1 (1. Rg5+ $2 Kf2 2. Rf5+ Ke2 3. Re5+ Kd2 4. Rd5+ Kc2) (1. Rb5 $2 Kf2 $1) h1=Q 2. Ra1+ Kg2 3. Rxh1 Kxh1 4. Kxh3 $1 (4. Nf5 $2 h2 $1 5. Ng3+ Kg2) c2 5. Nf5 $1 c1=Q (Kg1 6. Nd4 $1 (6. Ng3 $2 Kf2 $1 7. Ne4+ Ke3) c1=Q 7. Ne2+) 6. Ng3+ Kg1 7. Ne2+ 1/2-1/2
+
+[Event "De Schaakwereld#354"]
+[Date "1940.04.24"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4B2K/8/5B1k/8/p5p1/1p4p1/3p2P1/8 w - - 0 1"]
+
+1. Bd4 $1 d1=N (Kg5 2. Be3+ Kf5 (Kf6 3. Bxd2 b2 (a3 4. Bc3+ Kg5 (Ke6 5. Bg6) 5. Bf7) 4. Bc3+) 3. Bxd2 b2 4. Kg7 b1=Q (a3 5. Bg6+ Ke5 6. Bb1) 5. Bg6+) 2. Bxa4 b2 3. Bc2 Kg5 4. Kg7 Kf4 5. Kf6 Ne3 (Nf2 6. Bxb2 Nh3 (Ke3 7. Kf5) (Ne4+ 7. Bxe4 Kxe4 8. Kg5) 7. Bc1#) 6. Be5# 1-0
+
+[Event "Deventer Dagblad"]
+[Source "after Moller=J Giersing=J g7d4 1895."]
+[Date "1940.07.13"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "N7/2K5/8/5p2/3k4/8/8/8 w - - 0 1"]
+
+1. Nb6 $1 f4 2. Nc8 $1 f3 3. Nd6 (3. Ne7 $2 Ke4 $1 (f2 $2 4. Nf5+) 4. Ng6 f2) Ke3 (f2 4. Nf5+) (Kd3 4. Nf5) 4. Nc4+ $1 (4. Nf5+ $2 Kf4 5. Nd4 (5. Nh4 f2 6. Ng2+ Ke4) f2 6. Ne2+ Kg4) Ke2 (Ke4 5. Nd6+) (Kf4 5. Nd2) (Kd3 5. Ne5+) 5. Nd6 (5. Ne5 $2 f2) f2 6. Ne4 $1 (6. Nf5 $2 Kf3 $1 7. Nd4+ Kf4) f1=Q 7. Ng3+ 1/2-1/2
+
+[Event "De Schaakwereld"]
+[Date "1940.12.25"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/8/P3PN2/8/8/1P6/k2r4/5b2 w - - 0 1"]
+
+1. e7 $1 Re2 (Bb5 2. a7) 2. Ne4 $1 (2. a7 $2 Bg2 3. Ne4 Bxe4 $1 4. e8=Q Bh7+) Rxe4 3. a7 Rg4+ 4. Kf8 Rf4+ 5. Ke8 Bg2 (Bb5+ 6. Kd8 Rd4+ 7. Kc8 $1 (7. Kc7 $2 Rd7+ 8. Kb8 Rxa7) Ba6+ 8. Kc7) 6. Kd8 Rd4+ 7. Kc8 1-0
+
+[Event "De Schaakwereld"]
+[Date "1940.12.25"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k6K/1p6/1PP2p2/8/8/r7/8/8 w - - 0 1"]
+
+1. c7 $1 Rc3 2. Kg7 f5 (Rc6 3. Kg6 $1) 3. Kf6 f4 (Rf3 4. Kg5) 4. Ke5 f3 (Rc4 5. Kd5 $1) 5. Kd4 Rc2 6. Kd3 $1 (6. Ke3 $2 f2 $1) 1/2-1/2
+
+[Event "De Schaakwereld"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/8/1p5p/7p/7k/7p/5P1N/8 w - - 0 1"]
+
+1. Kb7 $1 b5 (Kg5 2. Kxb6 Kf4 3. Kc5 $1 Ke4 4. Kc4) 2. Kc6 b4 3. Kd5 b3 4. Ke4 $1 Kg5 (b2 5. Kf4 b1=Q 6. Nf3#) 5. Kd3 Kf4 6. Kc3 Ke4 7. Kxb3 Kd3 8. Kb2 Ke2 9. f4 Kf2 10. f5 Kg2 11. f6 Kxh2 12. f7 Kg2 13. f8=Q h2 14. Qg7+ Kf1 $1 (Kh1 15. Qg3 h4 16. Qf2 h3 17. Qf1#) 15. Qf6+ Kg2 16. Qg6+ Kf1 17. Qxh5 Kg1 18. Qg4+ Kf2 19. Qh3 Kg1 20. Qg3+ Kh1 {<eg>} 21. Qf2 h5 22. Qf1# 1-0
+
+[Event "De Schaakwereld"]
+[Date "1941.03.13"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7n/8/8/8/P7/8/4K3/k7 w - - 0 1"]
+
+1. a5 $1 Ng6 2. a6 Nf4+ 3. Kd2 (3. Kf3 $2 Nd5 4. Ke4 Nc7 5. a7 Kb2 6. Ke5 Kc3 7. Kf6 Kc4 8. Ke7 Na8) (3. Ke3 $2 Nd5+ 4. Kd4 Nc7 5. a7 Nb5+) Nd5 4. a7 Nc7 5. Kd3 Kb2 6. Kc4 Ka3 7. Kc5 Ka4 8. Kc6 1-0
+
+[Event "De Schaakwereld"]
+[Date "1941.03.13"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2K4N/8/8/1k6/7p/8/8/8 w - - 0 1"]
+
+1. Nf7 $1 h3 2. Nd6+ Kb6 $1 (Kb4 {<main>} 3. Ne4 h2 4. Ng3 (4. Nf2 $2 Kc3 5. Kd7 Kd2 6. Ke6 Ke2 7. Nh1 Kf3) Kc5 5. Kb7 $1 (5. Kc7 {<or>}) (5. Kd7 $2 Kd5 $1 6. Kc7 Ke5) Kd4 6. Kc6 Ke5 7. Kc5 Kf4 8. Nh1 Kf3 9. Kd4) (Kc5 3. Ne4+ Kd5 (Kc4 4. Nd2+ Kd3 5. Nf3) (Kd4 4. Ng5 h2 5. Nf3+) (Kb5 4. Kd7) (Kc6 4. Nf2 $1 h2 5. Kb8 $1) (Kb4 4. Kd7 h2 5. Ng3) 4. Nf6+) (Kc6 3. Ne4 h2 4. Nf2 $1) 3. Ne4 (3. Nc4+ $2 Ka6 4. Ne3 h2) (3. Nf5 $2 h2 4. Ng3 Kc6 $1) h2 4. Nf2 $1 (4. Ng3 $2 Kc6 $1 (Kc5 $2 5. Kb7 (5. Kd7 $2 Kd5) Kd5 6. Kb6 Ke5 7. Kc5) 5. Nh1 (5. Kd8 Kd6) Kd5 6. Nf2 Ke6) Kc6 5. Kb8 $1 (5. Kd8 $2 Kd6 (Kd5 $2 6. Ke7) 6. Ke8 Ke6) (5. Nh1 $2 Kd5) Kd6 6. Kb7 Ke6 7. Kc6 Kf5 8. Kd5 Kf4 9. Kd4 Kf3 10. Nh1 Kg2 11. Ke3 Kxh1 12. Kf2 1/2-1/2
+
+[Event "De Schaakwereld"]
+[Date "1941.03.13"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4N3/8/8/8/7K/6p1/7k w - - 0 1"]
+
+1. Nf5 $1 g1=Q 2. Ng3+ Qxg3+ 3. Kxg3 1/2-1/2
+
+[Event "De Schaakwereld"]
+[Date "1941.10.23"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7K/3P4/8/8/5k2/3n4 w - - 0 1"]
+
+1. d6 $1 Ne3 2. d7 Ng4+ (Nf5+ 3. Kh7 $1 (3. Kg6 $2 Ne7+ 4. Kf7 Nc6) (3. Kh5 $2 Ng7+ 4. Kg6 Ne6) (3. Kg5 $2 Nd4 4. d8=Q Ne6+)) 3. Kg7 $1 (3. Kh7 $2 Nf6+) (3. Kh5 $2 Nf6+) (3. Kg5 $2 Ne5 4. d8=Q Nf7+) 1-0
+
+[Event "De Schaakwereld"]
+[Date "1941.10.23"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/1P2K3/8/8/3k2n1 w - - 0 1"]
+
+1. b5 $1 Ne2 (Nh3 2. b6 Ng5+ 3. Kd5) 2. b6 Nc3+ 3. Kd4 $1 (3. Ke3 $2 Nd5+) (3. Kf3 $2 Nb5 4. b7 Nd4+ 5. Ke4 Nc6) (3. Kd3 $2 Na4 4. b7 Nc5+) (3. Kf5 $2 Nb5 4. b7 Nd6+) (3. Ke5 $2 Na4 4. b7 Nc5 5. b8=Q Nd7+) Na2 (Nb5+ 4. Kc5) (Ne2+ 4. Ke5) 4. Kc4 (4. b7 $2 Nb4 5. b8=Q Nc6+) 1-0
+
+[Event "De Schaakwereld (c)"]
+[Date "1941.12.17"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p6P/k3p3/3b4/6N1/8/2K5 w - - 0 1"]
+
+1. Nf5 $1 Ba1 2. Kb1 Bc3 3. Kc2 Ba1 (Kb4 4. Ne3 $1 (4. Nd4 $2 e4 $1) Ba1 5. Kb1 $1 Bc3 (Bd4 6. Nc2+) 6. Nd5+) 4. Nd4 $1 Bxd4 (exd4 5. Kd3) (e4 5. Nb3+) 5. Kd3 1-0
+
+[Event ".c Fischer MT Schakend Nederland (m)"]
+[Source "Schakend Nederland/10 1965 (m): Selman=J Schakend Nederland/10 1965."]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k3N2/1n2K3/pP5Q/2n5/8/8/8/q6B w - - 0 1"]
+
+1. Qf4+ $1 Ka8 2. Bxb7+ Nxb7 3. Ne6 Qh8 $1 4. Nc7+ Kb8 5. Nxa6+ Ka8 6. Qb8+ $1 Qxb8 7. Nc7+ Qxc7+ 8. bxc7 Nd6 9. Kxd6 Kb7 10. Kd7 1-0
+
+[Event "Het Parool"]
+[Date "1965.06.12"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/8/8/P7/4Pkn1/8/8/8 w - - 0 1"]
+
+1. a6 $1 Nf6+ 2. Kf7 (2. Kf8 $2 Kxe4 3. a7 (3. Ke7 Ke5 $1 4. a7 Nd5+) Nd7+) Nd7 3. Ke8 (3. Ke7 $2 Nb8 $1 4. a7 Nc6+) (3. a7 $2 Nb6 4. Ke8 Kxe4 5. Kd8 Kd5) Nb6 4. Kd8 Kxe4 5. Kc7 Na8+ 6. Kb7 1-0
+
+[Event "Het Parool (m)"]
+[Source "(m): Selman=J Springerzauber#038 1998."]
+[Date "1965.06.12"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1pK5/8/7P/8/7P/1k5n w - - 0 1"]
+
+1. h5 $1 (1. Kxb6 $2 Nf2 2. h5 Ng4 3. h3 Nh6 4. Kc6 Kc2 5. Kd6 Kd3 6. Ke5 Ke3 7. Kf6 Kf4 8. Kg6 Nf5 $1) Nf2 2. h6 Ng4 (Nd3 3. Kd6 $1 Nf4 4. Ke7 $1 Ng6+ 5. Kf7) 3. h7 Ne5+ 4. Kxb6 $1 (4. Kd5 $2 Ng6 5. Ke4 b5 $1 6. Kf5 Nh8 7. Kf6 b4 8. Kg7 b3 9. Kxh8 b2 10. Kg7 Kc1 $1 (Ka2 $2 11. h8=Q b1=Q 12. Qa8+ Kb2 13. Qb8+ Kc2 14. Qxb1+) (Kc2 $2 11. h8=Q b1=Q 12. Qh7+ Kc1 13. Qxb1+) 11. h8=Q b1=Q) Ng6 (Nf7 5. Kc7 Kc2 6. Kd7 Kd3 7. Ke7 Nh8 8. Kf6) 5. Kc7 Kc2 6. Kd8 Kd3 7. Ke8 Ke4 8. Kf7 Kf5 9. Kg7 $1 (9. h4 $2 Nh8+ 10. Kg7 Ke6 $1) Kg5 10. h3 $1 (10. h4+ $2 Kh5) Kh5 11. h4 1-0
+
+[Event "Het Parool"]
+[Date "1965.06.12"]
+[Round "?"]
+[Composer "Selman, Johan jr."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1pK5/8/7P/8/7P/1k1n4 w - - 0 1"]
+
+1. h5 $1 (1. Kxb6 $2 Ne3 2. h5 Ng4 3. h3 (3. Kc6 Kc2 4. Kd6 Kd3 5. Ke6 Ke4 6. Kf7 Kf5) Nh6 4. Kc6 Kc2 5. Kd6 Kd3 6. Ke5 Ke3 7. Kf6 Kf4 8. Kg6 Nf5) Ne3 2. h6 Ng4 (Nf5 3. h7 Ne7+ 4. Kd7 Ng6 5. Ke8) 3. h7 Ne5+ 4. Kxb6 (4. Kd5 $2 Ng6 5. Ke4 b5 6. Kf5 Nh8 7. Kf6 b4 8. Kg7 b3 9. Kxh8 b2 10. Kg7 Kc1 (Ka1 $2 11. h8=Q b1=Q 12. Qa8+ Kb2 13. Qb8+) (Kc2 $2 11. h8=Q b1=Q 12. Qh7+) 11. h8=Q b1=Q) Ng6 (Nf7 5. Kc7 Kc2 6. Kd7 Kd3 7. Ke7 Nh8 8. Kf6) 5. Kc7 (5. Kc5 $2 Kc2 6. Kd4 Kb3 $1) Kc2 6. Kd8 Kd3 7. Ke8 Ke4 8. Kf7 Kf5 9. Kg7 (9. h4 $2 Nh8+ 10. Kg7 Ke6) Kg5 10. h3 (10. h4+ $2 Kh5) Kh5 11. h4 1-0

@@ -1,0 +1,179 @@
+[Event "La Scacchiera#22 (c)"]
+[Source "La Scacchiera/6 (c): Rossi=P La Scacchiera/7-8 1954."]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Rossi, Pietro"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1B6/8/8/2p1Np2/2P1k3/8/2p3K1/8 w - - 0 1"]
+
+1. Nd7 $1 c1=Q 2. Nxc5+ Ke3 3. Bf4+ Kxf4 4. Nd3+ 1/2-1/2
+
+[Event "Schweizerische Arbeiter-Schachzeitung#3"]
+[Source "Schweizerische Arbeiter-Schachzeitung/4 also L'Italia Scacchistica#2827 L'Italia Scacchistica=639-640 L'Italia Scacchistica/1-2 1959."]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Rossi, Pietro"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4pPbk/Pp3npp/R7/8/KB2P1P1/7p/8 w - - 0 1"]
+
+1. Rh5 $1 gxh5 2. Bc2+ Kh8 3. Be4 $1 Nxe4 4. a7 h1=Q 5. a8=Q+ Kh7 6. Qg8+ Kg6 7. f8=N+ Kf5 8. Qe6+ Kg5 9. Nh7# 1-0
+
+[Event "Tidskrift for Schack#0594 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - IX-75 2012."]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Rossi, Pietro"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p3k3/8/2N1bP2/6B1/K1p5/Pp6/8 w - - 0 1"]
+
+1. f6+ $1 Kxf6 2. Ne4+ $1 Kg6 3. Nxc3 $1 (3. Nd6 $2 b1=Q 4. Bf5+ Qxf5 5. Nxf5 Kxf5) Bxc3 4. Bd1 $1 b1=Q 5. Bc2+ Qxc2 1/2-1/2
+
+[Event "L'Italia Scacchistica#3146"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Rossi, Pietro"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5P2/4R3/4P3/8/7k/r6p/7K w - - 0 1"]
+
+1. Rh6+ $1 Kg3 2. Rg6+ Kh3 3. Rg1 hxg1=Q+ 4. Kxg1 Ra8 (Kg3 5. f8=Q) 5. Kf2 $1 (5. e6 $2 Kg3 6. Kf1 Kf3 7. Ke1 Ke3 8. Kd1 Kd3 9. Kc1 Kc3 10. Kb1 Rb8+) Kg4 6. e6 1-0
+
+[Event "L'Italia Scacchistica#4264"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Rossi, Pietro"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7P/2P1k1K1/B7/8/8/7r/8 w - - 0 1"]
+
+1. Bd8 $1 (1. Bc7 $2 Rxh7) (1. c7 $2 Kd7) Kd6 2. c7 Kd7 3. Kg7 Rg2+ 4. Bg5 $1 Rxg5+ 5. Kh6 Rg1 6. c8=Q+ Kxc8 7. h8=Q+ 1-0
+
+[Event "Sinfonie Scacchistiche#0955"]
+[Source "Sinfonie Scacchistiche/1-3"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Rossi, Pietro"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/8/8/2P5/2p2B1p/p1K5/k7 w - - 0 1"]
+
+1. Bc6 $1 (1. c5 $2 c6 $1 2. Kc1 c2 3. Bh1 h2 4. Bg2 h1=Q+ 5. Bxh1) h2 2. c5 (2. Kc1 $2 h1=Q+ 3. Bxh1 c5) h1=Q 3. Bxh1 c6 4. Kc1 (4. Bd5 $2 cxd5 5. c6 d4 6. c7 d3+ 7. Kxc3 Kb1) c2 5. Bd5 cxd5 6. c6 1-0
+
+[Event "L'Italia Scacchistica#5443"]
+[Source "L'Italia Scacchistica/6"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Rossi, Pietro"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/5p1p/6P1/6p1/pp4P1/P1P3Pp/5k1K w - - 0 1"]
+
+1. cxb3 $1 fxg5 2. b4 Kf2 3. Kxh2 Ke3 4. b5 Ke4 5. b6 Kf5 6. b7 Kg6 7. b8=N $1 1-0
+
+[Event "Sinfonie Scacchistiche#1534"]
+[Source "Sinfonie Scacchistiche/7-9"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Rossi, Pietro"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B6N/1p6/8/8/8/1N6/pk6/3K4 w - - 0 1"]
+
+1. Na1 $1 b5 (Kxa1 2. Kc2 b5 3. Ng6 b4 4. Ne5 b3+ 5. Kxb3 Kb1 6. Be4+ Ka1 7. Nd3) 2. Bd5 Kxa1 3. Kc2 b4 4. Bg8 b3+ 5. Kxb3 Kb1 6. Bh7+ Ka1 7. Ng6 1-0
+
+[Event "L'Italia Scacchistica#097"]
+[Source "L'Italia Scacchistica/6"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Rossi, Pietro"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K1kq/P5p1/6P1/8/8/8/8/8 w - - 0 1"]
+
+1. a8=Q $1 Qh1 2. Qb8 $1 (2. Qxh1 $2) (2. Qc8 $2 Qh3 3. Qd8 Qe6+ 4. Qe7 Qxe7+) (2. Qd8 $2 Qb7) Qh2 3. Qd8 Qh4 4. Qd5+ Kh8 5. Qa8 1-0
+
+[Event "L'Italia Scacchistica#317"]
+[Source "L'Italia Scacchistica/10"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Rossi, Pietro"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2b2B1k/p4P2/P4P1p/1r5P/6p1/pp2p3/4p2p/K3N1n1 w - - 0 1"]
+
+1. Bxa3 $1 b2+ 2. Bxb2 Ra5+ 3. Ba3 Rxa3+ 4. Kb2 Ra2+ 5. Kc3 Ra3+ 6. Kb4 Rb3+ 7. Kc5 Rc3+ 8. Kd6 Rc6+ 9. Kxc6 h1=Q+ 10. Ng2 Qxg2+ 11. Kc5 1-0
+
+[Event "Sinfonie Scacchistiche#3727"]
+[Source "Sinfonie Scacchistiche/4-6"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Rossi, Pietro"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K5k/B1p3p1/P5P1/4p3/1pp1P3/p3P2p/p7/8 w - - 0 1"]
+
+1. Bd4 $1 (1. Bc5 $2 a1=Q 2. a7 Qg1) c3 2. Bxc3 bxc3 3. a7 a1=Q 4. a8=Q Qa2 5. Ka7+ Qg8 6. Qc8 Qxc8 1/2-1/2
+
+[Event "L'Italia Scacchistica#427"]
+[Source "L'Italia Scacchistica/7-8"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Rossi, Pietro"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/3NP3/3b4/1p6/pp6/P7/1P6/2K5 w - - 0 1"]
+
+1. Nf6+ $1 Kxe7 2. Nd5+ Ke6 3. Nxb4 Bxb4 4. axb4 Kd5 5. b3 axb3 6. Kb2 Kc4 7. Ka3 b2 8. Ka2 Kxb4 9. Kxb2 1/2-1/2
+
+[Event "L'Italia Scacchistica#437"]
+[Source "L'Italia Scacchistica/11"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Rossi, Pietro"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5B2/p3N3/kpK1p1p1/p3P3/p2p1P2/P5p1/8/8 w - - 0 1"]
+
+1. Nd5 $1 exd5 2. Bc5 bxc5 3. e6 g2 4. e7 g1=Q 5. e8=N Qg4 6. Nc7# 1-0

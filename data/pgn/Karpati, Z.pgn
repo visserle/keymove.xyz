@@ -1,0 +1,13 @@
+[Event "Magyar Sakkélet#0360"]
+[Source "Magyar Sakkélet/9"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Karpati, Z"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/4pN2/pP1p4/3P3p/5K1k/8 w - - 0 1"]
+
+1. Nxd4 $1 exd4 2. b5 a3 3. b6 a2 4. b7 a1=Q 5. b8=Q+ Kh1 6. Qb7+ Kh2 7. Qc7+ Kh1 8. Qc6+ Kh2 9. Qd6+ Kh1 10. Qd5+ Kh2 11. Qe5+ Kh1 12. Qe4+ Kh2 13. Qf4+ Kh1 14. Qf3+ Kh2 15. Qg3+ Kh1 16. Qxh3# 1-0

@@ -1,0 +1,40 @@
+[Event "Lidové Listy#100"]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Miltner, Vratislav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k2n/2p3KP/3p4/3Pp1N1/8/8/8/8 w - - 0 1"]
+
+1. Kf6 $1 Kf8 2. Ne6+ Ke8 3. Nxc7+ Kd7 4. Kg7 e4 5. Kxh8 e3 6. Kg7 e2 7. h8=Q e1=Q 8. Qe8+ Qxe8 9. Nxe8 Kxe8 10. Kf6 1-0
+
+[Event "Lidové Listy#177 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - XII-65 2012."]
+[Date "1945.??.??"]
+[Round "?"]
+[Composer "Miltner, Vratislav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7B/8/p2p4/8/3K1N2/1k6/8 w - - 0 1"]
+
+1. Bg8 $1 a4 2. Bxd5 a3 3. Ba2 Ka1 4. Kc3 Kxa2 5. Kc2 Ka1 6. Nd4 Ka2 7. Ne2 Ka1 8. Nc1 a2 9. Nb3# 1-0
+
+[Event "4.c Sachové Umenie#3573"]
+[Source "Sachové Umenie/6 EG#02554."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Miltner, Vratislav"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6kP/7p/1pR5/pP5p/6p1/K7/8 w - - 0 1"]
+
+1. Rh5 $1 g2 2. Rxh6 Kh8 3. Rg6 h3 4. Ka3 h2 5. Rg8+ Kxh7 6. Rxg2 h1=Q 7. Rh2+ Qxh2 1/2-1/2

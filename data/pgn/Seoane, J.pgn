@@ -1,0 +1,13 @@
+[Event "La Stratégie#0914 (@2)"]
+[Source "La @tratégie/1 î2: Van_der_Heijden=H HHdbV 13-4-2012."]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Seoane, J"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/p7/6p1/3p2p1/3P2P1/8/5PPP/7K w - - 0 1"]
+
+1. f4 $1 a5 (Kc7 { <main>} 2. fxg5 (2. f5 $2 gxf5 3. h4 gxh4 4. g5 Kd6) a5 3. h3 (3. g3 $1 { <minor dual HH>} a4 4. Kg2 a3 5. Kh3 a2 6. Kh4 a1=Q 7. h3 Qxd4) a4 4. Kh2 a3 5. Kg3 a2 6. Kh4 a1=Q 7. g3 Qxd4) 2. f5 gxf5 3. h4 a4 4. hxg5 a3 5. g6 a2 6. g7 a1=Q+ 7. Kh2 Qxd4 8. g8=Q+ 1/2-1/2

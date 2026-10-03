@@ -1,0 +1,29 @@
+[Event "?"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Canal, Esteban"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/8/P7/1Pp4N/3p1Kpk/2p5/6P1/8 w - - 0 1"]
+
+1. Kf5 (1. a7 $2 c2 2. a8=Q c1=Q+ $10) (1. Ng3 $4 c2 2. Nf5+ Kh5 $19) (1. g3+ $2 Kxh5 2. Kf5 $10) (1. Nf6 $4 c2 $19) (1. Ke4 $2 c2 2. a7 $10) (1. Ng7 $4 c2 2. Nf5+ Kh5 $19) (1. b6 $4 c2 $19) (1. Ke5 $2 c2 2. a7 $10) Kxh5 (c2 2. Nf4 (2. a7 $2 Kxh5 $4 (c1=Q $5 $10) 3. a8=Q $18) (2. g3+ $2 Kxh5 3. a7 $10) (2. Kg6 $4 c1=Q 3. g3+ Kh3 $19) (2. Nf6 $4 c1=Q 3. g3+ Kxg3 4. Nh5+ Kh4) (2. Ng7 c1=Q) (2. Kf4 c1=Q+ 3. Kf5 Kxh5) c1=Q 3. g3+ (3. Ng6+ $4 Kg3 $19) (3. Ne2 $4 Qc2+ 4. Kf4 Qxe2 5. g3+ Kh3 $19) (3. a7 $4 Qb1+ 4. Ke5 Qa1 $19) (3. Nd3 $4 Qc2 4. g3+ Kxg3) (3. b6 Qb1+ 4. Ke5 Qxb6 5. g3+ Kxg3 6. Ne2+ Kf3) (3. Nh3 gxh3 4. g3+ Kxg3) Kxg3 4. Ne2+ $1 (4. Nh5+ $4 Kh4 $19) (4. a7 $4 Qxf4+ 5. Kg6 Qe4+) (4. Nd3 $4 Qf1+ 5. Ke4 Qf3+) (4. b6 Qxf4+ 5. Ke6 d3) (4. Ng2 Qf1+ 5. Ke6 Qxg2) Kf2 5. Nxc1 g3 6. a7 g2 7. a8=Q g1=Q 8. Qa2+ Kf3 9. Qe2+ Kg3 10. Qg4+ $18) 2. a7 (2. g3 $2 c2 3. a7 $10) (2. Ke4 $2 c2 3. a7) (2. Kf4 c2) c2 3. a8=Q c1=Q 4. Qh8+ (4. Qe8+ $4 Kh4 5. Qd8+ $10) (4. g3 $4 Qg5+ 5. Ke6 $10) (4. Qf3 $4 gxf3 5. g4+ Kh6) (4. Qa7 Qg5+ 5. Ke4 Qg6+) (4. Qb8 Qg5+ 5. Ke4) (4. Qe4 Qf1+ 5. Qf4) Qh6 5. Qe8+ (5. Qe5 $4 Qg5+ 6. Ke4 Qxe5+ 7. Kxe5 d3 $19) (5. Qb8 $4 Qg6+ 6. Kf4 Qh6+ $10) (5. Qg8 Qf6+ 6. Kxf6 $18) (5. Qd8 $4 Qg6+ 6. Kf4 $10) (5. Qxh6+ Kxh6 6. b6 $18) (5. Qf6 $4 Qxf6+ 6. Kxf6 d3) (5. b6 Qxh8) (5. Qf8 Qxf8+ 6. Ke4 Kg5) (5. Qc8 Qg5+ 6. Ke4) Kh4 6. Qe1+ (6. g3+ $4 Kh3 $15 $17) (6. Qe7+ $4 Kg3 7. Qe1+ $10) (6. Qe5 $4 Qh5+ 7. Ke4 Qxe5+ 8. Kxe5 d3 $19) (6. Qd8+ $4 Kg3 7. Qc7+) (6. Qh8 Qxh8 7. g3+ Kxg3) g3 7. Qh1# (7. Qe4+ Qf4+ 8. Qxf4+ Kh5 9. Qg5#) (7. Qe7+ Kh5 8. Qe2+) (7. b6 $4 Qf8+ 8. Kg6) (7. Qe8 Qg5+ 8. Ke6 d3) 1-0
+
+[Event "La Stratégie#0842 (c)"]
+[Source "La Stratégie/9 (c): Garcia=M Estudios Artisticos de Ajedrez - XII-26 2012."]
+[Date "1920.??.??"]
+[Round "?"]
+[Composer "Canal, Esteban"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/Pp6/pPp4N/3p1Kpk/2p5/6P1/8 w - - 0 1"]
+
+1. Kf5 $1 c2 (Kxh5 2. a7 c2 3. a8=Q c1=Q 4. Qh8+ Qh6 5. Qe8+ Kh4 6. Qe1+ Kh5 7. Qh1#) 2. Nf4 c1=Q 3. g3+ Kxg3 4. Ne2+ Kf2 5. Nxc1 g3 6. Nd3+ Ke3 7. Nf4 d3 8. a7 d2 9. a8=Q d1=Q 10. Qe4+ Kf2 11. Qg2+ Ke1 12. Qxg3+ Kf1 13. Ke6 c4 14. Qg2+ Ke1 15. Qe4+ Kf2 16. Qxc4 1-0

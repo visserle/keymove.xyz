@@ -1,0 +1,13 @@
+[Event "Illustrirtes Familien-Journal (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - IX-5 2012."]
+[Date "1858.??.??"]
+[Round "?"]
+[Composer "Pollmacher, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3ppp1p/8/3PPP2/8/8/8/4K2k w - - 0 1"]
+
+1. e6 $1 fxe6 (dxe6 {<main>} 2. f6 exf6 3. d6) 2. d6 exd6 3. f6 1-0

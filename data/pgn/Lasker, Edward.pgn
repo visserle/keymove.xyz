@@ -1,0 +1,26 @@
+[Event "Lasker's Chess Strategy (cr) (c)"]
+[Source "(c): Lasker=Ed Deutsches Wochenschach=7 12-2-1911."]
+[Date "1911.??.??"]
+[Round "?"]
+[Composer "Lasker, Edward"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/5r2/4kp2/8/4KR2 w - - 0 1"]
+
+1. Rf2 $1 Rb4 2. Re2+ fxe2 (Kf4 3. Re8) 1/2-1/2
+
+[Event "Chess Strategy"]
+[Date "1915.??.??"]
+[Round "?"]
+[Composer "Lasker, Edward"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/8/8/1p5p/1P5P/8/3K4/8 w - - 0 1"]
+
+1. Ke2 $1 Ke7 2. Ke3 Ke6 3. Ke4 Kf6 4. Kf4 $1 (4. Kd5 $2 Kf5 5. Kc5 Kg4 6. Kxb5 Kxh4 7. Kc4 Kg3 8. b5 h4 9. b6 h3) Ke6 5. Kg5 1-0

@@ -1,0 +1,13 @@
+[Event "L'Italia Scacchistica#4057"]
+[Source "L'Italia Scacchistica/6"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Kuzmanovic, Branko"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3N2Q1/4K2b/5r1k/5p1q/5P2/8/8/8 w - - 0 1"]
+
+1. Qh8 $1 Qe2+ (Ra6 2. Nf7+ Kg6 3. Ne5+) 2. Kxf6 Qb2+ 3. Ke6 (3. Ke7 $2 Qxh8 4. Nf7+ Kg7 5. Nxh8 Bg8) Qxh8 4. Nf7+ Kg7 5. Nxh8 Kxh8 6. Kf7 Bg8+ 7. Kf6 Bh7 8. Kf7 1/2-1/2

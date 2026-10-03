@@ -1,0 +1,27 @@
+[Event "Wiener Schachzeitung#1628"]
+[Source "Wiener Schachzeitung/2"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Krieger, Ernst"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p3r1/8/3p4/8/3p1Q2/6r1/5K1k w - - 0 1"]
+
+1. Qh5+ $1 (1. Qh3+ $2 Rh2 2. Qf3+ Rgg2 3. Qxd5 c5 $1) Rh2 2. Qxd5+ Rgg2 3. Qc6 $1 d2 4. Qxg2+ Rxg2 1/2-1/2
+
+[Event "Kölnische Zeitung (c)"]
+[Source "(c): Weissauer=H Orlimont und seine Schachaufgaben 1999."]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Krieger, Ernst"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/Pp6/bPp1p3/K2p4/4p1p1/N7/N1P5/8 w - - 0 1"]
+
+1. Nb4 $1 Bf1 2. c4 dxc4 (Bxc4 3. Nxc4 dxc4 4. Na6) 3. Nb5 cxb5 4. Na6 bxa6 5. Kxa6 e3 6. b7# 1-0

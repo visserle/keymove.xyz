@@ -1,0 +1,745 @@
+[Event "Chess#092"]
+[Date "1937.11.14"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7B/4p1K1/8/7p/1p2k3/8/2P5/8 w - - 0 1"]
+
+1. Kf7 $1 Kd5 (h4 {<main>} 2. Ke6 Ke3 3. Ke5 Kd2 4. Kf5 Kxc2 5. Kg4 b3 6. Kxh4) 2. Kg6 (2. Bg7 $2 h4 3. Bh6 Ke4) (2. Bb2 $2 h4 3. Bc1 Ke4) h4 3. Kf5 h3 4. Be5 e6+ 5. Kf6 1/2-1/2
+
+[Event "Le Problème#02"]
+[Source "Le Problème/10 also British Chess Magazine#326 British Chess Magazine/10 1938."]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7P/8/8/7K/8/5pp1/5B1k w - - 0 1"]
+
+1. h8=Q $1 g1=Q (gxf1=Q 2. Kg3+ Kg1 3. Qh2#) (gxf1=N 2. Kh3) (Kg1 2. Bxg2 Kxg2 3. Qb2 Kg1 4. Kg3 f1=Q 5. Qh2#) 2. Qa8+ Kh2 3. Qb8+ Kh1 4. Qb7+ Kh2 5. Qc7+ Kh1 6. Qc6+ Kh2 7. Qd6+ Kh1 8. Qd5+ Kh2 9. Qe5+ Kh1 10. Qe4+ Kh2 11. Qf4+ Kh1 12. Qf3+ Kh2 13. Qh3# 1-0
+
+[Event "Le Problème#05"]
+[Source "Le Problème/10"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/B5K1/8/4k2q/6p1/8/4N3 w - - 0 1"]
+
+1. Bb7+ $1 Kf4 2. Ng2+ Kg4 3. Bc8+ Kf3 4. Nxh4+ Kf2 5. Bb7 (5. Bh3 {<or>}) 1-0
+
+[Event "Le Problème#01"]
+[Source "Le Problème/10 also British Chess Magazine#330 British Chess Magazine/11 1938. after Geiger=H c1b5 1920."]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p1p1p2/pP1P1P2/8/k1p5/2P1p1pP/2P1P1P1/4K3 w - - 0 1"]
+
+1. Kd1 $1 (1. h4 $2 Ka3 2. h5 Kb2 3. h6 a5 4. h7 a4 5. h8=Q a3 6. Qh5 a2 7. Qb5+ Kc1 8. Qa4 Kb2 9. Qb4+ Kc1 10. Qa3+ Kb1 11. Qb4+ Kc1) Ka3 2. Kc1 a5 3. h4 (3. Kb1 $2 a4) a4 4. h5 Ka2 5. h6 a3 6. h7 Ka1 7. h8=N $1 (7. h8=Q $2 a2) a2 (Ka2 8. Nxf7 Ka1 9. Ng5 (9. Nd8 { <or>}) a2 10. Ne6 dxe6 11. d7 e5 12. d8=N e4 13. Nc6 bxc6 14. b7 c5 15. Kd1) 8. Ng6 fxg6 9. f7 g5 10. f8=N $1 g4 11. Ne6 dxe6 12. d7 e5 13. d8=N $1 e4 14. Nc6 bxc6 15. b7 c5 16. Kd1 Kb2 17. b8=Q+ Ka1 {<eg>} 18. Qe8 Kb2 19. Qb5+ Ka1 (Ka3 20. Qxc5+) 20. Qxc4 Kb2 21. Qb3+ Ka1 22. Qa3 Kb1 23. Qc1# 1-0
+
+[Event "Chess#106"]
+[Date "1938.02.14"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p3/1P2K3/6p1/2pNk3/3pPp2/1p1P1P1p/8 w - - 0 1"]
+
+1. Nf5 $1 (1. Nb5 $2 b1=N 2. b7 h1=Q 3. b8=Q Qh3+) h1=N 2. Nxe7 b1=Q 3. Nc8 $1 (3. Nd5 $2 Qb2 $1 4. Nf6+ Qxf6+ 5. Kxf6 Nxf2 6. b7 Ng4+ 7. Ke6 f2 8. b8=Q Kf3 9. Qb7+ Ke2 10. Qg2 Nxe3) Qb4 4. Nd6+ Qxd6+ 5. Kxd6 Nxf2 (Ng3 6. b7) (c3 6. b7 cxd2 7. b8=Q d1=Q 8. Qe8+ Kf5 9. Qe6#) 6. b7 Kf5 (Ng4 7. b8=Q f2 8. Qb7+ Kf5 9. Qf7+ Nf6 10. Ke7) 7. b8=Q Ne4+ 8. Kd5 Nxd2 9. Qc8+ Kg6 10. Qe6+ Kh5 11. Qh3+ Kg6 12. Qh2 c3 13. Kd4 c2 14. Qxd2 f2 15. Qxd3+ Kh5 16. Qf1 Kg4 17. Kd3 Kf3 18. Kxc2 Kxe3 19. Kd1 Kf3 20. Qh3+ Kf4 21. Ke2 g4 22. Qe3+ Kf5 23. Qxf2+ 1-0
+
+[Event "Chess#112"]
+[Date "1938.04.14"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k1K4/pp6/1P6/8/8/8/7P/8 w - - 0 1"]
+
+1. h4 $1 a5 $1 2. h5 a4 3. h6 a3 4. h7 a2 5. h8=Q a1=Q 6. Qg8 $1 (6. Qxa1 $2) (6. Qe8 $2 Qg7 $1) Qa2 7. Qe8 Qa4 8. Qe5+ Ka8 9. Qh8 1-0
+
+[Event "Chess#123"]
+[Date "1938.07.14"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/N7/8/8/7p/8/8/6k1 w - - 0 1"]
+
+1. Nc6 $1 (1. Nb5 $2 h3 2. Nd4 Kf2) h3 2. Ne5 $1 Kg2 3. Ng4 Kg3 4. Ne3 Kf3 5. Nf1 Kf2 6. Nh2 Kg2 7. Ng4 Kf3 8. Nh2+ Kg3 9. Nf1+ Kg2 10. Ne3+ Kf3 11. Nf1 Kf2 12. Nh2 Kg3 13. Nf1+ Kf2 14. Nh2 Kg2 15. Ng4 1/2-1/2
+
+[Event "Le Problème#02"]
+[Source "Le Problème/1-4 also British Chess Magazine#359 British Chess Magazine/5 1939."]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1K6/8/2P5/5k2/6n1/7b w - - 0 1"]
+
+1. c5 $1 Ne3 2. c6 Nc4+ (Kf4 3. c7 Nc4+ (Nd5+ 4. Ka7 Ne7 5. Kb8 Nc6+ 6. Kb7 Na5+ 7. Ka6) 4. Kc5) 3. Kc5 (3. Ka7 $2 Kf4 4. c7 Nd6 5. Kb8 Bb7 6. c8=Q Bxc8 7. Kc7 Ke5) 1/2-1/2
+
+[Event "Chess#148"]
+[Date "1939.02.14"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/3p3K/3p4/k2P4/8/1B6 w - - 0 1"]
+
+1. Bc2 $1 (1. Kg4 $2 Kb2) Kb4 (Kb2 2. Ba4) 2. Bd1 Kc3 3. Be2 Kd2 4. Bf1 Ke3 (Ke1 5. Bh3 Kd2 6. Bf5 Kc3 7. Kg5 Kb4 8. Kf4 Kb5 9. Ke5 Kc5 10. Bg6 Kc6 11. Kxd4) 5. Kg5 Kf2 6. Bh3 Ke3 7. Bf5 1-0
+
+[Event "Chess#160"]
+[Date "1939.05.14"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6K1/P1k1P3/1n6/8/8/b7/8 w - - 0 1"]
+
+1. a7 $1 (1. e7 $2 Kd7) Nc7 $1 (Nxa7 2. e7 Kd7 3. Kf8) (Kb7 2. e7 Nd6 3. Kf8 Bf7 4. e8=Q Bxe8 5. Ke7) 2. e7 (2. a8=Q+ $2 Nxa8 3. e7 Nc7 $1 (Kd7 $2 4. Kf8 Nc7 5. e8=Q+ Nxe8) 4. Kf8 Ne6+ 5. Kf7 Nf4+ 6. Kf8 Ng6+ 7. Ke8 Kd6) Kd7 3. a8=Q Nxa8 4. Kf8 Nc7 5. e8=Q+ Nxe8 1/2-1/2
+
+[Event "Chess#166"]
+[Date "1939.06.20"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3Q4/1PbP4/2K3nk/q7/8/8/8/8 w - - 0 1"]
+
+1. Qxc7 $1 (1. Qf6 $2 Qb6+) (1. Qh4+ $2 Nxh4 2. d8=Q Qb6+) (1. b8=Q $2 Ne5+ 2. Kb7 Qb6+ 3. Ka8 Qa6+ 4. Qa7 Qxa7+ 5. Kxa7 Bxd8) (1. Qe8 $2 Ne5+) Ne7+ (Ne5+ 2. Qxe5) 2. Kd6 Nf5+ 3. Kc6 (3. Ke6 $2 Qxc7) Nd4+ 4. Kd6 Nb5+ 5. Ke7 Qxc7 6. b8=Q Qxb8 7. d8=Q Qe5+ 8. Kd7 (8. Kf7 $2 Nd6+ 9. Qxd6+ Qxd6) (8. Kf8 $2 Qg7+ 9. Ke8 Nc7+) Qd6+ 9. Ke8 $1 Nc7+ 10. Kf7 Qxd8 (Qg6+ { <main>} 11. Ke7 (11. Kf8 $2 Ne6+) Qe6+ (Qg5+ 12. Kd7) 12. Kf8) (Qe6+ {<main>} 11. Kf8 Qf5+ 12. Ke7 Nd5+ 13. Kd6) 1/2-1/2
+
+[Event "British Chess Magazine#0411"]
+[Source "British Chess Magazine/5"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/P2p4/8/1k6/2N5/3p3K/2p5/8 w - - 0 1"]
+
+1. a8=Q $1 (1. Nd6+ $2 Kb4) (1. Na3+ $2 Kb4) c1=Q (Kxc4 2. Qa5 Kb3 (d5 3. Kg3) 3. Qd2 Kb2 4. Kg3 d5 5. Kf3 d4 6. Ke4 Kb1 7. Qxd3) 2. Qa5+ Kc6 3. Qb6+ Kd5 4. Qd6+ Ke4 5. Qe5+ Kf3 6. Qf5+ Ke2 (Qf4 7. Nd2+ Ke3 8. Nf1+ Kf3 9. Nh2+ Ke3 10. Ng4+) 7. Qg4+ Kf2 8. Qg2+ Ke1 9. Qg1+ (9. Qh1+ {<or>}) 1-0
+
+[Event "Revista de Romana de Sah#0313 (v)"]
+[Date "1940.04.15"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r2q4/2PPP1P1/1P5P/6b1/p1P5/Pk6/2p5/K1B5 w - - 0 1"]
+
+1. exd8=Q $1 (1. exd8=B $2 Bxc1) Rxd8 (Bxc1 2. Qf6 Bxa3 3. Qf3+ Kb4 4. Qe3 c1=Q+ 5. Qxc1 Bxc1 6. c8=Q) 2. cxd8=Q (2. g8=N $2 Bxc1) (2. Bxg5 $2 Rxd7) (2. cxd8=B $2 Bxc1 3. Bf6 Bxa3) Bxd8 (Bxc1 3. Qf6 Bxa3 4. Qf3+ Kb4 5. Qe3) 3. g8=N $1 Bxb6 4. d8=R $1 (4. d8=Q $2 Bd4+ 5. Qxd4) Bxd8 5. h7 Bb6 6. h8=B $1 (6. h8=Q $2 Bd4+ 7. Qxd4) Bc5 {<eg>} 7. Nh6 Bxa3 8. Bxa3 Kxa3 9. Bb2+ Kb4 10. Ka2 Kxc4 11. Ng4 Kd3 12. Bc1 Ke2 13. Kb2 Kd1 14. Ne3+ 1-0
+
+[Event "Revista de Romana de Sah#0313"]
+[Date "1940.04.15"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3q4/3PP1P1/1P5P/6b1/p1P5/Pk6/2p5/K1B5 w - - 0 1"]
+
+1. exd8=Q $1 (1. g8=N $2 Bxc1) (1. Bxg5 $2 Qxe7 2. Bxe7 c1=Q#) (1. Bb2 $2 Bf6 $1) (1. exd8=B $2 Bxc1 2. Bf6 Bxa3) Bxd8 (Bxc1 2. Qf6 Bxa3 3. Qf3+ Kb4 4. Qe3) 2. g8=N Bxb6 3. d8=R $1 (3. d8=Q $2 Bd4+ 4. Qxd4) Bxd8 4. h7 Bb6 5. h8=B $1 (5. h8=Q $2 Bd4+ 6. Qxd4) Bc5 {<eg>} 6. Nh6 Bxa3 7. Bxa3 Kxa3 8. Bb2+ Kb4 9. Ka2 Kxc4 10. Ng4 Kd3 11. Bc1 Ke2 12. Kb2 Kd1 13. Ne3+ 1-0
+
+[Event "British Chess Magazine#0493"]
+[Source "British Chess Magazine/9"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5N2/4p3/3k3P/p4K2/8/8/8 w - - 0 1"]
+
+1. h6 $1 (1. Ne5 $2 a3) a3 2. h7 e5+ 3. Nxe5 a2 4. h8=Q a1=Q 5. Qd8+ (5. Qg8+ {<or>}) Kc5 6. Qc7+ (6. Qc8+ {<or>}) Kb4 (Kb5 7. Qc6+) 7. Qb6+ Kc3 8. Qc6+ Kb3 (Kd2 {<main>} 9. Nc4+ (9. Nf3+ $2 Kd1) Kc2 10. Qe4+ Kb3 11. Nd2+ Ka3 12. Qd3+ Kb2 13. Qd4+ Ka2 14. Qa4+ Kb2 15. Nc4+ Kb1 16. Qd1+ Ka2 17. Qc2+) (Kb4 {<main>} 9. Nd3+ Kb3 10. Qd5+ Kc2 11. Nb4+ Kc1 12. Qc4+ Kb2 13. Qd4+ Kb1 14. Qd1+ Kb2 15. Nd3+ Ka2 16. Qc2+) 9. Qc4+ Ka3 10. Qa6+ Kb2 11. Nc4+ Kb1 12. Nd2+ Kb2 13. Qf6+ Ka2 14. Qe6+ (14. Qf7+ {<or>}) Kb2 15. Qe5+ Ka2 16. Qd5+ Kb2 17. Qd4+ Ka2 18. Qa4+ Kb2 19. Nc4+ Kb1 20. Qd1+ Ka2 21. Qc2+ 1-0
+
+[Event "British Chess Magazine#0451"]
+[Source "British Chess Magazine/1"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/8/1p6/8/8/7b/1P6/5k2 w - - 0 1"]
+
+1. Kb7 $1 b5 2. Kc6 b4 3. b3 (3. Kc5 $2 b3 4. Kc4 Be6+ 5. Kd3 Ke1) Be6 4. Kc5 1/2-1/2
+
+[Event "British Chess Magazine#0519"]
+[Source "British Chess Magazine/4"]
+[Date "1942.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/8/3kqN2/4p3/6Q1/8/1p6/8 w - - 0 1"]
+
+1. Ne4+ $1 (1. Ne8+ $2 Qxe8+) (1. Qb4+ $2 Kc6 2. Qa4+ Kb6 3. Nd7+ Qxd7+) Kd5 2. Nc3+ Kd6 3. Nb5+ Kc5 4. Qxe6 b1=Q 5. Qd6+ Kxb5 (Kc4 6. Na3+) 6. Qb8+ 1-0
+
+[Event "British Chess Magazine#0517"]
+[Source "British Chess Magazine/3"]
+[Date "1942.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3P2K1/2kN4/8/7p/8/8 w - - 0 1"]
+
+1. d7 $1 h2 2. d8=Q h1=Q 3. Qb6+ Kc4 4. Qb4+ Kd3 5. Qc3+ Ke2 (Ke4 6. Nf6+ Kf4 7. Nh5+) 6. Nf4+ Kf2 7. Qd2+ Kg3 (Kf1 8. Qd1+) (Kf3 8. Qd5+) (Kg1 8. Qe1+ Kh2 9. Qf2+) 8. Nh5+ Kh3 (Kh4 9. Qf4+ Kh3 10. Qg3#) 9. Qe3+ Kg2 10. Nf4+ Kh2 (Kf1 11. Qc1+) 11. Qf2+ 1-0
+
+[Event "British Chess Magazine#0594 (c)"]
+[Source "British Chess Magazine/10 (c): Garcia=M Estudios Artisticos de Ajedrez - IV-13 2012."]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1p1q1p2/5R2/1pP5/1k5P/1P1PN2P/1K6 w - - 0 1"]
+
+1. Nc1+ $1 Kxc4 2. b3+ (2. d3+ $2 Kd4 3. Ne2+ Ke3) Kd4 3. Ne2+ Ke4 (Kd3 4. Rd5+ Qxd5 5. Nf4+ Ke4 6. Nxd5 Kxd5 7. h4) 4. Ng3+ Kd4 (Kd3 5. Rf3+ Kxd2 (Kd4 6. Nf5+ Ke4 7. Nxd6+) 6. Ne4+ Ke2 7. Nxd6) (Qxg3 5. hxg3 Kxf5 6. h4) 5. Rf4+ Ke5 (Qxf4 6. Ne2+ Ke4 7. Nxf4) (Kd5 6. Rd4+ Kxd4 7. Nf5+ Ke5 8. Nxd6) 6. Re4+ Kd5 7. Rd4+ Kxd4 8. Nf5+ Ke5 9. Nxd6 Kxd6 {<eg>} 10. h4 1-0
+
+[Event "Chess#325 (@2)"]
+[Source "Che@s/11 î2: Ulrichsen=J HHdbIV#21132 27-12-2005."]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/P7/5k2/K7/5p2/5P2/8 w - - 0 1"]
+
+1. Kb5 $1 (1. Kb4 $2 Ke6) (1. Kb3 $2 Ke6) Ke6 (Ke5 2. Kc5) (Ke4 2. Kc4) (Kg4 2. Kc5 Kh3 3. Kd4 Kh2 4. Ke4 Kg2 5. Ke3) (Kf4 2. Kb4 Kf5 3. Kc3 Ke4 4. Kc4) 2. Kc6 (2. Kc5 $2 Kd7) Ke5 (Ke7 3. Kd5) 3. Kc5 (3. Kb7 $2 Kd6) Ke4 (Ke6 4. Kd4) 4. Kc4 Ke5 5. Kd3 Kd5 6. Ke3 Kc6 7. Kxf3 Kb6 8. Kg4 (8. Ke4 $2 Kxa6 9. f4 Kb6 $1 (Kb5 $2 10. Kd5 $1 a5 11. f5 a4 12. f6 a3 13. f7 a2 14. f8=Q a1=Q 15. Qb8+ Ka6 16. Qa8+) 10. f5 Kc7 11. Ke5 a5 $1 12. Ke6 a4) Kxa6 9. f4 Kb5 10. f5 Kc6 (a5 11. f6) 11. Kg5 (11. f6 $2 Kd7) (11. Kh5 $1 {<minor dual JU>}) a5 (Kd7 12. Kg6) 12. f6 (12. Kg6 $2 a4) Kd7 (a4 13. f7) 13. Kg6 (13. Kh6 $1 {<minor dual JU>}) a4 14. f7 Ke7 15. Kg7 1-0
+
+[Event "British Chess Magazine#0629"]
+[Source "British Chess Magazine/6"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/1P6/7k/8/K4p2/5P2/8 w - - 0 1"]
+
+1. Kb4 $1 (1. Kb3 $2 Kg5 2. Kc4 Kf6) Kg5 (Kg4 2. Kc4) 2. Kc5 (2. Kc4 $2 Kf6) Kg4 3. Kc4 (3. Kd4 $2 Kf4) (3. Kd5 $2 Kf5) (3. Kd6 $2 Kh3) Kf5 4. Kd5 (4. Kd4 $2 Ke6 5. Ke4 (5. Ke3 Kd6) Kd6) (4. Kd3 $2 Ke6 5. Ke4 Kd6) Kf4 5. Kd4 (5. Kd6 $2 Ke4 6. Kc7 Kd3 7. Kxb7 Ke2 8. Kc6 Kxf2 9. b7 Kg1) Kf5 6. Ke3 Ke5 7. Kxf3 Kd5 8. Kg4 (8. Kg3 $2 Kc6 9. f4 Kxb6 10. f5 Kc6 11. Kg4 b5 12. Kg5 b4) Kc5 9. f4 Kxb6 10. f5 Kc6 11. Kg5 b5 12. f6 Kd7 13. Kg6 b4 14. f7 Ke7 15. Kg7 1-0
+
+[Event "British Chess Magazine#0623 (@2)"]
+[Source "Bri@ish Chess Magazine/5 î2: Ulrichsen=J HHdbIV#21401 27-12-2005."]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/3k4/1p4P1/8/P1K5/8/8 w - - 0 1"]
+
+1. Kd4 $1 (1. Kb4 $2 Kc6) Ke6 (Kc6 2. Ke5) 2. Kc5 (2. Ke4 $2 f6) Kf5 (f6 3. gxf6 Kxf6 4. Kxb5 Ke7 5. Kb6 Kd8 6. Kb7) 3. Kxb5 Kxg5 4. a4 f5 5. a5 (5. Kc4 $1 {<minor dual JU>}) f4 6. Kc4 f3 7. Kd3 Kg4 8. a6 Kg3 9. a7 f2 10. Ke2 Kg2 11. a8=Q+ 1-0
+
+[Event "British Chess Magazine#0631"]
+[Source "British Chess Magazine/6"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K3k3/5p2/2p2P2/8/1P6/8/8/8 w - - 0 1"]
+
+1. Ka7 $1 Kd8 2. Kb6 (2. Kb8 {<or>}) Kd7 3. Kb7 Kd6 4. Kc8 Ke6 5. Kc7 Kxf6 (Kd5 {<main>} 6. Kd7) 6. Kxc6 1-0
+
+[Event "British Chess Magazine#0622"]
+[Source "British Chess Magazine/5"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/1P6/7k/8/K5p1/6P1/8 w - - 0 1"]
+
+1. Kb4 $1 (1. Kb3 $2 Kg5 2. Kc4 Kf6 3. Kd5 Ke7 4. Ke5 Kd7) Kg5 2. Kc5 Kf4 (Kf5 3. Kd6 Ke4 4. Kc7) 3. Kd4 (3. Kd6 $2 Ke3) Kf5 4. Ke3 Ke5 5. Kf3 Kd5 6. Kxg3 Kc5 7. Kh4 $1 (7. Kh3 $2 Kxb6 8. g4 Kc6 9. g5 Kd6 10. Kh4 Ke6 11. Kh5 Kf7 12. Kh6 Kg8) Kxb6 8. g4 Kc5 9. g5 Kd6 10. Kh5 b5 11. g6 Ke7 12. Kh6 b4 13. g7 Kf7 14. Kh7 1-0
+
+[Event "British Chess Magazine#0650"]
+[Source "British Chess Magazine/10"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/8/5p2/2p2P2/8/1P2k3/8/8 w - - 0 1"]
+
+1. Kf7 $1 Kd3 2. Ke6 (2. Ke7 {<or>}) Kd4 3. Kd6 Ke4 4. Kxc5 Kxf5 5. b4 Ke6 6. Kc6 Ke7 (f5 7. b5 f4 8. b6 f3 9. b7 f2 10. b8=Q f1=Q 11. Qe8+ Kf6 12. Qf8+) 7. b5 Kd8 {<eg>} 8. Kb7 f5 9. Ka7 f4 10. b6 f3 11. b7 f2 12. b8=Q+ 1-0
+
+[Event "British Chess Magazine#0657"]
+[Source "British Chess Magazine/11"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/5p2/kp6/8/8/P7/6P1/8 w - - 0 1"]
+
+1. g4 $1 (1. Kb8 $2 Ka5 2. Kc7 (2. g4 Ka4) b5 3. g4 (3. Kc6 Ka4) Ka4 4. Kc6 (4. Kd6 Kxa3) (4. g5 Kxa3) Kxa3 5. Kxb5 Kb3 6. Kc5 Kc3 7. Kd6 Kd4 8. Ke7 Ke5 9. Kxf7 Kf4) b5 (Ka5 2. g5 Ka4 (b5 3. Kb7 b4 4. axb4+ Kxb4 5. Kc6 Kc4 6. Kd6 Kd4 7. Ke7 Ke5 8. Kxf7 Kf5 9. g6) 3. Kb7 b5 4. Kb6 Kxa3 5. Kxb5 Kb3 6. Kc5 Kc3 7. Kd6 Kd4 8. Ke7 Ke5 9. Kxf7 Kf5 10. g6) (f6 2. Kb8 (2. a4 $2 b5 3. axb5+ Kxb5 4. Kb7 Kc5) b5 (Ka5 3. Kb7 b5 (Kb5 4. a4+) 4. Kc6 Ka4 5. Kb6 b4 6. axb4 Kxb4 7. Kc6) 3. Kc7 Ka7 (Ka5 4. Kb7) 4. Kd6 Ka6 5. Ke6 Ka5 6. Kxf6 Ka4 7. g5 Kxa3 8. g6 b4 9. g7 b3 10. g8=Q) 2. g5 (2. Kb8 $2 Ka5 3. Kb7 Ka4 4. Kb6 Kxa3 5. Kxb5 Kb3 6. Kc5 Kc3 7. Kd6 Kd4 8. Ke7 Ke5 9. Kxf7 Kf4) Kb6 (Ka5 3. Kb7 Ka4 (b4 4. axb4+) 4. Kb6 Kxa3 5. Kxb5 Kb3 6. Kc5 Kc3 7. Kd6 Kd4 8. Ke7 Ke5 9. Kxf7 Kf5 10. g6) 3. Kb8 Kc6 (Ka5 4. Kb7) (Ka6 4. Kc7 Ka7 (Ka5 5. Kb7) 5. Kd7 Ka6 6. Ke7 Ka5 7. Kxf7 Ka4 8. g6) 4. Kc8 (4. Ka8 $2 Kb6) (4. Ka7 $2 Kc7 5. Ka6 Kc6 6. Ka5 Kc5) Kd6 (Kb6 5. Kd7 Ka5 6. Ke7 Ka4 7. Kxf7 Kxa3 8. g6 b4 9. g7) 5. Kb7 (5. Kd8 $2 Ke6 6. Ke8 (6. Kc7 f5 7. gxf6 Kxf6 8. Kb6 Ke7 9. Kxb5 Kd8 10. Kb6 Kc8) f5 7. g6 Kf6) Ke6 (Kc5 6. Kc7 Kd5 7. Kb6 Kc4 8. Kc6) 6. Kc6 (6. Kb6 {<or>}) (6. Ka6 {<or>}) Kf5 (f5 7. gxf6 Kxf6 8. Kxb5 Ke7 9. Kb6 Kd8 10. Kb7) 7. Kxb5 Kxg5 8. a4 f5 9. a5 (9. Kc4 {<or>}) f4 10. Kc4 (10. a6 $2 f3) f3 11. Kd3 Kg4 12. a6 Kg3 13. a7 f2 14. Ke2 Kg2 15. a8=Q+ 1-0
+
+[Event "British Chess Magazine#0655 (c)"]
+[Source "British Chess Magazine/11 (c): Blundell=D Richard Guy's Chess Endgame Studies-7 1996."]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1p3p1K/1P3k2/8/6P1/8/8 w - - 0 1"]
+
+1. Kh7 $1 (1. Kg7 $2 Ke6) (1. Kh5 $2 Ke6) Ke6 2. Kg7 Ke5 3. Kf7 Kf5 4. Ke7 Kg5 5. Ke6 Kg6 6. Kd6 $1 (6. Kd7 {<or>}) (6. Kd5 {<or>}) Kg5 7. Kc6 f5 8. Kxb6 Kg4 {<eg>} 9. Kc6 Kxg3 10. b6 f4 11. b7 f3 12. b8=Q+ 1-0
+
+[Event "British Chess Magazine#0630"]
+[Source "British Chess Magazine/6"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1p5k/1P6/8/6p1/K5P1/8 w - - 0 1"]
+
+1. Kb3 $1 Kg5 2. Kc4 Kf5 (Kf4 3. Kd4) 3. Kd5 Kf4 4. Kd4 (4. Kc6 $2 Ke3) Kf5 5. Ke3 Ke5 6. Kf3 Kd5 7. Kxg3 Kc5 8. Kh4 Kxb5 9. g4 Kc6 10. g5 Kd7 11. Kh5 b5 12. g6 Ke7 13. Kh6 b4 14. g7 Kf7 15. Kh7 1-0
+
+[Event "British Chess Magazine#0658"]
+[Source "British Chess Magazine/11"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/8/1P5k/K7/5p2/5P2/8 w - - 0 1"]
+
+1. Kb4 $1 (1. Ka5 $2 Kh4 2. Ka6 Kh3 3. Kxa7 Kg2 4. b6 Kxf2 5. b7 Kg1 6. b8=Q f2) (1. Kb3 $2 Kg5 2. Kc4 Kf6 3. Kd5 Kf5 (Ke7 4. Kc6) 4. Kc6 (4. Kd6 Ke4) (4. Kd4 Ke6 5. Ke4 Kd6 6. Kxf3 Kc5 7. Kg4 (7. Ke4 Kxb5 8. Kd5 a5) Kxb5 8. f4 a5) Ke4 5. Kb7 Kd3 6. Kxa7 Ke2 7. b6 Kxf2 8. b7 Kg2 9. b8=Q f2) Kg5 (Kg4 2. Kc4) (Kh4 2. Kc3 Kg4 (Kh3 3. Kd3 Kh2 4. Ke4 Kg2 5. Ke3) 3. Kd3 Kf4 (Kf5 4. Ke3) 4. Kd4) (Kg6 2. Ka5 Kf5 3. Ka6 Ke4 4. Kxa7 Kd3 5. b6) 2. Kc5 (2. Kc4 $2 Kf6) Kg4 3. Kc4 $1 (3. Kc6 $2 Kh3) (3. Kd6 $2 Kh3) (3. Kd4 $2 Kf5) (3. Kd5 $2 Kf5) Kf5 (Kh3 4. Kd3 Kh2 5. Ke4 $1 Kg2 6. Ke3) 4. Kd5 (4. Kd3 $2 Ke5) (4. Kd4 $2 Ke6) Kf4 5. Kd4 (5. Kc6 $2 Ke4 6. Kb7 Kd3 7. Kxa7 Ke2 8. b6 Kxf2 9. b7 Kg1 10. b8=Q f2) Kf5 6. Ke3 Ke5 7. Kxf3 Kd5 8. Kg4 (8. Kg3 $2 Kc5 9. f4 Kxb5 10. f5 Kc6 11. Kg4 a5 12. f6 Kd7) Kc5 9. f4 Kxb5 10. f5 Kc6 11. Kg5 a5 12. f6 Kd7 13. Kg6 a4 14. f7 Ke7 15. Kg7 1-0
+
+[Event "British Chess Magazine#0659"]
+[Source "British Chess Magazine/11"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/2p3P1/8/8/1P6/8/K1k5 w - - 0 1"]
+
+1. Ka2 $1 Kd2 2. Ka3 Kc3 3. Ka4 Kd4 4. Ka5 Kc5 5. Ka6 Kd6 6. Kb7 c5 7. Kb6 Kd5 8. Kc7 Ke5 9. Kc6 Kf6 10. Kxc5 Kxg6 11. b4 Kf7 12. b5 Ke7 13. Kc6 Kd8 14. Kb7 (14. Kb6 {<or>}) 1-0
+
+[Event "British Chess Magazine#0615 (c)"]
+[Source "British Chess Magazine/3 (c): Garcia=M Estudios Artisticos de Ajedrez - XV-28 2015."]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/k3KP2/1N6/8/p6p/8/8 w - - 0 1"]
+
+1. f7 $1 (1. Nc7+ $2 Kb7 2. f7 a2 3. f8=Q a1=Q) h2 2. f8=Q h1=Q 3. Nc7+ Ka7 (Kb7 4. Qa8+ Kxc7 5. Qxh1) (Kb6 4. Nd5+ Kb7 5. Qb4+) 4. Qxa3+ Kb8 5. Na6+ Kc8 (Kb7 6. Nc5+ Kc6 7. Qa8+ Kxc5 8. Qxh1) 6. Qc3+ Kb7 7. Nc5+ Kc7 8. Qa5+ $1 (8. Ne4+ $2 Kb6) Kc8 9. Qa6+ Kd8 10. Qd6+ Kc8 11. Qd7+ Kb8 12. Qd8+ Ka7 13. Qc7+ Ka8 14. Qc8+ Ka7 15. Qa6+ Kb8 16. Nd7+ Kc7 17. Qb6+ Kc8 18. Qb8# 1-0
+
+[Event "British Chess Magazine#0610"]
+[Source "British Chess Magazine/2"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/8/4K2N/2P5/8/p7/8/8 w - - 0 1"]
+
+1. c6 $1 a2 2. c7 a1=Q 3. c8=Q+ Kg7 4. Nf5+ Kg6 (Kh7 5. Qc7+ Kg6 6. Qg3+ Kh7 7. Qh4+) 5. Qg8+ (5. Nh4+ $2 Kh5) Kh5 6. Qh7+ Kg4 (Kg5 7. Qh4+ Kg6 8. Qh6#) 7. Qh4+ Kf3 8. Qg3+ (8. Nd4+ $2 Kg2 9. Qg4+ (9. Qe4+ Kh2 10. Nf3+ (10. Qh4+ Kg2) (10. Qf4+ Kg2) Kg3) Kh1 10. Qh3+ Kg1 11. Ne2+ (11. Nf3+ Kf2) Kf2) Ke2 (Ke4 9. Qe3#) 9. Qg2+ Kd3 10. Qd5+ (10. Qf3+ $2 Kc4) Kc2 (Ke2 11. Nd4+ Kf2 12. Qf3+ Kg1 13. Ne2+ Kh2 14. Qg3+ Kh1 15. Qh3#) (Kc3 11. Qd4+) 11. Ne3+ (11. Nd4+ $2 Kb1) Kb2 (Kc1 12. Qd1+ Kb2 13. Nc4+ Ka2 14. Qc2+) (Kb1 12. Qd1+ Ka2 13. Qa4+ Kb2 14. Nc4+ Kb1 15. Qd1+ Ka2 16. Qc2+) 12. Qd4+ Kb1 13. Qd1+ Ka2 (Kb2 14. Nc4+) 14. Qa4+ Kb2 15. Nc4+ Kb1 16. Qd1+ Ka2 17. Qc2+ 1-0
+
+[Event "British Chess Magazine#0624"]
+[Source "British Chess Magazine/5"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/4p1Kp/P6P/8/4k3 w - - 0 1"]
+
+1. Kf4 $1 Kf2 2. Kxe4 Kg3 3. a4 Kxh3 4. Kf3 Kh2 5. a5 (5. Kg4 {<or>} h3 6. a5) h3 6. Kg4 $1 Kg2 7. a6 h2 8. a7 h1=Q 9. a8=Q+ Kh2 10. Qh8+ Kg2 (Kg1 11. Qd4+ Kh2 12. Qf4+ Kg1 13. Qe3+ Kf1 14. Qc1+ Kg2 15. Qd2+ Kf1 16. Qd1+ Kg2 17. Qe2+ Kg1 18. Kg3) 11. Qb2+ 1-0
+
+[Event "British Chess Magazine#0626"]
+[Source "British Chess Magazine/5"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2p4k/2P5/3K3p/7P/8/8 w - - 0 1"]
+
+1. Ke4 $1 Kg6 2. Kf4 Kf6 3. Kg4 Ke6 4. Kxh4 Kd5 5. Kg5 Kxc5 6. h4 Kd6 7. Kf6 c5 8. h5 c4 9. h6 c3 10. h7 c2 11. h8=Q c1=Q 12. Qd8+ Kc6 13. Qc8+ 1-0
+
+[Event "The Chess Problem#23 (pl)"]
+[Source "EG#14012. = Sackmann=F g8g6 1923."]
+[Date "1944.09.13"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/8/1k6/8/8/7p/7P/8 w - - 0 1"]
+
+1. Ka8 $1 (1. Kc8 $2 Kc6 2. Kb8 Kd5 3. Kc7 Ke4 4. Kd6 Kf3 5. Ke5 Kg2 6. Kf4 Kxh2 7. Kg4 (7. Kf3 Kg1) Kg2) Kc6 (Ka6 2. Kb8 Kb6 3. Ka8) (Kc5 2. Kb7 Kd4 (Kd5 3. Kb6) 3. Kc6 Ke3 (Ke4 4. Kc5) 4. Kd5 Kf2 (Kf3 5. Kd4) 5. Ke4 Kg1 (Kg2 6. Ke3) 6. Kf3 Kxh2 7. Kf2) 2. Ka7 (2. Kb8 $2 Kd5) Kd5 3. Kb6 Ke4 4. Kc5 Kf3 5. Kd4 Kg2 6. Ke3 Kxh2 7. Kf2 1/2-1/2
+
+[Event "British Chess Magazine#0674"]
+[Source "British Chess Magazine/3"]
+[Date "1945.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1K5P/8/p2k4/6N1/8 w - - 0 1"]
+
+1. Ne1+ $1 (1. h6 $2 a2 2. Ne1+ Kd2 3. Nf3+ Kd1) (1. Nf4+ $2 Kd2 2. Ne6 a2 3. Nc5 Kc2) Kc3 (Kd2 2. Nf3+ Kc2 (Kc3 3. h6 a2 4. h7 a1=Q 5. h8=Q+) (Ke3 3. Nd4 Kxd4 4. h6 a2 5. h7 a1=Q 6. h8=Q+) 3. Kb4 a2 4. Nd4+ Kb2 5. Nb3) (Kd4 2. h6 a2 3. h7) (Ke2 2. Nc2) (Ke4 2. h6) 2. h6 a2 3. h7 a1=Q 4. h8=Q+ (4. h8=B+ $2 Kd2 5. Nf3+ Ke3) Kb3 $1 5. Qg8+ (5. Qxa1 $2) Kc3 (Kb2 6. Qg7+ Kb1 7. Qg6+ Ka2 (Kb2 8. Qc2+) 8. Qe6+ Kb2 9. Qe5+ Kb1 10. Qe4+ Kb2 11. Nd3+) 6. Qg7+ Kb3 7. Qf7+ (7. Qxa1 $2) Kc3 8. Qf6+ Kb3 9. Qe6+ Kc3 10. Qe5+ Kb3 11. Qd5+ Kc3 12. Qd3+ Kb2 13. Qc2+ Ka3 14. Qa4+ Kb2 15. Nd3+ Kb1 16. Qb3+ (16. Qd1+ {<or>}) 1-0
+
+[Event "Le Monde des Échecs#52"]
+[Source "Le Monde des Échecs/12"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6P1/3p4/8/p2B4/k1K4p/8 w - - 0 1"]
+
+1. Be4 $1 dxe4 2. g7 h1=Q 3. g8=Q+ Ka1 4. Qg7+ Ka2 5. Qf7+ Ka1 6. Qf6+ Ka2 7. Qe6+ Ka1 8. Qe5+ Ka2 9. Qd5+ Ka1 10. Qd4+ Ka2 11. Qc4+ Ka1 12. Qc3+ Ka2 13. Qb3+ Ka1 14. Qxa3# 1-0
+
+[Event "British Chess Magazine#0765"]
+[Source "British Chess Magazine/9"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/1p3N2/4p1q1/P1p1p3/3N1k2/8/2P1PP2/8 w - - 0 1"]
+
+1. e3+ $1 Ke4 2. Nd6+ Kd5 3. c4+ Kxd6 4. Nb5+ Kc6 5. Na7+ Kd6 6. Nc8+ Kc6 7. Ne7+ Kd6 8. Nxg6 1-0
+
+[Event "British Chess Magazine#0773"]
+[Source "British Chess Magazine/10"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/4k3/p1p5/p1PP4/PPpK4/2n5 w - - 0 1"]
+
+1. d4+ $1 (1. Kxc1 $2 cxd3 2. bxa3 Kd5) (1. Kxc2 $2 Nxd3) (1. bxa3 $2 cxd3) (1. dxc4 $2 Nxa2 2. Kxc2 axb2 3. Kxb2 Nxc3 4. Kxc3 Kd6) Ke4 2. Kxc1 (2. Kxc2 $2 axb2) Kd3 (axb2+ 3. Kxb2) 3. bxa3 (3. d5 $2 axb2+ 4. Kxb2 Kd2) (3. b4 $2 axb3 4. axb3 a2 5. Kb2 c1=Q+) Kxc3 (Ke4 4. Kxc2 Kf5 5. Kd2 Kf4 6. Ke2 Ke4 7. Kf2 Kf4 8. d5) 4. d5 Kd4 5. d6 Kd3 6. d7 Kc3 7. d8=N $1 (7. d8=Q $2) Kd3 {<eg>} 8. Nb7 Kc3 9. Nc5 Kd4 10. Nxa4 Kd3 11. Nb6 Kc3 12. a4 Kb4 13. Kxc2 Kc5 14. a5 Kb5 15. Nxc4 1-0
+
+[Event "Le Problème#30 (c)"]
+[Source "Le Problème/10 (c): Garcia=M Estudios Artisticos de Ajedrez - IV-12 2012."]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p1p/2ppN3/2pk1PKN/4p3/1P6/qP6/8 w - - 0 1"]
+
+1. Nf6+ $1 (1. Nc7+ $2 Ke5) (1. Nhf4+ $2 Ke5) Ke5 2. Nd7+ (2. Ng4+ {<or>} Kd5 3. Ne3+ (3. Nf4+ $2 Kd4 4. Ne2+ Kd3 5. Nc1+ Kc2 6. Nxa2 Kxb2 7. Kf6 h5 8. Nf2 d5 9. Kxf7 Kxa2 10. f6 e3 11. Nd3 h4) Ke5 4. Nc4+ Kd5 5. Nf4+) Kd5 3. Nb6+ Ke5 4. Nc4+ Kd5 5. Nf4+ (5. Nc7+ $2 Kd4) Kd4 6. Ne2+ Kd3 7. Nc1+ Kc2 8. Nxa2 d5 9. Nc3 dxc4 10. bxc4 Kxb2 11. Nxe4 1-0
+
+[Event "Le Problème#16 (pl)"]
+[Source "Le Problème/7 = Prokes=L e6h2 1937."]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4K3/P7/7p/8/7k/8 w - - 0 1"]
+
+1. Kf5 $1 (1. a6 $2 h3 2. a7 Kg1 3. a8=Q h2) h3 2. Kg4 $1 (2. a6 $2 Kg1) Kg2 3. a6 h2 4. a7 h1=Q 5. a8=Q+ Kg1 6. Qa1+ Kg2 7. Qb2+ Kf1 (Kg1 8. Kg3) 8. Qc1+ Kg2 9. Qd2+ Kf1 10. Qd1+ Kg2 11. Qe2+ Kg1 12. Kg3 1-0
+
+[Event "Le Problème#27"]
+[Source "Le Problème/10"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K2Q1/8/3kqN2/4p3/8/8/1p6/8 w - - 0 1"]
+
+1. Ne4+ $1 (1. Qf8+ $2 Kc6) (1. Ne8+ $2 Qxe8+ $1 2. Kxe8 b1=Q) Kd5 2. Nc3+ Kd6 3. Nb5+ Kd5 (Kc5 4. Qxe6 b1=Q 5. Qd6+ Kxb5 (Kc4 6. Na3+) 6. Qb8+) 4. Nc7+ Ke4 (Kc5 5. Nxe6+) (Kd4 5. Nxe6+) (Kd6 5. Qxe6+) 5. Qxe6 b1=Q 6. Qg6+ 1-0
+
+[Event "L'Échiquier de Paris"]
+[Source "L'Échiquier de Paris/10"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6k1/8/p1pp4/P1p1P3/P4P2/4K3 w - - 0 1"]
+
+1. exd4 $1 (1. e4 $2 c2 2. Kd2 d3 3. f4 c3+ 4. Kc1 Kf6 5. f5 Ke5) Kf5 2. f3 Ke6 3. f4 Kf5 4. d5 Kxf4 5. d6 Ke3 6. Kd1 Kd3 7. Kc1 c2 8. d7 Kc3 9. d8=N (9. d8=B $2) 1/2-1/2
+
+[Event "The Chess Problem#92"]
+[Source "EG#14029."]
+[Date "1946.11.15"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6kB/5N1p/3K4/8/8/7p/8/8 w - - 0 1"]
+
+1. Ke7 $1 h2 2. Nh6+ (2. Be5 $2 h1=Q) Kxh8 3. Kf8 h1=Q 4. Nf7# 1-0
+
+[Event "British Chess Magazine#0838"]
+[Source "British Chess Magazine/11"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6N1/6P1/6K1/3k4/p7/8/8 w - - 0 1"]
+
+1. Nf5+ $1 (1. Ne6+ $2 Kc4 (Kd3 $2 2. Nc5+ Kc2 3. g7 a2 4. g8=Q a1=Q 5. Qb3+ Kd2 6. Qd3+ Ke1 7. Qe4+ Kf2 8. Nd3+ Kg1 9. Qg4+ Kh2 10. Qh4+ Kg2 11. Nf4+ Kf3 12. Qg4+ Ke3 13. Qe6+ Kd2 14. Qe2+ Kc1 15. Nd3+ Kb1 16. Qd1+ Ka2 17. Qa4+ Kb1 18. Qb3+) (Kc3 $2 2. g7 a2 3. g8=Q a1=Q 4. Qh8+) (Ke3 $2 2. Nc5) (Kd5 $2 2. g7 (2. Nd4 {<or>}) a2 3. g8=Q a1=Q 4. Nd4+ Kd6 (Ke4 5. Qg6+) 5. Qd8+ Ke5 6. Qe7+ Kd5 7. Qe6+ Kc5 8. Nb3+) 2. g7 (2. Nd4 a2) a2 3. g8=Q a1=Q 4. Nd4+ (4. Nf4+ Kb5 5. Qb8+ (5. Qb3+ Ka6) Kc6 6. Qc8+ Kb5 7. Qb7+ Kc5 8. Ne6+ (8. Nd3+ Kd6) Kd6) Kd3 5. Qg6+ Kc4 6. Qe6+ Kd3 7. Qf5+ Kc4) Kd3 (Kc3 2. g7 a2 3. g8=Q a1=Q 4. Qh8+) 2. g7 (2. Nd4 $2 a2) a2 3. g8=Q a1=Q 4. Qd5+ (4. Qb3+ $2 Ke2) Kc2 (Ke2 5. Nd4+) 5. Ne3+ Kb2 6. Qd4+ Kb1 7. Qd1+ Ka2 8. Qa4+ Kb2 9. Nc4+ Kb1 10. Qd1+ Ka2 11. Qc2+ 1-0
+
+[Event "British Chess Magazine#0837"]
+[Source "British Chess Magazine/11"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/pkB5/1P6/P7/Kp6/1P4p1/6p1/8 w - - 0 1"]
+
+1. a6+ $1 (1. bxa7 $2 g1=Q 2. Bb6 Qxb6 3. axb6 g2) Kxa6 2. bxa7 Kxa7 3. Bd6 Kb6 (g1=Q 4. Bc5+ Qxc5) 4. Be5 Kc5 5. Bb8 Kb6 6. Be5 g1=Q 7. Bd4+ Qxd4 1/2-1/2
+
+[Event "British Chess Magazine#0814"]
+[Source "British Chess Magazine/6"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/P6p/4K2p/7p/5k1P/5p1p/5B2 w - - 0 1"]
+
+1. a7 $1 h1=Q 2. a8=B+ $1 (2. a8=Q+ $2 Kg3 3. Qxh1) Ke3 (Kg3 3. Bxh1 Kh2 4. Bhg2 Kg3 5. Ke4 Kh2 6. Kf4 Kg1 7. Kf5 Kh2 8. Kg6 Kg3 9. Kxh5 Kf4 10. Kxh4 Kf5 11. Kh5 Kf6 12. Kxh6) 3. Bxh1 Kd2 4. Kf5 Kc3 5. Kg6 Kd4 6. Kxh5 Ke5 7. Kxh6 Kf6 8. Bd5 Ke5 9. Ba2 Kf6 10. Bd3 Ke7 (Ke5 11. Kg5) 11. Kg6 Kf8 12. Kf6 Ke8 13. Bb5+ Kf8 (Kd8 14. Bb3) 14. Bb3 f1=Q+ 15. Bxf1 Ke8 16. Kg7 Kd7 17. Bb5+ Ke7 18. Ba2 Kd6 19. Kf6 Kc5 20. Kg5 Kd6 21. Kxh4 Ke7 {<eg>} 22. Kg5 Kf8 23. Kg6 Ke7 24. h4 1-0
+
+[Event "British Chess Magazine#0808"]
+[Source "British Chess Magazine/5"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2K5/1P6/3k4/2p5/p4P2/8/8 w - - 0 1"]
+
+1. b7 $1 a2 2. b8=Q a1=Q 3. Qg8+ (3. Qb5+ $2 Ke6 4. Qd7+ Kf6) (3. Qd8+ $2 Ke6 (Kc5 $2 4. Qd6+) 4. Qe8+ Kf5 (Kd5 $2 5. Qg8+)) Kc5 4. Qf8+ (4. Qg5+ $2 Kb4) Kb5 (Kd4 5. Qf6+ (5. Qg7+ { <or>}) (5. Qh8+ {<or>})) 5. Qb8+ Kc5 6. Qb6+ Kd5 7. Qd6# 1-0
+
+[Event "Schweizerische Schachzeitung"]
+[Source "Schweizerische Schachzeitung/10"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2P2K2/1kN5/8/6p1/8/8 w - - 0 1"]
+
+1. c7 $1 g2 2. c8=Q g1=Q 3. Qa6+ (3. Qb7+ $2 Kc4) Kb4 4. Qa4+ Kc3 5. Qb3+ (5. Ne4+ $2 Kb2) Kd2 (Kd4 6. Ne6+) 6. Ne4+ (6. Qb2+ $2 Ke3 (Ke1 $2 7. Qb1+ Kf2 8. Nd3+ Kg2 9. Nf4+ Kh1 10. Qe4+ Kh2 11. Qh7+) 7. Qc3+ Kf4 (Ke2 $2 8. Qd3+ Kf2 (Ke1 9. Qb1+) 9. Ne4+ Kg2 10. Qg3+) 8. Nd3+ (8. Ne6+ Kg4 (Ke4 $2 9. Qc4+) 9. Qc4+ Kg3 10. Qd3+ Kh2) Ke4 $1 (Kf3 $2 9. Ne5+ Ke2 10. Qd3+ Kf2 11. Qd2+ $1 Kf1 (Kg3 12. Qg5+ Kf2 13. Nd3+ Kf1 14. Qc1+ Kg2 15. Nf4+ Kh1 16. Qc6+ Kh2 17. Qc2+ Kh1 18. Qe4+ Kh2 19. Qh7+ Kg3 20. Ne2+) 12. Qd1+ Kf2 (Kg2 13. Qf3+) 13. Nd3+ Kg2 14. Nf4+ Kh1 15. Qd5+ Kh2 16. Qh5+ Kg3 17. Ne2+)) Ke2 7. Qc2+ Kf1 (Kf3 8. Ng5+) 8. Qd3+ Kg2 9. Qg3+ Kh1 10. Qh3+ Qh2 11. Ng3+ Kg1 12. Qf1# 1-0
+
+[Event "Schweizerische Schachzeitung"]
+[Source "Schweizerische Schachzeitung/10"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/Pk6/p7/K2P4/8/8/8 w - - 0 1"]
+
+1. a7 $1 Kb7 (Kxa7 2. Kxa5) 2. Kb5 Ka8 (Kxa7 3. Kxa5) (a4 3. Kxa4 Kxa7 4. Ka5) 3. Kb6 (3. Ka6 $2 a4 4. d5 a3 5. d6 a2 6. d7 a1=Q+) (3. d5 $2 Kxa7 4. Kc6 Kb8 5. Kd7 a4 6. d6 a3 7. Ke7 a2 8. d7 a1=Q 9. d8=Q+ Kb7) (3. Kc6 $2 Kxa7 $1 (a4 $2 4. d5 a3 5. d6 a2 6. d7 a1=Q 7. d8=Q+ Kxa7 8. Qb6+) 4. d5 Kb8) a4 4. d5 a3 5. d6 a2 6. d7 a1=Q 7. d8=Q# 1-0
+
+[Event "Magyar Sakkvilág#701"]
+[Source "Magyar Sakkvilág/2"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2K5/1p6/1P2p3/8/3P4/1k6 w - - 0 1"]
+
+1. Kd5 $1 Kc2 2. Kxe4 Kb3 (Kxd2 3. Kd4) 3. d4 Kxb4 4. d5 (4. Kd3 $2 Ka3) Kc5 5. Ke5 b4 6. d6 Kc6 (b3 7. d7 b2 8. d8=Q b1=Q 9. Qc7+ Kb5 10. Qb7+) 7. Ke6 b3 8. d7 b2 (Kc7 9. Ke7 b2 10. d8=Q+) 9. d8=Q b1=Q 10. Qc8+ Kb6 11. Qb8+ 1-0
+
+[Event "L'Échiquier de Paris#285"]
+[Source "L'Échiquier de Paris/12"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k3N2/4pP1P/1K2p2b/2p5/2p5/2p3p1/8/3q4 w - - 0 1"]
+
+1. Nd7+ $1 Qxd7 (Kc8 2. h8=Q+ Kxd7 3. Qe8+ Kd6 4. Qd8+ Ke5 5. Qxd1 Kf6 (Bg7 6. Qe2+) 6. Qf3+ Kg7 7. f8=Q+) 2. h8=Q+ Qc8 3. f8=Q Bxf8 4. Qe5+ Ka8 5. Qe4+ Kb8 6. Qf4+ Ka8 7. Qf3+ Kb8 8. Qxg3+ Ka8 9. Qg2+ Kb8 10. Qh2+ e5 11. Qxe5+ Ka8 12. Qe4+ Kb8 13. Qf4+ Ka8 14. Qf3+ Kb8 15. Qg3+ Ka8 16. Qg2+ Kb8 17. Qh2+ e5 18. Qxe5+ Ka8 19. Qe4+ Kb8 20. Qf4+ Ka8 21. Qf3+ Kb8 22. Qg3+ Ka8 23. Qg2+ Kb8 24. Qh2+ Bd6 25. Qxd6+ Ka8 26. Qd5+ Kb8 27. Qe5+ Ka8 28. Qe4+ Kb8 29. Qe7 1-0
+
+[Event "The Field#4577"]
+[Date "1948.06.12"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7p/3b2P1/8/8/2k4K/6p1/8 w - - 0 1"]
+
+1. gxh7 $1 (1. g7 $2 g1=Q) (1. Kxg2 $2 hxg6) g1=Q 2. h8=Q+ Kb3 3. Qh4 Ka3 (Bh2 4. Qg4) 4. Qg5 Qxg5 1/2-1/2
+
+[Event "Magyar Sakkvilág#696"]
+[Source "Magyar Sakkvilág/1"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Guy, Richard Kenneth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2N5/2P5/4K3/k7/8/7p/8/8 w - - 0 1"]
+
+1. Nd6 $1 (1. Na7 $2 h2 2. c8=Q h1=Q 3. Nc6+ Kb5 4. Qb7+ Kc4 5. Qb4+ Kd3 6. Qb3+ (6. Ne5+ Kc2) Kd2 7. Qb2+ Ke3 8. Qc3+ Kf2 9. Qd2+ Kg1) h2 2. c8=Q h1=Q 3. Qc5+ (3. Nb7+ $2 Kb6) (3. Qc3+ $2 Ka4 4. Qc4+ Ka3 5. Nb5+ Kb2 6. Qc3+ Ka2 7. Qa3+ Kb1) Ka6 (Ka4 4. Qb5+) 4. Qb5+ (4. Qa3+ $2 Kb6 5. Qb4+ (5. Nc8+ Kb7) Ka7 6. Qa5+ Kb8 7. Qd8+ Ka7 8. Nb5+ Ka6 9. Nc7+ Ka7) Ka7 5. Nc8+ Ka8 6. Nb6+ Ka7 (Kb7 7. Nd7+) 7. Qa5+ Kb8 8. Nd7+ Kc8 9. Qc5+ Kd8 10. Qb6+ 1-0

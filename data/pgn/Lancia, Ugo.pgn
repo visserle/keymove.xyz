@@ -1,0 +1,13 @@
+[Event "De Villeneuve Escaplon MT Le Problème#3"]
+[Source "also Tijdschrift v.d. KNSB#180 7-8/1950."]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Lancia, Ugo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/1P5r/4PP2/2p5/2Pk3p/3P3P/3K4 w - - 0 1"]
+
+1. e6 $1 Rf6 2. e7 Rxf5 3. e8=R (3. e8=Q $2 Rf1+ 4. Qe1 Rh1 5. Qxh1) Rf1+ 4. Re1 Rf3 5. Kc1 1-0

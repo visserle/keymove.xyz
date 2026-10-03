@@ -1,0 +1,13 @@
+[Event "sp.c Magyar Sakkélet#0100"]
+[Source "Magyar Sakkélet/3"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Sziráki, Géza"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p4p1/p4p2/p1P1p3/5p1P/2k1pP1P/4P3/4K1NR w K - 0 1"]
+
+1. h5 $1 a4 2. h4 a3 3. Nh3 a2 4. O-O $1 Kb2 5. Ng5 $1 a1=Q 6. Rxa1 Kxa1 7. Ne6 a5 8. Nxg7 a4 9. h6 a3 10. h7 a2 11. h8=Q Kb2 12. Qa8 a1=Q+ 13. Qxa1+ Kxa1 14. h5 1-0

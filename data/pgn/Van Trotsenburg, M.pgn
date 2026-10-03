@@ -1,0 +1,12 @@
+[Event "Op de Hoogte#04"]
+[Date "1909.05.15"]
+[Round "?"]
+[Composer "Van Trotsenburg, M"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k3K2B/8/7Q/8/8/1p6/5q2 w - - 0 1"]
+
+1. Qc5+ $1 Kb7 (Kb8 2. Qb6+) (Ka8 2. Be4+ Kb8 3. Qb6+) (Ka6 2. Qd6+) 2. Be4+ Ka6 3. Qd6+ Ka5 4. Qd2+ Kb6 5. Qd8+ Kc5 6. Qd6+ Kc4 (Kb5 7. Bd3+) 7. Qa6+ Kd4 8. Qxf1 1-0

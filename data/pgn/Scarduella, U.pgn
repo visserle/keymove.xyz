@@ -1,0 +1,13 @@
+[Event "L'Italia Scacchistica#013"]
+[Source "L'Italia Scacchistica/3"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Scarduella, U"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5K2/7k/3pN2p/5P2/4p1PP/8 w - - 0 1"]
+
+1. g4+ $1 Kh6 (hxg3 2. Nxg3+ Kh4 3. Nxe2) 2. g5+ Kh7 (Kh5 3. Kf5 h3 4. Ng3+ Kh4 5. Nxe2) 3. Kf7 e1=Q 4. Nf6+ Kh8 5. g6 Qg1 6. Ng4 1-0

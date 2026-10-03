@@ -1,0 +1,13 @@
+[Event "L'Échiquier"]
+[Source "L'Échiquier/1"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Clement, P"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/8/5p2/4pP2/1p2P3/1Pp1P3/2P5/7K w - - 0 1"]
+
+1. Kg1 $1 Ke7 2. Kf1 1-0

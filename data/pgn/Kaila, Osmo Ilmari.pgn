@@ -1,0 +1,81 @@
+[Event "1.p Hemmets Veckotidning"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Kaila, Osmo Ilmari"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p1P5/P5p1/5pPp/2P2p2/1P3P1k/6pP/6K1 w - - 0 1"]
+
+1. c8=N $1 h4 2. Nb6 axb6 3. a7 b5 4. b4 $1 bxc4 5. a8=Q (5. a8=R $2 c3 6. Ra1 c2 7. Kf2 Kxh2 8. b5 h3 9. Rg1 c1=Q 10. Rxc1 g1=Q+ 11. Rxg1) c3 6. Qb8 $1 (6. Qa1 $2 c2 7. Kf2 c1=Q $1 8. Qxc1 g1=Q+ 9. Kxg1 (9. Qxg1)) c2 7. Qxf4 c1=Q+ 8. Qxc1 f4 9. Qc8# 1-0
+
+[Event "Helsingin Sanomat"]
+[Date "1934.04.08"]
+[Round "?"]
+[Composer "Kaila, Osmo Ilmari"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2B1p3/8/5P2/6N1/4K1pp/6k1 w - - 0 1"]
+
+1. Nh1 $1 (1. Bxg2 $2 Kxg2 2. Nh1 Kg1 $1) e5 $1 (Kxh1 2. Kf2 e5 3. Bxg2#) (gxh1=Q 2. Bxh1 Kxh1 3. Kf1 $1 e5 4. f5 $1 e4 5. f6 e3 6. f7 e2+ 7. Kxe2 Kg2 8. f8=Q) 2. Bxg2 $1 (2. Nf2 $2 h1=Q 3. Nxh1 gxh1=Q 4. Bxh1 exf4) (2. f5 $2 Kxh1 3. Kf2 e4 4. Bxe4) (2. fxe5 $2 Kxh1 3. e6 Kg1 4. e7 h1=Q 5. e8=Q Qh5+ 6. Qxh5) exf4 (Kxg2 3. f5 Kxh1 4. Kf1) 3. Ba8 (3. Bb7 {<or>}) (3. Bc6 {<or>}) (3. Bd5 {<or>}) (3. Be4 {<or>}) f3+ 4. Kxf3 Kxh1 5. Kf2# 1-0
+
+[Event "Suomen Tehtäväniekat"]
+[Source "Suomen Tehtäväniekat/1-2"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Kaila, Osmo Ilmari"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/p1K5/k1P5/ppBN4/8 w - - 0 1"]
+
+1. Kd3 $1 a1=Q 2. Bb1 Qxb1+ 3. Nxb1+ Kb3 4. Nd2+ 1-0
+
+[Event "1.p Parhi JT Lilja JT Stella Polaris"]
+[Source "Stella Polaris/11 1973 EG#02194."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Kaila, Osmo Ilmari"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/2P5/8/8/2b5/5kP1/3P4/8 w - - 0 1"]
+
+1. Kd7 $1 (1. Kb7 $2 Be6 $1 (Bd5+ $2 2. Kb6 Be6 3. d4 $1) 2. Kc6 Ke4 3. Kd6 (3. Kc5 Kd3 $1 4. Kd6 Bc8 5. Ke5 Kc4 $1 6. d4 Kb5 7. d5 Kc5) Bc8 4. Ke7 Kf3) Ba6 2. g4 $1 (2. Kc6 $2 Kxg3 $1 3. d4 Kf4 4. d5 Ke5 5. d6 Ke6 6. d7 Bb5+ $1 7. Kxb5 Kxd7) Kxg4 3. d4 Kf5 4. d5 Ke5 5. d6 Kd5 6. Ke7 1-0
+
+[Event "sp.c Nordisk Postsjakkblad (tw)"]
+[Source "EG#03933a."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Kaila, Osmo Ilmari"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/2k5/8/7p/2K4P/2bn4 w - - 0 1"]
+
+1. Kxd1 $1 (1. Kxc1 $2 Nc3 2. Kc2 Kc4 (Kd4 $2 3. Kd2) 3. Kd2 Kd4 4. Ke1 Ke3 5. Kf1 Ne2 6. Ke1 Ng3) Bf4 2. Ke2 Bxh2 3. Kf3 Be5 4. Kf2 1/2-1/2
+
+[Event "sp.c Nordisk Postsjakkblad (tw)"]
+[Source "EG#03933b."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Kaila, Osmo Ilmari"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4k3/8/8/7p/2K4P/2bn4 w - - 0 1"]
+
+1. Kxc1 $1 (1. Kxd1 $2 Bf4 2. Ke2 Bxh2 3. Kf3 Kf5) Ne3 2. Kd2 Nf1+ 3. Ke1 Nxh2 4. Kf2 Ng4+ (Nf3 5. Kxf3 (5. Kg3 $2 Ng5)) 5. Kg3 h2 6. Kg2 1/2-1/2

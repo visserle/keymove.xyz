@@ -1,0 +1,47 @@
+[Event "?"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Aizenshtat, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "7k/8/2b5/8/3P4/4K1b1/8/R7 w - - 0 1"]
+
+1. Ra6 (1. Rg1 $2 Bb8 2. d5 $10) (1. Ra5 $2 Be1 2. d5 $10) (1. Ra7 $2 Bd5 2. Rd7 $10) (1. d5 $2 Bxd5 2. Rb1 $10) (1. Ra4 Bxa4) (1. Kd2 Bd6 2. Kd3) (1. Rf1 Kh7 2. Rb1) Bb7 (Bb5 2. Ra5 (2. Rh6+ Kg7 3. Rh5 $18) (2. Rb6 $2 Bc4 3. d5 $10) (2. Rg6 $2 Be1 3. d5) (2. Ra8+ $2 Kh7 3. d5) (2. Kf3 $2 Bxa6 3. Kxg3) (2. Re6 $2 Bc4 3. Rb6) (2. Ra7 $2 Bc4 3. d5) (2. Ra4 Bxa4) Bc6 3. Rh5+ $3 $18 (3. Rc5 $18 Bf4+ 4. Kxf4) (3. Ra6 Bb5 4. Ra5 Bc6 $18) (3. d5 $2 Bxd5 4. Rb5) (3. Rg5 $2 Be1 4. d5)) 2. Re6 (2. Rb6 $2 Bc8 3. d5 $10) (2. Ra7 $2 Bd5 3. Rd7 $10) (2. Rh6+ $2 Kg7 3. Re6 $10) (2. Ra5 $2 Bd6 3. d5 $10) (2. Rg6 $2 Bc7 3. d5 $10) (2. Ra1 $2 Bd5 3. Rb1 $10) (2. Ra4 $2 Kg8 3. d5) (2. Ra3 $2 Bd5 3. Ra6) (2. Rf6 $2 Be1 3. d5) (2. Ra2 $2 Bd5 3. Ra6) Bd5 3. Rh6+ (3. Re5 $2 Bf7 4. Rc5 $10) (3. Re8+ $2 Bg8 4. d5 $10 Bf4+ $4 (Kh7 $5) 5. Kxf4) (3. Rg6 $2 Bc7 4. Rf6 $10) (3. Re7 $2 Kg8 4. Rd7) (3. Ra6 $2 Bc4 4. Rb6) (3. Rf6 $2 Bc4 4. Rb6) (3. Rb6 $2 Bc4 4. Rh6+) (3. Re4 Bxe4 4. Kxe4) Kg7 4. Rh5 $18 (4. Rh3 $2 Bd6 5. Rf3 $10) (4. Ra6 $2 Bg2 5. d5) (4. Rb6 $2 Bg2 5. d5) (4. Rh7+ Kxh7) (4. Rg6+ Kxg6) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Aizenshtat, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "6r1/2P5/8/7k/2N2p2/5p1K/5P1P/8 w - - 0 1"]
+
+1. Nd6 (1. Ne5 $4 Rc8 2. Nxf3 Rxc7 3. Nd4) (1. Ne3 $4 Kg5 $19) (1. Nb6 $4 Rg4 2. Nd5 Rh4#) (1. Nd2 Rc8 2. Nxf3 Rxc7 3. Kg2) Rg4 $1 2. Nf5 Rg8 3. Ne7 (3. Ng7+ $2 Kg6 4. Ne6 $10) (3. Nd6 Rg4 4. Nf5 $18) (3. Nh4 $4 Rc8 4. Nxf3 Rxc7 5. Nd4) (3. Nd4 $2 Kg5 4. Nxf3+ Kf6) Rh8 $1 (Rg4 4. Ng6 $18 (4. Nf5 $6 Rg8 5. Nd6 $18)) 4. c8=R $18 (4. c8=Q $2 Kg5+ 5. Qxh8) (4. Nf5 $4 Kg5+ 5. Nh6 Rxh6#) (4. Ng6 $4 Kxg6+ 5. Kg4 Rc8 $19) (4. Ng8 $4 Kg5+ 5. Nh6 Rxh6#) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Aizenshtat, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/p6n/8/p4R2/N1k5/8/1K4b1/8 w - - 0 1"]
+
+1. Rf7 (1. Rf4+ $6 Kd5 2. Rf7 $14 $10) (1. Rxa5 $2 Nf6 2. Nc5 $10) (1. Rc5+ $2 Kb4 2. Rc2 $10) (1. Rf2 $2 Bc6 2. Rf4+ $14 $10) (1. Ka3 $6 Kd4 2. Rf7) (1. Nc5 $2 Bh3 2. Re5) (1. Rd5 Bxd5) (1. Rb5 Kxb5 2. Nc3+ Kc4) Bc6 $2 (Ng5 $5 2. Rg7 $18) 2. Rxh7 (2. Rc7 $6 Kb4 3. Nc3 $18) (2. Nc3 $2 Ng5 3. Rxa7 $10) (2. Rf4+ $2 Kd5 3. Rf5+ $14 $10) (2. Rxa7 $2 Bxa4 3. Ka1 $10) (2. Ka3 $2 Bxa4 3. Kb2) (2. Nb6+ $2 axb6 3. Rxh7) (2. Rf5 Bxa4 3. Rf4+) (2. Re7 Nf8 3. Rc7) (2. Rg7 Bxa4 3. Rf7) Bxa4 3. Rh4+ (3. Rxa7 $2 Bb3 4. Rb7 $10) (3. Rh5 $2 Bd1 4. Rg5) (3. Ka3 $2 Bc2 4. Rg7) (3. Rc7+ $2 Kb4 4. Rb7+) (3. Rh3 Bd1 4. Rg3) (3. Rh6 Bd1 4. Rg6) Kb5 4. Rd4 (4. Ka3 $2 Bc2 5. Rg4 $10) (4. Rxa4 $2 Kxa4 5. Ka2 $10) (4. Rh5+ $2 Kb6 5. Rg5 $10) (4. Re4 $2 Bd1 5. Rd4) (4. Rc4 $2 Kxc4 5. Ka2) (4. Rh1 $2 a6 5. Rh4) a6 5. Kc3 $18 (5. Ka3 $2 Bc2 6. Rc4 $10) (5. Rh4 $2 Bd1 6. Rg4 $10) (5. Kb1 $2 Bb3 6. Rc4) (5. Rd5+ $2 Kb6 6. Rc5 Kxc5) (5. Rd3 $2 Kc5 6. Rc3+) (5. Rxa4 $2 Kxa4 6. Ka2) 1-0

@@ -1,0 +1,417 @@
+/* Keymove: the dasher.
+
+   One module of the stylesheet; order is owned by app.css, which imports
+   every module.
+
+   Port of lila's dasher (`ui/dasher/css/_dasher.scss`, `_link.scss`,
+   `_board.scss`, `_piece.scss`) and the header dropdown rules it rides on
+   (`ui/lib/css/header/_buttons.scss`: `.site-buttons .dropdown` shown by
+   `.shown .dropdown`). Where lila's default pane lists the sub-panes and each
+   one opens with a back header, Keymove's panel is flat. Every control, theme,
+   piece set, board paint and sound, is on one surface, a caption over
+   each group and a hairline between them.
+
+   Every rule is scoped to `#dasher-app`, as lila scopes its own to `#dasher_app`
+   The group class names are Keymove's own, because lila's pane names
+   (`board`, `piece`, `theme`) collide with ones already in the stylesheet
+   (`.board` in particular is the static catalogue diagram, board.css).
+
+   The colours are Keymove's: an active option takes the ink wash
+   (`--c-primary` at 10%) where lila fills it with its dasher blue. */
+
+.dasher {
+	display: flex;
+	align-items: center;
+	align-self: stretch;
+}
+
+/* lila's `%top-icon` for the account control in `.site-buttons .link`: a
+   full-height box with the glyph on the header's line */
+.dasher__toggle {
+	appearance: none;
+	border: 0;
+	background: none;
+	color: var(--c-font-page);
+	padding: 0 9px;
+	display: grid;
+	place-items: center;
+	height: 100%;
+	line-height: normal;
+	cursor: pointer;
+	transition:
+		background-color 0.12s ease,
+		color 0.12s ease;
+}
+
+/* Grid-centering avoids inline-baseline drift. These non-portrait offsets put
+   the visible profile path on the wordmark's lowercase x-height center. */
+.dasher__profile-icon {
+	display: block;
+	width: 18px;
+	height: 18px;
+	transform: translateY(0.12px);
+	fill: none;
+	stroke: currentColor;
+	stroke-width: 14;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+}
+
+/* Guests get the same profile path as an outline; signed-in accounts retain
+   the original filled silhouette. AccountMenu updates the root data attribute
+   after its session check and on sign-out. */
+html[data-account-signed-in="true"] .dasher__profile-icon {
+	fill: currentColor;
+	stroke: none;
+}
+
+@media (min-height: 599.3px) {
+	.dasher__profile-icon {
+		transform: translateY(0.45px);
+	}
+}
+
+/* In portrait, the burger is baseline-aligned with the wordmark rather than
+   centred in the header. Match the profile's visible path to the burger's
+   three-bar envelope; the baseline offset changes with the header height. */
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.dasher__profile-icon {
+		transform: translateY(1.21px);
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) and (min-height: 599.3px) {
+	.dasher__profile-icon {
+		transform: translateY(1.64px);
+	}
+}
+
+.dasher__toggle:hover,
+.dasher.shown .dasher__toggle {
+	background: var(--c-bg-page);
+}
+
+/* lila's `.dropdown`: hidden until the parent carries `.shown`, pinned to the
+   header's bottom edge. A short window scrolls the panel rather than clipping
+   it (`max-height` is the viewport less the header). Widened from lila's 225px
+   for the four stacked groups, and capped by the viewport so a phone cannot
+   clip it sideways. */
+.dasher__app {
+	display: none;
+	position: absolute;
+	top: 100%;
+	right: 0;
+	z-index: 33;
+	width: min(300px, calc(100vw - 16px));
+	max-height: calc(100vh - var(--header-h));
+	overflow-y: auto;
+	background: var(--c-bg-popup);
+	box-shadow: 0 8px 20px rgb(0 0 0 / 0.18);
+	/* the micro-captions are the one sans left in an otherwise serif page */
+	--sans:
+		ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+.dasher.shown .dasher__app {
+	display: block;
+}
+
+/* one group per setting: a caption over its control, `+` a hairline between */
+#dasher-app .group {
+	padding: 11px 12px 13px;
+}
+
+#dasher-app .group__title {
+	margin: 0 0 8px;
+	font-family: var(--sans);
+	font-size: 10px;
+	font-weight: 600;
+	letter-spacing: 0.09em;
+	text-transform: uppercase;
+	color: var(--c-font-dim);
+}
+
+#dasher-app .account-menu__signin {
+	appearance: none;
+	width: 100%;
+	padding: 5px 0;
+	border: 0;
+	color: var(--c-font-clear);
+	background: none;
+	font: 15px/1.4 var(--serif);
+	text-align: start;
+	cursor: pointer;
+}
+
+#dasher-app .account-menu__signin:hover {
+	text-decoration: underline;
+}
+
+#dasher-app .account-menu__external-icon {
+	display: inline-block;
+	width: 13px;
+	height: 13px;
+	margin-left: 5px;
+	vertical-align: -2px;
+}
+
+#dasher-app .account-menu__identity {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+}
+
+#dasher-app .account-menu__name {
+	flex: 1;
+	min-width: 0;
+	overflow: hidden;
+	color: var(--c-font-clear);
+	font: 15px/1.4 var(--serif);
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+/* The identity row's icon buttons. They are 32px square so a second one, should
+   the row ever grow one, does not reflow the row. */
+#dasher-app .account-menu__action {
+	appearance: none;
+	width: 32px;
+	height: 32px;
+	flex: 0 0 32px;
+	display: grid;
+	place-items: center;
+	padding: 0;
+	border: 0;
+	color: var(--c-font);
+	background: transparent;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+#dasher-app .account-menu__action:hover {
+	color: var(--c-font-clear);
+	background: var(--c-bg-page);
+}
+
+#dasher-app .account-menu__logout:disabled {
+	cursor: wait;
+	opacity: 0.6;
+}
+
+#dasher-app .account-menu__action svg {
+	width: 19px;
+	height: 19px;
+}
+
+#dasher-app .account-menu__signin:focus-visible,
+#dasher-app .account-menu__action:focus-visible {
+	outline: 2px solid var(--c-primary);
+	outline-offset: 2px;
+}
+
+#dasher-app .account-menu__status,
+#dasher-app .account-menu__message {
+	margin: 4px 0;
+	font: 14px/1.4 var(--serif);
+}
+
+#dasher-app .account-menu__status {
+	color: var(--c-font);
+}
+
+#dasher-app .account-menu__message {
+	color: var(--c-bad);
+}
+
+/* --------------------------------------------------------------- theme
+
+   A three-step rail, as the panel's other selectors are; the chosen option is
+   washed in ink rather than marked with a checkmark. */
+#dasher-app .seg {
+	display: grid;
+	grid-auto-flow: column;
+	grid-auto-columns: 1fr;
+	border: 1px solid var(--c-border);
+}
+
+#dasher-app .seg__btn {
+	appearance: none;
+	border: 0;
+	border-inline-start: 1px solid var(--c-border);
+	background: var(--c-bg);
+	color: var(--c-font);
+	font: inherit;
+	font-size: 11.5px;
+	line-height: 1.15;
+	padding: 8px 4px 7px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 4px;
+	transition:
+		background-color 0.12s ease,
+		color 0.12s ease;
+}
+
+/* The redesigned catalogue uses a larger shared `.seg span` label. Keep the
+   header's preference rail at its original compact label size. */
+#dasher-app .seg span {
+	font-size: 13px;
+}
+
+#dasher-app .seg__btn:first-child {
+	border-inline-start: 0;
+}
+
+#dasher-app .seg__btn:hover {
+	background: var(--c-bg-page);
+	color: var(--c-font-clear);
+}
+
+#dasher-app .seg__btn.active {
+	background: color-mix(in srgb, var(--c-primary) 10%, transparent);
+	color: var(--c-primary);
+}
+
+#dasher-app .seg__btn svg {
+	width: 20px;
+	height: 20px;
+}
+
+/* ----------------------------------------------------------- piece set
+
+   One square per set, the white knight (lila's preview piece) on a
+   board-coloured cell; the active one is washed ink, as lila's `.no-square`
+   list (`_piece.scss`). */
+#dasher-app .list {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	border: 1px solid var(--c-border);
+}
+
+#dasher-app .piece-option {
+	appearance: none;
+	border: 0;
+	border-inline-start: 1px solid var(--c-border);
+	background: var(--c-bg);
+	color: var(--c-font);
+	font: inherit;
+	font-size: 11px;
+	padding: 7px 4px 6px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 5px;
+	transition:
+		background-color 0.12s ease,
+		color 0.12s ease;
+}
+
+#dasher-app .piece-option:first-child {
+	border-inline-start: 0;
+}
+
+#dasher-app .piece-option:hover {
+	background: var(--c-bg-page);
+	color: var(--c-font-clear);
+}
+
+#dasher-app .piece-option.active {
+	background: color-mix(in srgb, var(--c-primary) 10%, transparent);
+	color: var(--c-primary);
+}
+
+#dasher-app .piece-option__img {
+	width: 46px;
+	height: 46px;
+	background-color: var(--board-light);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+	outline: 1px solid var(--c-border);
+}
+
+/* --------------------------------------------------------------- board
+
+   lila's board pane, with brightness and contrast sliders plus a grain checkbox
+   (`_board.scss`: a label-and-range row). The values feed lib/board/boardpaint.ts. */
+#dasher-app .slider {
+	display: grid;
+	grid-template-columns: 74px 1fr;
+	align-items: center;
+	gap: 8px;
+	padding: 3px 0;
+}
+
+#dasher-app .slider__label {
+	white-space: nowrap;
+}
+
+#dasher-app .slider input[type="range"] {
+	width: 100%;
+	margin: 0;
+	accent-color: var(--c-primary);
+}
+
+#dasher-app .slider input[type="checkbox"] {
+	width: 16px;
+	height: 16px;
+	margin: 0;
+	accent-color: var(--c-primary);
+}
+
+/* --------------------------------------------------------------- sound
+
+   One volume slider whose zero is mute, with the speaker at its head as the
+   toggle, the macOS Sound pane's control with the on/off selector folded in. The
+   glyph swaps to a crossed one at zero and the rail dims, so muted is legible
+   without a second control. */
+#dasher-app .volume {
+	display: grid;
+	grid-template-columns: auto 1fr;
+	align-items: center;
+	gap: 10px;
+}
+
+#dasher-app .volume__mute {
+	appearance: none;
+	border: 0;
+	background: none;
+	color: var(--c-font);
+	padding: 2px;
+	width: 26px;
+	height: 26px;
+	display: grid;
+	place-items: center;
+}
+
+#dasher-app .volume__mute:hover {
+	color: var(--c-font-clear);
+}
+
+#dasher-app .volume__icon {
+	width: 20px;
+	height: 20px;
+}
+
+#dasher-app .volume__icon--off {
+	display: none;
+}
+
+#dasher-app .volume.is-muted .volume__icon--on {
+	display: none;
+}
+
+#dasher-app .volume.is-muted .volume__icon--off {
+	display: block;
+}
+
+#dasher-app .volume__range {
+	width: 100%;
+	margin: 0;
+	accent-color: var(--c-primary);
+}
+
+#dasher-app .volume.is-muted .volume__range {
+	opacity: 0.4;
+}

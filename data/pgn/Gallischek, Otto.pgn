@@ -1,0 +1,38 @@
+[Event "Gießener Freien Presse"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Gallischek, Otto"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k1q4r/p7/P3P3/1N6/8/nQ2K3/6p1/2n5 w - - 0 1"]
+
+1. Qd5+ $1 Kb8 2. Qe5+ Ka8 3. Qe4+ Kb8 4. Qf4+ Ka8 5. Qf3+ Kb8 6. Qg3+ Ka8 7. Qxg2+ Kb8 8. Qg3+ Ka8 9. Qf3+ Kb8 10. Qf4+ Ka8 11. Qe4+ Kb8 12. Qe5+ Ka8 13. Nc7+ Kb8 (Qxc7 14. Qxh8+ Qb8 15. Qh1+) 14. Ne8+ Ka8 15. Qe4+ Kb8 16. Qf4+ Ka8 17. Qf3+ Kb8 18. Qg3+ Ka8 19. Qg2+ Kb8 20. Qb2+ Nb3 (Ka8 21. Nc7+ Qxc7 22. Qxh8+ Qb8 23. Qh1+) 21. Qxb3+ Ka8 22. Qd5+ Kb8 23. Qe5+ Ka8 24. Qe4+ Kb8 25. Qf4+ Ka8 26. Qf3+ Kb8 27. Qg3+ Ka8 28. Qg2+ Kb8 29. Qb2+ Nb5 30. Qxb5+ Ka8 31. Qd5+ Kb8 32. Qe5+ Ka8 33. Qe4+ Kb8 34. Qf4+ Ka8 35. Qf3+ Kb8 36. Qg3+ Ka8 37. Qg2+ Kb8 38. Qb2+ Ka8 39. Nc7+ Qxc7 40. Qxh8+ Qb8 41. Qh1+ Qb7 42. Qxb7# 1-0
+
+[Event "Frankfurter Rundschau"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Gallischek, Otto"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/Pp6/pkPp4/1P6/1K5B/3q4/8/r7 w - - 0 1"]
+
+1. Bf2+ $1 Kc7 2. Bb6+ Kxb6 3. a8=N+ Ka7 4. b6+ Kb8 (Kxa8 {<main>} 5. cxb7+ Kb8) 5. c7+ Kc8 1/2-1/2
+
+[Event "Frankfurter Rundschau"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Gallischek, Otto"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/1kbR4/8/1P6/KPp5/8 w - - 0 1"]
+
+1. b4 $1 Kxb4 (c1=Q 2. Rxc5+) 2. Rxc5 $1 Kxc5 3. b4+ Kxb4 (Kd4 4. Kb2 Kd3 5. Kc1) 4. Kb2 1/2-1/2

@@ -1,0 +1,12 @@
+[Event ".c Rigaer Tageblatt"]
+[Date "1909.??.??"]
+[Round "?"]
+[Composer "Palkoska, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7B/6P1/5bp1/8/8/1Knk4 w - - 0 1"]
+
+1. g6 $1 Bxh6 (Be5 {<main>} 2. Bg7 $1 Bd6 (Bf4 {<main>} 3. Bf8 $1 g3 4. g7) 3. Bh6 $1 g3 4. g7) 2. g7 Bxg7 1/2-1/2

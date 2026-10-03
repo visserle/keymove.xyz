@@ -1,0 +1,12 @@
+[Event "1.p Neue Leipziger Zeitung"]
+[Stipulation "#4"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Massmann, Wilhelm Karl Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/4R3/5K1k/3N4/5p2/8 w - - 0 1"]
+
+1. Ne1 $1 (1. Nxf2 $2) f1=Q+ 2. Nf3+ Kh3 3. Rh5+ Kg2 4. Rh2# 1-0

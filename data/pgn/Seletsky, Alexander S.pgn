@@ -1,0 +1,16 @@
+[Event "1.p 64#61"]
+[Source "64/12"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Seletsky, Alexander S"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "2n5/b7/8/1P6/K7/8/Nkn2N2/8 w - - 0 1"]
+
+1. Nb4 $1 (1. Nd3+ $2 Kxa2 $19 2. Nb4+ Nxb4 3. Kxb4 Nd6 4. b6 Bxb6) (1. Nc3 $2 Kxc3 2. Ne4+ Kd3 $19) (1. b6 $2 Nxb6+ 2. Kb5 Nd5 $19) (1. Ne4 $2 Kxa2 2. Nc3+ Kb2) (1. Nc1 $2 Kxc1 $19 2. Nd3+ Kd2) (1. Nd1+ $2 Kxa2 2. Nc3+ Kb2) Nxb4 (Bxf2 2. Nd3+ Kc3 3. Nxf2 $10) (Nb6+ 2. Ka5 Nc4+ (Nxb4 3. Kxb4 Nd5+ 4. Kc4 Ne3+ 5. Kd3) 3. Ka6 Bxf2 4. Nd3+ Kc3 5. Nxf2) 2. b6 $1 (2. Ne4 $2 Nd3 $19 3. Ka5 Nc5) (2. Nd1+ $2 Kc2 3. Kxb4 Kxd1 $19) (2. Ka5 $2 Kb3) Bxb6 (Nxb6+ 3. Kxb4 Nd5+ 4. Kc4 Ne3+ 5. Kd3) 3. Ne4 $1 (3. Nd1+ $2 Kc1 4. Kxb4 Kxd1 $19) (3. Kb5 $2 Bxf2 4. Kxb4 Nd6) (3. Ng4 Kc3) Na2 (Na6 4. Nd6 Nc5+ 5. Kb5) (Nd3 4. Nd6 $1 Nc5+ 5. Kb4 Na6+ 6. Ka4) 4. Nd6 $1 (4. Nd2 $2 Nd6 5. Nf3 Nc3+) (4. Nc3 $2 Nxc3+ 5. Kb4 Ne7 $19) (4. Nc5 $2 Nd6 5. Nd3+ Kc2 $19) (4. Kb5 $2 Nc3+ 5. Nxc3 Kxc3 $19) (4. Nf6 $2 Nc3+ 5. Kb4 Nd6 6. Nh7 Nd5+) Nc3+ (Nxd6) 5. Kb4 Nd5+ (Nxd6) 6. Ka4 (6. Kb5 $2 Nxd6+ 7. Kc6 Nf5 $19 8. Kxd5 Kc3) (6. Kc4 $2 Nxd6+ 7. Kxd5 Nf5 $19) Bc5 $1 (Nxd6) (Na7 7. Nc4+) (Nce7 7. Nc4+) 7. Nxc8 (7. Nc4+ $2 Kc3 $19) (7. Nb7 $2 Nc3+ 8. Ka5 Be3 $19 9. Ka6 Kb3) (7. Nb5 $2 Nce7 $19 8. Ka5 Nc6+) (7. Ne4 $2 Be3 $19 8. Kb5 Nce7) Nc7 $1 8. Ka5 Kb3 (Ka3 (Kc3 9. Nb6) 9. Na7 $1 (9. Nb6 $2 Bb4#) Bxa7) 9. Na7 (9. Ne7 Bxe7) Bxa7 1/2-1/2

@@ -1,0 +1,69 @@
+[Event "3/5.c Komsomolskaja Iskra"]
+[Source "EG#00296."]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Ivanov, Albert Fedorovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p1K1R3/k7/7p/5Pb1/PP5p/8 w - - 0 1"]
+
+1. Kc5 $1 Bf2+ 2. Kc4 Bb6 $1 3. Re5+ (3. b4+ $2 Ka4 4. Rxb6 Ka3) Ka4 4. Re1 Bg1 5. Re6 a5 6. Rd6 $1 h1=Q 7. Rd3 Bc5 8. Ra3+ Bxa3 9. b3# 1-0
+
+[Event "Sachové Umenie#3188"]
+[Source "Sachové Umenie/7"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Ivanov, Albert Fedorovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/3ppp2/8/5K1k/3PB3/p5PN/8 w - - 0 1"]
+
+1. Nf3+ $1 Kh5 2. Bd4 $1 e5+ 3. Kf5 exd4 4. g4+ Kh6 5. Kxf6 a1=Q 6. Nh4 Qf1+ 7. Nf5+ Qxf5+ 8. gxf5 1-0
+
+[Event "Revista de Romana de Sah#0650"]
+[Source "Revista de Romana de Sah/4"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Ivanov, Albert Fedorovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5rk1/4p3/3P1p2/1q2PP1K/8/8/7Q/8 w - - 0 1"]
+
+1. Kh6 $1 Rf7 2. Qg2+ (2. Qg3+ $2 Kh8 $1 (Kf8 $2 3. e6 Qxf5 4. exf7)) Kf8 3. Qa8+ (3. d7 $2 Qb8 4. d8=Q+ (4. e6 Rh7+ 5. Kxh7 Qh2+ 6. Qxh2) Qxd8 5. e6 Qb8 $1 (Qe8 $2 6. Qg6) 6. exf7 Qf4+) (3. e6 $2 Rh7+ $1 (Qxf5 $2 4. Qa8#) 4. Kxh7 Qxf5+ 5. Kh6 Qf4+ 6. Kg6 exd6) Qe8 4. Qxe8+ Kxe8 5. d7+ Kxd7 $1 6. e6+ Ke8 7. Kg6 $1 Rf8 8. Kg7 1-0
+
+[Event "9.p USSR team champ X (tt)"]
+[Source "EG#04158. USSR team champ X 1977-1978."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Ivanov, Albert Fedorovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5B2/p3PP2/P7/5nq1/7p/4k2P/4b2P/7K w - - 0 1"]
+
+1. e8=Q+ $1 Ne7 2. Qxe7+ Kf2 3. Qc5+ Kf1 4. Qf2+ Kxf2 5. Bc5+ Qxc5 6. f8=Q+ Qf5 7. Qc5+ Qxc5 1/2-1/2
+
+[Event "Shakhmaty v SSSR#27"]
+[Source "Shakhmaty v SSSR/7 EG#05277."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Ivanov, Albert Fedorovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3k1p2/1R6/8/2NpP3/1K4p1/8 w - - 0 1"]
+
+1. Ne4+ $1 Ke7 2. Rb7+ Kf8 3. Rb8+ Kg7 4. Nxf6 d2 5. Rg8+ Kh6 6. Rd8 d1=N+ 7. Rxd1 g1=Q 8. Ng8+ Qxg8 9. Rh1+ Kg7 10. Rg1+ Kf7 11. Rxg8 Kxg8 12. Kc3 Kf7 13. Kd4 Ke6 14. Ke4 1-0

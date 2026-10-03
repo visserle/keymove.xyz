@@ -1,0 +1,41 @@
+[Event "L'Italia Scacchistica#310"]
+[Source "L'Italia Scacchistica/8"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Mariani, Stefano"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/K1k5/P7/8/8/3p4/1P6/8 w - - 0 1"]
+
+1. b4 $1 d2 2. b5 d1=Q 3. b6+ Kc6 4. b7 Qd7 5. Ka8 Kb6 6. b8=Q+ Kxa6 7. Qd6+ Qxd6 1/2-1/2
+
+[Event "L'Italia Scacchistica#339"]
+[Source "L'Italia Scacchistica/5"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Mariani, Stefano"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7k/1p1N4/3K4/8/1p2P3/5n2 w - - 0 1"]
+
+1. Nc3 $1 Nd2 2. Kd3 b4 3. Nb1 Nxb1 4. Kc2 Nc3 5. Kxb2 Nd5 6. Kb3 Kg5 7. e4 1/2-1/2
+
+[Event "L'Italia Scacchistica#326"]
+[Source "L'Italia Scacchistica/1"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Mariani, Stefano"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2B3k1/8/4P3/4P1K1/q3N3/8/8/8 w - - 0 1"]
+
+1. e7 $1 Kf7 2. e8=Q+ (2. e8=B+ {<or>}) Kxe8 3. Bd7+ Qxd7 4. Nf6+ Ke7 5. Nxd7 Kxd7 6. Kf6 Ke8 7. Ke6 1-0

@@ -1,0 +1,12 @@
+[Event "64#494"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Merkin, J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/3p4/2pPkPP1/6Kp/3P4/8/8 w - - 0 1"]
+
+1. f6 $1 gxf6 (h3 2. Kxh3 gxf6 3. g6) 2. g6 f5+ 3. Kg5 h3 4. g7 h2 5. g8=Q h1=Q 6. Qg7+ Kxd5 7. Qb7+ 1-0

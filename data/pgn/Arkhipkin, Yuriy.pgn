@@ -1,0 +1,27 @@
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/1"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Arkhipkin, Yuriy"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/2p5/1p6/8/PB6/K5k1 w - - 0 1"]
+
+1. Bc3 $1 (1. Kb1 $2 Kf2 $1 (c4 $2 2. Bc3 $1)) Kf2 $1 (bxc3 2. Kb1 $1 Kf2 3. Kc2 Ke3 4. Kxc3 Ke4 5. Kc4 Ke5 6. Kxc5) 2. Bxb4 $1 Ke3 (cxb4 3. Kb2 Ke3 4. Kb3 Kd4 5. Kxb4 Kd5 6. Kb5 Kd6 7. Kb6 Kd7 8. Kb7) 3. a4 $1 Kd4 4. a5 Kd5 5. a6 Kc6 6. Ba5 $1 1-0
+
+[Event "Shakhmaty (Riga)"]
+[Source "Shakhmaty (Riga)/7"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Arkhipkin, Yuriy"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3B4/2p5/3k2K1/3p4/8/8 w - - 0 1"]
+
+1. Kf3 $1 c4 (Kc3 2. Bxc5 d2 3. Bb4+ $1) 2. Bb4 c3 3. Ba5 $1 Kc4 4. Ke3 d2 5. Ke2 Kb3 6. Bxc3 Kxc3 7. Kd1 Kd3 1/2-1/2

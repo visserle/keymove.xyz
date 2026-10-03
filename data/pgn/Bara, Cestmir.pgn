@@ -1,0 +1,12 @@
+[Event "Zemedelske Noviny"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Bara, Cestmir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/4B1P1/6p1/3k2P1/6P1/3P1pP1/1NK5 w - - 0 1"]
+
+1. Bc4 $1 Kxc4 2. d3+ Kxd3 3. Nd2 Ke2 4. Kc2 f1=Q 5. Nxf1 Kxf1 6. Kd3 Kxg2 7. Ke4 Kxg3 8. Kf5 Kh4 9. Ke6 Kxg4 10. Kf7 Kh3 11. Kxg7 g4 12. Kf6 g3 13. g7 g2 14. g8=Q 1-0

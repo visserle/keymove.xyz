@@ -1,0 +1,375 @@
+[Event "Tijdschrift v.d. KNSB#005"]
+[Source "Tijdschrift v.d. KNSB/6"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/5K2/5P2/1p6/1k3P2/8/8 w - - 0 1"]
+
+1. Ke5 $1 (1. Kg7 $2 Kc3) Kc3 $1 (Ka2 2. f6 b3 3. f7 b2 4. f8=Q b1=Q 5. Qa8+ Kb2 6. Qb7+ Kc1 7. Qxb1+ Kxb1 8. f4 h5 9. f5 h4 10. Kf4) (Kc4 2. f6 b3 3. f7 b2 4. f8=Q b1=Q 5. Qc8+ Kd3 6. Qf5+) (Kc2 2. f6 b3 3. f7 b2 4. f8=Q b1=Q 5. Qf5+) 2. f6 b3 3. f7 b2 4. f8=Q b1=Q 5. Qc5+ (5. Qc8+ $2 Kd3 6. Qf5+) Kd3 (Kd2 6. Qf2+) 6. Qd4+ Ke2 $1 7. Qe4+ Qxe4+ 8. fxe4 $1 (8. Kxe4 $2 h5 9. Kf4 h4) Kf3 $1 (h5 9. Kf4) 9. Kf5 h5 10. e5 h4 11. e6 h3 12. e7 h2 13. e8=Q h1=Q (Kg2 14. Qe2+ Kg1 15. Kg4 h1=Q 16. Kg3) 14. Qa8+ (14. Qe4+ {<or>}) (14. Qc6+ {<or>}) Kg3 15. Qxh1 1-0
+
+[Event "De Maasbode"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3Q4/8/8/8/8/2p3k1/2p4p/4K3 w - - 0 1"]
+
+1. Qd6+ $1 Kg4 (Kh3 {<main>} 2. Qh6+ Kg2 3. Qg6+ Kh3 4. Kf2 h1=N+ 5. Kf3) 2. Qg6+ Kf4 (Kf3 3. Qc6+) 3. Qh6+ Kf3 $1 (Ke4 4. Ke2) 4. Qc6+ Kf4 (Kg4 5. Qg2+) 5. Kf2 (5. Ke2 {<or>}) c1=Q 6. Qh6+ Ke4 7. Qxc1 1-0
+
+[Event "Residentiebode"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1Q6/7K/8/8/8/8/p5p1/5k2 w - - 0 1"]
+
+1. Qf8+ $1 Kg1 $1 (Ke2 2. Qg7 Kf2 3. Qd4+) 2. Qh8 $1 Kh2 3. Kg6+ (3. Kg8+ {<or>}) (3. Kg7+ {<or>}) Kg1 {<eg>} (Kg3 4. Qa1) 4. Qa1+ Kh2 5. Qxa2 1-0
+
+[Event "Tijdschrift v.d. KNSB (c)"]
+[Source "Tijdschrift v.d. KNSB/11 (c): Garcia=M Estudios Artisticos de Ajedrez - XII-48 2012."]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p5P1/k2P1p1p/p3r3/7N/2P1PB2/2b4K w - - 0 1"]
+
+1. d6 $1 Bb2 2. c3 (2. d7 $2 Bf6 3. g7 Rg4 4. Bd4 Rxg7 5. d8=Q+ Bxd8 6. Bxg7 a3) Bxc3 (Re8 3. d7 Rg8 4. Bh4) 3. Be1 Bxe1 4. d7 Bh4 5. g7 Rg4 6. Ng5 Bxg5 (Rxg5 7. d8=Q+) 7. g8=Q Kb4 8. Qxg5 Rxg5 9. d8=Q 1-0
+
+[Event "Residentiebode"]
+[Date "1933.04.01"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/p7/2r5/2p1P1PP/1kPp4/p2P4/P2P4/8 w - - 0 1"]
+
+1. e6 $1 (1. h6 $2 Ra6 $1 2. h7 Ra4 3. h8=Q a5 4. Qh1) Rxe6 (Ra6 2. e7 Ra4 3. e8=Q a5 4. Qb5#) (Rd6+ {<main>} 2. Kc7 $1 (2. Kc8 $2 Rxe6 3. h6 Re8+ 4. Kd7 Rg8 5. h7 Rg7+) (2. Ke7 $2 Ra6 3. g6 Ra4 4. g7 a5 5. g8=Q) Rxe6 3. g6 $1 (3. h6 $2 Rg6) Ra6 4. g7 Ra4 5. g8=Q a5 6. Qb8#) 2. h6 $1 Ra6 3. h7 Ra4 4. h8=Q a5 5. Qxd4 $1 cxd4 6. g6 Kc5 7. g7 Rb4 8. Kc7 $1 (8. Kc8 {<or>}) 1-0
+
+[Event "Residentiebode"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/6Kp/kPp5/2P5/8/8 w - - 0 1"]
+
+1. Kh4 $1 Kb5 (Kb3 2. b5 Kxc3 3. b6 Kd2 4. b7 c3 5. b8=Q c2 6. Qb2 Kd1 7. Qd4+ Ke2 8. Qc3 Kd1 9. Qd3+ Kc1 10. Kg5) 2. Kxh5 $1 Ka4 3. Kg4 $1 Kb3 4. b5 Kxc3 5. b6 Kd2 6. b7 c3 7. b8=Q c2 8. Qb2 Kd1 9. Kf3 c1=Q 10. Qe2# 1-0
+
+[Event "Avondpost"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p1p1p2/1p1P1P1P/1P6/6p1/4p1p1/3pP1PB/3B1K1k w - - 0 1"]
+
+1. h7 $1 gxh2 2. h8=N $1 g3 3. Ng6 fxg6 4. f7 g5 5. f8=N g4 6. Ne6 dxe6 7. d7 e5 8. d8=N e4 9. Nc6 bxc6 10. bxc6 b5 11. c7 b4 12. c8=N $1 b3 13. Nd6 (13. Ne7 {<or>}) b2 14. Nf5 (14. Nxe4 {<or>}) b1=Q 15. Nxg3# 1-0
+
+[Event "Ruy Lopez"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p3k2/5P2/5PB1/1p6/pKp5/8/8 w - - 0 1"]
+
+1. Bh4 $1 Kf8 2. Bf2 (2. Bg3 {<or>} Kf7 3. Be5 Kf8 4. Bd6+ Kf7 5. Be7) Kf7 3. Bd4 Kf8 4. Bc5+ Kf7 5. Be7 b5 6. Bd8 Kf8 7. Bb6 Kf7 8. Bd4 Kf8 9. Bc5+ Kf7 10. Be7 a2 (Ke8 11. Bxb4) (c2 11. Kxc2) 11. Kxa2 c2 12. Kb2 b3 13. Bd8 Kf8 14. Bb6 Kf7 15. Bd4 Kf8 16. Be3 Kf7 17. Bg5 b4 $1 18. Kc1 (18. Kxb3 $2 c1=Q 19. Bxc1 Kxf6) (18. Bh4 {<or>} Kf8 19. Bf2 Kf7 20. Bd4 Kf8 21. Bc5+ Kf7 22. Be7 Ke8 23. Bxb4 Kf7 24. Bc3 Kf8 25. Bd2 Ke8 26. Bc1 Kf8 27. Kc3 Kf7 28. Kd4 Kxf6 29. Ke4) Kf8 19. Kd2 Ke8 20. Kd3 Kf7 21. Bc1 $1 Kxf6 22. Ke4 1-0
+
+[Event "Nieuwe Rotterdamse Courant"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/8/8/3p4/k1p5/P7/1PP1N1p1/8 w - - 0 1"]
+
+1. c3 $1 Kb3 2. a4 $1 (2. Kg7 $2 Kxb2 3. a4 d4 4. a5 d3) Kxa4 (Kxb2 3. a5 d4 4. a6 dxc3 5. a7 c2 6. a8=Q g1=Q 7. Nxg1 c1=Q) 3. Kg7 Kb3 4. Kf6 Kxb2 5. Ke5 Kc2 6. Kd4 $1 (6. Kxd5 $2 Kd2 7. Ng1 (7. Nd4 Ke3 $1) Kxc3) Kd2 7. Ng1 Kc2 {<eg>} 8. Ne2 1/2-1/2
+
+[Event "Deventer Dagblad"]
+[Date "1935.02.02"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/1p6/7P/7P/8/pp6/3B4/3K4 w - - 0 1"]
+
+1. Kc1 $1 Kh7 2. Kb1 Kh8 3. Bb4 Kh7 4. Bf8 a2+ 5. Kb2 Kh8 6. Bb4 Kh7 7. Bd2 Kh8 8. Bc3+ Kg8 $1 9. Bd4 Kh7 10. Bg7 b6 (Kg8 11. Kxb3) 11. Bf8 (11. Ka1 { <or>} Kg8 12. Bd4 Kh7 13. Be3 b5 14. Kb2 Kh8 15. Bd4+ Kg8 16. Be5 Kh7 17. Bg7) Kh8 12. Bb4 Kh7 13. Bd2 Kh8 14. Bc3+ Kg8 15. Bd4 Kh7 16. Bg7 b5 17. Bf8 Kh8 18. Bb4 Kh7 19. Bd2 Kh8 20. Bc3+ Kg8 21. Bd4 Kh7 22. Bg7 b4 23. Bf8 Kh8 24. Bxb4 Kh7 25. Bd2 Kh8 26. Bc3+ Kg8 27. Bd4 Kh7 28. Bg7 Kg8 29. Kxb3 1-0
+
+[Event "Nieuwe Leidse Courant#27"]
+[Source "also Nieuwe Haagse Courant 1935 also Tijdschrift v.d. KNSB#447 Tijdschrift v. d. KNSB/10 1942."]
+[Date "1935.03.27"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p3p2/7k/p1PPP3/8/K7/4n3/8 w - - 0 1"]
+
+1. e6 $1 (1. c6 $2 bxc6 2. dxc6 (2. d6 Nd4 3. d7 Ne6) Nd4 $1 3. c7 Nb5+) fxe6 (Nd4 2. e7 Nb5+ 3. Ka4 Nc7 4. d6 Ne8 5. d7) 2. c6 bxc6 3. d6 $1 Nd4 4. d7 1-0
+
+[Event "Vaderland (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - V-76 2012."]
+[Date "1935.04.14"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/1p1p4/k2PP1p1/4N1P1/1P1r4/P2P4/2K5 w - - 0 1"]
+
+1. e6 $1 Rxd5 2. d4 $1 Rxd4 3. Nd2 Rxg4 (Rd3 4. Nc4+ Ka6 5. e7) (Rd5 4. Nc4+ Ka6 5. e7) 4. e7 (4. Kd1 $2 Rh4 5. e7 Rh8) Rg1+ 5. Nf1 $1 Rxf1+ 6. Kd2 Rf2+ 7. Kd3 (7. Ke3 $2 Rf5 8. e8=Q Re5+ 9. Qxe5+ dxe5) Rf3+ (Rxa2 8. e8=Q Kb4 9. Qe4+ Kxb3 10. Qc4+ Kb2 11. Qc2+ Ka3 12. Qc3+ Ka4 13. Qc4+ Ka3 14. Kc3) 8. Kd4 Rf4+ 9. Kd5 Rf5+ 10. Kxd6 Rf6+ 11. Kd5 (11. Ke5 $2 Rf1 12. e8=Q Re1+) Rf5+ 12. Kd4 Rf4+ 13. Kd3 (13. Ke3 {<or>}) Rf3+ 14. Ke2 1-0
+
+[Event "Tijdschrift v.d. KNSB#119"]
+[Source "Tijdschrift v.d. KNSB/9"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6B1/5P1p/1N5P/8/1P6/p1p1p3/p1PpP3/1k1K4 w - - 0 1"]
+
+1. Na4 $1 a1=R $1 (a1=Q 2. f8=Q) 2. f8=N $1 (2. f8=Q $2 a2 3. Qf7) a2 3. Ng6 hxg6 4. h7 g5 5. h8=Q g4 {<eg>} 6. Qxc3 g3 7. Qb2# 1-0
+
+[Event "Tijdschrift v.d. KNSB"]
+[Source "Tijdschrift v.d. KNSB/5"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5bPK/P7/7k/2pP3P/8/B6p/8 w - - 0 1"]
+
+1. Bxc4 $1 Bxc4 2. d5 $1 Bxd5 3. a7 h1=Q 4. a8=Q Bg8+ (Qe4+ {<main>} 5. Kh8 Kh6 6. Qa6+ Be6 7. g8=N+ (7. g8=Q $2 Qe5+) Kg6 8. h5+) 5. Kh8 $1 (5. Qxg8 $2 Qe4+ 6. Kh8 Kh6 7. h5 Qf5 8. Qe6+ Qxe6 9. g8=Q Qf6+) (5. Kxg8 $2 Qxa8+) Qxa8 1/2-1/2
+
+[Event "Zeeuwsch Zondagsblad"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k1K/Bp5P/3p3p/1P1p4/1P6/1P6/8/8 w - - 0 1"]
+
+1. Bf2 $1 (1. Bb6 $2 h5 2. Ba5 h4 3. b6 h3 4. b5 h2 5. b4 Ke7 (h1=Q $2)) h5 (d4 2. b6 d3 3. Be1 h5 4. b5) 2. b6 Kf7 $1 (d4 3. Bxd4 h4 4. Bc5 $1 dxc5 5. bxc5 h3 6. c6) 3. b5 d4 4. Be1 $1 (4. Bxd4 $2 h4 $1) d3 5. Ba5 d2 6. Bxd2 (6. b4 $2 Kg6 7. Kg8 d1=Q) h4 7. Ba5 h3 8. b4 h2 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#123"]
+[Source "Tijdschrift v.d. KNSB/10"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k1N/5PpP/4p3/7K/6R1/8/7p/1q6 w - - 0 1"]
+
+1. Ng6+ $1 Qxg6+ (Kxf7 2. Rf4+) 2. Kxg6 h1=R (h1=Q {<main>} 3. h8=Q+ Qxh8 4. Rh4 Qxh4 (Qh6+ 5. Rxh6 gxh6 6. Kxh6 Kxf7 7. Kg5)) 3. Ra4 $1 Rh6+ 4. Kg5 Rxh7 5. Ra8+ Kxf7 6. Ra7+ Kf8 $1 (Ke8 7. Kg6) 7. Ra8+ Ke7 8. Ra7+ (8. Kg6 $2 Rh1 9. Kxg7 Rg1+) Kd6 9. Ra6+ Kd5 10. Ra5+ Kc4 11. Kg6 $1 Rh6+ 12. Kxg7 Rh1 13. Re5 1/2-1/2
+
+[Event "De Schaakwereld#068 (c)"]
+[Date "1937.03.12"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5k2/P4p2/6p1/b3K1P1/7p/4P2P/8 w - - 0 1"]
+
+1. Kd5 $1 Bb5 $1 (Bd1 2. e4 $1) 2. a7 Bxe2 3. Ke4 Bf1 4. a8=Q Bg2+ 5. Kf5 Bxa8 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB"]
+[Source "Tijdschrift v.d. KNSB/7"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1pP3P1/1P6/KP2p3/8/k7 w - - 0 1"]
+
+1. c6 $1 e2 2. c7 e1=N (e1=Q 3. c8=Q Kb1 4. Qf5+ Kc1 5. Qxb5) 3. c8=R (3. c8=Q $2 Nc2+ 4. Qxc2) 1-0
+
+[Event "Eindspelen en Problemen#137"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3RB3/5p1k/8/8/1n4K1/5pP1/2p5/8 w - - 0 1"]
+
+1. Rc8 $1 Nc6 2. Bxc6 f5+ 3. Kh5 $1 c1=Q 4. Rc7+ Kh8 (Kg8 5. Bd5+) 5. Kg6 Qc4 6. Rc8+ 1-0
+
+[Event "Eindspelen en Problemen#258 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - V-73 2012."]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6n1/5B2/5P2/1k4r1/2p1Kp1p/8/6N1/8 w - - 0 1"]
+
+1. Bxc4+ $1 Kxc4 2. f7 Nf6+ (Ne7 3. f8=Q) 3. Kxf4 Rxg2 (Nh7 4. f8=Q Nxf8 5. Kxg5) 4. f8=Q Rf2+ 5. Ke3 Ng4+ 6. Ke4 Rxf8 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB"]
+[Source "Tijdschrift v.d. KNSB/9"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/6P1/6PK/1PP2pPP/8/8/7k w - - 0 1"]
+
+1. b5 $1 f3 2. b6 f2 3. b7 f1=N $1 4. b8=B $1 (4. b8=Q $2 Ng3+ 5. Qxg3) 1-0
+
+[Event "Eindspelen en Problemen#085"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/1P3p2/8/1b2P3/8/1B6/4k2K w - - 0 1"]
+
+1. e5 $1 fxe5 2. Bc3+ Bxc3 3. b7 1-0
+
+[Event "Residentiebode"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4b2N/4P1P1/8/1k1K4/1p6/4PB2/8/6r1 w - - 0 1"]
+
+1. Bh5 $1 Bxh5 2. Ng6 Bxg6 3. g8=Q Be4+ 4. Kd4 $1 Rxg8 5. e8=Q+ Rxe8 1/2-1/2
+
+[Event "Eindspelen en Problemen#153 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - V-78 2012."]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3p2P1/1P6/7r/1Nb5/4k3/2K5/8 w - - 0 1"]
+
+1. Nd5+ $1 Rxd5 $1 (Bxd5 2. b7 Be4+ 3. Kc3) 2. g8=Q Rd2+ 3. Kc1 (3. Kc3 $2 Bxg8 4. b7 Rd3+ 5. Kb2 Rb3+ 6. Ka1 d5 $1) (3. Kb1 $2 Bxg8 4. b7 Bh7+ 5. Ka1 (5. Kc1 Rc2+) Rd1+ 6. Ka2 Rb1) Bxg8 4. b7 Rd3 $1 5. b8=Q Rc3+ 6. Kb2 (6. Kd1 $2 Bb3+) (6. Kb1 {<or>}) Rb3+ 7. Ka1 $1 Rxb8 1/2-1/2
+
+[Event "De Schaakwereld"]
+[Date "1938.05.13"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p1p/8/5P1P/6p1/4p3/6pp/Q1NK3k w - - 0 1"]
+
+1. Qa8 $1 Kg1 2. Qb8 (2. Ne2+ $2 Kf2) Kh1 (Kf2 3. Qf4+) (h1=Q 3. Qg3 Qh3 (Qxh5 4. Ne2+ Kh1 5. Qe1+ Kh2 6. Qg1+ Kh3 7. Nf4+) 4. Ne2+ Kh1 5. Qe1+ Kh2 6. Qg1#) 3. Qb7 Kg1 4. Qc7 Kh1 5. Qc6 Kg1 6. Qd6 Kh1 7. Qd5 Kg1 8. Qe5 Kh1 9. Qe4 Kg1 10. Qxe3+ Kh1 11. Qe4 1-0
+
+[Event "Tijdschrift v.d. KNSB#251"]
+[Source "Tijdschrift v.d. KNSB/4"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4r3/P1k4p/K7/P2p4/3P4/8/6p1/6B1 w - - 0 1"]
+
+1. Bh2+ $1 Kd7 (Kc6 2. Bb8 $1 g1=Q 3. a8=Q+ Kd7 4. Qxd5+ Ke7 5. Bd6+ Kf6 6. Be5+ Ke7 7. Qd6+ Kf7 8. Qf6+ Kg8 9. Qh8+ Kf7 10. Qxh7+ Ke6 11. Qh6+ Kf7 $1 12. Qh5+ Ke7 $1 13. Bd6+ Kd7 14. Qb5+ Kd8 15. Qd5 $1 Qg8 16. Qxg8 Rxg8 17. Kb7 $1) 2. Kb7 Ra8 $1 3. Kxa8 Kc8 4. Bg1 Kc7 5. Bf2 Kc8 6. Be3 Kc7 7. Bg1 Kc8 8. Bh2 h6 9. Bg1 Kc7 10. Bf2 Kc8 11. Be3 Kc7 12. Bg1 Kc8 13. Bh2 h5 14. Bg1 Kc7 15. Bf2 Kc8 16. Be3 Kc7 17. Bg1 Kc8 18. Bh2 h4 19. Bg1 Kc7 20. Bf2 Kc8 21. Be3 Kc7 22. Bg1 Kc8 23. Bh2 h3 24. a6 $1 (24. Bg1 $2 Kc7 25. Bf2 h2) g1=Q 25. Bxg1 Kc7 26. Bh2+ Kc8 27. Be5 (27. Bg3 {<or>}) (27. Bf4 {<or>}) 1-0
+
+[Event "De Schaakwereld#337"]
+[Date "1940.02.26"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5k2/2Pp3P/8/3K4/7r/8/7N w - - 0 1"]
+
+1. c7 $1 Rh4+ 2. Kd3 Rh3+ 3. Kd2 Rh2+ 4. Nf2 $1 Rxf2+ 5. Kd3 (5. Kc3 $2 Rf5 $1 6. c8=Q Rc5+) Rf3+ 6. Kd4 Rf4+ 7. Kd5 Rf5+ 8. Kxd6 Rf6+ 9. Kd5 $1 (9. Kd7 $2 Rf1 $1 10. h7 (10. c8=Q Rd1+ 11. Kc7 Rc1+) Rd1+ 11. Kc6 Rc1+ 12. Kb7 Kg7) (9. Kc5 $2 Rf1) Rf5+ 10. Kd4 Rf4+ 11. Kd3 (11. Kc3 {<or>}) Rf3+ 12. Kc2 $1 Rf2+ 13. Kb3 Rf3+ 14. Kb4 Rf4+ 15. Kb5 Rf5+ 16. Kb6 Rf6+ 17. Kb7 1-0
+
+[Event "De Schaakwereld#366"]
+[Date "1940.07.10"]
+[Round "?"]
+[Composer "Kok, Theodorus Cornelis Louis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1ppp4/8/1PPP4/2K5/6k1/8 w - - 0 1"]
+
+1. Kd2 $1 (1. b5 $2 c5 $1 2. dxc5 dxc5 3. Kc2 Kf3 4. Kd3 Kf4) (1. Kb2 $2 Kf2 2. c5 bxc5 3. d5 cxd5 4. b5 d4 5. b6 d3) (1. Kc2 $2 Kf3 2. c5 bxc5 3. d5 cxd5 4. b5 Ke2 5. b6 d4 6. b7 d3+) (1. Kd3 $2 Kf3 $1 2. c5 bxc5 $1 3. d5 cxd5 4. b5 c4+ 5. Kd4 c3 $1 6. Kxc3 (6. Kd3 c2) Ke3 7. b6 d4+ 8. Kb3 d3) (1. d5 $2 c5 $1 (cxd5 2. Kd4 dxc4 3. Kxc4 Kf3 4. Kd5) 2. bxc5 bxc5 3. Kb3 Kf3 4. Ka4 Ke4 5. Kb5 Kd4 6. Kc6 Kxc4 7. Kxd6 Kb4 8. Ke7 c4) Kf3 (b5 2. d5 cxd5 3. cxb5) (d5 2. b5) (c5 2. dxc5 dxc5 3. bxc5 bxc5 4. Ke3) 2. c5 $1 dxc5 (bxc5 {<main>} 3. d5 cxd5 4. b5 c4 {<eg>} 5. b6 c3+ 6. Kxc3 Ke3 7. b7 d4+ 8. Kb3) 3. b5 $1 cxb5 4. d5 1-0

@@ -1,0 +1,12 @@
+[Event "Bulletin SOSZ"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Ginalski, Czeslaw"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1P6/8/1K5Q/5pp1/6k1 w - - 0 1"]
+
+1. Qe3 $1 Kf1 2. Qd3+ Ke1 3. Kc2 f1=N 4. Qe4+ Kf2 5. Qd4+ 1-0

@@ -1,0 +1,13 @@
+[Event "Sachové Umenie#5901"]
+[Source "Sachové Umenie/4"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Kovalevsky, E"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K1k4/7p/P7/5P1r/8/8/8/8 w - - 0 1"]
+
+1. a7 $1 Rxf5 (Rh4 2. a8=Q Rb4+ 3. Ka7+ Kc7 4. Qe8) (Rh3 2. a8=Q Rb3+ 3. Ka7+ Kc7 4. Qf8) (Rh2 2. a8=Q Rb2+ 3. Ka7+ Kc7 4. Qg8) (Rh1 2. a8=Q Rb1+ 3. Ka7+ Kc7 4. Qh8) 2. a8=Q Rb5+ 3. Ka7+ Kc7 4. Ka6 1-0

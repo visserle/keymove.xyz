@@ -1,0 +1,31 @@
+[Event "?"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Galumbirek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "4b3/4P3/1k6/1p6/1K6/8/6Bp/8 w - - 0 1"]
+
+1. Bh1 (1. Kc3 $2 Kc5 $19 2. Kd2 b4) (1. Kb3 $2 Kc5 $19 2. Kc2 Kd6) (1. Be4 $2 Kc7 $19) (1. Ka3 $2 Kc5 $19 2. Bf3 Kd6) (1. Bd5 $2 Kc7 $19) (1. Bf3 $2 Kc7 $19) (1. Ba8 $2 Kc7 $19) (1. Bf1 $2 h1=Q 2. Bxb5 Bxb5) Kc7 2. Kc5 (2. Kc3 $2 Kd7 $19 3. Kd3 b4) (2. Bg2 $2 Kd6 $19) (2. Kb3 $2 Kd7) (2. Bc6 Bxc6) (2. Ka5 Kd6) Kd7 3. Kxb5 (3. Kd4 $2 b4 $19 4. Bc6+ Kxc6) (3. Kb6 $2 Kd6 $19) (3. Bc6+ $2 Kxe7 $19 4. Bxb5 Bxb5 5. Kxb5 h1=Q) (3. Kd5 $2 b4 $19) Kxe7+ 4. Kc5 (4. Kc4 $2 Kd6 $19 5. Bf3 Bc6) (4. Kb6 $2 Kd6 $19) (4. Bc6 Bxc6+ 5. Kxc6 h1=Q+) Kd7 5. Kd5 (5. Kd4 Kc8 6. Bg2 $10) (5. Bc6+ $2 Ke6 6. Bd5+ Ke5 $19) (5. Bg2 $2 Kc7) (5. Kb6 $2 Kd6) (5. Kb5 $2 Kd6+ 6. Kb6 Bf7) (5. Ba8 $2 Ke6 6. Bd5+ Ke5) Kc7 6. Ke4 (6. Ke5 Kd8 7. Bg2 $10) (6. Kc5 $2 Bd7 $19) (6. Kd4 $2 Bc6 $19) (6. Ke6 $2 Bc6 $19 7. Bxc6 Kxc6) (6. Kc4 Bc6 7. Bxc6 Kxc6) Bc6+ 7. Kf4 (7. Kd4 Bxh1) (7. Kd3 Bxh1) (7. Ke5 Bxh1) Bxh1 8. Kg3 $10 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Galumbirek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "k7/1R1K4/2P5/8/8/8/8/7r w - - 0 1"]
+
+1. Rb8+ (1. Kc7 $2 Rh8 2. Kb6 Rb8 $10) (1. Rb5 $2 Rh7+ 2. Kc8 Rh8+ 3. Kc7 Rh7+ 4. Kb6 Kb8 5. Rg5 Rb7+ $10) (1. Kd6 $2 Rd1+ 2. Ke6) (1. Kd8 $2 Rc1 2. Rc7) (1. Ke6 $2 Rg1 2. Rc7) Ka7 (Kxb8 2. c7+ Ka7 3. c8=Q $18) 2. c7 (2. Re8 $2 Rh7+ 3. Re7 $10) (2. Rb7+ $2 Ka6 3. c7) (2. Rd8 $2 Rh7+ 3. Kd6) (2. Rc8 $2 Rg1 3. c7) (2. Kd6 $4 Kxb8 3. c7+ Kc8) (2. Kc8 $4 Rh8+ 3. Kc7 Rxb8) (2. Rf8 $2 Rh7+ 3. Kd6) (2. Rb5 $2 Rg1 3. c7) (2. Kc7 $4 Rh7+ 3. Kc8 Rh8+) Rd1+ (Rh7+ 3. Kd6 Rh6+ 4. Ke5 Rh5+ 5. Kf4 Rh4+ 6. Kg3 $18) 3. Ke6 Re1+ 4. Kf5 Rf1+ 5. Kg4 Rg1+ 6. Kh3 Rh1+ 7. Kg2 Rc1 8. c8=R $1 1-0

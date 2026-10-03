@@ -1,0 +1,172 @@
+[Event "source unknown"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Fontein, Johannes Hendrikus Carolus"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/4p1p1/7k/5P2/7K w - - 0 1"]
+
+1. Kg1 $1 g3 2. Kh1 (2. fxg3 $2 Kxg3) Kg4 (gxf2) (g2+ 3. Kg1) 3. Kg2 Kf4 4. fxg3+ Ke3 5. g4 Kd2 6. g5 e3 7. g6 e2 8. g7 e1=Q 9. g8=Q 1/2-1/2
+
+[Event "source unknown"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Fontein, Johannes Hendrikus Carolus"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4p3/8/p3P3/4K3/6P1/3k4 w - - 0 1"]
+
+1. Kd3 $1 Kc1 2. Kc3 Kb1 3. Kb4 Kb2 4. Kxa4 Kc3 5. g4 Kd4 6. g5 Ke5 {<eg>} 7. Kb3 1-0
+
+[Event "source unknown"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Fontein, Johannes Hendrikus Carolus"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5k2/4pP2/4p3/8/3K4/8 w - - 0 1"]
+
+1. Ke2 $1 (1. Ke3 $2 Kxf5) Kg5 2. Kf2 Kf6 3. Ke2 Kxf5 4. Ke3 1/2-1/2
+
+[Event "source unknown"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Fontein, Johannes Hendrikus Carolus"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p5/2P5/5K2/1k6/8/8/8 w - - 0 1"]
+
+1. Ke4 $1 (1. Ke6 $2 Kc5 2. Kd7 Kb6) (1. Ke5 $2 Kc5 2. Ke4 Kxc6) Kc4 (Kc5 2. Kd3) 2. Ke3 (2. Ke5 $2 Kc5) Kc5 3. Kd3 Kxc6 4. Kc4 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#242"]
+[Source "Tijdschrift v.d. KNSB/2"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Fontein, Johannes Hendrikus Carolus"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4K3/6p1/3k2P1/7P/8/p7/8/8 w - - 0 1"]
+
+1. h6 $1 a2 2. h7 (2. hxg7 $2 a1=Q 3. g8=Q Qe5+ 4. Kf7 (4. Kd8 Qe7+ 5. Kc8 Qc7#) Qe7#) a1=Q (a1=R 3. Kf7 Ra7+ 4. Kf8 Ra8+ 5. Kxg7) 3. h8=Q Qa8+ 4. Kf7 Qxh8 1/2-1/2
+
+[Event "source unknown"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Fontein, Johannes Hendrikus Carolus"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3p4/8/4P3/3kP3/8/3K4/8 w - - 0 1"]
+
+1. e6 $1 dxe6 2. e5 Kxe5 3. Ke3 1/2-1/2
+
+[Event "source unknown"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Fontein, Johannes Hendrikus Carolus"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/2P5/8/8/8/4K3/k7 w - - 0 1"]
+
+1. Kd3 $1 Kb2 2. Kc4 Ka3 3. Kb5 Kb3 4. Ka6 1-0
+
+[Event "3.c Tijdschrift v.d. KNSB#307"]
+[Source "Tijdschrift v.d. KNSB/1"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Fontein, Johannes Hendrikus Carolus"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/8/5P2/p7/4K3/7P/3k4 w - - 0 1"]
+
+1. Kd3 $1 Kc1 2. Kc3 Kb1 3. Kb4 Kb2 4. Kxa4 Kc3 5. h4 Kd4 6. h5 Ke5 7. h6 Kf6 8. Kb5 1-0
+
+[Event "Maandblad SV Feijenoord"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Fontein, Johannes Hendrikus Carolus"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4K2p/8/3k4/6p1/6P1/2P5/8 w - - 0 1"]
+
+1. Kf6 $1 Ke4 (Kd4 2. Kg5 Kc3 3. Kh6 $1) 2. Kg5 Kf3 3. Kh4 Ke3 4. Kxg4 Kd4 5. Kh5 Kc3 6. Kh6 Kxc2 7. Kxh7 Kd3 8. g4 Ke4 9. g5 Kf5 10. g6 1-0
+
+[Event "De Schaakwereld#392"]
+[Date "1941.01.16"]
+[Round "?"]
+[Composer "Fontein, Johannes Hendrikus Carolus"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/5p2/p7/Pp3p2/1P3P2/1P3P2/5K2/8 w - - 0 1"]
+
+1. Ke3 $1 Kf8 (Kg7 2. Kd4 Kf6 3. Kc5 $1 Ke6 4. Kc6 Ke7 5. Kd5) 2. Kd4 Ke7 3. Kd5 $1 (3. Kc5 $2 Kd7 4. Kb6 Kd6 5. Kxa6 Kc6 6. Ka7 Kc7 7. a6 f6 8. Ka8 Kc8) (3. Ke5 $2 f6+ 4. Kxf5 Kf7 5. Kg4 Kg6 6. f5+ Kf7 $1 (Kg7 $2 7. Kf4 Kf7 8. Ke4 Ke7 9. Kd5 Kd7 10. f4) (Kh6 7. Kf4 Kh5 8. Ke3 $1 Kh4 9. Kd4 Kg3 10. Kd5 Kf4 11. Ke6 Kg5 12. f4+) 7. Kg3 Kf8 8. Kf4 Ke7 9. Kg4 Kf7) Kd7 4. Ke5 Ke7 5. Kxf5 1-0
+
+[Event "De Schaakwereld#416"]
+[Date "1941.11.06"]
+[Round "?"]
+[Composer "Fontein, Johannes Hendrikus Carolus"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p3kp2/8/1Pp2PK1/2P5/8/8/8 w - - 0 1"]
+
+1. Kg4 $1 (1. Kf4 $2 Kf6 2. Kg4 (2. Ke4 Kg5 3. Ke5 Kg4 4. Kd5 (4. Kf6 Kf4 5. Kxf7 Kxf5) Kxf5 5. Kxc5 Ke4) Ke5 3. Kg5 Ke4 4. Kf6 Kf4 5. Ke7 $1 Kxf5 6. Kd6 Ke4 7. Kxc5 f5 8. Kd6 f4 9. c5 f3) Kd7 (Kf6 2. Kf4 Ke7 3. Ke5) (f6 2. Kh5 Kd6 3. Kh6 Ke5 4. Kg6) (Kd6 2. Kf4 f6 3. Ke4) 2. Kf4 Kd6 (f6 3. Kg4 Kd6 4. Kh5 Ke5 5. Kg6) 3. Ke4 f6 4. Kf4 Ke7 5. Kf3 $1 Kd7 {<eg>} (Kd6 6. Ke4) (Kf7 6. Ke4 Kg7 7. Kd5 Kh6 8. Kd6 Kg5 9. Ke6) 6. Kg4 Kd6 7. Kh5 Ke5 8. Kg6 Kd4 9. Kxf6 Kxc4 10. Ke5 Kb3 (Kd3 11. f6 c4 12. f7 c3 13. f8=Q c2 14. Qf4) 11. f6 c4 12. f7 c3 13. f8=Q c2 14. Qf4 Kb2 {<eg>} 15. Kd6 c1=Q 16. Qxc1+ Kxc1 17. Kc7 Kb2 18. Kb7 Kb3 19. Kxa7 Kb4 20. b6 1-0
+
+[Event "Tijdschrift v.d. KNSB#044"]
+[Source "Tijdschrift v.d. KNSB/2 1947"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Fontein, Johannes Hendrikus Carolus"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p2K3/1p6/8/8/3k4/1P6/8 w - - 0 1"]
+
+1. Kd6 $1 (1. Kd7 $2 b5 2. Kd6 b4) Kc2 2. Kd5 Kb3 3. Kd4 b5 4. Kd5 b4 (Ka4 5. Kc5 Ka5 6. b3 b4 7. Kc4 b6 8. Kd4 Kb5 9. Kd5) (Kb4 5. Kd4 b6 6. Kd5 Kb3 7. Kc6 b4 8. Kb5) 5. Kc5 Ka4 6. Kb6 Kb3 7. Kc5 (7. Kb5 $2 b6 $1) Ka4 8. Kb6 b3 9. Kc5 b5 (b6+ 10. Kxb6 Kb4 11. Ka6 $1 Kc4 12. Ka5) 10. Kd4 Kb4 {<eg>} 11. Kd3 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#043"]
+[Source "Tijdschrift v.d. KNSB/2 1947"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Fontein, Johannes Hendrikus Carolus"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/2K5/8/3k4/1P6/1P6/8 w - - 0 1"]
+
+1. b4 $1 (1. Kxc7 $2 Kc5) (1. Kb5 $2 Kd3 2. Kc6 Kc2 3. b4 Kb3 4. b5 Kc4) Kd3 (Kc4 2. b5 Kb4 3. b3 Ka5 4. Kc5) 2. Kd5 $1 (2. b5 $2 Kc4 3. b3+ Kb4) (2. Kc5 $2 Kc2 3. b5 Kb3 4. Kc6 Kc4 5. b3+ Kb4) (2. b3 $2 Kc3 3. b5) Kc2 3. b5 Kb3 4. Kc5 (4. Kc6 $2 Kc4 5. b3+ Kb4) Ka4 5. Kc4 (5. Kc6 $2 Ka5) Ka5 6. b3 Kb6 7. Kb4 (7. b4 $2 c6) Ka7 8. Kc5 Kb7 9. b4 1-0

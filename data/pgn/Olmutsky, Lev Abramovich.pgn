@@ -1,0 +1,27 @@
+[Event "Ceskoslovensky Sach#141"]
+[Source "Ceskoslovensky Sach/11"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Olmutsky, Lev Abramovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k1K/8/6pP/p5P1/8/8/4P3/8 w - - 0 1"]
+
+1. Kh7 $1 (1. e4 $2 a4 2. e5 (2. Kh7 a3 3. Kxg6 a2 4. h7 a1=Q) a3 3. e6 a2 4. e7+ Kxe7 5. h7 a1=Q+ 6. Kg8 Qa8+ 7. Kg7 Qf8+ 8. Kxg6 Qh8) Kf7 $1 (a4 2. Kxg6 Kg8 3. h7+ Kh8 4. Kh6 a3 5. g6 a2 6. g7#) 2. e4 a4 3. e5 a3 4. e6+ Kxe6 (Ke7 5. Kg8) (Kf8 5. e7+ Kxe7 6. Kg8 $1 a2 7. h7 a1=Q 8. h8=Q) 5. Kxg6 a2 6. h7 a1=Q 7. h8=Q $1 Qxh8 1/2-1/2
+
+[Event "Shakhmaty v SSSR#02 (v)"]
+[Source "Shakhmaty v SSSR/1"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Olmutsky, Lev Abramovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2K2Bbk/8/8/4N3/7N/8/p7/8 w - - 0 1"]
+
+1. Nf7+ $1 Bxf7 2. Nf5 Be6+ 3. Kd8 $1 Bxf5 4. Bd6 $1 a1=Q 5. Be5+ $1 Qxe5 1/2-1/2

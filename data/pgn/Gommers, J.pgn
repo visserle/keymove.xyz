@@ -1,0 +1,13 @@
+[Event "Schakend Nederland#0785"]
+[Source "Schakend Nederland/4"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Gommers, J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4q2k/3p1p1p/4p2N/8/3K4/8/3Q4/8 w - - 0 1"]
+
+1. Qg5 $1 Qf8 2. Qf6+ Qg7 3. Nxf7+ Kg8 4. Nh6+ Kh8 5. Ke5 d5 6. Kxe6 Qxf6+ 7. Kxf6 d4 8. Kf7 d3 9. Kf8 d2 10. Nf7# 1-0

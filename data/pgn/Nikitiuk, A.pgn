@@ -1,0 +1,13 @@
+[Event ".c Bulletin Central Chess Club USSR#08"]
+[Source "Bulletin Central Chess Club USSR/3"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Nikitiuk, A"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5K2/8/8/4kB2/p1p5/2PPPP2/8 w - - 0 1"]
+
+1. Bh6 $1 a2 (Kf5 {<main>} 2. f3 $1 a2 3. d4 a1=Q 4. e4#) 2. Ke6 $1 cxd2 (a1=Q {<main>} 3. d3+ Kd4 4. Be3#) 3. c3 d1=Q 4. f3# 1-0

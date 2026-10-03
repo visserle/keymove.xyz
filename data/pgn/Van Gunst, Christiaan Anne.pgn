@@ -1,0 +1,12 @@
+[Event "De Schaakwereld#297"]
+[Date "1939.09.29"]
+[Round "?"]
+[Composer "Van Gunst, Christiaan Anne"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3pPk2/8/8/7B/1pP2K2/8/6N1 w - - 0 1"]
+
+1. Nh3 $1 b2 (d6 2. Ng5+ Ke8 3. Ne4) (d5 2. Ng5+ Ke8 3. Ne6 b2 4. Nc7+) 2. Ng5+ Ke8 (Kxe7 3. Ne4+) 3. Ne4 b1=Q 4. Nd6# 1-0

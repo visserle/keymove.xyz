@@ -1,0 +1,13 @@
+[Event "4.p Varpa"]
+[Source "EG#03768."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Priedniks, E"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/8/PP4P1/8/6K1/6b1/2r5/8 w - - 0 1"]
+
+1. g7 $1 Bb8 $1 2. b7+ (2. Kf3 $2 Rc3+ 3. Kg2 Rg3+ 4. Kh1 Ba7) Ka7 3. Kf3 Rc3+ 4. Kg2 Rg3+ 5. Kh1 $1 Rh3+ 6. Kg2 Rg3+ 7. Kh1 Kb6 8. a7 Bxa7 9. b8=Q+ Bxb8 10. g8=Q Rxg8 1/2-1/2

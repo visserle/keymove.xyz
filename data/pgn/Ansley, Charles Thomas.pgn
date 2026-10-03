@@ -1,0 +1,12 @@
+[Event "Montreal Dailey Witness"]
+[Date "1902.??.??"]
+[Round "?"]
+[Composer "Ansley, Charles Thomas"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2ppp3/3k4/1Pp5/2P1KP2/8/8 w - - 0 1"]
+
+1. Kf4 $1 e5+ (c5 {<main>} 2. b5 e5+ 3. Kf5 e4 4. fxe4#) 2. Kf5 c5 3. b5 e4 4. fxe4# 1-0

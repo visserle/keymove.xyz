@@ -1,0 +1,151 @@
+[Event "Sachové Umenie#073"]
+[Source "Sachové Umenie/10"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Moravec, Antonin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/1R6/3p3p/4P1r1/6N1/5p1K/6p1/8 w - - 0 1"]
+
+1. Nf6 $1 Rg3+ (Rh5+ 2. Nxh5 g1=Q 3. Rb8+ Qg8 4. Rxg8+ Kxg8 5. exd6) 2. Kh4 Rg4+ 3. Kh5 Rg5+ 4. Kxh6 Rg6+ 5. Kxg6 g1=Q+ 6. Kf5 Qh2 7. Rb8+ 1-0
+
+[Event "Práce"]
+[Source "Práce/1"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Moravec, Antonin"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "n1q4k/3Rp3/3P1p1K/5P2/2p5/2P5/8/8 w - - 0 1"]
+
+1. dxe7 $1 Qe8 (Qxd7 2. e8=Q+ Qxe8) 2. Ra7 $1 Nb6 3. Ra8 $1 Qxa8 (Nxa8) 4. e8=Q+ Qxe8 1/2-1/2
+
+[Event "Práce"]
+[Source "Práce/6"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Moravec, Antonin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2n2k2/8/1pp3PK/6P1/2P5/8/2P5/8 w - - 0 1"]
+
+1. Kh7 $1 Ne7 2. g7+ Kf7 3. c5 $1 bxc5 4. c4 $1 Ke6 5. g8=Q+ Nxg8 6. Kxg8 Kf5 7. Kf7 Kxg5 8. Ke6 Kf4 9. Kd6 Ke4 10. Kxc6 Kd4 11. Kb5 1-0
+
+[Event "Ceskoslovensky Sach#3032"]
+[Source "Ceskoslovensky Sach/5"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Moravec, Antonin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B6/5p2/k1K2p2/4R3/p3P3/6q1/4pp2/2R5 w - - 0 1"]
+
+1. Ra5+ $1 Kxa5 2. Bxg3 f1=Q 3. Be1+ Ka6 4. Ra1 Ka7 5. Rxa4+ Kb8 6. Bg3+ Kc8 7. Ra8# 1-0
+
+[Event "Práce"]
+[Source "Práce/1"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Moravec, Antonin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/4P3/5k2/5p2/5pp1/6p1/7P/8 w - - 0 1"]
+
+1. Kf8 $1 gxh2 (g2 2. e8=Q g1=Q 3. Qe7+ Kg6 4. h4 $1 Qd4 5. Qg5+ Kh7 6. Qh5#) (f3 2. e8=Q f2 3. hxg3 $1 f1=Q 4. Qe7+ Kg6 5. Qe6+ Kh7 6. Qf6) 2. e8=Q h1=Q (g3 3. Qh5 $1 Ke5 4. Qf3 Kf6 5. Kg8 $1 Kg6 6. Kh8 $1 Kh6 (Kg5 7. Kg7) 7. Qxf4+) 3. Qe7+ Kg6 4. Qg7+ Kh5 5. Qh7+ 1-0
+
+[Event "Ceskoslovensky Sach#3177"]
+[Source "Ceskoslovensky Sach/3"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Moravec, Antonin"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/2p5/2P5/pp6/3RK3/1k6 w - - 0 1"]
+
+1. Kd3 $1 a2 (b2 {<main>} 2. Rd1+ Ka2 3. Kc2 b1=Q+ 4. Rxb1) (Ka1 {<main>} 2. Rd1+ Ka2 3. Kc3 b2 4. Kc2 b1=Q+ 5. Rxb1) 2. Kc3 a1=Q+ 3. Kxb3 Kc1 4. Rd1+ Kxd1 1/2-1/2
+
+[Event "Práce"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Moravec, Antonin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6R1/7p/5r2/3b3p/3P2N1/1k1K4 w - - 0 1"]
+
+1. Rb6+ $1 Ka2 (Ka1 2. Nxf4 h2 3. Nxd3 h1=Q+ 4. Kc2 Qa8 5. Rb1+ Ka2 6. Nb4+ Ka3 7. Ra1+) 2. Nxf4 h2 3. Nxd3 h1=Q+ 4. Kc2 Qa8 5. Ra6+ Qxa6 6. Nb4+ 1-0
+
+[Event "Práce"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Moravec, Antonin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6R1/8/8/4pk2/5b2/8/4K2p/3B2N1 w - - 0 1"]
+
+1. Bc2+ $1 e4 2. Bxe4+ Kxe4 3. Nh3 Be3 4. Re8+ Kf5 5. Rf8+ Kg4 6. Kxe3 Kxh3 7. Kf2 h1=N+ 8. Kf3 Kh2 9. Rg8 1-0
+
+[Event "Prager Presse (c)"]
+[Source "(c): Garcia=M Krug=P Estudios Artisticos de Ajedrez - XVI-63 2015."]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Moravec, Antonin"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/7b/2p4K/5RP1/5n2/8/6p1/8 w - - 0 1"]
+
+1. g6 $1 Bxg6 (Nxg6 2. Rg5) 2. Rxf4 g1=Q (Bh5 3. Kxh5 g1=Q 4. Rg4+ Qxg4+ 5. Kxg4 Kf7 6. Kf5) (Be4 3. Rxe4 g1=Q 4. Rg4+ Qxg4) 3. Rf8+ Kxf8 1/2-1/2
+
+[Event "Prager Presse (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - VII-43 2012."]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Moravec, Antonin"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/7b/3p3K/3P1RP1/5n2/8/6p1/8 w - - 0 1"]
+
+1. g6 $1 Bxg6 2. Rxf4 g1=Q (Be4 3. Rxe4 g1=Q 4. Rg4+ Qxg4) 3. Rf8+ Kxf8 1/2-1/2
+
+[Event "Prager Presse (c)"]
+[Source "(c): Keith=D Estudios Artisticos de Ajedrez - XV-17 2015."]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Moravec, Antonin"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/1p5b/7K/5RP1/5n2/8/6p1/8 w - - 0 1"]
+
+1. g6 $1 Bxg6 (Ne6 2. gxh7+ Kh8 3. Ra5) 2. Rxf4 g1=Q 3. Rf8+ Kxf8 1/2-1/2

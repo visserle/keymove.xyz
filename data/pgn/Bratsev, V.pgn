@@ -1,0 +1,13 @@
+[Event "2/3.c Rudenko JT Sportivnaya Gazeta"]
+[Source "EG#07471."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Bratsev, V"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4P1R1/2b3Kp/6p1/2k2p2/5P2/8 b - - 0 1"]
+
+g3 $1 2. Rf6 Be7 3. Kf4 gxf2 4. Kg3 f1=N+ (h4+ 5. Kxf2 Bxf6 6. Kxf3) 5. Kh3 Bxf6 6. e7 Bxe7 1/2-1/2

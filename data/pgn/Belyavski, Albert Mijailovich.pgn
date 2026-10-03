@@ -1,0 +1,55 @@
+[Event ".c Chervoni Girnik"]
+[Source "EG#04094."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Belyavski, Albert Mijailovich"]
+[White "Belyavsky, A"]
+[Black " Mitrofanov, L."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6k1/P1K1P3/3N4/n7/7r/8/8 w - - 0 1"]
+
+1. e7 $1 Kf7 2. e8=Q+ Kxe8 3. a7 Nb6 4. Kxb6 Rb3+ 5. Nb4 Rxb4+ 6. Ka5 1-0
+
+[Event "3.p Shakhmaty v SSSR#21"]
+[Source "Shakhmaty v SSSR/6 29/3 EG#04822."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Belyavski, Albert Mijailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/8/2Pp4/8/1P2K3/b7/8/8 w - - 0 1"]
+
+1. b5 $1 Bc5 2. Kd5 Ke7 3. c7 Kd7 4. b6 Ba3 (Bxb6 5. c8=Q+ Kxc8 6. Kxd6) 5. Kc4 (5. Kd4 $2 Bc1 6. Ke4 Bd2 7. Kd5 Bf4 8. Ke4 Bh2 9. Kd5 (9. Kf3 Bg1) Bg3 10. Ke4 Bf2 11. Kd5 Bc5) Kc8 6. Kd5 (6. Kb5 $2 Kb7 7. Kc4 Bc1 8. Kd5 Bf4 9. Ke6 Kc8 10. Ke7 d5 11. Ke6 d4 12. Kd5 d3 13. Kc6 Bxc7) Kb7 7. Ke6 Kc8 8. Kd5 Kd7 9. Kc4 Bc1 10. Kb5 Be3 11. Ka6 Kc8 12. Ka7 d5 13. Ka8 Bxb6 1/2-1/2
+
+[Event ".c Shakhmaty v SSSR#11"]
+[Source "Shakhmaty v SSSR/3 EG#04982."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Belyavski, Albert Mijailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3p4/4p3/8/3PpP2/3P2pp/3kP1P1/7K w - - 0 1"]
+
+1. dxe4 $1 Ke3 (Kxe2 2. Kg1) 2. Kg1 h2+ 3. Kh1 Kxe4 4. d5 (4. f5 $2 exf5 5. d5 Ke3 6. d6 Kf2 7. e3 Kf1 8. e4 f4 9. e5 f3) exd5 5. f5 Ke5 (Kxf5 6. e4+ Ke5 7. exd5) 6. f6 Ke6 (Kxf6 7. e4 d4 8. e5+) 7. f7 Ke7 (Kxf7 8. e4 d4 9. e5 d3 10. e6+) 8. e3 (8. e4 $2 d4 9. e5 d3 10. e6 d2 11. f8=Q+ Kxf8 12. e7+ Kg7) Kf8 (d6 {<main>} 9. e4 d4 10. e5 d3 11. exd6+ Kxf7 12. d7) 9. e4 d4 10. e5 d3 11. e6 d2 12. e7+ 1/2-1/2
+
+[Event "2.hm Spartak-50 AT Sovyetskaya Zaural"]
+[Source "EG#06118."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Belyavski, Albert Mijailovich"]
+[White "Belyavsky, A"]
+[Black " Mitrofanov, L."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5b2/3K4/6n1/P2P4/3k1B2/8/8/8 w - - 0 1"]
+
+1. Bd6 $1 Ne5+ 2. Bxe5+ Kc5 3. Bd6+ Bxd6 4. a6 Bb8 5. Kc8 Ba7 6. Kb7 Bb6 7. d6 1-0

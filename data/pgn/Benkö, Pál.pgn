@@ -1,0 +1,514 @@
+[Event "1.p tm04#1124"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r7/p7/kP2B3/2K5/8/1P6/8/8 w - - 0 1"]
+[PlyCount "23"]
+
+1. Bc4+ (1. b7 $143 Kxb7 $1 (Rb8 $143 2. Kc6 Rxb7 3. Bc4+ $18) 2. Bd5+ Kb8 3. Be4 a5 4. Bxa8 a4 $1 $11) Ka5 2. b7 Rf8 (Rh8 $144 3. Be2 a6 (Rg8 $144 4. Bg4 Rb8 5. Kc6 Kb4 6. Bd1 Rf8 7. Kc7 Kc5 8. b8=Q $18) 4. Bf3 Rb8 5. Kc6 Rg8 6. Kc7 Rg7+ 7. Kb8 Kb4 8. Bd1 Kb5 9. Ka8 Rg8+ 10. b8=Q+ Rxb8+ 11. Kxb8 $18) 3. Bd3 (3. Kc6 $1 {Dual} Rh8 (Re8 $144 4. Bf7 Rf8 5. Be6 Kb4 6. Kc7 Rh8 7. Bc8 Rh7+ 8. Bd7 Rh8 9. Ba4 $18) 4. Be6 Kb4 5. Kc7 a5 6. Bc8 Rh7+ 7. Bd7 Rh8 8. Ba4 Rh7+ 9. Kb8 $18) Rg8 (a6 $144 4. b4+ Ka4 5. Bxa6 $19 {EGTB}) 4. b4+ Ka4 5. Bc2+ (5. Be4 $144 $1 {dual} Ka3 (a6 $144 6. Bc2+ Ka3 7. Bd3 Ka4 8. Bxa6 $18) 6. Kb5 Re8 7. Ka5 Kb3 8. Bc6 Rd8 9. Ba4+ Ka3 10. Bd1 Rb8 11. Bf3 a6 (Rh8 $144 12. b5 $18) (Rf8 12. b5 Rf4 13. Bd1 Rf8 14. Ka6 Kb4 15. Be2 $18) 12. Bd5 Kb2 13. Kxa6 $18) Ka3 6. b5 Rf8 7. Bd1 Rg8 8. Bg4 Rb8 9. Kc6 Kb4 10. Be2 Re8 11. Kd7 Rf8 12. Kc7 1-0
+
+[Event "1.p tm04#1275"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k7/2R1P1P1/8/8/3r4/8/3b1K2 w - - 0 1"]
+[PlyCount "19"]
+
+1. e7 (1. g7 $2 Rg3 (Rd8 2. Rd6 Rg8 3. Rxd1 Rxg7 4. Rd7+ Rxd7 5. exd7) 2. e7 Bh5 3. Rg6 Rxg6 (Bxg6 4. Kf2) 4. e8=Q Rf6+ 5. Ke1 (5. Kg1 Bxe8 6. g8=Q Rg6+) Bxe8 6. g8=Q Bd7) Re3 (Rf3+ 2. Ke1 (2. Kg1 $2 Rg3+) (2. Kg2 $2 Re3 3. g7 Bb3 4. Rc7+ Kb6 5. Rc3 Bd5+) Re3+ 3. Kxd1 Rxe7 4. Rc5 $1 (4. Rf6 $2 Re5 $1 (Re3 $2 5. Kd2 Rg3 6. Ke2 Kb7 7. Kf2 Rg5 8. Kf3 Kc7 9. Kf4 Rg1 10. Kf5 Kd7 11. Rf7+) (Re4 $2 5. Rf7+ Kb6 6. g7 Rg4 7. Ke2 Kc6 8. Kf3 Rg1 9. Kf4 Kd6 10. Kf5) 5. g7 Rg5 6. Rf7+ Kb6 7. Ke2 Kc6 8. Kf3 Kd6 9. Kf4 Ke6) (4. Kd2 $2 Re4 $1 (Re5 $2 5. Rc7+ Kb6 6. Rh7 Kc6 7. g7 Rg5 8. Ke3 Kd6 9. Kf4 Rg1 10. Kf5)) Kb6 5. Rg5 Rg7 6. Ke2 Kc6 7. Kf3 Kd6 8. Kg4 Ke7 9. Kh5 Kf6 (Kf8 10. Kh6 Ra7 11. Rb5)) 2. g7 (2. Rc7+ $2 Kb6 3. g7 Kxc7 4. g8=Q Be2+ 5. Kf2 Rxe7) Bb3 3. Rc7+ (3. Re6 $2 Rxe6 (Bxe6 $2 4. Kf2) 4. g8=Q Bc4+ 5. Kf2 Re2+ 6. Kf3 Bxg8 7. Kxe2 Bf7) Ka6 (Kb6 4. Rc3) 4. Kf2 Re4 5. Rc6+ Ka5 6. Re6 Rxe6 7. g8=Q Rf6+ 8. Kg3 $1 (8. Ke3 $2 Bxg8 9. e8=Q Re6+) Bxg8 9. e8=Q Be6 10. Qd8+ 1-0
+
+[Event "1.p tm04#1454"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/4P3/7k/8/2B4P/8/8/7r w - - 0 1"]
+[PlyCount "15"]
+
+1. Be6 (1. Kf7 $2 Re1 2. Be6 Rf1+ 3. Kg8 Rg1+ 4. Kh8 Rg7 5. e8=Q (5. e8=R Rf7 $1 (Rb7 $2 6. Bc4 Rb4 7. Re6+ Kh5 8. Re4 Kh6 9. Kg8) 6. Bg4 (6. Bxf7) Rh7+ 7. Kg8 Rg7+) Rh7+ 6. Kg8 Rh8+ 7. Kxh8) Kg7 (Rd1 2. h5 Kg7 3. h6+ Kh7 4. Bf5+ Kg8 5. h7+ Kg7 6. h8=Q+ Kxh8 7. Kf7 Re1 8. Be6 Rf1+ 9. Kg6) 2. Kd7 Rd1+ 3. Kc6 (3. Kc7 $1) Rc1+ 4. Kd5 Rd1+ 5. Ke5 $1 Re1+ 6. Kf5 Rf1+ 7. Kg5 Rg1+ (Rf8 8. exf8=Q+ Kxf8 9. Kf6) 8. Kh5 1-0
+
+[Event "1.p tm04#1781"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2P2p1K/1Pq1kb1P/1p3p1Q/8/8/8/8 w - - 0 1"]
+[PlyCount "23"]
+
+1. Qd1 Qa8 (Qe8 2. Qe2+ (2. Qd8 $2 Bxd8 3. c8=Q+ Kd5 4. b7 Qe7 5. b8=Q (5. Qxf5+ Kc6) f6+ 6. Kg6 Qe8+) Be5 3. Qxe5+ Kxe5 4. b7 Qc6 5. c8=Q Qg6+ 6. Kh8 Qxh6+ 7. Kg8 Qg6+ 8. Kf8 Qh6+ 9. Ke8 Qh8+ 10. Kd7) (b4 2. Qd8 Bxd8 3. cxd8=N+ Kd7 4. Nxc6 Kxc6 5. Kg7 b3 6. h7 b2 7. h8=Q b1=Q 8. Qc8+ Kd5 9. b7) (Ke5 2. Qa1+ Ke6 (Kf4 3. c8=Q Qxc8 4. Qxf6) 3. Qa6 Kd7 4. b7) (Qd7 2. Qb3+ Ke7 3. Qa3+ Ke6 4. Qa8) (Qc4 2. Qd8 Bxd8 3. cxd8=Q f4 4. Kg8 $1) 2. Qd8 Bxd8 3. b7 Qxb7 4. cxd8=N+ Kd5 (Ke7 5. Nxb7 Kf8 6. Nc5 f4 (b4 7. Nd7+ Ke7 8. Kg7 b3 9. Nb6 (9. Nf6 $2 Ke6) b2 10. Nd5+ Kd6 11. Nc3) 7. Nd7+ Ke7 8. Kg7 f3 9. Nf6 (9. Nb6 $2 Ke6) f2 10. Nd5+ Ke6 11. Ne3) 5. Nxb7 f4 6. Na5 Ke4 (f3 7. Nb3 f2 8. Nd2) 7. Nb3 Ke3 8. Nd4 b4 9. Kg8 b3 10. h7 b2 11. Nc2+ Ke2 12. Na3 1-0
+
+[Event "2.p tm04#1823"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/6pB/6K1/8/8/5Pn1/1P6/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. b4 Ne2 (Ne4 2. Kf5 Nd2 3. Bg6 Nxf3 4. Ke4) 2. b5 Nd4 (Nf4+ 3. Kf5 Ne2 4. Ke5) 3. b6 Nc6 (Nxf3 4. b7 Ne5+ 5. Kf5 Nd7 6. Bg6 Kg8 7. Be8 Nb8 8. Ke6 g5 9. Bh5) 4. b7 Nd8 (Nb8 5. f4 Nd7 6. f5 Nb8 7. f6 gxf6 8. Kh6) 5. b8=B Nc6 (Ne6 6. Bd6 (6. Be5 $2 Nf8+ 7. Kf7 Ng6 (Nxh7 $2 8. Bxg7#)) (6. Bg3 $2 Nf4+ (Nf8+ $2 7. Kf7 Nxh7 8. Bh4) 7. Kg5 Ne6+ (Ne2 $2 8. Bd3 Nxg3 9. Kg4 Nh1 10. Be2) 8. Kf5 Nd4+ 9. Ke4 Ne2 10. Bg6 Nxg3+ 11. Ke3 Nf1+) (6. Kf5 $2 Nd4+ 7. Ke5 (7. Ke4 Nc6) Nxf3+ (Nc6+ $2 8. Kd6 Nxb8 9. Bd3))) 6. Bg3 (6. Bc7 $2 Ne7+ 7. Kf7 Nd5) (6. Bh2 $2 Ne5+ 7. Kf5 Nxf3) Ne7+ 7. Kf7 Ng6 8. Bg8 Ne5+ 9. Ke8 (9. Ke7 $2 Ng6+) (9. Ke6 $2 Nxf3) 1-0
+
+[Event "sp.p mb07 tm04#1876"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/2B1K1p1/6NP/8/8/1P4pq/1R4bk w - - 0 1"]
+[PlyCount "19"]
+
+1. Nf3 gxh5 (bxc6 2. Nxh2 Kxh2 3. hxg6 Bd4 4. b4 g1=Q 5. Rxg1 Kxg1 6. Kd6) 2. Kd5 (2. Bxb7 $2 Qh3+ 3. Kf6 Qxf3+ 4. Bxf3 h4 5. Kg5 h3 6. Kg4 h2 7. Bd1 Bf2 (Bc5 $2 8. Kh3 g1=N+ 9. Kg3 Bd6+ 10. Kf2 Bc5+ 11. Kf1) 8. Kf4 (8. Kh3 g1=N+) Bg3+ (Bd4 9. Ke4 Bb6 10. b4 Kg1 11. Bf3+ Kf2 12. Rb2+) 9. Kg4 Bf2 10. Kf5 Bb6 11. Ke4 Kg1) (2. Be4 $2 Qh3+ 3. Kf6 Qxf3+ 4. Bxf3 Kh2 (h4 5. Kg5) 5. Bxg2 Kxg2 6. Kg5 Be3+ 7. Kxh5 Kf3 8. Kg6 Ke4 9. Rd1 Bd4 10. b3 Kd5 11. Rc1 b5 12. Kf7 Kd6 13. Ke8 Bf6) bxc6+ 3. Ke4 c5 4. Kd5 c4 5. Kc6 h4 6. Kb7 h3 7. Ka8 c3 8. bxc3 Qb8+ 9. Rxb8 h2 10. Rh8 1-0
+
+[Event "te03"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3b3k/4n3/8/5pB1/6R1/8/2K5/8 w - - 0 1"]
+[PlyCount "23"]
+[EventRounds "2"]
+
+1. Bf6+ (1. Ra4 $2 Kg7 2. Ra8 Kg6 3. Bh4 Kh5 4. Bf6 Kg6 5. Be5 Bb6 6. Ra6 Nd5 7. Bd4 $2 Nb4+) Kh7 2. Rg7+ (2. Rd4 $2 Kg6 3. Bh8 Ba5) Kh6 3. Rf7 Kg6 4. Rf8 f4 5. Kc1 $1 (5. Kd3 f3 6. Bh4 Kh5 7. Rh8+ Kg4) f3 6. Kd1 f2 7. Ke2 Nc6 8. Bxd8 Kg7 9. Re8 Kf7 10. Rh8 Kg7 11. Bf6+ Kxf6 12. Rh6+ 1-0
+
+[Event "1.p mb07 tm04#1858"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K2k2N/7p/8/6P1/8/8/8/8 w - - 0 1"]
+[PlyCount "21"]
+
+1. Kc8 $1 (1. Kc7 $2 Ke7 2. Kc6 Ke6) Kf8 (Ke7 2. Kc7 Ke6 3. Kd8 Kf5 4. Nf7 Kg6 5. Ke8 Kg7 6. Ke7) 2. Ng6+ $3 (2. Kd7 $2 Kg7 3. Ke6 h6 $1 (Kxh8 $2 4. Kf7) 4. g6 h5) Kf7 (hxg6 3. Kd8 Kf7 4. Kd7 Kf8 5. Ke6 Kg7 6. Ke7 Kg8 7. Kf6 Kh7 8. Kf7) 3. Nf4 $3 (3. Nh4 $2 Ke8 $1 (Ke6 4. Kd8 Ke5 5. Ke7 Kf4 6. Kf6) 4. Ng2 Ke7 5. Nf4 Kd6 6. Nh5 Ke6) h6 $1 4. g6+ (4. gxh6 $2 Kg8) Kf6 5. Kd7 h5 6. Ke8 Kg7 (h4 7. Kf8 h3 8. g7 h2 9. Nh5+) 7. Ke7 h4 8. Ke6 h3 9. Kf5 h2 10. Nh5+ Kf8 11. Ng3 1-0
+
+[Event "9.p ww01"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1p6/pP5K/P6p/1p6/1P4p1/RB4bk w - - 0 1"]
+[PlyCount "15"]
+
+1. Be4 (1. Kxh4 $2 Kh2) h3 (Kh2 2. Bxg2) 2. Kh4 (2. Kg4 $2 h2 3. Bb1 (3. Ra3 Bc5) Bc5) h2 (Kh2 3. Rxg1) 3. Bb1 Bf2+ (Bd4 4. Bc2+ Bg1 5. Bd1 Bf2+ 6. Kh5 (6. Kh3 $2 g1=N+ 7. Kg4 Kg2) Bd4 (Kg1 7. Bf3+ Be1 8. Kg4 Kf2 9. Bxg2 Kxg2 10. Rxe1 h1=Q 11. Rxh1 Kxh1 12. Kg3 Kg1 13. Kf3 Kf1 14. Ke4 Kf2 15. Kd5 Ke3 16. Kc6 Kd3 17. Kxb6) 7. Bxb3+ Bg1 8. Bd1 Bd4 9. Bf3+ Bg1 10. b4) 4. Kh3 (4. Kh5 $2 Bg1 $1) Bg1 (g1=N+ 5. Kg4 Kg2 6. Be4+ Nf3 7. Bxf3#) 5. Kg3 Bf2+ 6. Kf3 (6. Kf4 $2 Be3+) g1=Q (Bg1 7. Ke2 Bd4 8. Bd3+ Bg1 9. Rf1 gxf1=Q+ 10. Kxf1 Be3 11. Be4#) (Bd4 7. Be4+ Bg1 8. Rf1 gxf1=Q+ 9. Kg3+) 7. Be4 Qxa1 (Qe1 8. Rxe1+ Bxe1 9. Ke2+) 8. Kxf2# 1-0
+
+[Event "1.p tm04#1934"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/P3P1P1/6k1/5N1r/3p2K1/8/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. g7 Rg4+ 2. Kf3 (2. Kf2 $2 Kf6) Kh6 3. e7 (3. Kxg4 $2 d2 4. g8=Q d1=Q+ 5. Kh4 Qh5+ 6. Kg3 Qf3+) d2 4. Ke2 Rxg7 5. Ng6 (5. e8=Q $2 Re7+ 6. Qxe7 d1=Q+ 7. Kxd1) (5. e8=R $2 Rd7 6. Kd1 Rd6 7. Re6+ Rxe6 8. Nxe6 Kg6 9. Nd4 Kf6 10. Nc6 Ke6 11. Nxa7 Kd7 12. Nb5 Kc6 13. Kxd2 Kb6 14. a7 Kb7) Rg8 6. Nf8 Rg5 7. Ng6 (7. e8=Q $2 Re5+ 8. Qxe5 d1=Q+ 9. Kxd1) (7. e8=R $2 Rd5 8. Kd1 Rd6) 1-0
+
+[Event "2.p tm04#1965"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/8/8/8/8/B6P/7K/4r2n w - - 0 1"]
+[PlyCount "27"]
+
+1. Bc5 (1. Kg2 $2 Ng3 2. Kxg3 Re3+) Rc1 2. Bd4 Rd1 3. Bc5 (3. Bg1 $2 Ng3) (3. Be3 $2 Rd3) (3. Bb6 $2 Kb7 4. Bc5 Kc6 5. Ba7 Ra1 6. Bd4 Rb1 7. Kg2 Kd5 8. Ba7 Ke4 9. h4 Kf5 10. h5 Kg4 11. h6 Rb7 12. Bd4 Ng3 13. Bg7 Re7 14. h7 Re2+ 15. Kg1 Kf3 16. h8=Q Rg2#) Kd7 4. Kg2 Ke6 5. Bb6 (5. Ba7 $2 Rb1 6. h4 Kf5) (5. h4 $2 Kf7 6. h5 Rd5) Kf5 (Rc1 6. Be3) (Kd6 6. Bg1 Ng3 7. Bh2) 6. Bc7 (6. Ba7 $2 Rb1 $1 (Ke4 $2 7. Bc5 Kd3 8. h4 Ke4 (Ke2 9. Bg1 Ng3 10. Kxg3) 9. Bb6 Kf5 10. h5 Kg4 11. h6 Rd6 12. Be3 Ng3 13. h7 Rd8 14. Bd4) 7. Bc5 Kf4 8. Bf8 (8. Bd4 Ng3) Ke3 9. h4 Ke2 10. h5 Nf2 11. h6 Nd3 12. h7 Nf4+) Ke4 7. Bh2 Kd3 8. h4 Ke4 (Ke2 9. Bg1 Ng3 10. Kxg3 Rxg1+ 11. Kf4 Kd3 12. h5 Kd4 13. Kf5 Kd5 14. h6 Rh1 15. Kg6 Ke6 16. Kg7 Rg1+ 17. Kf8 Rh1 18. Kg7 Ke7 19. h7 Rg1+ 20. Kh8) 9. h5 Kf5 10. h6 Kg6 11. Bf4 Re1 12. Bh2 Kxh6 (Rb1 13. Bf4) 13. Bg1 Ng3 14. Bf2 1/2-1/2
+
+[Event "2.p tm04#2043"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B4K1k/2p5/8/8/2p5/4PN2/5p2/8 w - - 0 1"]
+[PlyCount "21"]
+
+1. Ng5 $1 (1. Nh2 $2 c6 $1 2. Bxc6 c3 3. Ba4 c2 4. Bxc2 f1=Q+ 5. Nxf1) f1=Q+ 2. Bf3 $1 (2. Nf7+ $2 Qxf7+ 3. Kxf7 c6 $1 4. Bxc6 c3 5. Ba4 c2 6. Bxc2) Qd3 3. Nf7+ Kh7 4. Be4+ Qxe4 5. Ng5+ Kg6 6. Nxe4 Kf5 7. Nc3 Kf6 $1 8. Ke8 Ke6 9. Kd8 Kd6 10. Kc8 Kc6 11. Kb8 1-0
+
+[Event "3.p tm04#2148"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p7/K7/8/8/6R1/7b/2r1k3 w - - 0 1"]
+[PlyCount "26"]
+
+1. Rg2 Bb8 2. Kb7 $1 Rb1+ 3. Ka8 $1 Rb5 (Rb4 4. Ra2 Kf1 5. Ra5 Rb6 6. Ra2 a6 7. Rf2+ Kg1 8. Rg2+ Kh1 9. Ra2) 4. Re2+ $1 (4. Rb2 $2 a6 $1 5. Ra2 a5 6. Rb2 Rb4 $1) Kf1 5. Rf2+ Kg1 6. Rg2+ Kh1 7. Rg1+ $1 (7. Rg4 $2 Kh2 8. Rb4 Rb6 $1 9. Rg4 Kh3 $1) Kh2 8. Rg4 $1 Kh3 9. Rb4 Rb6 10. Rg4 $1 Rb5 (Bg3 11. Ra4 $1 (11. Kxa7 $2 Bf2)) (Re6 11. Rg8) (Ra6 11. Rg7) 11. Rb4 a6 12. Ra4 a5 (Rb6 13. Rb4 Bc7 14. Ra4 Rg6 15. Kb7) 13. Rb4 axb4 1/2-1/2
+
+[Event "te03"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7K/7R/3p1N2/B7/8/1p1p1p1p/6k1 w - - 0 1"]
+[PlyCount "59"]
+
+1. Rg6+ Kh1 2. Ng3+ Kg2 3. Nf1+ $1 Kxf1 (Kh1 4. Bd1) (Kf3 4. Nxh2+) (Kh3 4. Bd7+ Kh4 5. Rg4+ Kh3 6. Kh6) 4. Bb5+ Ke1 5. Re6+ Kd1 6. Ba4+ Kc1 7. Rc6+ Kb1 8. Bc2+ Kc1 9. Bf5+ Kd1 10. Bg4+ Ke1 11. Re6+ Kf1 12. Bh3+ Kg1 13. Rg6+ Kh1 14. Bg2+ Kg1 15. Bxd5+ Kf1 16. Bc4+ Ke1 17. Re6+ Kd1 18. Bb3+ Kc1 19. Rc6+ Kb1 20. Bc2+ Kc1 21. Bf5+ Kd1 22. Bg4+ Ke1 23. Re6+ Kf1 24. Bh3+ Kg1 25. Rg6+ Kh1 26. Bd7 f1=Q 27. Bc6+ Qg2 28. Rxg2 b1=Q+ 29. Rg6+ Qe4 30. Bxe4# 1-0
+
+[Event "1.p ms03 tm04#1557"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2B1k2r/R6p/8/8/1K6/8/8/8 w - - 0 1"]
+[PlyCount "31"]
+
+1. Bg4 Kf8 (Rf8 2. Bh5+ Kd8 3. Bf7) 2. Bh5 Rg8 3. Rf7+ Ke8 4. Kc5 Kd8 5. Kd6 Kc8 6. Kc6 Kd8 7. Rd7+ Kc8 8. Ra7 Kb8 9. Rb7+ Ka8 (Kc8 10. Bf7 Rg2 11. Be6+ Kd8 12. Kd6 Rd2+ 13. Bd5 Kc8 14. Ra7 Rb2 15. Rf7 Kb8 16. Rf8+ Ka7 17. Ra8+ Kb6 18. Rb8+) 10. Bf3 Rg6+ (Rc8+ 11. Kd6 h5 12. Bc6 h4 13. Kc5) (Rg3 11. Be4 Rc3+ 12. Kd6 Re3 13. Bd5 (13. Rb4+ $2 Ka7 14. Kc7 Ka6 15. Bc6 Re5)) 11. Kc5 (11. Kb5 $2 Rg3 12. Rf7+ (12. Bd5 Rb3+) Kb8 13. Kb6 Kc8 14. Bc6 Rd3) Ra6 12. Bc6 h5 13. Kd6 h4 14. Re7+ Kb8 15. Re8+ Ka7 16. Kc7 1-0
+
+[Event "Chess Clinic 2000-2001 1.p"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1QR5/5p2/1qr3p1/6P1/4K3/6P1/1k6/8 w - - 0 1"]
+[PlyCount "29"]
+
+1. Qe5+ Kc1 2. Rb8 Rc4+ (Qc5 $144 3. Qa1+ Kd2 4. Rb2+ $18) 3. Kd3 Rd4+ 4. Kc3 (4. Qxd4 $143 Qxb8 5. Qf4+ (5. Qa1+ $144 Qb1+ 6. Qxb1+ Kxb1 $11) Qxf4 6. gxf4 Kd1 7. Ke3 Kc2 8. Ke4 Kd2 9. Ke5 Ke3 10. f5 gxf5 11. Kxf5 Kf3 12. Ke5 Kg4 13. Kf6 $11) Qd6 5. Qe3+ Rd2 6. Rb4 f5 (Qc6+ $144 7. Rc4 Qd5 8. Rc8 Qd7 9. Rc5 Qd6 10. Kb3+ Kb1 11. Rc1+ Kxc1 12. Qe1+ Rd1 13. Qc3+ Kb1 14. Qb2#) (Qd8 $144 7. Rc4 Qd5 8. Rc8 Qd7 (Kd1 9. Qg1+ Ke2 10. Re8+ Kf3 11. Qe3+ Kg4 12. Re4+ Kh3 13. Rh4+ Kg2 14. Qxd2+ $18) 9. Rc5 Qd6 10. Kb3+ $18) (f6 $144 $1 7. Ra4 Qc6+ (Qe5+ $144 8. Qxe5 Rc2+ 9. Kb3 fxe5 10. Rc4 $18) 8. Rc4 Qd5 9. Qe1+ Rd1 10. Qe2 Rd2 11. Kb3+ Kb1 12. Qe1+ Rd1 13. Qb4 Qe5 14. Ka4+ Qb2 15. gxf6 Rd7 16. Rf4 Ra7+ 17. Kb5 Rb7+ 18. Kc5 Rc7+ 19. Kd6 Rc3 20. f7 Rd3+ 21. Kc6 Rc3+ 22. Kb7 Rb3 23. f8=Q $18) 7. Ra4 Qc6+ 8. Rc4 Qd5 9. Rc8 Qd7 (Kd1 $144 10. Qg1+ Ke2 11. Re8+ Kf3 12. Qe3+ Kg4 13. Qf4+ Kh3 14. Rh8+ Kg2 15. Qxd2+ $18) 10. Rc5 Qd6 11. Kb3+ Kd1 12. Rc1+ Kxc1 13. Qe1+ Rd1 14. Qc3+ Kb1 15. Qb2# 1-0
+
+[Event "1.p Magyar Sakkélet {tw} {c}"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/7k/8/r4p1B/5K2 w - - 0 1"]
+[PlyCount "15"]
+
+1. Bd6 $1 (1. Be5 $143 Ra5 $1 2. Bd6 (2. Bd4 $144 Kg3 3. Bxf2+ Kf3 4. Bd4 Rd5 $19) Rf5 $1 $19) (1. Bb8 $143 Rb2 $1 2. Be5 (2. Bd6 $144 Kh3 3. Ba3 Ra2 4. Bd6 Ra6 5. Be5 Ra5 $19) Rb5 3. Bd4 Kg3 $19) (1. Bc7 $143 Kh3 $1 2. Bb8 Ra8 3. Bd6 Ra6 4. Be5 Ra5 5. Bb8 Rf5 6. Ba7 Kg3 $19) Kh3 (Ra6 $144 2. Bc7 $1 (2. Be5 $143 Ra5 3. Bd4 Kg3 $19) Rc6 (Rf6 $144 3. Bd8 $11) 3. Be5 $1 Rc5 (Re6 $144 4. Bg3+ $11) 4. Bd4 $11) (Kg4 $144 2. Kg2 $11) 2. Bc7 $1 (2. Be5 $143 Ra5 3. Bd4 Kg3 4. Be5+ Kf3 $19) (2. Bf4 $143 Kg4 $19) (2. Bg3 $143 Kg4 $19) (2. Bb8 $143 Ra8 3. Bd6 Ra6 4. Bc5 Kg3 $19) Rb2 (Ra7 $144 3. Bb6 $11) (Ra7 $144 3. Bb6 $11) 3. Bd6 $1 Rc2 4. Be5 $1 (4. Bb8 $143 Rc8 5. Bd6 Rd8 6. Be7 Rd7 7. Bc5 Kg3 $19) Rd2 5. Bf4 $1 Re2 6. Bb8 $3 (6. Bd6 $143 Rb2 7. Ba3 Ra2 8. Bd6 Ra6 9. Be5 Ra5 10. Bf4 Rf5 11. Bc7 Kg4 12. Bb6 Kf3 $19) Re8 7. Bg3 $3 (7. Bd6 $143 Rd8 8. Be7 Rd7 9. Bc5 Kg3 $19) Kg4 8. Kxf2 $11 1/2-1/2
+
+[Event "1.p Mugnos MT Ajedrez de Estilo#17"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[Composer2 "Jánosi, Ervin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7R/2p2Pp1/8/5r2/3P3K/Pk6/8 w - - 0 1"]
+[PlyCount "21"]
+
+1. f7 (1. Rf7 $143 Kxa2 2. Rf8 Kb3 3. f7 Kc3 4. d4 Kd3 $11) Ka3 $1 (Kxa2 $144 2. Kg3 Rf5 3. Rh2+ Kb3 4. Rf2 $18) (Rf5 $144 2. a4 $18) 2. d4 $1 (2. Kg3 $143 Rf6 3. d4 (3. Kg4 $144 Rf5 4. Kg3 $11) Rf5 4. Kg4 Kxa2 $11) Kb4 (g5 $144 3. Kg3 Kb4 4. d5 Kc5 5. dxc6 Kxc6 6. a4 Kc5 7. Rg7 Kb6 8. Kg2 Ka5 (Ka6 $144 9. Kh3 Kb6 10. Kg3 Ka6 11. a5 $18) 9. Rxg5+ $18) (Rf5 $144 3. Kg3 $1 Kb4 (Rg5+ $144 4. Kf4 Rf5+ 5. Ke3 Kb4 6. Ke4 Ka4 7. a3 $18) 4. Kg4 Ka4 5. a3 Kb5 6. Rh5 $18) (Ka4 $144 3. d5 $18) 3. Kg3 $1 (3. d5 $143 Kc5 $1 4. Kg3 Rf5 $1 $11 5. dxc6 Kxc6 6. a4 Kc5 7. Kg4 Kb6 $11) g5 (Rf5 $144 {main} 4. Kg4 $1 (4. a3+ $143 Kxa3 $11) (4. d5 $143 Kc5 $1 5. dxc6 Kxc6 6. a4 Kc5 $1 (Kb6 $143 7. Kg4 Ka6 8. a5 $18) 7. Kg4 Kb6 8. a5+ Ka6 $1 $11) Ka4 5. a3 $1 Kb5 (Kxa3 $144 6. Rh3+ Kb4 7. Rf3 $18) 6. Rh5 $1 $18) 4. d5 $1 Kc5 (cxd5 $144 5. Rh4 $3 $18) 5. dxc6 Kxc6 6. a4 Kc5 (Kb6 $144 7. Rg7 Ka6 8. a5 $18) (Kd6 7. a5 Ke7 8. a6 Ra4 9. a7 $18) 7. Rg7 Kb6 (Kb4 $144 8. a5 $18) 8. Kg2 $1 (8. Kh2 $143 Rf3 $11) (8. Kh3 $143 Ka6 9. Kg2 Kb6 $11 {No progress}) (8. a5+ $143 Ka6 $11) Ka6 (Ka5 $144 9. Rxg5+ Kxa4 10. Rg4 Rxg4+ 11. Kf3 Rg1 12. Kf2 $18) (Rg4+ $144 9. Kf3 Rf4+ 10. Kg3 $18) 9. Kh3 $1 Kb6 10. Kg3 Ka6 11. a5 $1 $18 1-0
+
+[Event "Chess Life & Review"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7K/6p1/1Pp5/k1P5/8/8 w - - 0 1"]
+[PlyCount "31"]
+
+1. Kh5 $1 (1. b5 $143 g4 2. b6 g3 3. b7 g2 4. b8=Q g1=Q 5. Qb4+ Ka2 6. Qxc4+ Kb2 $11) (1. Kxg5 $143 Kb3 2. b5 Kxc3 3. b6 Kd2 4. b7 c3 5. b8=Q c2 $11) Ka4 (Kb3 $144 {main} 2. b5 Kxc3 3. b6 Kd2 4. b7 c3 5. b8=Q c2 6. Qb2 Kd1 7. Qd4+ Ke2 8. Qc3 Kd1 9. Qd3+ Kc1 10. Qe2 $1 (10. Kg4 $143 Kb2 11. Qb5+ Ka1 12. Qa4+ Kb1 13. Qb3+ Ka1 14. Qxc2 $11) (10. Qd4 $143 g4 $11) g4 11. Qe1+ Kb2 12. Qb4+ Ka2 13. Qc3 Kb1 14. Qb3+ Kc1 15. Kxg4 Kd2 16. Qb2 Kd1 17. Kf3 c1=Q 18. Qe2#) 2. Kg4 $1 Kb3 (Kb5 $144 3. Kxg5 Kc6 4. Kf5 Kd5 5. Kf4 Kd6 6. Ke4 $18) 3. b5 Kxc3 4. b6 Kd2 5. b7 c3 6. b8=Q c2 7. Qb2 Kd1 8. Kf3 g4+ 9. Kf2 $1 g3+ 10. Kf3 g2 11. Qd4+ $1 Ke1 (Kc1 $144 12. Ke2 Kb1 13. Qb6+ Kc1 14. Kd3 g1=Q 15. Qxg1+ Kb2 $18) 12. Qf2+ Kd1 13. Qxg2 Kc1 14. Ke3 Kb1 15. Qb7+ Ka1 16. Kd2 $18 1-0
+
+[Event "Chess Life & Review"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/8/4N3/p7/pP2k3/8/8/8 w - - 0 1"]
+[PlyCount "25"]
+
+1. b5 a3 2. b6 a2 (a4 $144 3. Nd4 $1 Kd3 (Kxd4 $144 4. b7 a2 5. b8=Q a1=Q 6. Qh8+ $18) 4. Nc6 Kc4 5. Nb4 $1 Kxb4 6. b7 $18) 3. Nc5+ Kd4 4. Nb3+ Kc3 5. Na1 (5. b7 $143 Kxb3 6. b8=Q+ Kc2 $11) Kb2 6. b7 Kxa1 7. b8=Q a4 8. Ka7 $1 a3 9. Kb6 $1 Kb2 10. Kc5+ Kc2 11. Qe5 Kb1 12. Qe1+ Kb2 13. Qb4+ $18 1-0
+
+[Event "sp.p Neidze 60-JT Sakartvelos Respublik"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k7/p6P/8/6R1/1K6/8/r7 w - - 0 1"]
+[PlyCount "41"]
+
+1. Rh4 Rb1+ 2. Kc3 $1 (2. Kc4 $143 a5 3. Kd5 Rb5+ 4. Kc6 Rb6+ 5. Kc5 Rb8 6. h7 Rh8 $11) (2. Kc2 $143 Rb8 3. h7 Rh8 4. Rh6 a5 5. Kd3 a4 6. Ke4 a3 7. Kf5 a2 8. Rh1 Kb6 9. Kg6 Rc8 10. Ra1 Rc6+ $1 11. Kg5 Rc5+ 12. Kg4 Rc4+ 13. Kg3 Rc3+ 14. Kg2 Rc8 15. Rxa2 Rh8 $11) Rb8 3. h7 $1 Rh8 4. Rh6 $1 a5 5. Kd4 $1 a4 6. Ke5 $1 a3 7. Kf6 a2 8. Rh1 Rd8 (Rb8 $144 {main} 9. Ra1 Rb6+ 10. Kg5 Rb5+ 11. Kg4 Rb4+ 12. Kg3 Rb3+ 13. Kg2 Rb2+ 14. Kf1 Rb1+ (Rh2 $144 15. Rxa2+ $18) 15. Ke2 Rb2+ 16. Kd1 Rb1+ 17. Kc2 Rxa1 18. h8=Q Rb1 19. Qd4+ Rb6 20. Kd3 Kb7 21. Qd5+ Kc7 22. Qxa2 $18) 9. Ra1 Rd6+ 10. Kg5 Rd5+ 11. Kg4 Rd4+ 12. Kg3 Rd3+ 13. Kh2 Rd2+ (Rd8 $144 14. Rxa2+ Kb7 15. Rg2 Rh8 16. Rg7+ Kc6 17. Kg3 Kd6 18. Kg4 $18) 14. Kg1 Rd8 15. Rxa2+ Kb7 16. Rh2 Rh8 17. Kg2 Kc6 18. Kg3 Kd6 19. Kg4 Ke6 20. Kg5 Kf7 21. Kh6 $18 1-0
+
+[Event "1.p Magyar Sakkélet#1716"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7R/8/8/5r1P/8/2p1k3/8/6K1 w - - 0 1"]
+[PlyCount "35"]
+
+1. Rc8 (1. h6 $143 Rg5+ 2. Kf1 (2. Kh2 $144 c2 3. Rc8 Kd2 4. Rd8+ Kc1 5. Rd6 Rc5 $1 6. Kg3 Kb1 7. Rb6+ Ka2 8. Ra6+ Kb3 9. Ra1 Rh5 $19) Rc5 3. Re8+ Kf3 4. Rf8+ Kg4 5. Rg8+ Kf5 6. h7 c2 7. Rf8+ Kg6 8. h8=Q c1=Q+ {Mat en 9}) Kd3 (Kd2 $144 2. h6 c2 (Rh5 $144 3. Rd8+ Kc1 4. Rd6 c2 5. Kg2 $1 $11 (5. Kf2 $143 Kb2 6. Rb6+ Ka3 7. Ra6+ Kb4 8. Rb6+ Kc5 $19) (5. Rb6 $143 Kd2 6. Rd6+ Kc3 7. Rc6+ Kd3 8. Rd6+ Kc4 $19) Kb2 6. Rb6+ Kc3 7. Rc6+ Kb3 8. Rb6+ $11) 3. h7 Rf8 4. Rxf8 c1=Q+ 5. Rf1 Qc3 $11 {TBS}) 2. h6 c2 3. h7 (3. Kg2 $143 Rf8 4. Rc7 (4. Rc6 $144 Rf6 {TBS} 5. Rxf6 c1=Q 6. Rf3+ Kd4 7. Rh3 Qc2+ 8. Kf1 Qh7 9. Kf2 Ke5 10. Kg2 Ke4 11. Kf2 Kf4 12. Rf3+ Kg4 13. Rg3+ Kh4 14. Rg2 Qa7+ 15. Ke1 Kh3 16. Rd2 Qe3+ 17. Kd1 Qxh6 $19) (4. Rxf8 $144 $19 {Lose in 40}) Rh8 $1 5. Rd7+ Kc3 6. Rc7+ Kd2 7. Rd7+ Kc1 8. Rd6 (8. h7 $144 Rb8 9. Rb7 (9. Rg7 $144 Kb1 10. Rg8 Rb2 $19) Rxb7 10. h8=Q Kb1 11. Qc8 Rg7+ $19) Rc8 (Rb8 $143 9. Rc6 Kd2 10. Rd6+ Kc3 11. Rc6+ Kb2 12. Kf3 c1=Q 13. Rxc1 Kxc1 14. Kf4 $11) 9. h7 Kb1 $19) Rf8 4. Rc7 (4. Rxf8 $143 c1=Q+ 5. Kg2 Qd2+ 6. Rf2 Qg5+ 7. Kh1 (7. Kf1 $144 Qh5 $19) Qd5+ 8. Rg2 (8. Kg1 $144 Qd4 9. Kf1 Qa1+ 10. Kg2 Qg7+ $19) Qa8 9. Kh2 Qb8+ 10. Rg3+ Ke2 11. Kh3 Qh8 $19) Rh8 (Rd8 $144 5. Kf2 Kd2 (Rh8 $144 6. Kf3 $11) 6. Rd7+ Rxd7 7. h8=Q c1=Q 8. Qh6+ Kd1 9. Qh1+ $11) (Rb8 $144 5. Kf2 Kd2 6. Rd7+ Kc1 7. Rb7 Rxb7 8. h8=Q Kb1 9. Qh1+ $11) 5. Rd7+ Kc3 6. Rc7+ Kd2 7. Rd7+ Kc1 8. Rg7 (8. Kf2 $143 Kb2 9. Rb7+ Kc3 10. Rc7+ Kb3 (Kd3 $143 11. Kf3 Rxh7 12. Rxh7 c1=Q 13. Rd7+ $11) 11. Rb7+ Ka4 12. Ra7+ Kb5 13. Rc7 Rxh7 14. Rc8 Rh1 $19) (8. Kh2 $143 Kb2 9. Rb7+ Kc3 10. Rc7+ Kd3 11. Rd7+ Ke4 12. Rc7 Rxh7+ $19) (8. Kg2 $143 Rb8 9. Rg7 Kb1 10. Rg8 Rb2 $1 $19) (8. Rb7 $143 Rd8 9. Kf2 Kd1 10. Rd7+ Rxd7 11. h8=Q Rd2+ 12. Kg3 c1=Q $19) Rd8 (Rb8 $144 {main} 9. Kh2 $1 (9. Kf2 $143 Kb1 10. Rg8 Rb2 $19) (9. Rg8 $143 Kd2 10. h8=Q (10. Rxb8 $144 c1=Q+ $19) (10. Rg2+ $144 Kd1 11. Rg8 c1=Q $19 12. h8=Q Ke2+ 13. Kg2 Qf1+ 14. Kh2 Qf2+ 15. Kh3 Rb3+ 16. Kg4 Rg3+ 17. Kh5 Qh2#) c1=Q+ 11. Kh2 Qc7+ 12. Kg2 Qc6+ 13. Kh2 Qd6+ 14. Kg2 Qd5+ 15. Kh2 Rxg8 $19) Kb1 (Kd2 $144 10. Rg2+ $11) 10. Rg8 Rb2 11. h8=Q c1=Q+ 12. Rg2 Qf4+ 13. Kh1 (13. Kg1 $144 $11)) 9. Kf2 (9. Kh2 $143 Kb1 10. Rg8 c1=Q $19) Kb1 10. Rb7+ Ka2 11. Ra7+ Kb3 12. Rb7+ Kc3 13. Rc7+ Kd2 14. Rd7+ $1 Rxd7 15. h8=Q c1=Q 16. Qh6+ Kd1 17. Qh1+ Kc2 18. Qc6+ $11 1/2-1/2
+
+[Event "Chess Life "]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[Composer "Benko, Pal"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/8/8/7p/4k3/1p4PP/4K2R w K - 0 1"]
+[PlyCount "33"]
+
+1. O-O Kd2 2. g4 hxg3 3. h4 a5 4. Rb1 (4. h5 $143 a4 5. h6 a3 6. h7 a2 7. h8=Q b1=Q 8. Qa1 Kc2 $11 9. Qd4 Qxf1+ 10. Kxf1 Kb1 $11 {EGTB} (g2+ $143 11. Ke2 Kb1 12. Qg1+ Kb2 13. Kd3 a1=Q 14. Qxg2+ Ka3 15. Qa8+ Kb2 16. Qb7+ Kc1 17. Qc6+ Kb2 18. Qb5+ Ka3 19. Qa5+ Kb2 20. Qb4+ Ka2 21. Kc2 $18)) Kc2 5. Rxb2+ Kxb2 6. h5 a4 7. h6 a3 8. h7 a2 9. h8=Q+ Kb1 10. Qb8+ Kc1 11. Qe5 Kb1 12. Qe1+ Kb2 13. Qb4+ Kc2 14. Qa3 Kb1 15. Qb3+ Ka1 16. Qc2 g2 17. Qc1# 1-0
+
+[Event "Revista de Romana de Sah#0254"]
+[Source "Revista de Romana de Sah/11-12"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Janosi, Ervin"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7R/5N2/8/8/3k4/B1r1p2K/8/2r5 w - - 0 1"]
+
+1. Rd8+ $1 Kc4 2. Rc8+ Kb3 3. Bxc1 $1 e2+ 4. Rxc3+ Kxc3 5. Ng5 $1 e1=Q 6. Bd2+ Kxd2 (Qxd2 {<main>} 7. Ne4+ Kd3 8. Nxd2) 7. Nf3+ Ke2 8. Nxe1 1/2-1/2
+
+[Event "2.p Revista de Romana de Sah#0254 (v)"]
+[Source "Revista de Romana de Sah/11-12"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Janosi, Ervin"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7R/5N2/8/3k4/8/B1r1p2K/8/2r5 w - - 0 1"]
+
+1. Rd8+ $1 Kc4 2. Rc8+ Kb3 3. Bxc1 e2+ 4. Rxc3+ Kxc3 5. Ng5 $1 e1=Q 6. Bd2+ Qxd2 (Kxd2 {<main>} 7. Nf3+ Ke2 8. Nxe1) 7. Ne4+ Kd3 8. Nxd2 1/2-1/2
+
+[Event "1.p Magyar Sakkélet (tw) (m)"]
+[Source "Magyar Sakkélet/7 (m): Becker=R EBUR=1 3/2005."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Benkö, Pál"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5B2/8/8/8/1r6/8/4Kp1k/8 w - - 0 1"]
+
+1. Kf1 $1 (1. Kxf2 $2 Rf4+) (1. Bxb4 $2 Kg2) Rb2 (Rf4 2. Bd6) 2. Ba3 (2. Bd6+ $2 Kh3) (2. Bg7 $2 Rc2 3. Be5+ Kh3) Rd2 3. Bb4 Rb2 4. Ba3 Ra2 5. Bd6+ Kh3 6. Bc7 $1 Rb2 7. Bd6 Rc2 8. Be5 Rd2 9. Bf4 $1 Re2 10. Bb8 $1 Re8 11. Bg3 $1 Kxg3 (Kg4 12. Kxf2 $1 Rf8+ 13. Kg2) 1/2-1/2
+
+[Event "1.p Magyar Sakkélet (tw) (m)"]
+[Source "Magyar Sakkélet/7 (m): Vandecasteele=I EBUR=1 3/2004."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Benkö, Pál"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/B7/3rKp2/7k w - - 0 1"]
+
+1. Kf1 $1 Kh2 $1 2. Bb4 $1 (2. Bc5 $2 Kg3 $1) Rb2 $1 3. Ba3 $1 (3. Bd6+ $2 Kh3 4. Bg3 Rb1+ 5. Kxf2 Rb2+ 6. Kf3 Rb3+) (3. Bc5 $2 Kg3) (3. Bc3 $2 Rc2 4. Be5+ Kh3 5. Bd4 (5. Bd6 Rb2 6. Ba3 Rd2) Kg3) Ra2 $1 4. Bd6+ Kh3 5. Bc7 $1 Rb2 6. Bd6 $1 Rc2 7. Be5 $1 Rd2 8. Bf4 $1 Re2 9. Bb8 $1 Re8 (Ra2 10. Bc7) 10. Bg3 $1 Kxg3 (Kg4 11. Kxf2 $1 Rf8+ 12. Kg2) 1/2-1/2
+
+[Event "5.c L'Italia Scacchistica#420"]
+[Source "EG#06260 EG#07163. also Chess Life & Review 4/1984."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Benkö, Pál"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/8/kP3p2/4n3/6P1/6P1/8/8 w - - 0 1"]
+
+1. b7 $1 Nc4 (Nd7 2. b8=N+ (2. b8=Q $2 Nb6+ 3. Qxb6+ Kxb6 4. Kb8 Kc6 5. Kc8 Kd5) Nxb8 3. Kxb8 Kb6 4. Kc8 Kc6 5. Kd8 Kd6 6. Ke8 Ke6 7. Kf8 f5 8. g5) (Nc6 2. b8=Q (2. b8=N+ $2 Kb6) Nxb8 3. Kxb8) 2. g5 $1 fxg5 3. g4 Nb6+ 4. Kb8 Nd5 5. Kc8 Nb6+ 6. Kc7 Nd5+ 7. Kd6 Kxb7 8. Kxd5 Kc7 9. Ke6 Kd8 10. Kf5 Ke7 11. Kxg5 Kf7 12. Kh6 1-0
+
+[Event "1.p Magyar Sakkélet#1636b (tw)"]
+[Source "Magyar Sakkélet/5 EG#06150b."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Janosi, Ervin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/3N4/8/4B3/4K1kp/5p1p/8 w - - 0 1"]
+
+1. Ke2 $1 (1. Nf5+ $2 Kg4 2. Kxf2 h1=N+) h1=Q 2. Bxh1 Kh2 3. Kf1 $1 (3. Ne4 $2 f1=Q+ $1 4. Kxf1 Kxh1 5. Kf2 g5 6. Nf6 g4) Kxh1 4. Nf5 Kh2 5. Kxf2 Kh1 6. Ne3 g5 7. Ng4 h2 8. Ne3 g4 9. Nf5 g3+ 10. Nxg3# 1-0
+
+[Event "EG"]
+[Source "EG/4 after Kubbel=L a6d5 1922."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Benkö, Pál"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/N7/7B/3k4/3p4/p7/2PP4/8 w - - 0 1"]
+
+1. Nc6 $1 (1. c4+ $2 Kxc4 (dxc3 $2 2. dxc3 Kc4 3. Bc1 a2 (Kb3 4. Bxa3) 4. Bb2) (Ke4 $2 2. Nc6 a2 3. d3+) 2. d3+ Kxd3 3. Nc6 Kc4 4. Bg7 d3 5. Ne5+ Kc3) Kxc6 2. Bg7 Kd5 3. d3 a2 4. c4+ Kc5 5. Kb7 a1=Q 6. Bf8# 1-0
+
+[Event "EG"]
+[Source "EG/4 after Kubbel=L a6d5 1922."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Benkö, Pál"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/8/8/p2k4/3p4/8/2PP1B2/8 w - - 0 1"]
+
+1. d3 $1 (1. Bh4 $2 d3 2. c3 Kc4 3. Kb7 a4 4. Be7 Kb3 5. Kb6 Kc2) a4 2. Bh4 Ke6 (a3 3. c4+) 3. Bg5 1-0
+
+[Event "EG"]
+[Source "EG/4 after Kubbel=L a6d5 1922."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Benkö, Pál"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6N1/K2k3B/4p3/8/p7/2PP4/8 w - - 0 1"]
+
+1. Nf5+ $1 Ke6 (Kd5 2. Ne3+) 2. Nd4+ exd4 3. Bg7 Kd5 4. d3 a2 5. c4+ Kc5 6. Kb7 a1=Q 7. Bf8# 1-0
+
+[Event "1.p Magyar Sakkélet#1636a (tw)"]
+[Source "Magyar Sakkélet/5 EG#06150a."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Janosi, Ervin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/3N4/6p1/4B3/4K1k1/5p1p/8 w - - 0 1"]
+
+1. Nf5+ $1 Kg4 2. Kxf2 h1=N+ $1 3. Kg2 Kf4 4. Bb1 (4. Bc2 {<or>}) g6 5. Ne7 Ng3 6. Nxg6+ Kg4 7. Bd3 $1 Nf5 8. Be2# 1-0
+
+[Event "EG (v)"]
+[Source "EG/4 (v): EG=75 4/1984."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Benkö, Pál"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/6N1/3k3B/4p3/8/p7/2PP4/8 w - - 0 1"]
+
+1. Nf5+ $1 Ke6 2. Nd4+ exd4 3. Bg7 Kd5 4. d3 a2 5. c4+ Kc5 6. Kb7 a1=Q 7. Bf8# 1-0
+
+[Event "Chess Life & Review"]
+[Source "Chess Life & Review/10"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Benkö, Pál"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/8/R7/6pk/8/8/8/8 w - - 0 1"]
+
+1. Kb7 $1 Kg4 (g4 2. Kc6 g3 3. Kd5 g2 4. Ra1 Kg4 5. Ke4) 2. Rf6 $1 (2. Kc6 $2 Kf3 $1 3. Kd5 g4 4. Ra3+ (4. Kd4 g3) Kf4 $1 (Kf2 $2 5. Ke4 g3 6. Ra2+)) Kh3 3. Kc6 g4 4. Kd5 g3 5. Ke4 $1 (5. Rh6+ $2 Kg2 $1 6. Ke4 Kf2 7. Rf6+ Ke2 $1 8. Ra6 g2 9. Ra2+ Kf1 10. Kf3 g1=N+ $1) g2 6. Kf3 $1 g1=N+ (g1=Q 7. Rh6#) (Kh2 7. Rh6+ Kg1 8. Rg6 Kh1 9. Kf2 (9. Rxg2 $2)) 7. Kf2 Kh2 8. Rh6+ Nh3+ 9. Kf3 1-0

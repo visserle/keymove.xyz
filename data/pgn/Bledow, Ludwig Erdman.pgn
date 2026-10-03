@@ -1,0 +1,39 @@
+[Event "Aufgaben fur Schachspieler#81 (v)"]
+[Date "1832.??.??"]
+[Round "?"]
+[Composer "Bledow, Ludwig Erdman"]
+[White "Bledow, L"]
+[Black " Mendheim, J."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/8/4K3/5N2/3N1p2/8/8/8 w - - 0 1"]
+
+1. Nf3 $1 Kg8 2. Ke7 Kh8 3. Kf8 Kh7 4. Kf7 Kh8 5. Ng5 f3 6. Ne7 (6. Nh4 {<or>}) f2 7. Ng6# 1-0
+
+[Event "The Chess Player's Chronicle-44"]
+[Date "1843.??.??"]
+[Round "?"]
+[Composer "Bledow, Ludwig Erdman"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3R1N1k/5Kp1/8/7p/8/6r1 w - - 0 1"]
+
+1. Ng4+ $1 Kg7 2. Rd7+ Kf8 3. Nf6 Rf1+ 4. Kg6 Rxf6+ 5. Kxf6 Kg8 {<eg>} 6. Kxg5 h2 7. Rd1 1-0
+
+[Event "The Chess Player's Chronicle-44 (v)"]
+[Source "(v): Averbakh=Y Okonchaniya - Kon protiv Slona, Ladejnie#019 1958."]
+[Date "1843.??.??"]
+[Round "?"]
+[Composer "Bledow, Ludwig Erdman"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3B4/8/7K/5k2/7P/3n4 w - - 0 1"]
+
+1. Kg5 $1 Nf2 2. h4 $1 Ne4+ 3. Kg6 Nxd6 (Nf2 4. h5 Ng4 5. Kg5) 4. h5 Nc4 5. h6 Ne5+ 6. Kg7 1-0

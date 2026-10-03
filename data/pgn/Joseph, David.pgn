@@ -1,0 +1,26 @@
+[Event "Sunday Express"]
+[Date "1921.12.27"]
+[Round "?"]
+[Composer "Joseph, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/kp6/r6P/P7/p7/8/8/4B3 w - - 0 1"]
+
+1. Bf2+ $1 Kb8 (b6 2. Kc7) 2. Bb6 Rxb6 3. axb6 a3 4. h7 a2 5. h8=Q a1=Q $1 6. Qg8 $1 (6. Qxa1 $2) (6. Qe8 $2 Qg7) Qa2 7. Qe8 (7. Qf8 $2 Qa3) Qa4 8. Qe5+ Ka8 9. Qh8 $1 1-0
+
+[Event "Sunday Express (m)"]
+[Source "(m): Wood=W Hackney Mercury 18-2-1922."]
+[Date "1921.12.27"]
+[Round "?"]
+[Composer "Joseph, David"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k1K4/1p5P/1P6/8/8/8/p7/8 w - - 0 1"]
+
+1. h8=Q $1 (1. h8=B $2 a1=Q 2. Bxa1) a1=Q 2. Qg8 $1 (2. Qe8 $2 Qg7) Qa2 3. Qe8 $1 (3. Qf8 $2 Qa3) Qa4 4. Qe5+ $1 Ka8 5. Qh8 $1 Qf4 (Qa1 6. Qxa1+) 6. Qa1+ Kb8 7. Qa7# 1-0

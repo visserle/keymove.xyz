@@ -1,0 +1,13 @@
+[Event "1.p Magyar Sakkélet#1830"]
+[Source "Magyar Sakkélet/12 EG#07997."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Lerch, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5b2/8/p2P4/k2KN3/8/8/8 w - - 0 1"]
+
+1. d6 $1 Be8 $1 2. Nf6 Bc6 $1 (Bb5 3. Kc5) 3. Kc5 Bb5 4. Kb6 $1 Kb4 5. Nd5+ Kc4 6. Ne3+ Kb4 7. Nc2+ Ka4 8. Kc7 $1 Be8 (Kb3 9. Nd4+) 9. Kd8 Bh5 (Bb5 10. Ke7) 10. Ne3 Be2 11. Ke7 $1 Bb5 12. Nc2 Bc6 13. Nd4 Bb5 14. Nxb5 1-0

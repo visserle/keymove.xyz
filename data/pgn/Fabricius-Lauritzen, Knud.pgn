@@ -1,0 +1,12 @@
+[Event "National Zeitung"]
+[Date "1906.??.??"]
+[Round "?"]
+[Composer "Fabricius-Lauritzen, Knud"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p3p/3Pp3/6Pp/5P1k/5K1p/7P/8 w - - 0 1"]
+
+1. f5 $1 (1. Ke3 $2 Kg4 2. Ke4 h4) exf5 2. g6 hxg6 3. Kf4 g5+ 4. Kxf5 g4 5. Kf4 g3 6. hxg3# 1-0

@@ -1,0 +1,25 @@
+[Event "1.p Suomen Shakki"]
+[Date "1934.10.16"]
+[Round "?"]
+[Composer "Dunder, Aarne Armas Artturi"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/1p3p2/3k1p1B/p2p1P2/P3pNP1/P3P3/p2P4/8 w - - 0 1"]
+
+1. Bf8+ $1 Kc6 (Ke5 2. Kd7 a1=Q 3. Bd6#) 2. Ne2 a1=Q 3. Nd4+ Kb6 4. Bc5+ $1 Ka6 (Kxc5 5. Nb3+) 5. Nb5 b6 6. Bf8 $1 Qe5 7. Nc7+ Ka7 8. Bd6 $1 Qb2 9. Nb5+ Ka8 (Ka6 10. Bb8) 10. Bb8 $1 1-0
+
+[Event "Ilta Sanomat"]
+[Date "1975.07.05"]
+[Round "?"]
+[Composer "Dunder, Aarne Armas Artturi"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/5P2/8/p3K1P1/8/8/8/3b4 w - - 0 1"]
+
+1. Kf6 $1 (1. Kd4 $2 a4 2. Kc3 a3) Bc2 2. g6 Bxg6 3. Ke5 $1 a4 4. Kd4 a3 5. Kc3 a2 6. Kb2 1/2-1/2

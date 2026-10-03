@@ -1,0 +1,12 @@
+[Event "De Schaakwereld#399"]
+[Date "1941.03.13"]
+[Round "?"]
+[Composer "Molenbroek, Hans"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p1k4/2p5/P1Pp4/3Pp3/4P2p/K3P2P/8 w - - 0 1"]
+
+1. Kb1 $1 (1. Ka3 $2 Kc8 $1 2. Kb2 Kb8 3. Kc2 Ka7 4. Kd2 Ka6 5. Ke1 Kxa5 6. Kf2 Kb4 7. Kg3 Kc3 8. Kxh3 Kd2 9. Kg2 Kxe3 10. h4 (10. Kf1 Kxd4) Kxe2 11. h5 e3 12. h6 Kd1 13. h7 e2 14. h8=Q e1=Q) Ke6 (Kc8 2. Kc2 Kb8 3. Kd1 Ka7 4. Ke1 Ka6 5. Kf2 Kxa5 6. Kg3 b5 7. cxb6 Kxb6 8. Kxh3 c5 9. dxc5+ Kxc5 10. Kg4 d4 11. exd4+ Kxd4 12. Kf4 Kd5 13. e3) 2. Kb2 Ke7 3. Kc2 Kd7 4. Kd1 Ke6 5. Kd2 1-0

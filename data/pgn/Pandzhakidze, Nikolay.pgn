@@ -1,0 +1,27 @@
+[Event ".c Chervoni Girnik"]
+[Source "EG#04476."]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Pandzhakidze, Nikolay"]
+[White "Pandzhakidze, N"]
+[Black " Svitilsky, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/N7/8/8/4p3/1pk5/3p4/K1N4B w - - 0 1"]
+
+1. Nb5+ $1 Kc2 2. Nd4+ Kc3 3. Nb5+ Kc4 4. Na3+ Kd5 5. Bxe4+ Kxe4 6. Nb1 d1=Q (dxc1=Q {<main>}) (dxc1=R {<main>} 7. Kb2 Re1 8. Na3 Re3 9. Nc4 Rd3 10. Na5) 7. Nc3+ Ke3 8. Nxd1+ 1/2-1/2
+
+[Event "Shakhmaty i Shaskki v BSSR#128"]
+[Source "Shakhmaty i Shaskki v BSSR/7-8"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Pandzhakidze, Nikolay"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1P4Pp/8/8/8/r7/b2k3K w - - 0 1"]
+
+1. b7 $1 Be5 2. g7 Rh2+ 3. Kg1 Rh5 $1 4. Kg2 Ke2 5. b8=Q Bxb8 6. g8=Q Rg5+ 7. Kh1 Rh5+ 8. Kg2 Rg5+ 9. Kh1 Rxg8 1/2-1/2

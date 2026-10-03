@@ -1,0 +1,73 @@
+[Event "5.p Shakhmatny Listok#246"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Rossolimo, Nicolas"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "7R/6p1/6rP/K7/8/k7/8/8 w - - 0 1"]
+
+1. h7 $1 (1. hxg7 $2 Rg5+ 2. Ka6 $10) (1. Ra8 $2 gxh6 2. Rb8 $10) (1. Rg8 $2 Rxh6 2. Rf8 $10 Ra6+ $4 (Kb2 $5) 3. Kxa6) (1. Kb5 $2 gxh6 2. Rf8 $10) (1. Rh7 $2 gxh6 2. Rf7 $10) (1. Rc8 gxh6 2. Rb8) (1. Rf8 Rg5+ 2. Kb6) Rh6 2. Kb5 $1 (2. Ra8 $2 Rxh7 3. Rb8 $10) (2. Re8 $2 Rxh7 3. Rb8) (2. Rg8 $2 Rh5+ 3. Ka6) (2. Rd8 Rh5+ 3. Ka6) (2. Rb8 Rh5+ 3. Rb5) (2. Rc8 Rh5+ 3. Ka6) (2. Rf8 Rh5+ 3. Ka6) Kb3 (Rh5+ 3. Kc6 Rh6+ 4. Kd7 Kb4 5. Rb8+ $18) 3. Kc5 (3. Ka5 $2 Rh5+ 4. Ka6) (3. Rd8 Rh5+ 4. Kb6) (3. Rg8 Rxh7 4. Kc5) Kc3 4. Kd5 (4. Kb5 Rh5+ 5. Ka4) Kd3 5. Ke5 Ke3 6. Kf5 (6. Rf8 g5 7. h8=Q) Kf3 7. Rf8 $1 (7. Kg5 $2 Kg3 8. Rg8 $10) (7. Ra8 $2 g6+ 8. Ke5 $10) (7. Rg8 $2 g6+ 8. Rxg6 Rh5+ 9. Rg5 $10) (7. Ke5 $2 g5 8. Rg8) (7. Re8 $2 g6+ 8. Ke5) (7. Rb8 g6+ 8. Ke5) (7. Rd8 g6+ 8. Ke5) Rxh7 8. Kg6+ Kg3 (Kg4 9. Kxh7) 9. Kxh7 $18 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Rossolimo, Nicolas"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "2k5/6R1/N7/8/8/6K1/7p/5b2 w - - 0 1"]
+
+1. Rg8+ (1. Kxh2 $2 Bxa6 2. Rc7+ $10) (1. Rc7+ $2 Kd8 2. Rd7+ Kxd7 3. Nb8+) (1. Rh7 $2 h1=Q 2. Rxh1 Bxa6 3. Rg1 $10) Kb7 (Kd7 2. Nb8+ $18) 2. Nc5+ (2. Rb8+ $2 Ka7 3. Ra8+ $10) (2. Kxh2 $2 Bxa6 3. Rf8 $10) (2. Rh8 $2 h1=N+ 3. Rxh1 Bxa6 4. Rg1 $10) (2. Rg7+ $2 Kb6 3. Rb7+ Kxa6 4. Ra7+) (2. Nb8 h1=Q) (2. Nc7 h1=Q) Kb6 (Kc6 3. Rc8+ $18) 3. Na4+ (3. Nd7+ $2 Kc7 4. Rc8+ Kxd7 5. Rd8+ Kxd8 6. Kxh2) (3. Rb8+ $2 Kxc5 4. Rc8+ $10) (3. Kf2 h1=Q 4. Nd7+ Kc7) Kb5 4. Nc3+ (4. Nb2 $4 h1=Q $19 5. Rb8+ Ka5) Kb4 5. Na2+ (5. Nd5+ $2 Kc5 6. Rc8+ Kxd5 7. Rd8+) (5. Nd1 $4 h1=Q 6. Rg4+ Kb3 $19) (5. Ne4 $4 h1=Q $19 6. Rb8+ Bb5) (5. Kxh2 $2 Kxc3 6. Rf8) (5. Ne2 h1=Q 6. Rg4+ Kc5) Kb3 6. Nc1+ (6. Rb8+ Kxa2 7. Ra8+) (6. Kxh2 Kxa2 7. Rf8) Kb2 7. Kxh2 (7. Rh8 $2 Kxc1 8. Rc8+ $10) (7. Nd3+ $2 Bxd3 8. Rb8+ $10) (7. Ne2 $4 h1=Q 8. Rb8+ Kc2 $19) (7. Kf2 $4 h1=Q $19 8. Rb8+ Kxc1 9. Rc8+ Kd2) (7. Rb8+ $2 Kxc1 8. Rc8+ $10) (7. Ra8 $4 h1=Q 8. Ra2+ Kxc1) (7. Rf8 $4 h1=Q 8. Rf2+ Kxc1) (7. Re8 h1=Q 8. Re2+ Kxc1 9. Re1+ Kd2) (7. Na2 h1=Q) Kxc1 8. Rg1 $18 (8. Rc8+ $2 Kb1 9. Rb8+) (8. Kg1 $2 Be2 9. Rf8) (8. Rg6 Be2 9. Rf6) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Rossolimo, Nicolas"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "6r1/6b1/8/8/8/p1P5/P3B1R1/4k1K1 w - - 0 1"]
+
+1. Ba6 (1. Bc4 $2 Rc8 2. Be6 Rc7 $10) (1. Bh5 $2 Rh8 2. Rxg7 Rxh5 3. c4 $10) (1. Bg4 $2 Bxc3 2. Re2+ $10) (1. Bf3 $2 Rf8 2. Re2+ $10) (1. Bd3 $2 Rd8 2. Rxg7 Rxd3 3. c4) (1. Bb5 $2 Rb8 2. Rxg7 Rxb5 3. c4) (1. Rg5 Bd4+ 2. Kh2 Rxg5) Ra8 2. Bb7 (2. Rxg7 $2 Rxa6 3. c4 $10) (2. Re2+ $2 Kd1 3. Bc4) (2. Be2 Bxc3 3. Bf3) Rg8 3. Bc6 (3. Bd5 $2 Rd8 4. Rxg7 Rxd5 5. c4 $10) (3. Be4 $2 Re8 4. Bc6 $10) (3. c4 $2 Bd4+ 4. Kh2 $10) (3. Ba6 $6 Kd1 4. Bc4 $16 $18) (3. Ba8 $2 Rxa8 4. Rxg7 $10) (3. Bf3 $2 Rf8 4. Re2+ $10) (3. Bc8 $2 Rxc8 4. Rxg7 Rxc3 5. Re7+) (3. Re2+ Kxe2 4. Ba6+ Ke3) Rc8 4. Bd7 (4. Bd5 $2 Bxc3 5. Rg3 $10) (4. Bb7 $2 Rc7 5. Ba6 $10) (4. Bb5 $2 Bxc3 5. Re2+) (4. Ba4 $2 Bxc3 5. Rg3) (4. Rxg7 $2 Rxc6 5. c4) (4. Be4 $2 Bxc3 5. Kh2) (4. Bf3 $2 Rxc3 5. Re2+) (4. Rg6 $2 Bf8 5. Bd5) (4. Kh1 $2 Rxc6 5. Rxg7 Rxc3 6. Kg2) Rg8 5. Be6 (5. Bc6 Kd1 6. Ba4+ $16 $18) (5. c4 $2 Bd4+ 6. Kh2) (5. Bb5 $2 Rb8 6. Rxg7 Rxb5 7. c4) (5. Bf5 Rf8 6. Rxg7 Rxf5 7. c4) Re8 6. Bf7 $18 (6. Bd7 $2 Re7 7. Bg4) (6. Bb3 $2 Bxc3 7. Rg3) (6. Bd5 $2 Bxc3 7. Rg4) (6. Rg6 $2 Bxc3 7. Kg2) 1-0
+
+[Event "Isvestia#231"]
+[Date "1928.03.11"]
+[Round "?"]
+[Composer "Rossolimo, Nicolas"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k2r/4p3/3pPpK1/5P2/2p2Pp1/2P3Pp/2P1P2P/8 w k - 0 1"]
+
+1. Kg7 $1 (1. e3 $2 O-O) Rh4 $1 2. e3 $1 Rh5 $1 3. Kg6 Rh8 4. Kg7 Rh4 5. gxh4 g3 6. hxg3 h2 7. h5 h1=Q 8. h6 Qh3 9. h7 Qxg3+ 10. Kh6 1/2-1/2
+
+[Event "Les Échecs au Coin du Feu#10"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Rossolimo, Nicolas"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p2p4/Pp1P4/1Pp5/2p1p3/1kPpP3/3P4/R2K4 w - - 0 1"]
+
+1. Ra5 $1 (1. Kc1 $2) (1. Ke1 $2 Kb2 2. Rd1 Kc2 3. Ra1 Kb2 4. Ra5 Kc2) Kb2 2. Ra4 $1 Kb3 3. Ra1 $1 Kb2 4. Ra5 Kb3 5. Kc1 bxa5 {<eg>} 6. b6 1-0

@@ -1,0 +1,43 @@
+[Event "?"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Pachman, Ludek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/8/8/R7/5N1k/1p6/2p4p/7K w - - 0 1"]
+
+1. Ng2+ (1. Rh5+ $2 Kg4 2. Kxh2 c1=Q 3. Rh4+ Kxh4 4. Ng6+ Kh5) (1. Kxh2 $2 b2 2. Ng6+ Kg4 $19) (1. Kg2 $2 h1=Q+ 2. Kxh1 c1=Q+ $19) (1. Ng6+ $2 Kg3 2. Rg5+ Kf3) (1. Ra3 c1=Q+ 2. Kxh2 Qxa3 3. Ng6+ Kh5) Kg3 2. Ra1 (2. Rg5+ $2 Kh3 3. Nf4+ Kh4) (2. Rf5 $2 c1=Q+ 3. Ne1 Qxe1+ 4. Rf1 Qxf1#) (2. Rc5 $2 b2 3. Rc3+ Kg4) b2 3. Ne1 (3. Ra3+ $2 Kf2 4. Kxh2 c1=Q) (3. Ne3 $2 bxa1=Q+ 4. Nf1+ Qxf1#) (3. Rg1 $2 hxg1=Q+ 4. Kxg1 b1=Q+ $19) (3. Re1 $2 b1=Q 4. Rxb1 cxb1=Q+ 5. Ne1 Qxe1#) (3. Rc1 $2 bxc1=Q+ 4. Ne1 Qxe1#) (3. Rb1 $2 cxb1=Q+ 4. Ne1 Qxe1#) (3. Rd1 cxd1=Q+ 4. Ne1 Qxe1#) c1=Q (b1=Q 4. Rxb1 (4. Ra3+ $2 Kf2 5. Rf3+ Ke2 6. Kxh2 c1=Q 7. Rf2+ Kxe1) cxb1=B 5. Nf3 $3 (5. Ng2 $2 Bc2 $19) (5. Nd3 $2 Bc2 $19) (5. Nc2 $2 Kh3 $19) Be4) 4. Rxc1 (4. Rb1 Qc6+ 5. Nf3 Qxf3#) (4. Ra3+ Kf2 5. Rf3+ Ke2 6. Kxh2 Qxe1) (4. Ra2 Qxe1#) bxc1=Q 1/2-1/2
+
+[Event "Sach#093"]
+[Source "Sach/11"]
+[Date "1942.??.??"]
+[Round "?"]
+[Composer "Pachman, Ludek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p1pQ2/8/1pP5/pP5p/P1K4P/3p1p2/2k5 w - - 0 1"]
+
+1. Qf4 $1 (1. Qxf2 $2 d1=N+) f1=N $1 2. c6 $1 (2. Qg5 $2 e6) (2. Qh6 $2 e5 $1) e6 (e5 3. Qg5) 3. Qh6 $1 e5 4. Qg5 $1 e4 5. Qg2 e3 6. Qe2 d1=N+ 7. Kd3 Nd2 8. Qe1 $1 Nf3 9. Qh1 Nd2 10. Ke2 1-0
+
+[Event "Sach#01"]
+[Source "Sach/1"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Pachman, Ludek"]
+[White "Pachman, L"]
+[Black " Dobias, J."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1K6/7r/PPk5/8/8/8/8 w - - 0 1"]
+
+1. b6 $1 Rh7+ (Kb5 2. Ka7 Kxa5 3. b7) 2. Ka6 $1 (2. Ka8 $2 Kc6 3. Kb8 Rg7 $1 4. Ka8 Rg5) (2. Kb8 $2 Kc6 3. Ka8 Rh5 4. b7 Rxa5+ 5. Kb8 Rb5) Kc6 3. b7 Rxb7 (Kc7 {<main>} 4. Ka7 Rh8 5. a6 Rg8 6. b8=Q+ Rxb8) 1/2-1/2

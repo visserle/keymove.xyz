@@ -1,0 +1,40 @@
+[Event "Problem#167"]
+[Source "Problem/9"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Petrovic, Tomislav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p1N1B/3p4/1N1kp2p/1Kp5/1p3P1P/pp2P3/8 w - - 0 1"]
+
+1. Nd8 $1 e4 2. f4 e3 3. Nc3+ (3. Bb1 $2 axb1=N) Kd4 4. Bb1 a1=Q 5. Nb5+ (5. h4 $2 Qa6) Kd5 6. h4 Qxb1 7. Nc3+ Kd4 8. Nxb1 Ke4 9. Kxc4 1-0
+
+[Event "Politika"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Petrovic, Tomislav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p1p1p1P1/P1P1P3/8/5p2/3p4/pPpP1P2/k1K5 w - - 0 1"]
+
+1. g8=N $1 f3 2. Nf6 exf6 3. e7 f5 4. e8=N $1 f4 5. Nd6 cxd6 6. c7 d5 7. c8=N $1 d4 8. Nb6 axb6 9. a7 b5 10. a8=Q b4 11. Qxf3 b3 12. Qxd3 f3 13. Qxb3 d3 14. Qxa2+ $1 Kxa2 15. b4 1-0
+
+[Event "Problem#178"]
+[Source "Problem/1"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Petrovic, Tomislav"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6B1/3b4/8/5k1p/8/4Pp1K/8 w - - 0 1"]
+
+1. Kg2 $1 (1. Bh6+ $2 Kg4+ 2. Kg2 Bg3 3. Be3 h3+ 4. Kf1 h2) Bc5 2. Bh6+ (2. e3+ $2 Kxe3 3. Kf1 Ke4 4. Bf8 h3 5. Bd6 Bxd6 6. Kxf2 Bh2) (2. Kf1 $2 h3 3. e3+ Bxe3) Ke4 3. e3 Bxe3 4. Bxe3 Kxe3 5. Kf1 h3 (Kf4 6. Kxf2) (Kf3) 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "Szachy#388"]
+[Source "Szachy/2"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Sojka, Jerzy"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7K/2R3n1/3Pkn2/5pr1/5R2/3BrP2/8 w - - 0 1"]
+
+1. Re6+ $1 Kxd5 2. Rxe2 Nf8+ 3. Kh8 Nh6 4. Re5+ Kxe5 (Kd6 5. Rg5 Nf7+ 6. Kg8 Nxg5 7. Bxf4+ Ke7 8. Bxg5+) 5. Bxf4+ Rxf4 (Ke4 6. Re3+ Kxf4 7. Rf3+ Kg5 8. Rxf8 Kg6 9. Ra8) 6. Rxf4 Kxf4 7. Kg7 1/2-1/2

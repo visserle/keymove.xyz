@@ -1,0 +1,27 @@
+[Event "Beginner ty Tidskrift for Schack#1005"]
+[Source "Tidskrift for Schack/12"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Uddgren, Anders"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/4p1p1/4P1Pp/8/7P/8/8/7K w - - 0 1"]
+
+1. Kg2 $1 Kg8 2. Kf3 Kf8 3. Ke4 Ke8 4. Kd5 Kd8 5. Kc6 Kc8 6. h5 $1 1-0
+
+[Event "Beginner ty Tidskrift for Schack#1005 ("]
+[Source "Tidskrift for Schack/12 (m): Korolkov=V Tidskrift for Schack=8 10/1962."]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Uddgren, Anders"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/4p1p1/4P1Pp/8/8/8/7P/7K w - - 0 1"]
+
+1. Kg2 $1 Kg8 2. Kf3 Kf8 3. Ke4 Ke8 4. Kd5 Kd8 5. Kc6 Kc8 6. h3 $1 (6. h4 $2 h5 $1) h5 7. h4 1-0

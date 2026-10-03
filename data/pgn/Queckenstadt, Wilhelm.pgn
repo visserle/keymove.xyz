@@ -1,0 +1,13 @@
+[Event "La Stratégie#0921"]
+[Source "La Stratégie/2"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Queckenstadt, Wilhelm"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p6p/P1kp2p1/5P2/3P3p/2Pb3B/1P6/K7 w - - 0 1"]
+
+1. f6 $1 Bc4 2. d5+ Bxd5 3. Bg2 h3 4. Bh1 Bxh1 (Kc5 5. b4+ Kc4 6. b5 h2 7. f7 Bxf7 8. b6 Bd5 9. b7 Bxh1 10. b8=Q Bf3 11. Qb4+) 5. f7 Bd5 6. f8=Q h2 7. Qa8+ Kc5 8. Qxa7+ Kc6 9. Qb7+ Kc5 10. b4+ Kc4 11. Qc8+ Kb5 12. Qe8+ Kb6 13. Qb8+ 1-0

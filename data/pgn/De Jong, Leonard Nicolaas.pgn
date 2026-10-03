@@ -1,0 +1,12 @@
+[Event "Utrechts Dagblad"]
+[Date "1914.10.10"]
+[Round "?"]
+[Composer "De Jong, Leonard Nicolaas"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/5p2/3R4/7K/4p3/7k w - - 0 1"]
+
+1. Rd2 $1 e1=Q 2. Rh2+ Kg1 3. Rh1+ Kxh1 1/2-1/2

@@ -1,0 +1,55 @@
+[Event "EG"]
+[Source "EG/10 EG#02404."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Sikdar, Niharendu"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k4K1/1P2p3/P5p1/P7/8/8/8/8 w - - 0 1"]
+
+1. Kf7 $1 (1. Kg7 $2 g5) g5 (Kc7 2. Kxg6) (e5 2. Ke6 (2. Ke7 $2 Kc7) e4 3. Kd5 e3 4. Kc6 e2 5. Kb6 e1=Q 6. a7#) 2. Ke6 (2. Kxe7 $2 Kc7) g4 3. Kd7 (3. Kd5 $2 Kc7 4. Ke4 e5) g3 4. Kc6 g2 5. a7+ (5. Kb6 $2 g1=Q+) Kxa7 6. Kc7 g1=Q 7. b8=Q+ Ka6 8. Qb6+ Qxb6+ 9. axb6 1-0
+
+[Event "EG"]
+[Source "EG/10 EG#02406."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Sikdar, Niharendu"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/p7/3k4/P2P2K1/3N4/8 w - - 0 1"]
+
+1. Kf2 $1 Kxd3 2. Ke1 Kc2 3. Ke2 a4 4. Ke3 Kb2 5. Nc4+ Kc3 6. Nd6 Kb3 7. Nb5 Kc4 8. Nd4 Kc3 9. Ke4 Kc4 10. Ke5 Kc5 11. Nf3 Kc4 12. Nd2+ Kc3 13. Nb1+ Kb2 14. Kd4 Kxb1 15. Kc3 Kc1 16. Kb4 1-0
+
+[Event "Sunday Standard (Bombay)"]
+[Source "EG#13990."]
+[Date "1976.02.01"]
+[Round "?"]
+[Composer "Sikdar, Niharendu"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/p7/8/P2k4/3N1K2/8 w - - 0 1"]
+
+1. Ke1 $1 Kc2 (Kc3 2. Ke2 Kb2 3. Nc4+ Kc3 4. Nxa5 Kb2 5. Nc4+ Kc3 6. Nd2) (a4 2. Kd1 Kc3 3. Kc1) 2. Ke2 a4 (Kc3 3. Ke3 a4 (Kc2 4. Nc4 a4 5. Kd4 Kb3 6. Kd3) 4. Nb1+ Kc2 5. Kd4 Kxb1 6. Kc3) 3. Ke3 Kb2 (Kc3 4. Nb1+) 4. Nc4+ Kc3 (Kb3 5. Kd3) 5. Nd6 Kb3 6. Nb5 Kc4 7. Nd4 Kc3 8. Ke4 Kc4 9. Ke5 Kc5 (Kc3 10. Kd5) 10. Nf3 (10. Ke4 $2 Kc4) (10. Nc2 $2 Kc4 11. Ke4 Kc3 12. Na1 (12. Nd4 Kc4) Kb2 13. Kd3 Kxa3) (10. Ne2 $2 Kc4 11. Nc1 (11. Ke4 Kb3) Kc3) (10. Nf5 $2 Kc4 11. Nd6+ (11. Ne3+ Kb3) Kb3 12. Nb5 Kc4 13. Nd4 Kc5) Kc4 11. Nd2+ Kc3 12. Nb1+ Kb2 13. Kd4 1-0
+
+[Event "Sunday Standard (Bombay)"]
+[Source "EG#13991."]
+[Date "1977.08.14"]
+[Round "?"]
+[Composer "Sikdar, Niharendu"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1KN5/8/2P1p3/2k3p1/8/8/8 w - - 0 1"]
+
+1. c6 $1 g3 2. Nd5 Kd3 (Kxd5 3. c7 g2 4. c8=Q g1=Q 5. Qc6+ Kd4 6. Qb6+) 3. Ne3 (3. c7 $2 g2) Kxe3 4. c7 g2 5. c8=Q g1=Q (Kf2 6. Qf5+ Kg1 (Kg3 7. Qxe5+) (Ke2 7. Qxe5+) 7. Qxe5) 6. Qc5+ 1-0

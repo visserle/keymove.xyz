@@ -1,0 +1,12 @@
+[Event "3.p Hvar 8 Dag"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Olson, C"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/3Pp3/3p4/8/7B/4kN2/p7/8 w - - 0 1"]
+
+1. Bf6 $1 exf6 2. Nd4 Kxd4 3. d8=Q a1=Q 4. Qxf6+ 1-0

@@ -1,0 +1,13 @@
+[Event "Sachové Umenie#4959"]
+[Source "Sachové Umenie/10"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Krivohlavek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/P2P4/P7/2k1r3/K1p1P3/2P5/8 w - - 0 1"]
+
+1. d7 $1 Re5 $1 2. d8=B $1 (2. d8=Q $2 Rxa5+ 3. Qxa5) 1-0

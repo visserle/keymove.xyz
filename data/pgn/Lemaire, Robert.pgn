@@ -1,0 +1,25 @@
+[Event "source unknown"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Lemaire, Robert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4N3/2K5/kpP5/p7/8/5p2/8/8 w - - 0 1"]
+
+1. Kb8 $1 Kb5 2. c7 f2 3. c8=Q f1=Q 4. Qa6+ $1 Kxa6 5. Nc7# 1-0
+
+[Event "source unknown"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Lemaire, Robert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3R4/8/3K4/1k6/7p/5p2/8 w - - 0 1"]
+
+1. Rf7 $1 h2 2. Rb7+ Kc3 3. Rb1 Kd3 (Kc2 4. Rf1 Kd3 5. Rh1) 4. Rh1 Ke3 (Ke2 5. Rxh2) 5. Kc4 Kf3 6. Kd3 Kg2 7. Ke2 Kxh1 8. Kxf2 1/2-1/2

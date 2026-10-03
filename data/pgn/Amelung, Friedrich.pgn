@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1903.??.??"]
+[Round "?"]
+[Composer "Amelung, Friedrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "k2B4/8/8/1p2p1K1/5P2/1P3Nb1/4n3/8 w - - 0 1"]
+
+1. fxe5 (1. f5 $2 e4 2. Nh4 $10) (1. Nxe5 $2 Bxf4+ 2. Kf5 Bxe5 $10) (1. Kg4 $2 exf4 $10 2. Kg5) (1. Bb6 $2 Kb7 2. Bd8 exf4) Bxe5 $4 (Kb7 $5 2. e6 $16 $18) 2. Nxe5 (2. Kf5 $2 Bb2 3. Bg5 $10) (2. Nd2 Bf4+ 3. Kf5 Bxd2) Nd4 3. b4 (3. Kf6 $2 b4 4. Nd7 $10) (3. Bb6 $2 Nxb3 4. Nd7) (3. Nc6 $2 Nxc6 4. Bf6) (3. Nd3 Ne6+ 4. Kf5) Ne6+ 4. Kf6 (4. Kf5 $2 Nxd8 5. Nd7 $10) (4. Kg4 $2 Nxd8 5. Nd7 $10) (4. Kh6 $2 Nxd8 5. Nd7) (4. Kg6 $2 Nxd8 5. Nd7) (4. Kh5 $2 Nxd8 5. Nd7) Nxd8 5. Ke7 (5. Kg7 $2 Ne6+ 6. Kf7) (5. Nd7 $2 Nc6 6. Nf8) (5. Nf3 $2 Nc6 6. Ne5) Nb7 6. Nc6 $18 (6. Kd7 $2 Na5 7. bxa5 $10) (6. Nd7 $2 Ka7 7. Nf8) (6. Nf7 $2 Na5 7. bxa5) (6. Nd3 $2 Kb8 7. Ne5) (6. Ke6 $2 Na5 7. bxa5) 1-0

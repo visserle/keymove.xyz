@@ -1,0 +1,13 @@
+[Event "2.hm Ceskoslovensky Sach#42"]
+[Source "Ceskoslovensky Sach/6"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Jandera Bazika, V"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k5/Kp6/p7/8/8/8/PP6/8 w - - 0 1"]
+
+1. b3 $1 Kc7 (a5 2. Kb6 a4 3. b4 a3 (Kb8 4. a3 Ka8 5. Kb5 Ka7 6. Kxa4 Kb6 7. b5 Kc7 8. Ka5 Kc8 9. Kb6 Kb8 10. a4 Ka8 11. Kc7 Ka7 12. a5 Ka8 13. Kd7 Kb8 14. Kd8 Ka7 15. Kc8 Ka8 16. Kc7 Ka7 17. a6 $1) 4. Ka7 Kc7 5. b5) 2. b4 Kc6 (a5 3. b5 a4 4. a3 Kc8 5. b6) 3. a4 Kc7 4. b5 a5 (axb5 5. axb5 Kc8 6. b6) 5. Ka8 Kc8 6. b6 1-0

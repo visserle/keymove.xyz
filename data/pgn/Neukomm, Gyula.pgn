@@ -1,0 +1,12 @@
+[Event "Magyar Sakk Lap#037"]
+[Date "1906.12.01"]
+[Round "?"]
+[Composer "Neukomm, Gyula"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/r4P2/p7/P4K2/7k/7p/7P/8 w - - 0 1"]
+
+1. f8=R $1 (1. f8=Q $2 Rf7+ 2. Qxf7) Rh7 2. Kg6 Rc7 3. Rf4# 1-0

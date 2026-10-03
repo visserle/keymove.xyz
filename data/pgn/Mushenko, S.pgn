@@ -1,0 +1,25 @@
+[Event "Shakhist"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Mushenko, S"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5q2/8/p7/1k2N3/8/1P6/P6P/K1R5 w - - 0 1"]
+
+1. Rc5+ $1 Qxc5 (Kb4 2. Nd3+ Ka3 3. Ra5#) (Kb6 2. Nd7+) (Kxc5 2. Nd7+ Kd6 3. Nxf8) 2. a4+ Ka5 (Kb6 3. Nd7+) (Kb4 3. Nd3+) 3. b4+ Qxb4 (Kxb4 4. Nd3+ Kc4 5. Nxc5 Kxc5 6. h4) 4. Nc6+ Kxa4 5. Nxb4 Kxb4 6. h4 1-0
+
+[Event "64"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Mushenko, S"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1P2P3/3qp1K1/4p3/b1p1pk2/8/2P1P3/r2N2B1 w - - 0 1"]
+
+1. Bh2+ $1 Kg4 2. Nf2+ Kh4 3. Bg3+ Kxg3 4. Nxe4+ Kf4 5. Nxd6 Rb1 6. Nb5 $1 Bxb5 (Rxb5 {<main>} 7. e8=Q) 7. b8=Q 1-0

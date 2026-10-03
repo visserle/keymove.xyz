@@ -1,0 +1,1697 @@
+[Event "2.hm All-Russian Ty"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "bk6/2b5/1p6/2N1Nr2/1n6/8/B2K3R/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. Na6+ Nxa6 2. Rh8+ Ka7 3. Rxa8+ Kxa8 4. Bd5+ Kb8 5. Nc6+ Kb7 6. Ne5+ Kc8 7. Be6+ Kb7 (Kd8 $144 8. Nc6+ Ke8 9. Bxf5 $11) 8. Bd5+ Kb8 9. Nc6+ Kb7 10. Ne5+ $11 1/2-1/2
+
+[Event "3.p Vecherni Novosibirsk (c)"]
+[Source "(c): Kasparyan=G Tajna Etyudista-278 1984"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/p4rB1/3K4/p2B4/8/4k3 w - - 0 1"]
+[PlyCount "15"]
+
+1. Bc1 Rf4+ 2. Kc3 Ra4 3. Bc2 (3. Bc4 $143 a2 4. Bb2 Ra3+ 5. Kc2 a1=Q 6. Bxa1 Rxa1 $19) a2 4. Bb2 Ra3+ 5. Bxa3 a1=Q+ 6. Bb2 Qa2 7. Bb3 Qb1 8. Bc2 $11 1/2-1/2
+
+[Event "2.p Pacific Ocean Komsomolets Ty Tikook"]
+[Source "EG#00624"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5p2/7p/6PP/5kpB/5P2/6Pr/5K2 w - - 0 1"]
+[PlyCount "17"]
+
+1. g6 $1 fxg6 2. Kf2 Rxh4 3. g3+ Kg5 (Kf5 $144 4. gxh4 gxh5 5. Kg3 $11) (Ke5 $144 4. gxh4 gxh5 5. Ke3 $1 Kf5 6. f4 $11) 4. f4+ Kxh5 5. Kg1 $1 Rh3 6. Kg2 g5 7. f5 $1 Rh4 8. Kg1 $1 Rh3 9. Kg2 $11 1/2-1/2
+
+[Event "1.p Tikookeanski Komsomolets"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r3k3/2p4p/p1PPp3/3p4/3P4/p7/PR6/2K5 w q - 0 1"]
+[PlyCount "19"]
+
+1. Rb7 $1 cxd6 2. Rxh7 O-O-O 3. Ra7 e5 4. Kd2 e4 5. Ke3 a5 6. Kd2 $1 e3+ 7. Ke2 a4 8. Kd1 $1 e2+ 9. Ke1 Kb8 (Rh8 $144 10. Ra8+ $18) 10. c7+ $18 1-0
+
+[Event "1.p Komsomolskaja Pravda"]
+[Source "EG#00982"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5p2/5P2/1p6/8/krpK2RR/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. Kc1 $1 b3 (Ka1 $144 2. Rxc2 Rb1+ 3. Kd2 b3 4. Rc6 $1 Rb2+ 5. Kc3 Rxh2 6. Kxb3 Rh3+ (Rh6 $144 7. Rc1#) 7. Kc4 Rh6 8. Kd5 Kb2 9. Ke6 Kb3 10. Kf7 Rh7+ 11. Kg6 Rh1 12. Rxf6 $18 (12. Rc8)) 2. Rxc2 $1 Ka1 $1 (Rxc2+ $144 3. Rxc2+ bxc2 4. Kxc2 $18) (bxc2 $144 3. Rxc2 Ka1 4. Rc6 Ra2 5. Rxf6 $18 Ra8 6. Rc6 Ka2 7. Kc2 Ka3 8. Kc3 Ka4 9. Kc4 Ka5 10. f6) 3. Rce2 $1 (3. Rcf2 $143 $2 Rxf2 4. Rxf2 b2+ 5. Rxb2 $11 {stalemate}) (3. Rcd2 $143 $2 Rb1#) (3. Rxb2 $2) Rc2+ (Rxe2 $144 4. Rxe2 b2+ 5. Kd2 b1=Q 6. Re1 $18) 4. Rxc2 b2+ 5. Kd2 $1 (5. Kd1 $143 $2 b1=Q+ 6. Rc1 Qxc1+ 7. Kxc1 $11 {stalemate}) (5. Rxb2 $2) b1=Q 6. Rh1 $1 (6. Rc1 $143 $2 Qxc1+ 7. Kxc1 $11 {stalemate}) Qxh1 7. Rc1+ Qxc1+ 8. Kxc1 $18 Ka2 9. Kc2 1-0
+
+[Event "2.p Bulletin Central Chess Club USSR#09"]
+[Source "EG#01356"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/k6b/3P1B2/8/1P6/1B4K1/3n4 w - - 0 1"]
+[PlyCount "9"]
+
+1. Bd3+ $1 (1. Bd4 $143 Ne3+ $11) Ka5 (Kb7 $144 2. Ba3 $1 Ne3+ 3. Kf3 Nxd5 4. Be4 Kc6 5. Kg4 Be3 6. Kf5 Bc5 7. Bb2 Kd6 8. Be5+ $18) 2. Be5 $1 Ne3+ 3. Kf3 Nxd5 (Kb4 $144 4. d6 Nd5 5. Kg4 Be3 6. Bc4 Nb6 7. Be6 Bc5 8. Kf3 Kb5 9. d7 Be7 10. Bc7 Nxd7 11. Bxd7+ $18) 4. Bc4 $1 Nb4 (Nb6 $144 {<main>} 5. Bc3#) (Ne7 $144 {<main>} 5. Bc7+ Kb4 6. Bd6+ $18) (Ne3 $144 {<main>} 5. Bc3+ Kb6 6. Bd4+ $18) 5. Bc7# 1-0
+
+[Event "1.p Sovyetskaya Moldavia"]
+[Source "EG#01605"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1kBK4/4B3/8/1p2n3/P7/8/3p4/3b4 w - - 0 1"]
+[PlyCount "18"]
+
+1. Bd6+ $1 Ka8 2. Bb4 Nc6+ 3. Kc7 Nxb4 4. Bb7+ Ka7 5. axb5 Na6+ 6. Bxa6 Bf3 7. Bc8 d1=Q 8. b6+ Ka8 9. Bb7+ Bxb7 $11 {stalemate} 1/2-1/2
+
+[Event "Shakhmaty (Riga)#140"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3bk3/p2p4/3p4/1P1B4/PK6/8/1P6/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. a5 Bc7 $1 2. b6 $1 axb6 (Bb8 $144 3. Kb5 Kd8 4. Ka6 axb6 5. axb6 Kc8 6. b4 Kd8 7. Kb7 $18) 3. a6 Bb8 4. a7 $1 (4. Kb5 $143 Ba7 $1 5. b4 Kd8 $11) Bxa7 5. Kb5 Kd8 (Bb8 $144 6. Kxb6 Kd8 7. Kb7 Bc7 8. b4 $1 $18) 6. Ka6 Bb8 7. Kb7 Bc7 8. b3 $1 (8. b4 $143 b5 $11) b5 9. b4 $1 $18 1-0
+
+[Event "2.p Chervoni Girnik"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/R7/8/P7/p7/1r6/8/2K5 w - - 0 1"]
+[PlyCount "21"]
+
+1. a6 a3 (Rb5 $144 2. Ra8+ Kf7 3. a7 Ra5 4. Rh8 Rxa7 5. Rh7+ $18) (Kf8 $144 2. Ra8+ Kg7 3. a7 Rb7 4. Rg8+ $1 Kxg8 5. a8=Q+ $18) 2. Ra8+ Kd7 $1 3. a7 a2 4. Rd8+ $1 Ke7 5. Re8+ Kf7 6. Rf8+ Kg7 7. Rg8+ Kh7 8. Rh8+ (8. a8=Q $143 Rb1+ 9. Kc2 a1=Q $11) Kg7 9. a8=Q Rb1+ 10. Kc2 a1=Q 11. Qf8+ $18 1-0
+
+[Event "4.p Schakend Nederland#1457"]
+[Source "Schakend Nederland/7-8 EG#03100"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p7/8/kpP5/3K4/P7/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. Kc2 $1 (1. Kd4 $143 Ka3 2. c5 Kxa2 3. c6 b3 $11) (1. c5 $143 Kb5 2. Kd4 Kc6 3. Kc4 a5 4. a3 bxa3 5. Kb3 $11) Ka3 (Ka5 $144 2. Kb3 Kb6 3. Kxb4 Kc6 4. c5 Kd5 5. a4 Kc6 6. Kc4 $18) (b3+ $144 2. axb3+ Kb4 3. Kd2 $1 (3. Kb2 $143 a5 $11) a5 (Kc5 $144 4. Kd3 Kb4 5. Kd4 a5 6. c5 $18) 4. Kd3 $1 Kxb3 5. c5 a4 6. c6 a3 7. c7 a2 8. c8=Q a1=Q 9. Qb7+ Ka3 10. Qa6+ Kb2 11. Qb5+ Ka3 12. Qa5+ Kb2 13. Qb4+ Ka2 14. Kc2 $18) (a5 $144 2. Kb1 $1 b3 3. a3 $1 b2 4. Ka2 $18) 2. Kb1 Ka4 3. Kb2 a5 4. Kb1 $1 (4. Kc2 $143 Ka3 5. Kb1 Ka4 $1 6. Kb2 (6. Ka1 $144 b3 7. axb3+ Kb4 $11) b3 7. a3 $11 {stalemate}) b3 5. a3 $1 (5. axb3+ $143 Kb4 6. Kb2 a4 7. bxa4 Kxc4 $1 $11) b2 6. Ka2 $1 b1=Q+ 7. Kxb1 Kxa3 8. c5 $18 1-0
+
+[Event "3.p 64#20"]
+[Source "EG#03116"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/q1prB3/6PP/2P3K1/7p/8/7P/8 w - - 0 1"]
+[PlyCount "25"]
+
+1. h7+ $1 Kh8 $1 (Kg7 $143 2. Bf6+ Kf8 3. h8=Q#) 2. Bf6+ Rg7 3. Kh6 c6 4. h3 $1 Qb7 5. Ba1 $1 (5. Bc3 $143 Qd7 $1 $19) (5. Bd4 $143 Qe7 $1 6. Be5 $1 Qf8 $1 $19) Qd7 6. Bc3 $1 Qe7 7. Bd4 $1 Qf8 8. Be5 Qe7 9. Bd4 Qd7 10. Bc3 Qc7 11. Be5 $1 Qb7 12. Ba1 Qc7 13. Be5 $1 $11 1/2-1/2
+
+[Event "2.p Shakhmaty (Riga)#72"]
+[Source "Shakhmaty (Riga)/11 1978"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/4R3/2p3p1/2p3p1/6P1/6P1/2P3Pp/4K3 w - - 0 1"]
+[PlyCount "24"]
+
+1. Re8+ Kg7 2. Re7+ Kh6 3. Kf2 h1=Q 4. Re1 Qh2 5. Re7 c4 6. c3 Qh1 7. Re1 Qh2 8. Re7 c5 9. Kf3 $1 Qg1 10. Re1 Qh2 11. Re7 Qg1 12. Re1 Qxe1 $11 {stalemate} 1/2-1/2
+
+[Event "1.hm Bulletin Central Chess Club USSR#0"]
+[Source "Bulletin Central Chess Club USSR/1 EG#03358"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3RK3/8/4k3/1P2n3/4p3/4p3/4P3/1b6 w - - 0 1"]
+[PlyCount "21"]
+
+1. b6 Nc6 2. b7 Bd3 3. Rc8 Nb8 4. Rxb8 Ba6 5. Kf8 Kf6 6. Kg8 Kg6 7. Kh8 Kh6 8. Ra8 Bxb7 9. Rb8 Bd5 10. Rb6+ Kg5 11. Rb5 $18 1-0
+
+[Event "1.p Krasnoe Znamja"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6pp/3q1ppk/3B4/6P1/6PK/5N2 w - - 0 1"]
+[PlyCount "16"]
+
+1. g4+ $1 fxg4 2. Ng3+ Kh4 3. Bf2 Qe5 4. Kg1 $1 Qa1+ 5. Kh2 Qe5 6. Kg1 Qxg3 7. Kh1 $1 Qxf2 (Kh5 $144 8. Bxg3 $11 {stalemate}) (h5 $144 8. Kg1 Qxf2+ 9. Kxf2 g3+ 10. Kf3 g4+ 11. Kf4 g5+ 12. Kf5 $11 {stalemate}) 8. g3+ $1 Qxg3 $11 {stalemate} (Kxg3 $144 $11 {stalemate}) (Kh5 $144 $11 {stalemate}) 1/2-1/2
+
+[Event ".p Pat a Mat#0124"]
+[Source "Pat a Mat/12 1992 EG#10236"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3B4/8/8/3p4/n7/1p6/2NR4/1K3krr w - - 0 1"]
+[PlyCount "28"]
+
+1. Ne3+ Ke1 2. Ba5 d4 $1 3. Rg2+ $1 (3. Rh2+ $143 Nc3+ 4. Bxc3+ dxc3 5. Nc2+ $1 Kf1 $1 6. Ne3+ Ke1 7. Nc2+ bxc2+ 8. Kc1 Kf1 $19) (3. Rxd4+ $143 Ke2+ $19) (3. Rb2+ $143 Nc3+ 4. Bxc3+ dxc3 $19) Nc3+ 4. Bxc3+ dxc3 5. Nc2+ $1 Kf1 (bxc2+ $144 6. Kc1 Kf1 7. Rh2 $11) 6. Ne3+ Ke1 7. Nc2+ Kd1 8. Ne3+ Ke1 9. Nc2+ bxc2+ 10. Kc1 $1 Kf1 (Rxg2 $143 $11 {stalemate}) 11. Rh2 $1 Ke1 (Rxh2 $144 $11 {stalemate}) 12. Rg2 $1 Rf1 (Rxg2 $144 $11 {stalemate}) 13. Rh2 Rhg1 (Rxh2 $11 {stalemate}) 14. Rg2 Rxg2 $11 {stalemate} 1/2-1/2
+
+[Event "4.p Subbotnaja Gazeta"]
+[Source "EG#09063"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/8/2pP1N2/2P5/7r/8/8/5K2 w - - 0 1"]
+[PlyCount "11"]
+
+1. d7 Rf4+ $1 2. Ke1 $1 (2. Ke2 $143 Rd4 $1 3. Ke3 Rd1 4. Ke2 Rd4 5. Kf2 Rd2+ $1 6. Ke1 Rd3 $1 7. Ke2 Rd4 8. Kf3 Rd1 9. Ke3 Kg7 10. Ne8+ Kf7 11. Nd6+ Ke7 $11) Rd4 3. Ke2 $1 Kg7 4. Ne8+ Kf8 5. Nd6 Ke7 6. Nf5+ $18 1-0
+
+[Event "3.p Kopnin MT Intellektualnje Igri#201"]
+[Source "EG#10473 EG#11548"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[Composer "Zamotaev, Igor Ivanovich"]
+[Composer2 "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "q7/8/8/1B5b/5b1p/5N1k/4N3/6K1 w - - 0 1"]
+[PlyCount "26"]
+
+1. Bd7+ $1 Bg4 2. Nxf4+ Kg3 3. Ne2+ Kxf3 4. Bc6+ $1 Qxc6 5. Nd4+ Kg3 $1 6. Ne2+ (6. Nxc6 $143 h3 $1 7. Nd4 (7. Ne5 $144 h2+ 8. Kh1 Be2 9. Nc4 Bf3#) h2+ 8. Kh1 Kh3 9. Nb3 Bf3#) Kh3 (Bxe2 $144 $11 {stalemate}) 7. Nf4+ Kg3 8. Ne2+ Kf3 (Bxe2 $11 {stalemate}) 9. Nd4+ Kf4 10. Nxc6 Kg3 11. Nd4 $1 h3 12. Kh1 $1 h2 13. Ne2+ $1 (13. Nf5+ $143 Kh3 $1 14. Nh4 $1 Bd1 15. Ng2 Kg3 16. Nh4 Be2 17. Nf5+ (17. Ng2 $144 Bd3 18. Ne1 Be4+ 19. Ng2 Bxg2#) Kh3 18. Nh4 Bf1 19. Nf3 Bg2#) Bxe2 $11 {stalemate} (Kh3 $144 14. Nf4+ Kg3 15. Ne2+ $11) 1/2-1/2
+
+[Event "3.p Shakhmatnaya Kompozitsia#0201 (m)"]
+[Source "EG#10501 (m): Shakhmatnaya Kompozitsia=11 29-9-1995"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/8/1p6/4k2p/7p/1P2p2p/P3P2P/8 w - - 0 1"]
+[PlyCount "41"]
+
+1. a4 $1 (1. b4 $143 b5 2. Kd7 Kd4 3. Kc6 Kc3 4. Kxb5 Kd2 5. a4 Kxe2 6. a5 Kd3 7. a6 e2 8. a7 e1=Q 9. a8=Q $11) (1. Kd7 $143 Kd4 2. Kc6 Kc3 3. a4 Kd2 4. Kxb6 Kxe2 5. a5 Kd3 6. a6 e2 7. a7 e1=Q 8. a8=Q $17) Kd4 $1 (Kd5 $144 2. Kd7 Kc5 (Kd4 $144 3. b4 $18) 3. Kc7 $18) 2. b4 (2. Kd7 $143 Kc3 $17) Kc4 3. a5 bxa5 4. bxa5 Kb5 5. Kd7 $1 (5. Kf7 $143 Kxa5 6. Kg6 Kb4 7. Kxh5 (7. Kf5 $144 Kc5 $1 8. Kg5 Kd4 9. Kf4 Kd5 10. Kxe3 Ke5 $11) Kc3 8. Kg4 Kd2 9. Kf3 Ke1 10. Kxe3 Kf1 11. Kf3 Kg1 12. e4 Kxh2 $11) Kxa5 6. Kc6 $1 (6. Kd6 $143 Kb6 7. Kd5 Kc7 8. Ke4 Kd6 9. Kxe3 Ke5 $11) Kb4 7. Kd5 Kc3 8. Ke4 Kd2 9. Kf3 Ke1 10. Kxe3 Kf1 11. Kf3 Kg1 12. e4 Kxh2 13. Kf2 Kh1 14. e5 h2 15. e6 h3 16. e7 h4 17. Ke2 $1 (17. Ke3 $143 Kg1 18. e8=Q h1=Q $11) Kg1 18. e8=Q h1=Q 19. Qe3+ Kh2 20. Qf4+ Kg2 21. Qf2# 1-0
+
+[Event "3.p Shakhmatnaya Kompozitsia#0691"]
+[Source "EG#11507"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#8"]
+[SetUp "1"]
+[FEN "8/2Q5/8/5b1n/7p/5p2/2B2K1p/2r4k w - - 0 1"]
+[PlyCount "15"]
+
+1. Be4 $1 Rf1+ $1 (Rxc7 $144 2. Bxf3#) (Bxe4 $144 2. Qxc1#) 2. Kxf1 Ng3+ 3. Qxg3 $1 (3. Kf2 $143 Nxe4+ 4. Kxf3 Nd2+ 5. Ke2 Kg2 6. Qg7+ Kh3 $11) Bh3+ $1 4. Qg2+ $1 (4. Qxh3 $143 $11 {stalemate}) (4. Kf2 $143 hxg3+ 5. Kxg3 $11) Bxg2+ (fxg2+ $144 5. Kf2 Bc8 6. Bxg2#) 5. Kf2 h3 6. Bh7 {<or>Ff5,Fh7,Fg6,Fd3,Fc2,Fb1} (6. Ba8 $143 Bf1 7. Kxf1 $11 {stalemate}) Bf1 7. Kxf1 f2 8. Be4# 1-0
+
+[Event "Uralski Problemist#0589"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/P7/p3p1p1/pPp1P3/P1P5/7p/P2r3p/K1Q5 w - - 0 1"]
+[PlyCount "35"]
+
+1. b6 $1 Rg2 $1 2. Qb1 $1 Kb7 3. Qh1 Ka8 4. Kb1 Kb7 5. Kc1 Ka8 6. Kd1 Kb7 7. Ke1 g5 8. Kf1 g4 9. Ke1 $1 Ka8 10. Kd1 Kb7 11. Kc1 Ka8 12. Kb1 Kb7 13. Ka1 $1 g3 14. a3 $1 (14. Kb1 $144 Ka8 15. Kc1 Kb7 16. Kd1 Ka8 17. Ke1 Kb7 18. Kf1 Ka8 19. a3 Kb7 20. Ke1 Ka8 21. Kd1 Kb7 22. Kc1 Ka8 23. Kb1 Kb7 24. Ka1 Ka8 25. Qb1 $18 {loss of time. See 15.Db1}) Ka8 15. Qb1 $1 Kb7 16. Qh7+ Kxb6 17. a8=N+ $1 Kc6 18. Qc7# 1-0
+
+[Event "2.p Uralski Problemist#0644"]
+[Source "EG#14293"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k3N1/R7/6N1/8/8/Kp6/1p2r3/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. N8e7+ (1. N6e7+ $143 Kd8 2. Nc6+ Ke8 3. Nf6+ Kf8 4. Nd8 Re7 $1 $11) Kd8 2. Nc6+ Kc8 $1 (Ke8 $144 3. Nge5 Rxe5 (Kf8 $144 4. Rf7+ Ke8 5. Rf1 Rc2 6. Rb1 Rf2 7. Nc4 $18) (b1=N+ $144 4. Kxb3 Kf8 (Re3+ $144 5. Kb2 Ra3 6. Re7+ Kf8 7. Kxb1 $18) 5. Rf7+ Ke8 6. Re7+ Kf8 7. Ng6+ $18) 4. Ra8+ $1 Kd7 (Kf7 $144 5. Nxe5+ $18) 5. Nxe5+ $18) 3. Nge7+ Rxe7 4. Nxe7+ Kb8 5. Nc6+ Kc8 6. Ra8+ $1 (6. Kxb2 $143 $11 {stalemate}) Kb7 7. Rb8+ (7. Ra7+ $144 Kc8 8. Ra8+ Kb7 $18 {loss of time}) Ka6 8. Rxb3 (8. Kxb2 $143 $11 {stalemate}) b1=Q 9. Nb4+ (9. Rxb1 $143 $11 {stalemate}) (9. Nb8+ $144 Ka5 10. Nc6+ Ka6 11. Nb4+ $18 {loss of time}) Ka5 10. Rxb1 $18 1-0
+
+[Event "Shakhmatnaya Kompozitsia#1457 (pl)"]
+[Source "= Amiryan=G f1d5 1985"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2qr4/1p6/2QR4/4k3/8/1p6/8/2K5 w - - 0 1"]
+[PlyCount "19"]
+
+1. Rd5+ $1 Ke4 2. Qc5 $1 b6 $1 3. Rd4+ Ke3 4. Qc4 $1 b5 $1 5. Rd3+ $1 Ke2 6. Qc3 $1 b4 $1 7. Rd2+ $1 Ke1 $1 8. Rd1+ $1 Ke2 9. Rd2+ Ke1 10. Rd1+ $11 1/2-1/2
+
+[Event "3.hm Uralski Problemist#1149"]
+[Source "EG#11908"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/8/8/2p1N2B/p1K5/rNP5/r1k5 w - - 0 1"]
+[PlyCount "27"]
+
+1. Bg5+ Kb1 2. Nd2+ Kc1 3. Ndxc4+ Kb1 4. Nd2+ Kc1 5. Ne4+ $1 Kb1 6. Kd2 $1 Kxb2 (Rxb2 $144 7. Nc3#) (c5 $144 7. Bf6 c4 8. Nc3+ Kxb2 9. Na4+ Kb1 10. Bb2 $1 c3+ 11. Kd1 Rxb2 12. Nxc3#) 7. Bf6+ Kb1 8. Nc3+ Kb2 9. Na4+ Kb1 10. Bb2 $3 c5 (c6 $144 {<main>} 11. Kd1 $1 c5 12. c4 $1 Rxb2 13. Nc3#) 11. Kd1 $1 c4 12. Kd2 $1 c3+ 13. Kd1 Rxb2 (cxb2 $144 14. Nc3#) (axb2 $144 14. Nxc3#) 14. Nxc3# 1-0
+
+[Event "Uralski Problemist#1142"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/2pr4/KR2N3/5b2/8/B1k5 w - - 0 1"]
+[PlyCount "13"]
+
+1. Rc4+ Kb1 2. Nc3+ Kxa1 3. Kb3 Bd1+ (Rd4 $144 {<main>} 4. Rxc5 Bd1+ 5. Nxd1 Rxd1 6. Kc2 $18) 4. Nxd1 Rxd1 5. Kc2 Rd4 6. Rxc5 Ra4 7. Kb3 $18 1-0
+
+[Event "5.p East-West Russia match Shakhmatnaya"]
+[Source "EG#13143"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6pb/4P1p1/4k3/6K1/8/1p6/2R5 w - - 0 1"]
+[PlyCount "17"]
+
+1. Re1+ Kd6 (Kf6 $144 2. e7 b1=Q 3. e8=N+ Kf7 4. Rxb1 Kxe8 5. Rb8+ Kf7 6. Rh8 Bg8 7. Kg5 Kf8 8. Kxg6 $18) 2. e7 b1=Q 3. e8=N+ $1 Kd7 4. Rxb1 Kxe8 5. Rb8+ $1 (5. Rh1 $143 Bg8 6. Rh8 Kf8 $1 7. Kg5 Kf7 $1 $11) (5. Kg5 $143 Bg8 6. Rb8+ Kf7 7. Ra8 Bh7 8. Rh8 Bg8 $1 $11) Kf7 6. Rh8 Bg8 7. Kg5 $1 Kf8 8. Kxg6 Ke7 9. Rxg8 $18 1-0
+
+[Event "Shakhmatnaya Kompozitsia#2071 (c)"]
+[Source "EG#16467 (c): Kovalenko=V 3.hm Moscow Champ 2006"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1qr5/8/pr6/8/1P2R3/p4k2/5P2/QK6 w - - 0 1"]
+[PlyCount "32"]
+
+1. Qd4 $1 Rxb4+ $1 2. Qxb4 a5 $1 3. Re3+ $1 Kxf2 4. Qb3 $1 a4 $1 5. Rf3+ $1 Ke2 6. Re3+ Kd2 7. Rd3+ Ke2 8. Re3+ Kf2 9. Rf3+ Kg2 10. Rg3+ $1 Kh2 11. Rh3+ Kg2 12. Rg3+ Qxg3 13. Qb7+ Qf3 14. Qxc8 Qd1+ (Qb3+ $144 15. Kc1 $11 {EGTB}) 15. Qc1 $1 (15. Ka2 $143 Qb3+ 16. Ka1 Qb2#) a2+ 16. Kxa2 Qxc1 $11 {stalemate} 1/2-1/2
+
+[Event ".hm 64 Shakhmatnoye Obozrenye#052"]
+[Source "EG#14386"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1b3K2/BP6/P1Rr4/3k4/8/3b4/8/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. Rc5+ Ke6 (Kd4 $144 2. Bxb8 Rd8+ 3. Ke7 Rxb8 4. Rc8 $1 Bxa6 5. Rxb8 Ke5 6. Kd7 Kd5 7. Kc7 $18) 2. Re5+ $1 Kf6 $1 (Kxe5 $144 3. Bxb8 Bxa6 4. Bxd6+ $1 $18) 3. Bxb8 Rd8+ 4. Re8 Rxb8 $1 (Rxe8+ $144 5. Kxe8 Bxa6 6. Be5+ $1 $18) 5. Rc8 $1 (5. Rxb8 $143 Bxa6 6. Ke8 Ke6 7. Kd8 Kd6 8. Kc8 Kc6 $11) (5. a7 $143 Rxb7 6. a8=Q Rf7+ 7. Kg8 Rg7+ 8. Kh8 Rh7+ $11) Bxa6 (Bb5 $144 6. a7 Rxb7 7. a8=Q Rf7+ 8. Kg8 Rg7+ 9. Kh8 $18) (Bc4 $144 6. a7 Rxb7 7. Rc6+ $1 Be6 8. a8=Q Rf7+ 9. Kg8 Rg7+ 10. Kh8 $18) 6. Rxb8 $1 Ke6 {<eg>} 7. Re8+ $18 1-0
+
+[Event "1.p Shakhmatnaya Kompozitsia#2530 (c)"]
+[Source "EG#15219 (c): Shakhmatnaya Kompozitsia=52 23-4-2003"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[Composer "Skripnik, Anatoliy Nikolaevich"]
+[Composer2 "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "kB6/1R6/2rp4/4b3/8/2p5/2N5/4N1K1 w - - 0 1"]
+[PlyCount "28"]
+
+1. Rc7 $1 (1. Rb1 $143 Rc8 $11) (1. Rb5 $143 Rc8 2. Rxe5 dxe5 3. Bxe5 $11) Ra6 $1 2. Rc8 $1 Kb7 3. Rd8 $1 Ra8 (Bg3 $144 4. Nd3 $1 Ra8 5. Bc7 Ra2 6. Ndb4 $1 $18 (6. Ncb4 $143 Ra1+ 7. Kg2 Kxc7 8. Rh8 Be5 $11)) 4. Bc7 $1 Ra6 $1 5. Rd7 Kc8 (Kc6 $144 6. Re7 Ra7 7. Bd8 Ra8 8. Rc7+ Kb5 9. Bh4 $18) 6. Re7 Ra7 7. Bd8 $1 (7. Bxd6 $143 Bxd6 $1 8. Rxa7 Bc5+ 9. Kf1 Bxa7 $11) Ra6 $1 8. Re8 Kd7 9. Rf8 $1 Ra8 10. Be7 $1 (10. Rf7+ $143 Ke8 $11) Ra4 $1 11. Bf6 (11. Rf7 $143 Ke8 $1 12. Rh7 Ra7 $11) (11. Bg5 $143 Rg4+ $11) Rf4 12. Nd3 $1 (12. Rd8+ $143 Kc7 13. Bxe5 Rg4+ $1 14. Kf2 Kxd8 15. Bxd6 $11) Rxf6 13. Nxe5+ Ke7 14. Rxf6 Kxf6 $18 {#46} 1-0
+
+[Event "3.hm Skakhmatnaya Nedelya"]
+[Source "EG#13736"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "2"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2P2p2/7q/1p6/R5R1/r3PP1r/1K5k/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. c8=Q Qh8+ $1 (Qf6+ $144 2. Rad4 Rxe3 (Rxf3 $144 3. Rh4+ Kg2 4. Qg4+ Kf2 5. Rh2+ Ke1 6. Rh1+ Ke2 7. Kxa3 b4+ 8. Kb2 $18) 3. Qc2+ $18) (Rg3 2. Rxa3 $18) 2. Qxh8 Rb3+ $1 3. Kc2 $1 (3. Kxb3 $143 bxa4+ $1 4. Kxa4 Rxh8 5. Rf4 Re8 6. e4 (6. Rxf7 $144 Rxe3 $11) Re7 7. Kb4 Kg3 8. Rf5 Kf2 $1 9. Kc5 Ke3 $1 10. Kd6 Ra7 11. Ke5 (11. e5 $144 Rb7 12. Kc6 Ra7 $11) Ra5+ 12. Kf6 Rxf5+ 13. exf5 Kf4 $1 $11) Rxh8 4. Rh4+ Rxh4 5. Rxh4+ Kg3 6. Rg4+ $1 Kxf3 7. Rf4+ $1 Kxe3 8. Rh4 $1 Ra3 9. Rh3+ $18 1-0
+
+[Event "1/3.p Gurgenidze,D JT EG"]
+[Source "EG/10 EG#14137"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/P2PP3/3P1p2/2p2p2/1Ppr3P/6k1/1RP5/7K w - - 0 1"]
+[PlyCount "37"]
+
+1. Rb1 Kf2 2. Rf1+ $1 Kxf1 3. Kh2 Kf2 4. Kh3 Rg4 $1 5. a8=Q Rg3+ 6. Kh2 Rg4 $1 7. Qa3 $1 (7. Qh8 $143 Rg2+ 8. Kh3 Rg3+ $11) (7. Qf3+ $143 Kxf3 8. e8=Q Kf2 9. Kh3 Rg3+ $11) Rg2+ 8. Kh3 Rg1 $1 9. Qe3+ $1 (9. Qf3+ $143 Kxf3 10. Kh2 Rg2+ 11. Kh1 Kf2 $11) Kxe3 10. d8=Q $1 (10. e8=Q+ $143 Kf2 11. Qa8 Rg3+ 12. Kh2 Rg4 $1 13. Qa3 Rg2+ 14. Kh3 Rg1 $1 15. Qe3+ Kxe3 16. d8=Q Kf2 17. Qa8 Rg3+ 18. Kh2 Rg4 19. Qa3 Rg2+ 20. Kh3 Rg1 21. Qa8 Rg3+ 22. Kh2 Rg4 $11) Kf2 11. Qa8 Rg3+ 12. Kh2 Rg4 13. Qa3 Rg2+ 14. Kh3 Rg1 15. Qe3+ Kxe3 16. e8=Q+ Kf2 17. Qc6 $1 Rg3+ 18. Kh2 Rg4 {eg :} 19. Qxc5+ 1-0
+
+[Event ".c Shakhmatnaya Kompozitsia#3341"]
+[Source "EG#15249"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/p2p1pp1/P1kP3P/2P2P2/1P6/8/7p/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. h7 h1=Q 2. h8=Q Qxh8+ 3. Kxh8 g5 $1 4. fxg6 fxg6 5. Kg7 $1 g5 6. Kf6 $1 g4 7. Ke5 $1 g3 8. Kd4 $1 g2 9. Kc4 g1=Q 10. b5# 1-0
+
+[Event "Uralski Problemist#3007"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1P4Pp/8/8/kp6/p4R2/Kp4P1/5br1 w - - 0 1"]
+[PlyCount "20"]
+
+1. Rxa3+ $1 bxa3 2. g8=Q b1=Q+ 3. Kxb1 Bd3+ $1 (Bc4+ $144 4. Kc2 Bxg8 5. b8=Q Rxg2+ 6. Kc3 Rb2 7. Qxg8 $18) 4. Ka2 Bb1+ 5. Ka1 Bg6+ $1 6. Ka2 Rxg2+ 7. Ka1 Rg1+ 8. Ka2 Bb1+ 9. Ka1 Rxg8 10. b8=Q Rxb8 $11 {stalemate} 1/2-1/2
+
+[Event "Probleemblad#174"]
+[Source "Probleemblad/3-4"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/1R6/3N4/8/7p/2pp1p1P/2P2PpP/2K5 w - - 0 1"]
+[PlyCount "47"]
+
+1. Nf7+ Kg8 (Kg7 $144 2. Ng5+ $18) 2. Nh6+ Kh8 (Kf8 $144 3. Rf7+ Ke8 4. Rg7 $18) 3. Rb8+ Kh7 $1 4. Rg8 d2+ 5. Kd1 Kxh6 6. Rg4 Kh5 7. Rg7 $1 Kh6 8. Rg8 $1 Kh5 9. Rg4 Kh6 10. Rxh4+ Kg5 11. Rg4+ Kh5 $144 12. Rg7 (12. Rg8 $144 {<or>} Kh4 13. Rg3 $18 {main line}) (12. Rg3 $143 Kh4 $11) Kh4 13. Rg3 $1 Kh5 14. Rg4 Kh6 15. h4 Kh5 16. h3 $1 Kh6 17. Rg5 Kh7 18. h5 Kh6 19. h4 $1 Kh7 20. Rg6 Kh8 21. h6 Kh7 22. h5 $1 Kh8 23. Rg7 g1=Q+ 24. Rxg1 $18 1-0
+
+[Event "2.p Olimpiya Dunyasi#041"]
+[Source "EG#15960"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/n2K4/qN1p4/p1kP4/P7/P2P4/3R4 w - - 0 1"]
+[PlyCount "19"]
+
+1. d3+ $1 Kxb5 2. Rb1+ Nb4 3. Rxb4+ Ka6 4. Kd7 $1 (4. Kc6 $143 Ka7 5. Kd7 Ka8 $1 6. Kc8 Qa7 $19) Ka7 5. Kc8 $1 Qa6+ (Ka8 $144 6. Rb8+ Ka7 7. Rb4 $11) (Ka6 $144 6. Kd7 $1 $11) 6. Kc7 Ka8 7. Rb8+ Ka7 8. Rb4 $1 Qa5+ 9. Kc8 $1 (9. Kd7 $143 Ka8 $1 10. Kc8 Qa7 $1 $19) Ka6 10. Kd7 $11 1/2-1/2
+
+[Event "5.p Victory-60 AT Shakhmatnaya Kompozit"]
+[Source "EG#15987"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k1B4/8/2K3P1/8/8/2n5/3r1b2/5B2 w - - 0 1"]
+[PlyCount "19"]
+
+1. Bc7+ Ka7 $1 (Ka8 $144 2. g7 $18) 2. g7 Nd5 $1 3. Bb8+ $1 Ka8 $1 4. Bg2 $1 (4. g8=Q $143 Ne7+ $11) Ne7+ 5. Kc7+ Rd5 6. g8=Q Bb6+ $1 7. Kxb6 Nxg8 8. Be5 $1 (8. Bf4 $143 Nf6 $1 9. Ka6 Ne4 10. Bxe4 $11 {stalemate}) Ne7 9. Bf4 $1 (9. Bg3 $143 Nc6 $1 10. Bxd5 $11 {stalemate}) Nc6 (Nf5 $144 10. Bxd5#) (Nc8+ $144 {<main>} 10. Kc7 Ne7 (Nb6 $144 11. Be3 $1 Ka7 12. Bxb6+ Ka6 13. Bxd5 $18) 11. Be3 $1 Nc6 (Nf5 $144 12. Bxd5#) 12. Kxc6 $18 (12. Bxd5 $143 $11 {stalemate})) 10. Kxc6 $1 $18 1-0
+
+[Event ".c The Problemist#0939"]
+[Source "The Problemist/7"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1K6/4k3/8/3R1ppp/n7/1p3PPP/3B4 w - - 0 1"]
+[PlyCount "25"]
+
+1. Bb3+ (1. Bxg4+ $143 Ke5 2. Rd1 b1=Q+ 3. Rxb1 Nxb1 $11) Ke5 $1 (Kf6 $144 2. Ba2 b1=Q+ 3. Bxb1 Nxb1 4. Rxf4+ $18) 2. Rd5+ $1 (2. Rd1 $143 b1=Q 3. Rxb1 Nxb1 $11) Ke4 3. Rd1 $1 b1=Q (h3 $144 4. gxh3 b1=Q 5. Rxb1 Nxb1 6. hxg4 Nd2 7. Bc2+ Ke5 8. h4 Nf3 9. h5 Kf6 10. h6 Ng5 11. Bf5 Nf7 12. h7 Kg7 13. Kc6 Ng5 14. Kd5 f3 15. Kd4 Nf7 16. Ke4 Ng5+ 17. Kf4 $18) 4. Rxb1 Nxb1 5. Bc2+ Kd4 6. Bxb1 g3 $1 7. hxg3 $1 (7. fxg3 $143 h3 $1 8. gxh3 f3 9. g4 f2 $19) f3 $1 8. Be4 $1 Kxe4 9. gxf3+ Kxf3 10. gxh4 Kg4 11. Kc6 $1 Kxh4 12. Kd5 Kg4 13. Ke4 $18 1-0
+
+[Event "2.p Moscow Champ (tt)"]
+[Source "EG#16441"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K2/3p4/3pp3/3pp1P1/P2p3P/P7/P6P/4k3 w - - 0 1"]
+[PlyCount "71"]
+
+1. g6 d3 2. g7 d2 3. g8=Q d1=Q 4. Qg1+ Kd2 5. Qxd1+ Kxd1 6. h5 e4 7. h6 e3 8. h7 e2 9. h8=Q e1=Q 10. Qa1+ Ke2 11. Qxe1+ Kxe1 12. a5 d4 13. a6 d3 14. a7 d2 15. a8=Q d1=Q 16. Qh1+ Kd2 17. Qxd1+ Kxd1 18. h4 e5 19. h5 e4 20. h6 e3 21. h7 e2 22. h8=Q e1=Q 23. Qa1+ Ke2 24. Qxe1+ Kxe1 25. a4 d5 26. a5 d4 27. a6 d3 28. a7 d2 29. a8=Q d1=Q 30. Qh1+ Kd2 31. Qxd1+ Kxd1 32. a4 d5 33. a5 d4 34. a6 d3 35. a7 d2 36. a8=Q $18 1-0
+
+[Event "2.p Problemaz#0126"]
+[Source "Problemaz/8"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/1R1B4/K7/n6b/8/2P5/1pNP4/1rr5 w - - 0 1"]
+[PlyCount "20"]
+
+1. Rc7 Be2+ (Nc6 $144 2. Kb6 Ne7 3. Ra7+ Kb8 4. Rb7+ Ka8 5. Ra7+ $11) 2. d3 $1 (2. c4 $143 Bxc4+ 3. Kb6 Ba6 $1 4. Kxa6 Rxc2 5. Rxc2 Nc4 $1 6. Rxc4 Ra1+ 7. Ba4 Rxa4+ 8. Rxa4 b1=Q $19) Bxd3+ 3. c4 $1 Bxc4+ 4. Kb6 Ba6 5. Kxa6 Rxc2 6. Rxc2 Nc4 (Nc6 $144 7. Bxc6+ Kb8 8. Kb6 $11) 7. Bc6+ $1 Kb8 8. Rxc4 Ra1+ 9. Ba4 b1=Q (Rxa4+ $144 {<main>} 10. Rxa4 b1=Q 11. Rb4+ $1 Qxb4 $11 {stalemate}) 10. Rb4+ $1 Qxb4 $11 {staleamte} 1/2-1/2
+
+[Event "4.p Bilek-75 JT (tt)"]
+[Source "EG#16812"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[Composer "Bazlov, Yuri Vasilyevich"]
+[Composer2 "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K3N1q1/4nk2/b2P4/1PR5/1n6/8/4B3/8 w - - 0 1"]
+[PlyCount "20"]
+
+1. Bc4+ (1. d7 $143 Qg2+ $19) Ned5 (Nbd5 $143 2. d7 $18) 2. d7 (2. Bxd5+ $143 Nxd5 3. d7 Nb6+ 4. Ka7 Nxd7 $19) Ke7 (Qg5 $144 3. Rc8 $11) 3. Rc8 $1 Kxd7 (Nb6+ $144 4. Ka7 Nxc8+ 5. dxc8=N+ $1 $11) 4. Nf6+ Kxc8 5. Nxg8 Nc6 6. Ne7+ $1 (6. Bxd5 $143 Bb7#) (6. bxa6 $143 Nb6#) (6. bxc6 $143 Bxc4 7. Ka7 Kc7 8. Nh6 Ne7 9. Ka8 Be6 10. Ka7 Nxc6+ 11. Ka8 Bc8 12. Nf5 Bb7#) Ncxe7 (Ndxe7 $144 7. Be6+ (7. bxa6 $143 Kc7 8. Be6 Nd4 9. Bf7 Nc8 10. Be8 Nb6+ 11. Ka7 Nf5 12. Bc6 Nd6 13. Bd7 Nxd7 14. Ka8 Nb5 15. a7 Nb6#) Kc7 8. bxc6 Nxc6 9. Bc8 Kxc8 $11 {stalemate} (Bxc8 $144 $11 {stalemate})) 7. Bxd5 Nxd5 8. b6 (8. bxa6 $143 Kc7 9. Ka7 Ne7 10. Ka8 Nc8 11. a7 Nb6#) Bb7+ (Nxb6+ $144 9. Ka7 $11) (Nb4 $144 9. Ka7 Bb7 $11 {stalemate}) 9. Ka7 Bc6 10. b7+ Bxb7 $11 {stalemate} 1/2-1/2
+
+[Event "64 Shakhmatnoye Obozrenye"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#18"]
+[SetUp "1"]
+[FEN "QK6/p2P4/pk1P4/1p6/P6b/2P5/1p2q3/N3r3 w - - 0 1"]
+[PlyCount "35"]
+[EventRounds "2"]
+
+1. d8=Q+ (1. Qb7+ $143 Kc5 $1 (Ka5 $143 2. Nb3+ Kxa4 3. Nc5+ Ka3 (Ka5 $144 4. Qxa6#) 4. Qxa6#) 2. Qc7+ Kd5 $19) Bxd8 2. Nb3 Bc7+ 3. dxc7 Qe8+ 4. c8=N+ (4. c8=Q $143 Qe5+ $1 5. Qc7+ Qxc7#) Qxc8+ 5. Kxc8 Re8+ 6. Kd7 Rxa8 7. a5+ Kb7 8. Nc5+ Kb8 9. Nxa6+ Kb7 10. Nc5+ Kb8 11. a6 b1=Q 12. Kd8 $1 Qd1+ 13. Nd7+ Qxd7+ 14. Kxd7 b4 15. c4 b3 16. c5 b2 17. c6 b1=Q 18. c7# 1-0
+
+[Event "1st Spec. Prize, 2World Cup"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5B2/8/3P2p1/p7/7p/P7/PpK5/b4k2 w - - 0 1"]
+[PlyCount "33"]
+
+1. Kb1 $1 (1. Be7 $143 h3 2. d7 h2 3. d8=Q h1=Q 4. Qd1+ Kg2 5. Qxh1+ Kxh1 6. a4 $11) (1. d7 $143 b1=Q+ 2. Kxb1 Bf6 $19) h3 2. d7 h2 3. d8=Q h1=Q 4. Qd1+ Kg2 5. Qxh1+ Kxh1 6. a4 $1 Kg2 7. Bb4 $1 Kf3 8. Bxa5 Ke4 9. Bd8 Kd5 10. a5 Kc6 11. a6 g5 12. a3 $1 ({Thematic try} 12. a4 $143 g4 13. a5 g3 14. Bb6 g2 {zz} 15. Bg1 Kc7 $11) g4 13. a4 g3 14. a5 g2 15. Bb6 {zz} g1=Q+ 16. Bxg1 Kc7 17. Bh2+ $18 1-0
+
+[Event "4.p Shakhmatny Listok#187"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/1K6/8/k4p2/4pp2/8/4PP2/8 w - - 0 1"]
+
+1. Kc6 $1 (1. f3 $2 e3 $19) (1. e3 $2 fxe3 2. fxe3 f4 $19) (1. Kc7 $2 e3 2. fxe3 fxe3) (1. Ka7 e3 2. fxe3 fxe3) (1. Kc8 e3 2. fxe3 fxe3) Kb4 (e3 2. fxe3 fxe3 3. Kd5 Kb4 4. Kd4 f4 5. Ke4 Kc3 6. Kxf4 Kd4 7. Kf3) 2. Kd5 (2. Kd6 $2 e3 3. fxe3 fxe3) (2. e3 fxe3 3. fxe3 Kc4) Kc3 3. Ke5 (3. f3 $2 e3 $19) (3. e3 $2 fxe3 4. fxe3 Kd3) (3. Kc5 e3) (3. Ke6 e3 4. Kxf5 exf2 5. Kxf4 f1=Q+) e3 $1 4. Kxf4 $1 (4. fxe3 $2 fxe3 $19 5. Kxf5 (5. Kf4 Kd2 6. Kf3 f4) Kd2) (4. f3 $2 Kd2 $19 5. Kxf4 Kxe2) (4. Kxf5 $2 exf2 $19 5. Kxf4 f1=Q+) (4. Ke6 exf2) (4. Kf6 exf2) exf2 5. Ke3 $1 (5. Kxf5 $2 f1=Q+ 6. Ke5 Qxe2+ 7. Kf5 Qe7 $19) (5. Kf3 $2 f1=Q+ 6. Kg3 Kd2 $19 7. e4 fxe4) (5. e4 $2 f1=Q+ 6. Ke5 fxe4 7. Kxe4 Qf6) (5. Kg3 $2 f1=Q $19 6. e4 fxe4) (5. e3 $2 f1=Q+ 6. Ke5 Qe1) (5. Ke5 f4 6. Kxf4 f1=Q+) f1=Q (f1=B (f1=Q) (f1=R) (f1=N+ 6. Kf4) 6. Kf4 Bh3 7. e4) 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitaly Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "2R3r1/3p4/7b/k7/2K5/8/1P3R1r/8 w - - 0 1"]
+
+1. Rf5+ (1. Rc5+ $6 Kb6 2. Rxh2 Rg4+ $10) (1. b4+ $2 Ka4 2. Rxg8 d5+ $15 3. Kxd5 Rxf2 4. Rb8) (1. Rxg8 $6 d5+ 2. Kxd5 Rxf2 3. b3 $10) d5+ 2. Rxd5+ (2. Kxd5 $4 Rxc8 3. Ke4+ Ka4) (2. Kc5 $4 Rxc8+ 3. Kd6 Rxb2 4. Kxd5 Rb5+) Ka4 $2 (Ka6 3. Rxg8 Rxb2 4. Rd6+ Rb6 5. Rxb6+ Kxb6 6. Rg6+ $18) (Kb6 $5 3. Rd6+ $18) 3. Rxg8 (3. b3+ $2 Ka3 4. Rxg8 Rh4+ 5. Rg4 $10) (3. Rc7 Rc2+ 4. Kd4 Rxc7 5. b3+ Kxb3 6. Rb5+ Kc2) (3. Rd1 Rxc8+ 4. Kd5 Rd8+) Rc2+ 4. Kd3 (4. Kd4 $2 Rxb2 5. Rf8) Rd2+ 5. Kc3 (5. Ke4 $2 Rxb2 6. Ra8+ $10) (5. Kc4 Rc2+ $18 6. Kd3) Rxd5 6. Kc4 (6. Ra8+ $2 Ra5 7. b3+ Kb5 8. Rb8+ Kc6 9. b4) (6. b3+ $2 Ka5 7. b4+ $10) (6. Rg4+ $2 Bf4 7. b3+ Ka5 8. Rxf4 Rc5+ 9. Kb2) (6. Rg6 Bg7+ 7. Rxg7 Rc5+ 8. Kd2) (6. Rf8 Bxf8 7. b3+ Kb5) Ra5 7. Rg3 (7. Rg1 $2 Rc5+ 8. Kd4 $10 Bg7+ 9. Rxg7) (7. b4 $2 Bd2 8. b5 $10 Rxb5 9. Rf8) (7. b3+ $2 Ka3 8. b4 $10) (7. Rb8 $2 Ra7 8. b3+) (7. Rg4 $2 Bg7 8. Kd3+ $10) (7. Rg2 $2 Bf8 8. b3+) (7. Ra8 Rxa8 8. b3+ Ka3) Bf8 8. Ra3+ (8. b3+ $4 Ka3 9. b4+ $10) (8. Rg1 $4 Rc5+ 9. Kd4 $10) (8. Rg4 $4 Bg7 9. b3+ $10) (8. Rf3 $4 Ra8 9. b3+) (8. Rb3 $4 Rc5+ 9. Kd4 Kxb3) (8. Rg2 $4 Ra8 9. b3+) (8. b4 $4 Be7 9. b5 Rxb5 10. Rg8) (8. Rc3 $4 Rb5 9. b3+) Bxa3 9. b3# 1-0
+
+[Event "7.p Russian Federation Team champ (tt) "]
+[Source "Russian Federation Team champ 1964-1965"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4r3/p3P3/k1PR4/8/1P2b3/1P5p/3P2p1/6K1 w - - 0 1"]
+
+1. c7+ $1 Kb5 2. Rd8 Rxe7 3. Rb8+ Bb7 4. Rxb7+ Ka6 5. Rxa7+ $1 (5. Rb6+ $2 Kxb6 6. c8=N+ Kb5 7. Nxe7 Kxb4 8. d4 a5 9. Nc6+ Kb5) Kb5 6. Rb7+ Ka6 7. Rb6+ Kxb6 8. c8=N+ Kb5 9. Nxe7 Kxb4 10. d4 $1 1-0
+
+[Event "Shakhmaty v SSSR#10"]
+[Source "Shakhmaty v SSSR/3"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4b3/8/8/8/p2kB3/Pp6/RK6 w - - 0 1"]
+
+1. Bg5 $1 (1. Bf4 $2 Ke4) (1. Bd2 $2 Bf6 2. Bc3 Bd4 $1) Bc5 (Bb4 2. Bf6 Bc3 3. Bxc3 Kxc3) 2. Bd2 bxa1=Q+ (Bd4 3. Bc3 Kc4 4. Kc2 bxa1=Q 5. Bxa1 Bxa1 6. Kb1) (Be3 3. Bb4 $1 bxa1=Q+ 4. Kxa1 Kc2 5. Bc5 Bh6 6. Bf8 Bxf8) 3. Kxa1 Kc2 4. Be3 Bf8 5. Bh6 Be7 6. Bg5 Bxg5 1/2-1/2
+
+[Event "Tikhokeanski Zvezda"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/1p6/Ppp5/kB6/3K4/8 w - - 0 1"]
+
+1. Kc2 $1 (1. axb5 $2 cxb3 2. b6 b2 3. b7 b1=Q 4. b8=Q Qb2+ 5. Kd3 Qc3+) cxb3+ 2. Kb1 $1 bxa4 (Kxa4 3. Kb2 Ka5 4. Kxb3 Ka6 5. Kxb4) 3. Ka1 $1 b2+ 4. Kb1 Kb3 (b3) 1/2-1/2
+
+[Event "Bulletin Central Chess Club USSR#15"]
+[Source "Bulletin Central Chess Club USSR/5"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2Pk4/1K6/4P3/b7/8/8 w - - 0 1"]
+
+1. Kb6 $1 Bb4 $1 2. e5+ $1 (2. c7 $2 Ba5+ $1) Ke7 3. c7 Ba5+ 4. Kxa5 Kd7 5. Kb6 Kc8 $1 6. Kc5 $1 (6. Kc6 $2) (6. e6 $2) Kxc7 7. e6 Kd8 8. Kd6 1-0
+
+[Event "Sovyetskaya Moldavia"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5B2/6P1/8/4kP2/7K/8/7p/8 w - - 0 1"]
+
+1. Bd6+ $1 Kxd6 2. Kg5 $1 (2. g8=Q $2 h1=R+ $1 3. Kg5 Rg1+ 4. Kf6 Rxg8) h1=Q 3. g8=Q Qg2+ 4. Kf6 Qxg8 1/2-1/2
+
+[Event "Problem#182 (c)"]
+[Source "Problem/5 (c): Kovalenko=V Dvizov=E Problem=120-123 10/1968."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "Kovalenko, V"]
+[Black " Dvizov, E."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/8/1P6/8/8/1P2K3/2P5/2n5 w - - 0 1"]
+
+1. Kd2 $1 Na2 2. c3 Kc8 3. Kc2 Kb7 4. Kb2 Nb4 5. cxb4 Kxb6 6. Kc2 $1 (6. Ka2 $2 Ka6) (6. Kc3 $2 Kb5) Kc6 7. Kd3 $1 Kb5 8. Kc3 Kc6 9. Kc4 Kb6 10. b5 Ka5 11. b6 $1 (11. Kc5 $2) Kxb6 12. Kb4 1-0
+
+[Event "Shakhmaty (Riga)#061"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1P2p2k/3pp1p1/4P3/2K5/8 w - - 0 1"]
+
+1. b6 $1 g3 2. b7 d3+ $1 3. Kc3 $1 (3. Kd2 $2 g2 4. b8=R Kg4 $1 5. Rg8+ Kf3 6. Ke1 d2+) d2 $1 4. Kxd2 g2 5. b8=R $1 (5. b8=Q $2 g1=Q 6. Qh8+ Kg4 7. Qg7+ Kf3 8. Qxg1) Kg4 6. Rg8+ Kf3 7. Ke1 1-0
+
+[Event "Boevaya Vakhta"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4k1rP/6PK/7P/8/7p/8 w - - 0 1"]
+
+1. h7 $1 Rh6+ $1 2. Kxh6 (2. gxh6 $2 h1=Q 3. h8=Q Qf3+ 4. Kg5 Qf5#) h1=Q 3. h8=Q Qxh4+ 4. Kg6 $1 (4. Kg7 $2 Qxg5+ 5. Kh7 Kf7 $1) Qxh8 1/2-1/2
+
+[Event "1.p Komsomolskaja Pravda (v)"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6p1/6P1/1p6/8/krpK2RR/8 w - - 0 1"]
+
+1. Kc1 $1 b3 $1 2. Rxc2 Ka1 $1 3. Rce2 Rc2+ (Rxe2 4. Rxe2 b2+ 5. Kd2 $1 b1=Q 6. Re1) (Rb1+ 4. Kd2 b2 5. Ke3 $1 Rg1 6. Rh8) 4. Rxc2 b2+ 5. Kd2 b1=Q 6. Rh1 $1 (6. Rc1 $2 Qxc1+ 7. Kxc1) Qxh1 7. Rc1+ Qxc1+ 8. Kxc1 1-0
+
+[Event "Put k Kommunizmu (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - XV-10 2015."]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k1K/5bNP/5P2/8/5r2/8/2p5/B7 w - - 0 1"]
+
+1. Be5 $1 Rxf6 $1 2. Bxf6 c1=Q 3. Bb2 $1 Qe3 $1 (Qxb2) 4. Bd4 $1 Qg5 $1 (Qxd4) 5. Bc5+ $1 Qxc5 6. Ne6+ Bxe6 1/2-1/2
+
+[Event "Chess Life & Review#0234"]
+[Source "Chess Life & Review/4 also Shakhmatnaya Moskva#21 Shakhmatnaya Moskva=7(321) 7-4-1971."]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/4p3/4K3/8/5Np1/6k1 w - - 0 1"]
+
+1. Nh3+ $1 (1. Kf3 $2 e4+ $1) (1. Ng4 $2 Kh1) Kh2 (Kh1 { <main>} 2. Kf5 $1 (2. Kf3 $2 Kh2 3. Kg4 e4) Kh2 3. Ng5 $1 Kg3 4. Ne4+ Kh4 $1 5. Nd2 $1 (5. Ng5 $2 e4 $1) Kg3 6. Ne4+ Kh3 7. Ng5+) 2. Ng5 $1 Kg3 3. Nf3 Kf2 4. Ng5 $1 Kg3 5. Nf3 Kf2 6. Ng5 $1 1/2-1/2
+
+[Event "Schach Echo#083"]
+[Source "Schach Echo/9"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4K3/1p6/1P2k3/P7/8/4p3/8/8 w - - 0 1"]
+
+1. a6 $1 e2 2. a7 $1 (2. axb7 $2 e1=Q 3. b8=Q Qc3 $1 4. Kd8 (4. Kf8 Qh8#) Qd4+ 5. Kc7 Qd7#) e1=Q 3. a8=Q Qe5 $1 (Kd6+ 4. Kf8 Qf2+ 5. Kg8 Qxb6 6. Qf8+) 4. Kd8 $1 (4. Qa2+ $2 Kd6+ $1 5. Kf8 Qe7+ 6. Kg8 Qe6+ 7. Qxe6+ Kxe6 8. Kg7 Kd6 9. Kf6 Kc6 10. Ke5 Kxb6 11. Kd4 Kb5) Qh8+ 5. Kc7 Qxa8 1/2-1/2
+
+[Event "5.p Merani Zarja Vostoka"]
+[Source "EG#01286."]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1R6/5Nkq/6p1/6Kb/8/8/8/8 w - - 0 1"]
+
+1. Rd8 $1 Kxf7 (Be2 2. Rh8 $1 Qxh8 3. Nxh8 Kxh8 4. Kxg6) 2. Rd7+ $1 Kg8 3. Rd8+ Kg7 4. Rd7+ Kh8 5. Rd8+ Qg8 6. Kh6 $1 Qxd8 1/2-1/2
+
+[Event "Shakhmatnaya Moskva#01"]
+[Date "1970.01.14"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/3K4/N5n1/5p2/k3N3 w - - 0 1"]
+
+1. Nec2+ $1 Kb2 $1 (Ka2 2. Nc4 $1 f1=Q 3. Nb4+ Ka1 4. Nc2+) 2. Ne3 Nf5+ $1 3. Kd3 Nxe3 4. Nc4+ $1 Nxc4 5. Ke2 1/2-1/2
+
+[Event "Shakhmaty (Riga)#022"]
+[Source "Shakhmaty (Riga)/10 EG#01897."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/6Pk/8/r6P/6KR w - - 0 1"]
+
+1. g5 $1 (1. Kf1 $2 Kh3 $1 2. Rg1 Kxh2 $1) Kh3 2. g6 Ra1+ 3. Kf2 Rxh1 4. g7 $1 Rxh2+ 5. Kg1 $1 Rg2+ 6. Kh1 Rh2+ 7. Kg1 Rg2+ 8. Kh1 Rxg7 1/2-1/2
+
+[Event "Szachy#819"]
+[Source "Szachy/6"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/1p1p2p1/6PP/8/4P3/p1p5/4P3/1K6 w - - 0 1"]
+
+1. h7+ $1 Kh8 2. e5 b6 $1 3. e3 $1 b5 4. e4 b4 5. e6 $1 dxe6 6. e5 $1 b3 7. Ka1 c2 (a2 {<main>}) (b2+ {<main>} 8. Kb1 a2+ 9. Kxa2) 1/2-1/2
+
+[Event ".c Krasnaja Gazeta"]
+[Source "EG#02137."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/k7/8/1P2B3/2P5/4r3/8/8 w - - 0 1"]
+
+1. b6+ $1 (1. Bd4+ $2 Ka8 2. Bxe3) Ka6 $1 (Kxb6 2. Bd4+) 2. b7 Rxe5 3. b8=N+ (3. b8=Q $2 Re8+) Kb6 (Ka5 {<main>} 4. Nc6+ Kb6 5. Nxe5) 4. Nd7+ Kc6 5. Nxe5+ 1-0
+
+[Event "2.hm Shakhmaty (Riga)#023"]
+[Source "Shakhmaty (Riga)/10 EG#02142."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5K2/7P/5nkp/8/8/p5r1/5R2 w - - 0 1"]
+
+1. h7 $1 Nh6+ 2. Kg7 $1 (2. Kf8 $2 Rf2+ $1 3. Rxf2 a1=Q) (2. Ke7 $2 Re2+ 3. Kd7 Nf7 4. Rxf7 a1=Q) Nf5+ (Rb2 3. h8=Q Rb7+ 4. Kf8 Rb8+ 5. Kg7 Rxh8 6. Kxh8 h4 7. Ra1 h3 8. Rxa2) 3. Kf7 $1 (3. Kf8 $2 Rb2 $1 4. h8=Q Rb8+) (3. Kg8 $2 Ne7+ 4. Kg7 Ng6 $1) Nd6+ 4. Ke6 (4. Kg7 $2 Kh4+ 5. Kh6 Nf7+ 6. Rxf7 a1=Q) Nf7 $1 (Re2+ 5. Kxd6 Re8 6. Ra1 Rh8 7. Rxa2 Rxh7 8. Ra5+ Kf6 9. Kd5 $1 Kf5 10. Kd6+ $1 Kf6 11. Kd5 h4 12. Ke4 h3 13. Ra1 Kg5 14. Kf3 Kh4 15. Ra4+ Kg5 16. Ra1 h2 17. Rh1) 5. Kxf7 Rf2+ $1 6. Rxf2 a1=Q 7. Rg2+ Kf5 $1 8. Rf2+ Ke4 (Kg4 9. Kg8 Qa8+ 10. Rf8 Qd5+ 11. Rf7) 9. Re2+ $1 Kf5 (Kf3 10. Re8 Qa7+ 11. Kg6) 10. Rf2+ $1 Kg5 11. Rg2+ $1 (11. Kg8 $2 Qa8+ 12. Rf8 Qd5+ 13. Rf7 Kg6 $1 14. h8=N+ Kh6 15. Kf8 Qd8#) Kh6 (Kh4 12. Rg8 Qa7+ 13. Kg6 Qb6+ 14. Kg7) 12. h8=Q+ $1 Qxh8 13. Rg6+ Kh7 14. Rg5 $1 Kh6 15. Rg6+ 1/2-1/2
+
+[Event "4.c Schakend Nederland#1325"]
+[Source "Schakend Nederland/10 EG#02054."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k4q2/8/P1R5/P7/P1K5/N7/1p6/8 w - - 0 1"]
+
+1. Kb3 $1 Qxa3+ 2. Kxa3 b1=Q 3. Rc8+ Ka7 4. Rc7+ Kxa6 5. Rc6+ Kxa5 6. Rc5+ Ka6 7. Ra5+ Kxa5 (Kb6 {<main>} 8. Rb5+ Qxb5 9. axb5) 1/2-1/2
+
+[Event "2.hm Nakokinski Rabochi"]
+[Source "EG#02000."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4K1kp/Q5qp/4Pbp1/4p1Pn/6P1/8/8 w - - 0 1"]
+
+1. Qf6+ $1 Qxf6+ 2. exf6+ Kh8 3. gxh4 Bg6 4. h5 Bf7 5. Kxf7 e3 6. Kf8 e2 7. f7 e1=B (e1=Q) 8. Ke8 Bb4 9. f8=Q+ Bxf8 10. Kxf8 1/2-1/2
+
+[Event "2.hm Schakend Nederland#1326a (tw)"]
+[Source "Schakend Nederland/10 EG#02048a."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/8/kP4Q1/1p2q1p1/1P6/8/7P/8 w - - 0 1"]
+
+1. b7+ $1 Ka7 2. Qa6+ (2. Qb6+ $2 Kxb6 3. b8=Q+ Qxb8+ 4. Kxb8 g4 5. Kc8 Kc6) Kxa6 3. b8=N+ Qxb8+ 4. Kxb8 Kb6 (g4 5. Kc7) 5. h3 Kc6 6. Ka7 Kd5 7. Kb6 Kc4 8. Ka5 1-0
+
+[Event "2.hm Schakend Nederland#1326b (tw)"]
+[Source "Schakend Nederland/10 EG#02048b."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/8/kP4Q1/1p2q1p1/1P6/7P/8/8 w - - 0 1"]
+
+1. b7+ $1 Ka7 2. Qb6+ $1 (2. Qa6+ $2 Kxa6 3. b8=N+ Qxb8+ 4. Kxb8 Kb6 5. Kc8 Kc6 6. Kd8 Kd6) Kxb6 3. b8=Q+ Qxb8+ 4. Kxb8 Kc6 5. Ka7 Kc7 6. Ka6 Kc6 7. Ka5 1-0
+
+[Event "Shakhmaty v SSSR#04"]
+[Source "Shakhmaty v SSSR/1"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k1K/2p1bb1P/2P5/5N2/8/8/2p5/B7 w - - 0 1"]
+
+1. Bg7+ $1 Ke8 2. Bb2 Bf6+ $1 3. Bxf6 (3. Ng7+ $2 Ke7 $1 4. Bxf6+ (4. Ba3+ Kd8 5. Bb2 Kc8 6. Bc1 Kb8 7. Be3 Ka8) Kxf6 5. Nh5+ Kg6 6. Nf4+ Kh6 7. Nd3 Bd5 8. Nc1 Bxc6 9. Kg8 Bd5+ 10. Kh8 Be4) c1=Q 4. Ng7+ Kf8 5. Bb2 $1 Qe3 $1 6. Bd4 $1 Qg5 $1 (Qxd4) 7. Bc5+ $1 Qxc5 8. Ne6+ $1 Bxe6 1/2-1/2
+
+[Event "3.p Problem#317"]
+[Source "Problem/5 1976 EG#09866."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "Kovalenko, V"]
+[Black " Kubryak, A."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K6/4p3/1P6/1p2n3/k7/3P4/1P6/8 w - - 0 1"]
+
+1. b7 $1 (1. Kc7 $2 Nxd3 2. b7 Nc5 $1) Nc6+ (Nd7+ 2. Kc8 $1 Nb6+ 3. Kd8) 2. Kc7 Nb4 $1 3. Kb6 $1 (3. b3+ $2 Ka5) Nd5+ 4. Ka7 Nb4 $1 5. b3+ Ka5 (Kxb3 6. Kb6 Nd5+ 7. Ka5 Nb4 8. Kxb5) 6. b8=N $1 e5 7. Kb7 $1 Nxd3 8. Nc6# 1-0
+
+[Event "3.p Problem#317 (m)"]
+[Source "Problem/5 1976 (m): Beasley=J British Endgame Study News/6 2001."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "Kovalenko, V"]
+[Black " Kubryak, A."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/KP2p3/8/1p2n3/k7/3P4/1P6/8 w - - 0 1"]
+
+1. Kb8 $1 Nc6+ 2. Kc7 Nb4 3. Kb6 Nd5+ 4. Ka7 Nb4 5. b3+ Ka5 6. b8=N e5 7. Kb7 Nxd3 8. Nc6# 1-0
+
+[Event "Revista de Romana de Sah#0697"]
+[Source "Revista de Romana de Sah/8"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6Pb/2rk2PK/8/8/3P4/8 w - - 0 1"]
+
+1. d4 $1 (1. gxh6 $2 Ke6+ 2. Kg4 Kf6 3. g7 Rc8 4. Kf4 Kg6 5. d4 Kxh6 6. d5 Kxg7 7. Ke5 Kf7) (1. Kxh6 $2 Ke6 2. d4 Rf5 $1 3. d5+ Ke7 4. Kh7 Rxg5 5. d6+ Kf8) Ra5 2. Kxh6 Ke6 3. d5+ Rxd5 4. g7 Kf7 5. g6+ Kg8 1/2-1/2
+
+[Event "3.hm Schakend Nederland#1463"]
+[Source "Schakend Nederland/9 EG#03103."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "rkb5/1p1p4/p1P3p1/PP2K3/5P2/5P2/8/6B1 w - - 0 1"]
+
+1. Ba7+ $1 (1. f5 $2 gxf5 2. Ba7+ Rxa7 3. c7+ Kxc7 4. b6+ Kb8 5. Kd6 (5. f4 d5 $1 6. Kxd5 Bd7) f4 $1 6. Kd5 d6 7. Kxd6 Bg4) Rxa7 2. c7+ Kxc7 3. b6+ Kb8 4. Kd6 $1 Ra8 5. f5 $1 (5. Kd5 $2 d6 $1 6. Kxd6 Bf5) gxf5 6. f4 Ra7 7. Kd5 $1 (7. Kc5 $2 d5 8. Kxd5 Bd7 9. Kd6 Bc6) Ra8 8. Kd6 Ra7 9. Kd5 d6 10. Kxd6 Ra8 11. Ke7 $1 (11. Kd5 $2 Bd7) Ra7 12. Kd6 Ra8 13. Ke7 Be6 14. Kxe6 Kc8 15. Ke7 Rb8 16. Ke8 Ra8 17. Ke7 1/2-1/2
+
+[Event "2.hm Buletin Problemistic#082"]
+[Source "Buletin Problemistic/10-12 EG#03070."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/pp1p4/2p5/1p6/k2K3Q w - - 0 1"]
+
+1. Kc2+ $1 Ka2 2. Qb1+ Ka3 3. Qxb2+ $1 cxb2 4. Kb1 $1 d3 (Kb3 {<main>}) (b3 {<main>}) 1/2-1/2
+
+[Event "Schakend Nederland#1444"]
+[Source "Schakend Nederland/4"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p7/5p2/5b2/5P2/4P2P/5k1B/7K w - - 0 1"]
+
+1. Bg1+ $1 Kg3 2. Bh2+ Kxh3 (Kf3 3. e4 Bxe4 4. Kg1 f5 (a5 5. f5 Bxf5 6. Bc7 a4 7. Bd8) 5. h4 Kg4 6. Kf2 a5 7. Ke3 a4 8. Kd4) 3. Kg1 (3. e4 $2 Bxe4+ 4. Kg1 f5 $1) a5 4. e4 $1 a4 $1 (Bxe4 5. f5 a4 6. Bc7 $1 (6. Bd6 $2 Kg4 7. Kf2 Kxf5 8. Ke3 Ke6 $1 9. Bf8 Kd5 10. Kd2 Kc4 11. Kc1 Kb3) Kg4 7. Kf2 Kxf5 8. Ke3 a3 9. Ba5 a2 10. Bc3) 5. exf5 a3 6. Kh1 $1 a2 7. Bg1 a1=Q 1/2-1/2
+
+[Event "3.hm Schach Echo#346 (c)"]
+[Source "Schach Echo/9 1976 (c): Bazlov=Y Garcia=M Estudios Artisticos de Ajedrez - XV-5 2015."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4R2K/p3N3/P2p1k2/3P4/p4r2/P7/1p6/8 w - - 0 1"]
+
+1. Rf8+ $1 Kg5 2. Rg8+ Kf6 3. Rf8+ (3. Rg1 $2 Rh4+ 4. Kg8 Rg4+ 5. Rxg4 b1=Q) Kxe7 (Ke5 4. Ng6+ Kxd5 5. Nxf4+) 4. Rxf4 b1=Q (b1=R { <main>} 5. Rc4 $1 Kd7 6. Rf4 $1 Ke7 (Kc7 7. Rf7+ Kb8 8. Rf8+) 7. Rc4 Kf6 8. Rc7 Kg6 9. Rg7+) 5. Rf7+ Ke8 (Kxf7) 6. Rf8+ Kd7 (Kxf8) 7. Rf7+ Kc8 8. Rf8+ 1/2-1/2
+
+[Event "Nardone MT Sinfonie Scacchistiche#2048"]
+[Source "Sinfonie Scacchistiche/10-12"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/8/1PP1K3/1p6/8/7p/3p4/8 w - - 0 1"]
+
+1. Kd7 $1 d1=Q+ 2. Kc7 Qd4 (Qd6+ 3. Kxd6 Kb8 4. Kd7 h2 5. c7+) (h2 3. b7+ Ka7 4. b8=Q+ Ka6 5. Qb6#) 3. b7+ Ka7 4. b8=Q+ Ka6 5. Qa8+ Qa7+ 6. Qb7+ Qxb7+ 7. cxb7 h2 8. b8=Q h1=Q 9. Qb6# 1-0
+
+[Event "15.p USSR team champ IX (tt)"]
+[Source "EG#03434. USSR team champ IX 1975-1976."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k1K5/8/8/8/1P6/N5p1/1N6/8 w - - 0 1"]
+
+1. b5 $1 (1. Nbc4 $2 g2 2. b5 g1=Q) Ka7 (g2 2. b6 g1=Q 3. b7+ Ka7 4. b8=Q+ Ka6 5. Qb5+ Ka7 6. Qa5#) 2. Nbc4 g2 3. b6+ Ka6 4. b7 g1=Q 5. b8=N+ Ka7 6. Nb5+ Ka8 7. Nc7+ Ka7 8. Nc6# 1-0
+
+[Event ".c Molodoj Leninets (Kurgan)"]
+[Source "EG#02890."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/8/1pp5/8/1PP5/8/2P3k1/8 w - - 0 1"]
+
+1. b5 $1 cxb5 2. cxb5 Kf3 3. c4 Ke3 4. c5 bxc5 5. b6 c4 6. b7 c3 7. b8=Q c2 8. Qh2 c1=Q 9. Qh6+ 1-0
+
+[Event "Problemas {SEPA}"]
+[Source "Problemas (SEPA /7-9"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/8/7k/8/8/1p6/1P1P4/8 w - - 0 1"]
+
+1. Kg8 $1 (1. d4 $2 Kg6 2. d5 Kf6 3. d6 Ke6 4. Kg7 Kxd6 5. Kf6 Kd5 6. Ke7 Kd4 7. Kd6 Kd3 8. Kc5 Kc2) (1. d3 $2 Kg5 2. Kg7 Kf4 3. Kf6 Ke3 4. Ke5 Kxd3 5. Kd5 Kc2) Kg6 (Kg5 2. Kf7 Kf5 3. Ke7) 2. Kf8 Kf5 3. Ke7 Ke4 4. Kd6 Kd4 $1 5. Kc6 $1 (5. Ke6 $2 Kd3 6. Kd5 Kc2) Kd3 6. Kc5 $1 (6. Kb5 $2 Kc2 7. d4 Kxb2 8. d5 Kc3 9. d6 b2 10. d7 b1=Q+) Kc2 (Kxd2 7. Kb4 Kc2 8. Ka3) 7. d4 Kxb2 8. d5 Kc3 9. d6 b2 10. d7 b1=Q 11. d8=Q Qb4+ 12. Kc6 $1 (12. Kd5 $2 Qd4+ 13. Kc6 Qxd8) 1/2-1/2
+
+[Event "Schach#08069"]
+[Source "Schach/9"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6k1/8/5P1P/1p4P1/pp6/3K4/8 w - - 0 1"]
+
+1. Kc1 $1 b2+ (Kf6 2. h6) (Kh6 2. f6) 2. Kc2 $1 (2. Kb1 $2 b3 3. g5 Kg8 $1 4. f6 (4. h6 Kh7 5. f6 Kg6) (4. g6 Kg7) Kf7 5. h6 Kg6 6. f7 Kxf7 7. h7 (7. g6+ Kxg6 8. h7 a2+ 9. Kxb2 Kxh7) Kg7 8. g6 Kh8 9. g7+ Kxg7 10. h8=Q+ Kxh8) b3+ (Kf7 3. h6 $1) 3. Kb1 Kf6 (Kg8 4. g5) (Kh6 4. f6 Kh7 5. g5) 4. h6 Kf7 5. g5 Kf8 $1 (Kg8 6. f6) 6. g6 $1 (6. h7 $2 Kg7 7. g6 Kh8 8. f6 a2+ 9. Kxb2 a1=Q+ 10. Kxa1 b2+) (6. f6 $2 Kg8 7. g6 Kh8) Kg8 7. g7 $1 (7. h7+ $2 Kh8) Kh7 8. g8=Q+ $1 (8. f6 $2 Kg8) Kxg8 9. f6 Kf7 (Kh7 10. f7) 10. h7 1-0
+
+[Event "Schakend Nederland#1519"]
+[Source "Schakend Nederland/9"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/6k1/5b2/3N4/7p/4K3 w - - 0 1"]
+
+1. Nf2 $1 Kh4 (Bg3 2. Kf1 Bxf2 3. Kg2) 2. Kf1 $1 (2. Nh1 $2 Kh3 3. Kf2 Bc7 $1 4. Kf3 Bb6 5. Ng3 Bd8 $1 6. Nh1 Bh4) Kg3 3. Ne4+ $1 (3. Nh1+ $2 Kf3 4. Nf2 Be3 5. Nh1 Bb6 6. Nf2 Kg3 7. Nh1+ Kh3 8. Ke2 Kg2) Kh3 4. Nf2+ Kg3 5. Ne4+ Kf3 6. Nd2+ $1 Bxd2 1/2-1/2
+
+[Event "Schakend Nederland#1543"]
+[Source "Schakend Nederland/2 1977"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6kp/1p2K2p/1P2pP1P/1P3P1P/8/6p1/8 w - - 0 1"]
+
+1. Ke7 $1 g1=Q 2. f6+ Kh8 $1 3. f7 Qg7 4. f5 $1 e4 5. f6 Qxf7+ 6. Kxf7 e3 7. Kf8 e2 8. f7 e1=Q (e1=B 9. Ke8 Bxb4 10. f8=Q+ Bxf8 11. Kxf8) 1/2-1/2
+
+[Event "2.hm Shakhmaty (Riga)#71"]
+[Source "Shakhmaty (Riga)/11 1978"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K2k4/8/2P5/8/8/1p1r4/2R5/8 w - - 0 1"]
+
+1. Kb7 $1 (1. Kb8 $2 bxc2 2. c7+ Ke7 3. c8=Q Rd8) Rd7+ $1 2. c7+ Rxc7+ 3. Rxc7 b2 4. Rc8+ Kd7 5. Rc7+ Kd8 6. Rc8+ 1/2-1/2
+
+[Event "7.sp.c Sportivnaya Gazeta"]
+[Source "EG#03147."]
+[Date "1976.10.23"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/6p1/3k2P1/6p1/8/4K3 w - - 0 1"]
+
+1. Kf1 $1 Ke3 2. Kg2 Kf4 3. Kh3 g2 (Kf3) 4. Kh2 Kf3 5. Kg1 Kg3 (Kxg4 6. Kxg2) 1/2-1/2
+
+[Event "64#64"]
+[Date "1976.11.12"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/P7/8/8/Pp3K2/8/5k2 w - - 0 1"]
+
+1. a7 $1 b2 2. a8=Q b1=Q 3. Qa6+ Kg1 4. Qa7+ Kh1 5. Qa8 $1 Qb2 $1 6. Qe4 $1 Qxa3+ (Kg1 {<main>} 7. Qe1+ Kh2 8. Qe2+ Qxe2+ 9. Kxe2) 7. Kf2+ Kh2 8. Qg2# 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/1"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6K1/6P1/6pk/p7/P7/8 w - - 0 1"]
+
+1. Kh6 $1 g3 2. g6 g2 3. g7 g1=R (g1=Q 4. g8=Q Qxg8) 4. Kh7 Kh5 5. g8=Q Rxg8 6. Kxg8 Kg6 $1 7. Kh8 $1 Kf6 8. Kh7 $1 1/2-1/2
+
+[Event "Schakend Nederland#1601"]
+[Source "Schakend Nederland/12"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2b1K3/2P5/5k2/n7/4n3/8/8/8 w - - 0 1"]
+
+1. Kd8 $1 Ke6 (Nd6) 2. Kxc8 Nd6+ 3. Kb8 (3. Kd8 $2 Nc6#) Nc6+ 4. Ka8 Nc8 5. Kb7 N6a7 6. Ka6 $1 Kd5 7. Ka5 (7. Kb7 $2 Kc5 8. Ka6 Kb4 9. Kb7 Kb5) Kc4 8. Ka4 Nb5 9. Ka5 Nc3 10. Ka6 Nd5 11. Ka5 (11. Kb7 $2 Nde7 $1 12. Ka6 Kb4 13. Kb7 Kb5) Ndb6 12. Ka6 Kb4 13. Kb7 Ka5 14. Kc6 $1 (14. Kb8 $2 Kb5 15. Kb7 Nd6+ 16. Kb8 Nbc8) Kb4 15. Kb7 Kb5 16. Kb8 Kb4 17. Kb7 Kc5 18. Ka6 $1 (18. Kb8 $2 Kb5 19. Kb7 Nd6+ 20. Ka7 Nbc8+ 21. Kb8 Ka6 22. Ka8 Nb5 23. Kb8 Nba7 24. Ka8 Nb6+ 25. Kb8 Nc6#) Nc4 19. Kb7 N4d6+ 20. Ka6 $1 (20. Kb8 $2 Kc6) Kc4 21. Ka5 Kb3 22. Ka6 Kb4 1/2-1/2
+
+[Event "2.hm Schach#08393"]
+[Source "Schach/10 EG#04621."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/8/pP1pK3/P7/8/P7/8/8 w - - 0 1"]
+
+1. Kd5 $1 (1. Kxd6 $2 Kc8 2. Kc6 Kb8 3. a4 Ka8 4. b7+ Ka7 5. Kc7) Kd7 (Kc8 2. Kc6 d5 3. b7+ Kb8 4. Kb6 d4 5. Kxa6 d3 6. Kb6 d2 7. a6 d1=Q 8. a7#) 2. a4 $1 Kc8 3. Kc6 $1 (3. Kxd6 $2 Kb7 4. Kd7 Kb8) d5 4. b7+ Kb8 5. Kb6 d4 6. Kxa6 d3 7. Kb6 d2 8. a6 d1=Q 9. a7# 1-0
+
+[Event "L'Italia Scacchistica#175"]
+[Source "L'Italia Scacchistica/3"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3p4/8/3P4/8/8/5k2/7K w - - 0 1"]
+
+1. d6 $1 (1. Kh2 $2 d6 $1) Kf1 2. Kh2 Kf2 3. Kh1 $1 Kf3 4. Kg1 Ke4 5. Kf2 Kd5 6. Ke3 Ke5 7. Kd3 Kxd6 8. Kd4 1/2-1/2
+
+[Event "Schach#08372"]
+[Source "Schach/9"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/7P/NK6/8/8/4k3/8 w - - 0 1"]
+
+1. Nc6 $1 Kf3 2. Ne7 (2. Kc5 $2 Kg4 3. Ne7 Kg5 4. Ng8 Kg6 5. Kd6 Kf7 6. Ne7 Kf6) Kg4 3. Kc6 $1 (3. Ng8 $2 Kf5 4. Kc6 Ke6) Kg5 4. Ng8 Kg6 5. Kd7 $1 (5. Kd6 $2 Kf7 6. Ne7 Kf6 7. Kd7 Kf7 8. Kd8 Kf8 9. Nf5 Kf7) Kf7 6. Ne7 Kf8 (Kf6 7. Ke8 Kg5 8. Ng8 Kg6 9. Kf8 Kg5 10. Kg7) 7. Ke6 Ke8 8. Ng6 $1 hxg6 9. h7 1-0
+
+[Event "Schakend Nederland#1576"]
+[Source "Schakend Nederland/9"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6p1/8/1p4P1/pP6/Pk1K1P2/8 w - - 0 1"]
+
+1. g5 $1 (1. f4 $2 Kxa2 2. Kc2 g5 $1 3. fxg5 Ka1 4. g6 a2 5. g7) (1. f3 $2 Kxa2 2. Kc2 g5 $1) Kxa2 2. Kc2 (2. Kc1 $2 Kxb3 3. Kb1 a2+ 4. Ka1 Ka3) Ka1 3. f4 Ka2 4. f5 (4. Kc1 $2 Kxb3 5. Kb1 a2+ 6. Ka1 Ka3) gxf5 5. g6 f4 6. g7 f3 7. Kd2 $1 (7. g8=Q $2 f2 $1 8. Qf7 f1=Q 9. Qxf1) (7. g8=B $2 f2 8. Bc4 Ka1) f2 (Kxb3 8. g8=Q+ Kb2 9. Qg1 a2 (b3 10. Qf1 f2 11. Qd1 Ka2 12. Kc3 b2 13. Kc2) 10. Qc1+ Kb3 11. Ke3) 8. Ke2 Kb2 9. g8=Q 1-0
+
+[Event "Schakend Nederland#1576 (m)"]
+[Source "Schakend Nederland/9 (m): Kovalenko=V Kudesnik#4993 Kudesnik=137 8/2010."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4K1kp/1p3p1p/1P3p1P/1P2PP1P/6p1/4P3/8 w - - 0 1"]
+
+1. e5 $1 fxe5 2. e4 $1 g2 3. exf5 g1=Q 4. f6+ Kh8 $1 5. f7 Qg7 6. f5 $1 e4 7. f6 Qxf7+ 8. Kxf7 e3 9. Kf8 $1 e2 10. f7 e1=B (e1=Q {<main>}) 11. Ke8 $1 Bxb4 12. f8=Q+ Bxf8 13. Kxf8 1/2-1/2
+
+[Event "Sachové Umenie#5121"]
+[Source "Sachové Umenie/6"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/6p1/8/4kP2/1K6/1P2P3/8 w - - 0 1"]
+
+1. Kc4 $1 (1. e3 $2 Kxe3 2. Kc4 Ke4 3. b4 d5+) Kxf4 2. Kd5 $1 (2. b4 $2 Ke5 3. Kc5 d6+ $1 (d5 $2 4. b5 d4 5. b6) 4. Kc6 g5 5. b5 g4 6. b6 g3) g5 3. b4 g4 4. b5 g3 5. b6 g2 6. b7 g1=Q 7. b8=Q+ d6 $1 (Ke3 8. Qb6+) (Kf5 8. Qf8+ Kg4 9. Qg7+) 8. Qxd6+ Kg5 9. Qd8+ Kh5 10. Qh8+ Kg4 11. Qg7+ 1-0
+
+[Event "Buletin Problemistic#132"]
+[Source "Buletin Problemistic/1-3"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6p1/8/5pkp/2p2p2/2P1PP1P/6K1 w - - 0 1"]
+
+1. h3+ $1 Kxh3 (Kf5 2. exf3 Ke5 3. Kf1 Kd5 4. Ke1 Kc4 5. Kd1 Kb4 6. Kc1 Ka3 7. Kb1 g5 8. Ka1) 2. exf3 g5 3. Kh1 g4 4. Kg1 $1 g3 (gxf3 5. Kh1 Kg4 6. Kh2 Kf5 7. Kh3 Kg5 8. Kh2 Kg4 9. Kh1 Kf5 10. Kh2 Kg4 (Ke4 11. Kh3 Kd4 12. Kxh4 Kc4 13. Kg4 Kb4 14. Kxf4 Ka3 15. Ke3 Ka2 16. Kd4 $1 Kb2 17. Kd3) 11. Kg1) 5. Kh1 $1 gxf2 (g2+ {<main>} 6. Kg1) 1/2-1/2
+
+[Event "Szachy#1240"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/4p3/2P2p2/P2Kp3/1p2P3/1P2Pp2/8/8 w - - 0 1"]
+
+1. a6 $1 Kb8 2. Ke6 $1 f2 3. a7+ $1 Kxa7 4. c7 f1=B $1 (f1=Q {<main>} 5. c8=Q $1 Qh3+ 6. Kd5 Qxc8) 5. c8=N+ $1 Kb8 6. Nxe7 1/2-1/2
+
+[Event "Selman MT Schakend Nederland#1625"]
+[Source "Schakend Nederland/6-7"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/7p/5p2/p1K5/6PP/k7 w - - 0 1"]
+
+1. Kb3 $1 (1. Kc2 $2 h4 2. h3 Ka2) Kb1 2. Kxa3 Kc2 3. Kb4 Kd3 4. Kc5 Ke3 5. Kd5 $1 (5. Kd6 $2 h4 6. h3 Kf2 7. Ke5 Kg3 8. Ke4 f3 $1 9. gxf3 Kxh3 10. f4 Kg3) h4 6. h3 Kf2 7. Ke4 (7. Ke5 $2 Kg3 8. Kf5 f3 9. gxf3 Kxh3 10. f4 Kg3 11. Kg5 h3 12. f5 h2) Kg3 8. Ke5 $1 f3 9. gxf3 Kxh3 10. f4 Kg3 11. f5 1/2-1/2
+
+[Event "Thèmes 64#3571"]
+[Source "Thèmes 64/10-12"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7q/P6P/8/8/5B2/p2p4/1k1P4/3K4 w - - 0 1"]
+
+1. a8=Q $1 Qxa8 2. h8=Q+ $1 (2. Be5+ $2 Kb1 3. h8=Q Qf3+ 4. Ke1 Qe2#) Qxh8 3. Be5+ $1 Kb1 (Qxe5 {<main>}) 4. Bxh8 a2 5. Ba1 $1 (5. Ke1 $2 a1=Q 6. Bxa1 Kxa1 7. Kf2 Kb2 8. Ke3 Kc2) Kxa1 6. Kc1 1/2-1/2
+
+[Event "Schakend Nederland#1691"]
+[Source "Schakend Nederland/5"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6b1/4P3/6rk/3p1K2/2P2n1p/3NN2r/8/8 w - - 0 1"]
+
+1. e8=Q $1 (1. Ng4+ $2 Rxg4 2. e8=Q Be6+ 3. Kf6 Rg6+ 4. Ke5 Nxd3+) Rf6+ $1 (dxc4 2. Nxf4 Rg5+ 3. Kf6 Rf3 4. Ng4+ Kh7 5. Kxg5) 2. Kxf6 Nh5+ 3. Qxh5+ (3. Kf5 $2 Ng7+) Kxh5 4. Nf4+ Kh6 5. Nf5+ Kh7 6. Nxh3 dxc4 7. Ng5+ Kh8 8. Ne7 Bd5 (c3 9. Ng6#) (Be6 9. Nxe6 Kh7 10. Nf5 c3 (Kg8 11. Kg6) 11. Kf7 c2 12. Nf8+ Kh8 13. Ne7 c1=Q 14. Neg6#) 9. Nxd5 Kg8 10. Ne6 Kh7 11. Kg5 c3 12. Nf6+ Kh8 13. Kg6 c2 14. Nd8 (14. Ng5 {<or>}) c1=Q 15. Nf7# 1-0
+
+[Event "0-0"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r3k3/P7/8/3R4/3K4/8/8/8 w - - 0 1"]
+
+1. Rh5 $1 Kd7 2. Kc5 Rxa7 (Kc7 3. Rh7+) 3. Rh7+ Ke6 4. Rxa7 1-0
+
+[Event "Shakhmaty v SSSR#06"]
+[Source "Shakhmaty v SSSR/10"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5pk1/4P1P1/5pK1/6pP/4p1P1/5p2/8 w - - 0 1"]
+
+1. e7 $1 f6+ $1 (f1=Q 2. e8=Q Qc4 3. Qe5+ Kf8 4. Qh8+ Ke7 5. Qf6+ Kd7 6. g7 e2 7. g8=Q Qc1+ 8. Kh5) 2. Kh5 f1=N $1 3. e8=N+ $1 (3. e8=Q $2 Nxg3#) Kf8 4. g7+ Kf7 5. Kh6 e2 6. Nxf6 $1 e1=Q 7. g8=Q+ Kxf6 8. Qf8+ Ke6 9. Qe8+ Kf6 10. Qxe1 1-0
+
+[Event "Schach#08886"]
+[Source "Schach/6"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/1p6/1P6/Pp3K2/1p6/8/8/8 w - - 0 1"]
+
+1. Ke4 $1 b3 2. Kd3 b4 3. Kd2 Kc8 4. Kc1 Kd7 5. Kb2 Kc6 6. Kxb3 Kb5 7. a6 $1 Kxa6 8. Ka4 $1 (8. Kxb4 $2 Kxb6) b3 9. Kxb3 Kxb6 10. Kb4 1/2-1/2
+
+[Event "Sachové Umenie#5386"]
+[Source "Sachové Umenie/5"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/5P2/5P1K/5P1P/8/4p2P/7P/8 w - - 0 1"]
+
+1. Kg5 $1 e2 2. h6 e1=Q 3. h7 Qe3+ (Qg1+ 4. Kh6 Qe3+ 5. Kg6) 4. Kg6 Qxh3 5. h8=Q+ Qxh8 6. h4 Qxh4 1/2-1/2
+
+[Event "Vecherni Novosibirsk (c)"]
+[Source "(c): Garcia=M Bazlov=Y Estudios Artisticos de Ajedrez - XV-6 2015."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2p5/PpP1P3/PPp1p3/1kP5/2p5/2K5 w - - 0 1"]
+
+1. e6 $1 bxa4 2. a6 e3 3. e7 a3 4. a7 e2 5. e8=R $1 (5. e8=Q $2 a2 6. a8=R a1=Q+ 7. Rxa1 e1=Q+ 8. Qxe1) a2 6. a8=R $1 (6. a8=Q $2 a1=Q+ 7. Qxa1 e1=Q+ 8. Rxe1) e1=Q+ 7. Rxe1 a1=Q+ 8. Rxa1 1-0
+
+[Event "5.c Schakend Nederland#1768"]
+[Source "Schakend Nederland/10 EG#04914."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "N1r5/6N1/3K1k2/p7/8/3R4/8/8 w - - 0 1"]
+
+1. Nh5+ $1 Kg6 (Kg5 2. Rd5+ Kg6 3. Nb6) 2. Nb6 Rd8+ 3. Nd7 Kxh5 4. Kc7 Ra8 5. Kb7 Rd8 (Re8 {<main>} 6. Nf6+ Kg6 7. Nxe8) (Rg8 {<main>} 6. Nf6+ Kh4) (Rh8 6. Rh3+ Kg4 7. Rxh8) 6. Nf6+ Kg6 7. Rxd8 1-0
+
+[Event "Thèmes 64#3609"]
+[Source "Thèmes 64/1-3"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/kPpK4/7p/1P6/1P6/PP6/8 w - - 0 1"]
+
+1. Kc5 $1 (1. Ke5 $2 Kxb6 2. Kf5 Kc7 $1 3. Kg5 Kd6 4. Kxh5 Kd5 5. Kg5 Kd4 6. Kf5 Kd3 7. Ke5 Kc2 8. Kd6 Kxb2 9. Kc7 Kxa2 10. Kxb7 Kxb3 11. Kxc6 Kxb4) (1. Kc7 $2 h4 2. a4 h3 3. b5+ cxb5 4. axb5+ Kxb5 5. Kxb7 h2) h4 2. b5+ $1 cxb5 3. b4 h3 4. b3 $1 (4. a4 $2 bxa4 5. b5+ Ka5 6. b4+ axb3) h2 5. a4 bxa4 (h1=Q 6. axb5#) 6. b5+ Ka5 7. b4# 1-0
+
+[Event "Schakend Nederland#1820"]
+[Source "Schakend Nederland/7-8 1981"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/p4K1p/P6p/P6p/P6p/P6P/1k6 w - - 0 1"]
+
+1. Ke5 $1 (1. Ke6 $2 Kc2 2. Kd5 Kd3 3. Kc5 Ke4 $1 4. Kb6 Kd5 $1 5. Kxa6 Kc6 6. Ka7 Kc7 7. a6 Kc8 8. Kb6 Kb8 9. Kc6 Ka7 10. Kd6 Kxa6 11. Ke6 Ka5 12. Kf6 Kxa4 13. Kg7 Kxa3 14. Kxh7 Kxa2 15. Kxh6 Kb3 16. Kxh5 Kc4 17. Kxh4 Kd5 18. Kxh3 Ke6) Kc2 (Kxa2 2. Kd5 Kxa3 3. Kc5 Kxa4 4. Kb6) 2. Kd4 $1 Kd2 3. Kc5 Ke2 4. Kb6 Kf2 5. Kxa6 Kg2 6. Kb5 (6. Kb6 {<or>}) Kxh2 7. a6 Kg1 8. a7 h2 9. a8=Q h1=Q 10. Qxh1+ Kxh1 11. a5 Kg1 12. a6 h3 13. a7 h2 14. a8=Q h1=Q 15. Qxh1+ Kxh1 16. a4 Kg1 17. a5 h4 18. a6 h3 19. a7 h2 20. a8=Q h1=Q 21. Qxh1+ Kxh1 22. a4 $1 h5 23. a5 h4 24. a6 h3 25. a7 h2 26. a8=Q+ 1-0
+
+[Event ".c Shakhmaty v SSSR#09"]
+[Source "Shakhmaty v SSSR/2 EG#04981."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[Composer2 "Makhno, S"]
+[White "Kovalenko, V"]
+[Black " Makhno, S."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K1k5/8/4P3/4q1B1/8/6nQ/8/8 w - - 0 1"]
+
+1. e7+ $1 Kc7 (Nf5 {<main>} 2. Qc3+ (2. Qxf5+ $2 Qxf5 3. e8=Q+ Kc7 4. Bf4+ Kb6) Qxc3 3. e8=Q+ Kc7 4. Qd8+ Kc6 5. Qc8+) 2. Bf4 Qxf4 3. Qc8+ Kxc8 4. e8=Q+ Kc7 5. Qb8+ 1-0
+
+[Event "Szachy#040"]
+[Source "Szachy/4"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4K3/7P/3p3k/8/pp3P2/1p6/8 w - - 0 1"]
+
+1. h7 $1 b1=Q 2. h8=Q+ Kg5 3. Qf6+ Kh5 4. Qe5+ Kh4 5. Qh2+ Kg5 6. Qg3+ Kf5 7. Qh4 $1 Qb2 8. Kf7 $1 a2 9. Qg4+ Ke5 10. Qg7+ 1-0
+
+[Event "Schakend Nederland#1958"]
+[Source "Schakend Nederland/6"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/3p3p/3p2Pk/5p1b/5Pp1/6Pp/8/8 w - - 0 1"]
+
+1. g7 $1 (1. gxh7 $2 Bf7+ 2. Kh8 Bg6) h2 2. Kf8 h1=Q (Bf7 3. Kxf7 h1=Q 4. g8=N+ (4. g8=Q Qd5+ 5. Kf8 Qxg8+ 6. Kxg8) Kh5 5. Nf6+ Kh6 6. Ng8+) 3. g8=N+ (3. g8=Q $2 Qa8+) Kg6 4. Ne7+ Kf6 5. Nd5+ Ke6 6. Nc7+ Kf6 7. Nd5+ Kg6 8. Ne7+ Kh6 9. Ng8+ 1/2-1/2
+
+[Event ".c Solidarity ty"]
+[Source "EG#06870."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/5ppk/6p1/5P1P/5K2 w - - 0 1"]
+
+1. fxg3+ $1 (1. hxg3+ $2 fxg3 2. Kg2 gxf2 3. Kxf2 Kh3) Kh3 (fxg3 2. Kg2 gxh2 3. Kxh2) 2. Kg1 fxg3 (f3 3. Kh1 f2) 3. Kh1 g2+ (gxh2 {<main>}) 4. Kg1 g3 5. hxg3 Kxg3 1/2-1/2
+
+[Event ".c Shakhmaty v SSSR (tt)"]
+[Source "EG#06559."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3P4/8/1pP5/pP1K4/1k6/8 w - - 0 1"]
+
+1. d7 $1 a2 (Kxb3 {<main>} 2. d8=R $1 (2. d8=Q $2 a2 3. Qa8 a1=Q 4. Qxa1) (2. d8=B $2 Ka2) a2 3. Ra8 Kb2 4. c5 b3 5. Kc4 $1) 2. d8=B $1 (2. d8=Q $2 a1=Q 3. Qf6+ Kxb3 4. Qxa1) Kxb3 3. Bf6 $1 Ka3 4. Ba1 $1 b3 5. Kc3 1-0
+
+[Event "1.hm Shakhmatna Misl#042"]
+[Source "Shakhmatna Misl/4"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/Pp3p2/p5p1/8/1P5K/5k2 w - - 0 1"]
+
+1. Kg3 $1 f4+ 2. Kxg4 $1 f3 3. Kxf3 b4 4. a6 a3 5. bxa3 b3 6. a7 b2 7. a8=Q b1=Q 8. Qa6+ Kg1 9. Qa7+ Kh1 10. Qa8 $1 1-0
+
+[Event "1.hm Chervoni Girnik"]
+[Source "EG#06652."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p3p/8/8/8/1P6/P3K2p/7k w - - 0 1"]
+
+1. Kf2 $1 d5 2. a4 d4 3. a5 d3 4. a6 d2 5. a7 d1=N+ (d1=Q 6. a8=Q+) 6. Kf1 Ne3+ 7. Ke2 Kg1 8. a8=Q h1=Q 9. Qa1+ (9. Qxh1+ $2 Kxh1 10. Kxe3 h5 11. Kf3 h4 12. Kg4 Kg2 13. Kxh4 Kf3) Kh2 10. Qe5+ Kh3 (Kg2 11. Qg7+) (Kg1 11. Qxe3+) 11. Qh5+ Kg2 12. Qg5+ Kh3 13. Qh6+ Kg2 14. Qg7+ Kh3 15. Qxh7+ Kg2 {<eg>} 16. Qxh1+ Kxh1 17. Kxe3 1-0
+
+[Event "2.hm Vecherni Novosibirsk"]
+[Source "EG#08856."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/1pp5/1P1p4/KP1p4/1P1p4/PP1P4/8/8 w - - 0 1"]
+
+1. a4 $1 (1. bxc7 $2 b6+ 2. Kxb6 (2. Ka4 Kb7 3. c8=Q+ Kxc8)) Kb8 (c5 2. bxc6) 2. bxc7+ Kxc7 3. b6+ Kc6 4. b5+ Kc5 5. b4# 1-0
+
+[Event "2.c Magadan 50 JT Magadansky Komsomolet"]
+[Source "EG#07719."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5k2/5P2/5PKP/6P1/5P1p/8/8 w - - 0 1"]
+
+1. h6 $1 h2 2. h7 h1=Q 3. f4 Qxh7 (Ke8 {<main>} 4. Kg6 Kf8 5. g5 (5. f7 $2 Qc6+ $1 6. f6 Qe4+) Qh2 6. f7 Qb2 7. f6 Qb1+ 8. f5 Qh1 9. h8=Q+ Qxh8) (Qh2 4. h8=Q Qxh8) 1/2-1/2
+
+[Event "2.p New Life"]
+[Source "EG#07892."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1q6/8/8/4p2R/1pR2Pk1/4K3 w - - 0 1"]
+
+1. Rg3+ $1 Kh2 2. Rxb2 exf2+ 3. Kf1 Qa6+ (Qxb2 {<main>} 4. Rh3+ Kxh3) 4. Re2 (4. Kxf2 $2 Qf6+) Qxe2+ (Kxg3) 5. Kxe2 Kxg3 6. Kf1 Kf3 1/2-1/2
+
+[Event "2.hm Ban MT Magyar Sakkélet#1892"]
+[Source "Magyar Sakkélet/8 1990 EG#08592."]
+[Date "1989.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3p4/8/pk6/p1N1K3/n7/1bR5 w - - 0 1"]
+
+1. Nd5+ $1 Kb3 2. Rxb1+ Kc2 3. Ra1 Kb2 4. Kd2 Kxa1 5. Kc2 Nc3 (Nb4+ {<main>} 6. Nxb4 d5 7. Kc1 $1 d4 8. Nc2+ Ka2 9. Nxd4 Ka1 10. Kc2 Ka2 11. Nc6 Ka1 12. Nb4 a2 13. Kc1 a3 14. Nc2#) (Nc1 6. Kxc1 a2 7. Nb4 d5 8. Nc2#) 6. Nxc3 d5 7. Nb5 (7. Ne2 {<or>}) Ka2 8. Nd4 Ka1 9. Nc6 Ka2 10. Nb4+ Ka1 11. Kc1 d4 12. Nc2+ Ka2 13. Nxd4 Ka1 14. Nc6 Ka2 15. Kc2 Ka1 16. Nb4 a2 17. Kc1 a3 18. Nc2# 1-0
+
+[Event "6.p Russian Federation Team champ (tt)"]
+[Source "EG#10642"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[Composer "Kovalenko, Vitali Semenovich"]
+[Composer2 "Bazlov, Yuri Vasilyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/BR2P3/p7/k2P1b2/2KNq3/8/1P5p/6b1 w - - 0 1"]
+[PlyCount "17"]
+
+1. Rb3 $1 (1. e8=Q $143 Qd3+ $1 2. Kc5 Qxd4+ 3. Kd6 Qf4+ 4. Ke7 Qe5+ 5. Kf8 Qxe8+ 6. Kxe8 h1=Q $19) Qxd5+ $1 (Qd3+ $144 2. Rxd3 Bxd3+ 3. Kxd3 h1=Q 4. e8=Q Bxd4 (Qh3+ $144 5. Kc4 Qf1+ 6. Ne2 Qe1 7. Qd8+ $18 {#5}) 5. Qd8+ Ka4 6. Qd7+ Kb3 7. Qb7+ Ka2 8. Bxd4 $18) 2. Kxd5 h1=Q+ 3. Kc4 (3. Kd6 $143 Qh2+ 4. Kd5 Qg2+ 5. Kc4 Qg8+ $19) Be6+ $1 4. Nxe6 Qc6+ $1 5. Nc5 $1 Bxc5 6. e8=Q $1 Qxe8 7. Bb6+ $1 Bxb6 (Ka4 $144 8. Ra3+ Bxa3 9. b3#) 8. Ra3+ Qa4+ 9. b4# 1-0

@@ -1,0 +1,405 @@
+---
+import "../styles/app.css";
+import AccountMenu from "../components/AccountMenu.svelte";
+import { BOARD_RANGES } from "../lib/board/boardpaint";
+import { DEFAULT_PIECE_SET, PIECE_SETS } from "../lib/board/piecesets";
+// biome-ignore lint/style/useImportType: also a value below — the settings menu maps THEMES to render the picker.
+import { THEMES } from "../lib/theme";
+import type { AccountPreferences } from "../lib/preferences";
+
+// What Google shows under the title in a results page when a page has no
+// description of its own: the site's own pitch, kept within the ~160 characters
+// a snippet renders.
+const DEFAULT_DESCRIPTION =
+	"keymove.xyz is a free collection of chess compositions — studies, short mates and endgame problems — where you find the key move and read the full solution.";
+
+interface Props {
+	/** Which topbar item is current; home marks none. */
+	section?: "solve" | "library" | "collections" | "blog";
+	isHome?: boolean;
+	title: string;
+	/** Meta description for this page; falls back to the site-wide one. */
+	description?: string;
+	/**
+	 * Who is asking, as the page resolved it. Passed so the account menu does not
+	 * have to ask Better Auth a second time; omitted by a prerendered page, which
+	 * cannot know.
+	 */
+	accountSession?: { userId: string; name: string } | null;
+	/**
+	 * The account's preferences, for a page that has already read them for its own
+	 * rendering. Optional because the layout reads them itself otherwise.
+	 */
+	accountPreferenceSnapshot?: { preferences: AccountPreferences | null };
+}
+
+const {
+	section,
+	isHome = false,
+	title,
+	description = DEFAULT_DESCRIPTION,
+	accountSession,
+	accountPreferenceSnapshot,
+} = Astro.props;
+
+// The account block, in one place: who is asking, and how they like the board.
+// A page that needed the preferences for its own rendering passes them in, and
+// everyone else lets this read the one row. A prerendered page has no session,
+// so it renders the menu with neither and the browser fetches both.
+// The read is a dynamic import because the module reaches `cloudflare:workers`,
+// which a prerendered page cannot load: /about and /blog never take this branch,
+// so they never evaluate it.
+const preferences =
+	accountPreferenceSnapshot ??
+	(accountSession
+		? await (
+				await import("../lib/preferences-store")
+			).readAccountPreferences(accountSession.userId)
+		: undefined);
+
+// The default piece set, expressed as the twelve custom properties pieces.css
+// paints from. Doing it here means the server-rendered cards have pieces with
+// no JavaScript; the solver still re-applies the stored set on the client.
+const set =
+	PIECE_SETS.find((s) => s.id === DEFAULT_PIECE_SET) ?? PIECE_SETS[0]!;
+const pieceVars = Object.entries(set.urls)
+	.map(([key, url]) => `---${key}: url("${url}")`)
+	.join(";");
+
+// lila's `pref.Bg.choices`, as the dasher's theme pane labels them
+const THEME_LABELS: Record<(typeof THEMES)[number], string> = {
+	system: "Device",
+	light: "Light",
+	dark: "Dark",
+};
+
+// The licon font has no display/sun/moon, so the flat theme rail carries its
+// own inline icons: the glyphs the mockup settled on.
+const THEME_ICONS: Record<(typeof THEMES)[number], string> = {
+	system:
+		'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2.5" y="4" width="19" height="13" rx="1.5"/><path d="M8 20.5h8M12 17v3.5"/></svg>',
+	light:
+		'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2.6M12 19.4V22M4.2 4.2 6 6M18 18l1.8 1.8M2 12h2.6M19.4 12H22M4.2 19.8 6 18M18 6l1.8-1.8"/></svg>',
+	dark: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.5 14.2A8.5 8.5 0 0 1 9.8 3.5a8.5 8.5 0 1 0 10.7 10.7Z"/></svg>',
+};
+---
+
+<!doctype html>
+<html lang="en" translate="no" style={pieceVars}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+    <link rel="mask-icon" href="/keymark.svg" color="#262626" />
+    <link rel="alternate icon" type="image/png" href="/icons/favicon-64.png" />
+    <link id="favicon" rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="preload" href="/fonts/lichess-chess.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/lichess.woff2" as="font" type="font/woff2" crossorigin />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#ffffff" />
+    <!--
+      Pre-paint settings: read before the body is parsed so a refresh never
+      paints the default piece set, board paint, board zoom or wrong theme and
+      then replaces it. The keys mirror src/lib/storage.ts; the URLs are cached
+      by applyPieceSet(), and the theme resolution mirrors src/lib/theme.ts
+      (lichess' `systemThemeScript`).
+    -->
+    <script is:inline>
+      (() => {
+        const root = document.documentElement;
+
+        // The profile icon is decorative, so use the last verified session state
+        // to paint it immediately. AccountMenu refreshes this hint from Better
+        // Auth after hydration; it is never used to authorize anything.
+        try {
+          const accountSignedIn = localStorage.getItem('keymove.accountSignedIn');
+          if (accountSignedIn === 'true' || accountSignedIn === 'false') {
+            root.dataset.accountSignedIn = accountSignedIn;
+          }
+        } catch {
+          // Storage may be unavailable; the default guest outline is safe.
+        }
+
+        // Theme first: it decides the first paint, and must not be skipped if
+        // the piece cache below is unreadable.
+        let saved = null;
+        try {
+          saved = localStorage.getItem('keymove.theme');
+        } catch {
+          // private mode; fall through to the device preference
+        }
+        const theme =
+          saved === 'light' || saved === 'dark'
+            ? saved
+            : window.matchMedia('(prefers-color-scheme: light)')?.matches
+              ? 'light'
+              : 'dark';
+        root.classList.add(theme);
+        // Default to Lichess's grey board image; a saved `off` disables it.
+        root.classList.add('board-grain');
+        const meta = document.querySelector('meta[name="theme-color"]');
+        if (meta) meta.setAttribute('content', theme === 'dark' ? '#0f0f0f' : '#ffffff');
+        const maskIcon = document.querySelector('link[rel="mask-icon"]');
+        if (maskIcon) maskIcon.setAttribute('color', theme === 'dark' ? '#f5f5f5' : '#262626');
+
+        // `Number(null)` is 0, not NaN: an unset key has to be skipped by hand,
+        // or a missing zoom reads as 0 and `--board-scale` collapses to its floor.
+        const readNumber = (key) => {
+          const raw = localStorage.getItem(key);
+          return raw === null || raw === '' ? NaN : Number(raw);
+        };
+
+        try {
+          const brightness = readNumber('keymove.boardBrightness');
+          if (Number.isFinite(brightness) && brightness > 0) root.style.setProperty('--board-brightness', String(brightness));
+          const contrast = readNumber('keymove.boardContrast');
+          if (Number.isFinite(contrast) && contrast > 0) root.style.setProperty('--board-contrast', String(contrast));
+          if (localStorage.getItem('keymove.boardGrain') === 'off') root.classList.remove('board-grain');
+        } catch {
+          // private mode; there is nothing stored to fall back to
+        }
+
+        try {
+          const vars = localStorage.getItem('keymove.pieceVars');
+          if (vars) {
+            for (const [key, url] of Object.entries(JSON.parse(vars))) {
+              root.style.setProperty('---' + key, 'url("' + url + '")');
+            }
+          }
+          const zoom = readNumber('keymove.boardZoom');
+          if (Number.isFinite(zoom) && zoom >= 0) root.style.setProperty('--board-zoom', String(zoom));
+        } catch {
+          // private mode or corrupt cache; nothing there to apply
+        }
+      })();
+    </script>
+  </head>
+  <body class="coords-out">
+    <header class="topbar">
+      <div class="topbar__in">
+        <input class="nav-toggle sr-only" type="checkbox" id="nav-toggle" />
+        <div class="topbar__brand">
+          <label class="topbar__burger" for="nav-toggle">
+            <span class="sr-only">Menu</span>
+            <span class="topbar__burger-in" aria-hidden="true"></span>
+          </label>
+          <a class="topbar__name" href="/">
+            <span class="topbar__word">keymove<span class="topbar__suffix">.xyz</span></span>
+          </a>
+        </div>
+        <nav class="topbar__nav" id="topnav">
+          <a href="/solve" aria-current={section === 'solve' ? 'page' : undefined}><span>Solve</span></a>
+          <a href="/library" aria-current={section === 'library' ? 'page' : undefined}><span>Library</span></a>
+          <a href="/collections" aria-current={section === 'collections' ? 'page' : undefined}><span>Collections</span></a>
+          <a href="/blog" aria-current={section === 'blog' ? 'page' : undefined}><span>Blog</span></a>
+        </nav>
+        <div class="topbar__end">
+          <!--
+            The dasher: the header's settings panel. The account icon toggles
+            the dropdown (`#top .dasher .toggle` + `#dasher_app.dropdown`,
+            `modules/web/src/main/ui/layout.scala`), but Keymove's panel is
+            flat: account, theme, piece set, board paint and sound all sit on
+            one surface, with no sub-panes and no back headers. lib/dasher.ts
+            wires it.
+          -->
+          <div class="dasher" id="dasher">
+            <button
+              class="dasher__toggle"
+              id="dasher-toggle"
+              type="button"
+              title="Account and preferences"
+              aria-label="Account and preferences"
+              aria-haspopup="dialog"
+              aria-expanded="false"
+              aria-controls="dasher-app"
+            >
+              <svg
+                class="dasher__profile-icon"
+                viewBox="0 0 256 256"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="14"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                aria-hidden="true"
+              >
+                <path d="M230.93,220a8,8,0,0,1-6.93,4H32a8,8,0,0,1-6.92-12c15.23-26.33,38.7-45.21,66.09-54.16a72,72,0,1,1,73.66,0c27.39,8.95,50.86,27.83,66.09,54.16A8,8,0,0,1,230.93,220Z" />
+              </svg>
+            </button>
+            <div class="dasher__app" id="dasher-app" role="dialog" aria-label="Preferences">
+              <!-- One flat panel: a caption over each control, no sub-panes and
+                   no back headers. -->
+              <section class="group" aria-labelledby="dasher-account">
+                <h4 class="group__title" id="dasher-account">Account</h4>
+                <AccountMenu
+                  client:load
+                  initialPreferences={preferences?.preferences}
+                  hasInitialPreferences={preferences !== undefined}
+                  initialAccount={accountSession}
+                  hasInitialAccount={accountSession !== undefined}
+                />
+              </section>
+
+              <section class="group" aria-labelledby="dasher-theme">
+                <h4 class="group__title" id="dasher-theme">Theme</h4>
+                <div class="seg" role="group" aria-labelledby="dasher-theme">
+                  {THEMES.map((theme) => (
+                    <button class="seg__btn" type="button" data-theme={theme} aria-pressed="false">
+                      <Fragment set:html={THEME_ICONS[theme]} />
+                      <span>{THEME_LABELS[theme]}</span>
+                    </button>
+                  ))}
+                </div>
+              </section>
+
+              <section class="group" aria-labelledby="dasher-piece">
+                <h4 class="group__title" id="dasher-piece">Piece set</h4>
+                <div class="list" role="group" aria-labelledby="dasher-piece">
+                  {PIECE_SETS.map((pieceSet) => (
+                    <button
+                      class="piece-option"
+                      type="button"
+                      data-piece={pieceSet.id}
+                      title={pieceSet.label}
+                      aria-pressed="false"
+                    >
+                      <span
+                        class="piece-option__img"
+                        style={`background-image: url("${pieceSet.urls['white-knight']}")`}
+                        aria-hidden="true"
+                      ></span>
+                      <span class="piece-option__name">{pieceSet.label}</span>
+                    </button>
+                  ))}
+                </div>
+              </section>
+
+              <section class="group" aria-labelledby="dasher-board">
+                <h4 class="group__title" id="dasher-board">Board</h4>
+                <!-- Board paint controls (`ui/dasher/src/board.ts`) plus the
+                     optional Lichess Grey board image. -->
+                <label class="slider">
+                  <span class="slider__label">Grain</span>
+                  <input
+                    type="checkbox"
+                    checked
+                    data-board-grain
+                    aria-label="Lichess board grain"
+                  />
+                </label>
+                <label class="slider">
+                  <span class="slider__label">Brightness</span>
+                  <input
+                    type="range"
+                    min={BOARD_RANGES.brightness.min}
+                    max={BOARD_RANGES.brightness.max}
+                    step="1"
+                    data-board-brightness
+                    aria-label="Brightness"
+                  />
+                </label>
+                <label class="slider">
+                  <span class="slider__label">Contrast</span>
+                  <input
+                    type="range"
+                    min={BOARD_RANGES.contrast.min}
+                    max={BOARD_RANGES.contrast.max}
+                    step="1"
+                    data-board-contrast
+                    aria-label="Contrast"
+                  />
+                </label>
+              </section>
+
+              <section class="group" aria-labelledby="dasher-sound">
+                <h4 class="group__title" id="dasher-sound">Sound</h4>
+                <!-- One volume slider whose zero is mute; the speaker is the
+                     toggle, as the macOS Sound pane wears it. lila's separate
+                     on/off selector (`SoundCtrl`) folds into the slider. -->
+                <div class="volume">
+                  <button class="volume__mute" type="button" data-mute aria-label="Mute" aria-pressed="false">
+                    <svg
+                      class="volume__icon volume__icon--on"
+                      viewBox="0 0 24 24"
+                      fill="none"
+                      stroke="currentColor"
+                      stroke-width="1.6"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      aria-hidden="true"
+                    >
+                      <path d="M11 5 6.5 8.8H4a1 1 0 0 0-1 1v4.4a1 1 0 0 0 1 1h2.5L11 19z" fill="currentColor" stroke="none"></path>
+                      <path d="M14.6 9.4a3.8 3.8 0 0 1 0 5.2"></path>
+                      <path d="M17.2 6.9a7.3 7.3 0 0 1 0 10.2"></path>
+                      <path d="M19.8 4.4a10.8 10.8 0 0 1 0 15.2"></path>
+                    </svg>
+                    <svg
+                      class="volume__icon volume__icon--off"
+                      viewBox="0 0 24 24"
+                      fill="none"
+                      stroke="currentColor"
+                      stroke-width="1.6"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      aria-hidden="true"
+                    >
+                      <path d="M11 5 6.5 8.8H4a1 1 0 0 0-1 1v4.4a1 1 0 0 0 1 1h2.5L11 19z" fill="currentColor" stroke="none"></path>
+                      <path d="M15.5 9.8l4 4.4M19.5 9.8l-4 4.4"></path>
+                    </svg>
+                  </button>
+                  <input
+                    class="volume__range"
+                    type="range"
+                    min="0"
+                    max="1"
+                    step="0.01"
+                    value="0.7"
+                    data-sound-volume
+                    aria-label="Volume"
+                  />
+                </div>
+              </section>
+            </div>
+          </div>
+        </div>
+        <label class="topbar__scrim" for="nav-toggle" aria-hidden="true"></label>
+      </div>
+    </header>
+
+    <div class:list={['page', isHome && 'page--home']}>
+      <slot />
+    </div>
+
+    <script>
+      import { initDasher } from '../lib/dasher';
+
+      // The topbar is transparent over the page gradient until the page scrolls
+      // under it, then takes on the gradient lichess's `#top.scrolled` bar uses
+      // (`ui/site/src/topBar.ts`). Keymove's bar is `relative` and always scrolls
+      // away, so there is no `#top.hide` tuck to port.
+      //
+      // The page scrolls on `body`, not the root (base.css, so the reserved
+      // scrollbar lane can carry the page's gradient), so read `body.scrollTop`:
+      // with `html` hidden, `window.scrollY` would stay 0 and the bar would
+      // never mark itself scrolled.
+      const topbar = document.querySelector('.topbar');
+      if (topbar) {
+        const scroller = document.body;
+        const mark = () => {
+          topbar.classList.toggle('is-scrolled', scroller.scrollTop > 0);
+          // a scroller's own background is pinned to its box (base.css), so
+          // move the page tint by hand; the scrollbar lane moves with it
+          document.documentElement.style.setProperty('--scroll-y', `${scroller.scrollTop}px`);
+        };
+        mark();
+        scroller.addEventListener('scroll', mark, { passive: true });
+      }
+
+      // The pre-paint script has painted `<html>` already; this mirrors the
+      // preferences to the body and wires the dasher (sound, theme, board,
+      // piece).
+      initDasher();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,12 @@
+[Event "Politiken"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Jevtic, M"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p1p5/P1P5/PpK5/kP6/p7/P7/8 w - b6 0 1"]
+
+1. axb6 $1 axb6+ {<eg>} 2. Kd5 Kb5 3. a7 1-0

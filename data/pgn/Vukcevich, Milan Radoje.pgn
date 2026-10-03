@@ -1,0 +1,13 @@
+[Event "2.p Yugoslavia ty Problem"]
+[Source "Problem/11"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Vukcevich, Milan Radoje"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7Q/3b4/8/4B1q1/7b/3k1p2/B5P1/7K w - - 0 1"]
+
+1. Qh7+ $1 Bf5 (Ke3 2. gxf3 $1) 2. Qxf5+ Qxf5 3. Bb1+ Ke3 $1 4. Bxf5 f2 5. Bf4+ Kd4 $1 6. Be5+ Kc4 7. Be6+ Kc5 8. Bd6+ Kb5 9. Bd7+ Kb6 10. Bc7+ Ka6 11. Bc8+ Ka7 12. Bb8+ Kb6 13. Bc7+ Kb5 14. Bd7+ Kc5 15. Bd6+ Kc4 16. Be6+ Kd4 17. Be5+ Kd3 18. Bf5+ Ke3 19. Bf4+ Ke2 20. Bg4+ Ke1 $1 21. Bg3 $1 Bxg3 22. Be2 Kxe2 1/2-1/2

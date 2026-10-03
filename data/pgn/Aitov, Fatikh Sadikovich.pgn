@@ -1,0 +1,165 @@
+[Event "Trud#06"]
+[Date "1957.05.19"]
+[Round "?"]
+[Composer "Aitov, Fatikh Sadikovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1n1B4/6P1/3K2p1/7k/8/8 w - - 0 1"]
+
+1. g6 $1 Nd7 2. Be7 g3 3. g7 Nf6 4. Bxf6 g2 5. g8=R (5. g8=Q $2 g1=Q+ 6. Qxg1) 1-0
+
+[Event "Shakhmaty (Riga)#042"]
+[Source "Shakhmaty (Riga)/6"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Aitov, Fatikh Sadikovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/kp3P2/2p5/1PK5/p7/2p1p3/1Ppp4/2r2b2 w - - 0 1"]
+
+1. b6+ $1 Ka6 2. f8=Q Ka5 3. Qa8+ Ba6 4. Qh8 $1 (4. b4+ $2 axb3 5. Qh8 Ka4 $1) d1=N (Bb5 5. b4+ axb3 6. Qxc3+ Ka6 7. Qb2 Ba4 8. Qh8 $1) 5. b4+ axb3 6. Qd4 Bc4 7. Qxc4 Ra1 8. Qg8 c1=Q 9. Qa8# 1-0
+
+[Event "2.c Pravda Severa"]
+[Source "EG#01039."]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Aitov, Fatikh Sadikovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2N5/8/7K/8/1p1n2pk/1PB4P/2p3P1/8 w - - 0 1"]
+
+1. Be1+ $1 g3 2. Bd2 Nf5+ 3. Kg6 Ne3 4. Bxe3 c1=Q 5. Nd6 Qc5 6. Nf5+ 1-0
+
+[Event "64#095"]
+[Date "1969.09.19"]
+[Round "?"]
+[Composer "Aitov, Fatikh Sadikovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p3/1Bk1P3/8/1P6/1B6/1K2pP2/8 w - - 0 1"]
+
+1. Ba5 $1 Kb5 2. Bc4+ Ka4 3. Bd5 Kb5 4. Kb3 e1=Q 5. Bc4+ Kc6 6. b5+ 1-0
+
+[Event "1.p 64#16"]
+[Source "EG#01886."]
+[Date "1971.02.12"]
+[Round "?"]
+[Composer "Aitov, Fatikh Sadikovich"]
+[White "Aitov, F"]
+[Black " Frolovsky, A."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/5B1p/3kN1p1/2p5/2P2P2/8/6Pp/8 w - - 0 1"]
+
+1. Ng5 $1 h1=Q (Kc6 2. Bd5+) (h6 2. Ne4+) 2. Bd5 $1 Qh4 3. g3 h5 $1 4. Bb7 $1 (4. Bc6 $2 Qg4 $1 (Qh2 $2 5. Bd7 Qh4 6. Bh3 $1) 5. Nf7+ Kxc6 6. Ne5+ Kd6 7. Nxg4 hxg4 8. Ke8 Ke6 9. Kf8 Kf6 10. Kg8 g5) (4. gxh4 $2) (4. Be4 $2 Qxg3 $1 5. Nf7+ Ke6 6. Bd5+ Kf6) (4. Ba8 $2 Qg4 5. Ne4+ Ke6 6. Bd5+ Kf5 7. Nd6+ Kf6) Qh2 (Qxg3 5. Ne4+) (Qg4 5. Ne4+ Ke6 6. Bc8+) 5. f5 $1 gxf5 6. Bd5 $1 Ke5 (Qh4 7. gxh4) 7. Nf3+ Kd6 8. Nxh2 1-0
+
+[Event "Shakhmaty v SSSR#27"]
+[Source "Shakhmaty v SSSR/7"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Aitov, Fatikh Sadikovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/3B1Kpk/3N4/8/2Np4/3b4 w - - 0 1"]
+
+1. Ne3 $1 Bg4+ $1 2. Kf6 $1 d1=Q 3. Nxd1 Bxd1 4. Nf5 $1 Ba4 $1 (Bg4 5. Bf7#) (Be2 5. Ng3+) (Bc2 5. Bf7+ Kg4 6. Ne3+) 5. Bf3+ $1 g4 6. Bd5 $1 Be8 (g3 7. Bf3#) 7. Ng7+ Kh6 8. Nxe8 1-0
+
+[Event "64#16"]
+[Date "1973.04.13"]
+[Round "?"]
+[Composer "Aitov, Fatikh Sadikovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/7N/p7/5K2/2b5/7k w - - 0 1"]
+
+1. Ng3+ $1 Kh2 2. Ne2 $1 Bd1 $1 3. Ke3 Bxe2 4. Kd2 $1 a3 5. Kc2 $1 Bd1+ 6. Kb1 1/2-1/2
+
+[Event "1.hm Gantiadi"]
+[Source "EG#02203."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Aitov, Fatikh Sadikovich"]
+[Composer2 "Nogovitsin, E"]
+[White "Aitov, F"]
+[Black " Nogovitsin, E."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5P2/8/1p6/8/3p1p2/K1p5/2kN4 w - - 0 1"]
+
+1. Nf2 $1 d2 (Kd2 2. f8=Q c1=Q 3. Qf4+ Kc2 4. Qb4) 2. f8=Q (2. Nd3+ $2 Kd1 3. f8=Q Ke2 4. Qe7+ Kxd3 5. Qh7+ Kc3 6. Qg7+ Kd3 7. Qg6+ Ke2 $1 8. Qxc2 f2 9. Qe4+ Kf1 $1) d1=Q 3. Qh6+ Qd2 4. Nd3+ Kd1 5. Qh1+ Ke2 6. Nc1+ Kf2 7. Qh2+ Ke1 8. Qg1# 1-0
+
+[Event "RSFSR ty"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Aitov, Fatikh Sadikovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1K6/1P1kb3/3p4/6pB/8/8/8 w - - 0 1"]
+
+1. Bg3+ $1 Kc5 2. Kc7 Bc8 3. Bf2+ d4 4. Bxd4+ Kxd4 5. Kxc8 g3 6. b7 g2 7. b8=Q g1=Q 8. Qb6+ (8. Qa7+ {<or>}) 1-0
+
+[Event "2.hm Shakhmaty v SSSR#09"]
+[Source "Shakhmaty v SSSR/3 EG#05265."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Aitov, Fatikh Sadikovich"]
+[Composer2 "Kostenkov, V"]
+[White "Aitov, F"]
+[Black " Kostenkov, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6B1/6p1/7k/8/3p2PP/6K1/3n4 w - - 0 1"]
+
+1. g4+ $1 Kh4 (Kg5 2. Kg3) 2. Bf6+ g5 3. Bd4 d2 4. Kh2 (4. Bg1 $2 Ne3+ 5. Bxe3 d1=N 6. Bg1 Ne3+ 7. Bxe3) Ne3 5. Bxe3 d1=N 6. Bg1 (6. Bd2 $2 Nf2 7. Be1) Nc3 7. Bf2# 1-0
+
+[Event "L'Italia Scacchistica#270"]
+[Source "L'Italia Scacchistica/7-8"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Aitov, Fatikh Sadikovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/4K1p1/8/4N1pP/3N3k w - - 0 1"]
+
+1. h4 $1 gxh3 2. Nf2+ Kh2 3. Ng4+ Kh1 4. Ng3+ Kg1 5. Ke3 h2 6. Ne5 h1=Q 7. Nf3# 1-0
+
+[Event "2.c Shakhmaty v SSSR#14 (c)"]
+[Source "Shakhmaty v SSSR/4 1979 (c): Garcia=M Krug=P Estudios Artisticos de Ajedrez - XIII-33 2014."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Aitov, Fatikh Sadikovich"]
+[White "Aitov, F"]
+[Black " Kargopoltsev, L."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6Pp/8/8/K7/2p1N3/6pp/6k1 w - - 0 1"]
+
+1. g8=Q $1 h1=Q 2. Qg3 c2 (h5 3. Kb3 $1 (3. Nd1 $2 c2 $1) c2 4. Kxc2 Qh2 (Qh4 5. Qxg2#) 5. Qe1#) 3. Qe1+ Kh2 4. Ng4+ Kh3 5. Nf2+ Kh2 6. Qe5+ Kg1 7. Ng4 Kf1 (c1=Q 8. Qd4+ Kf1 9. Qf2#) (Qh4 8. Qa1+ c1=Q 9. Qxc1+ Qe1 10. Qxe1#) 8. Qf4+ Ke2 9. Qe3+ Kd1 10. Nf2# 1-0

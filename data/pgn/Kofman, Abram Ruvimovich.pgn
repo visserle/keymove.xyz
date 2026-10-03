@@ -1,0 +1,12 @@
+[Event "2.p Fizkultura i Sport Committee Ukrain"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Kofman, Abram Ruvimovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4kN2/1p6/8/3PK1B1/1rp5/8/8/8 w - - 0 1"]
+
+1. d6 $1 Rb5+ 2. Ke6 $1 (2. Kf6 $2 Rxg5) Rxg5 3. d7+ Kd8 4. Kd6 $1 Re5 $1 (Rg6+ 5. Nxg6) (Rd5+ 5. Kxd5 c3 6. Kd6) 5. Kxe5 Ke7 $1 6. Ke4 $1 (6. Kd4 $2 b5 7. Kc3 Kd8 8. Kb4 Ke7 9. Kc5 c3 $1) b6 $1 7. Ke3 $1 b5 8. Kd4 $1 Kd8 9. Kd5 c3 (Ke7 10. Kc6 c3 11. Kc7 c2 12. d8=Q+) 10. Kd6 c2 11. Ne6# 1-0

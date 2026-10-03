@@ -1,0 +1,41 @@
+[Event "Magyar Sakkvilág#103"]
+[Source "Magyar Sakkvilág/1"]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Gruber, Sandor"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/3P2P1/1k1r2r1/8/1P6/8/8/4R3 w - - 0 1"]
+
+1. Re6 $1 Kc7 $1 2. Rxd6 Rxd6 3. b5 $1 Rg6 4. b6+ $1 Rxb6 5. d8=Q+ (5. d8=B+ {<or>}) Kxd8 6. g8=Q+ 1-0
+
+[Event "Magyar Sakkvilág#209"]
+[Source "Magyar Sakkvilág/5"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Gruber, Sandor"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4Nk2/5P2/8/2K5/3p4/4p3/8/8 w - - 0 1"]
+
+1. Nf6 $1 Kxf7 (e2 {<main>} 2. Nd7+ Kxf7 3. Ne5+ Ke6 4. Nd3) 2. Nd7 Ke6 3. Kxd4 $1 e2 4. Nc5+ Kf5 5. Nd3 1/2-1/2
+
+[Event "Magyar Sakkvilág#299"]
+[Source "Magyar Sakkvilág/6"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Gruber, Sandor"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7p/6nP/6pK/5k2/5P1P/6B1/8 w - - 0 1"]
+
+1. Bf1 $1 Nh4 2. Bd3 Nf5 3. Bxf5 Kxf5 4. h4 g4 5. f4 $1 (5. fxg4+ $2 Kf4 6. g5 Kf5 7. g6 hxg6#) Kxf4 1/2-1/2

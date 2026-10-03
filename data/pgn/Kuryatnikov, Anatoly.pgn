@@ -1,0 +1,41 @@
+[Event "2.c Shakhmaty v SSSR#11b (tw)"]
+[Source "Shakhmaty v SSSR/3"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Kuryatnikov, Anatoly"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/7P/7P/7P/p7/8/8/r6k w - - 0 1"]
+
+1. Kg7 $1 Rg1+ 2. Kf7 Rf1+ 3. Ke7 Re1+ 4. Kd7 Rd1+ 5. Kc7 Rc1+ 6. Kb7 Rb1+ 7. Ka7 a3 8. h8=Q a2 9. h7 $1 a1=Q+ 10. Qxa1 Rxa1+ 11. Kb7 Rb1+ 12. Kc7 Rc1+ 13. Kd7 Rd1+ 14. Ke7 Re1+ 15. Kf7 Rf1+ 16. Kg6 Rg1+ 17. Kh6 1-0
+
+[Event "2.c Shakhmaty v SSSR#11a (tw)"]
+[Source "Shakhmaty v SSSR/3"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Kuryatnikov, Anatoly"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/7P/7P/8/p7/8/8/r6k w - - 0 1"]
+
+1. Kg7 $1 (1. Kg8 $2 Rb1) Rg1+ 2. Kf7 Rf1+ 3. Ke7 Re1+ 4. Kd7 Rd1+ 5. Kc7 Rc1+ 6. Kb7 Rb1+ 7. Ka7 a3 8. h8=Q a2 9. Qa1 $1 Rxa1 10. h7 Re1 11. h8=Q+ 1-0
+
+[Event "1.hm Shakhmaty (Riga) (tt)"]
+[Source "Shakhmaty (Riga)/7"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Kuryatnikov, Anatoly"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/b2B4/1k1K4/p7/2P5/6B1/1p6/8 w - - 0 1"]
+
+1. c5+ $1 Ka6 $1 (Kb7 2. c6+ Ka8 3. c7 b1=Q 4. Bc6+) 2. Kc6 Bxc5 $1 (a4 3. Bc8+ Ka5 4. Be1#) 3. Bb8 $1 a4 4. Bc8+ Ka5 5. Kxc5 a3 6. Bc7+ Ka4 7. Kc4 $1 a2 8. Bd7+ Ka3 9. Bd6# 1-0

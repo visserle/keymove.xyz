@@ -1,0 +1,13 @@
+[Event "Schach#06036"]
+[Source "Schach/7 EG#01208."]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Kutarashvili, G"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/p3b3/PP6/5R2/7p/8/2p1p1P1/4B1K1 w - - 0 1"]
+
+1. b7+ $1 (1. Rh5 $2 axb6 2. Rh8+ Ka7 3. Rh7 c1=Q 4. Rxe7+ Kxa6 5. Rxe2 b5) Kb8 2. Rh5 $1 Bf6 3. Rc5 $1 Bd4+ 4. Kh1 Bxc5 5. Bg3+ hxg3 1/2-1/2

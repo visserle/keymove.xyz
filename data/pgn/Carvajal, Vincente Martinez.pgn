@@ -1,0 +1,12 @@
+[Event "Havana Journal"]
+[Date "1889.??.??"]
+[Round "?"]
+[Composer "Carvajal, Vincente Martinez"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/pN6/8/2K5/k7 w - - 0 1"]
+
+1. Kc1 $1 a3 2. Nc2+ Ka2 3. Nd4 Ka1 4. Kc2 Ka2 5. Ne2 Ka1 6. Nc1 a2 7. Nb3# 1-0

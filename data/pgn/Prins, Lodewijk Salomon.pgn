@@ -1,0 +1,12 @@
+[Event "De Telegraaf"]
+[Date "1932.04.16"]
+[Round "?"]
+[Composer "Prins, Lodewijk Salomon"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1P6/8/8/8/2p5/P2p4/K2k4 w - - 0 1"]
+
+1. b8=Q $1 c2 (Ke1 2. Qe5+ Kf2 3. Qd4+ Ke2 4. Qe4+ Kf2 5. Qd3 Ke1 6. Qxc3) 2. Qb3 Kc1 3. Qa3+ Kd1 4. Qa4 Kc1 (Ke1 5. Qxc2 d1=Q+ 6. Qxd1+ Kxd1 7. a4) 5. Qf4 Kd1 6. Qf1# 1-0

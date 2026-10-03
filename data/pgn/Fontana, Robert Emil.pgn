@@ -1,0 +1,162 @@
+[Event "Basler Nachrichten"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Fontana, Robert Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7k/p4P2/3p3K/8/8/8/8 w - - 0 1"]
+
+1. Kg5 $1 a5 2. Kf5 Kg8 3. Ke6 Kf8 4. Kxd5 1/2-1/2
+
+[Event "Basler Nachrichten"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Fontana, Robert Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/pP1p4/K7/2P5/P1P5/4p3/8/8 w - - 0 1"]
+
+1. c6 $1 dxc6 2. c5 e2 3. a5 e1=Q 1/2-1/2
+
+[Event "Basler Nachrichten (pl)"]
+[Source "Basler Nachrichten/10 = Selezniev=A e6c7 1919."]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Fontana, Robert Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5k2/2PK4/5pR1/8/8/8/5r2 w - - 0 1"]
+
+1. Rxf5+ $1 Rxf5 2. c7 Rf6+ 3. Kd5 Rf5+ 4. Kd4 Rf4+ 5. Kd3 (5. Kc3 {<or>} Rf1 6. Kb2) Rf3+ 6. Kc2 $1 Rf2+ 7. Kb3 Rf3+ 8. Kb4 Rf4+ 9. Kb5 Rf5+ 10. Kb6 Rf6+ 11. Kb7 1-0
+
+[Event "Schweizerische Schachzeitung#627"]
+[Date "1945.??.??"]
+[Round "?"]
+[Composer "Fontana, Robert Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4B1k1/6Pp/5b1K/7P/4Rp2/8/p7/8 w - - 0 1"]
+
+1. Re7 $1 Bxe7 (Bg5+ {<main>} 2. Kxg5 a1=Q 3. Bf7+ Kxg7 4. Bg6+ Kg8 5. Re8+ Kg7 6. h6#) 2. Bf7+ Kxf7 3. Kxh7 (3. g8=Q+ $2 Kxg8) 1-0
+
+[Event "National Zeitung"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Fontana, Robert Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/8/8/3BK1N1/2p4p/8/2p5/8 w - - 0 1"]
+
+1. Kf6 $1 c1=Q (h3 2. Nf7+ Kg8 (Kh7 3. Be4+)) 2. Nf7+ Kg8 3. Ng5+ Kf8 4. Ne6+ Kg8 (Ke8 5. Bc6#) 5. Ng5+ Kh8 6. Nf7+ Kh7 7. Ng5+ Kh6 (Qxg5+ 8. Kxg5 c3 9. Be4+) 8. Nf7+ Kh7 (Kh5 9. Bf3#) 9. Ng5+ 1/2-1/2
+
+[Event "National Zeitung"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Fontana, Robert Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p2p1/p6p/3K3P/P7/k4P2/6P1/8 w - - 0 1"]
+
+1. a5 $1 Kb4 2. g4 Kxa5 3. f4 Kb6 (Kb5 4. g5 a5 5. f5 a4 6. f6 $1 (6. Kd4 $2 d5 $1) gxf6 7. gxf6 a3 8. f7 a2 9. f8=Q a1=Q 10. Qb8+ Ka6 11. Qa8+) 4. g5 Kc7 (a5 5. f5 $1 a4 6. f6 $1 gxf6 7. gxf6 a3 8. f7 a2 9. f8=Q a1=Q 10. Qb8+ Ka6 11. Qa8+) 5. f5 Kd8 6. f6 $1 Ke8 7. fxg7 Kf7 8. gxh6 1-0
+
+[Event "British Chess Magazine#0885"]
+[Source "British Chess Magazine/9"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Fontana, Robert Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7P/r6B/8/8/k1K5/8 w - - 0 1"]
+
+1. Bf7+ $1 Ka1 2. h7 Ra8 3. Bg8 Rxg8 4. hxg8=R 1-0
+
+[Event "British Chess Magazine#0892"]
+[Source "British Chess Magazine/10"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Fontana, Robert Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/B7/4P3/8/5k2/1r6/8/4K3 w - - 0 1"]
+
+1. e7 $1 Rb4 (Rb1+ 2. Kd2 Rb2+ 3. Kd3 Rb3+ 4. Kc4) 2. Be3+ Kxe3 3. e8=Q+ 1-0
+
+[Event "British Chess Magazine#0908"]
+[Source "British Chess Magazine/1"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Fontana, Robert Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1PK5/8/3k4/6B1/r7/8 w - - 0 1"]
+
+1. b7 $1 Rc2+ (Rb2 {<main>} 2. Bf2+ Kc4 3. Bb6) (Ra6+ {<main>} 2. Kc7 (2. Kd7 {<or>}) (2. Kb5 $2 Ra1 $1 3. Bf2+ Kd5 4. Bb6 Rb1+ 5. Ka6 Ra1+ 6. Ba5 Rb1) Ra7 3. Bf2+ Kd5 4. Bxa7) 2. Kd6 Rb2 3. Be5+ Ke4 4. Bxb2 1-0
+
+[Event "British Chess Magazine#0918"]
+[Source "British Chess Magazine/4"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Fontana, Robert Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/8/6P1/3p2k1/3P3p/3P3P/4p2P/8 w - - 0 1"]
+
+1. g7 $1 e1=Q 2. Kh8 Qe7 3. g8=Q+ Kh6 4. Qe6+ Qxe6 1/2-1/2
+
+[Event "Basler Nachrichten"]
+[Source "Basler Nachrichten/5"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Fontana, Robert Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/r1r5/P2k4/K7/3N4/8/8 w - - 0 1"]
+
+1. Kb5 $1 (1. Nb4+ $2 Kc4 2. Nxa6 (2. Nxc6 Rxc6) Rxa6) Kd6 (Ra7 {<main>} 2. Nb4+ Kd6 3. Nxc6 Rb7+ 4. Ka6 Kxc6) 2. Nb4 Ra7 3. Nxc6 Rb7+ 4. Ka6 Kxc6 1/2-1/2
+
+[Event "British Chess Magazine#1205"]
+[Source "British Chess Magazine/11"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Fontana, Robert Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p2k4/7p/7P/1K3P2/P7/8 w - - 0 1"]
+
+1. f4 $1 (1. Kb4 $2 Ke5 2. Ka5 Kf4 3. Kxa6 Kg3 $1 4. a4 Kxh4 5. a5 Kg3 $1 (Kg5 $2 6. f4+ $1) 6. Kb6 h4) Ke6 2. Ka4 Kf5 3. Ka5 Kg4 4. f5 $1 Kxf5 5. Kxa6 Kg4 6. a4 Kxh4 7. a5 Kg3 8. Kb6 h4 9. a6 h3 10. a7 h2 11. a8=Q 1-0

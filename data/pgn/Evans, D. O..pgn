@@ -1,0 +1,27 @@
+[Event "The Chess Amateur#1335"]
+[Source "The Chess Amateur/7"]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Evans, D. O."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/R3P3/2q1k2p/5p1P/5K2/8/8/8 w - - 0 1"]
+
+1. Ra6 $1 Qxa6 2. e8=Q+ Kd5 (Kd6 3. Qg6+) (Kf6 3. Qg6+) 3. Qe5+ Kc6 (Kc4 4. Qe2+) 4. Qe6+ Kb7 5. Qxa6+ Kxa6 6. Kxf5 1-0
+
+[Event "Chess Life & Review#1481"]
+[Source "Chess Life & Review/12"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Evans, D. O."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/2p2p2/2P1N1pK/n5P1/4R3/6q1/6P1/4N3 w - - 0 1"]
+
+1. Nf3 $1 Qxg2 (Nxc6 2. Nf4) (fxe6 2. Rxe6 Kg8 3. Kxg6 Kf8 4. Ne5) 2. Nf4 Qh1+ 3. Nh3 Qxh3+ 4. Nh4 Qc8 5. Nxg6+ $1 fxg6 6. Re8+ $1 Qxe8 1/2-1/2

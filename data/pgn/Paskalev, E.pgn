@@ -1,0 +1,13 @@
+[Event ".c Shakhmatna Misl#108"]
+[Source "Shakhmatna Misl/9"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Paskalev, E"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/4pp2/6p1/6P1/5P2/p3K2p/kB4Q1 w - - 0 1"]
+
+1. Qa7 $1 Kxb1 2. Qxb7+ Kc1 3. Qc7+ Kb1 4. Qh7+ $1 Kc1 5. Kd3 $1 a1=Q 6. Qc7+ $1 Kb2 7. Qxh2+ Ka3 8. Qd6+ Ka2 9. Qxe6+ 1-0

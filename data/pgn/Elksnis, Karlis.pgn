@@ -1,0 +1,41 @@
+[Event "Shakhmaty (Riga)#02"]
+[Source "Shakhmaty (Riga)/7"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Elksnis, Karlis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p7/p7/p1k1p3/2P1Pp1p/P2B1P1P/K7 w - - 0 1"]
+
+1. Kb2 $1 (1. Be1 $2 Kd3 2. c4 Kxc4 $1 3. Bxa5 Kd3 4. Bc7 Ke2 5. Bg3 a3 $1 6. Kb1 Kd1 7. Bd6 Ke2 8. Bg3 Kd1) Kd3 2. c4 Kxd2 (Kxc4 3. Bxa5) (a3+ 3. Kb3 a4+ 4. Kb4 a5+ 5. Kb5 Ke2 6. c5) 3. c5 Ke2 4. c6 Kxf2 5. c7 Kg2 6. c8=Q f2 (Kxh2 7. Qg4 f2 8. Qf4+) 7. Qg4+ Kxh2 8. Qf4+ Kg1 (Kg2 9. Qxe4+ Kg1 10. Qg4+) 9. Qg3+ Kf1 10. Qxh3+ Ke1 11. Qg3 Ke2 12. Qg2 Kxe3 (Ke1 13. Qxe4 f1=Q 14. Qb1+) 13. Qf1 1-0
+
+[Event "Schach#08637 (c)"]
+[Source "Schach/9 (c): Elksnis=K Schach/8 1979."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Elksnis, Karlis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/p3Pp2/1p6/k2p4/P2P1p2/KP3p2/8 w - - 0 1"]
+
+1. e7 $1 f1=Q 2. e8=Q Qxd3 3. Qe6 b4 4. Qc6+ Qb5 5. b3+ Ka5 6. Qc7+ Qb6 7. axb4+ Kxb4 8. Qc4+ Ka5 9. Qa4# 1-0
+
+[Event "2.hm Shakhmaty (Riga) (tt)"]
+[Source "Shakhmaty (Riga)/7"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Elksnis, Karlis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/8/4b1PP/3p4/3p3K/8/8/8 w - - 0 1"]
+
+1. Kg5 $1 (1. Kh5 $2 Kg8 2. Kg5 Kh8 3. Kf6 Bg8 $1) Kg8 $1 (d3 2. Kf6 Bg8 3. h7 d2 4. g7+) (Bf7 2. h7 Kg7 3. gxf7) 2. Kf6 Bg4 $1 3. h7+ Kh8 4. Kg5 $1 (4. Kf7 $2 Bh5) Bh5 (d3 5. Kh6 d2 6. g7#) 5. Kxh5 Kg7 6. Kg4 d3 7. Kf3 d4 8. Kf2 1-0

@@ -1,0 +1,40 @@
+[Event "1.hm Budapest ty Magyar Sakkélet"]
+[Source "Magyar Sakkélet/11-12"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Szentai, Endre"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6N1/4K3/pp6/k7/8/1P2p3/1P6/8 w - - 0 1"]
+
+1. Kd6 $1 e2 (Kb4 {<main>} 2. Ne7 Kxb3 (e2 3. Nc6+ Kxb3 4. Nd4+) 3. Nf5 e2 4. Nd4+) 2. Ne7 e1=Q 3. Nc6+ Kb5 4. Nd4+ Kb4 (Ka5 5. Nc6+) 5. Nc2+ Kxb3 6. Nxe1 1/2-1/2
+
+[Event ".c Tipografia"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Szentai, Endre"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4p3/2p3P1/6p1/2K2p2/5P2/2k5 w - - 0 1"]
+
+1. g6 $1 (1. Kd3 $2 Kd1 $1 2. Ke3 Ke1) g3 2. g7 gxf2 3. g8=Q f1=Q 4. Qg3 $1 (4. Qg5+ $2 Kb1 5. Qg6+ Ka1 6. Qg7 Qb1 $1) Kd1 (Kb1 5. Qb8+) (Qe2 {<main>} 5. Qg1+ Qd1 6. Qe3+ $1 Kb1 7. Qe4+ Kc1 8. Qf4+ Kb1 9. Qb8+ Kc1 10. Qb2#) 5. Qd6+ Ke2 (Ke1 6. Qd2#) 6. Qd2# 1-0
+
+[Event "1.hm Hungarian Chess Federation ty Magy"]
+[Source "Magyar Sakkélet/12 EG#00480."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Szentai, Endre"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5B2/5k1N/K4P2/1p6/8/7p/2n5 w - - 0 1"]
+
+1. Bd5 $1 (1. Ng4+ $2 Kxf7 2. Nxh2 b3 3. Nf1 b2 4. Nd2 Nb3+) b3 (Ke5 2. f6 Kxd5 3. f7 h1=Q 4. f8=Q) 2. Ng4+ Kxf5 3. Nxh2 b2 4. Nf1 Nb3+ (b1=Q {<main>} 5. Be4+ $1 Kxe4 (Qxe4 6. Ng3+ Kf4 7. Nxe4) 6. Nd2+ Kd3 7. Nxb1) 5. Bxb3 b1=Q 6. Bc2+ $1 Qxc2 7. Ne3+ Ke4 8. Nxc2 1/2-1/2

@@ -1,0 +1,40 @@
+[Event "L'Échiquier de Paris#233"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Rusenescu, Eugen"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5p2/b6P/4Pk2/3P4/2B5/5K2 w - - 0 1"]
+
+1. h6 $1 Bc3 (f5 2. e5 $1 (2. exf5 $2 Bc3 $1 (Kxf5 $2 3. h7 Bc3 4. d4+ $1)) Bc3 3. e6) 2. d4 (2. e5 $2 fxe5 3. d4 e4 4. d5 Kg5 5. h7 Kg6 6. Bxe4+ Kg7) Bxd4 3. e5 Bxe5 (fxe5 {<main>} 4. Be4 $1 Kxe4 5. h7) 4. Bf5 $1 Kxf5 5. h7 1-0
+
+[Event "4.c Revista de Romana de Sah#0595"]
+[Source "Revista de Romana de Sah/10 1970 EG#02731."]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Rusenescu, Eugen"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k6K/8/4p3/3p4/2Ppp3/3P4/3PP3/8 w - - 0 1"]
+
+1. cxd5 $1 exd3 (exd5 {<main> } 2. dxe4 dxe4 3. Kg7 Kb7 4. Kf6 Kc6 5. Ke5 e3 6. d3 Kc5 7. Ke4) 2. exd3 exd5 3. Kg8 $1 Ka7 (Kb8 4. Kf8 Kc8 5. Ke8 Kc7 6. Ke7 Kc6 7. Ke6 Kc5 8. Kd7 $1) (Kb7 4. Kf7 $1) 4. Kg7 Ka6 5. Kg6 Ka5 (Ka7 6. Kf5 $1 Kb6 7. Kf6 $1) 6. Kf7 $1 (6. Kg5 $2 Kb4 7. Kf4 Kb3 8. Ke5 Kc2) Kb5 7. Ke7 $1 Kc6 8. Ke6 Kc5 9. Kd7 $1 (9. Ke5 $2 Kc6 10. Kxd4 Kd6) 1-0
+
+[Event "Buletin Problemistic#189"]
+[Source "Buletin Problemistic/1-6"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Rusenescu, Eugen"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1N6/3p4/p7/P1n3P1/1kp5/1P3pP1/5K2/8 w - - 0 1"]
+
+1. Nxa6+ $1 (1. g6 $2 cxb3) (1. bxc4 $2 Ne4+ 2. Kxf3 Nxg5+ 3. Kg4 Ne6 4. Nxd7 Kxc4 5. Kf5 Nd4+ 6. Kf6 Kb5 7. g4 Nf3 8. Ne5 Nh4) Nxa6 2. bxc4 Kxa5 (Kxc4 3. g6 Nc5 4. g7 Ne4+ 5. Kxf3 Nf6 6. a6) 3. g6 (3. Kxf3 $2 Nc5 4. g6 Ne6 5. Ke4 Kb6 6. Kd5 Kc7 7. c5 Ng7 8. Ke5 Ne8 9. g4 Kc6) Nc5 4. g7 Ne4+ 5. Kxf3 Nf6 6. g4 $1 (6. Kf4 $2 Nh5+ 7. Ke5 Nxg7 8. g4 Ne8 $1) (6. Ke3 $2 Kb6 7. Kd4 Kc6 8. g4 (8. Ke5 Ng8 9. g4 Kc5 10. g5 Kxc4 11. Kd6 Kd4 12. Kxd7 Ke5 13. Ke8 Ke6 14. Kf8 Ne7) Kd6 9. g5 Ng8 10. Ke4 Ke6) Kb4 7. Kf4 $1 (7. g5 $2 Ng8 8. Ke4 Kxc4 9. Kf5 d5 10. Ke6 d4 11. Kf7 d3 12. Kxg8 d2 13. Kf8 d1=Q 14. g8=Q+ Kc5) Kxc4 8. Kf5 (8. Kg5 {<or>}) Ng8 9. Kg6 d5 10. Kf7 Nh6+ 11. Kf8 d4 12. g5 Ng8 13. Kxg8 d3 14. Kf8 d2 15. g8=Q+ 1-0

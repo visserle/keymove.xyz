@@ -1,0 +1,25 @@
+[Event "The Chess Player's Chronicle"]
+[Date "1885.??.??"]
+[Round "?"]
+[Composer "Laws, Benjamin Glover"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/kb6/1q6/8/8/1p4B1/5R2/K7 w - - 0 1"]
+
+1. Ra2+ $1 bxa2 2. Bf2 Qxf2 1/2-1/2
+
+[Event "The Chess Problem#399"]
+[Date "1887.??.??"]
+[Round "?"]
+[Composer "Laws, Benjamin Glover"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/pp3p2/1bP4K/2p5/4pN2/1r4p1/6P1/R7 w - - 0 1"]
+
+1. Rxa7 $1 Bxa7 2. Ng6+ fxg6 3. c7 Kg8 4. c8=Q+ Kf7 5. Qd7+ Kf6 6. Qd6+ Kf5 7. Qd5+ 1-0

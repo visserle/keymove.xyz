@@ -1,0 +1,40 @@
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/10"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Sakharov, O"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1Q6/1P4rk/8/7K/8/8/8/4q2B w - - 0 1"]
+
+1. Qh8+ $1 (1. Bf3 $2 Qa5+) (1. Bd5 $2 Qe2+) Kxh8 2. b8=Q+ Rg8 3. Qb2+ Rg7 (Kh7 4. Qb7+ Rg7 5. Qe4+) 4. Qb8+ Kh7 5. Qb1+ $1 Qxb1 6. Be4+ $1 Qxe4 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/8"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Sakharov, O"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k1K5/b7/8/8/6R1/p6N/P2p4/8 w - - 0 1"]
+
+1. Nf2 $1 Bxf2 2. Ra4+ Ba7 3. Rb4 d1=Q (d1=B 4. Rb5 $1) 4. Rb8+ Bxb8 1/2-1/2
+
+[Event "source unknown"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Sakharov, O"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4R3/5b2/7k/3r4/5P2/1K6 w - - 0 1"]
+
+1. Rh6+ $1 Kg5 2. Rh2 $1 Rh3+ 3. Ka1 $1 Rxh2 4. f4+ $1 Kg6 1/2-1/2

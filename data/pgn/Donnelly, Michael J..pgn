@@ -1,0 +1,13 @@
+[Event "The Problemist#0234"]
+[Source "The Problemist/9"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Donnelly, Michael J."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3k4/3pp1P1/2p4R/8/6K1/7P/2r5 w - - 0 1"]
+
+1. Rg5 $1 Ke7 2. g7 Rg1+ 3. Kh4 Rxg5 4. Kxg5 Kf7 5. Kh6 Kg8 6. Kg6 (6. h4 {<or>} c4 7. h5 c3 8. Kg6) c4 7. h4 c3 8. h5 c2 9. h6 c1=Q 10. h7# 1-0

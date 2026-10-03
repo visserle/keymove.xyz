@@ -1,0 +1,13 @@
+[Event "Schach#11444"]
+[Source "Schach/9"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Dallmer, Mathias"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1R4K1/8/8/1R2bb2/8/5p2/8/k7 b - - 0 1"]
+
+Be6+ $1 2. Kh7 $1 (2. Kf8 $2 Bxb8 3. Rxb8 f2 $1) Bxb8 3. Rxb8 Bf5+ 4. Kh8 $1 f2 5. Rg8 $1 Kb1 6. Rg2 (6. Rg3 $2 Bg4 $1) (6. Rg5 $2 Bg4 $1) f1=Q 7. Rg1 Qxg1 1/2-1/2

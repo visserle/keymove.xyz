@@ -1,0 +1,38 @@
+[Event "source unknown"]
+[Date "1839.??.??"]
+[Round "?"]
+[Composer "Von der Lasa, Tassilo"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6k1/7R/7K/5p2/8/8 b - - 0 1"]
+
+f2 $1 2. Rg5+ Kf6 3. Rg3 $1 (3. Rg8 $2 Kf7 $1) f1=Q 4. Rf3+ Qxf3 1/2-1/2
+
+[Event "Handbuch des Schachspiels (v.d. Lasa)"]
+[Date "1843.??.??"]
+[Round "?"]
+[Composer "Von der Lasa, Tassilo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/P7/8/1PK1k3/8/6p1/8 w - - 0 1"]
+
+1. a7 $1 g1=Q 2. a8=Q+ Kf4 $1 (Kf5 3. Qd5+ Kf6 4. Qd4+) 3. Qf8+ Ke4 (Ke5 4. Qc5+) 4. Qe7+ Kf3 (Kf4 5. Qf7+ Ke4 6. Qd5+ Kf4 7. Qd4+) 5. Qf6+ Ke2 (Ke4 6. Qe6+ Kf3 7. Qf5+) 6. Qe5+ Kf3 (Kd2 7. Qd4+) 7. Qf5+ Ke2 8. Qe4+ Kf1 9. Qb1+ 1-0
+
+[Event "Handbuch des Schachspiels (v.d. Lasa)-6"]
+[Date "1843.??.??"]
+[Round "?"]
+[Composer "Von der Lasa, Tassilo"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/5R2/4K1k1/pp6/8/8 w - - 0 1"]
+
+1. Rf1 $1 (1. Rf8 $2 b2 2. Rg8+ Kh5 3. Kf5 b1=Q+) b2 2. Rg1+ Kh5 3. Kf5 Kh4 4. Kf4 Kh3 5. Kf3 Kh4 (Kh2 6. Rb1) 6. Kf4 Kh3 7. Kf3 1/2-1/2

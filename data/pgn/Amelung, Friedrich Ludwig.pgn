@@ -1,0 +1,173 @@
+[Event "Nordische Rundschau"]
+[Date "1884.??.??"]
+[Round "?"]
+[Composer "Amelung, Friedrich Ludwig"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/p1p1ppP1/5b1K/3N1P1P/6Nq/8/P1P5/8 w - - 0 1"]
+
+1. Ngxf6+ $1 (1. Ndxf6+ $2 exf6) Qxf6+ (exf6 2. Ne7#) 2. Nxf6+ exf6 3. c4 c5 4. a4 a5 1/2-1/2
+
+[Event "Nordische Rundschau"]
+[Date "1886.??.??"]
+[Round "?"]
+[Composer "Amelung, Friedrich Ludwig"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p1p1p/5P1k/4PKpP/3P3q/6N1/1P5P/2B5 w - g6 0 1"]
+
+1. hxg6+ $1 Qf4+ 2. Bxf4# 1-0
+
+[Event "Baltische Schachblätter#145"]
+[Date "1893.??.??"]
+[Round "?"]
+[Composer "Amelung, Friedrich Ludwig"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "n5k1/3P4/r3P1PK/b4q2/8/8/Q7/2n5 w - - 0 1"]
+
+1. e7+ $1 Nxa2 2. d8=Q+ Bxd8 3. exd8=Q+ Qf8+ 4. Qxf8+ Kxf8 5. Kh7 $1 Ra7+ 6. Kh8 Rb7 7. g7+ Rxg7 1/2-1/2
+
+[Event "Rigaer Tageblatt#107"]
+[Source "also Deutsche Schachzeitung#0743 Deutsche Schachzeitung/12 1896."]
+[Date "1896.??.??"]
+[Round "?"]
+[Composer "Amelung, Friedrich Ludwig"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k1K5/8/5B2/p1N5/8/8/3b4 w - - 0 1"]
+
+1. Ne5 $1 (1. Bd3 $2 Bf3 $1) Be2 (Ka8 2. Bc8) (Ka6 2. Bd3+) 2. Nc6+ Ka6 3. Bc8+ Kb5 4. Nd4+ Kb4 5. Nxe2 Kb3 $1 6. Be6+ Kb2 7. Nf4 $1 a3 8. Nd3+ 1-0
+
+[Event "Rigaer Tageblatt#115"]
+[Date "1897.??.??"]
+[Round "?"]
+[Composer "Amelung, Friedrich Ludwig"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7q/4p1pk/4p2N/4P2K/7R/8/8/8 w - - 0 1"]
+
+1. Ng8 $1 (1. Nf7 $2 Qf8 2. Kg5+ Kg8 3. Rh8+ Kxf7 4. Rxf8+ Kxf8) Kxg8+ (Qxg8 2. Kg5#) (g6+ 2. Kg5+ Kxg8 3. Rxh8+ Kxh8 4. Kxg6) (g5 2. Kxg5+) 2. Kg6 $1 Qh6+ (Qxh4) 3. Rxh6 gxh6 4. Kxh6 1/2-1/2
+
+[Event "St.Petersburger Zeitung#22"]
+[Date "1898.??.??"]
+[Round "?"]
+[Composer "Amelung, Friedrich Ludwig"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p5B/1P6/p1p5/kpP5/n2Rp3/K1P1p2p/8 w - - 0 1"]
+
+1. Rxa3+ $1 bxa3 2. c3 e1=N 3. Bg6 h1=B (h1=Q 4. Bc2+ Nxc2) 4. Be8+ Bc6 5. Bxc6+ bxc6 6. b7 Nd3 7. b8=Q Nc1+ 8. Kb1 1-0
+
+[Event "source unknown"]
+[Date "1899.??.??"]
+[Round "?"]
+[Composer "Amelung, Friedrich Ludwig"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2K5/8/1k6/1p6/8/8/1R6 w - - 0 1"]
+
+1. Kb7 $1 (1. Kd6 $2 Kc4 $1 2. Ke5 b3 3. Ke4 Kc3 4. Ke3 b2) Kc4 (Ka4 2. Kb6 $1 b3 3. Kc5) 2. Kb6 b3 3. Ka5 Kc3 4. Ka4 b2 5. Ka3 1-0
+
+[Event "Rigaer Tageblatt"]
+[Source "Rigaer Tageblatt/9"]
+[Date "1902.??.??"]
+[Round "?"]
+[Composer "Amelung, Friedrich Ludwig"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6Pn/8/3K3b/8/3k4/8/8 w - - 0 1"]
+
+1. Ke6 $1 Bd1 (Ng5+ 2. Kf6) 2. g8=Q $1 (2. Kf5 {<or>} Bb3 3. g8=Q) (2. Kf7 $2 Bb3+ 3. Kg6 Bg8) Bb3+ 3. Kf5 Bxg8 4. Kg6 Ke4 (Nf8+ 5. Kg7) 5. Kg7 1/2-1/2
+
+[Event "Rigasche Rundschau"]
+[Date "1907.??.??"]
+[Round "?"]
+[Composer "Amelung, Friedrich Ludwig"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/B7/8/8/8/1Rp5/K2k4 w - - 0 1"]
+
+1. Be2+ $1 Kd2 2. Ka2 Kc3 3. Rb3+ Kd2 4. Rd3+ Kxe2 5. Rc3 Kd2 6. Kb2 1-0
+
+[Event "Rigasche Rundschau#552 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - XVI-4 2015."]
+[Date "1907.03.24"]
+[Round "?"]
+[Composer "Amelung, Friedrich Ludwig"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/R7/B7/8/8/8/2pk4/K2N4 w - - 0 1"]
+
+1. Rd7+ $1 Ke1 (Kc1 2. Be2) 2. Re7+ Kd2 (Kxd1 3. Rd7+) 3. Nc3 $1 c1=Q+ 4. Nb1+ Kd1 (Kc2 5. Rc7+) 5. Rd7+ Ke1 6. Rf7 1-0
+
+[Event "Rigasche Rundschau#552a"]
+[Source "after Amelung=F a1d2 1907."]
+[Date "1907.03.24"]
+[Round "?"]
+[Composer "Amelung, Friedrich Ludwig"]
+[White "Amelung, F"]
+[Black " Behting, C."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "R7/8/B7/8/8/8/2pk4/K2N4 w - - 0 1"]
+
+1. Rd8+ $1 Ke1 2. Re8+ Kd2 (Kxd1 3. Be2+ Kd2 4. Rd8+) 3. Nc3 $1 c1=Q+ (Kxc3 4. Rc8+) 4. Nb1+ Kd1 5. Rd8+ $1 Ke1 6. Rf8 $1 Qc5 7. Rf1# 1-0
+
+[Event "Rigasche Rundschau#552"]
+[Date "1907.03.24"]
+[Round "?"]
+[Composer "Amelung, Friedrich Ludwig"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/B7/8/1R6/8/2pk4/K2N4 w - - 0 1"]
+
+1. Rb2 $1 Kxd1 2. Be2+ Kd2 3. Ka2 Kc3 4. Rb3+ Kd2 5. Rd3+ Kxe2 6. Rc3 Kd2 7. Kb2 1-0
+
+[Event "Rigasche Rundschau#552 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - I-10 2012."]
+[Date "1907.03.24"]
+[Round "?"]
+[Composer "Amelung, Friedrich Ludwig"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/B7/R7/p7/8/2pk4/K2N4 w - - 0 1"]
+
+1. Rd5+ $1 Ke1 2. Re5+ Kd2 3. Nc3 c1=Q+ 4. Nb1+ Kd1 5. Rd5+ Ke1 6. Rf5 1-0

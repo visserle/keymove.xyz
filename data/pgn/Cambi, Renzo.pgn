@@ -1,0 +1,54 @@
+[Event "L'Italia Scacchistica#4779"]
+[Source "L'Italia Scacchistica/3"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Cambi, Renzo"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6r1/4qP2/3N4/1p2B3/p1b5/kpK5/1R5p/8 w - - 0 1"]
+
+1. Nxb5+ $1 Bxb5 2. f8=Q Rxf8 3. Bd6+ Qxd6 4. Rxb3+ Ka2 5. Rb2+ Ka1 6. Rb1+ Kxb1 1/2-1/2
+
+[Event "L'Italia Scacchistica#296"]
+[Source "L'Italia Scacchistica/3"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Cambi, Renzo"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5b2/8/1P6/P7/K7/p7/2k5/8 w - - 0 1"]
+
+1. b7 $1 a2 2. b8=Q a1=R+ $1 (a1=Q+ 3. Kb5 Qb2+ 4. Ka6 Qxb8) 3. Kb5 Rb1+ 4. Kc6 Rxb8 5. a6 1/2-1/2
+
+[Event "L'Italia Scacchistica#336"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Cambi, Renzo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/5P1P/pp6/1k1K4/8/8 w - - 0 1"]
+
+1. h6 $1 (1. f6 $2 a3) a3 (Ka2 2. h7 b3 3. h8=Q b2 4. Qxb2+ Kxb2 5. f6) 2. h7 a2 3. h8=B $1 (3. h8=Q $2 a1=Q 4. Qg8+ Ka3 5. Qa8+ Kb3 6. Qxa1) Ka3 {<eg>} 4. Kc2 b3+ 5. Kc1 1-0
+
+[Event "L'Italia Scacchistica#345"]
+[Source "L'Italia Scacchistica/8"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Cambi, Renzo"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2b5/2P5/3P2P1/7P/7K/7p/5k2/8 w - - 0 1"]
+
+1. d7 $1 Bxd7 2. c8=Q Bxc8 3. g7 h2 4. g8=Q h1=R+ (h1=Q+ 5. Kg5 Qg2+ 6. Kh6 Qxg8) 5. Kg5 Rg1+ 6. Kf6 Rxg8 7. h6 1/2-1/2

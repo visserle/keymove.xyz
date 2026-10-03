@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Rash-Nilsen, Poul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "5n2/4NQp1/8/8/4pP1k/8/6K1/4q3 w - - 0 1"]
+
+1. Nf5+ (1. Nc8 Qd2+ 2. Kg1 Qe3+) (1. Qh5+ Kxh5) (1. Qc4 Qg3+ 2. Kf1 Qxf4+ 3. Ke1 Qg3+) (1. Qe6 Qe2+ 2. Kg1 Nxe6 3. Nf5+ Kh3) Kg4 2. Ne3+ (2. Nh6+ $2 gxh6 3. Qg7+ $10) (2. Qxg7+ $2 Kxf5 3. Qf7+ $10) (2. Qxf8 $2 Qd2+ 3. Kg1) Qxe3 3. Qxg7+ (3. Qxf8 $4 Qd2+ 4. Kg1 Qc1+) (3. Qc7 $4 Qd2+ 4. Kg1 Kh3) (3. Qc4 $4 Qd2+ 4. Kf1 e3) (3. f5 $4 Qe2+ 4. Kg1 Kh3) (3. Qa2 Qf3+ 4. Kg1 Qxf4 5. Qe2+ Qf3) Kf5 (Kxf4 4. Qh6+ $1 $18 (4. Qxf8+ $2 Kg5 5. Qe8) (4. Qf6+ $4 Kg4 5. Qg7+ Qg5) (4. Qf7+ $4 Kg4 5. Qg7+ Qg5) (4. Qg3+ $4 Qxg3+ 5. Kh1 Qg4)) 4. Qg5+ (4. Qf7+ Kg4 5. Qg7+ $18) (4. Qe5+ $2 Kg6 5. f5+ $10) (4. Qxf8+ $2 Ke6 5. f5+ $10) (4. Qh6 $4 Qf3+ 5. Kg1 Qg3+) Ke6 5. f5+ $18 (5. Qe5+ $2 Kd7 6. f5 $10) (5. Qg6+ $4 Nxg6 6. f5+ Kxf5) (5. Qh6+ $4 Kf7) 1-0

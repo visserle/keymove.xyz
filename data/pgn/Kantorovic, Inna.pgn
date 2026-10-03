@@ -1,0 +1,27 @@
+[Event "3.c Beginner ty Shakhmaty v SSSR (v)"]
+[Source "Shakhmaty v SSSR/8 1954 (v): 1960."]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Kantorovic, Inna"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "R7/P7/8/8/2q5/5K2/7k/8 w - - 0 1"]
+
+1. Rh8+ $1 Kg1 2. Rh1+ $1 Kxh1 3. a8=Q Kh2 (Kg1 4. Qa1+ Kh2 5. Qb2+ Kh3 6. Qh8+ Qh4 7. Qc8+ Kh2 8. Qc2+) 4. Qh8+ Kg1 5. Qg7+ Kf1 6. Qa1+ 1-0
+
+[Event "3.c Beginner ty Shakhmaty v SSSR (s)"]
+[Source "Shakhmaty v SSSR/8 1954"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Kantorovic, Inna"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/P7/R7/8/2q5/5K2/7k/8 w - - 0 1"]
+
+1. Rh6+ $1 (1. a8=Q $2 Qd3+) Kg1 2. Rh1+ $1 (2. a8=Q $2 Qd3+ 3. Kf4 Qd2+) Kxh1 3. a8=Q Kg1 (Kh2 {<main>} 4. Qh8+ Kg1 5. Qg7+ Kf1 6. Qa1+) (Qd3+ {<main>} 4. Kf2+ Kh2 5. Qg2#) (Qf7+ { <main>} 4. Kg3+ Kg1 5. Qg2#) 4. Qa7+ $1 (4. Qa1+ $2 Qf1+ $1 (Kh2 $2 5. Qb2+)) Kh1 (Kf1 5. Qa1+) 5. Qh7+ Kg1 6. Qg7+ Kf1 7. Qa1+ 1-0

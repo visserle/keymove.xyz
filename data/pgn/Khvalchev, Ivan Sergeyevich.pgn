@@ -1,0 +1,54 @@
+[Event "Shakhmaty v SSSR#086"]
+[Source "Shakhmaty v SSSR/4"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Khvalchev, Ivan Sergeyevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2r5/7P/8/8/8/kp6/p1R5/K6B w - - 0 1"]
+
+1. h8=Q $1 Rxh8 2. Rxa2+ $1 bxa2 3. Bd5 Rh2 4. Bg2 $1 Rh5 5. Bd5 Rh2 6. Bg2 Kb3 7. Bd5+ Ka3 8. Bg2 Rxg2 1/2-1/2
+
+[Event "Shakhmaty v SSSR#26 (c)"]
+[Source "Shakhmaty v SSSR/12 (c): Garcia=M Estudios Artisticos de Ajedrez - VI-42 2012."]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Khvalchev, Ivan Sergeyevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5B2/5k2/rbK5/p3P2R/P7/4P3/5p2/8 w - - 0 1"]
+
+1. Rf5+ $1 (1. e6+ $2 Kxe6 2. Rh1 Bxe3+ 3. Kb5 Ra8) Ke6 2. Rf6+ Kxe5 3. Rxf2 Bxe3+ 4. Kb5 Rb6+ 5. Kxa5 Bxf2 6. Bg7+ Kd5 7. Bd4 Bxd4 1/2-1/2
+
+[Event "3.hm Shakhmaty v SSSR#36"]
+[Source "Shakhmaty v SSSR/9"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Khvalchev, Ivan Sergeyevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/4P1p1/N2p4/7b/2k2P2/4K3 w - - 0 1"]
+
+1. Nc5 $1 Bf5 (Bg2 2. Ne6 $1 d3 3. Nd4+ Kc3 4. Nb5+) 2. f4 $1 (2. Ke2 $2 d3+ 3. Nxd3 Bxd3+ 4. Ke3 Bf5 5. f4 g4 $1) g4 (gxf4 3. Kf2 d3 4. Nxd3 Kxd3 5. Kf3) 3. e6 d3 4. Nxd3 $1 Kxd3 5. e7 Bd7 6. Kf2 Ke4 7. Kg3 Kf5 8. Kh4 Kxf4 9. e8=Q Bxe8 1/2-1/2
+
+[Event "Krasnoe Znamja"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Khvalchev, Ivan Sergeyevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/1B4p1/7p/7P/5k2/8/8/8 w - - 0 1"]
+
+1. Bd5 $1 (1. Bc6 $2 Kg5 2. Be8 g6 3. hxg6 Kf6 4. Kd7 h5) Kg5 2. Bf7 g6 3. hxg6 Kf6 4. Kd7 h5 5. Ke8 h4 6. Kf8 h3 7. g7 h2 8. Bd5 1-0

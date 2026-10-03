@@ -1,0 +1,13 @@
+[Event "1.hm Magyar Sakkélet#0710"]
+[Source "Magyar Sakkélet/8 EG#00930."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Koch, Johann Friedrich Wilhelm"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k1K2/1p1p1pPP/3P2P1/q1p3n1/8/8/6p1/8 w - - 0 1"]
+
+1. g8=R $1 (1. g8=Q $2 Qa1 2. h8=Q g1=Q 3. Qgg7 Qgd4) Qa1 2. h8=B $1 g1=Q 3. g7 Qgd4 1/2-1/2

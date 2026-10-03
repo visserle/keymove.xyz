@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Shamkovich, Leonid Alexandrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "7R/8/3pK1p1/8/p7/8/2k5/8 w - - 0 1"]
+
+1. Kd5 (1. Ra8 $2 Kb3 2. Rb8+ $10) (1. Kxd6 $2 a3 2. Rg8 $10) (1. Rc8+ $2 Kb2 2. Rb8+ $10) (1. Rb8 $2 d5 2. Ra8 $10) (1. Rh2+ $2 Kc3 2. Rg2 $10) (1. Rh1 $2 g5 2. Rg1 $10) a3 2. Kc4 (2. Ra8 $2 Kb2 3. Rb8+ $10) (2. Rh2+ $2 Kc3 3. Rg2 $10) (2. Kd4 $2 d5 3. Kxd5) (2. Rh1 a2 3. Kc4) (2. Rg8 g5 3. Kxd6) d5+ (a2 3. Rh2+ (3. Ra8 $2 d5+ 4. Kb4 $10) (3. Kb4 $4 a1=Q 4. Rh2+ Kd3 $19) (3. Rb8 $4 d5+ 4. Kxd5 a1=Q) (3. Rh1 $2 d5+ 4. Kb4) (3. Rh7 $4 a1=Q 4. Rh2+ Kb1) (3. Rh3 $4 a1=Q 4. Rh2+ Kb1) (3. Kd4 a1=Q+ 4. Kd5 Qxh8 5. Kxd6 Qe8) Kb1 4. Kb3 (4. Kc3 $4 a1=Q+ 5. Kb3 Qa8 $19 6. Rb2+ Kc1) (4. Rh1+ $2 Kb2 5. Rh2+) (4. Kb4 $4 a1=Q 5. Rh1+ Ka2) (4. Kd5 $2 g5 5. Rh1+) a1=N+ 5. Kc3 (5. Ka3 $2 Nc2+ 6. Kb3 $10) (5. Kc4 $2 Nc2 6. Kb3) d5 6. Rh1+ (6. Rb2+ Kc1 7. Ra2 $18) (6. Rd2 Kc1 7. Ra2 $18) (6. Rh4 Ka2 7. Rd4 $18) (6. Kd4 $2 g5 7. Rg2 $10 Nc2+ 8. Rxc2 Kxc2 9. Kxd5) (6. Rg2 d4+ 7. Kxd4 Nb3+ 8. Kc3) (6. Re2 d4+ 7. Kxd4 Nb3+ 8. Kc3) (6. Rh7 d4+ 7. Kxd4 Nc2+ 8. Kc3) (6. Rh8 d4+ 7. Kxd4 Nb3+ 8. Kc3) (6. Rc2 Nxc2) (6. Rf2 d4+ 7. Kxd4 Nc2+ 8. Kc3) Ka2 7. Rd1 (7. Rh2+ $2 Ka3 8. Rg2 $10) (7. Rc1 $2 d4+ 8. Kd3 $10) (7. Rg1 $2 Nb3 8. Re1 $10) (7. Rxa1+ $2 Kxa1 8. Kd4 $10) (7. Kd4 $2 g5 8. Rg1 $10 Nb3+ 9. Kxd5) Nb3 8. Rxd5 $1 $18 (8. Rf1 $2 g5 9. Re1 $10) (8. Rd3 $2 d4+ 9. Rxd4 Nxd4 10. Kxd4) (8. Rd4 $2 Nxd4 9. Kxd4)) 3. Kb4 (3. Kxd5 $2 a2 4. Rc8+ $10) (3. Kd4 $2 g5 4. Rg8 $10) (3. Kb5 $2 g5 4. Rg8 $10) a2 4. Rh2+ (4. Ra8 $2 Kb2 5. Re8 $10 a1=Q 6. Re2+) (4. Ka3 $4 a1=Q+ 5. Kb4 Qxh8 $19) (4. Rh3 $4 a1=Q 5. Rh2+ Kd3 $19) (4. Rh1 $2 d4 5. Rg1) (4. Rc8+ Kb2 5. Re8) Kb1 5. Ka3 (5. Kb3 a1=N+ 6. Kc3 $18) (5. Kc3 $2 d4+ 6. Kb3 $10) (5. Rh1+ Kb2 6. Rh2+) (5. Kc5 $2 g5 6. Rg2) (5. Rxa2 $2 Kxa2 6. Kc5) a1=Q+ 6. Kb3 $18 (6. Kb4 $4 Qd4+ 7. Kb5 Qc4+) (6. Ra2 $4 Qxa2+ 7. Kb4 Qc4+) 1-0

@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[Composer "Mueller, Markus"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/8/2n1n3/8/6N1/5N2/K3p3/5k2 w - - 0 1"]
+
+1. Nf6 (1. Ne3+ $2 Kf2 2. Ng4+ Kxf3 3. Nh2+ Kg3) (1. Nfh2+ $2 Kg2 2. Ne3+ Kxh2 $19 3. Ng4+ Kg1) (1. Nge5 $2 Nxe5 2. Nxe5 e1=Q $19) (1. Kb3 $2 Ncd4+ 2. Nxd4 Nxd4+ 3. Kc4 e1=Q) (1. Nd4 $2 Nexd4 2. Ne3+ Kf2) (1. Ng5 $2 e1=Q 2. Nxe6 Qxe6+ 3. Kb2 Qxg4) (1. Ka3 $2 Ned4 2. Ngh2+ Kf2) Kf2 2. Ne1 (2. Nd2 $2 e1=Q 3. Nfe4+ Ke2 $19 4. Nc3+ Kxd2) (2. Ne4+ $2 Kxf3 3. Ng5+ Nxg5 $19) (2. Ne5 $2 Nxe5 3. Ng4+ Nxg4 $19) (2. Nh2 $2 e1=Q 3. Nfg4+ Ke2) (2. Ng4+ $2 Kxf3 3. Nh2+ Kg3) (2. Nd4 $2 Nexd4 3. Ng4+ Kg1) (2. Ng5 $2 e1=Q 3. Ng4+ Ke2) (2. Nh4 $2 e1=Q 3. Ng4+ Ke2) (2. Nh7 $2 Kxf3 3. Ng5+ Nxg5) (2. Ng8 $2 Ncd4 3. Nxd4 Nxd4) Kxe1 3. Ne4 (3. Ng4 $2 Ned4 4. Ne3 Kf2) (3. Nd5 $2 Kd2 4. Nb4 e1=Q 5. Kb3 Ncd4+) (3. Kb2 $2 Kd1) (3. Kb1 $2 Kd1) Kd1 (Kf1 4. Ng3+ $1 $10 (4. Nd2+ $2 Kf2 5. Ne4+ Ke3 $19) (4. Nc3 $2 e1=Q 5. Kb3 Qe3 6. Kc4 Qd4+) (4. Kb2 $2 e1=Q 5. Ng3+ Qxg3) (4. Kb3 $2 e1=Q 5. Nc3 Qe3 6. Kc4 Qd4+) (4. Nf2 e1=Q)) 4. Nc3+ $10 (4. Nf2+ $2 Kc2) 1/2-1/2

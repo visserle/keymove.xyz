@@ -1,0 +1,13 @@
+[Event "1.p Magyar Sakkvilág#124 (c)"]
+[Source "Magyar Sakkvilág/10 (c): Horning=G Josten=G Europa Rochade=9 9/2002."]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Isaev, Leonid Antonovic"]
+[White "Isaev, L"]
+[Black " Levman, S."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/3p3p/P4P1K/6PP/7q/5P1b/N7/8 w - - 0 1"]
+
+1. a7 $1 Qa4 2. f7 Qa3 3. Nb4 $1 Qxf3 4. Nd5 $1 Qa3 5. Ne7 $1 Qf3 6. Ng6+ $1 hxg6 7. hxg6 1-0

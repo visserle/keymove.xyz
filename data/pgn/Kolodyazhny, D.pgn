@@ -1,0 +1,26 @@
+[Event "Shakhmaty#258"]
+[Source "Shakhmaty/12"]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Kolodyazhny, D"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "q7/4N3/3p4/7p/B4PkP/3K4/3P1P2/8 w - - 0 1"]
+
+1. Bd7+ $1 Kxf4 $1 2. Ng6+ Kf3 3. Bc6+ Qxc6 4. Ne5+ dxe5 1/2-1/2
+
+[Event "64#224"]
+[Date "1927.06.30"]
+[Round "?"]
+[Composer "Kolodyazhny, D"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p6q/8/3p1p1p/5B2/3KR2p/3P3P/3k4 w - - 0 1"]
+
+1. Rg3 $1 (1. Rf3 $2 Kc1 (Ke1 $2 2. Bg3+) (Qe7 $2 2. Rf1+) 2. Rf1+ Kb2 3. Be5+ d4 $1 (Ka3 $2 4. Ra1+ Kb4 5. Rb1+ Kc5 6. Rc1+ Kb6 7. Rb1+ Kc6 8. Rc1+ Kb7 9. Rb1+ Ka6 10. Ra1+ Kb7 11. Rb1+ Kc6 12. Rc1+) 4. Bxd4+ Kb3 5. Rb1+ Ka4 6. Ra1+ Kb5 7. Rxa7 Qg8 8. Rb7+ Kc6 9. Rb6+ Kd7 10. Rb7+ Kc8) Kc1 2. Rg1+ Kb2 3. Rg7 $1 Qxg7 (Qh8 4. Be5+) 4. Be5+ Qxe5 1/2-1/2

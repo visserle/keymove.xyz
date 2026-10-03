@@ -1,0 +1,27 @@
+[Event "Deutsche Schachzeitung#083"]
+[Source "Deutsche Schachzeitung/6"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Kandler, W"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p5/1p1p4/1P1P4/1KP5/6p1/6N1/5k2 w - - 0 1"]
+
+1. Nf4 $1 g2 2. Nh3 $1 g1=Q 3. Nxg1 Kxg1 4. Ka3 $1 Kf1 5. Kb3 Ke1 6. Ka3 $1 (6. Kc3 $2 Ke2 7. Kc2 Ke3 8. Kc3 Ke4) Kd1 7. Kb3 Kc1 8. Kc3 $1 1/2-1/2
+
+[Event "Deutsche Schachzeitung#082"]
+[Source "Deutsche Schachzeitung/6"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Kandler, W"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/8/6pN/7P/kp6/4b3/P7/8 w - - 0 1"]
+
+1. hxg6 $1 Bxh6 (Ka3 2. Ng4 Bd4 3. Kf7 Bh8 4. Kg8) 2. Kh7 Bf8 3. Kg8 Bc5 4. Kf7 Bd4 5. Ke6 Ka3 6. Kd5 Bg7 7. Kc4 Bf8 8. Kb5 1/2-1/2

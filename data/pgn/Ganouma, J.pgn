@@ -1,0 +1,13 @@
+[Event "Revue d'Échecs de Bruxelles#18"]
+[Source "Revue d'Échecs de Bruxelles/8"]
+[Date "1908.??.??"]
+[Round "?"]
+[Composer "Ganouma, J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B7/3P4/7b/6kp/6p1/5p2/R4K2/3r4 w - - 0 1"]
+
+1. Bd5 $1 Rxd5 2. Ra5 Rxa5 3. d8=Q+ 1-0

@@ -1,0 +1,25 @@
+[Event "Schackvärlden#351"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Arnstam, Knut Anders Olof"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1P6/7p/7P/5p2/1b3P2/4k1K1 w - - 0 1"]
+
+1. Kh2 $1 Kxf2 (Bd4 2. b7 Ba7 3. Kh3 Kxf2 4. b8=Q Bxb8) 2. b7 Be5+ 3. Kh3 Ke1 4. b8=Q Bxb8 1/2-1/2
+
+[Event "3.c Schackvärlden#354"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Arnstam, Knut Anders Olof"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3N3K/2p5/3PP2p/7k/8/r7/8/3b4 w - - 0 1"]
+
+1. e7 $1 Re3 (Ba4 {<main>} 2. dxc7 Rc3 3. Nc6 Bxc6 (Rxc6 {<main>} 4. e8=Q+) 4. c8=Q) 2. dxc7 Bg4 3. Ne6 Rxe6 (Bxe6 {<main>} 4. e8=Q+) 4. c8=Q Rxe7 5. Qc5+ 1-0

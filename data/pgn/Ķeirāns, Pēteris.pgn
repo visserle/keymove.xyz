@@ -1,0 +1,12 @@
+[Event "Krusta-Mikla, Sachs & Bridzs#1017"]
+[Date "1938.04.02"]
+[Round "?"]
+[Composer "Ķeirāns, Pēteris"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/1q2r3/4pPQ1/4p1K1/3N4/6P1/8/8 w - - 0 1"]
+
+1. f7 $1 (1. Qh6+ $2 Kg8 2. Nb5 Rh7) Rxf7 2. Nxe6+ Ke8 3. Qg8+ Ke7 4. Qxf7+ Kxf7 5. Nd8+ Ke8 6. Nxb7 1-0

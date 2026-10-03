@@ -1,0 +1,13 @@
+[Event "Sachové Umenie#3269"]
+[Source "Sachové Umenie/9"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Valtera, Jiří"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2b1k1K1/1pPp4/1P1p2p1/5PP1/8/8/p3p3/8 w - - 0 1"]
+
+1. f6 $1 e1=Q (a1=Q 2. f7+ Ke7 3. f8=Q+ Ke6 4. Qf7+ Ke5 5. Qg7+) (d5 2. f7+ Ke7 3. f8=Q+ Ke6 4. Qf6#) 2. f7+ Ke7 3. f8=Q+ Ke6 { <eg>} 4. Qe8+ 1-0

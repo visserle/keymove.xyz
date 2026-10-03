@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1916.??.??"]
+[Round "?"]
+[Composer "Dolchi, Annibale"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "n6k/5p1b/5P1K/6RP/6P1/p1p5/8/8 w - - 0 1"]
+
+1. Rc5 (1. Ra5 $2 c2 2. g5 (2. Rxa8+ $2 Bg8 3. g5 a2 4. Rxa2 c1=Q $19) Nb6 (c1=Q 3. Rxa3 $19 $4 (3. Rxa8+ Bg8 4. Rxg8+ Kxg8)) 3. Re5 Nc4 4. Re8+ Bg8 5. Re1 Ne5 6. g6 Bh7 7. gxh7 Ng4+ 8. Kg5 Ne3 $19) (1. Rg7 $2 Bg8 $19) (1. Rd5 $2 c2 $19) (1. Rg6 $2 Bxg6 2. hxg6 c2 $19) (1. Re5 $2 Nc7 $19) (1. Rb5 $2 c2 $19 2. Rb8+ $2 (2. g5 $5) Bg8) (1. Rf5 Bxf5 2. gxf5 c2) a2 2. Rc8+ (2. Ra5 $2 Nc7 3. Rxa2 c2 $17 $19) (2. Rxc3 $2 a1=Q 3. Rc8+ Bg8) Bg8 3. Rxa8 (3. Rd8 $2 a1=Q 4. Rxg8+ Kxg8) (3. Rf8 $2 a1=Q 4. Rxg8+ Kxg8) (3. Rb8 $2 a1=Q 4. Rxg8+ Kxg8) (3. Kg5 $2 a1=Q 4. Rxc3 Qxc3 $19) (3. Rc5 $2 a1=Q 4. Rxc3 Qxc3) c2 4. g5 (4. Rxa2 $2 c1=Q+ 5. Rd2 Qxd2+ 6. g5 Qd5 $19) (4. Ra5 $2 c1=Q+ 5. Rg5 Qc3) (4. Ra3 c1=Q+ 5. Re3 Qxe3+ 6. g5 Qe4) (4. Ra7 c1=Q+ 5. g5 Qc2) (4. Rb8 c1=Q+ 5. g5 Qb1) (4. Kg5 c1=Q+ 5. Kf5 Qe3) c1=Q 5. Rxg8+ (5. Rf8 $2 Qc2 6. Rxg8+ Kxg8 $19) (5. Rc8 $2 Qxc8 6. g6 Qc1#) (5. Rxa2 $2 Qb1) Kxg8 1/2-1/2

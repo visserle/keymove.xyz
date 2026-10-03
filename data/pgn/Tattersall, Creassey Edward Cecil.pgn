@@ -1,0 +1,27 @@
+[Event "Tattersall's a Thousand End Games#075 ("]
+[Source "î@: Ulrichsen=J HHdbIII#62156 13-2-2003."]
+[Date "1910.??.??"]
+[Round "?"]
+[Composer "Tattersall, Creassey Edward Cecil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5p1p/1p1k4/6PP/P2K4/8/8 w - - 0 1"]
+
+1. h5 $1 Ke5 2. Ke3 Kd5 3. Kf4 Kc4 (Ke6 4. Ke4 Kd6 5. Kf5 Ke7 6. Kg6 Ke6 7. Kxh6) 4. Kf5 Kb3 5. Kxf6 Kxa3 6. g5 b4 7. gxh6 (7. g6 $1 {<minor dual JU>}) b3 8. h7 b2 9. h8=Q b1=Q 10. Qa8+ Kb2 11. Qb8+ Kc2 12. Qxb1+ 1-0
+
+[Event "British Chess Magazine#060"]
+[Source "British Chess Magazine/1"]
+[Date "1910.??.??"]
+[Round "?"]
+[Composer "Tattersall, Creassey Edward Cecil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7p/ppKpPkpP/5P2/8/8/8 w - - 0 1"]
+
+1. Kxd5 $1 (1. fxg5 $2 Kxe5 2. g6 Kf6 3. Kxb5 Kg7) a4 (gxf4 2. e6 Kf6 3. Kd6 f3 4. e7 f2 5. e8=Q f1=Q 6. Qf8+) 2. e6 a3 3. e7 a2 4. e8=Q a1=Q 5. Qe5+ Qxe5+ 6. fxe5 g4 (b4 7. e6 b3 8. e7 b2 9. e8=Q b1=Q 10. Qg6+) 7. e6 Kf6 8. Kd6 g3 9. e7 g2 10. e8=Q g1=Q 11. Qf8+ Kg5 12. Qg7+ 1-0

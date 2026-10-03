@@ -1,0 +1,12 @@
+[Event "SEPA"]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Roca Cenon, E"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3b4/p2P1k1p/8/1P2p3/P7/4p3/4K3/4B3 w - - 0 1"]
+
+1. Bh4 $1 Bxh4 2. a5 Bd8 3. b6 axb6 4. a6 1-0

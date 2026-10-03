@@ -1,0 +1,13 @@
+[Event "3.p Shakhmatnaya Moskva#19"]
+[Source "EG#01218."]
+[Date "1968.03.27"]
+[Round "?"]
+[Composer "Murashov, Vassily"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7N/8/p4N2/7P/p5P1/K1k3Pp/8 w - - 0 1"]
+
+1. Ne3+ $1 Kc1 $1 (Kc3 2. Nd1+) (Kd3 2. Ng4 h1=Q 3. Nf2+) (Kd2 2. Nf1+) 2. Ng5 $1 h1=Q 3. Nf3 $1 a4 4. Ka1 $1 a2 5. Kxa2 a3 6. Ka1 $1 (6. g4 $2 Qh3 $1 7. gxh3) a2 7. Kxa2 Qh3 $1 8. Nd4 $1 (8. gxh3 $2) Qd7 9. Nb3# 1-0

@@ -1,0 +1,106 @@
+[Event "2.p Croydon Guardian"]
+[Date "1885.08.04"]
+[Round "?"]
+[Composer "Jespersen, Karl Lorenz Jesper"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1N2k3/4p1n1/4p3/n3Q1B1/1q6/p6B/K7 w - - 0 1"]
+
+1. Bxe5 $1 Nxe5 2. Qh7+ Nf7 (Kf6 3. Qh8+) 3. Qxf7+ Kxf7 4. Bxe6+ Kxe6 (Qxe6 5. Nd8+ Ke7 6. Nxe6) 5. Nc5+ Nxc5 1/2-1/2
+
+[Event "Tidskrift for Schack#022"]
+[Source "also Deutsche Schachzeitung#0741 Deutsche Schachzeitung/12 1896."]
+[Date "1896.04.04"]
+[Round "?"]
+[Composer "Jespersen, Karl Lorenz Jesper"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2B5/8/8/3n2k1/8/N7/3p3K/8 w - - 0 1"]
+
+1. Bg4 $1 Kxg4 2. Nc4 d1=Q 3. Ne3+ Nxe3 1/2-1/2
+
+[Event "1.p La Stratégie#452"]
+[Date "1900.??.??"]
+[Round "?"]
+[Composer "Jespersen, Karl Lorenz Jesper"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1Kp5/8/p1Bp4/8/Rp1k4/8 w - - 0 1"]
+
+1. Kc5 $1 (1. Rxb2+ $2 Kc3 2. Ra2 Kxc4) Kc1 (d3 2. Rxb2+ Kc3 3. Ra2 d2 4. Be2 Kb3 5. Rxd2 a3 6. Bc4+ Kc3 7. Ra2) 2. Bd3 b1=Q (a3 3. Kxd4) 3. Bxb1 Kxb1 4. Rh2 $1 a3 5. Kxd4 a2 6. Kc3 a1=Q+ (a1=N 7. Rg2 c5 8. Re2 c4 9. Kxc4 Nc2 10. Kc3 Na3 11. Kb3) 7. Kb3 1-0
+
+[Event "British Chess Magazine (c)"]
+[Source "British Chess Magazine/8 (c): Garcia=M Estudios Artisticos de Ajedrez - XIV-42 2014."]
+[Date "1900.??.??"]
+[Round "?"]
+[Composer "Jespersen, Karl Lorenz Jesper"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2p5/2K5/p2p4/8/BRpk3n/2N5 w - - 0 1"]
+
+1. Bb1 $1 Kxc1 2. Rxc2+ Kxb1 3. Rxh2 a3 (d3 4. Kc4 a3 5. Kb3 Kc1 6. Kc3) 4. Kxd4 a2 5. Kc3 a1=Q+ (a1=N 6. Rf2) 6. Kb3 1-0
+
+[Event "Tidskrift for Schack (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - IV-77 2012."]
+[Date "1901.??.??"]
+[Round "?"]
+[Composer "Jespersen, Karl Lorenz Jesper"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1p5p/P5b1/6P1/6k1/8/6Kn w - - 0 1"]
+
+1. a6 $1 (1. axb6 $2 Nf2 2. b7 Bf4) b5 2. Kxh1 Be3 3. g5 hxg5 4. a7 Bxa7 1/2-1/2
+
+[Event "3.hm Melbourne Leader"]
+[Date "1903.??.??"]
+[Round "?"]
+[Composer "Jespersen, Karl Lorenz Jesper"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B7/8/8/P7/7p/4K2P/1P4pp/7k w - - 0 1"]
+
+1. a6 $1 Kg1 2. Bxg2 Kxg2 3. a7 h1=Q 4. a8=B+ (4. a8=Q+ $2 Kg3 5. Qxh1) Kg1 {<eg>} 5. Bxh1 Kxh1 6. b4 1-0
+
+[Event "Deutsches Wochenschach#1027"]
+[Date "1908.03.29"]
+[Round "?"]
+[Composer "Jespersen, Karl Lorenz Jesper"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/P6p/p5b1/6P1/7k/8/6K1 w - - 0 1"]
+
+1. Kh1 $1 (1. a7 $2 Be3+ 2. Kh1 Bxa7 3. g5 h5 $1 4. g6 Bd4 $1) Be3 $1 2. g5 hxg5 (a4 3. gxh6) 3. a7 Bxa7 1/2-1/2
+
+[Event "Skakbladet"]
+[Date "1909.??.??"]
+[Round "?"]
+[Composer "Jespersen, Karl Lorenz Jesper"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/P7/5k2/4p3/7p/3K4/1N6 w - - 0 1"]
+
+1. Nc3 $1 h2 2. Nxe4 $1 Kxe4 3. a7 h1=Q 4. a8=Q+ 1-0

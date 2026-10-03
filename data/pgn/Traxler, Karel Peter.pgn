@@ -1,0 +1,13 @@
+[Event "Ceské Slovo"]
+[Source "Ceské Slovo/7"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Traxler, Karel Peter"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/1k6/p2p4/7p/2PP3P/4B2K w - - 0 1"]
+
+1. d3 $1 a3 $1 2. Bf2 Kc5 3. c4 $1 a2 4. Bg1 $1 a1=Q (a1=N 5. Bxd4+ Kxd4 6. c5 $1 Kxc5 7. Kg1 Kd4 8. Kf2 Kxd3 9. Kg3 Kd2 10. Kxh3) 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "City of London Chess Magazine"]
+[Source "City of London Chess Magazine/4"]
+[Date "1875.??.??"]
+[Round "?"]
+[Composer "Burn, Amos"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/1p1p4/5P1P/8/8/3p1p1p/p2P4/N5K1 w - - 0 1"]
+
+1. Nb3 $1 b6 2. Na1 b5 3. Nb3 b4 4. Na1 b3 5. Nxb3 d6 6. Na1 d5 7. Nb3 d4 8. Na1 h2+ 9. Kxh2 f2 10. Kg2 f1=Q+ 11. Kxf1 Kf7 12. h7 1-0

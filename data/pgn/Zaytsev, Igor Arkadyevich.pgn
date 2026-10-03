@@ -1,0 +1,17 @@
+
+
+[Event "6.c.Tolush 100 MT"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[Composer "Zaytsev, Igor Arkadyevich"]
+[Composer2 "Pervakov, Oleg Viktorovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b6/6p1/6pk/4pp2/6PK/6B1/7P/8 w - - 0 1"]
+[PlyCount "55"]
+
+1. g5+ ({try} 1. Bf4+ $143 g5+ (Kh7 $143 2. g5 $11 {main line}) 2. Bxg5+ Kg6 3. gxf5+ Kxf5 4. Be3 e4 5. Kh3 Bf4 6. Bd4 g5 7. Kg2 e3 8. Kf3 (8. h4 $144 g4 9. h5 Ke4 10. Bb6 e2 11. Bf2 Bd2 12. h6 e1=Q 13. Bxe1 Bxe1 $19) g4+ 9. Ke2 Ke4 10. Bc5 Bxh2 11. Bxe3 g3 12. Bc5 g2 13. Bb6 Bg3 14. Be3 Bh4 15. Bg1 Kf4 16. Bh2+ Kg4 17. Bg1 Kg3 $19) Kh7 2. Bf4 $1 Kg8 3. h3 Ba7 $1 (Kf7 $144 4. Bxe5 Ba7 5. Kg3 Be3 6. h4 $11) 4. Bxe5 Bf2+ 5. Bg3 Bxg3+ 6. Kxg3 Kf7 7. Kf4 Ke6 8. h4 {zz} Kd6 9. h5 Ke7 $1 10. Ke5 (10. hxg6 $143 Ke6 11. Kf3 Ke5 12. Ke3 $18) gxh5 11. Kxf5 g6+ 12. Ke5 Kd7 13. Kd5 Kc7 14. Ke5 Kc6 15. Ke4 $1 Kc5 16. Ke5 $1 Kc4 17. Ke4 Kc3 18. Ke3 Kc2 19. Ke2 Kb2 20. Kd2 Ka2 21. Ke2 Ka3 22. Ke3 Ka4 23. Ke4 Ka5 24. Ke5 Ka6 25. Ke4 $1 Kb5 26. Kd5 Kb6 27. Kd4 Kc6 28. Ke4 $11 1/2-1/2

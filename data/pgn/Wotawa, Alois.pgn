@@ -1,0 +1,1667 @@
+[Event "Dö. T.Z."]
+[Source "(c): Wotawa=A Wiener Schachzeitung=6 3/1931."]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/pbq4p/Q1p1pP1k/4P1pP/3N2P1/5K1N w - - 0 1"]
+[PlyCount "15"]
+
+1. Qxb5 $1 Qxb5 2. Nxg3 Kxg3 (c3+ 3. Kg1 Qg5 4. Ngxe4 cxd2 5. Nxg5 d1=Q+ 6. Kh2 Qe2 7. Ne4 Qc2 8. Ng3 (8. Nd6 {<or>}) a4 9. Nf5+ Qxf5 10. g3#) 3. Kg1 {#5} c3 (Qf5 $144 {<main>} 4. Nf1+ Kh4 5. Kh2 Qxh3+ 6. gxh3 c3 7. Ng3 c2 8. Nf5#) 4. Nxe4+ Kh4 5. Kh2 Qb2 6. Ng3 (6. Nd6 {<or>}) Qc2 7. Nf5+ Qxf5 8. g3# 1-0
+
+[Event "Wiener Schachzeitung"]
+[Source "Wiener Schachzeitung/5"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "7b/5k2/7p/8/6K1/6P1/6P1/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. Kh5 (1. Kf5 $2 Bf6 $19) (1. Kh3 $2 $143 Bf6 $19 2. Kh2 Ke6 3. Kh1 Ke5 4. Kg1 Ke4 5. Kh2 Ke3 6. Kh1 Ke2 7. Kg1 Bd4+ 8. Kh1 Kf2 9. Kh2 Kf1 10. Kh1 Bg1 11. g4 Be3 12. Kh2 Kf2 13. Kh1 Bf4 14. g3 Be3 15. Kh2 Kf1 16. Kh1 Bg1 17. g5 hxg5 18. g4 Bc5 19. Kh2 Kf2 20. Kh3 Kf3 21. Kh2 Kxg4 $19) (1. Kf4 $2 Kg6 2. Kg4 Bf6) (1. Kh4 $2 Kg6 2. Kg4 Bf6) Bg7 2. g4 $1 (2. Kg4 Bf6) Kf6 3. g5+ $1 (3. g3 $2 Bf8 $19) (3. Kh4 $2 Kg6 $19) hxg5 4. g4 $1 (4. Kg4 $2 Bf8 $19) (4. g3 $2 Kf5 5. g4+ Kf4 $19) Bh8 (Bf8 $144 $11 {stalemate}) 5. Kh6 Bg7+ 6. Kh5 $10 $1 (6. Kh7 $2 Ke5 7. Kxg7 Kf4) Bh8 7. Kh6 $11 1/2-1/2
+
+[Event "Deutsche Schachzeitung#1926 (c)"]
+[Source "Deutsche Schachzeitung/12 (c): Wotawa=A Schach Magazin#145 1951"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p1p5/k5B1/1N6/qP6/P6P/K7 w - - 0 1"]
+[PlyCount "13"]
+
+1. Kb1 (1. Be7 $143 Qc1#) (1. Bd2 $143 Kb6 $19) (1. Bd8+ $143 Kxb4 2. Be7+ c5 3. Bg5 Kc3 $19) Kb5 (Qxb4 $144 2. Bd8+ Kb5 3. a4+ Kc5 4. Be7+ $18) (Kxb4 $144 2. Bc1 Qa5 3. Bd2+ $18) (c5 $144 2. Nc2 $18) (Kb6 $144 2. Be7 c5 3. Nc2 $1 (3. Bxc5+ $143 Kb7 4. Nd3 Qa5 5. Bb4 $17) Qa5 4. Bd8+ $18) 2. Be7 c5 3. Bxc5 Qa5 (Kxc5 $144 4. Nc2 Qa5 5. b4+ $18) (a5 $144 4. Nd3 $18) 4. Be7 Qc7 5. a4+ Ka5 (Kb6 $144 6. Nd5+ $18) 6. Bd8 Qxd8 7. Nc6+ $18 1-0
+
+[Event "Wiener Schachzeitung (s)"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2k5/8/PB1P4/2P3Pp/5P1q/5P2/6K1 w - - 0 1"]
+[PlyCount "9"]
+
+1. d6+ Kxd6 2. c5+ Kxc5 (Kc7 $144 3. Be2 Kb8 4. a6 Ka7 5. c6 Kb6 6. c7 Kxc7 7. a7 Kb7 8. Bf1 Qxf3 9. Bg2 $18) 3. Be2 Kc6 4. Bf1 Qxf3 5. Bg2 $18 1-0
+
+[Event "Deutsche Schachzeitung#1930"]
+[Source "Deutsche Schachzeitung/2"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/5ppB/1p1KP2p/1P3PPP/1P6/8/q1P5/8 w - - 0 1"]
+[PlyCount "12"]
+
+1. e7+ $1 Ke8 2. g6 f6 (Qc4 $143 3. gxf7+ Qxf7 4. Bg6 $18) 3. Bg8 Qxg8 4. c4 $1 Qh8 5. Ke6 Qg8+ 6. Kd6 Qxc4 $11 {stalemate} 1/2-1/2
+
+[Event "Deutsche Schachzeitung#1944"]
+[Source "Deutsche Schachzeitung/6"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/4B3/B6p/7r/6p1/6p1/6Pp/7K w - - 0 1"]
+[PlyCount "8"]
+
+1. Bf6+ $1 Kh7 2. Bh4 $1 Rxh4 (Ra5 $144 3. Bd3+ Kg7 4. Bxg3 Ra3 5. Be5+ $11 Kf7 6. Bc4+ Kg6 7. Kxh2 h5 $11) 3. Bd3+ Kg7 4. Bg6 Kxg6 $11 {stalemate} (Kf6 $144 5. Be8 Ke7 6. Bh5 $11) 1/2-1/2
+
+[Event "Deutsche Schachzeitung#2003"]
+[Source "Deutsche Schachzeitung/12"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/b7/3p4/7P/5B2/8/3K4/8 w - - 0 1"]
+[PlyCount "9"]
+
+1. Be5 $1 dxe5 2. h6 e4 (Bd4 $144 3. Kd3 Ba1 4. Ke4 $18) 3. Kc3 $1 Bb8 4. Kd4 e3 5. h7 $18 1-0
+
+[Event "Deutsche Schachzeitung#2061"]
+[Source "Deutsche Schachzeitung/9"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "1K6/8/k2p4/p7/P1p3p1/5p2/2PP4/1R6 w - - 0 1"]
+[PlyCount "9"]
+
+1. c3 (1. Kc7 $2 f2 2. Rb6+ $10) (1. d3 $2 c3 $10 (cxd3 $4 2. c4 $18)) f2 (d5 2. Re1 Kb6 3. Re6+ Kc5 4. Kc7 d4 5. Re5#) (g3 $144 2. d3 g2 (cxd3 $144 3. c4 g2 4. c5 dxc5 5. Re1 {#1}) 3. dxc4 f2 4. c5 dxc5 5. Rd1 $18 {#1}) 2. d3 (2. Rh1 $4 Kb6 3. Rb1+ Kc6) (2. Rf1 $2 g3 3. Kc7 $10) (2. Kc7 $2 Ka7 3. Kxd6 $10) (2. d4 $2 g3 $10 (cxd3 $4 3. c4 $18)) (2. Rb7 $4 f1=Q 3. Ra7+ Kb6) (2. Kc8 $2 g3 3. Kb8) (2. Ka8 $2 g3 3. Kb8) cxd3 3. c4 (3. Rd1 $4 Kb6 4. Rb1+ Kc6 $19) (3. Kc7 $2 Ka7 4. Rb6 $10) (3. Rf1 $2 d2 4. Kc7 $10) (3. Rh1 $4 Kb6 4. Rb1+ Kc6) g3 (f1=Q 4. Rxf1 (4. Rb7 $4 Qf8+ 5. Kc7 Qe7+ $19) (4. c5 $4 Qxb1+ 5. Kc8 dxc5 $19) (4. Rb5 $4 d2) Kb6 5. Rd1 $18 (5. Rf6 $2 Kc5 6. Rf5+ $10) (5. Ra1 $18) (5. Rc1 $2 g3 6. Rb1+ $10) (5. c5+ $6 Kxc5 6. Rg1) Kc5 6. Rxd3 (6. Rg1 $18) (6. Rc1 $4 g3 $19) (6. Kc7 Kxc4 $18) (6. Rd2 $2 Kxc4 7. Rg2) Kxc4 7. Rg3 d5 8. Rxg4+ d4 9. Kb7 $18) 4. c5 (4. Kc7 $4 d2 5. Rb6+ $10) (4. Kc8 $4 d2 5. Kc7 $10) (4. Rd1 $4 g2 5. Rxd3 Kb6 $19) (4. Rh1 $4 g2 $19) (4. Rb7 $4 f1=Q 5. Ra7+ Kb6 $19) (4. Rf1 $4 g2 5. Rxf2 g1=Q) dxc5 5. Rh1 $18 {#2} (5. Kc7 $4 d2 6. Rb6+ $10) (5. Kc8 $4 f1=Q 6. Rxf1 $10) (5. Rb7 $4 f1=Q 6. Ra7+ Kb6 $19) (5. Rf1 $4 Kb6 $19) (5. Rc1 $4 g2 6. Rxc5 Kb6) (5. Rd1 $4 Kb6 6. Rxd3 c4 $19) (5. Ka8 $4 g2 $19) (5. Ra1 g2) f1=R 6. Rxf1 d2 7. Rf6# 1-0
+
+[Event "Deutsche Schachzeitung#2042"]
+[Source "Deutsche Schachzeitung/1"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5BKN/8/5k2/3p2p1/2pP1pP1/2P1pP1P/8/8 w - - 0 1"]
+[PlyCount "7"]
+
+1. Ng6 Kxg6 (e2 $144 2. Be7+ Ke6 (Kxg6 $144 3. h4 $18) 3. Nxf4+ gxf4 4. Bh4 $18) 2. Be7 e2 3. h4 gxh4 (e1=Q $144 4. h5+ Kh6 5. Bf8#) 4. Bxh4 $18 1-0
+
+[Event "Deutsche Schachzeitung#2099"]
+[Source "Deutsche Schachzeitung/8"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k1r/2P5/P1r4p/8/8/8/1K6/7R w - - 0 1"]
+[PlyCount "13"]
+
+1. Rxh6 $3 Rhxh6 2. a7 Rb6+ 3. Ka3 Ra6+ 4. Kb4 Rhc6 5. Kb5 $1 $11 Ke7 6. c8=Q Rxc8 7. Kxa6 $11 1/2-1/2
+
+[Event "Deutsche Schachzeitung#2171"]
+[Source "Deutsche Schachzeitung/11"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k1rB2R1/qp5K/2P5/1P6/8/8/8/8 w - - 0 1"]
+[PlyCount "9"]
+
+1. Bb6 (1. b6 $143 Qa6 $19) Qxb6 (Qb8 $143 2. Rxc8 (2. c7 $144 Rxg8 3. cxb8=Q+ Rxb8 $19) Qxc8 3. c7 Qg4 4. Bd4 Qd7+ 5. Kg6 Qxc7 $19) 2. Rxc8+ Ka7 3. c7 Qc5 4. Ra8+ Kxa8 (Kb6 $144 5. c8=Q Qe7+ $11 {perpetual check}) 5. b6 $11 1/2-1/2
+
+[Event "Deutsche Schachzeitung#2205"]
+[Source "Deutsche Schachzeitung/11"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5rR1/2pK2pp/r1p4k/p1p1q3/6P1/8/8/2R3Q1 w - - 0 1"]
+[PlyCount "21"]
+
+1. Qh1+ Kg6 2. Qh5+ Qxh5 3. gxh5+ Kf7 4. Rh8 $1 Rxh8 5. Rf1+ Kg8 6. h6 $1 Ra8 (gxh6 $144 7. Ke7 $18) 7. Ke7 a4 8. Rg1 $1 (8. Rf7 $143 Re8+ 9. Kxe8 gxh6 10. Ke7 h5 11. Kf6 h4 12. Rg7+ Kf8 13. Rxc7 Ke8 14. Rc8+ Kd7 15. Rxh8 Kd6 16. Rd8+ Kc7 17. Ra8 Kd6 18. Kf5 Kd5 19. Rxa4 c4 20. Kf4 Kd4 21. Ra7 Kd3 22. Kf3 h3 23. Rd7+ Kc2 24. Rxh7 c3 25. Rxh3 Kb2 $11) g6 9. Rf1 a3 10. Rf7 a2 11. Rg7# 1-0
+
+[Event "Deutsche Schachzeitung#2249 (v)"]
+[Source "Deutsche Schachzeitung/9 (v): Schach Magazin#79 1949"]
+[Site "?"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3r1R2/6K1/8/1Rp2P2/3n3r/k7 w - - 0 1"]
+[PlyCount "17"]
+
+1. Rxc3 Ne4+ 2. fxe4 Rg2+ 3. Kf5 Rf2+ 4. Kg5 Rfxf6 5. e5 Rg6+ 6. Kf5 Rb6 7. Rb3 Rbc6 8. Rc3 Rce6 9. Rh3 $11 1/2-1/2
+
+[Event "Schach Magazin (m)"]
+[Source "(m): Wotawa=A Deutsche Schachzeitung#470 Deutsche Schachzeitung/2 1962"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/R7/2b5/K1p3kN/7N w - - 0 1"]
+[PlyCount "9"]
+
+1. Rg4+ (1. Re4 $143 c1=Q 2. Re2+ Kxh1 3. Nf3 Qa1+ 4. Kb3 Qd1+ 5. Rc2 Qxf3 6. Rc1+ Be1+ $19) (1. Rf4 $143 c1=Q 2. Rf2+ Kh3 $1 3. Nf3 Qa1+ 4. Kb3 Ba5 5. Kc2 Bc7 6. Rd2 Kg4 7. Nd4 Qxh1 $19) Kxh2 (Kxh1 $144 2. Nf3 Bd4 (c1=Q $144 3. Rg1+ $11) 3. Rh4+ $11) 2. Rh4+ (2. Rg1 $143 Kxg1 3. Ng3 Kf2 4. Ne4+ Ke3 $19) Kg2 3. Rg4+ Kxh1 4. Rb4 $1 c1=Q (Bxb4 $144 5. Kb2 $11) 5. Rb1 $11 1/2-1/2
+
+[Event "Schach Magazin#073"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/1pp1BK2/8/3P3p/8/2k5 w - - 0 1"]
+[PlyCount "19"]
+
+1. d4 cxd4 2. Ke4 b4 3. Kxd4 b3 4. Kc3 b2 5. Bf4+ Kb1 6. Kb3 Ka1 7. Ka3 (7. Be5 $143 h2 $19) b1=Q 8. Be5+ Qb2+ 9. Bxb2+ Kb1 10. Be5 $11 1/2-1/2
+
+[Event "Wiener Schachzeitung#99"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/8/8/r7/3p2B1/8/5R2/6kN w - - 0 1"]
+[PlyCount "19"]
+
+1. Bf3 Rf5 2. Rg2+ Kxh1 3. Bc6 $1 Rf1 4. Kc7 $1 d3 5. Kb6 $18 d2 6. Rxd2+ Kg1 7. Rg2+ Kh1 8. Ka6 Rf6 9. Rg6+ Rxc6+ 10. Rxc6 $19 1-0
+
+[Event "Schach Magazin#088"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/p5p1/1pP3pk/1R3P2/6P1/8/8/3r4 w - - 0 1"]
+[PlyCount "29"]
+
+1. c7 Rc1 2. f6 gxf6 (Rxc7 $144 3. g5+ Kh5 4. fxg7 $18) 3. g5+ fxg5 (Kh5 $144 4. gxf6+ $18) 4. Rb1 Rxb1 (Rxc7 $144 5. Rh1#) 5. c8=Q g4 (Rb3 $144 6. Qg8 $18) (Rh1 $144 6. Qg8 $18) 6. Qxg4 Rb5 (g5 $144 7. Qh3+ Kg6 8. Qd3+ $18) 7. Qh4+ Rh5 8. Qf4+ Rg5 9. Qe3 a5 10. Kg8 a4 11. Kf7 a3 12. Kf6 a2 13. Qxg5+ Kh7 14. Qxg6+ Kh8 15. Qg7# 1-0
+
+[Event "Schach Magazin#107 (c)"]
+[Source "(c): Wotawa=A Deutsche Schachzeitung/8-9 1967"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7R/2pr4/1P6/2Pk4/8/1K6/8/2r5 w - - 0 1"]
+[PlyCount "14"]
+
+1. b7 Rb1+ 2. Kc3 Rxb7 3. Rh5+ Kc6 4. Kc4 $11 Ra7 (Rg7 $143 5. Rh6+ Kd7 6. c6+ Ke7 (Kc8 $144 7. Rh8+ Rg8 8. Rxg8#) 7. cxb7 Rg8 $18) (Rb1 $144 5. Rh6+ Kb7 6. c6+ Kc8 7. cxd7+ Kxd7 $11) 5. Rh6+ Kb7 6. c6+ Kc8 7. cxd7+ Kxd7 $11 1/2-1/2
+
+[Event "Schach Magazin#103"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/5KpN/2p5/2Rp3p/8/7r/3b3r/R6B w - - 0 1"]
+[PlyCount "7"]
+
+1. Nf6 gxf6 2. Be4 dxe4 3. Rg5 fxg5 (Bxg5 $144 4. Kg6 $18 {#4}) 4. Kg6 $18 {#4} 1-0
+
+[Event "Schach Magazin#133"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3k3P/8/B7/8/7K/N7/r7 w - - 0 1"]
+[PlyCount "15"]
+
+1. Nc1 $1 (1. Kg2 $143 Rxa2+ 2. Bd2 Ra8 $1 $11) Rxc1 2. Bc7 $1 (2. Kg2 $143 Rc8 $11) Kxc7 (Rh1+ $144 3. Bh2 $18) 3. Kg2 (3. Kh2 $144 $18 {Or}) Rc2+ 4. Kg3 Rc3+ 5. Kg4 Rc4+ 6. Kg5 Rc5+ 7. Kg6 Rc6+ 8. Kg7 $18 1-0
+
+[Event "Schach Magazin#117"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/Pk5P/8/8/2r5/8/8/3B4 w - - 0 1"]
+[PlyCount "15"]
+
+1. a8=Q+ $1 (1. Bg4 $143 Re4+ 2. Kd7 Rd4+ 3. Ke7 Re4+ $11) Kxa8 2. Bg4 $1 Re4+ (Rb4 $144 3. Kd8 Rd4+ 4. Kc7 Rc4+ 5. Kb6 Rb4+ 6. Ka6 Ra4+ 7. Kb5 $18) 3. Kd7 {Rd8 Or} Rd4+ 4. Kc7 Rc4+ 5. Kb6 Rb4+ 6. Ka6 $1 Ra4+ 7. Kb5 Rxg4 8. h8=Q+ $18 1-0
+
+[Event "Schach Magazin"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "N7/4b3/3P3p/rk5b/1PR4p/7p/8/6K1 w - - 0 1"]
+[PlyCount "13"]
+
+1. Rc5+ (1. bxa5 $143 h2+ $1 2. Kg2 Bf3+ 3. Kxh2 Bxd6+ 4. Kh3 Kxc4 $19) Kxb4 2. Rxh5 Bg5 $1 (Rxh5 $144 3. dxe7 Re5 4. Nc7 Re1+ 5. Kh2 $11) (Ra1+ $144 3. Kh2 Bxd6+ 4. Kxh3 Rxa8 5. Rxh4+ $11) 3. Nc7 Be3+ 4. Kh1 Rxh5 5. d7 Bg5 6. Nd5+ Kc5 7. Nf4 $11 1/2-1/2
+
+[Event "Schach Magazin#143"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7K/5p1p/P6R/1k6/4r3/2B5/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. a6 Ra3 2. Ba4 Kxa4 3. Rh3 Ra2 4. Rh2 Ra1 5. Rh1 Ra3 6. Rb1 Re3 7. Ra1+ Kb5 8. a7 $18 1-0
+
+[Event "Wiener Montag"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/2p2Kpp/2Pp4/1P3p1P/8/8/8/8 w - - 0 1"]
+[PlyCount "59"]
+
+1. b6 $1 (1. Ke7 $143 Ka7 2. Kd7 Kb6 $19) Kb8 (cxb6 $144 2. Ke7 $18) 2. Ke6 $1 Kc8 (f4 $144 3. Kd7 $18) 3. b7+ Kb8 4. Kxf5 Ka7 5. Ke4 Kb8 6. Kd5 Ka7 (g5 $144 7. hxg6 hxg6 8. Ke6 $18) 7. Kc4 Kb8 8. Kb5 Ka7 9. Ka5 Kb8 10. Ka6 g5 11. hxg6 hxg6 12. Kb5 Ka7 (g5 $144 13. Kc4 g4 14. Kd4 g3 15. Ke3 d5 16. Kf3 $18) 13. Kc4 Kb8 14. Kd5 Ka7 15. Ke6 Kb8 16. Kf6 Ka7 17. Kxg6 Kb8 18. Kf5 Ka7 19. Ke4 Kb8 20. Kd5 Ka7 21. Kc4 Kb8 22. Kb5 Ka7 23. Ka5 Kb8 24. Ka6 d5 25. Kb5 d4 26. Kc4 Ka7 27. Kxd4 Kb8 28. Kd5 Ka7 29. Ke6 Kb8 30. Kd7 $18 1-0
+
+[Event "Deutsche Schachzeitung#067"]
+[Source "Deutsche Schachzeitung/12"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3B4/4N3/4p2k/2b5/6r1/1R6/3p1P2/7K w - - 0 1"]
+[PlyCount "10"]
+
+1. Nf5+ (1. Ng8+ $143 Kg6 $1 $19) exf5 2. Rd3 (2. Rb1 $143 Rc4 $19) Rd4 (Bb4 $144 3. Bb6 f4 4. Bc7 Kg5 5. f3 Rh4+ 6. Kg2 $11) 3. Rxd2 Rxd2 4. Bg5+ Kxg5 5. f4+ Kg6 $11 1/2-1/2
+
+[Event "Österreichische Schachzeitung"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3r1Np1/b7/8/8/8/1k3K2/5R2 w - - 0 1"]
+[PlyCount "8"]
+
+1. Ne5 Rd2+ 2. Ke3 Re2+ 3. Kd4 (3. Kf4 $143 Rxe5 $19) Rxe5 4. Rf6 $1 gxf6 $11 {stalemate} (Ra5 $144 5. Rg6 $11) 1/2-1/2
+
+[Event "Österreichische Schachzeitung"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3r1k2/B2PpP1p/2p1P2P/2P5/8/8/5Kp1/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. Kg1 (1. Kxg2 $143 Rb8 2. Bb6 Ra8 3. Ba5 Rb8 4. Bc3 Rb2+ $11 {Tour folle}) Ra8 2. Kh2 Rd8 (g1=Q+ $144 3. Kxg1 Rd8 4. Bb6 Rb8 5. Kf1 Rd8 6. Ba5 Ra8 7. Kg1 Rb8 8. Bb4 Ra8 9. Ba3 Rb8 10. Bb2 $18 {#1}) 3. Bb6 Rb8 4. Kg1 Rd8 5. Ba5 Ra8 6. Kh2 Rb8 7. Bb4 (7. Be1 $144 g1=Q+ 8. Kxg1 Ra8 9. Ba5 Rb8 10. Bb4 Ra8 11. Ba3 Rb8 12. Bb2 Ra8 13. Bg7#) Ra8 8. Ba3 Rb8 9. Bb2 g1=Q+ 10. Kxg1 {#1} 1-0
+
+[Event "Österreichische Schachzeitung"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k4B2/P2N4/1K1p4/4p3/3p2p1/b7/8/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. Ka6 Bc5 2. Bxd6 Bxa7 3. Bb8 Bc5 4. Bxe5 Ba7 5. Bb8 Bc5 6. Bg3 Ba7 (d3 $144 7. Nxc5 d2 8. Nd7 d1=Q 9. Nb6#) 7. Bf2 g3 8. Bg1 g2 9. Bf2 g1=Q 10. Bxg1 $18 1-0
+
+[Event "Österreichische Schachzeitung"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#6"]
+[SetUp "1"]
+[FEN "B7/6p1/4K3/7P/p1p4k/8/5PP1/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. h6 (1. Kf5 $143 Kxh5 $19) (1. Bf3 $143 Kg5 $1 $19) gxh6 2. Kf5 a3 3. Bf3 h5 4. Be2 a2 5. Bf1 a1=Q 6. g3# 1-0
+
+[Event "Österreichische Schachzeitung"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K2B4/PPP5/k2b4/1r6/1r6/1b6/8/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. b8=N+ Rxb8+ (Ka5 $143 2. c8=Q+ Ka4 3. Qa6+ Ra5 4. Qxa5#) 2. axb8=N+ Rxb8+ 3. cxb8=N+ (3. cxb8=Q $143 Bd5+ 4. Qb7+ Bxb7#) 1/2-1/2
+
+[Event "Deutsche Schachzeitung#113"]
+[Source "Deutsche Schachzeitung/8"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4R3/5pp1/4n3/6RK/8/r7/7k/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. Rxe6 $1 (1. Rg4 $143 Rh3+ 2. Rh4 g6+ 3. Kg4 f5#) (1. Re5 $143 g6+ 2. Kg4 (2. Kh4 $144 Ra4+ 3. Re4 Rxe4#) Rg3+ 3. Kh4 Nf4 $1 (g5+ $143 4. Rxg5 Rxg5 (Nxg5 $144 5. Re2+ Rg2 6. Rxg2+ Kxg2 7. Kxg5 $11) 5. Rxe6 $11) 4. Re2+ Ng2+ 5. Rxg2+ Rxg2 $19) Rh3+ (fxe6 $144 2. Re5 Rh3+ (Rg3 $144 3. Rxe6 g5 4. Rg6 $11) (Ra6 $144 3. Kg6 $11) 3. Kg4 Rg3+ (Rh6 4. Rg5 g6 (Rh7 $144 5. Rg6 e5 6. Re6 $11) 5. Re5 $11) 4. Kh5 Kh3 (g6+ $144 5. Kh4 Rg2 6. Rxe6 g5+ 7. Kh5 Kh3 8. Re3+ Kh2 9. Re4 $11) 5. Rxe6 g5 6. Re1 g4 7. Rh1+ Kg2 8. Ra1 Kh2 9. Kh4 Rg2 10. Ra4 g3 11. Ra3 $11) 2. Kg4 Rg3+ (fxe6 $144 3. Kf4 $11) 3. Kh4 (3. Kf4 $143 Rxg5 4. Re8 Rg1 $19) Rxg5 4. Rf6 $1 (4. Kxg5 $143 fxe6 5. Kf4 Kh3 $19) (4. Rh6 $143 Rg4+ $1 $19 (gxh6 $143 $11 {stalemate})) Rg2 (gxf6 $144 $11 {stalemate}) 5. Rxf7 g5+ (g6 $144 6. Rg7 $11) 6. Kh5 g4 (Kh3 $144 7. Rf3+ $11) 7. Kh4 g3 8. Rf3 $1 Rg1 9. Ra3 $11 1/2-1/2
+
+[Event "Österreichische Schachzeitung#088"]
+[Source "Oesterreichische Schachzeitung/12"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5b2/1r1k3B/8/8/p1pK2R1/6B1 w - - 0 1"]
+[PlyCount "12"]
+
+1. Bf7+ Kc6 $1 (Kd6 $144 2. Bxa2 Rb1 3. Bh2+ Kd7 4. Rg1 c1=Q+ 5. Rxc1 Bg5+ 6. Kd3 Rxc1 $11 {EGTB}) (Ke4 $144 2. Re2+ Kf3 3. Bxa2 Rb1 4. Re3+ Kf4 5. Kxc2 $11) (Ke5 $144 2. Bxa2 Rb2 3. Rg6 c1=Q+ 4. Kxc1 Rxa2 $11) 2. Bxa2 (2. Be8+ $143 Kb7 3. Bxb5 a1=Q 4. Kxc2 Qa2+ $19) Rb1 $1 3. Kxc2 Rb2+ 4. Kd3 Rxg2 5. Bd4 Bxd4 (Rg3+ $144 6. Ke4 Rg4+ 7. Kf5 $11) 6. Bd5+ Kxd5 $11 {stalemate} 1/2-1/2
+
+[Event "Deutsche Schachzeitung#137 (c)"]
+[Source "Deutsche Schachzeitung/5 (c): Marwitz=J 12/1998"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/pKP5/7p/P2r4/3P4/P7/k7 w - - 0 1"]
+[PlyCount "12"]
+
+1. c7 $1 Rd6+ 2. Kc5 Rxd3 3. Kb4 a5+ 4. Kc4 Rd1 5. Kb3 Rc1 6. a3 Rxc7 (h4 $144 7. c8=Q Rxc8 $11) 1/2-1/2
+
+[Event "Deutsche Schachzeitung#146"]
+[Source "Deutsche Schachzeitung/8"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7R/8/3RP3/8/8/1K6/4p1P1/1k1r4 w - - 0 1"]
+[PlyCount "13"]
+
+1. Rd2 $3 $1 (1. e7 $143 $2 e1=Q 2. e8=Q Qg3+ $1 3. Ka4 Qxd6 $11) (1. Rhd8 $143 $2 Rxd6 2. Rxd6 e1=Q $19 {EGTB : wins in 39} 3. e7 Qe3+ $1) Rxd2 (e1=Q $144 2. Rb2+ Kc1 3. Rc8+ Qc3+ 4. Rxc3#) 2. Rh1+ Rd1 3. Re1 $1 Rxe1 4. e7 Rd1 (Rc1 $144 5. e8=Q e1=Q (e1=N $144 6. Qe2 Nc2 7. Qe4 Ka1 8. Qa4+ Na3 9. Qxa3+ Kb1 10. Qb2#) 6. Qg6+ Ka1 7. Qa6+ Qa5 8. Qxa5+ Kb1 9. Qa2#) (Kc1 $144 5. e8=Q Kd2 6. Qd8+ Ke3 7. Qb6+ Kd3 8. Qb5+ Ke3 9. Qc5+ (9. Qe5+ Kd3 (Kd2 10. Qc3+) 10. Qc3+) Kd3 10. Qc3+ Ke4 11. Qxe1 $18) 5. e8=Q e1=Q 6. Qg6+ $18 Ka1 7. Qa6+ $18 {#3} 1-0
+
+[Event "Österreichische Schachzeitung"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k1r2/1npP1B2/8/8/p7/8/1K3R2/8 w - - 0 1"]
+[PlyCount "10"]
+
+1. Rf1 (1. Rf3 $143 Nd6 2. Bd5 Rxf3 3. Bxf3 Nc4+ 4. Ka2 (4. Kc2 $144 a3 $1 $19) Kxd7 5. Be2 Nb6 6. Ka3 Kd6 7. Kb4 Kd5 $19) Nd6 (a3+ $144 2. Ka2 Nd6 3. Bc4 $11) (Kxd7 $144 2. Be6+ Ke7 3. Rxf8 Kxf8 4. Ka3 Nc5 5. Bg4 Ke7 6. Kb4 Kd6 7. Bf3 c6 8. Bg2 Kc7 9. Bf3 (9. Kxc5 $143 a3 $19) Kb6 10. Bg2 $11) (Rh8 $144 2. Bd5 Nc5 3. Bc6 Nxd7 4. Rd1 Rh7 5. Bxa4 $11) (Nc5 $144 2. Ka3 Kxd7 3. Kb4 Ke7 4. Bc4 Rxf1 5. Bxf1 Kd6 6. Bg2 $11) 2. Bc4 Nxc4+ (a3+ $144 3. Ka2 $11) (Rh8 $144 3. Be6 $11) 3. Ka2 Rg8 (Rxf1 $144 $11 {stalemate}) 4. Rg1 Rh8 5. Rh1 Rxh1 $11 {stalemate} 1/2-1/2
+
+[Event "Deutsche Schachzeitung#287"]
+[Source "Deutsche Schachzeitung/6"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/7p/1Pp1P3/6P1/8/K4b2/8/4b3 w - - 0 1"]
+[PlyCount "12"]
+
+1. g6 $1 (1. b7+ $143 $2 Kxb7 2. g6 Bh4 $1 3. g7 (3. gxh7 $144 Bf6 4. e7 Bh5 $19) Be7+ 4. Ka4 (4. Kb2 $144 Bf6+ $19) (4. Kb3 $144 Bd5+ $19) Bd1+ $143 5. Ka5 Bf6 6. g8=Q Bc3#) hxg6 (Bd5 $143 2. e7 $18) (Bh4 $143 2. g7 Be7+ 3. Ka4 Bd1+ 4. Ka5 $18) (Bb4+ $144 2. Kxb4 c5+ 3. Kxc5 hxg6 4. Kd6 Kd8 (Kb7 $144 5. Ke5 Bc6 6. Kf6 Be8 7. Ke7 $11) 5. e7+ Ke8 6. Ke6 g5 7. Kf5 g4 8. b7 Bxb7 9. Kxg4 $11) 2. b7+ (2. e7 $143 $2 Kd7 3. b7 Bb4+ 4. Kxb4 c5+ $19) Kxb7 (Kc7 $143 3. e7 Bb4+ 4. Kxb4 c5+ 5. Kxc5 Bc6 6. b8=Q+ $18) 3. e7 Bb4+ 4. Kxb4 c5+ 5. Ka5 $1 (5. Kxc5 $143 Bc6 $19) Bc6 6. e8=Q Bxe8 $11 {stalemate} 1/2-1/2
+
+[Event "Deutsche Schachzeitung#330"]
+[Source "Deutsche Schachzeitung/4"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/P2p1kp1/P5r1/4P3/2R5/1p6/1K6 w - - 0 1"]
+[PlyCount "7"]
+
+1. Rf3+ Ke7 (Kg7 $144 2. Rf5 Rg1+ (gxf5 $144 3. a7 fxe4 4. a8=Q $18) 3. Kxb2 Rh1 4. Rf8 $1 $18) 2. e5 $1 Rxe5 (Rh5 $144 3. Rf8 $1 Rxe5 4. a7 Rxa5 5. a8=Q Rxa8 6. Rxa8 Ke6 7. Kxb2 $18) 3. Re3 $1 Rxe3 4. a7 $18 1-0
+
+[Event "Deutsche Schachzeitung#390"]
+[Source "Deutsche Schachzeitung/7"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4K3/8/B1Nk1p2/4N3/2P4b/8/7p/8 w - - 0 1"]
+[PlyCount "10"]
+
+1. c5+ $1 (1. Nf7+ $143 Kc7 $1 $19 (Kxc6 $143 2. Nd8+ Kc7 3. Bb7 $11)) Kxc5 (Kc7 $144 2. Nd8 $1 (2. Nd4 $144 fxe5 3. Nb5+ Kc6 $1 4. Na7+ Kxc5 $11) fxe5 $144 (h1=Q $144 3. Ne6+ Kb8 4. c6 $11) 3. Bb7 Bxd8 4. Be4 $11) (Ke6 $144 2. Nd7 (2. Bc8+ $143 Kd5 3. Bb7 fxe5 4. Nxe5+ Kxe5 $11) h1=Q 3. Nd4+ Kd5 4. Bb7+ $18) 2. Nd7+ Kxc6 (Kd5 $143 3. Bb7 $18) (Kd6 $144 3. Nd4 h1=Q 4. Nb5+ Ke6 5. Nd4+ Kd6 6. Nb5+ Kc6 7. Nd4+ Kc7 8. Nb5+ Kc6 $11) 3. Be2 $1 (3. Nc5 $143 Kxc5 4. Bb7 Kd4 5. Kf7 Ke3 6. Kg6 Kf2 7. Kh5 Bg5 $19) h1=Q 4. Bf3+ Qxf3 5. Ne5+ fxe5 (Kd5 $144 6. Nxf3 Bg5 (Bf2 $144 7. Kf7 f5 8. Kf6 Ke4 (f4 $144 9. Kf5 Bg3 10. Kg4 $11) 9. Ng5+ Kf4 10. Nh3+ $11) 7. Kf7 Ke4 8. Ne1 Bh4 9. Kg6 f5 10. Ng2 Bg3 11. Kg5 Bc7 12. Kf6 Bf4 (Bd8+ 13. Kg6 Be7 14. Kh5 Kf3 15. Kg6) 13. Nh4 Be5+ 14. Kg5 f4 15. Kg4 $11) 1/2-1/2
+
+[Event "Wiener Kurier"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p2R/7B/1P6/2k5/7K/5r2/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. b6 Rf3+ 2. Kg2 $1 Rb3 3. Be3 Rxe3 4. Rh4+ $1 Kc5 5. Rb4 $1 Kxb4 6. b7 $18 1-0
+
+[Event "Deutsche Schachzeitung#395 (c)"]
+[Source "Deutsche Schachzeitung/8 (c): Zinar=M Garmonia Peshechnogo Etyuda#222c 1990"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/1K2p3/1p2pP2/2P5/4P3/8/1P3p2/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. f7 f1=Q 2. c6 Qf4 3. e5 $1 (3. f8=Q+ $143 Qxf8 4. c7+ Kd7 5. Kxb6 (5. c8=Q+ $144 Qxc8+ $19) Qf2+ 6. Ka5 Kxc7 $19) Qf3 4. b3 $1 (4. b4 $143 b5 5. Kb8 Qxc6 6. f8=Q+ Kd7 7. Qh8 $11) b5 5. b4 {#2 eg:} Qxc6+ 6. Kxc6 Kc8 7. f8=Q# 1-0
+
+[Event "Deutsche Schachzeitung#437"]
+[Source "Deutsche Schachzeitung/7"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/qpp5/8/k1p1N3/2p5/P7/1PP1B3/K7 w - - 0 1"]
+[PlyCount "29"]
+
+1. Nc6+ $1 (1. Nxc4+ $143 Kb5 2. Ne5+ c4 $19) bxc6 2. c3 $1 Qa8 3. Bg4 $1 Qg8 4. Bd7 Qf7 5. Bg4 Qf4 6. Bd7 Qf3 7. Ka2 Kb6 8. Be6 Kb7 9. Bd7 Qd1 10. Bh3 Qb3+ 11. Ka1 Ka6 12. Be6 Ka5 13. Bf5 Ka4 14. Bc8 Qc2 15. Ka2 $11 1/2-1/2
+
+[Event "Schach Echo#305"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4K1B1/8/1Pk5/1b3p2/p4n2/8/1N6/8 w - - 0 1"]
+[PlyCount "10"]
+
+1. Nxa4 $1 (1. Ke7 $143 a3 2. Nd1 Kxb6 3. Kf6 Kc5 4. Ne3 Nd5+ 5. Kg5 Nxe3 6. Ba2 Bc4 7. Bb1 f4 8. Kxf4 Nd5+ 9. Ke4 Ba2 10. Bxa2 Nc3+ $19) (1. Nd1 $143 Kxb6+ $19 2. Ke7 Kc5 3. Kf6 a3 4. Ba2 Nd5+ 5. Ke5 Bc4 6. Bb1 Be2 7. Ba2 Bxd1 8. Bxd5 f4 $19) Bxa4 (Kb7+ $144 2. Ke7 Bxa4 3. Bh7 Bc2 4. Kf6 $11 Nd5+ 5. Ke5 Nb4 6. Bxf5 $11) 2. Bh7 (2. Ke7 $143 Nh5 3. Bh7 Ng3 4. Bg8 f4 $19) Nh5 (Bc2 $144 3. Ke7 Nd5+ 4. Ke6 Ne3 5. Ke5 Nc4+ 6. Kf4 Nd6 7. Ke5 $11) 3. Bxf5 $1 (3. Ke7 $143 Ng3 $19) Ng7+ 4. Kd8 Nxf5 5. b7 Kxb7 $11 {stalemate} 1/2-1/2
+
+[Event "Deutsche Schachzeitung"]
+[Source "Deutsche Schachzeitung/7"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6B1/p3K3/6p1/2p1k2p/P1P1pN2/1p2P2P/5P1r/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. Be6 $1 (1. Nxg6+ $143 $2 Kf5 2. Nf4 (2. Nf8 $144 Rxf2 3. Bh7+ (3. Ne6 b2 4. Bh7+ Ke5 5. Nxc5 (5. Nd8 Rf8) Rf7+ (Rd2 6. Bxe4) 6. Kxf7 b1=Q 7. Ke7 Qb4) Kg5 4. Ne6+ Kh6 5. Bxe4 b2 6. Nf4 Rf3 7. Nd5 Rxh3 8. Kd6 Rg3 9. Kxc5 h4 10. Kd4 h3 11. Kc3 Rg2 12. Nf4 h2 13. Nxg2 h1=Q 14. Kxb2 $19) Rxf2 3. Bh7+ Kg5 4. Bxe4 b2 5. Kd6 Rf3 6. Nd5 Rxh3 7. Kxc5 h4 8. Kb4 Rf3 9. c5 h3 10. c6 h2 11. c7 Rf8 12. Nc3 Rc8 13. Ka3 Rxc7 14. Kxb2 Re7 15. Bg2 Rxe3 16. Kc2 Kg4 17. Kd2 Rg3 18. Bh1 Rg1 19. Be4 h1=Q 20. Bxh1 Rxh1 $19 {#35}) Rg2 2. Nxg2 g5 3. Nh4 $1 (3. h4 $143 $2 b2 4. hxg5 b1=Q 5. Nf4 Qb7+ 6. Kf8 (6. Bd7 Qa6) h4 7. Kg8 a5 8. Bh3 Qb2 9. g6 Qxf2 10. g7 Qxe3 11. Kh7 Kxf4 12. g8=Q Qxh3 $19) gxh4 4. Bg8 $1 b2 5. Bh7 $1 a5 6. Bg6 b1=Q 7. f4+ exf3 8. Bxb1 f2 9. Bd3 f1=Q 10. Bxf1 $18 1-0
+
+[Event "Schach Echo#425"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2r5/6bP/8/kN3P2/8/K7/8/2B5 w - - 0 1"]
+[PlyCount "9"]
+
+1. f6 $1 (1. Bg5 $143 Kxb5 2. f6 Bh8 3. f7 Kc4 4. Bh6 Ra8#) (1. Bh6 $143 Bxh6 2. Nd6 Bf8 $19) (1. Nd6 $143 Rxc1 2. Ne8 Bf8+ 3. Kb3 Rh1 4. Nf6 Be7 5. Ng8 Rxh7 6. f6 Bf8 7. Kc4 Rh8 8. f7 Rh7 $19) Bxf6 (Bh8 $144 2. f7 Kxb5 3. Bh6 $11) (Bf8+ $144 2. Kb3 Bb4 3. Bh6 Kxb5 4. Bg7 $11) 2. Nc7 $1 Rxc7 (Be5 $144 3. Bd2+ Kb6 4. Nd5+ $11) 3. Bg5 $1 Rc3+ (Bh8 $144 4. Bd8 $11) 4. Kb2 $1 (4. Ka2 $143 Rc2+ 5. Kb3 Rb2+ 6. Ka3 Bh8 $19) Bh8 5. Bd2 $1 $11 1/2-1/2
+
+[Event "Deutsche Schachzeitung#630"]
+[Source "Deutsche Schachzeitung/3 EG#00036"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5R2/2P5/8/3N4/5P1n/5k2/N1b2p2/5K2 w - - 0 1"]
+[PlyCount "14"]
+
+1. Nab4 Nf5 (Bf5 $143 2. c8=Q Bxc8 3. Rxc8 $18) 2. Rxf5 (2. Rg8 $143 Bd1 $19 {#1}) Bxf5 3. c8=Q Bxc8 4. f5 Bxf5 5. Nf4 Bc8 6. Nbd3 Ba6 7. Ne2 Bxd3 $11 1/2-1/2
+
+[Event "Deutsche Schachzeitung#683"]
+[Source "Deutsche Schachzeitung/4"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b6/7p/2p1NR2/2N1pK2/8/2k2Pp1/8/4r3 w - - 0 1"]
+[PlyCount "8"]
+
+1. Ne4+ $1 Rxe4 2. Kxe4 g2 3. Nf4 exf4 4. Rg6 hxg6 1/2-1/2
+
+[Event "Deutsche Schachzeitung"]
+[Source "Deutsche Schachzeitung/8"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6R1/7k/7P/7P/7P/4K2P/3p3P/2b5 w - - 0 1"]
+[PlyCount "14"]
+
+1. Rg7+ Kxh6 (Kh8 $143 2. Ke2 $18) 2. Rg6+ Kxh5 3. Rg5+ Kxh4 4. Rg4+ Kxh3 5. Rg3+ Kxh2 6. Kf2 $1 d1=Q 7. Rh3+ Kxh3 $11 {stalmate} 1/2-1/2
+
+[Event "2.hm Problem#215"]
+[Source "Problem/10 1968 EG#09835"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2K5/5p2/2nr3P/1kn2R2/5P2/2B5/8/8 w - - 0 1"]
+[PlyCount "12"]
+
+1. Rxc5+ (1. h7 $143 Ne7+ 2. Kc7 Rd7+ 3. Kb8 Rd8+ 4. Kc7 (4. Ka7 $144 Nc6#) Rc8+ 5. Kd6 Nxf5+ 6. Kd5 Rd8+ 7. Ke5 Rh8 $19) (1. Bf6 $143 Na7+ 2. Kb8 (2. Kc7 $144 Rd7+ 3. Kb8 Nc6+ 4. Kc8 Kb6 5. Rxc5 Rc7#) Rxf6 3. Rh5 (3. h7 $144 Rxf5 4. h8=Q Nc6+ 5. Kc7 Rxf4 $19) (3. Rxf6 $144 Nd7+ 4. Kxa7 Nxf6 $19) Ra6 4. h7 Nc6+ 5. Kc7 Ra7+ 6. Kc8 Kb6 7. h8=Q Rc7#) (1. Rxf7 $143 Rd8+ 2. Kc7 Na6+ 3. Kb7 Rb8#) (1. Rh5 $143 f5 2. Rxf5 Rd8+ 3. Kc7 Rd7+ 4. Kc8 Ne7+ 5. Kb8 Nxf5 $19) Kb6 (Kxc5 $144 2. h7 Ne7+ 3. Kc7 Rc6+ 4. Kd8 Ng6 5. f5 Nh8 6. Bxh8 Rh6 7. Bb2 Rxh7 8. Ke7 Kd5 9. Kf8 Ke4 10. Bg7 $11) 2. Bf6 Rxf6 3. h7 Rh6 4. Rf5 Ne7+ (Rxh7 $144 5. Kd7 Nd4 6. Rf6+ Kc5 7. Ke7 Nc6+ 8. Kd7 Nb4 9. Ke8 $11) 5. Kd7 Nxf5 6. h8=Q Rxh8 $11 {stalemate} 1/2-1/2
+
+[Event "Schach#05729"]
+[Source "Schach/6"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2Bk1K2/2p5/3N2p1/6p1/N7/2R5/3r2r1/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. Bh3 $1 Rgf2+ (Rxd6 $144 2. Bxg2 $18) 2. Nf7+ Rxf7+ 3. Kxf7 g4 $1 4. Bxg4 Rd4 5. Rd3 $1 Rxd3 6. Nc5 Rg3 7. Nb7# 1-0
+
+[Event "Schach Echo#614"]
+[Source "Schach Echo/2"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5P2/1pp2K2/k1N5/1b4r1/N7/2PP4/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. f8=Q Rf4+ 2. Ke5 $1 Rxf8 3. Nc4+ Kb5 4. Nd6+ Ka5 (Kxc5 $144 5. d4#) 5. Ndb7+ Kb5 6. c4+ $1 Kxc4 7. Nd6+ Kxc5 8. d4# 1-0
+
+[Event "Deutsche Schachzeitung#786"]
+[Source "Deutsche Schachzeitung/3"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/BR1K1pk1/1pR3p1/6p1/6P1/1Pp5/5p2/7b w - - 0 1"]
+[PlyCount "9"]
+
+1. Rf6 $1 Kxf6 (Bc6+ $144 2. Ke7 $18) (c2 $144 2. Rc7 Kxf6 3. Bxb6 Ke5 (f1=Q $144 4. Bd4#) 4. Bxf2 $18) 2. Rxb6+ (2. Bxb6 $143 Ke5 3. Bxf2 Bxb7 4. Be3 f5 5. gxf5 gxf5 $19) Kg7 (Ke5 $144 3. Rb5+ (3. Rf6 $143 c2 4. Be3 Ke4 5. Rxf2 Kxe3 6. Rxc2 f5 $11) Kf4 4. Bxf2 c2 5. Rc5 Be4 6. b4 Bd3 $18) 3. Rf6 $1 c2 (Kxf6 $144 4. Bd4#) 4. Be3 $1 Bc6+ (Bd5 $144 5. Rxf2 Bxb3 6. Bxg5 $18) 5. Ke7 $18 1-0
+
+[Event "Deutsche Schachzeitung#864"]
+[Source "Deutsche Schachzeitung/2"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1RB3R1/r7/p7/4r1p1/3p1kP1/8/p1PK1P2/8 w - - 0 1"]
+[PlyCount "9"]
+
+1. Rf8+ Ke4 2. Be6 $1 (2. Bb7+ $143 Rxb7 3. Rbd8 Reb5 $19 4. f3+ Ke5 5. Rfe8+ Kf6 6. Rd6+ Kf7 7. Re1 Rb1 8. Rxa6 Rxe1 9. Kxe1 Rb1+ 10. Kd2 a1=Q $19) Rxe6 (Rd5 $144 3. Bxd5+ Kxd5 4. Rf5+ Kc6 5. Ra5 $18) (a1=Q $144 3. f3#) 3. Rf5 $1 (3. Rbd8 $143 Rf6 $1 4. Rfe8+ Kf3 5. Re1 Rb6 6. Ra1 Rb2 7. Rxd4 Rc7 8. Rd3+ Kxf2 9. Rc3 $17) Re5 4. Re8 $1 Rxe8 (Kd5 $144 5. Rexe5+ $18) 5. f3# 1-0
+
+[Event "Deutsche Schachzeitung#413"]
+[Source "Deutsche Schachzeitung/12 @3: Dowd=S HHdbIV 2-11-2007"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6R1/3K1Ppp/6k1/7n/6P1/np6/5r2/7R w - - 0 1"]
+[PlyCount "13"]
+
+1. f8=Q $1 (1. gxh5+ $143 Kxf7 2. Ra8 b2 $1 3. Rxa3 Rd2+ 4. Kc6 Rc2+ 5. Kb5 Rc1 $11) Rxf8 (Nf6+ $144 2. Kc8 Rc2+ 3. Kb7 $18) (Rf7+ $144 2. Qxf7+ (2. Ke6 $144 Nf4+ 3. Ke5 Nc4+ 4. Ke4 Nd2+ 5. Ke3 Nc4+ 6. Kf3 Nd2+ 7. Kf2 Rxf8 8. Rxf8 Kg5 9. Rd8 Nc4 10. Rxh7 Kg6 11. Rh1 Ne6 12. Rb8 Nc5 13. Ke2 Nb2 14. Rb6+ Kf7 15. Rc6 Nba4 16. Kd2 Ke7 17. Re1+ Kd7 18. Rg6 Nb2 19. Rxg7+ Kc6 20. g5 Nbd3 21. Rf1 Ne5 22. Kc3 Kd5 23. Rd1+ Ke6 24. g6 Kf6 25. Rc7 Ne6 26. Rf1+ Kxg6 27. Re7 Nf4 28. Rxe5 $18) Kxf7 3. Rb8 Nf6+ 4. Kd8 Nc4 5. Rxb3 Nxg4 6. Rxh7 Kg6 7. Rh8 Kf5 8. Ke7 Nge5 9. Rf8+ Ke4 10. Rg8 Ne3 11. Re8 Kf4 12. Kd6 Nf5+ 13. Kd5 Ng4 14. Re4+ Kg5 $18 {certainly a win for White}) 2. gxh5+ (2. Rxf8 $143 Nf6+ 3. Ke7 b2 4. Rb8 b1=Q 5. Rhxb1 Nxb1 6. Rxb1 Nxg4 $11) Kf7 3. Rh8 $1 (3. Rxf8+ $143 Kxf8 4. Rf1+ Kg8 5. h6 (5. Ke7 $144 h6 6. Rf8+ Kh7 7. Rb8 Nc4 8. Rxb3 Ne5 9. Rg3 (9. Ke6 $144 Ng4 10. Rb5 Nf6 11. Kf7 Ne4 $11) Kg8 10. Ke6 Nf7 11. Rg1 Ng5+ $11) gxh6 6. Ke7 h5 $1 7. Rg1+ Kh8 8. Kf7 h6 9. Kg6 (9. Rg8+ $144 Kh7 10. Rg7+ Kh8 11. Kg6 b2 $11) (9. Rg6 $144 Kh7 10. Rb6 Nc4 11. Rxb3 Nd6+ 12. Kf6 Ne4+ 13. Kf5 Ng5 14. Rb7+ Kg8 $11) b2 10. Kf7 $11) (3. Rf1+ $143 Kxg8) Rxh8 (b2 $144 4. Rf1#) 4. Rf1+ Kg8 5. h6 gxh6 (g6 $144 6. Ke7 b2 7. Rf8#) 6. Ke7 b2 7. Rg1# 1-0
+
+[Event "Deutsche Schachzeitung#2111 (c)"]
+[Source "Deutsche Schachzeitung/10 (c): Wotawa=A Deutsche Schachzeitung/6 1941"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5K2/1P6/5R2/8/8/8/8/rr1k4 w - - 0 1"]
+[PlyCount "21"]
+
+1. Kg8 $1 (1. Ke8 $143 Ke2 $1 2. Re6+ Kf2 $1 3. Rf6+ Kg2 $1 4. Rg6+ Kh3 $1 5. Rh6+ (5. Rg1 $144 Rxg1 $19) Kg4 6. Rg6+ Kh5 7. Rg7 Ra7 $19) (1. Rf1+ $143 Ke2 2. Rc1 Kd2 $1 3. Rg1 (3. Rf1 $144 Rxf1+ $19) (3. Rh1 $144 Rxh1 4. b8=Q Rh8+ $19) Rf1+ 4. Ke7 (4. Ke8 $144 Rxg1 $19) Rae1+ 5. Kd6 (5. Kd7 $144 Rf7+ $1 6. Kc6 Re6+ 7. Kd5 Rb6 $19) Rf6+ $1 6. Kd5 (6. Kc5 $144 Re5+ 7. Kd4 (7. Kc4 $144 Rf4+ 8. Kb3 Rb5+ $19) Rb5 $19) (6. Kd7 $144 Rxg1 7. b8=Q Rg7+ $19) Rb6 $19) (1. Rd6+ $143 Ke2 2. Re6+ Kf2 3. Rf6+ Kg3 4. Rg6+ Kh4 5. Rg1 (5. Rh6+ $144 Kg5 6. Rh1 Rxh1 $19) Rf1+ 6. Ke7 Rae1+ 7. Kd6 (7. Kd7 $144 Rf7+ 8. Kd6 (8. Kc6 $144 Re6+ 9. Kd5 Rb6 $19) Re8 9. Rb1 Rb8 $19) Rf6+ 8. Kd5 (8. Kc7 $144 Rxg1 $19) (8. Kc5 $144 Re5+ $19) Re8 9. Rb1 (9. Rg7 $144 Rb6 10. Kc5 Ree6 11. Rc7 (11. Kd5 $144 Re1 $19) Rb1 12. Rc6 Re7 13. Rb6 Rxb7 $1 $19) Rb8 10. Kc5 Rf7 11. Kc6 Kg5 12. Rb6 Re7 $1 (Kg6 $143 13. Kb5+ Kg7 14. Ka6 $11) 13. Rb1 Kf6 14. Rf1+ Kg7 15. Rg1+ Kf8 16. Rf1+ Ke8 17. Rb1 Rd7 18. Re1+ (18. Rh1 $144 Rbxb7 $1 $19) Kd8 19. Rb1 Rc7+ $19) Ke2 2. Re6+ Kd3 (Kf2 $144 3. Rf6+ Kg2 4. Rg6+ Kh3 5. Rh6+ Kg4 6. Rh1 $1 Kf5 7. Rc1 $1 Kf6 8. Re1 $11) 3. Re1 (3. Rd6+ $144 $11) Kd4 (Kd2 $144 4. Rf1 $1 Ke2 5. Rc1 $1 Kd2 6. Rf1 $1 $11) 4. Rc1 Kd5 5. Kf8 $1 Ke6 (Kd6 $144 6. Ke8 $11) 6. Rd1 $1 (6. Kg8 $143 Rxc1 7. b8=Q Rg1+ 8. Kh7 Rh1+ 9. Kg7 Rag1+ $19) (6. Ke8 $143 Rxb7 $1 7. Rxa1 Rb8#) Ke5 7. Rc1 Kd5 8. Ke8 Kd6 9. Kf8 $1 (9. Kd8 $143 Rxb7 $1 10. Rxa1 Rb8#) Kd7 10. Kf7 Kd8 11. Kf8 $11 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "2K5/8/7p/8/6P1/6P1/2k3P1/5b2 w - - 0 1"]
+
+1. Kd7 (1. Kd8 $2 Be2 $19) (1. Kc7 $2 Be2 $19) Be2 2. g5 (2. Ke6 $2 Bxg4+ 3. Kd6 h5 $19) (2. Kc6 Bxg4) (2. Ke8 Bxg4) hxg5 3. g4 (3. Ke6 $2 g4 $19 4. Kf6 Kd2) (3. Kd6 $2 g4 $19) (3. Ke7 $2 g4 $19) Bxg4+ 4. Ke7 (4. Kd6 $2 Be2 $19) (4. Kc6 Bf3+ 5. gxf3 Kd2) Be2 5. g4 (5. Kf6 $2 g4 $19) (5. g3 $2 g4 $19) (5. Ke6 $2 g4 $19 6. Ke5 Kd2) (5. Kf7 $2 g4) Bxg4 6. Kf6 $10 (6. Kf7 Bh3) 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/1p1p2K1/2pB4/2P1Pk2/p1Pp4/3P4/5P2/8 w - - 0 1"]
+
+1. Kh6 (1. Kf7 $2 a3 2. Ke7 $10) (1. e6 $2 dxe6 2. f4 $10) a3 2. e6 (2. Kh5 $4 a2 $19) (2. f4 $4 a2 $19) (2. Bf8 $4 a2 $19) (2. Bc7 $4 a2 $19) (2. Be7 $4 a2) (2. f3 $4 a2) (2. Kg7 a2) (2. Bb8 a2) dxe6 (Kxe6 3. Kg6 (3. f4 $6 Kf5 4. Be5 $16) (3. f3 a2) (3. Be7 Kxe7) a2 4. f4 (4. Be5 $4 Kxe5 5. f4+ Kxf4) (4. Bf4 a1=Q) (4. Bc7 a1=Q) (4. Kh6 a1=Q) (4. Kg5 a1=Q) (4. Kh5 a1=Q) a1=Q 5. f5# $1 (5. Be5 $4 Qg1+ 6. Kh6 Qg4)) 3. Be5 (3. Bh2 a2) Kxe5 4. Kg5 (4. f4+ $4 Kf6 $19) (4. Kg6 $4 Kf4 $19) (4. Kh5 $4 Kf6 $19) (4. f3 Kf6) (4. Kg7 a2) a2 5. f4# (5. f3 b6 6. f4#) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "4R3/8/7R/1K1k4/p7/8/p5r1/8 w - - 0 1"]
+
+1. Rd8+ (1. Rh5+ Kd6 2. Rh6+ $18) (1. Rh1 $2 Rb2+ 2. Ka5 $10 Rb5+ $4 (Rb1 $5) 3. Kxb5) (1. Kxa4 a1=Q+ 2. Kb3 Rb2+) (1. Rg8 Rxg8 2. Rh5+ Ke6) Ke5 2. Rh1 (2. Rh5+ $6 Ke6 3. Rd1 $18) (2. Re8+ Kd5 $18 3. Rd8+) (2. Rd1 $2 Rb2+ 3. Ka5 $10) (2. Rd4 Kxd4 3. Rh4+ Kc3) (2. Kc6 Rc2+ 3. Kb7 a1=Q) (2. Rd2 Rxd2 3. Rh5+ Ke6) (2. Rd5+ Kxd5 3. Rh5+ Ke6) (2. Rh2 Rxh2 3. Re8+ Kd4) Rb2+ 3. Kc5 (3. Kxa4 $2 Rb1 4. Re8+ $10) (3. Kc4 $2 Rb1 4. Re8+ $10) (3. Ka5 $2 Rb1 4. Re8+ $10) (3. Kc6 $2 Rb1 4. Re8+ $10) (3. Ka6 Rb1 4. Rdd1) Rb1 (Rc2+ 4. Kb4 (4. Kb5 Rb2+ 5. Kc5 $18) (4. Kb6 Rb2+ 5. Kc5) Rb2+ 5. Ka3 (5. Kc3 $2 Rb1 6. Re8+ $10) (5. Kc4 $2 Rb1 6. Re8+ $10) (5. Ka5 $2 Rb1 6. Re8+ $10) (5. Kc5 Rc2+ 6. Kb4 $18) (5. Kxa4 $2 Rb1 6. Re1+ $10) Rb1 6. Rh5+ $1 $18 (6. Re8+ Kf6 7. Rh6+ $18) (6. Re1+ $2 Kf6 7. Rf8+ $10) (6. Kxa2 $2 Rxh1 7. Rc8 $10) (6. Rxb1 $4 axb1=Q 7. Kxa4 Qh1 8. Re8+ Kf6) (6. Rh2 a1=Q+ 7. Ra2 Rb3+) (6. Rc8 a1=Q#)) 4. Rf1 (4. Rh5+ $2 Ke4 5. Ra8 $10) (4. Re8+ $2 Kf5 5. Rf8+ $10) (4. Rdd1 $2 a1=Q 5. Rxb1 $10) (4. Rhh8 $2 a3 5. Rde8+ $10) Ke6 5. Re8+ (5. Rd6+ $2 Ke7 6. Rd2 $10) (5. Re1+ $2 Kf6 6. Rf8+ $10) (5. Rdd1 $2 a1=Q 6. Rxb1 $10 Qe5+ 7. Kb6) (5. Rff8 $2 a3 6. Ra8) (5. Rg1 Rxg1 6. Rd6+ Ke7) (5. Rd2 Rxf1 6. Rxa2 Rf5+ 7. Kc4) (5. Rf2 Rc1+ 6. Kb6 a1=Q) Kd7 6. Rfe1 (6. Ree1 $2 a1=Q 7. Rxb1 $10) (6. Rff8 $2 a3 7. Rd8+ $10) (6. Rg8 Rxf1 7. Rg7+ Ke8) (6. Rf4 Rc1+ 7. Kd5 a1=Q) a1=Q 7. R1e7# (7. R8e7+ Kc8 8. Re8+ $18) (7. R1e6 $4 Qa3+ 8. Kd5 Rb5+) (7. Rxb1 $4 Qxb1 8. Rd8+ Kxd8) (7. Rd1+ $4 Rxd1 8. Rd8+ Kxd8) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/2B5/1p6/p2P3k/3b4/7K/6P1/8 w - - 0 1"]
+
+1. d6 (1. g4+ $2 Kg6 2. d6 $10) (1. g3 a4 2. d6 Be5) (1. Bh2 Kg5) Be5 2. Bb8 (2. Bxb6 $2 Bxd6 3. g4+ $10) (2. g4+ $2 Kg6 3. Bxb6 Bxd6 4. Bd4 $10) (2. Bd8 $4 Bxd6 3. Bxb6 a4) (2. g3 $4 a4 $10) (2. d7 $4 Bxc7 $19 3. g4+ Kg5) Bf6 3. d7 (3. Bc7 Be5 4. Bb8 $18) (3. g4+ $2 Kg6 4. d7 $10) (3. Ba7 $4 a4 4. g4+ Kg6) (3. Kg3 $4 a4 4. Kf3) Bd8 (a4 4. Bc7 (4. Be5 $4 Bd8 5. g4+ Kg6 $10) (4. g4+ $2 Kg6 5. Bc7 $10) (4. Bd6 $4 Bd8 5. g4+ Kg6 $10) (4. Bf4 $4 Kg6 $10 5. Bc7) (4. Bg3 $2 a3 5. Bh4 $14 $10) (4. Ba7 $4 Bd8) (4. Kg3 $4 a3 5. Kf3) a3 5. d8=Q (5. Bxb6 $2 a2 6. g4+ $10) (5. g4+ $2 Kg6 6. Bxb6 a2 $10) Bxd8 6. Bxd8 (6. Bxb6 $4 Bxb6 7. g4+ Kg5) (6. Bf4 $4 b5 7. g4+ Kg6) (6. g4+ $4 Kg6 7. Bxd8 a2) (6. Be5 $4 b5) a2 7. Bf6 $18 (7. g4+ $4 Kg6 $19 8. Bxb6 a1=Q) (7. Bxb6 $4 a1=Q 8. g4+ Kg6) (7. Bh4 $4 a1=Q 8. g4+ Kg6) (7. Be7 $4 a1=Q 8. g4+ Kg6) (7. Kg3 $4 a1=Q 8. Bxb6 Qa3+)) 4. Bg3 (4. Bd6 $4 Kg6 $10 5. Kg4) (4. g4+ $2 Kg6 5. Bg3 $10) (4. Ba7 $4 Kg6 $19) (4. Bf4 $4 a4 5. g4+ Kg6 $10) (4. Be5 $4 a4 5. g4+ Kg6 $10) (4. Kg3 $4 Kg5 $15 5. Bf4+ Kf5) (4. Bh2 $4 Kg6 $15) (4. Bc7 $4 Bxc7 $19 5. g4+ Kg5) (4. g3 $4 Kg5) (4. Kh2 $4 Kg4) a4 5. Bh4 (5. Bd6 $4 Kg6 $17 $19) (5. Be5 $4 a3 6. g4+ Kg6 $10) (5. Bf4 $4 Kg6 $10 6. Kg4) (5. Bf2 $2 a3 6. g4+ $10) (5. Be1 $4 a3 6. g4+ Kg6 $10) (5. Bb8 $4 Kg6 $19) (5. Kh2 $4 Kg4) (5. Bh2 $4 Kg6) Bxh4 6. g4+ $18 (6. d8=Q $4 Bxd8 $19 7. g4+ Kg5) (6. g3 $4 Bd8 7. g4+ Kg5) 1-0
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "1B6/8/5kP1/8/8/7K/8/1r1B2N1 w - - 0 1"]
+
+1. Be5+ (1. Nf3 $2 Rxd1 2. Nh4 Rd4 $10) (1. Bh5 $2 Rxb8 2. Nf3 Rg8 3. Nh4 Kg5 $10) (1. Bc2 $2 Rxg1 2. Bg3 Rc1 $10 (Rh1+ $4 3. Kg4 Rh6 4. Bh4+ $18)) (1. g7 $2 Rxb8 2. g8=Q $10) (1. Kg4 $2 Rxb8 2. g7) (1. Bb3 $2 Rxg1 2. g7) (1. Ne2 $2 Rxd1 2. g7) (1. Bc7 $2 Rc1 2. g7) (1. Kh4 $2 Rxd1 2. g7) (1. Bf3 $2 Rxg1 2. g7) Kxe5 2. g7 (2. Nf3+ $2 Ke6 3. g7 $10) (2. Bb3 $2 Ra1 3. g7 $10) (2. Kh2 $2 Rxd1 3. g7 $10) (2. Bc2 $2 Rb8 3. g7) (2. Kg4 $2 Rxd1 3. Nf3+) (2. Bg4 Ra1 3. g7) (2. Ne2 Rxd1 3. g7) (2. Bh5 Rxg1 3. g7) Rb8 3. Bb3 (3. Nf3+ $2 Ke4 4. g8=Q $10) (3. Bc2 $2 Kf6 4. g8=Q) (3. Bh5 $2 Rg8 4. Nf3+) (3. Bf3 $2 Rc8 4. g8=Q) (3. Bg4 $2 Ra8 4. g8=Q) Rxb3+ 4. Nf3+ (4. Kg4 $2 Rb8 5. Nf3+) (4. Kh4 $2 Rb4+ 5. Kh3) (4. Kh2 $2 Rb2+ 5. Ne2) (4. Kg2 $2 Rb2+ 5. Ne2) Rxf3+ 5. Kg2 $18 (5. Kh2 Rf2+ 6. Kh3 Rf3+ $18) (5. Kg4 $4 Rf1 6. g8=Q Rg1+) (5. Kh4 $4 Rf1 6. g8=Q Rh1+) 1-0
+
+[Event "Wiener Schachzeitung"]
+[Source "Wiener Schachzeitung/5"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5q2/1Rp5/Rb6/8/p7/k7/P1PB4/K7 w - - 0 1"]
+
+1. Raxb6 $1 cxb6 2. Re7 $1 (2. Rxb6 $2 Qf1+ 3. Rb1 Qxb1+ $1 4. Kxb1) (2. c3 $2 Qf1+) Qxe7 (Qf1+ 3. Re1) 3. c3 $1 Qe2 4. Bc1+ Qb2+ 5. Bxb2# 1-0
+
+[Event "Wiener Schachzeitung"]
+[Source "Wiener Schachzeitung/5"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7r/Q4p1p/4n1p1/7k/5P2/2q3PK/2P3P1/4R3 w - - 0 1"]
+
+1. Rxe6 $1 (1. Re5+ $2 Kh6 2. Qxf7 Qxe5 $1 3. fxe5 Ng5+ 4. Kg4 Nxf7) fxe6 (Qc8 2. g4+ Kh6 3. Qxf7 Qc3+ 4. Kh4) (f5 2. Qe7 Kh6 3. Qg5+ Kg7 4. Re7+ Kg8 5. Rd7) 2. Qg7 $1 Qxg7 (Qa3 3. c3 $1) (Qe3 3. Qxh8 Kh6 (Qa7 4. g4+) (h6 4. Qf6) 4. Qf8+ Kh5 5. Qg7 h6 6. Qf6 g5 7. Qf7#) (e5 3. Qxh8 Kh6 4. Qf8+) 3. g4+ Kh6 4. g5+ Kh5 5. g4# 1-0
+
+[Event "Wiener Schachzeitung (m)"]
+[Source "Wiener Schachzeitung/5 (m): Gorgiev=T 3.c Shakhmaty v SSSR#43 Shakhmaty v SSSR/11 1957."]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/p3b3/2k5/K7/1P6/1P6/8 w - - 0 1"]
+
+1. Ka5 $1 Bc8 2. b4+ Kc6 $1 (Kc4 3. b3+ Kxb3 4. b5) 3. b3 $1 (3. b5+ $2 axb5 4. b4 Bd7) Bb7 4. b5+ $1 axb5 5. b4 $1 Ba8 (Bc8) 6. Ka6 Bb7+ 7. Ka5 Bc8 1/2-1/2
+
+[Event "Wiener Schachzeitung"]
+[Source "Wiener Schachzeitung/5"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7r/R5p1/6p1/5pPk/5P1p/5P1K/8 w - - 0 1"]
+
+1. Ra8 $1 (1. Ra1 $2 Rb7 2. Rg1 (2. Ra8 Rb8 $1 3. Rxb8) Rb2) Rh6 2. Ra1 $1 Rh8 3. Rg1 Ra8 4. Rg3 fxg3+ (Ra1 5. Rxh3#) 5. fxg3# 1-0
+
+[Event "Deutsche Schachzeitung#1949"]
+[Source "Deutsche Schachzeitung/8"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K6/p7/6P1/8/4k3/8/r5P1/5R2 w - - 0 1"]
+
+1. Rf4+ $1 Kxf4 (Kd5 2. Rg4 Re2 3. g7 Re8+ 4. Kc7 Rg8 5. Kd7 a5 6. Ke7 a4 7. Kf7) 2. g3+ Kxg3 3. g7 1-0
+
+[Event "Deutsche Schachzeitung#1977"]
+[Source "Deutsche Schachzeitung/2"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/1p1p4/pK1p4/P1pP2b1/Q7/8/3n1B1P/8 w - - 0 1"]
+
+1. Bh4 $1 Be3 2. Bf2 Bxf2 3. Qf4 Nc4+ 4. Qxc4 Bd4 5. h3 $1 Bf6 6. Qh4 Bxh4 1/2-1/2
+
+[Event "Deutsche Schachzeitung#2054"]
+[Source "Deutsche Schachzeitung/7"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/2K5/8/8/8/p5p1/2P2q2/Q7 w - - 0 1"]
+
+1. Qh1+ $1 g2 2. Qh8+ Ka7 3. Qb8+ Ka6 4. Qb7+ Ka5 5. Qd5+ Ka6 6. Qd3+ (6. Qc4+ $2 Ka5 7. Qc3+ Ka4 8. Qb3+ Ka5 9. Qxa3+) (6. Qc6+ $2 Ka5 7. Qc3+ Ka4 8. Qb3+ Ka5 9. Qxa3+) Ka5 7. Qxa3+ Kb5 8. Qb3+ Ka5 (Kc5 9. Qb6+ Kc4 10. Qxf2) 9. Qa2+ Kb4 (Kb5 {<main>} 10. c4+ Kb4 11. Qxf2) 10. c3+ Kxc3 11. Qxf2 1-0
+
+[Event "Deutsche Schachzeitung#2042 (c)"]
+[Source "Deutsche Schachzeitung/1 (c): Krug=P Estudios Artisticos de Ajedrez - XVI-52 2015."]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5BKN/8/2p2k2/3p2p1/p1pP1pP1/2P1pP1P/1P6/8 w - - 0 1"]
+
+1. Ng6 $1 (1. Bg7+ $2 Ke6 $1 2. Ng6 e2 3. h4 e1=Q 4. h5 a3 $1 5. bxa3 Qxc3 6. Nf8+ Ke7 $1 7. h6 Qxf3) Kxg6 2. Be7 e2 3. h4 e1=Q (gxh4 4. Bxh4) 4. h5+ Kh6 5. Bf8# 1-0
+
+[Event "Deutsche Schachzeitung#2053 (c)"]
+[Source "Deutsche Schachzeitung/6 (c): Bruch=W Die Schwalbe=232 8/2008."]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p1p1K1/5p2/p6k/2pP2p1/6P1/4P2P/5B2 w - - 0 1"]
+
+1. e3 $1 (1. e4 $2 c3 $1 2. Be2 c2 3. h3 f5 $1) c3 2. Be2 c2 3. h4 c1=Q 4. Bb5 $1 (4. Bd3 $2 f5 $1 5. Bxf5 Qc6 $1) c6 (Qxe3 5. Be8#) 5. Bd3 Qxe3 6. Bg6# 1-0
+
+[Event "Deutsche Schachzeitung#2147"]
+[Source "Deutsche Schachzeitung/4"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/5K1p/8/1p6/1p4p1/5p2/PP6/7R w - - 0 1"]
+
+1. Rf1 $1 h5 2. b3 h4 (Kc7 3. Ke6 $1 h4 4. a3 Kd8 (g3 5. axb4) 5. Kf7 $1) 3. a3 g3 4. axb4 g2 5. Rd1 f2 6. Ke7 g1=Q 7. Rd8+ Kc7 8. Rd7+ Kc6 9. Rd6+ 1/2-1/2
+
+[Event "Deutsche Schachzeitung#2166"]
+[Source "Deutsche Schachzeitung/8"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "kb6/p4b2/Kp1p2p1/3r2P1/8/8/2P3PQ/5B2 w - - 0 1"]
+
+1. Bb5 $1 Be8 (Rc5 2. Qh7 Bd5 (Rc3 3. Qxf7) 3. c4 Rxc4 (Bxg2 4. Bc6+ Bxc6 5. Qxa7+ Bxa7) (Be4 4. Qe7 Re5 5. Qd7 Rc5 6. g4) (Rc7 4. cxd5 Rxh7 5. Bc6+) 4. g4 Rc7 (Rc3 5. Bc6+ Bxc6 6. Qxa7+ Bxa7) 5. Qxc7 (5. Bc6+ $2 Bxc6 6. Qxc7 Bb5+ $1) Bxc7 6. Bc6+ Kb8 (Bxc6) 7. Bxd5 Bd8 8. Be4 Bxg5 9. Bxg6 d5 10. Bf7 d4 11. Bc4 Kc7 12. Kxa7 Kc6 13. Ka6 Kc5 14. Bd3) 2. c4 Bxb5+ (Bd7 3. Qh3 Rxb5 4. cxb5 Bxh3 5. g4 Bc7) (Rc5 3. Qh7 Rc7 (Bc7 4. Qh8) 4. Bxe8 Rxh7 5. Bc6+ Rb7 6. Bxb7#) 3. cxb5 Rd4 (Rd3 4. Qg3 Rxg3) (Rd2 4. g4 Rxh2) (Rd1 4. Qh8 Rd2 5. Qa1 d5 6. g4 Be5 7. Qb2 Rd3 8. Qc3 Bxc3) 4. Qh4 Rxh4 5. g4 Rh1 1/2-1/2
+
+[Event "Deutsche Schachzeitung#2245"]
+[Source "Deutsche Schachzeitung/7"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p1p3K/2pB4/2P1Pk2/p1Pp4/3P4/5P2/8 w - - 0 1"]
+
+1. Kh6 $1 (1. f4 $2 a3 2. e6 dxe6 3. Be5 a2 4. Bxd4 Kxf4 5. Kg6 e5 6. Ba1 e4 7. dxe4 Kxe4 8. Kf6 Kd3 9. Ke5 Kxc4 10. Kd6 Kb5) (1. Be7 $2 a3 2. Bf6 a2 3. e6 Kxf6) (1. Bf8 $2 a3 2. Bg7 a2 3. e6 a1=Q 4. exd7 Qa8) (1. Kg7 $2 a3 2. e6 dxe6 3. Be5 Kxe5 4. Kg6 Kf4) (1. e6 $2 dxe6 2. Bf8 a3 3. Bg7 e5) a3 (Kg4 2. e6 dxe6 3. Be5 Kf3 4. Bxd4 Ke2 (e5 5. Bxe5 Kxf2 6. d4 Ke3 7. d5) 5. Kg5 Kxd3 6. Be5 Kxc4 7. Kf6 Kd5 8. f4 a3 9. Bc7 (9. Ba1 $2 Ke4 (Kxc5 $2 10. Kxe6 b5 11. f5 b4 12. f6 b3 13. f7 b2 14. f8=Q+) 10. Kxe6 Kxf4 11. Kd6 Ke4 12. Kc7 Kd5 13. Kb6 Kc4 14. Be5 a2) Ke4 (Kxc5 10. Kxe6) 10. Kxe6 a2 11. Be5 a1=Q 12. Bxa1 Kxf4 13. Kd6 Ke4 14. Kc7 Kd5 15. Kb6 Kc4 16. Be5) 2. e6 dxe6 (Kxe6 3. Kg6 a2 4. f4 a1=Q 5. f5#) 3. Be5 Kxe5 (Kg4 4. Bxd4 Kf3 5. Kg5) 4. Kg5 (4. Kg6 $2 Kf4) a2 5. f4# 1-0
+
+[Event "Deutsche Schachzeitung#2242"]
+[Source "Deutsche Schachzeitung/5"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6B1/3b4/5P2/8/6P1/K7/6r1/k7 w - - 0 1"]
+
+1. f7 $1 (1. g5 $2 Rxg5 2. f7 Rf5 3. Kb4 Kb2 (Be6 $2 4. f8=Q) 4. Kc4 Be6+) Rf2 (Rg3+ 2. Kb4 Rxg4+ 3. Kc5 Rf4 4. Kd6) 2. g5 (2. Kb4 $2 Bxg4 3. Kc5 Bh5) Rf4 (Bg4 3. g6 Bh5 4. g7 Bxf7 5. Bxf7) 3. g6 Ba4 (Bg4 4. Kb3 Be6+ 5. Kc3) 4. f8=Q Rxf8 5. Bd5 (5. Bf7 $2 Ra8 6. Kb4 Be8 7. Bd5 Rb8+) Rf4 6. g7 Bd1 7. Bb3 Bxb3 8. g8=Q Bxg8 1/2-1/2
+
+[Event "Deutsche Schachzeitung#2246 (c)"]
+[Source "Deutsche Schachzeitung/9 (c): Krug=P Estudios Artisticos de Ajedrez - XIII-14 2014."]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1PK5/7p/8/8/3B4/kb6/6r1 w - - 0 1"]
+
+1. Kd6 $1 Re1 (Rg5 {<main>} 2. Bf5 Rxf5 3. b8=Q Be5+ 4. Ke6 Bxb8 5. Kxf5) 2. Be4 Bc1 3. Ke5 Rf1 4. Bf3 (4. Bd5+ $2 Ka1 5. Bf3 Re1+ 6. Be4 Bb2+ 7. Kd6 Rd1+) Re1+ 5. Be4 Bb2+ 6. Kd6 Rxe4 7. b8=Q Be5+ 8. Kd5 Bxb8 9. Kxe4 1/2-1/2
+
+[Event "Deutsche Schachzeitung#2245 (m)"]
+[Source "Deutsche Schachzeitung/7 (m): Shmulenson=G EG=100 6/1990."]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/2pB3K/2P1Pk2/p1Pp4/5P2/3P4/8 w - - 0 1"]
+
+1. d3 $1 a3 2. e6 dxe6 3. Be5 Kxe5 4. Kg5 a2 5. f4# 1-0
+
+[Event "Schach Magazin#075 (c)"]
+[Source "(c): Krug=P Estudios Artisticos de Ajedrez - XIII-15 2014."]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2r5/1Rb3P1/8/pK6/8/6p1/8/1k6 w - - 0 1"]
+
+1. Ka4+ $1 (1. Ka6+ $2 Ka2 2. Rxc7 Rg8 3. Re7 Kb2) Ka1 2. Rxc7 Rg8 3. Rc1+ Ka2 4. Rc5 Rxg7 5. Rg5 Rxg5 1/2-1/2
+
+[Event "Schach Magazin#075 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - XI-92 2012."]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2r5/Rp4P1/8/p7/K7/6p1/8/Nkn5 w - - 0 1"]
+
+1. Rxb7+ $1 Kxa1 2. Rc7 Rg8 3. Rxc1+ Kb2 4. Rc5 Rxg7 5. Rg5 Rxg5 1/2-1/2
+
+[Event "Schach Magazin#065 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - XIV-65 2014."]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/Bpkp2P1/6P1/1p1r2P1/8/8/5Kb1 w - - 0 1"]
+
+1. Bb7+ $1 (1. Bb5+ $2 Kxb5 2. g7 Rf4+ 3. Kg2 Rxg4+ 4. Kh1 b3 $1 5. g8=Q b2 6. Qb3+ Rb4 7. Qd3+ Kc6 8. Qf3+ d5 9. Qf6+ Kb5) Kxb7 2. g7 Rf4+ 3. Kg2 Rxg4+ 4. Kh1 Rxg5 5. g8=Q Rxg8 1/2-1/2
+
+[Event "Schach Magazin#091"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5r2/6k1/1P4B1/8/K6B/8/8/8 w - - 0 1"]
+
+1. Bh5 $1 Rf4+ (Rh8 2. b7) 2. Kb3 Rxh4 3. b7 Rh1 (Rh3+ 4. Kc4) 4. Kc2 Rh2+ 5. Kc3 Rh3+ 6. Kc4 Rh4+ 7. Bg4 $1 Rxg4+ (Rh8 8. Bc8 Rh4+ 9. Kc3) 8. Kc5 Rg5+ 9. Kc6 Rg6+ 10. Kc7 1-0
+
+[Event "Schach Magazin#121 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - XI-90 2012."]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/2k3P1/P5P1/8/p7/p6n/P7/N5r1 w - - 0 1"]
+
+1. a7 $1 Kb7 2. a8=Q+ (2. Kh7 $2 Ng5+ 3. Kh6 Rh1+ 4. Kxg5 Rg1+ 5. Kf5 Rf1+ 6. Ke5 Re1+ 7. Kf5 Rf1+ 8. Ke4 Re1+ 9. Kf3 Re8) Kxa8 3. Kh7 Ng5+ 4. Kh6 Rh1+ 5. Kxg5 Rg1+ 6. Kf6 Rf1+ 7. Ke7 Re1+ 8. Kd7 Rd1+ 9. Kc7 Rc1+ 10. Nc2 Rxc2+ 11. Kd7 Rd2+ 12. Ke6 Re2+ 13. Kf5 Rf2+ 14. Ke4 Re2+ 15. Kf4 Re8 16. Kg5 Kb7 17. Kh6 Kc7 18. Kh7 1-0
+
+[Event "Österreichische Schachzeitung"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2K5/5p2/2kP1P2/3r4/1P6/1P1b1P2/3R4 w - - 0 1"]
+
+1. Rxd2 $1 (1. b4+ $2 Kxd5) Rxd2 2. d6 Rxd6 (Kb5 3. d7 Rc2+ 4. Kd6 Rd2+ 5. Ke7 Re2+ 6. Kxf6 Rd2 7. Ke7 Re2+ 8. Kd8 Rxf2 9. f6 Rxf6 10. Ke7) 3. b4+ Kd5 4. b5 Kc5 (Ke5 5. f4+ Kd5 6. b4) 5. b4+ Kd5 6. f4 1-0
+
+[Event "Schach Magazin#121 (c)"]
+[Source "(c): Van_Reek=J Schaakmagazine=3 6/2013."]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k5K1/6P1/6P1/8/8/7n/8/N5r1 w - - 0 1"]
+
+1. Kh7 $1 Ng5+ 2. Kh6 Rh1+ $1 (Ne6 3. g8=Q+) 3. Kxg5 Rg1+ 4. Kf5 Rf1+ 5. Ke6 $1 (5. Ke4 $2 Re1+ 6. Kf3 Re8) Re1+ 6. Kd7 Rd1+ 7. Kc7 Rc1+ 8. Nc2 $1 Rxc2+ 9. Kd6 Rd2+ 10. Ke5 Re2+ 11. Kf4 $1 Re8 (Rf2+ 12. Kg3) 12. Kf5 (12. Kg5 {<or>}) Rg8 13. Kf6 1-0
+
+[Event "Deutsche Schachzeitung#029"]
+[Source "Deutsche Schachzeitung/12"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/8/2KB1P2/8/3kp3/7P/8 w - - 0 1"]
+
+1. Bf3 $1 e2 2. Bxe2+ Ke4 3. Bd3+ Kxd3 4. Kd5 Ke3 5. Ke5 Kf3 6. f6 $1 gxf6+ 7. Kf5 Kg2 8. h4 1-0
+
+[Event "Deutsche Schachzeitung#027 (pl)"]
+[Source "Deutsche Schachzeitung/11 = Mattison=H h1h5 1918."]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p5/8/kP6/2P5/8/8/K7 w - - 0 1"]
+
+1. b6 $1 cxb6 2. c5 $1 bxc5 3. Kb1 Kb5 4. Kc1 Ka4 5. Kc2 1/2-1/2
+
+[Event "Schach Magazin#141 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - XI-89 2012."]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/r7/Pp4Pp/7k/p7/p6K/6P1/R7 w - - 0 1"]
+
+1. g7 $1 Rxg7 (Ra8 2. Rxa3 Kg6 3. Rg3+) 2. Rxa3 (2. Rb1 $2 a2) Rc7 (Kg6 3. Rg3+) 3. Rg3 a3 4. a7 $1 Rxa7 5. Rg8 $1 Ra4 6. g4+ Rxg4 7. Rxg4 b5 {<eg>} 8. Rb4 1-0
+
+[Event "Österreichische Schachzeitung (c)"]
+[Source "(c): Krug=P Estudios Artisticos de Ajedrez - XIII-15 2014."]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3R4/pN6/2p4b/B7/2K4p/5p2/k7 w - - 0 1"]
+
+1. Bb5 $1 axb5 2. Nc4 $1 bxc4 (f1=Q 3. Ra7+ Kb1 4. Nd2+ Kc1 5. Ra1#) 3. Ra7+ Kb1 4. Rb7+ Kc1 5. Rf7 $1 (5. Ra7 $2 Kd1 6. Ra1+ Ke2) Bxf7 1/2-1/2
+
+[Event "Deutsche Schachzeitung#120 (c) (@2)"]
+[Source "Deu@sche Schachzeitung/11 (c): Wotawa=A Deutsche Schachzeitung#677 3/1966 î2: Garcia=M HHdbV 23-9-2011."]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p2p2/2K5/3p4/k4p2/5p2/5P1P/8 w - - 0 1"]
+
+1. Kc5 $1 (1. Kxd5 $2 Kb4 2. Kc6 Kc4 3. h4 Kd4 4. Kxc7 Ke4 5. Kd6 Kf5 6. Kd5 (6. Ke7 Kg4 7. Kxf7 Kxh4 8. Kf6 Kh3 9. Ke5 Kg2 10. Kxf4 Kxf2) Kg4) d4 2. Kc4 $1 (2. Kxd4 $2 Kb4 3. h4 c5+ 4. Ke4 c4 5. h5 c3) d3 3. Kc3 $1 (3. Kxd3 $2 Kb3 4. Kd4 Kb4 5. Kd3 Kb3) d2 4. Kxd2 (4. Kc2 $1 {<minor dual MG>}) Kb3 5. h4 Kb2 6. h5 c5 7. h6 c4 8. h7 c3+ 9. Kd3 c2 10. h8=Q+ 1-0
+
+[Event "Deutsche Schachzeitung#145"]
+[Source "Deutsche Schachzeitung/7"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5R1r/k7/7r/4pR2/6P1/4P3/4K2p/8 w - - 0 1"]
+
+1. R5f7+ $1 Ka6 2. Rf6+ Ka5 (Kb7 3. R8f7+) 3. Ra8+ Kb5 4. Rb8+ Kc5 5. Rc8+ Kd5 6. Rd8+ Ke4 7. Re6 $1 Rxd8 8. Rxh6 Ra8 9. Kf2 Ra2+ 10. Kg3 Kxe3 11. Rxh2 Rxh2 12. Kxh2 Kf4 13. g5 $1 Kxg5 14. Kg3 1/2-1/2
+
+[Event "Deutsche Schachzeitung#141 (c)"]
+[Source "Deutsche Schachzeitung/6 (c): Wotawa=A Deutsche Schachzeitung/8-9 1967."]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/k7/Pp6/8/1P1p4/KP3R2/4p3/8 w - - 0 1"]
+
+1. Rf7+ $1 Kxa6 2. Re7 d3 3. Ka4 b5+ 4. Ka3 d2 5. Re6+ Kb7 6. Re7+ Kc6 7. Re6+ Kd5 8. Rxe2 d1=Q 9. Rd2+ Qxd2 1/2-1/2
+
+[Event "Deutsche Schachzeitung#207"]
+[Source "Deutsche Schachzeitung/11"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p7/P5p1/1P1p4/7P/6KP/3b4/7k w - - 0 1"]
+
+1. h5 $1 (1. b6 $2 Be3 2. b7 Bg1 3. h5 Bh2+) gxh5 2. b6 Be3 3. b7 Bg1 $1 4. h4 $1 Bh2+ 5. Kh3 d4 6. b8=Q Bxb8 1/2-1/2
+
+[Event "Deutsche Schachzeitung#170"]
+[Source "Deutsche Schachzeitung/3"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "b3k3/3pPpK1/3P1P2/8/8/8/6B1/8 w - - 0 1"]
+
+1. Bf1 $1 (1. Bh3 $2 Bc6 2. Bg4 Bb5 3. Bh5 Bc4 4. Bf3 Bb5 5. Bd5 Bc4 6. Bc6 Bb5) Bc6 2. Bc4 Bd5 3. Bb5 Be6 4. Ba4 Bg4 5. Bb3 Bh5 6. Ba2 Bg6 7. Be6 $1 dxe6 8. d7+ Kxd7 9. Kf8 1-0
+
+[Event "Deutsche Schachzeitung#246 (c)"]
+[Source "Deutsche Schachzeitung/8 (c): Krug=P Estudios Artisticos de Ajedrez - XVI-70 2015."]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/8/2p5/4rP2/1P6/1PK1Rp1p/1P6/8 w - - 0 1"]
+
+1. Rxf3 $1 (1. Rxe5 $2 f2 $1) h2 2. Rf1 Rxf5 3. Rh1 $1 (3. Re1 $2 Rh5 4. Rh1 Kc7 5. Kc4 Kb6 6. Kc3 Kb5) Rh5 4. b5 $1 (4. Kc4 $2 Kc7) cxb5 5. b4 Rh3+ 6. Kc2 $1 (6. Kd4 $2 Kc7 7. Kd5 Rh6 8. b3 Rh3 9. Ke5 Kd7 10. Rd1+ Ke7 11. Rh1 Rh5+ 12. Ke4 Kd6 13. Kf4 Rh4+) Kc7 7. b3 $1 Kd6 8. Kb2 Ke5 9. Ka3 $1 Kf4 10. Rxh2 Rxh2 1/2-1/2
+
+[Event "Deutsche Schachzeitung#236"]
+[Source "Deutsche Schachzeitung/6"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7R/3B1pb1/7p/5K2/3r1P2/8/5P2/3k4 w - - 0 1"]
+
+1. Rd8 $1 (1. Rg8 $2 Rd5+ 2. Ke4 Rxd7 3. Rxg7 f5+ 4. Kf3 Rxg7 5. Ke3) Kd2 (Kc1 2. Rc8+) (Ke1 2. Re8+) 2. Rg8 $1 (2. f3 $2 Rd6 3. Rg8 Rd5+ 4. Ke4 Rxd7 5. Rxg7 f5+) Rd5+ 3. Ke4 Rxd7 4. Rxg7 f5+ 5. Kf3 Rxg7 1/2-1/2
+
+[Event "Deutsche Schachzeitung#233"]
+[Source "Deutsche Schachzeitung/5"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/p3B2k/8/6PK/p1p5/1p6/4R3 w - - 0 1"]
+
+1. g5+ $1 (1. Bf5 $2 g5+) (1. Re5 $2 g5+) Kh7 2. g6+ $1 (2. Bf7 $2 g6 $1) Kxg6 (Kh6 3. Bf5) 3. Kg4 $1 (3. Bb3 $2 Kf5) (3. Bg8 $2 Kf5) c2 (Kf6 4. Ba2) (Kh6 4. Kf5) (Kh7 4. Kf5) (a5 4. Bg8 Kh6 5. Re6+ g6 6. Re7 g5 7. Bh7 $1) 4. Bg8 Kh6 (c1=Q 5. Re6#) 5. Re6+ g6 6. Re7 g5 (c1=Q 7. Rh7#) 7. Kf5 $1 c1=Q 8. Rh7# 1-0
+
+[Event "Deutsche Schachzeitung#407 (c)"]
+[Source "Deutsche Schachzeitung/11 (c): Horning=G Josten=G Europa Rochade=9 9/2004."]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1BR5/2n1k1p1/2K2R2/5P2/p7/Pp6/2p3P1/8 w - - 0 1"]
+
+1. Rxc7+ $1 Kxf6 2. Kd5 b2 3. Rxg7 Kxf5 (Kxg7 4. Be5+ Kf7 5. Bxb2) 4. Be5 b1=Q 5. g4# 1-0
+
+[Event "Deutsche Schachzeitung#398"]
+[Source "Deutsche Schachzeitung/9"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/1p4R1/2p2p2/5p2/3K1k2 w - - 0 1"]
+
+1. Rg7 $1 (1. Rg8 $2 b3 $1 2. Rg7 b2 3. Kc2 b1=Q+ 4. Kxb1 Ke2 5. Re7+ Kd3 6. Rd7+ Ke4 $1 7. Re7+ (7. Rd1 Ke3 8. Kc2 Ke2) Kd4 8. Rd7+ Ke5 9. Rd1 Ke4 10. Kc2 Ke3 11. Kxc3 Ke2 12. Rd2+ Ke1) (1. Rg6 $2 c2+ $1 2. Kxc2 b3+ 3. Kd2 (3. Kxb3 Ke1 4. Re6+ Kd1 5. Rd6+ Kc1 6. Rc6+ Kb1) b2 4. Kc2 b1=Q+ 5. Kxb1 Ke2 6. Re6+ Kd3 7. Rd6+ Ke3 8. Re6+ Kf4 9. Rf6+ Ke4) b3 (c2+ {<main>} 2. Kxc2 b3+ 3. Kd2 b2 4. Kc2 b1=Q+ (Ke2 5. Re7+ Kf1 6. Rg7) 5. Kxb1 Ke2 6. Re7+ Kd3 7. Rd7+ Ke4 (Ke3 8. Re7+ Kf4 9. Rf7+ Kg4 10. Rg7+ Kh4 11. Rh7+ Kg5 12. Rh1 Kg4 13. Kc2 Kg3 14. Kd3 Kg2 15. Ke3 Kxh1 16. Kxf2) 8. Rd1 Ke3 9. Kc2 Ke2 10. Rd2+ Kf1 (Ke3 11. Rd1 Ke2 (Kf4 12. Kd3 Kg3 13. Ke3 Kg2 14. Rd2) 12. Rd2+) 11. Rd8) 2. Rg8 $1 b2 3. Kc2 b1=Q+ 4. Kxb1 Ke2 5. Re8+ Kd3 6. Rd8+ Ke4 (Kc4 7. Rd1) 7. Re8+ Kf5 (Kd5 {<main>} 8. Rd8+ Ke6 9. Rd1 Ke5 {<eg>} 10. Rf1 Ke4 11. Rxf2) 8. Rf8+ Kg4 9. Rg8+ Kh5 10. Rh8+ Kg6 11. Rh1 Kf5 {<eg>} 12. Kc2 Kf4 13. Kxc3 Ke3 14. Ra1 Ke2 15. Ra2+ Kf1 16. Ra8 Kg2 17. Rg8+ 1/2-1/2
+
+[Event "Deutsche Schachzeitung#404 (c)"]
+[Source "Deutsche Schachzeitung/10 (c): Garcia=M Estudios Artisticos de Ajedrez - XI-86 2012."]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3Rp3/K1p3p1/4p3/k4b1p/6p1/PPP5/8 w - - 0 1"]
+
+1. c3 $1 (1. a3 $2 Bc1 2. Rb7 (2. Ra7 Be3 3. Ra8 g2) Bxb2) (1. Rd1 $2 Kb4) Bc1 $1 (g2 2. Rb7 c5 3. Rb3 g1=Q 4. Ra3#) (c5 2. Kb6) 2. Ra7 (2. Rb7 $2 Bxb2) Be3 (Bxb2 3. Kb6#) 3. Rb7 (3. Ra8 $2 Bd4 $1) Bc5 (c5 4. Rb3) 4. Rb3 g2 5. Ra3+ Bxa3 6. b3# 1-0
+
+[Event "Deutsche Schachzeitung#446"]
+[Source "Deutsche Schachzeitung/9"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K1k1/8/p4pPR/p7/8/6p1/6Pp/8 w - - 0 1"]
+
+1. g7 $1 (1. Rh8+ $2 Kg7 $1 (Kxh8 $2 2. Kf7) 2. Rh7+ (2. Ke7 a4 3. Ke6 a3 4. Kf5 a2 5. Rh7+ Kg8) Kxg6 3. Rh3 Kf5) (1. Ke7 $2 Kg7 2. Rh7+ (2. Ke6 Kxh6) (2. Rh3 a4) Kxg6 3. Rh3 Kf5) f5 (Kxg7 2. Rh3 Kg6 (f5 3. Rxg3+ Kf6 4. Rh3 Ke5 5. Rxh2 Kd4 6. Rh3) 3. Rxg3+ Kf5 4. Rh3 Kf4 5. Rxh2 Kg3 (f5 6. Rh3) 6. Rh5) (a4 2. Ke7 Kxg7 3. Rh3 a3 4. Rxg3+ Kh6 5. Rh3+ Kg5 6. Rxh2 a2 (Kg4 7. Rh3 a2 8. Ra3) 7. Rh1) 2. Rh7 $1 (2. Ke7 $2 Kxg7 3. Rh3 f4 4. Rh4 Kg6 5. Ke6 Kg5 6. Rh8 f3) f4 (Kxh7 3. Kf7) 3. Ke7 f3 4. Kf6 Kxh7 5. Kf7 f2 6. g8=Q+ Kh6 7. Qg6# 1-0
+
+[Event "Deutsche Schachzeitung#426"]
+[Source "Deutsche Schachzeitung/4"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/p4p2/1pp1pPpK/4n1P1/7R/1R2p3/P4P1n/8 w - - 0 1"]
+
+1. f3 $1 (1. Rbb4 $2 exf2 2. Rbd4 Nhg4+ 3. Rhxg4 Nxg4+ 4. Rxg4 f1=Q) Nhxf3 (Nexf3 2. Rd3) (e2 2. Rd3 Nxd3 3. Rd4) 2. Rxb6 $1 (2. Rxe3 $2 Nxh4 3. Rxe5 Nf5+ 4. Rxf5 gxf5 5. g6 Kg8) axb6 (Nd7 3. Rxc6 Kg8 4. Rc8+ Nf8 5. Rb4 e2 6. Rxf8+ Kxf8 7. Rb8#) 3. Ra4 Ng4+ 4. Rxg4 b5 $1 5. a3 $1 (5. Re4 $2 Nh2) e2 6. Ra4 $1 bxa4 1/2-1/2
+
+[Event "Deutsche Schachzeitung#434"]
+[Source "Deutsche Schachzeitung/6"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B7/7R/2K1k3/8/p6p/7P/1p3P2/8 w - - 0 1"]
+
+1. Rb7 $1 a3 2. Kc5 $1 a2 (Kf6 3. Kd4 $1 a2 4. Rf7+ Kg5 5. f4+ Kg6 6. Be4+) 3. Rf7 $1 a1=Q (Kxf7 4. Bd5+ Kf6 5. Bxa2 Ke5 6. Bb1 Kf4 7. Kd5 Kf3 8. Ke5 Kg2 9. f4 Kxh3 10. f5 Kg3 11. f6 h3 12. f7 h2 13. f8=Q h1=Q 14. Qf4+ Kg2 15. Be4+ Kh3 16. Qh6+) 4. Bd5+ Ke5 5. f4# 1-0
+
+[Event "Deutsche Schachzeitung#510 (c)"]
+[Source "Deutsche Schachzeitung/11 (c): Zinar=M Garmonia Peshechnogo Etyuda-137 1990."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/K2p1PkP/2p5/2P5/5P2/8/8 w - - 0 1"]
+
+1. h7 $1 Kxh7 2. Kb5 Kg6 3. Kc6 Kf7 $1 4. f4 $1 Kg6 $1 5. Kxc7 $1 d5 6. Kd6 $1 d4 (dxc4 7. Ke7 c3 8. f7 c2 9. f8=Q c1=Q 10. Qg8+ Kh6 11. Qg5+ Kh7 12. Kf8) 7. Ke7 d3 8. f7 d2 9. f8=Q d1=Q 10. Qf6+ Kh7 11. Kf8 Qg4 12. f5 Qg8+ 13. Ke7 Qxc4 14. Qg6+ Kh8 15. Qh6+ Kg8 16. Qe6+ Qxe6+ 17. fxe6 1-0
+
+[Event "Deutsche Schachzeitung#516 (c)"]
+[Source "Deutsche Schachzeitung/12 (c): Wotawa=A Deutsche Schachzeitung#435 4/1963."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p2p1q/5Pp1/2P2pPk/P4Pp1/8/NrP3P1/R6K w - - 0 1"]
+
+1. Kh2 $1 (1. g3 $2 Rxc2) Rxa2 (Qg8 2. Kg3) 2. Rh1 (2. Rxa2 $2 Qg8 3. Ra1 Qe8 $1 4. Rh1 Qe3 5. a5 Kh4) Ra3 $1 (Ra1 3. Rxa1 Kh4 (Qg8 4. Kg3) 4. g3+ Kh5 5. Kg2) 3. c3 $1 (3. Kg1+ $2 Rh3 4. gxh3 g3) (3. g3 $2 Ra1 $1 4. Rxa1 Qh8 5. Rh1 Qa8 6. c6 Qxc6 7. a5 Qxh1+ 8. Kxh1 c5 9. a6 c4 10. a7 c3 11. a8=Q) Rxc3 (Ra1 4. Rxa1) 4. g3 Rc1 5. Rxc1 Qg8 6. Rh1 Qa8 7. c6 $1 Qxc6 8. a5 $1 Qf3 9. Kg1+ Qxh1+ 10. Kxh1 c5 11. a6 1-0
+
+[Event "Deutsche Schachzeitung#486"]
+[Source "Deutsche Schachzeitung/5"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K1k2/2p2p1R/7p/1P5p/6PP/4P1p1/P7/8 w - - 0 1"]
+
+1. g5 $1 hxg5 (Kg8 {<main>} 2. g6 g2 (fxg6 3. Rxc7 g2 4. Rc1) 3. gxf7+ $1 Kf8 4. Rg7 $1 Kxg7 5. Ke8) 2. Rxh5 f6 3. Rh8+ (3. hxg5 $2 g2 4. Rh8+ Kf7 $1) Kg7 (Kf7 4. Rh7+ Kf8 (Kg6 5. Rxc7 g2 6. Rc1 gxh4 7. b6 h3 8. b7 h2 9. b8=Q g1=Q 10. Qb1+) (Ke6 5. Rxc7 g2 6. Rc1 gxh4 7. b6 h3 8. b7 h2 9. b8=Q g1=Q 10. Qb3+ Ke5 (Kd6 11. Rd1+) (Kf5 11. Qb1+) 11. Rc5+) 5. Rxc7 g2 6. Rc1 gxh4 7. b6 h3 8. b7 h2 9. b8=Q g1=Q 10. Rc7) 4. hxg5 g2 5. gxf6+ $1 Kf7 6. Rg8 $1 Kxg8 7. Ke8 g1=Q 8. f7+ Kh7 9. f8=Q 1-0
+
+[Event "2/3.p Schach Magazin#329 (c)"]
+[Source "(c): Krug=P Estudios Artisticos de Ajedrez - XIV-66 2014."]
+[Date "1962.01.08"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5R2/p6p/4Kp2/1P6/k7/4p1p1/P1P5/8 w - - 0 1"]
+
+1. b6 $1 axb6 2. a3 $1 (2. c3 $2 Ka3 $1 3. Kf5 g2) (2. Kd5 $2 g2 3. Kc4 b5+ 4. Kc3 b4+ 5. Kc4 Ka3) e2 (Kxa3 3. Rg8) (Kb5 3. Kd5 Ka6 4. Kc6 Ka7 5. Rf7+ Ka6 (Kb8 6. Rb7+) 6. Rb7 f5 7. Rxb6+ Ka7 (Ka5 8. Rb8) 8. Rb1 f4 9. Kd5 f3 10. Ke4) 3. Ra8+ Kb5 4. Kd5 e1=Q 5. c4# 1-0
+
+[Event "Tidskrift for Schack#1155"]
+[Source "Tidskrift for Schack/12"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3B2K1/1N6/2r3pk/p5p1/5NP1/8/p7/8 w - - 0 1"]
+
+1. Ne6 $1 (1. Nh3 $2 Rc8 $1) (1. Be7 $2 gxf4) (1. Nd6 $2 Rxd6 2. Be7 gxf4) Rxe6 2. Nd6 Rxd6 (Re8+ 3. Nxe8 a1=Q 4. Bf6 Qa2+ 5. Kh8 Qf7 6. Bg7+ Qxg7+ 7. Nxg7 a4 8. Ne8 a3 9. Nf6 a2 10. Ng8#) 3. Be7 Rd8+ 4. Bxd8 a1=Q 5. Bf6 Qa2+ (Qxf6) 6. Kh8 Qf7 7. Bxg5+ Kxg5 1/2-1/2
+
+[Event ".c Tidskrift for Schack#1142"]
+[Source "Tidskrift for Schack/11"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6N1/p2pB1p1/1p1P4/P1nK4/7P/2k5 w - - 0 1"]
+
+1. axb4 $1 a4 (axb4 2. Bd6 Na2 3. Ne7) 2. Kxc3 Kb1 3. Nh4 (3. Nf4 $2 a3) (3. Bf4 $2 gxf4 4. Ne5 a3 5. Nf3 a2 6. Nd2+ Kc1 7. Nb3+ Kd1 8. b5 f3 9. b6 f2 10. b7 f1=Q 11. b8=Q a1=Q+ $1 12. Nxa1 Qc4+ 13. Kb2 Qxd4+ 14. Kb1 Qe4+) gxh4 (a3 4. Nf3 a2 5. Nd2+) 4. Bf4 a3 5. Bc1 Kxc1 6. Kb3 1-0
+
+[Event "Deutsche Schachzeitung#560 (c)"]
+[Source "Deutsche Schachzeitung/10 (c): Garcia=M Estudios Artisticos de Ajedrez - XI-84 2012."]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p3p2K/7p/2Pp1Ppk/p2P4/3PB1P1/p1pP3N/5N2 w - - 0 1"]
+
+1. f6 $1 (1. Bf2 $2 g4) (1. g4+ $2 Kh4) exf6 (a1=Q 2. fxe7 Qxf1 3. e8=Q+ Qf7+ 4. Qxf7#) 2. Bxg5 $1 hxg5 (Kxg5 3. Ne3 a1=Q 4. Nf3+ Kh5 5. g4#) (c1=Q 3. Bxf6 Qd1 4. Ne3 Qe2 5. g4+ Qxg4 6. Nhxg4 a1=Q 7. Ne5) (a1=Q 3. Bxf6 Qd1 4. Ne3 Qe2 5. g4+ Qxg4 6. Nhxg4 c1=Q 7. Ne5) 3. Ng4 (3. Ne3 $2 a1=Q 4. Nhg4 (4. Nf3 g4) Qxd4) Kxg4 (c1=Q 4. Nxf6#) 4. Ne3+ Kxg3 5. Nxc2 Kh2 6. c6 g4 7. c7 g3 8. c8=Q g2 {<eg>} 9. Qc7+ Kh1 10. Qc6 g1=Q 11. Qxd5+ Kh2 12. Qh5+ Kg2 13. Qg4+ Kh1 14. Qxg1+ Kxg1 15. d5 1-0
+
+[Event "Deutsche Schachzeitung#569"]
+[Source "Deutsche Schachzeitung/1"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/pp3pP1/2p4K/8/8/1P6/1P4P1/8 w - - 0 1"]
+
+1. b4 $1 (1. g4 $2 a5 2. g5 b5 3. g6 f6) b6 (b5 2. g4 f6 3. Kg6 a6 4. b3) (f5 2. Kg5 Kxg7 3. Kxf5) 2. b3 $1 (2. g4 $2 a6 3. b3 a5 4. bxa5 bxa5 5. g5 c5 6. g6 f6) (2. g3 $2 a5 $1 3. bxa5 bxa5 4. b3 c5 5. g4 a4) a6 (a5 3. bxa5 bxa5 4. g4 c5 5. g5 a4 6. bxa4 c4 7. a5) 3. g3 $1 c5 4. bxc5 bxc5 5. g4 f6 $1 (a5 6. g5) 6. Kg6 a5 7. Kh6 $1 (7. Kxf6 $2 c4 8. bxc4 a4 9. c5 a3 10. c6 a2 11. c7 a1=Q+) a4 8. bxa4 c4 9. g5 $1 (9. a5 $2 c3) c3 (fxg5 10. a5) 10. gxf6 c2 11. Kg6 c1=Q 12. f7# 1-0
+
+[Event "Deutsche Schachzeitung#611 (c)"]
+[Source "Deutsche Schachzeitung/11 (c): Wotawa=A Deutsche Schachzeitung/4 1965."]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2P2P1p/r1R5/nK6/3b3r/k7/B1bR4 w - - 0 1"]
+
+1. Rcxc1 $1 (1. Kxa5 $2 Nxc5 2. Rxc1 (2. Rxd3 Rxd3 3. c7 Rb3) Nb3+ 3. Kb6 (3. Kb4 Rh4+ 4. Kc3 Nxc1) Rf3 (Nxc1 4. f7 Rf3 5. c7) 4. c7 Bf5 5. f7 (5. Rc3 Rf1) Bc8) (1. f7 $2 Rxc5) (1. c7 $2 Rxc5) (1. Rdxc1 $2 Rxc5 2. Rxc5 Nxc5 3. c7 Na6+) (1. Bd4 $2 Rxc5 $1 2. Bxc5 Ba3+ 3. Kxa4 Bc2+ 4. Kb5 Bxd1 5. Bxa3 (5. f7 Bxc5 6. Kxc5 Rf3 7. c7 Be2 $1) Kxa3 6. f7 Ba4+) Rb5+ 2. Kxa4 Rh4+ 3. Bd4 $1 (3. Rc4 $2 Bxc4 4. Bd4 Bb3+ 5. Kxb5 Bxd1 6. c7 Bg4 7. f7 Bd7+ 8. Kb6 Rf4) Rxd4+ 4. Rc4 Bxc4 (Rxc4+ 5. Kxb5 Rd4+ (Rc3+ 6. Rxd3 $1) 6. Rxd3 $1 Rxd3 7. c7) (Rbd5 5. Rd2+ Kb1 6. Rxd4 $1 Rxd4+ 7. Kb3 Kc1 8. Kc3 Rd6 9. c7 Rc6+ 10. Kxd3 Rxc7 11. Rf2 Rc8 12. f7 Rf8 13. Rf1+ Kb2 14. Ke4) 5. Rxd4 Rc5 6. Rxc4 $1 Rxc4+ 7. Kb5 Kb3 8. f7 Rb4+ 9. Kc5 Rf4 10. c7 h5 11. Kd5 1-0
+
+[Event "Deutsche Schachzeitung#659"]
+[Source "Deutsche Schachzeitung/11"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b6/8/8/P7/5pR1/5nB1/3kP1Pp/5K2 w - - 0 1"]
+
+1. Rh4 $1 Nxh4 2. Bxh2 f3 $1 3. exf3 Bxh2 4. f4 $1 (4. g3 $2 Bxg3 5. f4 Nf5 $1 6. a6 Ne3+ 7. Kg1 Nd5) Bxf4 (Nf5 5. a6 Ne3+ 6. Kf2 Nd5 7. g3 Nc7 8. a7) 5. g3 Bxg3 6. a6 Bb8 7. a7 Bxa7 1/2-1/2
+
+[Event "Deutsche Schachzeitung#650 (c)"]
+[Source "Deutsche Schachzeitung/8 (c): Garcia=M Estudios Artisticos de Ajedrez - XI-82 2012."]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p2pp2K/p2Pk3/4p2R/3BP2P/2P5/1p6/8 w - - 0 1"]
+
+1. Kg7 $1 Kxd6 (exd4 2. Rh6+ Ke5 3. dxe7) (exd6 2. Rh8 b1=Q 3. Re8#) 2. Bxe5+ Ke6 (Kc6 3. Rh8 b1=Q 4. Rc8+ Kb7 5. Rb8+ Kc6 6. Rxb1) (Kc5 3. Rh8 b1=Q 4. Rc8+) 3. Bd6 $1 exd6 (Kxd6 4. Rd5+ Kc6 5. Rd1) 4. Rh8 b1=Q (d5 5. Rb8) (Ke7 5. Rb8) 5. Re8# 1-0
+
+[Event "Deutsche Schachzeitung#695"]
+[Source "Deutsche Schachzeitung/7"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/P1K4k/8/2b5/5N2/P7/7r w - - 0 1"]
+
+1. a7 $1 Rh5 (Rd1 2. Nd4 Rxd4 (Bf1 3. Kc7) 3. a8=Q Bd5+ 4. Kc5) (Bd3 2. Kd5) (Be2 2. Nd4 Bd3 3. Kc7) 2. Ne5 Rxe5 (Bf1 3. Kb6 Bg2 4. Nc6) 3. a8=Q Bd5+ 4. Kd6 1/2-1/2
+
+[Event "Deutsche Schachzeitung"]
+[Source "Deutsche Schachzeitung/8"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Wotawa, Alois"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/1R1n4/8/2NN2K1/n5p1/2r2k2 w - - 0 1"]
+
+1. Ne2 $1 Kxe2 (Nac3 2. Ndxc1 Nxb5 3. Kh2 Nbc3 4. Ng3+ Kf2 5. Nd3+) 2. Nxc1+ Kf1 $1 (Nxc1 3. Kxg2) 3. Ne2 $1 Nac3 $1 4. Kh2 $1 Nxe2 (Nxb5 5. Ng3+ Kf2 6. Ne4+ Kf3 7. Ng5+ Kf2 8. Ne4+) 5. Rb1+ Kf2 6. Rg1 $1 Nxg1 1/2-1/2

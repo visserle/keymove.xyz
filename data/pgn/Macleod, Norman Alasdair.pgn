@@ -1,0 +1,13 @@
+[Event "Revista de Romana de Sah#0975"]
+[Source "Revista de Romana de Sah/11"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Macleod, Norman Alasdair"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6BB/8/4b3/8/1kpn4/p7/K7 w - - 0 1"]
+
+1. Bg8+ $1 (1. Bxe5 $2 Nxe5 2. Bg8+ Nc4 $1 3. Bh7 Nd2 $1 4. Bg8+ Ka3 $1) Ka3 2. Bxe5 (2. Bxa2 $2 Nb4 $1) c2 (Nxe5 3. Bxa2 c2 4. Bb1 c1=Q) 3. Bd6+ $1 Ka4 4. Bf4 (4. Bb3+ $2 Kxb3 5. Ba3 c1=Q+ 6. Bxc1 Nb4 $1 7. Bd2 Nc2#) Nxf4 5. Bb3+ $1 Kxb3 1/2-1/2

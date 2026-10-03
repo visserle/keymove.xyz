@@ -1,0 +1,97 @@
+---
+export const prerender = false;
+
+import Solve from "../../components/Solve.svelte";
+import Base from "../../layouts/Base.astro";
+import { taskFor } from "../../lib/display";
+import { isAdminUser } from "../../lib/admin";
+import {
+  collectionById,
+  collectionCompositions,
+  nextUnsolvedCollectionComposition,
+} from "../../lib/collections";
+import { runtimeCorpus } from "../../lib/corpus";
+import { curationFor } from "../../lib/curation";
+import {
+  accountFromHeaders,
+  applySessionCookies,
+  compositionWithProgress,
+  libraryProgress,
+} from "../../lib/progress";
+
+const id = Astro.params.id?.trim() ?? "";
+// One load of the static catalogue per request; every composition on this page
+// comes out of it, so a guest's view costs no D1 query at all.
+const corpus = await runtimeCorpus(Astro.url);
+const { account, cookies } = await accountFromHeaders(Astro.request.headers);
+applySessionCookies(Astro.response.headers, cookies);
+const userId = account?.userId ?? null;
+const saved = id ? await compositionWithProgress(corpus, id, userId) : null;
+const requestedCollection = collectionById(Astro.url.searchParams.get("collection"));
+let collection: ReturnType<typeof collectionById> = null;
+let nextCollectionId: string | null = null;
+if (saved && requestedCollection) {
+  const compositions = collectionCompositions(corpus.list, requestedCollection);
+  if (compositions.some((composition) => composition.id === id)) {
+    collection = requestedCollection;
+    // Collection presets may contain thousands of positions; one user-progress
+    // query is cheaper than chunking their entire ID list into many D1 calls.
+    const progress = await libraryProgress(userId);
+    nextCollectionId = nextUnsolvedCollectionComposition(compositions, id, progress);
+  }
+}
+const playNextHref = collection
+  ? nextCollectionId
+    ? `/api/compositions/next?from=${encodeURIComponent(id)}&collection=${collection.id}`
+    : null
+  : `/api/compositions/next?from=${encodeURIComponent(id)}`;
+const playNextLabel = "Next composition";
+// The controls are admin-only; the rating itself is public. The two are
+// separate lookups on purpose: the strip renders the stored value for everyone,
+// and the buttons beside it are gated on the admin check, so revoking admin
+// takes them away on the next render without touching what is stored. The flag
+// is private the other way round. An admin sees it and a visitor never does, so
+// it rides along in the same lookup rather than being fetched twice.
+//
+// Every value this returns feeds an admin-gated prop, so the read is gated with
+// them: a visitor's solving page costs no D1 query at all until they submit a key.
+const admin = saved && userId !== null ? await isAdminUser(userId) : false;
+const curation = saved && admin
+	? await curationFor(saved.composition)
+	: { rating: null, flagged: null, curated: null };
+if (!saved) Astro.response.status = 404;
+const title = saved
+	? `keymove.xyz • ${taskFor(saved.composition)}`
+	: "keymove.xyz • Composition not found";
+// One position, one sentence: what the page offers, without restating the task
+// text the visitor already reads on the board above it.
+const description = saved
+  ? "Solve this chess composition on keymove.xyz: find the key move, follow the full solution and see engine analysis of your try once you finish."
+  : "This chess composition could not be found on keymove.xyz, a free collection of studies, short mates and endgame problems.";
+---
+
+<Base
+  section="solve"
+  title={title}
+  description={description}
+  accountSession={account}
+>
+  {saved ? (
+    <Solve
+      client:load
+      composition={saved.composition}
+      playNextHref={playNextHref}
+      playNextLabel={playNextLabel}
+      initialProgress={{ state: saved.state, solution: saved.solution }}
+      initialAnalysis={saved.analysis}
+      initialBookmarked={saved.bookmarked}
+      signedIn={!!userId}
+      canRate={admin}
+      initialRating={admin ? curation.rating : null}
+      initialFlagged={admin ? curation.flagged : null}
+      curatedRating={admin ? curation.curated : null}
+    />
+  ) : (
+    <p class="caption">This composition could not be found.</p>
+  )}
+</Base>

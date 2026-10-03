@@ -1,0 +1,55 @@
+[Event "Casopis Ceskoslovensky Sach#218"]
+[Source "Casopis Ceskoslovensky Sach/7-8"]
+[Date "1917.??.??"]
+[Round "?"]
+[Composer "Vlk, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/2rp4/8/2p3P1/8/8/5R2/7k w - - 0 1"]
+
+1. Kb8 $1 Rc6 2. Rf6 c4 $1 3. Rh6+ $1 (3. Rxc6 $2 dxc6 4. g6 c3 5. g7 c2 6. g8=Q c1=Q) Kg2 4. Rxc6 $1 dxc6 5. g6 c3 6. g7 c2 7. g8=Q+ 1-0
+
+[Event "Casopis Ceskoslovensky Sach#223"]
+[Source "Casopis Ceskoslovensky Sach/11-12"]
+[Date "1917.??.??"]
+[Round "?"]
+[Composer "Vlk, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1B3k2/p4p2/Pp2pP2/2p1P3/K1p5/2P3p1/8/8 w - - 0 1"]
+
+1. Bc7 $1 g2 2. Bxb6 g1=Q 3. Bxc5+ Qxc5 1/2-1/2
+
+[Event "Casopis Ceskoslovensky Sach#228"]
+[Source "Casopis Ceskoslovensky Sach/7-9"]
+[Date "1918.??.??"]
+[Round "?"]
+[Composer "Vlk, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/5pPp/5P1P/8/8/3p1p1p/2Bp3P/7K w - - 0 1"]
+
+1. Bb3 $1 d1=Q+ $1 (f2 2. Bxf7+ Kxf7 3. g8=Q+ Kxg8 4. f7+ Kf8) 2. Bxd1 f2 3. Be2 d2 (dxe2) 4. Bf1 d1=B (d1=Q) 5. Be2 Bc2 6. Bd3 Bb3 7. Bxh7+ Kxh7 8. g8=Q+ Kxg8 9. h7+ Kxh7 1/2-1/2
+
+[Event "Casopis Ceskoslovensky Sach#285"]
+[Source "Casopis Ceskoslovensky Sach/8-9"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Vlk, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "rk6/p1p1pp2/2K2N2/1P2P3/8/8/8/8 w - - 0 1"]
+
+1. e6 $1 fxe6 2. Nd7+ Kc8 3. Nb6+ Kb8 4. Nd7+ Kc8 5. Nb6+ cxb6 (axb6) 1/2-1/2

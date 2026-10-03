@@ -1,0 +1,164 @@
+[Event "?"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Havel, Miroslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/q1b5/8/p2B4/K3R3/8/2n5/4N2k w - - 0 1"]
+
+1. Rg4+ (1. Re2+ $2 Kg1 2. Nf3+ $14 $10) (1. Ng2 Qc5 2. Rh4+ Kg1) (1. Kb5 Nxe1 2. Rxe1+ Kh2) (1. Re6+ Kh2 2. Nxc2 Bf4) (1. Bb3 Nd4 2. Rh4+ Kg1) Kh2 2. Rg2+ (2. Rg7 Qd4+ 3. Kb3 Na1+) (2. Be6 Nxe1 3. Rh4+ Kg3) (2. Nd3 Ne3 3. Rh4+ Kg3) Kh3 (Kh1 3. Rxc2+ Kg1 4. Nf3+ Kh1 5. Nh4+ Kg1 6. Rg2+ Kf1 (Kh1 7. Rg4+ Kh2 8. Nf3+ Kh1 $4 (Kh3 $5 $18) 9. Ng5+ Kh2 10. Rg2+ Kh1 11. Rf2+ Kg1 12. Nh3#) 7. Bc4+ Ke1 8. Nf3+ Kd1 9. Bb3+ Kc1 10. Rc2+ Kb1 11. Nd2+ Ka1 12. Ra2#) 3. Be6+ (3. Rh2+ Kxh2 4. Nxc2 Qc5) (3. Nd3 Qd4+ 4. Kb3 Qxd3+ 5. Ka4 Qd4+) (3. Rd2 Nxe1 4. Be6+ Kh4) (3. Rg3+ Kxg3 4. Nxc2 Qc5) Kh4 4. Nf3+ (4. Rg4+ $4 Kh5 5. Nxc2 Qa8 $19) (4. Rh2+ Bxh2 5. Nxc2 Qc5) (4. Rxc2 Qb8 5. Rc4+ Kg5) (4. Rg5 Qd4+ 5. Kb3 Na1+) Kh5 5. Bf7+ (5. Rg5+ $4 Kh6 $10 $15) (5. Bf5 $4 Qb6 6. Rg5+ Kh6 $10) (5. Rh2+ $4 Bxh2 6. Bg4+ Kxg4 7. Nxh2+ Kf4) (5. Bg4+ $4 Kg6 6. Rxc2 Qb8 $19) (5. Rg4 Qb6 6. Rh4+ Kg6) (5. Rg1 Qb6 6. Bf7+ Kh6) Kh6 6. Rg6+ (6. Rg4 $4 Bd8 $19 7. Rg6+ Kh7) (6. Ng5 $4 Qb6 7. Rh2+ Bxh2) (6. Ne5 $4 Bxe5 7. Rxc2 Qxf7 8. Rc6+ Kg5) (6. Rg5 Bd8 7. Rh5+ Kg7) (6. Rg3 Bxg3) (6. Nh4 Qd4+ 7. Kb3 Ne3) (6. Bg8 Qb6 7. Rg6+ Kxg6 8. Ne5+ Bxe5 9. Bh7+ Kf6) (6. Nd4 Qxd4+ 7. Kb3 Qd3+) Kh7 $2 (Kh5 $5 7. Rg2+ $18) 7. Ng5+ (7. Ra6 Qxa6 8. Bg8+ Kxg8) (7. Nh4 Qd4+ 8. Kb5 Qd7+) (7. Rg4 Ne3 8. Rh4+ Kg7) Kh8 8. Rg8# (8. Rh6+ $4 Kg7 9. Rh7+ Kf6 $19) (8. Bg8 Qd4+ 9. Kb5 Qd3+) (8. Ne6 Bf4 9. Rg8+) (8. Rg7 Qd4+ 9. Kb5 Qxg7) 1-0
+
+[Event "28 Rijen#194"]
+[Date "1925.05.23"]
+[Round "?"]
+[Composer "Havel, Miroslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/p5p1/8/2k5/5p2/8/p2Q4/qB6 w - - 0 1"]
+
+1. Qa5+ $1 Kc4 (Kd4 2. Qb4+ Ke3 3. Qe1+ Kd4 4. Qg1+) (Kd6 2. Qb4+ Ke6 (Kc7 3. Qc5+ Kb7 4. Be4+ Ka6 5. Bd3+ Kb7 6. Kd7 $1) 3. Be4 $1) 2. Bxa2+ Kd4 3. Qxa7+ Kd3 (Ke4 4. Bd5+ Kxd5 5. Qxa1) (Ke5 4. Qxg7+ Kf5 5. Qxa1) (Kc3 4. Qxg7+ Kb4 5. Qxa1) 4. Bc4+ Kxc4 5. Qxa1 1-0
+
+[Event "28 Rijen"]
+[Date "1926.02.06"]
+[Round "?"]
+[Composer "Havel, Miroslav"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2n5/8/8/6K1/1B5p/2P4k/b7/8 w - - 0 1"]
+
+1. c4 $1 Nb6 (Bxc4 2. Be1 Nd6 3. Bxh4 Nf7+ 4. Kh5 Be2+ 5. Kg6) 2. c5 (2. Be1 $2 Nxc4 3. Bxh4 Nd2 4. Kh5 Bf7+ 5. Kg5 Be8) Nd5 3. Be1 Nc7 4. Bxh4 Ne6+ 5. Kh5 Nf4+ 6. Kg5 Nd3 7. c6 Bd5 8. c7 Bb7 9. Kh5 Bf3+ 10. Kh6 {<eg>} (10. Kg5 $2 Bg4) Bg4 11. Kg5 Bc8 12. Kf6 Kxh4 13. Ke7 1/2-1/2
+
+[Event "3.hm Czechoslovaki ty UJCS"]
+[Date "1926.06.30"]
+[Round "?"]
+[Composer "Havel, Miroslav"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/2kP4/2P5/8/8/8/5B2/1qN5 w - - 0 1"]
+
+1. Nb3 $1 (1. Bg3+ $2 Kxc6 2. d8=N+ Kd7) Qa2+ (Qd3 {<main>} 2. Na5 $1 Qa6+ 3. Ba7 Qxa5 4. d8=Q+ Kxd8 5. c7+ Kd7 (Qxc7 6. Bb6 Qxb6) 6. c8=Q+ Kxc8) (Qxb3 {<main>} 2. Bb6+ Qxb6 3. d8=Q+ Kxd8 4. c7+ Kxc7 (Qxc7)) 2. Ba7 Qxb3 (Qa3 {<main>} 3. Nc5 Qb2 4. Nb7 Kxc6 5. d8=N+) 3. Bb6+ $1 Qxb6 4. d8=Q+ (4. d8=B+ {<or>}) Kxd8 5. c7+ Qxc7 (Kxc7) 1/2-1/2
+
+[Event "Ceskoslovensky Sach#284"]
+[Source "Ceskoslovensky Sach/4"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Havel, Miroslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1PN5/8/2k3p1/8/7K/2p5/8 w - - 0 1"]
+
+1. Na6+ $1 Kd4 $1 (Kd5 2. Nb4+) (Kc4 2. b8=Q) 2. Nc5 $1 Kc3 $1 (Kxc5 3. b8=Q c1=Q 4. Qc8+ Kd4 5. Qxc1) 3. Nb3 $1 g4+ $1 (Kxb3 4. b8=Q+) 4. Kg2 $1 (4. Kxg4 $2 Kxb3 5. b8=Q+ Ka2 $1) Kxb3 5. b8=Q+ 1-0
+
+[Event "Ceskoslovensky Sach#273"]
+[Source "Ceskoslovensky Sach/3"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Havel, Miroslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1p3K2/P7/3p2k1/4b3/2N5/8 w - - 0 1"]
+
+1. a6 $1 Bg5+ 2. Kg6 d3 3. Ne3+ $1 Bxe3 (Kf3 4. Nd1) 4. a7 d2 5. a8=Q d1=Q 6. Qg2+ Kf4 (Kh4 {<main>} 7. Qh2+ Kg4 8. Qh5+ Kg3 9. Qxd1) 7. Qg5+ Ke4 (Kf3 8. Qh5+) 8. Qf5+ Kd4 9. Qd7+ Ke4 10. Qxd1 1-0
+
+[Event "Ceskoslovensky Sach#329"]
+[Source "Ceskoslovensky Sach/11"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Havel, Miroslav"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4b3/5kP1/5P1P/7K/7P/2p5/8/b7 w - - 0 1"]
+
+1. h7 $1 Kxf6+ 2. Kh6 c2 3. g8=Q (3. h8=Q $2 c1=Q+ 4. Kh7 Bg6+ 5. Kg8 Qc8#) c1=Q+ 4. Qg5+ Qxg5+ 5. hxg5+ Kf5 (Kf7 {<main>} 6. g6+ Kf8 7. h8=Q+ $1 Bxh8 8. Kh7 Ba1 9. g7+ Bxg7) 6. g6 $1 Bxg6 7. h8=Q Bxh8 1/2-1/2
+
+[Event "6.p Ceskoslovensky Sach#337"]
+[Source "Ceskoslovensky Sach/12"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Havel, Miroslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5N2/6P1/5k2/5pp1/8/4K3 w - - 0 1"]
+
+1. g6 $1 Kg5 (g2 {<main>} 2. Kf2 Kg5 3. g7 Kh6 4. g8=Q g1=Q+ 5. Kxg1 (5. Qxg1 $2) f2+ 6. Kh2 $1 (6. Kxf2 $2) f1=Q 7. Qh7+ Kg5 8. Ne4+ Kg4 9. Qg6+ Kf3 (Kf4 10. Qf6+) 10. Nd2+ Kf2 11. Nxf1) 2. g7 f2+ 3. Ke2 $1 (3. Kf1 $2 Kh6 4. g8=Q g2+ 5. Kxf2 g1=Q+ 6. Qxg1) Kh6 4. g8=Q f1=Q+ 5. Kxf1 g2+ $1 6. Ke2 $1 (6. Qxg2 $2) (6. Kxg2 $2) g1=Q 7. Qh7+ $1 (7. Qxg1 $2) (7. Qh8+ $2 Kg6 8. Qg8+ Kh6) Kg5 8. Qg7+ Kh4 9. Qxg1 1-0
+
+[Event "1.hm Sach#34"]
+[Source "Sach/7-8"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Havel, Miroslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p4N1/2p3p1/4P3/2K4p/8/8/3k4 w - - 0 1"]
+
+1. Ne8 $1 h3 2. Nf6 h2 3. Ng4 h1=N $1 (h1=Q 4. Nf2+ Ke2 5. Nxh1) 4. e6 $1 Ng3 5. e7 $1 (5. Ne3+ $2 Ke2 6. e7 Ne4 7. Kd4 Nd6 8. Ke5 Ne8 9. Ng4 b5 10. Nf6 Ng7) Nf5 (Ne4 {<main>} 6. Nf2+ Nxf2 7. e8=Q) 6. Ne3+ Nxe3+ 7. Kc5 b6+ 8. Kxc6 1-0
+
+[Event "4.hm Sach#17"]
+[Source "Sach/4"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Havel, Miroslav"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3p4/p2P4/P2P4/P6K/4b3/8/7k w - - 0 1"]
+
+1. Kh5 $1 Bf4 (Kg2 {<main>} 2. Kg6 Kf3 3. Kf7 Ke4 4. Ke7 Kxd5 5. Kxd7 Kc5 6. Kc7 Kb4 7. d7 Kxa5 8. Kb7 Bb6 (Bg5 9. Ka7 $1) 9. Kc6 Bd8 10. Kb7) 2. Kg6 Bxd6 3. Kf7 Bb4 4. d6 $1 (4. Ke8 $2 d6 5. Kd7 Kg2 6. Kc6 Kf3 $1 7. Kb7 Ke4 8. Kxa6 Kxd5) Bxd6 5. Ke8 Bb4 6. Kxd7 Bxa5 7. Kc6 (7. Kc8 {<or>}) Be1 8. a5 $1 Bxa5 9. Kb7 Bd2 10. Kxa6 1/2-1/2
+
+[Event "Radjanska Slovo#113"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Havel, Miroslav"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/2k4b/2P5/3P4/2N5/1q6/8/8 w - - 0 1"]
+
+1. d6+ $1 Kd8 (Kc8 {<main>} 2. Nb6+ Qxb6 3. d7+ Kc7 4. d8=Q+ Kxd8 5. c7+ Qxc7 (Kxc7) (Kd7 6. c8=Q+ Kxc8) (Ke7 6. c8=N+)) 2. c7+ Kc8 (Kd7 3. Nb6+ Qxb6 4. c8=Q+ Kxc8 5. d7+ Kc7 6. d8=Q+ Kxd8) 3. Nb6+ Qxb6 4. d7+ Kxd7 5. c8=Q+ Kxc8 1/2-1/2
+
+[Event "3.p Czechoslovaki AT UJCS"]
+[Date "1948.06.30"]
+[Round "?"]
+[Composer "Havel, Miroslav"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/8/kp6/2p5/3P3b/8/8/7N w - - 0 1"]
+
+1. dxc5 $1 b5 (bxc5 2. Ng3 Bxg3) 2. Nf2 Bxf2 3. c6 Kb6 4. c7 Kxc7 1/2-1/2

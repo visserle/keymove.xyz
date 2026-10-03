@@ -1,0 +1,13 @@
+[Event "Deutsches Wochenschach#0821"]
+[Source "also Schach-Endspiele 1914."]
+[Date "1906.01.07"]
+[Round "?"]
+[Composer "Schapiro, Morris A."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/5K2/6Nk/8/7P/2p3P1/8 w - - 0 1"]
+
+1. Ne6 $1 c1=Q (Kh4 2. Nd4 Kg3 (c1=Q 3. Nf5+) 3. Nxc2 Kxg2 4. h4) 2. Ng7+ Kh4 3. Nf5+ Kh5 4. g4# 1-0

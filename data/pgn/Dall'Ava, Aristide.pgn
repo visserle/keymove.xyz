@@ -1,0 +1,348 @@
+[Event "L'Italia Scacchistica#018"]
+[Source "L'Italia Scacchistica/3"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "6n1/3BBp2/P6p/4P2k/4P3/K7/6Pp/8 w - - 0 1"]
+
+1. g4+ $1 (1. a7 $2 Nxe7 2. Kb4 $10) (1. Kb4 h1=Q 2. g4+ Kg6) (1. Be6 fxe6) Kg6 2. Bf5+ (2. Bf8 $4 h1=Q 3. Bf5+ Kg5 $19) (2. a7 $2 Nxe7 3. a8=Q $10) (2. Bf6 $4 Nxf6 3. exf6 h1=Q) (2. e6 Nxe7) Kg7 3. Bf6+ $1 (3. Bf8+ $2 Kxf8 4. a7 $10) (3. Bh4 h1=Q) (3. Bc5 h1=Q) Nxf6 (Kf8 4. a7 $18) 4. exf6+ (4. a7 $4 h1=Q 5. exf6+ Kxf6 $19) (4. e6 $4 fxe6 5. Bxe6 h1=Q) Kxf6 5. e5+ $1 (5. g5+ hxg5) (5. Bc8 h1=Q) Kxe5 6. Be4 $1 (6. g5 Kxf5 7. gxh6 h1=Q) (6. Bg6 fxg6) Kxe4 7. a7 (7. Kb4 $4 Kd4) h1=Q 8. a8=Q+ $18 1-0
+
+[Event "L'Italia Scacchistica#4010"]
+[Source "L'Italia Scacchistica/3"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/P7/2K3Pk/8/8/3b4/8/8 w - - 0 1"]
+
+1. Kd5 $1 (1. g7 $2 Be4+ 2. Kb6 $10) (1. Kd6 $2 Be4 2. a8=Q $10) (1. a8=Q $2 Be4+ 2. Kb6 $10) (1. Kc7 $2 Be4 2. a8=Q $10) (1. Kb7 $2 Be2 2. a8=Q $10) (1. Kc5 $2 Be4 2. a8=Q $10) (1. Kb6 $2 Be4 2. a8=Q $10) (1. a8=B $2 Be2 2. g7 $10) (1. Kd7 $2 Be4 2. a8=Q) Bf1 2. Ke6 (2. Ke5 $2 Bg2 3. Kf6 $10) (2. Ke4 $2 Bg2+ 3. Kd4 $10) (2. a8=Q $2 Bg2+ 3. Kc5 $10) (2. Kd4 $2 Bg2 3. a8=Q $10) (2. g7 $2 Bg2+ 3. Kc5 $10) (2. Kd6 $2 Bg2 3. a8=Q $10) (2. Kc6 $2 Be2 3. a8=Q $10) (2. Kc5 Bg2 3. Kd4) Bg2 3. Kf7 $1 (3. Kf6 $2 Bd5 4. a8=R $10) (3. g7 $2 Kxg7 4. a8=Q $10) (3. Kf5 $2 Bh1 4. a8=Q $10) (3. Ke5 $2 Bh1 4. a8=Q) (3. Kd7 Be4 4. Kc8) (3. Ke7 Be4 4. Kf8) (3. Kd6 Be4 4. Kd7) Bd5+ 4. Kf6 (4. Kf8 $2 Kxg6 5. a8=Q $10) (4. Ke7 $2 Be4 5. a8=Q) (4. Ke8 Be4 5. a8=Q) Bb7 5. g7 (5. Kf7 Bd5+ $18 6. Kf6) (5. Kf5 Bh1 6. Ke5) Kh7 6. Kf7 (6. Ke7 Kxg7 7. a8=Q) Bd5+ 7. Kf8 $18 (7. Ke8 $2 Kxg7 8. a8=Q) (7. Kf6 Kg8 8. a8=Q+) (7. Ke7 Kxg7 8. a8=Q) 1-0
+
+[Event "L'Italia Scacchistica#017"]
+[Source "L'Italia Scacchistica/3"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/5q2/1PP5/4P1b1/8/8/8/1K1R3B w - - 0 1"]
+
+1. c7+ $1 Kc8 2. Rd8+ $1 Bxd8 3. Bb7+ Kxb7 4. cxd8=N+ Kxb6 5. Nxf7 1-0
+
+[Event "L'Italia Scacchistica#155"]
+[Source "L'Italia Scacchistica/9"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/8/3qP3/p6N/K7/P3B3/b7/8 w - - 0 1"]
+
+1. Ng7+ $1 Kd8 (Kf8 2. e7+ Qxe7 (Kxg7 3. e8=N+) (Kf7 3. e8=Q+ Kxg7 4. Qe4) 3. Bc5 Qxc5 4. Ne6+ Bxe6) 2. e7+ Qxe7 3. Bg5 Qxg5 4. Ne6+ Bxe6 1/2-1/2
+
+[Event "L'Italia Scacchistica#175"]
+[Source "L'Italia Scacchistica/11"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2K2P2/8/8/3Nk3/8/7R/2n2q2 w - - 0 1"]
+
+1. Rh4+ $1 Kd5 (Kd3 2. Nf3 $1) (Ke3 2. Nf3 $1) 2. Nf5 Qxf5 3. Rh5 Qxh5 4. f8=Q 1/2-1/2
+
+[Event "L'Italia Scacchistica#163"]
+[Source "L'Italia Scacchistica/10"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B3q3/2B5/5P2/6pp/5N1k/8/7K/7n w - - 0 1"]
+
+1. Bc6 $1 Qc8 (Qxc6 2. Ng6+ Kg4 3. Ne5+ Kf5 4. Nxc6 Kxf6 5. Kxh1) (Qf7 2. Ng2+ Kg4 3. Ne3+ Kh4 4. Nf5+ Kg4 5. Nh6+) 2. Ng6+ Kg4 3. Bd7+ Qxd7 4. Ne5+ Kf5 5. Nxd7 Ke6 {<eg>} 6. f7 Kxf7 7. Kxh1 1-0
+
+[Event "L'Italia Scacchistica#148"]
+[Source "L'Italia Scacchistica/8"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4B1k1/6Pb/p5pP/P5P1/8/8/1K3p2/8 w - - 0 1"]
+
+1. Ba4 $1 f1=Q (Kf7 2. Bb3+ Ke7 3. Bc4) (f1=R 2. Bb3+ Rf7 3. Kc3) 2. Bb3+ Qf7 3. Ka1 $1 (3. Kc3 $2 Qxb3+ 4. Kxb3 Kf7) Qxb3 1/2-1/2
+
+[Event "L'Italia Scacchistica#135"]
+[Source "L'Italia Scacchistica/6"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3B4/4P3/2p2p2/K2N3b/2k4q/8/2P5/8 w - - 0 1"]
+
+1. e8=Q $1 Bxe8 2. Ne3+ Kc3 (Kd4 3. Nf5+) (Kc5 3. Bb6+ Kd6 4. Nf5+) 3. Bxf6+ Qxf6 4. Nd5+ cxd5 1/2-1/2
+
+[Event "4/6.p L'Italia Scacchistica#249"]
+[Source "L'Italia Scacchistica/9"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7q/p6p/k7/p7/3p4/1K1N4/4B3/5R2 w - - 0 1"]
+
+1. Rf8 $1 Qg7 2. Rf6+ Kb7 (Qxf6 {<main>} 3. Nc5+ Kb6 4. Nd7+ Kc7 5. Nxf6) (Kb5 3. Nf4+ Kc5 4. Ne6+ Kd5 5. Nxg7) 3. Nc5+ Kc8 4. Ba6+ Kb8 5. Rf8+ Qxf8 6. Nd7+ Kc7 7. Nxf8 1-0
+
+[Event "L'Italia Scacchistica#250"]
+[Source "L'Italia Scacchistica/9"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K6k/1pR5/1p5P/8/8/8/1p6/8 w - - 0 1"]
+
+1. Rc8+ $1 Kh7 2. Rc7+ Kxh6 (Kg6 3. h7) 3. Rxb7 b1=Q 4. Rxb6+ Qxb6 1/2-1/2
+
+[Event "L'Italia Scacchistica#483"]
+[Source "L'Italia Scacchistica/3"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6p1/PK3Ppb/8/8/1k5r/8/8 w - - 0 1"]
+
+1. a7 $1 Be3+ 2. Kb7 Bxa7 3. fxg7 Rh7 4. Ka8 $1 Rxg7 1/2-1/2
+
+[Event "L'Illustrazione Italiana"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/8/1k6/p7/P7/8/R1p3p1/8 w - - 0 1"]
+
+1. Rb2+ $1 (1. Ra1 $2 Kc5) Ka6 (Kc5 2. Rxc2+) 2. Rxc2 g1=Q 3. Rc6+ Qb6 4. Rd6 Qxd6 1/2-1/2
+
+[Event "L'Illustrazione Italiana"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/P7/8/5p1k/3K2p1/5P2/8 w - - 0 1"]
+
+1. a7 $1 g2 2. a8=R (2. a8=Q $2 g1=Q 3. Qh8+ Kg4 4. Qg8+ Kf3 5. Qxg1) g1=Q 3. Rh8+ Kg4 4. Rg8+ Kf3 5. Rxg1 1-0
+
+[Event "source unknown"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/K7/1p6/k7/p3P3/P1R5/1p6/8 w - - 0 1"]
+
+1. Rg3 $1 b1=Q 2. Rg5+ b5 3. Rg6 b4 4. Rg5# 1-0
+
+[Event "L'Italia Scacchistica#081 (@2)"]
+[Source "L'I@alia Scacchistica/7-8 î2: Ulrichsen=J HHdbIV#22141 27-12-2005."]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6Bb/7K/5P2/8/1k6/8/Pp6/8 w - - 0 1"]
+
+1. a3+ $1 Kxa3 2. Ba2 Kxa2 3. f7 (3. Kxh8 $1 {<minor dual JU>} b1=Q 4. f7) b1=Q+ 4. Kxh8 Qf5 5. Kg8 Qg6+ 6. Kh8 Qxf7 1/2-1/2
+
+[Event "4.p De Barbieri MT L'Italia Scacchistic"]
+[Source "L'Italia Scacchistica/12 1947"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/B4p2/2p1pk1K/4Np1p/5PP1/2q5/7P/8 w - - 0 1"]
+
+1. Bd4 $1 Qh3 (Qb3 2. Nxc6+ e5 3. Bxe5+ Ke6 4. Nd4+) (Qxd4 2. g5+ Ke7 3. Nxc6+) (Qd2 2. Nf3+) (Qa5 2. Nxc6+) (Qc1 2. Nd3+) 2. Ng6+ e5 3. fxe5+ Ke6 4. Nf4+ Kd7 5. Nxh3 1-0
+
+[Event "L'Italia Scacchistica#050"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4K1kp/6p1/7p/7P/8/3B4 w - - 0 1"]
+
+1. Bh5+ $1 Kxh5 (Kg7 2. Kf5 Kh7 3. Kf6 Kg8 4. Bg6 Kh8 5. Kf7 h5 6. Bxh5 Kh7 7. Bg6+ Kh8 8. Be4) 2. Kf5 g4 3. hxg4# 1-0
+
+[Event "L'Italia Scacchistica#054"]
+[Source "L'Italia Scacchistica/1"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p1p2/4P3/4P3/4k3/4p3/3P4/7K w - - 0 1"]
+
+1. d3+ $1 Kxd3 2. exd7 e2 3. d8=Q+ 1-0
+
+[Event "L'Italia Scacchistica#162"]
+[Source "L'Italia Scacchistica/1"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3k4/5p2/7K/8/4np2/8/6R1 w - - 0 1"]
+
+1. Rg7+ $1 Kd6 (Ke6 2. Rg3 f2 3. Rxe3+) 2. Rg3 f2 3. Rf3 f1=Q (f1=R 4. Rxe3 Rg1 5. Kh4) 4. Rxf6+ Qxf6 1/2-1/2
+
+[Event "L'Italia Scacchistica#227 (v)"]
+[Source "L'Italia Scacchistica/2"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3p4/P1p5/8/3N4/7k/7r/1Kb5 w - - 0 1"]
+
+1. a7 $1 Rb2+ 2. Ka1 Be3 3. a8=Q Bxd4 4. Qh8+ Bxh8 1/2-1/2
+
+[Event "L'Italia Scacchistica#221"]
+[Source "L'Italia Scacchistica/1"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4N3/Kp2R1pk/8/4p3/8/8/1P5p/8 w - - 0 1"]
+
+1. Rxg7+ $1 Kh8 2. Rg3 h1=Q 3. Nf6 Qa1+ 4. Kb8 Qa2 5. b3 1-0
+
+[Event "Problemas {SEPA}"]
+[Source "Problemas (SEPA /6"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4B1b1/7p/8/1R6/8/8/k4b2/7K w - - 0 1"]
+
+1. Rg5 $1 Bb3 2. Rg2 Bd5 3. Bf7 $1 Bxf7 4. Rxf2+ Kb3 5. Rxf7 1-0
+
+[Event ".c Problemas {SEPA}"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/8/4N3/k7/8/8/p7/7N w - - 0 1"]
+
+1. Nd4 $1 Ka4 2. Nc2 Kb3 3. Na1+ Kb2 4. Nf2 Kxa1 5. Nd1 Kb1 6. Nc3+ 1/2-1/2
+
+[Event "L'Italia Scacchistica#3630"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/P1K5/6B1/pk6/p7/P6p/6b1/8 w - - 0 1"]
+
+1. Bd3+ $1 Kc5 2. Bf1 Kd4 (Bd5 3. Bxh3 Kb5 4. Bc8) 3. Bxg2 hxg2 4. a8=Q g1=Q 5. Qa7+ 1-0
+
+[Event "L'Italia Scacchistica#3785"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Dall'Ava, Aristide"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1R6/3p4/3k4/5K2/2q5/8/2P2N1P/8 w - - 0 1"]
+
+1. Ne4+ $1 Kd5 (Kc7 2. Rc8+ Kxc8 3. Nd6+) (Ke7 2. Re8+ Kxe8 3. Nd6+) 2. Rb5+ Kd4 3. Rb4 Qxb4 4. c3+ Qxc3 5. Nxc3 1-0

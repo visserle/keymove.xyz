@@ -1,0 +1,68 @@
+[Event "Tijdschrift v.d. KNSB#325"]
+[Source "Tijdschrift v.d. KNSB/1"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Haga, August"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4R3/r3b1k1/6p1/6N1/7B/pP6/5PK1/8 w - - 0 1"]
+
+1. Ne6+ $1 Kf7 2. Rxe7+ Rxe7 3. Nd8+ $1 Kg7 (Ke8 4. Bxe7 Kxe7 5. Nc6+) 4. Bxe7 a2 5. Bc5 $1 a1=Q 6. Bd4+ Qxd4 7. Ne6+ 1-0
+
+[Event "Tijdschrift v.d. KNSB#510 (c)"]
+[Source "Tijdschrift v.d. KNSB/11 (c): Garcia=M Estudios Artisticos de Ajedrez - IV-14 2012."]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Haga, August"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5B2/8/7p/1p1K1p1P/1Pp2p2/p4P2/2P5/1k6 w - - 0 1"]
+
+1. Bxh6 $1 Kb2 (Kxc2 2. Bg7 c3 3. h6 a2 4. Bxc3 Kxc3 5. h7 a1=Q 6. h8=Q+ Kb3 7. Qxa1) 2. Bg7+ c3 3. h6 (3. Bxc3+ {<or>} Kxc3 4. h6 a2 5. h7 a1=Q 6. h8=B+ Kxb4 7. Bxa1) a2 4. h7 (4. Bxc3+ {<or>} Kxc3 5. h7 a1=Q 6. h8=B+ Kxb4 7. Bxa1) a1=Q 5. Bxc3+ Kxc3 6. h8=B+ $1 (6. h8=Q+ $2 Kxb4 7. Qxa1) Kxb4 7. Bxa1 1-0
+
+[Event "Tijdschrift v.d. KNSB#509"]
+[Source "Tijdschrift v.d. KNSB/11"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Haga, August"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5N2/8/1B1kPr2/8/4K3/8/8/8 w - - 0 1"]
+
+1. Bc5+ $1 (1. Bc7+ $2 Kxc7) Kxc5 2. e7 Re6+ $1 (Rf1 3. Ne6+ Kd6 4. e8=Q Re1+ 5. Kf5) 3. Nxe6+ Kd6 4. e8=R (4. e8=Q $2) 1-0
+
+[Event "It Heitel"]
+[Date "1926.01.30"]
+[Round "?"]
+[Composer "Haga, August"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4r3/p7/4P3/1P2K3/8/4k3/1B6/8 w - - 0 1"]
+
+1. Bd4+ $1 Kd3 2. Bxa7 Kc4 3. b6 Kb5 4. b7 Rxe6+ 5. Kxe6 Kc6 6. b8=R $1 1-0
+
+[Event "The Chess Amateur#1511"]
+[Source "The Chess Amateur/12"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Haga, August"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1pB5/rNP1K3/2k5/P7/8/8/8 w - - 0 1"]
+
+1. cxb7 $1 Rxb6+ $1 2. Bxb6+ Kc6 $1 3. b8=N+ (3. b8=Q $2) Kxb6 4. Nd7+ Kc6 (Ka5 5. Nc5) 5. Ke7 Kc7 6. a5 1-0

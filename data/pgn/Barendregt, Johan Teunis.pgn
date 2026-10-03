@@ -1,0 +1,12 @@
+[Event "De Schaakwereld"]
+[Date "1937.06.18"]
+[Round "?"]
+[Composer "Barendregt, Johan Teunis"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4r1bn/4pk1p/4p1p1/6PP/8/1qr4p/7P/Q3K2R w K - 0 1"]
+
+1. O-O+ $1 Rf3 2. Rxf3+ (2. Qg7+ $2 Kxg7 3. h6+ (3. Rxf3 Bf7 $1) Kf8 $1 4. Rxf3+ Bf7 5. Rxb3 Ra8) Qxf3 3. Qg7+ $1 Kxg7 4. h6+ Kf7 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "Suomen Shakki#1599"]
+[Source "Suomen Shakki/2"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Tapanimaki, Jukka"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/2b5/4n2p/6P1/8/2K2k2/3B4 w - - 0 1"]
+
+1. gxh5 $1 Ke1 2. Kc1 Nd3+ 3. Kc2 Nf2 (Be4 4. Bf3 Nb4+ 5. Kb3 (5. Kc3 $2 Nd5+)) 4. Kc1 $1 (4. h6 $2 Be4+ 5. Kc1 Nd3+ $1 6. Kc2 Bh7 $1 (Bf5 7. Bg4 Bg6 8. Bh5)) Nxd1 5. h6 Be4 6. h7 Bxh7 1/2-1/2

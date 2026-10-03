@@ -1,0 +1,12 @@
+[Event "Vecherni Kharkov"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Tarasiuk, Vladislav Volodimirovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3R4/8/3P4/4K3/8/1p1p4/2r5/1k6 w - - 0 1"]
+
+1. Rb8 $1 Rc5+ $1 (Re2+ 2. Kd4 d2 3. Rxb3+ Kc2 4. Rd3) 2. Kd4 $1 (2. Ke4 $2 d2 3. Rxb3+ Kc2 4. Rd3 Rc4+ 5. Ke3 Rc3 6. Rxc3+ Kxc3 7. d7 d1=Q) d2 3. Rxb3+ Kc2 4. Rd3 Rd5+ 5. Kxd5 Kxd3 6. d7 d1=Q 7. Kd6 $1 Ke4+ (Kc4+ 8. Kc7) 8. Ke7 1/2-1/2

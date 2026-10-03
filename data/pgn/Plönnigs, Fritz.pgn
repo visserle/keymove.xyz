@@ -1,0 +1,13 @@
+[Event "Deutsche Schachzeitung#1122"]
+[Source "Deutsche Schachzeitung/6"]
+[Date "1908.??.??"]
+[Round "?"]
+[Composer "Plönnigs, Fritz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b5B/8/8/1N6/8/3k4/2p5/2K5 w - - 0 1"]
+
+1. Nc7 $1 Bxc7 (Ba7 {<main>} 2. Nd5 Bc5 3. Nb4+ Bxb4 4. Bc3 Bxc3 (Kxc3)) 2. Be5 $1 Bd8 (Bxe5) 3. Bf6 Bb6 (Bxf6) 4. Bd4 Ba5 (Bxd4) (Kxd4 5. Kxc2) 5. Bc3 Bxc3 (Kxc3) 1/2-1/2

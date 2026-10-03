@@ -1,0 +1,40 @@
+[Event "Ceskoslovensky Sach#002"]
+[Source "Ceskoslovensky Sach/1"]
+[Date "1926.06.30"]
+[Round "?"]
+[Composer "Ratz, Viliam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1n6/8/5P2/P1k5/2P4p/2K5/8/8 w - - 0 1"]
+
+1. a6 $1 (1. f7 $2 Nd7 $1 2. a6 Kb6 3. c5+ Kxa6 4. c6 Nf8 $1) Kb6 2. c5+ Kxa6 3. c6 Kb6 4. f7 1-0
+
+[Event "Slovensky Sach#09"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Ratz, Viliam"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/5P2/1p1NP3/8/1p1K3p/8/2P1p3/B7 w - - 0 1"]
+
+1. Bc3 $1 bxc3 2. Ke5 e1=Q+ 3. Kf6 Qf2+ (h3 {<main>} 4. Nf5 h2 5. e7+ Qxe7+ 6. Nxe7 h1=Q 7. Ng6#) 4. Nf5 Qxf5+ 5. Kxf5 Ke7 6. Kg6 1-0
+
+[Event "Panorama Szachowa#3"]
+[Source "Panorama Szachowa/1"]
+[Date "1942.??.??"]
+[Round "?"]
+[Composer "Ratz, Viliam"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7b/8/6P1/R6K/4p3/3k4 w - - 0 1"]
+
+1. g5 $1 Bxg5 2. Rg3 e1=Q 3. Rg1 Qxg1 1/2-1/2

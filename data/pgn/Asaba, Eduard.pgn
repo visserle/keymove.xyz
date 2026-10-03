@@ -1,0 +1,32 @@
+[Event "?"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Asaba, Eduard"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "7N/8/8/B7/K5P1/6p1/kr6/8 w - - 0 1"]
+
+1. Bc7 (1. Bc3 $2 Re2 $1 2. Kb5 Re4 3. Ba5 Re5+ $19) (1. Ng6 $2 g2 $19 2. Bc3 Rc2) (1. Nf7 $2 g2 $19 2. Bc3 Rc2) (1. g5 $2 g2 $19 2. Bc3 Rc2) (1. Be1 $2 g2 $19 2. Bc3 Rc2) (1. Bb4 $2 Rxb4+ 2. Kxb4 g2) (1. Bd8 $2 g2 2. Bf6 Rd2) g2 2. Bh2 (2. g5 $2 g1=Q 3. g6 Qf1) (2. Be5 $2 g1=Q 3. Bxb2 Qxg4+ 4. Kb5 Qh5+) (2. Bb6 Rxb6) (2. Ng6 g1=Q) (2. Bg3 g1=Q) Rb1 3. Ng6 (3. g5 $2 Rh1 $19 4. Be5 g1=Q) (3. Nf7 $2 Rh1 $19 4. Ng5 Rxh2) (3. Ka5 $2 Rh1 4. Be5 g1=Q) Rh1 4. Bg1 (4. Nf4 $2 Rxh2 5. Nxg2 Rxg2 $19) (4. Nh4 $2 Rxh2 5. Nxg2 Rxg2 $19) (4. Kb4 Rxh2) Rxg1 5. Nh4 (5. Nf4 Ra1 6. Nxg2 Kb1+ 7. Kb4) (5. Kb5 $2 Rc1 6. Nf4 g1=Q) (5. g5 $2 Rb1) (5. Ka5 $2 Rb1) (5. Ne5 $2 Rf1) (5. Kb4 $2 Rc1 6. Ne5 g1=Q) (5. Ne7 Rc1) (5. Nf8 Rb1) Kb2 (Ka1 6. Ka5 (6. Ka3 $2 Rh1 7. Nxg2 Rg1 $1 8. Nf4 Rg3+ 9. Kb4 Rxg4 $19) (6. Kb3 $2 Rb1+ 7. Kc4 g1=Q $19) (6. g5 $2 Re1 7. Nxg2 Re2 $19 8. Nh4 Re4+) (6. Kb4 $2 Rb1+ 7. Kc4 g1=Q $19) (6. Nf3 $2 Rf1 $19) (6. Kb5 $2 Rb1+ 7. Kc4 Rc1+ $19) (6. Nf5 $2 Re1) (6. Ng6 $2 Rb1) Kb1 7. Kb5 (7. g5 $2 Kc2 8. Nxg2 Rxg2 $19) (7. Kb4 $2 Kb2 $19) (7. Kb6 $2 Kc1 $19) (7. Ka6 $2 Kc2 8. Nxg2 Rxg2) (7. Nf3 $2 Rf1 8. Nd2+ Kb2) (7. Ka4 $2 Kc2 8. Nxg2 Rxg2) (7. Nf5 $2 Rc1) (7. Nxg2 Rxg2) Kc1 8. Kc4 (8. Kc5 $2 Kd1 $19 9. Nxg2 Rxg2) (8. Kc6 $2 Kd1 $19) (8. g5 $2 Kd1 $19) (8. Ka5 $2 Kc2 9. Nxg2 Rxg2) (8. Nf3 $2 Rf1) (8. Kb6 $2 Kd1) (8. Nxg2 Rxg2) (8. Nf5 Re1) (8. Kb4 Kd1) Kc2 9. g5 $3 (9. Kd4 $2 Rd1+ 10. Ke5 g1=Q $19) (9. Kc5 $2 Kd1 $19 10. Nxg2 Rxg2) (9. Nf3 $2 Rf1 10. Nd4+ Kd2) (9. Kd5 $2 Rd1+ 10. Ke5 Re1+ $19) (9. Kb4 $2 Rb1+ 10. Kc4 g1=Q) (9. Nf5 $2 Rc1 10. Nd4+ Kb2+) (9. Kb5 $2 Rb1+ 10. Kc5 g1=Q+) (9. Ng6 Rd1) Re1 10. Nxg2 Re2 11. Nf4 Re4+ 12. Kd5 Rxf4 13. Ke6 $10) 6. Kb4 (6. Kb5 $2 Kc3 $19 7. Nxg2 Rxg2) (6. g5 $2 Ra1+ 7. Kb5 g1=Q) (6. Nf3 $2 Rf1 7. Nd2 Rf4+) (6. Ka5 $2 Ra1+ 7. Kb5 g1=Q) (6. Nf5 Rc1 7. g5 Rc5) Kc2 7. Kc4 (7. Kc5 $2 Kd1 $19 8. Nxg2 Rxg2) (7. g5 Rb1+ 8. Kc4 g1=Q) (7. Nf3 Rf1 8. Nd4+ Kd2) (7. Nxg2 Rxg2) (7. Nf5 Kd3 8. Kc5 Rc1+) (7. Ka3 Ra1+ 8. Kb4 Rb1+) Kd1 8. Kd3 (8. Kd5 $2 Ke1 $19 9. Nxg2+ Rxg2) (8. g5 $2 Ke2 9. Nxg2 Rxg2) (8. Kd4 $2 Ke2 9. Nxg2 Rxg2) (8. Nf3 $2 Rf1) (8. Kc3 Ke2 9. Nxg2 Rxg2) (8. Nxg2 Rxg2) (8. Nf5 Re1) (8. Kc5 Ke2 9. Nxg2 Rxg2) Ke1 9. Ke3 (9. g5 $2 Kf2 10. Nxg2 Rxg2) (9. Nf3+ $2 Kf2 10. Nxg1 Kxg1) (9. Ke4 $2 Kf2 10. Nxg2 Kxg2) (9. Kc3 $2 Ke2 10. Nxg2 Rxg2) (9. Nxg2+ Rxg2) Kf1 10. Nf3 $3 (10. Kf3 $2 Rh1 11. Nxg2 Rh3+ $19) (10. g5 $2 Rh1 11. Nxg2 Kxg2 $19) (10. Kf4 $2 Rh1 11. Nxg2 Kxg2) (10. Nf5 $2 Rh1 11. Ng3+ Ke1) (10. Kd2 $2 Kf2 11. Nxg2 Rxg2) (10. Ke4 $2 Rh1 11. Nxg2 Kxg2) (10. Ng6 Rh1) Rh1 11. Nd2+ Kg1 12. Nf3+ Kf1 13. Nd2+ $10 (13. g5 $2 Rh3 14. Kf4 Kf2 15. Ne5 g1=Q) (13. Ng5 $2 g1=Q+ 14. Kd3 Qxg4) (13. Kf4 $2 Kf2) (13. Kd2 Rh3) (13. Nd4 g1=Q+ 14. Ke4 Rh2 15. g5 Rh4+) (13. Nh2+ Rxh2) 1/2-1/2
+
+[Event "4.hm Troitzky MT Molodoj Leninets"]
+[Source "EG#02901."]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Asaba, Eduard"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/8/8/8/3k3p/8/7P/3n1K2 w - - 0 1"]
+
+1. Kg2 $1 (1. Ke2 $2 Ne3 2. Kf3 Kd3 $1 3. h3 Kd2 4. Kf2 Nc4 $1 5. Kf3 Ne5+ 6. Kf4 Ng6+ 7. Kg5 Ke3 $1 8. Kxg6 Kf4 $19) (1. h3 $2 Ke3 $19 2. Kg1 Nf2) (1. Ke1 $2 Ne3 $19) (1. Kg1 $2 Ke3) Ne3+ 2. Kh3 $1 (2. Kh1 $2 Ke4 $19) (2. Kf3 $2 Kd3 $19) (2. Kf2 $2 Ke4) (2. Kg1 $2 Ke4) Nf5 3. Kg4 (3. Kg2 Ne3+ 4. Kh3) Ke4 4. h3 $1 (4. Kg5 $2 Kf3 5. Kxf5 h3 $19) (4. Kh5 $2 Kf4 $19 5. Kg6 h3) (4. Kh3 $2 Kf4 $19) Ke5 (Ke3 5. Kxf5 (5. Kg5 Kd2 6. Kxf5 $10) (5. Kh5 $2 Kf3) Kf3 6. Ke5 (6. Kg5 $2 Kg3 $19) (6. Kf6 $2 Kg3 $19) (6. Kg6 $2 Kg3 $19) Kg3 7. Ke4 $1 $10 (7. Kd5 Kxh3)) 5. Kg5 $1 (5. Kf3 $2 Ne7 $19 6. Kg4 Ng6) (5. Kh5 $2 Kf4) Ke6 6. Kg4 $1 (6. Kg6 $2 Ne3 $19 7. Kg5 Ng2) (6. Kf4 $2 Kf6 $19) (6. Kh5 $2 Kf6 $19 7. Kg4 Kg6) Kf6 7. Kh5 $1 (7. Kf4 $2 Ne7 8. Kg4 Ng6 $19) (7. Kf3 $2 Kg5 $19 8. Ke4 Ne7) Kg7 8. Kg5 $10 (8. Kg4 $2 Kg6) 1/2-1/2

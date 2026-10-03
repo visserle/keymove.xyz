@@ -1,0 +1,78 @@
+[Event "Vecherni Novosibirsk"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Vinichenko, Vladimir Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/3K3R/7P/P6p/8/2P5/3p4/8 w - - 0 1"]
+
+1. Kc7 $1 d1=Q 2. Rh8+ Ka7 3. Ra8+ Kxa8 4. h7 Qb3 5. h8=Q+ Ka7 6. Qd4+ Ka8 7. Qe4+ Ka7 8. Qe3+ Ka8 9. Qf3+ Ka7 10. Qf2+ Ka8 11. Qf8+ Ka7 12. Qc5+ 1-0
+
+[Event "7.p RSFSR ty"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Vinichenko, Vladimir Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2bP1P2/6pp/3Bk3/6pB/7q/5P1P/7K w - - 0 1"]
+
+1. Bg3+ $1 Kxd5 2. Kg1 Bxg3 3. hxg3 Ke6 4. f8=N+ Ke7 5. Nxg6+ Kxd7 6. Nf4 1-0
+
+[Event "Vecherni Novosibirsk"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Vinichenko, Vladimir Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/8/Pk5B/5p2/1N3P2/6P1/6p1/8 w - - 0 1"]
+
+1. a7 $1 Kxa7 2. Bg7 g1=Q 3. Bd4+ Ka8 (Qxd4 4. Nc6+) 4. Na6 (4. Bxg1 $2) Qc1+ (Qxd4 5. Nc7+ Ka7 6. Nb5+) 5. Bc5 $1 (5. Nc7+ $2 Qxc7+ 6. Kxc7) Qxf4 6. Nc7+ (6. gxf4 $2) Qxc7+ 7. Kxc7 f4 8. g4 1-0
+
+[Event "5.p RSFSR ty"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Vinichenko, Vladimir Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2N4k/n5pP/8/p5P1/1N6/8/nK6/8 w - - 0 1"]
+
+1. g6 $1 Nxc8 2. Nc6 Ne7 3. Nxe7 Nb4 4. Kc3 Nd5+ 5. Nxd5 a4 6. Kb2 a3+ 7. Ka1 a2 8. Nf6 gxf6 9. Kxa2 1-0
+
+[Event "1/2.p Vecherni Novosibirsk"]
+[Source "EG#05563."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Vinichenko, Vladimir Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/2P5/8/3p2pn/1k2b1p1/4P3/5KN1 w - - 0 1"]
+
+1. c7 $1 Kc2 2. c8=Q+ (2. Ke1 $2 Bf2+ 3. Kf1 Kd1) Kd1 3. Qxg4 g2+ 4. Qxg2 Nxg2 5. Nf3 Nf4 6. Nxd4 Bxd4 7. e3 Bxe3 1/2-1/2
+
+[Event "Vecherni Novosibirsk"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Vinichenko, Vladimir Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2BN3k/8/6K1/8/6P1/7p/N3p3/8 w - - 0 1"]
+
+1. Kf7 $1 e1=Q 2. Kf8 Qf2+ 3. Nf7+ Kh7 4. Bf5+ Qxf5 5. gxf5 h2 6. Nc3 h1=Q 7. Ne4 Qxe4 8. Ng5+ 1-0

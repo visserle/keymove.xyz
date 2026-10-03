@@ -1,0 +1,52 @@
+[Event "2.p Schackvärlden"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Mandil, Jose Pujado"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/BB6/3p4/8/4K3/8/2r4p/7k w - - 0 1"]
+
+1. Kd3+ $1 Rg2 2. Bf3 d5 3. Bf2 d4 4. Ke2 d3+ 5. Kf1 d2 6. Bxg2# 1-0
+
+[Event "SEPA"]
+[Source "EG#14045."]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Mandil, Jose Pujado"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5B1q/8/8/3p1p2/4k2N/8/B7/5K2 w - - 0 1"]
+
+1. Bb1+ $1 Ke3 (Ke5 2. Ng6+) (Kd4 2. Bg7+ Qxg7 3. Nxf5+) 2. Bh6+ f4 (Qxh6 3. Nxf5+) 3. Bxf4+ Kd4 (Kxf4 4. Ng6+) 4. Be5+ Kxe5 (Qxe5 5. Nf3+) 5. Ng6+ Kf6 6. Nxh8 Kg7 7. Ng6 1-0
+
+[Event "3/4.hm British Chess Federation ty"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Mandil, Jose Pujado"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/8/7p/B1PP2k1/5p2/5PPp/2K3N1 w - - 0 1"]
+
+1. Bd7+ $1 Kf4 2. g3+ Ke4 3. Nxf3 h1=Q+ 4. Kc2 Qa1 5. Nd2+ Kxd4 6. Nb3+ 1-0
+
+[Event "2.p Problemas {SEPA}"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Mandil, Jose Pujado"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "q7/8/p7/2p1p3/2k5/8/2K3RP/7B w - - 0 1"]
+
+1. Rg4+ $1 e4 2. Bxe4 (2. Rxe4+ $2 Qxe4+ 3. Bxe4 Kd4) Qh8 3. Bc6+ Qd4 4. h3 $1 (4. Rxd4+ $2 Kxd4) a5 (Kb4 5. Rxd4+ cxd4 6. h4) 5. Bf3 $1 a4 6. h4 Qxg4 (a3 7. h5 a2 8. Rxd4+ Kxd4 9. Kb2) 7. Bxg4 Kd5 8. h5 Ke5 9. h6 Kf6 10. Bh5 $1 c4 11. Kb2 1-0

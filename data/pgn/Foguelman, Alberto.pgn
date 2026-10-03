@@ -1,0 +1,27 @@
+[Event "The Problemist#0374 (c)"]
+[Source "The Problemist/7 (c): Garcia=M Krug=P Estudios Artisticos de Ajedrez - XIII-30 2014."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Foguelman, Alberto"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/pk2r3/2p1pRK1/pPPpP3/P7/3P4/8 w - - 0 1"]
+
+1. Rf6 $1 (1. bxc5+ $2 Kxc5 2. Rf6 Re8 3. d3 Rg8+) Rxf6 2. bxc5+ Kxc5 3. Kxf6 Kxc4 4. Kxe5 Kb3 (a5 5. Kf5) 5. Kxd4 Kxa3 6. Kc3 1-0
+
+[Event "L'Italia Scacchistica#488 (c)"]
+[Source "L'Italia Scacchistica/2 (c): Garcia=M Krug=P Estudios Artisticos de Ajedrez - XIII-30 2014."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Foguelman, Alberto"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/2K2p2/4pP2/3pP3/1pPP4/8/8/8 w - - 0 1"]
+
+1. c5 $1 Ke8 (b3 2. Kc8 b2 3. c6 b1=Q 4. c7 Qb6 5. Kd7 Qb5+ 6. Kd6 Qe8 7. c8=Q Qxc8) 2. c6 (2. Kc8 {<or>} b3 3. c6) b3 3. Kc8 b2 4. c7 b1=Q 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "Siete Días (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - II-41 2012."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Carvajal, J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2n5/8/3P4/8/3Pr3/8/2K5/k7 w - - 0 1"]
+
+1. d7 $1 Rxd4 2. dxc8=R $1 (2. dxc8=Q $2 Rc4+ 3. Qxc4) Ra4 3. Kb3 1-0

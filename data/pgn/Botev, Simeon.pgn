@@ -1,0 +1,27 @@
+[Event "Shakhmatna Misl#21"]
+[Source "Shakhmatna Misl/3 10.p Bulgaria champ 1956-1959."]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Botev, Simeon"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1n1k1NNn/2p2pK1/4P3/8/8/8/8/8 w - - 0 1"]
+
+1. e7+ $1 Ke8 2. Nh7 Nd7 3. Kxh8 c5 4. Kg7 c4 5. Nhf6+ Nxf6 6. Kxf6 c3 7. Nh6 c2 8. Nxf7 c1=Q 9. Nd6+ Kd7 10. e8=Q+ Kxd6 11. Qd8+ Kc6 12. Qc8+ 1-0
+
+[Event "Shakhmatna Misl"]
+[Source "Shakhmatna Misl/10"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Botev, Simeon"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "KRBn4/3p4/2P5/1r6/k7/8/8/8 w - - 0 1"]
+
+1. Rxb5 $1 Kxb5 2. c7 Ne6 3. Bxd7+ Kb6 4. c8=N+ (4. c8=Q $2 Nc7+ 5. Kb8 Na6+ 6. Ka8 Nc7+) Kc7 5. Bxe6 1-0

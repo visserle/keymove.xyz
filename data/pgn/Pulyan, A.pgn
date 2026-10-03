@@ -1,0 +1,27 @@
+[Event "The Chess Amateur#0279"]
+[Source "The Chess Amateur/9"]
+[Date "1914.??.??"]
+[Round "?"]
+[Composer "Pulyan, A"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k1K5/p7/p4P2/8/1pp3n1/8/B3P3/6r1 w - - 0 1"]
+
+1. f7 $1 Rf1 2. Bb1 Rf4 (Nf6 3. f8=Q) (Nf2 3. f8=Q) 3. Be4+ Rxe4 4. f8=Q 1-0
+
+[Event "The Chess Amateur#0345"]
+[Source "The Chess Amateur/11"]
+[Date "1915.??.??"]
+[Round "?"]
+[Composer "Pulyan, A"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/K2N4/8/8/kp1N4/8 w - - 0 1"]
+
+1. Nc3+ $1 Ka3 2. Ncb1+ Ka2 3. Ka4 (3. Kb4 {<or>}) Ka1 4. Kb4 Ka2 5. Nc3+ Ka1 6. Nb3# 1-0

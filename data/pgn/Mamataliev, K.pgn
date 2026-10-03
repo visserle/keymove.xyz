@@ -1,0 +1,13 @@
+[Event "2.hm Shakhmaty v SSSR#19"]
+[Source "Shakhmaty v SSSR/5 EG#04826."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Mamataliev, K"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/3pppp1/4P1NP/6r1/6NK/8/5r2/8 w - - 0 1"]
+
+1. h7 $1 Rh5+ 2. Kxh5 fxg6+ 3. Kh4 (3. Kxg6 $2 Rf8 4. Ne5 dxe6 5. Kxg7 Rh8 6. Kxh8 Kf8) Rf8 (g5+ 4. Kh5) 4. Ne5 dxe6 5. Nxg6 Kf7 6. Nxf8 g5+ 7. Kxg5 Kg7 8. Kf4 e5+ 9. Ke4 (9. Kxe5 $2 e6) Kh8 10. Kxe5 Kg7 11. Ke6 Kh8 12. Kf7 e5 13. Kg6 e4 14. Kh6 e3 15. Ng6# 1-0

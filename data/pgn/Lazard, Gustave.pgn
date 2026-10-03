@@ -1,0 +1,13 @@
+[Event "La Stratégie#0719 (m)"]
+[Source "La Stratégie/9 (m): Garcia=M Estudios Artisticos de Ajedrez - VI-50 2012."]
+[Date "1918.??.??"]
+[Round "?"]
+[Composer "Lazard, Gustave"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1N6/8/5p2/k4KRp/N6P/6pP/1Pp2bP1/8 w - - 0 1"]
+
+1. Nc5 $1 Bxc5 (fxg5 2. Nd3 $1 gxh4 3. Ke4) 2. Kxf6 c1=Q 3. Rxc5+ Qxc5 4. b4+ Kxb4 (Qxb4 5. Nc6+ Kb5 6. Nxb4) 5. Na6+ Kc4 6. Nxc5 Kxc5 7. Kg5 Kd4 8. Kf4 Kd3 9. Kxg3 Ke3 10. Kh2 Kf4 11. g3+ 1-0

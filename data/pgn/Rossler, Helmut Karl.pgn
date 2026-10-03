@@ -1,0 +1,27 @@
+[Event "Die Schwalbe"]
+[Source "Die Schwalbe/3"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Rossler, Helmut Karl"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p5/7p/2p2p2/5p1P/2k1pP1N/4P1KP/8 w - - 0 1"]
+
+1. h5 $1 Kd2 2. Ng1 c4 3. Kh3 c3 4. Kh4 c2 5. h3 c1=Q 1/2-1/2
+
+[Event "Die Schwalbe (c)"]
+[Source "Die Schwalbe/3 (c): Garcia=M Estudios Artisticos de Ajedrez - IX-73 2012."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Rossler, Helmut Karl"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p5/2p4p/5pNP/5p2/4pP1p/2k1P2P/7K w - - 0 1"]
+
+1. Nxh3 $1 (1. Nf7 $2 c5 2. Nxh6 Kd2 $1 (c4 $2 3. Nxf5 c3 4. h6 Kd2 5. Nd4) 3. Nxf5 Kxe2) Kd2 2. Ng1 (2. Nxf4 $2 c5 3. Kg2 c4 4. Kf1 c3 5. Nd3 c2) c5 3. Kg2 c4 4. Kh3 c3 5. Kh4 c2 6. h3 c1=Q 1/2-1/2

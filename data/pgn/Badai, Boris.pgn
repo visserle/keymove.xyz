@@ -1,0 +1,31 @@
+[Event "?"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Badai, Boris"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/n4n1b/p7/5P2/k3N3/4R3/1K6/8 w - - 0 1"]
+
+1. Nc3+ (1. Rf3 $2 Ne5 2. Rf1 $10) (1. f6 $2 Nc6 2. Rg3 Bxe4 3. Rg4 $10) (1. Nf6 $2 Bxf5 2. Re7 $14 $10) (1. Ra3+ $2 Kb5 2. Rh3 $14 $10) (1. Rb3 $2 Nb5 2. Nc5+ Ka5 $10) (1. Ng3 $2 Nd6 2. Re7) Ka5 2. Re7 (2. Nd5 $2 Bxf5 3. Ra3+) (2. Na2 Nc6 3. Ra3+) (2. Ne4 Nb5 3. Ng3) (2. Re6 Nc8 3. Re1) Bxf5 $4 (Bg8 $5 3. Rxa7 $18) 3. Rxf7 (3. Rxa7 $2 Nd6 4. Nb5) Bc8 4. Rc7 (4. Rxa7 $2 Bb7 $1 5. Na4 Bc6 $1 6. Nc3 Bb7 7. Rxa6+ Bxa6 8. Nb5 $10) (4. Kb3 $4 Be6+ 5. Ka3 Bxf7 $19) (4. Nd5 $2 Be6 5. Re7 Bxd5 6. Rd7) (4. Rf8 $2 Bd7 5. Nb5) (4. Ka3 $2 Nb5+ 5. Nxb5 axb5 6. Re7) (4. Rf1 $2 Nc6 5. Nd5) (4. Rf6 Nb5 5. Nd5) (4. Na4 Nb5 5. Nc3) Kb6 5. Nd5+ $18 (5. Rxc8 $2 Nxc8 6. Nd5+) (5. Rc4 $2 a5 6. Nb5) (5. Rxa7 $2 Bb7 6. Nb5) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Badai, Boris"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "3B4/1b6/3P4/7K/6p1/6R1/2k2r2/8 w - - 0 1"]
+
+1. d7 (1. Bb6 $2 Rd2 2. d7 $10 Rd5+ 3. Kxg4 Rxd7 4. Kf5) (1. Bf6 $2 Rxf6 2. Kxg4 $10 Rxd6 3. Re3) (1. Rxg4 $2 Bd5 2. d7 $10) (1. Bg5 $2 Bc8 2. Re3 $10) (1. Ba5 $2 Rf5+ 2. Kh6 Rxa5 3. Rxg4 $10 Rh5+ $4 (Kd1 $5) (Kb2 $5) 4. Kxh5) (1. Kxg4 $2 Rg2 2. d7 $10 Rxg3+ 3. Kxg3) (1. Rc3+ $2 Kxc3 2. Ba5+ $10) (1. Ra3 $2 g3 2. Rxg3 Bf3+ 3. Rxf3 Rxf3 4. d7) Rd2 $4 (Bc6 2. Rc3+ (2. Bb6 $2 Rf5+ 3. Kxg4 Bxd7 4. Bc5 $10) (2. Rxg4 $2 Bxd7 3. Be7 $10) (2. Rh3 gxh3) Kxc3 3. Ba5+ $1 $18 (3. Bf6+ $2 Rxf6 4. d8=Q $10) (3. Bb6 $4 Rf5+ 4. Kxg4 Bxd7 $19 5. Ba5+ Rxa5+ 6. Kf4 Bc6) (3. Kxg4 $4 Bxd7+ 4. Kg3 Rf1 5. Ba5+ Kd3) (3. Bh4 $4 Rf5+ 4. Kxg4 Bxd7 5. Be1+ Kd3) (3. Kh4 Bxd7 4. Ba5+ Kd3) (3. Bg5 Bxd7)) (Rf8 $5 2. Be7 $18) 2. Rc3+ (2. Rg2 $4 Bxg2 3. Kxg4 Rxd7) (2. Ba5 $2 Rxd7 3. Bb4 Rh7+ 4. Kg5) (2. Rxg4 $2 Bc6 3. Be7) (2. Rd3 $4 Rxd3 3. Kxg4 Rxd7 4. Kg5 Rxd8) (2. Bf6 $2 Rxd7 3. Bg5) (2. Rg1 $4 Rxd7 3. Bg5) (2. Bg5 $2 Rxd7 3. Rg1) (2. Rh3 gxh3) Kd1 $1 (Kxc3 3. Ba5+ $18) (Kb1 3. Rb3+ $18) (Kb2 3. Bf6 $1 (3. Rc7 Rxd7 $4 (Bc6 $5 4. Bf6+ $16 $18) 4. Rxd7 $18) (3. Rb3+ $4 Kxb3 4. Kxg4 Rxd7 $19) (3. Ba5 $2 Rxd7 4. Kxg4 Rg7+ 5. Kf4) (3. Bg5 $2 Rxd7 4. Bf6 $10) (3. Rc2+ $4 Kxc2 4. Kxg4 Rxd7 $19) (3. Rd3 $2 Rxd3 4. Bf6+ Kb1) (3. Rc8 $2 Rxd7 4. Bf6+ Kb1) (3. Be7 $2 Kxc3 4. Bf6+) (3. Kxg4 $2 Rd4+ 4. Kg3) (3. Bc7 Rxd7 4. Be5) Rxd7 $4 (Rd5+ $5 4. Kh4) 4. Rd3+ $18 (4. Rc7+ Kb3 5. Rxd7 $18) (4. Rc4+ $2 Ka2 5. Bg5 Rh7+ 6. Kxg4) (4. Rc2+ $4 Kxc2 5. Kxg4 Rd5) (4. Rc1+ Kxc1 5. Kxg4 Kc2) (4. Ra3+ Kxa3 5. Kxg4 Rh7) (4. Rg3+ Kc2 5. Rxg4) (4. Kxg4 Bc6 5. Be5) (4. Rb3+ Kxb3 5. Kxg4 Kc4) (4. Rf3+ Kc2 5. Rc3+)) 3. Rc1+ (3. Rc7 $2 Bc6 4. Rxc6 Rxd7 $14 5. Rd6+ Rxd6) (3. Bf6 $2 Rxd7 4. Bg5 Rh7+ 5. Bh6) (3. Ba5 $2 Rxd7 4. Kxg4 Rd4+ 5. Kg3) (3. Bg5 $2 Rxd7 4. Bh4) (3. Rb3 $2 Rxd7 4. Kxg4) (3. Rc8 $2 Rxd7 4. Rc3) (3. Re3 Rxd7 4. Rc3) (3. Rc5 Rxd7 4. Rc3) Ke2 $1 4. Re1+ (4. Ba5 $2 Rxd7 5. Kxg4 Bf3+ 6. Kf4) (4. Rc2 $2 Rxc2 5. Bg5) (4. Bf6 $2 Rxd7 5. Bg5) (4. Bg5 $2 Rxd7 5. Bh4) (4. Bh4 $2 Rxd7 5. Kxg4 Rd4+ 6. Kg5) (4. Rc7 $2 Bf3 5. Kh4) Kf3 (Kf2 $5 5. Bb6+) 5. Re3+ (5. Rf1+ $2 Kg2 6. Rf7 Bc6 7. Kxg4 Bxd7+ 8. Rxd7 Rxd7 9. Bf6) (5. Re7 $2 Bc6 6. Rf7+) (5. Rb1 $2 Rxd7 6. Rb3+) (5. Re2 $4 Kxe2 6. Kxg4 Rxd7) (5. Bg5 $2 Rxd7 6. Bh4) (5. Rh1 Rxd7 6. Bh4) Kg2 (Kf2 6. Bb6 (6. Bh4+ g3 7. Rxg3 (7. Bxg3+ $4 Kxe3 $19 8. Bf4+ Kxf4) (7. Rf3+ $4 Bxf3+ 8. Kg5 Rxd7) (7. Re2+ $2 Kxe2 8. d8=Q) (7. Bg5 Rxd7 8. Re8) (7. Re8 Bf3+ 8. Kh6) (7. Re7 Bf3+ 8. Kg5) Bf3+ 8. Kh6 (8. Kg6 $2 Rxd7 9. Rxf3+ Kg1 10. Bg5) (8. Kg5 $2 Rxd7 9. Rxf3+ Kg1 10. Bg3) (8. Rxf3+ $2 Kxf3 9. d8=Q) (8. Rg4+ $2 Ke2 9. d8=Q) Rxd7 9. Rg7+ $18 (9. Rxf3+ $2 Ke2 10. Bg5) (9. Rg2+ Kxg2)) (6. Re7 g3 7. Bb6+ $16 $18 (7. Ba5 $2 Rd5+ 8. Kh6) (7. Bc7 $2 Bf3+ 8. Kh6)) (6. Be7 $2 Rxd7 7. Re6) (6. Bg5 $2 Rxd7 7. Kxg4 Bf3+ 8. Rxf3+ Ke2 9. Bh4) (6. Re1 $2 Rxd7 7. Bh4+ g3) (6. Re2+ $4 Kxe2 7. Kxg4 Rxd7) Rxd7 7. Rd3+ $18 (7. Re7+ Kf3 8. Rxd7 $18) (7. Re6+ Kg2 8. Be3)) 6. Re2+ $1 Rxe2 7. Bg5 $18 (7. Ba5 $2 Re5+ 8. Kxg4 Bf3+ 9. Kf4 $10) (7. Bb6 $2 Rd2 8. d8=Q $10) (7. Bf6 $2 Rd2 8. d8=Q $10) (7. Bh4 $2 Re5+ 8. Bg5 Rxg5+ $4 (Rd5 $5) 9. Kxg5) (7. Bc7 $2 Rd2 8. d8=Q) (7. Be7 $2 Rd2 8. d8=Q) (7. Kxg4 $4 Bc6) 1/2-1/2

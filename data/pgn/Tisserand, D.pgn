@@ -1,0 +1,13 @@
+[Event "4.p France champ Diagrammes"]
+[Source "Diagrammes/9-10 1985"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Tisserand, D"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3kr3/7R/3K2p1/4p3/8/8/Np6/8 w - - 0 1"]
+
+1. Nb4 $1 Re6+ (Kc8 2. Rc7+ Kb8 3. Nc6+ Ka8 4. Ra7#) (Rg8 2. Nc6+ Ke8 3. Re7+ Kf8 4. Nd8 Rg7 5. Ne6+ Kg8 6. Rxg7+) 2. Kxe6 b1=Q 3. Rh8+ Kc7 4. Na6+ Kc6 5. Rc8+ Kb7 6. Rb8+ 1-0

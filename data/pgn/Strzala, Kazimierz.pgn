@@ -1,0 +1,41 @@
+[Event "Szachy#313"]
+[Source "Szachy/9"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Strzala, Kazimierz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3Bq1Bk/4p2P/4P2p/6P1/p5p1/p7/P7/K7 w - - 0 1"]
+
+1. Bb6 $1 Qf8 2. Bd4+ Qg7 3. Bxg7+ Kxg7 4. gxh6+ Kh8 5. Bf7 g3 6. Bg6 g2 7. Bb1 g1=Q 1/2-1/2
+
+[Event "Szachy#316"]
+[Source "Szachy/12"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Strzala, Kazimierz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4b1p1/8/5PPP/5p2/5P1k/7p/7K w - - 0 1"]
+
+1. h6 $1 gxh6 2. f6 Bf8 (Bd8 3. f7 Be7 4. gxh6) 3. g6 h5 4. g7 Bxg7 5. fxg7 h4 6. g8=B $1 (6. g8=Q $2) Kg3 7. Bd5 Kh3 8. Be6+ Kg3 9. Bg4 h3 10. Bh5 Kh4 11. Be8 Kg3 12. Bc6 1-0
+
+[Event "Szachy#366"]
+[Source "EG#00701.17.p Polish champ 1963-1964."]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Strzala, Kazimierz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/7p/1B4pp/4p1P1/3RPp2/5Kbk w - - 0 1"]
+
+1. Rd5 $1 hxg3 2. Rxh5+ Bh2 3. Rxh2+ Kxh2 (gxh2 4. Bd6 g3 5. Bxg3) 4. Bd6 Kh3 5. Bxg3 Kxg3 1/2-1/2

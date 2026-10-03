@@ -1,0 +1,12 @@
+[Event "Bohemia#154"]
+[Date "1907.03.03"]
+[Round "?"]
+[Composer "Henri, M"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/2qp1p1p/3b1K1p/7P/5N2/8/8/6R1 w - - 0 1"]
+
+1. Rg8+ $1 Bf8 2. Rxf8+ Kxf8 3. Ne6+ dxe6 (fxe6 {<main>}) 1/2-1/2

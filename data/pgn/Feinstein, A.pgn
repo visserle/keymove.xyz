@@ -1,0 +1,12 @@
+[Event "source unknown"]
+[Date "1897.??.??"]
+[Round "?"]
+[Composer "Feinstein, A"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1N6/1p6/1K6/3N4/k7 w - - 0 1"]
+
+1. Na3 $1 bxa3 2. Kc2 Ka2 3. Ne4 Ka1 4. Nc5 Ka2 5. Nd3 Ka1 6. Nc1 a2 7. Nb3# 1-0

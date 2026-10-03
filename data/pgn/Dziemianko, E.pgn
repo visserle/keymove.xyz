@@ -1,0 +1,12 @@
+[Event "3.hm Szachy"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Dziemianko, E"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/1p2K3/p2P4/P2P4/7P/3p4/1p6/8 w - - 0 1"]
+
+1. d7 $1 b1=Q 2. d8=Q+ Ka7 3. Qb6+ Qxb6 4. axb6+ Kb8 5. d6 d2 6. d7 d1=Q 7. d8=Q+ Qxd8+ 8. Kxd8 a5 9. h5 a4 10. h6 a3 11. h7 a2 12. h8=Q a1=Q 13. Qg8 Qa2 14. Qe8 Qa4 15. Qe5+ Ka8 16. Qh8 1-0

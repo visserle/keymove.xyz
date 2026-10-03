@@ -1,0 +1,80 @@
+[Event "2.c ADS ty Deutsche Schachblätter"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Stsherbina, Nikolai"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6N1/6B1/5p2/8/8/2kpK2p/2P2p1P/8 w - - 0 1"]
+
+1. Kxf2 $1 (1. Bxf6+ $2 Kxc2 2. Kxf2 d2 $1) (1. Nxf6 $2 f1=Q $1) d2 (dxc2 2. Bh6 $1) 2. Nxf6 d1=Q (d1=N+ 3. Ke2 Kxc2 4. Nd5 Kc1 5. Nb4) 3. Nd5+ Kd2 $1 4. Bh6+ Kxc2 5. Ne3+ 1-0
+
+[Event "Deutsche Schachblätter"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Stsherbina, Nikolai"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1rrk4/K1p5/Q1P5/8/8/8/8/8 w - - 0 1"]
+
+1. Qb7 $1 Rxb7+ 2. Kxb7 Ke7 3. Kxc8 Ke8 4. Kxc7 1-0
+
+[Event "Schach#01152"]
+[Source "Schach/8"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Stsherbina, Nikolai"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k2K2/2P5/1P6/3p1P1p/4p1Pp/7P/3PP3/5r2 w - - 0 1"]
+
+1. gxh5 $1 Rxf5+ 2. Kg7 Rg5+ 3. Kf6 $1 Rxh5 4. Kg6 Rh8 5. Kg7 Re8 6. Kf7 Re5 7. Kf6 1/2-1/2
+
+[Event "Deutsche Schachblätter"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Stsherbina, Nikolai"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/8/8/5n2/8/R2pp2K/8/8 w - - 0 1"]
+
+1. Rxd3 $1 e2 2. Rd2 $1 e1=Q 3. Re2+ Qxe2 1/2-1/2
+
+[Event "Schach#01230"]
+[Source "Schach/1"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Stsherbina, Nikolai"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/8/8/2p1p3/1P1P4/2K1k3/8 w - - 0 1"]
+
+1. dxe4 $1 cxb3+ 2. Kb1 $1 h5 3. e5 h4 4. e6 h3 5. e7 h2 6. e8=Q+ Kf2 7. Qe4 Kg1 8. Qg4+ Kh1 9. Qf3+ Kg1 10. Qg3+ Kh1 11. Qf2 b2 12. Qf1# 1-0
+
+[Event "Schach#03221"]
+[Source "Schach/7"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Stsherbina, Nikolai"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3K4/8/8/7P/4k1n1/8/7p/5N1b w - - 0 1"]
+
+1. Nxh2 $1 (1. h6 $2 Nxh6 2. Nxh2 Bg2 3. Ke7 Kf4 4. Kf6 Bh3 5. Kg6 Nf5 6. Kh5 Kg3) Nxh2 2. h6 Nf3 (Ng4 3. h7 Ne5 4. Ke7 Ng6+ 5. Kf6 Kf4 6. Kxg6 Be4+) 3. h7 Ng5 4. h8=Q (4. h8=N $2 Kf5 5. Ke7 Bd5 6. Kf8 Kf6 7. Ke8 Kg7) Nf7+ 5. Ke7 Nxh8 6. Kf6 Kd5 7. Kg7 1/2-1/2

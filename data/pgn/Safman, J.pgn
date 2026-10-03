@@ -1,0 +1,12 @@
+[Event "Jaunakas Zinas#007"]
+[Date "1927.05.11"]
+[Round "?"]
+[Composer "Safman, J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k5/2n2pp1/3Pp3/5P1P/8/8/5K2/8 w - - 0 1"]
+
+1. f6 $1 Ne8 2. fxg7 Nf6 3. Kf3 (3. h6 $2 Ng4+ 4. Kg3 Nxh6) Ng8 4. Kg4 f6 (Kd7 5. Kg5 Kxd6 6. h6) 5. h6 $1 Nxh6+ 6. Kh5 Ng8 7. Kg6 f5 (Kd7 8. Kh7) 8. Kf7 Nh6+ 9. Ke8 1-0

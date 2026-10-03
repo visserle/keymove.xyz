@@ -1,0 +1,13 @@
+[Event "The Problemist#0192b (tw)"]
+[Source "The Problemist/1-2"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Burger, Robert Eugene"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/5p2/8/8/1K1QN1k1/7q w - - 0 1"]
+
+1. Qd5+ $1 Kh2 2. Qd6+ Kg2 3. Qc6+ Kh2 4. Qc7+ Kg2 5. Qb7+ Kh2 6. Qb8+ Kg2 7. Qa8+ Kh2 8. Qh8+ Kg2 9. Nf4+ Kg1 10. Qd4+ Kh2 11. Qf2+ Qg2 12. Qxg2# 1-0

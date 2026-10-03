@@ -1,0 +1,13 @@
+[Event "Sinfonie Scacchistiche#1419"]
+[Source "Sinfonie Scacchistiche/1-3"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Nagnibida, N"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1n6/8/4p1Pp/8/3K3p/8/8/7k w - - 0 1"]
+
+1. g7 $1 Nc6+ 2. Ke4 Ne7 3. Ke5 h5 (h3 4. Kxe6 Ng8 5. Kf7) 4. Kxe6 Ng8 5. Kf7 Nh6+ 6. Kg6 Ng8 7. Kf7 1/2-1/2

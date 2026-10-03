@@ -1,0 +1,13 @@
+[Event "3.hm Moravsko Sleszky Denik (v)"]
+[Source "(v): Ceskoslovensky Sach#046 Ceskoslovensky Sach=11 Ceskoslovensky Sach/11 1927."]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Cohn, S"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p2K3/8/8/1p2k3/1P6/1P6/8 w - - 0 1"]
+
+1. Kd6 $1 (1. Ke6 $2 Kd3 $1 2. Kd5 b6 $1 3. Kc6 Kc2 4. Kb5 Kxb3) Kd4 $1 2. Kc7 Kd3 3. Kb6 $1 Kc2 4. Kb5 $1 Kxb3 5. Kc5 $1 Ka4 (b6+ 6. Kb5) 6. Kb6 b3 7. Kc5 1/2-1/2

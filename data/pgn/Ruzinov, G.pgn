@@ -1,0 +1,12 @@
+[Event "64#003"]
+[Date "1924.10.01"]
+[Round "?"]
+[Composer "Ruzinov, G"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1k5p/pp5P/3P4/1P4P1/5K1N w - - 0 1"]
+
+1. Ng3 $1 a3 2. bxa3 bxa3 3. Ne2 Kb4 (a2 4. Nc3+) 4. Nc1 Kc3 5. Ke1 Kc2 (Kb2 6. Kd1) 6. Na2 Kb2 7. Kd2 Kxa2 8. Kc2 Ka1 9. g3 $1 a2 (Ka2 10. d4 Ka1 11. d5) 10. g4 hxg4 11. h5 g3 12. h6 g2 13. h7 g1=Q 14. h8=Q+ 1-0

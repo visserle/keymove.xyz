@@ -1,0 +1,122 @@
+[Event "Deutsche Schachzeitung#1148"]
+[Source "Deutsche Schachzeitung/2"]
+[Date "1909.??.??"]
+[Round "?"]
+[Composer "Dehler, Otto Georg Edgar"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/5R2/2b5/2pp4/6k1/4K3 w - - 0 1"]
+
+1. Rf2+ $1 Kh3 (Kg1 {<main>} 2. Rc2 dxc2) (Kg3 2. Rc2 dxc2) 2. Kd1 $1 (2. Rf3+ $2 Kg4) Kg3 (Bb3+ 3. Kc1 c2 4. Rf3+) 3. Rc2 Bb3 4. Kc1 Bxc2 (dxc2) 1/2-1/2
+
+[Event "Akademisches Monatsheft fur Schach#09"]
+[Source "Akademisches Monatsheft fur Schach/8"]
+[Date "1910.??.??"]
+[Round "?"]
+[Composer "Dehler, Otto Georg Edgar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/r1R5/k1PP4/6p1/6Kp/8/8 w - - 0 1"]
+
+1. d6 $1 Rxc6 (Ra8 2. d7 Rd8 (Rh8 3. Rh6) 3. Rd6) 2. d7 Rxc5 3. d8=Q+ 1-0
+
+[Event "Hamburger Nachrichten"]
+[Date "1910.09.25"]
+[Round "?"]
+[Composer "Dehler, Otto Georg Edgar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1KP1R3/3r4/8/8/8/bk6 w - - 0 1"]
+
+1. Re1+ $1 Ka2 2. Rxa1+ Kxa1 3. c7 Rd6+ 4. Kb5 Rd5+ 5. Kb4 Rd4+ 6. Kb3 Rd3+ 7. Kc2 Rd4 8. c8=R $1 (8. c8=Q $2 Rc4+ 9. Qxc4) Ra4 9. Kb3 1-0
+
+[Event "Hamburger Nachrichten"]
+[Date "1910.09.25"]
+[Round "?"]
+[Composer "Dehler, Otto Georg Edgar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3P4/1k6/1r6/2K5/8/8 w - - 0 1"]
+
+1. d7 $1 Rc4+ 2. Kd3 $1 Rc1 3. Kd2 $1 1-0
+
+[Event "Bohemia#297"]
+[Date "1911.01.29"]
+[Round "?"]
+[Composer "Dehler, Otto Georg Edgar"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5R2/7p/4b3/6kp/6rR/7K w - - 0 1"]
+
+1. Rxh3+ $1 Kxh3 (Kg4 2. Rh4+) 2. Rf3+ Kh4 $1 (Rg3) (Kg4 3. Rf4+ Kxf4) 3. Rh3+ Kg5 (Kxh3) (Kg4 4. Rh4+) 4. Rxh5+ Kxh5 1/2-1/2
+
+[Event "Deutsche Schachblätter"]
+[Source "Deutsche Schachblätter/7"]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "Dehler, Otto Georg Edgar"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/p5K1/8/8/8/8/8/8 w - - 0 1"]
+
+1. Kf6 $1 a5 (Kb7 2. Ke5 Kc6 3. Kd4 Kb5 4. Kc3 Ka4 5. Kb2) 2. Ke5 a4 3. Kd4 a3 4. Kc3 a2 5. Kb2 1/2-1/2
+
+[Event "Basler Nachrichten (c)"]
+[Source "Basler Nachrichten/11 (c): Garcia=M Estudios Artisticos de Ajedrez - II-52 2012."]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Dehler, Otto Georg Edgar"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/5pPb/3N1P1P/3p4/4pPp1/1p4P1/1p1N4/bK6 w - - 0 1"]
+
+1. N2xe4 $1 dxe4 (Bxe4+ 2. Nxe4 dxe4 3. f5 e3 4. h7+ Kxh7 5. g8=Q+ Kxg8) 2. Nf5 Bxf5 (e3) 3. h7+ Bxh7 4. f5 Bg6 (Bxf5) 5. fxg6 e3 6. gxf7+ Kxf7 7. g8=Q+ Kxg8 8. f7+ Kg7 9. f8=Q+ Kxf8 1/2-1/2
+
+[Event "Basler Nachrichten#1823 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - XIV-22 2014."]
+[Date "1927.03.28"]
+[Round "?"]
+[Composer "Dehler, Otto Georg Edgar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1Nb5/1p1p4/p7/8/4P3/3P3P/5K1p/7k w - - 0 1"]
+
+1. Nxa6 $1 (1. h4 $2 b5 $1 (d6 $2 2. h5 Be6 3. h6 Bg8 4. Nd7) 2. h5 b4 3. h6 b3 4. h7 b2) bxa6 (b5 2. Nb4) 2. h4 d6 (a5 3. h5 a4 4. h6 a3 5. h7 a2 6. h8=Q) 3. h5 Be6 4. h6 Bg8 5. d4 a5 6. e5 a4 7. exd6 a3 8. h7 $1 Bxh7 9. d7 a2 10. d8=Q a1=Q 11. Qd5+ Be4 12. Qxe4# 1-0
+
+[Event "Deutsche Schachzeitung#1943"]
+[Source "Deutsche Schachzeitung/6"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Dehler, Otto Georg Edgar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/2R5/3K4/8/5B2/4r3/4p3/8 w - - 0 1"]
+
+1. Bg5+ $1 Ke8 2. Bxe3 e1=Q 3. Re7+ Kf8 (Kd8 4. Bb6+) 4. Bh6+ 1-0

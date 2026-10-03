@@ -1,0 +1,13 @@
+[Event ".c Szachy#13"]
+[Source "Szachy/5 EG#05017."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Kacewicz, Marek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/1Pnb4/Pk6/8/8/8/n7/8 w - - 0 1"]
+
+1. a7 $1 Nb5 (Nb4 {<main>} 2. a8=N+) 2. a8=B $1 (2. a8=Q $2 Nb4 $1 3. Qa1 Nc6+ 4. Ka8 Nc7#) (2. a8=N+ $2 Kc6 3. Nc7 $1 Nd6 $1) Bc6 3. Kc8 Nd6+ 4. Kb8 Nxb7 5. Bxb7 Bxb7 1/2-1/2

@@ -1,0 +1,12 @@
+[Event "Wiener Schachzeitung#80"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Haupt, R"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k5/B1p5/1pK1pp2/7P/5P2/8/5b2/8 w - - 0 1"]
+
+1. Bb8 $1 Kxb8 (f5 2. h6 Bd4 3. Bxc7 Bh8 4. Be5) 2. f5 Bc5 (exf5 3. h6) 3. h6 Bf8 4. h7 Bg7 5. fxe6 1-0

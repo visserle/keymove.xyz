@@ -1,0 +1,13 @@
+[Event "Tijdschrift v.d. KNSB#159"]
+[Source "Tijdschrift v.d. KNSB/10"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Verheijen, H"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1B1p4/2P5/5b2/4Np1p/p5bk/8/7K w - - 0 1"]
+
+1. cxd7 $1 Bxd7 (a2 2. Ng5+ Kg4 3. Bf3+ Kxg5 4. d8=Q+) 2. Bc8 $1 Bxc8 3. Nf2+ Bxf2 1/2-1/2

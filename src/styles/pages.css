@@ -1,0 +1,254 @@
+/* Keymove: pages.
+
+   One module of the stylesheet; order is owned by
+   app.css, which imports every module. */
+
+/* shared page furniture -------------------------------------------------- */
+.about {
+	max-width: 440px;
+	margin: clamp(48px, 12vh, 112px) auto 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+}
+
+.about__icon {
+	display: block;
+	width: 80px;
+	height: 80px;
+	margin-bottom: 22px;
+}
+
+html.dark .about__icon {
+	filter: invert(1);
+}
+
+.about__name {
+	margin: 0;
+	font-size: var(--font-size-brand-large);
+	font-weight: 600;
+	line-height: 1.15;
+}
+
+.about__motto {
+	margin: 10px 0 22px;
+	font-size: var(--font-size-base);
+}
+
+.about__repository {
+	font-size: var(--font-size-base);
+}
+
+.about__thanks {
+	margin: 18px 0 0;
+	font-size: var(--font-size-sm);
+	letter-spacing: 0.015em;
+	color: var(--c-font-dim);
+}
+
+.about__thanks::before {
+	display: block;
+	width: 48px;
+	margin: 0 auto 14px;
+	border-top: 1px solid var(--c-font-dim);
+	content: "";
+}
+
+.about__thanks a {
+	color: inherit;
+	text-decoration: none;
+}
+
+.about__thanks a:hover {
+	text-decoration: underline;
+	text-underline-offset: 3px;
+}
+
+.about__external-icon {
+	display: inline-block;
+	width: 13px;
+	height: 13px;
+	margin-left: 5px;
+	vertical-align: -2px;
+}
+
+.about__name,
+.about__motto,
+.about__repository,
+.about__repository:hover {
+	color: var(--c-font-clear);
+}
+
+.about__repository:hover {
+	text-decoration: underline;
+	text-decoration-thickness: 1px;
+	text-underline-offset: 3px;
+}
+
+.hero__eyebrow {
+	margin: 0 0 6px;
+	font-size: 13px;
+	font-weight: 600;
+	letter-spacing: 0.06em;
+	text-transform: uppercase;
+	color: var(--c-font-dim);
+}
+
+.caption {
+	margin: 8px 0 0;
+	font-size: var(--font-size-sm);
+	color: var(--c-font-dim);
+}
+
+.crumbs {
+	margin: 20px 0 0;
+	font-size: 13px;
+	color: var(--c-font-dim);
+}
+
+.crumbs a {
+	color: var(--c-link);
+}
+
+.crumbs a:hover {
+	color: var(--c-link-hover);
+}
+
+.crumbs span {
+	margin: 0 6px;
+	color: var(--c-font-dimmer);
+}
+
+/* the Keymove button: a hairline ink box, small caps with wide tracking,
+   inverting on hover. `.btn--solid` starts inverted. */
+.btn {
+	display: inline-block;
+	appearance: none;
+	font: inherit;
+	font-size: 11px;
+	letter-spacing: 0.16em;
+	text-transform: uppercase;
+	white-space: nowrap;
+	text-decoration: none;
+	text-align: center;
+	padding: 9px 15px 10px;
+	border: 1px solid var(--ink);
+	border-radius: 0;
+	background: none;
+	color: var(--ink);
+	cursor: pointer;
+}
+
+.btn:hover {
+	background: var(--ink);
+	color: var(--c-bg);
+}
+
+.btn--solid {
+	background: var(--ink);
+	color: var(--c-bg);
+}
+
+.btn--solid:hover {
+	background: none;
+	color: var(--ink);
+}
+
+/* the home page ---------------------------------------------------------- */
+/* The composition's words sit in the right column and never drop below the
+   board: when the row narrows the board shrinks instead (see `.hero` in
+   layout.css). The right column is top-aligned with the board and the
+   buttons follow the credit, so the pair reads as one block. The definition
+   of a key move lives below the whole block, on the page measure (`.intro`). */
+.hero__body {
+	display: flex;
+	flex-direction: column;
+	/* no top padding: the eyebrow sits level with the board's top edge, so the
+     column and the board read as one block (029fc66); the air lives between
+     the title and the buttons below */
+	min-width: 0;
+}
+
+/* The credit sits close to its headline. */
+.hero__credit {
+	margin-top: 8px;
+}
+
+/* The key-move definition, its own line beneath the board on the page measure.
+   A hairline above and below brackets it as a coda. The line wears the clear
+   ink, the same the headline and the key field carry, rather than the quiet
+   dim, so the definition reads as the page's own voice. The keymark sits in
+   the sentence where the word “key” is defined: type, not a graphic. */
+.intro {
+	margin: 26px 0 0;
+	padding: 18px 0;
+	border-top: 1px solid var(--c-border);
+	border-bottom: 1px solid var(--c-border);
+	font-size: 21px;
+	font-style: italic;
+	line-height: 1.45;
+	color: var(--c-font-clear);
+}
+
+.hero__actions {
+	display: flex;
+	/* one button per line, always */
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 16px;
+	margin-top: 58px;
+}
+
+/* the right column can be narrow on a phone, so the labels wrap inside the
+   buttons instead of pushing past the column edge */
+.hero__actions .btn {
+	max-width: 100%;
+	white-space: normal;
+	text-wrap: balance;
+}
+
+/* On a portrait phone the hero is one column (see `.hero` in layout.css): the
+   board takes the full bleed, drawn exactly as the solver's col1 board is, and
+   the text keeps the page measure. `--sq` is left to the board: the width and
+   the 1:1 ratio size it, so the inside coordinates never clip the h-file. */
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.hero .diagram {
+		width: 100%;
+	}
+
+	.hero .board-frame > .cg-wrap:not(.promo) {
+		--board-radius: 0;
+		width: 100%;
+		height: auto;
+		aspect-ratio: 1 / 1;
+	}
+
+	.hero__body {
+		padding-inline: var(--page-pad);
+	}
+
+	/* the column now spans the page, so the pair of buttons sits on one line
+     (wrapping only when the labels no longer fit) */
+	.hero__actions {
+		flex-direction: row;
+		flex-wrap: wrap;
+		align-items: center;
+		margin-top: 30px;
+	}
+}
+
+@media (max-width: 640px) {
+	/* the coda steps down with the page (the key is already hidden) */
+	.intro {
+		margin-top: 20px;
+		font-size: 17px;
+	}
+}
+
+/* bigger touch targets where the pointer is a finger, as lichess does */
+@media (pointer: coarse) {
+	.btn {
+		padding: 12px 18px 13px;
+	}
+}

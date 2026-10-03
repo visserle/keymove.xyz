@@ -1,0 +1,13 @@
+[Event "Ceskoslovensky Sach#371"]
+[Source "Ceskoslovensky Sach/5-6"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Foltys,"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5k2/2p5/1pPp4/p2P2p1/P2P2P1/P5K1/8 w - - 0 1"]
+
+1. Kf1 $1 Ke7 2. Ke1 Kf7 3. Kd1 Ke7 4. Kc2 Ke6 (Kd7 {<main>} 5. Kc3 Kc7 6. Kd2 Kb7 7. Ke3 Ka6 8. Kf4 Ka5 9. Ke5 $1 (9. Kxg4 $2 b4 10. axb4+ Kxb4 11. Kf5 Ka3 12. g4 Kxa2 13. g5 Kb3 14. g6 a3 15. g7 a2 16. g8=Q a1=Q) b4 10. axb4+ Kxb4 11. Kd6 Ka3 12. Kxc6 Kxa2 13. Kxd5 Kb3 14. c6 a3 15. c7 a2 16. c8=Q a1=Q 17. Qxg4) 5. Kd2 1-0

@@ -1,0 +1,40 @@
+[Event "sp.p Galitzky MT Kommunist"]
+[Source "EG#07136. also Probleemblad#066 Probleemblad/3 1988."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Caputto, Zoilo Rudecindo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5R1K/2P2N1p/4P1k1/1p1p4/3p4/8/3q4 w - - 0 1"]
+
+1. Ne4+ $1 Kh5 2. Rf5+ Kh4 3. Rf4+ Kh5 4. Rg4 Qxg4 5. Nf6+ Kh4 6. Nxg4 b3 7. Nh2 b2 8. Nf3+ Kg3 9. Nd2 Kf2 10. c7 Ke1 11. c8=Q Kxd2 12. e6 b1=Q 13. e7 1-0
+
+[Event "Fizkulturnik Belorussii"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Caputto, Zoilo Rudecindo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K6/2p3k1/4P1p1/8/p6N/1p6/1N6/8 w - - 0 1"]
+
+1. e7 $1 (1. Kxc7 $2 a3) (1. Nxa4 $2 Kf6 2. Kxc7 (2. e7 Kxe7 3. Nxg6+ Kf6) (2. Nxg6 Kxe6 3. Nf4+ Ke5 4. Nd3+ Kd4 5. Ndb2 c5) Kxe6 3. Nc5+ Ke5 4. Nxb3 (4. Nf3+ Kf4 5. Ng1 Kg3 6. Nxb3 Kg2 7. Ne2 Kf2 8. Nf4 g5) Kf4 5. Ng2+ (5. Nd4 Ke4) Kf3 6. Ne1+ Ke2 7. Nc2 Kd3) Kf7 2. Nxg6 a3 3. Nc4 a2 4. Kxc7 a1=Q 5. e8=Q+ $1 Kxe8 (Kg7 6. Qh8+) 6. Nd6# 1-0
+
+[Event "3.p Golden Fleece ty Merani"]
+[Source "EG#07367. also L'Italia Scacchistica 10/1988."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Caputto, Zoilo Rudecindo"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6k1/8/7P/8/3pp3/4r3/3K1R2 w - - 0 1"]
+
+1. Rf3 $1 Kh7 2. Rg3 (2. Rh3 $2 Kh6) (2. Rf7+ $2 Kh6 3. Rd7 Rd2+ 4. Ke1 (4. Kc1 Rc2+ 5. Kb1 e2) Kxh5 5. Rd4 Kg5 6. Re4 Re2+ 7. Kd1 (7. Kf1 Rf2+) Kf5 8. Rd4 (8. Re8 Kf4) Rd2+ 9. Ke1 Ke5 10. Rd8 Ke4 11. Re8+ (11. Rd7 Ra2) Kd4 12. Rd8+ Kc3 13. Rc8+ Kb2 14. Re8 Rh2 15. Rxe3 Kc2) Kh6 3. Rh3 Kg5 4. h6 Kf4 5. Rh4+ (5. h7 $2 Rd2+ 6. Ke1 (6. Kc1 Rc2+ 7. Kb1 Rc8 8. h8=Q Rxh8 9. Rxh8 e2) Rb2 7. Rh4+ Kf3 8. Rh3+ Ke4 9. Rh4+ Kf5 (Kd5 10. Rd4+) 10. Rh5+ Kg6 11. Rh6+ Kf7 12. Rf6+ Ke7 13. Kf1 e2+ 14. Kf2 Rb1) Kg3 (Kg5 6. Rh3 Kg4 7. h7) 6. Rh3+ (6. Rd4 $2 Rh2 7. Rxd3 Kf2) Kf2 7. Rh2+ (7. Rh1 $2 Rd2+ 8. Kc1 Rc2+ 9. Kb1 Rc8) Kf1 8. Rh1+ Kg2 9. Rh2+ Kxh2 10. h7 Kg1 11. h8=Q Rf2 12. Kc1 (12. Qg7+ $2 Kf1) Rf1+ (Rg2 13. Qd4) (e2 13. Kd2 Rf1 14. Qg7+) (d2+ 13. Kc2 Rf1 (Kf1 14. Qh1+) 14. Qg7+) 13. Kb2 d2 14. Qh3 Rb1+ (d1=N+ 15. Kc2 Kf2 16. Qf5+) 15. Ka2 Ra1+ (d1=Q 16. Qxe3+ Kh2 (Kf1 17. Qd3+ Qxd3) 17. Qh6+) 16. Kb2 1/2-1/2

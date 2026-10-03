@@ -1,0 +1,12 @@
+[Event "Stern"]
+[Date "1970.09.27"]
+[Round "?"]
+[Composer "Kluver, Hans Wilhelm"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/P7/8/8/1k6/N7/6p1/8 w - - 0 1"]
+
+1. Nc2+ $1 Kc3 (Kb5 2. Nd4+ Kb6 3. a8=Q g1=Q 4. Qc6+ Ka7 5. Nb5+ Kb8 6. Qc7+ Ka8 7. Qc8#) 2. Nd4 Kxd4 3. a8=Q g1=Q 4. Qa7+ 1-0

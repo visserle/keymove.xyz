@@ -1,0 +1,13 @@
+[Event "sp.p Chess Life & Review#0524"]
+[Source "Chess Life & Review/8 EG#02321."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Regan, Kenneth Wingate"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6R1/8/8/1p6/1Pp4p/2P1K3/P5pk/8 w - - 0 1"]
+
+1. Kf2 $1 h3 2. a4 $1 (2. Rg3 $2 g1=Q+ $1 3. Rxg1) bxa4 (Kh1 3. Rg7 $1 bxa4 (Kh2 4. Rg3 bxa4 5. b5) 4. Rg3 Kh2 5. b5 a3 6. b6 a2 7. b7 a1=Q 8. Rxg2+ Kh1 9. Rh2+) 3. b5 a3 4. b6 a2 5. b7 a1=Q 6. Rxg2+ $1 Kh1 $1 (hxg2 7. b8=Q+) 7. Rh2+ $1 Kxh2 8. b8=Q+ Kh1 9. Qb7+ Kh2 10. Qc7+ Kh1 11. Qc6+ Kh2 12. Qd6+ Kh1 13. Qd5+ Kh2 14. Qe5+ Kh1 15. Qe4+ Kh2 16. Qf4+ Kh1 17. Qf3+ Kh2 18. Qg3+ Kh1 19. Qxh3# 1-0

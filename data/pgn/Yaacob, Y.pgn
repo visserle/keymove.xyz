@@ -1,0 +1,13 @@
+[Event "Haboker (pl)"]
+[Source "= Teed=F e6h7 1885."]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Yaacob, Y"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k7/p2K4/1p6/1P6/P7/8/8 w - - 0 1"]
+
+1. Kc7 $1 a5 2. a4 Ka6 3. Kc6 bxa4 4. b5+ Ka7 5. Kc7 a3 6. b6+ Ka6 7. b7 a2 8. b8=Q a1=Q 9. Qb6# 1-0

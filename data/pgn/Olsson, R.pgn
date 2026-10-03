@@ -1,0 +1,12 @@
+[Event "source unknown#281"]
+[Date "1937.05.03"]
+[Round "?"]
+[Composer "Olsson, R"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/8/8/7p/8/2kN4/2Pp1B1P/8 w - - 0 1"]
+
+1. Be1 $1 Kxc2 2. Bxd2 Kxd2 3. Nf4 h4 4. Ng2 h3 5. Nf4 Ke3 6. Nxh3 Kf3 7. Ng1+ 1-0

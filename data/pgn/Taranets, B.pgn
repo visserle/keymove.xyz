@@ -1,0 +1,12 @@
+[Event ".c Fizkultura i Sport Committee Ukrain"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Taranets, B"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7Q/7P/8/8/P7/1K6/5p2/1kq5 w - - 0 1"]
+
+1. Qa1+ $1 Kxa1 2. h8=Q+ Kb1 3. Qh7+ Ka1 4. Qg7+ Kb1 5. Qg6+ Ka1 6. Qf6+ Kb1 7. Qf5+ Ka1 8. Qe5+ Kb1 9. Qe2 $1 Qe3+ 10. Qxe3 f1=Q 11. Qe4+ Ka1 12. Qd4+ Kb1 13. Qb2# 1-0

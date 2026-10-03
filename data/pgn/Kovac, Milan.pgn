@@ -1,0 +1,13 @@
+[Event "2.hm Pravda (Bratislava)"]
+[Source "EG#02431."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Kovac, Milan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6Nk/7p/8/4K1P1/p3p3/P7/8/8 w - - 0 1"]
+
+1. Nh6 $1 e3 2. Kf6 e2 3. Kf7 e1=Q 4. Kf8 Qf2+ 5. Nf7+ Qxf7+ 6. Kxf7 h5 7. g6 1-0

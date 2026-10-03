@@ -1,0 +1,13 @@
+[Event "Tijdschrift v.d. KNSB#223"]
+[Source "Tijdschrift v.d. KNSB/12"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Wortel, Nicolaas"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1R5K/pp6/6R1/8/8/7p/kp5p/B7 w - - 0 1"]
+
+1. Ra6+ $1 bxa6 (Kb3 2. Rxb7+ Kc4 3. Ra4+ Kc5 4. Bxb2 h1=Q 5. Ra5+ $1 (5. Rbxa7 $2 h2) Kc6 6. Rf7 Qe4 7. Rf6+ Kb7 8. Rb5+ Kc8 9. Be5 h2 10. Rc5+ Kd8 11. Rd6+ Ke8 12. Rc8+ Ke7 13. Rc7+ Ke8 14. Bxh2) 2. Rxb2+ Kxa1 3. Rxh2 a5 4. Kg7 a4 5. Kf6 a3 6. Ke5 a2 7. Kd4 Kb1 8. Kc3 $1 a1=Q+ (a1=N 9. Rxh3 a5 10. Rh2 a4 11. Rb2+ Kc1 12. Ra2 Nb3 13. Rxa4) 9. Kb3 1-0

@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Fairhurst, William Albert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/8/3p2pP/1P5p/4P2n/1k5P/1b5P/5NK1 w - - 0 1"]
+
+1. Kh1 (1. b6 $4 Bd4+ 2. Kh1 Bxb6 3. e5 g5 4. Nd2+ $10) (1. Kf2 $2 Bd4+ 2. Ke2 $10) (1. Nd2+ $4 Kb4 $10) (1. e5 $4 Nf3+ 2. Kg2 Nxe5 3. Nd2+ $17 Kb4) (1. h7 $6 g5 2. Ne3 $14 $10) (1. Ng3 $2 Nf3+ 2. Kg2 $10) (1. Ne3 $2 Nf3+ 2. Kg2 $10) g5 2. Nd2+ (2. b6 Bd4 3. Nd2+ $18) (2. h7 $2 Ng6 3. b6 $14 $10) (2. Ne3 $2 Ng6 3. b6 $10) (2. Ng3 $2 Kc4 3. b6 $10) (2. Kg1 Bd4+ 3. Kh1 Kc4) Kb4 3. b6 (3. h7 Kxb5) Bd4 4. Nf3 (4. b7 $2 Ba7 5. Nf3 Ng6 $14 $10) (4. h7 $2 Ng6 5. b7 $10) (4. e5 $4 Bxb6 5. exd6 Ng6) Bxb6 (Nxf3 5. h7 $18) 5. Nxh4 (5. e5 $4 Ng6 6. exd6 Kc5 $17) (5. h7 $4 Ng6 6. Nxg5 $17) (5. Nxg5 $4 Bd4 $17) (5. Nd2 $4 Bd4) (5. Ne1 $4 Bd4 6. Nc2+ Kc3) (5. Ng1 $4 Bxg1 6. Kxg1 Kc4) gxh4 6. e5 (6. h7 $4 Bd4 $19) (6. Kg2 $4 Bd4 $19) dxe5 7. h7 $18 (7. Kg2 $4 e4 $19) 1-0

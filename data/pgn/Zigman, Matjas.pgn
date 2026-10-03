@@ -1,0 +1,55 @@
+[Event "Mat {Yugoslavia} (pl)"]
+[Source "Mat (Yugoslavia /1-2 = Moravec=J d2b2"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Zigman, Matjas"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/8/8/8/8/1k1K3P/8 w - - 0 1"]
+
+1. Kd3 $1 (1. h4 $2 c5 2. Kd3 Kb3) Kb3 2. Kd4 Kb4 3. h4 c5+ 4. Ke3 $1 Kb3 5. h5 c4 6. h6 c3 7. h7 c2 8. Kd2 Kb2 9. h8=Q+ 1-0
+
+[Event "Schach Echo#104"]
+[Source "Schach Echo/1"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Zigman, Matjas"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1KNk4/3Np3/8/p7/1P3p2/8/8/8 w - - 0 1"]
+
+1. bxa5 $1 f3 2. Nxe7 f2 (Kxe7 3. Nb6 f2 4. Nd5+ Kd6 5. Ne3) (Kxd7 3. Nf5 f2 4. Ng3) 3. Nf6 $1 Kxe7 4. Nd5+ Kd6 5. Ne3 Ke5 6. a6 Kd4 7. Nf1 1-0
+
+[Event "Mat {Yugoslavia}"]
+[Source "Mat (Yugoslavia /3-4"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Zigman, Matjas"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/p7/3k4/P4P2/1K6/8/5n2 w - - 0 1"]
+
+1. Kb4 $1 Kc6 2. f5 Ne3 3. f6 Nd5+ 4. Ka5 Kb7 5. f7 Ne7 6. Kb4 Ng6 7. Kc5 Kc7 8. a5 Nf8 9. Kd5 Nd7 10. Ke6 Kc6 11. Ke7 Ne5 12. f8=N 1/2-1/2
+
+[Event "Mat {Yugoslavia}"]
+[Source "Mat (Yugoslavia /1-2"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Zigman, Matjas"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/1k5K/8/8/8/7P/8 w - - 0 1"]
+
+1. h4 $1 c5 2. Kg5 c4 3. Kf4 Kc5 4. h5 Kd4 5. h6 c3 6. h7 c2 7. h8=Q+ Kd3 8. Qb2 1-0

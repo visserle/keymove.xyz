@@ -1,0 +1,25 @@
+[Event "La Nouvelle République de Bordeaux"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Caminade, Christian"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/kp2B3/1R6/8/K7/P7/3n1q2/8 w - - 0 1"]
+
+1. Bc5 $1 Qxc5 (Qf5 2. Rb5+ Ka8 3. Ra5+ Kb8 4. Bd6+) 2. Rxb7+ Ka8 3. Rb8+ Ka7 4. Rb7+ Ka6 5. Rb6+ Qxb6 (Kxb6) 1/2-1/2
+
+[Event "Schach Echo#143"]
+[Date "1957.02.20"]
+[Round "?"]
+[Composer "Caminade, Christian"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1p6/1Pk5/2P1P1pp/3P4/6P1/2K5 w - - 0 1"]
+
+1. Kd2 $1 h3 2. gxh3 gxh3 3. e5 $1 Kd4 (Kb4 4. e6 h2 5. e7 h1=Q 6. e8=Q Qh6+ 7. Qe3 Qh2+ 8. Qe2 Qh6+ 9. Kc2) (h2 4. Kc3 h1=Q 5. d4#) 4. e6 h2 5. e7 h1=Q 6. e8=Q Qh6+ 7. Kc2 Qh2+ 8. Kb3 1-0

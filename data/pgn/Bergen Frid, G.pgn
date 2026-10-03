@@ -1,0 +1,12 @@
+[Event "Sovyetskaya Moldavia"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Bergen Frid, G"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/1p1p1p2/1P1p4/3P2p1/6P1/8/8/k7 w - - 0 1"]
+
+1. Kg8 $1 (1. Kh7 $2 Kb2 2. Kh6 f5 3. gxf5 (3. Kxg5 fxg4) g4 4. f6 g3 5. f7 g2 6. f8=Q g1=Q 7. Qg7+ (7. Qxd6 Qg4) Qxg7+ 8. Kxg7 Kc3 9. Kf7 Kd4 10. Ke7 Kxd5 11. Kxd7 Kc5 12. Kc7 d5) f6 (f5 2. gxf5 g4 3. f6 g3 4. f7 g2 5. f8=Q g1=Q+ 6. Qg7+ Qxg7+ 7. Kxg7 Kb2 8. Kf7) 2. Kh7 (2. Kf7 $2 f5) f5 3. gxf5 g4 4. f6 g3 5. f7 g2 6. f8=Q g1=Q 7. Qg7+ Qxg7+ 8. Kxg7 Kb2 9. Kf7 Kc3 10. Ke7 Kc4 11. Kxd7 Kxd5 12. Kc7 Kc5 13. Kxb7 1-0

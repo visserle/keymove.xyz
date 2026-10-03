@@ -1,0 +1,12 @@
+[Event "El Ajedrez Espanol"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Goiri, L"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6B1/6p1/8/8/8/p4NK1/2p1p3/7k w - - 0 1"]
+
+1. Bd5 $1 g5 2. Nd4+ Kg1 3. Nxc2 Kf1 4. Bc4 a2 5. Kf3 g4+ 6. Ke3 g3 7. Kf3 $1 g2 $1 8. Bxe2+ Kg1 9. Kg3 Kh1 10. Bf3 Kg1 11. Na1 $1 Kf1 12. Bxg2+ 1-0

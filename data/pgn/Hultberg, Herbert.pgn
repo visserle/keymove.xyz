@@ -1,0 +1,30 @@
+[Event "Tidskrift for Schack#8289"]
+[Source "Tidskrift for Schack/10 EG#00950b."]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Hultberg, Herbert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "4K3/8/8/8/3p1p2/4P3/8/4k3 w - - 0 1"]
+
+1. exf4 $1 (1. exd4 $2 f3 2. d5 f2 3. d6 f1=Q 4. d7 Qb5 5. Ke7 Qe5+ 6. Kf8 Qd6+ 7. Ke8 Qe6+ 8. Kd8 Ke2 $19) (1. e4 $2 d3 $19) d3 2. f5 (2. Ke7 Ke2 3. f5 $10) (2. Kf8 $2 d2) (2. Kd7 $2 d2) d2 3. f6 (3. Ke7 d1=R 4. f6 $10) d1=Q 4. f7 (4. Ke7 $10 Qe2+ 5. Kf8) (4. Kf7 $2 Qa1) Qh5 5. Ke7 Qe5+ 6. Kf8 Qf6 7. Kg8 Qg6+ 8. Kh8 Qxf7 1/2-1/2
+
+[Event "Tidskrift for Schack#8290"]
+[Source "Tidskrift for Schack/10 EG#00950a."]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Hultberg, Herbert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/8/8/3p1p2/4P3/4P3/4k3/8 w - - 0 1"]
+
+1. exf5 $1 (1. exd5 $2 Kxe3 2. d6 f4 3. d7 f3 4. d8=Q Ke2 $1 (f2 $2 5. Qd1 $1) 5. Qe7+ Kf1 $1) Kxe3 2. f6 d4 3. f7 d3 4. f8=Q d2 {<eg>} 5. Qf1 1-0

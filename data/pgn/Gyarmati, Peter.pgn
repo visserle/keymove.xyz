@@ -1,0 +1,40 @@
+[Event ".p Hungarian Chess Federation ty Magyar"]
+[Source "EG#05691."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Gyarmati, Peter"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/3p4/Q1p5/8/1P6/8/p5p1/6k1 w - - 0 1"]
+
+1. Qa5 $1 d5 (Kf1 {<main>} 2. Qf5+ Ke2 3. Qe5+ Kd3 4. Qa1) (Kh1 {<main>} 2. Qh5+ Kg1 3. Qh8 $1) (d6 {<main>} 2. Kf8 c5 3. bxc5 Kh1 4. Qxa2 $1 dxc5 5. Qd5 $1) 2. Qa7+ Kh2 $1 3. Qh7+ Kg3 4. Qg6+ Kh3 (Kf3 5. Qg7 Kf2 6. Qd4+) 5. Qf5+ Kg3 6. Qe5+ Kh3 7. Qe1 $1 Kh2 8. Qh4+ Kg1 9. Qh8 $1 Kf2 10. Qd4+ Kf1 11. Qa1+ 1-0
+
+[Event "4.hm Magyar Sakkélet#1574"]
+[Source "Magyar Sakkélet/5 EG#05703."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Gyarmati, Peter"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/5K2/4N2P/6p1/8/3p4/8/8 w - - 0 1"]
+
+1. Kg6 $1 d2 2. Nd8 $1 d1=Q 3. Nf7+ Kg8 4. h7+ Kf8 5. h8=Q+ Ke7 6. Qf6+ Ke8 7. Qe6+ Kf8 8. Nd6 $1 (8. Nh6 {<or>} Qc2+ 9. Nf5) Qc2+ 9. Nf5 Qc7 10. Qf6+ Ke8 11. Ng7+ Kd7 12. Qe6+ Kd8 13. Qe8# 1-0
+
+[Event "L'Italia Scacchistica#595"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Gyarmati, Peter"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4p3/4p3/4P3/3pR3/3k2K1/8 w - - 0 1"]
+
+1. Rf3 $1 Kc2 (Ke2 2. Rf2+ Ke3 3. Rf3+ Kxe4 4. Rf1 d2 5. Kf2 Kd3 6. Ra1 $1 e4 7. Ra3+ Kc2 8. Ra2+) 2. Rf2+ $1 d2 3. Kf3 Kc1 4. Rf1+ $1 d1=Q+ 5. Ke3 Kc2 (Qxf1) 6. Rxd1 Kxd1 7. Kd3 1/2-1/2

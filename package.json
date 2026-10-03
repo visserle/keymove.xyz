@@ -1,0 +1,49 @@
+{
+	"name": "keymove",
+	"version": "0.1.0",
+	"private": true,
+	"license": "AGPL-3.0-or-later",
+	"type": "module",
+	"scripts": {
+		"dev": "astro dev",
+		"build": "npm run check && npm run corpus && npm run headers && astro build",
+		"corpus": "tsx scripts/import-pgn.ts --apply",
+		"headers": "tsx scripts/make-headers.ts",
+		"check": "astro check && npm run lint",
+		"lint": "biome check",
+		"preview": "npm run build && astro preview",
+		"deploy": "npm run build && npm run db:answers:remote && npm run deploy:cloud && npm run db:answers:prune:remote",
+		"deploy:cloud": "wrangler deploy",
+		"icons": "sh scripts/make-icons.sh",
+		"check:corpus": "tsx scripts/check-corpus.ts",
+		"db:import:pgn": "tsx scripts/import-pgn.ts",
+		"db:mates": "tsx scripts/confirm-mates.ts",
+		"pgn:index": "tsx scripts/refresh-corpus-index.ts",
+		"pgn:source-comments": "tsx scripts/curate-source-comments.ts",
+		"db:init:local": "wrangler d1 execute keymove --local --file=data/schema.sql -y",
+		"db:init:remote": "wrangler d1 execute keymove --remote --file=data/schema.sql -y",
+		"db:answers:local": "wrangler d1 execute keymove --local --file=data/answers.sql -y",
+		"db:answers:remote": "wrangler d1 execute keymove --remote --file=data/answers.sql -y",
+		"db:answers:prune:local": "tsx scripts/prune-answers.ts --local",
+		"db:answers:prune:remote": "tsx scripts/prune-answers.ts --remote",
+		"db:answers:check:local": "tsx scripts/prune-answers.ts --local --check",
+		"db:answers:check:remote": "tsx scripts/prune-answers.ts --remote --check"
+	},
+	"dependencies": {
+		"@astrojs/svelte": "^9.0.1",
+		"@lichess-org/chessground": "10.2.0",
+		"astro": "^7.3.3",
+		"better-auth": "^1.7.5",
+		"chessops": "^0.15.1",
+		"svelte": "^5.57.1"
+	},
+	"devDependencies": {
+		"@astrojs/check": "^0.9.10",
+		"@astrojs/cloudflare": "^14.3.2",
+		"@biomejs/biome": "2.5.14",
+		"@types/node": "^26.6.2",
+		"tsx": "^4.23.15",
+		"typescript": "^5.9.0",
+		"wrangler": "^4.135.0"
+	}
+}

@@ -1,0 +1,40 @@
+[Event "Clubblad Twentsche Bank"]
+[Date "1939.05.31"]
+[Round "?"]
+[Composer "Spinhoven, Frederik Antonius"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/4Kppp/4p3/P7/6N1/1p2B3/1p6/8 w - - 0 1"]
+
+1. Nh6 $1 b1=Q (gxh6 2. Kf8 e5 3. Bxh6 b1=Q 4. Bg7#) 2. Kf8 Qg6 3. Nxf7+ Qxf7+ 4. Kxf7 b2 5. Bd4 h5 {<eg>} 6. Bxb2 1-0
+
+[Event "The Problemist#0149"]
+[Source "The Problemist/11-12"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Spinhoven, Frederik Antonius"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k4/3P4/4Pp2/3P2P1/4nK2/8/6b1/8 w - - 0 1"]
+
+1. g6 $1 (1. gxf6 $2 Nxf6 2. d6 Bh3 3. Ke5 Nh5 4. Kd5 Nf4+ 5. Ke5 Nxe6) (1. Kf5 $2 fxg5 2. Ke5 Nc3 3. d6 Nb5) Ng3 (f5 2. Ke5) 2. g7 (2. Kxg3 $2 Bxd5 3. Kf4 Bxe6 4. g7 Kxd7 5. g8=Q Bxg8 6. Kf5 Ke7) (2. d6 $2 Nh5+ 3. Kf5 Bh3+) Nh5+ 3. Kf5 Nxg7+ (Bh3+ 4. Kg6 Nxg7 5. Kxg7 Bg4 6. Kf7 Bh5+ 7. Kxf6 Bf3 8. Ke5 Ke7) 4. Kxf6 Nh5+ 5. Kf7 (5. Kg5 $2 Ng3 6. Kf4 Ne4 7. Ke5 Nc3 8. d6 Nb5 9. Kf6 Nxd6) Bxd5 6. Kf8 Nf6 (Bxe6) 7. e7+ Kxd7 8. e8=Q+ Nxe8 1/2-1/2
+
+[Event "Schakend Nederland"]
+[Source "Schakend Nederland/3"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Spinhoven, Frederik Antonius"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k2n3/1P3rP1/p2p4/1p2p1P1/1K4p1/8/b1P5/7R w - - 0 1"]
+
+1. g8=Q $1 Rf4+ 2. c4 Rxc4+ 3. Ka5 Ra4+ 4. Kb6 Bxg8 5. Rh8 Bf7 6. g6 Bxg6 7. Rxe8+ Bxe8 1/2-1/2

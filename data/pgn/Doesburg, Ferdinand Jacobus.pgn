@@ -1,0 +1,41 @@
+[Event "Tijdschrift v.d. KNSB#370"]
+[Source "Tijdschrift v.d. KNSB/2"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Doesburg, Ferdinand Jacobus"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2N4k/6pP/8/5PK1/8/3p4/8/5b2 w - - 0 1"]
+
+1. f6 $1 gxf6+ 2. Kh6 $1 d2 3. Nd6 Bc4 4. Nf7+ Bxf7 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#367"]
+[Source "Tijdschrift v.d. KNSB/2"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Doesburg, Ferdinand Jacobus"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/1N5P/3P4/6K1/8/3p3b/8/8 w - - 0 1"]
+
+1. Kh6 $1 d2 2. Nd8 Be6 3. d7 d1=Q 4. Nf7+ Bxf7 5. d8=Q+ Qxd8 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#467"]
+[Source "Tijdschrift v.d. KNSB/3"]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Doesburg, Ferdinand Jacobus"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1R6/7P/7k/4P3/b7/p5K1/8 w - - 0 1"]
+
+1. h7 $1 a1=Q 2. e5 $1 Qxe5 3. Rb5 $1 Qxb5 4. h8=Q+ 1/2-1/2

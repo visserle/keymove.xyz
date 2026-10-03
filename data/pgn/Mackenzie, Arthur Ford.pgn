@@ -1,0 +1,13 @@
+[Event "British Chess Magazine (c)"]
+[Source "(c): Chess/733-34 1975."]
+[Date "1900.??.??"]
+[Round "?"]
+[Composer "Mackenzie, Arthur Ford"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7P/B7/4K3/2pB4/p2k4/8 w - - 0 1"]
+
+1. Bxc3+ $1 Kxc3 2. h7 a1=Q 3. h8=B+ $1 (3. h8=Q+ $2 Kd2 4. Qxa1) 1-0

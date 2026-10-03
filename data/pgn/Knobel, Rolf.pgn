@@ -1,0 +1,13 @@
+[Event "Schweizerische Schachzeitung#089"]
+[Source "Schweizerische Schachzeitung/8 EG#08199."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Knobel, Rolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/3N4/q7/kp5Q/8/2K5 w - - 0 1"]
+
+1. Qc3 $1 Qc4 2. Qxc4 b2+ 3. Kd2 (3. Kb1 $2) b1=Q 4. Qc5+ Kb3 5. Qb4+ (5. Qb5+ {<or>}) (5. Qb6+ {<or>}) Ka2 6. Nc3+ 1-0

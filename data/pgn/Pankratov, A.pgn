@@ -1,0 +1,14 @@
+[Event "Kajev MT"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[Composer "Pankratov, A"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/5B2/8/1K6/8/6n1/4p1R1/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. Rg1 Nf1 2. Rg8+ Ke7 3. Bh5 (3. Bg6 $143 Kf6 4. Re8 Kxg6 $11) Ng3 4. Re8+ Kd7 5. Bg6 (5. Bf7 $143 Nf5 $11) Nf5 6. Re5 Kd6 7. Re4 Ng3 8. Re8 $18 (8. Re3 $143 Kd5 9. Re8 Kd4 10. Kb4 Ne4 $1 {Nowotny} 11. Rxe4+ Kd3 12. Re8+ Kd2 $11) 1-0

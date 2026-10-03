@@ -1,0 +1,12 @@
+[Event "Szachy#680"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Chepitski, P"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/P3k3/5p1K/7P/8/8/6b1 w - - 0 1"]
+
+1. Kg6 $1 f4 2. Kg5 $1 f3 (Ke5 3. h5 f3 4. h6) 3. Kg4 f2 4. a7 f1=Q 5. a8=Q 1/2-1/2

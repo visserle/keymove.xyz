@@ -1,0 +1,13 @@
+[Event "British Chess Magazine#0254"]
+[Source "British Chess Magazine/4"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Driman, S"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k2K1/2p5/2P5/4b1n1/8/4R3/p7/8 w - - 0 1"]
+
+1. Rxe5 $1 a1=Q 2. Re8+ Kxe8 1/2-1/2

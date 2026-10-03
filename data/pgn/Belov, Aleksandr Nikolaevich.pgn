@@ -1,0 +1,12 @@
+[Event "Gorkovskaja Pravda"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Belov, Aleksandr Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7N/8/8/6p1/8/5p1p/7P/5k1K w - - 0 1"]
+
+1. Nf7 $1 (1. Ng6 $2 Ke2 $1 (f2 $2 2. Nf4 $1) 2. Ne5 f2 3. Nf3 g4 $1 4. Nd2 g3 5. hxg3 Kxd2) Ke2 2. Nxg5 f2 3. Nf3 $1 f1=Q+ (Kd1 4. Nd2 Kxd2) 4. Ng1+ Ke1 1/2-1/2

@@ -1,0 +1,12 @@
+[Event "source unknown"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Ganierchin, W"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/3Kb3/1kP1P3/8/8/8/8 w - - 0 1"]
+
+1. c6 $1 dxc6 2. Kxe6 c5 3. Kd6 c4 4. e6 c3 5. e7 c2 6. e8=Q+ 1-0

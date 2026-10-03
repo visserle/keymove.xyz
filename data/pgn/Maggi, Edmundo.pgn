@@ -1,0 +1,12 @@
+[Event "La Prensa"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Maggi, Edmundo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/2p2Pp1/2Pp2P1/3P4/8/8/K3Pr2/8 w - - 0 1"]
+
+1. Kb3 $1 (1. Ka3 $2 Rf1 2. Kb4 Rb1+ 3. Ka5 Ra1+ 4. Kb5 Ra5+ 5. Kc4 Rc5+ 6. Kd3 Rc3+ $1 7. Ke4 Re3+ 8. Kf5 Re5+ 9. Kf4 Re4+ 10. Kf3 Re3+) Rf3+ (Rf4 2. e4) 2. Kc4 Rc3+ 3. Kb5 Rb3+ 4. Ka6 Rb8 $1 (Ra3+ 5. Kb7 Ra8 (Ra7+ 6. Kc8 Ra8+ 7. Kd7 Rd8+ 8. Ke7 Rf8 9. e4 Ra8 10. f8=Q+ Rxf8 11. e5) 6. f8=Q+ $1 Rxf8 7. Kxc7) 5. f8=Q+ $1 Rxf8 6. Kb7 Rf6 7. Kxc7 Rxg6 8. e4 1-0

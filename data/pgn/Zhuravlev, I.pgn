@@ -1,0 +1,13 @@
+[Event "Shakhmaty (Riga)"]
+[Source "Shakhmaty (Riga)/5"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Zhuravlev, I"]
+[White "Zhuravlev, I"]
+[Black " Zhuravlev, S."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6p1/6P1/5K2/2P4k/8/8/2n5 w - - 0 1"]
+
+1. Ke6 $1 (1. c5 $2 Nb3 (Nd3 2. c6 Nb4 3. c7 Nd5 4. c8=N) 2. Ke6 Nxc5+ 3. Kf7 Ne6 $1 4. Kxe6 Kg5 5. Kf7 Kh6) Kg5 2. c5 $1 (2. Kf7 $2 Kh6 3. c5 Nd3 $1 (Nb3 $2 4. c6 Nd4 5. c7 Nb5 6. c8=N) 4. c6 Ne5+) Nb3 3. Kf7 (3. c6 {<or>} Nd4+ 4. Kf7) Kh6 4. c6 Nd4 5. c7 Nb5 6. c8=N $1 1/2-1/2

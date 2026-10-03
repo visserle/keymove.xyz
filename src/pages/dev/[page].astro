@@ -1,0 +1,83 @@
+---
+// A dev-only playground for the front-page hero. `astro build` emits nothing
+// for it: `getStaticPaths` returns no path when `import.meta.env.PROD` is set,
+// so the route exists on `astro dev` only. Open /dev/hero while running
+// `npm run dev`.
+export const prerender = true;
+
+import Base from "../../layouts/Base.astro";
+import Diagram from "../../components/Diagram.svelte";
+import { getDailyComposition } from "../../lib/build-corpus";
+import { taskFor } from "../../lib/display";
+
+export function getStaticPaths() {
+	// No page in a production build; this is a scratch route.
+	if (import.meta.env.PROD) return [];
+	return [{ params: { page: "hero" } }];
+}
+
+const featured = getDailyComposition();
+
+---
+
+<Base title="Dev — definition line">
+  <p class="dev-note">Dev playground — not part of the production build</p>
+  <p class="caption">Compare the italic and roman treatments of the definition.</p>
+
+  <div class="hero">
+    <div class="hero__board">
+      <Diagram fen={featured.fen} client:load />
+    </div>
+    <div class="hero__body">
+      <p class="hero__eyebrow">Today's composition</p>
+      <h1 class="hero__task">{taskFor(featured)}</h1>
+      <p class="hero__credit">
+        {featured.composer ? <b>{featured.composer}</b> : <i>Anonymous</i>}
+        {featured.year ? ` · ${featured.year}` : ''}
+      </p>
+      <div class="hero__actions">
+        <a class="btn btn--solid" href="#">Solve this composition</a>
+        <a class="btn" href="#">Browse the library</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="line">
+    <p class="line__label">B — italic</p>
+    <p class="intro">The key move is the first move of a composition’s solution.</p>
+  </div>
+
+  <div class="line">
+    <p class="line__label">B — roman</p>
+    <p class="intro intro--roman">The key move is the first move of a composition’s solution.</p>
+  </div>
+</Base>
+
+<style is:global>
+  .dev-note {
+    margin: 0 0 6px;
+    font-size: var(--font-size-sm);
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--c-font-dim);
+  }
+
+  .line {
+    margin-top: 30px;
+  }
+
+  .line__label {
+    margin: 0 0 4px;
+    padding-top: 10px;
+    border-top: 1px solid var(--c-border);
+    font-size: var(--font-size-sm);
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--c-font-dim);
+  }
+
+  .intro--roman {
+    font-style: normal;
+  }
+</style>

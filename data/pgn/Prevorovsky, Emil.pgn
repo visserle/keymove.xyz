@@ -1,0 +1,82 @@
+[Event "Národní Listy (c)"]
+[Source "(c): Krug=P Estudios Artisticos de Ajedrez - XVI-7 2015."]
+[Date "1940.04.14"]
+[Round "?"]
+[Composer "Prevorovsky, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/3p1k2/1P1P4/3PP1n1/b2n4/8/8/8 w - - 0 1"]
+
+1. Kc8 $1 (1. b7 $2 Bc6 $1) Bb5 2. b7 Ba6 3. Kxd7 Bxb7 4. e6+ Ngxe6 (Kf6 {<main>} 5. e7 Bxd5 6. e8=Q Bc6+ 7. Kc8 $1 Bxe8 8. d7 $1) 5. dxe6+ Nxe6 1/2-1/2
+
+[Event "Národní Listy"]
+[Date "1940.10.20"]
+[Round "?"]
+[Composer "Prevorovsky, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2p5/1p1k4/P7/2B5/4K3/8 w - - 0 1"]
+
+1. a5 $1 c5 (Kd6 {<main>} 2. Be5+ $1 Kd7 (Kc5 {<main>} 3. Bc7 $1) 3. a6) 2. a6 Kc6 3. Ba5 $1 1-0
+
+[Event "Národní Listy (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - IX-7 2012."]
+[Date "1940.12.15"]
+[Round "?"]
+[Composer "Prevorovsky, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/8/8/7p/3Pk2b/8/1P6/7N w - - 0 1"]
+
+1. b4 $1 Kxd4 (Kd5 2. b5 Bd8 3. Kb7 h4 4. Nf2) 2. b5 Kc5 3. b6 Kxb6 4. Ng3 Bxg3 1/2-1/2
+
+[Event "Louma ty#12 Sach (c)"]
+[Source "Sach/7 (c): Sach=9-10 9-10/1941."]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Prevorovsky, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5n2/4k3/R7/4K3/8/1pP5/7B w - - 0 1"]
+
+1. Rb5 $1 (1. Kd4 $2 b1=Q 2. Bd5+ Kf6 $1) Nd6+ 2. Kd3 Nxb5 3. Bd5+ $1 Kxd5 4. c4+ Kc5 5. Kc2 1/2-1/2
+
+[Event "Národní Listy"]
+[Source "Národní Listy/2"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Prevorovsky, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2p5/2P4p/3P3k/7P/n6K/8 w - - 0 1"]
+
+1. d5 $1 Nc3 2. d6 Ne4 3. d7 Ng5 4. d8=R $1 1-0
+
+[Event "1.p Sach#096"]
+[Source "Sach/11"]
+[Date "1942.??.??"]
+[Round "?"]
+[Composer "Prevorovsky, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K2B1k/6pp/6B1/8/8/1pR5/p7/8 w - - 0 1"]
+
+1. Rc1 $1 (1. Rc7 $2 a1=Q) b2 (hxg6 2. Ba3) 2. Rc7 $1 b1=Q (a1=Q {<main>} 3. Bxg7+ Kg8 4. Bxh7+ $1 Kxh7 5. Bxb2+ Kg8 6. Bxa1) 3. Bxg7+ Kg8 4. Bf7+ $1 Kxg7 5. Bxa2+ Kh6 6. Bxb1 1-0

@@ -1,0 +1,13 @@
+[Event "Mat {Yugoslavia}"]
+[Source "Mat (Yugoslavia /5-6"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Zivojinovic, Aleksandar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p2K2/3B1p2/2P1p1kp/4P2p/1p2P2P/6P1/8 w - - 0 1"]
+
+1. Kg7 $1 cxd6 2. cxd6 b2 3. d7 b1=Q 4. d8=N Qa2 5. Nf7+ Qxf7+ 6. Kxf7 f5 7. Ke6 f4 8. exf4+ Kxf4 9. Kd5 Kg3 10. Kxe5 Kxg2 11. Kf4 Kxh3 12. Kf3 Kh2 13. Kf2 h3 14. e5 1-0

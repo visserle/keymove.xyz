@@ -1,0 +1,12 @@
+[Event "source unknown"]
+[Date "1914.??.??"]
+[Round "?"]
+[Composer "Dusold, Johannes"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7p/4p1pP/4P1R1/8/3p2K1/k7 w - - 0 1"]
+
+1. Kh3 $1 d1=Q 2. Rg1 g4+ (Qxg1) 3. Kh4 Qxg1 1/2-1/2

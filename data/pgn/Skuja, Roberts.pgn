@@ -1,0 +1,86 @@
+[Event "Padomju Jaunatne"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Skuja, Roberts"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "6k1/8/3pPp2/8/5K2/8/8/8 w - - 0 1"]
+
+1. Kf5 $1 (1. Ke4 $2 Kf8 2. e7+ Kxe7 $19) (1. e7 $2 Kf7 2. e8=Q+ Kxe8 $19) (1. Kg4 $2 Kf8 2. e7+ Kxe7 $19) (1. Ke3 $2 Kf8 2. e7+ Kxe7) (1. Kg3 Kf8 2. e7+ Kxe7) (1. Kf3 Kf8 2. e7+ Kxe7) Kg7 (d5 2. Kxf6) 2. e7 $1 (2. Ke4 $2 Kf8 3. e7+ Kxe7 $19) (2. Kf4 $2 Kf8 3. e7+ Kxe7) (2. Kg4 $2 Kf8 3. e7+ Kxe7 $19) Kf7 3. e8=Q+ $1 (3. e8=R $10) (3. e8=B+ Kxe8 4. Ke6 $10) (3. e8=N Kxe8 4. Ke6 $10) Kxe8 4. Ke6 $1 (4. Kxf6 $2 Kd7 $19 5. Kf5 Kc6 6. Ke4 Kc5) (4. Ke4 Ke7) Kd8 (Kf8 {<main>} 5. Kxf6 $10) 5. Kxd6 $10 (5. Kxf6 $2 Kd7 $19) 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Skuja, Roberts"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#13"]
+[Theme "Attacking the king"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "6kr/2p4p/P1P2KbB/8/8/8/8/8 w - - 0 1"]
+
+1. a7 (1. Bf8 $4 Be4 $19) (1. Bg7 $4 Be4) (1. Ke7 $4 Be4) (1. Ke6 Be4) (1. Be3 Be4) (1. Bg5 Be4) (1. Bf4 Be4 2. Bxc7 h6) (1. Bc1 Be4) Be8 $1 2. a8=N (2. a8=B $2 Bxc6 3. Bxc6) (2. a8=Q $2) (2. a8=R $2) (2. Bg7 $4 Bxc6 3. a8=Q+ Bxa8 4. Bxh8 $2 (4. Bh6 $5 c5) Kxh8) (2. Bf4 $4 Bxc6 3. a8=R+ Bxa8 4. Bxc7 h5) (2. Bc1 $4 Bxc6 3. a8=R+ Bxa8) Bxc6 3. Nxc7 (3. Nb6 cxb6) Be4 4. Nb5 Bc6 5. Nd6 (5. Nd4 Be4 6. Nb5 $18) (5. Nc7 Bb7 6. Ne8 $18) (5. Nc3 Bd5 6. Nb5 $18) (5. Na3 Bb5 6. Nc2 $18) (5. Na7 Bb7 6. Nb5 $18) (5. Ke7 Bxb5 6. Ke6) (5. Bg7 h6 6. Nd6) Bd7 $1 6. Ke7 (6. Ne4 Bf5 7. Nd6 $18) (6. Nc4 Bc6 7. Nd6 $18) (6. Nb7 Be6 7. Nd6 $18) (6. Ne8 Bxe8 7. Ke6) (6. Nb5 Bxb5 7. Ke6) (6. Nc8 Bxc8 7. Ke7) (6. Bf4 h5 7. Nf7) Bc6 $1 7. Ke6 (7. Kf6 Bd7 8. Ke7 $18) (7. Nc4 Bd5 8. Nd6 $18) (7. Nf5 Be4 8. Nd6 $18) (7. Nc8 Bb7 8. Nd6 $18) (7. Bg5 h6) (7. Nb5 Bxb5 8. Ke6) (7. Nb7 Bxb7 8. Ke6) (7. Bg7 Kxg7 8. Nf5+ Kg6) Bd7+ 8. Kf6 (8. Ke7 Bc6 9. Ke6 $18) (8. Kxd7 $4) (8. Ke5 Be6 9. Kf6 $18) (8. Kd5 Be6+ 9. Ke5) Bf5 9. Ke7 Bg6 10. Nc8 $1 Bf5 11. Nb6 Be6 12. Kf6 $1 Bf5 13. Nd5 (13. Kxf5 $4 Kf7 14. Nd7) (13. Ke7 Be6 14. Kf6) (13. Nd7 $4 Bxd7 14. Ke7) (13. Nc4 Bg4 14. Nb6) (13. Na4 Bc8 14. Nb6) (13. Kg5 Kf7 14. Kxf5) (13. Na8 Bc8 14. Nc7) (13. Nc8 Bxc8 14. Ke7) (13. Bg7 h6 14. Nc8 Bxc8 15. Bxh8 Kxh8 16. Kg6) Bd3 14. Ne7# 1-0
+
+[Event "Latvis#171"]
+[Date "1928.08.10"]
+[Round "?"]
+[Composer "Skuja, Roberts"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5R2/8/2N5/1p6/6r1/8/8/k1K5 w - - 0 1"]
+
+1. Ra8+ $1 Ra4 2. Rxa4+ bxa4 3. Nb4 a3 4. Nc2+ Ka2 5. Nd4 Ka1 6. Kc2 Ka2 7. Ne2 Ka1 8. Nc1 a2 9. Nb3# 1-0
+
+[Event "Riga Central Chess & Draughts Club"]
+[Source "EG#11569."]
+[Date "1948.10.15"]
+[Round "?"]
+[Composer "Skuja, Roberts"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6R1/6K1/8/3b2B1/3k4/8/6p1/8 w - - 0 1"]
+
+1. Kh8 $1 Bxg8 2. Bd8 Kc5 3. Bc7 g1=Q 4. Bb6+ Kxb6 1/2-1/2
+
+[Event "5.p All Union Team champ USSR ty (tt) ("]
+[Source "Shakhmaty v SSSR/6 1950 (c): Garcia=M Estudios Artisticos de Ajedrez - X-31 2012."]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Skuja, Roberts"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K5R/2p5/1Pkq4/p7/P7/8/8/8 w - - 0 1"]
+
+1. b7 $1 Kb6 2. Ka8 Ka6 3. Rg8 $1 c5 (Qc6 {<main>} 4. Rg6 Qxg6 5. b8=N+ Kb6 6. Nd7+ Ka6 7. Nb8+ Kb6 8. Nd7+ Kc6 9. Ne5+ Kc5 10. Nxg6) 4. Rg7 $1 Qc6 5. Rf7 $1 c4 6. Rf6 $1 Qxf6 7. b8=N+ Kb6 8. Nd7+ Kc6 9. Nxf6 1/2-1/2
+
+[Event "Schach#08089"]
+[Source "Schach/10"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Skuja, Roberts"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6K1/3P4/7P/3k4/8/2r3b1/8 w - - 0 1"]
+
+1. h6 $1 (1. Kf6 $2 Rf2+ $1 2. Ke7 (2. Kg7 Ke5 3. h6 Be4 4. d7 Rd2) Bc6) Be4 2. h7 Bxh7 (Rg2+ 3. Kf8 $1 (3. Kf7 $2 Rh2 4. d7 Rxh7+ 5. Ke6 Bf5+) (3. Kf6 $2 Rg6+ 4. Ke7 Rg7+ 5. Ke6 Rxh7) Bxh7 4. d7 Rg8+ 5. Ke7 Rg7+ 6. Kd6) 3. d7 Rc7 4. Kh8 $1 Rxd7 1/2-1/2

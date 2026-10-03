@@ -1,0 +1,176 @@
+[Event "Deutsches Wochenschach#0092 (v)"]
+[Source "(v): 1895."]
+[Date "1890.07.13"]
+[Round "?"]
+[Composer "Lasker, Emanuel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/2P4R/k7/8/8/8/2r4p/8 w - - 0 1"]
+
+1. Rh6+ $1 Ka5 2. Kb7 Rb2+ 3. Ka7 Rc2 4. Rh5+ Ka4 5. Kb6 Rb2+ 6. Ka6 Rc2 7. Rh4+ Ka3 8. Kb6 Rb2+ 9. Ka5 Rc2 10. Rh3+ Ka2 11. Rxh2 Rxh2 12. c8=Q 1-0
+
+[Event "Deutsches Wochenschach#0092 (v)"]
+[Source "(v): Philadelphia Times 13-11-1892."]
+[Date "1890.07.13"]
+[Round "?"]
+[Composer "Lasker, Emanuel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1R3P1K/8/7k/8/8/1p3r2/8 w - - 0 1"]
+
+1. Rb5+ $1 Kh4 2. Kg6 Rg2+ 3. Kh6 Rf2 4. Rb4+ Kh3 5. Kg6 Rg2+ 6. Kh5 Rf2 7. Rb3+ Kh2 8. Rxb2 Rxb2 9. f8=Q 1-0
+
+[Event "Deutsches Wochenschach#0092 (v)"]
+[Source "(v): Lasker=Em Chess by Milan 1895."]
+[Date "1890.07.13"]
+[Round "?"]
+[Composer "Lasker, Emanuel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/2P2R2/k7/8/8/8/2r2p2/8 w - - 0 1"]
+
+1. Kb8 $1 Rb2+ 2. Ka8 Rc2 3. Rf6+ $1 Ka5 $1 4. Kb8 (4. Kb7 {<or>}) Rb2+ 5. Ka7 $1 Rc2 6. Rf5+ Ka4 7. Kb7 (7. Kb6 { <or>}) Rb2+ 8. Ka6 $1 Rc2 9. Rf4+ Ka3 10. Kb6 Rb2+ 11. Ka5 $1 Rc2 12. Rf3+ Kb2 13. Rxf2 $1 (13. Kb6 $2 Kb1 $1 14. Rxf2 Rxf2 15. c8=Q Rb2+) Rxf2 14. c8=Q 1-0
+
+[Event "Niva (cr)"]
+[Source "Niva/4"]
+[Date "1891.??.??"]
+[Round "?"]
+[Composer "Lasker, Emanuel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/3P4/r4K2/4N3/8/8/8/8 w - - 0 1"]
+
+1. Nc6 $1 Rxc6+ (Ra8 2. Ne7+ Kf8 3. Nc8) 2. Ke5 Rc5+ 3. Ke4 Rc4+ 4. Ke3 Rc3+ 5. Kd2 1-0
+
+[Event "Dresdner Schachblätter (c)"]
+[Source "(c): Benko=P Inside Chess 1990."]
+[Date "1894.??.??"]
+[Round "?"]
+[Composer "Lasker, Emanuel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3N4/n1krn3/8/1R6/N3P3/3r4/8/4K3 w - - 0 1"]
+
+1. Rb7+ $1 Kxd8 2. Rxd7+ Rxd7 3. Nc5 Nac6 4. Nxd7 Kxd7 5. e5 $1 Nd4 6. e6+ $1 1/2-1/2
+
+[Event "Sankt-Peterburg Vedomosti (v)"]
+[Date "1896.04.19"]
+[Round "?"]
+[Composer "Lasker, Emanuel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k1r4/pP2q3/8/Q7/8/6bP/6P1/2R4K w - - 0 1"]
+
+1. Rc8+ $1 Rxc8 2. Qxa7+ Kxa7 3. bxc8=N+ 1-0
+
+[Event "Sankt-Peterburg Vedomosti"]
+[Date "1896.04.19"]
+[Round "?"]
+[Composer "Lasker, Emanuel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k1r4/pP2q3/1Q6/8/6p1/7p/7P/2R4K w - - 0 1"]
+
+1. Rc8+ $1 Rxc8 2. Qxa7+ Kxa7 3. bxc8=N+ 1-0
+
+[Event "Sankt-Peterburg Vedomosti (v)"]
+[Date "1896.04.19"]
+[Round "?"]
+[Composer "Lasker, Emanuel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k2r3/1P2q3/1Q6/8/7p/6pP/6Pb/2R4K w - - 0 1"]
+
+1. Rc8+ $1 Rxc8 2. Qa7+ $1 Kxa7 3. bxc8=N+ $1 1-0
+
+[Event "Sankt-Peterburg Vedomosti (v)"]
+[Date "1896.04.19"]
+[Round "?"]
+[Composer "Lasker, Emanuel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k5r/1P2q3/1Q6/7p/6p1/6Pp/2R4P/7K w - - 0 1"]
+
+1. Rc8+ $1 Rxc8 2. Qa7+ $1 Kxa7 3. bxc8=N+ Kb7 4. Nxe7 1-0
+
+[Event "Manchester Evening News (m)"]
+[Source "(m): Reichhelm=G Chicago Tribune 26-5-1901."]
+[Date "1901.04.10"]
+[Round "?"]
+[Composer "Lasker, Emanuel"]
+[Composer2 "Reichhelm, G"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k7/3p4/p2P1p2/P2P1P2/8/8/K7 w - - 0 1"]
+
+1. Kb1 $1 (1. Kb2 $2 Ka8 $1) Kb7 (Kb6 2. Kc2 $1) 2. Kc1 $1 Kc8 3. Kd2 $1 Kb7 4. Kc3 $1 Kc7 5. Kd3 $1 Kb7 6. Ke3 $1 Kc7 7. Kf3 Kd7 8. Kg3 Ke7 9. Kh4 Kf6 10. Kh5 1-0
+
+[Event "Manchester Evening News (m)"]
+[Source "(m): Literary Digest 1901."]
+[Date "1901.04.10"]
+[Round "?"]
+[Composer "Lasker, Emanuel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/8/3p4/p2P1p2/P2P1P2/K7/8/8 w - - 0 1"]
+
+1. Kb2 $1 Ka7 (Kb8 {<main>} 2. Kc2 Kc8 3. Kd2 Kd8 4. Kc3 Kc7 5. Kd3 Kb7 (Kc8 6. Kc4) 6. Ke3 (6. Ke2 {<or>}) Kc7 7. Kf3 (7. Kf2 {<or>}) Kd7 8. Kg3 Ke7 9. Kh4 Kf6 10. Kh5) 2. Kb3 Kb7 (Ka6 3. Kc2) 3. Kc3 Kc7 4. Kd3 Kd7 (Kb6 5. Ke3) 5. Kc4 1-0
+
+[Event "Manchester Evening News"]
+[Date "1901.04.10"]
+[Round "?"]
+[Composer "Lasker, Emanuel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/8/3p1p2/p2P1P2/P2P4/K7/8/8 w - - 0 1"]
+
+1. Kb2 $1 (1. Kb3 $2 Ka7) Ka7 (Kb8 2. Kc2 Kc8 3. Kd2 Kd8 4. Kc3 Kc7 5. Kd3) (Kb7 2. Kc3 Kc7 3. Kd3) 2. Kb3 Ka6 3. Kc2 Kb6 4. Kd2 Kc7 5. Kd3 1-0
+
+[Event "source unknown"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Lasker, Emanuel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3p4/1Pk5/2P5/8/2K5/8 w - - 0 1"]
+
+1. Kc3 $1 Kb6 (d5 2. cxd5 Kxd5 3. Kb4 Kd6 4. Ka5 Kc7 5. Ka6 Kb8 6. Kb6) 2. Kd4 Kc7 (Kb7 3. Kd5 Kc7 4. b6+ Kxb6 5. Kxd6) 3. Kd5 Kd7 4. b6 1-0

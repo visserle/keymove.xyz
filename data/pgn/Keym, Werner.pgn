@@ -1,0 +1,53 @@
+[Event "Allgemeine Zeitung (Mainz)"]
+[Date "1959.02.22"]
+[Round "?"]
+[Composer "Keym, Werner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k1K/5r1P/5p2/8/8/8/5P2/5R2 w - - 0 1"]
+
+1. Rg1 $1 (1. Ra1 $2 Rb7 2. Ra8+ Kf7 3. Rg8 Rb1) f5 $1 2. Rg8+ Ke7 3. Rg6 $1 (3. f4 $2 Kf6 $1 4. Ra8 $1 (4. Rg1 Rf8+ $1) Rb7 5. Rf8+ (5. Kg8 Rg7+ 6. Kf8 Rf7+ 7. Ke8 Rxh7 8. Ra6+ Kg7 9. Ra7+ Kg6 10. Rxh7 Kxh7 11. Kf7 Kh8 $1 12. Kf6 Kg8 13. Kxf5 Kf7) Kg6 $1 (Rf7 $2 6. Kg8 $1)) Kf8 (f4 4. Kg8) 4. f4 $1 Re7 5. Rg8+ Kf7 6. Rg7+ Kf8 7. Rxe7 Kxe7 8. Kg7 1-0
+
+[Event "Allgemeine Zeitung (Mainz) (m)"]
+[Source "(m): Keym=W Eigenartige Schachprobleme#045 2010."]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Keym, Werner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/1Pk2N2/1r6/R3K3 w Q - 0 1"]
+
+1. Nd4 $1 Kxd4 (Rh2 2. Ra4) 2. O-O-O+ Kc3 3. Rd3+ $1 Kxd3 4. Kxb2 Kd4 5. Ka3 Kc5 6. Ka4 Kb6 7. Kb4 1-0
+
+[Event "Allgemeine Zeitung (Mainz)"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Keym, Werner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2b1B3/8/3P4/8/8/8/prk5/K7 w - - 0 1"]
+
+1. Ba4+ $1 (1. d7 $2 Kb3 $1 2. Bg6 Bxd7 3. Bc2+ Ka3) Kc3 (Kc1 2. d7 Bxd7 3. Bxd7) 2. d7 Bxd7 3. Bxd7 Kb3 (Re2 4. Bg4 $1 Rd2 5. Be6) 4. Ba4+ $1 Ka3 5. Bc2 $1 Rb8 (Rxc2) 6. Bb3 $1 Rxb3 (Kxb3) 1/2-1/2
+
+[Event ".c Schach Echo#116"]
+[Source "Schach Echo/5 EG#02108."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Keym, Werner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/6B1/8/6k1/5rBp/7K w - - 0 1"]
+
+1. Be7 $1 (1. Bf4+ $2 Kxf4 2. Kxh2 Kg4) (1. Bd8 $2 Rc2 2. Bg5 Re2) (1. Be3 $2 Rxg2) Rd2 (Rxg2 2. Bh4+ Kf3 3. Bf2) 2. Bf3 Kh3 (Kxf3 3. Bb4) 3. Bc5 (3. Bg2+ $2 Rxg2) (3. Bg4+ $2 Kxg4) Rc2 4. Bg2+ (4. Ba3 $2 Ra2) (4. Be3 $2 Rb2 5. Be4 (5. Bg2+ Kg3) Re2) Rxg2 (Kg3 5. Bd6+) 5. Bf2 Rg8 (Rxf2) 6. Bg3 Kxg3 (Rxg3) 1/2-1/2

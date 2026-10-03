@@ -1,0 +1,12 @@
+[Event "Chess Life & Review"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Diesen, Carl F"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/pp5k/4P1p1/P5K1/1P6/8 w - - 0 1"]
+
+1. a4 $1 b4 (bxa4 2. e5 Kg5 3. e6 Kf6 4. Kxg4 Kxe6 5. Kf4 Kd5 6. Ke3 Kc4 7. Kd2 Kb3 8. Kc1 Ka2 9. Kc2) 2. Kf2 $1 Kh4 3. Kg2 Kg5 4. Kg3 b3 5. e5 Kf5 6. e6 Kxe6 7. Kxg4 Kd5 8. Kf3 Kc4 9. Ke4 Kb4 10. Kd4 Kxa4 11. Kc4 1/2-1/2

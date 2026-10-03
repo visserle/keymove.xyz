@@ -1,0 +1,83 @@
+[Event "Ceskoslovensky Sach#022"]
+[Source "Ceskoslovensky Sach/6"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Schulz, J"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p6/k1pN4/8/K7/p2N4/Pp6/8 w - - 0 1"]
+
+1. Nb4+ $1 Ka7 (Kb6 2. Nc4+) 2. Nxc6+ bxc6 (Ka8 3. Nb5) 3. Nb5+ $1 cxb5+ 4. Kxa3 b1=Q (b1=B 5. Kb4 Bd3 6. a4) (b1=N+ 5. Kb4 Kb6 6. a4) 1/2-1/2
+
+[Event "Ceskoslovensky Sach#021"]
+[Source "Ceskoslovensky Sach/6"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Schulz, J"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/N1KB4/k2p4/8/qPN1p1p1/8 w - - 0 1"]
+
+1. Kb6 $1 Qxb2+ (Qxd5 {<main>} 2. b3+ Qxb3+ 3. Nxb3 Kxb3 4. Nxd4+ Kc4 5. Nxe2) 2. Bb3+ Qxb3+ 3. Nxb3 Kxb3 4. Nxd4+ Kc3 5. Nxe2+ 1/2-1/2
+
+[Event "Ceskoslovensky Sach#020"]
+[Source "Ceskoslovensky Sach/6"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Schulz, J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/5p2/3R4/1p6/7P/2kp1B2/1p6/8 w - - 0 1"]
+
+1. Be4 $1 b1=Q 2. Rxd3+ Kc4 (Qxd3 {<main>} 3. Bxd3 Kxd3 (Kd4 4. h5 Ke5 5. h6 Kf6 6. Kb7) 4. h5 b4 (f5 {<main>} 5. h6 f4 6. h7 f3 7. h8=Q f2 8. Qb2 $1 Ke3 (f1=Q 9. Qxb5+) 9. Qxb5) 5. h6 b3 6. h7 b2 7. h8=Q b1=Q 8. Qh7+) 3. Rc3+ $1 (3. Rd4+ $2 Kxd4 4. Bxb1 Ke5 5. h5 f5 $1) Kxc3 4. Bxb1 Kd4 5. h5 Ke5 6. h6 Kf6 7. Bc2 1-0
+
+[Event "Ceskoslovensky Sach#022"]
+[Source "Ceskoslovensky Sach/3"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Schulz, J"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4n3/2p1Pp1p/3p1P1P/3p4/2k2pP1/5Pp1/4p1P1/4K3 w - - 0 1"]
+
+1. g5 $1 Kd3 2. g6 d4 $1 3. g7 $1 Ke3 (Kc2 4. g8=Q d3 5. Qxh7) 4. g8=N $1 d3 1/2-1/2
+
+[Event "Ceskoslovensky Sach#021"]
+[Source "Ceskoslovensky Sach/3"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Schulz, J"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b6/1P1pp3/Pp4p1/P2PP1p1/6kp/2p5/2P4p/7K w - - 0 1"]
+
+1. d6 $1 (1. e6 $2 d6 2. axb6 Kh3 3. a7 g4 4. a8=B Bc7 5. bxc7 g3 6. c8=Q g2#) exd6 (e6 {<main>} 2. axb6 Kh3 3. a7 g4 4. a8=B g3) 2. e6 dxe6 3. axb6 Kh3 4. a7 g4 5. a8=B $1 g3 1/2-1/2
+
+[Event "Sach#040"]
+[Source "Sach/6"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Schulz, J"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4n3/1b6/1P4P1/k4Kp1/6P1/8/8/8 w - - 0 1"]
+
+1. g7 $1 (1. Kxg5 $2 Kxb6 2. Kh6 (2. g7 Bd5 $1 3. Kg6 Bg8 $1) Bd5 3. Kh7 Nf6+) (1. Ke6 $2 Kxb6 2. Ke7 Bc8 3. Kxe8 Bxg4 4. g7 Be6) Nxg7+ 2. Kf6 (2. Kxg5 $2 Kxb6 3. Kf6 Ne8+ 4. Ke7 Nc7 5. g5 Be4 $1 6. Kf7 $1 Nd5 $1 7. g6 Nf4 $1 8. g7 Bd5+ 9. Kf8 (9. Kf6 Kc6 10. Ke5 Nh5) Ng6+) Ne8+ 3. Ke7 Ng7 (Kxb6 4. Kxe8 Bc8 5. Ke7 Bxg4 6. Kf6) (Bc6 4. b7 Bxb7 5. Kxe8) 4. Kf6 (4. Kf7 $2 Nf5 $1 (Nh5 $2 5. gxh5 Kxb6 6. h6 Be4 7. Kf6 $1 g4 8. Ke5) 5. gxf5 Kxb6 $1 6. Ke6 $1 (6. Kf6 g4 7. Ke5 Kc7 $1) Bc8+ $1 7. Ke5 (7. Kf6 g4 8. Kg5 Bxf5) Kc7 $1 8. f6 Kd8 $1 9. Kd6 Ke8 $1) 1/2-1/2

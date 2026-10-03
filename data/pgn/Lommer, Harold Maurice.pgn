@@ -1,0 +1,163 @@
+[Event "L'Italia Scacchistica#460"]
+[Source "L'Italia Scacchistica/11"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Lommer, Harold Maurice"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p1p3/4Pb2/1P1P3k/4K2P/8/8/8 w - - 0 1"]
+
+1. d6 $1 cxd6 $1 (exd6 2. Kd5) 2. b6 d5+ 3. Kf5 Bd4 4. b7 Ba7 5. b8=Q Bxb8 1/2-1/2
+
+[Event "Schweizerische Schachzeitung#5297"]
+[Source "Schweizerische Schachzeitung/1"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Lommer, Harold Maurice"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/p3K2P/5P2/4n3/7B/8/p7/8 w - - 0 1"]
+
+1. f7 $1 Ng6+ (Kxh7 2. f8=Q Ng6+ 3. Kd6 $1 Nxf8 4. Bf6) 2. Ke8 $1 a1=Q 3. f8=Q+ Nxf8 4. Bf6+ Qxf6 1/2-1/2
+
+[Event "Le Temps#378"]
+[Date "1934.02.11"]
+[Round "?"]
+[Composer "Lommer, Harold Maurice"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/5p2/5P1R/3Rn1b1/p2K2k1/8 w - - 0 1"]
+
+1. Rh1 $1 Kxh1 2. Kxe3 $1 a1=Q (Bxf4+ {<main>} 3. Kf2 a1=Q (a1=R 4. Rd5) 4. Rd1+ $1 Qxd1) 3. Rd1+ $1 Qxd1 1/2-1/2
+
+[Event "Fairy Chess Review#6733"]
+[Source "Fairy Chess Review/4"]
+[Stipulation "#7"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Lommer, Harold Maurice"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/P7/8/1p3p2/5p1p/5K1p/6nk w - - 0 1"]
+
+1. a7 $1 b3 (Ne2 {<main>} 2. a8=Q $1 (2. a8=B $2 Nd4 3. Bb7 b3 4. Ba8 b2 5. Be4 b1=Q 6. Bxb1 Nc2 $1 7. Ba2 (7. Bxc2) Ne3 $1) Ng1 3. Qd5 b3 4. Qxb3) 2. a8=B $1 (2. a8=Q $2 b2 3. Qe4 b1=Q 4. Qxb1) b2 3. Be4 b1=Q 4. Bxb1 Ne2 {<eg>} 5. Be4 Nd4 6. Bd5 Ne2 {<eg>} 7. Bxf3# 1-0
+
+[Event "New Statesman {and Nation}"]
+[Date "1954.05.15"]
+[Round "?"]
+[Composer "Lommer, Harold Maurice"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7N/p1pkp1K1/P7/P6R/7P/4p3/4p3/8 w - - 0 1"]
+
+1. Rd5+ $1 Ke6 (Kc6 {<main>} 2. Ng6 e1=Q (Kxd5 3. Nf4+ Ke4 4. Nxe2 Kf3 5. Nc3 Kg4 6. Kg6 Kxh4 7. Kf5) 3. Nxe7#) (Ke8 {<main>} 2. Nf7 e6 (e1=Q 3. Rd8#) (e5 3. Rxe5+ Kd7 4. Rxe3) 3. Rd8+ Ke7 4. Ne5 e1=Q (Kxd8 5. Nf3) 5. Nc6#) (Kc8 {<main>} 2. Nf7 c6 (e1=Q 3. Rd8#) (c5 3. Rxc5+ Kd7 4. Rc1) 3. Rd8+ Kc7 4. Ng5 e1=Q (Kxd8 5. Nf3) 5. Ne6#) 2. Ng6 e1=Q (Kxd5 3. Nf4+ Ke4 4. Nxe2 Kf3 5. Nc3 Kg4 6. Kg6 Kxh4 7. Kf5) 3. Nf4# 1-0
+
+[Event "British Chess Magazine#1274"]
+[Source "British Chess Magazine/1"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Lommer, Harold Maurice"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/3r4/kP3n2/8/8/8/8/8 w - - 0 1"]
+
+1. b7 $1 Ne8 (Re7 2. b8=Q) 2. b8=N+ $1 (2. b8=Q $2 Nc7+) 1/2-1/2
+
+[Event "4/6.hm Magyar Sakkélet#0602 (c)"]
+[Source "Magyar Sakkélet/8 (c): Garcia=M Estudios Artisticos de Ajedrez - VI-66 2012."]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Lommer, Harold Maurice"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1N6/1k1p1K1R/p7/2Pp1P2/7p/8/6p1/8 w - - 0 1"]
+
+1. c6+ $1 dxc6 2. Ke6+ $1 (2. Kg8+ $2 Kb6 3. Nd7+ Kb5) Kb6 (Kxb8 3. Rg7 h3 4. f6 h2 5. f7 Kb7 6. f8=Q+ Kb6 7. Qb4#) 3. Rxh4 g1=Q 4. Rb4+ Ka7 (Ka5 {<main>} 5. Nxc6#) (Kc5 {<main>} 5. Nxa6#) (Kc7 {<main>} 5. Nxa6+ Kc8 6. Rb8#) 5. Nxc6+ Ka8 6. Rb8# 1-0
+
+[Event "Shahmat"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Lommer, Harold Maurice"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6r1/7k/K5p1/6P1/1r6/8/4R3/5R2 w - - 0 1"]
+
+1. Re7+ $1 (1. Rh1+ $2 Kg7 2. Re7+ Kf8 3. Rhh7 Rh8 $1) Rg7 2. Rh1+ Kg8 3. Re8+ Kf7 4. Rhe1 Ra4+ 5. Kb6 $1 Rb4+ 6. Kc6 Rc4+ 7. Kd5 Rc7 8. Kd6 Ra7 9. R1e7+ Rxe7 10. Rxe7+ Kf8 11. Rxg7 Kxg7 12. Ke7 1-0
+
+[Event "Tidskrift for Schack#1293"]
+[Source "Tidskrift for Schack/12"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Lommer, Harold Maurice"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/7P/7P/8/n1k5/p7/PP4P1/6r1 w - - 0 1"]
+
+1. b3+ $1 Kb5 $1 2. Kg7 (2. bxa4+ $2 Ka6 $1 3. Kg7 Rxg2+ 4. Kf7 Rf2+ 5. Ke7 Re2+ 6. Kd7 Rd2+ 7. Kc7 Rc2+ 8. Kb8 Rb2+ 9. Ka8 Rd2 10. h8=Q (10. h8=R Rxa2) Rd8+ 11. Qxd8) (2. Kg8 {<or>}) Rxg2+ 3. Kf7 Rf2+ 4. Ke7 Re2+ 5. Kd8 Rd2+ 6. Kc7 Nb6 7. h8=Q Rd7+ 8. Kb8 Ka6 9. Qg7 Rxg7 10. hxg7 Nd7+ 11. Kc7 Nf6 12. Kc6 Ka5 {<eg>} 13. Kc5 Ne4+ 14. Kc4 Nf6 15. b4+ Ka4 16. Kc5 Ng8 17. b5 Ka5 18. b6 Ka6 19. Kc6 Ne7+ 20. Kc7 Nd5+ 21. Kb8 Ne7 22. b7 Nc6+ 23. Kc7 1-0
+
+[Event "source unknown (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - VI-66 2012."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Lommer, Harold Maurice"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2r2k1K/1qP2p2/2b5/8/5p2/8/Q7/3R4 w - - 0 1"]
+
+1. Qa3+ $1 (1. Rd8+ $2 Ke7 2. Qa3+ Kf6 3. Qc3+ Kg5) Ke8 2. Rd8+ Rxd8 3. Qf8+ Kxf8 4. cxd8=Q+ Be8 5. Qd6+ Qe7 6. Qh6# 1-0
+
+[Event "Volksgazet"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Lommer, Harold Maurice"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b6/P5q1/1Q6/8/8/p1k5/P7/K7 w - - 0 1"]
+
+1. Qg6 $1 (1. axb8=Q $2 Kc2+) (1. Kb1 $2 Qh7+ 2. Ka1 Qh1+ 3. Qb1 Be5) Qd4 (Qe5 2. axb8=Q) (Qxg6 2. axb8=Q) (Qxa7 2. Qc2+ Kd4 3. Qf2+) 2. Qb6 $1 (2. Qg4 $2 Bf4) Qxb6 3. axb8=Q Qd4 4. Qb6 $1 Qe5 (Qd1+ 5. Qb1) 5. Qb5 (5. Qf2 $2 Qh8 $1 6. Qg2 Qd4) Qg7 6. Qb7 $1 Qf6 7. Qb6 $1 Qxb6 1/2-1/2
+
+[Event "Thèmes 64#2062"]
+[Source "Thèmes 64/4-6"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Lommer, Harold Maurice"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/4P3/4P2K/4P3/4P1p1/4P2n/4P3/8 w - - 0 1"]
+
+1. Kh5 $1 g3 2. Kg4 $1 g2 3. Kf3 g1=N+ $1 (g1=B 4. Kg2) (g1=Q) 4. Kg2 Kxe7 5. Kh2 (5. Kg3 $2 Ng5 $1 6. Kg2 N1h3) (5. Kf1 {<or>}) Kxe6 6. Kg2 Kxe5 7. Kf1 (7. Kh2 {<or>}) Kxe4 8. Kg2 Kxe3 9. Kf1 $1 (9. Kh2 $2 Kf2 $1 (Kf4 $2 10. e4 Kg4 11. e5 Nf3+ 12. Kh1 Nf2+ 13. Kg2 Ne4 14. e6 Nf6 15. e7 Ne8 16. Kf2) 10. e4 Ng5 11. e5 N1f3+ 12. Kh1 Ne4) 1/2-1/2

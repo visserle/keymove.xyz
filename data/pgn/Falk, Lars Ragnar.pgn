@@ -1,0 +1,27 @@
+[Event "Schakend Nederland#1999"]
+[Source "Schakend Nederland/4 1985 after Andersson=U Torre=E Timman=J f6f8 1977."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Falk, Lars Ragnar"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/2nKR2P/8/5pr1/8/8/7P/8 w - - 0 1"]
+
+1. Kd6 $1 Rg7 (Nb5+ 2. Ke5) (Na6 2. Rf7 Nb4 3. Ke6 Nc6 (Nc2 4. Ke5) 4. Kd6 $1 Rg6+ 5. Kc5) 2. Rxg7 $1 Ne8+ (Kxg7 3. Ke5) 3. Ke5 Nxg7 4. Kf4 Kxh7 5. Kg5 $1 Kg8 6. h4 Kf7 7. h5 Ke6 8. h6 Ne8 9. h7 Nd6 10. h8=N $1 Ne4+ { <eg>} 11. Kf4 Kf6 12. Nf7 1/2-1/2
+
+[Event "sp.p Miru Mir Molodoj Leninets (Kurgan)"]
+[Source "EG#06919."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Falk, Lars Ragnar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k2N/8/2PK4/1r6/8/8/8/8 w - - 0 1"]
+
+1. c7 $1 Rd5+ $1 (Rb6+ 2. Kc5) 2. Kc6 $1 Rd8 3. Nf7 $1 Ra8 (Rc8 4. Nd6+) 4. Kb7 $1 Kd7 5. Ne5+ Kd6 6. Nc4+ (6. Nc6 $2 Rh8 $1 (Kd7 $2 7. Nb8+) 7. Nd8 Rh7) Kd7 7. Nb6+ Kd6 8. Nxa8 1-0

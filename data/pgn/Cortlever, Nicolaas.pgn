@@ -1,0 +1,27 @@
+[Event "De Schaakwereld#355 (c)"]
+[Source "(c): Grondijs=H Charged Moves and Progression#041a 1996."]
+[Date "1940.04.30"]
+[Round "?"]
+[Composer "Cortlever, Nicolaas"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p3/4p3/7p/4N2k/1P1PPP2/pP3KP1/8 w - - 0 1"]
+
+1. Kg1 $1 a1=Q+ 2. Kh2 Qxb2 3. b4 e5 4. b5 e6 5. d4 exd4 6. b6 dxe3 7. b7 e2 8. g3# 1-0
+
+[Event "Schakend Nederland#1509 (c)"]
+[Source "Schakend Nederland/6 (c): Garcia=M Estudios Artisticos de Ajedrez - II-44 2012."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Cortlever, Nicolaas"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3q4/4p3/2P5/2p5/4p3/p2kPp2/p1N5/Q2K4 w - - 0 1"]
+
+1. c7 $1 Qxc7 (Qc8 2. Qxa2 Kc3 3. Nxa3 Qg4 4. Qc2+ Kb4 5. c8=Q Qxc8 6. Qb2+ Ka4 7. Qb5+ Kxa3 8. Kc2) (Qg8 2. c8=Q Qxc8 3. Qxa2) 2. Qxa2 Qb6 (Qb7 3. Ne1+ Kc3 4. Qc2+ Kb4 5. Qb1+ Kc4 6. Qxb7) (Kc3 3. Nd4 $1 cxd4 (Qb6 4. Qc2+ Kb4 5. Qb3+ Ka5 6. Qxa3#) 4. Qc2+ Kb4 5. Qxc7) 3. Nxa3 (3. Ne1+ $2 Kc3 4. Qxa3+ Qb3+) Qb4 4. Nc4 $1 Qc3 (Qxc4 5. Qd2#) 5. Nb6 $1 (5. Ne5+ $2 Kxe3 $1) e6 6. Nc4 e5 7. Nb6 Qb4 (f2 8. Qe2#) (c4 8. Qb1+ Kxe3 9. Nd5+) 8. Qc2+ Kxe3 9. Nd5+ Kd4 10. Nxb4 1-0

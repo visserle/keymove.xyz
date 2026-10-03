@@ -1,0 +1,12 @@
+[Event "Leeuwarder Courant"]
+[Date "1938.03.19"]
+[Round "?"]
+[Composer "Blink, F"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/8/8/5kPP/8/8/4p3/8 w - - 0 1"]
+
+1. g6 $1 e1=Q 2. g7 Qe5 3. Kh7 Kf6 $1 (Qe7 4. Kh8 Qf6 5. Kh7 Qf7 6. Kh6 Kf6 7. g8=Q Qxg8) 4. h6 Qe7 5. Kh8 Kg6 6. g8=Q+ Kxh6 7. Qe6+ $1 Qxe6 1/2-1/2

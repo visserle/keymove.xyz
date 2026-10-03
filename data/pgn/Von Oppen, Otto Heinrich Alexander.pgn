@@ -1,0 +1,13 @@
+[Event "Schachzeitung#109"]
+[Source "Schachzeitung/1"]
+[Date "1848.??.??"]
+[Round "?"]
+[Composer "Von Oppen, Otto Heinrich Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2pp4/2k5/6K1/2P5/1N3p2/5Bpp/8 w - - 0 1"]
+
+1. Na5+ $1 Kd6 2. Kf6 g1=Q (c5 3. Bg3#) 3. Nb7+ Kc6 4. Na5+ 1/2-1/2

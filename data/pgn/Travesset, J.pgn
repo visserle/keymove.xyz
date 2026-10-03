@@ -1,0 +1,13 @@
+[Event "Bulletin Catalunya de'Escacs"]
+[Source "Bulletin Catalunya de'Escacs/4"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Travesset, J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1k6/2r1PK2/p2p4/P2P4/8/8/8 w - - 0 1"]
+
+1. Kf7 $1 (1. Ke5 $2 Kc7 2. Kxd5 Rc1) Rc7+ $1 (Rc1 2. e7 Rf1+ 3. Ke6 Kc7 (Re1+ 4. Kd7) 4. e8=Q Re1+ 5. Kf7 Rxe8 6. Kxe8 Kd6 (Kc6 7. Ke7) 7. Kd8 Ke6 8. Kc7 Ke7 (Kf5 9. Kd6 Ke4 10. Kc5) 9. Kb6) 2. e7 Kc6 $1 3. Kf8 Rc8+ $1 (Kd6 4. e8=N+ $1) 4. e8=R $1 (4. e8=Q+ $2 Kd6 $1 5. Qxc8 (5. Kf7 Rxe8 6. Kxe8 Ke6 7. Kd8 Kf5 8. Kc7 Ke4 9. Kb6 Kxd4 10. Kxa5 Kc5)) Rc7 (Rxe8+ 5. Kxe8 Kd6 6. Kf7 Kd7 7. Kf6 Kd6 8. Kf5 Kd7 9. Ke5 Kc6 10. Ke6 Kc7 11. Kxd5) 5. Re6+ Kb7 6. Re7 1-0

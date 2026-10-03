@@ -1,0 +1,39 @@
+[Event "Etelä Suomen Sanomat"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Pitkanen, Jorma"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1B5k/2N3R1/8/7p/p4K1P/2n5 w - - 0 1"]
+
+1. Nb3 $1 (1. Ba5 $2 a1=Q 2. Bd2 Kh7) (1. Ne4 $2 Nd3+ 2. Ke2 Nf4+ 3. Kf3 a1=Q 4. Kxf4 (4. Be3 Qf1+ 5. Kg4 Ng2 $1) Qf6+ $1 5. Nxf6) (1. Ne6 $2 a1=Q 2. Be3 Nd3+ 3. Ke2 Qa6 4. Rg3+ Nf4+ 5. Kf3 Qxe6) Nxb3 2. Rg1 (2. Be3 $2 a1=Q 3. Ra5+ Kg6 4. Rxa1 Nxa1 5. Ke2 Kf5 $1) a1=Q (Kh5 3. Ke2) 3. Rxa1 Nxa1 4. Ke2 Nc2 5. Bc5 Na1 6. Kd3 Nb3 7. Bb6 Nc1+ 8. Kd2 Na2 9. Bc5 Kg5 10. Kc2 Kg4 11. Kb2 Kf3 12. Kxa2 Kg2 13. Bd6 1-0
+
+[Event "Etelä Suomen Sanomat"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Pitkanen, Jorma"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/6P1/pP4K1/1Pn5/7p/7P/8/8 w - - 0 1"]
+
+1. b7 $1 Nxb7 2. bxa6 Nd6 3. a7 Nc8 $1 (Ne8 4. Kg5) 4. a8=B $1 (4. a8=Q $2) Ne7+ 5. Kf6 Kh7 6. Kf7 1-0
+
+[Event "2.hm Satakunnan Chess Circle-25 AT Suom"]
+[Source "Suomen Tehtäväniekat/10 EG#08063."]
+[Date "1989.??.??"]
+[Round "?"]
+[Composer "Pitkanen, Jorma"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2N5/8/5p2/5p2/3pkp2/8/6K1 w - - 0 1"]
+
+1. Nb5 $1 d2 2. Nc3 Kd3 3. Nd1 f2+ (Kc2 4. Nf2 Kc1 5. Nd3+ Kd1 6. Kf1) 4. Kf1 (4. Nxf2+ $2 Ke2 5. Kg2 f3+ 6. Kg3 f4+) (4. Kxf2 $2 Kc2 5. Ke2 f3+) f3 5. Kxf2 Kc2 6. Ne3+ Kc1 7. Kxf3 1/2-1/2

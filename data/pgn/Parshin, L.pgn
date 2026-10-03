@@ -1,0 +1,13 @@
+[Event "Revista de Romana de Sah#0604"]
+[Source "Revista de Romana de Sah/6"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Parshin, L"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6b1/PK1k4/5P2/8/2P5/8/4r3/8 w - - 0 1"]
+
+1. f7 $1 (1. a8=Q $2 Rb2+ 2. Ka7 Kc7 3. Ka6 Ra2+) (1. a8=N $2 Rb2+ 2. Nb6+ Kd6 3. Ka7 Kc7 4. Na8+ Kc6) Bxf7 $1 2. a8=Q Rb2+ 3. Ka6 Bxc4+ 4. Ka7 Kc7 5. Qb8+ Rxb8 1/2-1/2

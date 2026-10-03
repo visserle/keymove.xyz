@@ -1,0 +1,13 @@
+[Event "Chess Life & Review#1088"]
+[Source "Chess Life & Review/9"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Walters, J. W."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K1k5/P4p2/8/4P3/7p/4P3/4P3/N7 w - - 0 1"]
+
+1. e6 $1 fxe6 2. Nb3 h3 3. Nc5 (3. Nd2 {<or>}) h2 4. Ne4 $1 h1=R $1 (h1=Q) 5. Nd6+ Kc7 6. Ne8+ Kb6 7. Kb8 Rh8 8. a8=N+ $1 Kc6 9. Nac7 1/2-1/2

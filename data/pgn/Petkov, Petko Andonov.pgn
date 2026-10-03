@@ -1,0 +1,15 @@
+[Event "1/2.p Start {Bulgaria}"]
+[Source "EG#02446"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Petkov, Petko Andonov"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1Pp2P2/2P5/k6p/6rP/P1PK1bN1/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. f7 $1 (1. b7 $143 $2 Rg8 2. f7 Rd8+ $11) (1. Nf4 $143 $2 Bxc5 2. f7 Rg1 $11) Rf3 2. b7 (2. Nf4 $143 $2 Rxf4 3. b7 Rd4+ 4. Ke2 Rd8 $11) Bg3 3. Nf4 $1 {Novotny} Rxf4 4. b8=Q Rf2+ 5. Ke3 Bxb8 6. Kxf2 Ba7 7. f8=B $1 $18 (7. f8=Q $143 $2 Bxc5+ 8. Qxc5 $11 {stalemate}) Kb5 8. Kf3 1-0

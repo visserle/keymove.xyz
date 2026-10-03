@@ -1,0 +1,13 @@
+[Event "Chess Life & Review#1021"]
+[Source "Chess Life & Review/9"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Weakley, W"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/8/2K5/pP6/2k3N1/8/8 w - - 0 1"]
+
+1. Ne2+ $1 (1. Ne4+ $2 Kd3) Kd2 $1 (Kb2 2. Kc4 a3 3. Nc3) 2. Nd4 Kc3 (a3 3. Kc4 f5 4. Nxf5) 3. Nb5+ Kb3 4. Na3 $1 Kxa3 5. b5 1-0

@@ -1,0 +1,12 @@
+[Event "Chess Life & Review#0216"]
+[Date "1953.05.05"]
+[Round "?"]
+[Composer "Monsky, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6pK/4P3/2p1Nk2/8/1pP1P3/8 w - - 0 1"]
+
+1. Nd2 $1 (1. Nc3 $2 Kxe5 2. Kxg6 Kd4 3. Nb1 Ke3 4. Kf5 Kxe2 5. Ke4 Kd1) c3 2. Nb1 Kxe5 3. Kxg6 Kd4 4. Kf5 Ke3 5. Ke5 Kxe2 6. Kd4 Kd1 7. Kxc3 1-0

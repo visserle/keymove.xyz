@@ -1,0 +1,27 @@
+[Event "Chess Life & Review#1039"]
+[Source "Chess Life & Review/1"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Taylor, C"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6P1/5nP1/6k1/7p/8/6K1 w - - 0 1"]
+
+1. g7 $1 (1. Kh2 $2 Ng7 $1 2. Kg1 Kg3 3. Kh1 Nf5 4. g7 Nxg7) Nxg7 2. Kh2 Kh4 (Nf5 3. g6) 3. g6 Nf5 4. Kg1 Kg3 5. Kh1 1/2-1/2
+
+[Event "Chess Life & Review#1105"]
+[Source "Chess Life & Review/12"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Taylor, C"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/P4P2/8/8/8/b4k1K/6n1 w - - 0 1"]
+
+1. f7 $1 Bxf7 2. a7 Bd5 (Nf3+ {<main>} 3. Kh1 $1 Bd5 4. a8=Q Bxa8) 3. a8=Q $1 Bxa8 1/2-1/2

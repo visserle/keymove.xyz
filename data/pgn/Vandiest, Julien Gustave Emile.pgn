@@ -1,0 +1,457 @@
+[Event "Schweizerische Arbeiter-Schachzeitung#2"]
+[Source "Schweizerische Arbeiter-Schachzeitung/11-12 also .p Ceskoslovensky Sach 1949."]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1Q6/4p3/4K3/pB6/8/8/1k6/2q5 w - - 0 1"]
+
+1. Bc4+ $1 Ka1 $1 2. Qe5+ Kb1 $1 (Qb2 3. Qe1+ Qb1 4. Qc3+ Qb2 5. Qxa5+ Kb1 6. Bd3+ Kc1 7. Qe1#) 3. Qf5+ $1 Kb2 4. Qb5+ Kc3 5. Qb3+ Kd4 6. Qd3+ Kc5 7. Qd5+ Kb4 8. Qb7+ $1 Kc3 9. Qf3+ $1 Kd4 10. Qd5+ Kc3 11. Qd3+ Kb4 12. Qb3+ Kc5 13. Qb5+ Kd4 14. Qe5+ $1 Kxc4 15. Qc7+ Kb3 16. Qxc1 1-0
+
+[Event "Schweizerische Arbeiter-Schachzeitung#2"]
+[Source "Schweizerische Arbeiter-Schachzeitung/3-4"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5N2/5P2/7p/4k3/6p1/8/1K5p/8 w - - 0 1"]
+
+1. Ng6+ $1 Ke6 (Kd4 2. f8=Q h1=Q 3. Qb4+ Kd3 4. Qc3+ Ke2 5. Nf4+ Kf2 6. Qd4+ Kg3 7. Ne2+ Kh2 8. Qe5+ Kg2 9. Qd5+ Kh2 10. Qh5+ Kg2 11. Nf4+ Kg1 12. Qc5+ Kh2 (Kf1 13. Qc1+) 13. Qf2+ Qg2 14. Qxg2#) 2. f8=Q h1=Q 3. Qe7+ Kf5 4. Nh4+ Kf4 5. Qd6+ Kg5 (Ke3 6. Nf5+ Kf2 7. Qd4+ Ke1 (Kg2 8. Ne3+) 8. Qe3+ Kd1 9. Qc1+) 6. Qg6+ Kf4 7. Qxh6+ $1 (7. Qf6+ $2 Kg3 $1 8. Nf5+ Kf4 $1) Kg3 (Ke5 8. Ng6+) 8. Nf5+ Kg2 9. Qc6+ Kg1 (Kh2 10. Qd6+ Kg1 11. Qd4+) 10. Qc1+ Kh2 (Kg2 11. Ne3+ Kh2 12. Nxg4+ Kg2 13. Qc6+) 11. Qf4+ Kg1 12. Qd4+ $1 (12. Qe3+ $2 Kg2 13. Qd2+ Kh3 14. Qh6+ Kg2) Kg2 $1 (Kh2 13. Qe5+ Kg1 (Kg2 14. Ne3+ Kf2 15. Nxg4+) 14. Qe1+ Kg2 15. Ne3+ Kh2 16. Qh4+ Kg1 17. Qg3+) 13. Ne3+ Kf2 (Kg1 14. Qd1+ Kh2 15. Nxg4+) (Kh3 14. Qh8+) (Kh2 14. Qf4+ Kg1 15. Qg3+) (Kg3 14. Qxg4+ Kf2 15. Nd1+ Ke1 16. Qg3+ Kxd1 17. Qd3+ Ke1 18. Qb1+) 14. Qd2+ $1 (14. Nxg4+ $2 Kg3 $1) Kg3 15. Qd6+ Kf2 16. Nxg4+ Kg2 (Ke1 17. Qe5+ Kf1 18. Qf4+) 17. Qd5+ Kg1 18. Qd4+ Kg2 19. Qe4+ Kg1 20. Qe1+ Kg2 21. Ne3+ Kh2 22. Qh4+ Kg1 23. Qg3+ Qg2+ 24. Qxg2# 1-0
+
+[Event "Schweizerische Arbeiter-Schachzeitung#2"]
+[Source "Schweizerische Arbeiter-Schachzeitung/5-6 EG#01585. also 1/2.p New York Sunday World 1950 also Magyar Sakkélet 1950."]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/2p5/1P1k4/P7/8/8/6K1 w - - 0 1"]
+
+1. b6 $1 Kd6 2. a5 c5 3. a6 $1 Kc6 4. b7 (4. a7 $2 Kb7) Kc7 5. Kf2 d5 $1 (d6 6. Ke3 c4 7. Ke4 d5+ (Kb8 8. Kd4 d5 9. Kxd5) 8. Kd4 Kb8 9. Kxd5) 6. Ke3 Kb8 $1 (c4 7. Kd4 Kb8 8. Kxd5 c3 9. Kc6) (d4+ 7. Ke4 Kb8 8. Kd3 Kc7 9. Kc4 Kb8 10. Kxc5) 7. Kd2 $1 Kc7 $1 (c4 8. Kc3 Kc7 9. Kd4 Kb8 10. Kxd5) (d4 8. Kd3 Kc7 9. Kc4) 8. Kc3 (8. Kd3 {<or>}) Kb8 9. Kc2 $1 Kc7 $1 10. Kb3 $1 Kb8 $1 (c4+ 11. Kb4 Kb8 12. Kc3 Kc7 13. Kd4) 11. Ka4 Kc7 (c4 12. Kb5 (12. Ka5 { <or>}) (12. Kb4 $2 Kc7 13. Kc3 Kb8 14. Kd4 Kc7) Kc7 13. Kb4 Kb8 14. Kc3 (14. Kc5 {<or>}) Kc7 15. Kd4 Kb8 16. Kxd5 c3 17. Kc6 c2 (Ka7 18. Kc7 c2 19. b8=Q+ Kxa6 20. Qb6#) 18. Kb6 c1=Q 19. a7#) (d4 12. Kb5 Kc7 13. Kc4 Kb8 14. Kxc5) 12. Kb5 $1 c4 $1 13. Kb4 Kb8 14. Kc3 Kc7 15. Kd4 Kb8 16. Kxd5 $1 c3 17. Kc6 c2 18. Kb6 c1=Q 19. a7# 1-0
+
+[Event "Schweizerische Arbeiter-Schachzeitung#2"]
+[Source "Schweizerische Arbeiter-Schachzeitung/3-4 EG#01632. also Volksgazet 1949."]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5N2/5P2/7p/4k3/p5p1/8/1K5p/8 w - - 0 1"]
+
+1. Ng6+ $1 Kd4 (Ke6 {<main>} 2. f8=Q h1=Q 3. Qe7+ Kf5 4. Nh4+ Kf4 5. Qd6+ Kg5 $1 (Ke3 6. Nf5+) 6. Qg6+ Kf4 7. Qxh6+ Kg3 (Ke5 8. Ng6+) 8. Nf5+ Kg2 9. Qc6+ Kg1 (Kh2 10. Qd6+ Kg1 11. Qd4+) 10. Qc1+ Kh2 (Kg2 11. Ne3+ Kh2 12. Nxg4+ Kg2 13. Qc6+) 11. Qf4+ Kg1 12. Qd4+ (12. Qe3+ $2 Kg2 $1 13. Qd2+ Kh3 $1 14. Qh6+ Kg2) Kg2 $1 13. Ne3+ Kf2 $1 14. Qd2+ (14. Nxg4+ $2 Kg3 $1) Kg3 15. Qd6+ Kf2 16. Nxg4+ Kg2 $1 17. Qd5+ Kg1 18. Qd4+ Kg2 19. Qe4+ Kg1 20. Qe1+ Kg2 21. Ne3+ Kh2 22. Qh4+ Kg1 23. Qg3+) 2. f8=Q h1=Q (a3+ 3. Qxa3) 3. Qb4+ Kd3 $1 (Ke3 4. Qc5+ Kd2 5. Qc3+ Ke2 6. Nf4+ Kf2 7. Qc5+ Kg3 8. Ne2+ Kh2 9. Qd6+ Kg2 10. Qc6+ Kh2 11. Qxh6+ Kg2 12. Qc6+ Kh2 13. Qc7+ Kg2 14. Qb7+ Kh2 15. Qb8+ Kg2 16. Qa8+ Kh2 17. Qh8+ Kg2 18. Nf4+ Kg1 19. Qd4+ Kh2 20. Qf2+) 4. Qc3+ Ke2 5. Nf4+ Kf2 6. Qd4+ Kg3 7. Ne2+ Kh2 8. Qe5+ $1 Kg2 9. Qd5+ Kh2 10. Qd6+ Kg2 11. Qc6+ Kh2 12. Qxh6+ Kg2 13. Qc6+ Kh2 14. Qc7+ Kg2 15. Qb7+ Kh2 16. Qb8+ Kg2 17. Qa8+ Kh2 18. Qh8+ Kg2 19. Nf4+ Kg1 20. Qd4+ Kh2 21. Qf2+ 1-0
+
+[Event "Caissa"]
+[Source "EG#01635. also Sachové Umenie#370 7/1951."]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B6/4P3/8/8/K7/1p5k/2p5/8 w - - 0 1"]
+
+1. Bf4 $1 (1. e8=Q $2 c1=Q 2. Qh5+ Kg2 3. Qg4+ Kf1 4. Qf3+ Kg1 5. Ba7+ Kh2 6. Bb8+ Kg1) b2 2. e8=Q c1=Q (b1=Q 3. Qh5+ Kg2 4. Qe2+ Kg1 5. Be3+ Kh1 6. Qh5+ Kg2 7. Qg4+ Kf1 8. Qf3+ Ke1 9. Qf2+ Kd1 10. Qd2#) 3. Qh5+ Kg2 4. Qe2+ Kg1 5. Qh2+ Kf1 6. Bxc1 (6. Qh1+ {<or>} Ke2 7. Bxc1) b1=Q 7. Qh1+ Ke2 8. Qg2+ Ke1 9. Bd2+ Kd1 10. Qf1+ (10. Qg1+ { <or>}) (10. Qh1+ {<or>}) Kc2 11. Qf5+ Kb2 12. Bc3+ Kc1 (Ka2 13. Qd5+) 13. Qf4+ Kc2 (Kd1 14. Qd2#) 14. Qd2# 1-0
+
+[Event "La Nation Belge"]
+[Source "EG#01627."]
+[Date "1951.11.11"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6b1/7k/p1P4P/8/6K1/5N2/8 w - - 0 1"]
+
+1. Ng4+ $1 Kg5 $1 (Kxh5 2. c6 Bf8 3. Nf6+ Kg6 4. Ne8) (Kh7 2. c6 Bf8 3. Nf6+ Kh6 4. Ne8) 2. h6 $1 (2. c6 $2 Bf8 3. h6 Bd6+ $1 4. Kf3 Kg6) Bxh6 (Bf8 3. h7 Bg7 4. c6) (Bd4 3. c6 Bb6 4. h7) 3. Nxh6 (3. c6 $2 Bf8 4. c7 Bd6+) (3. Ne5 $2 Kf5 $1 4. Nc4 Bf4+ 5. Kf3 a4) a4 $1 (Kxh6 4. c6) (Kf6 4. Kf4 $1 a4 5. Nf5 Ke6 (a3 6. Nd4 a2 7. Nb3 Ke6 8. Ke4) 6. Ke4 $1 a3 7. Nd4+) 4. c6 $1 (4. Nf7+ $2 Kf6 5. Nd6 Ke5 6. Nb7 Kd5) (4. Ng4 $2 Kf5 $1 5. Kf3 a3 6. Ne3+ Ke5 7. Ke2 a2 8. Nc2 Kd5) a3 5. c7 a2 6. Nf7+ $1 (6. c8=Q $2 a1=Q 7. Nf7+ Kg6 $1 8. Qg8+ (8. Qe6+ Qf6) Qg7) Kg6 $1 (Kf6 7. c8=Q a1=Q 8. Qh8+) (Kh5 7. c8=Q a1=Q 8. Qf5#) 7. Ne5+ $1 (7. c8=Q $2 a1=Q 8. Qg8+ Qg7) Kf6 $1 (Kg5 8. c8=Q a1=Q 9. Qg8+ Kf6 10. Qf7+ Kg5 11. Qg6#) (Kh6 8. c8=Q a1=Q 9. Qh8+ Kg5 10. Nf3+) (Kg7 8. c8=Q a1=Q 9. Qd7+) 8. c8=Q a1=Q 9. Qf8+ (9. Qd8+ $2 Kf5) Ke6 10. Qf7+ Kd6 11. Qd7+ Kc5 12. Qc6+ Kd4 (Kb4 {<main>} 13. Nd3+ Kb3 (Ka5 14. Qa8+) 14. Qd5+ Kc2 15. Nb4+ Kb2 16. Qd4+ Kb1 17. Qd1+ Kb2 18. Nd3+ Ka2 19. Qa4+ Kb1 20. Qb3+) 13. Kf4 $1 (13. Nf3+ $2 Kd3 14. Qd5+ Kc2 15. Nd4+ Kc3) Qa2 $1 (Qc3 14. Qd6#) (Qf1+ 14. Nf3+ Kd3 15. Qb5+) 14. Nf3+ Kd3 15. Ne1+ Kd4 (Kd2 16. Qg2+) 16. Nc2+ Kd3 17. Nb4+ 1-0
+
+[Event "La Nation Belge (v)"]
+[Source "(v): Vandiest=J 223 Eindspelstudies 1948-2009#066 2009."]
+[Date "1951.11.18"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5brq/4p2p/4P1kp/7p/1p5B/6P1/B2P3P/5K2 w - - 0 1"]
+
+1. Bb1+ $1 Kg7 2. h3 $1 b3 3. Ke2 b2 4. d3 Kg6 5. d4+ Kg7 6. Kd3 Kg6 7. Kc3+ Kg7 8. Kc2 Kg6 9. Kxb2+ Kg7 10. Kc2 Kg6 11. Kc3+ Kg7 12. Kd3 Kg6 13. Ke3+ Kg7 14. Ke4 Kg6 15. Kd5+ Kg7 16. g4 $1 hxg4 17. hxg4 h5 18. g5 h6 19. g6 Qh7 20. gxh7 Rh8 21. Kc6 Rxh7 22. Bxh7 Kxh7 23. Kd7 Kg7 $1 24. d5 $1 (24. Bxe7 $2 Bxe7 25. Kxe7 h4) Kh7 25. Bxe7 Bxe7 (Bg7 26. d6 Bc3 27. Bh4) 26. Kxe7 h4 27. Kf7 h3 28. e7 h2 29. e8=Q h1=Q 30. Qg8# 1-0
+
+[Event "La Nation Belge"]
+[Source "EG#01587."]
+[Date "1951.12.02"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k5/K1P1p3/P4p2/p1P2P2/P7/7p/8/8 w - - 0 1"]
+
+1. Kb6 $1 h2 2. a7 h1=Q 3. a8=Q+ Qxa8 4. c6 Qa7+ 5. Kxa7 Kxc7 6. Ka6 Kxc6 7. Kxa5 e5 8. fxe6 Kd6 9. Kb5 Kxe6 10. Kc6 f5 11. a5 f4 12. a6 f3 13. a7 f2 14. a8=Q f1=Q 15. Qe8+ Kf6 16. Qf8+ 1-0
+
+[Event "Nieuwe Haagse Courant"]
+[Source "also Volksgazet#482 1955? 1956? also L'Italia Scacchistica#625 1956."]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/N4P2/1kN5/7p/8/b1K5/8 w - - 0 1"]
+
+1. Nb3 $1 h3 2. f7 Bxb3+ (Bb1+ 3. Kc3 h2 4. f8=Q h1=Q 5. Nc7+ Kb6 6. Qb8+ Qb7 7. Nd5+ Ka6 8. Nc5+) (h2 3. Nc7+ Kb4 (Kc6 4. f8=Q h1=Q 5. Qa8+) (Ka4 4. f8=Q h1=Q 5. Qf4+ Ka3 6. Nb5#) (Kb6 4. Nd5+ Kc6 5. Nd4+ Kb7 6. f8=Q Bxd5 (h1=Q 7. Qe7+ Ka6 8. Qd6+ Kb7 9. Qc7+ Ka6 10. Qb6#) 7. Qg7+) (Kc4 4. Nd2+ Kd4 5. f8=Q h1=Q 6. Qf4+ Kc5 7. Ne4+ Kb6 8. Qd6+ Ka5 (Ka7 9. Nb5+ Ka8 10. Qc6+ Kb8 11. Qc7+ Ka8 12. Qa7#) (Kb7 9. Nc5+ Kc8 10. Qd7+ Kb8 11. Qd8+ Ka7 12. Nb5#) 9. Qc5+ Ka4 10. Nc3#) 4. f8=Q+) 3. Kxb3 h2 4. Nc7+ Kb6 5. Nd5+ Kc6 (Ka5 6. f8=Q h1=Q 7. Qc5+ Ka6 8. Qb6#) (Kb5 6. f8=Q h1=Q 7. Qb8+ Kc6 8. Qc7+ Kb5 9. Qb6#) (Kb7 6. f8=Q h1=Q 7. Qe7+ Ka6 (Ka8 8. Qd8+ Kb7 9. Qc7+) 8. Qd6+ Kb7 9. Qc7+) (Ka6 6. f8=Q h1=Q 7. Qd6+ Kb7 8. Qc7+) 6. f8=Q h1=Q 7. Qc8+ Kd6 (Kb5 8. Qc4+ Ka5 9. Qb4+ Ka6 10. Qb6#) 8. Qc7+ Ke6 9. Qe7+ Kf5 10. Qf6+ Ke4 (Kg4 11. Ne3+ Kg3 12. Qe5+ Kf2 13. Ng4+ Kg2 (Kf1 14. Qf4+ Kg2 15. Ne3+) (Kg1 14. Qe1+) 14. Qe4+ Kg1 15. Qe1+ Kg2 16. Ne3+ Kh2 17. Qh4+ Kg1 18. Qg3+) 11. Kc4 Qh2 (Qc1+ 12. Nc3+ Ke3 13. Qg5+) 12. Nc3+ Ke3 13. Nd1+ Ke4 14. Nf2+ Ke3 15. Ng4+ 1-0
+
+[Event "Deventer Dagblad"]
+[Source "after Iriarte=E a7b5 1958."]
+[Date "1958.12.27"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6KN/8/2p3Bk/3P3p/2qp3p/5P1P/8 w - - 0 1"]
+
+1. Bd2 $1 Qxd2 (Qxd4+ 2. Nf6+ Qxf6+ 3. Kxf6 Kg4 4. f4 Kf3 5. f5 Kg2 6. Kg5 Kxh2 7. f6 Kg2 8. f7 h2 9. f8=Q h1=Q 10. Qa8+ Kh2 11. Bf4+ Kg1 12. Be3+ Kh2 13. Qb8+ Kg2 14. Qb7+ Kh2 15. Qc7+ Kg2 16. Qc6+ Kh2 17. Qd6+ Kg2 18. Qd5+ Kh2 19. Qe5+ Kg2 20. Qe4+ Kh2 21. Qxh4+ Kg2 22. Qe4+ Kh2 23. Bf4+ Kg1 24. Qe3+ Kg2 25. Qg3+ Kf1 26. Qxd3+ Kf2 27. Qd2+ Kf1 28. Qd1+ Kg2 29. Qe2+ Kg1 30. Be3#) 2. Nf6+ Kg5 3. Ne4+ Kf4 4. Nxd2 1-0
+
+[Event "1/2.p L'Échiquier de Paris (c)"]
+[Source "also 3.p Dedrle MT UV CSTV (tt c"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/P1k3p1/8/1K2Npp1/8/8/8 w - - 0 1"]
+
+1. Ka5 $1 g3 (f3 2. Ng3 f2 3. Nf1 Kc7 4. Kb5 Kb8 5. Kb6 Ka8 (g3 6. Nxg3 Ka8 7. Nf1 Kb8 8. Ne3 Ka8 9. Nd5 f1=Q 10. Nc7+) 6. Ne3 g3 7. Nd5 f1=Q 8. Nc7+ Kb8 9. a7+ Kc8 10. a8=Q+ Kd7 11. Qe8+ Kd6 12. Qe6#) 2. Nc5 $1 (2. Ng5 $2 g2 3. Nf3 g5) g2 (Kxc5 3. a7 g2 4. a8=Q g1=Q 5. Qa7+ Kc4 6. Qxg1) (f3 3. a7 f2 4. a8=Q+) 3. a7 g1=Q 4. a8=Q+ Kd6 $1 (Kc7 5. Qa7+ Kc6 6. Qd7+ Kxc5 7. Qa7+ Kd5 8. Qxg1) 5. Qa6+ $1 (5. Qd8+ $2 Ke5 6. Qe7+ Kd4) Kd5 (Ke7 6. Qe6+ Kf8 7. Nd7#) 6. Qe6+ Kd4 7. Kb4 $1 Qh1 $1 8. Qd6+ Ke3 9. Qe5+ (9. Qe7+ $2 Kd4 10. Qxg7+ Ke3 11. Qe7+ Kd4 12. Qd6+ Ke3 13. Qe5+) Kf2 10. Nd3+ (10. Ne4+ $2 Kg1 $1 (Kg2 $2 11. Qb2+ Kf3 12. Qc3+ Kg2 13. Qd2+ Kf3 14. Qd3+ Kg2 15. Qe2+) 11. Qd4+ Kh2 12. Qd2+ Qg2 13. Qxf4+ Kg1) Kg2 11. Nxf4+ $1 Kg3 12. Qg5+ (12. Nd3+ $2 Kh4) Kf2 13. Qc5+ Kg3 14. Ne2+ Kg2 (Kg4 15. Qd4+ Kg5 16. Qf4+ Kh5 17. Ng3#) 15. Qd5+ Kh2 16. Qe5+ Kg2 17. Qe4+ Kh2 18. Qh4+ Kg2 19. Nf4+ Kg1 20. Qe1+ Kh2 21. Qf2+ 1-0
+
+[Event "The Independent"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7N/8/3P1k2/2p5/4K1p1/8/8/8 w - - 0 1"]
+
+1. Kd5 $1 g3 2. Ng6 $1 g2 (Kxg6 3. d7 g2 4. d8=Q g1=Q 5. Qg8+) 3. d7 g1=Q 4. d8=Q+ Kf5 5. Nh4+ $1 Kf4 6. Qd6+ $1 Ke3 7. Qxc5+ Kf4 $1 8. Qc7+ $1 (8. Qxg1 $2) Kg4 $1 (Ke3 9. Qb6+ $1 Kf4 10. Ng6+) 9. Qg7+ Kf4 $1 10. Ng6+ $1 (10. Qxg1 $2) Kf3 $1 11. Ne5+ $1 Kf2 12. Nd3+ $1 Kf1 13. Qf6+ Kg2 (Ke2 14. Nf4+ Ke1 (Kd2 15. Qb2+ Ke3 16. Qd4+) 15. Qa1+ Kf2 16. Nh3+) 14. Nf4+ Kh1 (Kh2 15. Qh4#) 15. Qh4+ Qh2 16. Qe1+ Qg1 17. Qe4+ Kh2 18. Qh7+ Kg3 19. Ne2+ 1-0
+
+[Event "Deventer Dagblad (tw)"]
+[Source "after Kubbel=L a6d5 1922."]
+[Date "1963.11.16"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B6/8/K1k5/8/p2p4/8/2PP4/8 w - - 0 1"]
+
+1. Be5 $1 (1. d3 $2 a3 2. Be5 (2. c4 dxc3) Kc5 3. c4) Kd5 (Kc5 2. Bf6 Kc4 (d3 3. c3 Kd6 4. Kb5 a3 5. c4) 3. Be7 d3 4. c3) 2. Bf6 a3 (Kc4 3. Be7 d3 4. c3 Kb3 5. Kb5 a3 (Kc2 6. Kxa4 Kxd2 7. Kb4) 6. Bxa3 Kxa3 7. Kc4) 3. d3 a2 (Kc5 4. Be7+) 4. c4+ Kc5 5. Kb7 a1=Q 6. Be7# 1-0
+
+[Event "3.p Chéron 70 JT Thèmes 64"]
+[Source "Thèmes 64/1-3 1968 EG#00677."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/7N/7P/2p4B/p6K/6p1/7k w - - 0 1"]
+
+1. Nf5 $1 (1. Ng4 $2 g1=N+ $1 (g1=Q $2 2. Nf2+ Qxf2 3. Bxf2 c3 4. h6 c2 5. h7 c1=Q 6. h8=Q) 2. Kg3 Ne2+ 3. Kf3 a2 4. Bf6 c3 5. Nf2+ Kg1 6. h6 a1=Q) g1=Q (g1=N+ 2. Kg4 $1 Ne2 3. Ne3 $1 Nd4 4. Bf6 Ne6 5. Nxc4 a2 6. h6 Nf8 7. Ne3 Nh7 8. Bc3 Kg1 9. Nc2 Kf2 10. Nb4) 2. Ng3+ Qxg3+ 3. Bxg3 $1 (3. Kxg3 $2 c3 4. h6 (4. Bf6 c2) c2) c3 4. h6 (4. Be5 $2 c2) (4. Bd6 $2 a2) c2 $1 (a2 5. h7 a1=Q 6. h8=Q Kg1 (Qf1+ 7. Kg4+) (Qg1 7. Qa8+) (Qb2 7. Qa8+ Kg1 8. Qe4 Qd2 9. Qb1+) 7. Qd4+ Kh1 8. Qe4+) 5. h7 c1=Q 6. h8=Q Qb2 $1 7. Qa8+ $1 (7. Qh4 $2 Qg2+) (7. Qh5 $2 Qd2) (7. Qh6 $2 Qc2) Kg1 8. Qxa7+ (8. Qc6 $2 Qd2 9. Qc5+ Kh1 10. Qc6+ Kg1) Kh1 (Kf1 9. Qa6+ Kg1 (Qe2 10. Qf6+ Kg1 11. Qb6+ Kf1 12. Qb1+) 10. Qc6 $1) 9. Qa8+ Kg1 10. Qc6 $1 (10. Qf3 $2 Qh8+ 11. Bh4 Qc8+) a2 $1 (Kf1 11. Qf3+) (Qe2 11. Qc5+) (Qd2 11. Qb6+ Kf1 12. Qb5+ Qe2 13. Qb1+) (Qh8+ 11. Bh4 Qb2 12. Qg6+ Kf1 13. Qd3+) 11. Be5 $1 Qb3+ (Qa3+ 12. Bc3) (Qxe5 12. Qg2#) (Qf2 12. Bd4 Kf1 13. Bxf2 a1=Q 14. Qh1+) (Qd2 12. Bd4+ Kf1 13. Qf3+ Ke1 14. Bc3 a1=Q 15. Qe3+ Kf1 16. Qxd2) (a1=Q 12. Bd4+ Kf1 13. Bxb2 $1 Qxb2 (Qa7 14. Qg2+ Ke1 15. Bc3+ Kd1 16. Qd2#) 14. Qh1+ Ke2 15. Qg2+) 12. Bc3 $1 Kf2 (Kf1 13. Qg2#) (Qg8 13. Bd4+ Kf1 14. Qf3+ Ke1 15. Bc3#) (Qc2 13. Bd4+) 13. Qg2+ Ke3 14. Qd2+ Ke4 $1 15. Qd4+ Kf3 (Kf5 16. Qg4#) 16. Qd3+ Kf4 (Kf2 17. Bd4+) 17. Bd2+ Ke5 18. Qxb3 a1=Q 19. Bc3+ 1-0
+
+[Event "1.hm Chéron 70 JT Thèmes 64"]
+[Source "Thèmes 64/1-3 1968 EG#00681."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/P7/1k6/8/8/4p3/4b2K w - - 0 1"]
+
+1. Kg2 $1 (1. a7 $2 Bf2 $1 2. a8=Q e1=Q+ 3. Kg2 Qg1+) Bg3 $1 (Kxa6 2. Kf3) (Bh4 2. a7 e1=Q 3. a8=Q) 2. a7 e1=Q 3. a8=Q Qf2+ 4. Kh3 Qh2+ 5. Kg4 Qh4+ 6. Kf5 Qh5+ (Qf4+ 7. Kg6 $1 Qg4+ 8. Kf6 Bh4+ 9. Kf7 Qf5+ 10. Kg8) 7. Kf6 $1 (7. Ke6 $2 Qe5+ $1 (Qg6+ $2 8. Ke7 Bh4+ 9. Kf8) 8. Kf7 (8. Kd7 Qd6+ 9. Ke8 Qe6+ 10. Kf8 Qf6+ 11. Kg8 Qg6+) Qf5+ 9. Kg7 (9. Ke7 Bh4+ 10. Kd6 (10. Ke8 Qe6+ 11. Kf8 Be7+ 12. Kg7 Bf6+ 13. Kg6 Be7+ 14. Kg7 Qf6+ 15. Kh7 Qf5+ 16. Kg7 Bf6+ 17. Kf7 Be5+) Qf6+ 11. Kd7 Qe7+) Be5+ 10. Kh6 Bf4+ 11. Kg7 Qg5+ 12. Kf7 (12. Kh7 Qh5+) (12. Kf8 Qf6+ 13. Kg8 Qg6+) Qh5+ 13. Kf6 Bg5+ 14. Kf5 Bh4+ 15. Ke4 Qg4+ 16. Ke3 (16. Ke5 Qg5+) Qg1+ 17. Ke2 (17. Kf4 Qg3+ 18. Kf5 Qg5+ 19. Ke6 Qf6+) Qe1+ 18. Kd3 (18. Kf3 Qh1+) Qf1+ 19. Kd4 (19. Kc2 Qe2+ 20. Kc1 (20. Kb1 Qd1+ 21. Ka2 Qc2+) Bg5+ 21. Kb1 Qd1+) Bf6+ 20. Ke3 (20. Kd5 Qg2+) Bg5+ 21. Kd4 Qc4+ $1 22. Ke5 Qf4+ 23. Ke6 Qf6+ 24. Kd7 (24. Kd5 Qf3+) Qe7+ 25. Kc8 Qd8+ 26. Kb7 Qd7+ 27. Kb8 Bf4#) Bh4+ (Qe5+ 8. Kg6 $1 Qe6+ 9. Kg5 $1) (Be5+ 8. Ke6) 8. Kg7 $1 (8. Ke6 $2 Qg6+ 9. Ke5 (9. Kd7 Qf7+ 10. Kc8 Qe8+ 11. Kb7 Qd7+ 12. Kb8 Bg3#) Qg5+ 10. Kd4 Bf2+ 11. Kd3 Qe3+ 12. Kc2 Qe2+ 13. Kc3 Be1+ 14. Kd4 Qb2+ 15. Ke3 Qf2+ 16. Kd3 Qd2+ 17. Ke4 Qg2+) Qg5+ 9. Kf7 (9. Kh7 {<or>} Qf5+ 10. Kg8) Qf5+ 10. Kg8 $1 Qg6+ (Qe6+ 11. Kh7 Qf7+ 12. Kh6 Bg3 13. Kg5) 11. Kf8 Qf6+ 12. Kg8 Qe6+ 13. Kh7 $1 Qf7+ 14. Kh6 Bg3 $1 15. Kg5 $1 Qf4+ (Qg7+ 16. Kh5 Qf7+ (Qe5+ 17. Kg6 Qe6+ 18. Kg5) 17. Kg5) 16. Kg6 $1 (16. Kh5 $2 Qf5+ 17. Kh6 Bf4+ 18. Kg7 Qg5+) Qg4+ 17. Kf6 Bh4+ 18. Kf7 (18. Ke5 $2 Qg5+) Qf5+ 19. Kg8 $1 1/2-1/2
+
+[Event "Thèmes 64"]
+[Source "EG#01644."]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3b3K/7P/5k2/p7/8/8/8 w - - 0 1"]
+
+1. Kg7 $1 a3 2. h7 a2 3. h8=Q a1=Q+ 4. Kh7 Qh1+ 5. Kg7 Qg1+ 6. Kf7 Be6+ 7. Ke8 Bf7+ 8. Kd7 Qa7+ 9. Kc6 Be8+ 10. Kd5 Qa8+ 11. Kc5 Qa5+ 12. Kc4 Qa2+ (Bb5+ 13. Kb3 Qa4+ 14. Kb2) 13. Kc5 Qc2+ 14. Kb6 Qc6+ 15. Ka7 Qc7+ 16. Ka6 Qc6+ 17. Ka7 Qc5+ 18. Kb8 Qd6+ 19. Ka7 Qc5+ 20. Kb8 Qb6+ 21. Kc8 Qc6+ 22. Kb8 Qb6+ 23. Kc8 Qa6+ 24. Kb8 (24. Kd8 $2 Qa8+ 25. Kc7 Qa7+ 26. Kd6 Qb6+ 27. Ke7 Qe6+) Qb6+ 25. Kc8 1/2-1/2
+
+[Event "3.p Ajedrez"]
+[Source "EG#01470."]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/4p3/8/2pP4/5K2/8/4P3/8 w - - 0 1"]
+
+1. e4 $1 (1. Ke5 $2 Kd7 $1 (e6 $2 2. dxe6 $1 (2. d6 $2 Kd7 3. e4 c4 4. Kd4 Kxd6) c4 3. Kd4 Ke7 4. Kxc4 Kxe6 5. Kd4)) (1. Ke4 $2 Kd7 $1 (e6 $2 2. dxe6 $1 (2. d6 $2 Kd7 3. Ke5 c4) Kd8 3. Kd5 Ke7 4. Kxc5 Kxe6 5. Kd4)) (1. Kf5 $2 e6+ $1) e6 $1 (Kd7 {<main>} 2. e5 $1 e6 $1 3. d6 Kc6 4. Ke4 Kb6 $1 5. Kd3 Kb7 6. Kc3 Kb6 (Kc6 7. Kc4 Kb6 8. d7 $1) 7. Kb2 $1 Kb7 8. Kb3 $1 Kb6 9. Ka4 Kc6 10. Ka5 c4 11. Kb4 c3 12. Kxc3) (Kf7 { <main>} 2. e5 Kg7 3. e6 Kf8 4. Ke4 Ke8 5. Kd3 Kd8 6. Kc4 Kc8 7. Kxc5 Kc7 8. Kb5 Kb7 {<eg>} 9. d6) 2. d6 e5+ 3. Kxe5 Kd7 4. Kf6 $1 (4. Kd5 $2 c4 $1 5. Kxc4 Kxd6) c4 5. e5 c3 6. e6+ Kxd6 7. e7 c2 8. e8=Q c1=Q 9. Qd8+ Kc6 10. Qc8+ 1-0
+
+[Event "Chess Life & Review#0637"]
+[Source "Chess Life & Review/9"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7N/4k2P/1pp3K1/8/8/8 w - - 0 1"]
+
+1. Nf5 $1 c3 (b3 {<main>} 2. h6 b2 3. h7 b1=Q 4. h8=Q+ Kd5 5. Qd8+ Kc6 6. Qc8+ Kd5 7. Qd7+ Kc5 8. Qd6+ Kb5 9. Qb8+) (Kf6 { <main>} 2. Ne3 $1 c3 $1 3. Nd5+ Kg7 4. Nxb4 Kh6 5. Kh4 Kh7 6. Kg5 Kg7 7. h6+ Kh7 8. Kh5 Kg8 $1 9. Kg6 Kh8 10. Nd3 c2 11. Ne5 $1 c1=Q 12. Nf7+ Kg8 13. h7+ Kf8 14. h8=Q+ Ke7 15. Qd8+ Ke6 16. Qd6#) 2. h6 c2 3. h7 c1=Q 4. h8=Q+ Ke6 (Ke4 5. Qd4#) 5. Qe8+ Kd5 6. Qd7+ Kc4 7. Qc6+ 1-0
+
+[Event "EG"]
+[Source "EG/7 EG#02335."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/1P4k1/4K3/7p/4n3/8 w - - 0 1"]
+
+1. Kf3 $1 (1. b6 $2 h2 2. b7 h1=Q+) Kh4 (Nd4+ 2. Kg3) 2. b6 Nf4 (Nd4+ 3. Kf2 Kg4 4. b7 Nc6 5. Kg1 Kg3 6. Kh1 Nb8 7. Kg1 Na6 8. Kh1 h2 9. b8=Q+ Nxb8) 3. b7 h2 4. b8=Q h1=Q+ 5. Ke3 (5. Kf2 $2 Qh2+ 6. Kf3 Qe2+) Qh3+ 6. Kd4 (6. Kd2 $2 Qh2+ 7. Kd1 Qe2+ 8. Kc1 Nd3+ 9. Kb1 Qe1+ 10. Ka2 Nb4+ 11. Kb3 Qd1+ 12. Ka3 Qa1+ 13. Kb3 Qa2+ 14. Kc3 Qc2+ 15. Kd4 Nc6+) (6. Ke4 $2 Qd3+ 7. Ke5 Kg5 $1 8. Qa8 (8. Qd6 Qe3#) (8. Qg8+ Ng6+ 9. Ke6 Qc4+) (8. Qb7 Ng6+ 9. Ke6 Nf8+ 10. Ke5 Nd7+ 11. Ke6 Nc5+) Qe3+ 9. Kd6 (9. Qe4 Qc5+) Qd4+ 10. Kc7 (10. Ke7 Nd5+ 11. Kf7 Qf6+ 12. Kg8 Ne7+ 13. Kh7 Qh6#) Ne6+ 11. Kb7 Nc5+ 12. Kb6 Qb4+ 13. Kc7 Qf4+ 14. Kb6 Nd7+ 15. Kb5 Qe5+ 16. Ka6 (16. Kb4 Qb2+) Qd6+ 17. Kb7 Nc5+ 18. Kc8 Qd7+ 19. Kb8 Qd8+ 20. Ka7 Qc7+) Qd3+ 7. Kc5 (7. Ke5 $2 Kg5 $1) Ne6+ 8. Kb6 (8. Kc6 {<or>} Qe4+ 9. Kb6 (9. Kd7 $2 Nc5+ 10. Kd8 Qd5+ 11. Ke7 Qe6+ 12. Kf8 Nd7+)) Qb3+ 9. Ka7 Qa4+ 10. Kb6 (10. Kb7 $2 Nc5+ 11. Kc8 Qd7#) Qb4+ 11. Ka7 Qa5+ 12. Kb7 Nd8+ 13. Kc8 1/2-1/2
+
+[Event "Schakend Nederland#1623"]
+[Source "Schakend Nederland/3 1978 after Halberstadt=V c8c2 1929."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/K5p1/8/6Pp/1k6/7P/8 w - - 0 1"]
+
+1. Kb5 $1 (1. h3 $2 Kc4 2. Kb6 Kd5 3. Kc7 Ke5 4. Kd7 Kf4 5. Ke6 Kg3 6. Kf6 Kxh3 7. g5 Kg4 8. Kxg6 h3) (1. g5 $2 Kc4) Kc3 2. Kc5 Kd3 3. Kd5 Ke3 4. Ke5 Kf3 (h3 5. g5 Kf3 6. Kf6 Kg2 7. Kxg6 Kxh2 8. Kf5) 5. g5 $1 (5. h3 $2 Kg3 6. Kf6 Kxh3 7. g5 Kg4) (5. Kf6 $2 Kxg4 6. Kxg6 h3 7. Kf6 Kf3) Kg4 (Kg2 6. Kf6 Kxh2 7. Kxg6) 6. Kf6 Kh5 $1 7. h3 1/2-1/2
+
+[Event "Europe Échecs (s)"]
+[Source "Europe Échecs/12 also Probleemblad#249 Probleemblad=3 Probleemblad/7-9 2008 also Suomen Tehtäväniekat#3245 Suomen Tehtäväniekat=6 3-2-2009."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5k2/8/1P6/8/5p2/8/1Kn5 w - - 0 1"]
+
+1. b6 $1 f2 2. b7 f1=Q 3. b8=Q Nb3+ $1 4. Kc2 (4. Kb2 $2 Qc1+ 5. Ka2 Qa1+ 6. Kxb3 Qb1+) Qc1+ 5. Kd3 Qd2+ 6. Kc4 $1 (6. Ke4 $2 Qe2+ 7. Kf5 (7. Kf4 Qh2+) (7. Kd5 Qe6#) Nd4+ 8. Kg5 Qg2+ 9. Kh5 (9. Kh4 Nf3+ 10. Kh5 Qg5#) (9. Kh6 Qg6#) Qh3+ 10. Kg5 Ne6#) Na5+ 7. Kc5 Qc3+ 8. Kb6 $1 (8. Kd6 $2 Qg3+ 9. Kd7 $1 Qg4+ (Qxb8) 10. Kd6 $1 Qd4+ 11. Kc7 Ke7 $1 (Qc5+ 12. Kd7 Qe7+ 13. Kc8 Qe8+ (Qf8+ 14. Kd7 Qxb8) 14. Kc7 Qc6+ 15. Kd8 Nb7+ 16. Qxb7+ Qxb7)) (8. Kd5 $2 Qc4+ 9. Kd6 (9. Ke5 Nc6+) Qd4+) Qb4+ (Nc4+ 9. Ka6 $1 Qa5+ 10. Kb7 Qb6+ 11. Ka8 $1) 9. Kc7 Qc5+ 10. Kd7 (10. Kd8 $2 Nc6+) Qc6+ 11. Kd8 Nb7+ (Qe8+ {<main>} 12. Kc7 Qe5+ 13. Kd7 $1 Qxb8) 12. Qxb7+ Qxb7 1/2-1/2
+
+[Event "Schaakschild"]
+[Source "Schaakschild/6"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2B5/8/1Pk5/8/8/p2K4/8/8 w - - 0 1"]
+
+1. b7 $1 a2 (Kc7 2. Kc3) 2. b8=Q a1=Q 3. Qb7+ Kd6 (Kc5 4. Qe7+) 4. Qd7+ (4. Qb6+ $2 Ke7 5. Qe6+ Kf8 6. Qd6+ Kg7 7. Qe7+ Kh6) Kc5 5. Qe7+ Kc6 (Kb6 6. Qd6+ Kb5 7. Bd7+ Ka5 8. Qc5+ Ka6 9. Bc8#) (Kb5 6. Bd7+ Kb6 7. Qd6+ Kb7 8. Bc6+ Kb6 9. Bd5+ Kb5 10. Qc6+ Kb4 11. Qb6+ Ka3 12. Qb3#) (Kd5 6. Bb7#) 6. Bd7+ Kc7 (Kd5 7. Qe6+ Kc5 8. Qc6+ Kb4 9. Qb5+ Ka3 10. Qa4+ Kb2 11. Qb4+ Kc1 12. Qd2+ Kb1 13. Qc2#) (Kb6 7. Qd6+ Kb7 8. Qc6+ Ka7 9. Qc5+) 7. Be6+ (7. Be8+ $2 Kb8 8. Qd6+ Ka7 9. Qc7+ Ka6 10. Qc6+ Ka7 11. Qc5+ Kb8 12. Qb6+ Kc8 13. Qc6+ Kb8) Kc6 8. Qd7+ Kb6 (Kc5 9. Qc7+ Kb4 10. Qb6+) 9. Qd8+ Kc6 (Kc5 10. Qc7+) (Ka7 10. Qc7+) (Kb5 10. Bd7+ Kc5 11. Qe7+ Kb6 12. Qd6+) 10. Bd7+ Kd6 (Kc5 11. Qe7+) (Kd5 11. Be8+) 11. Be8+ Ke5 (Ke6 12. Qd7+) (Kc5 12. Qc7+ Kb4 (Kd5 13. Bf7#) 13. Qb6+) 12. Qc7+ Kf6 (Kf5 13. Qh7+) 13. Qf7+ Kg5 14. Qh5+ Kf4 (Kf6 15. Qh8+) 15. Qh6+ Kg3 (Kf5 16. Bd7+ Ke5 17. Qg7+) (Kg4 16. Bd7+) 16. Qg5+ Kf2 17. Qh4+ Kg1 18. Qg3+ Kf1 19. Bb5 Qb1+ (Qa3+ 20. Kd2+) (Qd1+ 20. Ke3+) (Qc1 20. Kd4+) (Qa5 20. Ke3+) 20. Ke3+ Qxb5 21. Qf2# 1-0
+
+[Event "EG"]
+[Source "EG/7 EG#03289."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3P3K/8/4B2k/8/p6p/8 w - - 0 1"]
+
+1. d7 $1 h1=Q (a1=Q 2. d8=Q+ Kh3 (Kg4 3. Qg5+ Kh3 4. Bg2#) (Kg3 3. Qg5+ Kf2 4. Qg2+) 3. Qd7+ Kg3 (Kh4 4. Qe7+ Kh3 5. Bf5+) 4. Qd6+ Kh3 (Kg4 5. Qg6+) (Kh4 5. Qf4+ Kh3 6. Qf3+ Kh4 7. Qf2+ Kg4 8. Bf5#) (Kf2 5. Qd2+ Kg3 6. Qe3+) 5. Qe6+ Kg3 (Kh4 6. Qe7+ Kh3 7. Bf5+ Kg2 8. Qe2+ Kg3 9. Qe3+ Kg2 10. Bh3+ Kh1 11. Qf3+ Kg1 12. Qg2#) 6. Qg6+ Kf4 (Kh3 7. Bf5+ Kh4 8. Qg4#) (Kh4 7. Qg5+ Kh3 8. Bf5#) (Kf2 7. Qg2+) 7. Qf5+ Ke3 (Kg3 8. Qf3+ Kh4 9. Qf4+) 8. Qf3+ Kd2 9. Qf2+ Kc1 (Kc3 10. Qf6+) (Kd1 10. Qf1+) 10. Qc2#) 2. d8=Q+ $1 (2. Bxh1 $2 a1=Q 3. d8=Q+ Kh3 4. Qd3+ Kh2) Kg3+ $1 (Kg4+ 3. Bxh1 a1=Q 4. Qg5+ Kh3 5. Qg2+ Kh4 6. Qf2+) (Kh3 3. Qd3+ Kh2 (Kh4 4. Bxh1 a1=Q 5. Qe4+ Kg3 6. Qf3+) (Kg4+ 4. Bxh1 a1=Q 5. Qf3+ Kh4 6. Qf2+) 4. Qe2+ Kg3+ (Kh3 5. Qh5+ Kg3 6. Qxh1) 5. Bxh1 a1=Q 6. Qf3+) 3. Bxh1 a1=Q 4. Qg5+ Kf2 (Kh3 5. Qg2+ Kh4 6. Qf2+) 5. Qd2+ Kg3 (Kg1 6. Qg2#) (Kf1 6. Qg2+ Ke1 7. Qg1+) 6. Qg2+ Kh4 (Kf4 7. Qg5#) 7. Qf2+ Kg4 (Kh3 8. Bg2+ Kg4 (Kh2 9. Bf1+ Kh1 10. Qg2#) 9. Qf3+ Kh4 10. Qf4#) 8. Bf3+ Kf5 (Kf4 9. Bb7+) 9. Bb7+ $1 Ke6 (Ke5 10. Qc5+) (Kg4 10. Bc8#) 10. Qb6+ Kd7 (Ke7 11. Qc5+) (Kf5 11. Qg6+ Kf4 12. Qg5#) (Ke5 11. Qc5+ Kf6 (Ke6 12. Bc8+ Kf7 13. Qc7+ Kf8 14. Qg7+) 12. Qd6+ Kf7 (Kf5 13. Qg6+) 13. Bd5+ Ke8 14. Bc6+ Kf7 15. Qd7+ Kf8 (Kf6 16. Qg7+) 16. Qe8#) 11. Qc6+ (11. Bc6+ $2 Kd6 12. Bg2+ Ke7 13. Qc5+ Kd8 14. Qd6+ Kc8 15. Qc6+ Kd8 16. Qb6+ Ke7) Ke7 (Kd8 12. Qd6+ Ke8 13. Bc6+ Kf7 14. Qd7+) 12. Qc5+ Kd7 (Ke6 13. Bc8+ Kf7 14. Qd5+ Kf8 (Kf6 15. Qe6#) 15. Qd6+ Kf7 16. Be6+ Kf6 17. Bg4+ Kf7 18. Bh5+ Kg8 19. Qd8#) 13. Bc6+ Kc7 (Ke6 14. Qd5+ Kf6 15. Qd6+ Kf5 (Kf7 16. Qd7+) 16. Qg6+ Kf4 17. Qg5#) 14. Bb5+ $1 (14. Bd5+ $2 Kd7 15. Qc6+ Kd8 16. Qb6+ (16. Qd6+ Kc8 17. Be6+ Kb7) Kd7 17. Bc6+ Kd6 18. Bb7+ Kd7) Kb7 15. Qc6+ Kb8 16. Qd6+ Kb7 17. Bc6+ Kb6 18. Bd5+ $1 Kb5 (Ka5 19. Qc7+ Kb4 20. Qb6+) 19. Qc6+ Kb4 20. Qb6+ Ka3 21. Qb3# 1-0
+
+[Event "EG (c)"]
+[Source "EG/6 EG#03600a. (c): Vandecasteele=I Schaakstudiespinsels-2#130 2012."]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1Q6/8/8/2q1p3/8/8/1B5k/3K4 w - - 0 1"]
+
+1. Bxe5+ $1 Kg1 2. Qg8+ Kf1 3. Qf7+ Qf2 4. Qc4+ Kg2 5. Qg4+ Kf1 6. Qe4 Qc5 7. Qe2+ Kg1 8. Qg4+ Kf1 9. Bd4 Qxd4+ 10. Qxd4 1-0
+
+[Event "1.c Heuacker MT Die Schwalbe"]
+[Source "Die Schwalbe/10 EG#04782."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/K6B/3p1P2/7p/4p3/5k2/8 w - - 0 1"]
+
+1. f6 $1 h3 2. f7 (2. Bxe3+ $2 Kxe3 3. f7 h2) (2. Bf4 $2 h2 3. Bxh2 e2) h2 3. f8=Q+ Ke2 4. Bxe3 h1=Q 5. Qf2+ Kd3 6. Qd2+ Ke4 (Kc4 7. Qc2+ Kb4 8. Bc5#) 7. Qd4+ Kf5 8. Qf4+ Kg6 (Ke6 9. Bd4 Ke7 (d6 10. Qf6+ Kd7 11. Qf7+) 10. Qf6+ (10. Bc5+ $2 d6 11. Qxd6+ Kf7 12. Qf4+ Kg6 13. Qg4+ Kf6 14. Bd4+ Kf7 15. Qf5+ Ke8 16. Qe6+ Kf8 17. Qf6+ Ke8 18. Bc5 Qe4 19. Kb7 Qh7+ 20. Kb8 Qh2+ 21. Bd6 Qe2) Ke8 11. Qg6+ Ke7 (Kd8 12. Bf6+ Kc7 13. Be5+ Kd8 14. Qf6+ Ke8 15. Bd6) 12. Bf6+ (12. Bc5+ d6) Kd6 13. Bg7+ Kc5 (Ke7 14. Qf6+ Ke8 15. Qf8#) (Kc7 14. Qb6+ Kc8 15. Qc5+ Kd8 16. Bf6+ Ke8 17. Qe7#) 14. Qb6+ Kc4 15. Qb5#) 9. Qg5+ Kf7 (Kh7 10. Qf5+ Kg7 11. Bd4+ Kh6 12. Qf6+ Kh7 13. Qh8+) 10. Qf5+ Ke7 11. Bg5+ (11. Bc5+ $2 d6 12. Qe5+ Kf7) Ke8 (Kd6 {<main>} 12. Qf6+ Kc5 (Kc7 13. Qb6+ Kc8 14. Qb7#) 13. Be3+ Kb4 (d4 14. Qxd4+ Kc6 15. Qb6+ Kd5 16. Qb7+) 14. Qd4+ Kb3 15. Qd3+ Kb4 (Kb2 16. Bd4+ Kc1 17. Qc3+ Kb1 18. Qa1+) 16. Kb6 (16. Bd2+ $2 Kc5 17. Qc3+ Kd6 18. Bf4+ Ke6 19. Qe5+ Kf7 20. Qf5+ Ke7) d6 17. Bd2+ Ka4 18. Qc2+ Ka3 19. Ka5 Qe4 20. Bc1#) 12. Qg6+ Kf8 13. Qf6+ (13. Bf6 $2 Qf1+ 14. Kb6 Qf2+ 15. Kb7 (15. Kb5 Qe2+ 16. Ka4 Qe4+) Qc5) Kg8 14. Qd8+ Kf7 15. Qe7+ Kg8 16. Bf6 Qf1+ (Qg2 17. Qe8+) (Qh6 17. Qe8+ Kh7 (Qf8 18. Qg6+) 18. Qf7+) 17. Ka5 (17. Kb7 $2 Qb1+ 18. Kc7 Qg6) (17. Ka7 $2 Qg1+ 18. Kb7 Qg6) Qg2 18. Qe8+ Kh7 19. Qh8+ Kg6 20. Qg7+ 1-0
+
+[Event "Europe Échecs"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2k5/8/7K/5pP1/8/6n1/8 w - - 0 1"]
+
+1. g5 $1 f3 (Kd7 2. g6 Ke7 3. Kh6) 2. g6 Nf4+ 3. Kg4 $1 f2 4. g7 f1=Q (Nd5 5. g8=Q Nf6+ 6. Kg3 Nxg8 7. Kxf2) 5. g8=Q Qg2+ 6. Kh4 $1 Qh3+ (Qxg8) 7. Kg5 Qg3+ 8. Kh6 $1 Qh4+ (Qxg8) 9. Kg7 Nh5+ 10. Kf7 (10. Kf8 {<or> } Qd8+ 11. Kf7 Qf6+ 12. Ke8) Qf6+ 11. Ke8 Ng7+ 12. Qxg7+ Qxg7 1/2-1/2
+
+[Event "Revista de Romana de Sah#0912"]
+[Source "Revista de Romana de Sah/2"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/8/8/q3B3/6Q1/6p1/6kp/8 w - - 0 1"]
+
+1. Qe2+ $1 (1. Qxg3+ $2 Kf1 2. Qf3+ Ke1 3. Bc3+ Qxc3+ 4. Qxc3+ Kf2) Kh3 (Kg1 2. Bd4+ Kh1 3. Qf1#) 2. Qf1+ $1 Kg4 (g2 3. Qf3+ Kh4 4. Bf6+) 3. Qf4+ Kh5 4. Qf5+ Kh6 (Kh4 5. Bf6#) 5. Bf4+ Kg7 6. Qxa5 $1 h1=Q 7. Qg5+ Kf7 (Kh7 8. Qf5+ Kg7 9. Be5+ Kh6 10. Qf6+ Kh5 11. Qh8+) (Kf8 8. Bd6+ Kf7 9. Qf5+ Kg7 10. Be5+) 8. Qf5+ Ke7 (Ke8 9. Qe6+ Kf8 10. Bh6+) (Kg7 9. Be5+) (Kg8 9. Qg6+) 9. Kc7 $1 Qd1 10. Bg5+ Ke8 11. Qe6+ Kf8 12. Bh6# 1-0
+
+[Event "Suomen Shakki"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4kP2/2p1N3/p1p1K3/8/8/8 w - - 0 1"]
+
+1. f7 $1 Ke7 2. Kf5 a3 (c3 3. Kg6 c2 4. Nd3) 3. Kg6 a2 4. Kg7 a1=Q 5. f8=Q+ Ke6 6. Qf6+ (6. Qf7+ $2 Kd6) Kd5 7. Qf3+ Ke6 (Kxe5 8. Qf6+) 8. Qc6+ Kf5 (Ke7 9. Qd7#) 9. Qf6+ Ke4 10. Qf3+ Kd4 11. Nc6# 1-0
+
+[Event "EG"]
+[Source "EG/4 EG#04788."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4K3/2P5/P1P5/k3n3/8/8/8/5q2 w - - 0 1"]
+
+1. c8=Q $1 Qf7+ 2. Kd8 Qf6+ (Qf8+ 3. Kc7 Qe7+ 4. Kb8) 3. Kc7 (3. Ke8 $2 Qh8+) Qxc6+ 4. Kb8 (4. Kd8 $2 Nf7+) Nd7+ 5. Ka7 Qb6+ (Qxc8) 6. Ka8 Nc5 7. a7 (7. Qb8 $2 Qc6+) Qd6 8. Qc7+ $1 (8. Qb8 $2 Qc6+) (8. Qxc5+ $2 Qxc5 9. Kb7 Qd5+ 10. Kb8 Kb6) Qxc7 1/2-1/2
+
+[Event "The Independent#166"]
+[Date "1987.09.18"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k5/8/P7/1KB5/2p5/8/8/8 w - - 0 1"]
+
+1. Bd6 $1 c3 2. Kb6 $1 c2 3. a7 c1=Q 4. a8=Q+ Kd7 5. Qd5 $1 Qh6 (Qb1+ 6. Bb4+) (Qc8 6. Qf5+ Kd8 7. Qf6+ Kd7 8. Qe7#) 6. Qc6+ 1-0
+
+[Event "2.hm Springaren#06232 (@2)"]
+[Source "Spr@ngaren/3 î2: Valtonen=K Springaren=34 9/1988."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/n7/1p2PP2/4k3/K7/8 w - - 0 1"]
+
+1. f5 $1 Kd4 2. f6 Kc3 $1 3. f7 (3. Kb1 $1 {<minor dual KV>} b3 4. f7) b3+ 4. Kb1 $1 (4. Ka3 $2 Nc4+ 5. Ka4 Nb6+ 6. Kb5 Nd7 7. e5 Nf8) Nc4 $1 5. f8=Q Nd2+ 6. Kc1 b2+ 7. Kd1 b1=Q+ 8. Ke2 Qd3+ 9. Ke1 Qe3+ 10. Kd1 Qg1+ (Nb3 11. Qc8+ Kb2 12. Qc2+ Ka3 13. Qg2) (Nc4 11. Qg7+ Kb3 12. Qb7+ Kc3 13. Qg7+) 11. Ke2 Qg2+ $1 12. Qf2 $1 Qg4+ 13. Ke1 Qxe4+ 14. Kd1 (14. Qe2 $2 Qh1+) Qc2+ 15. Ke1 Qb1+ 16. Ke2 Qb5+ 17. Kd1 (17. Ke1 {<or>}) Qb1+ 18. Ke2 Qd3+ 19. Ke1 (19. Kd1 $2 Nb3+ 20. Ke1 Nd4) Nf3+ 20. Qxf3 Qxf3 1/2-1/2
+
+[Event "2.hm Springaren#06332 (c)"]
+[Source "Springaren/3 (c): 1997."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/5P2/2n1P3/1p6/8/1K1k4 w - - 0 1"]
+
+1. f6 $1 Kd2 2. f7 Kc3 $1 3. f8=Q Nd2+ $1 4. Kc1 $1 (4. Ka1 $2 b2+ 5. Ka2 b1=Q+ 6. Ka3 Qb3#) b2+ 5. Kd1 b1=Q+ 6. Ke2 Qd3+ (Qxe4+ 7. Kf2) 7. Ke1 (7. Kf2 $2 Qf1+) (7. Kd1 $2 Nf3+) Qe3+ 8. Kd1 Qg1+ 9. Ke2 Qg2+ $1 10. Qf2 (10. Ke3 $2 Nc4+ 11. Kf4 Qf2+) (10. Ke1 $2 Nf3+) (10. Kd1 $2 Qg4+ 11. Ke1 Nf3+ 12. Ke2 (12. Kf1 Qg1+ 13. Ke2 Nd4#) Qxe4+ 13. Kf2 Qe1+ 14. Kg2 Qg1+ 15. Kh3 Qh2+ 16. Kg4 Ne5+ 17. Kg5 Qg3+) Qg4+ 11. Ke1 (11. Ke3 $2 Qxe4#) Qxe4+ 12. Kd1 $1 (12. Qe2 $2 Qh1+ 13. Kf2 Qh2+) Qc2+ 13. Ke1 (13. Ke2 $2 Ne4+) Qb1+ 14. Ke2 Qb5+ 15. Kd1 (15. Ke3 $2 Qe5#) Qb1+ 16. Ke2 Qd3+ 17. Ke1 $1 (17. Kd1 $2 Nb3+ $1 (Ne4+ $2 18. Kc1 Nxf2) 18. Ke1 Nd4 $1 19. Qa2 (19. Qf1 Qd2#) (19. Qh2 Nf3+) Qe4+ $1 20. Kf2 (20. Kf1 Qh1+ 21. Kf2 Qh2+) Qf3+ 21. Kg1 (21. Ke1 Qh1+) Ne2+) Nf3+ 18. Qxf3 Qxf3 1/2-1/2
+
+[Event "2.hm Springaren#06232 (c)"]
+[Source "Springaren/3 (c): Vandiest=J EBUR=2 6/2001."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Vandiest, Julien Gustave Emile"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/2n1PP2/1p3k2/8/1K6 w - - 0 1"]
+
+1. f5 $1 (1. e5 $2 Ke2 2. e6 Kd2 3. e7 Kc3 4. e8=Q Nd2+ 5. Kc1 b2+ 6. Kd1 b1=Q+ 7. Ke2 Qf1+ 8. Ke3 Qf3#) Ke2 $1 (Kxe4 2. f6 Kd3 3. f7 Kc3 4. f8=Q Nd2+ 5. Kc1 b2+ 6. Kd1 b1=Q+ 7. Ke2 Qd3+ 8. Ke1 Qe3+ 9. Kd1 Qg1+ 10. Ke2 Qg2+ 11. Ke1 $1 Nf3+ 12. Qxf3+ Qxf3) 2. f6 Kd2 3. f7 Kc3 4. f8=Q Nd2+ (Na3+ 5. Kc1 $1 b2+ 6. Kd1 b1=Q+ 7. Ke2) 5. Kc1 b2+ 6. Kd1 b1=Q+ 7. Ke2 Qd3+ (Qxe4+ 8. Kf2) 8. Ke1 (8. Kf2 $2 Qf1+) (8. Kd1 $2 Nf3+ 9. Kc1 Qc2#) Qe3+ 9. Kd1 Qg1+ (Nb3 10. Qc8+ Kb2 11. Qc2+ Ka3 12. Qg2) (Nc4 10. Qg7+ Kb3 11. Qb7+ Kc3 12. Qg7+) 10. Ke2 Qg2+ $1 11. Qf2 $1 (11. Ke1 $2 Nf3+) (11. Ke3 $2 Nc4+ 12. Kf4 Qf2+) (11. Kd1 $2 Qg4+ $1 12. Ke1 Nf3+ 13. Ke2 (13. Kf2 Qg1+ 14. Ke2 Nd4#) Qxe4+ $1 14. Kf1 Qe1+ 15. Kg2 Qg1+ 16. Kh3 Qh2+ 17. Kg4 Ne5+ 18. Kg5 Qg3+ 19. Kf6 Nd7+) Qg4+ 12. Ke1 (12. Ke3 $2 Qxe4#) Qxe4+ 13. Kd1 (13. Qe2 $2 Qh1+ 14. Kf2 Qh2+) Qc2+ 14. Ke1 (14. Ke2 $2 Ne4+) Qb1+ $1 15. Ke2 Qb5+ 16. Kd1 (16. Ke3 $2 Qe5#) (16. Ke1 {<or>}) Qb1+ 17. Ke2 Qd3+ 18. Ke1 $1 (18. Kd1 $2 Nb3+ $1 (Ne4+ $2 19. Kc1 Nxf2) 19. Ke1 Nd4 $1 20. Qa2 (20. Qf1 Qd2#) (20. Qh2 Nf3+) (20. Qg2 Nc2+ 21. Kf2 Qe3+ 22. Kf1 Qe1#) Qe4+ $1 21. Kf2 (21. Kd1 Qh1#) (21. Kf1 Qh1+ 22. Kf2 Qh2+) Qf3+ 22. Kg1 Ne2+) Nf3+ 19. Qxf3 Qxf3 1/2-1/2

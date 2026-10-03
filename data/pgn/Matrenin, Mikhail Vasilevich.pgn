@@ -1,0 +1,12 @@
+[Event "1.p Krasnii Krim"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Matrenin, Mikhail Vasilevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5b2/4p3/8/1P2p3/8/B1p5/7K/5k2 w - - 0 1"]
+
+1. b6 $1 Bh6 2. b7 Bf4+ 3. Kh1 e4 4. Bd6 Bxd6 5. b8=Q Bxb8 1/2-1/2

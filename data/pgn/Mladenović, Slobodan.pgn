@@ -1,0 +1,13 @@
+[Event "The Problemist#0298"]
+[Source "The Problemist/5"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Mladenović, Slobodan"]
+[White "Mladenovic, S"]
+[Black " Mladenovic, M."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "n7/PP5p/PP3p1P/k2b1p1K/7p/8/8/3r4 w - - 0 1"]
+
+1. bxa8=Q $1 Bxa8 2. b7 h3 3. bxa8=Q h2 4. Qh1 Rxh1 5. a8=Q Rd1 6. Qh1 Rxh1 7. a7 Rd1 8. a8=Q+ Kb5 9. Qb8+ Kc5 10. Qxh2 1-0

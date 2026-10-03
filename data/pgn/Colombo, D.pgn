@@ -1,0 +1,12 @@
+[Event "Mundo Argentino"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Colombo, D"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k1K/7P/3p3N/3P4/8/p7/8/8 w - - 0 1"]
+
+1. Nf5 $1 a2 2. Nd4 $1 a1=R (a1=Q) 3. Ne6+ (3. Nf5 $2 Kf7 4. Nh6+ Kg6 5. Ng8 Ra7) (3. Nb5 $2 Ra8 4. Nc7 (4. Nxd6 Rb8) Rc8 5. Ne8 Kxe8 6. Kg7 Ke7) Kf7 4. Nd8+ (4. Nc7 $2 Rb1 5. Nb5 Rb2 6. Nxd6+ Kg6) Kg6 5. Kg8 Ra8 6. h8=N+ $1 Kf6 7. Nhf7 Ra5 (Ke7 8. Kg7 Rxd8 9. Nxd8 Kxd8 10. Kf6 Kd7 11. Kf7) 8. Nxd6 1/2-1/2

@@ -1,0 +1,397 @@
+[Event "?"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "7k/6R1/8/8/p2K4/B2P4/P6p/8 w - - 0 1"]
+
+1. Bd6 (1. Rg1 $4 hxg1=Q+ 2. Ke4 Qg2+ $19) (1. Ra7 $4 h1=Q $10 $15 2. Kc4) (1. Ke3 $4 Kxg7 2. Bf8+ Kxf8) h1=Q 2. Be5 (2. Rf7 $4 Qa1+ 3. Kc5 $4 (3. Ke4 $5 Qxa2) Qxa2 4. Be5+ Kg8) (2. Rg4 $4 Qa1+ 3. Ke3 (3. Kc5 $5 Qxa2 4. Be5+ Kh7) Qxa2 4. Rh4+ Kg8) (2. Rg2 $4 Qxg2 3. Be5+ Kg8) (2. Bh2 Kxg7 3. Be5+ Kg6) (2. Bc5 Kxg7 3. Bf8+ Kxf8) (2. Rg3 Qa1+ 3. Kc5 Qxa2 4. d4) Qa1+ 3. Kd5 (3. Ke4 $2 Qe1+ 4. Kd4 Qb4+ $10) (3. Kc5 $4 Qxe5+ 4. Kc4 Kxg7 $19) (3. Ke3 $4 Qxe5+ 4. Kf3 Kxg7) (3. Kc4 $4 Qxe5 $19 4. Rh7+ Kxh7) Qxa2+ 4. Kd6 (4. Ke4 $2 Qe2+ 5. Kd4 $10) (4. Kc6 $4 Qe6+ 5. Kb7 Qxe5 $19 6. Rh7+ Kxh7) (4. Kc5 $2 Qc2+ 5. Kb5 $10) (4. Kd4 $2 Qa1+ 5. Kd5 $10) Qa3+ 5. Kc6 (5. Kd7 $2 Qxd3+ 6. Ke6 $10) (5. Ke6 $2 Qb3+ 6. Kd6 $10) (5. Kd5 $2 Qxd3+ 6. Bd4 $10) (5. Kc7 $4 Qc5+ 6. Kb7 Qxe5 $19 7. Rh7+ Kxh7) Qc1+ 6. Kd5 (6. Kd6 Qa3+ $18 7. Kc6) (6. Kd7 $2 Qe1 7. d4 $10) (6. Kb7 $2 Qb1+ 7. Kc7 $10) (6. Kb5 $2 Qb1+ 7. Kc5 $10 Qc2+ 8. Kd4) (6. Kb6 $2 Qb1+ 7. Kc5 $10) (6. Bc3 $4 Qxc3+ 7. Kb5 Qb3+) Qa3 7. Ke4 (7. d4 $2 Qb3+ 8. Kc5 $10) (7. Kd4 $2 Qa1+ 8. Ke4 $10) (7. Kc6 Qc1+ 8. Kd5 Qa3 $18) (7. Kc4 $2 Qa2+ 8. Kd4) (7. Ra7+ $2 Kg8 8. Bd6) Qb4+ 8. Kf5 (8. d4 $2 Qb1+ 9. Kf4 $10) (8. Ke3 $2 Qb6+ 9. d4 $10) (8. Bd4 $2 Qxd4+ 9. Kxd4 Kxg7 10. Kc4 $10) (8. Kd5 $2 Qb5+ 9. Kd4) (8. Kf3 $2 Qb5 9. Kf4) Qa3 9. Rd7+ (9. Kg6 $2 Qxd3+ 10. Kf6 $10) (9. Rg3+ $2 Kh7 10. d4 $10) (9. d4 $2 Qd3+ 10. Kg5 $10) (9. Ke6 $2 Qb3+ 10. Kd6 $10) (9. Kg5 $2 Qc5 10. Kf5) (9. Ke4 Qb4+ 10. Kf5 Qa3 $18) (9. Kf4 $2 Qc1+ 10. Ke4) (9. Kg4 $2 Qa2 10. Kf4) Kg8 10. Kg6 $18 (10. Rg7+ $4 Kf8 $19 11. Bd6+ Qxd6) (10. Rd8+ $4 Kf7 11. Rd7+ Ke8 $19) (10. Kf6 $4 Qf8+ 11. Ke6 a3) (10. Bd6 $4 Qxd3+ 11. Kf6 Qf3+) (10. Ke6 $4 Qb3+ 11. Kf6 Qb6+) (10. Kg5 $4 Qc1+ 11. Kg6 Qc6+) (10. d4 $4 Qh3+ 11. Ke4 Qxd7) (10. Ke4 $4 Qa2 11. Rd8+ Kf7) (10. Ra7 $4 Qxd3+ 11. Kf4 a3 12. Rg7+ Kf8) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "k7/3p1r2/3K4/2B5/8/8/8/8 w - - 0 1"]
+
+1. Kc7 (1. Bd4 $2 Kb8 $19 2. Ba7+ Kxa7) (1. Bf2 $2 Rxf2 $19 2. Kxd7 Rf6) (1. Bg1 $2 Kb8 $19 2. Ba7+ Kxa7) (1. Ke5 $2 Kb8 $19 2. Bd6+ Kb7) (1. Be3 $2 Kb8 $19 2. Ba7+ Kxa7) (1. Bb6 $2 Rf6+ 2. Kc5 Rc6+) (1. Kd5 $2 Kb8 2. Bd6+ Kc8) (1. Bb4 $2 Kb8) (1. Ba3 Kb8) Rh7 (d5+ 2. Kd6 (2. Kc6 Rf6+ 3. Kxd5 $10 Rf5+ 4. Kd4) (2. Kc8 $2 Rb7) (2. Kb6 $2 Rf4 3. Kb5 Rc4 4. Bd6 Kb7) (2. Be7 $2 d4 3. Kd6 Rxe7 4. Kxe7 d3) (2. Kd8 $2 Kb7 3. Be3 Kc6) Rf5 3. Bd4 Kb7 4. Be5 $10 (4. Ke6 Rf6+ 5. Bxf6 $10) (4. Kc5 $2 Kc7 $19 5. Be5+ Rxe5) (4. Bc5 $2 Ka6) (4. Bb2 Kb6) (4. Ba1 Kb6) (4. Kd7 Rf4) (4. Bg1 Ka6) (4. Be3 Ka6) (4. Bf2 Rxf2 5. Kxd5 Re2)) 2. Bf2 (2. Bd6 $2 Ka7 $19 3. Bc5+ Ka6) (2. Bd4 $2 Rh4 $19 3. Kxd7 Rxd4+ 4. Ke6 Ra4) (2. Bg1 $2 Rh1 $19 3. Kxd7 Rxg1) (2. Be3 $2 Rh3 $19 3. Kxd7 Rxe3) (2. Kd8 $2 Kb7 3. Be3 Kc6) (2. Kc8 $2 d5 3. Bd4 Re7) (2. Kb6 $2 Rh6+ 3. Kb5 Rc6 4. Bf2 Kb7) Rh2 3. Bg3 (3. Bc5 $2 Rc2 $19 4. Kxd7 Rxc5) (3. Bg1 $2 Rh1 $19 4. Kxd7 Rxg1) (3. Bb6 $2 d5 $19 4. Bd4 Rh4) (3. Be3 $2 Re2 $19 4. Kxd7 Rxe3) (3. Bd4 $2 Rc2+ 4. Kd6 Rd2 5. Kxd7 Rxd4+ 6. Ke6 Ra4) (3. Be1 $2 d5 4. Bg3 Re2) (3. Kd6 Rxf2 4. Kxd7 Rd2+) Rh7 4. Bf2 (4. Bd6 $2 Ka7 $19 5. Bc5+ Ka6) (4. Bf4 $2 d5+ 5. Kc6 d4 $19 6. Bc1 d3) (4. Be5 $2 Ka7 $19 5. Bd4+ Ka6) (4. Kd6 $2 Kb8 5. Kc5+ Kc8 6. Bf2 Rh1) (4. Kc8 $2 d5 $19 5. Bf2 Rg7) (4. Kd8 $2 d5 5. Bf2 Kb7) (4. Kb6 $2 Rh1 5. Kc5 Rd1) (4. Be1 $2 d5+ 5. Kc6 d4 6. Kd5 Rh1) (4. Bh4 Rxh4 5. Kxd7 Rd4+) Rg7 5. Be3 (5. Bc5 d6+ 6. Kxd6 $10 Rg6+ 7. Kd5) (5. Bd4 $2 Rg4 $19 6. Kxd7 Rxd4+ 7. Ke6 Ra4) (5. Kd6 $2 Rf7 $19 6. Bd4 Rf6+ 7. Bxf6) (5. Bh4 $2 d5+ 6. Kc6 d4 7. Kc5 d3) (5. Kd8 $2 Kb7 6. Ke8 d5) (5. Bg3 $2 Rxg3 6. Kxd7 Rg6) (5. Bg1 $2 Rxg1 6. Kxd7 Rg6) (5. Kb6 Rg2) Rg3 6. Bf4 (6. Bf2 $2 Rf3 $19 7. Kxd7 Rxf2) (6. Bd4 $2 Rg4 $19 7. Kxd7 Rxd4+ 8. Ke6 Ra4) (6. Bd2 $2 d5 $19 7. Bf4 Rg4) (6. Bc5 $2 Rc3 7. Kxd7 Rxc5) (6. Bb6 $2 d5 7. Bd4 Rg4) Rg7 7. Be3 (7. Be5 $2 Rh7 $19) (7. Bd6 $2 Ka7 $19 8. Bc5+ Ka6) (7. Bd2 $2 d5+ 8. Kc6 d4 $19 9. Bc1 d3) (7. Bh6 $2 Rg6 8. Kxd7 Rxh6) (7. Kb6 $2 Rg4 8. Bd6 Rc4) (7. Bh2 $2 d5+ 8. Kc6 d4 9. Be5 d3) (7. Kd6 $2 Rf7 8. Bg3 Kb8) (7. Bg5 Rxg5 8. Kxd7 Rg6) (7. Kd8 d5) Rf7 8. Bd4 Rf4 9. Be5 (9. Be3 $2 Re4 $19 10. Kxd7 Rxe3) (9. Bb6 $2 d5 $19 10. Ba5 d4) (9. Bc5 $2 d5 $19) (9. Bg1 $2 d5 10. Be3 Ra4) Rf7 10. Bd4 (10. Kd6 $2 Kb8 11. Kc5+ Kc8 12. Kd5 Rf1) (10. Bg3 $2 d5+ 11. Kc6 d4 12. Kc5 d3) (10. Bf6 $2 Rxf6 11. Kxd7 Rb6) (10. Bh8 Ka7 11. Bd4+ Ka6) (10. Bf4 Rxf4 11. Kxd7 Rd4+) Re7 11. Bc5 $10 (11. Ba1 $2 Ka7 $19 12. Bd4+ Ka6) (11. Bf6 $2 Re6 12. Kxd7 Rxf6) (11. Kd6 $2 Re1 12. Kxd7 Rd1) (11. Bf2 $2 Re2 12. Kxd7 Rxf2) (11. Kd8 $2 Re4 12. Kxd7 Rxd4+ 13. Ke6 Ra4) (11. Bb6 $2 Re6 12. Kxd7 Rxb6) (11. Bg1 $2 Re1) 1/2-1/2
+
+[Event "Mora Tidning"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K1k/7p/7R/6PP/3r4/8/8/8 w - - 0 1"]
+
+1. g6 $1 Rd7 (Rd8+ 2. Ke7 Rd5 3. Rxh7+ Kg8 4. Kf6) 2. Rxh7+ Rxh7 3. h6 Rxh6 4. g7+ 1-0
+
+[Event "Mora Tidning"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3K4/7R/2k5/8/8/8/2p4b/8 w - - 0 1"]
+
+1. Kc8 $1 c1=Q (Kd5 2. Rh5+ Kd4 3. Rh4+ Kd3 4. Rh3+) 2. Rc7+ Bxc7 1/2-1/2
+
+[Event "Mora Tidning"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r7/6P1/4P3/8/2k3K1/8/7b/8 w - - 0 1"]
+
+1. Kf5 $1 Kd5 2. e7 Be5 3. e8=Q (3. e8=R {<or>}) (3. e8=N {<or>}) Rxe8 4. g8=Q+ (4. g8=R {<or>}) Rxg8 1/2-1/2
+
+[Event "Eskilstuna Kuriren"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2K5/2bP4/3qPk2/8/8/8/8/4B3 w - - 0 1"]
+
+1. e7 $1 Kxe7 (Qxe7 2. Bh4+) (Qa6+ 2. Kxc7 Kxe7 (Qa7+ 3. Kc8 Qa8+ 4. Kc7 Kxe7 5. Bh4+) 3. d8=Q+) 2. Bb4 $1 Qxb4 3. d8=Q+ Bxd8 1/2-1/2
+
+[Event "Mora Tidning"]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3p4/8/2P5/8/pk1K4/7R w - - 0 1"]
+
+1. Ra1 $1 Kxa1 2. Kc1 d5 3. c5 d4 4. c6 d3 5. c7 d2+ 6. Kxd2 Kb2 7. c8=Q a1=Q 8. Qb7+ 1-0
+
+[Event "Mora Tidning"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5kB1/5P2/6K1/5p2/5P1p/8/8/8 w - - 0 1"]
+
+1. Kh7 $1 h3 2. Kh8 h2 3. Bh7 h1=Q (Kxf7 4. Bg8+ Kg6 5. Bd5) 1/2-1/2
+
+[Event "Mora Tidning"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/kP6/P7/8/K6B/4p3/8 w - - 0 1"]
+
+1. Ka4 $1 Kb7 2. Kb5 e1=Q 3. a6+ Kb8 4. a7+ Kb7 5. Bg2+ Kc8 6. a8=Q+ 1-0
+
+[Event "Mora Tidning"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/8/K7/4R3/8/8/1ppB4/8 w - - 0 1"]
+
+1. Rc5 $1 c1=Q 2. Bxc1 b1=Q 3. Bf4+ Ka8 4. Rc8+ Qb8 5. Rxb8# 1-0
+
+[Event "Mora Tidning"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/pp1p4/kppP4/8/K2R4 w - - 0 1"]
+
+1. Rb1 $1 b2+ 2. Rxb2 cxb2+ 3. Kb1 Kb3 (b3 {<main>}) 1/2-1/2
+
+[Event "Mora Tidning"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6n1/8/3p4/1p1R4/6K1/2p5/7k w - - 0 1"]
+
+1. Kf2 $1 Nf5 2. Rxd5 c1=Q 3. Rd1+ Qxd1 1/2-1/2
+
+[Event "3.hm Tidskrift for Schack#0659"]
+[Source "Tidskrift for Schack/3-4 7.p Sweden champ 1954-1965."]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/B7/1p2p3/kP6/P5pp/1P4p1/4P3/K7 w - - 0 1"]
+
+1. Kb2 $1 (1. Bb8 $2 g2 $1 2. Bh2 g3 3. Kb2 Kb4 $1) Kb4 $1 2. Bb8 Kc5 3. Kc3 $1 Kd5 (g2 4. e4 g1=Q 5. b4#) 4. Kd3 e5 (g2 5. e4+ Kc5 6. Kc3 g1=Q 7. b4#) 5. e4+ Ke6 6. Ke2 h3 7. Kf1 g2+ $1 8. Kg1 $1 (8. Kf2 $2 g3+ 9. Kg1 Kf6 $1 10. a5 Kg5 11. axb6 Kg4 12. Bxe5 Kf3 13. Bxg3 Kxg3 14. b7 h2#) g3 9. a5 Kf6 10. axb6 $1 (10. a6 $2 Kg5 $1 11. a7 Kg4 12. a8=Q Kf3) 1-0
+
+[Event "1.p Tidskrift for Schack#0706"]
+[Source "Tidskrift for Schack/3-4"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K1k5/P6p/2pp4/5p1p/5N1P/8/8/4N2b w - - 0 1"]
+
+1. Nf3 $1 (1. Neg2 $2 d5 $1 2. Ne3 d4 3. Ned5 cxd5 4. Nd3 f4 5. Nf2 Bg2 6. Ne4 Kc7 7. Nd6 d3 8. Nb5+ Kd7 9. Kb8 d4) (1. Nfg2 $2 c5) Kc7 2. Ne6+ Kc8 3. Nf4 (3. Ned4 $2 c5 4. Nc6 c4 $1 5. Ne7+ Kd7 6. Kb8 Bxf3) c5 (d5 {<main>} 4. Nd4 $1 (4. Nxd5 $2 cxd5 5. Nd4 Be4 6. Nc6 f4) c5 5. Nc6 d4 $1 6. Nd5 $1 Bxd5) (h6 {<main>} 4. Ng6 $1 Bxf3 5. Ne7+ Kd7 6. Kb8 (6. Nxf5 $2 Kc7 $1 7. Nd4 Bh1 8. Ne6+ Kc8 9. Nc5 d5 $1) c5 7. Nxf5 $1) (Bxf3 {<main>} 4. Nd5 $1 f4 5. Nb6+ Kd8 6. Kb8 c5 7. Nc4) 4. Nd5 $1 f4 (Bxf3) 5. Nb6+ Kc7 6. Nd5+ Kc8 7. Nb6+ (7. Ne7+ $2 Kd7 8. Kb8 Bxf3 9. Nc8 Be4 10. Nb6+ Ke7 $1 11. Nc4 f3 12. Na5 $1 f2 $1 13. Nb7 Bxb7 14. Kxb7 f1=Q) Kd8 8. Kb8 (8. Nc4 $2 Kc7 $1) (8. Kb7 $2 Bxf3+ 9. Kb8 Be4 10. Nc4 $1 Ke7 11. Na5 $1 f3 $1 12. Nb7 f2 $1 13. a8=Q f1=Q 14. Kc7 Qf7 $1) Bxf3 9. Nc4 $1 Kd7 10. Na5 $1 Ba8 11. Kxa8 (11. Nc4 $2 Be4 $1 12. Na5 f3 13. Nb7 f2 14. a8=Q f1=Q 15. Nxc5+ (15. Qa4+ Bc6 16. Qc2 Qf8+ 17. Ka7 Bxb7 18. Kxb7 Qc8+) dxc5 16. Qxe4 Qb5+ 17. Ka7 Qa5+ 18. Kb7 Qc7+ 19. Ka6 Qc6+) 1/2-1/2
+
+[Event "1.hm Tidskrift for Schack#0718 (c)"]
+[Source "Tidskrift for Schack/5-6 (c): Garcia=M HHdbIII-7 2012."]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "Akerblom, A"]
+[Black " Froberg, H."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5b2/4n1n1/5K2/1P6/8/4P2k/8/8 w - - 0 1"]
+
+1. Kf7 $1 Ne6 (Ng6 2. Kxg6) 2. Kxe6 Nc8 3. Kd7 Nb6+ (Nd6 4. b6 $1 Nc4 5. Kc6 $1 Na5+ 6. Kc7 $1) 4. Kc6 Na4 $1 5. b6 Bg7 6. Kb5 $1 (6. b7 $2 Be5 7. Kb5 Nb2) Nc3+ 7. Ka6 $1 Be5 8. Ka7 (8. e4 $2 Ne2 9. Ka7 Nd4 10. b7 Nc6+) Nd5 9. b7 Ne7 $1 10. b8=N $1 1/2-1/2
+
+[Event "Tidskrift for Schack#0707"]
+[Source "Tidskrift for Schack/3-4"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/2B5/1pp1K3/2k5/8/8 w - - 0 1"]
+
+1. Bd4+ $1 Kc2 (Kd2 2. Ba1 c3 3. Kd4 c2 4. Bb2 b3 5. Kc4) 2. Ba1 $1 (2. Kd5 $2 Kd3) c3 (Kb1 3. Kd4) 3. Kd4 Kb3 $1 4. Kd3 c2 5. Kd2 Ka2 6. Kxc2 b3+ 7. Kc3 1/2-1/2
+
+[Event "Tidskrift for Schack#0708"]
+[Source "Tidskrift for Schack/3-4"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/4p3/8/8/6B1/4kp2/8/8 w - - 0 1"]
+
+1. Kf7 $1 e5 2. Ke6 $1 (2. Kf6 $2 f2 3. Bh3 Kf4 $1) e4 3. Ke5 $1 (3. Kf5 $2 Kd3 $1) f2 (Kd3 4. Bf5 $1 f2 5. Bxe4+) 4. Bh3 Kf3 5. Kd4 e3 6. Kd3 e2 7. Bg4+ $1 Kxg4 8. Kxe2 Kg3 9. Kf1 Kf3 1/2-1/2
+
+[Event "4.hm Ceskoslovensky Sach#054"]
+[Source "Ceskoslovensky Sach/5"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3q4/3p4/2p1p3/4k3/7R/4K3/8/4B3 w - - 0 1"]
+
+1. Rh5+ $1 Kd6 2. Bg3+ e5 3. Rxe5 Qb6+ 4. Ke4 $1 Qb3 (Qg1 {<main>} 5. Bf4 Qh1+ 6. Kf5 Qh5+ 7. Ke4 Qe2+ 8. Kf5 Qh5+ 9. Ke4 Qh1+ 10. Kf5 Qh7+ 11. Kg4) 5. Bf4 c5 6. Re8+ Kc6 7. Rc8+ Kb5 8. Rb8+ Kc4 9. Rxb3 1/2-1/2
+
+[Event "Tidskrift for Schack#0960"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4b3/8/5PR1/P7/P1k2p2/P7/K7 w - - 0 1"]
+
+1. f6 $1 (1. Rg1 $2 Kc2 $1 2. Rg6 f2) (1. Rg4 $2 Bd6 $1 2. Re4 f2 3. Re3+ Kc2 4. Re2+ Kc1 5. Rxf2 Be5+) Bxf6 2. Rf5 Bd4 3. Kb1 $1 (3. Rxf3+ $2 Kc2+) f2 4. Kc1 Kd3 5. Kd1 Ke3 6. a5 Bc5 7. a6 Ke4 8. Rf7 Ke3 9. a4 Bd4 10. a5 Bc5 11. a4 Bd4 12. Kc2 Ke2 13. Kb3 f1=Q 14. Rxf1 Kxf1 15. Kc4 Bf2 16. Kb5 Ke2 17. Kc6 Kd3 18. Kb7 Kc4 19. a7 Bxa7 20. Kxa7 Kc5 21. Kb7 1-0
+
+[Event "1/4.hm Tidskrift for Schack#0949"]
+[Source "20.p Sweden champ 1960-1962"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3k4/8/3B1b2/8/p7/4n3/K7 w - - 0 1"]
+
+1. Bb3 $1 (1. Bc4 $2 Nc1 $1 2. Bg8 Kd6 3. Bh7 Bd7 $1 4. Bf5 Bb5) (1. Bg8 $2 Nd4 $1 2. Ka2 Nb5 3. Bc4 Be6) (1. Bf3 $2 Nd4 $1 (Nc1 $2 2. Be4)) Nc1 (Nc3 2. Be6+ Bxe6) 2. Bc2 $1 Be6 (Bxc2) (Ke6 3. Bxf5+ Kxf5 4. Kb1 a2+ 5. Ka1) 3. Bf5 Nb3+ 4. Ka2 Nc1+ 5. Ka1 Kd6 6. Bxe6 Kxe6 7. Kb1 Ne2 8. Ka2 1/2-1/2
+
+[Event "1/4.hm Tidskrift for Schack#0948"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2NN2r1/7K/5k1P/8/4P3/1b6/8/8 w - - 0 1"]
+
+1. e5+ $1 Kg5 $1 2. Nf7+ $1 Bxf7 3. Nd6 Be6 $1 4. Nf7+ $1 Bxf7 5. e6 Kf6 6. exf7 Ra8 (Kxf7 {<main>}) 7. f8=Q+ (7. f8=R+ {<or>}) (7. f8=B {<or>}) (7. f8=N {<or>}) Rxf8 1/2-1/2
+
+[Event "1.c Tidskrift for Schack#0983"]
+[Source "Tidskrift for Schack/9"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k3K/1b1P3P/6r1/8/7P/8/8/8 w - - 0 1"]
+
+1. h5 $1 Rg1 $1 2. h6 Bg2 3. Kg7 Be4+ 4. Kh8 Bg6 5. Kg7 Bf5+ 6. Kh8 Bg4 $1 7. Kg7 $1 Bxd7+ 8. Kf6 $1 (8. Kf7 $2 Rf1+ 9. Kg7 Ke7 10. h8=Q Rg1+ 11. Kh7 Bf5#) Rf1+ 9. Kg5 $1 (9. Kg7 $2 Ke7 $1 10. h8=Q Rg1+ 11. Kh7 Bf5#) Rf8 10. Kg6 Ke7 (Ke8 {<main>} 11. h8=Q (11. Kg7 $2 Rf7+ 12. Kg8 Be6) Rxh8 12. Kg7 Rf8 13. h7 Rf7+ 14. Kh6 $1) 11. h8=Q $1 (11. Kg7 $2 Rf1 12. h8=Q Rg1+ 13. Kh7 Bf5#) Rxh8 12. Kg7 Rf8 13. h7 Rf7+ 14. Kg8 (14. Kh6 $2 Rf6+ 15. Kg7 Bf5 $1 16. h8=Q Rg6+ 17. Kh7 Kf7) 1/2-1/2
+
+[Event "1.p Szachy#085"]
+[Source "4.p Sweden champ 1960-1962"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5q2/6p1/8/R3pp1p/1R6/7K/8/B3b2k w - - 0 1"]
+
+1. Rb1 $1 Qb4 $1 (Kg1 2. Ra2 Kf1 (Qb4 3. Rxb4 g5 4. Rg2+ Kf1 5. Rxg5) 3. Bc3) 2. Rxb4 g5 (Bxb4 3. Rxe5) 3. Raa4 f4 $1 (e4 4. Rxe4) (g4+ 4. Rxg4 hxg4+ 5. Rxg4 fxg4+ 6. Kxg4) 4. Rxf4 exf4 5. Rxf4 gxf4 6. Be5 $1 f3 (Bg3 7. Bxf4 Bxf4 8. Kh4) 7. Bg3 $1 (7. Bd4 $2 h4) f2 (Bxg3 {<main>} 8. Kxg3 h4+ 9. Kxf3 h3 10. Kg3 h2 11. Kf2) (h4 {<main>} 8. Bxe1 f2 9. Bxf2) 8. Bxf2 Bxf2 1/2-1/2
+
+[Event "Problem#123a (tw)"]
+[Source "Problem/9"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/8/8/7p/7P/7n/5B2/5n1K w - - 0 1"]
+
+1. Kg2 $1 Nxf2 (Nd2 2. Kg3 Kf7 3. Be3) 2. Kxf2 Nh2 3. Kg3 Ng4 4. Kf4 Kf7 5. Kg5 Nf6 6. Kh6 Kf8 7. Kg6 Ke7 8. Kg5 Ke6 9. Kg6 1/2-1/2
+
+[Event ".c Schackbulletinen"]
+[Source "16.p Sweden champ 1963-1965"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/8/8/8/2K2p2/4b3/4P3/1n4N1 w - - 0 1"]
+
+1. Nh3 $1 Kb7 $1 2. Kd3 Kc6 (Nd2 {<main>} 3. Nxf4 $1 Bxf4 4. e3 $1) 3. Ke4 (3. Kc2 $2 Na3+ $1) Nc3+ 4. Kf3 $1 Nd5 5. Nxf4 $1 Bxf4 6. e4 $1 1/2-1/2
+
+[Event "Tidskrift for Schack#1759"]
+[Source "Tidskrift for Schack/8 EG#03212."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/B7/2K3n1/1n6/2b5/5Nk1 w - - 0 1"]
+
+1. Kc3 $1 Bd1 2. Ne3 Nxe3 3. Bb6 Kf2 4. Kd3 Nc1+ 5. Kd2 Nb3+ 6. Kd3 Bc2+ 7. Kc3 Bd1 8. Kd3 Be2+ 9. Kc3 Na1 10. Bxe3+ Kxe3 11. Kb2 1/2-1/2
+
+[Event "Shahmat"]
+[Source "EG#04721.1.c Israel Ring ty 1978-1979."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1K6/3B4/8/k1N5/1N1p4/6p1/8 w - - 0 1"]
+
+1. Nbd2 $1 (1. Nba5 $2 g1=Q 2. Ka6 Qb1 3. Nb6+ Qxb6+ 4. Kxb6 d2 5. Nc4 d1=N) (1. Nc5+ $2 Kb4 2. Ne4+ (2. Nd2 g1=Q 3. Nce4+ Ka5) Kxc4 3. Bh2 Kd4) (1. Nd4 $2 g1=Q 2. Nb2+ Ka5 3. Nb3+ Kb5) g1=Q 2. Ka6 Qd4 (Qc5 3. Nb2+ Kb4 4. Nxd3+) 3. Be7 $1 (3. Nb6+ $2 Qxb6+ 4. Kxb6) Qxc4+ 4. Nxc4 d2 $1 5. Ne3 (5. Nxd2 $2) Kb3 6. Bf6 $1 1-0
+
+[Event "Tidskrift for Schack"]
+[Source "Tidskrift for Schack/11"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6bq/7p/3k3K/7P/3P4/8/8/2B5 w - - 0 1"]
+
+1. Bf4+ $1 Ke6 2. Be5 Qxe5 3. dxe5 Kf7 4. e6+ Kxe6 5. Kg7 Kf5 6. Kxg8 h6 $1 7. Kf7 $1 Kg5 8. Ke6 1/2-1/2
+
+[Event ".c Springaren#05979 (ph)"]
+[Source "Springaren/6 EG#07917."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Akerblom, Axel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/4p3/4p3/8/n5n1/7R/8/1K6 w - - 0 1"]
+
+1. Rb3+ $1 (1. Rh8+ $2 Kb7 2. Rh4 Nc3+ 3. Kc2 (3. Kb2 Nd1+ 4. Kb3 Nde3) Nd5 $1 4. Rxg4 Ne3+) Kc7 (Ka7 2. Ra3) 2. Rb4 Nc3+ 3. Ka1 $1 Ne3 (Nf2 4. Rc4+) 4. Rc4+ Nxc4 1/2-1/2

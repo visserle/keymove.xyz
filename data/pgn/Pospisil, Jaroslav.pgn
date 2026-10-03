@@ -1,0 +1,124 @@
+[Event "Svobodné Slovo#125"]
+[Date "1950.11.26"]
+[Round "?"]
+[Composer "Pospisil, Jaroslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K1k/6pp/8/8/3N1B1P/5p2/5p2/8 w - - 0 1"]
+
+1. Bh6 $1 (1. Nf5 $2 f1=Q 2. Bh6 Qa1) (1. Be5 $2 h6 $1) gxh6 2. Nf5 f1=Q 3. Nd6 Qc4 4. Nxc4 1-0
+
+[Event "Ceskoslovensky Sach#3093"]
+[Source "Ceskoslovensky Sach/10"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Pospisil, Jaroslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/7p/7p/2Ppk1p1/8/8/5PP1/8 w - - 0 1"]
+
+1. f4+ $1 (1. Ke7 $2 d4 2. f4+ (2. c6 d3) Kxf4) gxf4 (Ke6 2. Kd8) 2. Ke7 f3 (d4 3. c6 d3 4. c7 d2 5. c8=Q d1=Q 6. Qe6+ Kd4 7. Qd6+) 3. gxf3 d4 4. c6 d3 5. c7 d2 6. c8=Q d1=Q 7. Qb8+ $1 Kf5 8. Qf8+ Kg5 (Ke5 9. Qf6+ Kd5 10. Qd6+) 9. Qf6+ Kh5 10. Qf5+ Kh4 11. Qg4# 1-0
+
+[Event "1.p Ceskoslovensky Sach#3211"]
+[Source "Ceskoslovensky Sach/7 8.p Bohemian Ring ty 1953-1954."]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Pospisil, Jaroslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/8/2p2p2/8/2Pk2P1/8/8/8 w - - 0 1"]
+
+1. Kf7 $1 Ke5 2. Ke8 $1 (2. Ke7 $2 c5 3. Kd7 Kd4) (2. Kg6 $2 c5) Kd6 (Ke6 3. c5 Kd5 4. Kf7 (4. Ke7 $2 Ke5 5. Kf7 $2 (5. Kd7 Kd5 6. Ke7) f5 6. g5 f4) Ke5 5. Ke7) (Kf4 3. Ke7 Kg5 4. c5 Kg6 5. Kd6 Kg5 6. Kxc6) 3. Kd8 c5 (Kc5 4. Ke7 Kxc4 5. Kxf6 Kd3 6. g5) 4. Ke8 Ke6 5. Kf8 Kd6 6. Kf7 Ke5 7. Ke7 Kd4 8. Kxf6 Kxc4 9. g5 Kd3 (Kb3 {<main>} 10. g6 c4 11. g7 c3 12. g8=Q+) 10. g6 c4 11. g7 c3 12. g8=Q c2 13. Qg5 1-0
+
+[Event "Ceskoslovensky Sach#3395"]
+[Source "Ceskoslovensky Sach/12"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Pospisil, Jaroslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3K3p/6p1/8/4N2P/7P/8/5k2 w - - 0 1"]
+
+1. h5 $1 gxh5 2. h4 Kg2 3. Nd6 $1 Kg3 4. Nf5+ Kg4 5. Ke6 Kf4 6. Kf6 Kg4 7. Ke5 Kf3 8. Kd5 $1 Kf4 9. Ke6 Kg4 10. Kf6 Kf4 11. Nh6 Kg3 12. Kg5 1-0
+
+[Event "3.p Ceskoslovensky Sach#3306"]
+[Source "Ceskoslovensky Sach/4"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Pospisil, Jaroslav"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4k3/7p/3p3P/6P1/8/7K w - - 0 1"]
+
+1. Kg2 $1 Kd6 (Ke5 2. Kf3 $1 Kf5 3. Kf2 $1) (Kd5 2. Kf2 $1 Ke4 (Kc4 3. g4) (d3 3. Ke3 Kc4 4. Kd2 Kd4 5. g4) 3. Ke2 d3+ 4. Kd2 Kf3 (Kd4 5. g4) 5. Kxd3 Kxg3 6. Ke2) 2. Kf1 $1 (2. Kf3 $2 Ke5) (2. Kf2 $2 Kd5 $1 3. Ke2 Ke4 4. Kd2 (4. Kf2 d3 5. Ke1 Ke3) Kf3) d3 (Kd5 3. Kf2 $1) (Ke5 3. Ke1 $1 Ke4 4. Ke2) 3. Kf2 Kd5 4. Ke3 Kc4 5. Kd2 Kd4 6. g4 hxg4 7. h5 1/2-1/2
+
+[Event "3.p Ceskoslovensky Sach#3457"]
+[Source "Ceskoslovensky Sach/6 7.p Bulgaria champ 1955-1956."]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Pospisil, Jaroslav"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6k1/3K4/6pp/8/6P1/8 w - - 0 1"]
+
+1. Ke4 $1 g3 $1 2. Ke3 $1 Kg5 3. Kf3 Kf5 4. Ke2 Kg4 5. Kf1 h3 6. Kg1 1/2-1/2
+
+[Event "2.hm Ceskoslovensky Sach#14"]
+[Source "Ceskoslovensky Sach/9 11.p Bohemian Ring ty 1955-1956."]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Pospisil, Jaroslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p6p/5K2/P7/8/8/4P1k1/8 w - - 0 1"]
+
+1. Kg5 $1 (1. e4 $2 h5 2. Kg5 Kg3 3. Kxh5 (3. e5 h4) Kf4) Kg3 (h5 2. Kxh5 Kg3 3. Kg5) 2. a6 $1 (2. e4 $2 h5) h5 3. Kxh5 Kf4 4. Kg6 Ke3 5. Kf5 $1 (5. Kf6 $2 Kxe2 6. Ke6 Ke3 7. Kd6 (7. Kd5 Kf4 8. Kc6 Ke5 9. Kb7 Kd6 10. Kxa7 Kc7) Kd4) Kxe2 6. Ke4 $1 Kd2 (Kf2 7. Kd5) 7. Kd5 Kd3 8. Kc6 Kd4 9. Kb7 Kc5 10. Kxa7 1-0
+
+[Event "Schakend Nederland#1331 (c)"]
+[Source "Schakend Nederland/11 (c): Pospisil=J Ceskoslovensky Sach#034 11/1984."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Pospisil, Jaroslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5p1k/6p1/5P2/4N3/6K1/8 w - - 0 1"]
+
+1. f5 $1 g4 $1 2. Nf1 $1 (2. Nxg4+ $2 Kg5 3. Ne3 Kf4 4. Kf2 Ke5 5. Ke2 Kf4 6. Kd3 Ke5) Kg5 3. Ng3 Kh4 4. Kf2 $1 (4. Ne4 $2 g3 $1 5. Kf3 g2 6. Kxg2 Kg4 7. Ng3 Kf4 8. Kf2 Kg4) Kh3 5. Ne2 $1 (5. Nh5 $2 Kh4 6. Ng7 Kh3 7. Ne6 Kh4 $1 8. Kg2 g3 9. Kf3 Kh3 10. Nf4+ Kh4 11. Ke4 Kg5 $1 12. Ng2 Kg4 13. Ne3+ Kg5 14. Kf3 g2 $1 15. Kxg2 Kf4 16. Kf2 Ke4) Kh4 (g3+ 6. Kf3 g2 7. Nf4+ $1) 6. Ke3 g3 (Kg5 7. Ng3 Kh4 8. Kf4 Kh3 9. Ne4 Kh4 10. Nxf6 g3 11. Ne4 g2 12. Nd2) 7. Kf4 g2 8. Ng1 Kh5 9. Nf3 Kh6 10. Kg4 $1 Kg7 11. Kg3 1-0
+
+[Event "Sinfonie Scacchistiche#3787"]
+[Source "Sinfonie Scacchistiche/7-9"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Pospisil, Jaroslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1r2k2B/8/7P/8/p4p2/P5p1/1P6/6K1 w - - 0 1"]
+
+1. h7 $1 Kf7 2. Be5 Rd8 3. h8=Q Rxh8 4. Bxh8 Ke6 (f3 5. Be5 g2 6. Kf2 Ke6 7. Bh2 (7. Bd4 $2 Kd5 8. Ba7 Kc4 9. Kxf3 Kb3 10. Bd4 g1=Q 11. Bxg1 Kxb2 12. Bc5 Kc3 13. Ke4 Kc4 14. Be3 Kb3 15. Bc1 Kc2) Kd5 8. Kxf3) 5. Kg2 Kd5 6. Kf3 Kc4 7. Be5 Kb3 8. Kxf4 g2 9. Bd4 g1=Q 10. Bxg1 Kxb2 11. Bc5 Kc3 12. Ke5 Kc4 13. Kd6 Kb5 14. Kd5 Ka5 15. Kc6 1-0

@@ -1,0 +1,150 @@
+[Event "Das Illustrierte Blatt"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Gunst, Julius Robert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1NBk4/p2p4/8/3K4/8/8/8/8 w - - 0 1"]
+
+1. Bb7 $1 (1. Ba6 $2 Kc7 2. Kc5 d6+ 3. Kd5 Kxb8 4. Kxd6 $1 (4. Kc6 d5 $1) Ka8 $1 5. Kc7) Kc7 2. Ba6 $1 Kxb8 (Kb6 3. Kd6) (Kd8 3. Kd6) (d6 3. Nc6) 3. Kd6 Ka8 4. Kc7 d5 5. Bb7# 1-0
+
+[Event "Deutsche Schachzeitung#1694"]
+[Source "Deutsche Schachzeitung/10"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Gunst, Julius Robert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p4p2/2p2K2/k1P4B/1p6/PP6/8/8 w - - 0 1"]
+
+1. a4 $1 a6 $1 (Ka6 2. Be2+ Kb7 3. Kxf7) 2. Kf5 $1 f6 3. Kg4 $1 (3. Ke4 $2 f5+ 4. Kd3 f4 5. Be2 f3 6. Bf1 f2) f5+ 4. Kh3 $1 f4 5. Be2 f3 6. Bxa6 f2 7. Kg2 f1=Q+ 8. Kxf1 $1 (8. Bxf1 $2) 1-0
+
+[Event "Das Illustrierte Blatt"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Gunst, Julius Robert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/5k1K/8/6pp/7b/5N2 w - - 0 1"]
+
+1. Kh4 $1 g2 2. Ng3+ $1 Bxg3+ 3. Kxh3 g1=Q (g1=N+ 4. Kxg3) 1/2-1/2
+
+[Event "Deutsche Schachzeitung#1705 (c)"]
+[Source "Deutsche Schachzeitung/10 (c): Garcia=M Estudios Artisticos de Ajedrez - IV-10 2012."]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Gunst, Julius Robert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7p/K3B2P/1p3p1P/pp2kP2/p7/P7/8 w - - 0 1"]
+
+1. Ka5 $1 b3 2. Kb4 b2 (Kxf4 3. Kxa3 b4+ 4. Kb2 Kg5 5. Bd7) 3. Kxa3 b1=Q (b1=N+ 4. Kb4) (b1=B 4. Kb2 Bd3 5. Bg8 Kxf4 6. Bxh7) 4. Bxf5+ Kxf5 1/2-1/2
+
+[Event "Deutsche Schachzeitung#1700"]
+[Source "Deutsche Schachzeitung/4"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Gunst, Julius Robert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/1p3p2/4P1n1/2PP4/8/8/8/1K6 w - - 0 1"]
+
+1. c6 $1 (1. e7 $2 Nxe7 2. c6 Nxc6 $1) (1. d6 $2 Kf8 $1) bxc6 (b5 2. c7 Ne7 3. d6 Nc8 4. d7) 2. e7 $1 Nxe7 3. d6 Kf8 (c5 4. dxe7) 4. d7 1-0
+
+[Event "Le Monde des Échecs#47"]
+[Source "Le Monde des Échecs/11"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Gunst, Julius Robert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/2pK4/1p6/1p2k3/p7/P6B/8 w - - 0 1"]
+
+1. Be5 $1 c5 2. Kxc5 b3 3. Kb4 b2 4. Bxb2 axb2 5. Ka3 b1=B 6. Kb4 Bd3 7. a4 1/2-1/2
+
+[Event "Suomen Shakki#0050"]
+[Source "Suomen Shakki/6"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Gunst, Julius Robert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K2/8/7p/8/N7/8/p1B5/k7 w - - 0 1"]
+
+1. Be4 $1 h5 2. Bd5 h4 (Kb1 3. Nc3+ Kb2 4. Nxa2) 3. Nc3 h3 4. Nxa2 Kb2 5. Nb4 1-0
+
+[Event "Suomen Sosialidemokraatti"]
+[Date "1947.10.19"]
+[Round "?"]
+[Composer "Gunst, Julius Robert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2k1P2p/p7/r6P/N4P2/1P5P/1K6 w - - 0 1"]
+
+1. Nb5 $1 Rb4 (h5 {<main>} 2. h3 $1 Rxh4 3. e7 Kd7 4. Nd6 Kxe7 5. Nf5+ Kf6 6. Nxh4) (Rf4 {<main>} 2. e7 Kd7 3. Nc7 Kxe7 4. Nd5+ Kd6 5. Nxf4) (Rc4 {<main>} 2. e7 Kd7 3. e8=Q+ Kxe8 4. Nd6+ Kd7 5. Nxc4) 2. e7 Kd7 3. Nc7 Kxe7 4. Nd5+ Kd6 5. Nxb4 axb4 6. Kc2 1-0
+
+[Event "2.hm Suomen Shakki#0153"]
+[Source "Suomen Shakki/9"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Gunst, Julius Robert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p3R2/k7/5N1p/3K4/6Pp/5p2/8 w - - 0 1"]
+
+1. Rf6+ $1 Ka7 (b6 2. Nd6 h2 3. Rxf2 h1=Q 4. Ra2#) 2. Nd6 h2 3. Nb5+ Kb8 4. Rf8# 1-0
+
+[Event "Centurini MT L'Italia Scacchistica#330"]
+[Source "L'Italia Scacchistica/8"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Gunst, Julius Robert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2bp4/PPp5/8/1p3p1p/p4P1k/5PpP/6K1 w - - 0 1"]
+
+1. a7 $1 b3 2. b7 (2. a8=Q $2 b2) Bb8 3. a8=B $1 Ba7 4. b8=Q Bxb8 5. Bxc6 dxc6 1/2-1/2
+
+[Event "Ceskoslovensky Sach#3164"]
+[Source "Ceskoslovensky Sach/2"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Gunst, Julius Robert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/2R1p3/7P/k7/5b2/7b/8/8 w - - 0 1"]
+
+1. Kb7 $1 (1. h7 $2 Kb6 $1 2. h8=Q Bxc7+ 3. Ka8 Bg2#) Bxc7 2. Kxc7 Bf5 3. Kd8 $1 e5 4. Ke7 e4 5. Kf6 Bh7 6. Kg7 Bf5 7. Kf6 1/2-1/2

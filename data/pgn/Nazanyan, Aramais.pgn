@@ -1,0 +1,15 @@
+[Event "sp.p Tschigorin MT"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Nazanyan, Aramais"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "N7/1p1kqP2/8/3P4/KP6/4B3/8/8 w - - 0 1"]
+
+1. Nb6+ $1 (1. Nc7 $4 Kxc7 2. d6+ Qxd6 $19) (1. Bf4 $4 Qxf7 2. Nb6+ Kd8 $19) (1. Bc5 $4 Qxf7 2. Nb6+ Kd8 $17) (1. f8=Q $4 Qxf8 2. Nb6+ Kd8 $17 $19) (1. d6 $4 Qxf7 2. Nb6+ Kxd6 3. Bc5+ Ke5) (1. Bg5 $4 Qxf7 2. Nb6+ Kc7) (1. b5 $4 Qxf7 2. Nb6+ Kc7) (1. Bh6 Qxf7 2. Nb6+ Kc7) Kc7 (Kd8 2. Bg5 Qxg5 3. f8=Q+ Kc7 4. Qc8+ Kxb6 (Kd6 5. Qc5+ Ke5 6. d6+ Kf6 7. Qxg5+ Kxg5 8. d7) 5. Qc5+ Ka6 6. Qa5#) 2. f8=Q $1 (2. d6+ $2 Qxd6 3. Bf4 Kd8 $1 4. Bxd6) (2. f8=R $10) (2. Bc5 $4 Qxf7 $15 $17 3. d6+) (2. Bf4+ $4 Kxb6 3. Be3+ Kc7 4. d6+ Qxd6 $19) (2. Na8+ $4 Kb8) (2. Bg5 $4 Qxf7 3. Na8+ Kd6) (2. Nc4 $4 Qxf7 3. Bb6+ Kb8) (2. Nc8 Kxc8) (2. Nd7 Qxd7+ 3. Kb3 Qxf7) (2. Bh6 Qxf7 3. Na8+ Kd6) Qxf8 3. d6+ $1 (3. Bc5 $4 Qf3 4. Na8+ Kd7 $19) (3. Bf4+ $4 Qxf4 4. Na8+ Kd6) (3. Na8+ $4 Qxa8+ 4. Kb3 b5 5. Bf4+ Kd7) (3. Kb5 $4 Qe8+ 4. Kc4 Qxe3 5. d6+ Kxd6 6. Nc8+ Ke6) (3. Nc4 $4 Qf7 4. Bb6+ Kb8) (3. b5 $4 Qf3) (3. Bh6 Qxh6 4. Na8+ Kb8) (3. Ka5 Qf1) Qxd6 (Kc6 (Qxd6 {<main>} 4. Bf4 Qxf4 5. Nd5+ Kd6 6. Nxf4) (Kb8 4. Nd7+) (Kd8 4. Bg5+ Ke8 5. d7+ Kf7 6. d8=Q) 4. b5+ (4. d7 $4 Qh8 $15 (Qg8 5. Ka3 Kc7 6. Kb2)) (4. Bc5 $4 Qf3 $19) (4. Nd7 Kxd7) Kxd6 5. Bc5+ (5. Nc4+ $4 Kd5 6. Nb6+ Ke4) (5. Kb4 $4 Ke5+ 6. Bc5 Qf4+) (5. Bf4+ $4 Qxf4+ 6. Kb3 Qe3+) (5. Ka5 Qh8) (5. Bh6 Qxh6) Kxc5 6. Nd7+ $3 $18 (6. Ka5 $4 Qf2 7. Nd7+ Kc4) (6. Na8 $4 Qxa8+ 7. Kb3 Qa5) Kd6 7. Nxf8) 4. Bf4 (4. Bc5 $4 Qd1+ 5. Ka3 Qc2 $19 6. Na8+ Kc6) (4. Na8+ $4 Kc6 5. b5+ Kd5) (4. Nc4 $4 b5+ 5. Ka3 bxc4) (4. Ka5 $4 Qd3 5. b5 Qa3+) (4. b5 $4 Qd1+ 5. Kb4 Kd6) (4. Kb5 $4 Qd3+ 5. Ka4 Kc6) (4. Bg5 Kxb6 5. Be3+ Kc6) Qxf4 5. Nd5+ $18 (5. Na8+ $4 Kc6) 1-0

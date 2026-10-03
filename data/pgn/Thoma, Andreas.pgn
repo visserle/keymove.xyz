@@ -1,0 +1,13 @@
+[Event "Schach Echo#224"]
+[Source "Schach Echo/3"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Thoma, Andreas"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/5p2/5P2/8/K7/8/8/8 w - - 0 1"]
+
+1. Kb5 $1 Kg8 (Ke8 {<main>} 2. Kc6 Kd8 3. Kd6 Ke8 4. Kc7) 2. Kc6 Kh7 3. Kd7 Kh6 $1 4. Ke8 $1 Kg6 5. Ke7 1-0

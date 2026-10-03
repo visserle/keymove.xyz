@@ -1,0 +1,12 @@
+[Event "2.hm Melbourne Leader"]
+[Date "1903.??.??"]
+[Round "?"]
+[Composer "Charlick, Arthur Robert Baker"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k4r1q/8/K5P1/1n1P4/5B2/8/4R3/7B w - - 0 1"]
+
+1. g7 $1 Qxg7 (Qg8 2. gxf8=Q+ Qxf8 3. d6+ Kb8 4. Re8+ Qxe8 5. d7+ Nc7+ 6. Bxc7+ Kxc7 7. dxe8=Q) (Nc7+ 2. Bxc7 Rf6+ 3. d6+) 2. d6+ Kb8 (Qb7+ 3. Bxb7+ Kb8 4. d7+ Nc7+ 5. Kb6 Rf6+ 6. Bc6 Rd6 7. Re8+) 3. Re8+ Rxe8 4. d7+ Nc7+ 5. Bxc7+ Kxc7 6. dxe8=N+ Kd8 7. Nxg7 1-0

@@ -1,0 +1,26 @@
+[Event "Aftonbladet"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Clausen, Sigurd"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2r5/4bP2/3P4/8/2b3R1/5K2/8/7k w - - 0 1"]
+
+1. Rxc4 $1 Rf8 $1 2. dxe7 Rxf7+ 3. Kg3 Rg7+ 4. Kf2 Rf7+ 5. Rf4 $1 Rxf4+ 6. Ke3 Rf1 7. Ke2 $1 1-0
+
+[Event "Tidskrift for Schack#1451 (c)"]
+[Source "Tidskrift for Schack/10 (c): Garcia=M Estudios Artisticos de Ajedrez - II-42 2012."]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Clausen, Sigurd"]
+[White "Clausen, S"]
+[Black " Hildebrand, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6bk/8/1P2p1rp/4P2p/6pP/pKp2pP1/P3NP2/8 w - - 0 1"]
+
+1. Nf4 $1 Rg7 2. Ng6+ Kh7 3. Nf8+ Kh8 4. Ng6+ Rxg6 5. b7 c2 (Bh7 6. b8=Q+ Rg8 7. Qc7 c2 8. Kxa3) 6. Kxc2 Bh7 $1 7. Kb1 $1 Rg8+ 8. Ka1 Be4 9. b8=Q Rxb8 1/2-1/2

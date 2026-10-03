@@ -1,0 +1,13 @@
+[Event "4.p Magyar Sakkélet#1720"]
+[Source "Magyar Sakkélet/5 EG#07984."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Bogdasaryan, F"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5k1K/8/2n4P/8/8/1b1B4 w - - 0 1"]
+
+1. Ba4 $1 (1. Bb3 $2 Ne5 $1) (1. Bg4 $2 Nd6 $1) (1. Be2 $2 Ne3 $1 2. Bb5 Bc2 $1 3. Bd7 Nc4 $1 4. Be8 Nd6 5. h5 Bb3 $1 6. Bg6 Bg8 $1) Ne3 2. Bd7 Nc4 3. Ba4 $1 (3. Be8 $2 Nd6 4. Bh5 Bc2 5. Bg4 Nf7+ 6. Kh5 Bg6#) Ne5 (Ne3 {<main>} 4. Bd7 Bg6 5. Be6 Bc2 6. Bc8 (6. Bh3 {<or>}) Nc4 7. Bd7 $1 Nd6 8. Kh5 $1 Nf7 9. Bf5 $1 Bd1+ 10. Bg4 Ba4 11. Bd7 $1 Bb3 12. Bf5 $1 Bc4 (Kxf5) 13. Bd7 $1) 4. Be8 Ng4+ 5. Kh5 Ne3 6. Bd7 $1 Bc2 7. Be8 $1 Bf5 8. Kh6 Bc2 9. Kh5 $1 Bd3 10. Bd7 Bg6+ 11. Kh6 Nc4 12. h5 $1 Bf7 13. Ba4 Ne5 14. Kh7 Nf3 15. Bc2 Ng5+ 16. Kh6 $1 Bg8 17. Bb3 $1 Bxb3 1/2-1/2

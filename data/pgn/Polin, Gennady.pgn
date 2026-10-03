@@ -1,0 +1,13 @@
+[Event "2.p Bournemouth meeting Pat a Mat#0416"]
+[Source "Pat a Mat/11 1989 EG#08095."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Polin, Gennady"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5P2/8/6P1/1b5K/3k4/2n5/8 w - - 0 1"]
+
+1. g6 $1 Nd4 $1 (Ne3 2. Kg5 Bf8 3. g7 Bxg7 4. Kg6 Bf8 5. Kh7) (Bf8 2. Kg5 Bg7 3. f8=Q Bxf8 4. Kf6) 2. g7 (2. Kg5 $2 Be7+ 3. Kh6 (3. Kf4 Bf8 4. Ke5 Bg7+ 5. Kd6 Nf5+ 6. Kd7 Nh4 7. f8=Q Bxf8 8. Ke8 Bg7 9. Kf7 Nf5) Bf8+ 4. Kh7 Ne6 5. Kg8 Ke4 6. g7 Bxg7 7. f8=Q Bxf8 8. Kf7 Kf5) Nf5+ 3. Kg5 Nxg7 4. f8=N $1 Bxf8 5. Kg6 1/2-1/2

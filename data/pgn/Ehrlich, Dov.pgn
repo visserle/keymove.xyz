@@ -1,0 +1,40 @@
+[Event "Tidskrift for Schack#0982"]
+[Source "Tidskrift for Schack/9 EG#01960 EG#16381. also .hm Israel Ring ty 1963-1965."]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Ehrlich, Dov"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p5/8/1p1KP3/1P1B4/4Pp2/4b1k1/8 w - - 0 1"]
+
+1. e4 $1 (1. e6 $2 Bc4+) f2 2. Bxf2 Kxf2 3. Kc5 (3. Kc6 $2 Ke3 4. e6 Kxe4 5. e7 Bh5 6. Kxb5 $1 Be8+ $1 7. Kc5 c6 $1 8. Kd6 Kf5 $1 (Kd4 $2 9. Kc7 Kc4 10. Kd8 Bh5 11. Kd7 Kb5 12. Kc7 Be8 13. Kd8 $1) 9. Kc7 Ke6 10. Kd8 Kf7) (3. e6 $2 Bh5 (Ke3 $2 4. Kc5 $1) (Bc4+ $2 4. Kc5 $1 Bxe6 5. Kxb5 Bd7+ 6. Kc5 c6 7. Kd6) 4. Kc6 Be8+ 5. Kxc7 Ke3) Ke3 4. e6 Kxe4 5. e7 Bh5 6. e8=Q+ (6. Kxb5 $2 Be8+) (6. e8=R+ {<or>}) (6. e8=B {<or>}) (6. e8=N {<or>}) Bxe8 1/2-1/2
+
+[Event "Problemas {SEPA}"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Ehrlich, Dov"]
+[White "Ehrlich, D"]
+[Black " Aloni, H."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/8/PkPnP3/3n4/B7/8/8/8 w - - 0 1"]
+
+1. Kb8 $1 (1. c7 $2 Kxc7 2. Bd7 Nc4 $1 3. e7 Ncb6+ 4. Ka7 Nxe7 5. Be6 (5. Be8 Nec8#) Nc6#) Nc7 2. Bb5 $1 (2. Bc2 $2 Nxa6+ 3. Ka8 Ne8) Ncxb5 $1 3. c7 $1 (3. a7 $2 Nxa7 4. e7 (4. c7 Nc6+ 5. Ka8 Nc8 6. e7 Ka6 7. e8=Q Nb6#) Nxc6+ 5. Ka8 Nb5 $1 6. e8=N Ka6 $1 7. Nd6 Nc7#) (3. e7 $2 Nc7 4. e8=Q Nxa6+ 5. Ka8 Nxe8) Nxc7 (Na7 4. e7 $1 (4. c8=N+ $2 Ndxc8 5. e7 Nd6) Nc6+ 5. Ka8 Nxe7 6. a7) 4. e7 Nxa6+ 5. Ka8 Nb5 6. e8=N $1 (6. e8=Q $2 Nbc7#) 1/2-1/2
+
+[Event "L'Italia Scacchistica#4141"]
+[Source "L'Italia Scacchistica/11"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Ehrlich, Dov"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/1Pp3p1/2P3p1/6p1/2pQP1k1/2P1Kp1p/3B4 w - - 0 1"]
+
+1. Qd6+ $1 (1. Qe4 $2 f1=Q+ $1 2. Kxf1 h1=Q+ 3. Qxh1) (1. Qxc3 $2 Kg2 $1 2. Qf6 h1=N $1 3. e4 g3) (1. Qd4 $2 f1=Q+ $1 2. Kxf1 h1=Q+ 3. Ke2 Qf3+ 4. Kd3 Qxd1+) Kg2 2. Qxh2+ $1 (2. Qf6 $2 h1=N $1) Kxh2 3. Kf1 $1 g3 4. Bf3 g4 5. Bg2 $1 (5. Be4 $2 g5 6. Bg2) g5 6. Be4 g2+ (Kh3 7. Bxc6 $1 bxc6 8. b7 g2+ 9. Kxf2 Kh2 10. b8=Q+) 7. Bxg2 g3 8. Bf3 $1 (8. Be4 $2 g4) g4 9. Be4 g2+ 10. Bxg2 g3 11. Bf3 (11. Be4 {<or>}) Kh3 { <eg>} 12. Bxc6 1-0

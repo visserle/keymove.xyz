@@ -1,0 +1,13 @@
+[Event "Chess Life & Review#1045"]
+[Source "Chess Life & Review/2"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Bevans, D"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "kB6/6P1/8/q7/6r1/8/1Q6/7K w - - 0 1"]
+
+1. Bg3 $1 Rxg3 2. Qe5 $1 Qxe5 3. g8=Q+ Rxg8 1/2-1/2

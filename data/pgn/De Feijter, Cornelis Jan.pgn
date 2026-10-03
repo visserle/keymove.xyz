@@ -1,0 +1,929 @@
+[Event "De Telegraaf"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/8/1P5p/p7/P6P/7P/1Pr1p3/4K3 w - - 0 1"]
+
+1. b4 $1 Rc4 2. bxa5 Rb4 3. Kxe2 Kg7 4. Kd3 Kf6 5. Kc3 Rb1 6. Kc2 Rb4 7. Kc3 1/2-1/2
+
+[Event "Algemeen Handelsblad"]
+[Date "1932.08.13"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3kb3/8/2P4p/7P/3K3P/8/8/8 w - - 0 1"]
+
+1. c7+ $1 (1. Ke5 $2 Ke7 $1) Kxc7 2. Ke5 Bxh5 3. Kf6 Bd1 4. h5 $1 Bxh5 5. Kg7 1/2-1/2
+
+[Event "De Telegraaf"]
+[Date "1932.09.10"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/8/1P6/p7/P7/8/1Pr1p3/4K3 w - - 0 1"]
+
+1. b4 $1 Rc4 $1 (axb4 2. b7) (Rb2 2. b5 Rb1+ 3. Kxe2 Rb2+ 4. Ke3 Rb1 5. b7 Re1+ 6. Kd4 Re8 7. Kc5) (Rc8 2. bxa5 Rb8 3. Kxe2 Kf7 4. Kd3 Ke6 5. Kc4 Kd6 6. Kb5 Rh8 7. a6 Rh5+ 8. Kb4 Kc6 9. a7 Kb7 10. a5) 2. bxa5 Rb4 (Re4 3. a6) 3. Kxe2 Kf7 4. Kd3 Ke6 5. Kc3 Rb1 6. Kc2 Rb4 7. Kc3 1/2-1/2
+
+[Event "De Nederlander"]
+[Source "also Van Eigen Erf=36 25-11-1932."]
+[Date "1932.09.10"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7k/7P/7P/p5N1/1p6/3K4/8 w - - 0 1"]
+
+1. Kc3 $1 Kh8 (Kg8 2. Nf6+ (2. Kb2 $2 Kh8 $1) Kh8 3. h7 Kg7 4. Kb2 Kh8 5. Ka3 Kg7 6. h8=Q+ Kxh8 7. h6 b2 8. Kxb2 a3+ 9. Ka1 a2 10. Ng4) 2. Kb2 $1 (2. Nf6 $2 a3 $1 3. Kxb3 a2 4. Kxa2) Kh7 $1 3. Ka3 $1 Kg8 $1 (Kh8 4. Nf6 b2 5. Kxb2 a3+ 6. Ka1) 4. Nf6+ Kh8 5. h7 Kg7 6. h8=Q+ Kxh8 7. h6 $1 b2 8. Kxb2 a3+ 9. Ka1 (9. Kxa3 $2) a2 10. Ng4 (10. h7 $2) 1-0
+
+[Event "Sallandse Sportbode"]
+[Date "1932.10.31"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5k2/7K/1p6/8/P7/8/8 w - - 0 1"]
+
+1. Kg5 $1 Ke6 2. Kf4 Kd5 3. Ke3 Kc4 4. a4 $1 bxa4 (b4 5. Kd2 b3 6. Kc1 Kb4 7. Kb2 Kxa4 8. Kb1) 5. Kd2 Kb3 6. Kc1 a3 (Ka2 7. Kc2 a3 8. Kc1 Kb3 9. Kb1) 7. Kb1 a2+ 8. Ka1 1/2-1/2
+
+[Event "Van Eigen Erf (v)"]
+[Date "1932.11.04"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/P4b2/PK1P4/8/5nN1/8/8/8 w - - 0 1"]
+
+1. d7 $1 Ne6 2. Nf6 Nd8 3. Ne8 Bxe8 4. dxe8=B $1 (4. dxe8=Q $2) 1-0
+
+[Event "Van Eigen Erf (v)"]
+[Date "1932.11.04"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k2n2b1/P2P3N/1K6/8/8/8/8/8 w - - 0 1"]
+
+1. Nf6 $1 Bf7 2. Ne8 Bxe8 3. dxe8=B $1 (3. dxe8=Q $2) Nb7 4. Bf7 Nd6 5. Bd5+ Nb7 6. Bxb7# 1-0
+
+[Event "Tijdschrift v.d. KNSB#021"]
+[Source "Tijdschrift v.d. KNSB/12"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/P5pp/3N1k2/2K5/8 w - - 0 1"]
+
+1. a5 $1 h3 (g3 2. a6 g2 3. Ne1+ Kf2 4. Nxg2 h3 $1 5. Ne3 $1) 2. a6 h2 3. a7 h1=Q 4. a8=B+ $1 (4. a8=Q+ $2 Kg3 5. Qxh1 (5. Qb8+ Kg2 $1 (Kf3 6. Qf4+ Kg2 7. Qf2+ Kh3 8. Nf4#) (Kh4 6. Qh8+ Kg3 7. Qe5+ Kh4 8. Qf6+ Kh5 9. Nf4#) (Kh3 6. Nf2+) 6. Nf4+ Kg3 $1)) 1-0
+
+[Event "Tijdschrift v.d. KNSB#008"]
+[Source "Tijdschrift v.d. KNSB/7"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/8/5PR1/8/3N4/7p/5p1K/8 w - - 0 1"]
+
+1. f7 $1 (1. Rg1 $2 fxg1=Q+ 2. Kxg1 Kg8) f1=Q 2. Rg8+ Kh7 3. f8=R $1 (3. f8=Q $2 Qe2+ $1 4. Kh1 (4. Kxh3 Qh2+ 5. Kg4 Qg2+) Qh2+ $1 5. Kxh2) Qc4 4. Rg4 Qa2+ 5. Kxh3 Qa3+ 6. Rf3 1-0
+
+[Event "Tijdschrift v.d. KNSB#002"]
+[Source "Tijdschrift v.d. KNSB/5"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2N5/8/6p1/7k/8/2p4K/6P1/8 w - - 0 1"]
+
+1. Nd6 $1 c2 (g5 {<main>} 2. Ne4 g4+ (c2 3. Ng3+ Kg6 4. Ne2) 3. Kh2 $1 c2 4. Ng3+ Kg5 5. Ne2) (Kh6 2. Nf7+ Kg7 3. Ne5 Kf6 4. Nd3 Kf5 5. Kh4 Ke4 6. Nc1 Kf5 7. g4+ Kf6 8. g5+ Kf5 9. Ne2) 2. Nf7 $1 g5 (c1=Q 3. g4#) 3. g4+ Kg6 4. Ne5+ Kf6 5. Nd3 1-0
+
+[Event "De Nederlander"]
+[Date "1933.02.25"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7B/7k/5K1p/8/8/N5p1/8/8 w - - 0 1"]
+
+1. Kf7 $1 Kxh8 2. Nc4 g2 (h5 3. Ne5 $1 (3. Ne3 $2 h4 4. Ng2 h3) g2 (h4 4. Ng6+ Kh7 5. Nxh4) 4. Nf3 h4 5. Ng1) 3. Ne5 g1=Q 4. Ng6+ Kh7 5. Nf8+ 1/2-1/2
+
+[Event "De Nederlander"]
+[Date "1933.07.22"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/p7/k1p5/2pN4/K3B3 w - - 0 1"]
+
+1. Nb1+ $1 Kb3 (cxb1=Q+ 2. Kxb1) 2. Nd2+ Kb4 3. Nb3 $1 Kxb3 (axb3 4. Bxc3+ $1 Kxc3) 4. Bd2 $1 cxd2 (Kc4 5. Bh6 Kd3 6. Ka2 Ke2 7. Ka3 Kd1 8. Kb4 $1 (8. Kxa4 $2 c1=Q 9. Bxc1 Kxc1 10. Kb3 c2) c1=Q 9. Bxc1 Kxc1 10. Kxc3) 1/2-1/2
+
+[Event "De Standaard (c)"]
+[Date "1933.07.30"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1K4PR/2p5/2B5/8/5kp1/5r2 w - - 0 1"]
+
+1. Rh2 $1 Rd1 2. Kc6 $1 Kg3 (Rd4 3. Bd5) 3. Rxg2+ Kxg2 4. g7 Rd8 5. Kc7 Re8 6. Bf7 Ra8 7. Bd5+ Kg3 8. Bxa8 1-0
+
+[Event "Deventer Dagblad (c)"]
+[Source "(c): De_Feijter=C Deventer Dagblad=14759 6-1-1934."]
+[Date "1933.12.09"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/8/2B5/2N5/1K6/P6p/3k4 w - - 0 1"]
+
+1. Ne3+ $1 Ke1 (Kc1 2. Ba3+ Kb1 (Kd2 3. Nf1+) 3. Nf1 h1=Q 4. Nd2+ Ka1 5. Bb2#) 2. Bb4+ Ke2 3. Nf5 $1 Kf3 (h1=Q 4. Ng3+ Kf3 5. Nxh1) 4. Ng3 $1 Kxg3 5. Bd6+ Kg2 6. Bxh2 Kxh2 7. Kb4 Kg3 8. Kb5 Kf4 9. Ka6 Ke5 10. Kxa7 Kd6 11. Kb6 Kd7 12. Kb7 $1 1-0
+
+[Event "Van Eigen Erf"]
+[Date "1934.02.02"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4N3/8/8/8/6K1/p1kp4/P7/8 w - - 0 1"]
+
+1. Nd6 $1 Kb2 (d2 2. Ne4+ Kd3 3. Nxd2 Kxd2 4. Kf3) 2. Nc4+ (2. Kf3 {<or>} d2 3. Nc4+ (3. Ke2 $2 Kc1) Kxa2 4. Ke2) Kxa2 3. Kf3 d2 $1 4. Ke2 $1 (4. Nxd2 $2 Ka1 $1) Kb1 $1 5. Kxd2 $1 (5. Nxa3+ $2 Kc1) (5. Nxd2+ $2 Kc2) a2 6. Na3+ Kb2 7. Nc2 1/2-1/2
+
+[Event "Deventer Dagblad"]
+[Date "1934.09.01"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5b2/8/5R2/8/2p3k1/3p2p1/6P1/6K1 w - - 0 1"]
+
+1. Rc6 $1 d2 2. Rxc4+ Kf5 3. Rd4 $1 Bc5 4. Kh1 Bxd4 1/2-1/2
+
+[Event "Deventer Dagblad"]
+[Date "1934.11.27"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6pk/5P2/1P1b2PP/1p5K/8/8/8 w - - 0 1"]
+
+1. f7 $1 Bxf7 2. g6+ Bxg6 (Kg8 3. gxf7+) 3. hxg6+ Kh6 4. b6 b3 5. b7 b2 6. b8=R $1 (6. b8=Q $2 b1=Q 7. Qxb1) 1-0
+
+[Event "Tijdschrift v.d. KNSB"]
+[Source "Tijdschrift v.d. KNSB/11 after Sackmann=F h8d7 1922."]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/3kn2P/6P1/5p2/5P2/5Pb1/8/8 w - - 0 1"]
+
+1. g7 $1 Bh4 $1 2. g8=N $1 (2. g8=Q $2 Bf6+ 3. Qg7 Ke6 $1 4. Qxf6+ Kxf6) Nd5 3. Kg7 Be1 4. Nf6+ Nxf6 5. h8=Q 1-0
+
+[Event "Residentiebode"]
+[Source "Residentiebode/12"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4B3/2P4p/P6k/2p5/2b2K2/8 w - - 0 1"]
+
+1. c6 $1 Bxa4 (Be4 2. c7 Bb7 3. Ke3) (Bd3 2. c7 Ba6 3. Ke3 $1) 2. c7 Bd7 $1 3. Bxd7 c2 4. c8=R $1 (4. c8=Q $2 c1=Q 5. Qxc1 (5. Qd8+ Qg5)) 1-0
+
+[Event "Tijdschrift v.d. KNSB#122"]
+[Source "Tijdschrift v.d. KNSB/10"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6b1/p7/k3P2P/P1pP1p2/K1p2P2/P1p2P2/2P5/8 w - - 0 1"]
+
+1. h7 $1 (1. e7 $2 Bf7) (1. d6 $2 Bxe6) Bxh7 2. d6 Bg8 3. e7 $1 (3. d7 $2 Bxe6 4. d8=Q Bd7+ 5. Qxd7) Bf7 (Be6 4. e8=B $1 Bd5 5. Bb5+ Kb7 6. a6+ Kb6 7. d7 Kc7 8. Ka5 Bxf3 9. Ba4 Bd5 10. d8=Q+ Kxd8 11. Kb5) 4. d7 Be6 $1 5. e8=B $1 (5. d8=Q $2 Bd7+ 6. Qxd7) (5. e8=Q $2 Bxd7+ 6. Qxd7) Bd5 $1 6. d8=N $1 1-0
+
+[Event "Tijdschrift v.d. KNSB#126 (v)"]
+[Source "Tijdschrift v.d. KNSB/11"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/1P3n1P/6p1/2K3P1/6P1/8/8/8 w - - 0 1"]
+
+1. Kb6 $1 (1. Kd5 $2 Kxb7 2. h8=Q Nxh8 3. Ke6 Kc6 4. Kf6 Kd5 5. Kg7 Ke4 6. Kxh8 Kf4 7. Kg7 Kxg5) Nh8 (Nd8 2. h8=N (2. h8=Q $2) (2. h8=B $2 Nxb7 3. Be5+ Ka8 4. Bc7 Nd6 5. Bxd6)) 2. Kc6 Nf7 3. Kd7 Kxb7 4. Ke8 Nh8 5. Kf8 Kc7 6. Kg7 Kd7 7. Kxh8 Ke7 8. Kg7 1-0
+
+[Event "Deventer Dagblad (m)"]
+[Source "(m): De_Feijter=C Schweizerische Arbeiter-Schachzeitung=2 2/1951."]
+[Date "1936.01.18"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3N1K2/8/8/6N1/1pP5/8/5k2 w - - 0 1"]
+
+1. Nb6 $1 b2 2. Nc4 b1=N $1 3. Nce3+ Ke2 4. c4 Nd2 5. c5 Nb3 6. c6 Nd4 7. c7 Nb5 8. c8=N $1 Kf3 $1 9. Kg6 Nd4 10. Kh5 $1 1-0
+
+[Event "Deventer Dagblad"]
+[Date "1936.12.05"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/P1P5/kBP2K2/p7/P3b3/8/2r5 w - - 0 1"]
+
+1. a7 $1 Rxc5+ 2. Ke4 Re5+ $1 3. Kxe5 Bxa7 4. c7 Bb8 5. cxb8=N $1 Kxb5 6. Kd5 1-0
+
+[Event "Revista de Romana de Sah#0151 (c)"]
+[Source "(c): De_Feijter=C Tijdschrift v.d. KNSB/9 1937."]
+[Date "1937.04.27"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/6p1/3PP1P1/B3b1kP/K7/4n3/8 w - - 0 1"]
+
+1. e6 $1 fxe6 2. d6 $1 Bc6 $1 3. Bxc6 Nd4 4. Bf3+ $1 (4. Ba4 $2 e5 5. d7 Ne6 6. Bb3 Nd8 7. Kb4 Kxh4 8. Kc5 Kxg5 9. Kd6 Kf6 10. Bd5 g5 11. Kc7 Ke7 12. Kc8 (12. Bf3 Ne6+ 13. Kc8 Nd8 14. Be4 g4 15. Bd5 g3 16. Kc7 e4 $1 17. Bxe4 Ne6+ 18. Kc8 Kf6 19. Bg2 Ke5 20. Bh3 Kf4) g4 13. Kc7 g3 14. Kc8 e4 $1 15. Bxe4 Nf7 16. Kc7 Ke6 $1) Kxf3 5. d7 Nc6 6. h5 gxh5 7. g6 1-0
+
+[Event "De Schaakwereld#088"]
+[Date "1937.06.04"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/1N6/8/BK5p/7p/3k4 w - - 0 1"]
+
+1. Nc3+ $1 Ke1 (Kd2 2. Ne4+ Ke3 3. Ng3) 2. Ne4 $1 (2. Bb4 $2 Kf1 3. Ne4 Kg2) h1=Q 3. Bb4+ Kf1 (Kd1 4. Nf2+) (Ke2 4. Ng3+) 4. Ng3+ Kg2 5. Nxh1 1/2-1/2
+
+[Event "De Schaakwereld#099"]
+[Date "1937.07.30"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K1n/7P/1b4Pk/7P/8/8/8/8 w - - 0 1"]
+
+1. g7 $1 (1. Kg8 $2 Bd4 2. g7 Bxg7) Bc5+ 2. Kg8 Bd4 3. gxh8=B $1 (3. gxh8=Q $2 Be5 $1 4. Qxe5) (3. gxh8=R $2 Ba1) (3. gxh8=N $2 Kxh5) 1-0
+
+[Event "Deventer Dagblad (m)"]
+[Source "(m): Korolkov=V Shakhmaty v SSSR/3 1951."]
+[Date "1937.09.25"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/7P/2n4k/8/2b1P2P/8/6P1/8 w - - 0 1"]
+
+1. g4 $1 Ne5 2. g5+ Kg6 3. h5+ Kf7 4. g6+ Kf6 5. g7 Nf7+ 6. Kg8 Ke7 7. h8=N $1 Ng5+ 8. Nf7 Nxf7 9. Kh7 Ng5+ 10. Kh8 $1 Nf7+ 11. Kh7 1/2-1/2
+
+[Event "Deventer Dagblad"]
+[Date "1937.09.25"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/5k1P/8/4n1PP/2b1P3/8/8/8 w - - 0 1"]
+
+1. g6+ $1 Kf6 $1 2. g7 Nf7+ 3. Kg8 Ke7 $1 4. h8=N $1 (4. h8=Q $2 Ng5#) (4. h6 $2 Ne5+ 5. Kh8 Ng6#) Ng5+ 5. Nf7 Nxf7 6. Kh7 $1 Ng5+ 7. Kh8 $1 (7. Kg6 $2 Nxe4 8. h6 Nf6 9. h7 Bd3+) 1/2-1/2
+
+[Event "De Schaakwereld#111 (c)"]
+[Date "1937.10.01"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3r4/P1k5/K7/1P6/8/8/2P5/8 w - - 0 1"]
+
+1. b6+ $1 Kc6 2. b7 Rd1 3. b8=N+ $1 Kc7 (Kc5 {<main>} 4. Nc6 $1 Ra1+ 5. Na5 Kb4 6. c3+) 4. Nc6 $1 Ra1+ 5. Na5 Rxa5+ 6. Kxa5 Kb7 {<eg>} 7. Kb5 1-0
+
+[Event "De Schaakwereld#117"]
+[Date "1937.10.22"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4b1K1/6P1/6kP/2b5/8/8/8/8 w - - 0 1"]
+
+1. h7 $1 (1. Kh8 $2 Bd4 2. h7 (2. Kg8 Bf7+ 3. Kh8 Be5 4. h7 Bxg7#) Bxg7+ 3. Kg8 Bf7#) Bf7+ (Bd4 2. h8=N+ $1) (Ba4 2. h8=N+ $1 (2. Kh8 $2 Bd4)) 2. Kh8 Kh6 3. g8=N+ $1 Kg6 4. Ne7+ 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#195"]
+[Source "Tijdschrift v.d. KNSB/5"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/1B1R1K2/8/4kp1p/8 w - - 0 1"]
+
+1. Rd2+ $1 Ke1 2. Ra2+ $1 (2. Rb2+ $2 Kd1 $1 3. Ke3 Kc1 $1 (f1=N+ $2 4. Kd3 Kc1 5. Rb3 $1 h1=Q 6. Ba3+ Kd1 7. Rb1#)) Kf1 $1 (Kd1 3. Ke3 $1 f1=N+ 4. Kd3) 3. Kg3 $1 h1=Q 4. Rxf2+ Kg1 5. Bc5 $1 1-0
+
+[Event "Ceskoslovensky Sach#089 (v)"]
+[Source "Ceskoslovensky Sach/10"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5r2/1P6/8/3P4/7B/3k4/8/3K4 w - - 0 1"]
+
+1. d6 $1 Kc4 2. d7 Kb5 3. d8=Q Rxd8+ 4. Bxd8 Ka6 5. b8=R (5. b8=Q $2) (5. b8=N+ $2 Kb7 6. Nd7 Kc8) 1-0
+
+[Event "80 Eindspelstudies#07"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6k1/6P1/4P2K/4P3/8/8/1n6 w - - 0 1"]
+
+1. e6 $1 Nc3 2. e7 Nxe4 3. e8=N+ $1 Kg8 (Kf8 4. g7+ Kf7 5. Kh6 Kg8 6. Kg6) 4. Kh6 (4. g7 $2 Nf6+) Kf8 5. g7+ Kf7 6. Kh7 Ng5+ 7. Kh8 1-0
+
+[Event "Ceskoslovensky Sach#089"]
+[Source "Ceskoslovensky Sach/10"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5r2/1P6/8/3P4/7B/3k3K/8/8 w - - 0 1"]
+
+1. d6 $1 Kc4 2. d7 Kb5 3. d8=Q Rxd8 4. Bxd8 Ka6 $1 5. b8=R $1 (5. b8=Q $2) (5. b8=N+ $2 Kb7 6. Nd7 Kc8) 1-0
+
+[Event "Tijdschrift v.d. KNSB#176 (c)"]
+[Source "Tijdschrift v.d. KNSB/2 (c): De_Feijter=C Tijdschrift v.d. KNSB/5 1938."]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4KB2/5Pp1/1n2kP2/1n2b3/8/8/8/8 w - - 0 1"]
+
+1. fxg7 $1 Nc7+ 2. Kd8 Kxf7 3. g8=Q+ $1 Kxg8 4. Bd6 Ne6+ (Bxd6) 5. Ke7 Nc8+ 6. Kxe6 Bxd6 7. Kd7 1/2-1/2
+
+[Event "80 Eindspelstudies#45"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7N/6pp/8/6PK/3p4/7k/8/8 w - - 0 1"]
+
+1. g6 $1 h6 2. Nf7 d3 3. Ne5 d2 4. Ng4 (4. Nf3 $2 d1=R $1) d1=Q (Kg3 {<main>} 5. Ne3 Kf3 6. Nd1 Ke2 7. Nb2 d1=Q 8. Nxd1 Kxd1 9. Kg4 Ke2 10. Kf5 Kf3 (h5 11. Kg5) 11. Ke6 h5 12. Kf7 h4 13. Kxg7 h3 14. Kf7 h2 15. g7 h1=Q 16. g8=Q) (d1=B) 1/2-1/2
+
+[Event "Ceskoslovensky Sach#058"]
+[Source "Ceskoslovensky Sach/7"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1Bk5/p1P5/p7/Kp1P2p1/1P4Pp/8/8 w - - 0 1"]
+
+1. d5 $1 Kd6 $1 2. Bxa6 h2 3. c7 Kxc7 4. d6+ Kc6 5. d7 h1=Q 6. Bb7+ $1 (6. d8=Q $2 Qa1#) Kxb7 7. d8=Q 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#187"]
+[Source "Tijdschrift v.d. KNSB/4"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3b4/8/3k3P/3P1p2/5Kn1/8/8/8 w - - 0 1"]
+
+1. h7 $1 Ne5 2. h8=N $1 (2. Kxf5 $2 Nf7 3. Kg6 Nh8+ 4. Kg7 Ke7 5. d6+ Ke6 6. d7 Bf6+) Bf6 3. Ng6 $1 Nxg6+ 4. Kxf5 1/2-1/2
+
+[Event "De Schaakwereld#185"]
+[Date "1938.07.15"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/2k3PP/2P5/8/4P3/6b1/8/6q1 w - - 0 1"]
+
+1. Kg8 $1 Be5 $1 2. h8=Q Qg6 $1 3. Kf8 Kxc6 (Kd6 {<main>} 4. g8=Q (4. g8=N $2 Bxh8) (4. Kg8 $2 Kxc6 5. Kf8 Bd6+ 6. Kg8 Kd7 7. Qh3+ Kd8)) (Kd8 { <main >} 4. Qh4+ Bf6 5. c7+ Kxc7 6. g8=Q) 4. g8=N $1 (4. g8=Q $2 Bd6#) 1/2-1/2
+
+[Event "Deventer Dagblad"]
+[Date "1938.11.19"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5b1k/p7/P3K1P1/1P6/7p/7P/8 w - - 0 1"]
+
+1. b5 $1 axb5 2. a6 Bh5 (Be8 3. g6+ Kg7 (Kxg6 4. Kd6 $1 (4. Kd5 $2 Kf5 5. a7 Bh5)) 4. Kd5 Bd7 5. a7 Bg4 6. Ke4 Kxg6) 3. g6+ Kg7 4. Kf4 (4. Ke4 $2 Be2 5. a7 Bf1 6. a8=Q Bg2+) 1-0
+
+[Event "De Schaakwereld#221"]
+[Date "1938.11.25"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "De Feijter, C"]
+[Black " Kok, T."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "Rb6/8/1P6/P7/pp6/4p3/kPKpP3/8 w - - 0 1"]
+
+1. a6 $1 b3+ 2. Kd1 a3 (Kxb2 3. a7 a3 4. axb8=Q a2 5. Qe5+) 3. a7 axb2 4. axb8=N+ $1 (4. axb8=Q+ $2 Kb1) Kb1 5. Na6 Ka2 6. Nc5+ Kb1 7. Na4 Ka2 8. Nc3# 1-0
+
+[Event "Tijdschrift v.d. KNSB#249"]
+[Source "Tijdschrift v.d. KNSB/3"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6KB/6P1/7k/7p/7P/7P/4p3/8 w - - 0 1"]
+
+1. Kf7 $1 e1=Q 2. g8=N+ (2. g8=Q $2 Qe7+ 3. Kxe7) Kh7 3. Bg7 1-0
+
+[Event "Deventer Dagblad"]
+[Date "1939.01.14"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/8/p7/1k6/5P2/8/8/8 w - - 0 1"]
+
+1. Kb7 $1 (1. f5 $2 Kc5 2. f6 (2. Kb7 a5 3. Kc7 Kd5 (a4 4. f6) 4. Kd7 Ke5) Kd6 3. f7 Ke7) (1. Kb8 $2 Kc6) a5 2. Kc7 $1 Kc5 (a4 3. f5) (Kc4 3. Kd6 a4 4. f5 a3 5. f6 a2 6. f7 a1=Q 7. Ke7 Qg7 8. Ke8 Qg6 9. Ke7 Qh7 10. Kf6 $1 (10. Ke8 $2 Kd5 11. f8=Q Ke6)) 3. Kd7 Kd5 (a4 4. f5) 4. Ke7 $1 Ke4 (a4 5. f5) 5. Ke6 $1 (5. Kd6 $2 a4) Kxf4 (a4 6. f5 a3 7. f6) 6. Kd5 1/2-1/2
+
+[Event "Deventer Dagblad"]
+[Source "also Tijdschrift v.d. KNSB/10 1939."]
+[Date "1939.10.21"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/7K/8/7P/8/5k2/8 w - - 0 1"]
+
+1. Kg5 $1 b5 (Ke3 2. h5) 2. Kf4 Ke2 (b4 3. Ke4) 3. Ke4 (3. h5 $2 b4) Kd2 (b4 4. Kd4) 4. Kd4 Kc2 5. Kc5 (5. h5 $2 b4 6. h6 b3 7. h7 b2 8. h8=Q b1=Q) Kc3 (Kd3 6. h5) 6. h5 $1 (6. Kxb5 $2 Kd4) b4 7. h6 b3 8. h7 b2 9. h8=Q+ 1-0
+
+[Event "Deventer Dagblad (v)"]
+[Date "1939.10.21"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/7K/8/8/7P/8/6k1 w - - 0 1"]
+
+1. Kg5 $1 b5 2. Kf4 Kf2 3. h4 Ke2 4. Ke4 Kd2 5. Kd4 (5. Kd5 {<or>}) Kc2 6. Kc5 Kc3 7. h5 b4 8. h6 b3 9. h7 b2 10. h8=Q+ 1-0
+
+[Event "Tijdschrift v.d. KNSB#309"]
+[Source "Tijdschrift v.d. KNSB/1"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/8/8/7p/5k2/8/2P5/8 w - - 0 1"]
+
+1. c4 $1 Ke5 (h4 2. c5 h3 3. c6 h2 4. c7 h1=Q 5. c8=Q) 2. Kc7 Kd4 (h4 3. c5 h3 4. c6 h2 5. Kb8 h1=Q 6. c7) 3. Kd6 Kxc4 (h4 4. c5) 4. Ke5 h4 {<eg>} 5. Kf4 h3 6. Kg3 h2 7. Kxh2 1/2-1/2
+
+[Event "De Schaakwereld#323"]
+[Date "1940.01.03"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/5P1P/pp6/1p2K1p1/1P4P1/3k4 w - - 0 1"]
+
+1. f6 $1 a3 2. f7 a2 (axb2 3. f8=Q b1=Q (Kc2 4. h6 b1=Q 5. Qf5+ Kb2 6. Qxb1+ Kxb1 7. h7 b2 8. h8=Q) 4. Qd6+ Ke1 (Kc2 5. Qd2#) 5. Qxg3+ Kd1 6. Qd6+ Ke1 7. Qd2+ Kf1 8. Qf2#) 3. f8=R $1 (3. f8=Q $2 a1=Q 4. Qf1+ Kc2 5. Qxa1) Kc2 (a1=Q 4. Rf1+ Kc2 5. Rxa1 Kxb2 6. Rh1) 4. Ra8 $1 (4. Rf1 $2 Kxb2 5. h6 Kc2 $1 6. h7 b2 7. h8=Q b1=Q) Kxb2 5. h6 Kc1 (a1=Q 6. Rxa1 Kxa1 7. h7 b2 8. h8=Q Ka2 9. Qa8+ Kb3 10. Qe4 Ka2 11. Qc2 b3 12. Qd2 Ka1 13. Qa5+ Kb1 14. Kd3 Kc1 15. Qe1#) 6. h7 b2 7. h8=Q b1=Q (a1=Q 8. Rxa1+ bxa1=Q 9. Qxa1+) 8. Rc8+ Kd1 9. Qh1# 1-0
+
+[Event "Deventer Dagblad"]
+[Date "1940.01.13"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/7k/1p6/1P6/8/7K w - - 0 1"]
+
+1. Kg1 $1 Kg5 (Kg4 2. Kg2) (Kh4 2. Kh2) 2. Kf1 Kf5 3. Ke1 Ke5 4. Kd1 Kd5 (Kf4 5. Kd2 Ke4 6. Ke2) 5. Ke1 $1 (5. Kc1 $2 Ke4 $1 6. Kc2 Ke3 7. Kc1 Kd3 8. Kb2 Kd2 9. Kb1 Kc3 10. Ka2 Kc2 11. Ka1 Kxb3 12. Kb1 Ka3 13. Ka1 b3 14. Kb1 b2 15. Kc2 Ka2) (5. Kc2 $2 Ke4 6. Kd2 Kd4 7. Kc2 Ke3) (5. Kd2 $2 Kd4) (5. Ke2 $2 Ke4) Ke5 (Kd4 6. Kd2) (Ke4 6. Ke2) 6. Kd1 1/2-1/2
+
+[Event "Deventer Dagblad (c)"]
+[Source "(c): De_Feijter=C De Schaakwereld=1 31-7-1941."]
+[Date "1940.09.21"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/1k3pp1/1P6/K4P1P/8/8/8 w - - 0 1"]
+
+1. f5 $1 gxf5 2. Kb3 $1 (2. h5 $2 f4 3. h6 f3 4. h7 f2 5. h8=Q f1=Q 6. Qb8+ Kc5 7. Qxc7+ Kd5) f4 3. Kc2 f3 4. Kd1 $1 (4. Kd2 $2 Kxb5 5. h5 c5 6. h6 c4 7. h7 c3+ $1) 1-0
+
+[Event "De Schaakwereld#382b (tw)"]
+[Date "1940.10.31"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/7P/8/3k4/8/3n3K w - - 0 1"]
+
+1. h6 $1 (1. Kg1 $2 Nc3 $1 2. h6 Ne2+ 3. Kf2 Nf4 4. h7 Ng6) Nf2+ 2. Kg2 $1 1-0
+
+[Event "De Schaakwereld#382a (tw)"]
+[Date "1940.10.31"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/7P/8/2k5/8/3n3K w - - 0 1"]
+
+1. Kg1 $1 (1. h6 $2 Nf2+ 2. Kg2 (2. Kh2 Ng4+) (2. Kg1 Nh3+ 3. Kh2 Ng5) Nd3 $1 3. h7 Nf4+ 4. Kg3 Ng6 5. Kg4 Kd4 6. Kg5 Nh8 7. Kf6 Kd5 8. Kg7 Ke6 9. Kxh8 Kf7) Ne3 2. h6 1-0
+
+[Event "Deventer Dagblad"]
+[Date "1940.12.05"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/p7/k7/b2K4/8 w - - 0 1"]
+
+1. Kc2 $1 1/2-1/2
+
+[Event "Deventer Dagblad"]
+[Date "1941.01.02"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1k6/8/8/1p6/4K3/2P5/1b6 w - - 0 1"]
+
+1. Kd2 $1 Kb6 (Ba2 2. c3 b3 3. Kc1) 2. Kc1 Ba2 3. c3 $1 bxc3 (b3 4. Kb2) 4. Kc2 1/2-1/2
+
+[Event "Deventer Dagblad"]
+[Source "after Troitzky=A h2e8 1896."]
+[Date "1941.01.02"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3k4/8/8/pP6/3b4/8/3K4 w - - 0 1"]
+
+1. Kd2 $1 a3 2. Kc3 Bc4 3. Kc2 Ba2 4. b5 $1 Kd6 5. Kc3 Kc5 6. b6 Kxb6 7. Kb4 1/2-1/2
+
+[Event "Deventer Dagblad"]
+[Source "after Walker=G e4h4 1841."]
+[Date "1941.02.08"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/p7/K2k4/1Pb5/8/8/8 w - - 0 1"]
+
+1. Ka4 $1 Kd4 2. Ka3 Kc3 3. b5 $1 axb5 1/2-1/2
+
+[Event "De Schaakwereld"]
+[Date "1941.07.31"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/8/8/8/p3P2K/8/8/8 w - - 0 1"]
+
+1. e5 $1 Kb7 2. Kg5 Kc6 3. e6 $1 a3 (Kd6 4. Kf6 a3 5. e7 a2 6. e8=Q) 4. Kg6 $1 Kd6 5. Kf7 a2 6. e7 1/2-1/2
+
+[Event "De Schaakwereld"]
+[Date "1941.07.31"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/k2p4/7P/8/8/7K w - - 0 1"]
+
+1. Kg2 $1 (1. h5 $2 d4 2. Kg2 Kb4 $1 3. Kf3 d3 $1 (Kc3 $2 4. h6 d3 5. h7 d2 6. h8=Q+) (Kb3 $2 4. Ke4 $1) 4. Ke3 Kc3 5. h6 d2) Kb4 2. Kf3 Kb3 3. h5 d4 4. Ke4 Kc4 5. h6 d3 6. Ke3 Kc3 7. h7 d2 8. h8=Q+ 1-0
+
+[Event "Tijdschrift v.d. KNSB#002 (c)"]
+[Source "Tijdschrift v.d. KNSB/11 after Dmitriev=I c5a4 1930. (c): De_Feijter=C Tijdschrift v.d. KNSB/1 1946."]
+[Date "1945.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1NR5/p7/2K5/k7/5p2/8/6p1/8 w - - 0 1"]
+
+1. Rg8 $1 f3 2. Na6 Kxa6 3. Rg5 $1 f2 4. Rxg2 f1=Q 5. Ra2# 1-0
+
+[Event "Tijdschrift v.d. KNSB#003"]
+[Source "Tijdschrift v.d. KNSB/11 after Dmitriev=I c5a4 1930."]
+[Date "1945.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/pRK5/k7/5p2/6p1/8/8 w - - 0 1"]
+
+1. Kc5 $1 g2 (f3 2. Rb3) 2. Rg6 f3 3. Rg4 $1 f2 4. Rxg2 f1=Q 5. Ra2# 1-0
+
+[Event "Tijdschrift v.d. KNSB (m)"]
+[Source "Tijdschrift v.d. KNSB/4 after Dmitriev=I c5a4 1930. (m): De_Feijter=C EBUR=1 5/1992."]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/pNR5/2p5/2K2p2/k4p2/8/6p1/8 w - - 0 1"]
+
+1. Rg7 $1 f3 2. Na5 f4 (f2 3. Rxg2 f1=Q 4. Ra2#) (a6 3. Nc4 f2 4. Rg3 $1 f1=Q 5. Ra3#) 3. Nc4 f2 4. Nd2 f1=Q 5. Rxa7+ Qa6 6. Rxa6# 1-0
+
+[Event "Deventer Dagblad"]
+[Source "after Karlsson=L d2d4 1946."]
+[Date "1947.01.03"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1k6/8/Kp6/p7/Bpp5/2n5/1R6 w - - 0 1"]
+
+1. Kxb5 $1 Nxa3+ 2. Kxa4 c2 3. Rxb3+ Nb5 4. Rxb5+ Kc6 5. Rb3 c1=Q 6. Rc3+ Qxc3 1/2-1/2
+
+[Event "Schweizerische Arbeiter-Schachzeitung#2"]
+[Source "Schweizerische Arbeiter-Schachzeitung/5-6 after Korteling=W a4h8 1942."]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1P2r3/8/8/3B2k1/P7/2K5 w - - 0 1"]
+
+1. b7 $1 Rb6 2. Ba6 $1 (2. Be4 $2 Kf4 3. Bg2 Ke5 4. a4 Kd6 5. a5 Kc7 6. axb6+ Kb8 7. Bf3) Kf4 3. a4 Ke5 4. a5 Rb4 5. Bb5 $1 Rxb5 6. a6 1-0
+
+[Event "Deventer Dagblad"]
+[Source "after Mees=W g4c5 1939."]
+[Date "1951.12.15"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/2k5/5p1p/N5pK/8/8 w - - 0 1"]
+
+1. Nc2 $1 f3 2. Ne1 f2 3. Nd3+ Kd4 4. Nxf2 gxf2 5. Kg2 Ke3 6. Kf1 Kf3 (h3) 1/2-1/2
+
+[Event "Deventer Dagblad"]
+[Source "also Schweizerische Arbeiter-Schachzeitung=9-10 Schweizerische Arbeiter-Schachzeitung/9-10 1952. after Mees=W g3c5 1939."]
+[Date "1952.07.12"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4N3/8/P1k5/8/5p1p/p5pK/8/8 w - - 0 1"]
+
+1. a7 $1 Kb7 2. Nc7 $1 (2. Nd6+ $2 Ka8 (Kxa7 $2 3. Nb5+)) Kxa7 3. Nb5+ Kb6 4. Nxa3 Kc5 5. Nc2 (5. Kg2 $2 Kd4 6. Nc2+ Kd3 7. Ne1+ Ke2 8. Nf3 h3+) f3 (Kd5 6. Ne1 Ke4 7. Kxh4) 6. Ne1 f2 7. Nd3+ Kd4 8. Nxf2 gxf2 9. Kg2 Ke3 10. Kf1 Kf3 (h3) 1/2-1/2
+
+[Event "Volksgazet"]
+[Date "1958.10.14"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4r3/pP2B3/5K2/3P4/2k5/8/8/8 w - - 0 1"]
+
+1. d6 $1 Kb5 2. d7 Rh8 3. d8=Q Rxd8 4. Bxd8 Ka6 5. b8=N+ Kb7 6. Nd7 Kc8 7. Ke7 1-0
+
+[Event "2.c Schakend Nederland#1133"]
+[Source "Schakend Nederland/1 1969"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/kp6/8/2K5/N4B2/n7/8 w - - 0 1"]
+
+1. Kb3 $1 Nc1+ 2. Kc2 Na2 3. Kb2 Nb4 4. Kb3 Ka5 (Nd3 5. Be2) 5. Nc4+ Kb5 6. Nd6+ Kc5 7. Nb7+ Kb5 8. Be4 $1 Na6 (Nc6 9. Bd3#) 9. Bd3+ Kc6 10. Bxa6 b5 11. Kb4 (11. Nd8+ $2 Kb6 12. Bc8 Kc7) Kb6 12. Nc5 1-0
+
+[Event "4.hm Schakend Nederland (v)"]
+[Source "Schakend Nederland/3-4 1970 EG#01364."]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k3N2/8/5K1P/8/8/b1n5/8/8 w - - 0 1"]
+
+1. h7 $1 (1. Nd7+ $2 Kc7 2. Ne5 Bb2 3. h7 Ne4+ 4. Kf5 Bxe5 5. Kxe5 Ng5 6. h8=Q Nf7+) Bb2 2. Kf5 $1 Ne4 (Nd5 3. Nd7+ Kc7 4. Ne5 Ne7+ 5. Ke6 Bxe5 6. Kxe5) 3. Kxe4 (3. Nd7+ $2 Kc7 4. Ne5 Bxe5 5. Kxe5 Ng5) Kc8 4. Kd5 Bg7 5. Ke6 Kd8 6. Kf7 Bh8 7. Kg8 Ke8 8. Ne6 Ke7 9. Ng7 Kf6 10. Kxh8 Kf7 11. Ne6 1-0
+
+[Event "Deventer Dagblad (tw)"]
+[Date "1976.12.11"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/p7/p3p1Pp/P6p/4KP2/2k5 w - - 0 1"]
+
+1. Kf1 $1 Kd2 2. g5 e3 3. fxe3 Kxe3 4. Kg1 Kf4 5. g6 Kg3 6. g7 h2+ 7. Kh1 Kh3 8. g8=B (8. g8=Q $2) 1-0
+
+[Event "Deventer Dagblad (tw)"]
+[Date "1976.12.11"]
+[Round "?"]
+[Composer "De Feijter, Cornelis Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/2p5/2P5/4p1Pp/7p/4KP2/2k5 w - - 0 1"]
+
+1. Kf1 $1 Kd2 2. g5 e3 3. fxe3 Kxe3 4. Kg1 Kf4 5. g6 Kg3 6. g7 h2+ 7. Kh1 Kh3 8. g8=N (8. g8=Q $2) 1-0

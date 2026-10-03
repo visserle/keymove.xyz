@@ -1,0 +1,18 @@
+/* Keymove: fonts.
+
+   One module of the stylesheet; order is owned by
+   app.css, which imports every module. */
+
+/* Lichess's chess font: the letters K/Q/R/B/N render as baseline-aligned figurines. */
+@font-face {
+	font-family: "Noto Chess";
+	font-display: block;
+	src: url("/fonts/lichess-chess.woff2") format("woff2");
+}
+
+/* Lichess's UI icon font, drawn through `[data-icon]::before` below. */
+@font-face {
+	font-family: lichess;
+	font-display: block;
+	src: url("/fonts/lichess.woff2") format("woff2");
+}

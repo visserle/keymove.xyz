@@ -1,0 +1,26 @@
+[Event "2.p Norwegian ty"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Fossum, Andre Ferdinand"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/1p6/1k6/6P1/KN2b3 w - - 0 1"]
+
+1. g4 $1 Bh4 (Kc2 2. Na3+ $1 (2. Ka2 $2 b3+) bxa3 3. Ka2 Bb4 4. g5 Bf8 5. g6 Kc3 6. g7 $1) 2. Nd2+ Kc2 3. Ka2 $1 Kxd2 4. Kb3 Be7 5. g5 Kd3 6. g6 Bf8 7. g7 1/2-1/2
+
+[Event "Problemisten (s)"]
+[Source "Problemisten/1-2"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Fossum, Andre Ferdinand"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K1k5/6q1/P1n5/p7/8/4Q3/8/8 w - - 0 1"]
+
+1. Qe8+ $1 Kc7 (Nd8 2. Qe4 Qd7 3. a7) 2. a7 Nxa7 3. Qb5 $1 (3. Qc8+ $2 Kb6 (Nxc8 $2) (Kxc8 $2) 4. Qe6+ Nc6 5. Qb3+ Nb4 6. Qe3+ Kc6 7. Qe6+ Kc5 8. Qc8+ Nc6 9. Qf5+ Qe5) (3. Qb8+ $2 Kc6 4. Qb3 Nb5 5. Qc4+ Kb6 6. Qe6+ Kc5 7. Qf5+ Kc6 8. Qe4+ Kd6 9. Qf4+ Qe5) Nxb5 1/2-1/2

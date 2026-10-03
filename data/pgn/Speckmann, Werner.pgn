@@ -1,0 +1,41 @@
+[Event "Deutsche Schachzeitung#203"]
+[Source "Deutsche Schachzeitung/10"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Speckmann, Werner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/B3p3/4P3/8/p1K5/k3b3 w - - 0 1"]
+
+1. Bc7 $1 Bg3 (Bc3 2. Bd6 Bb2 (Bd4 3. Ba3 Bc3 4. Kxc3) 3. Bb4 Bd4 4. Ba3 Bc3 5. Kxc3) 2. Bd6 (2. Bb8 $2 Bh2 $1 3. Bd6 Bf4 4. Bc7 Bg3) Bf4 (Bh2 3. Ba3) 3. Bb4 Bd2 4. Kxd2 Kb1 5. Bc3 a1=Q 6. Bxa1 Kxa1 7. Kc3 1-0
+
+[Event "Berliner Morgenpost (m)"]
+[Source "(m): Speckmann=W Schach Echo#295 Schach Echo=6 23-3-1961."]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Speckmann, Werner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3N4/2p2p1P/k7/8/2b5/4K3/8 w - - 0 1"]
+
+1. Kd3 $1 Ba1 (Bb2 {<main>} 2. Ne5 $1 f5 (fxe5 3. Ke4) 3. Nc4+) (Kb4 {<main>} 2. Ne5 $1 f5 (fxe5 3. Ke4) 3. Nxc6+ Kb3 4. Nd4+) 2. Ne5 $1 (2. Ke4 $2 f5+ 3. Kxf5 Bh8 4. Ne5 c5 5. Ng6 c4 6. Nxh8 c3 7. h7 c2) f5 (Bxe5 {<main>} 3. Ke4 Ba1 4. Kf5) (fxe5 3. Ke4) 3. Nxc6+ Kb5 4. Nd4+ Kc5 5. Nb3+ (5. Nxf5 $2 Kd5 6. Ng7 Kd6 7. Ke4 Ke7 8. Kf5 Kf7 $1) Kb4 6. Nxa1 1-0
+
+[Event "Die Schwalbe#098a (tw)"]
+[Source "Die Schwalbe/8-9 EG#00518a."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Speckmann, Werner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5pp1/8/8/6K1/8/R6p/6k1 w - - 0 1"]
+
+1. Kh3 $1 (1. Kg3 $2 h1=N+) h1=Q+ 2. Kg3 1-0

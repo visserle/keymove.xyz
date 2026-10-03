@@ -1,0 +1,27 @@
+[Event "Schach Echo#074 (c)"]
+[Source "Schach Echo/6 (c): Renn=A Schach Echo=21 11/1970."]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Renn, Albert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6kB/6P1/5p2/5P2/4p2p/pp2p2P/P3P1Rp/5K1B w - - 0 1"]
+
+1. Rxh2 $1 (1. Rg6 $2 bxa2 2. Bxe4 a1=Q+ 3. Kg2 Qg1+) bxa2 2. Kg2 $1 a1=Q 1/2-1/2
+
+[Event "Schach Echo#127"]
+[Source "Schach Echo/9"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Renn, Albert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3B4/1K1P1p2/5p2/p1pP1P2/1k6/2n5/6b1 w - - 0 1"]
+
+1. Bxa4+ $1 (1. Bxf5 $2 Bxd4+ 2. Kc7 (2. Kc6 Nb4+) (2. Kb5 a3) Bc5) Kxa4 2. d7 Nxd4 3. d8=Q Ne6+ 4. Ka6 $1 Nxd8 1/2-1/2

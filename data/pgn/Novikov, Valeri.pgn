@@ -1,0 +1,249 @@
+[Event "64#441"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Novikov, Valeri"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K2b2/5p2/4Pk2/1N6/8/8/8/4B3 w - - 0 1"]
+
+1. e7 $1 Bxe7 (Kxe7 2. Bb4+ Ke8 3. Nc7#) 2. Bh4+ Ke6 3. Nc7+ Kd6 4. Ne8+ Ke6 5. Ng7+ Kd6 6. Nf5+ Ke6 7. Nxe7 1-0
+
+[Event ".c 64#428 (c)"]
+[Source "EG#17413. (c): Zinar=M Problemist Ukraini=4(14) 2007."]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Novikov, Valeri"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p1p1p2/1P1PpP1P/8/8/pp4P1/krpKP3/qb6 w - - 0 1"]
+
+1. Kc1 $1 e5 2. h7 e4 $1 3. h8=N $1 e3 4. Ng6 fxg6 5. f7 g5 6. f8=N $1 g4 7. Ne6 dxe6 8. d7 e5 9. d8=N $1 e4 10. Nc6 bxc6 11. b7 c5 12. b8=N $1 c4 13. Nc6 (13. Na6 {<or>}) c3 14. Nb4# 1-0
+
+[Event ".c 64#480"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Novikov, Valeri"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/7b/5PPp/7K/8/8/8/8 w - - 0 1"]
+
+1. f7 $1 Bg8 2. f8=R 1-0
+
+[Event "64#539 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - VII-72 2012."]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Novikov, Valeri"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3P4/7b/1R2n1R1/2k5/4K3/2p5/8 w - - 0 1"]
+
+1. Rc5+ $1 Kxc5 2. d8=Q Bxg5+ 3. Qxg5 c1=Q+ 4. Ke4 Qxg5 1/2-1/2
+
+[Event "Schach#08021"]
+[Source "Schach/7"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Novikov, Valeri"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7r/3P1P1P/3k1K2/8/8/8/4r1B1/8 w - - 0 1"]
+
+1. Kg7 $1 Kxd7 (Rd8 2. f8=Q+ Rxf8 3. Kxf8 Kxd7 4. Bc6+) 2. Kxh8 Ke7 3. Bf3 Rf2 (Rh2 4. Kg8 Rxh7 5. f8=Q+) 4. Kg8 Rxf3 5. h8=Q Rg3+ 6. Qg7 1-0
+
+[Event "Problem#321 (c)"]
+[Source "Problem/5 (c): Garcia=M Estudios Artisticos de Ajedrez - XII-51 2012."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Novikov, Valeri"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4N3/p7/1N3p2/4p3/p2p4/P4k2/K7 w - - 0 1"]
+
+1. Nc3 $1 e3 2. Nd1+ Kf3 3. Nxe3 Kxe3 4. Nxf5+ Kf4 5. Nd4 d2 6. Ne2+ Ke3 7. Nc3 Kd3 8. Nb1 d1=Q 1/2-1/2
+
+[Event "4.c Birnov MT"]
+[Source "EG#17467."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Novikov, Valeri"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b6/2NPkp2/3N4/8/1n6/5p2/7K/8 w - - 0 1"]
+
+1. d8=Q+ $1 Kxd8 2. Nxf7+ Ke7 3. Ng5 Bxc7+ 4. Kg1 Bb6+ 5. Kf1 f2 6. Nh3 Nd3 7. Nf4 Nxf4 (Nb4 8. Nh3) 1/2-1/2
+
+[Event "3.hm Revista de Romana de Sah#0783"]
+[Source "Revista de Romana de Sah/4 EG#04115."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Novikov, Valeri"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/3R2p1/5p2/4k2K w - - 0 1"]
+
+1. Re3+ $1 (1. Rf3 $2 g2+ $1 2. Kxg2 gxf3+ $1) (1. Rxg3 $2 f1=Q+ $1 2. Rg1 Kf2 3. Rxf1+ Kxf1 4. Kh2 Kf2 5. Kh1 Kg3 $1 6. Kg1 Kh3) Kd2 (Kf1 2. Rxg3 Ke2 3. Rg2 Ke3 4. Rg3+ Kf4 5. Rxg4+ Kf3 6. Rg3+ Kxg3) 2. Rf3 Ke2 3. Rf4 Kf1 (Ke3 4. Rf8 Ke2 5. Rf4) 4. Rxg4 Ke2 (Ke1 5. Rxg3 f1=Q+ 6. Rg1) 5. Rf4 f1=Q+ (Kf1 6. Rg4 Ke1 7. Rxg3 f1=Q+ 8. Rg1) 6. Rxf1 Kxf1 1/2-1/2
+
+[Event "Shakhmaty v SSSR#06 (c)"]
+[Source "Shakhmaty v SSSR/2 (c): Garcia=M Estudios Artisticos de Ajedrez - VII-70 2012."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Novikov, Valeri"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1N6/p2K4/1P6/P4p2/k1P2p2/8/5b2/8 w - - 0 1"]
+
+1. c5 $1 (1. b7 $2 f3 2. Nc6 Bg3) Bxc5 (axb6 2. c6) 2. b7 f3 3. Na6 f2 4. Nxc5+ Kxa5 $1 (Ka3 5. b8=Q f1=Q 6. Qb3#) 5. Nb3+ Ka6 (Ka4 6. Nd2) 6. Kc6 $1 f1=Q 7. b8=N# 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/6"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Novikov, Valeri"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2b5/p7/P6b/KP6/4Pk2/8/8/8 w - - 0 1"]
+
+1. b6 $1 Bd7 (axb6+ 2. Kxb6 Kxe4 3. a7 Be3+ 4. Kc7) 2. b7 (2. bxa7 $2 Bc6) Kxe4 3. b8=R $1 (3. b8=Q $2 Bd2+ 4. Qb4+ Kd3 5. Qxd2+ Kxd2 6. Kb4 Kc2 7. Kc5 Bc8 8. Kb5 Kb3 9. Ka5 Bg4 10. Kb5 Be2+ 11. Ka5 Kb2 12. Kb4 Bxa6) Bd2+ 4. Rb4+ Kd3 (Bxb4+ 5. Kxb4 Kd3 6. Kb3) 1/2-1/2
+
+[Event "Schach#10297"]
+[Source "Schach/2"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Novikov, Valeri"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4P3/k7/8/4b3/6r1/8/K5n1 w - - 0 1"]
+
+1. e8=Q $1 Ne2 $1 (Bb7 2. Qa4+ Kb6 3. Qd4+ Kc6 4. Qf6+ Kd5 (Kd7 5. Qf7+) 5. Qf5+ Kc6 6. Qe6+) (Bd5 2. Qc8+ Bb7 3. Qc4+ Kb6 (Ka7 4. Qc5+ Ka8 5. Qa5+) 4. Qd4+) 2. Qa4+ $1 (2. Qxe4 $2 Ra3+ 3. Kb2 Ra2+ 4. Kb3 Nc1+ 5. Kb4 (5. Kc3 Ne2+ 6. Kb4 (6. Kd3 Nc1+) Ra4+) Rb2+ 6. Kc5 (6. Kc4 Rb7 $1 7. Qc6+ Ka7 8. Qa4+ Kb8 9. Kc5 Nd3+ 10. Kc6 Rc7+ 11. Kd6 Nc5 12. Qb4+ Nb7+ 13. Ke6 Rc6+ $1 14. Ke7 Rd6) Nb3+ 7. Kc6 Rc2+ 8. Kd6 Rd2+ 9. Ke5 (9. Kc7 Kb5) Kb5) Kb6 3. Qxe4 Ra3+ 4. Kb2 Ra2+ 5. Kb3 Nc1+ 6. Kb4 Rb2+ 7. Kc4 $1 (7. Kc3 $2 Rb5 8. Qe3+ Ka6) Rb3 (Rb5 8. Qe3+ Ka6 9. Qxc1) 8. Qh1 Rb5 9. Qh6+ (9. Qg1+ {<or>}) Ka5 10. Qxc1 1-0
+
+[Event "Shakhmaty v SSSR (c)"]
+[Source "Shakhmaty v SSSR/4 (c): Garcia=M Estudios Artisticos de Ajedrez - VII-69 2012."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Novikov, Valeri"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K4k1/1P3pbR/8/7B/8/2p5/p7/8 w - - 0 1"]
+
+1. Bxf7+ $1 (1. Kc8 $2 c2 2. b8=Q c1=Q+ 3. Kb7+ Kxh7) Kxh7 2. Bxa2 c2 3. Ka8 Be5 4. b8=Q Bxb8 5. Bb1 cxb1=Q 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/3"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Novikov, Valeri"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1kn2b2/8/1K6/8/8/1R6/2p5/8 w - - 0 1"]
+
+1. Ka5+ $1 Bb4+ $1 2. Rxb4+ Nb6 3. Rxb6+ Kc7 4. Rb4 c1=Q 5. Rc4+ Qxc4 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/3"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Novikov, Valeri"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b6/2N1kN2/8/8/1n6/5p2/7K/8 w - - 0 1"]
+
+1. Ng5 $1 Bxc7+ (f2 2. Kg2) 2. Kg1 Bb6+ 3. Kf1 f2 4. Nh3 Nd3 5. Nf4 Nxf4 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/3"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Novikov, Valeri"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/4kP1P/8/8/8/8/4r1B1/8 w - - 0 1"]
+
+1. Bf3 $1 (1. Bd5 $2 Kf8) Rf2 (Rh2 2. Kg8 Rxh7 3. f8=Q+) 2. Kg8 Rxf3 3. h8=Q Rg3+ 4. Qg7 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/4"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Novikov, Valeri"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/5p1n/5kP1/8/8/b7/8/8 w - - 0 1"]
+
+1. g7 $1 (1. gxh7 $2 Kg6) (1. gxf7 $2 Ng5) Nf8 2. g8=Q Ng6+ 3. Kh7 Bf8 4. Qxf7+ Kxf7 1/2-1/2
+
+[Event "Shakhmaty v SSSR (pl)"]
+[Source "Shakhmaty v SSSR/4 = Runquist=K a1d4 1921."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Novikov, Valeri"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3N4/8/8/8/3k1p2/p1p5/P7/K7 w - - 0 1"]
+
+1. Ne6+ $1 Ke3 2. Nxf4 Kd2 (c2 3. Ne2) 3. Nd5 (3. Ne2 $2 Kxe2) (3. Nd3 $2 Kxd3 4. Kb1 Kd2 5. Ka1 Kd1) c2 4. Nc3 c1=Q+ 5. Nb1+ Kd1 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/3"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Novikov, Valeri"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/2p2B2/8/2Kp4/4p3/7k w - - 0 1"]
+
+1. Kd2 $1 c4 2. Ke1 Kg2 (Kh2 3. Kf2 Kh1 4. Be4+ Kh2 5. Bf5) 3. Bg4 c3 4. Bxe2 $1 c2 5. Bd1 c1=R (c1=Q) 6. Kd2 Ra1 7. Bh5 1/2-1/2

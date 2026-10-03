@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Post, Ehrhardt"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "b7/4kp2/6p1/1N2PP2/1p6/1P6/5K2/8 w - - 0 1"]
+
+1. Nc7 (1. f6+ $2 Kd7 2. Kg3 $10) (1. e6 $4 g5 2. exf7 Bd5 3. f8=B+) (1. fxg6 $2 fxg6 2. Kg3 $10) (1. Nd6 $4 Bd5 2. Nc8+ Kd8 $17 $19) (1. Ke3 $2 gxf5 2. Kf4 $10) (1. Nd4 $2 gxf5 2. Ke3) (1. Kg3 $2 gxf5 2. Nd4) (1. Na7 Bd5 2. fxg6 fxg6) (1. Ke2 gxf5 2. Nc7) Bh1 2. Kg1 (2. Kg3 $2 gxf5 3. Na6 $10) (2. fxg6 $2 fxg6 3. Kg3 $10) (2. e6 $2 Be4 3. exf7 Bxf5 4. Ke3 $10) Bb7 (Be4 3. f6+ (3. fxg6 $2 fxg6 4. Na6 $10) (3. e6 $2 g5 4. f6+ Kxf6 5. exf7 Kxf7 6. Nb5) (3. Nd5+ Bxd5 4. fxg6 fxg6) (3. Kh2 Bxf5) Kd7 4. e6+ (4. Nb5 $4 Ke6 5. Nc7+ Kxe5 $19) (4. Na6 $4 Ke6 $17 $19 5. Nxb4 Kxe5) (4. Na8 Bxa8 5. e6+ Kxe6) (4. Ne8 Kxe8) (4. Ne6 Kxe6) (4. Kh2 Kxc7) (4. Kf1 Kxc7) (4. Nd5 Bxd5 5. e6+ Bxe6) fxe6 5. f7 (5. Na6 $4 Ke8 6. Nxb4 Kf7 $15) (5. Kf2 $4 Bf5 $10 6. Kf3) (5. Nb5 e5) (5. Ne8 Kxe8 6. f7+ Kxf7) Ke7 6. Nxe6 (6. f8=Q+ $2 Kxf8 7. Nxe6+ Ke7 8. Nf4 $10) (6. Ne8 $4 Bd3 $19) (6. Nd5+ $4 Bxd5 $19 7. f8=Q+ $2 (7. Kh2 $5 Kxf7) Kxf8) (6. Nb5 $4 Bd5 7. f8=Q+ Kxf8) Kxf7 7. Ng5+ $3 $18 (7. Nd8+ $4 Ke7 8. Nc6+ Bxc6)) 3. f6+ (3. e6 $2 gxf5 4. exf7 Kxf7 5. Nb5 $10) (3. Nd5+ $4 Bxd5 4. fxg6 fxg6) (3. Kf2 $4 gxf5 4. Kg3) (3. fxg6 fxg6 4. Kf2) Kd7 4. e6+ (4. Nb5 $4 Ke6 5. Nd4+ Kxe5) (4. Nd5 $4 Bxd5 5. e6+ Kxe6) (4. Kf2 Kxc7) (4. Ne8 Kxe8) (4. Na6 Bxa6 5. e6+ Kxe6) fxe6 5. f7 (5. Ne8 Kxe8 6. f7+ Kxf7) (5. Na6 Bxa6) Ke7 6. Nxe6 (6. Nd5+ $4 Bxd5 $19 7. f8=Q+ $2 (7. Kh2 $5 Kxf7) Kxf8) (6. f8=Q+ $2 Kxf8 7. Nxe6+ Ke7 8. Nf4 $10) (6. Ne8 $4 Bd5 7. f8=Q+ Kxf8) (6. Nb5 $4 e5 $19) (6. Kf1 Kxf7) Kxf7 7. Nd8+ $18 (7. Nc5 $2 Bc6 8. Nd3 $10) (7. Ng5+ $4 Kf6 8. Nh7+ Kf5) 1-0

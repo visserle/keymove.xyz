@@ -1,0 +1,26 @@
+[Event ".hm Chervoni Girnik (c)"]
+[Source "(c): Mansarliisky=N Tkachenko=SN Shakhmaty v SSSR/8 1984."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Mansarliisky, Nikolaj Dmitrovich"]
+[White "Mansarliisky, N"]
+[Black " Tkachenko, SN."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2n5/6K1/1P2b3/1B6/7k/p7/1p1N4/8 w - - 0 1"]
+
+1. Bc4 $1 (1. b7 $2 b1=Q $1 2. Nxb1 a2 3. b8=Q a1=Q+ 4. Kh7 Qxb1+ 5. Kh8 Qa1+ 6. Kh7 Bf5+ 7. Kg8 Qg1+ 8. Kh8 Qd4+ 9. Kg8 Qd8+) Bxc4 2. b7 b1=Q $1 3. Nxb1 a2 4. bxc8=Q (4. b8=Q $2 a1=Q+ 5. Kh7 Bd3+ 6. Kg8 Qa2+ 7. Kh8 Qf2 $1 8. Qxc8 (8. Qb4+ Kh5 9. Qa5+ Kg6 $1) Qd4+ 9. Kg8 Bc4+ 10. Kf8 Qh8+ 11. Ke7 Qxc8) a1=Q+ 5. Kg6 $1 Qxb1+ 6. Kf6 Qb2+ 7. Ke7 $1 (7. Kf5 $2 Qb5+ $1 8. Kf4 Qg5+ 9. Ke4 Qd5+ 10. Kf4 Qd4+ 11. Kf3 Bd5+ 12. Ke2 Kg3 $1 13. Qc7+ Kg2 14. Qc2 Bf3+ 15. Ke1+ Kg1 16. Qg6+ Bg4) Qe5+ 8. Kd8 Bb5 9. Qc5 $1 (9. Qb7 $2 Qd6+ 10. Kc8 Ba6) Qxc5 1/2-1/2
+
+[Event "2.hm Odessa ty"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Mansarliisky, Nikolaj Dmitrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p3/1P5p/p4P2/b4K2/P6p/4k1BP/4b3 w - - 0 1"]
+
+1. Bf1+ $1 Kxf1 2. b7 Bd2+ 3. Kg3 Be1+ 4. Kxh3 Bc2 5. Kg4 Bd1+ 6. Kf4 Bd2+ 7. Ke4 (7. Ke5 $2 Bc3+ 8. Ke4 Bf3+ $1 9. Kxf3 Be5) Bc2+ 8. Ke5 Bc3+ 9. Kf4 Bd2+ 10. Kg3 $1 Be1+ 11. Kf3 $1 Bd1+ 12. Ke4 Bc2+ 13. Kd5 Bb3+ 14. Kc6 Ba4+ 15. Kb6 Bf2+ 16. Ka6 $1 Bb5+ $1 17. Kxb5 $1 (17. Kxa5 $2 Ba7 18. Kxb5 Kg2 19. Kc6 Kh3 20. Kd7 Kg4 21. Kxe7 Kxf5 22. Kd7 Kg4 23. Kc7 Kh3) Ba7 18. Kc6 Bb8 19. Kd7 Bd6 20. f6 $1 1-0

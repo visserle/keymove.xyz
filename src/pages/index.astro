@@ -1,0 +1,72 @@
+---
+export const prerender = false;
+
+import Base from "../layouts/Base.astro";
+import Diagram from "../components/Diagram.svelte";
+import { runtimeCorpus } from "../lib/corpus";
+import { accountFromHeaders, applySessionCookies } from "../lib/progress";
+import { taskFor } from "../lib/display";
+
+// The day's composition, read per request.
+//
+// It used to be frozen into this HTML at build time, which made "today" whatever
+// day the last push happened to be: the rebuild meant to turn it over was a cron
+// Worker that was never deployed, so the hero could sit on yesterday's
+// composition for a whole day. The pick itself has not changed -
+// `dailyComposition()` in src/lib/daily.ts is still the one function that decides
+// it, and it still counts days in UTC - it is simply asked per request now, so
+// the day rolls over at 00:00 UTC with nothing scheduled and nothing deployed.
+//
+// The cost is a page render rather than a file read, and the expensive half of
+// that is already done: the catalogue is parsed once per isolate (src/lib/
+// corpus.ts), so this is a Map lookup on a warm isolate. `/library` and
+// `/collections` have been rendered this way all along.
+const corpus = await runtimeCorpus(Astro.url);
+// The home page shows nothing personal, but the topbar's account menu does, and
+// this page is rendered per request precisely because the Worker can answer that.
+// Resolving the session here costs nothing on a cache hit and saves the browser
+// an auth request per visit.
+const { account, cookies } = await accountFromHeaders(Astro.request.headers);
+applySessionCookies(Astro.response.headers, cookies);
+const dailyId = corpus.dailyId();
+// Anything at all when nothing is rated `easy`, which is the one case the pick can
+// come back empty. An empty catalogue throws below, as it did at build time.
+const featured = (dailyId ? corpus.byId.get(dailyId) : null) ?? corpus.list[0];
+if (!featured) throw new Error("The catalogue holds no composition to feature");
+
+---
+
+<Base
+	isHome
+	accountSession={account}
+	title="keymove.xyz • Chess Compositions for Connoisseurs"
+	description="keymove.xyz is a free collection of beautiful chess compositions: studies, short mates and endgame problems. Find the key move, then read the full solution."
+>
+  <div class="hero">
+    <div class="hero__board">
+      <Diagram
+        fen={featured.fen}
+        href={`/compositions/${encodeURIComponent(featured.id)}`}
+        label={`Solve this composition: ${taskFor(featured)}`}
+        client:load
+      />
+    </div>
+
+    <div class="hero__body">
+      <p class="hero__eyebrow">Today's composition</p>
+      <h1 class="hero__task">{taskFor(featured)}</h1>
+      <p class="hero__credit">
+        {featured.composer ? <b>{featured.composer}</b> : <i>Anonymous</i>}
+        {featured.year ? ` · ${featured.year}` : ''}
+      </p>
+      <div class="hero__actions">
+        <a class="btn btn--solid" href={`/compositions/${encodeURIComponent(featured.id)}`}>Solve this composition</a>
+        <a class="btn" href="/library">Browse the library</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- The key-move definition, its own line beneath the board on the page measure. -->
+  <p class="intro">The key move is the first move of a composition’s solution.</p>
+  <a class="home-about" href="/about">About keymove.xyz</a>
+</Base>

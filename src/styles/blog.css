@@ -1,0 +1,113 @@
+/* Blog listing and plain-text article layout. */
+.journal {
+	max-width: 680px;
+	margin: calc(-1 * var(--gutter)) auto 0;
+}
+
+.journal__heading {
+	margin: 0 0 12px;
+	color: var(--c-font);
+}
+
+.journal-entry {
+	text-decoration: none;
+}
+
+.journal-entry:focus-visible {
+	outline: 2px solid var(--c-primary);
+	outline-offset: -2px;
+}
+
+.journal-post__back:focus-visible {
+	outline: 2px solid var(--c-font-clear);
+	outline-offset: 3px;
+}
+
+.journal-entry__title {
+	display: block;
+	font-size: 1.125rem;
+	line-height: 1.4;
+}
+
+.journal-entry__meta,
+.journal-post__meta {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0 8px;
+	color: var(--c-font-dim);
+	font-size: var(--font-size-sm);
+}
+
+.journal-entry__meta {
+	margin-top: 4px;
+	font-size: var(--font-size-base);
+}
+
+.journal-entry__meta time,
+.journal-post__meta time {
+	font-variant-numeric: tabular-nums;
+}
+
+.journal-post {
+	max-width: 680px;
+	margin: calc(-1 * var(--gutter)) auto 0;
+}
+
+.journal-post__back {
+	display: flex;
+	align-items: baseline;
+	gap: 0.35em;
+	width: fit-content;
+	/* Keep the title's vertical position after matching the listing label's type. */
+	margin-bottom: 30px;
+	color: var(--c-font-dim);
+}
+
+/* Keep the back arrow on the same left edge as the article text. */
+.journal-post__back-arrow {
+	transform: translateY(-0.1em);
+	white-space: nowrap;
+}
+
+.journal-post__back:hover {
+	color: var(--c-font-clear);
+}
+
+.journal-post__title {
+	margin: 0;
+	padding-bottom: 10px;
+	border-bottom: 1px solid var(--c-border);
+	color: var(--c-font-clear);
+}
+
+.journal-post__meta {
+	margin: 7px 0 0;
+	font-size: var(--font-size-base);
+}
+
+.journal-post__body {
+	max-width: 680px;
+	margin-top: 26px;
+	font-size: var(--font-size-base);
+	line-height: 1.7;
+	color: var(--c-font-clear);
+	text-align: justify;
+	hyphens: auto;
+}
+
+.journal-post__body p {
+	margin: 0 0 16px;
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	/* The mobile page gutter is narrower, so scale the arrow to keep it visible. */
+	.journal-post__back-arrow {
+		font-size: 0.8em;
+	}
+}
+
+@media (prefers-reduced-motion: reduce) {
+	.journal-entry {
+		transition: none;
+	}
+}

@@ -1,0 +1,42 @@
+[Event "Kagan's Neueste Schachnachrichten"]
+[Source "Kagan's Neueste Schachnachrichten/7"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Tarrasch, Siegbert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/6Pb/7P/4K3/6k1/8/7P/8 w - - 0 1"]
+
+1. Kf6 $1 (1. h3+ $2 Kh4 2. g8=Q $10) (1. g8=Q+ $2 Bxg8 2. h7 $10) (1. h4 $2 Bg8 2. h7 $10) (1. Ke6 $2 Kg5 2. g8=Q+ $10) (1. Kd4 $2 Bg8 2. h7 $10) (1. Kd5 $2 Bg8+ 2. Kc5 $10) Kh5 2. g8=Q $1 (2. g8=R Bxg8 3. Kg7 $18) (2. g8=N Bxg8 3. Kg7 $18) (2. Kf7 $2 Kxh6 3. g8=Q $10) (2. h4 $2 Bg8 3. h7 $10) (2. h3 $2 Bg8 3. h7 $10) (2. Ke7 Kg5 3. g8=Q+) (2. Ke6 Bg8+ 3. Kf6) Bxg8 3. Kg7 (3. h3 $2 Bh7 4. h4 $10) (3. Kf5 Be6+ 4. Ke5 Kxh6 5. Kxe6) (3. h7 Bxh7 4. h3) Kg5 4. h3 (4. Kxg8 $2 Kxh6 5. Kf7 $10) (4. h4+ $2 Kh5 5. Kxg8 Kxh6 6. Kf8 $10) (4. h7 $2 Bxh7 5. h3 $10) Kh5 5. h4 (5. h7 $2 Bxh7 6. h4 $10 Kxh4 7. Kf7 Bg8+ 8. Ke7) (5. Kxg8 $2 Kxh6 6. h4 $10) (5. Kf6 $2 Bh7 6. h4 $10) (5. Kh8 Kxh6 6. Kxg8) Kxh4 6. Kxg8 $18 (6. Kg6 $2 Kg4 7. h7) (6. h7 $2 Bxh7 7. Kf7 Bg8+ 8. Ke7) (6. Kf8 Bh7 7. Kg7) (6. Kf6 Kg4 7. Ke5) 1-0
+
+[Event "Münchner Neueste Nachrichten"]
+[Date "1916.??.??"]
+[Round "?"]
+[Composer "Tarrasch, Siegbert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/8/8/4k1Pp/7P/4PK2/8 w - - 0 1"]
+
+1. e3 $1 g6 $1 (g5 2. Ke2) 2. Ke2 g5 3. Kf2 $1 Kd5 4. Ke1 $1 (4. Ke2 $2 Ke4) (4. Kf3 $2 Ke5 5. e4 Kd4) Ke5 5. Kd2 $1 Ke4 6. Ke2 Ke5 (Kd5 7. Kd3 Ke5 8. e4 Kf4 9. Kd4) 7. Kd3 Kd5 8. e4+ Ke5 (Kc5 9. Kc3) 9. Ke3 Ke6 { <eg>} 10. Kd4 Kd6 11. e5+ Ke6 12. Ke4 Kf7 13. Kf5 1-0
+
+[Event "Kagan's Neueste Schachnachrichten"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Tarrasch, Siegbert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6Pb/7P/8/8/8/1K5P/4k3 w - - 0 1"]
+
+1. Kc3 $1 Kf2 2. Kd4 Kf3 3. Ke5 Kg4 4. Kf6 Kh5 5. g8=Q $1 Bxg8 6. Kg7 Kg5 7. h3 $1 Kh5 8. h4 1-0

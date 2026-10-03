@@ -1,0 +1,12 @@
+[Event "The Chess Problem#396"]
+[Date "1887.??.??"]
+[Round "?"]
+[Composer "Frankenstein, Edward Nethan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1r3r2/K4k2/5p2/2Q2P2/8/7p/7P/8 w - - 0 1"]
+
+1. Qc7+ $1 Kg8 2. Qxb8 Rxb8 3. Kxb8 Kg7 4. Kc7 Kh6 5. Kd6 Kg5 6. Ke6 Kg4 7. Kxf6 Kf3 8. Kg5 Kg2 9. f6 Kxh2 10. f7 Kg2 11. f8=Q 1-0

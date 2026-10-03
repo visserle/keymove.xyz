@@ -1,0 +1,12 @@
+[Event "Schachspiel-521"]
+[Date "1910.??.??"]
+[Round "?"]
+[Composer "Dufresne, Jean"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1P3K2/1p5k/5P2/p7/8/8 w - - 0 1"]
+
+1. b7 $1 a2 2. b8=Q a1=Q+ 3. Qe5+ Qxe5+ 4. fxe5 b4 5. e6 b3 6. e7 b2 7. e8=Q+ 1-0

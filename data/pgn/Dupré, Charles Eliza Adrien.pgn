@@ -1,0 +1,13 @@
+[Event "La Stratégie#0022"]
+[Source "La Stratégie/2 also L'Échiquier 1878."]
+[Date "1878.??.??"]
+[Round "?"]
+[Composer "Dupré, Charles Eliza Adrien"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/8/8/6P1/pk6/4KN1P/8 w - - 0 1"]
+
+1. Nd3 $1 Kc3 2. Nc1 Kc2 3. Na2 Kb2 4. Kd2 Kxa2 5. Kc2 Ka1 (h6 6. h4 Ka1 7. h5 a2 8. g5 hxg5 9. h6 g4 10. h7 g3 11. h8=Q#) 6. g5 a2 7. Kc1 h5 8. g6 h4 9. g7 h3 10. Kd2 Kb2 11. g8=Q 1-0

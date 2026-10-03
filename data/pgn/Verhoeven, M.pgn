@@ -1,0 +1,25 @@
+[Event "Nieuwe Leidse Courant"]
+[Date "1930.06.14"]
+[Round "?"]
+[Composer "Verhoeven, M"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/P5P1/8/2R5/1r6/1k1p4/3P2q1/K7 w - - 0 1"]
+
+1. g8=Q+ $1 Qxg8 2. Rc3+ Ka4 3. a8=Q+ Qxa8 4. Ra3+ Kxa3 (Kb5 5. Rxa8) 1/2-1/2
+
+[Event "Nieuwe Leidse Courant"]
+[Date "1930.07.26"]
+[Round "?"]
+[Composer "Verhoeven, M"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/1p1R4/q3p3/Pp6/1P1N4/2K5/8/8 w - - 0 1"]
+
+1. Rd8+ $1 Ka7 2. Rd6 $1 b6 (Qxd6 3. Nxb5+) (e5 3. Rxa6+ Kxa6 4. Ne2) 3. Rxb6 Qc8+ 4. Nc6+ Ka8 5. Rb8+ Qxb8 6. Nxb8 Kxb8 7. Kd4 Kc7 8. Kc5 Kd7 9. a6 1-0

@@ -1,0 +1,12 @@
+[Event ".c Tyovaen Shakki"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Haantola, Harri James"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/8/k3p3/2PpP3/3P4/4P3/5K2 w - - 0 1"]
+
+1. e3 $1 (1. Kf2 $2 Kb4 2. e3 (2. Kf3 c5 3. Kg4 Kc3 4. Kf5 Kd2 5. Kxe5 Kxe2 6. Kd5 Kxd3 7. e5 Kc3) Kc3 3. exd4 (3. Ke2 c5 4. exd4 Kxd4 5. Kd2) Kxd4 4. Ke2 c5 $1 5. Kd2) dxe3 (c5 2. exd4 cxd4 3. Ke2 Kb4 4. Kf3 Kc3 5. c5) 2. d4 $1 (2. Ke2 $2 Kb4 $1 (Kb6 $2 3. Kxe3 Kc5 4. d4+ $1 (4. Kd2 $2 Kd4 5. Ke2 c5 $1 6. Kd2) exd4+ (Kxc4 5. dxe5) (Kd6 5. dxe5+ Kxe5 6. Kf3) 5. Kd3 Kd6 6. Kxd4 c5+ 7. Kd3) 3. Kxe3 Kc3 4. Ke2 Kd4 5. Kd2 c5) exd4 3. e5 Kb6 4. e6 Kc6 5. c5 $1 d3 6. Ke1 1-0

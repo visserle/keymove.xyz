@@ -1,0 +1,18 @@
+
+
+[Event "2.p Springaren#06116"]
+[Source "Springaren/6 1987 EG#07912"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Maksimovskikh, Alexander Petrovich"]
+[Composer2 "Krikheli, Iosif Mikhailovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4R3/1B6/8/3P4/6k1/8/b6K/5r2 w - - 0 1"]
+[PlyCount "15"]
+
+1. d6 $1 (1. Bc8+ $143 Kh4 2. d6 Bd5 $1 3. Rh8+ Kg5 4. Bh3 Rh1+ 5. Kg3 Be6 $11) Rf2+ (Rd1 $144 2. Bc8+ Kf4 3. d7 Bd5 4. Rf8+ Kg4 5. d8=Q+ $18) 2. Kg1 (2. Kh1 $143 Kg3 3. Kg1 Rd2 4. Kf1 Rxd6 $11) Rd2 3. d7 $1 Rd1+ (Rxd7 $144 4. Bc8 $18) 4. Re1 $1 (4. Kf2 $143 Rxd7 $1 5. Bc8 Be6 $1 6. Rxe6 Rd5 $1 7. Rd6+ Kh4 $1 8. Rxd5 $11 {stalemate}) Rd3 (Rxe1+ $144 {<main>} 5. Kf2 $1 Rd1 6. Bf3+ Kf5 7. Bxd1 $18) 5. Bc6 $1 (5. Bc8 $143 Kg3 $11) (5. Ba6 $143 Rg3+ $1 6. Kf2 Rf3+ $1 7. Ke2 Rf8 8. Kd3 Rd8 9. Bc8 Bf7 $1 10. Re7 Bg6+ 11. Kc4 Bf5 12. Re8 Rxd7 $11) Kg3 $1 6. Rf1 $1 Be6 7. Rf3+ Rxf3 8. d8=Q $18 1-0

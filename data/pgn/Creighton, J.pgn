@@ -1,0 +1,12 @@
+[Event "De Telegraaf"]
+[Date "1903.09.12"]
+[Round "?"]
+[Composer "Creighton, J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5n2/2PPpk2/8/2P5/3pP3/1K3B2 w - - 0 1"]
+
+1. Kc2 $1 (1. Bh3+ $2 Ke4) Nxd5 (Ne4 {<main>} 2. c6 Nxc3 $1 3. Kxd2 Nxd5 4. e4+ $1 Kxe4 5. Bg2+ Kd4 6. Bxd5 Kxd5 7. c7) (e4 2. Bh3+ $1 Ke5 3. d6 $1) (Ne8 2. Bh3+ Kf6 3. d6) 2. e4+ $1 Kxe4 (Ke6 3. Bh3+) 3. Bg2+ Ke3 $1 4. Bxd5 Ke2 5. Bf3+ Kxf3 6. Kxd2 Kf2 7. Kd3 $1 Kf3 8. c6 e4+ 9. Kd4 $1 e3 10. c7 e2 11. c8=Q e1=Q 12. Qf5+ 1-0

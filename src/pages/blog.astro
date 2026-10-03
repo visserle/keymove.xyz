@@ -1,0 +1,37 @@
+---
+export const prerender = true;
+
+import { getCollection } from "astro:content";
+import Base from "../layouts/Base.astro";
+
+const posts = (await getCollection("blog")).sort(
+  (a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime(),
+);
+
+const formatDate = (date: Date) =>
+  `${String(date.getUTCDate()).padStart(2, "0")}.${String(date.getUTCMonth() + 1).padStart(2, "0")}.${date.getUTCFullYear()}`;
+---
+
+<Base
+  section="blog"
+  title="keymove.xyz • Posts"
+  description="Posts from keymove.xyz: notes on chess composition, how the studies are selected and curated, and the craft behind the puzzles on the site."
+>
+  <main class="journal" aria-label="Posts">
+    <h1 class="field__label journal__heading">Posts</h1>
+    <div class="collection-options journal__entries">
+      {posts.map((post) => (
+        <a class="collection-option journal-entry" href={`/blog/${post.id}`}>
+          <span class="journal-entry__title">{post.data.title}</span>
+          <span class="journal-entry__meta">
+            <span>{post.data.author}</span>
+            <span aria-hidden="true">·</span>
+            <time datetime={post.data.pubDate.toISOString().slice(0, 10)}>
+              {formatDate(post.data.pubDate)}
+            </time>
+          </span>
+        </a>
+      ))}
+    </div>
+  </main>
+</Base>

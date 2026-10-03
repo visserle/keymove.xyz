@@ -1,0 +1,136 @@
+[Event "Der Bund"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Neuenschwander, Beat"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7B/8/8/Kp1p4/2k2P2/2N5/4P1p1/8 w - - 0 1"]
+
+1. Nb1 $1 g1=Q 2. Nd2+ Kc5 3. Bd4+ Kxd4 (Qxd4 4. Nb3+ Kc4 5. Nxd4 Kxd4 6. Kxb5 Ke4 7. Kc5 Kxf4 8. Kd4) 4. Nf3+ Ke3 (Kc3 5. Nxg1 b4 6. Nh3 b3 7. Nf2) 5. Nxg1 Kxf4 6. Kxb5 d4 7. Kc5 Ke4 8. Nh3 (8. Nf3 $2 d3) Ke3 9. Nf4 Ke4 10. Kc4 1-0
+
+[Event "Der Bund"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Neuenschwander, Beat"]
+[White "Neuenschwander, B"]
+[Black " Zwahlen, M."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4KR2/4P3/3qk3/3p4/3pPn2/4NP2/3BP3/3RN3 w - - 0 1"]
+
+1. Rf6+ $1 Kxf6 2. e5+ Kxe5 (Qxe5 3. Ng4+) 3. Nc4+ dxc4 4. Bxf4+ Kxf4 5. Rxd4+ (5. e3+ $2 Kxe3 6. Nc2+ Kxf3 7. Rxd4 Qe6) Qxd4 6. e3+ Qxe3 (Kxe3 7. Nc2+) 7. Ng2+ Kxf3 8. Nxe3 Kxe3 9. Kf7 (9. Kf8 {<or>}) (9. Kd7 $2 c3 10. e8=Q+ Kd2) (9. Kd8 $2 c3 10. e8=Q+ Kd2 11. Qd7+ Kc1) c3 10. e8=Q+ Kd2 11. Qd8+ 1-0
+
+[Event "5.hm Schakend Nederland#1815"]
+[Source "Schakend Nederland/6 1981 EG#04909."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Neuenschwander, Beat"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p6/8/P1PkP3/6p1/6pp/6P1/6nK w - - 0 1"]
+
+1. e6 $1 (1. Kxg1 $2 Kxc5 $1) Kxe6 2. c6 $1 Kd6 3. cxb7 Kc7 4. a6 Nf3 (Ne2 {<main>} 5. gxh3 $1 (5. b8=Q+ $2 Kxb8 6. a7+ Kxa7 7. gxh3 g2+ 8. Kxg2 Nf4+ 9. Kg3 gxh3) gxh3 6. b8=Q+ $1 Kxb8 7. a7+ Kxa7 (Kc7 8. a8=Q g2+ 9. Qxg2 (9. Kh2 $2 g1=Q+ 10. Kxh3 Qg3#))) 5. b8=Q+ $1 (5. gxh3 $2 gxh3 6. b8=Q+ Kxb8 7. a7+ Kc7 $1 8. a8=Q g2#) Kxb8 6. a7+ Kxa7 7. gxh3 gxh3 (Nh4 8. hxg4 Kb6 9. g5 Kc5 10. g6 Nxg6 11. Kg2) (Kb7 8. hxg4 Nh4 9. g5 Kc6 10. g6 Nxg6 11. Kg2) 1/2-1/2
+
+[Event "Tidskrift for Schack#2206"]
+[Source "Tidskrift for Schack/11"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Neuenschwander, Beat"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/5kN1/7P/2b5/7P/7n/8/8 w - - 0 1"]
+
+1. Ne6 $1 (1. Nf5 $2 Nf4 2. Kh7 Ne6) (1. Nh5 $2 Bd6 2. Kh7 Be5) Kxe6 (Be3 2. Ng5+ Bxg5 3. hxg5 Nxg5 4. h7) 2. Kg8 Bd4 3. h7 (3. h5 $2 Ng5 4. h7 Nf7) Bh8 $1 4. h5 $1 (4. Kxh8 $2 Kf7 5. h5 Nf4 6. h6 Ng6#) Nf4 (Ng5 5. Kxh8 $1 (5. h6 $2 Nf7) Kf7 6. h6) 5. h6 Bc3 (Ng6) 6. h8=Q Bxh8 7. h7 $1 (7. Kxh8 $2 Kf7 8. Kh7 Ne6 9. Kh8 Nf8 10. h7 Ng6#) Ng6 1/2-1/2
+
+[Event "Schweizerische Schachzeitung#153"]
+[Source "Schweizerische Schachzeitung/9"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Neuenschwander, Beat"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/8/k1PPn3/1p1R4/1P3b2/8/2p5/8 w - - 0 1"]
+
+1. c7 $1 Nxc7 (c1=Q 2. c8=Q+ Qxc8+ 3. Kxc8) 2. Rc5 $1 Nd5 (c1=Q 3. Rxc1 Bxc1 4. dxc7 (4. Kxc7 $2 Bd2 5. d7 Bxb4 6. d8=Q Ba5+) Bf4 5. Ka8 Bxc7) 3. Rc6+ (3. Rxc2 $2 Bxd6+) Nb6 4. Rc7 $1 (4. Rxc2 $2 Bxd6+ 5. Rc7 Nd5) Nd7+ $1 (Bxd6) 5. Ka8 $1 (5. Kc8 $2 c1=Q 6. Rxc1 Bxc1 7. Kxd7 Bd2) (5. Rxd7 $2 c1=Q 6. Ra7+ Kb6 7. Rb7+ Kc6 8. Rc7+ Kxd6 9. Rxc1 Bxc1) Bxd6 (c1=Q 6. Ra7+ (6. Rxc1 $2 Nb6+ 7. Kb8 Bxd6+) Kb6 7. Ra6+ Kxa6) (Kb6 6. Rxc2 Bxd6 7. Rd2 Kc6 8. Ka7 Bxb4 9. Rxd7 Kxd7 10. Kb6) 6. Rc6+ (6. Rxd7 $2 Kb6 $1 (Bf4 7. Rd6+ $1) 7. Rxd6+ Kc7) Nb6+ 7. Rxb6+ Kxb6 1/2-1/2
+
+[Event "1.hm Schweizerische Schachzeitung#196"]
+[Source "Schweizerische Schachzeitung/11 EG#07360."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Neuenschwander, Beat"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5ppk/8/3p2KP/3P2P1/8/8/8 w - - 0 1"]
+
+1. Kf4 $1 (1. Kf5 $2 Kh6 2. Kf4 g6) Kh6 (g6 2. Ke5 gxh5 3. gxh5 Kh6 4. Kf6 $1 (4. Kxd5 $2 Kxh5 5. Ke5 Kg6 $1 6. d5 Kg7 $1 7. Kd6 f5 $1 8. Kc7 f4 9. d6 f3 10. d7 f2 11. d8=Q f1=Q) Kxh5 5. Kxf7 Kg4 6. Ke6 Kg5 7. Kxd5) 2. Kf5 (2. Ke5 $2 Kg5) f6 (Kh7 3. Ke5) (g6+ 3. hxg6 fxg6+ 4. Kf6) 3. Ke6 Kg5 4. Kf7 Kh6 (Kxg4 5. Kxg7 Kxh5 6. Kxf6) 5. Ke7 $1 (5. Kf8 $2 g6) Kg5 (f5 6. gxf5 Kxh5 7. f6) 6. Kf8 $1 Kh6 (g6 7. Kg7) 7. Kf7 Kh7 8. Ke6 1-0
+
+[Event "Der Bund"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Neuenschwander, Beat"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "bk6/6P1/pKpP3n/P1P2np1/5P2/8/8/8 w - - 0 1"]
+
+1. d7 $1 Ne7 2. d8=Q+ Nc8+ 3. Qxc8+ Kxc8 4. fxg5 Ng8 5. Ka7 $1 Bb7 6. g6 $1 Ne7 7. g8=Q+ $1 Nxg8 8. g7 Ne7 9. Kb6 Kb8 10. g8=Q+ Nc8+ 11. Qxc8+ Kxc8 12. Ka7 Kc7 1/2-1/2
+
+[Event "3.hm Tidskrift for Schack#2471"]
+[Source "Tidskrift for Schack/12 EG#06592."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Neuenschwander, Beat"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2b4K/1pPp1kpP/pP1Pp3/2p1P3/4P3/8/1P4P1/8 w - - 0 1"]
+
+1. b3 $1 (1. g4 $2 c4) (1. g3 $2 c4) (1. b4 $2 c4 2. b5 c3 3. bxa6 bxa6) g6 (c4 2. bxc4 a5 3. g4 a4 4. g5 g6 (a3 5. g6+ Kf8 6. c5 a2 7. c6 a1=Q 8. cxd7 Bxd7 9. c8=Q+ Bxc8 10. d7 Bxd7) 5. c5 a3 6. c6 a2 7. cxd7 Bxd7 (a1=Q 8. d8=Q Qxe5+ 9. Qf6+) 8. c8=Q Bxc8 9. d7 a1=Q 10. d8=Q Qxe5+ 11. Qf6+ Qxf6+ 12. gxf6) (g5 2. g4 c4 3. bxc4 a5 4. c5 a4 5. c6 a3 6. cxd7 Bxd7 7. c8=Q Bxc8 8. d7 Bxd7) 2. g4 (2. g3 $2 c4 3. bxc4 a5 4. c5 a4 5. c6 a3 6. cxd7 Bxd7 7. c8=Q Bxc8 8. d7 Bxd7 9. g4 a2 10. g5 Ke7) g5 (c4 3. bxc4 a5 4. c5) 3. b4 c4 4. b5 c3 5. bxa6 c2 6. a7 $1 (6. axb7 $2 Bxb7 7. c8=Q Bxc8 8. b7 c1=Q 9. b8=Q Qf4) c1=Q 7. a8=N $1 (7. a8=Q $2 Qf4) Kg6 8. Kg8 Qf4 9. h8=N+ $1 (9. h8=Q $2 Qf7#) Kh6 10. Nf7+ Kg6 11. Nh8+ 1/2-1/2
+
+[Event "Schweizerische Schachzeitung#187a (tw)"]
+[Source "Schweizerische Schachzeitung/8"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Neuenschwander, Beat"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3B1k2/3p1P2/3RPpp1/1q6/3K4/8/8/8 w - - 0 1"]
+
+1. e7+ $1 (1. Be7+ $2 Kxe7 2. Rxd7+ Kxe6 3. f8=N+ Kf5) Kxf7 2. Rxf6+ Kxf6 (Kg7 3. e8=Q Qb4+ 4. Kd3 Qb3+ 5. Ke2) 3. e8=N+ $1 (3. e8=Q+ $2 Kg7) Kf7 (Kf5 {<main>} 4. Nd6+ Ke6 5. Nxb5) (Ke6 {<main>} 4. Nc7+ Kf7 5. Nxb5) 4. Nd6+ Ke6 5. Nxb5 1-0
+
+[Event "Idee und Form"]
+[Source "after Weenink=H a4a6 1918."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Neuenschwander, Beat"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3N4/p7/k6n/P7/8/1K6/2P5/8 w - - 0 1"]
+
+1. Ka4 $1 Nf5 2. c4 Nd6 3. c5 Nb7 $1 (Nc8 4. c6 Nb6+ (Ne7 5. Ne6 Nxc6 6. Nc5#) 5. Kb4 Nd5+ 6. Kc5 Nc7 (Ne7 7. Kd6 Nc8+ 8. Kd7) 7. Kd6 Nb5+ (Ne8+ 8. Ke7 Nc7 9. Kd7 Nd5 10. Nb7) 8. Kd7 Kxa5 9. Nb7+ Kb6 10. Nd6 Nc7 11. Nc4+) 4. c6 $1 (4. Nxb7 $2 Kxb7 5. Kb5 Kc7 $1 (a6+ $2 6. Kc4 Kc6 7. Kd4 Kc7 8. Kd5 Kd7 9. c6+ Kc8 10. Kd4 $1 Kd8 11. Kc4 Kc8 12. Kd5 Kc7 13. Kc5) 6. Ka6 Kb8 $1 7. c6 Kc7 8. Kb5 Kd6 9. a6 Kc7) Nxd8 (Nc5+ 5. Kb4 Nb7 (Ne6 6. Nb7) 6. c7 Nd6 7. Kc5 Nc8 8. Kc6 Kxa5 9. Kb7 Nd6+ 10. Kb8 Kb5 11. Nf7) 5. c7 Nb7 $1 6. c8=R $1 Nxa5 7. Rc5 Nb7 8. Rc6# 1-0

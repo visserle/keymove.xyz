@@ -1,0 +1,17 @@
+
+
+[Event "sp. Shakhmatnoe obozrenie "]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[Composer "Kalyagin, Viktor Aleksandrovich"]
+[Composer2 "Vysokosov, Andrey"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/2r1B3/8/7K/3p4/2NB2k1 w - - 0 1"]
+[PlyCount "25"]
+
+1. Nd3 Rd5 2. Bh2+ Kf1 3. Nb2 (3. Nf4 $143 Rd3+ 4. Kg4 Ke1 5. Nxd3+ Kxd1 $11) Rb5 (Rc5 $144 4. Kg3 Rc1 5. Kf3 Rxd1 6. Nc4 Ke1 7. Ne3 Rc1 8. Bg3#) 4. Nc4 Ke1 5. Bf3 d1=N (d1=Q $144 6. Bg3+ Kf1 7. Bxd1 $18) 6. Bg3+ Nf2+ 7. Kh2 Rc5 8. Nb2 Rc3 9. Kg2 Rxf3 (Rc2 $144 10. Nd1 Kd2 11. Bxf2 $18) 10. Kxf3 Kf1 11. Nc4 Nd3 12. Nd2+ Kg1 13. Bd6 $18 1-0

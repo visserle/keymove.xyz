@@ -1,0 +1,29 @@
+[Event "?"]
+[Site "?"]
+[Date "1862.??.??"]
+[Round "?"]
+[Composer "Steinitz, Wilhelm"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "6k1/4K3/6PP/8/7B/8/8/7r w - - 0 1"]
+
+1. h7+ (1. Kf6 $4 Rxh4 2. h7+ Kh8 $19 3. g7+ Kxh7 4. g8=B+ Kxg8) (1. Bg5 $4 Rf1 2. g7 $10) (1. Bf6 $4 Rxh6 2. g7) (1. Ke8 $4 Rxh4 $19 2. h7+ Kg7 3. h8=B+ Rxh8+ 4. Kd7 Rh5) (1. g7 $4 Rxh4 2. h7+ Rxh7) (1. Bf2 Rxh6) (1. Bg3 Rxh6) Kg7 2. h8=Q+ (2. Bf6+ $4 Kxg6 3. h8=Q $10) (2. h8=R $4 Rf1 $1 $10 (Kxh8 $4 3. Kf7 $18)) (2. Ke8 $4 Rxh4 $19 3. h8=B+ Rxh8+ 4. Ke7 Rh5) (2. Ke6 $4 Rxh4 3. h8=Q+ Rxh8) (2. Bg5 $4 Re1+ 3. Kd7) (2. Bf2 Rh2 3. h8=Q+) Kxh8 3. Kf7 (3. Bf6+ $4 Kg8 4. g7 $10) (3. Kf6 $4 Rxh4 $19 4. g7+ Kg8) (3. Kf8 $4 Rf1+ 4. Ke8 $10) (3. g7+ $4 Kg8 4. Bf6) (3. Bg5 Rg1 4. g7+) Rf1+ 4. Bf6+ (4. Ke7 $4 Re1+ 5. Bxe1) (4. Ke6 $4 Rd1 5. g7+) (4. Ke8 Rf8+ 5. Kxf8) Rxf6+ 5. Kxf6 Kg8 6. g7 $18 (6. Kg5 $4 Kg7 7. Kf5) (6. Kf5 $4 Kg7 7. Ke5) (6. Ke7 $4 Kg7 7. Kd7) 1-0
+
+[Event "source unknown (@2)"]
+[Source "î@: Ulrichsen=J HHdbIII#65268 13-2-2003."]
+[Date "1875.??.??"]
+[Round "?"]
+[Composer "Steinitz, Wilhelm"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1k6/8/P3p3/1PKpPp2/5P2/8/8 w - - 0 1"]
+
+1. b5 $1 (1. Kb3 $2 Ka6 2. Ka4 Kb7 3. b5) Ka7 2. b6+ Ka6 3. Kb4 Kb7 4. Kb5 $1 d3 5. a6+ Kb8 6. Kc6 d2 7. a7+ Ka8 8. Kc7 (8. b7+ $1 {<minor dual JU>}) d1=Q 9. b7+ Kxa7 10. b8=Q+ Ka6 11. Qb6# 1-0

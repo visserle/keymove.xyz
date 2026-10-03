@@ -1,0 +1,26 @@
+[Event "1.hm Kubbel MT Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/1 1954"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Pechenkin, Peter Stepanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7q/6pk/1R3p2/2p4K/2P3QP/8/2b3P1/8 w - - 0 1"]
+
+1. Qd7 $1 Qc8 2. Rb7 Bd1+ 3. g4 Qxd7 4. Rxd7 Ba4 (Bf3 5. Rxg7+ $1 (5. Re7 $2 Bc6 $1 6. Rf7 Be4) Kxg7) 5. g5 Bxd7 6. g6+ Kg8 1/2-1/2
+
+[Event "4.hm Platov MT"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Pechenkin, Peter Stepanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6NP/6pK/p7/8/q3k3/7B w - - 0 1"]
+
+1. h7 $1 Ke3 2. h8=Q Qh2+ 3. Kg4 $1 (3. Kxg5 $2 Qxh8 4. Nxh8 Kd4 5. Nf7 a3) Qxh8 4. Nxh8 Kd4 5. Nf7 a3 6. Nxg5 a2 7. Kg3 (7. Kh3 {<or>}) a1=Q 8. Kh2 Qb2+ 9. Bg2 Qe2 10. Ne4 1/2-1/2

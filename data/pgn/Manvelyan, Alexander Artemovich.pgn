@@ -1,0 +1,27 @@
+[Event "Shakhmaty (Riga)#27 (s)"]
+[Source "Shakhmaty (Riga)/12"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Manvelyan, Alexander Artemovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1p3N2/8/6R1/K1k3Pq/8 w - - 0 1"]
+
+1. Nd4+ $1 Kc1 2. Rc3+ Kd1 3. Rd3+ Kc1 4. Rd2 Kxd2 (Qd6 5. Nb3#) 5. Nf3+ Kc2 6. Nxh2 b4 7. Nf3 b3+ 8. Ka3 b2 9. Ne1+ Kc1 10. Nd3+ Kd2 11. Nxb2 1-0
+
+[Event "5.p Armenian Central Chess Club ty"]
+[Source "EG#07342."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Manvelyan, Alexander Artemovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/2p5/8/K1p1nR2/Rn2k3 w - - 0 1"]
+
+1. Rh2 $1 c1=Q 2. Rh1+ Kd2 3. Rxc1 Nxc1+ 4. Kb2 c3+ 5. Kxb1 Kd1 6. Ra3 c2+ 7. Ka1 Kd2 8. Rc3 Kxc3 1/2-1/2

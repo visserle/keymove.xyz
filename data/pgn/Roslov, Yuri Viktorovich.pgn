@@ -1,0 +1,13 @@
+[Event "5.hm Molodoj Leninets (Kurgan)"]
+[Source "EG#08016."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Roslov, Yuri Viktorovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "n7/5p2/2K4P/5P2/8/b5k1/8/8 w - - 0 1"]
+
+1. Kd7 $1 (1. h7 $2 Bb2 2. Kd7 Bh8 3. Ke7 f6 4. Kf7 Nb6 5. Kg8 Nd7 6. Kxh8 Nf8 7. Kg7 Nxh7 8. Kxh7 Kf4 9. Kg6 Ke5) Nc7 2. h7 Bb2 3. Ke7 Nd5+ 4. Kxf7 Kf4 5. f6 Bxf6 6. Kg8 Ne7+ 7. Kf7 Nd5 8. Kg8 Ne7+ 9. Kf7 1/2-1/2

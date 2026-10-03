@@ -1,0 +1,12 @@
+[Event "Niva"]
+[Date "1914.??.??"]
+[Round "?"]
+[Composer "Omelyansky, Vasily Leonidovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5q2/2R4R/4k2b/2P1p3/K2nP3/P2B4/b7/8 w - - 0 1"]
+
+1. Bc4+ $1 Bxc4 (Kf6 2. Rhf7+) 2. Rxh6+ Qxh6 (Qf6 3. Rxf6+) 3. Rc6+ Nxc6 1/2-1/2

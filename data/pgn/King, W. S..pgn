@@ -1,0 +1,13 @@
+[Event "Chess Life & Review#1298"]
+[Source "Chess Life & Review/10"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "King, W. S."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2P5/3K4/8/R1p5/2k2p2/2q2P2/8 w - - 0 1"]
+
+1. Rxc4+ $1 Kxc4 2. c8=R+ (2. c8=Q+ $2 Kd4 3. Qxc2) Kd3 3. Rxc2 Kxc2 4. Ke5 Kd3 5. Kf4 Ke2 6. Kg3 1-0

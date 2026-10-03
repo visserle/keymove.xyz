@@ -1,0 +1,13 @@
+[Event "3.p Nevanlinna-60 JT Suomen Tehtäväniek"]
+[Source "Suomen Tehtäväniekat/1 1981"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Vaisanen, Kauko"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/P5P1/5b1k/8/8/8/7p/8 w - - 0 1"]
+
+1. g8=N+ $1 (1. g8=Q $2 h1=Q+ 2. Kb8 Be5+ 3. Kc8 Qa8+) Kg6 2. Nxf6 h1=Q+ 3. Nd5 $1 (3. Kb8 $2 Qb1+ 4. Kc7 Qa2 5. Kb7 Qb3+ 6. Kc7 Qa4 7. Kb7 Qb5+ 8. Kc7 Qa6 9. Kb8 Qb6+ 10. Ka8 Qc7 11. Nd7 Kf7 12. Nb8 Ke8 $1) (3. Ne4 $2 Qh7 (Qb1 $2 4. Nc3 $1) 4. Kb8 (4. Nc5 Qc7 5. Na6 Qc6+ 6. Kb8 Qb6+ 7. Ka8 Kf6 8. Nc5 Ke7) Qg8+ 5. Kb7 Qb3+ 6. Kc7 Qa4 7. Kb7 Qb5+ 8. Kc7 Qa6 9. Kb8 Qb6+ 10. Ka8 Qc7 11. Nd6 Kh7 12. Ne8 Qc8#) Kf7 (Qb1 4. Nb6 $1 Qxb6) (Qc1 4. Kb7) (Qh7 4. Kb8) 4. Kb7 Qxd5+ 5. Kb8 1/2-1/2

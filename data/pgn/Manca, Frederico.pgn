@@ -1,0 +1,13 @@
+[Event "L'Italia Scacchistica#413"]
+[Source "L'Italia Scacchistica/5"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Manca, Frederico"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1R5R/8/1P5p/7k/6pq/8/6pP/4b1K1 w - - 0 1"]
+
+1. Rxh6+ $1 Kxh6 2. Rh8+ Kg5 3. Rxh4 Kxh4 4. b7 Bg3 $1 5. hxg3+ Kh3 6. b8=R (6. b8=Q $2) 1-0

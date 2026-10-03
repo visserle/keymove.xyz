@@ -1,0 +1,40 @@
+[Event "1.hm Revista de Romana de Sah#0395"]
+[Source "Revista de Romana de Sah/10 2/4.p Bulgaria champ 1956-1959."]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Popov, Georgy Alexandrov"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p2B2/1PP2P2/6pN/4p1P1/1p4PK/6P1/4n2k w - - 0 1"]
+
+1. Nf4 $1 b2 2. Ba2 Nd3 3. Nxd3 exd3 4. b7 d2 5. b8=R $1 (5. b8=Q $2 d1=N 6. Qxb2 Nf2+ 7. Qxf2) d1=N 6. Rxb2 Nxb2 7. f7 Nd3 8. f8=R $1 (8. f8=Q $2 Nf2+ 9. Qxf2) Kg1 {<eg>} 9. Bc4 Nf2+ 10. Rxf2 Kxf2 11. Kh2 1-0
+
+[Event "Shakhmatna Kompozitsia#142"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Popov, Georgy Alexandrov"]
+[White "Popov, G"]
+[Black " Kadrev, Z."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/K7/1P6/B1P5/3P4/4P2p/5Pb1/8 w - - 0 1"]
+
+1. f3 $1 Bxf3 2. e4 $1 Bxe4 3. d5 $1 Bxd5 4. c6 $1 Bxc6 5. b7+ $1 Bxb7 6. Bc7 Kxc7 1/2-1/2
+
+[Event "Shakhmaty v SSSR#43"]
+[Source "Shakhmaty v SSSR/12 EG#00450."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Popov, Georgy Alexandrov"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/pP4P1/k7/P7/1P6/5K2/1b4r1 w - - 0 1"]
+
+1. b7 $1 Rg2+ 2. Ke1 (2. Kf3 $2 Be4+) (2. Ke3 $2 Rg3+) Rg1+ 3. Kd2 Rg2+ 4. Kc1 Rg1+ 5. Kb2 Rg2+ 6. Kxb1 (6. Ka1 $2 Rd2 $1 (Ra2+ $2 7. Kxb1 Rd2 8. b4+ Kxa4 9. b8=Q) 7. b8=Q (7. b4+ Kxa4 8. b8=Q Bd3) Ra2+ 8. Kxb1 Rb2+ 9. Kc1 Rb1+ 10. Kd2 Rb2+ 11. Kc3 Rxb3+ 12. Kxb3) Rg1+ 7. Kb2 (7. Kc2 $2 Rg2+ 8. Kd1 $2 Rb2 9. b8=Q Rb1+ 10. Kc2 Rb2+ 11. Kc3 Rxb3+ 12. Kxb3) Rg2+ 8. Ka3 Rg3 9. b8=B $1 (9. b8=Q $2 Rxb3+ 10. Kxb3) Rc3 10. Be5 Rc6 11. Bd4 Rc4 {<eg>} 12. b4+ (12. bxc4 $2) 1-0

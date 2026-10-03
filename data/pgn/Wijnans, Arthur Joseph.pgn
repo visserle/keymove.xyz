@@ -1,0 +1,26 @@
+[Event "Tijdschrift v.d. KNSB#098"]
+[Source "Tijdschrift v.d. KNSB/2"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Wijnans, Arthur Joseph"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/1p5p/5p2/5P1K/5P2/8/7P/8 w - - 0 1"]
+
+1. Kh6 $1 (1. h4 $2 Kg7) (1. Kg4 $2 Kg7) b5 2. h4 Kg8 (b4 3. h5 b3) 3. h5 Kf7 (Kf8 4. Kxh7) 4. Kxh7 b4 5. h6 b3 6. Kh8 b2 7. h7 Ke7 8. Kg8 $1 (8. Kg7 $2 b1=Q 9. h8=Q Qg1+ 10. Kh6 Qh2+ 11. Kg7 Qg3+ 12. Kh6 Qxf4+ 13. Kg7 Qg5+ 14. Kh7 Kf7 $1) b1=Q 9. h8=Q Qa2+ (Qb3+ 10. Kh7 (10. Kg7 $2 Qg3+) Qh3+ 11. Kg8) 10. Kh7 $1 (10. Kg7 $2 Qg2+) 1/2-1/2
+
+[Event "De Schaakwereld#145"]
+[Date "1938.02.04"]
+[Round "?"]
+[Composer "Wijnans, Arthur Joseph"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/3B2N1/1K6/8/2p5/6k1 w - - 0 1"]
+
+1. Nf3+ $1 Kf2 2. Ne5 Ke3 (Ke2 3. Bc4+ Kd2 4. Nd3) 3. Nc4+ Ke2 (Kf4 4. Nb2) (Kd3 4. Be4+) (Kd4 4. Nd2) (Kf2 4. Nb2) 4. Bf3+ Ke1 (Kf2 5. Ne5) 5. Nb2 (5. Ne5 {<or>}) Kd2 6. Nc4+ 1/2-1/2

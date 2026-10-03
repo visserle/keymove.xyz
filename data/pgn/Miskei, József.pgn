@@ -1,0 +1,13 @@
+[Event "4.hm Magyar Sakkélet#0012"]
+[Source "Magyar Sakkélet/3"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Miskei, József"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3p4/3p4/3P2Pp/4k3/7p/7K w - - 0 1"]
+
+1. g5 $1 Kf4 $1 2. g6 Kg3 3. g7 Kh3 4. g8=N $1 (4. g8=Q $2) (4. g8=B $2 Kg3 5. Bxd5 Kf4 6. Bg8 d5 $1 7. Bxd5 Ke3) Kg3 5. Ne7 Kf3 6. Nc6 (6. Kxh2 {<or>} Ke4 7. Nc6) 1-0

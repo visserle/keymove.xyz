@@ -1,0 +1,305 @@
+[Event "1/2.p Szachy"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Proskurowski, Wlodek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#8"]
+[Theme "Attacking the king"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "k2K4/pp6/P3P3/8/8/8/1p6/8 w - - 0 1"]
+
+1. e7 (1. Kc7 $4 b1=Q 2. axb7+ Qxb7+ 3. Kd6 Qe4 $19) (1. Kc8 $4 b1=Q $19 2. axb7+ Qxb7+ 3. Kd8 Kb8 4. Ke8 Qg7) b1=Q 2. e8=Q (2. Kc7 $4 Qc1+ 3. Kd7 Qc6+ $19) (2. Ke8 $4 Qd3 $19 3. axb7+ Kxb7) (2. e8=R $4 Qh7 $19 3. axb7+ Qxb7) (2. Kc8 $4 Qc1+ 3. Kd8 Kb8) (2. Kd7 $4 Qd3+ 3. Kc7 Qc4+) Qh7 3. Kc8 (3. axb7+ $4 Qxb7 4. Qe6 $10) (3. Qd7 $4 Qxd7+ 4. Kxd7 b5 $19) (3. Qe4 $4 Qxe4 $19 4. axb7+ Kxb7) (3. Qe6 $4 Qh4+ 4. Kc8 $10) (3. Qe7 $4 Qxe7+ 4. Kxe7 b5 $19) (3. Qf8 $4 bxa6 $19 4. Qf3+ Qb7) (3. Qb5 $4 bxa6 4. Qxa6 Qc7+ 5. Kxc7) (3. Qe5 bxa6) Qg7 (Qe4 4. Kc7+ (4. Qg6 Qc6+ 5. Qxc6 bxc6) (4. Qh5 Qe6+ 5. Kc7 Qe7+) Qxe8 5. axb7# $3 (5. Kd6 $4 Qe4)) 4. Qd8 (4. Qh5 Qe7 5. axb7+ Qxb7+ 6. Kd8) (4. Qa4 Qf7 5. axb7+ Qxb7+ 6. Kd8) (4. Qe2 Qc3+ 5. Kd8 Qf6+) (4. Qe1 Qg4+ 5. Kd8 Qg5+) Qf7 (Qh7 5. Qf8 (5. Qe8 Qc2+ 6. Kd7+ $18) bxa6 6. Qf3+ (6. Qe8 $4 Qb7+ 7. Kd8 Qb8+ $19) (6. Kd8 $4 a5 $19 7. Qf3+ Qb7) (6. Qd6 Qb7+ 7. Kd8 a5) (6. Qf1 Qb7+ 7. Kd8 a5) (6. Qf2 Qb7+ 7. Kd8 Qb6+) (6. Qa3 Qb7+ 7. Kd8 a5) (6. Qb4 Qh3+ 7. Kd8) (6. Qf6 Qb7+ 7. Kd8 a5) (6. Qf4 Qb7+ 7. Kd8 Qb8+) Qb7+ 7. Qxb7#) 5. Qh8 (5. Qg5 Qe8+ 6. Kc7 Qc6+) (5. Qg8 Qxg8+ 6. Kd7 Qe8+) Qe7 6. Qg8 (6. Qh3 Qe8+ 7. Kc7 Qc6+) (6. Qh6 Qe4 7. Kd8) (6. Qh5 Qe6+ 7. Kc7 Qc6+) Qe8+ 7. Qxe8 b6 8. Qe4# (8. Qc6#) 1-0
+
+[Event "source unknown"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Proskurowski, Wlodek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k4/7p/6p1/8/7P/6K1/8/8 w - - 0 1"]
+
+1. h5 $1 (1. Kf4 $2 h6 2. Ke4 Ke8 $1) (1. Kg4 $2 h6 2. Kf4 Kd7 $1 (Ke8 $2 3. Ke4 Kf7 4. Kf3 $1 Kf6 5. Kf4) 3. Kf3 Kd6 $1) g5 2. h6 $1 (2. Kg4 $2 h6) Ke7 3. Kg4 Kf6 4. Kh5 Kf5 1/2-1/2
+
+[Event "Szachy#238 (v)"]
+[Source "17.p Polish champ 1959-1960."]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Proskurowski, Wlodek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p7/5k2/2Q5/K2p4/6q1/4B3 w - - 0 1"]
+
+1. Qf7+ $1 Ke5 (Kg4 2. Qg6+ Kf3 (Kh3 3. Qh5#) 3. Qc6+) 2. Bg3+ $1 Kd4 (Qxg3 3. Qc7+) 3. Qa7+ Kc3 (Kc4 4. Qc7+) 4. Qg7+ Kc4 (Kc2 5. Qb2+) 5. Qc7+ Kb5 (Kd4 {<main>} 6. Bf2+ Qxf2 7. Qb6+ (7. Qa7+ {<or>}) Ke4 8. Qxf2) 6. Qb8+ Kc5 (Kc4 7. Qb4+ Kd5 8. Qb7+) 7. Bf2+ $1 Qxf2 (Kc4 8. Qb3#) 8. Qa7+ Kc4 9. Qxf2 1-0
+
+[Event "Szachy#238"]
+[Source "17.p Polish champ 1959-1960"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Proskurowski, Wlodek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4Q3/p7/5k2/8/K2p4/6q1/4B3 w - - 0 1"]
+
+1. Qf7+ $1 Ke5 (Kg4 2. Qg6+ Kf3 (Kh3 3. Qh5#) 3. Qc6+) 2. Bg3+ Kd4 3. Qa7+ Kc3 (Kc4 4. Qc7+) 4. Qg7+ Kc4 (Kc2 5. Qb2+ Kd1 6. Qxg2) 5. Qc7+ Kb5 (Kd4 {<main>} 6. Bf2+ Qxf2 7. Qb6+ (7. Qa7+ {<or>}) Ke4 8. Qxf2) 6. Qb8+ Kc5 (Kc4 7. Qb4+ Kd5 8. Qb7+ Kc4 9. Qxg2) 7. Bf2+ Qxf2 (Kc4 8. Qb3#) 8. Qa7+ Kc4 9. Qxf2 1-0
+
+[Event "Szachy#197"]
+[Source "Szachy/11"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Proskurowski, Wlodek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/8/8/2KP4/8/3P3k/8 w - - 0 1"]
+
+1. Kd3 $1 (1. Kc5 $2 Kg3 2. Kc6 Kf3 3. d5 Ke4 4. d3+ Kd4) Kg3 2. Ke3 $1 (2. Ke4 $2 Kf2) Kg4 (Kg2 3. d5) 3. Ke4 Kg5 (Kg3 4. d5 Kf2 5. d6 cxd6 6. d4 Ke2 7. d5) 4. d5 Kf6 5. Kf4 $1 Kf7 6. Kf5 Ke7 7. Ke5 Kd7 8. Kd4 Kd6 9. d3 (9. Kc4 $2 Ke5 10. Kc5 (10. d3 Kf4) Ke4) Ke7 10. Kc5 Kd7 11. d4 Kd8 12. Kc6 Kc8 13. d6 1-0
+
+[Event "Szachy#213"]
+[Source "Szachy/12"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Proskurowski, Wlodek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/5p2/2PNpK2/2k5/8/P7/8 w - - 0 1"]
+
+1. c6 $1 bxc6 2. Nxf6 Kb4 3. Ne4 Ka3 4. Nc3 c5 5. Kxe5 (5. Ke4 $2 Kb2 $1 6. Kd3 e4+) Kb2 6. Kd5 Kxc3 7. Kxc5 Kb2 8. a4 1-0
+
+[Event "Szachy#213 (v)"]
+[Source "Szachy/12 (v): Proskurowski=W source unknown 1990."]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Proskurowski, Wlodek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p5N/5K2/2P5/2k5/8/P7/8 w - - 0 1"]
+
+1. c6 $1 (1. Ng5 $2 Kxc5 2. Ne4+ Kb4 3. Ke5 Ka3 4. Nc3 b5) bxc6 2. Ng5 Kb4 3. Ne4 Ka3 4. Nc3 c5 5. Ke5 Kb2 6. Kd5 $1 (6. a4 $2 Kxc3 7. a5 c4 8. a6 Kb2) Kxc3 7. Kxc5 Kb2 8. a4 1-0
+
+[Event "Thèmes 64#0989"]
+[Source "Thèmes 64/1-3"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Proskurowski, Wlodek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/8/8/3K4/3P4/3P3k/8 w - - 0 1"]
+
+1. Ke3 $1 (1. Kc5 $2 Kg3 2. Kc6 Kf4 3. Kxc7 Ke5) (1. Ke4 $2 Kg2 2. d4 Kf2 3. d5 Ke2 4. d3 Kd2 5. d4 (5. Kd4 Kc2 6. Kc4 Kd2 7. d4 Ke3) Kc3) Kg2 (Kg3 {<main>} 2. d4 Kg4 3. Ke4 Kg5 4. d5 Kf6 5. Kf4 Kf7 6. Kf5 Ke7 7. Ke5 Kd7 8. Kd4 Kd6 9. d3) 2. d4 Kf1 3. d5 Ke1 4. d4 Kd1 5. Kd3 Kc1 (Ke1 6. d6 cxd6 7. d5 Kf2 8. Ke4) 6. d6 cxd6 7. d5 Kb2 8. Kc4 1-0
+
+[Event "Szachy#376"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Proskurowski, Wlodek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "n7/r5N1/5P2/8/4K3/8/p4R2/7k w - - 0 1"]
+
+1. Rxa2 $1 Rxa2 2. f7 Ra4+ 3. Kf3 $1 Ra3+ 4. Kg4 Ra4+ 5. Kg5 Ra5+ 6. Kg6 Ra6+ 7. Ne6 $1 Rxe6+ 8. Kg5 Re5+ 9. Kg4 Re4+ 10. Kg3 Re3+ 11. Kf2 1-0
+
+[Event ".c Problemista"]
+[Source "EG#00277."]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Proskurowski, Wlodek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4B3/2p1BN2/7K/8/8/4p2p/4k3 w - - 0 1"]
+
+1. Ne4 $1 h1=Q+ (Kd1 2. Nf2+) (Kf1 2. Bh3+ (2. Ng3+ $2 Kg2) Kg1 3. Bc5+) (h1=N 2. Bh4+ Kd1 (Kf1 3. Bc4 $1) 3. Bg4 $1) 2. Bh4+ Qxh4+ (Kd1 3. Nf2+) (Kf1 3. Ng3+) 3. Kxh4 Kd1 (Kf1 { <main>} 4. Bc4) 4. Bg4 1-0
+
+[Event "Szachy"]
+[Source "Szachy/2"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Proskurowski, Wlodek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3kp3/8/3K4/3P4/3P4/8/8 w - - 0 1"]
+
+1. Ke5 $1 Kc7 2. d5 1-0
+
+[Event "1.c Schakend Nederland#0974"]
+[Source "Schakend Nederland/11 EG#00143."]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Proskurowski, Wlodek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/5b2/B7/2K2pk1/2P5/8 w - - 0 1"]
+
+1. Bb5 $1 (1. Kd2 $2 Bd3 $1) Kh2 2. Kd2 Kg1 3. Be2 $1 (3. c4 $2 Bd3 $1) (3. c3 $2 f2 4. Be2 Bh3 5. c4 Bf1) f2 4. c4 Bh3 5. c5 Bf1 6. Bxf1 Kxf1 7. c6 1/2-1/2
+
+[Event "Szachy"]
+[Source "Szachy/1"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Proskurowski, Wlodek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3p4/8/2k1P3/4K3/4P3/8 w - - 0 1"]
+
+1. e5 $1 (1. Kf4 $2 Kd4) (1. Kf3 $2 Kc3) dxe5 2. Ke4 1-0
+
+[Event "Szachy"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Proskurowski, Wlodek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/5p2/8/4P3/2K1P3/8/8/8 w - - 0 1"]
+
+1. e6 $1 fxe6 2. e5 Kf7 3. Kc5 Kg6 4. Kc6 Kg5 5. Kd7 Kf5 6. Kd6 1-0
+
+[Event "Szachy"]
+[Source "Szachy/1"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Proskurowski, Wlodek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/8/4P3/3KP3/8/2k5/8 w - - 0 1"]
+
+1. e6 $1 (1. Kc5 $2 Kd3 2. e6 dxe6 3. e5 $2 Ke4 4. Kd6 Kf5) dxe6 2. e5 Kb3 3. Kc5 1-0
+
+[Event "Szachy"]
+[Source "Szachy/1"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Proskurowski, Wlodek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/2k5/4P3/4P3/5K2/8/8 w - - 0 1"]
+
+1. Kf4 $1 (1. Ke3 $2 d5 $1 (d6 $2 2. Kf4)) Kc5 2. e6 $1 dxe6 (Kd6 3. exd7 Kxd7 4. Kf5) 3. Ke5 1-0
+
+[Event "1.hm Problemista#1054"]
+[Source "EG#00282."]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Proskurowski, Wlodek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6k1/8/p7/8/4P3/P7/3n1K2 w - - 0 1"]
+
+1. Ke2 $1 Nc3+ 2. Kd3 Nxa2 3. Kc4 (3. e4 {<or>}) Nb4 4. Kb5 Nc6 5. e4 Kf6 6. Kxc6 a4 7. Kd6 1/2-1/2
+
+[Event "Szachy"]
+[Source "Szachy/6"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Proskurowski, Wlodek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/RKp5/8/2p5/1k6 w - - 0 1"]
+
+1. Kb5 $1 c3 2. Rb4+ Kc1 3. Rd4 1/2-1/2
+
+[Event "Problemista#1987 (v)"]
+[Source "Problemista/11-12"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Proskurowski, Wlodek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/1p6/8/1Pp5/1p6/8/1P4K1/8 w - - 0 1"]
+
+1. Kf3 $1 (1. Kf2 $2 Kg7 2. Ke3 Kf6 3. Kd3 (3. Ke4 Ke6) Ke5 4. Kc4 Kd6) Kg7 2. Ke4 Kf6 3. Kd5 (3. Kd3 $2 Ke5) b6 4. Kc4 (4. Kc6 $2 c4) (4. b3 $2 Kf5 5. Kc4 Ke5 (Ke4 $2)) Ke5 5. Kb3 Kd4 6. Ka4 Kd3 (Kc4 7. b3+ Kd3) (b3 7. Kxb3 Kd3 8. Ka4 Kc4 9. b4 cxb4) 7. b3 c4 (Kc3) 8. bxc4 Kxc4 (Kc3 9. c5 b3 10. c6) 1/2-1/2
+
+[Event "Problemista"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Proskurowski, Wlodek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7B/2Pp3K/4P3/2k5/1R1pr3/8/3b4 w - - 0 1"]
+
+1. Rxd3 $1 (1. Bf5 $2 Rxe5) (1. Bg8+ $2 d5 2. e6 Bg4) Rxd3 (Rxe5 2. Rxd1) 2. Bxd3+ (2. e6 $2 Rh3+) Kd5 (Kxd3 3. exd6) 3. e6 $1 (3. Bf5 $2 Kxc6 4. e6 Kc7 5. e7 Ba4) Kxc6 (Kxe6 4. Bf5+ $1 Kxf5 5. c7) (Ba4 4. c7) (Bg4 4. e7) 4. Bb5+ $1 Kxb5 5. e7 1-0
+
+[Event "1.hm Problemista"]
+[Source "Problemista/5 EG#00742."]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Proskurowski, Wlodek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4K3/7n/2P5/7k/8/8/5P1b/8 w - - 0 1"]
+
+1. f4 $1 (1. Kd8 $2 Nf8 2. Ke7 (2. f4 Ne6+ 3. Kd7 Nc5+ 4. Kd6 (4. Kd8 Bxf4 5. c7 Ne6+) Na6) Ng6+ 3. Ke8 (3. Kd8 Nf4) Kh6 4. f4 Bxf4 5. Kd8 Nf8 6. Ke7 Kg7) Bxf4 2. Kd8 Nf8 3. Ke7 Ng6+ 4. Kd8 Nf8 5. Ke7 Nh7 6. Kd8 Ng5 7. Kd7 $1 (7. Ke7 $2 Ne4 8. Kd7 Nc5+) Ne4 8. c7 Nc5+ 9. Kc6 1/2-1/2
+
+[Event "Schakend Nederland#1403"]
+[Source "Schakend Nederland/6"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Proskurowski, Wlodek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/PN3K2/B7/1P3p1P/8/8/4p3/7r w - - 0 1"]
+
+1. b6 $1 Rxh5 (e1=Q 2. Nc5 Qe4 3. Nxe4 fxe4 4. Bb5 Rc1 5. h6 Rc8 6. h7 Kb7 7. Be8) (Rb1 2. Bxe2 Rxb6 3. Nc5) 2. Bxe2 Rh7+ (Rh6 3. Nd6) 3. Kf8 $1 (3. Kg8 $2 Rxb7 4. Bf3 f4 5. Bxb7+ Kxb7 6. Kf7 f3) (3. Ke8 $2 Kxb7 $1 4. Bf3+ Kxb6) Rxb7 (Kxb7 4. Kg8 $1 Rh3 5. Ba6+ Ka8 6. Bc4) 4. Bf3 f4 5. Bxb7+ Kxb7 6. Ke8 (6. Ke7 {<or>}) f3 7. Kd7 (7. Kd8 { <or>}) f2 8. a8=Q+ Kxa8 9. Kc7 f1=Q 10. b7+ Ka7 11. b8=Q+ Ka6 12. Qb6# 1-0

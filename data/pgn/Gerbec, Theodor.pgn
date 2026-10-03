@@ -1,0 +1,12 @@
+[Event "4.p Grossdeutscher Schachbund ty Deutsc"]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Gerbec, Theodor"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5b2/8/5p2/1Rp2P2/2P3p1/2P3Pp/5K1k w - - 0 1"]
+
+1. Rb5 $1 (1. Rb1 $2 Bh5 2. Re1 Bf3) Bh5 2. Re5 Bf3 $1 (Bd1 3. Re3 $1) 3. Re1 Bxg2+ 4. Ke2+ Bf1+ 5. Kxf1 g2+ 6. Kf2+ g1=Q+ (g1=R 7. Rf1 Rxf1+ 8. Kxf1) 7. Kf3 Qxe1 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "Variantim#0014"]
+[Source "Variantim/1-4 EG#08505.1.c Israel Ring ty 1988."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Grinblat, Arieh"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1R6/1B1b4/8/k7/1p5R/r7/p1P2n2/2K5 w - - 0 1"]
+
+1. Rh5+ $1 (1. Ra8+ $2 Kb5 2. Ba6+ Kc5 3. Rc4+ Kd5) Bb5 2. Rxb5+ $1 Kxb5 3. Bd5+ Kc5 4. Bxa2 Rxa2 5. Rc8+ Kd4 (Kd5 6. Rd8+ Ke5 7. Rb8 $1 Ra4 8. Kb2 Ne4 9. Rb5+ $1 Kd4 10. Kb3 Nc5+ 11. Rxc5 $1) 6. Rb8 $1 (6. Rd8+ $2 Ke3 7. Rb8 Ra4 8. Kb2 Ne4) Ra4 (Kc3 7. Rc8+ Kd4 8. Rb8) 7. Rxb4+ $1 Rxb4 8. c3+ $1 Kxc3 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "4.p UV CSTV#4044"]
+[Source "EG#00604."]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Gorelikov, V"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1K6/8/2k5/nR3b2/8/4bp2/6R1 w - - 0 1"]
+
+1. Rf1 $1 Bf3+ 2. Ka6 Be2+ 3. Kb7 Bxf1 4. Rxf4 Bg2+ 5. Ka6 f1=Q+ 6. Rxf1 Bxf1+ 7. Ka5 Nb2 1/2-1/2

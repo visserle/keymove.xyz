@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Moxon, Harry Frederick"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "6R1/7p/3b3P/2n4K/3p1N2/8/8/7k w - - 0 1"]
+
+1. Rg4 (1. Nh3 $2 Ne4 2. Rd8 $14 $10) (1. Ne2 $6 d3 2. Nc3 $14 $10) (1. Rc8 $2 Bxf4 2. Rxc5 $10 Bxh6 $4 (Kg1 $5) 3. Kxh6) (1. Nd3 $2 Nxd3 2. Rd8) (1. Rb8 Bxb8) d3 2. Rh4+ (2. Nxd3 $2 Nxd3 3. Rd4 Nf4+ 4. Kg4 Bf8 5. Kxf4 Bxh6+ 6. Kg3 Be3 7. Rd1+ Bg1 $10) (2. Nh3 $6 Kh2 3. Rd4 $14 $10) (2. Nd5 $6 d2 3. Nc3 $14 $10) (2. Ng2 $2 Nd7 3. Rd4 $10) (2. Kh4 $4 d2 $10 3. Nh3) (2. Rg3 $4 Bxf4 3. Rh3+ Kg2) (2. Kg5 $4 Bxf4+ 3. Kf5 d2) (2. Rg5 $4 d2) (2. Ng6 hxg6+ 3. Kxg6) Kg1 3. Nxd3 (3. Ne6 $4 Nxe6 $19 4. Rg4+ Kf1) (3. Nh3+ $2 Kf1 4. Rd4 $10) (3. Nd5 $2 d2 4. Rd4 $10) (3. Rg4+ $6 Kh2 4. Nd5 $14 $10) (3. Ng6 $4 Ne6 4. Ra4 d2 5. Ra1+ Kf2 $17 $19) (3. Ne2+ $4 dxe2 4. Rg4+ Kf2) (3. Rh2 $4 Kxh2 4. Nxd3 Nxd3) (3. Kg5 $4 Bxf4+ 4. Kf5 Be3) (3. Rh3 $4 Bxf4 4. Rxd3 Nxd3) Nxd3 $2 (Nd7 $5 4. Rd4 $18) 4. Rd4 (4. Rg4+ $2 Kh1 5. Rh4+ $10) (4. Rh3 $4 Nf4+ 5. Kh4 Nxh3 6. Kxh3 Bf4) (4. Rc4 Nc5 5. Rb4) (4. Re4 Nc5 5. Rd4) (4. Kg4 Nc5 5. Rh3) Nf4+ 5. Kg4 (5. Kg5 $4 Ne6+ 6. Kf6 Nxd4) (5. Kh4 $2 Ng6+ 6. Kg4) Bf8 6. Kxf4 (6. Rxf4 $2 Bxh6 7. Re4 $10) (6. Kg5 $4 Ne6+ 7. Kf6 Nxd4 $19) (6. Rd1+ $2 Kg2 7. Rc1 $10) (6. Kg3 $4 Ne2+ 7. Kf3 Nxd4+ 8. Ke3 Bxh6+ 9. Kxd4 Bc1 10. Kc3 h5) (6. Kf3 $2 Ne6 7. Rc4) (6. Rd8 $2 Ne6 7. Rc8) (6. Rd7 $2 Ne6 7. Rb7) (6. Kf5 $2 Ne6 7. Rc4) (6. Re4 $2 Ng6 7. Rd4) (6. Rd2 Ng6 7. Rd4) Bxh6+ 7. Kf3 (7. Kg3 $2 Kf1 8. Rc4 $10) (7. Kg4 $2 Bg7 8. Rc4 $10) (7. Kf5 $2 Kf2 8. Rc4) (7. Ke4 $2 Bg7 8. Rc4) Bf8 8. Kg3 (8. Rd1+ $2 Kh2 9. Rc1 $10) (8. Ke2 $2 h6 9. Rc4) (8. Rd8 $2 Be7 9. Rc8) (8. Kg4 $2 h5+ 9. Kf4 Bh6+ 10. Ke4) (8. Kf4 $2 Bh6+ $4 (h5 $5) 9. Kf3) Kf1 9. Rf4+ $18 (9. Kf3 $2 Ke1 10. Rc4) (9. Rd1+ $2 Ke2 10. Rc1) (9. Rd2 $2 Bg7 10. Rc2) (9. Rd8 $2 Bg7 10. Rc8) (9. Kh2 $2 Bg7 10. Rc4) (9. Rd7 $2 Bh6 10. Rc7) (9. Rh4 $2 Bg7 10. Rg4) (9. Re4 Bh6 10. Kf3) 1-0

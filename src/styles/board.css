@@ -1,0 +1,495 @@
+/* Keymove: board.
+
+   One module of the stylesheet; order is owned by
+   app.css, which imports every module. */
+
+/* ---------------------------------------------------------------- diagram */
+.diagram {
+	width: max-content;
+}
+
+/* the positioning context for the promotion chooser overlay */
+.board-frame {
+	position: relative;
+}
+
+/* the home page's diagram links to its solving board; the anchor is a block so
+   it wraps the board exactly, and keeps a visible focus ring for keyboard use */
+.board-frame--link {
+	display: block;
+	cursor: pointer;
+}
+
+.board-frame--link:focus-visible {
+	outline: 2px solid var(--ink);
+	outline-offset: 2px;
+}
+
+/* The requested board size. Chessground rounds this down to a whole number of
+   8-device-pixel squares inside its own `cg-container`, so the rendered board
+   can be up to ~7px smaller than this wrapper, right- and top-aligned within
+   it. Do not anchor anything that must line up with the board to `.cg-wrap`:
+   read `---cg-width`/`---cg-height` (published on `<body>` via
+   `addDimensionsCssVarsTo`) or reach for `cg-container`. */
+.cg-wrap {
+	width: calc(var(--sq) * 8);
+	height: calc(var(--sq) * 8);
+}
+
+/* the board's radius rides a variable so `cg-board` can round its own
+   background without clipping the coordinates that sit outside it. The soft
+   shadow is drawn by the tiles themselves (see `cg-board` below), not by this
+   wrapper, because a shadow on the wrapper draws a line under the file labels. */
+.board-frame > .cg-wrap:not(.promo) {
+	--board-radius: var(--radius);
+	border-radius: var(--board-radius);
+}
+
+/* the board resize grip, ported from lichess's `cg-resize`
+   (`ui/lib/css/component/_board-resize.scss`). Hidden on a single-column
+   phone, where the board already fills the width.
+
+   It is appended into chessground's `cg-container` by the `events.insert`
+   hook in `Solve.svelte` (lila does the same in `lib/chessgroundResize.ts`),
+   NOT into `.cg-wrap`: `right/bottom: -9px` must be measured from the board's
+   real (rounded) corner. `.cg-wrap` is only the requested size and can be a
+   few px larger, which would make the grip drift down and right. Do not move
+   it back into the markup as a wrapper sibling. */
+.board-resize {
+	display: none;
+}
+
+@media (min-width: 799.3px) {
+	.board-resize {
+		display: block;
+		position: absolute;
+		right: -9px;
+		bottom: -9px;
+		width: 22px;
+		height: 22px;
+		cursor: nwse-resize;
+		touch-action: none;
+		z-index: 14;
+	}
+
+	/* lila's `cg-resize` strokes: 12px and 5px hairlines set at the box's left
+     edge and rotated 45°, i.e. an inset hatch, not centred on the corner.
+     The hatch is a hard black, exactly as lila draws it (`ui/lib/css/
+     component/_board-resize.scss`: `background: #000`). It is board chrome,
+     not page chrome: the grip sits on the board, whose colours do not follow
+     the site theme (this one is always the light board, and its
+     bottom-right square is the light one), so the page's `--ink` must not be
+     used here: it flips to near-white under `html.dark`. */
+	.board-resize::before,
+	.board-resize::after {
+		content: "";
+		position: absolute;
+		left: 0;
+		width: 12px;
+		height: 1px;
+		background: #000;
+	}
+
+	.board-resize::before {
+		width: 5px;
+		transform: translate(7px, 8px) rotate(-45deg);
+	}
+
+	.board-resize::after {
+		transform: translate(1px, 6px) rotate(-45deg);
+	}
+
+	/* A clear but translucent hover affordance; the board stays light in both
+     site themes, so keep this board chrome theme-independent. */
+	.board-resize:hover {
+		border-radius: 50%;
+		background: rgb(0 0 0 / 25%);
+	}
+
+	/* Stronger feedback while dragging makes the active state distinct. */
+	body.resizing .board-resize {
+		border-radius: 50%;
+		background: rgb(0 0 0 / 45%);
+	}
+}
+
+body.resizing {
+	user-select: none;
+	-webkit-user-select: none;
+}
+
+/* chessground's own coordinates, moved from outside the board to inside it as
+   lichess shows them: rank numbers down the right edge, file letters along the
+   bottom. The geometry and the fluid font size are lila's, ported from
+   `ui/lib/css/theme/board/_coords-in.scss` and `_coords.scss`. */
+.cg-wrap coords {
+	position: absolute;
+	display: flex;
+	pointer-events: none;
+	opacity: 1;
+	color: var(--muted);
+	font-family: var(--serif);
+	font-weight: bold;
+	font-size: 8px;
+	text-transform: lowercase;
+}
+
+/* lila's `fluid-size('font-size', 8px, 12px)` */
+@media (min-width: 300px) {
+	.cg-wrap coords {
+		font-size: calc(8px + 4 * ((100vw - 300px) / 900));
+	}
+}
+
+@media (min-width: 1200px) {
+	.cg-wrap coords {
+		font-size: 12px;
+	}
+}
+
+.cg-wrap coords.ranks {
+	top: 1px;
+	right: 0;
+	left: auto;
+	height: 100%;
+	width: 0.8em;
+	flex-flow: column-reverse;
+}
+
+.cg-wrap coords.ranks.black {
+	flex-flow: column;
+}
+
+.cg-wrap coords.files {
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 1.4em;
+	text-align: left;
+	text-transform: none;
+	flex-flow: row;
+}
+
+.cg-wrap coords.files.black {
+	flex-flow: row-reverse;
+}
+
+.cg-wrap coords.files coord {
+	padding-left: 4px;
+}
+
+/* chessground's base nudges rank labels down by 39% of the square; lichess
+   cancels that for the inside-the-board coords */
+.cg-wrap coords.ranks coord {
+	transform: none;
+}
+
+.cg-wrap .ranks .coord-light,
+.cg-wrap .files .coord-light,
+.cg-wrap .squares .coord-light {
+	color: var(--coord-on-light);
+}
+
+.cg-wrap .ranks .coord-dark,
+.cg-wrap .files .coord-dark,
+.cg-wrap .squares .coord-dark {
+	color: var(--coord-on-dark);
+}
+
+/* Outside coordinates, one-to-one from lila's `coords-out`
+   (`ui/lib/css/theme/board/_coords.scss`). */
+@media (min-width: 799.3px), (orientation: landscape) {
+	.coords-out coords {
+		text-shadow: none;
+	}
+
+	/* the outside rank numbers, lila's `_coords.scss`: a 12px strip whose right
+     edge sits 15px past the board. The solver does not reserve them, so they
+     overflow into its grid gap, so the board-to-tools distance stays lila's
+     `---block-gap` (see `.work` in layout.css). The home page does reserve the
+     band, adding it to the column gap so the ranks never touch the prose. */
+	:root {
+		--coord-band: 15px;
+	}
+
+	.coords-out coords.ranks {
+		right: calc(-1 * var(--coord-band));
+		top: 0;
+		width: 12px;
+	}
+
+	.coords-out coords.ranks coord {
+		transform: translateY(42%);
+	}
+
+	.coords-out coords.files {
+		bottom: -15px;
+		left: 0;
+		text-align: center;
+	}
+
+	.coords-out .cg-wrap coords.ranks coord,
+	.coords-out .cg-wrap coords.files coord {
+		color: var(--muted);
+	}
+
+	.coords-out .board-frame {
+		/* the files' room below the board, lila's `_coords.scss` `margin-bottom`.
+       The ranks beside the board reserve no band of their own: they overflow
+       into the grid gap, so the board-to-tools distance is exactly
+       `--work-gap` (`---block-gap`: 15px with room, 10px without). */
+		margin-bottom: 12px;
+	}
+}
+
+/* annotation badges, drawn by chessground from our custom SVG */
+.cg-wrap .cg-custom-svgs text {
+	font-family: var(--symbols);
+	font-weight: 700;
+}
+
+/* the badges keep their shapes but lose their hue */
+.cg-wrap .cg-custom-svgs {
+	filter: grayscale(1);
+}
+
+/* ------------------------------------------------------------ board paint
+
+   Brightness and contrast filter the checkerboard paint layer. The Grain
+   checkbox swaps its flat fill for Lichess's complete Grey board image, also
+   confined to the paint layer so pieces and move highlights stay crisp. */
+cg-container {
+	right: 0;
+}
+
+cg-board {
+	border-radius: var(--board-radius, 0);
+	background-color: var(--board-light);
+	/* the board edge is the soft `%box-shadow`, drawn on the tiles so it never
+     draws a line beneath the outside file labels */
+	box-shadow: var(--box-shadow);
+	-webkit-tap-highlight-color: transparent;
+	/* lila's `%double-tap` (`ui/lib/css/abstract/_extends.scss`): a double tap
+     on the board must not zoom the page. The value has to sit on `cg-board`
+     itself, not on `cg-wrap`, `.board-frame` or any other wrapper: as soon as
+     an *ancestor* of the touched element carries a touch-action other than
+     `auto`, Chrome claims the sequence for a scroll gesture and chessground
+     never sees the `touchmove`s, so pieces stop dragging. That exact break is
+     in lila's history: `3d010e47` put `%double-tap` on the `.main-board`
+     wrapper and `4c05e69d` reverted it for breaking drag on Android; lila
+     keeps the mixin on controls, never on the board wrapper. On the board
+     element the value still reaches both engines' zoom checks: WebKit walks
+     from the hit node up to the root (`Element::allowsDoubleTapGesture`,
+     `Source/WebCore/dom/Element.cpp`) and cancels the gesture for any
+     non-`auto` ancestor, and Chrome intersects the target with its ancestors
+     up to the nearest scroll container. `manipulation` keeps panning and
+     pinch-zoom, so the page still scrolls when a touch starts on the board. */
+	touch-action: manipulation;
+}
+
+/* The flat checkerboard is the default; the checkbox can replace it with
+   Lichess's actual textured Grey board image. Brightness/contrast affect only
+   this paint layer, never the pieces. */
+cg-board::before {
+	content: "";
+	position: absolute;
+	inset: 0;
+	border-radius: inherit;
+	background-image: conic-gradient(
+		var(--board-dark) 0 25%,
+		var(--board-light) 0 50%,
+		var(--board-dark) 0 75%,
+		var(--board-light) 0
+	);
+	background-size: 25% 25%;
+	filter: brightness(calc(var(--board-brightness, 73) / 100))
+		contrast(calc(var(--board-contrast, 100) / 100));
+}
+
+/* grey.jpg's square means are #a8 and #87; pre-calibrate them to the flat
+   board's #fff and #c9, then apply the same user brightness/contrast filters. */
+.board-grain cg-board::before,
+.board-grain .board::before {
+	background-image: url("/images/board/grey.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	filter:
+		contrast(1.1032)
+		brightness(1.4765)
+		brightness(calc(var(--board-brightness, 73) / 100))
+		contrast(calc(var(--board-contrast, 100) / 100));
+}
+
+/* The interactive square colours are the one place the board keeps colour:
+   the exact values lila uses (`ui/lib/css/theme/board/_chessground.scss`). */
+cg-board square.move-dest {
+	background: radial-gradient(rgb(20 85 30 / 0.5) 19%, rgb(0 0 0 / 0) 20%);
+}
+
+cg-board square.premove-dest {
+	background: radial-gradient(rgb(20 30 85 / 0.5) 19%, rgb(0 0 0 / 0) 20%);
+}
+
+cg-board square.oc.move-dest {
+	background: radial-gradient(
+		transparent 0%,
+		transparent 79%,
+		rgb(20 85 0 / 0.3) 80%
+	);
+}
+
+cg-board square.oc.premove-dest {
+	background: radial-gradient(
+		transparent 0%,
+		transparent 79%,
+		rgb(20 30 85 / 0.2) 80%
+	);
+}
+
+cg-board square.last-move {
+	background-color: rgb(155 199 0 / 0.41);
+}
+
+cg-board square.check {
+	background: radial-gradient(
+		ellipse at center,
+		rgb(255 0 0 / 1) 0%,
+		rgb(231 0 0 / 1) 25%,
+		rgb(169 0 0 / 0) 89%,
+		rgb(158 0 0 / 0) 100%
+	);
+}
+
+cg-board square.selected {
+	background-color: rgb(20 85 30 / 0.5);
+}
+
+cg-board square.current-premove {
+	background-color: rgb(20 30 85 / 0.5);
+}
+
+@media (hover: hover) {
+	cg-board square.move-dest:hover,
+	cg-board square.move-dest.hover {
+		background: rgb(20 85 30 / 0.3);
+	}
+
+	cg-board square.premove-dest:hover,
+	cg-board square.premove-dest.hover {
+		background: rgb(20 30 85 / 0.2);
+	}
+}
+
+/* --------------------------------------------------------- promotion overlay
+
+   Lichess's chooser (`ui/lib/css/chess/_promotion.scss`): the board is washed
+   white, and the four promotable pieces are circular buttons on the promotion
+   file. */
+.promo-backdrop {
+	position: absolute;
+	inset: 0;
+	z-index: 12;
+	appearance: none;
+	border: 0;
+	padding: 0;
+	margin: 0;
+	background: rgba(255, 255, 255, 0.7);
+	cursor: default;
+}
+
+.promo.cg-wrap {
+	position: absolute;
+	inset: 0;
+	z-index: 13;
+	display: block;
+	width: 100%;
+	height: 100%;
+	pointer-events: none;
+}
+
+.promo__piece {
+	position: absolute;
+	width: 12.5%;
+	height: 12.5%;
+	padding: 0;
+	margin: 0;
+	border: 0;
+	border-radius: 50%;
+	background-color: #b0b0b0;
+	box-shadow: inset 0 0 25px 3px #808080;
+	cursor: pointer;
+	pointer-events: all;
+	transition:
+		border-radius 0.1s ease,
+		box-shadow 0.1s ease;
+}
+
+.promo__piece:hover {
+	border-radius: 0;
+	box-shadow: inset 0 0 48px 8px var(--c-font-clear);
+}
+
+.promo.cg-wrap piece {
+	position: static;
+	display: block;
+	width: 100%;
+	height: 100%;
+	background-size: 100% 100%;
+	opacity: 1;
+	transform: scale(0.8);
+	transition: transform 0.1s ease;
+	pointer-events: none;
+}
+
+.promo__piece:hover piece {
+	transform: none;
+}
+
+/* a static diagram (the catalogue cards); the checker sits on its own layer
+   so the same brightness/contrast filter reaches it without touching pieces */
+.board {
+	position: relative;
+	display: grid;
+	grid-template-columns: repeat(8, var(--sq));
+	grid-template-rows: repeat(8, var(--sq));
+	background-color: var(--board-light);
+	border-radius: var(--radius);
+	overflow: hidden;
+	box-shadow: var(--box-shadow);
+	user-select: none;
+}
+
+.board::before {
+	content: "";
+	position: absolute;
+	inset: 0;
+	background-image: conic-gradient(
+		var(--board-dark) 0 25%,
+		var(--board-light) 0 50%,
+		var(--board-dark) 0 75%,
+		var(--board-light) 0
+	);
+	background-size: 25% 25%;
+	filter: brightness(calc(var(--board-brightness, 73) / 100))
+		contrast(calc(var(--board-contrast, 100) / 100));
+}
+
+.sq {
+	position: relative;
+	display: grid;
+	place-items: center;
+}
+
+.board piece {
+	display: block;
+	width: 100%;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+}
+
+.diagram--thumb {
+	--sq: 26px;
+}
+

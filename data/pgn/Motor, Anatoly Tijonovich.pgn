@@ -1,0 +1,208 @@
+[Event "Shakhmaty v SSSR#04"]
+[Source "Shakhmaty v SSSR/1"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Motor, Anatoly Tijonovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r1k5/1p6/P4b2/1KP3n1/4R3/8/8/8 w - - 0 1"]
+
+1. Re8+ $1 Bd8 2. Rxd8+ Kxd8 3. axb7 Rb8 4. Kb6 Ne6 5. c6 Nc7 6. Ka7 Na6 7. Kb6 $1 Nc7 8. Ka7 1/2-1/2
+
+[Event ".c Shakhmaty (Riga)#119"]
+[Source "EG#02158."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Motor, Anatoly Tijonovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/7p/4K3/2p2p2/6R1/8/1b2p3/8 w - - 0 1"]
+
+1. Rg2 $1 (1. Rg1 $2 f4 2. Kf7 h6 $1 (h5 3. Rg5) 3. Re1 f3 4. Rb1 Kh7) e1=Q+ (e1=N 2. Rxb2 f4 3. Rf2 Nd3 4. Rf3 c4 5. Kd5 Kg7 6. Kd4 Kg6 7. Rf1) (f4 2. Rxe2 Bd4 3. Kf7 h6 4. Kg6) 2. Kf7 Bg7 3. Re2 $1 (3. Rxg7 $2 Qe7+) Bc3 (Qxe2) 4. Rg2 $1 Bg7 (Qe8+ 5. Kxe8 f4 (h6 6. Kf7 Kh7 7. Ke6 f4 8. Kf5 f3 9. Rf2) 6. Kf7 h6 7. Kg6 Kg8 8. Kxh6+ Kf7 9. Kg5 Be5 10. Kf5 Bd6 11. Rf2) 5. Re2 Bc3 6. Rg2 h5 7. Rg8+ Kh7 8. Rg7+ $1 Kh6 9. Rg6+ Kh7 10. Rg7+ Bxg7 1/2-1/2
+
+[Event "1/3.c The Problemist#0164"]
+[Source "The Problemist/7-9 1975 EG#02857."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Motor, Anatoly Tijonovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3n3k/4p2P/3NPb1p/4p2P/8/7K/8/8 w - - 0 1"]
+
+1. Nf7+ $1 Nxf7 2. exf7 Bg7 3. Kg4 Kxh7 4. Kf5 Kh8 5. Ke4 Bf8 (Kh7 6. Kf5 Kh8 7. Ke4) 6. Kxe5 Kg7 (Kh7 7. Kf4 Kh8 8. Ke5) 7. Ke6 1/2-1/2
+
+[Event "Schakend Nederland#1496"]
+[Source "Schakend Nederland/3 1976"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Motor, Anatoly Tijonovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/2kP4/2Pp4/n5P1/8/8/8/8 w - - 0 1"]
+
+1. Kg7 $1 (1. g6 $2 Nxc6 2. Kg7 Ne7 3. Kf7 (3. Kf6 Nxg6 4. Ke6 Nf8+) Kxd7) Nxc6 2. Kf6 $1 (2. g6 $2 Ne7) Kxd7 3. g6 Ne7 4. g7 Ng8+ (d5 5. Ke5) 5. Kf7 Nh6+ 6. Kg6 Ng8 7. Kf7 Ne7 8. Kf6 1/2-1/2
+
+[Event "L'Italia Scacchistica"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Motor, Anatoly Tijonovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1n6/3kP1b1/1p3R2/2P5/3K4/8/P7/8 w - - 0 1"]
+
+1. Kd5 $1 Bxf6 2. c6+ Nxc6 3. e8=Q+ Kxe8 4. Kxc6 Bd8 5. Kd6 (5. Kb7 $2 Kd7 6. a4 Kd6 7. Ka6 Kc5) Be7+ (Kf7 6. a4 Kf6 7. Kc6) 6. Kc6 1/2-1/2
+
+[Event ".c Buletin Problemistic#070"]
+[Source "Buletin Problemistic/4-6 EG#03075."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Motor, Anatoly Tijonovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3p4/2bP4/4P3/1k1P3K/8/8/8 w - - 0 1"]
+
+1. e6 $1 (1. Kg5 $2 Bd5 $1) dxe6 2. Kg5 Bd7 (Kc4 3. Kf6 Bd7 (Kd5 4. Ke7) 4. Ke7) 3. Kf6 Kb5 4. Kf7 $1 (4. Ke7 $2 Kc6 5. Kd8 Kxd6 6. d5 Kxd5) Kc6 5. Ke7 Bc8 6. Kd8 Ba6 7. Ke7 (7. d7 $2 Kd6 8. Ke8 Bb5) Bc8 8. Kd8 Bb7 9. Ke7 1/2-1/2
+
+[Event "The Problemist#0191"]
+[Source "The Problemist/1-2"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Motor, Anatoly Tijonovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/k7/3K4/7p/7P/3P4/8 w - - 0 1"]
+
+1. Kc5 $1 (1. Kd6 $2 Kb5 2. Kxd7 Kc4 3. Ke6 Kd3 4. Kf5 Kxd2 5. Kg4 Ke3 6. Kxh4 Kf4) Ka5 (Kb7 2. Kd6 Kc8 3. d3 Kd8 4. d4 Ke8 5. Kc7 Ke7 6. d5) 2. d3 (2. d4 $2 Ka6 3. d5 Kb7 4. Kd6 Kc8 5. Ke7 Kc7) Ka6 3. d4 Kb7 4. Kd6 Kc8 5. Ke7 Kc7 6. d5 1-0
+
+[Event "L'Italia Scacchistica#269"]
+[Source "L'Italia Scacchistica/7-8"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Motor, Anatoly Tijonovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7K/8/8/8/8/rk4P1/8 w - - 0 1"]
+
+1. g4 $1 Kc3 2. g5 Kd4 3. g6 Ke5 (Rh2+ 4. Kg7 Ke5 5. Kf7 Ra2 6. g7 Ra7+ 7. Kf8 Kf6 8. g8=N+) 4. g7 Kf6 5. g8=N+ 1/2-1/2
+
+[Event "Schakend Nederland#1834 (c)"]
+[Source "Schakend Nederland/10 (c): Motor=A Schakend Nederland#1861 2/1982."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Motor, Anatoly Tijonovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/P4p1p/5P2/5K1n/7k w - - 0 1"]
+
+1. a5 $1 Nxf3 2. a6 h3 3. a7 h2 4. a8=R (4. a8=Q $2) Ng1 5. Ra1 f3 6. Ra4 Nh3+ (Ne2 7. Kxf3 Ng1+ 8. Kf2 Nh3+ 9. Kg3 Ng1 10. Ra2) 7. Kxf3 Ng5+ (Ng1+ 8. Kf2 Nh3+ 9. Kg3) 8. Kg3 1-0
+
+[Event "EG"]
+[Source "EG/5 EG#04557."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Motor, Anatoly Tijonovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3B4/8/1p4P1/1p1p3p/1p1P2kp/8/6K1 w - - 0 1"]
+
+1. Be6 $1 h2+ 2. Kh1 b2 3. Ba2 b3 4. Bb1 Kg4 5. g6 Kh3 6. g7 b4 7. g8=B Kg3 8. Bxb3 Kf3 9. Kxh2 Ke3 10. Kh3 Kd2 11. Kxh4 Kc1 12. B1c2 (12. B3c2 $2 b3) (12. B3a2 $2 b3) b1=Q 13. Bxb1 Kxb1 {<eg>} 14. Kg4 Kb2 15. Bc4 Kc3 16. Kf4 b3 17. Ke4 b2 18. Ba2 1-0
+
+[Event "L'Italia Scacchistica#404"]
+[Source "L'Italia Scacchistica/2"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Motor, Anatoly Tijonovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/4p3/8/4pk1b/8/2K1R3 w - - 0 1"]
+
+1. Kd1 $1 Bg4 2. Rf1+ Kg2+ 3. Ke1 Bf3 4. Rg1+ Kxg1 1/2-1/2
+
+[Event "L'Italia Scacchistica#424"]
+[Source "L'Italia Scacchistica/7-8"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Motor, Anatoly Tijonovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/8/5kPp/6p1/3b4/5P2/8/8 w - - 0 1"]
+
+1. Kh7 $1 Kf5 2. Kxh6 Kf4 3. Kh5 Bc3 4. Kh6 Bf6 5. Kh5 Bg7 1/2-1/2
+
+[Event "The Problemist#0395"]
+[Source "The Problemist/7"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Motor, Anatoly Tijonovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6r1/1p2P1k1/2p1p3/1p2P3/1P1K4/6N1/8/8 w - - 0 1"]
+
+1. Nh5+ $1 Kf7 2. Nf6 Rh8 3. e8=Q+ Rxe8 4. Nxe8 Kxe8 5. Kc5 Kd7 6. Kb6 Kc8 7. Ka5 Kd7 8. Kb6 Kc8 9. Ka5 Kc7 1/2-1/2
+
+[Event "The Problemist#0413"]
+[Source "The Problemist/3"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Motor, Anatoly Tijonovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/KP2n3/2q1k3/2Q5/8/2n1B3/6P1/6b1 w - - 0 1"]
+
+1. b8=Q $1 Nb5+ 2. Qbxb5 Nc8+ 3. Kb8 Bh2+ 4. g3 Bxg3+ 5. Bf4 Bxf4+ 6. Qe5+ Bxe5+ 7. Qxe5+ Kxe5 1/2-1/2
+
+[Event ".c H 200 AT Leninske Plemja"]
+[Source "EG#08761."]
+[Date "1989.??.??"]
+[Round "?"]
+[Composer "Motor, Anatoly Tijonovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r1k5/b7/P1KP4/8/8/8/8/8 w - - 0 1"]
+
+1. d7+ $1 Kd8 2. Kb7 Rb8+ 3. Kxa7 Kc7 4. d8=Q+ Rxd8 1/2-1/2

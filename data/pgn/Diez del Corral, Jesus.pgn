@@ -1,0 +1,51 @@
+[Event "Schach Echo#082"]
+[Date "1955.07.20"]
+[Round "?"]
+[Composer "Diez del Corral, Jesus"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6q1/6p1/5p2/7Q/6N1/6k1/8/6K1 w - - 0 1"]
+
+1. Ne3 $1 (1. Nf2 $2 Kf4 $1) (1. Nh2 $2 Kf4 $1) (1. Qg6 $2 Kf4 $1) Kf4 (Qc8 {<main>} 2. Nf5+ Kf4 3. Qh2+ Kg4 (Kxf5 4. Qh3+ Kg5 5. Qxc8) 4. Qg3+ Kh5 5. Qh4+ Kg6 6. Ne7+ Kf7 7. Nxc8) (Qe6 2. Qe2 $1 Kf4 3. Ng2+ Kf5 4. Nh4+) 2. Nd5+ (2. Ng2+ $2 Ke4 3. Qe2+ Kd4) Ke4 $1 (Kg3 3. Qh2+ Kg4 4. Nxf6+ gxf6 5. Qg2+) 3. Qe2+ $1 Kd4 $1 (Kxd5 4. Qa2+ Ke5 5. Qxg8) 4. Qe3+ (4. Qd2+ $2 Ke5 $1) Kc4 5. Qc3+ Kb5 6. Qb4+ Kc6 7. Ne7+ Kd7 8. Nxg8 1-0
+
+[Event "Schach Echo#149"]
+[Date "1957.04.20"]
+[Round "?"]
+[Composer "Diez del Corral, Jesus"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5q2/8/8/4B3/7k/2Q4p/7K/8 w - - 0 1"]
+
+1. Bf6+ $1 Kg4 (Kh5 2. Qe5+ Kg4 3. Qe4+ Kh5 4. Qf5+ Kh6 5. Bg5+ Kg7 6. Bh6+) 2. Qg3+ $1 (2. Qd4+ $2 Kf3 $1) Kf5 3. Qe5+ $1 Kg6 4. Qg5+ Kf7 $1 (Kh7 5. Qh5+ Kg8 6. Qg6+) 5. Qf5 $1 Qg8 $1 (Qe8 6. Be5+ $1 Ke7 7. Qf6+ Kd7 8. Qd6+ Kc8 9. Qc7#) (Qa8 6. Bd4+ Ke7 7. Bc5+ Ke8 8. Qf8+) 6. Bg5+ $1 Ke8 (Kg7 7. Qf6+ Kh7 8. Qh6#) 7. Qc8+ $1 (7. Qb5+ $2 Kf8 $1) Kf7 8. Qd7+ $1 (8. Qc4+ $2 Kg7 9. Qd4+ Kh7 $1 (Kg6 $2 10. Qf6+ Kh5 11. Qh6+ Kg4 12. Qxh3+ Kxg5 13. Qg3+)) (8. Qc7+ {<or>}) (8. Qb7+ $2 Kg6 9. Qb6+ Kf5 10. Qf2+ Ke5 11. Qg3+ Kf5 12. Qf4+) Kg6 9. Qd6+ $1 (9. Qc6+ $2 Kxg5) Kf5 10. Qf4+ Kg6 $1 11. Qf6+ Kh5 $1 12. Qh6+ Kg4 13. Qxh3+ Kxg5 14. Qg3+ (14. Qg2+ { <or>}) Kf5 15. Qxg8 1-0
+
+[Event "Schach Echo#171"]
+[Date "1957.11.20"]
+[Round "?"]
+[Composer "Diez del Corral, Jesus"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3q4/8/8/6p1/2N2k2/8/7K/4Q3 w - - 0 1"]
+
+1. Qe5+ $1 (1. Qg3+ $2 Kf5 $1) (1. Qe3+ $2 Kf5 $1) (1. Qf2+ $2 Ke4 2. Qe3+ Kf5 $1) (1. Nd6 $2 Qh8+) Kg4 $1 (Kf3 2. Qe3+ $1 (2. Qf5+ $2 Ke2) Kg4 3. Qh3+) 2. Qe4+ Kh5 3. Qh7+ Kg4 4. Qh3+ Kf4 5. Nd6 $1 g4 (Qxd6 {<main>} 6. Qg3+ Kf5 7. Qxd6) (Ke5 {<main>} 6. Nf7+ Kf6 7. Nxd8) 6. Qg3+ Kg5 7. Nf7+ Kf6 8. Nxd8 1-0
+
+[Event "ABC"]
+[Date "1982.02.14"]
+[Round "?"]
+[Composer "Diez del Corral, Jesus"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/8/8/8/5Pk1/7N/6K1 w - - 0 1"]
+
+1. Kf1 $1 (1. Kh1 $2 h6 $1 (h5 $2 2. Kg1 h4 3. Kh1 h3 4. Kg1) 2. Kg1 h5 3. Kh1 (3. Kf1 h4 $1) h4 4. Kg1 h3 5. Kh1 Kf4 6. Kg1 Kg3) h5 (h6 2. Ke2 $1 Kxh2 3. f4) 2. Kg1 h4 3. Kh1 h3 (Kf4 4. Kg2) 4. Kg1 Kf4 5. Kf2 1-0

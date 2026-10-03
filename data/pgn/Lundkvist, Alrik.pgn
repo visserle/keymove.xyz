@@ -1,0 +1,12 @@
+[Event "Eskilstuna Kuriren"]
+[Date "1916.??.??"]
+[Round "?"]
+[Composer "Lundkvist, Alrik"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3n4/5PR1/k7/2p2r2/KP6/4B3/8/4b3 w - - 0 1"]
+
+1. b5+ $1 Kb6 2. Bxc5+ Kxc5 (Kc7 3. f8=Q+) 3. Rg5 Rxg5 4. f8=Q+ 1-0

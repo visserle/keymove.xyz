@@ -1,0 +1,68 @@
+[Event "Znamja (Kaluga)"]
+[Source "EG#04324. also .c Tidskrift for Schack#2027 Tidskrift for Schack=2 Tidskrift for Schack/3 1979."]
+[Date "1978.05.06"]
+[Round "?"]
+[Composer "Gerasimov, Vladimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1r6/1P6/8/8/8/2K5/k7/2R5 w - - 0 1"]
+
+1. Rc2+ $1 Ka1 (Ka3 2. Rb2) 2. Rb2 Rc8+ 3. Kd2 Rd8+ 4. Kc1 $1 Rc8+ 5. Rc2 Rb8 6. Rc8 $1 Rxb7 7. Ra8+ Ra7 8. Rxa7# 1-0
+
+[Event "L'Italia Scacchistica#280 (s)"]
+[Source "L'Italia Scacchistica/10"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Gerasimov, Vladimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/4n3/3N2pb/1p1R1n2/4Kp2/2k5 w - - 0 1"]
+
+1. Rc3+ $1 Kb2 2. Rxb3+ Ka2 3. Nxf3 Nxf3 (gxf3+ {<main>} 4. Kf1 Kxb3) 4. Rxf3 gxf3+ 5. Kf1 Kb2 1/2-1/2
+
+[Event "Tidskrift for Schack#2188"]
+[Source "Tidskrift for Schack/8"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Gerasimov, Vladimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1n4R1/8/8/7P/K4k1p/8 w - - 0 1"]
+
+1. Rf6+ $1 Ke2 2. Re6+ Kd2 3. Rd6+ Kc2 4. Rc6+ Nc4 5. Rxc4+ Kd2 6. Rd4+ Ke2 7. Re4+ Kf2 8. Rf4+ Kg2 9. Rb4 $1 h1=Q 10. Rb1 1/2-1/2
+
+[Event "L'Italia Scacchistica#350"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Gerasimov, Vladimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3B4/8/P7/8/8/K7/3k4/3r4 w - - 0 1"]
+
+1. Ba5+ $1 Kd3 2. a7 Ra1+ 3. Kb4 Rb1+ 4. Ka4 Kc4 5. Bb4 Rxb4+ 6. Ka3 Rb1 7. Ka2 1-0
+
+[Event "Schach#11085"]
+[Source "Schach/8"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Gerasimov, Vladimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K1n5/8/3k4/3P4/1p6/8/P7/8 w - - 0 1"]
+
+1. Kb7 $1 Ne7 2. Kb6 Kxd5 3. Kb5 Nc6 4. Ka4 Kc4 5. a3 b3 1/2-1/2

@@ -1,0 +1,161 @@
+[Event "source unknown"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Infantozzi, Julio Cesar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/kp1p1p2/pp1P1P2/8/1p5P/1P2p1p1/4P1P1/K7 w - - 0 1"]
+
+1. h5 $1 b5 2. h6 Kb6 3. h7 Ka5 4. h8=N b6 5. Ng6 fxg6 6. f7 g5 7. f8=N g4 8. Ne6 dxe6 9. d7 e5 10. d8=N e4 11. Nc6# 1-0
+
+[Event "1.p Yugoslavia ty"]
+[Source "EG#01743 EG#05604."]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Infantozzi, Julio Cesar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/1p3p2/5P2/p1p2P2/1p2p3/1P2p1pP/1P2P1P1/6K1 w - - 0 1"]
+
+1. Kf1 $1 (1. h4 $2 c4) c4 2. Ke1 $1 (2. h4 $2 c3) cxb3 $1 3. h4 Ka7 4. h5 Kb6 5. h6 Kb5 6. h7 Ka4 7. h8=N $1 (7. h8=Q $2 b5) b5 8. Ng6 fxg6 9. f7 gxf5 (g5 {<main>} 10. f8=Q g4 11. Qxb4+) 10. f8=N $1 (10. f8=Q $2 f4) f4 {<eg>} 11. Nd7 f3 12. Nb6# 1-0
+
+[Event "source unknown"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Infantozzi, Julio Cesar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/p3N3/8/4n3/8/1pp3PP/1P2K3/4N3 w - - 0 1"]
+
+1. Nd5 $1 cxb2 2. Nc3 a5 3. Nf3 a4 4. Nb1 Nc4 5. Nfd2 a3 6. Nxc4 a2 7. Nca3 Kg7 8. Kd3 Kf6 9. Kc3 a1=Q 10. Kd4 1-0
+
+[Event "El Plata"]
+[Source "EG#00979."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Infantozzi, Julio Cesar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/1p6/1P6/2K5/2pp1p1P/5P2/3p4/1n1NN3 w - - 0 1"]
+
+1. Nc2 $1 d3 $1 2. Na3 $1 c3 $1 (Nxa3 3. h5) 3. Nxb1 $1 c2 4. Nbc3 c1=Q 5. Kb4 $1 Qa1 6. h5 Qa6 7. Na4 $1 Kb8 {<eg>} 8. h6 Kc8 9. h7 1-0
+
+[Event "El Plata"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Infantozzi, Julio Cesar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1P6/k1P5/p1R5/P1n3p1/5Pp1/1r6/7K w - - 0 1"]
+
+1. c7 $1 gxf3 2. Rc6+ Nb6 3. Rxb6+ Rxb6 4. b8=R (4. b8=Q $2 g2+ 5. Kg1 f2+ 6. Kxf2 g1=Q+ 7. Kxg1 Rg6+ 8. Kf2 Rg2+ 9. Kxg2) g2+ 5. Kg1 Rxb8 6. cxb8=R (6. cxb8=Q $2 f2+ 7. Kxg2 f1=Q+ 8. Kxf1) 1-0
+
+[Event "Problemas {SEPA}"]
+[Source "EG#00980 EG#11437."]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Infantozzi, Julio Cesar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p2P/5b2/K4P1k/8/8/3B4/8 w - - 0 1"]
+
+1. Kb4 $1 (1. Bb4 $2 Kh6 2. Bxe7 Bh8 3. Kb6 Kxh7 4. Kc7 Kg8 5. Kd7 Kf7) Bh8 $1 (Kg4 2. Bc3) (e5 2. fxe6 Kg6 3. Bg5 Be5 4. Kb5) 2. Bc3 (2. Kc4 $2 Kg4 3. Bc3 Kxf5 4. Bxh8 Kg6) Kh6 3. Bxh8 Kxh7 4. Bf6 $1 (4. Bb2 $2 Kh6 5. Bc1+ Kh5 6. Kc5 Kg4) exf6 5. Kc5 $1 (5. Kc4 $2 Kh6 6. Kd5 Kh5 $1) Kh6 (Kg7 6. Kd6 Kf7 (Kh6 7. Ke7 Kg5 8. Ke6) 7. Kd7 Kf8 8. Ke6 Kg7 9. Ke7 Kg8 10. Kxf6 Kf8 11. Kg6 Kg8 12. f6 Kf8 13. f7) 6. Kd6 Kh5 (Kg5 7. Ke6) 7. Ke7 $1 (7. Ke6 $2 Kg5) Kg5 8. Ke6 1-0
+
+[Event "El Ajedrez Espanol"]
+[Source "also Novi Temi#305 Novi Temi/7-9 1973."]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Infantozzi, Julio Cesar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7N/7p/5kp1/8/2p3P1/2K4B/8/8 w - - 0 1"]
+
+1. Bg2 $1 Kg7 2. Be4 $1 (2. Nxg6 $2 Kxg6) Kxh8 3. Bxg6 $1 (3. g5 $2 Kg7) hxg6 4. g5 $1 Kg7 5. Kxc4 Kf7 { <eg>} 6. Kd5 Ke7 7. Ke5 Kf7 8. Kd6 Kf8 9. Ke6 Kg7 10. Ke7 Kg8 11. Kf6 Kh7 12. Kf7 Kh8 13. Kxg6 Kg8 14. Kh6 $1 Kh8 15. g6 1-0
+
+[Event "Mundo del Ajedrez"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Infantozzi, Julio Cesar"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p3k3/8/6K1/2b5/8/8/8 w - - 0 1"]
+
+1. Kf4 $1 a5 2. Ke3 a4 3. Kd2 a3 4. Kc2 $1 (4. Kc3 $2 Kd6 5. Kc2 Ba2 6. Kc3 Kc5) (4. Kc1 $2 Bd3) Ba2 5. Kc3 1/2-1/2
+
+[Event "Ajedrez"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Infantozzi, Julio Cesar"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/K7/4N3/k7/8/1pp5/8/6N1 w - - 0 1"]
+
+1. Ne2 $1 (1. Nd4 $2 b2 2. Nc6+ Ka4 3. Ne2 c2) c2 (Kb4 2. Nxc3 Kxc3 3. Nc5 b2 4. Na4+ Kb3 5. Nxb2) 2. N6d4 b2 3. Nc3 $1 (3. Nxc2 $2 b1=Q 4. Ned4 Qb6+) Kb4 (b1=Q 4. Nc6#) (c1=Q 4. Nc6#) 4. Nxc2+ Kxc3 5. Na3 1/2-1/2
+
+[Event "Ajedrez Postal Americano"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Infantozzi, Julio Cesar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1k3K2/2r5/p2pP3/P2P4/8/8/8 w - - 0 1"]
+
+1. e6 $1 Rc7+ (Rc4 2. e7 Rxa4 3. e8=Q Rxd4 4. Qb5+) 2. e7 (2. Kf8 $2 Rc8+ 3. Kf7 Kc7) Kc6 3. Kf8 Rc8+ (Kd6 4. e8=N+) 4. e8=R $1 (4. e8=Q+ $2 Kd6 5. Qxc8) Rc7 5. Re6+ Kb7 6. Re7 1-0
+
+[Event "Chess Life & Review#1496"]
+[Source "Chess Life & Review/8 also Finales y Temas#00208 Finales y Temas=6 Finales y Temas/6 1998."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Infantozzi, Julio Cesar"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/2k5/8/6p1/8/8/7P/8 w - - 0 1"]
+
+1. Ka7 $1 (1. h3 $2 Kd6) g4 (Kc6 2. Kb8 $1 (2. Ka6 g4 $1 3. Ka5 Kd5)) 2. Ka8 $1 (2. Ka6 $2 Kc6 3. Ka5 Kd5) Kd6 (Kc6 3. Kb8 Kd5 4. Kc7) 3. Kb7 Kd7 4. Kb6 Kd6 5. Kb7 $1 (5. Kb5 $2 Kd5) Kd5 6. Kc7 Ke4 (Ke5 7. Kd7 Kf4 8. Ke6 Kg5 9. Ke5 Kh4 10. Kf5) 7. Kd6 Kf3 8. Ke5 Kg2 9. Kf4 1/2-1/2
+
+[Event ".c Chess Life & Review#1571"]
+[Source "Chess Life & Review/5 1990 EG#08235."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Infantozzi, Julio Cesar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/B7/4pp2/7p/p5k1/p1PP4/2P2PKP/6N1 w - - 0 1"]
+
+1. Nf3 $1 e5 (a2 2. h3+ Kf5 (Kf4 3. Be3+ Kf5 4. Nh4+ Ke5 5. Bd4+ Kd5 6. Nf3 a1=Q 7. c4+) 3. Nh4+ Kg5 4. Be3+ Kxh4 5. f4 a1=Q 6. Bf2#) 2. Nh4 $1 Kxh4 3. h3 a2 4. f4 $1 exf4 5. Bd4 f3+ (a1=Q 6. Bxf6#) 6. Kh2 Kg5 7. c4 Kf4 8. Kg1 $1 (8. c5 $2 a1=Q 9. Bxa1 Ke3 10. Kg1 Ke2 11. Bd4 a3) 1-0

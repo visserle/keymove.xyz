@@ -1,0 +1,26 @@
+[Event "Die Welt"]
+[Date "1949.10.05"]
+[Round "?"]
+[Composer "Nerong, Otto"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/k5p1/P7/1P6/6p1/p4pN1/5PP1/6BK w - - 0 1"]
+
+1. b6+ $1 Kxb6 (Kxa6 2. Ne4) 2. a7 $1 (2. Kh2 $2 a2 3. Nh1 a1=Q 4. g3 Qf1 5. a7 Qg2#) Kxa7 (Kb7 3. Ne4 a2 4. Nc5+ Kxa7 5. Nb3) 3. Kh2 a2 4. Nh1 a1=Q (g3+ 5. fxg3+ Ka6 6. Bd4) 5. g3 Qf1 1/2-1/2
+
+[Event "Die Schwalbe#113"]
+[Source "Die Schwalbe/4-5"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Nerong, Otto"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1p1p4/1P1p1p2/1PpP1p2/p1Pp1P2/P1NP4/1K4k1 w - - 0 1"]
+
+1. Nxa3 $1 Kf2 2. Kb2 Kxf3 3. Nb1 Ke2 4. Ka3 f3 5. Ka4 f2 6. a3 f1=Q 1/2-1/2

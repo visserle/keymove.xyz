@@ -1,0 +1,93 @@
+[Event "6.p source unknown"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Studenetsky, Alexey Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/7R/8/8/1N1p3p/N3q2P/5p2/k7 w - - 0 1"]
+
+1. Nac2+ $1 Kb1 $1 2. Nxe3 dxe3 3. Rf7 e2 4. Rxf2 e1=Q 5. Rb2+ Kxb2 6. Nd3+ Kc3 7. Nxe1 Kd4 {<eg>} 8. Nf3+ Ke3 9. Nxh4 Kf4 10. Ng2+ Kg3 11. h4 1-0
+
+[Event "Shakhmaty v SSSR#02"]
+[Source "Shakhmaty v SSSR/3"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Studenetsky, Alexey Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5n1k/3b4/PP6/4Kp2/8/6B1/p7/8 w - - 0 1"]
+
+1. Kd6 $1 (1. Kd5 $2 Be6+ 2. Kd6 Nd7 3. Be5+ Nxe5 4. b7 a1=Q 5. b8=Q+ Bg8 6. a7 Qd4+) a1=Q (Ng6 2. b7 a1=Q 3. b8=Q+ Kh7 4. a7) 2. Be5+ Qxe5+ 3. Kxe5 Bb5 $1 4. b7 Nd7+ 5. Kxf5 $1 Bxa6 (Bc6 6. Ke6 Nb8 7. Kd6 Bf3 8. a7) 6. Ke6 $1 Nc5+ (Nb8 7. Kd6 Bxb7 (Be2 8. Kc7 Na6+ 9. Kb6) 8. Kc7) 7. Kd6 Nxb7+ 8. Kc7 1/2-1/2
+
+[Event "Mlady Komunist"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Studenetsky, Alexey Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "n2n4/K2P4/1P1P4/1P1k4/8/5b2/8/8 w - - 0 1"]
+
+1. b7 $1 Nxb7 2. Kxb7 Kxd6+ 3. Ka7 Kxd7 4. b6 Kc8 5. b7+ Bxb7 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/12"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Studenetsky, Alexey Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/3B4/3N4/k2N4/7p/8/6p1/8 w - - 0 1"]
+
+1. Nc4+ $1 (1. Nb7+ $2 Ka6 2. Nc5+ Ka7) Ka6 2. Bc8+ $1 Kb5 $1 (Ka7 3. Ne5 g1=Q 4. Nc6+ Ka8 5. Nc7#) 3. Nc3+ Kxc4 4. Ne2 h3 $1 (Kd3 5. Nf4+) 5. Bb7 $1 (5. Bxh3 $2 Kd3 6. Nf4+ (6. Ng1 Ke3) Ke3 7. Nxg2+ Kf2) Kb3 (Kd3 6. Nf4+ Ke3 7. Nxh3) 6. Be4 $1 1-0
+
+[Event "Sovyetskaya Rossija"]
+[Date "1956.08.26"]
+[Round "?"]
+[Composer "Studenetsky, Alexey Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4R3/8/5K2/8/N6k/3p4/2Pp4/8 w - - 0 1"]
+
+1. Re4+ $1 Kh5 2. Nc3 d1=Q 3. Nxd1 dxc2 4. Re1 c1=Q 5. Rh1+ Kg4 6. Nf2+ 1-0
+
+[Event "2.c 64#44"]
+[Source "EG#02798."]
+[Date "1974.07.26"]
+[Round "?"]
+[Composer "Studenetsky, Alexey Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3n4/1P3p2/4P1p1/K1k1PP1p/8/8/1r6/2N5 w - - 0 1"]
+
+1. Nd3+ $1 (1. e7 $2 Nc6+ 2. Ka4 Nxe7) Kc6 2. Nb4+ $1 Rxb4 $1 (Kxb7 3. e7) 3. Kxb4 Kxb7 4. exf7 Nxf7 5. e6 $1 Nd8 $1 6. e7 $1 Nc6+ 7. Ka3 $1 (7. Ka4 $2 Nxe7 8. f6 Nd5 9. f7 Nb6+ 10. Kb4 Nd7) (7. Kb3 $2 Nxe7 8. f6 Nf5 9. f7 Nd4+ 10. Kc4 Ne6) Nxe7 8. f6 $1 Kc7 9. f7 1-0
+
+[Event "64#32"]
+[Date "1976.05.28"]
+[Round "?"]
+[Composer "Studenetsky, Alexey Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6r1/8/7p/6Pk/6R1/5P1K/8/8 w - - 0 1"]
+
+1. gxh6 $1 Rxg4 2. h7 $1 Rh4+ 3. Kg3 Kg5 4. f4+ $1 Kg6 5. Kxh4 Kxh7 6. Kh5 $1 1-0

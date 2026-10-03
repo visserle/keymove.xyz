@@ -1,0 +1,13 @@
+[Event "1.p Beginner ty Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/10 1958"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Zhitkov, Oleg"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1R6/8/8/7K/N7/4pkP1/3p4/8 w - - 0 1"]
+
+1. Rd8 $1 (1. Nc3 $2 e2 2. Rf8+ Kg2) (1. Rf8+ $2 Kxg3 2. Nc3 d1=Q+ 3. Nxd1 e2 4. Rg8+ Kh2) e2 (Kxg3 2. Nc3 Kf2 3. Rd3) 2. Rd3+ Ke4 3. Nc5+ Kf5 4. Rxd2 (4. Rd5+ $2 Kf6 5. Ne4+ Kf7) e1=Q 5. Rf2+ $1 Qxf2 6. g4+ Ke5 (Kf6 7. Ne4+) (Kf4 7. Nd3+) 7. Nd3+ 1-0

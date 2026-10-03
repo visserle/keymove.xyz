@@ -1,0 +1,95 @@
+[Event "Deutsche Schachblätter#06"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Nikolussi, Herbert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/kp2p1p1/p5Rr/1pp1P2P/1b6/1P4P1/K1N5/8 w - - 0 1"]
+
+1. Rxh6 $1 (1. Nxb4 $2 Rxg6) gxh6 2. Nxb4 cxb4 3. e6 $1 (3. g4 $2 e6 $1 4. g5 Kb6 5. Kb2 Ka5 6. Kc2 Kb6 7. Kd3 Ka5 8. Ke4 Kb6 9. Kd4 Kc6 $1) Kb6 4. g4 Ka5 $1 5. Kb1 $1 (5. g5 $2 hxg5 6. h6 g4) Kb6 6. g5 Ka5 7. Kc2 Kb6 8. Kd3 Ka5 9. Ke4 (9. Kd4 {<or>}) Kb6 10. Kd5 Ka5 11. Kc5 b6+ 12. Kc6 $1 (12. Kd4 $2 hxg5) 1-0
+
+[Event "7.p De Barbieri MT L'Italia Scacchistic"]
+[Source "L'Italia Scacchistica/1 1947"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Nikolussi, Herbert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/4K1p1/p5P1/P7/2Pp1p2/p2P4/Rb6/6n1 w - - 0 1"]
+
+1. c5 $1 Ne2 $1 2. c6 Nc3 3. c7 Nd5+ 4. Kf7 $1 Nxc7 5. Rxa3 Bxa3 1/2-1/2
+
+[Event "L'Italia Scacchistica#070"]
+[Source "L'Italia Scacchistica/4"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Nikolussi, Herbert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p4p2/3PkP2/p1P1B3/1rN3P1/8/1p1K4/8 w - - 0 1"]
+
+1. Nxb2 $1 Kxe5 (Rxg4 2. Nd3 Rc4 3. Bc3) 2. Nd3+ Kxf6 3. Nxb4 axb4 4. c6 Ke6 5. c7 Kd7 6. Kc2 $1 a6 $1 7. Kb2 $1 a5 8. Kb3 $1 Kc8 9. Ka4 Kb7 10. g5 Kc8 11. Kxa5 b3 12. Kb6 b2 13. Kc6 b1=Q 14. d7# 1-0
+
+[Event "L'Italia Scacchistica#083"]
+[Source "L'Italia Scacchistica/7-8"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Nikolussi, Herbert"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/8/8/8/8/p7/P7/5k2 w - - 0 1"]
+
+1. Kb7 $1 Ke2 2. Kc6 Kd2 3. Kd5 Kd3 4. Ke5 Kc3 5. Ke4 Kb2 6. Kd3 Kxa2 7. Kc2 1/2-1/2
+
+[Event "L'Échiquier de France#13"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Nikolussi, Herbert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3k4/p7/P2p2P1/3P1p2/8/7K w - - 0 1"]
+
+1. Kh2 $1 Ke5 2. Kg3 f2 3. Kxf2 Kf4 4. g5 Kxg5 5. Kg3 Kf5 6. Kf3 Ke5 7. Kg4 Ke6 8. Kf4 Kd5 9. Kf5 Kd6 10. Ke4 Kc5 11. Ke5 Kb4 12. Kxd4 Kxa4 13. Kc4 $1 Ka3 14. d4 a4 15. d5 Kb2 16. d6 a3 17. d7 a2 18. d8=Q a1=Q 19. Qd2+ Kb1 20. Kb3 1-0
+
+[Event "Deutsche Schachzeitung#281"]
+[Source "Deutsche Schachzeitung/4"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Nikolussi, Herbert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3k1p1p/5P2/4KP2/7P/8/8 w - - 0 1"]
+
+1. Kf3 $1 (1. h4 $2 h5) (1. Kd4 $2 h5 2. Ke4 Kc6 3. Kf3 Kd5 4. Kg3 Ke4) (1. Ke3 $2 h5 2. Kd4 Kc6 3. Kc4 Kd6) Ke7 (h5 2. Kg3 Kd5 3. Kh4 Ke4 4. Kxh5 Kxf5 5. h4 Kxf4 6. Kg6) (Kd5 2. Kg4 Ke4 3. h4 $1 h5+ (Ke3 4. Kh5 Kxf4 5. Kg6 Ke5 6. h5) 4. Kxh5 Kxf5 5. Kh6 Kxf4 6. h5) 2. Kg4 Kf7 3. Kh5 Kg7 4. h4 $1 Kh7 5. Kg4 Kg7 6. Kf3 Kf7 7. Ke4 Ke7 8. Kd5 Kd7 9. h5 Ke7 10. Kc6 Ke8 11. Kd6 Kf7 12. Kd7 Kf8 13. Ke6 Kg7 14. Ke7 1-0
+
+[Event "Deutsche Schachzeitung#480"]
+[Source "Deutsche Schachzeitung/4"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Nikolussi, Herbert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5K2/p4P2/P5B1/8/1p6/rP6/k7 w - - 0 1"]
+
+1. Kg6 $1 (1. Bc1 $2 Rxb2 2. Bxb2+ Kxb2 3. Ke6 Kc3 $1 4. f7 b2 5. f8=Q b1=Q 6. Qa3+ Kd2 7. Qd6+ Qd3 $1) (1. Ke8 $2 Rxb2 2. f7 Rf2 3. f8=Q Rxf8+ 4. Kxf8 b2 5. Bf6 Ka2 6. Bxb2 Kxb2 7. Ke7 Kc3) (1. Ke6 $2 Rxb2 2. f7 Re2+ 3. Kf5 Rf2+ 4. Kg6 b2) (1. Kg7 $2 Rxb2 2. f7 Rg2 $1 3. f8=Q Rxg5+ 4. Kh6 Rb5 5. Qa3+ Kb1 6. Qd6 b2 7. Qxa6 Rb3 8. Qc4 Ka2 9. Qc2 Ra3) Rxb2 (Kxb2 2. f7 Ka1 3. Bf6+ b2 4. f8=Q Ra4 5. Qe8) 2. f7 Rf2 3. Bf6+ Rxf6+ 4. Kxf6 b2 5. f8=Q b1=Q 6. Qa3+ Qa2 7. Qc1+ $1 Qb1 8. Qxb1+ Kxb1 9. Ke5 Kc2 10. Kd4 $1 (10. Kd5 $2 Kd3) 1-0

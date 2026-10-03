@@ -1,0 +1,699 @@
+[Event "Kansan Uutiset"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3p4/3p2R1/2nK1p2/k7/8/p1PP2Rb/8 w - - 0 1"]
+[PlyCount "12"]
+
+1. Rg8 Na6 2. Ra8 Kb5 3. c4+ $1 Kb6 4. Rxa6+ Kxa6 5. d4 a1=Q 6. Ra2+ Qxa2 $11 1/2-1/2
+
+[Event "Kansan Uutiset"]
+[Source "EG#01098."]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3B4/2PpN3/p4n2/2k5/8/1KP1P2p/8 w - - 0 1"]
+[PlyCount "23"]
+
+1. c7 $1 Ne7 2. c8=Q+ Nxc8 3. Bxc8 h1=Q 4. Ba6+ Kb4 5. c3+ Ka4 6. Nd4 Qd5 7. Bc8 Qf7 8. Be6 d5 $1 9. Nb3 $1 Qb7 10. Bd7+ Qxd7 11. Nc5+ Kb5 12. Nxd7 $18 1-0
+
+[Event "1.p Finland-Sweden match"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3nr3/2B5/8/5b2/8/K2k4/B7/8 w - - 0 1"]
+[PlyCount "14"]
+
+1. Bb1+ Kc3 $1 2. Ba5+ $1 (2. Bxf5 $143 Nc6 3. Ka2 (3. Ka4 $144 Ra8+ 4. Kb5 Nd4+ $19) Nb4+ 4. Ka1 Re1+ 5. Bb1 Kb3 $19) Kc4 3. Bxf5 Nc6 4. Bd7 $1 (4. Bb6 $143 Ra8+ 5. Kb2 Rb8 $19) (4. Bc7 $143 Nd4 5. Bg6 Nb5+ 6. Ka4 Ra8+ 7. Ba5 Nc3+ $19) (4. Bd2 $143 Re2 5. Bc1 Nd4 6. Bd7 Re7 7. Bg4 $1 Ra7+ 8. Kb2 Rb7+ 9. Ka2 Kc3 10. Bd1 Nc2 11. Bxc2 Kxc2 12. Be3 Rb5 13. Ka3 Rb3+ 14. Ka4 Rxe3 $19) Re3+ 5. Ka4 Re2 6. Ka3 $1 Nxa5 7. Bb5+ $1 Kxb5 $11 1/2-1/2
+
+[Event "Kansan Uutiset"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1P6/n1k5/PNP5/2K5/1n6/8/2b5 w - - 0 1"]
+[PlyCount "15"]
+
+1. b8=N+ $1 (1. b8=Q $143 Nxa5+ 2. Kd3 Nxb8 $19) Nxb8 2. Na7+ Kb7 3. c6+ Kxa7 4. c7 Nxa5+ 5. Kb5 Nb7 6. c8=N+ $1 (6. c8=Q $143 Nd6+ $19) Ka8 7. Nb6+ Ka7 8. Nc8+ $11 1/2-1/2
+
+[Event "Kansan Uutiset"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/n4N2/rp6/8/2R1p3/1N2k2K w - - 0 1"]
+[PlyCount "15"]
+
+1. Kg2 Nb3 2. Nd2 $1 Nd4 $1 3. Nxd4 Kd1 (Ra7 $144 4. Ne4 Rg7+ 5. Kf3 Rf7+ 6. Ke3 Kd1 7. Rxe2 $18) 4. Nc4 $1 e1=N+ 5. Kf2 $1 Nxc2 6. Nb3 $1 Ra2 7. Kf1 Ra7 (Nd4 $144 8. Ne3#) 8. Nb2# 1-0
+
+[Event "Kansan Uutiset"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4N3/8/8/5P1k/3b4/6R1/2b5/4K3 w - - 0 1"]
+[PlyCount "21"]
+
+1. f6 Bg6 2. Ng7+ Kh6 3. Ne6 Bxf6 4. Rh3+ Bh5 5. Nf4 Kg5 6. Nxh5 Kg4 7. Rh2 $1 (7. Rh1 $143 Bh4+ 8. Ke2 Kxh5 9. Kf3 Kg5 10. Rh3 Be1 $11) Bh4+ 8. Ke2 Kxh5 9. Kf3 Kg5 10. Rh1 Kh5 11. Kf4 $18 1-0
+
+[Event "Shakkivuosi"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1r2b3/1P6/3P1B2/kp6/4p3/2K5/8/5R2 w - - 0 1"]
+[PlyCount "13"]
+
+1. Bd8+ $3 Ka6 $1 (Rxd8 $144 2. Rf8 b4+ 3. Kb2 $1 Rb8 4. d7 Bxd7 5. Rxb8 Kb6 6. Rd8 $18) 2. Bc7 b4+ $1 3. Kd4 $1 (3. Kc4 $143 Bb5+ 4. Kc5 Bxf1 5. Bxb8 Bb5 $1 $11) (3. Kxb4 $143 Rxb7+ $11) Rxb7 4. Ra1+ (4. d7 $143 Bxd7 5. Ra1+ Ba4 $1 $11) Kb5 5. d7 $1 Bxd7 6. Ra5+ Kc6 7. Rc5# 1-0
+
+[Event "Europe Échecs"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/2b3p1/p4p2/4p1PP/5N2/4PK2/7k w - - 0 1"]
+[PlyCount "35"]
+
+1. h5 (1. Nd4 $143 fxg4 2. Kg3 Bd7 $19) gxh5 (Bd5 $144 2. Nd4 fxg4 3. h6 Bg8 4. Kg3 a4 5. Kxg4 $11) 2. gxh5 f4 $1 3. h6 e3+ 4. Kf1 $1 Be4 5. Ng5 Bc2 6. h7 Bxh7 7. Nxh7 a4 8. Ng5 a3 9. Nf3 a2 10. Ne1 $1 f3 $1 11. Nc2 f2 12. Na1 Kh2 13. Nb3 Kg3 14. Nc1 $1 a1=N $1 (a1=B $144 $11) 15. Nb3 $1 Nc2 16. Nc5 Kf4 17. Nd3+ Kg3 18. Nc5 $11 1/2-1/2
+
+[Event "1.p Houston Chronicle"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/Pkb2b2/8/1B1RP1p1/8/8/2r5/4K3 w - - 0 1"]
+[PlyCount "25"]
+
+1. e6 (1. Rd7 $143 Be8 2. Rxc7+ Kxc7 3. a8=Q Bxb5 $19) (1. a8=Q+ $143 Kxa8 2. e6 Bxe6 3. Rxg5 Ba5+ 4. Kf1 Bh3+ 5. Kg1 Bb6+ 6. Kh1 Bc8 7. Rg8 Ka7 8. Bf1 Bd4 9. Bh3 Rc1+ 10. Kh2 Bxh3 11. Kxh3 Rh1+ $19) Bg3+ (Ba5+ $144 2. Kd1 Bxe6 3. Bc6+ Rxc6 4. Rxa5 Ka8 5. Rxg5 $11) (Rc1+ $144 2. Kf2 Bb6+ 3. Kf3 g4+ 4. Ke2 Bxe6 5. Rd6 Rc2+ 6. Kf1 Kxa7 7. Rxe6 $11) (Bxe6 $1 {Demolition} 2. Rxg5 Kxa7 $19 {EGTB 7 pieces}) 2. Kd1 (2. Kf1 $143 Bxe6 3. Rxg5 Bh3+ $19) Bxe6 3. Rxg5 Bb3 4. Bc4 $3 Rxc4+ (Ba4 $144 5. a8=Q+ Kxa8 6. Ra5+ $11) 5. Ke2 $1 Rc3 6. Kd2 Rf3 7. Ke2 Rc3 8. Kd2 Rf3 9. Ke2 Rf2+ 10. Ke1 $1 Bh4 11. Rb5+ Ka8 12. Rb8+ Kxa7 13. Rb7+ $11 1/2-1/2
+
+[Event "4.c Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1n2k1K1/4pp2/2P2P1P/5P2/2r5/2B5/6P1/8 w - - 0 1"]
+[PlyCount "25"]
+
+1. c7 Nd7 2. c8=Q+ (2. Bd4 $143 Nxf6+ 3. Bxf6 exf6 4. h7 Rg4+ 5. Kh8 Kd7 6. g3 Kxc7 $11) (2. h7 $143 Rg4+ 3. Kh8 Nb6 4. fxe7 f6 5. Bxf6 Nc8 6. Bg7 Kf7 7. Bf6 $11) Rxc8 3. h7 Rxc3 4. h8=Q Rg3+ 5. Kh7+ Nf8+ 6. Kh6 Rxg2 7. fxe7 Rh2+ 8. Kg7 Rxh8 9. exf8=Q+ Rxf8 10. f6 $1 Rh8 11. Kxh8 Kd7 12. Kg8 Ke6 13. Kg7 $18 1-0
+
+[Event "Kivi JT"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4b3/3p4/3nP1kP/7N/8/K7/8/2B5 w - - 0 1"]
+[PlyCount "19"]
+
+1. h7 Nc4+ (Kxh7 $144 2. Nf6+ Kg6 3. Nxe8 Nc4+ 4. Kb4 $1 Ne5 5. Bf4 $1 Nd3+ 6. Kc4 Nxf4 7. exd7 Ne6 8. Kd5 Nd8 9. Kd6 Kf7 10. Kc7 Ke7 11. Ng7 Nf7 12. Nf5+ $18) 2. Kb4 $1 (2. Kb3 $143 Kxh7 3. Nf6+ Kg6 4. Nxe8 Ne5 5. Bf4 Nc6 $1 6. exd7 Kf5 7. Bc7 Ke6 8. d8=Q Nxd8 9. Bxd8 Kd7 $11) Kxh7 3. Nf6+ Kg7 4. Nxe8+ Kf8 5. Nc7 (5. exd7 $143 Ne5 $1 6. Nf6 Ke7 $11) Ne5 (Nb6 $144 6. Kb5 $18) (Nd6 $144 6. Bh6+ $18) 6. Bh6+ (6. Bf4 $143 Nd3+ $11) Ke7 (Kg8 $144 7. Bf4 $1 $18) 7. Bg5+ Kd6 8. e7 Nc6+ 9. Kb5 Nxe7 10. Bf4# 1-0
+
+[Event "Ceskoslovensky Sach"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/4p1R1/N2p4/1b1P4/3P4/5r2/8/3K4 w - - 0 1"]
+[PlyCount "19"]
+
+1. Nc7+ Kd7 (Kf8 $144 2. Ne6+ Ke8 3. Rg8+ Kf7 4. Rf8+ $18) 2. Nxb5 Rb3 3. Na7 Rd3+ 4. Kc2 Rxd4 5. Rg5 e5 6. Rg7+ Ke8 7. Nb5 Rxd5 8. Nc7+ Kf8 9. Ne6+ Ke8 10. Ra7 $18 1-0
+
+[Event "1.p Suomen Shakki"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/8/7P/3N3P/2p5/3pK3/8/8 w - - 0 1"]
+[PlyCount "29"]
+
+1. Ne7 (1. Kf4 $143 d2 2. Nc3 Kh7 3. Kg5 Kg8 4. Kg6 Kh8 5. h7 (5. Nd1 Kg8 6. h7+ Kh8 7. Kg5 Kxh7) d1=Q 6. Nxd1 c3 7. Ne3 c2 8. Nxc2 $11) (1. Nf6 $143 c3 2. h7 (2. Ng4 d2 3. Ke2 Kg8 4. Ne5 Kh7) c2 3. Kd2 Kg7 4. h8=Q+ Kxh8 5. h6 c1=Q+ 6. Kxc1 d2+ 7. Kc2 d1=Q+ 8. Kxd1 $11) Kh7 2. Nf5 Kg8 3. Nd6 (3. Kd2 $143 Kh8 4. Ne3 Kh7 5. Ng4 Kh8 6. Ne5 Kh7 7. Nf7 Kg8 $11) Kh7 (Kh8 $144 4. Nxc4 Kh7 5. Kf4 Kxh6 6. Kg4 $18) 4. Nf7 Kg8 5. Ne5 Kh7 6. Ng4 Kh8 7. Kd2 (7. Nf6 $143 c3 $11) Kh7 (Kg8 $144 8. Nf6+ Kf7 9. h7 Kg7 10. Kc3 Kh8 11. h6 $18) 8. Kc3 Kg8 (Kh8 $144 9. Nf6 $18) 9. Nf6+ Kf7 10. h7 Kg7 11. h8=Q+ (11. h6+ $143 Kh8 $11) Kxh8 12. h6 d2 13. Kxd2 c3+ 14. Kc1 c2 15. Ng4 $18 1-0
+
+[Event "Satakunnen Työm"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7k/2Np1P2/7K/p6p/n2P4/8/8 w - - 0 1"]
+[PlyCount "27"]
+
+1. Nd4 (1. Kxh4 $143 Nc2 2. Na5 d5 3. Kg5 Nd4 $19) h3 2. Nf3 Nc4 $1 (h2 $144 3. Nxh2 Nc4 4. dxc4 a3 5. Nf3 a2 6. Ng5+ $11) 3. dxc4 (3. Ng5+ $143 Kh8 4. dxc4 (4. Kg6 Ne5+) (4. Nxh3 $144 Ne5 $19) h2 5. Kg6 h1=Q $19) h2 4. Nxh2 a3 5. Nf3 a2 6. Ng5+ Kh8 7. Kg6 a1=Q 8. f7 Qg7+ 9. Kf5 (9. Kh5 $143 Qf6 $19) Qe5+ (Qh6 $144 10. Ne6 $11) 10. Kg6 Qe7 11. f8=Q+ Qxf8 12. Nf7+ Kg8 13. Nh6+ Kh8 14. Nf7+ $11 1/2-1/2
+
+[Event "1.p New Statesman {and Nation}"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/K1p1Pp2/8/nr1k4/4n3/7R/N2P4/4bN2 w - - 0 1"]
+[PlyCount "17"]
+
+1. Nc3+ (1. Rh6 $143 Nd6 2. Nc3+ Kc5 3. Nxb5 Nc6+ 4. Ka6 Nxe7 5. Nxd6 cxd6 $11 6. Rh7 Nc6 7. Rxf7 $11) Kd6 2. e8=N+ (2. e8=Q $143 Nc6+ 3. Qxc6+ Kxc6 4. Nxe4 f5 5. Rc3+ Kd5 6. Re3 fxe4 7. Rxe1 Kd4 $11) Ke7 3. Nxb5 Kxe8 4. Ka6 Nc4 5. d3 Nc5+ 6. Ka7 Ne5 (Nb2 $144 7. Re3+ Kd7 8. Rxe1 Ncxd3 9. Re4 $18) 7. d4 Nc6+ 8. Ka8 Ne6 9. d5 $18 1-0
+
+[Event "1/2.p Tidskrift för Schack"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p1r4/4n3/5p1B/5k2/5N1K/8/5R2 w - - 0 1"]
+[PlyCount "17"]
+
+1. Nd4+ Ke5 2. Re1+ Kf6 3. Rxe6+ Kg5 4. Ne2 Kxh5 5. Nf4+ Kg5 6. Kg3 Rg7 7. Rd6 (7. Rb6 $143 Rg8 $11) Rg8 8. Rb6 Rg7 9. Ne6+ $18 1-0
+
+[Event "1.p Tidskrift för Schack"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k2n4/P7/8/4r3/3KR3/5R2/p5n1/8 w - - 0 1"]
+[PlyCount "18"]
+
+1. Rf1 (1. Ra3 $143 Nc6+ 2. Kd3 Nb4+ 3. Rxb4 Re3+ $19) Nc6+ 2. Kd3 Nb4+ (Ra5 $144 3. Ra1 $11) 3. Rxb4 (3. Kd4 $143 Rxe4+ 4. Kxe4 Nc2 5. Rc1 Nge1 $19) Ne1+ 4. Kc4 $1 (4. Kd2 $143 Rd5+ $19) a1=Q (Re4+ $144 5. Kb3 a1=Q 6. Rf8+ Kxa7 7. Ra8+ Kxa8 8. Rb8+ Ka7 9. Ra8+ Kxa8 $11) 5. Rf8+ Kxa7 6. Rf7+ Ka6 7. Rf6+ Ka5 8. Rb5+ $1 Rxb5 9. Ra6+ Kxa6 $11 1/2-1/2
+
+[Event "2.p Stella Polaris"]
+[Source "EG#09373."]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/8/2k5/3p4/8/3P4/2b3B1/3nK3 w - - 0 1"]
+[PlyCount "16"]
+
+1. Bf3 $1 (1. Kd2 $2 $143 Ba4 2. Bf3 Nf2 $1 3. Ke3 Nh3 4. Bg2 (4. Kd4 Nf4 5. Ke3 Ne6 6. Bg4 Kd6 $19) Ng5 5. Kd4 Ne6+ 6. Ke5 Nc7 $19) (1. d4 $2 Ne3 2. Bxd5+ Nxd5) (1. Bf1 $2 Ne3 $19) (1. Ke2 $2 Kc5 2. d4+ Kxd4 3. Bxd5 Kxd5 $19) (1. Be4 $2 Nc3 $19 2. Bxd5+ Nxd5) (1. Bh3 $2 d4 2. Bg2+ Kc5) (1. Bh1 $2 Kc5 2. Bxd5 Kxd5) (1. Kf1 $2 Ne3+ 2. Ke1 Nxg2+ 3. Kd2 Ba4) Nb2 2. Kd2 (2. Be2 $2 Bxd3 $19 3. Bxd3 Nxd3+ 4. Ke2 Ne5) (2. d4 $2 Nc4 3. Bxd5+ Kxd5) (2. Bh5 $2 d4 3. Be8+ Kc5) (2. Bg4 $2 d4 3. Bf3+ Kc5) (2. Bd1 $2 Nxd3+ 3. Ke2 Nf4+) (2. Be4 Nxd3+ 3. Bxd3 Bxd3) (2. Ke2 Bd1+ 3. Kf2 Nxd3+ 4. Ke3 Bxf3 5. Kxf3 Ne5+) (2. Kf2 Bxd3) Ba4 3. Kc3 (3. d4 $2 Nc4+ 4. Kc3 Nd6) (3. Kc1 $2 Nxd3+ 4. Kd2 Bb5) (3. Be2 $2 d4 4. Bf3+ Kd6) (3. Ke1 $2 Nxd3+ 4. Ke2 Nb4) (3. Ke3 $2 Kc5 4. d4+ Kc4) (3. Bg2 $2 Kc5) (3. Bh5 d4 4. Bf3+ Kd6) (3. Bg4 d4 4. Bf3+ Kd6) (3. Ke2 Bd1+ 4. Kf2 Nxd3+ 5. Ke3 Bxf3 6. Kxf3 Ne5+) Nd1+ 4. Kd4 $1 (4. Kd2 $2 Nf2 5. Bxd5+ (5. Ke3 Nh3) Kxd5 $19) (4. Kb4 $2 Bc2 $19 5. Bxd5+ Kxd5) Bb3 5. Bg2 $1 (5. Ke5 $2 Nc3 $19 6. Bxd5+ Nxd5) (5. Be2 $2 Nf2 $19) (5. Bg4 $2 Nf2 $19 6. Bd7+ Kxd7) (5. Bh5 $2 Nf2 6. Be8+ Kd6 $19) (5. Bh1 $2 Nf2 $19 6. Bxd5+ Bxd5) (5. Be4 $2 dxe4 6. dxe4 Kd6) Kd6 (Ba2 (Kd6 $144 6. Bxd5 $11) 6. Bf3 $1 (6. Bh1 $2 Nb2 7. Bxd5+ Bxd5 $19) (6. Ke5 $2 Ne3 7. Bxd5+ Nxd5) (6. Bf1 $2 Nb2) (6. Bh3 $2 Nb2) (6. Be4 $2 dxe4 7. dxe4 Kd6) Nb2 (Nf2 $144 7. Kc3 Bb1 8. Kd4 Ba2 9. Kc3 $11) 7. Bh5 $1 (7. Kc3 $2 Na4+ 8. Kd4 Nc5 $19) (7. Bg2 $2 Na4 $19 8. Bxd5+ Bxd5) (7. Be2 $2 Na4 $19) (7. Bh1 $2 Na4 $19 8. Bxd5+ Bxd5) (7. Bg4 $2 Na4 $19) (7. Ke5 $2 Nxd3+ 8. Kd4 Nb4) (7. Ke3 $2 Kc5 8. d4+ Kc4) (7. Be4 $2 dxe4 8. dxe4 Na4) Kd6 $1 (Na4 $144 8. Be8+ $11) (Kc7 $144 (Na4 8. Be8+) (Kd6 $1 8. Bd1 $1 Nxd1) 8. Bf3 $1 (8. Be8 {<or>}) Kd6 9. Bd1 $1 Nxd1 $11) 8. Bd1 $10 $1 (8. Be8 Nxd3 9. Kxd3 $10 Bb1+ 10. Kc3) (8. Bf7 $2 Na4 $19 9. Bxd5 Bxd5) (8. Bf3 $2 Na4 $19 9. Bxd5 Bxd5) (8. Kc3 $2 Na4+ 9. Kb4 Nc5) (8. Bg6 $2 Na4) (8. Be2 $2 Na4) (8. Bg4 $2 Na4) (8. Ke3 $2 Kc5 9. d4+ Kc4) Nxd1) 6. Bxd5 (6. Bf3 $2 Nf2 $19 7. Bxd5 Bxd5) (6. Bh3 $2 Nf2 $19) (6. Bh1 $2 Nf2 7. Bxd5 Bxd5) (6. Bf1 $2 Nf2) (6. Be4 $2 dxe4 7. dxe4 Bc2) Bxd5 1/2-1/2
+
+[Event "1.p Stella Polaris"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[Composer2 "Hildebrand, Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k2b1/p1p5/BP6/1K6/2p3P1/6n1/8/7n w - - 0 1"]
+[PlyCount "17"]
+
+1. b7 c6+ 2. Kxc6 Bd5+ 3. Kxd5 (3. Kd6 $143 Bxb7 $19) Kc7 4. Bxc4 (4. Kxc4 $143 Nf2 5. g5 Nh3 6. g6 Nf5 7. Kc5 Nf4 $19) Nf2 (Kxb7 $144 5. Ke5 $11) 5. Ke5 (5. g5 $143 Nh3 6. Ke5 Nxg5 7. Kf4 N5e4 $19) Nxg4+ 6. Kf4 Nf5 7. Ba6 Nfe3 (Nge3 $144 8. Ke4 Kb8 9. Kf4 $11) (Nfh6 $144 8. Kg5 Kb8 9. Kh5 $11) (Ngh6 $144 8. Kg5 Kb8 9. Kg6 $11) 8. Kf3 Kb8 9. Kf4 $11 1/2-1/2
+
+[Event "1.p New Statesman {and Nation}"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/4Pp2/N6P/7K/3p4/4r3/4P3/2b5 w - - 0 1"]
+[PlyCount "29"]
+
+1. h7 Kd7 2. Nc5+ Kxe7 3. Kg4 f5+ 4. Kh4 Rxe2 5. Kg3 f4+ (Bf4+ $144 6. Kxf4 Rh2 7. Kxf5 Rxh7 $11 8. Ke4 Rh4+ 9. Ke5 $11) 6. Kh3 Re1 7. Kh2 f3 8. Nd3 (8. h8=Q $143 Bf4+ 9. Kh3 Rh1+ $19) f2 (Bf4+ $144 9. Nxf4 f2 10. h8=Q Rh1+ 11. Kxh1 f1=Q+ 12. Kh2 Qxf4+ $11) 9. Nxf2 Bf4+ 10. Kg2 Be5 11. Nd3 Re2+ 12. Kf1 $1 Rh2 13. Nxe5 Rxh7 14. Nc6+ Kd6 15. Nxd4 $11 1/2-1/2
+
+[Event "4.p Laisaaren JT"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K4k1/5p2/6p1/7N/1pR1P1P1/8/1p3b2/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. Nf6+ (1. Rxb4 $143 gxh5 2. Rxb2 Bg3+ 3. Kc8 h4 4. Rb3 Kg7 5. Kd8 Kg6 6. Ke7 $11) Kg7 2. g5 (2. Ne8+ $143 Kf8 3. Rxb4 Kxe8 4. Rxb2 $11) Bg3+ 3. Kb7 Bd6 4. Rc8 Bf8 5. Rc2 b1=Q 6. Rh2 Bc5 (Qxe4+ $144 7. Nxe4 Be7 $18) 7. Rh7+ Kf8 8. Rh8+ Ke7 9. Re8+ Kd6 10. e5# 1-0
+
+[Event "3.p Laisaaren JT"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2B3Nk/4pp2/8/K7/3p4/b2p1N2/8/8 w - - 0 1"]
+[PlyCount "21"]
+
+1. Nh6 d2 (Bc1 $144 2. Nxf7+ Kg7 3. N3e5 Bf4 4. Kb5 d2 5. Bg4 Kf6 6. Nd3 Bg3 7. Nd8 e5 8. Kc4 $18) 2. Nxd2 Bc1 3. Nxf7+ Kg7 (Kg8 $144 4. Nb3 Bf4 5. Be6 $18) 4. Nb3 Bf4 5. Nd8 (5. Be6 $143 Kf6 6. Bc4 e6 $11) Bc7+ 6. Kb5 $1 Bxd8 7. Nxd4 Kf7 8. Ne6 Ke8 9. Ka6 $1 Bc7 10. Nxc7+ Kd8 11. Kb7 $18 1-0
+
+[Event "1.p Tidskrift för Schack"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7N/2b1KP2/3r4/2k3Pr/8/6B1/8 w - - 0 1"]
+[PlyCount "21"]
+
+1. f7 (1. Bxd5+ $143 Bxd5+ 2. Ke5 Rxh7 $19) Rh6+ 2. Nf6 (2. Ke7 $143 Rxh7 $19) Bd7+ 3. Ke7 Re5+ 4. Kd6 (4. Kxd7 $143 Rxf6 $19) Re6+ (Rxf6+ $144 5. Kxe5 Rxf7 6. Bd5+ $11) 5. Kxd7 Rexf6 6. g5 $3 (6. Ke7 $143 Re6+ 7. Kd7 Rd6+ 8. Ke7 Rhe6+ 9. Kf8 Re5 10. Kg7 Rg5+ 11. Kf8 Re6 12. Bd5+ Rxd5 $19 (Kxd5 $143 $2 $11)) Rxf7+ (Rd6+ $144 7. Kc7 $11) 7. Ke8 Rhh7 (Rf2 $144 8. gxh6 Rxg2 9. Kf7 $11) 8. g6 Re7+ 9. Kf8 Rhg7 10. Bd5+ $1 Kc5 (Kxd5 $144 $11) 11. Bf7 $11 1/2-1/2
+
+[Event "Laisaaren JT {pl}"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4B3/2b2b2/7p/k7/P1r2P2/P7/7K/1R6 w - - 0 1"]
+[PlyCount "18"]
+
+1. Rb5+ Kxa4 (Ka6 $144 2. Bxf7 Rxf4 3. Bh5 $1 Rxa4+ 4. Kg2 Kxb5 5. Be8+ $11) 2. Rb4+ Kxa3 3. Rb3+ $3 Ka2 4. Bxf7 Rxf4 5. Bg8 $1 Rg4+ 6. Kh1 $1 Rxg8 7. Ra3+ Kb2 8. Rb3+ Kc2 9. Rc3+ Kxc3 $11 1/2-1/2
+
+[Event "Oringine inconnue"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/5p2/P4p2/3P4/1r6/2b4k/2B5/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. a7 $1 Rh4 2. Kb7 Rh8 3. Bf5+ Kg3 $1 4. Bc8 Rh1 $1 5. a8=Q Ra1 6. Qb8+ Be5 $1 7. d6 $1 Rb1+ 8. Kc6 Rxb8 9. d7 $18 1-0
+
+[Event "2.hm Suomen Shakki"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "n7/2p3N1/p5B1/5p2/8/1kP5/bP6/3K4 w - - 0 1"]
+[PlyCount "19"]
+
+1. Kc1 $1 c5 $1 (Ka4 $144 2. Be8+ Ka5 3. Bc6 $1 Nb6 4. b4#) (Nb6 $144 2. Bf7+ Nc4 3. Nxf5 Ka4 4. Be8+ $1 c6 (Ka5 $144 5. Kc2 Nd6 6. Nxd6 cxd6 7. b3 $18) 5. Bxc6+ Ka5 6. Bd5 Kb5 (Nd6 7. Bxa2 Nxf5) 7. Nd4+ Kc5 8. Be6 a5 9. b3 $18) 2. Bf7+ c4 3. Ne8 $1 Ka4 (Nb6 $144 4. Nd6 $1 Ka4 5. Be8+ Kb3 6. Nb7 $1 $18) (f4 $144 4. Bh5 Ka4 5. Bf3 Nb6 6. Bc6+ Kb3 7. Be4 Ka4 8. Nd6 Ka5 9. Bc6 Na4 10. b4+ Kb6 11. Bxa4 $18) 4. Bd5 $1 Nb6 5. Bc6+ Kb3 (Ka5 $144 6. Nd6 $1 $18) 6. Bf3 $1 (6. Nd6 $143 Na4 $11) Ka4 7. Nd6 Ka5 (Bb3 $144 8. Bc6+ Ka5 9. Nb7#) 8. Bc6 Na4 9. b4+ $1 cxb3 10. Nc4# 1-0
+
+[Event "1/3.p Suomen Shakki"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2n3pk/8/1N5K/4p1PB/5bPp/7P/8 w - - 0 1"]
+[PlyCount "18"]
+
+1. Nd4 (1. Nxc7 $143 g6+ $19) (1. Na3 $143 g6+ 2. Kg5 Nd5 3. Nc2 Bd1 $19) g6+ 2. Kg5 Kg7 (Nd5 $144 3. Nxf3 exf3 $11) 3. Kf4 Nd5+ 4. Ke5 (4. Kg5 $143 Bd1 5. Ne6+ Kf7 $19) Ne3 5. Kf4 Nf1 (Nxg4 $144 6. Ne6+ Kg8 7. Ng5 Nxh2 8. Nxh3 $11) 6. Nxf3 exf3 7. g5 (7. Kxf3 $143 Nxh2+ 8. Kf2 Nxg4+ 9. Kg1 Kf7 10. Kf1 Ke6 11. Kg1 Kf5 12. Be7 Ne3 13. Bc5 Nc4 14. Ba7 g5 15. Kh2 g4 16. Kg1 Ke4 17. Kf2 Ne3 18. Kg1 Kf3 $19) f2 (Nxh2 $144 8. g4 f2 9. Bxf2 Nxg4 10. Bd4+ Kf7 11. Kg3 h2 12. Kg2 $11) 8. g4 (8. Kf3 $143 Nxh2+ 9. Kxf2 Ng4+ $19) Ng3 (Nxh2 $144 9. Bxf2 Nxg4 10. Bd4+ $11) 9. Kxg3 f1=Q $11 1/2-1/2
+
+[Event "1.hm Szachy"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5r2/2N5/1k6/N7/5p2/7R/4K3 w - - 0 1"]
+[PlyCount "19"]
+
+1. Ne5 f2+ (Rf5 $144 2. Nc3+ Kb4 3. Na2+ (3. Nd5+ $143 Kc5 4. Nf4 Rxe5+ $11) Ka3 4. Nc4+ Kb3 5. Ne3 f2+ 6. Kf1 Rf3 (Re5 $144 7. Nc1+ Kb2 8. Nd3+ $18) 7. Nc1+ Kb2 8. Ke2 Rf6 9. Nd3+ $18) (Re7 $144 2. Nc3+ Kc5 3. Rh5 Kd4 4. Ne2+ $1 fxe2 5. Nc6+ $18) 2. Kf1 Rf5 3. Nc3+ Kb4 4. Nd5+ (4. Na2+ $143 Ka3 $11) Kb5 (Kc5 $144 5. Nf4 $18) 5. Nc7+ Kb6 6. Na8+ Kb7 7. Rh7+ Kxa8 (Ka6 $144 8. Nc4 Rf3 9. Nc7+ $18) 8. Nc6 Rf7 9. Rh8+ Kb7 10. Nd8+ $18 1-0
+
+[Event "1.p Puhakka MT - Suomen Tehtäväniekat"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4r3/p2p4/n7/R2Kn2R/5pkP/3P4/2P5/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. Rg5+ $1 Kxh4 (Kf3 $144 2. Rxe5 Nb4+ 3. Kc4 Rxe5 4. Rxe5 Nxc2 5. h5 Ne3+ 6. Kd4 $18) 2. Rxe5 Nb4+ 3. Ke4 (3. Kd6 $143 Rxe5 4. Rxe5 Nxc2 $11) d5+ $1 (Rxe5+ $144 4. Rxe5 Nxc2 5. Kxf4 Nb4 6. Ke3 $11) 4. Kxf4 Rxe5 5. Ra1 (5. Kxe5 $143 Nc6+ 6. Kxd5 Nxa5 $11) Re3 $1 6. Rxa7 $1 (6. Kxe3 $143 Nxc2+ $11) Re5 $1 7. Ra1 $1 (7. Kxe5 $143 Nc6+ 8. Kxd5 Nxa7 $11) Re3 $1 8. Ra8 $1 $18 1-0
+
+[Event "2nd prize Suomen Tehtavaniekat 1999-200"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/3p4/5K2/1N1RR3/5p2/2p3b1/8/1r1n4 w - - 0 1"]
+[PlyCount "23"]
+
+1. Rc5 d6 2. Nxd6 Rb6 3. Ke6 Rxd6+ 4. Kxd6 f3 5. Rcd5 Ne3 6. Rd3 Bxe5+ 7. Kxe5+ Ke7 8. Rxe3 f2 9. Kf4+ Kf6 10. Rf3 c2 11. Ke3+ Ke5 12. Kd2 $18 1-0
+
+[Event "2nd Hon. Mention Suomen Tehtavaniekat"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7P/8/2q5/1pnp4/1Kp5/R3P1N1/1k6 w - - 0 1"]
+[PlyCount "18"]
+
+1. h8=Q Nd2+ 2. Rxd2 cxd2 (Qd5+ $144 3. Kxb4 cxd2 4. Qh1+ Ka2 5. Qd1 $11) 3. Qh1+ (3. Qh7+ $143 Kc1 4. Qh6 Qc3+ 5. Ka4 Kb2 $19) Qc1 4. Qh7+ Ka1 5. Qa7+ Qa3+ 6. Qxa3+ bxa3 7. Kc2 a2 8. Ne3 dxe3 9. Kd1 Kb2 $11 1/2-1/2
+
+[Event "1st Prize Heiskanen-70 JT"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6pp/kp3br1/P7/K2R4/1PN2p2/6P1/1N6 w - - 0 1"]
+[PlyCount "16"]
+
+1. Rd6 (1. Rd1 $143 fxg2 2. Ne2 Be7 3. b4 Rg4 $19) Bxc3 (fxg2 $144 2. Rxb6+ Ka7 3. Nb5+ Ka8 4. Nc7+ $11) 2. Rxg6 hxg6 (f2 $144 3. Rxb6+ Ka7 4. Nxc3 f1=Q 5. Nb5+ Ka8 6. Nc7+ $11) 3. gxf3 b5+ 4. Ka3 b4+ (Bxa5 $144 5. b4 Bd8 6. Kb3 Kb6 7. Na3 Bg5 8. Kc3 $11) 5. Ka4 (5. Ka2 $143 Kxa5 6. f4 Kb5 7. Nxc3+ bxc3 8. Kb1 Kb4 9. Kc2 g5 10. fxg5 $19) Be1 (g5 $144 6. Nxc3 bxc3 7. Ka3 Kxa5 8. b4+ Kb5 9. Kb3 c2 10. Kxc2 Kxb4 11. Kd3 Kc5 12. Ke4 $11) 6. f4 g5 (Bc3 $144 7. Nxc3 bxc3 8. Ka3 Kxa5 9. b4+ Kb5 10. Kb3 c2 11. Kxc2 Kxb4 12. Kd3 Kc5 13. Ke4 Kd6 14. f5 g5 15. Kf3 Ke5 16. Kg4 Kf6 17. Kh5 Kxf5 $11) 7. fxg5 g6 8. Nd2 Bxd2 $11 1/2-1/2
+
+[Event "1st prize Suomen Shakki "]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K2/6N1/4Pk2/7p/6P1/8/4r2P/8 w - - 0 1"]
+[PlyCount "27"]
+
+1. h4 () Re3 (hxg4 $144 2. Nh5+ Kxe6 (Ke5 $144 3. e7 $18) 3. Nf4+ Kf5 4. Nxe2 Ke4 5. h5 Kf5 6. Kg7 Kg5 7. Ng3 Kh4 8. h6 Kxg3 9. h7 $18) (Re4 2. g5+) 2. g5+ (2. Nxh5+ $143 Kxe6 3. Kg7 (3. Nf4+ $144 Ke5 $11) Re4 4. Nf6 Rf4 5. g5 Rxh4 $11) (2. gxh5 $143 Re4 3. h6 Rxh4 4. e7 Rxh6 $11) (2. e7 $143 hxg4 3. Nh5+ Kg6 4. Nf4+ (4. Ng3 $144 Rf3+ 5. Kg8 Re3 $11) Kf5 5. Ng2 Rxe7 6. Kxe7 g3 7. Kf7 Kg4 8. Kf6 Kh3 9. h5 Kxg2 10. h6 Kf1 11. h7 g2 12. h8=Q g1=Q $11) Kg6 3. e7 Rf3+ (Rxe7 $144 4. Kxe7 $18) 4. Kg8 Rf7 5. Nf5 (5. e8=Q $143 $11 {stalemate}) (5. e8=R $143 Rxg7+ $11) (5. e8=N $143 Rxg7+ 6. Nxg7 $11 {stalemate}) Rg7+ (Rxe7 $144 6. Nxe7# {mate}) 6. Kf8 (6. Nxg7 $143 $2 $11 {stalemate.}) Rf7+ 7. Ke8 Rxf5 8. Kd7 Rf7 9. Ke6 {wins e.g.} Rxe7+ 10. Kxe7 Kg7 11. Ke6 Kg6 12. Kd6 Kh7 13. Kd7 Kg7 14. Ke7 $18 {Judge Jan Rusinek comments: "Beautiful and sharp play from the beginning to the end with some stalemates after 'try' promotions. Especially interesting is a stalemate with a pinned Rook. The first move 1.h4! is most unexpected; it seems that one of the moves 1.Sxh5? or 1.e7? is obligatory".} 1-0
+
+[Event "2.m, Rossi-JT80"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3n3r/4P1N1/3kPq2/8/2P5/6p1/K1p1N3/4B3 w - - 0 1"]
+[PlyCount "25"]
+
+1. e8=N+ Kc5 2. Nxf6 Nxe6 3. Nxe6+ (3. Ne4+ $143 Kxc4 4. Nxe6 Rh1 5. Kb2 (5. Bd2 $144 g2 6. N2f4 Ra1+ 7. Kb2 c1=Q+ 8. Bxc1 Rxc1 9. Nxg2 $11) (5. Bxg3 $144 c1=Q 6. Nxc1 Rxc1 $11 {EGTB 6 pieces}) (5. Nd2+ $144 Kd3 6. N6f4+ Ke3 7. Nc4+ Ke4 8. Bd2 g2 9. Nxg2 Kd3 10. Nc1+ Kxc4 11. Kb2 Rh2 12. Ne3+ Kb5 13. Bc3 Rh3 14. Bd4 Rh4 15. Ba7 Ka6 $11) Rxe1 6. N4xg3 c1=Q+ 7. Nxc1 $11) Kxc4 4. N6f4 (4. Kb2 $143 c1=Q+ 5. Kxc1 Rh1 6. Kd2 Rh6 7. N2f4 Rxf6 8. Bxg3 $11 {EGTB 6 pieces}) Rh1 5. Bd2 g2 6. Nxg2 Kd3 7. Nef4+ Kxd2 8. Ne4+ Kd1 9. Ne3+ Ke1 10. Nxc2+ Kf1 11. Ne3+ Kg1 12. Ne2+ Kh2 13. Ng5 $18 1-0
+
+[Event "1.p Dunder JT"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4bB2/2p3n1/2p5/1P1kP3/p1N5/4K3/4P3/8 w - - 0 1"]
+[PlyCount "25"]
+
+1. b6 cxb6 (Nf5+ $144 2. Kd3 cxb6 3. e4+ Ke6 4. exf5+ Kxf5 5. Nd6+ Ke6 6. Nxe8 Kf7 7. Bc5 (7. Nf6 $144 Kxf8 8. Nd7+ Ke7 9. Nxb6 Ke6 10. Nc4 a3 11. Kc3 $18) bxc5 8. Nd6+ Ke6 9. Nc4 a3 10. Kc3 $18) 2. Nxb6+ Ke6 3. Bxg7 a3 4. Na8 $1 (4. Na4 $143 a2 5. Nc5+ Kf7 $11) Kf7 (a2 $144 5. Nc7+ Kf7 6. Nxe8 Ke6 7. Nc7+ Kf7 8. Bh8 $1 Kg8 9. e6 Kxh8 10. e7 a1=Q 11. e8=Q+ $18) (Bh5 $144 5. Bh8 $1 Kf7 6. e6+ Kxe6 7. Kd3 $18 {White wins on material}) 5. Bh8 $1 Kg8 6. Bf6 Kf7 7. Nc7 a2 (Bd7 $144 8. e6+ Kxf6 (Bxe6 $144 9. Nxe6 $18) 9. exd7 Ke7 10. Ne6 Kxd7 11. Nc5+ Kd6 12. Nb3 Kd5 13. Kd3 $18) 8. Nxe8 Ke6 9. Ng7+ (9. Nc7+ $143 Kf5 $19) Kf7 10. Nh5 Ke6 11. Nf4+ Kf5 (Kf7 $144 12. Bh8 Kg8 13. e6 Kxh8 14. e7 $18) 12. Kf3 $1 a1=Q 13. e4# 1-0
+
+[Event "3.p Tehtavaniekka 2009-2010"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4r3/5R2/5K2/1N3p2/2B5/6p1/n7/1k6 w - - 0 1"]
+[PlyCount "25"]
+
+1. Rb7 Nb4 (g2 $144 2. Nd4+ Kc1 3. Bxa2 Kd2 4. Bd5 g1=N 5. Kxf5 $18 {This 7-men database is not finished but with a Bishop more, very probably they will reveal a Win for White}) 2. Nd4 Kb2 (g2 $144 3. Rxb4+ Kc1 4. Be6 g1=N 5. Kxf5 {See commentary above or eg :} Nh3 6. Rb3 Nf2 7. Kf4 Rh8 8. Bf5 Rh4+ (Nh3+ $144 9. Ke3 Re8+ 10. Be4 Rxe4+ 11. Kxe4 Nf2+ 12. Kf3 Nd1 13. Ke2 Nb2 14. Nb5 Kc2 15. Rc3+ Kb1 16. Kd2 Na4 17. Rb3+ Ka1 18. Kc1 Nc3 19. Rxc3 Ka2 20. Ra3#) 9. Kf3 Kd2 10. Ne2 Ke1 11. Nf4 Kd2 12. Rb2+ Kc3 13. Rxf2 $18) 3. Rxb4+ Kc3 4. Ra4 Kxd4 5. Bb5+ Ke3 6. Ra3+ (6. Bxe8 $143 g2 $11) Kf4 7. Bxe8 g2 8. Ra1 Kg3 9. Bc6 f4 10. Ra3+ f3 11. Rxf3+ Kh4 (Kg4 12. Rf5 $18) 12. Bd7 g1=Q 13. Rh3# 1-0
+
+[Event ".c Schach Echo#603 (tt)"]
+[Source "Schach Echo/6 1967 EG#00674"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli"]
+[Composer2 "Sokka, Hannu"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/6B1/Kp6/1n6/8/8/3n4/1B3b2 w - - 0 1"]
+[PlyCount "23"]
+
+1. Bg6 $1 Nd4+ $1 2. Kxb6 Nc4+ 3. Kc7 Ne6+ 4. Kd7 Nxg7 5. Ke7 Be2 6. Kf6 Nh5+ 7. Kg5 Ng3 8. Kf4 Nf1 9. Be4+ Ka7 10. Bf3 Bd3 11. Be4 Be2 12. Bf3 1/2-1/2
+
+[Event "2.p Breider-60 JT Stella Polaris"]
+[Source "Stella Polaris/3 1968 EG#01107"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/4p3/Pp2pn2/1NP1R3/8/5K2/p7/5n2 w - - 0 1"]
+[PlyCount "37"]
+
+1. Re1 Nd2+ 2. Ke2 $1 Nb1 3. Rh1 Nh5 4. Rd1 Nf4+ 5. Kf3 Nd5 6. Rg1 Nf6 7. Rh1 Nh7 8. Rd1 Ng5+ 9. Ke2 Nf7 10. Rg1 Nh6 11. Rf1 Nf5 12. Rd1 Nd6 13. Rg1 Nc8 14. Rg8 Nc3+ 15. Nxc3 a1=Q 16. Rxc8+ Ka7 17. Nb5+ Kxa6 18. Ra8+ Kxb5 19. Rxa1 $18 1-0
+
+[Event "1.p Baltic States Ty (tt)"]
+[Source "EG#09102"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5N1r/7p/4K3/1R1n4/8/1P3p2/1k3P2/8 w - - 0 1"]
+[PlyCount "27"]
+
+1. Kf7 Nf6 2. Rf5 Ng4 (Ne4 $144 3. Kg7 Rxf8 4. Rxf8 Nxf2 5. Rxf3 $18) 3. Kg7 Rg8+ (Rxf8 $144 4. Rxf8 $18) 4. Kxh7 (4. Kxg8 $143 Nh6+ 5. Kxh7 Nxf5 6. b4 Nd6 $11) Ka3 (Kb1 $144 5. b4 $18) (Kxb3 $144 5. Rxf3+ $18) 5. b4 Ka4 6. b5 Ka5 7. b6+ Kxb6 8. Nd7+ Kc7 9. Ne5 Kd6 10. Nf7+ Ke6 11. Rf4 Re8 12. Ng5+ Kd5 13. Rxg4 Re2 14. Nh3 1-0
+
+[Event "1.p Breider-60 JT Stella Polaris"]
+[Source "Stella Polaris/3 1968"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2b5/2kp1N2/P2b4/PK1p4/1p6/1P1p1p2/3P4/B7 w - - 0 1"]
+[PlyCount "20"]
+
+1. a7 Bb7 2. Nxd6 (2. Bd4 $143 Bc6+ 3. Ka6 Bb7+ 4. Kb5 Bf4 5. Ne5 f2 6. Bxf2 Bxe5 $19) Bc6+ $1 3. Ka6 f2 4. Ne8+ Kd8 5. Nd6 $1 Ba8 6. Bf6+ Kc7 7. Nb5+ Kc6 8. Nd4+ Kc5 (Kd6 $144 9. Nf5+ Kc7 10. Bd8+ $1 Kxd8 11. Ng3 $1 Kc7 12. Kb5 Kd6 13. Kxb4 Ke5 14. Kc3 Kf4 15. Nf1 Ke4 16. b4 d4+ 17. Kb2 Kf3 18. b5 Kg2 19. b6 Kxf1 20. a6 Bd5 21. b7 Ke1 22. a8=Q f1=Q 23. b8=Q Bxa8 24. Qxa8 $11) 9. Be7+ Kxd4 10. Bc5+ Kxc5 $11 {stalemate} 1/2-1/2
+
+[Event "1.hm tt21#3152"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli Kalervo"]
+[Composer2 "Roche, Jean"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3b4/8/8/8/1kP5/1N1P4/4Kp2/4n3 w - - 0 1"]
+[PlyCount "15"]
+
+1. Nd4 (1. Kxf2 $143 $2 Bh4+ $19) Bb6 (Nxd3 $144 2. Nc6+ $11) (Bh4 $144 2. Nf5 $11) 2. Nc6+ Kc5 (Kc3 $144 3. d4 Nd3 4. c5 Bc7 5. Ne5 $11) 3. Kxf2 (3. Ne5 $143 Kd6 4. Ng4 Nxd3 $19) Nc2 4. Ne7 (4. Nb8 $143 Kd6+ 5. Ke2 Nb4 6. Kd2 Ba5 $19) Kd6+ 5. c5+ Bxc5+ 6. d4 Bxd4+ (Nxd4 $144 7. Ng6 $11) 7. Ke2 Kxe7 8. Kd3 $11 1/2-1/2
+
+[Event "Europe Échecs#02"]
+[Source "Chess Life & Review/4 1969 EG#01058. also 1.c Chess Life & Review#0235 1968-1969."]
+[Date "1965.12.05"]
+[Round "?"]
+[Composer "Perkonoja, Pauli Kalervo"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4r3/8/2b5/p2p1p1P/5R2/5N1K/4Pp2/7k w - - 0 1"]
+
+1. Kg3 $1 (1. Rh4 $2 Re4) Re4 2. Rxe4 dxe4 3. Kxf2 f4 (Bd5 4. Nd4 f4 5. e3 f3 6. Nf5) 4. h6 $1 (4. Ng5 $2 e3+ 5. Kf1 Bg2+ $1 6. Ke1 Bd5 7. h6 Bg8) e3+ 5. Kf1 $1 Be4 6. Ng5 Bc2 7. h7 Bxh7 8. Nxh7 a4 9. Ng5 a3 10. Nf3 a2 11. Ne1 $1 f3 $1 (a1=Q) 12. Nc2 f2 13. Na1 Kh2 14. Nb3 Kg3 15. Nc1 $1 a1=N $1 (a1=Q) 16. Nb3 $1 Nc2 17. Nc5 $1 Kf4 18. Nd3+ Kg3 19. Nc5 1/2-1/2
+
+[Event "Stella Polaris#0575"]
+[Source "Stella Polaris/4"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Perkonoja, Pauli Kalervo"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "b7/3p4/KP1k2P1/8/8/b7/4P3/8 w - - 0 1"]
+
+1. g7 $1 Bd5 2. b7 Bc4+ 3. Ka7 Bc5+ 4. Ka8 Ke7 5. b8=Q Bd5+ 6. Qb7 Bxb7+ 7. Kxb7 Kf7 8. Kc7 d6 9. Kd7 Kxg7 10. Ke6 1/2-1/2
+
+[Event "EG"]
+[Source "EG/7 EG#02094."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Roche, Jean"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "R7/P6k/8/8/8/1b6/3r4/5K2 w - - 0 1"]
+
+1. Rh8+ $1 Kxh8 2. a8=Q+ Bg8 (Kh7 3. Qb7+) (Kg7 3. Qf3 $1 (3. Qa5 Bc4+ 4. Ke1 Re2+ 5. Kd1 Kg6 $1) Rd1+ (Bc4+ 4. Kg1 Bd3 (Rc2 5. Qd1 Bb3 6. Qg4+) 5. Qg3+ Kh7 6. Qh4+ Kg6 7. Qe1) 4. Ke2 Rb1 5. Qg4+ Kf6 (Kh6 6. Qh4+) 6. Qf4+ Kg7 7. Qg5+ Kh8 8. Qh6+ Kg8 9. Qg6+) 3. Qc6 Rd1+ (Kh7 4. Qe4+ Kg7 5. Qg4+ Kh8 6. Qh5+ Bh7 7. Qe5+ Kg8 8. Qg5+) 4. Kf2 $1 (4. Ke2 $2 Rg1 $1) (4. Kg2 $2 Bd5+) Rd5 (Bf7 5. Qc8+ (5. Qf3 $2 Rb1 6. Qf5 Rh1 7. Qxf7 Rf1+ 8. Kxf1) Kh7 6. Qh3+) (Kg7 5. Qg2+ Kh8 6. Qh3+ Bh7 7. Qc3+ Kg8 8. Qb3+) (Ba2 5. Qc8+ Bg8 6. Qc3+ Kh7 7. Qc2+) (Bd5 5. Qf6+ Kg8 6. Ke2 Rh1 7. Qg5+) 5. Qh6+ Bh7 6. Qf6+ Kg8 7. Qe6+ 1-0
+
+[Event "2.p Thèmes 64#2962"]
+[Source "Thèmes 64/10-12 EG#03162."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Roche, Jean"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p1p1p1/P1P1P1P1/8/4Pp2/1P1p1P1p/3P1p1k/5K2 w - - 0 1"]
+
+1. a7 $1 Kh1 (Kg3 {<main>} 2. a8=R $1 (2. a8=Q $2 h2 3. Qh8 h1=Q+ 4. Qxh1) h2 3. Rh8) 2. a8=N $1 h2 (Kh2 3. Kxf2 Kh1 4. Nb6 $1 Kh2 5. Nd5 Kh1 6. Nf6 Kh2 7. Ng4+ Kh1 8. Kf1 h2 9. Nf2#) 3. Nb6 cxb6 4. c7 b5 5. c8=N $1 b4 6. Nd6 exd6 7. e7 d5 8. e8=N $1 d4 (dxe4 9. fxe4 f3 10. Nf6 gxf6 11. g7 f5 12. Kxf2 f4 13. Kxf3 Kg1 14. g8=Q+) 9. Nf6 gxf6 10. g7 f5 {<eg>} 11. g8=Q fxe4 12. Qg2# 1-0
+
+[Event "Thèmes 64#3312 (c)"]
+[Source "Thèmes 64/4-6 (c): Garcia=M Estudios Artisticos de Ajedrez - XII-15 2012."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Roche, Jean"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7B/8/6Pk/3r2N1/4N1K1/8/p7/8 w - - 0 1"]
+
+1. g7 $1 Rxg5+ (a1=Q 2. g8=N+ Kg6 3. Ne7+ (3. Bxa1 $2 Rxg5+ 4. Nxg5) Kh6 4. Nf7+ Kh7 5. Bxa1) 2. Nxg5 a1=Q 3. g8=N+ Kg6 4. Ne7+ (4. Bxa1 $2) Kh6 5. Nf5+ Kg6 6. Nh4+ Kh6 7. Nf7+ Kh7 8. Bxa1 1-0
+
+[Event "1.hm Phénix#0516"]
+[Source "Phénix/12 1989 EG#10074."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Roche, Jean"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3B4/8/6P1/2r5/4P1k1/8/1p5K/4N3 w - - 0 1"]
+
+1. g7 $1 Rh5+ (b1=Q 2. g8=Q+ Kf4 3. Qf8+) 2. Kg2 $1 Rg5 $1 3. Bxg5 b1=Q 4. g8=Q Qxe4+ 5. Kh2 Qg6 $1 (Qe5+ 6. Bf4+ Kxf4 7. Nd3+) 6. Qd5 (6. Qxg6 $2) Qh5+ 7. Kg1 $1 Qxg5 8. Qf3+ Kh4+ 9. Ng2+ 1-0

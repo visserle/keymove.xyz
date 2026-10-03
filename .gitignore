@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+dist/
+build/
+.astro/
+.wrangler/
+.env
+.dev.vars
+.dev.vars.*
+!.dev.vars.example
+data/answers.sql
+data/sources
+public/_headers
+worker-configuration.d.ts

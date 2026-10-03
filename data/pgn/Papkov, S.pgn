@@ -1,0 +1,12 @@
+[Event "64#505"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Papkov, S"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2K5/p3p3/k3p3/p7/P3P3/1p1P1P2/8/4N3 w - - 0 1"]
+
+1. d4 $1 b2 2. Nd3 b1=Q 3. Nc5+ Kb6 4. Nd7+ Kc6 5. Ne5+ Kd6 6. Nf7+ Kc6 7. Ne5+ 1/2-1/2

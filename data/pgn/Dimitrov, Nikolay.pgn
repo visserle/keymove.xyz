@@ -1,0 +1,13 @@
+[Event "Shakhmatna Misl#028"]
+[Source "Shakhmatna Misl/4"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Dimitrov, Nikolay"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1R6/2k5/1n6/r2p4/1Kp5/2P5/8 w - - 0 1"]
+
+1. Rxb5 $1 d3 $1 2. Kxa4 (2. Rh5 $2 d2 3. Rh1 Rh4 4. Rg1 Rh3 5. Kc4 Re3 6. Kd4 Re1 $1) dxc2 3. Rb3 c1=Q 4. Rxc3+ Qxc3 1/2-1/2

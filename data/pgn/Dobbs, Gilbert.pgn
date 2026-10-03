@@ -1,0 +1,13 @@
+[Event "Xadrez Brasiliero (pl)"]
+[Source "Xadrez Brasiliero/8 = Kashdan=I Horowitz=I f8b2 1927."]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Dobbs, Gilbert"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K2/R7/8/4p3/8/p5p1/1k4P1/8 w - - 0 1"]
+
+1. Ke7 $1 a2 2. Kd6 e4 3. Kc5 e3 4. Kb4 e2 5. Re7 a1=Q 6. Rxe2+ Kb1 7. Re1+ Kb2 8. Rxa1 Kxa1 {<eg>} 9. Kc3 1-0

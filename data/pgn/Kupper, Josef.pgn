@@ -1,0 +1,150 @@
+[Event "Schweizerische Schachzeitung#792 (c)"]
+[Source "Schweizerische Schachzeitung/5-6 (c): Kupper=J Schweizerische Schachzeitung=12 12/1949."]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Kupper, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/1p4k1/1P2Pp2/5K1p/4P2P/8/8 w - - 0 1"]
+
+1. e4 $1 fxe4 2. Kxe4 Kg5 3. e6 $1 (3. Kd5 $2 Kf4) fxe6 4. Ke5 Kg6 5. Kxe6 Kg5 6. Ke5 $1 Kg6 7. Kf4 Kh5 8. Kf5 Kh6 9. Kg4 1-0
+
+[Event "Schweizerische Schachzeitung#813"]
+[Source "Schweizerische Schachzeitung/1"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Kupper, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K1k5/2P2p2/3P1p2/2p4r/2p4N/2Pp2P1/3P2P1/8 w - - 0 1"]
+
+1. Ka7 $1 Rd5 2. Nf5 $1 Rxf5 3. Kb6 Re5 4. Kc6 Re6 5. g4 f5 6. gxf5 Rf6 $1 (Rh6 7. g4 Rf6 8. g5) 7. g3 $1 (7. g4 $2 Rh6 8. g5 Rf6 $1 9. gxf6) Rh6 8. g4 Rf6 9. g5 Rxf5 10. d7# 1-0
+
+[Event "Schweizerische Schachzeitung#827"]
+[Source "Schweizerische Schachzeitung/9-10"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Kupper, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5n2/2kp2N1/K2R4/4P3/4P3/2p5/8 w - - 0 1"]
+
+1. Rd4 $1 c1=Q (Kc5 {<main>} 2. Nf4 $1 Ne5 3. Ne2 Nc6+ 4. Ka4 (4. Ka6 {<or>}) Nxd4 5. exd4+) 2. Rc4+ Qxc4 3. Ne5+ Kc5 (Nxe5) (dxe5) 4. Nd7+ $1 (4. Nxc4 $2 Kxc4) Kc6 5. Ne5+ Nxe5 (dxe5) 1/2-1/2
+
+[Event "Schweizerische Schachzeitung#833"]
+[Source "Schweizerische Schachzeitung/1"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Kupper, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "n5b1/4KNPk/p7/P4q2/2Q3p1/8/8/8 w - - 0 1"]
+
+1. Kf8 $1 Bxf7 (Qg6 2. Ng5+) (Nc7 2. Qxc7 g3 3. Qc4 $1) 2. Qe4 $1 (2. Qxf7 $2 Qc5+ 3. Ke8 Nc7+ 4. Kd8 Qd5+ 5. Qxd5 Nxd5) Qxe4 3. g8=Q+ Kh6 (Bxg8) 4. Qg7+ Kh5 5. Qh8+ $1 Kg5 6. Qf6+ $1 Kh5 (Kxf6) 7. Qh8+ 1/2-1/2
+
+[Event "7.hm Centurini MT L'Italia Scacchistica"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Kupper, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/2B5/5p1k/7P/pp4P1/P2P2KN/8 w - - 0 1"]
+
+1. Ng4 $1 fxg4 (bxa2 2. Ne3 a1=Q 3. Be8+ Kh6 4. Nxf5#) (b2 2. Be8+ Kxg4 3. Bb5 f4 4. Bd7+ Kh5 5. Bf5 fxg3 6. Kxg3 h6 7. Kf4) 2. Bd5 b2 3. Be4 b1=Q (h6 4. Bd5 Kg6 5. h5+ Kf5 6. Bf7 b1=Q 7. Bg6+) 4. Bxb1 h6 5. d3 1-0
+
+[Event "Schweizerische Schachzeitung#874b (tw)"]
+[Source "Schweizerische Schachzeitung/10"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Kupper, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K6/6pp/8/8/4p3/4P3/P1P5/6k1 w - - 0 1"]
+
+1. c4 $1 h5 2. c5 h4 3. c6 h3 4. c7 h2 5. c8=Q h1=Q 6. Qc1+ Kg2 7. Qxh1+ Kxh1 8. a4 g5 9. a5 g4 10. a6 g3 11. a7 g2 12. a8=Q g1=Q 13. Qxe4+ Kh2 14. Qh4+ Kg2 15. Qg4+ 1-0
+
+[Event "Schweizerische Schachzeitung#875 (c)"]
+[Source "Schweizerische Schachzeitung/10"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Kupper, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2p5/2P4P/1p6/pR1K4/1p1P4/1k6 w - - 0 1"]
+
+1. h6 $1 a2 (Kc1 2. h7 a2 3. Rxb2 a1=Q 4. h8=Q Qa6+ (Qxb2 5. Qh1#) (Qa3+ 5. Ke2 (5. Kc4 $2 Qa6+ 6. Kd4 Kxb2 $1)) 5. Ke3 $1 Qa3+ (Qc4 6. Qe5) 6. Ke2 Qxb2 7. Qh1+ Kc2 8. Qd1#) 2. Rxb2+ $1 (2. h7 $2 a1=Q 3. h8=Q Ka2 4. Qg8 Qf1+ 5. Ke4 b1=Q+ 6. Rxb1+ Kxb1 7. Qb3+ Kc1 8. Qxb4 Qf7 9. Ke3 Qd5 10. Qd4 Qg5+ 11. Ke4 Qg6+ 12. Kf3 Qh5+ 13. Kf4 Qh6+ 14. Kf5 Qh5+ 15. Ke6 Qe8+ 16. Kd6 Qd8+ $1 17. Ke5 Qh8+ 18. Ke4 Qh7+ 19. Ke3 Qh3+) Kxb2 3. h7 a1=Q 4. h8=B+ $1 (4. h8=Q+ $2 Kb3 $1 5. Qxa1) Ka2 5. Bxa1 Kxa1 6. Kc4 Kb2 7. Kxb4 Kc2 8. d4 1-0
+
+[Event "Schweizerische Schachzeitung#874a (tw)"]
+[Source "Schweizerische Schachzeitung/10"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Kupper, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1K4pp/8/8/4p3/4P3/P1P5/6k1 w - - 0 1"]
+
+1. a4 $1 h5 2. a5 h4 3. a6 h3 4. a7 h2 5. a8=Q h1=Q 6. Qa1+ Kg2 7. Qxh1+ Kxh1 8. c4 g5 9. c5 g4 10. c6 g3 11. c7 g2 12. c8=Q g1=Q 13. Qh3+ Qh2 14. Qxh2+ Kxh2 15. Kc6 1-0
+
+[Event "Basler Nachrichten"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Kupper, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7B/4k3/8/1Kp5/4p3/1P3p2/1P1p4/3N4 w - - 0 1"]
+
+1. Bf6+ $1 (1. Bc3 $2 f2 $1 2. Nxf2 e3 3. Nd1 e2) Kxf6 2. Kc4 $1 Ke5 (e3 3. Nxe3 f2 4. Ng4+ Kg5 5. Nxf2) 3. Kc3 f2 4. Nxf2 e3 5. Nd1 Ke4 6. Kc2 e2 7. Kxd2 exd1=Q+ 8. Kxd1 Kd3 9. Kc1 Ke3 10. Kc2 Kd4 11. Kd2 Ke4 12. Kc3 Kd5 13. Kd3 (13. b4 {<or>}) Kd6 14. Kc4 Kc6 15. b4 cxb4 16. Kxb4 Kb6 17. b3 $1 1-0
+
+[Event "Schweizerische Schachzeitung#880"]
+[Source "Schweizerische Schachzeitung/12"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Kupper, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1b6/7P/2P5/1p6/1Pp5/1bP5/1K1k4 w - - 0 1"]
+
+1. c6 $1 (1. h7 $2 Be4 2. h8=Q Bxc2+ 3. Ka2 Bb1+ 4. Kxb1 c2+ 5. Kxb2 c1=Q+ 6. Ka2 Qc2+ 7. Qb2 Qxc5) Bxc6 (Ba6 2. h7 $1 (2. c7 $2 Bd3 3. c8=Q Bxc2+ 4. Ka2 Kc1 $1) Bd3 3. h8=Q Bxc2+ 4. Ka2 Bb1+ 5. Kxb1 c2+ 6. Kxb2 $1 c1=Q+ 7. Ka2 Qc2+ 8. Qb2 Qxc6 9. Qd4+) 2. h7 Be4 3. h8=Q Bxc2+ 4. Ka2 Bb1+ $1 5. Kxb1 c2+ 6. Ka2 $1 Bxh8 1/2-1/2
+
+[Event "Schweizerische Schachzeitung#919"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Kupper, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6nk/4p1p1/4PpP1/5p1K/5p1P/5P2/1P6/8 w - - 0 1"]
+
+1. b4 $1 (1. b3 $2 Nh6 2. b4 Ng4 $1 (Ng8 $2 3. b5 Nh6 4. b6 Ng8 5. b7 Nh6 6. b8=Q+) 3. b5 (3. fxg4 f3 4. b5 f2 5. b6 f1=Q 6. b7 Qb5) Nf2 4. b6 Nh1 5. b7 Ng3#) Nh6 2. b5 Ng8 (Ng4 3. fxg4 (3. b6 $2 Ne5 $1 4. b7 Nc6)) 3. b6 Nh6 4. b7 Ng8 5. b8=B $1 (5. b8=Q $2) (5. b8=N $2 Nh6 6. Nc6 Ng4 $1 (Ng8 $2 7. Nb4 $1 Nh6 8. Nd5 Ng8 9. Nxf4 $1 Nh6 10. Nd5 Ng8 11. f4 $1 Nh6 12. Nxe7) 7. Nxe7 Ne3 $1 8. Ng8 Nd5) Nh6 {<eg>} 6. Bd6 Ng4 (Ng8 7. Bxf4) 7. Bxe7 (7. fxg4 $2 f3 8. Bc5 f4 $1) Ne3 8. Bd6 $1 Nd5 9. e7 1-0

@@ -1,0 +1,12 @@
+[Event "New Statesman {and Nation}"]
+[Date "1957.02.02"]
+[Round "?"]
+[Composer "Fisher, George S."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7b/3N1p1k/8/6P1/8/8/K7/B7 w - - 0 1"]
+
+1. Nf8+ $1 Kg8 2. Bxh8 Kxh8 3. Ng6+ fxg6 4. Kb3 Kg7 5. Kc4 Kf7 6. Kd5 Ke7 7. Ke5 1-0

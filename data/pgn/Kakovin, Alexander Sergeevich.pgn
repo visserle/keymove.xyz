@@ -1,0 +1,763 @@
+[Event "Shakhmaty v SSSR#180"]
+[Source "Shakhmaty v SSSR/10"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1R6/kp6/p7/1p6/N7/P7/1K1b4/8 w - - 0 1"]
+
+1. Rd8 $1 Ba5 $1 (Bg5 2. Rd5 Bf6+ 3. Nc3) 2. Rd5 $1 bxa4 $1 3. Rxa5 b5 $1 4. Kc3 Kb7 $1 5. Kd4 $1 (5. Kb4 $2 Kb6) Kb6 6. Kd5 $1 Kxa5 (Kb7 7. Kc5 Ka7 8. Kc6) 7. Kc5 $1 b4 8. axb4# 1-0
+
+[Event "1.hm All-Union Fizkultura i Sport Commi"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7B/5p2/8/6Pp/3p1ppk/6p1/6P1/b6K w - - 0 1"]
+
+1. g6 $1 (1. Bf6 $2 d3 $1 2. Bxa1 d2) fxg6 (d3 2. Bxa1 fxg6 3. Bf6+ g5 4. Bc3 f3 5. Kg1 f2+ 6. Kf1 d2 7. Bxd2) 2. Bf6+ g5 3. Bxd4 $1 f3 (Bxd4) 4. Bxa1 f2 5. Bd4 f1=Q+ 6. Bg1 Qf2 (Qa1) 7. Bxf2 (7. Bh2 $2 Qxg2+ $1 8. Kxg2 gxh2 9. Kxh2 g3+) gxf2 8. g3+ Kh3 (Kxg3) 1/2-1/2
+
+[Event "Shakhmaty v SSSR#201"]
+[Source "Shakhmaty v SSSR/3"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2b5/8/8/4p1p1/2B1PpP1/p4P1k/5P1p/7K w - - 0 1"]
+
+1. Bf1+ $1 Kh4 2. Bc4 Ba6 3. Bxa6 a2 4. Kxh2 a1=Q 5. Bf1 Qd1 (Qxf1) 6. Kg2 (6. Bg2 $2 Qe1) 1/2-1/2
+
+[Event "Shakhmaty v SSSR#01"]
+[Source "Shakhmaty v SSSR/1"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/k1P5/P7/3P4/8/8/8/B2r4 w - - 0 1"]
+
+1. Kd7 $1 Rxd5+ 2. Kc6 $1 (2. Ke6 $2 Rc5 $1 3. Bd4 Ka8 $1 4. Bxc5) Rd2 3. Bd4+ (3. Kb5 $2 Rc2 $1 4. Bd4+ Ka8 5. Bc5 Rb2+ 6. Kc6 Rb8 $1) Rxd4 4. Kb5 Rd8 $1 5. cxd8=N $1 (5. cxd8=Q $2) 1-0
+
+[Event "Shakhmaty v SSSR#25"]
+[Source "Shakhmaty v SSSR/10"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1bk1B3/1R4P1/1K6/1p6/8/1p6/p7/3q4 w - - 0 1"]
+
+1. Bd7+ $1 Qxd7 2. Rxb8+ Kxb8 3. g8=Q+ Qc8 4. Qg3+ Ka8 5. Qf3+ Kb8 6. Qf4+ Ka8 7. Qe4+ Kb8 8. Qe5+ Ka8 9. Qd5+ Kb8 10. Qd6+ Ka8 11. Qa3+ Kb8 12. Qa7# 1-0
+
+[Event ".c Kubbel MT Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/1 1954"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/2n2BPk/4P2r/6K1/7P/8/b7 w - - 0 1"]
+
+1. g7 $1 Nxe5+ 2. Bxe5 Rg5+ 3. Kh4 Bxe5 4. g8=N+ Kg6 5. Ne7+ Kf6 6. Nd5+ Kf5 7. Ne7+ Kf4 8. Nd5+ 1/2-1/2
+
+[Event "3.hm Fizkultura i Sport Committee Ukrai"]
+[Source "(c): Krug=P Garcia=M Estudios Artisticos de Ajedrez - XVI-58 2015."]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4b3/4p3/1K6/8/5P2/2B5/5kN1/8 w - - 0 1"]
+
+1. Ne1 $1 Bg6 (Ke3 2. Be5 Bg6 3. Ng2+) 2. Kc5 Ke3 3. Ng2+ Kf2 4. Nh4 Bh7 5. Be5 Kg3 6. Ng6 Bxg6 7. f5+ Kg4 8. fxg6 1-0
+
+[Event "Trud"]
+[Date "1959.06.28"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k2N3R/8/8/K3B1r1/8/8/6p1/8 w - - 0 1"]
+
+1. Ka6 $1 Rg8 2. Rxg8 g1=Q 3. Ne6+ Qxg8 4. Nc7+ Kb8 5. Nd5+ Ka8 (Kc8 6. Ne7+ Kd7 7. Nxg8) 6. Nb6# 1-0
+
+[Event "L'Italia Scacchistica#3006"]
+[Source "L'Italia Scacchistica/3"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5R2/8/8/5n2/Pkr5/8/KP6/3b4 w - - 0 1"]
+
+1. Rb8+ $1 (1. Rxf5 $2 Bb3+ 2. Kb1 Bc2+) Ka5 (Kxa4 2. b3+ Bxb3+ 3. Rxb3) 2. Rb5+ Kxa4 3. Rxf5 Bb3+ 4. Kb1 Bc2+ 5. Ka1 Bxf5 6. b3+ Kxb3 1/2-1/2
+
+[Event "3.hm L'Italia Scacchistica#3196"]
+[Source "L'Italia Scacchistica/4"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/8/k3pp2/1pK5/6p1/1N6/BB6 w - - 0 1"]
+
+1. Kc5 $1 g2 2. Nc4+ Ka4 (Ka6 3. Bd4 $1 exd4 4. Bxf5 Kb7 5. Be4+) 3. Bd4 $1 exd4 4. Bc2+ b3 5. Bxf5 g1=Q 6. Bd7# 1-0
+
+[Event "Shakhmaty v SSSR#25 (c)"]
+[Source "Shakhmaty v SSSR/7 (c): Garcia=M Krug=P Estudios Artisticos de Ajedrez - XIII-36 2014."]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7n/p6R/k7/p5Rp/P4p2/2q4p/7P/7K w - - 0 1"]
+
+1. Rh6+ $1 Kb7 2. Rh7+ (2. Rg7+ $2 Nf7 (Qxg7 $2 3. Rb6+ Ka8 4. Rb8+ Kxb8) 3. Rxf7+ Kc8 4. Rh8+ Qxh8 5. Rg7 Qd8 6. Rg8 a6 7. Rxd8+ Kxd8) Nf7 (Kb6 3. Rb5+ Kc6 4. Rc7+ Kxc7 5. Rc5+ Qxc5) 3. Rxf7+ Kc6 4. Rc7+ Kxc7 5. Rc5+ Qxc5 1/2-1/2
+
+[Event "Smena"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "rn1K2R1/7p/3k4/5B1p/8/7P/8/8 w - - 0 1"]
+
+1. Ke8 $1 Nc6+ 2. Kf7 Rxg8 3. Kxg8 Ne7+ 4. Kxh7 Nxf5 5. Kg6 Ng3 6. Kg5 Ke5 7. Kh4 Kf4 1/2-1/2
+
+[Event "Shakhmaty v SSSR#04"]
+[Source "Shakhmaty v SSSR/1"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4k1B1/8/4p3/4P3/1pR3p1/1P1p4/1K6 w - - 0 1"]
+
+1. Bf8+ $1 Kxf8 2. Rf3+ Ke7 3. Rf1 g2 4. Rd1 $1 Kf6 5. Rg1 $1 Ke6 6. Rd1 Ke7 7. Ka1 $1 Ke6 8. Kb1 1/2-1/2
+
+[Event "Sinfonie Scacchistiche#0486 (c)"]
+[Source "Sinfonie Scacchistiche/7-9 (c): Krug=P Estudios Artisticos de Ajedrez - XV-50 2015."]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4p3/2p4p/p5nk/2P2B2/2Pp1PPN/6K1 w - - 0 1"]
+
+1. Nf1 $1 d1=Q (a3 2. Nxd2 a2 3. Nb3 Kg5 4. Be2) 2. Bxd1 Nxf2 (a3 3. Nd2) 3. Kxf2 a3 4. Nd2 c4 5. Ne4 a2 6. Kg1 a1=Q 7. Kh2 Qxd1 8. g3+ Kg4 9. Nf2+ Kf3 10. Nxd1 1-0
+
+[Event "Magyar Sakkélet#0735"]
+[Source "Magyar Sakkélet/2"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1q6/pk6/Rp6/bK6/8/8/4R3/8 w - - 0 1"]
+
+1. Re7+ $1 Ka8 2. Raxa7+ Qxa7 3. Re8+ Qb8 (Kb7 4. Re7+) 4. Ka6 $1 Qxe8 1/2-1/2
+
+[Event ".c Shakhmatna Misl#32"]
+[Source "Shakhmatna Misl/4 1971 EG#08458."]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/P6k/4K2p/p6P/3N1p2/r3P3/6p1/8 w - - 0 1"]
+
+1. Nf3 $1 Rxe3+ 2. Kf7 Rxf3 3. a8=Q g1=Q 4. Qe4+ Kh8 5. Qe5+ Kh7 6. Qf5+ Kh8 7. Qf6+ Kh7 8. Qg6+ Qxg6+ 9. hxg6+ Kh8 10. g7+ Kh7 11. g8=Q# 1-0
+
+[Event "Szachy#828"]
+[Source "Szachy/7"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3qN2B/8/8/2n5/R4P1k/6r1/1R6/4K3 w - - 0 1"]
+
+1. Bf6+ $1 (1. Rh2+ $2 Kg4 2. Nf6+ Kf5) Qxf6 2. Rh2+ Rh3 3. Rxh3+ Kxh3 4. Ra3+ Nd3+ 5. Rxd3+ Kh4 6. Rh3+ $1 (6. Nxf6 $2) Kxh3 7. Nxf6 1-0
+
+[Event "Problem#270 (c)"]
+[Source "Problem/12"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1n6/1N6/7n/p2p4/Pk1P3p/pP3p1p/P2P2pK/8 w - - 0 1"]
+
+1. Nc5 $1 Ng4+ 2. Kxh3 Ne5 3. Kh2 g1=Q+ 4. Kxg1 h3 5. Kf1 h2 6. Nd3+ Nxd3 1/2-1/2
+
+[Event "source unknown"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/3N4/8/1N1p4/4p3/4k2K w - - 0 1"]
+
+1. Kg1 $1 Kd1 2. Ne3+ Ke1 3. Kg2 d2 4. Nd4 1-0
+
+[Event "Problem#256"]
+[Source "Problem/8"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1kN5/1pq5/P7/2P5/8/3p1p2/5R2/6K1 w - - 0 1"]
+
+1. a7+ $1 Ka8 2. Nb6+ Qxb6 (Kxa7 3. Ra2+) 3. cxb6 d2 4. Rf1 (4. Rxd2 $2 f2+ 5. Kh2 f1=N+) f2+ 5. Kh2 d1=Q 6. Rxd1 1-0
+
+[Event "Ukrain ty"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3p2pp/8/4P3/4P2P/4K2p/7k w - - 0 1"]
+
+1. Kf2 $1 g5 2. e5 dxe5 3. e4 h5 4. h4 g4 5. Kg3 Kg1 1/2-1/2
+
+[Event "Patriot Batkivchini"]
+[Source "EG#02022."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k1K5/8/8/1PB3R1/8/1n6/3q4/8 w - - 0 1"]
+
+1. b6 $1 Nxc5 2. Rxc5 Qd5 3. Ra5+ (3. Rxd5 $2) Qxa5 4. b7+ Ka7 5. b8=Q+ Ka6 6. Qb7# 1-0
+
+[Event "3.c Problem#291 (c)"]
+[Source "Problem/11 (c): Garcia=M Krug=P Estudios Artisticos de Ajedrez - XIII-36 2014."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7n/kPP5/1N6/K7/8/2rn4/8 w - - 0 1"]
+
+1. b7 $1 Ra2+ 2. Kb4 Rb2+ 3. Ka4 Rxb5 4. c7 Nf6 5. b8=N+ (5. b8=Q $2 Ra5+ 6. Kb4 Nd5#) Kb6 6. c8=N+ Kc5 7. Na6+ Kc4 8. Nd6+ 1/2-1/2
+
+[Event "3.c Chervoni Girnik"]
+[Source "EG#02278."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k2b2/2P5/2N3P1/4K3/8/8/5p2/8 w - - 0 1"]
+
+1. Ne7+ $1 Bxe7 2. g7 Bf6+ 3. Kxf6 f1=Q+ 4. Ke7 Qc4 5. Kf8 Qc5+ 6. Ke8 Qe5+ 7. Kf8 Qf6+ 8. Ke8 Qxg7 1/2-1/2
+
+[Event "Buletin Problemistic"]
+[Source "Buletin Problemistic/10-12"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1n6/pPkp4/1p2P3/1P6/8/1K6/8/5b2 w - - 0 1"]
+
+1. e7 $1 Bc4+ 2. Kxc4 d5+ 3. Kxd5 Kd7 4. e8=Q+ $1 Kxe8 5. Ke6 Kd8 6. Kd6 Nd7 7. Kc6 1/2-1/2
+
+[Event "Deutsche Schachzeitung#938"]
+[Source "Deutsche Schachzeitung/9"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[Composer2 "Motor, Anatoly Tijonovich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3k4/2n5/p7/P2B4/p2K4/6B1 w - - 0 1"]
+
+1. Bd4 $1 Nb3+ 2. Kc2 Nxd4+ 3. Kb2 Nb3 4. Kxa2 Nc1+ 5. Kb2 Nxd3+ 6. Kc3 Nc5 7. Kb4 Kd5 (Kc6 8. Ka5 $1 (8. Kc4 $2 Nd7 9. Kb4 Nb6)) 8. Kb5 Kd4 9. Kb4 Kd3 10. Kxc5 Kc3 11. Kd5 Kb3 12. Kd4 Kxa3 13. Kc3 1/2-1/2
+
+[Event "Szachy#0114"]
+[Source "Szachy/7"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1Pk5/p3P3/4K1n1/4n3/8/8/8 w - - 0 1"]
+
+1. e7 $1 (1. b8=Q+ $2 Kxb8 2. e7 Nf7+ 3. Kxe4 Nd6+ 4. Kd5 Kc7) Nf7+ 2. Kxe4 Nd6+ 3. Kd5 Ne8 4. b8=Q+ Kxb8 5. Kc6 Ka7 (Nc7 6. Kb6 Kc8 7. e8=Q+ Nxe8 8. Kxa6) 6. Kd7 Ng7 7. Kc6 $1 Ne8 8. Kd7 1/2-1/2
+
+[Event "Novi Temi#304"]
+[Source "Novi Temi/7-9"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3K4/8/8/P2p4/8/3Pk3/7b/8 w - - 0 1"]
+
+1. a6 $1 Bb8 2. Kc8 Ba7 3. Kb7 Bc5 4. Kc6 Kd4 5. Kb5 Ba7 6. Kc6 Bc5 7. Kb5 1/2-1/2
+
+[Event "Sachové Umenie#3603"]
+[Source "Sachové Umenie/7 also Buletin Problemistic#175 Buletin Problemistic=35 Buletin Problemistic/7-12 1981."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2k5/1bP5/2p5/K1P5/2P5/8/8 w - - 0 1"]
+
+1. Kb5 $1 Ba7 2. Ka6 Bb8 (Kb8 3. c7+) 3. Kb5 Kd6 4. Kb6 Bc7+ 5. Kb7 (5. Kb5 $2 Bd8 $1) Bd8 (Ba5 6. Ka6 Bd8 (Bxc3 7. Kb6) 7. Kb7 Bc7 8. Kc8 Kxc6) 6. Kc8 Ba5 7. Kb7 Bc7 8. Kc8 Kxc6 1/2-1/2
+
+[Event "Sachové Umenie#3640"]
+[Source "Sachové Umenie/8 also Buletin Problemistic#161 Buletin Problemistic=32 Buletin Problemistic/10-12 1978."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/8/1P1P4/p7/4P2r/P7/4K2b/8 w - - 0 1"]
+
+1. d7 $1 Rxe4+ 2. Kd3 Rd4+ 3. Kxd4 Bg1+ 4. Kd5 Bxb6 5. Kc6 Bd8 6. Kb7 Kf7 7. Kc8 Ke7 (Bg5 8. d8=Q Bxd8 9. Kxd8 Ke6 10. Kc7) 8. a4 Bb6 9. Kb7 Bd8 10. Kc8 1/2-1/2
+
+[Event ".c Buletin Problemistic#029"]
+[Source "Buletin Problemistic/7-9 EG#02542."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7Q/5pP1/8/1b5P/8/1k2r3/8/K5N1 w - - 0 1"]
+
+1. Ne2 $1 (1. Nf3 $2 Rxf3 2. Qh7 Bd3 $1) (1. Qh7 $2 Bd3) Rxe2 (Bxe2 2. g8=Q) (Rh3 2. g8=Q Rh1+ 3. Ng1) 2. Qh7 Re1+ 3. Qb1+ Rxb1+ 4. Kxb1 Bd3+ 5. Kc1 $1 Bh7 6. Kd2 Kc4 7. Ke3 Kd5 8. Kf4 Ke6 9. Kg5 Ke5 10. Kh6 Bg8 11. Kg5 Ke4 12. Kh6 $1 (12. Kf6 $2 Kf4 13. Ke7 f5 $1 14. Kf8 Bh7 $1 15. g8=Q Bxg8 16. Kxg8 Kg5) Ke5 (Kf5) 13. Kg5 1/2-1/2
+
+[Event "Shakhmaty v SSSR#05"]
+[Source "Shakhmaty v SSSR/2"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7b/1P4kP/8/8/7r/KP6/8 w - - 0 1"]
+
+1. b7 $1 Bg8+ 2. b3 $1 Rxb3 $1 3. h7 $1 Kxh7 (Bd5 4. Ka1 $1 Kxh7 5. b8=Q Rxb8) 4. Ka1 $1 Ra3+ 5. Kb2 (5. Kb1 $2 Ba2+ $1) Rb3+ 6. Ka1 Rxb7 1/2-1/2
+
+[Event "Szachy#0051"]
+[Source "Szachy/4"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/p7/2K2P2/2P5/2P3n1/8/8/8 w - - 0 1"]
+
+1. f7 $1 (1. Kb5 $2 Nxf6 2. Ka6 Kb8 3. c6 Ne4) Ne5+ 2. Kb5 Nxf7 3. Ka6 Kb8 4. c6 Nd6 5. c7+ Ka8 6. c5 Nc8 7. c6 Ne7 (Nd6 8. Ka5) 8. Kb5 1/2-1/2
+
+[Event ".p Biuletyn"]
+[Source "EG#02874."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/1p6/1P2PP2/8/K7/bp2n3/8/1r6 w - - 0 1"]
+
+1. e7 $1 (1. Kxa3 $2 Nc2+ 2. Ka4 Ra1+ 3. Kxb3 Nd4+) Bxe7 2. fxe7 Ra1+ 3. Kxb3 (3. Kb5 $2 Ra5+ 4. Kxa5 Nc4+) Ra3+ (Rb1+ 4. Ka2 Rb2+ 5. Ka1) 4. Kxa3 Nc4+ 5. Kb4 Nd6 6. Kc5 Ne8 7. Kd5 Ng7 8. Ke5 (8. Kd6 $2 Kc8) Kc8 9. Kd6 Ne8+ 10. Ke6 Ng7+ 11. Kd6 1/2-1/2
+
+[Event "EG"]
+[Source "EG/10 EG#02214."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/r4k2/3PpP1K/3P4/4B3/8/8/3b4 w - - 0 1"]
+
+1. d7 $1 Rxd7 (Ra8 2. dxe6+) 2. dxe6+ Kxe6 3. Bf5+ Kxf5 4. f7 Rd8 5. Kg7 Rd7 6. Kh6 Rd6+ 7. Kg7 Rd7 8. Kh6 Rxf7 1/2-1/2
+
+[Event "EG"]
+[Source "EG/10 EG#02216."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/2k5/3p3P/3P1P2/4K3/8/3b4 w - - 0 1"]
+
+1. h6 $1 (1. f5 $2 Bxh5 2. Kf4 Kd6 3. Kg5 Be8 4. Kf6 Bd7 5. Kg6 Ke7) Bc2 2. f5 (2. Kf3 $2 Bf5) Bxf5 3. Kf4 Bh7 4. Ke5 Be4 5. Ke6 Bh7 6. Ke5 Bg8 7. Kf6 1/2-1/2
+
+[Event "EG"]
+[Source "EG/10 EG#02217."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/4p3/3PrP2/8/3PN3/8/n3K3/8 w - - 0 1"]
+
+1. f7+ $1 (1. d7+ $2 Kxd7 2. f7 Rxe4+ 3. Kf3 Re1 4. Kf2 Re6 5. f8=N+ (5. f8=Q Rf6+) Kd6) Kxf7 2. d7 Rxe4+ 3. Kd3 Nb4+ 4. Kxe4 Nc6 5. d5 Nd8 6. Kf5 Kg7 7. Kg5 Kh7 8. Kf5 (8. Kh5 $2 Nf7 9. Kg4 Kg6 10. Kf4 Kf6 11. Ke4 Nd8 12. Kf4 (12. Kd4 Kf5) Nb7 13. Ke4 Nc5+) Kg7 9. Kg5 Nb7 10. Kf5 1/2-1/2
+
+[Event "EG"]
+[Source "EG/10 EG#02218."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/3p4/2P5/5P2/8/7b/8/2k4r w - - 0 1"]
+
+1. c7 $1 Bg2+ 2. Kb8 Rh8+ 3. c8=Q+ Rxc8+ 4. Kxc8 d5 (d6 5. Kc7 d5 6. f6) 5. f6 Bh3+ 6. Kd8 Be6 7. Ke7 Bg8 8. Kf8 Be6 9. Ke7 1/2-1/2
+
+[Event "Problemas {SEPA}"]
+[Source "Problemas (SEPA /4-6"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3P4/8/b4k2/5Pp1/8/4KP2/8 w - - 0 1"]
+
+1. f3 $1 g3 2. Kf1 Kxf4 3. Kg2 Bb6 4. Kh3 Kxf3 5. d8=Q Bxd8 1/2-1/2
+
+[Event "EG"]
+[Source "EG/7 EG#02331."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1B3N2/6p1/7k/2b5/6P1/p3p3/8/6K1 w - - 0 1"]
+
+1. Bf4+ $1 (1. Kf1 $2 Bxf8) g5 2. Bxg5+ Kxg5 3. Ne6+ Kxg4 4. Nxc5 a2 5. Nb3 Kf3 6. Kf1 e2+ 7. Ke1 Ke3 8. Nc1 a1=Q 1/2-1/2
+
+[Event "EG"]
+[Source "EG/7 EG#02329. also Thèmes 64#3527 Thèmes 64=95 Thèmes 64/7-9 1979."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1bK4n/5k1p/3P3P/8/8/n7/8/8 w - - 0 1"]
+
+1. d7 $1 Bc7 2. Kxc7 Nb5+ 3. Kc8 Nd6+ 4. Kc7 Ne8+ 5. Kc8 Nd6+ 6. Kc7 Nb7 7. Kxb7 Ke7 8. Kc7 $1 (8. Kc8 $2 Nf7 9. Kc7 Nd8 10. Kc8 Ne6) Nf7 9. Kc8 Nd8 (Kf6 10. d8=Q+ Nxd8 11. Kxd8 Kg6 12. Ke7 Kxh6 13. Kf6) 10. Kc7 1/2-1/2
+
+[Event "Nardone MT Sinfonie Scacchistiche#1983"]
+[Source "Sinfonie Scacchistiche/7-9"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5R2/8/8/8/pKp3B1/p7/3P2p1/k7 w - - 0 1"]
+
+1. Bh3 $1 (1. Be2 $2 Kb2 2. Rg8 a2) g1=Q (Kb2 2. Bxg2 a2 3. Rf1) 2. Rf1+ Qxf1 3. Bxf1 c3 4. dxc3 (4. Kxc3 $2 a2 5. Bd3 a3) Kb2 5. Bc4 Kc2 6. Ba2 Kb2 7. Bb1 1-0
+
+[Event "Problemas {SEPA}"]
+[Source "Problemas (SEPA /7-9"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/pP1P4/k7/P1K5/1r6/7b/8 w - - 0 1"]
+
+1. d7 $1 Rb4+ 2. Kd3 $1 (2. Kc5 $2 Bg1+) (2. Kc3 $2 Be5+) (2. Kd5 $2 Rb1) Rd4+ $1 3. Kxd4 Bg1+ 4. Kd5 Bxb6 5. Kc6 Bd8 6. Kb7 Bh4 7. Ka7 Bf2+ $1 8. Kb7 Bb6 9. Kc6 Bd8 10. Kb7 1/2-1/2
+
+[Event "Problem#315"]
+[Source "Problem/6"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/6P1/6PK/7p/2P2p2/rp3P2/5Bbq/1B6 w - - 0 1"]
+
+1. Be4 $1 Ra5 2. c5 Rxc5 3. Bxc5 Bxf3 4. Bxf3 Qd2 5. Bd4 $1 Qa5 6. Bc5 Qd8 7. Bd6 Qa5 8. Bc5 Qd2 9. Bd4 Qxd4 10. Bd5+ Qxd5 1/2-1/2
+
+[Event "Problem#328"]
+[Source "Problem/9"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p3p3/P1N1P3/PpK5/kP1P4/p7/P4P1Q/4B3 w - b6 0 1"]
+
+1. axb6 $1 axb6+ 2. Kd5 b5 3. Qd6 exd6 4. Ne5 1-0
+
+[Event ".c Rokada"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Budkov, N."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/p7/BN6/p3K3/8/p7/8/8 w - - 0 1"]
+
+1. Nd7+ $1 Kc7 2. Nc5 Kb6 3. Kd6 a2 4. Na4+ Kxa6 5. Kc6 a1=Q 6. Nc5# 1-0
+
+[Event "Buletin Problemistic#146"]
+[Source "Buletin Problemistic/10-12"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2r5/kpP5/2B1K3/1P6/8/8/8/8 w - - 0 1"]
+
+1. Kd7 $1 b6 2. Ba8 (2. Kxc8 $2) Rxa8 3. c8=Q Rxc8 4. Kxc8 Ka8 5. Kc7 Ka7 6. Kc6 1-0
+
+[Event "Schakend Nederland#1722"]
+[Source "Schakend Nederland/1 1980"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/pp3B2/k7/P1P5/1P6/2p1n3/K7 w - - 0 1"]
+
+1. Bg5 $1 (1. Bb2 $2 Kb4 $1 2. Ka2 c1=Q) c1=Q+ (Kb4 2. Kb2 c1=Q+ 3. Bxc1 Nxc1 4. Kxc1 Kxb3 5. a5) 2. Bxc1 Nxc1 3. Kb2 Nd3+ 4. Ka3 Nb4 5. Kb2 Nc6 6. Ka3 1/2-1/2
+
+[Event "L'Italia Scacchistica#287"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2r5/5P2/P1P2k1K/7R/8/8/8/3b4 w - - 0 1"]
+
+1. Rf5+ $1 Kxf5 2. Kg7 Rc7 3. a7 Rxa7 4. c7 Rxc7 5. Kh6 $1 Rc8 (Rxf7) 6. Kg7 Rc7 7. Kh6 Rxf7 1/2-1/2
+
+[Event "Shakhmaty (Riga)#43 (c)"]
+[Source "Shakhmaty (Riga)/8 (c): Garcia=M Krug=P Estudios Artisticos de Ajedrez - XIII-38 2014."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/p7/7B/p2b3K/Pp2n3/3p1Bkp/Q7 w - - 0 1"]
+
+1. Qh1+ $1 Kxh1 (Kxf2 2. Qxh2+ Ng2+ 3. Kh3) 2. Bf3+ Ng2+ 3. Kg3 Bxf2+ (Be5+ 4. Kh3) 4. Kxf2 d1=N+ 5. Bxd1 Ne1 6. Bg4 (6. Be2 $2 b2 7. Bc4 c6 $1) b2 7. Bf5 b1=Q 8. Bxb1 Nf3 9. Be4 c6 10. Bxf3# 1-0
+
+[Event "The Problemist#0280"]
+[Source "The Problemist/9"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/2p2P2/3p2KP/3P3p/8/5n2/8/8 w - - 0 1"]
+
+1. h7 $1 Ne5+ 2. Kxh5 Nxf7 3. Kg6 Nh8+ 4. Kf6 Nf7 5. Kg6 Ke7 6. Kg7 1/2-1/2
+
+[Event "Buletin Problemistic#204"]
+[Source "Buletin Problemistic/1-6"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k5/2Pb4/4p3/2K2P2/8/5P2/8/2n5 w - - 0 1"]
+
+1. f6 $1 Nd3+ 2. Kd6 Nf4 3. f7 (3. Ke5 $2 Ng6+ 4. Kd6 e5 $1) Ng6 4. f4 Nf8 5. Ke7 Nh7 6. Kd6 1-0
+
+[Event "Buletin Problemistic#211"]
+[Source "Buletin Problemistic/7-12"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1b6/2pK1Pp1/6P1/6k1/2P5/8 w - - 0 1"]
+
+1. f6 $1 Bd8 2. f7 Be7 3. Ke6 Bf8 4. Kf5 Kh4 5. c4 Bd6 6. Ke6 Bf8 7. Kf5 Bh6 8. Kg6 Bf8 9. Kf5 1/2-1/2
+
+[Event "The Problemist#0359"]
+[Source "The Problemist/1"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/8/2P1k3/7p/2b5/8/7P/8 w - - 0 1"]
+
+1. c7 $1 (1. Kb8 $2 Kf5 2. c7 Be6) Ba6 2. Ka7 Bc8 3. Kb8 Kd7 (Bd7 4. c8=Q Bxc8 5. Kxc8 Kf5 6. Kd7 Kg4 7. Ke6 Kh3 8. Kf5 Kxh2 9. Kg5) 4. h4 Ba6 5. Ka7 Bc8 6. Kb8 1/2-1/2
+
+[Event "The Problemist#0368"]
+[Source "The Problemist/5"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Kakovin, Alexander Sergeevich"]
+[White "Kakovin, A"]
+[Black " Motor, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k5n1/1p6/p1P5/Kp6/8/8/1P6/8 w - - 0 1"]
+
+1. c7 $1 Ne7 2. b4 Nc6+ 3. Kb6 Ne7 4. Ka5 Ka7 5. c8=N+ Nxc8 1/2-1/2

@@ -1,0 +1,27 @@
+[Event "Magyar Sakkélet#0047 (c)"]
+[Source "Magyar Sakkélet/7 (c): Garcia=M Estudios Artisticos de Ajedrez - X-49 2012."]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Szentmártoni, László"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/B1p1p3/8/2P3Rp/p3p1pP/K7/3p4/2k5 w - - 0 1"]
+
+1. c6 $1 d1=Q 2. Rc5+ (2. Be3+ $2 Kc2 3. Rc5+ Kd3 4. Rd5+ Kxe3 5. Rxd1 g3) Kb1 3. Rb5+ Ka1 4. Bd4+ Qxd4 5. Rb1+ Kxb1 1/2-1/2
+
+[Event "3.hm OTSB Magyar Sakkélet"]
+[Source "Magyar Sakkélet/12"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Szentmártoni, László"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K2n4/B6p/4P2P/1r6/8/8/8/7k w - - 0 1"]
+
+1. e7 $1 Ne6 2. Bb8 (2. Bb6 $2 Re5 $1) Rg5 (Ra5+ 3. Kb7 Rb5+ 4. Kc8 Rd5 5. e8=Q Rd8+ 6. Qxd8 Nxd8 7. Kxd8) 3. e8=Q Nc7+ 4. Bxc7 Rg8 5. Qb8 (5. Qxg8 $2) Rxb8+ 6. Kxb8 (6. Bxb8 $2 Kg2 7. Kb7 Kh3 (Kf3 {<or>}) 8. Kc6 Kg4 9. Kd5 Kg5) Kg2 7. Kc8 1-0

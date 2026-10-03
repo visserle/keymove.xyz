@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1915.??.??"]
+[Round "?"]
+[Composer "Keidanski, Theodore Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/5r2/8/PP6/2K1k3/8/8/8 w - - 0 1"]
+
+1. b6 (1. a6 $2 Rc7+ 2. Kb4 Kd5 3. b6 Kc6 4. bxc7 $10 (4. Ka5 $4 Rd7 $19)) (1. Kc5 $2 Re7 2. a6 $10) (1. Kb4 $4 Kd5) (1. Kb3 Kd4) Rf1 2. a6 (2. b7 $2 Rc1+ 3. Kb5 Kd5 4. Kb6 Rb1+ 5. Kc7 Rc1+ 6. Kd7 Rb1 7. a6 Rb6 $10) (2. Kb5 $4 Kd5 $19 3. Kb4 Rb1+) (2. Kc5 $2 Ra1 3. b7) (2. Kb4 $4 Kd4 3. Kb5 Kd5) (2. Kb3 Rb1+ 3. Kc4 Rc1+) (2. Kc3 Kd5) Rc1+ 3. Kb4 (3. Kb5 $2 Kd5 4. a7 Rb1+ 5. Ka6 Ra1+ 6. Kb7 Kc5 $10) (3. Kb3 $2 Rb1+ 4. Ka4 $10) Rb1+ 4. Kc5 (4. Ka5 $2 Ra1+ 5. Kb5 $10) (4. Ka4 $2 Ra1+ 5. Kb5) Rc1+ 5. Kd6 (5. Kb5 $2 Rb1+ $4 (Kd5 $5 6. a7 $10) 6. Kc6 $18) (5. Kb4 Rb1+ 6. Kc5 Rc1+ $18) Ra1 6. a7 (6. b7 $2 Rxa6+ 7. Kd7) (6. Kc7 $2 Rxa6 7. b7) (6. Kc6 Rxa6 7. Kc5) Kd4 7. Ke6 (7. b7 $2 Ra6+ $1 8. Kc7 Rxa7 $10) (7. Kc6 Kc4 8. b7 Ra6+ $10) (7. Kc7 $2 Kc5 8. a8=Q $10) (7. Kd7 $2 Kc5 8. a8=Q $10) (7. Ke7 $4 Kc5 8. Ke6 Kxb6) (7. a8=Q $2 Rxa8 8. b7) Ke4 8. Kd7 (8. Kf6 Rf1+ 9. Ke7 $18) (8. b7 $2 Ra6+ 9. Kd7 $10) (8. Kd6 Kd4 9. Ke6 Ke4 $18) (8. a8=Q+ $2 Rxa8 9. Kd6) (8. Kf7 $4 Kd5 9. Ke7 Re1+ 10. Kd8) (8. Ke7 $2 Kd5 9. a8=Q+) Kd5 9. Kc8 (9. Kc7 $2 Kc5 10. a8=Q $10) (9. Ke7 $4 Kc5 $19 10. Ke6 Kxb6) (9. Kd8 $4 Kc6 10. a8=B+ Rxa8+ 11. Ke7 Ra5) (9. Ke8 $4 Kc6 10. a8=Q+ Rxa8+ 11. Ke7 Ra5) (9. a8=Q+ $2 Rxa8 10. b7) (9. b7 $2 Rxa7 10. Kc7) Kc6 10. b7 (10. Kb8 $2 Kxb6 11. a8=Q $10) Rh1 11. b8=N+ $18 (11. Kd8 $4 Kxb7 12. a8=Q+ Kxa8 $19) 1-0

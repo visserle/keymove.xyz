@@ -1,0 +1,53 @@
+[Event "Tidskrift for Schack#1292b (tw) (ea)"]
+[Source "Mihajloski=Z Miloseski=B Popovski=A Tidskrift for Schack/12 ."]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Mihajloski, Zlatko"]
+[White "Mihajloski, Z"]
+[Black " Miloseski, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5BNq/8/1p6/1p1pp3/1P1k4/P2P1P1P/3K4/8 w - - 0 1"]
+
+1. Bh6 $1 e4 2. Bg5 $1 e3+ 3. Ke2 Ke5 4. Bf6+ Qxf6 5. Nxf6 1-0
+
+[Event "Schach Echo#497"]
+[Date "1965.04.23"]
+[Round "?"]
+[Composer "Mihajloski, Zlatko"]
+[White "Mihajloski, Z"]
+[Black " Miloseski, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2B3q1/pp6/2p5/k1P5/2P4N/KP5P/8 w - - 0 1"]
+
+1. Nf4 $1 Qxc7 2. b3+ Ka5 3. Ka3 b5 (Qd6 4. Nd5 Qf8 5. b4+) 4. b4+ Kb6 5. Nd5+ Kb7 6. Nxc7 Kxc7 7. bxc5 1-0
+
+[Event "1.hm Olympic ty (tw)"]
+[Source "EG#02209b."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Mihajloski, Zlatko"]
+[White "Mihajloski, Z"]
+[Black " Miloseski, B."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/K7/1Pk5/pp1R4/1p6/8/8 w - - 0 1"]
+
+1. Rd1 $1 b2 2. b6 a3 3. b7 a2 4. b8=Q a1=Q+ 5. Kb7 Qxd1 6. Qc7+ Kb5 (Kd4 7. Qd6+) 7. Qc6+ Ka5 8. Qa6# 1-0
+
+[Event "2.p Mat {Yugoslavia} (v)"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Mihajloski, Zlatko"]
+[White "Mihajloski, Z"]
+[Black " Miloseski, B."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1Bk5/K1P5/p2p4/4p3/4P3/1P2PN2/2p5/8 w - - 0 1"]
+
+1. Nd2 $1 (1. Nh4 $2 c1=Q 2. Nf5 Qc5+) c1=Q 2. Nc4 $1 (2. Kxa6 $2 Qc2 $1 3. Nc4 Qa2+) Qxc4 (Qc3 3. Nb6#) 3. bxc4 a5 4. Ka8 $1 (4. c5 $2 dxc5 5. Ka8 c4 $1 6. Ba7 c3 7. Bc5 Kxc7 8. Ka7 Kc6 9. Ba3 Kb5) (4. Ka6 $2 a4) a4 $1 5. c5 $1 (5. Ba7 $2 a3 6. c5 a2 $1 7. cxd6 a1=Q 8. d7+ Kxc7 $1 (Kxd7 $2 9. c8=Q+ Kxc8)) dxc5 (a3 6. cxd6 a2 7. d7+ Kxd7 8. Kb7 a1=Q 9. c8=Q+) (d5 6. exd5 a3 7. d6 a2 8. d7+) 6. Ba7 a3 (c4 7. Bc5 Kxc7 8. Ba3 Kb6 9. Bb2 Kb5 10. Kb7 Kb4 11. Bxe5 c3 (a3 12. Bd6+ Kb3 13. Bxa3 Kxa3 14. e5) 12. Bxc3+ Kxc3 13. e5) 7. Bxc5 a2 8. Ba7 $1 a1=Q 1/2-1/2

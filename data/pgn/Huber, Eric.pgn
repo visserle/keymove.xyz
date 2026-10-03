@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Huber, Eric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/8/8/5Q2/5K2/8/q3k3/4B3 w - - 0 1"]
+
+1. Qh5+ (1. Qg4+ $2 Kf1 2. Qh3+ $10) (1. Qe4+ $2 Kd1 2. Qf3+ $10) (1. Qb5+ $2 Kxe1 2. Qc5 $10) (1. Bc3 $2 Qa7 2. Bd2) (1. Bf2 Qb2 2. Be1) (1. Kg5 Qa1 2. Bd2) (1. Qc5 Qa4+ 2. Bb4) (1. Qc2+ Qxc2) Kd3 2. Qg6+ (2. Qf5+ Ke2 $18 3. Qh5+) (2. Qf3+ $2 Kd4 3. Qe4+ $10) (2. Qb5+ $2 Qc4+ 3. Qxc4+ Kxc4 4. Bd2 $10) (2. Qd1+ $2 Kc4 3. Bd2 $10) (2. Bc3 Qc2 3. Bd2) (2. Qe8 Qg2 3. Bd2) (2. Kf3 Qe2+ 3. Kf4 Qxh5) (2. Qf7 Qxf7+ 3. Ke5 Qe7+) Kd4 3. Qg7+ (3. Qb6+ Kd5 4. Qb7+ $18) (3. Qg1+ Qf2+ 4. Qxf2+ Kc4 5. Ba5) (3. Qd6+ $2 Qd5 4. Bc3+ $10) (3. Qe4+ $2 Kc5 4. Qe7+ $10) (3. Bf2+ $2 Qxf2+ 4. Kg4 $10) (3. Qg5 Qc2 4. Bd2) (3. Qf5 Qe2 4. Bd2) (3. Qg8 Qxg8 4. Bf2+ Kd3) Kc5 4. Qc7+ (4. Qf8+ $2 Kb5 5. Bd2 $10) (4. Qe7+ $2 Kc6 5. Bd2 $10) (4. Qe5+ $2 Kb6 5. Bd2) (4. Qc3+ $2 Qc4+ 5. Qxc4+ Kxc4 6. Kg5 $10) (4. Bf2+ $2 Qxf2+ 5. Ke4) (4. Qg5+ $2 Qd5 5. Bd2) (4. Qa7+ $2 Qxa7 5. Bf2+) (4. Qf7 Qxf7+ 5. Ke3 Qe6+) Kb5 (Kd4 5. Qe5+ (5. Qg7+ Kc5 $18 6. Qc7+) (5. Qb6+ Kd5 6. Qb7+ $18) (5. Qb7 Qc2 6. Bd2) (5. Qc4+ Qxc4 6. Bf2+ Kd5+) Kd3 6. Qe4# $1 (6. Qe3+ $4 Kc2 7. Bd2) (6. Qc3+ $6 Ke2 7. Qf3+) (6. Qb5+ $4 Qc4+ 7. Qxc4+ Kxc4 8. Kg5 $10) (6. Qf5+ Ke2 7. Qh5+ $18) (6. Qd6+ $4 Ke2 7. Qe5+) (6. Kf3 $4 Qa8+ 7. Kg3) (6. Qe2+ Qxe2)) 5. Qb7+ (5. Qd7+ $4 Kb6 6. Bd2) (5. Qe5+ $4 Kb6 6. Bd2) (5. Qb8+ $4 Kc6 6. Bd2) (5. Qc3 Qe2 6. Bd2) (5. Bb4 Qh2+ 6. Ke4 Qxc7) (5. Qa5+ Qxa5 6. Bxa5 Kxa5 7. Ke4) (5. Ke4 Qb1+ 6. Kf4) Kc5 6. Bb4+ (6. Qc7+ $18 Kb5 7. Qb7+) (6. Qb4+ $4 Kc6 7. Bd2) (6. Bf2+ $4 Qxf2+ 7. Qf3) (6. Qe7+ $4 Kb6 7. Bd2) (6. Qc8+ $4 Kd4 7. Qc3+) (6. Qa7+ $4 Qxa7 7. Bf2+) (6. Bh4 Qd2+ 7. Kg4) Kd4 (Kc4 7. Qf7+ $1 $18 (7. Qg7 Qc2 8. Qb7)) 7. Qe4# (7. Qd7+ $4 Qd5 8. Bc3+) (7. Qb6+ $6 Kd3 8. Qg6+) (7. Qh7 $4 Qf2+ 8. Kg4) (7. Qc6 $4 Qf2+ 8. Qf3) (7. Qg7+ $6 Kc4 8. Qf7+) (7. Bc5+ $4 Kd3 8. Bd4) (7. Bc3+ $4 Kd3 8. Bd2) (7. Bd6 Qc2 8. Be5+) (7. Qa7+ Qxa7) 1-0

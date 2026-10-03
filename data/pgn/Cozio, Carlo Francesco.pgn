@@ -1,0 +1,221 @@
+[Event "Il Giuoco degli Scacchi#175 (cr)"]
+[Date "1763.??.??"]
+[Round "?"]
+[Composer "Cozio, Carlo Francesco"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5P2/4n3/4P2p/p5pP/1k2B1P1/1p6/1K6 w - - 0 1"]
+
+1. Bd4 $1 a3 2. Bxb2 axb2 3. f8=Q Nxf8 4. e6 Ng6 (Nxe6) 5. e7 Nxe7 1/2-1/2
+
+[Event "Il Giuoco degli Scacchi#158"]
+[Date "1766.??.??"]
+[Round "?"]
+[Composer "Cozio, Carlo Francesco"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/p1k5/P1q5/K7/1R6 w - - 0 1"]
+
+1. Rc1 $1 Qxc1 (Kd3 2. Rxc3+ Kxc3) 1/2-1/2
+
+[Event "Il Giuoco degli Scacchi#142 (cr)"]
+[Date "1766.??.??"]
+[Round "?"]
+[Composer "Cozio, Carlo Francesco"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5R2/8/7r/8/6k1/6p1/7p/7K w - - 0 1"]
+
+1. Rg8+ $1 Kh3 2. Rxg3+ Kxg3 1/2-1/2
+
+[Event "Il Giuoco degli Scacchi#084 (cr)"]
+[Date "1766.??.??"]
+[Round "?"]
+[Composer "Cozio, Carlo Francesco"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5P2/8/6K1/4k3/8/p6B/1b6 w - - 0 1"]
+
+1. Be5 $1 Kxe5 2. f8=Q a1=Q 3. Qg7+ 1-0
+
+[Event "Il Giuoco degli Scacchi#117"]
+[Date "1766.??.??"]
+[Round "?"]
+[Composer "Cozio, Carlo Francesco"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/7k/4Nbp1/3n4/6K1 w - - 0 1"]
+
+1. Nf5+ $1 Kh3 2. Nxg3 Kxg3 1/2-1/2
+
+[Event "Il Giuoco degli Scacchi#034 (c)"]
+[Date "1766.??.??"]
+[Round "?"]
+[Composer "Cozio, Carlo Francesco"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6r1/P7/KPk5/8/8/8/8/8 w - - 0 1"]
+
+1. b7 $1 Rg1 2. b8=N+ Kc7 3. a8=Q Ra1+ 4. Kb5 Rxa8 5. Na6+ 1/2-1/2
+
+[Event "Il Giuoco degli Scacchi#133"]
+[Date "1766.??.??"]
+[Round "?"]
+[Composer "Cozio, Carlo Francesco"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/7k/8/5q2/6R1/6K1 w - - 0 1"]
+
+1. Rh2+ $1 Kg4 2. Rg2+ Kh3 (Kf4 3. Rf2) 3. Rh2+ Kg3 4. Rh3+ Kxh3 1/2-1/2
+
+[Event "Il Giuoco degli Scacchi#162"]
+[Date "1766.??.??"]
+[Round "?"]
+[Composer "Cozio, Carlo Francesco"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6R1/kp3qP1/p1p4K/2P1b2P/8/8/8/8 w - - 0 1"]
+
+1. Ra8+ $1 Kxa8 2. g8=Q+ Qxg8 1/2-1/2
+
+[Event "Il Giuoco degli Scacchi#164"]
+[Date "1766.??.??"]
+[Round "?"]
+[Composer "Cozio, Carlo Francesco"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7p/8/8/7P/2pk4/3pR3/3K4 w - - 0 1"]
+
+1. Rxd2+ $1 cxd2 2. h5 Ke3 3. h6 Kd3 1/2-1/2
+
+[Event "Il Giuoco degli Scacchi#068"]
+[Date "1766.??.??"]
+[Round "?"]
+[Composer "Cozio, Carlo Francesco"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6pk/2Q4p/5p1K/7P/6q1/7r/8 w - - 0 1"]
+
+1. Qxh6+ $1 Kg8 (gxh6) 2. Qxg7+ Qxg7 (Kxg7) 1/2-1/2
+
+[Event "Il Giuoco degli Scacchi#103"]
+[Date "1766.??.??"]
+[Round "?"]
+[Composer "Cozio, Carlo Francesco"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k3B2/8/P7/8/4n3/6p1/6Pp/7K w - - 0 1"]
+
+1. Bd6+ $1 Nxd6 2. a7+ Kb7 3. a8=Q+ Kxa8 1/2-1/2
+
+[Event "Il Giuoco degli Scacchi#031"]
+[Date "1766.??.??"]
+[Round "?"]
+[Composer "Cozio, Carlo Francesco"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k2r4/1p1P4/1P6/2PK4/8/8/8/8 w - - 0 1"]
+
+1. Kd6 $1 Kb8 (Rh8 2. Kc7 Rh7 3. Kc8 Rh8+ 4. d8=Q Rg8 $1 5. Kc7+ Rxd8 6. Kxd8 Kb8 7. Kd7 Ka8 8. c6 bxc6 9. Kc7 c5 10. b7+) 2. Ke7 Rh8 3. d8=Q+ Rxd8 4. Kxd8 Ka8 5. c6 bxc6 6. Kc7 c5 7. b7+ 1-0
+
+[Event "source unknown (cr)"]
+[Date "1766.??.??"]
+[Round "?"]
+[Composer "Cozio, Carlo Francesco"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/6Np/4K3/8/7k w - - 0 1"]
+
+1. Kf2 $1 h3 2. Kf1 h2 3. Nf2# 1-0
+
+[Event "Il Giuoco degli Scacchi#170 (cr)"]
+[Date "1766.??.??"]
+[Round "?"]
+[Composer "Cozio, Carlo Francesco"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/1pk5/p4r2/K5R1 w - - 0 1"]
+
+1. Rg3+ $1 Kc4 2. Rxb3 Kxb3 1/2-1/2
+
+[Event "Il Giuoco degli Scacchi#088"]
+[Date "1766.??.??"]
+[Round "?"]
+[Composer "Cozio, Carlo Francesco"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k4B/2P5/3K4/8/7p/6p1/8/8 w - - 0 1"]
+
+1. Be5 $1 g2 2. Bh2 h3 3. Bg1 h2 4. Bxh2 1-0
+
+[Event "Il Giuoco degli Scacchi (pl)"]
+[Source "= Stamma=P d1d3 1737."]
+[Date "1766.??.??"]
+[Round "?"]
+[Composer "Cozio, Carlo Francesco"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2R5/8/8/8/2p4R/3k2q1/3p4/3K4 w - - 0 1"]
+
+1. Rd8+ $1 Kc3 (Ke3 2. Rh3 Qxh3 3. Rd3+) 2. Rh3 Qxh3 3. Rd3+ Kxd3 (Kb2 4. Rxh3 c3 5. Rh1) (Qxd3) (cxd3) 1/2-1/2
+
+[Event "Il Giuoco degli Scacchi#146 (cr)"]
+[Date "1766.??.??"]
+[Round "?"]
+[Composer "Cozio, Carlo Francesco"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/P7/2P5/4k3/5p2/b4K2 w - - 0 1"]
+
+1. c5 $1 Be5 2. c6 Bc7 3. a6 Bb8 4. a7 Bxa7 5. c7 1-0

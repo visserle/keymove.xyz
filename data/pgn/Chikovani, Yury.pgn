@@ -1,0 +1,27 @@
+[Event "1.hm Norchi Lenineli (c)"]
+[Source "(c): Aliev=I EG=133 7/1999."]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Chikovani, Yury"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/2p4P/8/7P/7k/8/P1r5/8 w - - 0 1"]
+
+1. Kg7 $1 (1. a4 $2 Rg2 $1 2. a5 Kxh5 3. a6 Kg6 $1 4. Kg8 (4. a7 Ra2 5. Kg8 Rxa7) Kh6+ 5. Kh8 Rd2) Rg2+ 2. Kf7 Rf2+ 3. Ke7 Re2+ 4. Kd7 Rd2+ 5. Kxc7 Rc2+ 6. Kd7 Rd2+ 7. Ke7 Re2+ 8. Kf7 Rf2+ 9. Kg7 Rg2+ 10. Kh6 Rg5 11. h8=Q Rxh5+ 12. Kg7 Rxh8 13. Kxh8 Kg5 14. a4 1-0
+
+[Event "1.hm Norchi Lenineli (c)"]
+[Source "(c): Nadareishvili=G Izbrannye Etyudy (Nadareishvili)#105 1970."]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Chikovani, Yury"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p3K1/7P/8/8/7P/2r5/5k2 w - - 0 1"]
+
+1. h7 $1 Rg2+ 2. Kf7 Rf2+ 3. Ke7 Re2+ 4. Kd7 Rd2+ 5. Kxc7 Rc2+ 6. Kd7 Rd2+ 7. Ke7 Re2+ 8. Kf7 Rf2+ 9. Kg6 Rg2+ 10. Kh5 Rh2 11. h4 1-0

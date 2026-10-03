@@ -1,0 +1,13 @@
+[Event "Shahmat"]
+[Source "EG#01962.1.hm Israel Ring ty 1966."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Rombach, Harry"]
+[White "Rombach, H"]
+[Black " Aloni, H."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/2P1P1p1/P3b1P1/5r1p/pK6/8/P4n2/8 w - - 0 1"]
+
+1. a7 $1 Nd3+ 2. Ka3 $1 (2. Kxa4 $2 Nb2+ 3. Ka3 Ra5+) Ra5 (Kxe7 3. a8=Q Rf8 4. Qa7) 3. c8=Q+ (3. a8=Q+ $2 Rxa8 4. c8=Q+ Rxc8) Bxc8 4. a8=Q Rc5 (Rxa8) 5. Qa5 $1 (5. Qxa4+ $2 Bd7 6. Qd4 Ra5+ 7. Kb3 Nc5+) (5. Kxa4 $2 Kxe7 6. Qe4+ Ne5 7. Qh4+ Kd6 8. Qxh5 Bd7+ 9. Kb3 Be6+ 10. Ka4 Nc6 $1 11. Qh2+ Kd7) Kxe7 (Rxa5) 6. Qa7+ Bd7 (Kf6 7. Qf7+ Kg5 8. Qe7+ Kf5 9. Qf7+) 7. Qc7 $1 Rb5 (Rxc7) 8. Qc5+ $1 Nxc5 (Ke6 9. Qxb5 Bxb5) (Rxc5) 1/2-1/2

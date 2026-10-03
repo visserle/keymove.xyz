@@ -1,0 +1,107 @@
+[Event "1.hm Przyjazn"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Iwanow, Eugeniusz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/7P/pp5p/1k1K4/6P1/8 w - - 0 1"]
+
+1. h6 $1 a3 2. h7 a2 3. h8=Q 1-0
+
+[Event "2.p Trybuna Robotnicza"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Iwanow, Eugeniusz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "N7/P4rP1/k7/1p3n2/6KP/8/8/8 w - - 0 1"]
+
+1. Nc7+ $1 Kxa7 2. Nxb5+ Kb6 3. Nd6 Ne3+ $1 4. Kh5 Rxg7 5. Nf5 Nxf5 (Rh7+ 6. Kg6 Rh8 7. Nxe3) 1/2-1/2
+
+[Event "2.p Polish Chess Federation ty"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Iwanow, Eugeniusz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4K3/6k1/1p1R4/8/7p/3N2p1/8 w - - 0 1"]
+
+1. Nf3 $1 g1=Q (h2 {<main>} 2. Rg5+ Kh6 3. Rxg2 h1=Q 4. Rh2+ Qxh2 5. Nxh2) 2. Nxg1 h2 3. Rg5+ Kh6 (Kxg5 4. Nf3+ Kf4 5. Nxh2) 4. Rg3 h1=Q 5. Rh3+ Qxh3 6. Nxh3 1/2-1/2
+
+[Event "L'Italia Scacchistica"]
+[Source "L'Italia Scacchistica/12 18.p Polish champ 1959-1960."]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Iwanow, Eugeniusz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3q4/1P6/Kb2p3/N1kp4/3pP3/3P4/1P6/8 w - - 0 1"]
+
+1. b4+ $1 Kd6 2. e5+ Kc7 (Kd7 3. Nc6 Bc7 4. Nxd8 Kxd8 5. Ka7 Bxe5 6. b8=Q+ Bxb8+ 7. Kxb8 Kd7 8. b5) 3. Nc6 $1 Kxc6 (Qb8 {<main>} 4. Nxb8 Kxb8 5. Kxb6) (Qe8 4. b8=Q+ Qxb8 5. Nxb8 Kxb8 6. Kxb6) 4. b8=Q (4. b5+ $2 Kd7 $1 5. b8=Q Bc7) Qxb8 5. b5+ Kd7 1/2-1/2
+
+[Event "L'Italia Scacchistica"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Iwanow, Eugeniusz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4b3/q6p/1p3P1k/4p3/N3B3/8/8/Q1K5 w - - 0 1"]
+
+1. Qxe5 $1 Qxa4 (Bxa4 2. Qf4+ Kh5 3. f7) 2. Qf4+ Kh5 3. Bf3+ Kg6 4. Bh5+ Kxh5 5. Qxa4 Bxa4 6. f7 1-0
+
+[Event "12.p International Friendship Team ty ("]
+[Source "EG#00190b."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Iwanow, Eugeniusz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2P5/1pK5/8/3r4/8/8/k7 w - - 0 1"]
+
+1. Kb5 $1 Rd5+ 2. Kxb6 Rd6+ 3. Kb5 Rd5+ 4. Kb4 Rd4+ 5. Kb3 Rd3+ 6. Kc2 Rd4 7. c8=R $1 (7. c8=Q $2 Rc4+ 8. Qxc4) Ra4 8. Kb3 1-0
+
+[Event "Shakhmaty v SSSR#30"]
+[Source "Shakhmaty v SSSR/8 EG#00692.7.p Polish champ 1963-1964."]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Iwanow, Eugeniusz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5BBR/1p6/kp6/8/5p2/6p1/K5p1/8 w - - 0 1"]
+
+1. Bc4+ $1 Ka7 (Ka5 2. Rh5+ Ka4 3. Bb3#) 2. Bd6 g1=Q 3. Bb8+ Ka8 4. Bxf4+ Ka7 5. Bb8+ Ka8 6. Bxg3+ Ka7 7. Bb8+ Ka8 8. Bh2+ Ka7 9. Ra8+ $1 (9. Bxg1 $2) Kxa8 10. Bxg1 1-0
+
+[Event "1.c Problemista"]
+[Source "Problemista/9 EG#00744."]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Iwanow, Eugeniusz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/1K2N1p1/8/4B1p1/7k w - - 0 1"]
+
+1. Ng3+ $1 (1. Nf2+ $2 Kh2 2. Nxg4+ Kg3) Kh2 (Kg1 2. Bxg4 Kf2 3. Ne2) 2. Nf1+ Kh3 (Kg1 3. Ne3) 3. Bxg4+ $1 Kh4 (Kxg4 4. Ne3+) 4. Nh2 g1=Q 5. Nf3+ Kxg4 6. Nxg1 1/2-1/2

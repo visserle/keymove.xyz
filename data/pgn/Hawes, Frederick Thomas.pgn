@@ -1,0 +1,12 @@
+[Event "Australasian Chess Review"]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "Hawes, Frederick Thomas"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6bp/5k2/8/P3K3/7N/8/8 w - - 0 1"]
+
+1. a5 $1 Bf8 2. Kd5 Bh6 3. Ng5 (3. Nf2 $2 Bf4) Bxg5 4. Ke4 Bh4 5. Kf3 1-0

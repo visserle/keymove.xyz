@@ -1,0 +1,27 @@
+[Event ".c Vecherni Leningrad"]
+[Source "EG#13348."]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Gutman, Pavel Izrailovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/k4p1p/5K2/2p3pN/5pP1/2P5/1B6 w - - 0 1"]
+
+1. Ba2 $1 Kb5 2. Kg6 (2. Kxf6 $2 f2 3. Nf5 f1=Q 4. Bxc4+ Kxc4) f2 3. Nf5 f1=Q 4. Bxc4+ Qxc4 (Kxc4 5. Ne3+) 5. Nd6+ Kb4 6. Nxc4 Kxc4 7. Kxf6 1-0
+
+[Event ".c Vecherni Leningrad"]
+[Source "EG#13357."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Gutman, Pavel Izrailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2pN1k2/3p4/3Kp3/6p1/B3rp2/3R4/8 w - - 0 1"]
+
+1. Bc5 $1 dxc5 (Rb3 2. Bf2 Ke7 3. Nxe5 Rb5+ 4. Ke4 Rxe5+ 5. Kf4) 2. Nxe5+ Rxe5+ 3. Kxe5 g3 4. Rd3 f2 5. Rxg3 f1=Q 6. Rf3+ Qxf3 1/2-1/2

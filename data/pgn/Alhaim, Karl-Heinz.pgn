@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Alhaim, Karl-Heinz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/2p5/R2P4/p6k/r6N/8/8/1K6 w - - 0 1"]
+
+1. d7 (1. dxc7 $2 Rb4+ 2. Ka2 Rc4 3. Rxa5+ Kxh4 4. Kb2 $5 $10) (1. Rxa5+ $2 Rxa5 2. dxc7 Rb5+ 3. Ka1 $10) (1. Nf5 $2 cxd6 2. Ne7 $10 Rb4+ 3. Ka1) (1. Ng6 $2 cxd6 2. Nf8) (1. Rc6 $2 cxd6 2. Ng6) (1. Nf3 $2 cxd6 2. Ng5) (1. Kb2 Rxh4 2. Rxa5+ Kg6 3. dxc7) (1. Rb6 cxb6) (1. Ra7 Kxh4 2. d7) (1. Ng2 cxd6 2. Kb2) Rb4+ 2. Kc2 (2. Ka2 $6 Rd4 3. Rh6+ $16 $18) (2. Ka1 $6 Rd4 3. Rh6+) (2. Kc1 $6 Rd4 3. Rh6+) Rd4 3. Rxa5+ (3. Rh6+ $6 Kg4 4. Rh7 $18) (3. Kc3 $2 Rxd7 4. Nf5 $10) (3. Nf5 $2 Rxd7 4. Kc3) (3. Nf3 $2 Rxd7 4. Rc6) (3. Ra8 $2 Rxd7 4. Nf3) (3. Rg6 $2 Kxh4 4. Rg7) (3. Rc6 Rxd7 4. Nf3) (3. Ra7 Kxh4 4. Rxc7) (3. Ng6 Rxd7 4. Nf8) c5 4. Rxc5+ (4. Ra7 $18 Kxh4 5. Ra4) (4. Nf5 $2 Rxd7 5. Ne7) (4. Rb5 Rd5 5. d8=Q) (4. Kc1 Rd3 5. d8=Q) (4. Kb2 Rd3 5. d8=Q) (4. Ra4 Rxd7 5. Rf4) Kxh4 5. Rc4 (5. Rc7 $2 Rd6 6. d8=Q+ $10) (5. Rd5 $4 Rxd5 6. d8=Q+ Rxd8) (5. Kc3 $2 Rxd7 6. Rb5) (5. Rc8 $2 Rxd7 6. Rb8) (5. Kb3 Rd3+ 6. Rc3) (5. Rc3 Rxd7 6. Rb3) (5. Rc6 Kg5 6. d8=Q+) Rxc4+ 6. Kd3 (6. Kb3 $4 Rd4 7. d8=Q+ Rxd8) (6. Kd2 Rd4+ 7. Kc2 Rxd7) (6. Kb2 Rd4 7. d8=Q+ Rxd8) Rc1 7. Kd2 $18 (7. d8=Q+ Kh3 8. Qh8+ $18) (7. Ke2 $18 Rc2+ 8. Kd3 Rc1) (7. Ke3 Rd1 8. d8=Q+ Rxd8) (7. Ke4 Rd1) 1-0

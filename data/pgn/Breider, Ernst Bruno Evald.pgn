@@ -1,0 +1,66 @@
+[Event "Karjala"]
+[Date "1936.01.18"]
+[Round "?"]
+[Composer "Breider, Ernst Bruno Evald"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6N1/5p1N/8/4p1P1/7k/Pp6/5PK1/8 w - - 0 1"]
+
+1. g6 $1 fxg6 (b2 2. gxf7 b1=Q 3. f8=Q) 2. Ngf6 b2 3. Ng5 $1 e4 $1 (Kxg5 4. Ne4+ Kf5 5. Nd2 Ke6 6. Kf3 Kd5 7. Ke3) 4. Ngxe4 b1=Q 5. Nd2 Qb7+ 6. Nf3+ Qxf3+ 7. Kxf3 1-0
+
+[Event "4.p Dunder JT"]
+[Source "EG#00013."]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Breider, Ernst Bruno Evald"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/P3K3/Np1P4/1P1P4/5n1B/1p1n4/8/5r2 w - - 0 1"]
+
+1. d7 $1 Ng6+ (Nxd5+ 2. Ke8) 2. Kd6 Rf8 3. d8=Q+ (3. Nc7+ $2 Kxa7 4. Ne8 Nde5) Rxd8+ 4. Bxd8 Kxa7 (b2 5. Bxb6) 5. Bxb6+ $1 (5. Bf6 $2 Nde5) Kxb6 6. Nc5 Nxc5 (b2 7. Na4+ Kxb5 8. Nxb2 Nxb2 9. Ke6) 1/2-1/2
+
+[Event "Ilta Sanomat"]
+[Date "1966.04.21"]
+[Round "?"]
+[Composer "Breider, Ernst Bruno Evald"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/1p1p2P1/1P1k1K2/pP1p4/3P4/4P3/6B1 w - - 0 1"]
+
+1. Bf2 $1 (1. e4+ $2 dxe3 2. Bxe3 a3 3. Bc1 a2 4. Bb2 a1=Q 5. Bxa1) a3 2. Bh4 a2 3. Bf6 $1 a1=Q (gxf6 4. g7 a1=Q 5. g8=Q#) 4. e4+ dxe3 5. Bxa1 e2 6. Bc3 e1=Q 7. Bxe1 1-0
+
+[Event "source unknown"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Breider, Ernst Bruno Evald"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5pk1/3K4/8/3p1N2/8/5p2/8 w - - 0 1"]
+
+1. Nh5+ $1 Kg6 2. Ng3 d3 3. Nf1 Kf5 4. Kd5 Kf4 5. Kd4 1/2-1/2
+
+[Event "Helsingin Sanomat (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - II-24 2012."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Breider, Ernst Bruno Evald"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7p/4p1R1/4p2k/4p2r/5PP1/6K1 w - - 0 1"]
+
+1. Rxe5 $1 (1. Rf5 $2 e2) Rh1+ $1 2. Kxh1 exf2 3. Rxe4+ Kg5 $1 4. Re5+ $1 Kg6 5. Rf5 $1 Kxf5 6. g4+ Kf4 7. Kg2 Ke3 8. Kf1 Kf3 9. g5 hxg5 1/2-1/2

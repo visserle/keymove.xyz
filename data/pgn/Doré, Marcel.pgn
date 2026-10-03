@@ -1,0 +1,74 @@
+[Event "1.c wo01"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Doré, Marcel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "7N/3P4/2n3Kp/1k6/8/8/8/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. Kg7 (1. Kf6 $2 Kb6 2. Ke6 Kc7 3. Ng6 Nb8 $10) (1. Nf7 $2 $143 h5 (Kb6 $11) 2. d8=Q Nxd8 3. Nh6 $10) (1. Kf7 $2 h5 2. Ng6 $10) (1. Kxh6 $2 Nd8 2. Ng6 $10) (1. Kf5 $2 h5 2. d8=Q $10) (1. Kh5 $2 Nd8 2. Ng6 $10) (1. d8=Q $2 Nxd8 2. Kf6) (1. Kh7 $2 h5 2. d8=Q) (1. d8=N $2 h5 2. Ndf7 Ne7+ 3. Kf6) Kb6 2. Kf8 (2. Nf7 $2 h5 3. d8=Q+ $10) (2. Kf7 $2 h5 3. Ng6 $10) (2. Ng6 $2 Kc7 3. d8=Q+ $10 Kxd8 4. Kh8) (2. Kf6 $2 h5 3. d8=Q+ $10) (2. Kg8 $2 h5 3. d8=Q+ $10) (2. Kxh6 $2 Nd8 3. Ng6 $10) (2. Kh7 $2 h5 3. d8=Q+) (2. Kg6 h5 3. d8=Q+) Kc7 3. Ke8 (3. Nf7 $2 h5 4. d8=Q+) (3. Kf7 $2 h5 4. Ng6) (3. d8=Q+ $2 Nxd8 4. Ng6) (3. Ng6 $2 Nb8 4. d8=Q+) (3. Kg7 $2 h5 4. d8=Q+) h5 4. Ng6 (4. Nf7 $2 h4 $1 5. Ne5 Nd8 $10) Nd8 (Kd6 $144 5. Ne7 $18) 5. Nh4 (5. Nf4 $2 Nb7 $1 6. Ke7 h4 7. Ne6+ Kb6 8. Ng5 Kc7 9. Nf7 h3 $10) (5. Ke7 Nc6+ 6. Ke8) (5. Ne7 $2 Nb7 6. d8=Q+ $10) (5. Nf8 $4 h4 6. Ne6+ Nxe6 $19 7. d8=Q+ Nxd8) (5. Ne5 $2 h4 6. Ng4 $10) Nc6 6. Nf5 (6. Nf3 Nd8 7. Nh4 $18) (6. Ng2 Nd8 7. Nh4 $18) (6. Ng6 Nd8 7. Nh4 Nc6 $18) Nd8 7. Nd6 $1 (7. Ke7 Nc6+ 8. Ke8) (7. Nd4 $2 Nb7 8. d8=Q+ $10) (7. Ne7 $2 Nb7 8. d8=Q+ $10) (7. Ng7 $2 h4 8. Nh5 $10) (7. Ne3 $2 Nb7 8. d8=Q+ $10) (7. Nh4 Nc6 8. Nf5 Nd8 $18) (7. Ng3 $2 h4 8. Nh5) Nc6 (h4 $144 8. Nb5+ Kb7 9. Kxd8 $18) 8. Nb5+ (8. Nc8 Nd8 9. Nd6 $18) (8. Nf5 Nd8 9. Nd6 Nc6 $18) (8. Nf7 $2 h4 9. d8=Q+ $10) (8. Nb7 $4 Kxb7 9. d8=N+ Nxd8 10. Kxd8 h4) (8. Nc4 $2 h4 9. d8=Q+) (8. Ne4 $2 h4 9. d8=Q+) Kb7 9. Nd4 $18 (9. Nd6+ Kc7 $18 10. Nb5+) (9. d8=Q $2 Nxd8 10. Nd6+) (9. d8=N+ $2 Nxd8 10. Nd6+) (9. Kf7 $2 h4 10. d8=Q) (9. Kf8 $2 h4 10. d8=Q) (9. Nc7 $4 Kxc7 10. d8=Q+ Nxd8) 1-0
+
+[Event ".hm Thèmes 64#0992"]
+[Source "Thèmes 64/1-3"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Doré, Marcel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/3N2PK/1p6/3kp3/8/8 w - - 0 1"]
+
+1. Nxb4+ $1 (1. g6 $2 e2 2. Nf4+ Kd2 3. Nxe2 Kxe2) (1. Nxe3 $2 Kxe3) Kd2 2. Nc6 Kd3 3. Kg4 e2 (Ke4 4. Nb4) 4. Ne5+ Ke4 5. Nf3 1-0
+
+[Event "2.hm Thèmes 64#1501"]
+[Source "Thèmes 64/7-9 EG#00489. after Vidor=L h3h1 1930."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Doré, Marcel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/n7/8/3B4/3N3K/7p/7k w - - 0 1"]
+
+1. Bb6 $1 (1. Nc1 $2 Nc5 2. Be3 Nd3 $1) (1. Nf4 $2 Nc5 2. Nh5 Ne4 3. Be3 Nf2+ 4. Kg3 Kg1 $1 (Ne4+ $2 5. Kf3 $1)) Nb4 (Nc5 2. Nxc5 (2. Nf2+ $2 Kg1 3. Bxc5 h1=Q+ 4. Nxh1+ Kxh1) Kg1 3. Ne4+ Kh1 4. Ng3#) (Nb8 2. Bc7 $1 Kg1 3. Bxh2+ Kf1 4. Bxb8) 2. Nf2+ Kg1 3. Ne4+ Kf1 (Kh1 4. Ng3#) 4. Ng3+ Ke1 5. Ba5 $1 Kf2 6. Bxb4 Kg1 7. Bc5# 1-0
+
+[Event "Thèmes 64#4218"]
+[Source "Thèmes 64/10-12"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Doré, Marcel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1N4p1/1P6/4p2p/6pK/8/7k/8 w - - 0 1"]
+
+1. Nc5 $1 (1. Nd6 $2 g3 2. Nc4 (2. Ne4 g2 3. Ng5 e4 $1 4. Nh3 g5+ $1) g2 3. Nxe5 g5+ 4. Kxg5 Kg3 $1) g3 2. Nd3 $1 g2 3. Ne1 $1 e4 $1 4. Nxg2 (4. b7 $2 g1=Q 5. b8=Q+ Kh1) 1-0
+
+[Event "2.c Nunn-50 JT EG"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[Composer "Dore, Marcel"]
+[Composer2 "Pallier, Alain"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1k6/1p6/8/3KPp1p/p6P/P3P1P1/8 w - - 0 1"]
+[PlyCount "13"]
+
+{White must induce Black to play the move ...b5 (although it is not immediately obvious why this is so detrimental for Black), at the same time navigating around two reciprocal zugzwangs. This can only be accomplished by a surprising switchback. Such switchbacks have been seen before, but this study has more interesting play and, unlike many of the earlier examples, seems to be sound. This was far and away the best pawn ending in the tourney} 1. Kd5 $1 {It is important to bear in mind that the position Kb2, Qa8, Ph3 v BKg1, Pf2, Ph4 with White to play is drawn since the most White can achieve is a drawn ending of Q+hP v Q. White can reach this drawn position in several different ways, but in order to win he must do more.} (1. e3 $143 fxe3 2. Kxe3 Kc6 3. Kd4 Kd6 4. e5+ Ke6 5. Ke4 b5 6. Kd4 b4 7. Kc4 Kxe5 8. Kxb4 Kf4 9. Kxa3 Kg3 10. Kb2 Kxg2 11. a4 Kxh3 12. a5 Kg2 13. a6 h3 14. a7 h2 15. a8=Q+ Kg1 $11) (1. Ke5 $143 {allows the black king access to c6} Kc6 $1 2. Kf6 (2. Ke6 $144 b5 $11) Kd7 3. Kf7 Kd6 4. Kf6 Kd7 $1 5. e5 Ke8 $1 6. Ke6 b5 7. Kd5 Kd7 $1 (Ke7 $143 $2 8. e6 $1 $18 {is reciprocal zugzwang 1 with Black to play}) 8. e6+ (8. Kc5 $144 Ke6 9. Kxb5 Kxe5 10. Kb4 Kd4 11. Kxa3 Ke3 12. Kb2 Kxe2 13. a4 Kf2 14. a5 Kxg2 15. a6 f3 16. a7 f2 17. a8=Q+ $11 {reaches the drawn position mentioned earlier}) Ke7 {is reciprocal zugzwang 1 with White to play. After} 9. Kc5 Kxe6 10. Kxb5 Ke5 $11 {the standard draw will arise.}) (1. Kc4 $143 Kc6 2. e5 (2. Kb4 $144 Kd6 3. Kxa3 Ke5 4. Kb4 Kxe4 $11 {will be the standard draw}) Kd7 $1 3. Kd5 (3. Kb3 $144 Ke6 4. Kxa3 Kxe5 $11 {is the usual draw}) Ke7 4. e6 b5 5. Kc5 Kxe6 6. Kxb5 Ke5 $11) (1. e5 $143 Kc6 2. Kc4 Kd7 $11 {transposes to 1 Kc4?.}) Kc7 2. Ke6 $1 (2. e5 $143 Kd7 3. e6+ Ke7 4. Ke5 Ke8 $1 (Kd8 $143 5. Kd6 Ke8 6. e7 {is reciprocal zugzwang 2 with Black to play; White wins after} b5 7. Kc5 Kxe7 8. Kxb5 $18) 5. Kd6 Kd8 6. e7+ Ke8 {now White is to play in reciprocal zugzwang 2} 7. Kc6 Kxe7 8. Kxb6 Ke6 $11 {and the usual draw will arise}) b5 (Kc6 $144 3. e5 b5 4. Kf7 b4 5. e6 b3 6. e7 bxa2 7. e8=Q+ $18 {promotes with check}) 3. Kd5 $3 {This switchback exploits Black's weakening 2...b5.} (3. e5 $143 b4 4. Kf7 b3 5. axb3 a2 6. e6 a1=Q 7. e7 Qe5 8. e8=Q Qh5+ $11) Kd7 (Kb6 $144 4. e5 Kc7 5. Kc5 Kd7 6. Kxb5 Ke6 7. Kb4 Kxe5 8. Kxa3 $18) 4. e5 $1 (4. Kc5 $143 Ke6 5. Kxb5 (5. Kb4 $144 Ke5 6. Kxa3 Kxe4 7. Kb4 Ke3 $11) Ke5 $11) Ke7 (b4 $144 5. Kc4 Ke6 6. Kxb4 $18) 5. e6 $1 {This is reciprocal zugzwang 1 with Black to move. Compare this with the position after 1. Ke5? (zugzwang 1 with White to move) and with the other try 1.Kc4? where Black draws because the b-pawn is still on b6.} b4 (Kd8 $144 6. Kc5 Ke7 7. Kxb5 $18) 6. Kc4 Kxe6 7. Kxb4 1-0

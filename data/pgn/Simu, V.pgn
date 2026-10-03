@@ -1,0 +1,26 @@
+[Event "1.p Bucharest ty"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Simu, V"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6N1/3N4/q7/5p1n/P5k1/4P3/6K1/4B3 w - - 0 1"]
+
+1. Ne5+ $1 Kg5 2. Bh4+ $1 Kxh4 3. Nf3+ Kg4 4. Nh6+ $1 Qxh6 5. Ne5+ Kg5 (Kh4 6. Nf3+ Kg4 7. Ne5+) 6. Nf7+ Kg6 7. Nxh6 Kxh6 8. a5 1/2-1/2
+
+[Event "2.p Rumanian champ Revista de Romana de"]
+[Source "Revista de Romana de Sah/1-2 1952"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Simu, V"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7b/P6P/1N5B/5p2/3p4/2k2K2 w - - 0 1"]
+
+1. Na2+ $1 Kc2 2. Nc3 $1 Kxc3 3. Be1 Kb4 4. Bxd2+ Bxd2 5. a6 Be3 6. h6 1-0

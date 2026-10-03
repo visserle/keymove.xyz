@@ -1,0 +1,27 @@
+[Event "L'Échiquier de Paris#237 (v)"]
+[Source "(v): Cuciuc=V 1.p Constructorul 1953."]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Cuciuc, Viktor"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "N7/kp6/2P5/pP1q4/P4Rp1/3r2P1/2pP2P1/2K5 w - - 0 1"]
+
+1. b6+ $1 Kxa8 (Ka6 2. Nc7+ Kxb6 3. Nxd5+ Rxd5 4. cxb7 Kxb7 5. Rxg4) 2. Rf8+ $1 (2. c7 $2 Qc5 $1) Qd8 3. Rxd8+ Rxd8 4. c7 Rh8 5. Kxc2 Re8 6. Kb2 $1 Rf8 7. Kc3 Re8 8. d3 Rf8 9. Kc4 Rh8 10. d4 Re8 11. d5 Re4+ 12. Kc5 Rc4+ 13. Kd6 Rc1 14. Kd7 Rc5 15. d6 Rc6 16. Ke8 Rc1 17. Kd8 1-0
+
+[Event "2.p Revista de Romana de Sah#0115"]
+[Source "Revista de Romana de Sah/5"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Cuciuc, Viktor"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4N3/k7/8/p7/P7/P5p1/7p/7K w - - 0 1"]
+
+1. Nd6 $1 Kb6 2. Nc4+ (2. Ne4 $2 Kc6 3. Nxg3 Kc5 4. Ne4+ Kc4 5. Kxh2 Kb3 6. Nc5+ Kxa3 7. Kg3 Kb4) Ka6 $1 (Kc5 3. Nxa5 Kd4 $1 4. Kg2 Ke3 5. Nc4+ Ke2 6. a5 h1=Q+ 7. Kxh1 Kf2 8. Ne3) 3. Kg2 $1 Ka7 4. Nxa5 Ka6 5. Nb3 $1 Kb6 6. a5+ Kb5 7. a4+ Ka6 8. Kh1 $1 Kb7 9. Nc5+ Ka7 10. Kg2 $1 Ka8 11. Ne4 $1 Ka7 12. Nxg3 Ka6 13. Ne4 Kxa5 14. Nc3 1-0

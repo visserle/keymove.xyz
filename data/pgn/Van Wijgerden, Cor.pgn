@@ -1,0 +1,13 @@
+[Event ".c Schweizerische Schachzeitung#057"]
+[Source "Schweizerische Schachzeitung/8 EG#08193."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Van Wijgerden, Cor"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5k2/3B2r1/K1Pp2p1/3P2P1/8/8/8 w - - 0 1"]
+
+1. c6 $1 (1. Kb6 $2 Ke6 2. Kc6 Rh6 3. Kb7 Rh4 4. Be5 (4. Bf8 Rxg4 5. c6 Rxd4) Rxg4 5. c6 Rg1 6. c7 Rb1+) Rxd6 (Ke6 2. Be5 Rh6 3. Kb6) 2. Kb6 Re6 3. Kb7 Re7+ 4. c7 Ke6 5. Kb8 Re8+ (Kd6 6. c8=N+) 6. c8=R $1 (6. c8=Q+ $2 Kd6 7. Qxe8) Re7 7. Rc6+ Kf7 8. Rc7 1-0

@@ -1,0 +1,118 @@
+[Event "Endspilj (Rabinovitch)#057 (te)"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Rabinovitch, Ilya Leontievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6b1/8/1PP5/8/8/8/5k1K w - - 0 1"]
+
+1. c6 $1 (1. b6 $2 Bd4 $1 2. b7 Be5 $1) Be5 2. b6 1-0
+
+[Event "Endspilj (Rabinovitch)-126 (te) (m)"]
+[Source "(m): De_Feijter=C"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Rabinovitch, Ilya Leontievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5p2/4k3/6P1/8/8/8/7K w - - 0 1"]
+
+1. g6 $1 fxg6 2. Kg2 Kf6 3. Kf2 Kf5 4. Kf3 1/2-1/2
+
+[Event "Endspilj (Rabinovitch)-126 (te) (m)"]
+[Source "(m): De_Feijter=C Deventer Dagblad 2-12-1939."]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Rabinovitch, Ilya Leontievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5p2/4k3/6P1/8/8/8/3K4 w - - 0 1"]
+
+1. g6 $1 fxg6 2. Ke2 $1 1/2-1/2
+
+[Event "Endspilj (Rabinovitch)#027"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Rabinovitch, Ilya Leontievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/N7/P7/2k5/7K w - - 0 1"]
+
+1. Nb2 $1 Kb3 2. a4 1-0
+
+[Event "Endspilj (Rabinovitch)-65"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Rabinovitch, Ilya Leontievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/8/2N5/8/8/p7/4k3/8 w - - 0 1"]
+
+1. Nb4 $1 (1. Nd4+ $2 Kd3 2. Nb3 a2) 1/2-1/2
+
+[Event "Endspilj 2nd ed. (Rabinovitch)-87 (te)"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Rabinovitch, Ilya Leontievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3b4/3P4/P7/4k3/8/7K w - - 0 1"]
+
+1. a5 $1 Kd4 2. a6 Bb8 3. d6 1-0
+
+[Event "Endspilj 2nd ed. (Rabinovitch)-366"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Rabinovitch, Ilya Leontievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2PK4/1r6/k7/8/8/8 w - - 0 1"]
+
+1. c7 $1 Rb6+ 2. Kd5 Rb5+ 3. Kd4 Rb4+ 4. Kd3 $1 (4. Kc3 $2 Rb5 $1 5. c8=Q Rc5+ 6. Qxc5) Rb3+ 5. Kd2 $1 (5. Kc2 $2 Rb5 $1 6. c8=Q Rc5+ 7. Qxc5) Rb2+ 6. Kc1 1-0
+
+[Event "source unknown"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Rabinovitch, Ilya Leontievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/8/8/8/6P1/6K1/8/8 w - - 0 1"]
+
+1. Kh4 $1 (1. Kf4 $2 Kf8 $1 2. Kf5 Kf7 3. Kg5 Kg7) Kf7 2. Kh5 $1 (2. Kg5 $2 Kg7 $1) Kg7 (Kf6 3. Kh6) (Kg8 3. Kg6) 3. Kg5 $1 Kh7 4. Kf6 Kh6 5. g5+ Kh7 6. Kf7 $1 (6. g6+ $2 Kh8 $1 7. Kf7 (7. g7+ Kg8)) Kh8 7. Kg6 $1 Kg8 8. Kh6 $1 Kh8 9. g6 Kg8 10. g7 Kf7 11. Kh7 1-0
+
+[Event "Endspilj 2nd ed. (Rabinovitch)-140 (te)"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Rabinovitch, Ilya Leontievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2kP4/8/1P3K2/8/8/8/8 w - - 0 1"]
+
+1. Ke6 $1 Kd8 2. Kd5 $1 Kxd7 3. b6 Kd8 4. Kd6 Kc8 5. Kc6 1-0

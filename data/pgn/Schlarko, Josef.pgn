@@ -1,0 +1,12 @@
+[Event "Revista de Romana de Sah#0052"]
+[Date "1926.06.01"]
+[Round "?"]
+[Composer "Schlarko, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1K6/5n1P/2P2k2/8/8/5p2/8 w - - 0 1"]
+
+1. h7 $1 Nxh7 2. c6 f1=Q 3. c7 Qb5+ 4. Ka8 Qc6+ 5. Kb8 Nf6 (Qb6+ 6. Ka8 Qxc7) 6. c8=Q+ Nd7+ 7. Ka7 Qb6+ (Qxc8) 8. Ka8 Ke6 9. Qxd7+ Kxd7 1/2-1/2

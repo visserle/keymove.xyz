@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Nestoresku, Virgil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "kr6/1pR5/1B4K1/8/8/7p/8/8 w - - 0 1"]
+
+1. Rc1 (1. Rh7 $2 h2 2. Rxh2 Rc8 $10 3. Ra2+) (1. Rc3 $2 Rh8 2. Bc5 $10) (1. Rc5 $2 Re8 2. Ba5 $10) (1. Bd4 $2 b6 2. Be3 $10 Rg8+ 3. Kf6) Rh8 2. Kg7 (2. Ra1+ $2 Kb8 3. Bc5 $10) (2. Bc7 $2 b6 3. Bd6 $10) (2. Bd4 $2 Rd8 3. Be3 $10) (2. Kf7 $2 h2 $5 3. Ra1+ Kb8 4. Ba7+ Kc8 5. Rc1+ $10) (2. Rc8+ Rxc8) (2. Kf6 Rh6+ 3. Ke5 Rxb6 4. Rc8+ Ka7) (2. Bd8 Rxd8 3. Ra1+ Kb8) Re8 3. Kf7 (3. Ra1+ $2 Kb8 4. Bc5 $10) (3. Rh1 $2 h2 4. Bc5 $10) (3. Bg1 $2 b6 4. Bf2 $10 Re7+ 5. Kg6) (3. Kg6 Re6+ 4. Kg5 Rxb6) (3. Be3 Rxe3 4. Ra1+ Kb8) Rh8 4. Bd4 (4. Bc7 $2 b6 5. Bd6 Rh7+ 6. Kf6 $10) (4. Kg7 Re8 5. Kf7 Rh8 $18) (4. Ke7 $2 Rh7+ 5. Ke6 $10) (4. Ra1+ $2 Kb8 5. Bc5 $10) (4. Kg6 $2 Rg8+ $4 (h2 $5) 5. Kf7 $18) (4. Rc5 h2 5. Ra5+ Kb8) (4. Ba7 Kxa7 5. Ra1+ Kb6) (4. Kf6 Rh6+ 5. Ke5 Rxb6 6. Rc8+ Ka7) Rd8 5. Ra1+ (5. Bb6 Rh8 $18 6. Bd4) (5. Rb1 Rxd4 6. Ra1+ Kb8) (5. Be3 b6 6. Bf4 Rf8+ $4 (Rd4 $5) 7. Kxf8) Kb8 6. Be5+ (6. Bf6 Rd2 7. Be5+ Kc8 8. Rc1+ Kd7 9. Rc7+ Kd8 10. Ke6 b6 11. Rc6 Re2 12. Rd6+ Ke8 13. Rxb6 Rd2 14. Rb4 h2 15. Bxh2 $18) (6. Ba7+ $4 Kc8 7. Bb6 $10) (6. Bb6 $4 Rh8 7. Bc5 $10) (6. Ke7 $4 Rxd4 $19 7. Ra8+ Kxa8) (6. Rd1 Rd7+ 7. Ke6) Kc8 7. Rc1+ (7. Ra8+ $4 Kd7 8. Rxd8+ Kxd8 9. Kf6 $10) (7. Ke7 $6 b6 8. Rc1+ $18) (7. Ke6 $6 Re8+ 8. Kd6 $18) (7. Rb1 $4 b6 8. Bf4) (7. Bf6 Rd7+ 8. Ke6) Kd7 8. Rc7# (8. Rd1+ Kc6 9. Rxd8 $18) 1-0

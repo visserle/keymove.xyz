@@ -1,0 +1,13 @@
+[Event "2.p Ceskoslovensky Sach"]
+[Source "Ceskoslovensky Sach/9"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Koloc, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/1N1k1p1K/8/3P1P1b/7n/8 w - - 0 1"]
+
+1. Kh4 $1 Bf1 2. Kg3 Bxd3 3. Nc7+ Kd6 4. Ne8+ Ke7 $1 5. Ng7 Kf6 6. Nxf5 Nf1+ 7. Kf4 Bxf5 1/2-1/2

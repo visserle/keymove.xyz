@@ -1,0 +1,13 @@
+[Event "Chess Life & Review"]
+[Source "Chess Life & Review/12 EG#00561. also EG=12 EG/4 1968."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Ulreich, R"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p1N2/3K4/6P1/8/4nk2/8/8 w - - 0 1"]
+
+1. Nh6 $1 (1. g6 $2 Nf5+) (1. Ke5 $2 Ng4+ 2. Kf5 Ne3+ 3. Ke5 (3. Kf6 Nd5+ 4. Ke5 Nb4) Ng4+) Nc4+ 2. Kd5 (2. Kxd7 $2 Kf4 3. g6 Ne5+) Kf4 (Nb6+ 3. Ke5 Nc4+ 4. Kf6) 3. g6 Nd6 4. Kxd6 (4. g7 $2 Ne8 5. g8=Q Nf6+) Kg5 5. g7 Kf6 6. Nf5 (6. g8=N+ $2 Kg7 7. Ke5 d5 8. Kd4 Kh7) 1-0

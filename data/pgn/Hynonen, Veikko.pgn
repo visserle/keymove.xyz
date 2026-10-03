@@ -1,0 +1,27 @@
+[Event "4.hm Apu (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - IV-64 2012."]
+[Date "1956.12.08"]
+[Round "?"]
+[Composer "Hynonen, Veikko"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/N1p5/8/4BN2/P1P5/pp1P4/pb1p4/k2K4 w - - 0 1"]
+
+1. Nd4 $1 Kb1 2. Nab5 (2. Nxb3 $2 Bxe5 3. Kxd2 Kb2 4. Na1 Bc3+ 5. Kd1 Kb1 6. Nb5 Bxa1 7. Nxa3+ Kb2 8. Nc2 Kb1) a1=Q (a1=N 3. a5 a2 4. Bxc7 Nc2 (Bc1 5. Bf4) 5. Nxb3 Bf6 6. a6 Kb2 7. Na1 Nxa1 8. a7 Nb3 9. a8=Q a1=Q+ 10. Qxa1+ Kxa1 11. Bd6 Kb2 12. c5) 3. Nxb3 Qa2 (Bxe5 4. Nxa1 Kxa1 5. Nxa3 Kb2 6. Nb5 c6 7. a5) 4. Nxd2+ Ka1 5. Nc3 Bxc3 6. Bxc3+ Qb2 7. Nb3+ (7. Bxb2+ $2 Kxb2) Ka2 8. Bxb2 axb2 (Kxb2 9. Nc1) 9. Nd2 1-0
+
+[Event "Stella Polaris#0963"]
+[Source "Stella Polaris/2"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Hynonen, Veikko"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4N1k1/6Bp/5K2/7p/p3P2P/pp3P2/P7/8 w - - 0 1"]
+
+1. axb3 $1 (1. Ke7 $2 b2 2. Bd4 b1=Q 3. Nf6+ Kg7 4. Ng4+ Kg6 5. Ne5+ Kg7 6. Nf7+ Kg6 7. Nh8+ Kh6 8. Kf6 Qb6+ 9. Bxb6) axb3 2. Ke7 b2 3. Bd4 b1=Q 4. Nf6+ Kg7 5. Ng4+ Kg6 6. Ne5+ Kg7 7. Nf7+ Kg6 8. Nh8+ Kh6 9. Kf6 1-0

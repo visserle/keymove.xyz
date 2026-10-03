@@ -1,0 +1,39 @@
+[Event "source unknown"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Maizelis, Ilya Lvovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5R2/4K1k1/8/8/ppp5/8/8/8 w - - 0 1"]
+
+1. Rf1 $1 a3 2. Rg1+ Kh7 3. Kf7 Kh6 4. Kf6 Kh7 5. Ke5 a2 6. Kd4 b3 7. Kc3 Kh6 8. Kb2 Kh5 9. Rc1 1-0
+
+[Event "source unknown"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Maizelis, Ilya Lvovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/3K1k1p/8/8/P7/8 w - - 0 1"]
+
+1. Kd4 $1 Kf4 2. Kd3 h4 3. Ke2 Kg3 4. Kf1 h3 5. Kg1 h2+ 6. Kh1 1/2-1/2
+
+[Event "source unknown"]
+[Source "after Sackmann=F e5a5 1913."]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Maizelis, Ilya Lvovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/8/2p5/2p3K1/p1P5/P7/8/8 w - - 0 1"]
+
+1. Kf6 $1 Kb7 (Ka7 2. Ke7) (Kc8 2. Ke6) 2. Kf7 1-0

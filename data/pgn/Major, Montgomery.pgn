@@ -1,0 +1,13 @@
+[Event "British Chess Magazine#1074"]
+[Source "British Chess Magazine/6"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Major, Montgomery"]
+[White "Major, M"]
+[Black " Guy, R."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6B1/5pp1/6k1/5pP1/5P1P/3p2K1/8 w - - 0 1"]
+
+1. h4+ $1 Kxh4 2. Bxf6+ g5 3. Bd4 d1=N 4. Kh2 Ne3 5. Bxe3 fxe3 6. Kg2 e2 7. Kf2 e1=Q+ 8. Kxe1 Kg3 9. Ke2 Kf4 10. Kf2 Ke5 11. Ke3 Kd5 12. f4 Ke6 13. f5+ 1-0

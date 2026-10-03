@@ -1,0 +1,13 @@
+[Event "Deutsche Schachzeitung#740 (c)"]
+[Source "Deutsche Schachzeitung/4 (c): Garcia=M Estudios Artisticos de Ajedrez - VIII-24 2012."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Pichlmayer, Theo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "Rr4bk/P6p/1r5P/7p/3P1N1P/3p2pP/3P2P1/4K3 w - - 0 1"]
+
+1. Ng6+ $1 Rxg6 (hxg6 2. axb8=Q) 2. axb8=B $1 (2. axb8=Q $2 Re6+ 3. Kd1 Re1+ 4. Kxe1) Re6+ 3. Kf1 Re8 (Rf6+ 4. Kg1 Bd5 5. Ra5 Rb6 6. Bxg3 Be4 7. Re5) 4. Be5+ Rxe5 5. Rxg8+ Kxg8 6. dxe5 Kf7 7. Ke1 Ke6 8. Kd1 Kxe5 9. Kc1 Kd4 10. Kb2 Kc4 11. Ka3 Kd4 12. Kb4 Kd5 13. Kc3 Ke4 14. Kc4 Ke5 15. Kxd3 Kd5 16. Ke3 1-0

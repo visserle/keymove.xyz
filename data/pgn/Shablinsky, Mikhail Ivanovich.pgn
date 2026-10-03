@@ -1,0 +1,27 @@
+[Event "Magyar Sakkélet#1244"]
+[Source "Magyar Sakkélet/5"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Shablinsky, Mikhail Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6R1/1kn5/8/4K3/8/3P4/1p6/6B1 w - - 0 1"]
+
+1. Ba7 $1 Nb5 2. Rg1 Na3 3. Bc5 b1=Q 4. Rxb1+ Nxb1 5. Bb4 Kc6 6. d4 Kb5 7. d5 Kxb4 8. d6 1-0
+
+[Event "Fizkulturnik Belorussii (pl)"]
+[Source "= Bernhardt=G e4d1 1923. also 2.c Narodnaya Tribuna 1992."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Shablinsky, Mikhail Ivanovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3p4/8/p3P3/3Kp2P/1P6/b7/4k3 w - - 0 1"]
+
+1. e6 $1 dxe6 2. Ke3 $1 Bxb3 3. h5 e5 4. h6 Bg8 5. h7 Bxh7 1/2-1/2

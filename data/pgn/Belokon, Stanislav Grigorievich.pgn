@@ -1,0 +1,152 @@
+[Event "Problem#137 (c)"]
+[Source "Problem/4 (c): Garcia=M Estudios Artisticos de Ajedrez - XIV-19 2014."]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Belokon, Stanislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B6/2N5/7p/1P3k1p/1p3p1K/pP6/8/8 w - - 0 1"]
+
+1. Ba7 $1 Ke5 (Ke4 2. Ne6) 2. Bc5 $1 (2. Na6 $2 a2 3. Nxb4 a1=Q 4. Bd4+ Kxd4 5. Nc2+ Kc5 6. Nxa1 Kxb5) (2. Ne6 $2 Kxe6 3. Bd4 a2 4. b6 Kd6 5. Kh3 Kc6) a2 (f3 3. Kg3 a2 4. Bf8 h4+ 5. Kxf3 Kf6 6. Ne8+ Kf7 7. Bg7) 3. Bf8 Kf6 4. Bxb4 a1=Q 5. Bc3+ Qxc3 6. Nd5+ Ke5 7. Nxc3 1-0
+
+[Event "1.hm Springaren#05158"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Belokon, Stanislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/5Bk1/8/8/2R5/p7/1p6/8 w - - 0 1"]
+
+1. Rc7 $1 b1=Q $1 2. Ba2+ Kh8 (Kf8 {<main>} 3. Rf7+ $1 (3. Bxb1 $2 a2 4. Bxa2) Kg8 4. Rf2+) 3. Bxb1 a2 4. Rh7+ $1 (4. Bxa2 $2) Kg8 5. Rh1 a1=Q 6. Bh7+ Kg7 7. Rxa1 1-0
+
+[Event ".c Birnov MT Wolgogradskaya Pravda (c)"]
+[Source "(c): Garcia=M Krug=P Estudios Artisticos de Ajedrez - XV-64 2015."]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Belokon, Stanislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "R7/2k3Bq/2pp2p1/3P3p/2K2pPP/5p2/5P2/8 w - - 0 1"]
+
+1. Bd4 $1 cxd5+ 2. Kb4 (2. Kb5 $2 Qd7+) (2. Kb3 $2 Kc6 3. Ra6+ Kb5) Qh6 3. g5 Qh7 4. Ra7+ Kc6 5. Rg7 (5. Rxh7 $2) Qh8 6. Rc7+ Kxc7 7. Bxh8 1-0
+
+[Event "1.c Karseladze MT Lelo"]
+[Source "EG#01463."]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Belokon, Stanislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/8/k4p2/7p/5p1P/5p1P/6pP/3N2BR w - - 0 1"]
+
+1. Nf2 $1 f5 $1 (Kb6 2. Kb8 Kc5 3. Kc7 Kd4 4. Kd6 Ke3 5. Kd5 Ke2 6. Ke4 Kf1 7. Kxf3 gxh1=Q+ 8. Nxh1 Kxg1 9. Nf2) (gxh1=Q 2. Nxh1) 2. Kb8 Kb6 $1 3. Kc8 Kc6 4. Kd8 Kd6 5. Ke8 Ke6 6. Kf8 Kf6 7. Kg8 Kg6 8. Nd3 $1 gxh1=Q (Kf6 9. Bd4+) (Kh6 9. Bd4 gxh1=Q 10. Bg7+ Kg6 11. Ne5#) 9. Bd4 Qxh2 (Qb1 10. Nxf4+ Kh6 11. Bg7#) (Qg2 10. Nxf4+) 10. Ne5+ Kh6 (Kf6 11. Nxf3+) 11. Nf7+ Kg6 12. Nh8+ $1 Kh6 13. Bg7# 1-0
+
+[Event "Tidskrift for Schack#1595"]
+[Source "Tidskrift for Schack/12"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Belokon, Stanislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/p7/8/4k2p/R6P/K2p1p1N/8 w - - 0 1"]
+
+1. Ra4+ $1 Kd5 (Ke3 2. Ra3+ Ke2 3. Rxa6) 2. Ra5+ Kc4 3. Ra4+ Kc3 4. Ra3+ Kc2 5. Rxa6 $1 d1=Q 6. Rc6+ Kd2 7. Rd6+ Ke1 8. Rxd1+ Kxd1 {<eg>} 9. Kb2 1/2-1/2
+
+[Event "3.p L'Italia Scacchistica#5398"]
+[Source "L'Italia Scacchistica/4 EG#02222."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Belokon, Stanislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/7B/2P2k2/B7/2q5/8/bn6/8 w - - 0 1"]
+
+1. Bd8+ $1 Ke5 2. Bc7+ Kd4 3. Bb6+ Kc3 4. Ba5+ Kb3 5. Bg8 Qxg8+ 6. Kxg8 Ka4+ 7. Kf8 Kxa5 8. c7 Be6 9. Ke7 Bh3 10. Kd8 1/2-1/2
+
+[Event "1.c Tidskrift for Schack#1662"]
+[Source "Tidskrift for Schack/10 EG#02418."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Belokon, Stanislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6q1/p1B2npk/8/5PP1/4Kp2/1R6/8/8 w - - 0 1"]
+
+1. Rh3+ $1 (1. g6+ $2 Kh6 $1 (Kh8 $2 2. Rh3+) 2. Bxf4+ (2. Rh3+ Kg5 3. Bxf4+ Kf6 4. gxf7 Qa8+) Kh5 3. Rh3+ Kg4) Nh6 2. g6+ Kh8 3. Rxh6+ $1 gxh6 4. Be5+ Qg7 5. Kxf4 $1 (5. Bxg7+ $2 Kxg7 6. Kxf4 a5 $1 7. Ke5 a4 8. f6+ Kxg6 9. Ke6 a3 10. f7 a2 11. f8=Q a1=Q) a5 $1 6. f6 $1 Qxg6 (Qd7 7. f7#) (Kg8 7. fxg7 a4 8. Bb2) 7. f7+ Kh7 8. f8=N+ $1 Kg8 9. Nxg6 1-0
+
+[Event "2.c Shakhmaty (Riga)#245"]
+[Source "EG#02603."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Belokon, Stanislav Grigorievich"]
+[White "Belokon, S"]
+[Black " Dolgov, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2R5/8/3k4/6P1/8/7K/5bN1/5r2 w - - 0 1"]
+
+1. g6 $1 Rh1+ $1 (Bd4 2. Rd8+ Ke5 3. Rxd4 Rh1+ 4. Kg3) 2. Kg4 Bd4 3. Rd8+ Kc5 4. Rxd4 $1 Rh6 $1 5. Rd5+ $1 Kxd5 6. Nf4+ Ke5 (Kd6 7. g7 Rh1 8. Kg3) 7. g7 Rg6+ $1 8. Nxg6+ Kf6 9. g8=R $1 1-0
+
+[Event "2.p Leningrad Kharkov match"]
+[Source "EG#03197."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Belokon, Stanislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5Knk/3P3p/2r2P1P/6pP/6P1/8/8/8 w - - 0 1"]
+
+1. f7 $1 (1. d8=Q $2 Rxf6+ 2. Ke8 Re6+ 3. Kd7 Rd6+ 4. Kxd6) Rf6 2. d8=B Rxf7+ 3. Kxf7 Nxh6+ 4. Kf8 Nxg4 5. h6 Nxh6 6. Bf6# 1-0
+
+[Event "1.p 64 Shakhmatnoye Obozrenye#12"]
+[Source "EG#05737."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Belokon, Stanislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/pP4P1/Kp6/1P6/8/n2P4/k7 w - - 0 1"]
+
+1. g7 $1 Nc1 2. g8=B $1 (2. g8=Q $2 Nb3+ 3. Qxb3) Kb2 (Nd3 3. Bd5 Ne5 4. Bxb7 Nc4+ 5. Kxa6) 3. d4 $1 (3. Bd5 $2 Nb3+ 4. Bxb3 Kxb3 5. d4 Kc4 6. d5 Kxd5) Kc3 $1 4. Bd5 $1 Nb3+ (Kxd4 5. Bxb7 Kc4 6. Bd5+ Kxd5 7. b7) 5. Bxb3 Kxb3 6. d5 Kc4 7. d6 Kd5 8. d7 Kc6 $1 9. d8=N+ $1 (9. d8=Q $2) (9. d8=R $2) (9. d8=B $2 Kd7) 1-0
+
+[Event "Shakhmaty v SSSR#03 (c)"]
+[Source "Shakhmaty v SSSR/1 (c): Garcia=M Estudios Artisticos de Ajedrez - I-31 2012."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Belokon, Stanislav Grigorievich"]
+[White "Belokon, S"]
+[Black " Mitrofanov, L."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2N5/B1q4p/7k/8/5N2/3K4 w - - 0 1"]
+
+1. Bd8+ $1 Qg5 (Kg3 2. Ne4+ Kf4 3. Nxc5) 2. Ne7 Qg1+ 3. Ke2 Kg3 (Qb1 4. Nf5#) (Kg5 4. Nh3+) 4. Nf5+ Kg2 (Kh2 5. Bc7+ Kg2 6. Ne3#) 5. Ne3+ Kg3 (Kh2 6. Bc7+ Qg3 7. Nf1+) 6. Bc7+ Kh4 7. Nf5+ Kg5 8. Nh3+ Kxf5 9. Nxg1 1-0

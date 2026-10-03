@@ -1,0 +1,67 @@
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/2"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Grechishnikov, N"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6N1/5k2/4p3/6p1/8/2K5 w - - 0 1"]
+
+1. Nh4+ $1 Kg4 2. Ng2 Kf3 3. Ne1+ $1 Ke2 4. Ng2 Kf2 5. Nf4 e3 (g2 6. Kd2 $1 g1=N 7. Nd3+ $1 Kf3 8. Ne5+ Kf4 9. Nd3+ $1 Kf5 10. Ke3 Nh3 11. Nc5) 6. Kd1 Kf1 $1 7. Ne2 g2 8. Ng3+ Kf2 9. Ne2 $1 Kf1 10. Ng3+ Kg1 11. Ke1 $1 (11. Ne2+ $2 Kf2 $1) (11. Ke2 $2 Kh2 12. Nf1+ Kh3 $1) Kh2 12. Ne2 1/2-1/2
+
+[Event "4.c Shakhmaty v SSSR#22"]
+[Source "Shakhmaty v SSSR/6 EG#05842."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Grechishnikov, N"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/n6k/1P1Pr2P/8/3P1p2/8/5K2/8 w - - 0 1"]
+
+1. d7 $1 Nc6 2. d5 Re2+ 3. Kxe2 Nd8 4. Kf3 Kxh6 5. Kxf4 Kg7 6. Ke5 Nb7 7. Ke6 (7. d6 $2 Nd8 8. Kd5 Kf6 9. b7 Nxb7 10. Kc6 Nd8+ 11. Kc7 Ne6+ 12. Kc8 Ke5) Kf8 8. Kf6 (8. d8=Q+ $2 Nxd8+ 9. Kd7 Nb7 10. Kc7 Nc5 11. d6 Ke8 12. Kc8 Nd7 13. b7 Nb6+ 14. Kb8 Kd8 15. Ka7 Nd7) Nd8 9. d6 Nb7 10. Ke5 Kf7 11. Kd5 Nd8 12. b7 Nxb7 13. Kc6 Ke6 14. Kc7 1-0
+
+[Event "64 Shakhmatnoye Obozrenye#11"]
+[Source "64 Shakhmatnoye Obozrenye/2"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Grechishnikov, N"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4N3/8/r3P3/1K4k1/4P3/3P4/6b1/8 w - - 0 1"]
+
+1. Nc7 $1 Bf1 2. e7 $1 Bxd3+ 3. Kc5 Rc6+ $1 4. Kd5 $1 Bxe4+ $1 5. Kxe4 Re6+ $1 6. Nxe6+ Kf6 7. e8=R $1 (7. e8=Q $2) 1-0
+
+[Event "64 Shakhmatnoye Obozrenye#88"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Grechishnikov, N"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/7b/4P3/8/4p2P/8/3K4/7B w - - 0 1"]
+
+1. e7 $1 Bg6 2. Bxe4 $1 Bf7 3. Bd5 $1 Be8 4. Bf3 Kc7 5. h5 Kd7 6. h6 Bg6 7. Bh5 $1 Kxe7 8. Bxg6 Kf8 9. Bh7 Kf7 10. Ke3 Kf6 11. Kf4 1-0
+
+[Event "64 Shakhmatnoye Obozrenye"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Grechishnikov, N"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/8/7p/8/7n/7P/7K/8 w - - 0 1"]
+
+1. Kg3 $1 Nf5+ $1 2. Kf4 $1 Ne7 3. Ke5 Kd7 4. Kf6 Kd6 $1 5. Kg7 Nf5+ 6. Kf6 $1 Ng3 7. Kg6 h5 8. Kg5 Ke5 9. Kh4 Kf4 1/2-1/2

@@ -1,0 +1,51 @@
+[Event "Deutsche Zeitung im Ostland#083 (cr)"]
+[Date "1943.03.09"]
+[Round "?"]
+[Composer "Kallert, Georg"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "Bk6/1P6/1P6/4p3/7p/1p1pBP1P/1P1P3p/4K3 w - - 0 1"]
+
+1. Kf2 $1 h1=Q (h1=R 2. Bc5) 2. Bf4 $1 exf4 (Qh2+ 3. Bxh2) (Qg2+ 3. Kxg2 exf4 4. Kf2) 1/2-1/2
+
+[Event "C. Behting MT Deutsche Zeitung im Ostla"]
+[Date "1943.10.31"]
+[Round "?"]
+[Composer "Kallert, Georg"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/8/6NK/5R2/6p1/b7/6p1/8 w - - 0 1"]
+
+1. Rf4 $1 g1=Q (Bc1 2. Ne7+ Kh8 3. Ng6+ Kg8 4. Ne7+) 2. Ne7+ Bxe7 3. Rxg4+ Qxg4 1/2-1/2
+
+[Event "3.p C. Behting MT Deutsche Zeitung im O"]
+[Date "1943.11.25"]
+[Round "?"]
+[Composer "Kallert, Georg"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/NK3B2/8/p7/k7/P7/3p2p1/3N4 w - - 0 1"]
+
+1. Nb5 $1 Kxb5 (g1=Q 2. Ndc3#) 2. Nc3+ Kc5 3. Ne4+ Kd4 (Kb5 4. Be8+ Kc4 5. Nxd2+ Kc3 6. Nf3) 4. Nxd2 Ke3 (g1=Q 5. Nf3+ Ke3 6. Nxg1) 5. Nf3 Kxf3 6. Bd5+ Kf2 7. Bxg2 1-0
+
+[Event "2.p C. Behting MT Deutsche Zeitung im O"]
+[Date "1943.12.20"]
+[Round "?"]
+[Composer "Kallert, Georg"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/8/2B1N3/4p1K1/8/2p1p3/8/8 w - - 0 1"]
+
+1. Bd5 $1 Kh7 (Kh8 2. Kh6 e2 3. Nf8 e1=Q 4. Ng6#) 2. Be4+ (2. Nc5 $2 e2 $1) Kg8 (Kh8 3. Kh6 e2 4. Nf8 Kg8 5. Ng6 Kf7 6. Nxe5+ Ke6 7. Nf3) 3. Kh6 e2 4. Bh7+ Kf7 5. Ng5+ Kf6 6. Nf3 e4 7. Bxe4 (7. Ne1 $2 Ke5 8. Kg5 Kd4 9. Kf4 c2 10. Nxc2+ Kd3 11. Bxe4+ Kd2) 1-0

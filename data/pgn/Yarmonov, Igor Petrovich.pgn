@@ -1,0 +1,13 @@
+[Event ".c Shakhmaty v SSSR (tt)"]
+[Source "EG#06560."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Yarmonov, Igor Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3p4/3P4/3p4/8/3P4/k6K w - - 0 1"]
+
+1. Kg2 $1 Kb2 2. Kf3 Kb3 (Kc2 3. Ke4 d3 (Kxd2 4. Kxd4) 4. Ke3) 3. Kf4 Kb4 4. d3 Kb3 5. Kf5 Kc2 6. Ke6 Kxd3 7. Kxd6 Kc4 (Ke4 {<main>} 8. Ke6 d3 9. d6 d2 10. d7 d1=Q 11. Ke7) 8. Kc6 d3 9. d6 d2 10. d7 d1=Q 11. Kc7 1/2-1/2

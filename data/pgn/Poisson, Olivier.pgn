@@ -1,0 +1,13 @@
+[Event ".c Diagrammes#157 (c)"]
+[Source "Diagrammes/9-10 1981 (c): Garcia=M Estudios Artisticos de Ajedrez - IX-5 2012."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Poisson, Olivier"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/p6R/3K4/1k6/1pN5/8 w - - 0 1"]
+
+1. Na3 $1 Kxa3 2. Kc3 $1 (2. Rb5 $2 Ka2 3. Kc3 b1=N+ $1) b1=N+ (b1=Q 3. Rxa5#) 3. Kc2 Ka2 4. Rxa5+ Na3+ 5. Kc3 1-0

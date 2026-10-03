@@ -1,0 +1,29 @@
+[Event "?"]
+[Site "?"]
+[Date "1915.??.??"]
+[Round "?"]
+[Composer "Kissling, Gustav Johann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/1p6/7p/5p1P/5P2/1p6/6RK/k7 w - - 0 1"]
+
+1. Rg5 (1. Rg8 $2 b2 2. Ra8+ Kb1 3. Ra5 Kc1 4. Rc5+ $10) b2 (hxg5 2. h6 (2. fxg5 $4 b2 $19) b2 3. h7 b1=Q 4. h8=Q+ (4. fxg5 $4 Qb2+ 5. Kh3 b5 6. g6 Qf6) Ka2 5. Qa8+ (5. Qf8 $4 Qc2+ 6. Kg1 Qd1+ $19) (5. Qg8+ $2 Kb2 6. Qh8+ $10) (5. fxg5 $2 Qc2+ 6. Kh1) (5. Qb8 $4 Qc2+ 6. Kg1 Qc1+) (5. Qc3 $4 g4 6. Qc4+ Qb3) (5. Qh7 $4 Qc2+ 6. Kg1 Qc1+) (5. Qg7 Qc2+ 6. Kg1 Qc1+) (5. Qh3 Qc2+ 6. Kg1 Qc1+) Kb2 6. Qxb7+ $3 $18 (6. Qb8 $4 Qc2+ 7. Kg1 Qd1+) (6. Qa7 Qc2+ 7. Kg1 Qd1+) (6. Qh8+ Kb3 7. Qg8+)) 2. Rxf5 (2. Rg6 $4 b1=Q 3. Rxh6 Qd1 $19) (2. Rg2 b1=Q) b1=Q 3. Ra5+ (3. Re5 $4 b5 4. Kg3 Qd3+ $19) (3. Rf6 $4 Qb2+ 4. Kg1 Qxf6) (3. Rf7 $4 Qa2+ 4. Kg3 Qxf7) (3. Rb5 Qxb5) (3. Rf8 Qb2+ 4. Kh1 b5) Kb2 4. Rb5+ $18 (4. f5 $4 Qc2+ 5. Kg1 Qd1+) 1-0
+
+[Event "Deutsches Wochenschach#0298 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - V-59 2012."]
+[Date "1897.04.04"]
+[Round "?"]
+[Composer "Kissling, Gustav Johann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/1p6/5K2/6P1/2p2p1p/8/8/3N4 w - - 0 1"]
+
+1. g6 $1 h3 (f3 2. Nf2) 2. Nc3 h2 3. Nd5 h1=Q 4. Ne7+ Kf8 5. g7+ Ke8 6. g8=Q+ Kd7 7. Qc8+ (7. Qe6+ $2 Kc7) Kd6 8. Nf5+ Kd5 9. Qxb7+ Kc5 10. Qxh1 1-0

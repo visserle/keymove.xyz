@@ -1,0 +1,26 @@
+[Event "Revista de Romana de Sah#1051"]
+[Source "Revista de Romana de Sah/9"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Chobanyan, Sergei"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/1rR5/8/k1K5/p2B4/1P4p1/8 w - - 0 1"]
+
+1. b3+ $1 Ka5 2. Rc5+ Ka6 3. Kc3+ (3. Kd4+ $2 Kb7 4. Rc1 Rxb3) Kb7 4. Be4+ (4. Rg5 $2 a2 5. Be4+ Kc7 6. Kb2 Rxb3+) Kb8 5. Bxg2 Ra6 6. Bf1 $1 a2 7. Rc8+ Kxc8 8. Bxa6+ Kc7 9. Kb2 1-0
+
+[Event "Suomen Shakki"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Chobanyan, Sergei"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4KR2/5Pk1/6p1/8/P7/1q6/8/8 w - - 0 1"]
+
+1. Rg8+ $1 Kh7 2. Rh8+ (2. Rg7+ $2 Kh6 3. f8=Q Qb8+ 4. Kf7 Qb3+ 5. Kf6 Qf3+ 6. Ke7 Qb7+ 7. Ke6 Qe4+ 8. Kf7 Qc4+ 9. Ke8 Qc8+ 10. Ke7 Qc5+ 11. Kf7 Qc4+) Kxh8 3. f8=Q+ Kh7 4. Qf7+ Qxf7+ 5. Kxf7 g5 6. a5 g4 7. a6 g3 8. a7 g2 9. a8=Q g1=Q 10. Qe4+ Kh6 11. Qh4# 1-0

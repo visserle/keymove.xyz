@@ -1,0 +1,54 @@
+[Event "Bulletin Central Chess Club USSR#51 (s)"]
+[Source "Bulletin Central Chess Club USSR/12"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Kolesnikov, Evgeny"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/K3p3/1n3P2/3P4/2b5/8/7k/8 w - - 0 1"]
+
+1. fxe7 $1 Nc8+ 2. Kb7 Nxe7 3. d6 1/2-1/2
+
+[Event "Sachová Skladba#00893"]
+[Source "Sachová Skladba/3"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Kolesnikov, Evgeny"]
+[White "Kolesnikov, E"]
+[Black " Roslyakov, A."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3N4/4P2k/8/8/8/4K3/6r1 w - - 0 1"]
+
+1. e7 $1 Rg2+ (Rg8 2. Nf8 Rg5 3. Ng6 $1) 2. Kd3 $1 (2. Kf3 $2 Rg8 3. Nf8 Kg7 4. e8=Q Rxf8+) Rg3+ 3. Kd4 Rg4+ 4. Kd5 Rg5+ 5. Kd6 Rg6+ 6. Nf6 $1 Rxf6+ 7. Kd5 Rf5+ 8. Kd4 Rf4+ 9. Ke3 Rf1 10. Ke2 1-0
+
+[Event "3/4.p Moscow champ Bulletin Central Che"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Kolesnikov, Evgeny"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "n4K2/P6p/1p1p4/5k2/3P3P/8/P7/8 w - - 0 1"]
+
+1. Ke7 $1 Ke4 2. Kd8 $1 (2. Kxd6 $2 Kxd4 3. Kc6 Ke5 4. Kb7 Kd6) (2. Kd7 $2 Kd5 3. h5 b5 4. h6 b4) Kd5 $1 (Kxd4 3. Kc8 Kc5 4. Kb7) 3. Kd7 b5 4. h5 b4 5. h6 Kxd4 6. Kc6 $1 (6. Kc8 $2 Kc5 7. Kb7 Nb6) Ke5 7. Kb7 1-0
+
+[Event "Shakhmatna Misl#041"]
+[Source "Shakhmatna Misl/4"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Kolesnikov, Evgeny"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1R6/8/8/p3Q3/p4r2/K4r2/3k3b/8 w - - 0 1"]
+
+1. Ka2 $1 Ra3+ 2. Kxa3 Rf3+ 3. Rb3 Rxb3+ 4. Ka2 Ra3+ (Bxe5) 5. Kb1 Rb3+ (Bxe5) 6. Ka2 Bxe5 1/2-1/2

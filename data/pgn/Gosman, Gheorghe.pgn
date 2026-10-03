@@ -1,0 +1,26 @@
+[Event "Revista de Romana de Sah"]
+[Source "Revista de Romana de Sah/8 after Herland=S f1h1 1913."]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Gosman, Gheorghe"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p1p1p1/2P1P1P1/P7/5p2/1p1p1p1p/1P1P4/5K1k w - - 0 1"]
+
+1. a6 $1 h2 2. a7 f2 3. a8=N $1 f3 4. Nb6 $1 cxb6 5. c7 b5 6. c8=N $1 b4 7. Nd6 $1 exd6 8. e7 d5 9. e8=N $1 d4 10. Nf6 $1 gxf6 11. g7 (11. Kxf2 {<or>} f5 12. g7 f4 13. Kxf3 Kg1 14. g8=Q+) f5 12. Kxf2 $1 f4 13. Kxf3 Kg1 14. g8=Q+ 1-0
+
+[Event "Revista de Romana de Sah#0242"]
+[Date "1938.11.30"]
+[Round "?"]
+[Composer "Gosman, Gheorghe"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4B3/p5Pp/P6k/8/8/8/8/K7 w - - 0 1"]
+
+1. g8=B $1 (1. g8=Q $2) (1. g8=N+ $2 Kg7 2. Ne7 Kf8 3. Nc6 Kxe8 4. Nxa7 Kd8 5. Nc6+ Kc7 6. a7 Kb7 7. Kb2 h5) Kg7 2. Bd5 Kf8 3. Bd7 Ke7 4. B5e6 Kd6 5. Kb2 1-0

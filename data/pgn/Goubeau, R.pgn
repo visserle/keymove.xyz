@@ -1,0 +1,26 @@
+[Event "1.hm La Stratégie#455"]
+[Date "1900.??.??"]
+[Round "?"]
+[Composer "Goubeau, R"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/4p1N1/8/8/4Q3/8/2pq2PP/7K w - - 0 1"]
+
+1. Ne6+ $1 Ke8 (Kf7 2. Qf5+ Ke8 3. Qf8+ Kd7 4. Qd8+) 2. Qg6+ Kd7 3. Qd3+ Qxd3 4. Nc5+ Kd6 5. Nxd3 e5 {<eg>} (Kd5 6. Nb4+ Kc4 7. Nxc2) 6. Kg1 e4 7. Nc1 1-0
+
+[Event "4.hm La Stratégie#0390"]
+[Source "La Stratégie/12"]
+[Date "1912.??.??"]
+[Round "?"]
+[Composer "Goubeau, R"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/k1Kb2p1/p5R1/6N1/1P4p1/4N2p/8 w - - 0 1"]
+
+1. Nxg3 $1 Bxg3 2. Nxh2 Bxh2 3. b4 axb4 (Ka7 4. Rxa5+ Kb8 5. Rb5+ (5. Rg5 {<or>}) Kc8 (Ka7 6. Rb7+ Ka6 7. Rb8 Ka7 8. Rg8 Bd6 9. b5 Bf4 10. Rg7 Kb8 11. Rg8+ Ka7 12. Rc8 g5 13. Rxc7+ Bxc7 14. Kxc7) (Ka8 6. Rb7 g5 7. b5 g4 8. Rxc7 Bxc7 9. Kxc7 g3 10. b6) 6. Rg5 Bd6 (Bf4 7. Rxg6 Kb8 8. Rg8+ Ka7 9. Rf8) 7. Rxg6 Kb8 (Kd8 8. b5 Bf4 9. Rg8+ Ke7 10. Rc8) 8. Rg5 Bf4 (Be7 9. Rg8+ Ka7 10. b5 Bd8 11. b6+ cxb6 12. Rxd8) (Ka7 9. b5 Bf4 10. Rg8 Bh2 11. Rc8 Bg3 12. Rxc7+ Bxc7 13. Kxc7 Ka8 14. Kb6 Kb8 15. Ka6 Ka8 16. b6) 9. Rg8+ Ka7 10. Rc8 Bd6 11. Rxc7+ Bxc7 12. Kxc7 Ka6 13. Kc6 Ka7 14. b5 Kb8 15. Kb6 Ka8 16. Kc7) 4. Rg2 b3 5. Rxh2 Ka5 6. Kc5 1-0

@@ -1,0 +1,25 @@
+[Event "Tidskrift for Schack#1233a (tw)"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Cvejic, Bogdan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/6pp/P5P1/6P1/p1K5/8/k7 w - - 0 1"]
+
+1. Kc2 $1 (1. gxh6 $2 Kb1) (1. Kb3 $2 a2 2. Kc2 hxg5 3. Kc1 b5) hxg5 2. Kb3 Kb1 (a2 3. Kc2 b5 4. a6 b4 5. a7 b3+ 6. Kxb3 Kb1 7. a8=Q a1=Q 8. Qh1#) 3. Kxa3 Kc2 4. Kb4 Kd3 5. Kc5 Kc3 6. Kb6 Kb4 7. Kxb7 Kxa5 8. Kc6 Kb4 9. Kd5 Kc3 10. Ke5 Kd3 11. Kf6 Ke4 12. Kxg6 Kf4 13. Kh5 1-0
+
+[Event "Tidskrift for Schack#1233b (tw)"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Cvejic, Bogdan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/6pp/P7/6PP/p1K5/8/k7 w - - 0 1"]
+
+1. Kb3 $1 (1. Kc2 $2 a2 2. h5 g5 3. Kc1 b5 $1) g5 (a2 2. Kc2 h5 3. g5 $1 b5 4. a6 b4 5. a7 b3+ 6. Kxb3) 2. h5 $1 a2 3. Kc2 b5 4. a6 b4 5. a7 b3+ 6. Kxb3 Kb1 7. a8=Q a1=Q 8. Qh1# 1-0

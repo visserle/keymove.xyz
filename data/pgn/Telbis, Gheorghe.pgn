@@ -1,0 +1,180 @@
+[Event "Revista de Romana de Sah#0452"]
+[Source "Revista de Romana de Sah/9"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Telbis, Gheorghe"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3b4/5B1K/1N6/1p2P1k1/1P6/4p3/8/8 w - - 0 1"]
+
+1. Bh5 $1 Kxh5 2. Nd5 Bg5 3. e6 $1 (3. Nc3 $2 Kg4 4. Kg7 Be7 5. Kf7 Bxb4 6. e6 Bc5) e2 4. e7 e1=Q (Bxe7 {<main>} 5. Nf4+ Kg4 6. Nxe2 Bf6 7. Kg6 Bb2 8. Kf7 Kf5 9. Ke7 Ke5 10. Nf4) 5. e8=Q+ Qxe8 6. Nf6+ Bxf6 1/2-1/2
+
+[Event "Revista de Romana de Sah#0570"]
+[Source "Revista de Romana de Sah/12 EG#01542."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Telbis, Gheorghe"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p3pK2/8/k2p4/8/PPp5/B7/8 w - - 0 1"]
+
+1. Bb1 $1 e5 2. Ke6 e4 3. Kxd5 e3 4. Kc6 e2 5. Bc2 e1=Q (e1=N {<main>} 6. b4+ Ka6 7. Bf5 c2 8. Bc8#) 6. b4+ Ka6 7. Bd3# 1-0
+
+[Event "8.c Farago MT Revista de Romana de Sah "]
+[Source "Revista de Romana de Sah/11 1973 (c): Garcia=M Estudios Artisticos de Ajedrez - X-53 2012."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Telbis, Gheorghe"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5p2/1N6/3p1pP1/4N3/5pp1/5P1p/4KBk1 w - - 0 1"]
+
+1. Nxg3 $1 f4 2. Nh1 $1 Kxh1 3. Nxd5 Kg1 4. Nxf4 h1=Q 5. Nh3+ Kh2 6. g6 $1 fxg6 7. Ng5 $1 Qg2 $1 (Qg1 8. Nxf3+ Kh1 9. Nxg1) (Kg1 8. Nh3+ Kh2 9. Ng5) 8. Bxg2 fxg2 9. Ke2 $1 (9. Nf3+ $2 Kh1 10. Ke2 g5 11. Ke1 g4) Kh1 10. Nh3 $1 (10. Nf3 $2 g5) Kh2 11. Ng5 1/2-1/2
+
+[Event "Revista de Romana de Sah#0611"]
+[Source "Revista de Romana de Sah/9"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Telbis, Gheorghe"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7N/p4p2/8/8/6p1/5p1p/5P2/4KB1k w - - 0 1"]
+
+1. Bxh3 $1 gxh3 2. Kf1 a5 3. Nxf7 a4 4. Ne5 a3 5. Nd3 a2 6. Ne1 a1=Q 1/2-1/2
+
+[Event "1.hm Revista de Romana de Sah#0646 (@2)"]
+[Source "Rev@sta de Romana de Sah/2 EG#03396.7.p Rumanian champ 1973-1975. î2: Ulrichsen=J EG=170 10/2007."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Telbis, Gheorghe"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7N/8/8/p7/5p2/7p/4KPk1/8 w - - 0 1"]
+
+1. Ng6 $1 a4 (f3+ {<main>} 2. Ke1 $1 a4 3. Nf4+ Kh1 $1 4. Kf1 $1 a3 5. Nd3 a2 6. Ne1 $1 a1=Q) 2. Nxf4+ Kh1 $1 3. f3 $1 a3 4. Kf2 a2 5. Ne2 (5. Nh5 $1 {<minor dual JU>}) a1=Q 6. Ng3+ Kh2 7. Nf1+ Kh1 8. Ng3+ 1/2-1/2
+
+[Event "4.c Revista de Romana de Sah#0781"]
+[Source "Revista de Romana de Sah/3 EG#04120."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Telbis, Gheorghe"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4rk1r/7p/6PK/8/8/6B1/p3p2R/8 w - - 0 1"]
+
+1. g7+ $1 (1. Rf2+ $2 Kg8 2. g7 Re6+ 3. Kh5 Kxg7 $1) Kg8 $1 (Kf7 2. gxh8=Q Rxh8 3. Rf2+ Ke6 (Kg8 4. Bd6 e1=Q 5. Rf8#) 4. Rxe2+) 2. Rxe2 Rxe2 3. Be5 $1 Rh2+ 4. Bxh2 a1=Q 5. gxh8=Q+ Kxh8 (Qxh8 {<main>} 6. Be5 Qxe5) 6. Be5+ Qxe5 1/2-1/2
+
+[Event "Magyar Sakkélet#1368 (v)"]
+[Source "Magyar Sakkélet/7"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Telbis, Gheorghe"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/p7/2p5/1kr4p/1p6/PP5p/7P/6B1 w - - 0 1"]
+
+1. a4+ $1 (1. Bxc5 $2 Kxc5 2. a4 Kb6) Kb6 2. Kb8 (2. a5+ $2 Kxa5 3. Bxc5 Kb5 4. Bxa7 c5 5. Kb7 c4 6. bxc4+ Kxc4 7. Bb8 b3 8. Be5 Kd5 9. Bb2 Ke4) (2. Bf2 $2 a5 3. Kb8 h4 4. Kc8 Ka6 5. Bxc5) h4 (a5 3. Kc8 Ka6 4. Bxc5) 3. Kc8 a6 4. Be3 Ka5 5. Kb7 (5. Bxc5 $2) Rb5+ 6. Ka7 (6. axb5 $2 Kxb5) Rc5 7. Bf4 (7. Bxc5 $2) Re5 (Rb5 {<main>} 8. Bc7+ Rb6 9. Bxb6#) 8. Bxe5 c5 9. Bc7# 1-0
+
+[Event "2.p Gazeta Czestochowska#2859"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Telbis, Gheorghe"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/Bp3p2/1P6/8/5p2/p7/4PK1N/n6k w - - 0 1"]
+
+1. Ng4 $1 (1. Bb8 $2 Kxh2 2. Bxf4+ Kh3 3. Be5 Nc2 4. Kf3 a2 5. Ke4 a1=Q 6. Bxa1 Nxa1) (1. Nf3 $2 Nc2 2. Nd2 (2. Bb8 f6 3. Nd2 Nd4) Nd4) (1. Nf1 $2 Nb3 2. Bb8 f6 3. Bxf4 a2 4. Ng3+ Kh2) Nc2 $1 (a2 2. Bb8 Nc2 (f6 3. Nxf6) 3. Be5 a1=Q 4. Bxa1) 2. Bb8 Ne3 $1 (a2 3. Be5) 3. Nxe3 (3. Be5 $2 Nxg4+ 4. Kf3 Nxe5+) fxe3+ 4. Kf1 $1 (4. Kxe3 $2 f6) f6 5. Bg3 $1 a2 6. Be1 a1=B $1 (a1=Q) 7. Bc3 Bxc3 1/2-1/2
+
+[Event "Shahmat (v)"]
+[Source "Shahmat/5-6"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Telbis, Gheorghe"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/2K3p1/6p1/Pp2p1Pp/1P2P2P/4Nk2 w - - 0 1"]
+
+1. Kd4 $1 (1. Nd3 $2 Kg2 2. Ne5 Kxh2 3. Nxg4+ Kxg3 4. Nxe3 Kf4 5. Nf1 g4) (1. a4 $2 Kxe1 2. a5 Kxe2 3. a6 Kf2 4. a7 e2 5. a8=Q e1=Q) Kxe1 (Kg1 2. Kxe3 Kxh2 3. Kf2 Kh1 4. Nd3 h2 5. Ke1 Kg2 6. Nf2 Kxg3 7. Kf1) 2. Kxe3 (2. Kd3 $2 Kf2 3. a4 Kg2 4. a5 Kxh2 5. a6 Kg1 6. a7 h2 7. a8=Q h1=Q) Kf1 3. a4 Kg1 4. a5 Kxh2 5. a6 Kxg3 $1 6. a7 h2 7. a8=B $1 (7. a8=Q $2 h1=Q 8. Qxh1) h1=Q 8. Bxh1 Kh2 9. Kf2 $1 Kxh1 10. Kg3 1-0
+
+[Event "1.p Buletin Problemistic#222"]
+[Source "Buletin Problemistic/7-12 EG#06711 EG#09317. also Telbis=G Valentic=V .c Chess Life & Review#1615 1991."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Telbis, Gheorghe"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1NN5/6p1/5pPp/7K/2pp3P/8/8/1k6 w - - 0 1"]
+
+1. Nd6 $1 (1. Nb6 $2 c3 2. Nc4 d3) (1. Nc6 $2 d3) (1. Na7 $2 d3 2. Nb5 d2 3. Nc3+ Kc2) c3 2. Nb5 c2 3. Na3+ Kb2 (Kc1 4. Nc6 d3 5. Nb4 d2 6. Nd3+ Kd1 7. Nb2+ Kc1 8. Nd3+) 4. Nxc2 Kxc2 5. Nd7 $1 (5. Nc6 $2 d3 6. Nb4+ (6. Nd4+ Kc3 7. Nf3 f5 $1 8. Nd2 f4 $1 9. Ne4+ Kd4 10. Nf2 Ke3 11. Nd1+ Kf3 12. Nc3 d2 13. Nd1 Kg2 14. Kg4 f3 15. Ne3+ Kf2 16. Nd1+ Ke1) Kc3 7. Nd5+ Kd4 8. Nxf6 d2 9. Ng4 d1=R $1 (d1=Q $2) 10. Nxh6 Ke5 11. Nf7+ (11. Ng4+ Kf4) Kf6) d3 6. Nxf6 d2 (gxf6 7. g7 d2 8. g8=Q d1=Q+ 9. Kxh6) 7. Ng4 $1 d1=Q (d1=R 8. Ne3+ Kd2 9. Nxd1 Kxd1) (d1=N 8. Nxh6) 1/2-1/2
+
+[Event "Revista de Romana de Sah#1033"]
+[Source "Revista de Romana de Sah/11"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Telbis, Gheorghe"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5k2/2R5/5K2/p5p1/P2P4/6p1/1b6 w - - 0 1"]
+
+1. Rc7+ $1 (1. Rc1 $2 Bxd3+ 2. Kxg4 Bf1) Kg8 $1 (Ke8 2. Rc1 Bxd3+ 3. Ke6 Kd8 4. Rg1 Bf1 5. Kf5 Kd7 6. Kxg4 Kd6 7. Kf4) (Kf8 2. Rc1 Bxd3+ 3. Kf6 Ke8 4. Rg1 Bf1 5. Kf5 Kd7 6. Kxg4 Kd6 7. Kf4) 2. Rc8+ $1 (2. Rc1 $2 Bxd3+ 3. Kf6 Bf1 4. Rc8+ Kh7 5. Rc7+ Kh6 6. Rc8 Bd3 $1 7. Rc1 g3 $1) Kg7 3. Rc7+ Kh6 4. Rc1 $1 Bxd3+ 5. Kxg4 $1 (5. Kf6 $2 Kh5 $1) Bf1 6. Kh4 $1 g1=Q $1 7. Rc6+ Kh7 8. Rh6+ Kg7 (Kxh6) 9. Rg6+ Qxg6 (Kxg6 {<main>}) 1/2-1/2
+
+[Event "Revista de Romana de Sah#1038"]
+[Source "Revista de Romana de Sah/3"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Telbis, Gheorghe"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3N4/8/8/2qP1k2/8/8/KQ6/8 w - - 0 1"]
+
+1. Qb1+ $1 (1. Qb3 $2 Qa5+ 2. Kb2 Qxd8) (1. Qd2 $2 Qa7+ 2. Kb3 Qb8+ 3. Kc4 Qxd8) Ke5 (Kf6 2. Qe4) (Kg5 2. Ne6+) 2. Qe1+ Kxd5 3. Qh1+ Kc4 4. Qf1+ $1 Kb4 $1 5. Qb1+ Kc3 6. Qc1+ Kb4 7. Qb2+ Ka4 8. Qb3+ Ka5 9. Nb7+ Ka6 10. Nxc5+ 1-0
+
+[Event "Revista de Romana de Sah#1090 (m)"]
+[Source "Revista de Romana de Sah/12"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Telbis, Gheorghe"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4R3/6p1/6k1/4K3/6P1/B2pp3/8/4b3 w - - 0 1"]
+
+1. Bc1 $1 (1. Rd8 $2 d2 2. Bb4 e2 3. Rxd2 Bg3+ $1) (1. Re6+ $2 Kf7 $1 2. Bc1 d2 3. Bxd2 exd2 4. Rd6 Bg3+ $1) Kf7 $1 2. Kf4 $1 Bd2 $1 3. Rc8 Bxc1 4. Rc7+ Ke6 5. Rc6+ Kd5 6. Rxc1 d2 7. Rd1 Kd4 8. Kf3 Kd3 9. Ra1 $1 g5 (e2 {<main>} 10. Ra3+ Kc2 11. Ra2+ Kd3 12. Ra3+) 10. Ra3+ Kc2 11. Ra1 Kd3 12. Ra3+ 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "Szachy#224"]
+[Source "15.p Polish champ 1959-1960."]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Pallasz, Edward"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5P1k/8/4R1p1/5p1n/5p1K/8 w - - 0 1"]
+
+1. f7 $1 Kg7 (f1=N+ 2. Kh1 Kg7 3. Rxg4+ Kxf7 4. Rg7+ Kxg7) 2. Rxg4+ Kf8 3. Rg8+ Kxf7 4. Rg3 $1 f1=Q 5. Rxf3+ Qxf3 1/2-1/2

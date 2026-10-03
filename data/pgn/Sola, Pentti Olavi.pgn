@@ -1,0 +1,12 @@
+[Event "Helsingin Sanomat"]
+[Date "1928.03.18"]
+[Round "?"]
+[Composer "Sola, Pentti Olavi"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3k4/3p1p1p/3p1P2/3Pp1P1/1p2P3/1P2P3/7K w - - 0 1"]
+
+1. Kh2 $1 (1. Kg1 $2 Kc8 $1 2. Kf1 Kc7 $1 3. Ke1 Kc6 4. Kd2 Kb5 5. Kc3 Ka4 6. Kd2 Kb5 7. Ke1 Kc6 8. Kf1 $1 (8. Kf2 Kd7 $1) Kc7 $1 (Kd7 $2 9. Kf2 $1) 9. Kg2 (9. Kg1 Kc8 $1) Kd8 $1 10. Kh3 Ke7 11. Kh4 (11. Kg3 Ke8 $1) Kf7 12. Kh5 Kg7) (1. Kg2 $2 Kd8 $1) Ke8 $1 (Kd8 2. Kg2 $1 Ke7 (Kc8 3. Kh3) (Kd7 3. Kf2 $1) 3. Kf1 $1 Kd7 (Ke8 4. Ke1) (Kd8 4. Ke1) 4. Kf2 $1) (Ke7 2. Kg1 $1) 2. Kg1 $1 Kd8 (Ke7 3. Kf1 $1 Kd8 (Kd7 4. Kf2 $1) 4. Ke1 Ke7 5. Kd2) 3. Kg2 $1 (3. Kf1 $2 Kc7 4. Kg1 Kc8 $1 5. Kg2 Kd8) Ke8 (Ke7 4. Kf1 $1) (Kd7 4. Kf2 $1) 4. Kf1 $1 Kd7 (Kd8 5. Ke1 Kc7 6. Kd2 Kc6 7. Kc3) 5. Kf2 $1 1-0

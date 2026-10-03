@@ -1,0 +1,254 @@
+[Event "Shakhmaty v SSSR#776"]
+[Source "Shakhmaty v SSSR/8"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Kivi, Visa"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "2N4K/8/6kP/1n6/8/p7/8/8 w - - 0 1"]
+
+1. h7 $1 (1. Ne7+ $2 Kf7 $19) (1. Nd6 $2 a2 $19) (1. Nb6 $2 a2) Kf7 (a2 2. Kg8 (2. Ne7+ $2 Kf7 $19) (2. Nd6 $2 a1=Q+ 3. Kg8 Qg7#) (2. Nb6 $2 a1=Q+ 3. Kg8 Qg7#) a1=Q 3. Ne7+ $1 $10 (3. h8=Q $2 Qa2+ 4. Kf8 Qf7#) (3. Nd6 Qg7#)) 2. Nd6+ $1 (2. Ne7 $2 a2 $19) (2. Nb6 $2 a2) Kf8 (Nxd6) 3. Nxb5 (3. Ne8 $2 a2 $19) (3. Ne4 $2 a2 $19) (3. Nc4 $2 a2 $19) (3. Nf5 $2 Nd6 4. Nxd6 a2 $19) (3. Nf7 $2 a2 $19) a2 4. Nd4 $1 (4. Nc3 $2 a1=R $1 5. Nb5 (5. Ne4 Kf7 6. Ng5+ Kg6) Kf7 6. Nc7 Ra7 7. Ne8 Rd7 8. Nd6+ Kg6) a1=R (a1=Q) 5. Ne6+ (5. Nf5 $2 Kf7 $19 6. Nh6+ Kg6) (5. Nc2 $2 Ra8 6. Nb4 Kf7#) (5. Nb3 $2 Ra8 6. Na5 Kf7#) (5. Nc6 $2 Ra6 6. Ne7 Kf7 7. Nc8 (7. Ng8 Re6 8. Nh6+ (8. Ne7 Re1 9. Ng8 Kg6) Kg6 9. Ng8 Re1) Kg6 8. Kg8 Ra8) Kf7 6. Nd8+ (6. Ng5+ $2 Kg6 $19) (6. Nf8 $2 Rc1 $19) (6. Ng7 $2 Ra8+ 7. Ne8 Rxe8#) (6. Nc7 $2 Rb1 (Ra7 7. Ne8 Rd7 8. Nd6+ Kg6)) (6. Nf4 Ra8#) (6. Nc5 Ra8#) Kg6 7. Kg8 (7. Nf7 $2 Ra8+ 8. Nd8 Rxd8#) (7. Ne6 $2 Ra8+ 8. Nd8 Rxd8#) (7. Nb7 $2 Ra8+ 8. Nd8 Rxd8#) Ra8 8. h8=N+ $10 $1 (8. Kf8 $2 Rxd8+ 9. Ke7 Rh8 $19 10. Ke6 Rxh7) Kf6 9. Nhf7 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Kivi, Visa"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/1k2N3/8/8/4p3/2p1P3/6K1/5B2 w - - 0 1"]
+
+1. Ba6+ (1. Bb5 $2 c2 2. Bc6+ $10) (1. Nc8 Kxc8) Ka8 (Kxa6 2. Nc6 $18) (Ka7 2. Nc6+ $18) 2. Nc6 (2. Nd5 $4 c2 $19) (2. Kf2 $2 c2 3. Bb5 $10) (2. Nf5 $2 c2 3. Bc4 $10) (2. Bc8 $2 c2 3. Bf5 $10) (2. Nc8 $4 c2 $19 3. Bb7+ Kxb7 4. Nd6+ Kc6) (2. Bc4 $2 c2 3. Nf5) (2. Be2 $4 c2) (2. Bb5 $2 c2 3. Bc6+) (2. Kg3 $2 c2 3. Bc4) (2. Kf1 c2) c2 3. Bb7+ (3. Nb4 $4 c1=Q $19 4. Bb7+ Kxb7) (3. Bc8 $4 c1=Q $19 4. Bb7+ Kxb7 5. Nd8+ Kb6) (3. Kg3 $4 c1=Q $19 4. Bb7+ Kxb7 5. Nd8+ Kc7) (3. Nd4 $4 c1=Q $19 4. Bb7+ Kxb7) (3. Na5 $4 c1=Q 4. Bb7+ Kb8) (3. Nd8 $4 c1=Q 4. Bb7+ Kb8) (3. Be2 c1=Q) (3. Bb5 c1=Q) (3. Kf2 c1=Q) (3. Kf1 c1=Q+ 4. Ke2 Qc2+) Kxb7 4. Na5+ (4. Nd8+ $4 Ka6 $19) (4. Na7 c1=Q) Kb6 5. Nb3 $18 (5. Nc4+ $4 Kc7 $19) (5. Nc6 Kxc6) (5. Nb7 Kxb7) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1945.??.??"]
+[Round "?"]
+[Composer "Kivi, Visa"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "1N2k2K/7b/1P6/8/8/8/1p6/3B4 w - - 0 1"]
+
+1. Bh5+ (1. Ba4+ $2 Kd8 2. Nc6+ Kc8) (1. Kxh7 $2 b1=Q+ 2. Kg7 Qxd1 $19) (1. Na6 $2 b1=Q $19 2. Bh5+ Kf8) (1. Nc6 $2 b1=Q $19 2. Bh5+ Kf8) (1. b7 $2 b1=Q 2. Bh5+ Bg6) (1. Bg4 $2 b1=Q 2. Bh5+ Ke7) (1. Kg7 $2 b1=Q 2. Bh5+ Kd8) (1. Be2 $2 b1=Q 2. Bh5+ Ke7) (1. Bf3 $2 b1=Q 2. Bh5+ Ke7) Kd8 (Ke7 2. Nc6+ Kd7 3. b7 $10) 2. Nc6+ (2. Bg4 $2 b1=Q 3. Nc6+ Ke8) (2. Kxh7 $2 b1=Q+ 3. Bg6 Qxb6) (2. b7 $2 Kc7 3. Na6+ Kxb7 4. Kxh7 b1=Q+) (2. Na6 b1=Q) Kc8 3. Bg4+ (3. Na7+ $2 Kb7 4. Bf3+ Kxb6 5. Nc8+ Kc7 $19) (3. Bg6 $2 Bxg6 4. Ne7+ Kd7 $19) (3. Ne7+ $2 Kd7 $19 4. Be8+ Kxe7 5. Kxh7 b1=Q+) (3. Nb4 $2 b1=Q 4. Bg4+ Bf5) (3. b7+ $2 Kxb7 4. Na5+ Kc7) (3. Bf3 $2 b1=Q 4. Bg4+ Kb7) (3. Kxh7 $2 b1=Q+ 4. Kg7 Qb2+) (3. Na5 $2 b1=Q 4. b7+ Kc7) Kb7 4. Na5+ (4. Nb4 $2 b1=Q $19 5. Bc8+ Kxc8 6. b7+ Kb8 7. Nc6+ Kxb7) (4. Nd8+ $2 Kxb6 5. Kxh7 b1=Q+ $19) (4. Nd4 $2 b1=Q 5. Bf3+ Kxb6 $19) (4. Ne7 $2 b1=Q 5. Bc8+ Kxb6 6. Nd5+ Kc6) (4. Bf3 $2 b1=Q 5. Nd8+ Kxb6) (4. Kxh7 $2 b1=Q+ 5. Kh6 Kxc6) (4. Bc8+ $2 Kxc6 5. Kxh7 b1=Q+) (4. Bf5 $2 Bxf5 5. Na5+ Ka6) (4. Bd7 b1=Q) Ka6 (Kb8 5. Nc6+ (5. b7 $2 b1=Q $19 6. Nc6+ Kxb7 7. Nd8+ Kc7) (5. Kxh7 $2 b1=Q+ 6. Kg7 Qa1+) (5. Kg7 $2 b1=Q 6. Nc6+ Kb7) Ka8 6. Bc8 (6. b7+ $2 Kxb7 7. Nd8+ Ka7 $19) (6. Nd4 b1=Q 7. Bf3+ Be4) (6. Nb8 Kxb8 7. Kxh7 b1=Q+) b1=Q 7. b7+ $10 (7. Bb7+ $2 Kxb7 8. Na5+ Kxb6 9. Nc4+ Kc6) (7. Na5 $2 Be4 8. b7+ Kb8)) (Ka8 5. Bf3+ (5. Bc8 $2 Be4 6. b7+ Kb8 $19 7. Nc6+ Bxc6) (5. b7+ $2 Kb8 $19) (5. Bf5 $2 Bxf5 6. b7+ Kb8) (5. Kg7 $2 b1=Q 6. b7+ Kb8) (5. Nc4 b1=Q) (5. Nb3 b1=Q 6. Bf3+ Be4) (5. Be6 b1=Q 6. Bd5+ Kb8) Kb8 6. Nc6+ (6. b7 $2 b1=Q $19 7. Nc6+ Kxb7 8. Nd8+ Kc7) Kb7 7. Ne5+ (7. Na5+ $2 Ka6 8. Kxh7 b1=Q+ $19) (7. Nd4+ $2 Kxb6 8. Kxh7 b1=Q+ $19) (7. Kxh7 $2 b1=Q+ 8. Kg7 Qxb6 9. Ne7+ Kb8) (7. Nb8+ $2 Kxb8 8. Kxh7 b1=Q+) (7. Be4 $2 Bxe4 8. Na5+ Kb8) (7. Bd1 Kxc6 8. Ba4+ Kd6 9. Kxh7 b1=Q+) Ka6 8. Be2+ $10 (8. b7 Ka7 9. Nd7 $10) (8. Nd7 $10 Ka5 9. b7) (8. Nc6 $2 b1=Q 9. Nb4+ Qxb4 10. Kxh7 Qh4+) (8. Nd3 b1=Q 9. Nb4+ Qxb4 10. Kxh7 Qh4+)) 5. Nc4 (5. Bc8+ $2 Kxa5 6. Kxh7 b1=Q+) (5. Nc6 $2 b1=Q 6. Nb8+ Kxb6 7. Nd7+ Kc6 $19) (5. Be2+ $2 Kxa5 6. Kxh7 b1=Q+) (5. b7 $2 b1=Q $19 6. b8=N+ Kxa5) (5. Nb3 $2 b1=Q 6. Nc5+ Kxb6 7. Nd7+ Kc7) (5. Bf3 b1=Q) (5. Kxh7 b1=Q+ 6. Kh6 Qxb6+ 7. Nc6 Qxc6+ 8. Kg5 Qe8) b1=Q 6. Bc8+ (6. Be2 $2 Bd3 7. Bxd3 Qxd3) (6. b7 $2 Kxb7 7. Bf3+ Kc7) (6. Nd2 $2 Qg6 7. Be2+ Kxb6 8. Nc4+ Kc5) (6. Be6 $2 Qg6) (6. Na3 Qg6 7. Bc8+ Kxb6 8. Nc4+ Kc7) (6. Bd1 Qg6 7. b7 Qg8#) (6. Bf3 Bd3) Kb5 7. Na3+ $10 (7. b7 $2 Kxc4 $19 8. Be6+ Kd4) (7. Nd2 $2 Qg6 8. Bd7+ Kc5 9. Ne4+ Kd5) 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1945.??.??"]
+[Round "?"]
+[Composer "Kivi, Visa"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/8/6P1/3B2k1/8/2r3P1/8/K7 w - - 0 1"]
+
+1. g7 (1. Kb2 $2 Re3 2. g7 $10) (1. g4 $2 Ra3+ 2. Ba2 $10) (1. Bb3 Rxb3) (1. Bf3 Rxf3) (1. Be4 Rb3 2. g7) (1. Bc6 Rxc6) Rc8 2. g4 (2. Be6 $2 Ra8+ 3. Kb2 Kg6 4. g8=Q+ Rxg8 5. Bxg8 Kf5 $10) (2. g8=Q+ $2 Rxg8 3. g4 $10 Ra8+ 4. Bxa8 Kxg4 5. Bb7) (2. g8=R+ $2 Rxg8 3. g4 $10 Ra8+ 4. Bxa8 Kxg4 5. Bb7) (2. Kb2 $2 Rb8+ 3. Bb3) (2. Bf7 $2 Rb8 3. g8=Q+) (2. Ka2 $2 Rb8 3. g8=Q+) (2. Bb7 $2 Rb8 3. g8=Q+) (2. Bc6 $2 Rb8 3. g8=Q+) (2. Kb1 Rb8+ 3. Kc2) (2. Ba2 Kf6 3. g8=Q) Rb8 3. Be6 (3. Bb3 $2 Ra8+ 4. Ba2 $10) (3. Bb7 $2 Rd8 4. g8=Q+ $10) (3. g8=Q+ $2 Rxg8 4. Be4 $10 Ra8+ 5. Bxa8 Kxg4 6. Bb7) (3. Ka2 $2 Kxg4 4. g8=Q+) (3. Bf7 $2 Ra8+ 4. Ba2) (3. Bf3 Kf6 4. Be4) (3. Be4 Kf6) (3. Bc6 Kf6) Kf4 4. Ka2 (4. g8=R $2 Rxg8 5. g5 $10 Ra8+ 6. Ba2) (4. Bf5 $2 Ra8+ 5. Kb1 $10) (4. g5 $2 Kxg5 5. g8=Q+) (4. g8=Q $2 Rxg8 5. Kb2 $10 Rb8+ 6. Bb3) (4. Bd7 $2 Ra8+ 5. Kb1) (4. Bf7 $2 Ra8+ 5. Ba2) (4. Bd5 $2 Kxg4 5. g8=Q+) Kg5 5. Ka3 (5. Ka1 Kf4 $18 6. Ka2) (5. Bf5 $2 Ra8+ 6. Kb2) Kf4 6. Ka4 (6. Ka2 Kg5 $18 7. Ka3) (6. g5 Kxg5 7. g8=Q+) (6. Bb3 Kxg4 7. g8=Q+) Kg5 7. Ka5 (7. Ka3 Kf4 $18 8. Ka4) Kf4 8. Ka6 (8. Ka4 Kg5 $18 9. Ka5) Kg5 9. Ka7 (9. Ka5 Kf4 $18 10. Ka6) Re8 $1 10. Bf7 (10. Kb7 $2 Re7+ 11. Kb8 $10) (10. Bd7 $2 Rg8 11. Be6 $10) (10. g8=Q+ $2 Rxg8 11. Bf5 $10 Rg7+ 12. Ka6) (10. Bf5 $2 Kh6 11. g8=Q) (10. Kb6 $4 Rxe6+ 11. Kb5 Rg6 12. Ka4 Rxg7) (10. Bc8 $4 Rxc8 11. g8=Q+ Rxg8) (10. Bd5 $2 Re7+ 11. Bb7) (10. Bc4 $2 Re7+ 11. Ka6) (10. Bb3 $2 Re7+ 11. Ka6) (10. Ka6 $4 Rxe6+ 11. Ka5 Rg6) Rd8 (Re7+ 11. Kb6 Kh6 12. g8=N+ $18) 11. Kb6 (11. Be6 Re8 $18 12. Bf7) (11. Kb7 $2 Kh6 12. g8=Q $10) (11. Bh5 $2 Kh6 12. g8=Q) (11. Ka6 $2 Kxg4 12. g8=Q+) (11. g8=Q+ $2 Rxg8 12. Bh5 Rg7+ 13. Ka6) (11. g8=R+ $2 Rxg8 12. Bh5 Rg7+ 13. Ka6) (11. Be8 $4 Rxe8 12. g8=Q+ Rxg8) Kh6 12. g8=R $18 (12. g8=Q $2 Rd6+ 13. Kc5 Rd5+ 14. Kb4 Rb5+ $1 15. Kc3 Rb3+ $10) (12. Kc7 $2 Ra8 13. g8=Q $10) (12. g8=N+ $2 Kg5 13. Nh6) (12. g5+ $2 Kxg5 13. g8=Q+) (12. Kc6 $2 Rc8+ 13. Kb6) (12. g8=B $2 Rc8 13. Bg6) (12. Kb7 $2 Rd7+ 13. Kb6) (12. Kc5 $2 Rc8+ 13. Kb6) 1-0
+
+[Event "Suomen Sosialidemokraatti#28"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Kivi, Visa"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5kB1/7K/2p2N2/2P1pp2/8/4P2p/8/8 w - - 0 1"]
+
+1. Ne4 $1 (1. Nh5 $2 f4 $1 2. exf4 exf4 3. Nxf4 h2) fxe4 2. Kh8 h2 3. Bh7 h1=Q 1/2-1/2
+
+[Event "Suomen Sosialidemokraatti#43"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Kivi, Visa"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7R/3B4/2pb4/K1k5/8/1p6/8 w - - 0 1"]
+
+1. Rh4+ $1 Kd3 2. Rh3+ Kd4 (Ke4 3. Rh1) 3. Bxc5+ $1 (3. Rh4+ $2 Be4) Kxc5 (Kc4 4. Rh4+ Kxc5 5. Rb4) 4. Rb3 Bxb3+ 5. Ka3 b1=Q 1/2-1/2
+
+[Event "3/4.p Tyovaen Shakki"]
+[Source "Tyovaen Shakki/10"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Kivi, Visa"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/2N5/8/p7/p1k1P3/4p1B1/P1pPP3/8 w - - 0 1"]
+
+1. d3+ $1 Kc5 (Kc3 2. Be5+ Kd2 3. Bb2) (Kb4 2. Bd6+ Kc3 3. Ba3) (Kd4 2. Ne6+ Kc3 3. Be5+) 2. Ne6+ (2. Na6+ $2 Kb6) Kb6 $1 (Kb5 3. Nd4+) (Kb4 3. Bd6+ Kc3 4. Ba3) 3. Bc7+ Ka6 4. Bf4 $1 c1=Q 5. Nc7+ Kb6 6. Bxe3+ Qxe3 7. Nd5+ Kc5 8. Nxe3 1-0
+
+[Event "1.hm Tyovaen Shakki"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Kivi, Visa"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5B1k/2p3pp/2K1pP2/8/P7/2R5/1p2p3/8 w - - 0 1"]
+
+1. Bxg7+ $1 Kg8 2. f7+ Kxf7 3. Rf3+ Ke8 (Kxg7 4. Rg3+ Kf6 5. Rg1) (Ke7 4. Bf8+ Ke8 5. Ba3 b1=Q 6. Rf8#) 4. Rf8+ Ke7 5. Bxb2 e1=Q 6. Ba3+ 1-0
+
+[Event "Schweizerische Arbeiter-Schachzeitung#2"]
+[Source "Schweizerische Arbeiter-Schachzeitung/9"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Kivi, Visa"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/8/1K6/2p1B3/1pP5/1P1pp1P1/3P4/5N2 w - - 0 1"]
+
+1. Ka6 $1 e2 2. Ne3 e1=Q 3. Nd5 Qxe5 4. Nb6+ Kb8 5. Nd7+ Kc7 6. Nxe5 1-0
+
+[Event "Suomen Sosialidemokraatti (c)"]
+[Source "(c): Suomen Sosialidemokraatti 11-2-1945."]
+[Date "1934.08.12"]
+[Round "?"]
+[Composer "Kivi, Visa"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/3p4/K2B4/8/2P5/4p3/3P1P2/5N2 w - - 0 1"]
+
+1. Be5 $1 e2 (d6 2. Nxe3) 2. Ne3 e1=Q 3. Nd5 Qxe5 (d6 4. Nb6+ Kb8 5. Bxd6#) 4. Nb6+ Kb8 5. Nxd7+ 1-0
+
+[Event "Schackvärlden#052"]
+[Source "Schackvärlden/9"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Kivi, Visa"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/b6p/4kP2/2P4P/5K2/8/8 w - - 0 1"]
+
+1. Kg4 $1 Kf6 2. Kh5 Kg7 3. f6+ Kh7 4. f7 Bxc4 $1 5. f8=N+ $1 (5. f8=Q $2 Be2+ 6. Qf3 Bxf3#) Kg7 6. Ne6+ $1 Bxe6 1/2-1/2
+
+[Event "2.p Revista de Romana de Sah#0049"]
+[Date "1935.01.15"]
+[Round "?"]
+[Composer "Kivi, Visa"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3BNK2/8/8/7k/8/8/3p2P1/8 w - - 0 1"]
+
+1. Kg7 $1 (1. Kf7 $2 d1=Q 2. Nf6+ Kh4) d1=Q (Kg4 2. Nf6+ Kf5 (Kf4 3. Nd5+) 3. Nd5) 2. Nf6+ Kh4 $1 (Kg5 3. Nd5+ Kh5 (Kf5 4. Ne3+) 4. Nf6+) 3. Nd5+ Kh5 (Kg4 4. Ne3+) 4. Nf6+ (4. g4+ $2 Qxg4+ $1) Kh4 5. Nd5+ Kg3 6. Bc7+ Kf2 (Kxg2 7. Ne3+) 7. Bb6+ Ke1 (Ke2 8. Nc3+) (Kf1 8. Ne3+) 8. Ba5+ Kf2 9. Bb6+ Kg3 10. Bc7+ Kh4 11. Bd8+ Kh5 12. Nf6+ Kg5 13. Nd5+ 1/2-1/2
+
+[Event "3.p Revista de Romana de Sah#0105"]
+[Date "1936.04.17"]
+[Round "?"]
+[Composer "Kivi, Visa"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3N4/6P1/7k/5n2/3p2p1/8/6KN w - - 0 1"]
+
+1. g7 $1 Ne2+ $1 (d2 2. Nxg3+ Kh6 (Kh4 3. Nf5+ Kh3 4. Ne3) 3. Nf5+ Kh7 4. Nf6+) (Nh3+ 2. Kg2 $1 d2 (Nf4+ 3. Kxg3 d2 4. g8=Q d1=Q 5. Nf6+ Kh6 6. Qh7+) 3. g8=Q d1=Q 4. Nxg3+) 2. Kf1 (2. Kg2 $2 d2 3. g8=Q d1=Q) d2 $1 (g2+ 3. Kxg2 d2 4. g8=Q d1=Q 5. Nf6+ Kh6 6. Qh7+ Kg5 7. Ne4+ Kf4 8. Qh6+ Ke5 (Kg4 9. Nhf2+) 9. Qf6+ Kd5 (Kxe4 10. Nf2+) 10. Qd6+) 3. Kxe2 g2 $1 4. Ng3+ (4. g8=Q $2 d1=Q+ 5. Kxd1 gxh1=Q+) Kh4 $1 (Kh6 5. Nf5+ (5. g8=Q $2 d1=Q+ $1) Kh5 6. Nf6+) 5. Nf5+ Kh3 $1 6. g8=R $1 (6. g8=Q $2 d1=Q+ 7. Kxd1 g1=Q+ $1 8. Qxg1) Kh2 7. Rh8+ Kg1 8. Ne3 1-0
+
+[Event "Ceskoslovensky Sach#29"]
+[Source "Ceskoslovensky Sach/4-5"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Kivi, Visa"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2K3bk/8/1p6/8/8/3R4/1p6/8 w - - 0 1"]
+
+1. Rd1 $1 Bh7 (Ba2 2. Kb7 b5 3. Kb6 b4 4. Kb5 b3 5. Kb4 Kg7 6. Rb1 Bxb1 7. Kxb3) 2. Rd8+ (2. Kb7 $2 b5 3. Kb6 Bd3) (2. Kc7 $2 b5 3. Kc6 Bd3 4. Rg1 $1 (4. Kc5 Kg7 5. Kb4 Kf6 6. Ka3 b1=Q 7. Rxb1 Bxb1 8. Kb4 Bd3) Kh7 5. Kb6 (5. Kc5 Kh6 6. Kb4 Kh5 7. Kc5 Kh4 8. Kb4 Kh3 9. Rd1 (9. Kc5 Kh2 10. Rd1 Bc2 11. Re1 Kg2 12. Kb4 (12. Kxb5 Kf2 13. Rh1 Bd3+ 14. Kb4 Bf1 15. Rh2+ Bg2) Kf3) Kg4 10. Ka3 b1=Q) Kh6 6. Kc5 Kh5 7. Kb4 Kh4 8. Kc5 Kh3 9. Kb4 Kh2 10. Rd1 Bc2 11. Re1 (11. Rd2+ Kg3 12. Ka3 b1=N+ $1 (b1=Q $2 13. Rg2+ Kxg2)) Kg3 $1 12. Kxb5 (12. Ka3 b1=R $1) Kf2 13. Rh1 Bd3+ 14. Kb4 Bf1 15. Rh2+ Bg2) Kg7 3. Rd7+ Kf8 4. Rd8+ Ke7 5. Rd7+ Ke6 6. Rb7 $1 b1=Q (b1=R 7. Rxh7 b5 (Kd5 8. Kb7 b5 9. Kb6 b4 (Kc4 10. Rc7+ Kb4 11. Rh7) 10. Kb5 b3 11. Kb4 b2 12. Kb3) 8. Rh5 b4 9. Rb5 Kd6 10. Kb7 b3 11. Kb6 b2 12. Kb7) 7. Rxb6+ Qxb6 1/2-1/2
+
+[Event "Schackvärlden"]
+[Source "Schackvärlden/8"]
+[Date "1942.??.??"]
+[Round "?"]
+[Composer "Kivi, Visa"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/P7/7b/K3n3/P7/8/k7 w - - 0 1"]
+
+1. a7 $1 Nc3+ 2. Kb3 Nd5 3. a8=N $1 (3. a8=Q $2 Bd1+ 4. Kc4 Nb6+) Be8 4. Kc4 Bc6 5. Nb6 Nxb6+ 6. Kc5 1/2-1/2
+
+[Event "1.c Schackvärlden#371"]
+[Source "Schackvärlden/11"]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Kivi, Visa"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2N5/6B1/8/K7/3P1k2/3b1p2/8/8 w - - 0 1"]
+
+1. Bh6+ $1 Ke4 2. Nd6+ Kxd4 3. Nb5+ Bxb5 (Ke4 4. Nd6+) 4. Bf8 $1 f2 5. Bc5+ Kxc5 1/2-1/2
+
+[Event "1/2.hm Tidskrift for Schack#0813"]
+[Source "Tidskrift for Schack/12"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Kivi, Visa"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/1k6/2pK3p/5R2/1P6/1N4p1/8 w - - 0 1"]
+
+1. Nc4+ $1 (1. Na4+ $2 Ka5 $1) (1. Rf6+ $2 Kb5 2. Nc4 Kb4 $1) Kb5 (Ka6 2. Rf6+ Kb5 3. Rb6#) 2. Nd6+ (2. Na3+ $2 Ka6 3. Rf6+ (3. Ra4+ Kb7) Ka5 4. b4+ Kxb4 5. Rb6+ (5. Rf4+ Ka5) (5. Nc2+ Ka5) Kxa3 6. Rb1 h4 7. Ke4 h3 8. Kf3 c4) Kb6 3. Nc8+ Kb5 4. Na7+ Kb6 5. Rf6+ Ka5 6. b4+ $1 (6. Nc6+ $2 Kb5) cxb4 (Kxb4 7. Rb6+ Kc3 8. Rb1 h4 9. Ke4 h3 10. Kf3) (Ka4 7. Ra6+ Kb3 8. Ra1 h4 9. Ke4 h3 10. Kf3) 7. Nc6+ Ka4 8. Nd4 g1=Q 9. Ra6# 1-0
+
+[Event "3.p Finland Sweden match"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Kivi, Visa"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7k/8/1R6/p4PK1/8/2p5/5n2 w - - 0 1"]
+
+1. Rh5+ $1 Kg7 2. Rg5+ (2. Rh1 $2 Ne3+ 3. Kf3 Nd1) Kf6 3. Rf5+ Ke6 4. Re5+ Kd6 5. Re1 Ne3+ 6. Kf3 Nd1 7. Ke2 a3 (c1=Q 8. Rxd1+) 8. Kd2 a2 9. Kxc2 a1=Q 10. Rxd1+ Qxd1+ 11. Kxd1 1/2-1/2

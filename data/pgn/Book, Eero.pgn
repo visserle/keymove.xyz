@@ -1,0 +1,27 @@
+[Event "Tidskrift for Schack"]
+[Source "Tidskrift for Schack/2"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Book, Eero"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6p1/5pP1/2ppk3/6P1/2P2K1P/8 w - - 0 1"]
+
+1. h4 $1 Ke5 (d3 2. cxd3+ Kxd3 3. h5) 2. c3 $1 (2. Kf3 $2 f4 $1 3. gxf4+ (3. g4 c3 $1 4. h5 d3) (3. c3 fxg3 $1 4. cxd4+ Kf5) (3. h5 gxh5 4. g6 Kf6 5. Kxf4 Kxg6 6. Ke4 Kg5 7. Kxd4 Kg4 8. Kxc4 Kxg3 9. Kb5 h4) Kf5 4. c3 $1 d3 $1 5. Ke3 Kg4) dxc3 (d3 3. Ke3 f4+ 4. gxf4+ Kf5 5. Kf3) 3. Ke2 f4 4. gxf4+ Kxf4 5. h5 $1 Kxg5 6. hxg6 Kxg6 7. Kd1 1/2-1/2
+
+[Event "Suomen Shakki#0045"]
+[Source "Suomen Shakki/3"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Book, Eero"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/6p1/2p5/6P1/1P6/K7/8/8 w - - 0 1"]
+
+1. Kb3 $1 (1. Ka4 $2 Kf7 2. Ka5 Ke6 3. Kb6 Kd7 (Kd6 $2 4. Kb7 Kd7 5. g6) 4. Ka7 $1 (4. g6 Kd6 5. Ka7 Ke7 $1) c5 $1 (Ke7 $2 5. Kb7 Kd6 (Kd7 6. g6) 6. Kc8 $1 g6 7. Kd8 Ke5 8. Kc7 Kd5 9. Kd7)) Kf7 2. Kc4 Ke6 3. Kc5 Kd7 4. Kb6 g6 $1 (Kd6 5. g6 Kd7 6. Kb7) 5. Kb7 Kd6 6. Kc8 $1 Ke5 $1 (c5 7. b5 $1) 7. Kc7 $1 (7. Kd7 $2 Kd5) Kd5 8. Kd7 $1 1-0

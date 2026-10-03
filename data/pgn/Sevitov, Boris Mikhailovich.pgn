@@ -1,0 +1,45 @@
+[Event ".c VLKSM-20 AT"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Sevitov, Boris Mikhailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/2nk4/b7/8/K7/3p4/2Pp4/5R2 w - - 0 1"]
+
+1. Rd1 $1 (1. cxd3 $2 Bxd3 2. Rg1 Bc2+ 3. Ka5 d1=Q $19) (1. Rf7+ $2 Ke6 2. Rxc7 dxc2 3. Rc6+ Kd7 $19) (1. c3 $2 Nd5 2. Ka5 Ne3 $19) (1. c4 $2 Bxc4 $19 2. Rf7+ Bxf7) (1. Rf5 dxc2 2. Rf7+ Ke6) (1. Rf6 d1=Q 2. Rf7+ Kc8) dxc2 $1 2. Rxd2+ (2. Kb4 cxd1=Q) (2. Ka5 c1=Q 3. Rxc1 dxc1=Q) Bd3 $1 3. Rxd3+ (3. Rxc2 $2 Bxc2+ 4. Kb4 Ne6) (3. Kb3 $2 c1=Q 4. Rxd3+ Ke6) (3. Ka5 c1=Q 4. Rxd3+ Nd5) Nd5 $1 4. Rxd5+ (4. Rc3 $2 Nxc3+ 5. Kb4 c1=Q $19) (4. Kb3 $2 c1=Q 5. Rxd5+ Kc7) (4. Rd4 $2 c1=Q 5. Rxd5+ Kc6) (4. Kb5 Kd6) (4. Ka5 c1=Q 5. Rxd5+ Kc6) Kc6 $1 5. Rd3 $1 (5. Rd8 $2 Kc7 $19 6. Rc8+ Kxc8) (5. Rd1 $2 cxd1=Q+ 6. Kb4 Qd3 $19) (5. Rd7 Kxd7) (5. Rg5 c1=Q 6. Rc5+ Kxc5) (5. Kb4 Kxd5) c1=Q 6. Rc3+ (6. Kb4 $2 Qc5+ 7. Kb3 Kb5) (6. Rb3 $2 Qc4+ 7. Ka3 Kc5) (6. Kb3 $2 Qa1 7. Rc3+ Kd5) (6. Ra3 $2 Qc4+ 7. Ka5 Qb5#) Qxc3 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Sevitov, Boris Mikhailovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "1B2N3/8/pk1Kp3/5pP1/8/3p4/8/8 w - - 0 1"]
+
+1. Bc7+ (1. Ba7+ $2 Kxa7 2. Kc7 $10) (1. Nc7 $4 d2 2. Kxe6 d1=Q $19) (1. g6 $6 d2 2. g7 $14) (1. Kxe6 $2 d2 2. g6 $10) (1. Kd7 $2 d2 2. Ke7 $10) (1. Nf6 $2 d2 2. g6 $10) (1. Ke7 $6 d2 2. g6) (1. Ke5 $4 d2 2. Kxe6 d1=Q) (1. Ng7 $4 d2 2. Nxe6 d1=Q+) Kb5 2. Ba5 (2. Kxe6 $2 d2 3. g6 $10) (2. Kd7 $2 d2 3. g6 $10) (2. Bd8 $4 d2 $19 3. Nc7+ Kc4) (2. Bb8 $2 d2 3. Ke7 $10) (2. Ke5 $4 d2 $17 $19) (2. Nf6 $4 d2 $17) (2. g6 $6 d2 3. g7 $14 d1=Q+ 4. Ke7) (2. Ng7 $4 d2 3. Kxe6 d1=Q) (2. Ke7 $6 d2 3. g6) (2. Bb6 $4 d2) Kxa5 3. Kc5 (3. Nc7 $4 d2 4. Kxe6 d1=Q $19) (3. g6 $4 d2 $19) (3. Ke5 $4 d2 $19 4. Kxe6 d1=Q) (3. Kxe6 $4 d2 $19) (3. Nf6 $4 d2 4. Kxe6 d1=Q) (3. Kc6 $4 d2) (3. Ke7 $4 d2 $19 4. Kxe6 d1=Q) d2 $4 (Ka4 $5) 4. Nd6 (4. Nc7 $4 d1=Q 5. Nxe6 Qd7 $19 6. Nd4 Ka4) Ka4 (d1=Q 5. Nc4+ (5. Nb7+ $4 Ka4 $19) Ka4 6. Nb2+ $18 (6. Nb6+ Kb3)) 5. Nc4 (5. Kd4 d1=Q+ 6. Ke5 Qd5+) (5. Kb6 d1=Q) d1=N 6. Nb2+ (6. g6 $6 Nf2 7. g7 Ne4+ 8. Kd4 Nf6 $14) (6. Ne5 $2 Nf2 7. g6 $10) (6. Nb6+ $6 Kb3 7. g6 $14) (6. Kd6 $6 Nf2 7. Ke7) (6. Kb6 $2 Kb4 7. g6) (6. Nd6 $2 f4 7. Kd4) (6. Kd4 $2 Nf2 7. g6) (6. Nd2 Nf2 7. g6) (6. Kc6 f4 7. Nd2) Nxb2 7. g6 $18 (7. Kd4 $4 f4 $19 8. Ke4 Nc4) (7. Kd6 $4 f4 8. g6 f3) (7. Kb6 Nc4+ 8. Kc5 Ne5) 1-0
+
+[Event "Shakhmaty v SSSR#829"]
+[Source "Shakhmaty v SSSR/10"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Sevitov, Boris Mikhailovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K6k/7p/5P2/8/8/8/P7/8 w - - 0 1"]
+
+1. Kb7 $1 (1. a4 $2 h5 2. a5 h4 3. a6 h3 4. a7 h2) h5 2. Kc6 $1 (2. Kc7 $2 Kg8 3. Kd6 Kf7 4. Ke5 h4 5. Kf4 Kxf6 6. a4 Ke6) Kg8 $1 (h4 3. Kd6 h3 4. f7 Kg7 5. Ke7) 3. Kd5 $1 Kf7 (h4 4. Ke4 Kf7 5. a4) 4. a4 Kxf6 5. a5 h4 6. Ke4 Ke6 7. a6 h3 8. Kf3 Kd6 9. a7 h2 10. Kg2 1-0

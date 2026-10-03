@@ -1,0 +1,12 @@
+[Event "Revista de Romana de Sah#0045"]
+[Date "1926.03.15"]
+[Round "?"]
+[Composer "Schiffmann, Israel Abramovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/2p2P2/3k1N1q/1Pp1p2P/2bP2P1/2B3P1/1P6/8 w - - 0 1"]
+
+1. Bd2 $1 Qxf6 (Bxf7+ 2. Kxf7 Qh8 3. dxe5+ $1 Kxe5 4. Bc3+ Kd6 5. Ne4+) (Qxd2 2. Ne4+) 2. dxe5+ Kxe5 (Qxe5 3. Bf4 Qxf4 4. gxf4 Ke7 5. h6) 3. Bc3+ Ke6 4. Bxf6 (4. f8=Q $2 Kd7+) Kxf6 5. g5+ $1 Kxg5 6. Kg7 Bxf7 7. Kxf7 1-0

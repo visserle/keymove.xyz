@@ -1,0 +1,13 @@
+[Event "Diagrammes#105"]
+[Source "Diagrammes/11-12"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Briet, Georges"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k1q4/4p3/Pp2B3/1N2p3/K3p3/4P3/8/8 w - - 0 1"]
+
+1. a7+ $1 Ka8 (Kb7 {<main>} 2. Bd5+ (2. a8=Q+ $2 Qxa8+) Qxd5 3. a8=Q+ Kxa8 4. Nc7+ Kb7 5. Nxd5) 2. Bd5+ Qxd5 3. Nc7+ Kxa7 4. Nxd5 1-0

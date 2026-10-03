@@ -1,0 +1,53 @@
+[Event "2.p Puhakka JT"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Valtonen, Kari"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "R7/8/N7/8/p1p5/p7/kp1K4/n4B2 w - - 0 1"]
+
+1. Bxc4+ $1 Nb3+ 2. Bxb3+ Ka1 (axb3 3. Nb4+ (3. Kc3 $2 Ka1 4. Nc5 b1=Q) Kb1 4. Kc3 a2 5. Kxb3 a1=Q 6. Na2 $1) 3. Ba2 Kxa2 4. Nb4+ Kb3 (Ka1 5. Nc2+ Ka2 6. Nxa3 Kxa3 7. Kc2) 5. Rb8 b1=Q 6. Nd5+ Ka2 7. Nc3+ Ka1 8. Rxb1# 1-0
+
+[Event "The Problemist#0346"]
+[Source "The Problemist/5"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Valtonen, Kari"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K2k2b1/3P4/pP6/P3p1N1/8/4b3/2P5/8 w - - 0 1"]
+
+1. c4 $1 (1. b7 $2 Bd5 2. Ne6+ Kxd7 3. Nf8+ Kd6 4. c4 Bc6 5. Kb8 Bg5 6. c5+ Kd5 7. Ng6 e4) Bxc4 2. b7 Bd5 3. Nf7+ Kxd7 4. Nxe5+ Kc7 (Kd8 5. Nc4 Bg1 6. Nb6) 5. Nc6 Kxc6 6. b8=Q Kc5+ 7. Ka7 Kc6+ 8. Ka8 Kd7+ 9. Qb7+ Kd6 10. Qxd5+ Kxd5 11. Kb7 1/2-1/2
+
+[Event "Suomen Shakki"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Valtonen, Kari"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2P5/p7/P2pp1r1/3P3k/4K1pP/2R5 w - - 0 1"]
+
+1. c7 $1 Rg8 (exd3+ 2. Kf3 d2 3. c8=Q dxc1=Q 4. Qxg4+) 2. c8=Q+ (2. dxe4 $2 Rc8) Rxc8 3. Rxc8 exd3+ 4. Kf3 $1 (4. Kxd3 $2 g1=Q $1 5. Rh8+ Kg2 6. Rg8+ Kxh2 7. Rxg1 Kxg1 8. Kxd4 Kf2) (4. Kf2 $2 g1=Q+ $1 5. Kxg1 d2) g1=N+ (Kxh2 5. Rh8+ Kg1 6. Rg8) 5. Kf2 d2 6. Rh8+ Kg4 7. Rg8+ 1-0
+
+[Event ".c Suomen Shakki"]
+[Source "Suomen Shakki/2 EG#07201."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Valtonen, Kari"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7K/5p2/3pk3/8/2N5/8 w - - 0 1"]
+
+1. Kg5 $1 d3 2. Na3 f4 (d2 3. Nb1 d1=Q 4. Nc3+) 3. Nc4 (3. Kg4 $2 d2 4. Nb1 d1=Q+) (3. Kh4 $2 d2 4. Nb1 Kd3 5. Nxd2 Kxd2 6. Kg4 Ke3) (3. Nb1 $2 f3 4. Nc3+ (4. Nd2+ Ke3 5. Nc4+ Ke2) Ke3 5. Kg4 f2) f3 4. Kg4 f2 5. Kg3 Kd4 (f1=Q 6. Nd2+) 6. Nd2 Ke3 7. Nf1+ Ke2 8. Kg2 Ke1 9. Nh2 d2 10. Nf3+ Ke2 11. Nxd2 Kxd2 12. Kxf2 1/2-1/2

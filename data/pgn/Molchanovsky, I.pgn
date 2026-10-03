@@ -1,0 +1,13 @@
+[Event "Deutsche Schachzeitung#1644"]
+[Source "Deutsche Schachzeitung/9"]
+[Date "1918.??.??"]
+[Round "?"]
+[Composer "Molchanovsky, I"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3p4/8/3B4/p7/p1P4p/5K1k w - - 0 1"]
+
+1. Ba1 $1 (1. Kf2 $2 a1=Q $1 2. Bxa1 d5 3. Bd4 a2 4. Kg3 a1=Q 5. Bxa1 Kg1 6. Bd4+ Kh1) d5 2. Kf2 d4 3. Bxd4 a1=Q 4. Bxa1 a2 5. Kg3 Kg1 6. Bd4+ Kh1 (Kf1 7. Kxh2 Ke2 8. Ba1) 7. Kh3 a1=Q 8. Bxa1 Kg1 9. Bd4+ Kh1 10. Be5 1-0

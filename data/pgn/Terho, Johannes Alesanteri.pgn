@@ -1,0 +1,25 @@
+[Event "3.p Suomen Shakki"]
+[Date "1939.01.18"]
+[Round "?"]
+[Composer "Terho, Johannes Alesanteri"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/5p2/P1bP4/p6p/5N1K/1r6/1P2P2P/8 w - - 0 1"]
+
+1. a7 $1 Rb4 (Rxb2 2. d7 Rd2 3. Nd3) 2. e3 Rxb2 3. e4 Bxe4 (Rd2 4. Nd5 Rd4 5. a8=Q+ Bxa8 6. d7 Bxd5 7. d8=Q+ Kh7 8. Kxh5) 4. d7 Rxh2+ (Rd2 5. Nd5 $1 Rxh2+ 6. Kg3 Rg2+ 7. Kf4 Rg8 8. Kxe4) 5. Kg3 Rd2 6. Nd5 $1 Bxd5 (Rxd5 7. a8=Q+ Kg7 8. Qxd5 Bxd5 9. d8=Q) 7. d8=Q+ Kh7 $1 (Kg7 8. Qg5+) 8. Kf4 $1 (8. a8=Q $2 Rg2+ $1 9. Kh4 (9. Kf4 Rg4+ 10. Ke5 Bxa8 11. Qxa8 Kg7) Bxa8 10. Qxa8 Rg6) Rf2+ 9. Ke5 (9. Ke3 $2 Rf5 $1 10. Qxd5 Rxd5 11. a8=Q Re5+ 12. Kf4 Re6 13. Qf8 Kg6 14. Qh8 a4) Re2+ 10. Kd4 Bg2 {<eg>} 11. Qf6 $1 Kg8 12. Qg5+ Kf8 13. Qxg2 1-0
+
+[Event "3.p Tidskrift for Schack"]
+[Date "1945.??.??"]
+[Round "?"]
+[Composer "Terho, Johannes Alesanteri"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/2pN3n/3pp2p/b2P2Pp/2PN4/B4p2/5P1K/3r4 w - - 0 1"]
+
+1. g6 $1 (1. dxe6 $2 Rxd4 2. e7 Re4) Rxd4 2. gxh7 Rh4+ 3. Kg3 $1 Rg4+ 4. Kxf3 Bc3 5. Nf6 $1 (5. dxe6 $2 Rg6 6. Nf6 Rxf6+) Bxf6 6. dxe6 Rg1 7. Bb4 (7. Ke2 $2 Rg5 8. Bb2 Bxb2 9. e7) Rg5 8. Bc3 $1 Bxc3 9. e7 Re5 10. h8=Q+ 1-0

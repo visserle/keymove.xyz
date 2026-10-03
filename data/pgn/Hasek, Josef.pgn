@@ -1,0 +1,798 @@
+[Event "Casopis Ceskoslovensky Sach#155"]
+[Source "Casopis Ceskoslovensky Sach/4"]
+[Date "1915.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k6r/8/8/3K1Q1R/8/2q3P1/8/1R5r w - - 0 1"]
+
+1. Rxh8+ $1 (1. Qe4 $2 Rxb1) Qxh8 (Rxh8 {<main>} 2. Qe4) 2. Rxh1 Qxh1+ 3. Qe4 Qc1 (Qh6 4. Qe8+ Kb7 5. Qd7+ Kb6 6. Qd6+) 4. Qa4+ Kb7 5. Qb5+ Kc7 6. Qc5+ Qxc5+ 7. Kxc5 1-0
+
+[Event "Casopis Ceskoslovensky Sach#357"]
+[Source "Casopis Ceskoslovensky Sach/10"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4p3/N7/1p5p/2p5/KPP5/1B2k3 w - - 0 1"]
+
+1. Nb3 $1 h3 (cxb2 2. Nd4) 2. Na1 h2 (cxb2 3. c4) 3. b3 h1=Q 1/2-1/2
+
+[Event "Casopis Ceskoslovensky Sach#462"]
+[Source "Casopis Ceskoslovensky Sach/11-12"]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "Hasek, J"]
+[Black " Prokop, F."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "krN1r3/8/K1P1p3/8/2p5/8/8/3B4 w - - 0 1"]
+
+1. Bf3 $1 e5 2. Bd5 $1 (2. Be4 $2 Re6) Rd8 3. Be4 $1 Rd4 4. c7+ (4. Nb6+ {<or>} Rxb6+ 5. Kxb6 Rxe4 6. c7) Rxe4 5. Nb6+ Rxb6+ 6. Kxb6 1-0
+
+[Event "28 Rijen#039"]
+[Date "1924.05.18"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4kB2/5p2/3P1rBp/8/4PP2/5K2/8 w - - 0 1"]
+
+1. Bf4 $1 Kxf7 2. e4 Rxf4 3. Kg3 Rxf3+ 4. Kxf3 Ke7 (Kg6 5. Kg3 Kf7 (f5 6. d6 Kf6 7. exf5) 6. Kh4 Kg6 7. d6 Kf7 8. Kxh5 Ke6 9. Kg6) 5. Kg3 Kd6 6. Kh4 Ke5 7. Kxh5 $1 f5 8. d6 $1 Kxd6 9. exf5 Ke7 10. Kg6 Kf8 11. Kf6 1-0
+
+[Event "28 Rijen#160"]
+[Date "1924.12.13"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p1p5/P1p5/2P5/7k/2K5/8/8 w - - 0 1"]
+
+1. Kd4 $1 Kg3 (Kg5 2. Ke5 Kg4 3. Ke6 Kf4 4. Kd7 Ke5 5. Kxc7 Kd5 (Ke6 6. Kxc6) 6. Kb7) 2. Ke5 Kf3 3. Ke6 Ke4 4. Kd7 Kd5 5. Kc8 $1 (5. Kxc7 $2 Kxc5 6. Kb7 Kd6 7. Kxa7 Kc7) Ke6 (Kxc5 6. Kb7 Kb5 7. Kxa7) 6. Kb7 Kd7 7. Kxa7 Kc8 8. Ka8 1-0
+
+[Event "Ceskoslovenska Republika (v)"]
+[Source "Ceskoslovenska Republika/7"]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p1p3/4p3/2B1kP2/7P/8/p3K1NP/8 w - - 0 1"]
+
+1. Ne1 $1 a1=Q (Kd5 2. Nc2) 2. Bd4+ Qxd4 3. Nf3+ Ke4 (Kxf5 4. Nxd4+ Kg4 5. Nf3) 4. Nxd4 Kxd4 5. f6 $1 exf6 6. h5 Ke5 7. h6 1-0
+
+[Event "Jas#07"]
+[Date "1927.12.01"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2k5/Pp6/8/1B6/8/8/3K4 w - - 0 1"]
+
+1. Bd6+ $1 Kc6 $1 2. Kc2 $1 (2. Kd2 $2 b5) b5 3. Bc5 $1 Kc7 4. Ba7 $1 Kc6 5. Kb3 1-0
+
+[Event "3.c Revista de Romana de Sah#0145"]
+[Source "Revista de Romana de Sah/11"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1Bk5/1r6/1pKP4/1P6/P7/1p6/1P6/8 w - - 0 1"]
+
+1. a5 $1 Kxb8 (Rxb8 2. d7+ $1 (2. a6 $2 Ra8 3. Kxb6 Kd7 4. Kb7 Rh8 5. b6 Kxd6 6. a7 Kc5 7. Ka6 Rh1) Kd8 3. axb6 (3. a6 $2 Ra8 $1 4. Kb7 Kxd7 $1 5. Kxa8 Kc7) Rc8+ 4. dxc8=Q+ Kxc8 5. Kd5 Kb7 6. Kc5 Kb8 7. Kc4) 2. a6 Rh7 3. a7+ $1 Rxa7 (Kxa7 {<main>} 4. d7) 4. d7 1-0
+
+[Event "Ceskoslovensky Sach#104"]
+[Source "Ceskoslovensky Sach/8"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6R1/n7/8/8/8/4p2K/3p4/6Nk w - - 0 1"]
+
+1. Ne2 $1 d1=Q 2. Rg1+ (2. Rg2 $2 Qd7+ 3. Rg4 Nc6) Qxg1 3. Ng3+ $1 Qxg3+ 4. Kxg3 Kg1 5. Kf3 1/2-1/2
+
+[Event "Deutsche Schachzeitung#1759"]
+[Source "Deutsche Schachzeitung/4"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/4K2p/8/6Pp/7P/8/8/8 w - - 0 1"]
+
+1. Kf8 $1 (1. Kf7 $2 h6 2. Kf6 hxg5 3. hxg5 Kg8) h6 2. Kf7 hxg5 3. hxg5 h4 4. g6 1-0
+
+[Event "Deutsche Schachzeitung#1757 (m)"]
+[Source "Deutsche Schachzeitung/1 (m): Fritz=J Ceskà Studie#060a 1983."]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/P4p2/5P2/5K2/8/5k2/8 w - - 0 1"]
+
+1. Ke4 $1 (1. Kg4 $2 Ke3 2. Kh5 Kf4 3. Kg6 Ke5 $1) Kg3 2. Kd5 Kf4 3. Kc6 Ke5 $1 4. Kc7 $1 (4. Kb7 $2 Kd6 5. Kxa7 Kc7) Kd5 $1 5. Kd7 $1 Ke5 (Kc5 6. Ke6) 6. Kc6 $1 Kxf5 7. Kb7 1-0
+
+[Event "Revista de Romana de Sah#0110"]
+[Source "Revista de Romana de Sah/1"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/3p4/8/1p6/pP6/Bp6/1P6/7k w - - 0 1"]
+
+1. Kg7 $1 d5 2. Kf6 d4 3. Ke5 d3 4. Kd4 d2 5. Kc3 d1=Q (d1=R) 1/2-1/2
+
+[Event "Zadachy i Etyudy#25"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/8/k7/6p1/6Pp/7p/7P/8 w - - 0 1"]
+
+1. Kb8 $1 Kb6 2. Ka8 $1 (2. Kc8 $2 Kc6 3. Kd8 Kd6 4. Ke8 Ke5 5. Kd7 Kf4) Kc6 (Kc5 3. Kb7) 3. Ka7 Kd5 4. Kb6 Ke4 5. Kc5 Kf3 6. Kd4 Kg2 (Kxg4 7. Ke3 Kf5 8. Kf3 g4+ 9. Kf2 Kg5 10. Kf1 g3 11. Kg1 Kf4 12. Kh1 Ke3 13. Kg1 Kf3 14. Kh1 Kf2 15. hxg3 hxg3) 7. Ke3 Kxh2 8. Kf2 1/2-1/2
+
+[Event "Deutsche Schachzeitung#1758"]
+[Source "Deutsche Schachzeitung/1"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K2k/6p1/3p2P1/3P1P2/8/6b1/8/8 w - - 0 1"]
+
+1. f6 $1 Bh4 $1 (gxf6 2. Kf7) 2. f7 Be7 3. f8=Q+ $1 (3. Kxe7 $2) Bxf8 4. Kf7 $1 Be7 5. Kxe7 1-0
+
+[Event "Deutsche Schachzeitung#1757"]
+[Source "Deutsche Schachzeitung/1"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/P4p2/3K1P2/5k2/8/8/8 w - - 0 1"]
+
+1. Kc6 $1 (1. Ke6 $2 Kg5) Ke5 $1 (Kxf5 2. Kb7) 2. Kc7 $1 (2. Kb7 $2 Kd6 3. Kxa7 Kc7 4. Ka8 Kc8) (2. Kd7 $2 Kxf5) Kd5 $1 3. Kd7 $1 Ke5 (Kc5 4. Ke6) 4. Kc6 $1 Kxf5 5. Kb7 1-0
+
+[Event "2.hm Revista de Romana de Sah#0128"]
+[Source "Revista de Romana de Sah/7"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k1r/p3p1pp/6PP/2p2PBK/2P5/8/8/8 w - - 0 1"]
+
+1. hxg7+ $1 (1. Bxe7+ $2 Kxe7 2. hxg7 hxg6+ $1 3. Kxg6 Rf8 $1) Kxg7 2. f6+ $1 exf6 3. Bh6+ Kg8 4. g7 a5 5. Kg4 a4 6. Kf5 a3 7. Ke6 $1 a2 8. gxh8=Q+ Kxh8 9. Kf7 a1=Q 10. Bg7# 1-0
+
+[Event "Shakhmaty#360"]
+[Source "Shakhmaty/11"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k1K/7P/2b4P/7P/8/p7/7N/8 w - - 0 1"]
+
+1. Nf3 $1 a2 2. Nd4 $1 a1=R $1 3. Nxc6 Ra8 (Rc1 4. Ne7 Kf7 5. Nc6) (Rd1 4. Nd8) 4. Nb8 Rxb8 1/2-1/2
+
+[Event "Jas#09"]
+[Date "1928.01.26"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K3k/6p1/3p2P1/8/2p5/2P5/7P/8 w - - 0 1"]
+
+1. Ke7 $1 d5 (Kg8 2. Kxd6) 2. Kf7 (2. Kf8 {<or>}) d4 3. h4 $1 dxc3 (d3 4. h5 d2 5. h6 gxh6 6. g7+ Kh7 7. g8=Q#) 4. h5 c2 5. h6 gxh6 6. g7+ Kh7 7. g8=Q# 1-0
+
+[Event "Jas#10"]
+[Date "1928.02.09"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3K4/8/1Np5/Nk6/1P6/8 w - - 0 1"]
+
+1. Nxc4 $1 Kxc4 2. Nd3 Kxd3 3. Kc5 1-0
+
+[Event "La Liberté#105"]
+[Date "1928.02.13"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7P/6k1/6N1/b3K3/5P2/8 w - - 0 1"]
+
+1. h7 $1 Bb2 2. Ne5 Bxe5 3. f4+ Kg6 (Bxf4+ 4. Ke4) 4. fxe5 Kxh7 5. Ke4 Kg6 6. Kd5 Kf7 7. Kd6 Ke8 8. Ke6 1-0
+
+[Event "Jas#17"]
+[Date "1928.07.26"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k4b1/5pP1/5P1P/7K/8/8/8/8 w - - 0 1"]
+
+1. h7 $1 Bxh7 2. g8=Q+ Bxg8 3. Kh6 Kc8 4. Kg7 Kd7 5. Kxg8 Ke6 6. Kg7 1-0
+
+[Event "Revista de Romana de Sah#0176"]
+[Source "Revista de Romana de Sah/7"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5b2/7p/4P3/2p3pP/8/6PK/k4B2 w - - 0 1"]
+
+1. e6 $1 (1. Bxc4 $2 Bxc4 2. Kg3 Be6) (1. h5 $2 c3 $1 2. Bd3 (2. e6 Bxe6 3. Bd3 Kb2) Be6) Bxe6 2. Bxc4 $1 Bxc4 3. h5 $1 Kb2 (Bf7 4. Kg3 Bxh5 5. Kh4 Be8 6. Kxg4) 4. Kg3 Be6 5. Kh4 $1 Kc3 6. g3 $1 Bf7 $1 (Kd4) 7. Kxg4 Kd4 8. Kf5 $1 Bxh5 9. g4 $1 (9. Kf6 $2 Bg4 (Be8 $2 10. g4)) Be8 10. Kf6 1/2-1/2
+
+[Event "2.hm Revista de Romana de Sah#0169"]
+[Source "Revista de Romana de Sah/4"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3BB3/1k2p3/1pp1K2P/1p6/8/6p1/8/3n4 w - - 0 1"]
+
+1. Bc7 $1 (1. h7 $2 g2 2. h8=Q g1=Q) Kxc7 2. Bxc6 $1 Kxc6 3. h7 g2 4. h8=Q g1=Q 5. Qc8# 1-0
+
+[Event "Revista de Romana de Sah#0188"]
+[Source "Revista de Romana de Sah/10-11"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p3/P2pK3/pp3p2/5P2/p5B1/4k3/8 w - - 0 1"]
+
+1. Be1 $1 Kxe1 (Kd3 {<main>} 2. a7 $1 (2. Bc3 $2 b4 3. a7 (3. Bxb4 a2 $1) bxc3 4. a8=Q c2) a2 3. Bc3 $1 Kxc3 4. a8=Q Kb2 5. Qg2+ Ka3 (Kb1 6. Qf1+ $1) 6. Qf3+ Kb2 7. Qe2+ Ka3 8. Qd3+ Ka4 9. Qc2+ $1 Ka3 10. Qc1+ Kb3 11. Kd5) (b4 2. Bxb4 $1 axb4 3. a7 a2 4. a8=Q b3 5. Qa3) 2. a7 a2 3. a8=Q a1=Q 4. Qh1+ 1-0
+
+[Event "Revista de Romana de Sah#0179"]
+[Source "Revista de Romana de Sah/7"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k2K2/2p5/1p6/1P6/8/2B5/8/8 w - - 0 1"]
+
+1. Be5 $1 (1. Ke7 $2 c6 $1 2. bxc6 Kc7) Kd7 2. Bxc7 $1 Kxc7 3. Ke7 Kc8 4. Kd6 Kb7 5. Kd7 Kb8 6. Kc6 Ka7 7. Kc7 Ka8 8. Kxb6 Kb8 9. Ka6 1-0
+
+[Event "3/4.p Shakhmaty#373 (c)"]
+[Source "Shakhmaty/2"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/p7/7P/5R2/6k1/8/r7/8 w - - 0 1"]
+
+1. Rh5 $1 Rc2+ (Kxh5 2. h7 Rc2+ 3. Kb8 Rb2+ 4. Ka8) (Rf2 2. Rh1 $1 Rf8+ 3. Kd7 Kg5 4. h7 Rh8 5. Ke6 Kg6 6. Rg1+ Kxh7 7. Kf7) 2. Kd7 $1 Rd2+ 3. Ke7 Re2+ 4. Kf7 Kxh5 5. h7 Rf2+ 6. Ke7 Re2+ 7. Kd7 Rd2+ 8. Kc7 Rc2+ 9. Kb7 Rb2+ 10. Ka8 1-0
+
+[Event "Ceskoslovensky Sach#272"]
+[Source "Ceskoslovensky Sach/3"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K1k5/8/2PP4/8/2Rp4/8/8/3q4 w - - 0 1"]
+
+1. d7+ $1 Kc7 2. d8=Q+ Kxd8 3. Rxd4+ $1 Qxd4 4. c7+ Kxc7 (Kc8) (Kd7 5. c8=Q+ Kxc8) 1/2-1/2
+
+[Event "Jas#37"]
+[Date "1930.01.02"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/8/5p2/2k2P2/5b2/p3q3/8/Q3B3 w - - 0 1"]
+
+1. Bf2 $1 Qxf2 2. Qc3+ Kb5 (Kd6 {<main>} 3. Qc7+ $1 Kd5 (Kxc7) 4. Qc6+ Kxc6) 3. Qc6+ Ka5 (Kxc6) 4. Qb6+ Kxb6 (Qxb6) 1/2-1/2
+
+[Event "Ceskoslovensky Sach#519"]
+[Source "Ceskoslovensky Sach/8-9"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5p2/6P1/2r5/7K/8/3kP3/8 w - - 0 1"]
+
+1. g7 $1 (1. gxf7 $2 Rf5) Rc1 $1 2. Kg5 Rf1 $1 3. e4 (3. Kh6 $2 f5 $1) Ke3 4. e5 Ke4 5. g8=Q Rg1+ 6. Kf6 Rxg8 7. Kxf7 Rh8 $1 8. e6 Kf5 9. e7 Rh7+ 10. Kf8 Kf6 11. e8=N+ $1 1/2-1/2
+
+[Event "Ceskoslovensky Sach#497"]
+[Source "Ceskoslovensky Sach/4"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p3B3/1p6/1P6/6k1/8/5K2/8 w - - 0 1"]
+
+1. Ke3 $1 Kf5 2. Kd4 Ke6 3. Bd8 $1 Kd6 4. Kc4 Kd7 5. Bxb6 $1 axb6 6. Kd5 1-0
+
+[Event "Ceskoslovensky Sach#546"]
+[Source "Ceskoslovensky Sach/1"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/8/4p3/7k/7P/8/6P1/8 w - - 0 1"]
+
+1. Kg7 $1 (1. g4+ $2 Kxh4 $1 2. Kg7 Kg5) e5 2. g4+ $1 (2. Kf6 $2 e4 3. Kf5 e3) Kxg4 (Kxh4 {<main>} 3. Kf6 e4 4. g5) 3. Kg6 $1 e4 (Kxh4 4. Kf5) 4. h5 1/2-1/2
+
+[Event "La Stratégie (tt)"]
+[Source "La Stratégie/7"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/2P5/5k2/2P5/4K3/8/8 w - - 0 1"]
+
+1. Kd4 $1 Ke6 2. Kc5 Ke7 3. Kb4 $1 Kd8 (Ke6 4. Ka5 Ke5 5. Ka6) 4. Ka5 Kc8 5. Kb5 Kb8 6. Kc5 Ka7 (Kc8 7. Kd5 Kd8 8. Ke6 Ke8 9. c5) 7. Kd4 $1 Ka6 8. Ke5 Ka5 9. Ke6 1-0
+
+[Event "4.hm Ceskoslovensky Sach#76"]
+[Source "Ceskoslovensky Sach/12"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2N5/8/K1P2P2/4k3/8/N3n3/1b6 w - - 0 1"]
+
+1. Nc3+ $1 Nxc3 2. f6 Ba2 3. Nd5 Bxd5 4. c6 1-0
+
+[Event "La Stratégie (tt)"]
+[Source "La Stratégie/8"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k2K1/3P4/8/8/1p6/8/7P/8 w - - 0 1"]
+
+1. h4 $1 b3 2. h5 b2 3. h6 b1=Q 4. h7 Qg6+ 5. Kf8 Qxh7 1/2-1/2
+
+[Event "La Stratégie (tt)"]
+[Source "La Stratégie/7"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/2p5/8/3P4/3P1K2/8/8/8 w - - 0 1"]
+
+1. d6 $1 cxd6 (c6 2. Kf5 Kd7 3. Ke5 $1 Kd8 4. Ke6 Ke8 5. d7+ Kd8 6. Kd6 c5 7. Kxc5 Kxd7 8. Kd5) (Kd7 2. dxc7 Kxc7 3. Ke5 Kd7 4. Kd5) 2. d5 Ke7 3. Kg5 $1 Kf7 4. Kf5 Ke7 5. Kg6 1-0
+
+[Event "Svobodné Slovo#144"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/1pp5/8/1KP5/1P6/1kN2b2 w - - 0 1"]
+
+1. Na2 $1 Bc4+ (Be2 2. Ka3 Kc2 3. b3 Bf1 4. c4 Bxc4 5. bxc4 bxc4 6. Ka4 $1) 2. Ka3 Bxa2 3. b4 cxb4+ 4. cxb4 Ka1 1/2-1/2
+
+[Event "Ceskoslovensky Sach#3006"]
+[Source "Ceskoslovensky Sach/2"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/n1PK2P1/1k6/8/8/7R/q7/8 w - - 0 1"]
+
+1. c8=N+ $1 (1. c8=Q $2 Qd5+) Nxc8 2. Rb3+ Qxb3 3. g8=Q Qxg8 (Qa4+ 4. Kd8 $1 (4. Ke6 $2 Qc4+ 5. Kd7 Qc7+ 6. Ke8 Qe7#)) 1/2-1/2
+
+[Event "Ceskoslovensky Sach#3004"]
+[Source "Ceskoslovensky Sach/2"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1kPpP3/4P3/7q/8/8/8/3n1BK1 w - - 0 1"]
+
+1. c8=Q+ $1 Kxc8 2. e8=Q+ Qxe8 3. exd7+ Qxd7 (Kxd7 4. Bb5+) 4. Bh3 Qxh3 1/2-1/2
+
+[Event "2.c Práce"]
+[Source "Práce/2"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4b1k1/8/5KP1/2q1N3/7R/7p/8/8 w - - 0 1"]
+
+1. Rh8+ $1 Kxh8 2. Nf7+ $1 Bxf7 3. g7+ Kh7 4. g8=Q+ Bxg8 (Kxg8) 1/2-1/2
+
+[Event "Práce (c)"]
+[Source "Práce/3 (c): Garcia=M Estudios Artisticos de Ajedrez - XV-52 2015."]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B6/5p2/2p2p2/2P2Pk1/p2p2P1/3P4/5P2/5K2 w - - 0 1"]
+
+1. Bh2 $1 (1. Kg2 $2 Kxg4) a3 (Kxg4 2. f4 $1 Kxf5 3. Bg1 a3 4. Bxd4) 2. f4+ Kxg4 3. Bg1 a2 4. Bxd4 1-0
+
+[Event "Ceskoslovensky Sach#3111"]
+[Source "Ceskoslovensky Sach/12"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p1p3/1pPpP1P1/pP1P1r2/P4P1p/7k/4Kp2/7B w - - 0 1"]
+
+1. g7 $1 f1=Q+ 2. Kxf1 Rxf4+ 3. Bf3 Rxf3+ 4. Kg1 Rg3+ 5. Kh1 Ra3 6. Kg1 Rxa4 7. g8=Q Rg4+ 8. Kh1 Rxg8 1/2-1/2
+
+[Event "Ceskoslovensky Sach#3110"]
+[Source "Ceskoslovensky Sach/12"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "b7/2Pk4/K6p/P1p4P/2R1p1p1/3pPpP1/1p1P1P2/8 w - - 0 1"]
+
+1. c8=Q+ $1 Kxc8 2. Rxc5+ Bc6 $1 3. Rxc6+ Kb8 4. Rb6+ Ka8 5. Rxh6 Kb8 6. Rh8+ $1 Kc7 7. Rh7+ Kb8 8. Rb7+ Ka8 9. Rg7 $1 (9. Rf7 $2 Kb8 10. h6 b1=Q 11. h7 Qb2 12. Rf8+ Kc7 13. h8=Q Qb7#) Kb8 10. h6 b1=Q 11. h7 1-0
+
+[Event "Ceskoslovensky Sach#3112"]
+[Source "Ceskoslovensky Sach/12"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b6/p5B1/r5P1/6K1/P6p/P7/8/2k5 w - - 0 1"]
+
+1. Bb2+ $1 Kxb2 2. g7 Ra5+ 3. Kxh4 Rxa4+ 4. Kh3 Rxa3+ 5. Kg2 Rg3+ 6. Kh1 Rxg7 1/2-1/2
+
+[Event "Ceskoslovensky Sach#3188 (c)"]
+[Source "Ceskoslovensky Sach/3 (c): Ceskoslovensky Sach/8-9 1953."]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4qBbk/6R1/4nPPK/4P3/5p2/8/8/8 w - - 0 1"]
+
+1. Rh7+ $1 Bxh7 2. Bg7+ Nxg7 3. fxg7+ Kg8 4. gxh7+ Kf7 5. g8=Q+ Qxg8 6. e6+ Kf8 7. e7+ Kf7 8. hxg8=Q+ Kxg8 9. e8=Q# 1-0
+
+[Event "2.hm Ceskoslovensky Sach#3187"]
+[Source "Ceskoslovensky Sach/3"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5K2/2n3P1/7k/4B2P/8/7r/8 w - - 0 1"]
+
+1. g7 $1 Rf2+ (Ne5+ 2. Ke6 Rxh4 3. g8=Q Rxe4 4. Qh7+) 2. Ke6 $1 Nd8+ 3. Kd5 Nc6 $1 (Rd2+ 4. Kc4 Rd4+ 5. Kc3) 4. Kxc6 Rf6+ 5. Kd5 Rg6 6. Bxg6+ Kh6 $1 7. g8=N+ Kxg6 8. Ne7+ Kh5 9. Nf5 1-0
+
+[Event "Obrana Lidu (c)"]
+[Source "(c): Keith=D Estudios Artisticos de Ajedrez - XV-18 2015."]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B1K5/k7/8/8/8/p7/1p6/2R5 w - - 0 1"]
+
+1. Rc7+ $1 Kxa8 (Ka6 2. Bb7+ $1 Ka5 (Kb6 3. Bd5 b1=Q 4. Rb7+) 3. Be4 $1 a2 4. Ra7+) 2. Rc3 $1 b1=N $1 3. Rc2 $1 Ka7 4. Kc7 Ka6 5. Kc6 Ka5 6. Kc5 Ka4 7. Kc4 Ka5 8. Kb3 Kb5 9. Ka2 1-0
+
+[Event "Ceskoslovensky Sach#3342"]
+[Source "Ceskoslovensky Sach/8-9"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7P/1Pk5/P7/8/7K/8/r7 w - - 0 1"]
+
+1. b7 $1 Kxb7 2. a6+ Kxa6 (Rxa6 3. h8=Q) 3. Kg2 Ra2+ 4. Kg3 Ra3+ 5. Kg4 Ra4+ 6. Kg5 Ra5+ 7. Kg6 1-0
+
+[Event "Ceskoslovensky Sach#3404"]
+[Source "Ceskoslovensky Sach/1"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2P5/8/pK6/8/p7/rk6 w - - 0 1"]
+
+1. Ka3 $1 Kc2 2. c7 Kb1 3. Kxa4 1-0
+
+[Event "Ceskoslovensky Sach#3414"]
+[Source "Ceskoslovensky Sach/3"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/4p3/4n2K/5p1P/4PP2/8/8/8 w - - 0 1"]
+
+1. exf5 $1 Nxf4 2. f6 e5 (exf6) 3. f7 Ne6 4. Kg6 e4 5. Kf5 1/2-1/2
+
+[Event "Svobodné Slovo#390"]
+[Source "also Shakhmaty v SSSR#48 Shakhmaty v SSSR/12 1964."]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K1k/5R2/8/8/8/7p/6p1/8 w - - 0 1"]
+
+1. Rf3 $1 g1=N $1 2. Rf2 $1 Kh7 3. Kf7 Kh6 4. Kf6 Kh5 5. Kf5 Kh4 6. Kf4 Kh5 (h2 7. Rxh2+ Nh3+ 8. Kf3) 7. Kg3 1-0
+
+[Event "Ceskoslovensky Sach#3443"]
+[Source "Ceskoslovensky Sach/5"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/1p1p1p1p/1PpPpPpP/K1P1P1P1/8/8/8/3N4 w - - 0 1"]
+
+1. Nc3 $1 Kf8 2. Nb5 Ke8 3. Na7 Kd8 4. Ka4 $1 Ke8 5. Nc8 Kd8 6. Ne7 Ke8 7. Ka5 $1 Kf8 (Kd8 8. Nxg6) 8. Nxc6 1-0
+
+[Event "Ceskoslovensky Sach"]
+[Source "5.hm Bohemian Ring ty 1961."]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/6p1/2p2pP1/5P1R/7P/1p6/pP3n2/K7 w - - 0 1"]
+
+1. Rh8+ $1 Kxh8 2. h5 Nd3 3. h6 Nxb2 4. h7 c5 5. Kxb2 c4 6. Ka1 c3 1/2-1/2
+
+[Event "Ceskoslovensky Sport"]
+[Date "1961.03.03"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/8/1p3p2/5p1p/kPp5/P4P1P/K4N2 w - - 0 1"]
+
+1. Kb1 $1 h3 2. Kc2 b4 3. Kb1 $1 c6 4. Ka1 $1 c2 5. Nd2 c1=Q+ 6. Nb1+ 1-0
+
+[Event "Shakhmaty v SSSR#16"]
+[Source "Shakhmaty v SSSR/4"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4B3/8/k7/p2p4/3R4/K1pp4/8 w - - 0 1"]
+
+1. Bb4+ $1 Kxb4 2. Rxd2 Kc3 (c1=Q 3. Rxd4+ Kc5 4. Rd5+ Kxd5) 3. Rxd4 $1 Kxd4 (c1=Q 4. Rc4+ Kxc4) 4. Kb2 Kd3 5. Kc1 a3 (Kc3) 1/2-1/2
+
+[Event "Shakhmaty v SSSR#16"]
+[Source "Shakhmaty v SSSR/4 EG#00308."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p5/2p1Kpk1/5p2/3P4/4P3/8/8 w - - 0 1"]
+
+1. Kd7 $1 f4 2. exf4 Kf5 3. Kxc7 $1 (3. Kxc6 $2 Ke4) Ke4 (Kxf4 4. Kxc6) 4. f5 $1 (4. Kxc6 $2 Kxd4) Kxd4 $1 (Kd5 5. Kd7) (Kxf5 5. Kxc6) 5. Kd6 $1 c5 (Ke4 6. Ke6) 6. Ke6 c4 7. Kxf6 c3 8. Kg7 $1 c2 9. f6 c1=Q 10. f7 1/2-1/2
+
+[Event "Ceskoslovensky Sport"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6pp/7k/5Kp1/6P1/6P1/7P/8 w - - 0 1"]
+
+1. h4 $1 gxh4 (g6+ {<main>} 2. Kf6 gxh4 3. gxh4 g5 4. hxg5#) 2. g5+ $1 Kh5 3. g4# 1-0
+
+[Event "Ceskoslovensky Sach#269"]
+[Source "Ceskoslovensky Sach/2"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p1Pp/4P3/8/7K/7N/6pp/7k w - - 0 1"]
+
+1. g8=Q $1 g1=Q 2. Qa8+ Qg2 3. Qa1+ Qg1 4. Qe5 $1 Qf1 (h5 5. Qe4+ Qg2 6. Qe1+ Qg1 7. Nxg1 hxg1=Q 8. Qxg1+ Kxg1 9. Kxh5) 5. Qe4+ Qg2 6. Nf2+ Kg1 7. Qe1+ Qf1 8. Nh3+ Kg2 9. Qg3+ Kh1 10. Nf2+ 1-0
+
+[Event "Rude Pravo"]
+[Date "1968.04.20"]
+[Round "?"]
+[Composer "Hasek, Josef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "n7/p4P1p/P6p/8/7K/4p2N/4P1pp/7k w - - 0 1"]
+
+1. f8=Q $1 g1=Q 2. Qxa8+ Qg2 3. Qb7 $1 h5 4. Qb1+ Qg1 5. Qe4+ Qg2 6. Qb7 h6 7. Qb1+ Qg1 8. Qe4+ Qg2 9. Qb7 Qxb7 10. axb7 Kg2 11. b8=Q h1=Q 12. Qb7+ Kh2 13. Qc7+ Kg2 14. Qc6+ Kh2 15. Qd6+ Kg2 16. Qd5+ Kh2 17. Qe5+ Kg2 18. Qe4+ Kh2 19. Qf4+ Kg2 20. Qf3+ Kh2 21. Qg3# 1-0

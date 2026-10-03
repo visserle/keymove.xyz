@@ -1,0 +1,13 @@
+[Event "Schakend Nederland#1201 (c)"]
+[Source "Schakend Nederland/5 (c): Bloemsma=C Schakend Nederland#1296 Schakend Nederland/3 1972."]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Bloemsma, J.C.A"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3n4/6p1/2B2pK1/4P1p1/6Pk/8/6P1/8 w - - 0 1"]
+
+1. exf6 $1 (1. Bd5 $2 fxe5 2. Kf5 e4 $1 3. Kxe4 Kxg4 4. Ke5 Kg3) Nxc6 (gxf6 2. Bd5 Kxg4 3. Kxf6) 2. fxg7 Ne5+ 3. Kh7 (3. Kf5 $2 Nxg4) Nxg4 (Nd7 4. g3+ Kxg4 5. Kg6 Ne5+ 6. Kf6) 4. g3+ $1 (4. Kg6 $2 Ne5+ 5. Kh7 Nd7 6. g3+ Kh5 7. g4+ Kh4 $1) Kh5 (Kxg3 5. Kg6) 5. g8=N $1 (5. g8=Q $2 Nf6+) Ne3 6. Nf6# 1-0

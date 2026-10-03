@@ -1,0 +1,13 @@
+[Event "64 Shakhmatnoye Obozrenye"]
+[Source "64 Shakhmatnoye Obozrenye/4"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Perepeliuk, Aleksandar"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5k2/8/1B6/2p5/8/p1nP3R/2K2b2 w - - 0 1"]
+
+1. Rh7+ $1 Ke6 $1 2. Ra7 a1=Q+ $1 3. Rxa1 Nxa1 4. Kb2 $1 Nb3 5. Kc3 Kd5 6. Bxc4+ $1 Bxc4 7. d3 $1 1/2-1/2

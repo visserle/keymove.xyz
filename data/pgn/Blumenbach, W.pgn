@@ -1,0 +1,25 @@
+[Event "Rigaer Tageblatt"]
+[Date "1908.??.??"]
+[Round "?"]
+[Composer "Blumenbach, W"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2K5/8/1q6/8/8/1p6/2b4B/kB1N4 w - - 0 1"]
+
+1. Be5+ $1 b2 (Kxb1 {<main>} 2. Nc3+ Kc1 3. Bf4+ Kb2 4. Na4+ Ka2 5. Nxb6 b2 6. Nd5 Kb3 $1 7. Nc3 $1 Kxc3 8. Be5+ Kb3 9. Bxb2) 2. Bxb2+ Kxb1 3. Nc3+ Kxb2 4. Na4+ Bxa4 1/2-1/2
+
+[Event "Rigaer Tageblatt"]
+[Date "1909.??.??"]
+[Round "?"]
+[Composer "Blumenbach, W"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/8/1p1p4/1P5k/2q4p/5NPP/8/1B6 w - - 0 1"]
+
+1. g4+ $1 Kh6 2. g5+ Kh5 3. Bg6+ Kxg6 4. Ne5+ dxe5 1/2-1/2

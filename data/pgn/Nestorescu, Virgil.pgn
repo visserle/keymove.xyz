@@ -1,0 +1,82 @@
+[Event "Revista de Romana de Sah#0433"]
+[Source "Revista de Romana de Sah/8"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Nestorescu, Virgil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2p5/3p4/3P4/p7/4R3/1k2K3 w - - 0 1"]
+
+1. Kd2 $1 a2 (Kb2 2. Re6 a2 3. Rxc6 a1=Q 4. Rb6+ Ka3 5. Ra6+ Kb2 6. Rxa1 Kxa1 7. Kc3) 2. Re1+ Kb2 3. Ra1 $1 Kxa1 4. Kc1 c5 5. dxc5 d4 6. c6 d3 7. c7 d2+ 8. Kxd2 Kb2 9. c8=Q a1=Q 10. Qb7+ Ka3 11. Qa6+ Kb2 12. Qb5+ Ka3 13. Qa5+ Kb2 14. Qb4+ Ka2 15. Kc2 1-0
+
+[Event "Ceskoslovensky Sach"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Nestorescu, Virgil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2Q5/2p5/5N2/8/8/3p1k1p/3p1P1q/3K4 w - - 0 1"]
+
+1. Qb7+ $1 Kf4 2. Qxc7+ Kf3 $1 3. Qc6+ $1 (3. Qxh2 $2) Kf4 4. Qd6+ Kf3 5. Qd5+ Kf4 6. Qe5+ $1 (6. Qe4+ $2 Kg5 7. Nh7+ Kh6) Kxe5 7. Ng4+ Kd5 8. Nxh2 Ke4 9. Kxd2 Kd4 10. Nf3+ $1 (10. f3 $2 Kc4 11. Nf1 Kd4 12. Ke1 h2 $1 13. Nxh2 Ke3) Kc4 11. Ke1 Kc3 12. Kf1 d2 (Kc2 13. Kg1 Kd1 14. Nd4) 13. Nxd2 Kxd2 14. f4 1-0
+
+[Event "1/2.c Revista de Romana de Sah#0462 (tw"]
+[Source "Revista de Romana de Sah/4"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Nestorescu, Virgil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2kN4/8/1Pp5/b7/2K3p1/7p/5B2/8 w - - 0 1"]
+
+1. b7+ $1 Kb8 2. Nxc6+ (2. Kc5 $2 h2 $1 (Bxd8 $2 3. Kxc6 Bc7 4. Ba7+ $1) 3. Bg3+ Bc7 4. Bxh2 Bxh2 5. Kxc6 Be5) Kxb7 3. Nxa5+ Ka6 4. Nb3 $1 h2 5. Nc5+ Ka5 (Ka7 6. Ne4+) 6. Bg3 h1=Q 7. Bc7# 1-0
+
+[Event "2.hm Revista de Romana de Sah#0596"]
+[Source "Revista de Romana de Sah/10 1970 EG#02727."]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Nestorescu, Virgil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/3P4/6P1/4R1pp/p5rk/P3K3/8 w - - 0 1"]
+
+1. g6 $1 Rc3 (Rg2+ {<main>} 2. Kd3 $1 (2. Ke3 $2 Rb2 3. Re8 Rb1 $1 4. Kd3 g3 5. g7 g2 6. g8=Q g1=Q 7. Re3+ Kh2) (2. Kd1 $2 Rb2 3. Re8 g3 4. g7 g2 5. g8=Q Rb1+) Rb2 3. Re8 Rb6 (g3 4. g7 g2 5. g8=Q Kh2 6. Qg4 h3 7. Re3) 4. g7 Rxd6+ 5. Ke2 $1 (5. Ke3 $2 Rg6 6. g8=Q Rxg8 7. Rxg8 Kg3 8. Rd8 (8. Ke2 h3 9. Kf1 h2 10. Rh8 d5) h3 9. Rxd7 h2 10. Rd1 Kg2 11. Rd2+ Kg1) (5. Ke4 $2 Rg6 6. g8=Q Rxg8 7. Rxg8 Kg3 8. Kf5 (8. Ra8 Kh2 9. Rg8 Kg3 $1) h3 9. Rxg4+ Kf2 10. Ke5 h2 11. Rh4 Kg2 12. Kd6 h1=Q 13. Rxh1 Kxh1 14. Kxd7 Kg2 15. Kc6 Kf3) Rg6 6. g8=Q Rxg8 7. Rxg8 Kg3 (g3 8. Kf3 d5 9. Rg4 d4 10. Rxd4 g2 11. Kf2) (d5 8. Kf2 g3+ 9. Kg1) 8. Kf1 d5 9. Kg1 Kf4 10. Ra8 d4 11. Rxa3) 2. Re3+ (2. Re8 $2 g3 3. g7 g2 4. g8=Q Rg3 5. Qxg3+ Kxg3 $1 6. Rg8+ Kh2 7. Kf2 h3 8. Rg3 g1=Q+ 9. Rxg1) Rxe3+ 3. Kxe3 Kg3 (g3 4. g7 g2 5. Kf2 $1 (5. g8=Q $2 g1=Q+ 6. Qxg1) (5. g8=R $2 Kh2 6. Kf2 h3 7. Rg3 g1=Q+ 8. Rxg1) Kh2 6. g8=Q) 4. g7 h3 5. g8=R $1 (5. g8=Q $2 h2 6. Qh7 h1=Q 7. Qxh1 (7. Qxd7 Qf3+ 8. Kd4 Qf2+ 9. Ke5 Qxa2)) (5. g8=B $2 Kh2 $1) h2 6. Rh8 Kg2 7. Kf4 h1=Q (g3 8. Kg4 Kf2 9. Rh3 g2 10. Rxh2) 8. Rxh1 Kxh1 9. Kxg4 Kg2 10. Kf5 Kf3 11. Kf6 Ke3 12. Ke7 Kd3 13. Kxd7 Kc3 14. Kc6 $1 Kb2 15. d7 Kxa2 16. d8=Q Kb1 {<eg>} 17. Qd1+ Kb2 18. Qd2+ Kb1 19. Kb5 $1 a2 20. Kb4 a1=Q 21. Kb3 1-0
+
+[Event "2/3.p Buletin Problemistic#126"]
+[Source "Buletin Problemistic/7-12 EG#03675."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Nestorescu, Virgil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7R/1r5P/7k/5B1r/p1K3p1/8/5P2/8 w - - 0 1"]
+
+1. Rg8 $1 (1. Be4 $2 Rc7+ 2. Kb4 Rh2) (1. Rc8 $2 Rxh7) Rc7+ (Rxh7 2. Rg6#) 2. Kb4 $1 (2. Kd3 $2 Rh3+ 3. Ke2 Rxh7) (2. Kd4 $2 Rxf5 $1 3. h8=Q+ Rh7) Rb7+ 3. Kxa4 Ra7+ 4. Kb4 Rb7+ 5. Kc4 Rc7+ 6. Kd4 Rxf5 (Rd7+ 7. Bxd7 Kxh7 8. Rxg4) 7. h8=Q+ Rh7 8. Ke4 $1 Rxh8 (Rxf2 9. Qa1) 9. Rxh8+ Kg6 10. Rg8+ Kf7 11. Kxf5 Kxg8 12. Kxg4 1-0
+
+[Event "2.hm Schweizerische Schachzeitung#218"]
+[Source "Schweizerische Schachzeitung/8 1986 EG#07362."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Nestorescu, Virgil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/4k3/4b1Q1/p7/K3B2p/3r4 w - - 0 1"]
+
+1. Qg3+ $1 (1. Qh5+ $2 Kd4 2. Qxh2 Rd2+ 3. Kxa3 Ke3) Kd4 (Kf5 2. Qxh2) (Kd5 2. Qxh2) 2. Qf2+ Kc3 3. Qe3+ (3. Qxh2 $2 Bd5+ 4. Kxa3 Ra1#) (3. Qc5+ $2 Kd2 4. Qd4+ Kxe2 5. Qxe4+ Kf2 6. Qf4+ Kg2 7. Qg4+ Kf2 8. Qxd1 Kg2) Bd3 4. Bxd3 Ra1+ (Rxd3 5. Qc1+ Kb4 6. Qf4+ Kc3 7. Qc7+ Kb4 8. Qxh2) 5. Kxa1 h1=Q+ 6. Bf1+ Kc2 7. Qe2+ Kc1 8. Qe1+ Kc2 9. Bd3+ 1-0

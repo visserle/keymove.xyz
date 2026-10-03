@@ -1,0 +1,55 @@
+[Event "Deutsche Schachzeitung#944"]
+[Source "Deutsche Schachzeitung/10"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Roth, Helmuth"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1RK1k3/8/n5p1/6P1/8/8/6Rp/7q w - - 0 1"]
+
+1. Rb1 $1 Qxb1 (Qxg2 2. Re1+ Kf7 3. Re7+ Kf8 4. Re8+ Kf7 5. Re7+ Kxe7) 2. Re2+ Kf7 3. Re7+ Kf8 4. Re8+ Kf7 5. Re7+ Kxe7 1/2-1/2
+
+[Event "Schweizerische Schachzeitung"]
+[Source "Schweizerische Schachzeitung/4"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Roth, Helmuth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/R6p/7K/P1p5/8/5P1p/7k w - - 0 1"]
+
+1. Rg6 $1 c3 2. f3 c2 3. Rc6 Kg1 4. Rxc2 h1=Q+ 5. Kg4 h5+ 6. Kg3 h4+ 7. Kg4 Qg2+ (h3 8. Rc1+) 8. Rxg2+ Kxg2 9. Kxh4 1-0
+
+[Event "Deutsche Schachzeitung#950"]
+[Source "Deutsche Schachzeitung/1"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Roth, Helmuth"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/p7/P2R4/6p1/4kp1n/6BK w - - 0 1"]
+
+1. Re4+ $1 (1. Rf4 $2 Nf3 $1 2. Bxf2 gxf2 3. Re4+ Kd3 4. Kg2 Kxe4 5. Kxf2 Nd4) (1. Bxf2 $2 gxf2 2. Re4+ Kd3 $1) Kf3 $1 (Kd3 2. Rf4) 2. Bxf2 $1 gxf2 (Nf1 3. Kg1) 3. Kxh2 $1 f1=Q 4. Rf4+ Kxf4 1/2-1/2
+
+[Event "Deutsche Schachzeitung"]
+[Source "Deutsche Schachzeitung/1"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Roth, Helmuth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5p1p/4p3/4PpPP/4n1pB/3N2Np/4K2k w - - 0 1"]
+
+1. Nxe3 $1 fxe3 2. Kf1 $1 e2+ 3. Kxe2 g2 4. Kf3 $1 g1=Q (g1=N+ 5. Kg3 $1 Ne2+ 6. Kf2 Nf4 7. Bg2+ $1 Nxg2 8. Nf1) 5. Nf1 $1 Qxf1+ (Qa7 6. Ng3+ Kg1 7. Ne2+ Kh1 8. Bg2#) 6. Bxf1 Kg1 7. Bg2 h1=Q 8. Bxh1 Kxh1 9. g5 fxg5 10. hxg5 hxg5 11. Kg4 1-0

@@ -1,0 +1,41 @@
+[Event "Tijdschrift v.d. KNSB#185"]
+[Source "Tijdschrift v.d. KNSB/4"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Wertheim, Willem Frederik"]
+[White "Wertheim, W"]
+[Black " Van der Stok, W."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/b2Q4/P7/pP6/Pp2p2p/3n2pP/3P2Pp/5k1K w - - 0 1"]
+
+1. Qxd3+ $1 (1. Qxa7 $2 b3) exd3 2. b6 b3 3. b7 Bb8 4. a7 b2 5. a8=B Bf4 6. b8=Q Bxb8 7. Be4 Ke1 8. Bxd3 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#283"]
+[Source "Tijdschrift v.d. KNSB/9"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Wertheim, Willem Frederik"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/5p2/2p3p1/8/3P1Np1/RK4k1 w - - 0 1"]
+
+1. Nxg4 $1 fxg4 2. d4 $1 cxd3 $1 3. Ra4 g3 4. Rf4 $1 1/2-1/2
+
+[Event "Schakend Nederland#1035"]
+[Source "Schakend Nederland/12 EG#00810."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Wertheim, Willem Frederik"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6R1/8/8/8/8/2p3pp/6r1/2NKB1k1 w - - 0 1"]
+
+1. Ne2+ $1 Rxe2 (Kh2 2. Bxg3+) (Kh1 2. Nxg3+ Kh2 3. Bxc3) 2. Kxe2 h2 (g2 3. Rh8 h2 (Kh2 4. Bf2 c2 5. Kd2) 4. Bg3 h1=Q (h1=N 5. Bh2#) 5. Bf2#) 3. Bxg3 h1=Q 4. Bh2+ $1 Kxh2 5. Kf2 1-0

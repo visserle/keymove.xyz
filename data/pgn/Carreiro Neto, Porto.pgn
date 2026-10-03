@@ -1,0 +1,26 @@
+[Event "Xadrez Brasiliero#065"]
+[Source "Xadrez Brasiliero/2"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Carreiro Neto, Porto"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/pp6/3P4/r7/P5Pk/8/2N4K/8 w - - 0 1"]
+
+1. Ne3 $1 Rg5 (Rxa4 2. d7 Rd4 3. Nf5+ Kxg4 4. Nxd4) 2. d7 Rg8 3. Nf5+ Kg5 4. Nd6 Kf6 5. Nxb7 Ke7 6. d8=Q+ Rxd8 7. Nxd8 1-0
+
+[Event "Xadrez Brasiliero"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Carreiro Neto, Porto"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/8/6pp/5P2/3N1k2/2n2P2/8/b7 w - - 0 1"]
+
+1. f6 $1 Nd5 (Bb2 2. Nc2 Nd5 3. f7 Nf6+ 4. Kg7 Nd7+ 5. Kxg6 Ne5+ 6. Kxh6 Nxf7+ 7. Kg6 Ne5+ 8. Kf6 Nxf3+ 9. Ke6) 2. f7 Nf6+ 3. Kg7 Nd7 4. Kxh6 $1 Bxd4 (Nf8 5. Ne6+) 5. f8=Q+ Nxf8 1/2-1/2

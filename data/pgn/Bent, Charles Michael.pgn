@@ -1,0 +1,670 @@
+[Event "British Chess Magazine#0986"]
+[Source "British Chess Magazine/5"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1n6/8/4P3/8/r6k/4Kp2/8/8 w - - 0 1"]
+
+1. e7 $1 Ra3+ 2. Kf2 Ra2+ 3. Kxf3 Nc6 4. e8=Q Nd4+ 5. Kf4 Rf2+ 6. Ke3 Re2+ 7. Kf4 Ne6+ 8. Kf3 Nd4+ 9. Kf4 Rxe8 1/2-1/2
+
+[Event "British Chess Magazine#0999"]
+[Source "British Chess Magazine/7"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1P6/q7/1p2K3/7k/8/2R3P1/4b3 w - - 0 1"]
+
+1. b8=Q $1 Bg3+ 2. Kf5 Bxb8 3. Rc3 Bg3 4. Rc6 Qxc6 1/2-1/2
+
+[Event "British Chess Magazine#1065"]
+[Source "British Chess Magazine/4"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/N1k5/4b3/8/P1nnN3/8/3P4/8 w - - 0 1"]
+
+1. Nb5+ $1 Nxb5 2. axb5 Bd5+ 3. Ka7 Bxe4 4. d3 Bxd3 5. b6+ Nxb6 1/2-1/2
+
+[Event "British Chess Magazine#1257"]
+[Source "British Chess Magazine/5"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/k5Bn/6PP/7b/8/4r3/7b/8 w - - 0 1"]
+
+1. Bd4+ $1 Kb7 2. g7 (2. Bxe3 $2 Bxg6) Re8+ (Bf7 3. Bxe3) (Nf6 3. Bxe3) 3. g8=Q Rxg8+ 4. Kxg8 Bg6 (Ng5 5. h7) 5. Be5 Bg1 (Bxe5) 6. Bd4 Bf7+ 7. Kxh7 (7. Kxf7 $2 Bxd4) Bxd4 1/2-1/2
+
+[Event "Tidskrift for Schack#1223"]
+[Source "Tidskrift for Schack/12"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "Bent, C"]
+[Black " Peckover, J."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2K5/k7/Np6/8/3N1b2/8/1P1p4/8 w - - 0 1"]
+
+1. Nc7 $1 Bxc7 (b5 2. Ncxb5+ Kb6 3. Nc3) 2. Nb5+ Ka6 3. Nxc7+ Ka5 4. Nd5 d1=Q 5. b4+ Ka6 6. Nc7+ Ka7 7. Nb5+ Ka8 8. Nc7+ 1/2-1/2
+
+[Event "Springaren"]
+[Source "EG#00779. also EG#0779 EG=16 6/1969."]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1n6/1P6/8/P4kN1/1P2p3/4P1pK/2b5 w - - 0 1"]
+
+1. b4 $1 (1. a5 $2 Nxa5) Bd2 (Ba3 2. a5 Nxa5 3. bxa5 Bc5 4. Nf6) (Kxg4 2. a5) 2. a5 (2. Nf6 $2 Bxb4 3. Nd5+ Ke4 4. Nxb4 Kd4) Nxa5 3. bxa5 Bxa5 4. Nf6 (4. b7 $2 Bc7) Ke5 (Kf5 5. Nd5) 5. b7 Bc7 6. b8=B $1 (6. b8=Q $2 Kd4+ 7. Qxc7 g1=Q+ 8. Kxg1) (6. Nd7+ $2 Ke6+ 7. Kxg2 Kxd7) Bxb8 7. Nd7+ Kd6 8. Nxb8 Kc7 9. Na6+ Kb6 10. Nb4 1-0
+
+[Event "Schakend Nederland#0939"]
+[Source "Schakend Nederland/3"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "rb6/p3k3/1P6/8/8/2p4K/p1P4P/5B2 w - - 0 1"]
+
+1. b7 $1 a1=Q 2. Bd3 $1 (2. Bg2 $2 Qd1 3. bxa8=Q Qh5#) Qh1 3. bxa8=Q Qxa8 4. Be4 Qxe4 (a5 5. Bxa8 Kd6 6. Be4 Ke5 7. Bc6 $1 Kf4 8. Kg2 Ke3 9. h4 Kd2 10. Ba4) 1/2-1/2
+
+[Event "Tidskrift for Schack#1326"]
+[Source "Tidskrift for Schack/9"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5R2/5bP1/4p1q1/6p1/1B3b1k/6N1/1p2n1KP/8 w - - 0 1"]
+
+1. Rh8+ $1 Qh5 2. Rxh5+ Bxh5 3. Nf5+ $1 exf5 (Kg4 4. Nh6+ Kh4 5. Be1+ Bg3 6. Bxg3+ Nxg3 7. hxg3#) 4. Be1+ Bg3 5. Bxg3+ (5. hxg3+ $2 Kg4 6. g8=Q Nf4+) Nxg3 6. hxg3+ Kg4 7. g8=N Be8 (f4 {<main>} 8. Nh6#) 8. Nf6# 1-0
+
+[Event "1.c Schakend Nederland#1014 (v)"]
+[Source "Schakend Nederland/6 (v): EG=12 4/1968."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3K4/8/8/Nk5P/3n4/3b4/8/8 w - - 0 1"]
+
+1. Nb7 $1 Kc6 2. Kc8 (2. h6 $2 Kxb7 3. Ke7 Nf3 4. Kf6 Kc6) (2. Na5+ $2 Kb6 3. Nb3 Nxb3 4. Ke7 Nd4 5. Kf6 Nf3 6. h6 Kc6) Ba6 3. h6 Bxb7+ 4. Kd8 Kd6 5. h7 Ne6+ 6. Ke8 Be4 7. h8=N (7. h8=Q $2 Bg6#) 1/2-1/2
+
+[Event "Sinfonie Scacchistiche#0332"]
+[Source "Sinfonie Scacchistiche/10-12"]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3Bq3/1p6/4N1p1/3k4/4N2P/1p6/4P2K/8 w - - 0 1"]
+
+1. Nc7+ $1 (1. Nf6+ $2 Kxe6) Kxe4 2. Nxe8 b2 3. Nd6+ Kf4 (Kd5 4. Nb5) (Kd4 4. Bf6+) (Ke5 4. Nc4+) (Ke3 4. Nc4+) 4. Bg5+ Kg4 5. Nc4 b1=Q 6. Ne3+ Kh5 7. Nd5 Kg4 8. Ne3+ Kh5 9. Nd5 1/2-1/2
+
+[Event ".c Magyar Sakkélet#0709"]
+[Source "Magyar Sakkélet/8 EG#00933."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/Q1Pppk2/2P5/8/6n1/2P5/3n4/3r4 w - - 0 1"]
+
+1. Qa2+ $1 e6 2. Qc2 Rh1+ 3. Qh7+ Rxh7+ 4. Kxh7 Ne4 $1 5. cxd7 $1 (5. c8=Q $2 Nef6+ 6. Kh8 Ne5) (5. Kh8 {<or>} Ne5 6. cxd7) Nef6+ 6. Kh8 Ne5 7. d8=N+ $1 Kg6 8. c8=N (8. c8=Q $2 Kh6) Kh6 9. Ne7 1/2-1/2
+
+[Event "Tidskrift for Schack#1429 (c)"]
+[Source "Tidskrift for Schack/3 (c): Beasley=J Diagrammes=138 9/10-2001."]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6bK/8/5k2/2N1n3/8/5p2/4N3 w - - 0 1"]
+
+1. Nd3 $1 (1. Nf3 $2 Kf6 2. Nh2 Kf7) (1. Ng2 $2 Kf6 2. Nge3 Kf7) f1=Q 2. Ne3+ Kf6 3. Nxf1 Kf7 4. Ne5+ Bxe5 5. Kh6 Bf4+ 6. Kh5 Nf2 7. Kh4 Kg6 8. Nh2 $1 (8. Ng3 $2 Bg5#) Bxh2 1/2-1/2
+
+[Event "EG"]
+[Source "EG/4 EG#00521. after Aizenshtat=M b4a6 1931."]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3B4/qR1Bp3/k1Kb4/8/P6n/8/8 w - - 0 1"]
+
+1. Rb5+ $1 (1. Rxa6+ $2 Kxa6) (1. Bc7 $2 Qc4+ 2. Kd6 Qf4+) Ka4 2. Ra5+ (2. Rb1+ $2 Kxa3 3. Ra1+ Ba2 4. Bxe6 Qa5+ 5. Kc6+ Kb2) Kxa5 3. Bc7+ Qb6+ 4. Bxb6+ Ka6 5. Bc8+ Bb7 6. Bxe6 Bg2 7. Bc8+ Bb7 8. Bxh3 Bg2 9. Be6 (9. Bxg2 $2) Bd5 10. Kxd5 1-0
+
+[Event "EG"]
+[Source "EG/4"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3P4/8/4Pk1K/4n3/8/6b1 w - - 0 1"]
+
+1. d7 $1 Ng2+ 2. Kh3 Kf3 3. d8=N $1 (3. d8=Q $2 Nf4+ 4. Kh4 Bf2+ 5. Kg5 Ne6+) Nf4+ 4. Kh4 Bc5 5. Nc6 (5. Nf7 {<or>}) 1/2-1/2
+
+[Event "2.hm Tidskrift for Schack#1466"]
+[Source "Tidskrift for Schack/12 EG#01247."]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3pp3/6KN/4k3/3p1p2/r1N5/5P2/8 w - - 0 1"]
+
+1. Nf7+ $1 Ke6 2. Ng5+ Ke5 3. Nf3+ Ke6 4. Nxd4+ Ke5 5. Nf3+ Ke6 6. Ng5+ Ke5 7. Nf7+ Ke6 (Kd4 8. Nb5+ Kd3 9. Nxa3 Ke2 10. Kf5 f3 11. Nc2 Kxf2 12. Ng5 Kg3 13. Ne4+ Kh3 14. Ne1 d5 15. Ng5+ Kg3 16. Nexf3) 8. Nb5 Rc3 9. Nxc3 1-0
+
+[Event "EG"]
+[Source "EG/4"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k2r3/5K2/8/1N6/7B/5b2/5N2/8 w - - 0 1"]
+
+1. Bg3+ $1 Kc8 2. Nd6+ Kd8 (Kd7 3. Nxe8 Bh5+ 4. Kf8 Bxe8 5. Ng4 Kd8 6. Bh4+ Kd7 7. Nf6+ Kd8 8. Nxe8+) 3. Nxe8 Bh5+ 4. Kf8 Bxe8 5. Bh4+ Kd7 6. Ng4 Bg6 (Bh5 7. Nf6+ Ke6 8. Nxh5) 7. Ne5+ Ke6 8. Nxg6 1-0
+
+[Event "Tidskrift for Schack#1448 (c)"]
+[Source "Tidskrift for Schack/9 (c): Garcia=M Estudios Artisticos de Ajedrez - I-66 2012."]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2n5/8/2qP2B1/2N5/7K/3pb3/6RP/3k4 w - - 0 1"]
+
+1. Bh5+ $1 Ke1 (Kc1 2. Nxd3+ Kb1 3. Rb2+ Ka1 4. Ra2+ Kxa2 5. Nb4+ Kb3 6. Nxc6) 2. Nxd3+ (2. d7 $2 Bxc5 3. d8=Q Be7+) Kf1 3. Be2+ Kxg2 4. Bf3+ Qxf3 (Kxf3 5. Ne5+ Ke4 6. Nxc6) 5. Ne1+ Kf2 6. Nxf3 Kxf3 7. d7 Ne7 8. d8=N $1 (8. d8=Q $2 Ng6+ 9. Kh5 Nf4+ 10. Kh4 (10. Kh6 Ne6+ 11. Kh7 Nxd8) Bf2+ 11. Kg5 Ne6+ 12. Kg6 Nxd8) 1/2-1/2
+
+[Event "Magyar Sakkélet#0824"]
+[Source "Magyar Sakkélet/9"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4B3/5KPk/3q4/2N5/5N2/R5r1/3n4/8 w - - 0 1"]
+
+1. g8=Q+ $1 (1. Rxg3 $2 Qxf4+) Rxg8 2. Rh3+ Qh6 3. Rxh6+ Kxh6 4. Kxg8 Ne4 $1 5. Nd7 (5. Nxe4 $2) Nd6 6. Ne5 $1 (6. Bg6 $2 Kg5) (6. Bh5 $2 Kg5) Kg5 (Nxe8 7. Nf7#) 7. Nf7+ (7. Nh3+ $2 Kf5) Nxf7 8. Ne6+ Kh6 9. Kxf7 $1 (9. Bxf7 $2) 1-0
+
+[Event "L'Italia Scacchistica#4889"]
+[Source "L'Italia Scacchistica/9"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "Rb3r2/8/4N3/3k4/8/8/1Kp5/n7 w - - 0 1"]
+
+1. Nc7+ $1 Bxc7 (Kc4 2. Rxa1 Bxc7 3. Ra3 (3. Kxc2 $2 Rf2+) (3. Rc1 $2 Be5+ 4. Kxc2 Rf2+) Rf2 (Kb4 4. Rb3+) 4. Rc3+) (Ke4 2. Rxa1 Rf2 3. Kc3 Bxc7 (Ba7 4. Rc1 Bd4+ 5. Kb3 Kd3 6. Na6) 4. Re1+ Kf3 5. Rc1 Be5+ 6. Kb3 (6. Kd3 {<or>})) (Kd4 2. Rxa1 Rf2 (Kd3 3. Ra3+ Kd2 4. Rc3) 3. Ne6+ Kc4 4. Ra4+) 2. Rxf8 Be5+ 3. Kc1 Bd6 4. Rf3 Ke4 5. Rc3 Bf4+ 6. Kb2 Be5 7. Kc1 Bxc3 1/2-1/2
+
+[Event "Magyar Sakkélet#0808 (c)"]
+[Source "Magyar Sakkélet/5"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3B4/5N2/6p1/8/5k1P/pp6/7K/8 w - - 0 1"]
+
+1. Bg5+ $1 Kg4 (Ke4 2. Nd6+ Kd3 3. Nb5 a2 4. Bf6 Kc2 5. Na3+ Kc1 6. Nc4) (Kf5 2. Nd6+ Ke6 3. Nb5 a2 4. Nd4+) (Kf3 2. Ne5+ Ke2 3. Nc4 a2 4. Bf6) 2. Kg2 (2. Ne5+ $2 Kf5) Kh5 (Kf5 3. Nd6+ Ke6 4. Nb5 a2 5. Nd4+) (b2 3. Nh6+) 3. Nh6 $1 b2 (a2 4. Ng8 a1=Q (Kg4 5. Nh6+ Kh5 6. Ng8) 5. Nf6+ Qxf6 6. Bxf6) 4. Ng8 Kg4 (b1=Q 5. Nf6#) 5. Nh6+ Kh5 6. Ng8 1/2-1/2
+
+[Event "EG (tw)"]
+[Source "EG/11"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/n5n1/K1kB4/6b1/8/P7/8 w - - 0 1"]
+
+1. Be4 $1 (1. Bf7 $2 Ne5) Nb4 2. Bxg6 Nc6+ 3. Ka4 (3. Ka6 $2 Bc8#) Bd1+ (Ne5 4. Bc2) 4. Ka3 Ne5 5. Bd3 Kd4 (Nxd3) 6. Bf1 Kc3 7. Bb5 Bc2 (Nf3 8. Ba4) 8. Be2 Nd7 9. Bd1 Bxd1 1/2-1/2
+
+[Event "New Statesman {and Nation}"]
+[Source "EG#00935."]
+[Date "1969.05.09"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/8/R1N5/2k1p2P/p7/8/B1p2p2/8 w - - 0 1"]
+
+1. Kc7 $1 f1=Q 2. Ra5+ Qb5 3. Rxb5+ Kxb5 4. Nxe5 c1=Q+ (Kb4 5. Nd3+ Kc3 6. Bc4 Kxc4 7. Nc1 Kc3 8. h6 Kb2 9. Ne2) 5. Bc4+ Ka5 6. Nc6# 1-0
+
+[Event "Volksgazet"]
+[Source "EG#00955."]
+[Date "1969.06.10"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3r4/7p/6pK/4B1P1/6pk/8/5P2/8 w - - 0 1"]
+
+1. Bg3+ $1 Kh3 2. Kxh7 Rd3 (Kg2 3. Kxg6 Rd2 4. Kh5) 3. Kxg6 Rxg3 4. fxg3 Kxg3 5. Kf5 $1 (5. Kh5 $2 Kh3 6. g6 g3 7. g7 g2 8. g8=Q g1=Q 9. Qxg1) 1-0
+
+[Event "The Problemist#0053"]
+[Source "The Problemist/9"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2K4B/8/Npk5/1p6/8/4p3/8 w - - 0 1"]
+
+1. Nb3+ $1 (1. Bg8 $2 Kd4 2. Nb3+ Kc3) Kd5 (Kc4 2. Nd2+ Kc3 3. Nf3) 2. Nd2 (2. Bg8+ $2 Ke4 3. Bh7+ Ke3 4. Na1 b3) e1=Q 3. Bg8+ Qe6 (Ke5 4. Nf3+) (Kc5 4. Nb3#) (Kd4 4. Nf3+) 4. Bxe6+ 1/2-1/2
+
+[Event "The Problemist#0060 (c)"]
+[Source "The Problemist/11 (c): The Problemist=8-9 3-5/1971."]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4kn1R/4N2b/5K2/6P1/4R3/3q4/8/2b5 w - - 0 1"]
+
+1. Nf5+ $1 Qxe4 (Kd8 2. Rxf8+) 2. Nd6+ Kd7 3. Nxe4 Bb2+ 4. Kf7 Bxh8 5. Nf6+ Bxf6 (Kd6 6. Nxh7 Nxh7 7. Kg8) 6. gxf6 Ne6 1/2-1/2
+
+[Event ".c Magyar Sakkélet#0912"]
+[Source "Magyar Sakkélet/6 EG#01795."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k3nR2/8/3P1b2/3K4/q5B1/3b4/1n6/2R5 w - - 0 1"]
+
+1. Rc8+ $1 Kb7 2. Rf7+ Kb6 3. Rb8+ Ka5 4. Ra7+ Ba6 5. Rxa6+ Kxa6 6. Ra8+ Kb7 $1 7. Rxa4 Nxa4 8. Bd7 $1 Nb6+ 9. Ke6 Nxd7 10. Kxd7 Ng7 1/2-1/2
+
+[Event "2.c New Statesman {and Nation}"]
+[Source "EG#01843."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6B1/3p2p1/6pk/3n2p1/4p1P1/6PP/2p4K/4B3 w - - 0 1"]
+
+1. Bd2 $1 e3 2. Bc1 e2 3. h4 Nf4 4. Bxf4 gxf4 5. g5+ (5. Kh3 $2 g5) Kh5 6. Kh3 (6. Bd5 $2 Kg4) fxg3 7. Bd5 e1=N 8. Bc4 c1=N 9. Be2+ Nxe2 1/2-1/2
+
+[Event "Sachové Umenie#3186"]
+[Source "Sachové Umenie/7"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/1bpK4/8/4P1q1/4n3/5R2/8/5R2 w - - 0 1"]
+
+1. Rf8+ $1 Kg7 2. R1f7+ Kh6 3. Rh8+ Kg6 4. Rg8+ Kxf7 5. Rxg5 Nxg5 6. e6+ Nxe6 (Kg7 7. e7 Ne4 8. e8=N+) 1/2-1/2
+
+[Event "The Problemist#0093"]
+[Source "The Problemist/7"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4b3/4N3/6p1/B3q1Pk/2B1Nr2/6P1/6K1 w - - 0 1"]
+
+1. Be1+ $1 Rg3 2. Bxg3+ Kxg3 3. Nf5+ Kxg4 4. Bd1+ Kxf5 5. Bc2 Bc5+ 6. Kh1 Qxc2 7. Nd4+ Bxd4 8. g4+ Kg6 1/2-1/2
+
+[Event "2.c Schakend Nederland#1372 (tw)"]
+[Source "Schakend Nederland/10 EG#02313."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/b7/8/2k3n1/2p5/2N5/1B1N4/8 w - - 0 1"]
+
+1. Kb7 $1 Bb6 2. Nce4+ $1 (2. Na4+ $2 Kb5 3. Nxb6 c3 4. Bxc3 Ne4 5. Nxe4) Nxe4 3. Nxe4+ Kb5 4. Nd6+ (4. Nc3+ $2 Ka5) Kc5 (Kb4 5. Kxb6 c3 6. Bc1) 5. Ba3+ Kd4 6. Kxb6 1-0
+
+[Event "L'Italia Scacchistica"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/7p/5N1N/5K2/8/8/p2B2pp/8 w - - 0 1"]
+
+1. Bb4+ $1 Kg7 2. Ne8+ Kxh6 3. Bd2+ Kh5 4. Ng7+ Kh4 5. Be1+ Kh3 6. Ne6 h1=Q 7. Ng5+ Kh2 8. Nf3+ Kh3 9. Ng5+ 1/2-1/2
+
+[Event "Magyar Sakkélet#1205 (c)"]
+[Source "Magyar Sakkélet/8 (c): Garcia=M Estudios Artisticos de Ajedrez - I-53 2012."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6q1/8/2P4p/b7/4N2p/2p2N1k/4B3/5K2 w - - 0 1"]
+
+1. Ng1+ $1 Qxg1+ 2. Kxg1 Bb6+ $1 (c2 3. Nf2+ Kg3 4. Nd3) 3. Kh1 (3. Nf2+ $2 Bxf2+ 4. Kxf2 c2 5. c7 c1=Q) c2 4. Bf1+ Kg4 5. Nf2+ $1 Bxf2 6. c7 c1=Q 7. c8=Q+ Qxc8 8. Bh3+ Kxh3 1/2-1/2
+
+[Event "3.hm L'Italia Scacchistica#231"]
+[Source "L'Italia Scacchistica/7-8 EG#03976."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/P7/2r1b3/7N/5K2/3k1nN1/8/4n3 w - - 0 1"]
+
+1. a8=Q $1 Ng2+ 2. Kxf3 Bd5+ 3. Ne4 (3. Kf2 $2 Rc2+) (3. Kg4 $2 Rc4+) Bxe4+ 4. Kg3 Rg6+ 5. Kh2 Bxa8 (Rh6 6. Qa3+ Kd4 7. Qh3) 6. Nf4+ Nxf4 1/2-1/2
+
+[Event "L'Italia Scacchistica#268"]
+[Source "L'Italia Scacchistica/7-8"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4n3/R4K1k/4N2q/8/8/4nB2/2p5/8 w - - 0 1"]
+
+1. Nf8+ $1 Kh8 2. Ng6+ Qxg6+ 3. Kxg6 c1=Q 4. Rh7+ Kg8 5. Bd5+ Nxd5 6. Rg7+ Kf8 7. Rf7+ Kg8 8. Rg7+ Kh8 9. Rh7+ Kg8 10. Rg7+ Nxg7 1/2-1/2
+
+[Event "Sachové Umenie#5385 (c)"]
+[Source "Sachové Umenie/5 (c): Garcia=M Estudios Artisticos de Ajedrez - I-52 2012."]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7n/bpkP3P/2pnKp2/PP3P2/2P5/8/8/8 w - - 0 1"]
+
+1. b6+ $1 Bxb6 2. axb6+ Kd8 3. Kxd6 Nf7+ 4. Ke6 Ng5+ 5. Kd6 Nxh7 6. c5 $1 Ng5 (Nf8) 1/2-1/2
+
+[Event "The Problemist#0279"]
+[Source "The Problemist/9"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1pP4P/8/8/KP2n3/p7/k7 w - - 0 1"]
+
+1. h7 $1 Kb1 2. h8=Q a1=Q+ 3. Qxa1+ Kxa1 4. c7 b5 5. c8=R (5. c8=Q $2 Nc2+ 6. Qxc2 b4+ 7. Ka4) 1-0
+
+[Event "3.c Canadian Chess Chat#053"]
+[Source "Canadian Chess Chat/11-12 EG#05522."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k1B3/8/3K1p2/3N1b2/3b2n1/8/8/8 w - - 0 1"]
+
+1. Ne7+ $1 Kd8 2. Nxf5 Be5+ 3. Ke6 Kxe8 4. Ne3 (4. Ng7+ $2 Kf8 5. Nh5 Bc3) Nh6 (Nxe3) 5. Nd5 Ng8 6. Ne7 Nxe7 (Nh6 7. Nd5 Ng8 8. Ne7 Kf8 9. Ng6+) (Kf8 7. Ng6+) 1/2-1/2
+
+[Event ".c Magyar Sakkélet#1446"]
+[Source "Magyar Sakkélet/2-3 EG#04859."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7b/5pk1/8/6K1/3P4/1b6/1QB1q1n1/8 w - - 0 1"]
+
+1. d5+ $1 (1. Qxb3 $2 Qe3+ 2. Qxe3 Nxe3 3. Bb3 Kf8 4. d5 Be5) Kg8 $1 (Kf8 2. Qxh8+ Ke7 3. Qf6+ Ke8 4. Qc6+ Kd8 5. Qd6+ Kc8 6. Qc6+ Kb8 7. Qb6+ Ka8 8. Qc6+ Ka7 9. Qc5+ Ka6 10. Qa3+) 2. Bh7+ Kxh7 3. Qxe2 f6+ 4. Kf5 (4. Kg4 {<or>}) Bc2+ $1 5. Kg4 (5. Qxc2 $2 Ne3+) Bd1 $1 6. Qxd1 Ne3+ 7. Kh5 $1 Nxd1 8. d6 f5 9. d7 Bf6 10. d8=Q Bxd8 1/2-1/2
+
+[Event "British Chess Magazine"]
+[Source "British Chess Magazine/1"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2P5/8/k7/3r4/8/1K1N4 w - - 0 1"]
+
+1. c7 $1 (1. Nb2+ $2 Kb5) Rxd1+ 2. Kb2 $1 (2. Kc2 $2 Rd5 3. c8=Q Rc5+ 4. Qxc5) Rd2+ 3. Kc1 1-0
+
+[Event "British Chess Magazine"]
+[Source "British Chess Magazine/7"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/2pp4/5b2/1K4qQ/8/8/8/8 w - - 0 1"]
+
+1. Ka6 $1 c6 (Qg8 2. Qd5+ Qxd5) (Qe5 2. Qh8+ Bxh8) (Kb8 2. Qh8+ Bxh8 (Bd8 3. Qb2+ Kc8 4. Qb7#)) (c5 2. Qf3+ (2. Qh1+ $2 d5 3. Qb1 Bb2) d5 3. Qb3 Qg7 4. Qxd5+ Kb8 5. Qxc5) (Qxh5) 2. Qe8+ Bd8 3. Qxd8+ Qxd8 1/2-1/2
+
+[Event "The Problemist#0349"]
+[Source "The Problemist/7"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/bp6/1p6/3K4/Bq6/RNk5 w - - 0 1"]
+
+1. Nd2+ $1 Qxa1 2. Nb3+ Kb2 3. Nxa1 Kxa2 4. Kc2 Kxa1 5. Kb3 Kb1 1/2-1/2
+
+[Event "The Problemist#0396"]
+[Source "The Problemist/7"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1N6/p1K3p1/4B1P1/p1k5/p2p2bb/2P5/7r w - - 0 1"]
+
+1. Na5+ $1 Kb4 2. c3+ Kxa5 3. Bxg3 Bg2+ 4. Kc5 Rh7 5. c4 d2 6. Bf4 (6. Be5 $2 d1=N 7. Bf4 Nc3) Rd7 7. Bxd2+ Rxd2 1/2-1/2
+
+[Event "Schweizerische Schachzeitung#185"]
+[Source "Schweizerische Schachzeitung/8"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4N3/4P3/6bP/4p2k/6p1/8/7K w - - 0 1"]
+
+1. h6 $1 Bxh6 2. Nf5+ Kh3 3. Nxh6 (3. e7 $2 g2+ 4. Kg1 Bf4) e3 4. e7 e2 5. e8=R $1 (5. e8=Q $2 e1=Q+ 6. Qxe1 g2+ 7. Kg1) 1-0
+
+[Event "5.c Golden Fleece ty"]
+[Source "EG#06615."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k2B4/3b4/p7/3K3B/3b4/8/2n5/8 w - - 0 1"]
+
+1. Bg6 $1 Nb4+ (Ba4 2. Bxc2) 2. Kxd4 Nc6+ 3. Kc5 Nxd8 4. Kb6 (4. Bd3 $2 Ka7) Bb5 (Bc8 5. Kc7) 5. Be4+ Kb8 6. Bb7 Nxb7 1/2-1/2
+
+[Event "The Problemist#0445"]
+[Source "The Problemist/7"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1r6/3R4/8/6b1/8/8/Rp5k/2nK4 w - - 0 1"]
+
+1. Rd2+ $1 Bxd2 2. Rxb2 Nb3 (Rxb2) 3. Kc2 Nd4+ 4. Kd1 Rxb2 (Nb3 {<main >} 5. Kc2 Na1+ 6. Kb1 Rxb2+ (Rd8 7. Kxa1) 7. Kxb2) (Kg3 5. Rxb8 (5. Rxd2 $2 Rb1#)) 1/2-1/2
+
+[Event ".c Schweizerische Schachzeitung#294"]
+[Source "Schweizerische Schachzeitung/11 1988 EG#07927."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4K3/2p1P3/2n1k3/8/8/8/b3N3/8 w - - 0 1"]
+
+1. Nd4+ $1 (1. Nc3 $2 Bc4) (1. Nf4+ $2 Kd6 2. Ng6 Bb1) Nxd4 2. Kf8 Kf6 3. e8=N+ $1 (3. e8=Q $2 Ne6+ 4. Kg8 Ng7+) Ke6 4. Nxc7+ Kd7 5. Ne8 (5. Na6 $2 Ne6+) Ne6+ 6. Kf7 Nc7+ 7. Kf8 Nxe8 1/2-1/2
+
+[Event "The Problemist#0441"]
+[Source "The Problemist/3"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2qN4/8/1b6/kP1P4/8/Kn6/3N4/8 w - - 0 1"]
+
+1. Nb7+ $1 Qxb7 2. Nc4+ Kxb5 3. Nd6+ Ka6 4. Nxb7 Nd2 5. Nd6 Bc5+ 6. Ka4 Bxd6 1/2-1/2
+
+[Event "The Independent#105 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - I-48 2012."]
+[Date "1987.03.13"]
+[Round "?"]
+[Composer "Bent, Charles Michael"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4b3/5p2/Q6K/4q2P/3N2k1/8 w - - 0 1"]
+
+1. Qc6+ $1 Kf2 (Kg1 2. Qc1+) 2. Qc5 Qxc5 3. Ne4+ fxe4 (Ke3 4. Nxc5 Bc8 5. Na4 f4 6. Nc3) 1/2-1/2

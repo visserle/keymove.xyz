@@ -1,0 +1,125 @@
+[Event "3.hm Revista de Romana de Sah#0203 (tw)"]
+[Source "Revista de Romana de Sah/2"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Joitsa, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/P7/6pp/4K1k1/4P3/8 w - - 0 1"]
+
+1. a6 $1 h3 2. a7 h2 3. a8=B $1 (3. a8=Q $2 h1=Q 4. Qxh1) 1-0
+
+[Event "3.hm Revista de Romana de Sah#0202 (tw)"]
+[Source "Revista de Romana de Sah/2"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Joitsa, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/7P/6pp/4K1k1/4P3/8 w - - 0 1"]
+
+1. h6 $1 h3 2. h7 h2 3. h8=R $1 (3. h8=Q $2 h1=Q 4. Qxh1) 1-0
+
+[Event "Revista de Romana de Sah#0232"]
+[Source "Revista de Romana de Sah/8"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Joitsa, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "n2K4/7p/P7/5k2/8/8/2P5/8 w - - 0 1"]
+
+1. Kc8 $1 Ke6 2. Kb7 Kd7 3. Kxa8 Kc8 4. a7 $1 h5 (h6 {<main>} 5. c4 $1 h5 6. c5 h4 7. c6 h3 8. c7 h2) 5. c3 $1 h4 6. c4 h3 7. c5 h2 8. c6 h1=Q 1/2-1/2
+
+[Event "Revista de Romana de Sah#0250"]
+[Source "Revista de Romana de Sah/10"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Joitsa, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B1k5/2P2p2/5P1P/2PK4/1ppP4/4p3/1P6/3q4 w - - 0 1"]
+
+1. Kc6 $1 Qa4+ (Qf3+ 2. d5) 2. Kb6 Qxa8 3. c6 $1 Qa1 (Qa7+ 4. Kxa7 e2 5. h7 e1=Q 6. h8=Q+ Kxc7 7. Qb8+ Kxc6 8. Qc8+ $1 Kd6 9. Qc5+ Kd7 10. Qd5+ Ke8 11. Qxc4 $1 Kd7 12. Kb7 $1 Qh1+ 13. d5) (Qa5+ 4. Kxa5 e2 5. h7 e1=Q 6. h8=Q+ Kxc7 7. Kb5 $1 Qe2 $1 8. Qh3 c3+ 9. Kc5 Qe8 10. Qg3+ Kc8 11. bxc3 Qf8+ 12. Kb5 b3 13. Qg4+ Kb8 14. Qd7 Qc8 15. Qd6+ Qc7 16. Qb4 $1) 4. h7 Qh1 5. d5 $1 e2 6. h8=Q+ Qxh8 7. d6 Qh3 8. d7+ Qxd7 9. cxd7+ Kxd7 10. Kb7 e1=Q 11. c8=Q+ Kd6 12. Qc6+ Ke5 13. Qe8+ Kxf6 14. Qxe1 1-0
+
+[Event "2.p Revista de Romana de Sah#0358"]
+[Source "Revista de Romana de Sah/4"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Joitsa, Paul"]
+[White "Joitsa, P"]
+[Black " Tacu, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/5pP1/7n/6k1/8/6P1/5P2/8 w - - 0 1"]
+
+1. Kh7 $1 (1. f4+ $2 Kg6 2. g4 f5 3. g5 Nf7+ 4. Kg8 Nd8) (1. f3 $2 f6 $1 2. f4+ Kg6) Kh5 2. f3 $1 (2. f4 $2 f5 $1) f5 (f6 3. g4+ Kg5 4. f4+) 3. f4 $1 Ng4 4. g8=N $1 Nf2 5. Nf6# 1-0
+
+[Event "3.hm Revista de Romana de Sah#0514"]
+[Source "Revista de Romana de Sah/10 EG#00252."]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Joitsa, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/5B2/8/1b5p/8/K3kNN1 w - - 0 1"]
+
+1. Nh2 $1 Kf2 2. Nxh3+ $1 Kg2 3. Kb2 $1 (3. Ng4 $2 Kxh3 4. Kb2 Ba4 5. Ka3 Bb5 6. Kb4 Be2) Ba4 (Bd1 4. Ng4 Kxh3 5. Nf2+) (Bc4 4. Ng4 Kxh3 5. Ne3+) (Bd5 4. Ng4 Kxh3 5. Nf6+) (Bf7 4. Ng4 Kxh3 5. Nh6+) (Bg8 4. Ng4 Kxh3 5. Nh6+) 4. Ka3 Bb5 (Bc6 5. Ng4 Kxh3 6. Ne5+) (Be8 5. Ng4 Kxh3 6. Nf6+) 5. Kb4 Ba6 (Be2 6. Nf4+) (Bf1 6. Ng4 Kxh3 7. Ne3+) 6. Ka5 Bb7 7. Kb6 Ba8 8. Ka7 Bc6 (Bd5 9. Ng4 Kxh3 10. Nf6+ Kg3 11. Nxd5) 9. Ng4 Kxh3 10. Ne5+ Kg3 11. Nxc6 1-0
+
+[Event "Revista de Romana de Sah#0530"]
+[Source "Revista de Romana de Sah/5"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Joitsa, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/PP1p4/pp1p4/k2K4/8/8 w - - 0 1"]
+
+1. b6 $1 Kb3 $1 (b3 {<main>} 2. b7 b2 3. b8=R $1 (3. b8=Q $2 b1=Q+ 4. Qxb1)) 2. a6 $1 a3 3. a7 a2 4. a8=R $1 (4. a8=Q $2 a1=Q 5. Qxa1) 1-0
+
+[Event "3.p Revista de Romana de Sah#0607"]
+[Source "Revista de Romana de Sah/8 EG#02086."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Joitsa, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1Q3K2/6P1/4q3/P2b4/B7/8/k7/8 w - - 0 1"]
+
+1. Qb3+ $1 Ka1 (Bxb3 2. Bxb3+ Qxb3 3. g8=B $1) 2. Qc3+ Ka2 $1 (Kb1 3. Bc2+) 3. Bb3+ $1 Bxb3 4. Qxb3+ Qxb3 5. g8=B $1 (5. g8=Q $2 Ka1 $1 6. Qg1+ (6. Qxb3) Ka2 7. Qb6 Qh3) 1-0
+
+[Event "1.p Revista de Romana de Sah#0997"]
+[Source "Revista de Romana de Sah/6 EG#06574."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Joitsa, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k1b3B1/2P5/4p3/1K6/7q/8/8/5Q2 w - - 0 1"]
+
+1. Qf3+ $1 (1. Qa1+ $2 Kb7 2. Qa6+ Kxc7 3. Qb6+ Kd7 4. Bxe6+ Ke7) (1. Qg2+ $2 Ka7) Ka7 2. Qe3+ Ka8 (Kb7 3. Qb6+ Ka8 4. Qb8#) 3. Bxe6 $1 (3. Qc5 $2 Qe4 4. Qc6+ Qxc6+ 5. Kxc6 Ka7 6. Kd6 Kb6 7. Bh7 e5 8. Be4 Bg4 9. Bc6 Bc8 10. Bd7 Bb7 11. Bf5 Ba6 12. Kd7 Bb7 13. Kd8 Ba6 14. Bc8 Bc4 15. Bb7 Be6 16. Be4 Bg4 17. Bg6 Kc6) (3. Qe5 $2 Bd7+ 4. Kb6 (4. Kc5 Qe7+ 5. Qd6 Qg5+) Qe7) (3. Bh7 $2 Bd7+) Ba6+ $1 (Bxe6 4. Qxe6 Qg5+ (Qh5+ 5. Kb6) 5. Ka6) 4. Ka5 $1 (4. Kxa6 $2 Qc4+ 5. Kb6 Qxc7+ 6. Kxc7) Qh5+ (Bb7 5. Qa3) (Qh1 5. Qe5) (Qh8 5. Bd5+ Bb7 6. Bxb7+ Kxb7 7. Qb6+) 5. Qg5 $1 (5. Kxa6 $2 Qe2+ $1 6. Ka5 (6. Qxe2) Qa6+ $1 7. Kb4 (7. Kxa6) Qb6+ 8. Qxb6) Qxg5+ 6. Kxa6 Qg8 7. Bd5+ (7. Bxg8 $2) Qxd5 8. c8=Q# (8. c8=R# {<or>}) 1-0

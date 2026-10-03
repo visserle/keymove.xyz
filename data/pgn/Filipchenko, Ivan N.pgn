@@ -1,0 +1,12 @@
+[Event "Shakhmaty (Riga)#180"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Filipchenko, Ivan N"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4b1K1/3p2p1/1b6/k1N1N2P/8/1P3p2/5P2/8 w - - 0 1"]
+
+1. Nc4+ $1 (1. Ncd3 $2 Bxf2 2. Nc4+ Kb5 3. Nxf2 Bxh5 4. Kxg7 Kb4 5. Nd2 d5 6. Kf6 Be8 7. Nd1 f2 8. Nxf2 Kc3) Kb5 2. Nxb6 Kxc5 (d6 3. Kxg7 Bxh5 4. Ne4 Kxb6 5. Nf6) 3. Kxg7 Bxh5 4. Nxd7+ Kb4 5. Nf6 Kxb3 6. Nxh5 1-0

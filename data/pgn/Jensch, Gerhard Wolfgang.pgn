@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Jensch, Gerhard Wolfgang"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "1q6/8/3k4/2p4Q/1N6/7p/4K1n1/8 w - - 0 1"]
+
+1. Qh6+ (1. Qg6+ $2 Ke5 $1 2. Nc6+ Kd5 3. Ne7+ Ke5 $10) (1. Qd5+ $2 Ke7 2. Nc6+ Kf6 $10) Kd7 2. Qxh3+ (2. Qg7+ $2 Ke6 3. Qg6+ $10) (2. Qh7+ $2 Ke6 3. Qg6+ Ke5 4. Nd3+ $10) (2. Qc6+ $2 Ke7 3. Nd5+ $10) (2. Qd2+ $4 Qd6) (2. Na6 $4 Qe5+ 3. Kf2 Nf4) (2. Nd5 $4 Qe5+ 3. Kf2 Qxd5 4. Qxh3+ Ke7) (2. Nc6 $4 Nf4+ 3. Kf3 Qd6) (2. Nd3 $2 Qe8+ 3. Kf2) Kc7 3. Na6+ (3. Qg3+ $2 Nf4+ 4. Qxf4+ Kb7 5. Nd5 $10 Qxf4 6. Nxf4) (3. Qh2+ $2 Nf4+ 4. Qxf4+ Kb7 5. Nd5 $10 Qxf4 6. Nxf4) (3. Nd5+ $2 Kb7 4. Qf3) (3. Qh7+ $2 Kc8 4. Na6) (3. Qxg2 $2 cxb4 4. Qf2) Kb6 4. Qb3+ $18 (4. Qh6+ Kb7 5. Nxb8 Kxb8 6. Kd3 $18) (4. Nxb8 $2 Nf4+ 5. Kd2 $10) (4. Qe6+ $2 Ka7 5. Nxb8 Nf4+ 6. Kd2) (4. Qxg2 $2 Qc8 5. Nb8 Qxb8 6. Qf2) (4. Qh2 $4 Qxh2 5. Nxc5 Kxc5) (4. Nxc5 $2 Nf4+ 5. Kf1) (4. Qc3 Nf4+ 5. Kf1) 1-0

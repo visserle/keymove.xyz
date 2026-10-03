@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Brodgy, Miklos"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "5K1k/8/8/4N2p/5N2/2P5/5q1P/2B5 w - - 0 1"]
+
+1. Nf7+ (1. Neg6+ $2 Kh7 2. Kf7 $10) (1. h4 $2 Qc5+ 2. Kf7 $10) (1. Kf7 $2 Qa7+ 2. Kf6 $10) (1. Ke7 $2 Qxh2 2. Nfg6+) (1. Be3 $2 Qxe3 2. Nf7+) (1. Ke8 $2 Qc2 2. Nfd3) (1. Nd7 $2 Qg1 2. Bd2) Kh7 2. Ng5+ (2. Ne6 $2 Qxh2 3. c4 $10) (2. Nd3 $2 Qf1 3. Nf4 $10) (2. Bb2 Qxf4) Kh6 (Kh8 3. Be3 (3. Nf7+ $6 Kh7 4. Ng5+ $18) Qxe3 4. Ng6# $1 (4. Nf7+ $4 Kh7 5. Ng5+ $10) (4. h4 $4 Qxf4+ 5. Ke7 Qxh4 $19)) 3. Kg8 (3. Nf7+ Kh7 4. Ng5+ $18) (3. Ngh3 $2 Qc5+ 4. Kg8 $10) (3. Be3 $2 Qxe3 4. Nf7+ $10) (3. Ne4 $2 Qc2 4. Nd3+ $10) (3. h4 $2 Qc5+ 4. Ke8) (3. Nge6 $6 Qxh2 4. Kf7 Qh1 5. Ba3) (3. Ke7 $4 Qc5+ 4. Kf7 Qc7+) Qg1 (Kxg5 4. Nd3+ $18) 4. Kh8 (4. Be3 $4 Qxg5+ 5. Kf7 Qf5+ $19) (4. h4 $2 Qg4 5. Nd5 $10) (4. Nfe6 $4 Qxc1 5. Nf7+ Kg6) (4. Nfh3 $4 Qxc1 5. Nf7+ Kg6) (4. Ne2 $2 Qa7 5. Ne4+) (4. Nxh5 $4 Qxc1 5. Nf7+ Kxh5) (4. Kf8 $4 Qc5+ 5. Kf7 Qf5+) (4. c4 $4 Qxg5+ 5. Kf7 Qf5+) (4. Nd3 $2 h4 5. Kh8) (4. Ng2 Qxg2) Qa7 5. Nf7+ (5. Nfe6 $4 Qa8+ 6. Nd8 Qxd8#) (5. Nd5 Qg7#) (5. c4 Qa8#) (5. Nf3 Qh7#) Qxf7 6. Nd3+ (6. Ne6+ $4 Kg6 7. Nf4+ Kf6 $19) (6. Nh3+ $4 Kg6 7. Nf4+ Kf6 $19) (6. Nd5+ $4 Kg6 7. Nf4+ Kf6 $19) (6. Ng6+ $4 Kxg6 7. h3 Qh7#) (6. Ng2+ $4 Kg6 7. Nh4+ Kf6) (6. Ne2+ $4 Kg6 7. Nf4+ Kf6) (6. h4 Qh7#) Kg6 7. Ne5+ $18 (7. c4 Qg7#) 1-0

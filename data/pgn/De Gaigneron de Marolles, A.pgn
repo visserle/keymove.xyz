@@ -1,0 +1,13 @@
+[Event "La Stratégie#0939"]
+[Source "La Stratégie/5"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "De Gaigneron de Marolles, A"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3N4/3pr3/3p2p1/2pn1kP1/2Pp2RK/3P2P1/p5R1/6b1 w - - 0 1"]
+
+1. Nf7 $1 Rxf7 (Re3 2. cxd5 Rf3 3. Re4) (Re8 2. Nh6+ Ke6 3. Re4#) (Re5 2. cxd5 Rxd5 3. Rf4+) 2. Rf2+ Bxf2 3. Rf4+ Ke6 (Nxf4) 4. Re4+ Kf5 5. Rf4+ Nxf4 1/2-1/2

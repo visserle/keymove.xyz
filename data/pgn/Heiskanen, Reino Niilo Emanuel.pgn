@@ -1,0 +1,83 @@
+[Event "1.p Suomen Shakki"]
+[Source "Suomen Shakki/8"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Heiskanen, Reino Niilo Emanuel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5K2/7k/8/6p1/7p/N3pB2/8 w - - 0 1"]
+
+1. Nc3 $1 h2 2. Ne4 $1 h1=Q 3. Be3+ Kh5 (Kh7 4. Ng5+ Kh6 5. Ne4+) 4. Ng3+ Kh4 5. Nxh1 e1=Q (g3 6. Bd2 g2 7. Be1+ Kh3 8. Nf2+ Kh2 9. Ng4+ Kh1 10. Nf2+ Kg1 11. Nd3 Kf1 12. Bf2) 6. Bf2+ Qxf2+ 7. Nxf2 g3 8. Nd3 g2 9. Ne1 g1=Q 10. Nf3+ Kg3 11. Nxg1 1/2-1/2
+
+[Event "1.p Suomen Shakki (c)"]
+[Source "Suomen Shakki/2 1957 (c): Suomen Shakki/1 1959."]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Heiskanen, Reino Niilo Emanuel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/P1P4P/2p5/3k4/K7/Pp6/b7 w - - 0 1"]
+
+1. h7 $1 Kc4 (b1=Q 2. h8=Q+) (b1=N+ $2 2. Kb3) 2. h8=Q b1=N+ 3. Ka4 Bxh8 4. c7 (4. a7 $2 Nc3+ 5. Ka5 Nd5 6. a8=Q Bc3+) Nc3+ 5. Ka5 Nd5 6. c8=N $1 (6. c8=Q $2 Bc3+ 7. Ka4 Nb6+) Bc3+ 7. Ka4 Nc7 8. Nd6+ Kd3 (Kd5 9. Nb5 $1) 9. a7 c4 10. a3 Bd4 11. Nb5 Na8 12. Ka5 Bxa7 $1 13. Nxa7 c3 14. Nc6 Nc7 15. Ka4 $1 Nd5 16. Kb3 c2 17. Ne5+ Kd2 18. Nc4+ Kd1 19. Nb2+ Kc1 20. Nc4 $1 (20. Nd3+ $2 Kb1) Kb1 21. Nd2+ 1/2-1/2
+
+[Event "5.hm Finnish Chess Society (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - IV-27 2012."]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Heiskanen, Reino Niilo Emanuel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7R/p4kp1/b7/3K3P/6p1/5N2/5p2/1n6 w - - 0 1"]
+
+1. Ne5+ $1 Ke7 2. Nc6+ (2. Ng6+ $2 Kd7 3. Nf8+ Kc7 4. Ne6+ Kb6 5. Rf8 g3 6. Kd6 g2) Kd7 3. Nb8+ Kc7 4. Nxa6+ Kb6 5. Rb8+ (5. Rf8 $2 g3 6. Nc5 Nc3+) Kxa6 6. Rxb1 g3 7. Kc6 Ka5 8. Kc5 Ka4 9. Kc4 Ka3 10. Kc3 Ka2 11. Rf1 $1 a5 12. Kd3 $1 (12. Kd4 $2 Kb3 13. Rb1+ Kc2 14. Rf1 Kd2) Kb3 13. Rb1+ Ka2 14. Rf1 1/2-1/2
+
+[Event "Tidskrift for Schack#1210 (c)"]
+[Source "Tidskrift for Schack/11 (c): Garcia=M Estudios Artisticos de Ajedrez - IV-26 2012."]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Heiskanen, Reino Niilo Emanuel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2B3P1/1N2r3/1pb2p2/3p1p1P/P1kP1P2/5PBp/1K6 w - - 0 1"]
+
+1. Na4+ $1 (1. Bxf4 $2 Rg6 2. Nd5+ Kb3 3. Bxh2 Rxg2 4. Nf4 Rxg7 5. Ne6 Bf8 6. Nxg7 Bxg7) bxa4 2. Ba5+ Bb4 3. Bxb4+ Kb3 4. g8=R (4. g8=Q $2 h1=Q+ 5. Bxh1) Re2 5. Rb8 Rb2+ 6. Kc1 Ka2 7. Rc8 Rxf2 8. Rc2+ Kb3 9. Rxf2 h1=Q+ 10. Bf1 (10. Bxh1 $2) Qg1 {<eg>} (Qg2 11. Be1) 11. Rb2# 1-0
+
+[Event "3.hm Dunder JT"]
+[Source "EG#00018."]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Heiskanen, Reino Niilo Emanuel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b5k/2p3p1/5pP1/5P2/2RP4/K1pP1p2/P4P1p/5b2 w - - 0 1"]
+
+1. Rb4 $1 (1. Ra4 $2 c2 2. Kb2 c1=Q+ 3. Kxc1 h1=Q 4. Ra8 Bxd3+ 5. Kd2 Qb1) (1. d5 $2 Kg8 2. Rh4 c6) Ba7 2. Rb7 (2. Ra4 $2 c2 3. Kb2 c1=Q+ 4. Kxc1 h1=Q 5. Rxa7 Bxd3+ 6. Kd2 Be4) Bxd3 3. Rxa7 (3. Rxc7 $2 Bxf5 4. Rxa7 Bxg6) Bc4 4. d5 Bxd5 5. Ra4 Bc4 (h1=Q 6. Rh4+ Qxh4) 6. Ra8+ Bg8 7. Ra4 h1=Q 8. Rh4+ Qxh4 1/2-1/2
+
+[Event "Shakhmaty v SSSR#32"]
+[Source "Shakhmaty v SSSR/8"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Heiskanen, Reino Niilo Emanuel"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3B4/8/1P2K3/7N/3k2Pp/P3p2P/4P3/q7 w - - 0 1"]
+
+1. Bf6+ $1 Ke4 2. Ng3+ hxg3 3. Bxa1 g2 4. b7 g1=Q 5. b8=R $1 (5. b8=Q $2 Qxg4+ 6. Ke7 (6. hxg4) Qe6+ 7. Kd8 Qg8+ 8. Kc7 Qc4+) Kf4 6. Be5+ 1-0

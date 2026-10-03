@@ -1,0 +1,38 @@
+[Event "Selskoe Khozjalstvo Belorussi"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Tupik, Vasily Leontievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5p2/5p2/5k2/7K/1B2R2P/4bp2/8 w - - 0 1"]
+
+1. Bc2+ $1 Kf4 2. Re4+ Kf3 3. Bd1 $1 Bxd1 4. Rf4+ Ke3 5. Rxf2 Kxf2 1/2-1/2
+
+[Event "Zvezda (Zvyazda)"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Tupik, Vasily Leontievich"]
+[White "Tupik, V"]
+[Black " Zhuk, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3R4/p6N/P7/7k/4K3/2p3p1/2p1P1P1/8 w - - 0 1"]
+
+1. Kf5 $1 c1=Q $1 2. Nf6+ Kh6 3. Rh8+ Kg7 4. Rh7+ Kf8 5. Kg6 Qb1+ 6. e4 Qb3 (Qa2 7. Rxa7 $1 Qb3 8. Rd7) 7. Rd7 c2 8. e5 c1=Q (Qg8+ 9. Nxg8 c1=Q 10. Rd8#) 9. Rd8+ Ke7 10. Re8# 1-0
+
+[Event "Zvezda (Zvyazda)"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Tupik, Vasily Leontievich"]
+[White "Tupik, V"]
+[Black " Zhuk, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p1p4/8/kP1K3p/B7/2p5/1PP5/8 w - - 0 1"]
+
+1. b3 $1 b6 (d6 {<main>} 2. Kc4 d5+ 3. Kd4 h4 4. Ke3 $1) 2. Kc4 h4 3. Kxc3 h3 4. Kb2 Kb4 5. c3+ Kc5 6. b4+ Kd5 7. Bd1 Ke4 8. Bg4 h2 9. Bxd7 h1=Q 10. Bc6+ Kd3 11. Bxh1 1-0

@@ -1,0 +1,105 @@
+[Event "L'Italia Scacchistica"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Ponce Sala, Lorenzo"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4p1p1/4p1P1/1p1p1P2/2kP1P2/7K/5P1P/8 w - - 0 1"]
+
+1. f6 $1 exf6 2. f5 exf5 3. f4 $1 b4 4. Kh4 b3 5. Kh5 b2 6. h4 b1=Q 1/2-1/2
+
+[Event "L'Italia Scacchistica#526 (c)"]
+[Source "L'Italia Scacchistica/12 (c): Gran Libro de Finales 1973."]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Ponce Sala, Lorenzo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7R/8/2N3p1/2p5/p3p3/P1p3KP/8/6k1 w - - 0 1"]
+
+1. Rc8 $1 c2 2. Nd4 $1 cxd4 3. Rxc2 1-0
+
+[Event "L'Italia Scacchistica#592"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Ponce Sala, Lorenzo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/p3p2p/PpP1Pp2/5P1P/1P4b1/8/5pK1/8 w - - 0 1"]
+
+1. c7 $1 Bf3+ 2. Kxf2 Bb7 3. b5 h6 4. Ke3 Bc8 5. Kd4 Bb7 6. Kc4 Bc8 7. Kd5 Bb7+ 8. axb7+ Kxb7 9. c8=Q+ Kxc8 10. Kc6 Kd8 11. Kb7 1-0
+
+[Event "L'Italia Scacchistica#591"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Ponce Sala, Lorenzo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2n5/k4N1Q/b4p2/1qPK4/p2B4/8/8/8 w - - 0 1"]
+
+1. Nd6+ $1 Bb7+ 2. Qxb7+ Qxb7+ 3. c6+ Nb6+ 4. Bxb6+ Qxb6 5. Nc8+ Ka6 6. Nxb6 Kxb6 7. Kd6 a3 8. c7 a2 9. c8=Q a1=Q 10. Qb8+ Ka6 11. Qa8+ 1-0
+
+[Event "L'Italia Scacchistica#595"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Ponce Sala, Lorenzo"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5pp1/2p4p/6PP/3k2P1/1p6/pP3P2/K7 w - - 0 1"]
+
+1. gxh6 $1 gxh6 2. g5 $1 Ke5 3. gxh6 Kf6 4. f3 c5 5. f4 c4 6. f5 c3 7. bxc3 1/2-1/2
+
+[Event "L'Italia Scacchistica#732"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Ponce Sala, Lorenzo"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4kpp1/1p4P1/7P/6K1/8/8/8 w - - 0 1"]
+
+1. h6 $1 gxh6 2. g7 f5+ $1 3. Kh5 Kf7 4. Kxh6 Kg8 5. Kg5 b5 6. Kxf5 b4 7. Ke4 b3 8. Kd3 b2 9. Kc2 1/2-1/2
+
+[Event "Problemas {SEPA}"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Ponce Sala, Lorenzo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/p6p/k2N3B/p7/K6p/PP4pP/8 w - - 0 1"]
+
+1. Bd1 $1 g1=Q 2. Bxa4 Qc1 3. Bxd7 h5 4. Be8 $1 (4. Ba4 $2 h4 5. Be8 Qxb2+ 6. Kxb2) h4 5. Ba4 1-0
+
+[Event "3.p Daniel Deletang MT Buenos Aires Che"]
+[Source "also 3.p New Statesman (and Nation"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Ponce Sala, Lorenzo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1pp4N/4p3/8/6NP/6K1/p7/7k w - - 0 1"]
+
+1. Ng5 $1 a1=Q 2. Nf3 Qg7 3. h5 (3. Kh3 $2 Qb2) c6 $1 (c5 4. h6 Qc7+ 5. Kh3) 4. h6 Qc7+ 5. Kh3 Qb6 6. h7 Qb2 7. Kg3 Qg2+ 8. Kf4 $1 Qb2 (e5+ 9. Ke3 $1) 9. Nge5 Qc1+ 10. Kg3 Qh6 11. Ng4 Qg7 12. h8=Q+ Qxh8 13. Nf2# 1-0

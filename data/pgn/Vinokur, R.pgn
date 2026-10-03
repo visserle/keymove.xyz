@@ -1,0 +1,27 @@
+[Event ".c Kazantsev JT"]
+[Source "64/3 1977 EG#03233."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Vinokur, R"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6P1/2p1p3/P7/3n2Kp/8/6k1 w - - 0 1"]
+
+1. g7 $1 h2 2. g8=Q h1=Q 3. Qa2 Qe4 4. Qb1+ Qe1+ 5. Qxe1+ Nxe1 6. a5 e4 (c4 7. a6 c3 8. a7 Kf1 9. a8=Q Ke2 10. Qa3 (10. Qe4+ $2 Kd2 11. Qxe5 c2 12. Qf4+ Kd1 13. Qd4+ Ke2 14. Qc3 Kd1) Kd2 11. Qa5 e4 12. Kf4 e3 13. Qd5+) 7. a6 e3 8. a7 e2 9. a8=Q Nf3 10. Kxf3 e1=Q 11. Qg8+ 1-0
+
+[Event "Magyar Sakkélet#1310"]
+[Source "Magyar Sakkélet/6"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Vinokur, R"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1P6/5p2/7P/pK2n3/8/1k6 w - - 0 1"]
+
+1. b7 $1 a2 2. b8=Q a1=Q 3. Qh2 $1 Qd4 (Kc1 4. Qg1+ Nd1 5. Qg5+ Kb1 6. Qxf5+) 4. Qg1+ Qd1+ 5. Qxd1+ Nxd1 6. h5 f4 7. h6 f3 8. h7 f2 9. h8=Q f1=Q 10. Qh7+ Ka1 11. Qa7+ Kb1 12. Qa2+ Kc1 13. Qc2# 1-0

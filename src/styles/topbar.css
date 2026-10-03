@@ -1,0 +1,396 @@
+/* Keymove: topbar.
+
+   One module of the stylesheet; order is owned by
+   app.css, which imports every module. */
+
+/* ----------------------------------------------------------------- topbar */
+.topbar {
+	/* The body is a column flex container; don't let long catalogue pages
+     shrink the header and pull the wordmark upward in some browsers. */
+	flex: 0 0 var(--header-h);
+	/* The header always scrolls away with the page. Lila only sticks it while
+     `mq-sticky-header` holds, which means motion is allowed and the viewport
+     is at least `$tall` (600px) tall
+     (`ui/lib/css/abstract/_media-queries.scss`). Keymove has pinned itself to
+     the reduced-motion branch, so `relative` is the only position the bar ever
+     takes. */
+	position: relative;
+	z-index: 30;
+	height: var(--header-h);
+	font-size: var(--font-size-compact-base);
+	/* Transparent at the top of the page; once the page scrolls under it the bar
+     takes on lila's `#top.scrolled` gradient (`ui/lib/css/header/_header.scss`).
+     The gradient starts on `--c-body-gradient` and lands on a 50% mix with the
+     page at 60px, which is the same line the body's own 116px gradient has
+     reached by then. The stuck bar continues the page instead of reading as a
+     lighter grey fill.
+
+     Lila also colors this edge with
+     `#top.scrolled { border-color: $c-border }`, but that hairline is dropped
+     here: the bar is meant to read as the page itself, and against the gradient
+     it only reads as a stray rule. The transparent border stays, reserving its
+     1px.
+
+     Lila's `#top.scrolled` drop shadow is dropped for the same reason. It
+     exists there to lift a *sticky* header off the content sliding under it.
+     Keymove's bar is `relative` and always scrolls away, so the shadow only
+     draws a faint full-width line under the bar for the moment it is on
+     screen. */
+	background: transparent;
+	border-bottom: 1px solid transparent;
+	transition: border-color 0.16s ease;
+}
+
+.topbar.is-scrolled {
+	/* `border-box` so the gradient's 60px stop lands on the border box: the
+     image then fills the bar exactly, and the transparent 1px border shows the
+     gradient's end rather than the wrap-around of a repeated 59px tile. */
+	background-origin: border-box;
+	background-image: linear-gradient(
+		to bottom,
+		var(--c-body-gradient),
+		color-mix(in oklab, var(--c-body-gradient) 50%, var(--c-page-bg)) 60px
+	);
+}
+
+/* without the scroll script, keep the bar opaque so content can't show through;
+   the body's own gradient, so it stays seamless over the page top */
+@media (scripting: none) {
+	.topbar {
+		background: var(--c-page-bg)
+			linear-gradient(to bottom, var(--c-body-gradient), var(--c-page-bg) 116px)
+			no-repeat;
+	}
+}
+
+.topbar__in {
+	max-width: var(--page);
+	height: 100%;
+	margin: 0 auto;
+	padding: 0 var(--page-pad);
+	display: flex;
+	align-items: center;
+}
+
+/* the burger and the wordmark travel as one flex item: in portrait the two are
+   baseline-aligned, so the bars can be seated on the wordmark's x-height (see
+   `.topbar__burger`). The brand carries the size both inherit. */
+.topbar__brand {
+	display: flex;
+	align-items: center;
+	font-size: var(--font-size-brand);
+}
+
+.topbar__name {
+	display: inline-flex;
+	align-items: center;
+	margin: 0 16px 0 0;
+	/* A compact brand size with a taller-header step; the family is the one
+     departure from lila: Keymove keeps the serif. */
+	font-weight: 400;
+	/* lila's `.site-title` has no line-height of its own and inherits `normal`;
+     Keymove's body sets 1.5, so pin it back here */
+	line-height: normal;
+	transform: translateY(-3px);
+	color: var(--c-brand);
+	text-decoration: none;
+}
+
+@media (min-height: 599.3px) {
+	.topbar__brand {
+		font-size: var(--font-size-brand-large);
+	}
+}
+
+/* the wordmark and its suffix are one flex item, so they never split across
+   the anchor's box */
+.topbar__word {
+	display: inline;
+}
+
+/* Keep the domain suffix quieter than the main wordmark in either theme. */
+.topbar__suffix {
+	color: var(--c-brand-dim);
+}
+
+/* Keep the wordmark at the same contrast when hovered. */
+.topbar__name:hover {
+	color: var(--c-brand);
+}
+
+/* The nav rides immediately behind the wordmark, as lichess's `#topnav`
+   follows `.site-title` inside `.site-title-nav` (`ui/lib/css/header/_header.scss`:
+   `#top` is a `space-between` row, and here there is no right-hand group for
+   the nav to be pushed against). */
+.topbar__nav {
+	display: flex;
+	align-items: stretch;
+	/* lila's `#topnav section` is pinned to the top of the header, a few px
+     short of its height (`---nav-section` is 35px in a 40px header, 53px in a
+     60px one), so the tab's fill stops above the header's bottom edge */
+	align-self: flex-start;
+	height: calc(var(--header-h) - 5px);
+	white-space: nowrap;
+}
+
+/* lila's `#topnav section > a`, minus its `border-inline-start` rule. That 2px
+   ink edge read as a second rule against this bar's own hairline. The label is
+   still centred on the *header*, not on the tab, by lila's
+   `line-height: $site-header-height`. */
+.topbar__nav a {
+	display: block;
+	padding: 0 0.7em;
+	line-height: var(--header-h);
+	color: var(--c-font-page);
+	text-transform: uppercase;
+	text-decoration: none;
+	transition:
+		background-color 0.12s ease,
+		color 0.12s ease;
+}
+
+/* lila fills the hovered tab with `$c-bg-header-dropdown`, which is white and so
+   invisible in this palette, where the header already sits on `--c-bg`. The
+   Keymove's restyle takes the page tint instead.
+
+   Unlike lila, landing on a section leaves no mark: lila's `section.active`
+   holds that section's dropdown open, and there are no dropdowns here. The
+   `aria-current` attribute stays in the markup for assistive tech. */
+.topbar__nav a:hover {
+	background: var(--c-bg-page);
+	color: var(--c-font);
+}
+
+/* the mobile nav is a hamburger drawer, ported from lichess's header */
+.topbar__burger {
+	display: none;
+}
+
+.topbar__scrim {
+	display: none;
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	/* the topbar: burger on the left, then the name; the nav becomes a drawer */
+	.topbar__in {
+		justify-content: flex-start;
+		padding: 0 12px;
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	/* The wordmark's `translateY(-3px)` is lila's correction for the desktop nav
+     line. There is no nav line in portrait: the burger is the reference, so the
+     shift comes off and the two are baseline-aligned instead. The burger then
+     rides the wordmark's x-height whatever face the serif stack resolves to. */
+	.topbar__brand {
+		align-items: baseline;
+		gap: 2px;
+		/* the baseline-aligned pair seats the wordmark's x-height below the
+       header's centre; this lifts the whole pair (burger included, so the two
+       stay locked) back onto the optical line. `position`, not `transform`: a
+       transform here would trap the burger's `z-index` under the open drawer */
+		position: relative;
+		top: -2px;
+	}
+
+	.topbar__name {
+		margin-right: 4px;
+		transform: none;
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.topbar__burger {
+		display: block;
+		position: relative;
+		/* lila pins the burger's box to the header's left edge
+       (`.hbg { inline-start(0) }`); a negative margin cancels the row's 12px
+       padding, so the box reaches x=0 and the wordmark tucks in right behind
+       it instead of leaving the padded hole. */
+		margin-left: -12px;
+		z-index: 32;
+		flex: 0 0 auto;
+		width: var(--header-h);
+		/* one x-height tall and baseline-aligned, so the box's centre lands on the
+       wordmark's x-height centre, where `.topbar__burger-in` sits */
+		height: 1ex;
+		cursor: pointer;
+	}
+
+	/* the label is only an x-height tall now; this invisible overlay keeps the
+     header-square tap target it had when the box was `--header-h` */
+	.topbar__burger::before {
+		content: "";
+		position: absolute;
+		inset: 50% 0 auto;
+		height: var(--header-h);
+		transform: translateY(-50%);
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.topbar__burger-in,
+	.topbar__burger-in::before,
+	.topbar__burger-in::after {
+		content: "";
+		position: absolute;
+		/* the bars are positioned from their own left edge, so pseudo-bars
+       stack flush with the middle bar instead of offsetting to its center */
+		left: 0;
+		width: 22px;
+		height: 2px;
+		background: var(--c-brand);
+		transition:
+			transform 0.16s ease,
+			top 0.16s ease,
+			bottom 0.16s ease,
+			background-color 0.12s ease;
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.topbar__burger-in {
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.topbar__burger-in::before {
+		top: -6px;
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.topbar__burger-in::after {
+		bottom: -6px;
+	}
+}
+
+/* A restrained close-mark morph: the outer bars meet as a cross; the middle
+   line fades instead of spinning the whole icon. */
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.nav-toggle:checked ~ .topbar__brand .topbar__burger .topbar__burger-in {
+		background-color: transparent;
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.nav-toggle:checked
+		~ .topbar__brand
+		.topbar__burger
+		.topbar__burger-in::before {
+		top: 0;
+		transform: rotate(45deg);
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.nav-toggle:checked
+		~ .topbar__brand
+		.topbar__burger
+		.topbar__burger-in::after {
+		bottom: 0;
+		transform: rotate(-45deg);
+	}
+}
+
+@media (prefers-reduced-motion: reduce) {
+	.topbar__burger-in,
+	.topbar__burger-in::before,
+	.topbar__burger-in::after {
+		transition-duration: 0.01ms;
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.topbar__nav {
+		position: fixed;
+		inset: 0 auto 0 0;
+		z-index: 31;
+		width: 80%;
+		max-width: 320px;
+		margin: 0;
+		padding: calc(var(--header-h) + 8px) 10px var(--font-size-compact-base);
+		display: flex;
+		flex-direction: column;
+		align-items: stretch;
+		gap: 2px;
+		white-space: normal;
+		/* Keep the original 1.2em drawer links, but undo desktop tab geometry. */
+		align-self: auto;
+		height: auto;
+		font-size: 1.2em;
+		background: var(--c-bg);
+		box-shadow: 2px 5px 14px rgb(0 0 0 / 0.22);
+		overflow-y: auto;
+		overscroll-behavior: contain;
+		transform: translateX(calc(-100% - 10px));
+		transition: transform 0.2s ease;
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.nav-toggle:checked ~ .topbar__nav {
+		transform: translateX(0);
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.topbar__nav a {
+		padding: 12px 14px;
+		border-radius: var(--radius);
+		/* lichess's drawer carries none of the desktop tab properties */
+		line-height: normal;
+		font-weight: bold;
+		text-transform: none;
+		color: var(--c-font);
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.topbar__nav a:hover {
+		background: var(--c-bg-page);
+		color: var(--c-font-clear);
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	.nav-toggle:checked ~ .topbar__scrim {
+		display: block;
+		position: fixed;
+		inset: 0;
+		z-index: 30;
+		background: rgb(0 0 0 / 0.4);
+	}
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	body:has(#nav-toggle:checked) {
+		overflow: hidden;
+	}
+}
+
+/* lila's `%double-tap`, with no `(pointer: coarse)` gate. See `board.css` for why
+   the value has to sit on the surfaces rather than on the root. The whole bar,
+   not only the links: the burger label, the brand and the gaps between the
+   controls are topbar too. */
+.topbar,
+.topbar__nav a {
+	touch-action: manipulation;
+}
+
+/* ------------------------------------------------------- header's end
+
+   The trailing group: the dasher's gear, and the panel that positions against
+   it (dasher.css). The group is the header's full height so the panel can be
+   pinned to the header's bottom edge with `top: 100%`. */
+.topbar__end {
+	position: relative;
+	align-self: stretch;
+	display: flex;
+	align-items: center;
+	margin-inline-start: auto;
+}

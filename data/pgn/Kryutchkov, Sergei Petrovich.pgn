@@ -1,0 +1,26 @@
+[Event "Shakhmaty#248 (c)"]
+[Source "Shakhmaty/11 (c): Krug=P Estudios Artisticos de Ajedrez - XV-40 2015."]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Kryutchkov, Sergei Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3P4/3r4/K1k5/8/3P2R1/4b2p/8 w - - 0 1"]
+
+1. Rh3 $1 Rxd7 (Bxd3 2. Rh5+ Kc4 3. d8=Q $1 Rxd8 4. Rxh2) 2. d4+ Rxd4 3. Rxh2 Rd2 (Rd7 4. Ka4 Bd1+ 5. Ka3) 4. Ka4 Bd1+ (Bb5+ {<main>} 5. Ka5 Rxh2) (Ra2+ {<main>} 5. Kb3 Bc4+ 6. Kc3 Rxh2) 5. Ka3 Rxh2 1/2-1/2
+
+[Event "Zadachy i Etyudy#03"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Kryutchkov, Sergei Petrovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k2r/2K2p2/6P1/2R2P2/8/8/7B/b7 w k - 0 1"]
+
+1. Be5 $1 Bxe5+ 2. Rxe5+ Kf8 3. Re8+ $1 Kxe8 (Kg7 4. f6+) 4. g7 Rg8 5. f6 1-0

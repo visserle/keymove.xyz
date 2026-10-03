@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1914.??.??"]
+[Round "?"]
+[Composer "Plennings, Fritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "4N3/7b/8/P1K2pk1/8/8/8/8 w - - 0 1"]
+
+1. Nf6 (1. Kd4 $2 f4 2. a6 f3 3. Ke3 Be4 $10) (1. Kb6 $2 Kh4 2. a6) Kxf6 2. a6 (2. Kd4 $4 Bg6) (2. Kd5 $4 f4 3. a6 Bb1) (2. Kd6 f4) (2. Kc6 f4) f4 3. Kd4 (3. a7 $4 Be4 $19) (3. Kd6 $4 f3 $19) (3. Kd5 $4 Bd3) (3. Kb6 $4 f3) (3. Kc6 $4 f3) (3. Kb4 $4 f3) (3. Kc4 $4 f3) (3. Kb5 f3 4. a7 Bd3+) f3 4. a7 (4. Ke3 $4 Be4 $19 5. Kxe4 f2) (4. Kc3 f2) f2 5. a8=Q (5. Ke3 $2 f1=Q 6. a8=Q) f1=Q 6. Qf8+ $18 (6. Qd8+ $2 Ke6 7. Qc8+ $10) (6. Qa7 $4 Qg1+ 7. Kc4 Qxa7 $19) (6. Qc6+ $2 Kf5 7. Qd6) (6. Qe8 $2 Bg8 7. Qd8+) (6. Qh8+ $2 Ke6 7. Qc8+) (6. Qb7 Bg8 7. Qc7) (6. Qa6+ Qxa6) 1-0

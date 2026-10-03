@@ -1,0 +1,12 @@
+[Event "source unknown"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Vladimirov, Jakob Georgievic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/N1p5/8/3P4/P7/pp2K3/5B2/3k4 w - - 0 1"]
+
+1. d6 $1 (1. Nb5 $2 a2 2. Kd3 a1=Q 3. Nc3+ Kc1 4. Bd4 Qa3 5. Be3+ Kb2 6. Bd4 Qf8) cxd6 2. Nb5 a2 3. Kd3 a1=Q 4. Nc3+ Kc1 5. Bd4 $1 Qa3 6. Be3+ Kb2 7. Bd4 $1 Kc1 8. Be3+ Kb2 9. Bd4 1/2-1/2

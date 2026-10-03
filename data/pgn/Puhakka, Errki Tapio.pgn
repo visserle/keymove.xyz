@@ -1,0 +1,53 @@
+[Event "2/3.p Gunst MT Suomen Shakki"]
+[Source "Suomen Shakki/7-8 1959"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Puhakka, Errki Tapio"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/4B1k1/1N6/K2p4/3pp3/6P1/8 w - - 0 1"]
+
+1. Bc4 $1 d2 2. Be2 d1=Q+ 3. Bxd1 d3 4. Nd4 Kg5 5. Nf3+ Kf4 6. Ne1 Ke4 7. Bf3+ Kd4 8. Kb3 e2 9. Bg4 $1 d2 10. Nc2+ Kd3 11. Bf5# 1-0
+
+[Event "2.p Finnish Chess Society"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Puhakka, Errki Tapio"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/3k3p/8/5N2/7P/1K6 w - - 0 1"]
+
+1. Nd2 $1 Kd4 2. Nf1 Ke4 3. Kc2 (3. Ng3+ $2 Kf3 4. Nxh5 Kg2) Kf3 (h4 4. Kd2 Kf3 5. Kd3 h3 6. Nd2+ (6. Kd4 $2 Kg2) Kg2 7. Ke2 Kxh2 8. Kf2 Kh1 9. Nf1 h2 10. Ng3#) 4. Kd3 Kg2 (Kf2 5. Ne3 Kf3 6. Kd4 h4 7. Kd3 h3 8. Nf1 Kg2 9. Ke2 Kg1 10. Nd2 Kxh2 11. Kf2 Kh1 12. Nf1 h2 13. Ng3#) 5. Ke3 Kxf1 6. h4 $1 (6. Kf4 $2 Ke2 $1 7. h4 Kd3 $1 8. Kg5 Ke4 9. Kxh5 Kf5) Kg2 7. Kf4 Kh3 8. Kg5 1-0
+
+[Event "Helsingin Sanomat"]
+[Date "1963.11.16"]
+[Round "?"]
+[Composer "Puhakka, Errki Tapio"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/8/7k/7r/8/8/Q1P4p/8 w - - 0 1"]
+
+1. Qg8 $1 Rh4 (Rh3 2. Qh7+) 2. Qg7+ Kh5 3. Kh7 Rh3 4. Qg6+ Kh4 5. Kh6 Rc3 (Ra3 6. Qg2) 6. Qf6+ (6. Qg2 $2 Rxc2 $1) Kg4 7. Qd4+ Kf5 8. Qf2+ Kg4 (Ke5 9. Qxh2+) 9. Qxh2 Rh3+ 10. Qxh3+ Kxh3 11. Kg5 $1 1-0
+
+[Event "1.p Suomen Tehtäväniekat (c)"]
+[Source "Suomen Tehtäväniekat/1-2 (c): Van_Essen=M EG=159-162 12/2005."]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Puhakka, Errki Tapio"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/N7/8/K1kp4/8/4p3/8/7B w - - 0 1"]
+
+1. Bf3 $1 Kd4 2. Be2 Kc3 3. Nb5+ Kd2 4. Nd4 Kc3 5. Nf5 $1 (5. Ne6 $2 d4 6. Nf4 Kd2 7. Kb4 d3 $1 8. Bxd3 e2 9. Bxe2 Ke3) Kd2 (d4 6. Bh5 Kd3 7. Ng3) 6. Ng3 d4 7. Bh5 $1 Kc2 (d3 8. Nf1+) 8. Nf1 $1 Kd3 9. Kb4 $1 e2 10. Bg6# 1-0

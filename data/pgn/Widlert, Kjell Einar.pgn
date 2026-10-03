@@ -1,0 +1,13 @@
+[Event "10/19.p WCCT1 ty (tt)"]
+[Source "EG#02840. WCCT1 ty 1972-1975."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Widlert, Kjell Einar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "qB6/2P5/8/8/8/4p3/4Pp1k/3K1B2 w - - 0 1"]
+
+1. c8=R+ $1 (1. c8=Q+ $2 Kg1 (Kh1 $2 2. Qh3+ Kg1 3. Bh2+ Kh1 4. Qf3+ Qxf3 5. exf3 Kxh2 6. f4) 2. Bh2+ (2. Bh3 Qa4+ 3. Kc1 (3. Qc2 Qa1+) f1=Q+ 4. Bxf1 Kxf1 5. Qh3+ Kxe2 6. Qg2+ Kd3 7. Qf1+ e2 8. Qf3+ Kd4 9. Qf4+ Kc5 10. Qd6+ (10. Qxa4 e1=Q+) Kb5 11. Qd7+ Ka5 12. Bc7+ Kb4) Kxf1 3. Qxa8) Kh1 2. Rh8+ Kg1 3. Bh2+ Kxf1 4. Rxa8 Kg2 5. Rf8 Kxh2 6. Kc2 Kg1 7. Kd3 f1=Q 8. Rxf1+ Kxf1 9. Kxe3 1-0

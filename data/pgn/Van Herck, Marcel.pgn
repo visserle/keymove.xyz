@@ -1,0 +1,26 @@
+[Event "Koninklijke Antwerpse Schaakkring Mag."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Van Herck, Marcel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2R5/8/7n/4kp2/8/6KB/2bpP3/8 w - - 0 1"]
+
+1. Re8+ $1 Kf6 (Kd4 2. e3+ Kc3 3. Rc8+ Kd3 4. Kf4) 2. Rd8 d1=Q 3. Rxd1 Bxd1 4. e4 fxe4 5. Kf4 Bf3 (Bc2 6. Bg2) 6. Bf5 Nxf5 1/2-1/2
+
+[Event "Belgisch Schaakbord"]
+[Source "Belgisch Schaakbord/4"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Van Herck, Marcel"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3K4/8/8/4k3/8/7p/P6P/1n6 w - - 0 1"]
+
+1. a4 $1 (1. Kc7 $2 Na3 2. Kb6 Ke4 3. Kc5 Kf3 4. Kd4 Nc2+) Nd2 (Nc3 2. a5 Nd5 3. Kd7 Nb4 4. Kc7 Ke4 5. Kb6 Kf3 6. Kc5) (Kd6 2. a5 Nc3 3. a6 Nb5 4. Ke8 Ke6 5. Kd8 Kd6 6. Ke8 Nc7+ 7. Kf7 Nxa6 8. Kf6) 2. a5 (2. Kc7 $2 Nb3) Kd6 3. Kc8 Kc6 4. Kb8 Kb5 5. Kb7 Kxa5 6. Kc6 Nf1 7. Kd5 Nxh2 8. Ke4 Kb4 9. Kf4 Nf1 10. Kf3 Kc3 11. Kf2 h2 12. Kg2 1/2-1/2

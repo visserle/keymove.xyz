@@ -1,0 +1,213 @@
+[Event "Sachové Umenie#4423"]
+[Source "Sachové Umenie/10"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Sedlak, Ludek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p3K1/2p5/8/8/P5k1/P7/8 w - - 0 1"]
+
+1. Kf6 $1 Kf4 (c5 2. Ke5 c4 3. Kd4 Kf4 $1 4. Kxc4 (4. a4 $2 c3 5. Kxc3 Ke5 6. Kc4 Kd6 7. Kb5 Kd7) Ke5 5. Kc5 Ke6 6. Kc6) 2. Ke6 Ke4 3. a4 c5 (Kd4 4. a5 Kc5 5. a4) 4. a5 c4 5. a6 c3 6. a7 c2 7. a8=Q+ 1-0
+
+[Event "Sachové Umenie#4279 (c)"]
+[Source "Sachové Umenie/6 (c): Sedlak=L Sachové Umenie/12 1975."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Sedlak, Ludek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/2N5/pKP5/8/8/8/2p5/8 w - - 0 1"]
+
+1. Ne8 $1 c1=Q 2. c7+ Ka8 $1 3. Nd6 a5 4. c8=Q+ Qxc8 5. Nxc8 a4 6. Ka6 a3 7. Nb6+ Kb8 8. Nd7+ Kc7 9. Nc5 a2 10. Nb3 1/2-1/2
+
+[Event "Svoboda"]
+[Date "1975.05.17"]
+[Round "?"]
+[Composer "Sedlak, Ludek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4pp2/8/k1K1P3/2P5/1p6/1P6/8 w - - 0 1"]
+
+1. Kc6 $1 (1. Kd4 $2 Kb6 2. Kc3 Kc5 3. Kxb3 Kd4 $1 4. Kb4 Kxe5 5. c5 f5 6. Kb5 f4 7. c6 f3) (1. Kd5 $2 Kb6 2. c5+ Kc7 3. Kc4 Kc6) f5 2. exf6 exf6 3. c5 (3. Kd6 $2 f5 4. Ke5 Kb4 5. Kxf5 Kxc4 6. Ke4) f5 4. Kb7 (4. Kd5 $2 f4 5. Ke4 Kb5) f4 5. c6 f3 6. c7 f2 7. c8=Q f1=Q 8. Qa8+ Kb4 $1 9. Qa3+ Kb5 10. Qa6+ 1-0
+
+[Event "Zemedelske Noviny#258"]
+[Date "1975.12.01"]
+[Round "?"]
+[Composer "Sedlak, Ludek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/1Kp4p/PbP5/8/8/8/8/8 w - - 0 1"]
+
+1. a7 $1 Bxa7 2. Kxc7 $1 (2. Kxa7 $2 h5 3. Kb7 Kd8) Bc5 $1 3. Kb7 Bd6 4. c7 $1 Bxc7 5. Kc6 $1 (5. Kxc7 $2 h5) h5 6. Kd5 h4 7. Ke4 h3 8. Kf3 Kf7 9. Kf2 Bh2 10. Kf3 Kg6 11. Kg4 1/2-1/2
+
+[Event "Svoboda"]
+[Date "1975.12.24"]
+[Round "?"]
+[Composer "Sedlak, Ludek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/p1p4p/P1K5/8/7p/8/P6P/8 w - - 0 1"]
+
+1. Kb7 $1 Kd7 2. Kxa7 Kc8 $1 3. h3 $1 h6 $1 4. a3 $1 h5 5. a4 c5 6. Kb6 Kb8 7. Kxc5 1-0
+
+[Event ".hm Sachové Umenie#4642"]
+[Source "Sachové Umenie/8 EG#03548."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Sedlak, Ludek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/p6N/k1K5/B4P2/1P2p2p/1P1pPn2/3n4 w - - 0 1"]
+
+1. Bc6 $1 Ne4+ 2. Bxe4 Nxb2 3. Bc2 Na4+ 4. bxa4 h2 5. Nf5 $1 (5. Ng4 $2 d1=Q $1 6. Bxd1 h1=Q 7. Ne5 (7. Nxe3 Qg1 $1) Qh5 8. Bc2 f6) (5. Nxf7 $2 d1=Q 6. Bxd1 h1=Q 7. Nd6 Qh5+ 8. f5 Qxf5+ $1 9. Nxf5) d1=Q 6. Bxd1 h1=Q 7. Nd6 $1 (7. Nxe3 $2 Qg1) Qxd1 8. Nc4+ Kxa4 9. Nb2+ Kb3 10. Nxd1 1-0
+
+[Event "Svobodné Slovo#53"]
+[Date "1976.02.21"]
+[Round "?"]
+[Composer "Sedlak, Ludek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/k7/5p2/8/3P3K/3P4/8 w - - 0 1"]
+
+1. Kg3 $1 Kb6 2. Kf4 Kc5 (Kc6 3. Ke5 Kc5 4. d4+ Kc4 5. d3+) 3. Ke5 (3. Kxf5 $2 Kd4) f4 4. Ke4 (4. Kxf4 $2 Kd4) f3 5. Kxf3 Kd4 6. Ke2 1-0
+
+[Event ".p Nedelna Pravda#0861"]
+[Date "1976.10.29"]
+[Round "?"]
+[Composer "Sedlak, Ludek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3n3k/7P/3P4/2PP3K/7P/8/b7/8 w - - 0 1"]
+
+1. c6 $1 Nf7 $1 2. d7 Bxd5 3. d8=Q+ $1 (3. c7 $2 Kxh7 4. Kg4 Be6+ 5. Kh5 Bxd7 6. c8=Q Bxc8) Nxd8 4. c7 Bf7+ (Bf3+ 5. Kg6 $1 Be4+ 6. Kf6 $1) 5. Kh6 (5. Kg5 $2 Ne6+ $1) (5. Kg4 $2 Be6+ $1) Be8 $1 6. cxd8=B $1 (6. cxd8=Q $2) (6. c8=Q $2 Nf7+ 7. Kg6 Nd6+) (6. cxd8=N $2 Bg6 $1 7. Kxg6) Bg6 7. Bf6# 1-0
+
+[Event "Zemedelske Noviny"]
+[Date "1976.11.10"]
+[Round "?"]
+[Composer "Sedlak, Ludek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4b1k1/8/4p1p1/K2PP2B/8/8/8/8 w - - 0 1"]
+
+1. Bxg6 $1 Bxg6 2. d6 Be8 (Kf8 3. Kb6 Ke8 4. Kc7) 3. Kb6 Kg7 4. Kc7 Kg6 5. d7 Bxd7 6. Kxd7 Kf5 7. Kd6 1-0
+
+[Event "Pruboj"]
+[Date "1976.12.24"]
+[Round "?"]
+[Composer "Sedlak, Ludek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/2B5/8/2p4p/P2p1p1P/5P1K/3k4 w - - 0 1"]
+
+1. Bb5 $1 d2 2. Bxc4 Kc2 3. Bb5 Kb3 4. Bc6 $1 (4. Bd7 $2 Kxa3 $1) d1=Q 5. Ba4+ Kxa4 1/2-1/2
+
+[Event "Sachové Umenie#4897 (c)"]
+[Source "Sachové Umenie/7 (c): Sedlak=L Sachové Umenie/5 1978."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Sedlak, Ludek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2B5/8/6p1/8/1k2p3/4N1p1/1pP1K1P1/8 w - - 0 1"]
+
+1. Nd5+ $1 Kc4 2. Nb6+ Kb4 3. c3+ Kb5 4. Nc4 $1 Kxc4 5. Be6+ Kxc3 6. Ba2 Kc2 7. Bd5 $1 Kc1 8. Bxe4 b1=Q 9. Bxb1 Kxb1 10. Kf3 Kc2 11. Kxg3 Kd2 12. Kf4 $1 Ke2 13. g4 Kf2 14. g5 Kg2 15. Ke5 Kg3 16. Kf6 1-0
+
+[Event "Svobodné Slovo"]
+[Source "after Troitzky=A f7f4 1913."]
+[Date "1977.02.05"]
+[Round "?"]
+[Composer "Sedlak, Ludek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/P7/P7/k7/8/p2N3p/P7/2r5 w - - 0 1"]
+
+1. Kb7 $1 h2 2. Nf2 Rb1+ 3. Kc7 Rc1+ 4. Kd7 Rd1+ 5. Ke7 Re1+ 6. Kf7 h1=Q (Rf1 7. a8=Q h1=Q 8. Qxh1 Rxh1 9. Nxh1 Kxa6 10. Ke6 Kb5 11. Kd5 Kb4 12. Kd4) 7. Nxh1 Rf1+ 8. Kg7 Rg1+ 9. Ng3 $1 Rxg3+ 10. Kf7 Rf3+ 11. Ke7 Re3+ 12. Kd7 Rd3+ 13. Kc7 Rc3+ 14. Kb7 Rb3+ 15. axb3 1-0
+
+[Event "Pruboj"]
+[Date "1977.06.18"]
+[Round "?"]
+[Composer "Sedlak, Ludek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p2p4/p1P5/P4p2/P6p/3p1Ppk/3P1P1P/6K1 w - - 0 1"]
+
+1. c7 $1 (1. cxd7 $2 gxh2+ 2. Kh1 f4 3. d8=Q) (1. fxg3 $2 dxc6 2. gxh4 Kxh4) gxh2+ $1 2. Kh1 f4 $1 3. c8=N (3. c8=Q $2) (3. c8=R $2 d5 $1) d5 (d6 {<main>} 4. Ne7 d5 5. Ng6 d4 6. Nxf4#) 4. Nxa7 d4 5. Nb5 axb5 6. a6 b4 7. a7 b3 8. a8=Q b2 9. Qc8# 1-0
+
+[Event "2.hm Gazeta Czestochowska#2212"]
+[Date "1977.07.26"]
+[Round "?"]
+[Composer "Sedlak, Ludek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r1B1k3/b1p1pp2/2P1P3/2nR4/8/8/3K4/8 w q - 0 1"]
+
+1. Rd8+ $1 Kxd8 2. exf7 Ne6 3. Bxe6 Be3+ 4. Kxe3 Ra3+ 5. Bb3 $1 Rxb3+ 6. Ke4 $1 Rb4+ 7. Ke5 Rf4 $1 8. Kxf4 e5+ 9. Kxe5 Ke7 10. f8=Q+ $1 Kxf8 11. Kf6 1-0
+
+[Event "Sachové Umenie#5154"]
+[Source "Sachové Umenie/7"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Sedlak, Ludek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p1p5/1p6/1P6/1pK5/1P6/3P4/6k1 w - - 0 1"]
+
+1. Kd5 $1 Kf2 2. Kc6 Ke2 (Kf3 3. d4) 3. d4 Kd3 4. d5 Kd4 (Kc3 5. Kxc7 Kxb3 6. d6 Kc2 7. d7 b3 8. d8=Q) 5. Kxc7 Kxd5 6. Kb7 Kc5 7. Ka6 $1 Kd4 8. Kxa7 Kc3 9. Kxb6 Kxb3 10. Kc5 $1 Kc3 11. b6 b3 12. b7 b2 13. b8=Q 1-0
+
+[Event "Vychodslovenski Noviny#715"]
+[Date "1978.05.05"]
+[Round "?"]
+[Composer "Sedlak, Ludek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/P5p1/1P6/2p1p3/1p4p1/1P1K4/8/8 w - - 0 1"]
+
+1. Kc4 $1 (1. Ke4 $2 c4 $1) g3 2. Kd5 $1 (2. Kb5 $2 Kb7 $1) g2 (Kb7 {<main>} 3. Kd6 g2 4. a8=Q+ Kxa8 5. Kc7 g1=Q 6. b7+ Ka7 7. b8=Q+ Ka6 8. Qb6#) 3. Kc6 g1=Q 4. b7+ Kxa7 5. Kc7 Qg6 (c4 {<main>} 6. b8=Q+ Ka6 7. Qb7+ Ka5 {<eg>} 8. Qd5+ Ka6 9. Qc6+ Qb6+ 10. Qxb6#) 6. b8=Q+ Ka6 7. Qa8+ Kb5 8. Qa4# 1-0

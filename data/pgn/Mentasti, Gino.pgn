@@ -1,0 +1,40 @@
+[Event "Tempo"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Mentasti, Gino"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4N3/8/p7/2p5/K1pk4/B7 w - - 0 1"]
+
+1. Bxc3+ $1 Kxc3 2. Nd4 Kxd4 3. Kb2 Kd3 4. Kc1 Kc3 (a3) 1/2-1/2
+
+[Event "1.c L'Italia Scacchistica#3728"]
+[Source "L'Italia Scacchistica/11"]
+[Date "1963.??.??"]
+[Round "?"]
+[Composer "Mentasti, Gino"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "n7/8/3P4/1K1P1b1B/8/3k4/8/8 w - - 0 1"]
+
+1. Bg6 $1 (1. Bf7 $2 Kd4 2. Be6 Bxe6 3. dxe6 Kd5 4. e7 Kxd6 5. e8=Q Nc7+) (1. Be8 $2 Kd4 2. Bc6 Bd7 3. Bxd7 Kxd5) (1. Kc6 $2 Kd4 2. d7 Bxd7+) Bxg6 2. d7 Be8 $1 3. dxe8=N $1 (3. dxe8=Q $2 Nc7+) 1-0
+
+[Event "L'Italia Scacchistica#4899"]
+[Source "L'Italia Scacchistica/10"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Mentasti, Gino"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p4p/1k1P1p2/8/5K2/7r/2PP4/8 w - - 0 1"]
+
+1. d7 $1 Rh4+ 2. Ke3 Rd4 3. Kxd4 c5+ 4. Kd5 Kc7 5. Ke6 Kd8 6. c4 f5 7. Kd6 f4 8. d4 cxd4 9. c5 d3 10. c6 d2 11. c7# 1-0

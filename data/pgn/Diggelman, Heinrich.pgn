@@ -1,0 +1,13 @@
+[Event "Schweizerische Arbeiter-Schachzeitung#1"]
+[Source "Schweizerische Arbeiter-Schachzeitung/4"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Diggelman, Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K1kq4/8/2PP4/1P6/8/8/8/8 w - - 0 1"]
+
+1. b6 $1 Qxb6 (Qxd6 2. b7+ Kc7 3. b8=Q+) 2. d7+ Kc7 3. d8=Q+ Kxd8 4. c7+ Qxc7 (Kxc7) 1/2-1/2

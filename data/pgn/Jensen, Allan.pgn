@@ -1,0 +1,26 @@
+[Event "SNY"]
+[Source "SNY/7"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Jensen, Allan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/4p3/4N2p/5K1k/7B w - - 0 1"]
+
+1. Bf3 $1 exf3 2. Ng4+ Kh1 3. Kf1 f2 4. Nxf2+ Kh2 5. Ne4 Kh1 6. Kf2 Kh2 7. Nd2 Kh1 8. Nf1 h2 9. Ng3# 1-0
+
+[Event "Dagbladet#740"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Jensen, Allan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1p6/pkp5/8/pBK5/P7/8 w - - 0 1"]
+
+1. Ba4+ $1 (1. Bc4+ $2 Kc6) (1. Bf7 $2 Kc6 2. Be8+ Kd5) Kxa4 (Ka6 2. Kc4) 2. Kc4 b5+ 3. Kxc5 b4 4. Kc4 b3 5. axb3# 1-0

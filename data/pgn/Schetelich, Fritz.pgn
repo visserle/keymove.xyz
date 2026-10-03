@@ -1,0 +1,12 @@
+[Event "Hamburgischer Correspondent"]
+[Date "1932.05.08"]
+[Round "?"]
+[Composer "Schetelich, Fritz"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k1b1/p2pPp2/p2P1Pp1/1P3pPr/P4P1p/6pK/6P1/8 w - - 0 1"]
+
+1. b6 $1 (1. a5 $2 axb5 2. a6 Rxg5) (1. bxa6 $2 Rh8 2. a5 Bh7 3. Kxh4 Bg8+ (Rg8 $2 4. Kxg3 Rh8 5. Kh2 Bg8+ 6. Kg1) 4. Kxg3 Rh1) axb6 2. a5 b5 1/2-1/2

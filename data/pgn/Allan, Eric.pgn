@@ -1,0 +1,53 @@
+[Event "New Statesman {and Nation}"]
+[Source "EG#00660."]
+[Date "1968.02.16"]
+[Round "?"]
+[Composer "Allan, Eric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6b1/8/7P/3R4/1k1p3r/8/2P5/2K5 w - - 0 1"]
+
+1. Rxd4+ $1 Rxd4 2. h7 (2. c3+ $2 Kxc3 3. h7 Rh4) Bxh7 3. c3+ Kxc3 1/2-1/2
+
+[Event "New Statesman {and Nation}"]
+[Date "1969.02.28"]
+[Round "?"]
+[Composer "Allan, Eric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B6/8/1K4p1/1P1kp1p1/p7/5P2/6P1/8 w - - 0 1"]
+
+1. Bxe5 $1 Kxe5 2. Kc5 a3 3. b6 a2 4. b7 a1=Q 5. b8=Q+ Ke6 6. Qe8+ (6. Qg8+ $2 Ke7) Kf5 7. Qf7+ Qf6 8. g4+ Ke5 9. f4+ Qxf4 (gxf4 {<main>} 10. Qd5#) 10. Qe7# 1-0
+
+[Event "3.c New Statesman {and Nation}"]
+[Source "EG#01844."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Allan, Eric"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p3p2/pkPPn3/p7/P2PK3/P5p1/6P1/8 w - - 0 1"]
+
+1. c7 $1 Nxc7 2. d5 Ne8 (Nb5 3. axb5 axb5 4. Ke5 b4 5. axb4 axb4 6. Kf6 b3 7. d7) 3. Ke5 Ng7 (Nxd6 4. Kxd6 f5 5. Ke7) (f6+ 4. Ke6 Ng7+ 5. Kxf6 Ne8+ 6. Ke5 Ng7 7. Kf4) 4. Kf4 (4. Kf6 $2 Ne8+ 5. Ke7 Ng7 6. Kxf7 Nf5) Nh5+ (f6 5. Kg4 f5+ 6. Kf4) 5. Kf5 (5. Kg5 $2 Ng7 6. Kf6 Ne8+ 7. Ke5) Ng7+ (f6 6. Kg6 Nf4+ 7. Kf7 Nxd5 8. d7) 6. Kg5 f5 7. Kf4 (7. Kg6 $2 f4) Nh5+ 8. Kxf5 Ng7+ 9. Kg5 1-0
+
+[Event "New Statesman {and Nation}"]
+[Date "1975.12.05"]
+[Round "?"]
+[Composer "Allan, Eric"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k4/3n4/4p3/8/p1P2K2/4P2B/8/8 w - - 0 1"]
+
+1. Bxe6 $1 Nc5 2. Bf5 a3 3. Bb1 Na4 4. Ba2 Nc3 5. Bb3 Ne2+ 6. Ke4 Nc1 7. Ba2 Nxa2 8. Kd3 Nb4+ 9. Kc3 a2 10. Kb2 1/2-1/2

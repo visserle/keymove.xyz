@@ -1,0 +1,138 @@
+[Event "1.sp.hm Drosha ty (@2)"]
+[Source "EG#@0345. î2: Pallier=A EG=173 7/2008."]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Makhatadze, Dzhemal"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K2kB3/P1pp3p/8/8/2b5/8/8/8 w - - 0 1"]
+
+1. Kb8 $1 Bd5 2. Bf7 Ba8 3. Kxa8 Kc8 4. Be8 c5 5. Bxd7+ Kc7 6. Be6 (6. Bf5 $1 {<minor dual AP>}) (6. Bb5 $1 { <minor dual AP>}) h6 (h5 7. Bf7 h4 8. Be6) 7. Bd5 Kc8 8. Bf7 Kc7 9. Be6 h5 10. Bf7 h4 11. Be6 1-0
+
+[Event "2.p New Statesman {and Nation}"]
+[Source "EG#01755."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Makhatadze, Dzhemal"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6b1/5Pnk/R4P2/1K6/7B/2r4P/1p6/8 w - - 0 1"]
+
+1. f8=N+ $1 Kh8 2. Ng6+ Kh7 3. Nf8+ Kh6 4. f7+ Kh5 (Ne6 5. Rxe6+ Kg7 (Kh5 6. Re5+ Kxh4 7. Re4+ Kxh3 8. Rb4) 6. Re1 Rc1 7. Bf6+ Kxf7 8. Bxb2 Rxe1 9. Ba3) 5. Rh6+ $1 Kxh6 6. fxg8=N+ $1 Kh5 7. Nf6+ Kxh4 8. Ng6+ Kxh3 9. Nf4+ Kh2 10. Ng4+ Kh1 $1 (Kg1 11. Ne2+ Kf1 12. Nxc3) (Kg3 11. Ne2+ Kxg4 12. Nxc3) 11. Nf2+ Kg1 12. Ne2+ Kxf2 13. Nxc3 Ke1 14. Kc4 (14. Ka4 {<or>}) (14. Kb4 {<or>}) Kd2 15. Kb3 Kc1 16. Na2+ Kb1 17. Nb4 Ne6 $1 18. Nd3 $1 (18. Ka4 $2 Ka1 19. Nc2+ Ka2 20. Nb4+ Kb1 21. Ka3 Nc5) (18. Kc4 $2 Ka1 19. Nc2+ Ka2 20. Nb4+ Ka3) (18. Na2 $2 Nd4+ 19. Ka3 Ka1) (18. Nc2 $2 Nc5+) Nc5+ 19. Nxc5 Ka1 20. Ka3 b1=Q 21. Nb3+ Qxb3+ 22. Kxb3 1/2-1/2
+
+[Event "Shakhmaty v SSSR#23"]
+[Source "Shakhmaty v SSSR/5"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Makhatadze, Dzhemal"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7N/7p/6P1/8/8/3b3p/5k2/7K w - - 0 1"]
+
+1. g7 $1 (1. Kh2 $2 Bxg6 $1 2. Kxh3 Kf3 3. Kh4 Kf4 4. Kh3 Bh5 5. Kh4 Be8) Bc4 2. Kh2 Be6 3. g8=Q $1 Bxg8 4. Kxh3 Kf3 5. Kh4 Kf4 6. Kh5 Kf5 7. Kh6 Kf6 8. Ng6 $1 hxg6 1/2-1/2
+
+[Event "Tsizhvla"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Makhatadze, Dzhemal"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/5b2/7B/3P2K1/5p2/p7/8/8 w - - 0 1"]
+
+1. d6 $1 Be8 2. Kh4 $1 a2 3. d7 Bxd7 4. Bxf4 a1=Q 5. Be5+ Qxe5 1/2-1/2
+
+[Event "3.hm Sagaredzho All Union ty"]
+[Source "EG#03719 EG#09248. also 3.hm Sagaredzho ty Soplis Tskhovreba 1978."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Makhatadze, Dzhemal"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k4/B1pP4/8/2Pp4/1p6/1P1pp1pK/4b1P1/8 w - - 0 1"]
+
+1. c6 $1 Bg4+ 2. Kxg4 d2 (e2 {<main>} 3. Be3 (3. Bd4 $2 e1=Q 4. Bf6+ Qe7 5. Bxe7+ Kxe7 6. Kf4 d4) e1=Q 4. Bg5+ Qe7 5. Kf3 (5. Kh3 $2 d2) d4 6. Bh4 (6. Bxe7+ $2 Kxe7) Qxh4 (d2 7. Bxe7+ Kxe7 8. Ke2)) 3. Bxe3 d1=Q+ 4. Kh4 Qh1+ 5. Kg4 Qd1+ 6. Kh4 1/2-1/2
+
+[Event "Bulletin Central Chess Club USSR#36"]
+[Source "Bulletin Central Chess Club USSR/10"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Makhatadze, Dzhemal"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/kp6/bRP5/K1Bq4/8/8/8/8 w - - 0 1"]
+
+1. Rxb7+ $1 Ka8 2. Ra7+ $1 Kb8 3. c7+ $1 Kc8 4. Kxa6 Qxc5 5. Ra8+ Kxc7 6. Rc8+ Kxc8 1/2-1/2
+
+[Event "2.c Revista de Romana de Sah#0835"]
+[Source "Revista de Romana de Sah/10 EG#04340."]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Makhatadze, Dzhemal"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b1k3K/8/4p2P/1p2p3/8/2p3p1/b1P1P1P1/8 w - - 0 1"]
+
+1. Kg7 $1 (1. e4 $2 Bd5 $1 2. exd5 e4 $1) e4 $1 2. Kf6 Ba7 3. Ke5 Bb8+ 4. Kf6 $1 Ba7 5. Ke5 Bd4+ $1 6. Kxd4 e5+ 7. Ke3 $1 (7. Kxe5 $2 Bg8 8. Kd4 (8. Kxe4 Ke7 9. Kf4 Kf6 10. Kxg3 Bh7) (8. Kf6 Bh7 9. Kg7 Ke7 (Bf5 $2 10. Kf6)) b4 9. e3 Ke7 10. h7 Bxh7 11. Kc4 Bf5 12. Kxb4 Bh3) Bg8 8. h7 Bxh7 1/2-1/2
+
+[Event "3.hm Sagaredzho ty Ivris Gantadi"]
+[Source "EG#06015."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Makhatadze, Dzhemal"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5p2/5P2/5P2/5k1K/4RP1p/8/5r2 w - - 0 1"]
+
+1. Re2 $1 h2 2. Rxh2 Rg1 3. Kh3 Rg3+ 4. Kh4 Rg8 5. Kh3 Kxf3 6. Kh4 Rh8+ 7. Kg5 Rxh2 1/2-1/2
+
+[Event "1.p Chervoni Girnik (c)"]
+[Source "(c): Pallier=A British Endgame Study News=4 12/2000."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Makhatadze, Dzhemal"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/8/6pK/P3k2p/4P3/8/8 w - - 0 1"]
+
+1. Kg4 $1 h3 2. Kg3 $1 (2. Kxh3 $2 Kf3 $1) g4 3. a5 Kxe3 4. a6 h2 5. Kg2 $1 (5. Kxh2 $2 Kf2) h1=Q+ 6. Kxh1 Kf2 7. a7 g3 8. a8=Q 1-0
+
+[Event "sp.hm Merani"]
+[Source "Merani/10 EG#09493. also sp.c Selivanov-30 JT 1997."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Makhatadze, Dzhemal"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/k6p/2P5/8/8/8/K7/8 w - - 0 1"]
+
+1. Kb3 $1 h5 2. Kc4 h4 3. Kd5 h3 4. Kd6 $1 (4. Ke6 $2 h2 5. c7 h1=Q 6. c8=Q Qh3+) h2 5. c7 Kb7 6. Kd7 1/2-1/2

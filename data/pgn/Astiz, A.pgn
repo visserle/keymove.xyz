@@ -1,0 +1,13 @@
+[Event "El Ajedrez Argentino"]
+[Source "El Ajedrez Argentino/11"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Astiz, A"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7P/p7/8/1Pk5/8/b1K5 w - - 0 1"]
+
+1. Kb1 $1 Bb2 2. Ka2 $1 Kc2 3. h7 Kc1 (Bg7 { <main>} 4. h8=Q $1 Bxh8 5. b4 axb4) 4. b4 $1 (4. h8=Q $2 Bxh8 5. b4 axb4 6. Kb3 Bc3) axb4 5. Kb3 Bc3 6. h8=Q Bxh8 7. Kxb4 1/2-1/2

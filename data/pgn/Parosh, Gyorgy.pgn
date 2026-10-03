@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Parosh, Gyorgy"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/1p6/1Pp1k3/2Pp4/p2K4/q2P4/PR1B1P2/8 w - - 0 1"]
+
+1. Bc1 (1. Bc3 $2 Kf6 2. Rc2 $10) (1. Rc2 $2 Kf5 2. f3 $10) (1. Bb4 $4 Qxb2+ 2. Ke3 Qxb4 $19) (1. f4 $4 Qxb2+ 2. Ke3 d4+ $19) (1. Rb4 $4 Qxa2 2. Rxa4 $2 (2. Ke3 $5 a3 $19) Qxa4+ 3. Ke3 d4+) (1. Bg5 $4 Qxb2+ 2. Ke3 Qc1+) (1. f3 $4 Qxb2+ 2. Ke3 d4+) (1. Rb1 $4 Qxa2 2. Re1+ Kf5) (1. Bf4 $4 Qxb2+ 2. Ke3 Qxa2) (1. Bh6 Qxb2+ 2. Ke3 Qc1+) Kf6 2. f3 (2. f4 $4 Kf5 3. Rc2 Qb4+ $19) (2. Rb1 $4 Qxa2 3. Bg5+ Kxg5 4. f4+ Kf6 $19) (2. Bg5+ $4 Kxg5 3. f4+ Kf5 $19) (2. Rc2 $4 Qb4+ 3. Ke3 Qe1+) (2. Ke3 $4 Qc3 3. Ke2 Qxc1) (2. Rb4 Qxb4+ 3. Ke3 Qe1+) Kf5 3. f4 (3. Rc2 $4 Qb4+ 4. Ke3 Qe1+ $19) (3. Ke3 $4 Qc3 4. Kf2 Qxc1 $19) (3. Rh2 Qxc1 4. Rh5+ Kg6) Kf6 4. f5 (4. Ke3 $4 Qc3 5. Re2 Qxc1+ 6. Kf2 Qxc5+ 7. Kf3 Qxb6) (4. Rf2 $4 Qb4+ 5. Ke3 Qxc5+ 6. Kf3 Qxc1) (4. Rc2 $4 Qb4+ 5. Ke3 Qe1+) (4. Rg2 $4 Qxc1 5. Rg6+ Kxg6 6. f5+ Kf7) Kf7 5. f6 (5. Bh6 $4 Qxb2+ 6. Ke3 Qxa2) (5. Bg5 $4 Qxb2+ 6. Ke3 Qxa2) Kf8 6. f7 $3 (6. Bh6+ Kf7 7. Bc1 $18) Kxf7 7. Rf2+ $18 (7. Bh6 $4 Qxb2+ 8. Ke3 Qxa2) (7. Bg5 $4 Qxb2+ 8. Ke3 Qxa2) (7. Bf4 $4 Qxb2+ 8. Ke3 Qxa2) (7. Bd2 $4 Qxb2+ 8. Ke3 d4+) (7. Rb4 $4 Qxb4+ 8. Ke5 Qe1+) (7. Ke3 $4 Qxc5+ 8. Kd2 Qd4) (7. Rg2 Qb4+ 8. Ke3 Qe1+) 1-0

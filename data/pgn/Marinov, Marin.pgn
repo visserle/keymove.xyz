@@ -1,0 +1,13 @@
+[Event "Shakhmatna Misl#16 (c)"]
+[Source "Shakhmatna Misl/2 (c): Shakhmatna Misl=11 11/1968."]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Marinov, Marin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6pk/3KR3/6P1/8/pp1p4/8/8 w - - 0 1"]
+
+1. Ke7 $1 a2 2. Ra6 b2 3. Kf7 a1=Q 4. Rh6+ gxh6 5. g6+ Kh8 6. g7+ Kh7 7. g8=Q# 1-0

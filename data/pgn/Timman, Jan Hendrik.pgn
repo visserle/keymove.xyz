@@ -1,0 +1,518 @@
+[Event "bs43-190"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/8/2P5/2P1p3/B7/2k1K3/8 w - - 0 1"]
+[PlyCount "23"]
+
+1. c6 (1. Ke3 $2 Kb3 2. Kxe4 Kxa3 3. Kd5 Kb4) dxc6 2. c5 (2. Bd6 $2 c5 $1 3. Bxc5 Kc3) e3 (Kc3 3. Bc1) 3. Bb4 (3. Kxe3 $2 Kb3 4. Bc1 Kc4 5. Ba3 Kb3) Kb3 4. Ba5 Kc4 5. Bb6 Kd4 6. Ba7 Ke4 7. Bb8 Kd4 8. Bd6 Ke4 9. Be7 Kd4 10. Bf8 Ke4 11. Bh6 Kd5 12. Bxe3 1-0
+
+[Event "sp.c ts70#1536"]
+[Source "Schakend Nederland/1 1977 EG#03544. after Liburkin=M f3a1 1935."]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/1pp5/B1N1N3/8/4K3/pp6/k7 w - - 0 1"]
+[PlyCount "23"]
+
+1. Nc4 $1 bxc5 (bxa5 2. Nb3+ Kb1 3. Na3#) (Kb1 2. Na3+ Kc1 3. Nd3+) (b1=Q 2. Bc3+ Qb2 3. Nb3+ Kb1 4. Bxb2) 2. Nd2 $1 (2. Kd2 $2 b1=Q 3. Bc3+ Qb2+ 4. Bxb2+ Kb1) (2. Na3 $2 b1=R $1 (b1=Q $2 3. Bc3+ Qb2 4. Kd3 c4+ 5. Kd4 c5+ 6. Kxc4 c6 7. Kd3 c4+ 8. Kd4 c5+ 9. Kxc4 Qxc3+ 10. Kxc3 c4 11. Kc2 c3 12. Kc1 c2 13. Nxc2#) 3. Bc3+ Rb2) (2. Bc3 $2 Kb1 3. Na3+ Kc1) b1=Q (c4 3. Bc3 c5 4. Ke2 c6 5. Nxc4 Kb1 6. Na3+ Ka1 7. Kd2 c4 8. Kc2 c5 9. Bxb2#) (b1=N 3. Nc4 $1 Na3 4. Bc3+) (b1=R {<main>} 3. Bc3+ Rb2 4. Ke2 c4 5. Kd1 c5 6. Kc1 c6 7. Bxb2#) 3. Bc3+ Qb2 4. Kd3 c4+ 5. Kd4 $1 (5. Kxc4 $2 c5 6. Kd3 c4+ 7. Kd4 c6 $1 8. Kxc4 c5 9. Kd3 c4+) c5+ 6. Kxc4 $1 c6 7. Kd3 c4+ 8. Kd4 c5+ 9. Kxc4 Qxc3+ 10. Kxc3 c4 11. Kc2 c3 12. Nb3# 1-0
+
+[Event "tn21"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/pB2p3/P3P3/5p2/5Pb1/k5P1/5K2 w - - 0 1"]
+[PlyCount "15"]
+[EventRounds "2"]
+
+1. Bf2 Bh2 (Bxf2 2. Kxf2 Kb3 3. g3 fxg3+ 4. Kxg3 Kb4 5. f4 Kxa5 6. f5) 2. Bg1 (2. Bh4 $2 Kb3 3. g4 fxg3 4. Kg2 Kc4 5. f4 Kd5) Bg3 (Bxg1 3. Kxg1 Kb3 4. g4 fxg3 5. f4) 3. Bh2 $3 Bxh2 4. g4 fxg3 5. Kg2 Kb3 6. f4 Kc4 7. f5 Kd5 8. f6 1-0
+
+[Event "1c Corus 2008"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4bBpp/3p4/P6P/2PN2p1/3k1b2/P7/6K1 w - - 0 1"]
+[PlyCount "25"]
+
+1. h6 (1. Nxf3 $143 gxf3 2. Kf2 (2. h6 $144 Ke2 $11) (2. c5 $144 d5 3. Kf2 (3. c6 $143 Ke2 $19) Bxc5+ 4. Kxf3 $11) Bd8 3. a6 Bb6+ 4. Kxf3 Kd4 5. Kf4 Kc5 6. Bd5 Ba7 7. Kf5 g6+ 8. Ke6 gxh5 9. Kd7 Kb6 $11) gxh6 (g5 $144 2. Bd5 Bd8 3. Nc6 $18) (Bf6 $144 2. Nxf3 gxf3 3. Kf1 g5 4. c5 g4 5. Bh5 Bd4 6. c6 $18) 2. Nxf3 gxf3 3. c5 $1 dxc5 (d5 $144 4. c6 Ke2 5. Bh5 $18 {which is the reason that White played 1.h6!}) 4. Bc4+ $1 Kxc4 5. a6 Kd3 6. Kf1 c4 7. a7 c3 8. a8=Q c2 9. Qxf3+ Kd4 10. Qf2+ {(waste of time duals are possible from now on)} Kd3 11. Qe2+ Kc3 12. Qe3+ Kb2 13. Qb3+ $18 1-0
+
+[Event "tn21 {c}"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5bnK/p7/6PP/1Pkb4/8/8/1P2B3/4B3 w - - 0 1"]
+[PlyCount "17"]
+[EventRounds "3"]
+
+1. g7 Bd6 2. h7 Nh6 3. Bh5 (3. g8=Q $2 Be5+ 4. Qg7 Nf7+ 5. Kg8 Ng5+) Be5 4. Bc3 Bxc3 5. bxc3 Kxb5 6. c4+ $1 Kxc4 7. g8=Q Bxg8 8. Bf7+ $3 Bxf7 9. Kg7 1-0
+
+[Event "1.p ww06 {c}"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/2b2b2/8/4Pp2/2p2R2/5B2/Kn1B4/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. Bc3 (1. Rxf5 $2 c3+) Bxe5 $1 2. Bxe5 c3+ 3. Kb1 Nd3 4. Rxf5 c2+ $1 (Bg6 $1 5. Bh5 $1 Nxe5 6. Ka1 $3 (6. Ka2 $2 Bf7+ $1 7. Ka1 Ng6) Bxh5 7. Rxe5+) 5. Kxc2 Bg6 6. Bh5 $1 (6. Bc6+ $2 Ke7 7. Bd6+ Kxd6 8. Rf6+ Kc5 9. Rxg6 Nb4+) Nxe5 7. Kc3 $3 Bxh5 8. Rxe5+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/pn6/5p2/2P1p1N1/1BP5/P3P1K1/1r6/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. c6 Rxb4 2. c5 (2. axb4 $143 Nd6 3. c5 Nf5+ 4. Kg4 Nxe3+ 5. Kf3 Nd5 6. Ne6 Kf7 7. c7 Ne7 8. Nd8+ Ke8 9. Nc6 Nc8 $11) Rb5 (Nxc5 $144 3. axb4 Na4 4. Ne4 Nb6 5. Nd6 Nd5 6. Nb5 a6 7. c7 Nb6 8. Nd6 f5 9. c8=Q+ Nxc8 10. Nxc8 $18) 3. a4 fxg5 4. Kh3 g4+ 5. Kh4 (5. Kxg4 $143 Rxc5 6. cxb7 Rc4+ 7. Kf5 Rb4 $19) (5. Kg3 $143 Nxc5 6. axb5 Ne4+ 7. Kxg4 Nd6 $19) g3 6. axb5 g2 7. cxb7 g1=Q 8. b8=Q+ $18 1-0
+
+[Event "wi04 {v}"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/pn5p/4Np1P/2P1p3/2P4P/5PK1/P2B4/5r2 w - - 0 1"]
+[PlyCount "33"]
+
+1. Bb4 Rb1 (Rg1+ 2. Kf2 Rg8 (Rc1 3. c6 Rxc4 4. c7 Rc6 5. f4 e4 6. f5) 3. c6 Nd8 4. Be7 $1) 2. a3 (2. c6 $2 Rxb4 3. c5 Nxc5 4. c7 Ne4+ 5. Kg2 Nd6) a5 3. c6 axb4 4. c5 bxa3 (Nxc5 5. c7 Ne4+ 6. fxe4 Rc1 7. axb4) 5. c7 Rg1+ 6. Kh3 $1 (6. Kf2 $2 Rg8 7. Nd8 Rxd8 8. c6 Rd2+ 9. Ke3 Nd6) Rg8 (a2 7. c8=Q+ Rg8 8. Nd8 $1 Nxd8 9. Qa6) 7. Nd8 Rxd8 8. c6 $1 Rg8 9. cxb7 a2 10. b8=Q a1=Q 11. Qxg8+ Kxg8 12. c8=Q+ Kf7 13. Qd7+ Kg6 14. Qg7+ Kh5 15. Qf7+ Kxh6 16. Qxf6+ Kh5 17. Qg5# 1-0
+
+[Event "6th Prize, Nunn-50JT"]
+[Site "?"]
+[Date "2005.09.15"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7K/4r2P/2n3P1/p2b3B/7p/1kP4P/7P/8 w - - 0 1"]
+[PlyCount "21"]
+
+{This spectacular study involves sacrifices by both White and Black, with the key idea being the move 3 c4!, opening the long diagonal ready to cover the a1-square several moves later. The whole idea is realised with great economy.} 1. g7 Re8+ $3 {The only chance is to sacrifice the rook to clear the e7-square. After} (Re5 $144 2. Bd1+ Kxc3 3. g8=Q $19 {White has too much material.}) 2. Bxe8 Ne7 3. c4 $3 {A remarkable move which has as its sole purpose the opening of the long diagonal. The immediate} (3. g8=Q $143 {leads only to a draw:} Bxg8 4. Bf7+ $1 (4. hxg8=Q+ $144 Nxg8 5. Kxg8 Kxc3 $11 {is a draw because White cannot win the h4-pawn without allowing the black king to reach h8, with a standard rook's pawn(s) + wrong bishop draw.}) Bxf7 5. Kg7 Ng6 6. Kxf7 Nh8+ 7. Kg7 a4 8. Kxh8 a3 9. Kg8 (9. Kg7 $144 a2 10. h8=Q a1=Q 11. Qxh4 Qxc3+ $11 {draws at once}) a2 10. h8=Q a1=Q 11. Qxh4 Qa8+ {and White cannot avoid the checks without making so many concessions that Black is able to draw; for example,} 12. Kg7 Qb7+ 13. Kg6 Qc6+ 14. Qf6 Qg2+ 15. Qg5 (15. Kf7 $144 Qb7+ $11) Qxh2 $11 {EGTB 6 pièces}) Bxc4 (Kxc4 $144 4. g8=Q Bxg8 5. Bf7+ Bxf7 6. Kg7 Bd5 7. h8=Q $18 {will win in the long run. White picks up the h4-pawn and wins one of Black's minor pieces for the front h-pawn. Black cannot then draw with a minor piece and an advanced a-pawn because White has another h-pawn.}) 4. g8=Q $1 {A neat tactic forcing the promotion of the h-pawn.} Bxg8 (Nxg8 $144 5. Kg7 $18 {wins at once.}) 5. Bf7+ $1 (5. hxg8=Q+ $143 Nxg8 6. Kxg8 Kc3 $11 {draws as in the note to White's third move.}) Bxf7 6. Kg7 Ng6 (Bc4 $144 7. h8=Q $18 {wins as in the note to Black's third move.}) 7. Kxf7 Nh8+ 8. Kg7 {or 8 Kg8} a4 9. Kxh8 a3 10. Kg8 a2 11. h8=Q $18 {and wins, thanks to the open long diagonal.} 1-0
+
+[Event "4.p ma01 tn20"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4r3/4nb2/8/1B2P2k/4PP2/7K/3B4/8 w - - 0 1"]
+[PlyCount "23"]
+
+1. e6 (1. f5 $2 Nxf5 2. Bxe8 Nd6 3. Bc6 Nc4 4. Bf4 Be6+ 5. Kg3 Kg6) Bxe6+ 2. f5 Bxf5+ 3. exf5 Nc6 (Ng6 4. Bc6) 4. Ba4 $1 (4. Bxc6 $2 Re3+ 5. Bxe3) Re2 5. Bd1 Nd4 6. Be3 Nf3 7. f6 Rh2+ 8. Kg3 Kg6 9. Bxf3 Rh8 10. Be4+ Kf7 11. Bd4 Ke6 12. Kg4 1-0
+
+[Event "The Problemist"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r2B4/2p2p2/2p3k1/3R1p2/p6K/4pP1P/1P3P2/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. Rd1 a3 $1 {To create threats along the fourth rank.} 2. bxa3 Ra4+ 3. f4 $3 {The significance of this sacrifice will become apparent only on the last move.} ({If} 3. Kg3 $2 {then} Rd4 $1 $11 {saves Black.}) Rxf4+ 4. Kg3 Rd4 $1 5. Rxd4 $1 e2 6. Rd6+ $1 Kh7 (cxd6 7. Ba5 {wins for White.}) 7. Rh6+ $1 Kxh6 8. Bg5+ $1 Kxg5 9. f4+ $1 {The point of the entire magnificent combination. There follows 10.Kf2 and White wins. This was one of the two beautiful studies composed by the legendary Dutch player especially for this event.} 1-0
+
+[Event "us52"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4p2R/5k2/4p1p1/4Ppr1/8/2K1NB2 w - - 0 1"]
+[PlyCount "23"]
+[EventRounds "4"]
+
+1. Rh1 Rg1 $1 2. Rxg1 f2 3. Nf3 exf3 $1 4. Rg3 Kg5 5. Kd2 (5. e4 $2 Kf4 $1 6. Rxg4+ Kxg4 7. Kd2 Kf4 8. Kd3 e5 9. Bh3 Kg3) Kh4 6. Rxf3 $1 gxf3 7. e4 $1 (7. Kd3 $2 Kg3 8. Ke4 Kg4 $1 9. Bd3 Kg3 10. Bc4 Kg2 11. Kf4 f1=Q 12. Bxf1+ Kxf1 13. Kxf3 Ke1 $1) Kg4 8. Ke3 Kg3 9. Bc4 Kg2 (e5 10. Bf1) 10. e5 Kg3 11. Ke4 Kg2 12. Kf4 1-0
+
+[Event "tn21"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6R1/b4p2/6np/P2P1p1k/p6B/2p3PN/Pr1p2P1/R4K2 w - - 0 1"]
+[PlyCount "17"]
+
+1. Ke2 Rb1 $1 (c2 2. Kxd2 Rb1 3. Kxc2 Rxa1 4. Ra8) 2. Rxb1 c2 3. Rxg6 (3. Rd1 $2 c1=Q 4. Rxd2 Qc4+) fxg6 (cxb1=Q 4. Nf4#) (Kxg6 4. Rb6+) 4. Nf4+ (4. g4+ $2 Kxh4 5. g3+ Kxg3 6. Rg1+ Bxg1 7. Kxd2 Be3+ $1 8. Kxc2 fxg4 9. Ng1 Kf2 10. d6 Kxg1 11. d7 Bg5 12. a6 g3) Kg4 5. Nh5 $3 Kxh5 (cxb1=Q 6. Nf6#) (Bd4 6. Nf6+ Bxf6 7. Rb4+) (f4 6. Nf6+ Kf5 7. g4+ Ke5 8. Nd7+ Kd6 9. Rb6+ Bxb6 10. Kxd2 Bxa5+ 11. Kxc2 Kxd7 12. Kd3) 6. g4+ $1 fxg4 7. Rh1 $1 c1=Q 8. Be1+ $1 Kg5 9. Bxd2+ 1-0
+
+[Event "1st Honourable Mention"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4rbr1/p2pp1p1/2pk4/p1nN1PR1/2P3N1/2P2P2/P7/R3K3 w Q - 0 1"]
+[PlyCount "17"]
+
+1. O-O-O (1. Rd1 cxd5 2. Rxd5+ Kc6 3. Rxc5+ Kxc5 4. f6+ e5 5. f7 Bd6 6. Rxg7 (6. Nxe5 $2 Rgf8 7. fxe8=Q Rxe8 $15) Rgf8 7. fxe8=Q Rxe8 8. Rxd7 $11) cxd5 2. Rxd5+ Kc6 3. Rxc5+ Kxc5 4. f6+ Kc6 (Kxc4 5. f7 e6 6. fxe8=Q Ba3+ 7. Kc2 Rxe8 8. Ne3#) (Kb6 5. c5+) (e5 5. f7 Bd6 (Be7 6. Rxe5+ Kd6 7. c5+ $18) (Kb6 6. Nxe5 Ba3+ 7. Kd2 Rd8 8. fxg8=Q Rxg8 9. Nxd7+) 6. Nxe5 (6. Nf6 $2 gxf6 7. fxg8=Q Rxg8 8. Rxg8 Kxc4 $11) Rgf8 (Be7 7. Rxg7 Rh8 8. fxe8=Q Rxe8 9. Rg4) 7. fxe8=Q Rxe8 8. Nf7+ Kc6 9. Rg6 Re6 10. Nd8+) 5. Rc5+ (5. f7 e6 6. Ne5+ (6. Nf6 gxf6 7. fxg8=Q Ba3+ 8. Kc2 Rxg8 9. Rxg8 $11) Kb7 7. Kc2 Be7 8. Rxg7 Rgf8 9. fxe8=Q Rxe8 10. Ng6 (10. Nxd7 Kc8) Bd6 (Bc5 11. Rxd7+ Kb6) 11. Rxd7+ Kc6 12. Rxa7 Rg8 13. Ne7+ Bxe7 14. Rxe7 Rg2+ $11) Kxc5 6. f7 g6 7. fxg8=Q Bh6+ 8. Nxh6 Rxg8 9. Nxg8 1-0
+
+[Event "ba14#12"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/1rp5/p2N4/1r6/PP1q1B2/R7/N7/2K2R2 w - - 0 1"]
+[PlyCount "25"]
+
+1. Be5 $1 Qxe5 (Rxe5 2. Rf8+ Ka7 3. Nc8+ Ka8 4. Ne7+ Ka7 5. Nc6+) 2. Rf8+ Ka7 3. Nc8+ (3. Nxb5+ $2 Rxb5 4. axb5 Qe1+) Ka8 4. Nb6+ $1 (4. Ne7+ $2 Rb8) Ka7 5. Ra8+ Kxb6 6. Rxa6+ $1 Kxa6 7. axb5+ Kb6 8. Ra6+ Kxb5 9. Ra5+ Kc4 10. Rxe5 Rb5 11. Re3 $1 c5 (Kd4 12. Kd2 Rh5 13. Nc3 Rh2+ 14. Ne2+ Kc4 15. Re4+ Kb3 16. Rg4 Rf2 17. Ke3) 12. Nc3 $1 Rxb4 13. Kc2 1-0
+
+[Event "2. HM Nestorescu 80 JT"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5B2/p7/8/P4kp1/8/4b3/2K5 w - - 0 1"]
+[PlyCount "23"]
+
+1. Kd2 Bf3 (Kf3 $144 2. Bh5 $11) 2. a5 $1 g3 3. Ke1 Ke3 4. Bc4 $1 (4. Kf1 $143 Kd4 $19) Be2 $1 (g2 $144 5. Bf1 g1=Q $11) 5. Bd5 Bc4 6. Bg2 $1 (6. Bb7 $143 Kd4 $1 7. Bg2 Kc3 $19) Bd3 (Kd4 $144 7. Kd2 $11) 7. Bh3 Kf3 8. Bf1 $1 Be4 9. Bh3 Bf5 (Bd3 $144 10. Bf1 Ke3 11. Bg2 Kd4 12. Kd2 Be4 13. Bf1 Bd5 14. Bh3 Kc5 15. Ke3 Kb4 16. Kf4 g2 17. Bxg2 Bxg2 18. Ke3 Kxa5 $11) 10. Bxf5 (10. Bf1 $143 Bc8 $19) g2 11. Be4+ Kxe4 12. Kf2 $11 1/2-1/2
+
+[Event "New in Chess Magazine"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6rp/3B3p/7k/1p6/2b2P1K/4N3/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. Bxb4 $1 (1. Nf4+ $2 Kg5 2. Ne6+ Kf6 3. Bxb4 (3. Nxg7 b3 $1 4. Nh5+ Kg5) Kxe6 $1) Be5 $1 2. Bd6 (2. Bc3 $2 Re7) Rg5 (Bxd6 3. Nf4+ Bxf4 (Kg5 4. Ne6+)) 3. f4 Bxd6 4. Ng3+ $1 (4. fxg5 $2 hxg5) Kg6 5. fxg5 hxg5 (Bxg3 6. gxh6) 6. Ne4 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4n3/B5p1/3P4/2K5/8/p3R3/r6k w - - 0 1"]
+[PlyCount "21"]
+
+1. Kb3 Nxd5 2. Bd3 Nc3 3. Rxa2 Rxa2 (Nxa2 $144 4. Bxg6 Kh2 5. Bc2 Rc1 6. Kb2 $11) 4. Bxg6 Ra6 5. Bd3 Rc6 6. Bc4 Ne4 7. Bd5 Rc3+ 8. Kb4 Re3 9. Kc4 Kg2 10. Kd4 Kf3 11. Ke5 $11 1/2-1/2
+
+[Event "4.hm Kasparjan MT"]
+[Site "?"]
+[Date "2010.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b2k3/8/6r1/4p3/1p6/1p2B1p1/R1N3P1/6K1 w - - 0 1"]
+[PlyCount "13"]
+
+1. Ra8 Rb6 $1 2. Bxb6 b2 3. Ra1 $1 (3. Rxb8+ $143 Kf7 $19) b3 4. Bd4 $1 Ba7 5. Kf1 $1 (5. Kh1 $143 bxa1=Q+ 6. Nxa1 exd4 7. Nxb3 d3 $19) bxa1=Q+ 6. Nxa1 exd4 7. Nxb3 $11 1/2-1/2
+
+[Event "6.c  The Problemist vol20 n.6"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k2B3/7b/8/2P5/8/8/1r5n/1N3R1K w - - 0 1"]
+[PlyCount "14"]
+
+{The play is forced but it still creates a pleasant impression.} 1. Rf4 Be4+ $1 2. Rxe4 Nf3 3. Nd2 $1 Rxd2 4. Rb4+ Kc8 5. Bd7+ Kc7 $1 (Kxd7 $144 6. Rb7+ Kc8 7. Rh7 $11) 6. Rb7+ $1 Kxb7 7. Bc6+ $1 Kxc6 $11 1/2-1/2
+
+[Event "2.p tc19"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/8/1r6/8/3KB3/5R2/6bb/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. Re3 Bg1 2. Bxg2+ Kd7 3. Bf1 Rd6+ (Kc7 4. Bc4 Rc6 5. Bf7 Rf6 6. Ke5) 4. Ke4 Re6+ 5. Kf3 Rxe3+ 6. Kg2 1/2-1/2
+
+[Event "NIC 2005"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5R2/4r3/5b2/4np1r/5p2/5pk1/3B2P1/3BK2R w K - 0 1"]
+[PlyCount "20"]
+
+1. O-O f2+ (Rh1+ $144 2. Kxh1 fxg2+ 3. Kg1 gxf1=Q+ 4. Kxf1 Nc4 5. Be1+ Kh2 6. Rxf6 Ne3+ 7. Kf2 Nxd1+ 8. Kf3 Rxe1 9. Rh6+ Kg1 10. Rg6+ Kf1 11. Rh6 Nf2 12. Kxf4 $11) 2. Rxf2 Rh1+ (Reh7 $143 3. Bxf4+ Kh4 4. g3+ Kh3 5. Rh2#) 3. Kxh1 Kxf2 4. Bxf4 Rh7+ (Nd7 $144 5. Ra8 Re1+ 6. Kh2 Rxd1 7. Ra5 $11) 5. Bh2 Nf3 6. Bxf3 Be5 7. Bh5 Rxh5 8. Rxf5+ Rxf5 9. g4 Rg5 10. Bf4 Bxf4 $11 (Rxg4 $144 11. Bxe5 $11) 1/2-1/2
+
+[Event "bs15 @2"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5K2/8/1q3P2/5k2/8/8/R1N5/8 w - - 0 1"]
+[PlyCount "9"]
+
+1. Ne3+ (1. f7 $2 Kf6) (1. Nd4+ $2 Kxf6) Ke6 (Qxe3 2. f7) 2. Nd5 $1 (2. Ng4 $2 Qb4+) Kxd5 (Qd8+ 3. Kg7 Qxd5 4. Re2+) 3. f7 (3. Kg7 $1 Qg1+ 4. Kf7) Ke6 4. Ra6 $3 (4. Re2+ Kf6 5. Kg8 Qg1+ 6. Kf8 Qc5+ 7. Kg8 Qg5+) Qxa6 5. Kg8 1/2-1/2
+
+[Event "2.p NONA 2010"]
+[Site "?"]
+[Date "2010.08.02"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/2pk4/3pN2P/8/8/8/p3R3/r1b5 w - - 0 1"]
+[PlyCount "20"]
+
+1. h7 (1. Nf8+ $144 $1 {dual} Kc6 2. h7 Bb2 3. Rc2+ Kd5 4. Rxb2 Rg1+ 5. Ng6 Rxg6+ 6. Kh8 a1=R $11 {Tour folle}) (1. Nc5+ $143 dxc5 2. h7 Rb1 3. Rxa2 Rb8+ 4. Kf7 Be3 5. Kg6 Rb6+ 6. Kf7 Bd4 7. Rh2 Rb8 8. Rh5 (8. Rg2 $144 Rh8 9. Kg6 Kd6 $19) Kd6 9. Rh6+ Kd5 10. Rh5+ Be5 11. Kg6 Rh8 $19) Bb2 2. Nc5+ $1 (2. Nf8+ $144 $1 {dual} Kc6 3. Rxb2 Rg1+ 4. Ng6 Rxg6+ 5. Kh8 a1=R $11 {Tour b2 folle}) (2. Rxb2 $143 Rg1+ 3. Kf7 Rf1+ 4. Kg6 Rf6+ $1 5. Kxf6 a1=Q 6. Kf7 Qxb2 7. Nf8+ Kd8 8. Ng6 d5 9. Ke6 (9. h8=Q+ $144 Qxh8 10. Nxh8 $19) Ke8 $1 10. h8=Q+ (10. Kxd5 $144 Qg2+ 11. Kd4 Qg4+ 12. Kc3 Qh3+ 13. Kd4 Qxh7 $19) Qxh8 11. Nxh8 $19 d4 $19) dxc5 (Kc6 $144 3. Rxb2 Rg1+ 4. Kf7 $1 Rf1+ 5. Kg6 Rf6+ 6. Kxf6 a1=Q 7. Nd3 $1 $11) 3. Rxb2 Rg1+ 4. Kh8 $1 Rg2 $1 (a1=R $144 5. Rd2+ $11 {Desesperado Tower}) (a1=Q $144 $11 {stalemate}) 5. Rb1 $1 Rg8+ (Rh2 $144 6. Ra1 Rg2 7. Rd1+ {Desesperado Tower}) (axb1=Q $144 $11 {Stalemate}) (a1=Q+ $144 6. Rxa1 $11 {Desesperado Tower}) (c4 $144 6. Rd1+ Kc6 7. Rd6+ $11 {Desesperado Tower}) 6. hxg8=Q (6. Kxg8 $143 axb1=Q $19) axb1=Q {Now six men} 7. Qg4+ Kd8 8. Qg8+ Kd7 9. Qg4+ Kd6 10. Qg6+ Qxg6 $11 {stalemate} 1/2-1/2
+
+[Event "S1 1st Commendation"]
+[Site "?"]
+[Date "2011.03.19"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6r1/p1p1p1pP/P1PpP1P1/8/2P1B3/2K3pp/3P2rq/R5bk w - - 0 1"]
+[PlyCount "41"]
+
+{Gewinn} 1. hxg8=N d5 2. Bf3 d4+ 3. Kb4 $1 d3 4. Nh6 gxh6 5. g7 h5 6. g8=N h4 7. Nf6 exf6 8. e7 f5 9. e8=N f4 10. Nd6 cxd6 11. c7 d5 12. c8=N d4 13. Nb6 axb6 14. a7 b5 15. a8=B (15. a8=Q $143 bxc4 16. Qf8 c3 17. Qxf4 c2 18. Qxh4 c1=Q 19. Rxc1 $11) bxc4 16. Bae4 c3 17. Bxd3 c2 18. Bf1 d3 19. Kb3 (19. Kb5 $144 c1=R 20. Rxc1 Bf2 21. B1xg2#) (19. Kc4 $144 c1=R+ 20. Rxc1 Bf2 21. B1xg2#) (19. Ka4 $144 c1=R 20. Rxc1 Bc5 21. B1xg2#) c1=Q 20. Rxc1 Bd4 21. B1xg2# 1-0
+
+[Event "1.c PCCC 50th ACF"]
+[Site "?"]
+[Date "2010.11.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1R6/2B2r1k/p4p2/pP6/3b2p1/1P5p/1P3P1P/4K3 w - - 0 1"]
+[PlyCount "15"]
+
+1. b6 Be5 (Re7+ $144 2. Kf1 Be5 3. Rc8 Kg7 4. b7 Rxc7 5. b8=Q Rc1+ 6. Rxc1 Bxb8 7. Kg1 $18) 2. Bxe5 Re7 {pin} 3. f4 $1 (3. Rb7 $143 Rxb7 4. Bc7 f5 $1 {Diagramme #} 5. Kd2 f4 6. Kd3 Kg6 7. Ke4 g3 8. fxg3 fxg3 9. Bxg3 Rxb6 $19) gxf3 (fxe5 4. b7 exf4+ 5. Kd2 $18) (g3 4. b7 gxh2 5. Rh8+ Kxh8 6. b8=Q+ Kg7 7. Qa8 $18) 4. Rb7 $1 Rxb7 5. Bc7 Kg6 6. Kf2 Kg5 7. Kg3 $1 (7. Kxf3 $143 Kf5 8. Ke3 Ke6 9. Ke4 Rxc7 (f5+ $143 10. Kf4 Kf6 11. Kg3 Kg6 12. Kxh3 $18) 10. bxc7 Kd7 $11) (7. Ke3 $143 Kg4 8. Kf2 a4 9. bxa4 a5 10. Ke3 f5 11. Kf2 f4 12. b3 Kg5 13. Kxf3 Kf5 14. Kf2 Ke4 15. b4 axb4 16. a5 b3 17. a6 b2 18. axb7 b1=Q 19. b8=Q $11) Kf5 (Kg6 $144 8. Kxh3 $18) 8. Kxf3 $18 {zz. . The composer indicated that 4.Rb7 is both a pinning and an unpinning move, which is not correct. Nice study, the B/R-combination is partly anticipated. HvH} 1-0
+
+[Event "3.s.p.Tolush 100 MT"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "kb6/8/1K2p1Pp/P3P2P/8/rB1P1p2/5P2/8 w - - 0 1"]
+[PlyCount "23"]
+
+1. Bd5+ $1 (1. g7 $143 Rxb3+ 2. Ka6 Rb7 3. g8=Q Rb6+ $11) exd5 2. g7 Rb3+ 3. Ka6 d4 $1 4. e6 $1 (4. g8=B $143 Bxe5 5. Bxb3 Bf6 6. Bd5+ Kb8 7. Bxf3 Bh4 8. Kb6 Bd8+ 9. Kc5 Bxa5 $11) Rb2 5. e7 Rb7 $1 (Rb1 $144 6. g8=B $18 {#}) 6. g8=N $1 (6. e8=B $143 Ra7+ 7. Kb6 Rb7+ $11) (6. e8=N $143 Rxg7 7. Nxg7 Bg3 $11 {eg :} 8. Nf5 Bxf2 9. Nxh6 Bg3 10. Ng4 f2 11. Nxf2 Bxf2 12. Kb6 Be3 13. Kb5 Kb7 14. a6+ Ka7 15. Kc5 Kxa6 16. h6 Bxh6 17. Kxd4 $11) Rb1 (Ra7+ $144 7. Kb6 Rb7+ 8. Kc5 Rc7+ 9. Kxd4 Rc8 10. Nf6 Ba7+ 11. Ke4 Bxf2 12. e8=Q Rxe8+ 13. Nxe8 Be1 14. Kxf3 $18) 7. Nf6 $1 Re1 8. e8=Q Rxe8 9. Nxe8 Bg3 10. Kb6 Bxf2 11. Nc7+ Kb8 12. a6 $18 {#7} 1-0
+
+[Event "Shaya Kozlowski 100MT 1st prize"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1r6/2b5/Kp6/3P4/1P1R4/8/5k2/8 w - - 0 1"]
+[PlyCount "23"]
+
+1. d6 Bd8 2. Ka7 (2. d7 $143 Be7 3. Rc4 Ra8+ 4. Kb7 Ra4 $11) Rc8 3. Rf4+ Ke3 4. Rf8 b5 5. Kb7 Bc7 6. Rf3+ $3 {In the pawn ending the Black King will be to far off.} (6. Rxc8 $143 Bxd6 $11) Kxf3 7. dxc7 Rf8 8. c8=Q Rxc8 9. Kxc8 Ke4 10. Kc7 Kd5 11. Kb6 Kc4 12. Ka5 $18 1-0
+
+[Event "Mark Liburkin 100MT 1st hm"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[Composer "Timman, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1k6/8/1N5p/8/2p5/3P3p/R1b2K2 w - - 0 1"]
+[PlyCount "31"]
+
+1. Kg2 h1=Q+ 2. Kxh1 Bb2 3. Nd6+ Kc7 (Kc6 $144 4. Ra6+ $1 $18) 4. Ne8+ Kd7 (Kd8 $144 5. Ra8+ $18) 5. Nf6+ Ke7 (Ke6 $144 6. Ra6+ $18) 6. Ng8+ Kf7 7. Nh6+ Kg7 8. Nf5+ Kg6 (Kf6 $144 9. Rf1 c2 10. Ne3+ $18) 9. Nh4+ Kg5 10. Nf3+ Kg4 11. Ra2 (11. Nh2+ $143 Kh3 $11) c2 (Kxf3 $144 12. dxc3 Bxc3 13. Ra3 $18) 12. Ne5+ Bxe5 13. Rxc2 Kf3 14. Rc4 $1 Bg3 15. Rc3+ Kg4 {eg:} 16. d4 $18 {#56} (16. Rc4+ $144 $18 {#62}) 1-0
+
+[Event "Hollands Diep (c)"]
+[Source "(c): Horning=G Josten=G Europa Rochade=10 10/2004."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Timman, Jan Hendrik"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6B1/8/4K2N/6p1/8/4kPpP/8 w - - 0 1"]
+
+1. Nf4+ $1 Kxf2 2. Nh3+ gxh3 (Kf3 3. Kf5 gxh3 4. Bd4) (Ke3 3. Kd5 gxh3 4. Bd4+ Kf3 5. Ke5) 3. Kf4 g1=Q 4. Bd4+ Kg2 5. Bxg1 Kxg1 6. Kg3 1-0
+
+[Event "Man en Paard '80 '81#09"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Timman, Jan Hendrik"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/8/6pK/8/4N1Pn/8/b7/8 w - - 0 1"]
+
+1. Nd2 $1 (1. Kg5 $2 Nf3+ 2. Kxg6 (2. Kf6 Kf8 3. Nc3 Bf7 4. Ne4 Nh2 $1 5. Nd6 Nxg4+ 6. Kg5 Ne5 7. Kf6 Nd7+) Bb1 3. Kf5 Nd2) Kf7 (Bf7 2. Kg5 Ng2 3. Nf3 Kf8 4. Ne5 Kg7 5. Nxg6 Bxg6) 2. Kg5 Ng2 3. Nf3 Kg7 4. Ne5 Bb1 5. Nxg6 Bxg6 1/2-1/2
+
+[Event "Chess Life & Review#1207"]
+[Source "Chess Life & Review/6 composed 1980."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Timman, Jan Hendrik"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3kb3/5rPp/7K/7P/8/8/8 w - - 0 1"]
+
+1. g7 $1 Rf4 $1 2. Kxh6 Bf8 $1 3. Kg5 Rf1 4. g8=Q $1 Rg1+ 5. Kh5 Rxg8 1/2-1/2
+
+[Event "Schaakwerk I-23"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Timman, Jan Hendrik"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/6p1/4p1K1/6PB/b5P1/8/5R2/8 w - - 0 1"]
+
+1. Rf8+ $1 (1. Rf7 $2 Bc2+ 2. Rf5 exf5 3. gxf5 Bb3 4. f6 Bc2#) Kxf8 2. Kh7 Bc2+ 3. Kh8 e5 4. Bg6 e4 5. Bxe4 (5. Kh7 $2 e3 6. Bxc2) Bxe4 6. g6 Bxg6 7. g5 Bd3 8. g6 Bxg6 1/2-1/2
+
+[Event "Schaakwerk I-48"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Timman, Jan Hendrik"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6p1/8/4k1p1/7p/4pP2/4K2P/7B w - - 0 1"]
+
+1. Bg2 $1 (1. Kxe3 $2 h3) g4 (Kf4 2. Bh3) 2. fxg4 h3 (Kf4 3. h3 Kg3 (g5 4. Bf3 Kg3 5. Kxe3 Kxh3 6. Kf2 Kh2 7. Bg2 h3 8. Bf1) 4. Bf1 Kf4 5. Kd3 Kf3 6. Be2+ Kf2 7. g5) 3. Bc6 (3. Bh1 $2 Kf4 4. Bf3 g6 $1 5. Bc6 Kxg4 6. Kxe3 Kg5 7. Bd7 Kh6 8. Kf4 Kh7 9. Kg5 Kg7 10. Be6 Kh7 11. Kf6 Kh8 12. Kf7 Kh7 13. Kf8 Kh6 (Kh8 $2 14. Bg8) 14. Kg8 Kh5 $1 (Kg5 $2 15. Bxh3 Kh4 16. Be6 g5 17. h3) 15. Kg7 (15. Bxh3 g5) Kh4 $1 16. Kh6 (16. Kf6 Kh5) g5) (3. Bb7 {<or>} Kf4 4. Bc8 Ke4 5. Bd7 Kf4 6. Bf5) Kf4 4. Bd7 Ke4 5. Bc8 Kf4 6. Bf5 g6 7. Bc8 (7. Bd7 {<or>} Ke4 8. Bc6+ Kf4 9. Bf3) Ke4 8. Bb7+ Kf4 9. Bf3 g5 10. Bb7 Kxg4 11. Kxe3 1-0
+
+[Event "Haagse Post"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Timman, Jan Hendrik"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6pp/1K6/5P2/8/8/1kp3R1/8 w - - 0 1"]
+
+1. Kc7 $1 (1. Kc6 $2 h5 $1 2. Kd6 h4 3. Ke6 h3 4. Rh2 Kb1 5. Rxc2 Kxc2 6. Kf7 h2 7. Kxg7 h1=Q 8. f6 Qg2+) (1. Kc5 $2 h5 2. Kd4 Kb1 3. Rg1+ c1=Q 4. Rxc1+ Kxc1 5. Ke3 Kc2 6. Kf4 Kd3 7. Kg5 Ke4) h5 (Kb1 2. Rg1+ c1=Q+ 3. Rxc1+ Kxc1 4. Kd6) 2. Kb8 $1 Kb1 (h4 3. Rxg7 c1=Q 4. Rb7+ Ka3 5. Ra7+ Kb4 6. Rb7+ Ka5 7. Ra7+ Kb6 8. Rb7+) 3. Rxg7 c1=Q 4. Rb7+ 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Gandolfi, Vito"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "K6N/6kp/1Q6/pb5P/8/6q1/1n3b2/8 w - - 0 1"]
+
+1. h6+ (1. Qb8 $2 Bc6+ 2. Qb7+ Qc7 3. h6+ Kxh8 4. Qxc6 Qa7#) (1. Qg6+ hxg6 2. h6+ Kxh8) (1. Qd4+ Bxd4 2. h6+ Kxh8) (1. Qa7+ Bxa7 2. h6+ Kxh8 3. Kxa7 Qc7+) (1. Qa6 Bxa6 2. h6+ Kg8) (1. Kb7 Qf3+ 2. Ka7 Kxh8) (1. Qh6+ Kxh6 2. Nf7+ Kxh5) (1. Ka7 Qc7+ 2. Ka8 Bc6+) Kxh8 (Kf8 2. Qd8+ (2. Qc5+ $2 Bxc5 3. Ng6+ Qxg6) (2. Ng6+ $2 Qxg6 3. Qxf2+ Kg8) (2. Qd6+ $2 Qxd6 3. Ng6+ hxg6) (2. Qe6 Qf3+ 3. Kb8 Qf4+) (2. Nf7 Bxb6) (2. Qc7 Qxc7 3. Ng6+ hxg6) (2. Qb7 Bc4 3. Qc8+ Ke7) (2. Ka7 Qc7+ 3. Ka8 Bc6+) Be8 3. Qf6+ (3. Qd6+ $2 Qxd6 4. Ng6+ Bxg6 $19) (3. Qd7 Bxd7 4. Ng6+ Qxg6) (3. Kb7 Qf3+ 4. Kb8 Bg3+) (3. Qh4 Bc6#) (3. Nf7 Qf3+ 4. Kb8 Qxf7 5. Qd6+ Kg8) (3. Qd5 Qc7 4. Qf5+ Kg8) Kg8 4. Qe6+ $1 $10 (4. Qg6+ $2 hxg6 5. h7+ Kxh8) (4. Qf7+ $2 Bxf7 5. Nxf7 Qc7) (4. Qf8+ Kxf8 5. Ng6+ hxg6) (4. Qf3 Qxf3+ 5. Kb8 Kxh8) (4. Qd6 Qxd6) (4. Kb7 Qg2+ 5. Kc7 Bg3+) (4. Qd8 Kxh8 5. Qf6+) (4. Qe5 Bc6+ 5. Kb8 Qxe5+ 6. Kc8)) 2. Qd8+ (2. Qf6+ $2 Kg8 3. Qe6+ Kf8 $19) (2. Qa6 Qg8+ 3. Kb7 Qf7+) (2. Qb7 Qg8+ 3. Qc8 Qxc8#) (2. Qc7 Qg8+ 3. Kb7 Qg2+) (2. Qxb5 Qg8+ 3. Kb7 Qf7+) (2. Qb8+ Qxb8+ 3. Kxb8 Bb6) (2. Qc6 Bxc6#) Qg8 3. Kb7 (3. Kb8 $2 Qxd8+ 4. Kb7 Be8 $19) (3. Qc8 Qxc8#) Ba6+ 4. Kc6 (4. Kc7 $2 Bb6+ 5. Kxb6 Qxd8+ 6. Kxa6 a4 $19) Bb7+ 5. Kb5 (5. Kc7 $2 Bb6+ 6. Kxb6 Qxd8+ 7. Kxb7 Qd6 $19) (5. Kd7 $2 Bc6+ 6. Kxc6 Qxd8) (5. Kd6 $2 Qxd8+ 6. Ke6 Qe8+) Bc6+ 6. Ka6 (6. Kxa5 $2 Qxd8+ 7. Kb4 Qd3 $19) Bb5+ 7. Kb7 $10 (7. Kxa5 $2 Qxd8+ 8. Kxb5 Qb6#) 1/2-1/2

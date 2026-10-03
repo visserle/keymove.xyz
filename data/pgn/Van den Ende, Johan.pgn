@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "Van den Ende, Johan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "5N1b/3K3p/8/Pp6/8/1Pk5/8/8 w - - 0 1"]
+
+1. Ne6 (1. a6 $2 Bd4 2. Ne6 $10) (1. Kc6 $2 h5 2. Kxb5 $10 Kxb3 $4 (Bd4 $5) 3. Nd7) (1. Nxh7 $2 b4 2. a6 $10) (1. Ke6 $4 h5 2. Ng6) (1. Kc7 $2 Bd4 2. Ne6) (1. Kd6 $2 Bd4 2. Nxh7 Kxb3 3. a6) (1. Ke8 $4 h5) (1. Kd8 $4 Bd4 2. Nxh7 Kxb3) (1. Kc8 Bd4 2. Nxh7 Kxb3 3. Ng5) Be5 2. a6 (2. Kc8 $2 Bh2 3. a6 Bg1 $15) (2. Nc7 $2 Kxb3 3. a6 $10 Bxc7 $4 (Bd4 $5) 4. Kxc7) (2. Kc6 $6 Bb8 3. Kb7 $18) (2. Nc5 $2 Bd4 3. Kc6 $10) (2. Ng5 $2 Kxb3 3. Kc6) (2. b4 $2 Kxb4 3. a6) (2. Nd8 $4 h5 3. a6) (2. Nf8 h5) (2. Ke7 h5) Bb8 3. Nd4 (3. Nc7 $6 Kb4 4. Kc8 $18) (3. Nc5 $2 Ba7 4. Kc6 $10) (3. Nf4 $2 Kxb3 4. Kc6 $10) (3. b4 $2 Kxb4 4. Kc6 $10) Kxd4 4. Kc8 (4. Kc6 Ke4 5. Kb7 $18) (4. b4 $4 Kd5) (4. Kd8 $4 b4 5. Kc8 Ba7) (4. Ke6 $4 h5) (4. Ke7 $4 h5) Ba7 5. Kb7 (5. b4 $4 Kd5) (5. Kc7 $4 b4) Bc5 6. b4 (6. Kc6 $4 b4 $19) (6. a7 $4 Bxa7 $19 7. Kxa7 h5) Bxb4 7. a7 $18 1-0

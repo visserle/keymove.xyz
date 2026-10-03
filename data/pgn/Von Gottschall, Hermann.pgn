@@ -1,0 +1,13 @@
+[Event "Deutsche Schachzeitung#0395 (cr)"]
+[Source "Deutsche Schachzeitung/10 also The Chess Amateur#0135 The Chess Amateur/7 1912."]
+[Date "1889.??.??"]
+[Round "?"]
+[Composer "Von Gottschall, Hermann"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1kbPp3/8/1K6/2N3p1/6P1/4B2p/8 w - - 0 1"]
+
+1. d8=Q $1 Bxd8 2. Bd3 h1=Q 3. Be4+ Qxe4 4. Nd6+ exd6 1/2-1/2

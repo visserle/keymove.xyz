@@ -1,0 +1,39 @@
+[Event "All-Union Fizkultura i Sport Committee"]
+[Source "EG#06325."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Frolovsky, Aleksandr"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4q3/1N5p/6b1/8/3Q4/4K2k w - - 0 1"]
+
+1. Kf2 $1 Qf5+ 2. Kg3 h4+ 3. Kxh4 Qh5+ 4. Kg3 Qh3+ 5. Kf2 Qf3+ 6. Ke1 Bh5 7. Nd4 Qg3+ 8. Qf2 Qc3+ 9. Kf1 Qa1+ 10. Qe1 Qxd4 11. Qh4+ Qxh4 1/2-1/2
+
+[Event "Kommunar"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Frolovsky, Aleksandr"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3p1p2/3p2k1/3PP3/2K4P/8/8/8 w - - 0 1"]
+
+1. Kd4 $1 Kh5 2. Ke4 Kg4 3. h5 Kg5 4. h6 $1 Kxh6 5. Kf5 Kg7 6. e6 $1 dxe6+ 7. dxe6 f6 8. e7 Kf7 9. e8=Q+ $1 Kxe8 10. Ke6 1/2-1/2
+
+[Event "3.p Hero cities match (tt)"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Frolovsky, Aleksandr"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/1B6/8/2P3K1/p1p5/5p2/8/8 w - - 0 1"]
+
+1. c6 $1 (1. Bd5+ $2 Kf8 2. Bxc4 f2 3. Kf6 a3 4. c6 a2 $1) (1. Bxf3 $2 c3 $1 2. Bd1 Kf7 $1 3. Kf5 (3. Bxa4 Ke6 4. Kf4 c2 5. Bxc2 Kd5) a3 4. c6 Ke7 $1) f2 2. c7 f1=Q 3. c8=Q+ Kg7 (Qf8 4. Bd5+ Kg7 5. Qd7+ Kh8 6. Qh3+) 4. Qc7+ $1 Kf8 5. Qd8+ Kg7 6. Qe7+ Qf7 (Kh8 7. Qe5+ Kg8 8. Bd5+ Kf8 9. Qd6+ Ke8 10. Be4 $1) 7. Qe5+ Kf8 8. Kh6 $1 Qd7 9. Bd5 $1 (9. Bf3 $2 c3 10. Bh5 c2) Qh3+ 10. Kg5 Qf1 11. Qd6+ Ke8 12. Be4 $1 Kf7 (Qc1+ 13. Kh5 $1) (Qg1+ 13. Kh5 $1) 13. Qd7+ Kf8 14. Qd8+ Kg7 15. Qe7+ Qf7 16. Qe5+ Kf8 17. Kh6 Qd7 18. Bg6 c3 $1 19. Qc5+ (19. Qf6+ {<or>}) Kg8 20. Qxc3 Qb7 21. Be4 $1 Qb6+ 22. Bc6 Kf7 23. Qg7+ Ke6 24. Qd7+ Ke5 25. Qd5+ Kf4 (Kf6 26. Qd6+) 26. Qg5# 1-0

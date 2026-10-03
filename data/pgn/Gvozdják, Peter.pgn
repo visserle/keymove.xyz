@@ -1,0 +1,41 @@
+[Event "Sachové Umenie#6137"]
+[Source "Sachové Umenie/3"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Gvozdják, Peter"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3Pk3/8/p3p3/1p2P3/BPqn4/R2R4/3K4 w - - 0 1"]
+
+1. Bxb4+ $1 axb4 2. d8=Q+ Kxd8 3. Rxd3+ Qxd3+ 4. Rd2 Qd7 5. Kc2 Qxd2+ 6. Kxd2 Ke7 7. Kd3 Kf6 8. Kc4 Kg5 9. Kc5 Kg4 10. Kd6 Kf4 11. Kd5 $1 1-0
+
+[Event "The Problemist#0321 (v)"]
+[Source "The Problemist/5 (v): Gvozdjak=P The Problemist=19 1/1983."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Gvozdják, Peter"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/1p2p1P1/8/4p3/8/1p2p1P1/4P3/k7 w - - 0 1"]
+
+1. Kh8 $1 b2 2. g8=Q b1=Q 3. Qa8+ Qa2 (Kb2 4. Qxb7+ Kc1 5. Qxb1+ Kxb1 6. g4) 4. Qxa2+ Kxa2 5. g4 1-0
+
+[Event "The Problemist#0321"]
+[Source "The Problemist/5"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Gvozdják, Peter"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/1p4P1/8/4p3/8/1p2p1P1/4P3/k7 w - - 0 1"]
+
+1. Kh8 $1 (1. Kf7 $2 b2 2. g8=Q b1=Q 3. Qa8+ Kb2 $1 (Qa2+ $2 4. Qxa2+ Kxa2 5. g4 b5 6. g5 b4 7. g6 b3 8. g7 b2 9. g8=Q b1=Q 10. Kf6+) 4. Qxb7+ Kc1 5. Qxb1+ Kxb1 6. g4 Kc2 7. g5 Kd2 8. g6 Kxe2 9. g7 Kf2 10. g8=Q e2) b2 2. g8=Q b1=Q 3. Qa8+ Qa2 (Kb2 4. Qxb7+ Kc2 5. Qxb1+ Kxb1 6. g4) 4. Qxa2+ Kxa2 5. g4 1-0

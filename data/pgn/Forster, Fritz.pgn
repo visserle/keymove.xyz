@@ -1,0 +1,13 @@
+[Event "La Stratégie#460"]
+[Source "La Stratégie/7"]
+[Date "1901.??.??"]
+[Round "?"]
+[Composer "Forster, Fritz"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p2k4/1p4P1/4KP2/r7/2p1B3/8/8 w - - 0 1"]
+
+1. g7 $1 Rg4 2. f6 Ke8 (c2 3. f7 Rxg7 4. f8=Q Re7+ 5. Kd5 Rxe3 6. Qf5+ Ke8 7. Qg6+ Kd7 8. Qc6+ Kd8 9. Qa8+ Kc7 10. Qxa7+ Kc8 11. Qa8+ Kd7 12. Qc6+ Ke7 13. Qxc2) 3. Ke6 Rg6 4. g8=Q+ $1 Rxg8 5. f7+ Kf8 6. Bh6+ Rg7 7. Kf6 c2 8. Bxg7# 1-0

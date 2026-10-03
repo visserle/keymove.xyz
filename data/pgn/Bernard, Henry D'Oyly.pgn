@@ -1,0 +1,13 @@
+[Event "Traité Théorique du Jeu des Échecs (ea)"]
+[Source "Bernard=H Carlier Leger Verdoni"]
+[Date "1775.??.??"]
+[Round "?"]
+[Composer "Bernard, Henry D'Oyly"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/kPPp3p/P2Pp1p1/6K1/8/8 w - - 0 1"]
+
+1. b6 $1 Ka6 2. a5 e3 3. c6 h4+ 4. Kf4 e2 5. c7 Kb7 6. a6+ Kc8 7. a7 Kb7 8. c8=Q+ Kxc8 9. a8=Q+ 1-0

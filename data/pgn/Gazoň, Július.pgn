@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Gazoň, Július"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/8/8/8/5K2/8/5B1p/2k4r w - - 0 1"]
+
+1. Kg3 (1. Be3+ $2 Kd1 $19) (1. Ke3 $2 Rf1 2. Kd3 h1=Q 3. Be3+ Kd1) (1. Bh4 Rg1) (1. Bg1 hxg1=Q) (1. Be1 Rxe1) Kc2 (Kb1 2. Bb6 $10) (Kd2 2. Bd4 (2. Bc5 Rg1+ 3. Kxh2 $10 Rh1+ 4. Kg2 Rg1+ 5. Kxg1) (2. Kg2 $2 Rf1 3. Kxh2 Rxf2+ 4. Kg3 Ke3 $19 5. Kg4 Rf4+) (2. Ba7 $2 Ke2 $19 3. Bd4 Rd1) (2. Bg1 $2 hxg1=Q+ 3. Kf3 Rh5 $19) (2. Be1+ $2 Rxe1 3. Kxh2 Re3 $19 4. Kh1 Ke1) (2. Bb6 $2 Ke2 $19 3. Bd4 Rd1) (2. Kf3 $2 Rf1) (2. Kh3 $2 Rf1 3. Kxh2 Rxf2+ 4. Kg3 Ke3 $19 5. Kg4 Rf4+) (2. Kf4 Rf1) (2. Kg4 Rf1) Kd3 3. Bh8 $1 $10 (3. Be5 $2 Re1 4. Kxh2 Rxe5 $19) (3. Ba7 $2 Ke2 $19 4. Bd4 Rd1) (3. Bb2 $2 Rb1 4. Kxh2 Rxb2+ 5. Kg3 Rb4 6. Kf3 Kd2) (3. Bg7 $2 Rg1+ 4. Kxh2 Rxg7) (3. Bc3 Rc1 4. Kxh2 Rxc3) (3. Bg1 hxg1=Q+ 4. Kf3 Rh2) (3. Ba1 Rxa1 4. Kxh2 Ke2) (3. Kf3 Rf1+ 4. Bf2 h1=Q+)) 2. Bc5 (2. Bd4 $2 Rd1 3. Kxh2 Rxd4 $19) (2. Kg2 $2 Rf1 3. Kxh2 Rxf2+ 4. Kg3 Rf1 $19 5. Kh3 Rg1) (2. Be3 $2 Re1 3. Kxh2 Rxe3) (2. Bb6 $2 Rb1 3. Kxh2 Rxb6) (2. Ba7 $2 Ra1 3. Kxh2 Rxa7) (2. Bg1 $2 hxg1=Q+ 3. Kf4 Rh5) (2. Kh3 $2 Rf1 3. Kxh2 Rxf2+ 4. Kg3 Rg2+ 5. Kxg2) (2. Be1 Rxe1 3. Kxh2 Re3) (2. Kf3 Rf1) Kb3 3. Bb6 (3. Bf8 $2 Rf1 4. Kxh2 Rxf8 $19) (3. Bf2 $2 Rf1 4. Kxh2 Rxf2+ 5. Kh3 Rf4 $19 6. Kg3 Rc4) (3. Bd6 $2 Rd1 4. Kxh2 Rxd6 $19) (3. Kg2 $2 Rc1 4. Kxh2 Rxc5) (3. Ba7 $2 Ra1 4. Kxh2 Rxa7) (3. Bd4 $2 Rd1 4. Kxh2 Rxd4) (3. Be3 $2 Re1 4. Kxh2 Rxe3) (3. Be7 $2 Re1 4. Kxh2 Rxe7) (3. Kf2 Rg1) (3. Kf3 Rf1+ 4. Ke4 h1=Q+) Ka4 (Kc4 4. Bc7 $10) 4. Ba7 (4. Bc7 $2 Rc1 5. Kxh2 Rxc7) (4. Bd8 $2 Rd1 5. Kxh2 Rxd8) (4. Bf2 $2 Rf1 5. Kxh2 Rxf2+ 6. Kh3 Rf4) (4. Be3 $2 Re1 5. Kxh2 Rxe3) (4. Bd4 $2 Rd1 5. Kxh2 Rxd4) (4. Kg2 Rb1 5. Kxh2 Rxb6) (4. Bc5 Rc1 5. Kxh2 Rxc5) Kb5 5. Bb8 (5. Bd4 $2 Rd1 6. Kxh2 Rxd4 $19) (5. Be3 $2 Re1 6. Kxh2 Rxe3) (5. Bf2 $2 Rf1 6. Kxh2 Rxf2+ 7. Kh3 Rf4 8. Kg3 Rd4) (5. Kg2 $2 Ra1 6. Kxh2 Rxa7) (5. Kg4 Rf1) Kc6 6. Kg2 (6. Kh3 Kb5 7. Kg3 Rg1+ 8. Kxh2) (6. Kh4 $10) (6. Be5 $2 Re1 7. Kxh2 Rxe5 $19) (6. Ba7 $2 Kd5 $19) (6. Bf4 $2 Rf1 7. Kxh2 Rxf4) (6. Kf2 $2 Rf1+ 7. Kxf1 h1=Q+) Rb1 7. Bxh2 $10 (7. Bg3 $2 h1=Q+ 8. Kf2 Rb3 9. Be5 Qf3+) (7. Ba7 h1=Q+ 8. Kg3 Rb3+) 1/2-1/2

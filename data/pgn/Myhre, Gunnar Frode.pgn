@@ -1,0 +1,54 @@
+[Event "Szachy#1528 (c)"]
+[Source "Szachy/12 (c): Myhre=G Szachy/5 1979."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Myhre, Gunnar Frode"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5p2/8/4Pp2/5P2/4kP2/8/5K2 w - - 0 1"]
+
+1. Kg2 $1 Kxf4 2. Kf2 Kxe5 3. Ke3 f4+ 4. Kd3 Kf5 5. Kd4 f6 6. Kd3 Kg6 7. Ke2 Kh5 8. Kf1 Kh4 9. Kg2 1/2-1/2
+
+[Event "Schach#10224"]
+[Source "Schach/11"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Myhre, Gunnar Frode"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/8/6K1/2B5/3Rp3/3p4/3p4/8 w - - 0 1"]
+
+1. Rxe4+ $1 (1. Be7 $2 Kxe7 (d1=Q $2 2. Bg5) 2. Rxe4+ Kf8 $1 (Kd6 $2 3. Rd4+) 3. Rf4+ Ke7 4. Rf1 Ke6 5. Rd1 Ke5 6. Rxd2 Ke4) Kd7 2. Rd4+ Ke8 3. Be7 (3. Rxd3 $2 d1=Q $1 4. Rxd1) d1=Q 4. Bg5 1-0
+
+[Event "Schach#10510"]
+[Source "Schach/10"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Myhre, Gunnar Frode"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p5k/2P5/8/7r/2K5/8/5R1b w - - 0 1"]
+
+1. c7 $1 Rh6 2. Rxh1 (2. c8=Q $2 Rc6+ 3. Qxc6 Bxc6) Rxh1 3. Kb2 $1 (3. Kd2 $2 Rh2+ 4. Kd3 Rh3+ 5. Kd4 Rh4+ 6. Kd5 Rh5+ 7. Kd6 Rh6+ 8. Kd7 Rc6 $1) Rh2+ 4. Kb3 Rh3+ 5. Kb4 Rh4+ 6. Kb5 Rh5+ 7. Kb6 Rh6+ 8. Kxb7 1-0
+
+[Event "Dagbladet#3622"]
+[Date "1984.07.12"]
+[Round "?"]
+[Composer "Myhre, Gunnar Frode"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1b1N4/2n3kP/3P4/8/4K3/8/8/8 w - - 0 1"]
+
+1. Nf7 $1 (1. d7 $2 Kxh7 2. Nf7 Ne6 3. Ng5+ Nxg5+) Kxh7 2. Ng5+ Kg6 3. d7 Ne6 4. Nxe6 Bc7 5. Nxc7 1-0

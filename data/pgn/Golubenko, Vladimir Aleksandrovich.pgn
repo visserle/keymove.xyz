@@ -1,0 +1,27 @@
+[Event "Bulletin Central Chess Club USSR#08a (t"]
+[Source "Bulletin Central Chess Club USSR/4 (c): Golubenko=V Slobodeniuk=V Bulletin Central Chess Club USSR=3(57) 3/1966."]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Golubenko, Vladimir Aleksandrovich"]
+[White "Golubenko, V"]
+[Black " Slobodeniuk, V."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4K3/8/5k2/7P/4R3/2ppp3/8/8 w - - 0 1"]
+
+1. h6 $1 Kg6 2. h7 $1 Kxh7 3. Kf7 Kh6 4. Kf6 Kh5 5. Kf5 d2 6. Re8 Kh4 7. Kf4 Kh3 8. Rxe3+ Kg2 9. Rd3 1/2-1/2
+
+[Event "Bulletin Central Chess Club USSR#08b (t"]
+[Source "Bulletin Central Chess Club USSR/4"]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Golubenko, Vladimir Aleksandrovich"]
+[White "Golubenko, V"]
+[Black " Slobodeniuk, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4PPP1/8/4r3/p1K5/8/3k4 w - - 0 1"]
+
+1. Kb3 $1 a2 2. Kxa2 Kc2 3. Ka3 Kc3 4. e7 $1 Re1 $1 5. Ka4 Kc4 6. Ka5 Kc5 7. Ka6 Kc6 8. Ka7 Kc7 9. e8=N+ $1 1-0

@@ -1,0 +1,31 @@
+[Event "3ème prix Avni 50-JT"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[Composer "Antonini, David"]
+[Composer2 "Pallier, Alain"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/8/P2p4/3p4/3Pn2p/4PKp1/P4pP1/R7 w - - 0 1"]
+[PlyCount "43"]
+
+1. a3 (1. a4 $143 Ka7 2. a5 Kxa6 {zugzwang trait aux blancs -+} 3. Ke2 (3. Rh1 $144 Nd2+ 4. Ke2 h3) (3. Rc1 Kxa5 4. Rh1 Nd2+ 5. Ke2 f1=Q+ 6. Rxf1 Nxf1 7. Kxf1 Kb4 8. Ke2 Kc3 9. Kf3 Kd3 $19) h3 4. Kf3 h2 5. Ke2 Ng5 $19) (1. Rh1 $143 Nd2+ 2. Ke2 h3 $1 $19) (1. Ke2 $143 h3 (Nd2 $143 2. Rd1 $11) 2. Kf3 h2 3. Ke2 Ng5 4. Rh1 Nh3 5. Kf1 Ng1 $19) (1. a7 $143 Kxa7 2. a4 Kb6 3. Rh1 Nd2+ 4. Ke2 Ka5 (h3 $143 5. gxh3 g2 6. Rb1+ Nxb1 7. Kxf2 $11 {et le pion h assure la nulle)}) 5. Ra1 (5. Rd1 $144 Ne4 6. Rh1 (6. Ra1 $144 h3 $19) Kxa4 7. Rxh4 Nc3+ 8. Kf1 Nd1 9. Rf4 Nxe3+ 10. Ke2 f1=Q+ 11. Rxf1 Nxf1 12. Kxf1 Kb4 $19) Nc4 6. Kf3 Na3 7. Ke2 Kxa4 8. Rh1 Nc4 9. Rxh4 Nxe3 10. Rf4 f1=Q+ 11. Rxf1 Nxf1 12. Kxf1 Kb4 $19) (1. Rc1 $143 Ka7 2. a3 Kxa6 3. Ra1 Ka5 4. Rd1 Ka4 5. Ra1 Nd2+ 6. Ke2 Nc4 7. Kf3 Kb3 8. a4 Kb4 9. Ke2 Ka5 $19 {et le pion étant à présent bloqué en a4, les noirs gagnent comme vuprécédement.}) Ka7 ({Les noirs ne peuvent perdre un tempo en jouant sur la colonne b :} Kb8 $144 2. Rh1 Nd2+ 3. Ke2 Ka7 $11 (h3 $143 4. gxh3 g2 5. Rb1+ Nxb1 6. Kxf2 Nxa3 7. Kxg2 $18)) 2. a4 Kxa6 ({Avec le pion blanc encore en a6, le roi noir ne peut pas trianguler via b6 :} Kb6 $144 3. Rh1 Nd2+ (Kxa6 $144 4. Ke2 Nc3+ 5. Kf1 Nd1 6. Ke2 h3 7. Rxh3 Nxe3 8. Rh1 $11) 4. Ke2 h3 (Kxa6 $144 5. Rd1 $1 Ne4 6. Rh1 Nc3+ $11 {(cf 3...Rxa6)}) 5. gxh3 g2 6. Rb1+ Nxb1 7. Kxf2 Nc3 8. Kxg2 $11) 3. a5 Nd2+ (Nc3 $144 4. Kg4 h3 5. Kxg3 Ne4+ 6. Kxh3 Nd2 7. Kg3 f1=Q 8. Rxf1 Nxf1+ 9. Kf4 $11) 4. Ke2 Nb3 (f1=Q+ $144 5. Rxf1 Nxf1 6. Kxf1 Kxa5 7. Ke2 $11 {cf la ligne principale après 12.Re2}) 5. Rh1 (5. Rb1 $143 Nxa5 6. Rh1 Nc4 7. Rxh4 Nxe3 $19) Nd2 (Kxa5 $144 6. Rxh4 Nd2 7. Rf4 f1=Q+ 8. Rxf1 Nxf1 9. Kxf1 Kb4 10. Ke2 Kc3 11. Kf3 Kd3 12. Kf4 Ke2 13. Kg4 $1 $11 {cf ligne principale après 16.Rg4!}) 6. Ra1 Nc4 7. Kf3 (7. Rh1 $143 Kxa5 8. Rxh4 Nxe3 $19) Na3 ({A nouveau, le roi noir ne peut trianguler car il serait exposé à un échec sur la colonne b :} Kb7 $144 8. Rh1 Nd2+ 9. Ke2 h3 10. gxh3 g2 11. Rb1+ Nxb1 12. Kxf2 Nd2 13. Kxg2 $11) ({Forcer la finale de pions transpose toujours dans la ligne principale :} f1=Q+ $144 8. Rxf1 Nd2+ 9. Ke2 Nxf1 10. Kxf1 Kxa5 11. Ke2 $11 {cf ligne principale 12.Re2}) 8. Ke2 Nc2 ({Les noirs doivent finalement se résoudre à échanger le pion f et le cavalier contre la tour :} Nb5 $144 9. Kf3 Nc3 $11) 9. Rc1 ({Les blancs doivent attaquer le cavalier tout en continuant à garder la première rangée :} 9. Ra2 $143 Nxe3 $19) (9. Rh1 $143 Kxa5 10. Rxh4 (10. Rc1 $144 Ne1 11. Kf1 Kb4 $19) Nxe3 11. Rf4 f1=Q+ $19) Ne1 10. Rxe1 ({Les blancs doivent entrer dans la finale immédiatement :} 10. Kf1 $143 Kxa5 11. Rb1 Ka4 12. Rb8 Nxg2 13. Kxg2 h3+ 14. Kf1 h2 15. Rh8 Kb3 $19) fxe1=Q+ 11. Kxe1 Kxa5 12. Ke2 Kb4 13. Kf3 Kc3 14. Kg4 Kd3 15. Kxh4 Ke2 16. Kg4 ({Les noirs ont tendu un dernier piège aux blancs :} 16. Kxg3 $143 Kxe3 $1 {zugzwang mutuel trait aux blancs, et maintenant :} 17. Kg4 (17. Kh4 $144 Kxd4 18. g4 Ke5 (Ke4 $143 19. Kg3 $1 $11 {zz trait aux noirs}) 19. g5 (19. Kg3 $144 Ke4 $1 {zz trait aux blancs}) Kf5 20. Kh5 d4 21. g6 d3 22. g7 d2 23. g8=Q d1=Q+ $19) Kxd4 18. Kf3 Kd3 $1 19. g4 d4 20. g5 Kc2 21. g6 d3 22. g7 d2 23. g8=Q d1=Q+ $19 {(tablebase)}) (16. Kh3 $143 Kf2 $19 {zz trait aux blancs}) Kf2 17. Kh3 Kxe3 18. Kxg3 Kxd4 19. Kf2 Kc3 (Kd3 $144 20. g4 d4 21. g5 Kc2 22. g6 d3 23. g7 d2 24. g8=Q d1=Q $11 {(tablebase)}) 20. Ke2 Kc2 (d4 $144 21. Kd1 $1 $11) 21. Ke3 Kc3 22. Ke2 $11 1/2-1/2
+
+[Event "2ème prix Avni-50JT"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[Composer "Antonini, David"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[SetUp "1"]
+[FEN "6Q1/4qPp1/6P1/1p3p2/1P3P2/5K1p/6p1/5kB1 w - - 0 1"]
+[PlyCount "30"]
+
+1. Qe8 (1. f8=Q $143 Qe2+ 2. Kg3 Qg4+ 3. Kh2 Qxf4+ 4. Kxh3 Qg4+ 5. Kh2 Qh4#) Qh4 {les blancs doivent trouver une suite énergique, car les deux pions noirs valent plus que la dame que les blancs sont sur le point d'obtenir :} (Qe4+ $144 2. Qxe4 fxe4+ 3. Kxe4 Kxg1 4. f8=Q h2 5. Kf3 h1=Q 6. Qc5+ Kh2 7. Qh5+ Kg1 $11) 2. f8=Q (2. Qxb5+ $143 Kxg1 3. Qxf5 Kh1 4. f8=Q g1=Q 5. Ke4 Qhe1+ 6. Kd5 Qg2+ 7. Kd6 Qxb4+ 8. Qc5 Qgb7 $19) (2. Qe2+ $143 Kxg1 3. f8=Q Kh1 4. Qd1+ Kh2 5. Qxf5 Qg3+ 6. Ke2 g1=Q 7. Qxg1+ Kxg1 $19) Kxg1 3. Qc5+ ({Les noirs menacent de promouvoir à la fois g et h. Par exemple :} 3. Qe3+ Kh2 4. Qxf5 Qg3+ 5. Ke4 Qxe3+ 6. Kxe3 g1=Q+ 7. Ke2 Qg2+ 8. Ke1 Qg3+ $19) (3. Qxf5 $143 Qf2+ 4. Kg4 Kh2 5. Qd3 $5 g1=Q+ 6. Kf5 Qc1 $1 7. Qde4 Qfc2 8. Q8e7 Qc8+ 9. Q7e6 Kg3 10. Qd3+ Kh4 11. Qd8+ Qxd8 12. Qe7+ Kg3 $1 $19) Kh2 4. Qg1+ Kxg1 5. Qe1+ Kh2 (Qxe1 $144 $2 $11) 6. Qxh4 g1=Q 7. Qf2+ Kh1 (Qxf2+ $144 8. Kxf2 Kh1 9. Kf1 $11) 8. Qe1 Kh2 9. Qf2+ Qg2+ 10. Ke3 (10. Ke2 $143 Kh1 11. Ke1 Qxf2+ 12. Kxf2 Kh2 $19) Kh1 11. Qe1+ Qg1+ 12. Kf3 h2 13. Qf2 Qg4+ (Qxg6 $144 14. Qf1+ Qg1 15. Ke2 $11) (Qd1+ $144 14. Ke3 Qb3+ 15. Ke2 Qa2+ 16. Ke3 Qe6+ 17. Kd2 Qxg6 18. Qf1+ $11) 14. Ke3 Qd1 15. Qg2+ Kxg2 $11 1/2-1/2

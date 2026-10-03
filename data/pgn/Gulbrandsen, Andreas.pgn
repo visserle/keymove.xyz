@@ -1,0 +1,27 @@
+[Event "Norsk Sjakkblad#11 (s)"]
+[Source "Norsk Sjakkblad/1-2"]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Gulbrandsen, Andreas"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2r5/4P1P1/6p1/8/8/k7/PRpr4/2K5 w - - 0 1"]
+
+1. Rb3+ $1 Kxa2 2. Rc3 Rd1+ 3. Kxc2 Rc1+ 4. Kxc1 Rxc3+ 5. Kd2 Rc8 6. Ke3 g5 7. Kf3 Kb3 8. Kg4 1/2-1/2
+
+[Event "Norsk Sjakkblad#812a (tw)"]
+[Source "Norsk Sjakkblad/4"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Gulbrandsen, Andreas"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/7p/1pn1PK1p/2p4P/8/2P5/8/8 w - - 0 1"]
+
+1. c4 $1 Kg8 2. e7 Nxe7 3. Kxe7 Kg7 4. Ke6 b5 (Kf8 5. Kd7 Kf7 6. Kc6 Ke6 7. Kxb6 Kd6 8. Kb5 Kd7 9. Kxc5 Kc7 10. Kd5 Kd7 11. Ke5 Kc6 12. Kf6) 5. cxb5 c4 6. b6 c3 7. b7 c2 8. b8=Q c1=Q 9. Qa7+ Kh8 10. Qd4+ Kg8 11. Qd8+ Kg7 12. Qf6+ Kg8 13. Qf7+ Kh8 14. Qf8# 1-0

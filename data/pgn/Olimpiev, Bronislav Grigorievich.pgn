@@ -1,0 +1,220 @@
+[Event "Shakhmaty v SSSR#09"]
+[Source "Shakhmaty v SSSR/2"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Olimpiev, Bronislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/Pk6/8/1K6/BNp4p/8/8 w - - 0 1"]
+
+1. Bc1 $1 h2 2. Be3+ Kc6 3. a7 Kb7 4. Nc5+ Ka8 5. Ne6 (5. Na6 {<or>}) h1=Q 6. Nc7+ Kb7 7. a8=Q+ 1-0
+
+[Event "Na Smenu!"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Olimpiev, Bronislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7P/Pp6/1p6/pP6/1k1K4/2pP4/8 w - - 0 1"]
+
+1. h8=Q $1 (1. a7 $2 c1=Q 2. h8=Q Qc4+ 3. Ke3 Qe6+ 4. Kd3 Qd7+) c1=Q 2. Qc3+ (2. Qg8+ $2 Kxb4 3. Qf8+ Ka5 4. a7 Qb1+ 5. Kd4 Qg1+) Qxc3+ 3. dxc3 a3 $1 4. a7 a2 5. a8=R $1 (5. a8=Q $2 a1=Q $1 6. Qxa1) Kb2 6. c4 $1 (6. Kd4 $2 a1=Q 7. Rxa1 Kxa1 8. c4 bxc4 9. Kxc4 Kb2) a1=Q 7. Rxa1 Kxa1 8. c5 $1 bxc5 9. bxc5 b4 10. Kc4 1-0
+
+[Event ".c Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/10 EG#01777."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Olimpiev, Bronislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6k1/8/1Kp5/5P2/4pp2/8/3R4 w - - 0 1"]
+
+1. Kc4 $1 e2 2. Rg1+ Kf6 3. Kd3 f2 4. Rg6+ $1 Kxg6 5. Kxe2 Kf5 6. Kf1 $1 Kg4 7. Kg2 Kf5 8. Kf1 Ke4 9. Ke2 Kxf4 10. Kxf2 1/2-1/2
+
+[Event "Thèmes 64#2270 (c)"]
+[Source "Thèmes 64/7-9 (c): Olimpiev=B Thèmes 64=66 4-6/1972."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Olimpiev, Bronislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4B3/7p/8/pN4p1/k2P2q1/1pP2pP1/2PK1P2/8 w - - 0 1"]
+
+1. Kc1 $1 bxc2 $1 2. Kb2 $1 c1=Q+ 3. Kxc1 Kb3 4. Bf7+ Ka4 5. Nd6 $1 Ka3 6. Kc2 Qd7 7. Nc4+ Ka2 8. Ne5+ Qxf7 9. Nxf7 1-0
+
+[Event "4.c Farago MT Revista de Romana de Sah"]
+[Source "Revista de Romana de Sah/11 1973 EG#02121."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Olimpiev, Bronislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/K7/2r1p1P1/1k2PP2/5p2/8/8/8 w - - 0 1"]
+
+1. f6 $1 Rc8 2. Kb7 $1 Rg8 $1 3. f7 Rf8 4. Kc7 f3 5. Kd6 $1 (5. Kd7 $2 f2 6. Ke7 Ra8 7. g7 Ra7+ 8. Ke8 f1=Q 9. g8=Q Qc4) f2 6. g7 Rxf7 7. g8=Q f1=Q 8. Qxf7 $1 Qxf7 1/2-1/2
+
+[Event "Chess Life & Review#0550"]
+[Source "Chess Life & Review/11 also Thèmes 64#2485 Thèmes 64=68 Thèmes 64/10-12 1972."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Olimpiev, Bronislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/1p6/1p6/1P5P/p6p/pk1K3P/4B3 w - - 0 1"]
+
+1. Bf2 $1 (1. Bg3 $2 d5 $1 (d6 $2 2. Bf2 $1 a1=Q 3. Bd4+ Kb1 4. Bxa1 Kxa1 5. Kc1 $1 d5 6. h5 d4 7. h6 d3 8. h7 d2+ 9. Kxd2 Kb1 10. h8=Q a2 11. Qh7+) 2. Be5+ (2. h5 a1=Q) d4 $1 3. Bxd4+ Kb1 4. h5 a1=Q 5. Bxa1 Kxa1 6. h6 Kb1 7. h7 a2 8. h8=Q a1=Q) (1. Kd3 $2 a1=Q 2. Bc3+ Kb1 3. Bxa1 Kxa1 4. Kc2 d5 $1 5. h5 d4 6. h6 d3+ 7. Kc1 d2+ 8. Kxd2 Kb1 9. h7 a2 10. h8=Q a1=Q) a1=Q (d5 2. Bd4+ Kb1 3. h5 a1=Q 4. Bxa1 Kxa1 5. Kc1 $1 d4 6. h6 d3 7. h7 d2+ 8. Kxd2 Kb1 9. h8=Q) 2. Bd4+ Kb1 3. Bxa1 Kxa1 4. Kc1 $1 (4. Kc2 $2 d5 $1) a2 $1 (Ka2 5. h5 Kb3 6. Kb1 a2+ 7. Ka1 d5 8. h6 d4 9. h7 d3 10. h8=Q d2 11. Qb2+) 5. h5 d6 $1 6. h6 $1 (6. Kc2 $2 d5 7. h6 d4 8. h7 d3+) d5 7. h7 d4 8. h8=R $1 (8. h8=Q $2) (8. h8=B $2) d3 9. Rd8 $1 (9. Rf8 $2 d2+ 10. Kc2 d1=Q+ 11. Kxd1 Kb2 12. Rf2+ Kb3 $1) (9. Rxh3 $2 d2+ 10. Kxd2 Kb2) (9. Ra8 $2 d2+ 10. Kxd2 Kb2) d2+ 10. Kc2 $1 (10. Rxd2 $2) d1=Q+ 11. Rxd1# 1-0
+
+[Event "Thèmes 64#2620 (v)"]
+[Source "Thèmes 64/7-9"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Olimpiev, Bronislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/1p6/5P2/2p3P1/1k3K1Q w - - 0 1"]
+
+1. Qh7 $1 Kb2 $1 2. Qg7+ Kb1 $1 (Kb3 3. Qa1) 3. Qg6 Kb2 4. Qf6+ Kb1 5. Qf5 Kb2 6. Qe5+ Kb1 7. Qe4 b3 (Kb2 8. Qxb4+) 8. Ke2 $1 Kb2 9. Qd4+ Kb1 10. Qc3 $1 b2 $1 (c1=Q 11. Qxb3+ $1 Ka1 12. Qd1) 11. Qd3 Kc1 12. Qe3+ Kb1 13. Qe4 Kc1 14. Qf4+ Kb1 15. Qf5 Kc1 16. Qg5+ Kb1 17. Qg6 Kc1 18. Qh6+ Kb1 19. Qh7 Kc1 20. Qh1# 1-0
+
+[Event "Thèmes 64#2620"]
+[Source "Thèmes 64/7-9"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Olimpiev, Bronislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/p7/4P3/1p3PP1/k3K2Q w - - 0 1"]
+
+1. Qh8 $1 (1. Kd2+ $2 b1=Q 2. Qh8+ Qb2+ 3. Qxb2+ Kxb2) Ka2 $1 (Kb1 2. Qa8 Kc1 3. Qxa4 b1=Q 4. Qd1+) 2. Qg8+ Ka1 3. Qg7 Ka2 4. Qf7+ Ka1 5. Qf6 Ka2 6. Qe6+ Ka1 7. Qe5 Ka2 8. Qd5+ Ka1 (Ka3 9. Qd3+ Ka2 (Kb4 10. Qb1) 10. Qc2 a3 11. Kd2) 9. Qd4 a3 10. Kd2 $1 Ka2 (a2 11. Qh8 Kb1 12. Qh1#) 11. Qc4+ Ka1 12. Qb3 $1 a2 (b1=Q 13. Qxa3+ Qa2+ 14. Qxa2+) 13. Qc3 Kb1 14. Qd3+ Ka1 15. Qd4 Kb1 16. Qe4+ Ka1 17. Qe5 Kb1 18. Qf5+ Ka1 19. Qf6 Kb1 20. Qg6+ Ka1 21. Qg7 Kb1 22. Qh7+ Ka1 23. Qh8 Kb1 24. Qh1# 1-0
+
+[Event "3.c Szachy#0133 (v)"]
+[Source "Szachy/9"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Olimpiev, Bronislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/8/8/2p4P/8/p2K4/k7 w - - 0 1"]
+
+1. Kc1 $1 (1. Kc2 $2 c3 2. h5 c5 $1 3. h6 c4 4. Kc1 c2 5. h7 c3 6. h8=Q) c3 2. h5 c6 $1 3. h6 $1 c5 4. h7 c4 $1 5. h8=R $1 (5. h8=Q $2) c2 6. Rh1 c3 7. Kxc2# 1-0
+
+[Event "L'Italia Scacchistica"]
+[Source "L'Italia Scacchistica/4"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Olimpiev, Bronislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/5K1p/5N1r/8/1p4p1/B2p4/8/8 w - - 0 1"]
+
+1. Bb2 $1 Rh2 2. Bd4 Rf2 3. Bxf2 d2 4. Be3 d1=Q 5. Bh6 Qb3+ 6. Kf8 1-0
+
+[Event "Na Smenu!"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Olimpiev, Bronislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6R1/1k6/8/K5B1/8/4Pp2/3p4/8 w - - 0 1"]
+
+1. Rg7+ $1 Kc6 $1 (Kc8 2. Kb6 $1 d1=Q (f2 3. Rc7+ Kb8 4. Rd7) 3. Rg8+ Kd7 4. Rd8+) 2. Bf4 f2 3. e4 $1 Kc5 $1 (f1=Q 4. Rc7#) 4. Be5 (4. Bc7 $2 Kd4 5. Rd7+ Kxe4) Kc4 (f1=Q 5. Rc7#) 5. Rg3 $1 d1=Q 6. Rc3# 1-0
+
+[Event "L'Italia Scacchistica#056"]
+[Source "L'Italia Scacchistica/6"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Olimpiev, Bronislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2n1P3/1R5P/8/8/k1P5/p6p/Kb6 w - - 0 1"]
+
+1. e8=Q $1 Nxe8 2. Ra6+ Kb3 3. Rb6+ Kxc3 4. h7 h1=Q 5. Rh6 Qxh6 6. h8=Q+ Qxh8 1/2-1/2
+
+[Event "1.c Birnov MT"]
+[Source "EG#17465."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Olimpiev, Bronislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p2P2k/1P1q3p/p5PP/K1B1PP2/8/4p3/8 w - - 0 1"]
+
+1. g6+ $1 Kg7 2. e8=N+ $1 Kf8 $1 (Kh8 3. g7+ Kh7 4. g8=Q#) 3. g7+ $1 Ke7 (Kxe8 4. g8=Q+ Kd7 5. Qf7+ Kd8 6. Qc7+) 4. Nxd6 e1=Q 5. Nf5+ $1 (5. Kb3 $2 Qb1+ 6. Kc3 Qc1+ 7. Kd4 Qd2+ 8. Ke5 Qc3+ 9. Kf5 Qxg7) Kf6 (Kd7 6. Bb5+) 6. g8=N# 1-0
+
+[Event "3.p Bron JT"]
+[Source "EG#04430."]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Olimpiev, Bronislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5B2/8/8/8/8/1p6/4p1Nk/4K3 w - - 0 1"]
+
+1. Nh4 $1 (1. Ne3 $2 b2 $1) Kg3 (Kh3 2. Nf3 b2 3. Nd2) 2. Nf5+ Kf4 $1 3. Nd4 $1 (3. Ne7 $2 b2 $1 4. Nd5+ Ke4 5. Nc3+ Kd3 6. Nb1 Kc2 7. Na3+ Kb3 8. Kxe2 Ka2 $1) b2 4. Nxe2+ Ke3 5. Nc3 Kd3 6. Nb1 Kc2 7. Na3+ $1 Kc1 (Kb3 8. Kd2 Ka2 9. Kc2 $1) 8. Bh6# 1-0
+
+[Event "64 Shakhmatnoye Obozrenye#28"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Olimpiev, Bronislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1N4B1/5p2/4k3/7K/8/7p/5P2/8 w - - 0 1"]
+
+1. Bh7 $1 f5 $1 (Kd5 2. Nd7 $1 h2 3. Nf6+ $1 Kd4 4. Be4) (Ke5 2. Nd7+ $1 Kf4 3. Nf6 $1 Kf3 4. Ng4) 2. Kg5 $1 (2. Bg8+ $2 Kd6 $1) h2 3. Bxf5+ Ke5 $1 4. Nc6+ $1 (4. Nd7+ $2 Kd4 $1) (4. f4+ $2 Kd4 $1 5. Nc6+ Ke3) Kd5 5. Nb4+ (5. Ne7+ $2 Ke5 $1 6. Ng6+ (6. f4+ Kd4 7. Nc6+ Ke3) Kd4) Kd4 $1 6. Nc2+ Kd5 $1 7. Bc8 $1 (7. Ne3+ $2 Kd4 $1 8. Be4 Kxe4 9. Nf1 Kf3 $1) (7. Bh3 $2 h1=Q 8. Bg2+ Qxg2+) Kc6 8. Bg4 $1 h1=Q 9. Bf3+ $1 Qxf3 10. Nd4+ 1-0
+
+[Event "1.hm Kozlov MT Na Smenu!"]
+[Source "EG#06532."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Olimpiev, Bronislav Grigorievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2K1p3/5P1R/4k3/4r2B/2p3P1/5P2/4r3 w - - 0 1"]
+
+1. f7 $1 (1. fxe7 $2 Kf5) (1. f4+ $2 Ke6 2. fxe7+ Kf5) c2 $1 2. Bg5 c1=Q+ $1 3. Bxc1 Rxc1+ 4. Rc6 $1 Rxc6+ 5. Kxc6 Rf4 $1 6. gxf4+ Ke6 $1 7. f8=B (7. f8=Q $2) (7. f8=N+ $2 Kf5 8. Nd7 Kxf4 9. Nc5 Kf3 10. Nd3 e5) (7. Kc5 $2 Kxf7 8. Kd5 Kf6 $1 9. Ke4 $1 Kg6 $1 10. Ke5 Kh5 $1 11. Kf5 Kh4 $1) 1-0

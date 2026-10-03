@@ -1,0 +1,12 @@
+[Event "8/13.p Ukrain ty"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Leonteva, Nadazdha"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/8/4pp2/4p2K/4p2P/4P1P1/8/8 w - - 0 1"]
+
+1. Kg6 $1 f5 2. h5 Kf8 3. h6 Kg8 4. h7+ Kh8 5. Kh6 f4 6. g4 fxe3 7. g5 e2 8. g6 e1=Q 9. g7# 1-0

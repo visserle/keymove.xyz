@@ -1,0 +1,111 @@
+[Event "1.hm Shakhmaty v SSSR#06"]
+[Source "Shakhmaty v SSSR/2 EG#05264."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Silaev, Leonid"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2B3b1/8/8/1p6/6pP/8/4k1K1 w - - 0 1"]
+
+1. Ba5 $1 (1. Bxg3+ $2 Kd1 2. Bd6 b3 3. Ba3 Kc2 4. h4 Bf8) Ke2 2. Bxb4 Kf3 3. Bc5 Bf6 4. h4 (4. Bb6 $2 g2 5. Bc5 Bh4 6. Bb6 Be1 7. Bc5 Kg3 8. h4 Kh3 9. h5 Bg3) Bxh4 5. Bd6 g2 6. Bg3 Bg5 7. Bf4 Bf6 8. Be5 Be7 9. Bd6 Bd8 10. Bc7 Bxc7 1/2-1/2
+
+[Event "2.p Shakhmaty v SSSR#37"]
+[Source "Shakhmaty v SSSR/10 EG#04968."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Silaev, Leonid"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1P6/8/8/8/3K4/2B3p1/7k w - - 0 1"]
+
+1. Kd2 $1 (1. Ke2 $2 g1=Q 2. Be4+ Kh2 3. b8=Q+ Qg3 4. Qh8+ Qh3 5. Qb2 Qg3 $1 (Qg4+ $2 6. Ke3+ $1 (6. Kf1+ Kh3 7. Bg2+ Kh4) Kh3 7. Qh8+ Qh4 8. Qc8+ Kg3 9. Qc7+ Kh3 10. Qd7+ Kg3 11. Qg7+ Qg4 12. Qf6 $1)) g1=Q 2. Be4+ Kh2 3. b8=Q+ Qg3 $1 (Kh3 4. Qh8+ Kg3 5. Qg7+ Kh2 6. Qh6+ Kg3 7. Qg5+ Kh2 8. Qh4#) 4. Qh8+ Qh3 5. Qe5+ $1 Qg3 (Kg1 6. Qc5+ Kf1 7. Qc1+ Kf2 8. Qe1#) 6. Qh5+ Qh3 7. Qe2+ $1 Kg3 (Kg1 8. Qe1+) 8. Qf3+ (8. Qe3+ $2 Kh4 9. Qh6+ Kg3 10. Qd6+ Kf2 11. Qf6+ Kg3 12. Ke3) Kh4 9. Qf6+ Kg3 10. Ke3 $1 (10. Ke1 $2 Qh4 11. Qf3+ Kh2+ 12. Ke2 Qg4 $1 13. Qxg4) Kh2+ 11. Bf3 $1 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/7"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Silaev, Leonid"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3P4/5K2/2nb4/8/3k2P1/8 w - - 0 1"]
+
+1. d7 $1 (1. Ke4 $2 Bb6 2. d7 Bd8 3. g4 Nd6+ 4. Kd5 Nf7 5. Ke6 Ng5+) (1. Ke6 $2 Bb6 2. d7 (2. Kd5 Na5 $1 3. g4 Bd8 4. Ke6 Kc3 5. Kd7 Bg5 6. Kc7 Bf4 7. g5 Nc4 8. g6 Nxd6 9. g7 Nf5+) Bd8 3. g4 Ke3 4. Kf7 (4. Kd5 Na5 $1) Ne5+ 5. Ke8 Nc6) Nd6+ (Ne3+ 2. Ke6 Bb6 3. g4 $1) (Bb6 2. g4 Bd8 (Nd6+ 3. Ke6 Nb7 (Ne4 4. Ke7 Bc5+ 5. Ke6 Ng5+ 6. Kf6) 4. g5 Nd8+ 5. Ke7 Nc6+ 6. Ke8) 3. g5 Nd6+ (Ne3+ 4. Kg6 Ng4 5. Kf7 $1 Bxg5 6. Ke8 Nf6+ 7. Kd8 $1) 4. Ke6 Ne4 5. g6) 2. Ke6 Nb7 3. g4 Ke3 (Be3 4. Kf5 $1 Nd8 5. g5 Kd3 (Bd4 6. Kg6 Ke3 7. Kh7) 6. Kf6 Ke4 7. g6) 4. g5 (4. Ke7 $2 Bb6) (4. Kf5 $2 Nd8 $1 5. g5 Kf3 6. Kg6 Kg4) Kf4 5. g6 Kg5 6. d8=Q+ $1 (6. Kf7 $2 Kh6 7. Ke8 Bb6) Nxd8+ 7. Kd7 Nb7 8. Kc6 Na5+ 9. Kb5 Nb7 10. Kc6 Nd8+ 11. Kd7 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/11"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Silaev, Leonid"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5B2/7k/3P4/8/1p3K2/5pp1/8/8 w - - 0 1"]
+
+1. Kxg3 $1 (1. Kxf3 $2 g2 $1 2. Kxg2 b3 3. d7 b2 4. d8=Q b1=Q 5. Qe7+ Kg6 6. Qg7+ Kh5) f2 $1 (b3 2. d7 b2 3. d8=Q b1=Q 4. Qe7+ Kg6 5. Qg7+ Kf5 6. Qh7+) 2. Kxf2 b3 3. d7 b2 4. d8=Q b1=Q 5. Qd7+ $1 Kg6 6. Qg4+ $1 Kf6 7. Qg7+ Ke6 8. Qe7+ Kd5 9. Qd6+ Kc4 10. Qc5+ Kb3 11. Qb4+ Kc2 12. Qc4+ Kb2 13. Bg7+ Ka3 14. Qa6+ Kb3 15. Qb5+ Kc2 16. Qc4+ 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/8"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Silaev, Leonid"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K2/8/5Pk1/8/8/1n3P2/8/8 w - - 0 1"]
+
+1. f7 $1 (1. Ke7 $2 Nd4 2. f7 Nf5+) Nc5 (Nd4 2. Ke8 $1 Ne6 3. Ke7 Kf5 4. f4 $1) 2. Ke7 $1 (2. Ke8 $2 Nd7 $1 3. Ke7 Kg7 4. f4 Kg6 5. f5+ Kg7 6. f6+ Kg6) Nd7 $1 3. f4 Kg7 4. f5 $1 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/8"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Silaev, Leonid"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3N4/8/7p/3p3k/p6P/7K/8 w - - 0 1"]
+
+1. Ne5 $1 (1. Nc5 $2 a2 2. Nb3 d3 3. Kg2 a1=Q $1 4. Nxa1 d2) Kg5 2. Nf3+ Kf4 3. Nxd4 a2 (h4 4. Ne2+ $1) (Ke4 4. Nb5) (Ke5 4. Nc6+) 4. Nb3 Kf3 (Ke5 5. Kg3 Kd5 6. Kf3 Kc4 7. Na1 Kc3 8. Ke3 Kb2 9. Kd2) 5. Na1 $1 h4 6. Nb3 (6. Nc2 $2 Ke2) Kf2 7. Na1 Ke3 8. Kg2 $1 (8. Nb3 $2 Kf3 9. Na1 Kf2 $1) Ke2 $1 9. Kg1 $1 Kf3 10. Kf1 $1 (10. Kh2 $2 Kf2 $1) Kg3 11. Ke2 $1 Kxh3 12. Kf3 1/2-1/2
+
+[Event "Bulletin Central Chess Club USSR"]
+[Source "also Shakhmaty v SSSR/2 1988."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Silaev, Leonid"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6N1/8/8/5K2/6R1/7p/7k w - - 0 1"]
+
+1. Rc3 $1 Kg2 2. Rc2+ Kh3 $1 (Kg1 3. Nf5 h1=Q 4. Kg3) 3. Rc1 Kg2 4. Nf5 h1=Q 5. Ne3+ Kh2 6. Ng4+ Kg2 7. Rc2+ Kf1 (Kg1 8. Kg3) 8. Nh2+ $1 (8. Ne3+ $2 Kg1 9. Kg3 Qh2+ $1 10. Rxh2) Kg1 9. Kg3 (9. Nf3+ $2 Kf1 10. Kg3 $2 Qg2+ $1 11. Rxg2) 1-0
+
+[Event "Shakhmaty v SSSR (c)"]
+[Source "Shakhmaty v SSSR/2 (c): Garcia=M Estudios Artisticos de Ajedrez - X-29 2012."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Silaev, Leonid"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/8/5pK1/2p4P/4B1P1/1b6/8/8 w - - 0 1"]
+
+1. Kxf6 $1 Bd1 $1 (c4 2. g5 c3 3. g6 c2 4. g7+ Kg8 5. h6 c1=Q 6. h7#) 2. g5 $1 Bxh5 3. Bd5 $1 c4 $1 4. Bf7 $1 (4. Bxc4 $2 Bg6 $1 5. Kxg6) c3 $1 5. Bxh5 $1 c2 6. g6 c1=Q 7. g7+ Kh7 8. Bg6+ Kh6 9. g8=N# 1-0

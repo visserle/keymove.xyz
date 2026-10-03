@@ -1,0 +1,41 @@
+[Event "Bulletin Ouvrier des Échecs#021"]
+[Source "Bulletin Ouvrier des Échecs/12"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Gill, H"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1R6/5k2/3p4/5B1p/4p2p/4p2P/1N4KR w - - 0 1"]
+
+1. Be5+ $1 Kxe5 2. Re7+ Kd4 (Kf5 3. Rf7+ Ke6 4. Rf1) 3. Rxe3 Kxe3 4. Nd2 e1=Q+ (d4 5. Nf1+ Kf3 (Kd3 6. Kf2) 6. Nd2+) 5. Nf1+ Ke4 1/2-1/2
+
+[Event "Bulletin Ouvrier des Échecs#023"]
+[Source "Bulletin Ouvrier des Échecs/1"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Gill, H"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B7/3p4/5K2/4pN1k/1p2P3/pp1P4/P5P1/8 w - - 0 1"]
+
+1. Bd5 $1 b2 2. Bf7+ Kg4 3. Bb3 b1=Q 4. Bd1+ Qxd1 5. Ne3+ Kg3 6. Nxd1 b3 7. Nc3 1-0
+
+[Event ".c Thèmes 64#2704"]
+[Source "Thèmes 64/1-3 EG#02786."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Gill, H"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r1B5/8/8/7p/4k3/3pp2p/1N2P2P/6KR w - - 0 1"]
+
+1. Bb7+ $1 (1. exd3+ $2 Kd4 2. Bxh3 Ra1+ 3. Bf1 (3. Kg2 Rxh1 4. Kf3 Rxh2) e2 4. Kf2 e1=Q+) (1. Bxh3 $2 dxe2 2. Kg2 Rg8+) Kd4 2. Bxa8 dxe2 3. Nd3 Kxd3 4. Bg2 $1 e1=Q+ (hxg2 {<main>} 5. Kxg2 Kd2 6. Kf3) (e1=R+ {<main>} 5. Bf1+ e2 6. Kf2) 5. Bf1+ Kc3 1/2-1/2

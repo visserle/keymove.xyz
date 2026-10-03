@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Goshman, Gheorghe"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "4N3/7P/7K/p7/Pk6/2r5/2P5/8 w - - 0 1"]
+
+1. Nf6 (1. h8=Q $2 Rh3+ 2. Kg7 $10) (1. Kg7 $2 Rh3 2. h8=Q $10) (1. Nd6 $2 Rxc2 2. h8=Q $10) (1. Nc7 $2 Kxa4 2. h8=Q $10) (1. Ng7 $2 Rc6+ 2. Kh5 $10) (1. Kg5 Rh3 2. Nf6) (1. Kg6 Rg3+ 2. Kf7) Rc8 2. c3+ (2. Ng8 $2 Rxc2 $1 3. Kg6 Rg2+ 4. Kf7 Rh2 $10) (2. Nd5+ $6 Ka3 3. Kg7 $14 $16) (2. c4 $2 Rh8 3. Kg7 $10) (2. Kg7 $2 Kxa4 3. c3) (2. Nd7 $2 Rxc2 3. h8=Q) (2. Kg6 $2 Rh8 3. Nd5+) (2. Kg5 $2 Rh8 3. Kh6) (2. Ne4 $2 Kxa4 3. c3) Kxa4 $2 (Kxc3 3. Ng8 Rc4 4. Kg5 Rc5+ 5. Kg4 Rc4+ 6. Kg3 $18) (Ka3 $5 3. Ng8 $18) 3. Ng8 (3. c4 $2 Rb8 4. c5 $10) (3. Nd5 $2 Rb8 4. c4 $10) (3. Nd7 $2 Rd8 4. c4 $10) (3. Kg7 $2 Rb8 4. h8=Q $10) (3. Ne4 $2 Kb3 4. c4) (3. Kg5 $2 Kb3 4. c4) (3. Kg6 $2 Rh8 4. c4) Rxc3 (Rc6+ 4. Kg5 Rc5+ 5. Kg6 Rc6+ 6. Kf7 Rc7+ 7. Ne7 $1 $18 (7. Kg6 $2 Rxh7 8. Kxh7) (7. Kf8 Rxh7)) 4. Kg5 (4. Kg7 $4 Rc7+ 5. Kg6 Rxh7 6. Kxh7 Kb3 $19) (4. Kg6 $4 Rg3+ 5. Kf6 Rh3 6. Kg7 Rxh7+ 7. Kxh7 Kb3 $19) (4. Nf6 $2 Rc8 5. Ng8 $10) (4. h8=Q $4 Rh3+ 5. Kg7 Rxh8 6. Kxh8 Kb3 $19) (4. Kh5 $4 Rh3+ 5. Kg6 Rxh7 6. Kxh7 Kb3 $19) (4. Ne7 $2 Rb3 5. h8=Q) (4. h8=B $4 Rh3+ 5. Kg7 Rxh8 6. Kxh8 Kb3 $19) Rg3+ 5. Kh4 (5. Kf6 $4 Rh3 6. Kg7 Rxh7+ 7. Kxh7 Kb3 $19) (5. Kh6 $4 Rh3+ 6. Kg6 Rxh7 7. Kxh7 Kb3 $19) (5. Kf4 $4 Rh3 $19 6. Nf6 Kb3) (5. Kf5 $4 Rf3+ 6. Kg4) (5. Kh5 $4 Rh3+ 6. Kg6 Rxh7 7. Kxh7 Kb3 $19) Rg1 6. Nh6 (6. Kh5 $4 Rh1+ 7. Kg6 Rxh7 8. Kxh7 Kb3 $19) (6. Nf6 $4 Rh1+ 7. Kg4 Rxh7 8. Nxh7 Kb3 $19) (6. h8=Q $4 Rh1+ 7. Kg4 Rxh8 $19) (6. Kh3 $4 Rh1+ 7. Kg3 Rxh7) (6. Ne7 Rh1+ 7. Kg4 Rxh7) Rh1+ 7. Kg5 (7. Kg4 Rxh6) Rg1+ 8. Kf4 Rf1+ 9. Kg3 $18 1-0

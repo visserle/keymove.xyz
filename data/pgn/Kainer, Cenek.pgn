@@ -1,0 +1,26 @@
+[Event "Ceskoslovenska Republika"]
+[Source "Ceskoslovenska Republika/12"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Kainer, Cenek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/Pp1np3/8/8/2p2K2/8/6kp/8 w - - 0 1"]
+
+1. a8=Q $1 h1=Q 2. Qa2+ Kh3 3. Qa3+ Kg2 4. Qb2+ Kh3 5. Qc3+ Kg2 6. Qd2+ Kh3 7. Qe3+ Kg2 8. Qe2+ Kh3 9. Qg4+ Kh2 10. Qg3# 1-0
+
+[Event "Ceskoslovenska Republika"]
+[Date "1930.11.02"]
+[Round "?"]
+[Composer "Kainer, Cenek"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5n2/8/1K6/8/1p6/k3B3 w - - 0 1"]
+
+1. Ka3 $1 Nd5 (Ne4 2. Bb4 $1 Kb1 3. Kb3 Kc1 4. Ba3) 2. Ba5 $1 b1=Q (Kb1 3. Kb3 Kc1 4. Bd2+) 3. Bc3+ Nxc3 1/2-1/2

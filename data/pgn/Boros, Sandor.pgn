@@ -1,0 +1,69 @@
+[Event "Magyar Sakkvilág#096"]
+[Source "Magyar Sakkvilág/11"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Boros, Sandor"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/R4B2/3p1k1p/8/3P1Kp1/1P6/1p6/8 w - - 0 1"]
+
+1. Bg8 $1 b1=Q 2. Rf7+ Ke6 $1 (Kg6 3. Bh7+) 3. d5+ $1 Kxd5 4. Rc7+ Kd4 5. Rc4+ Kd3 6. Bh7+ 1-0
+
+[Event "Magyar Sakkvilág#149"]
+[Source "Magyar Sakkvilág/8"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Boros, Sandor"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/3p4/3P2Pp/Kp6/1N6/2p1B2P/2Pp4/8 w - - 0 1"]
+
+1. Nd5 $1 d1=Q 2. Ne7+ Kh8 (Kg7 3. Bd4+ $1 Qxd4 4. Nf5+) 3. Bxh6 Qa1+ (Qxc2 {<main>} 4. g7+ Kh7 5. g8=Q+ Kxh6 6. h4 Qa4+ 7. Kb6 Qd4+ 8. Kb7 Qe4+ 9. Kb8 c2 10. Qh8+ Qh7 11. Qf6+) 4. Kb6 Qg1+ 5. Kb7 Qg2+ 6. Kb8 Qg3 7. g7+ 1-0
+
+[Event "Magyar Sakkvilág#290"]
+[Source "Magyar Sakkvilág/3"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Boros, Sandor"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2rk4/1p4P1/8/p7/4N3/5K2/8 w - - 0 1"]
+
+1. g7 $1 Rc8 2. Nd5 Ke6 3. Nxb6 a3 $1 (Rg8 4. Nxa4 Rxg7 5. Nc3) 4. Nxc8 Kf7 5. Ne7 $1 (5. Nd6+ $2 Kg8) Kxg7 6. Nf5+ Kf6 7. Ne3 (7. Nd4 {<or>}) a2 8. Nc2 1/2-1/2
+
+[Event "Magyar Sakkvilág#384"]
+[Source "Magyar Sakkvilág/3"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Boros, Sandor"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4q3/p7/1P2p3/1p6/pPkP2N1/P6P/KP6/1B6 w - - 0 1"]
+
+1. bxa7 $1 Qa8 2. Be4 $1 Qxe4 3. d5 $1 Qxd5 4. Ne3+ Kd4+ 5. Nxd5 1-0
+
+[Event ".hm Magyar Sakkvilág#401"]
+[Source "Magyar Sakkvilág/10"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Boros, Sandor"]
+[White "Boros, S"]
+[Black " Vecsey, Z."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2QP4/1P5K/8/5rk1/6P1/3b1r2 w - - 0 1"]
+
+1. gxf3 $1 Bxf3+ 2. Kg5 $1 Bxc6 3. bxc6 Rc1 4. d7 $1 (4. c7 $2 Rc5+ 5. Kf6 Kf4 6. Ke6 Ke4 7. d7 Rc6+) Rc5+ 5. Kf6 Rxc6+ 6. Ke5 Rc5+ 7. Ke4 Rc4+ 8. Kd3 (8. Ke3 {<or>}) Rc1 9. Kd2 1-0

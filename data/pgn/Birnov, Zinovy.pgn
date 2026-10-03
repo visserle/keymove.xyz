@@ -1,0 +1,63 @@
+[Event "64#308"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Birnov, Zinovy"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Draws by perpetual check or by repetition"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "6b1/2K5/8/P1p2k2/2P4p/2P5/4P3/8 w - - 0 1"]
+
+1. a6 $1 (1. e4+ $2 Ke5 $19) (1. Kc6 $2 h3 2. e4+ Kg6) (1. Kb6 $2 Bxc4 2. e4+ Kxe4 3. Kxc5 Kd3) Bxc4 2. e4+ $1 (2. a7 $2 Bd5 $19) (2. Kd6 $2 Bxa6 3. e4+ Kxe4 4. Kxc5 Kd3 $19) (2. Kb6 $2 Bxa6 3. Kxa6 h3) (2. Kc8 $2 Bxa6+ 3. Kc7 Bxe2) Kxe4 3. a7 (3. Kd6 $2 Bxa6 4. Kxc5 h3 $19) (3. Kc6 $2 Bxa6 4. Kxc5 Be2) (3. Kb6 $2 Bxa6 4. Kxc5 Be2) (3. Kb7 Bxa6+ 4. Kb6 c4) (3. Kb8 Bxa6) Bd5 4. c4 $1 (4. Kd6 $2 c4 $19) (4. Kb8 $2 c4) (4. Kb6 $2 c4) Ba8 5. Kb8 (5. Kc8 $2 Ke5 $19 6. Kb8 Be4) (5. Kd6 $2 h3 6. Kxc5 h2) (5. Kb6 $2 h3 6. Kxc5 h2) (5. Kd8 h3) Bc6 6. Kc7 $10 (6. Kc8 $2 Kd4) 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Birnov, Zinovy"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/P1k5/3p4/8/2K3Rb/8/2p5/8 w - - 0 1"]
+
+1. Rg7+ (1. Rg1 $2 Kb7 2. a8=B+ $10) (1. a8=Q $2 c1=Q+ 2. Kb5 $10) Kb6 2. a8=N+ (2. a8=Q $2 c1=Q+ 3. Kd3 $10) (2. Rg1 $2 d5+ 3. Kb4 Kxa7 4. Rf1) Ka6 3. Nc7+ (3. Rg1 $2 d5+ 4. Kb4 $10 Be7+ 5. Ka4) (3. Nb6 $4 c1=Q+ 4. Kd3 Kxb6 $19 5. Rb7+ Kxb7) (3. Kb4 $4 c1=Q 4. Nc7+ Kb7 $19 5. Nd5+ Kc8) (3. Rg6 c1=Q+ 4. Kd5 Kb5) (3. Kd5 c1=Q 4. Nc7+ Kb7) (3. Rc7 c1=Q+ 4. Kd4 Qe1) (3. Rg4 c1=Q+ 4. Kd5 Qc5+) Ka5 (Kb7 4. Ne6+ (4. Nd5+ $2 Kb8 5. Rg1 $10) (4. Nb5+ $2 Kb6 5. Rg1 $10) (4. Rg1 $2 d5+ 5. Nxd5) (4. Kb4 c1=Q 5. Nd5+ Kc8) Kb6 5. Rg1 $1 $18 (5. Kc3 c1=Q+ 6. Kd3 d5)) 4. Rg1 (4. Rg3 Bxg3) (4. Rg8 c1=Q+ 5. Kd4 Qxc7 6. Ra8+ Kb4) Bg5 5. Rxg5+ (5. Ra1+ $2 Kb6 6. Ne8 $10) (5. Kb3 $2 c1=Q 6. Rxc1 Bxc1 7. Ne8 $10) (5. Rf1 d5+ 6. Nxd5 c1=Q+ 7. Rxc1 Bxc1 8. Nc7) (5. Rb1 cxb1=Q) d5+ $1 6. Rxd5+ (6. Nxd5 $4 c1=Q+ 7. Nc3+ Qxg5 $19) (6. Kxd5 $2 c1=Q 7. Ne6) (6. Kb3 $2 c1=Q 7. Rxd5+ Kb6 8. Nb5) (6. Kd4 c1=Q 7. Ne6 Qb1 8. Rxd5+ Kb4) Ka4 (Kb6 7. Rb5+ Kxc7 8. Rc5+ $18) 7. Nb5 (7. Na8 c1=Q+ 8. Kd3 Kb4) c1=Q+ 8. Nc3+ (8. Kd4 $4 Qa1+ 9. Nc3+ $10) (8. Kd3 $4 Qb1+ 9. Kc3) Qxc3+ 9. Kxc3 Ka3 10. Ra5# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Birnov, Zinovy"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/b4K1k/P7/4N3/8/2n4N/3p4/8 w - - 0 1"]
+
+1. Ng5+ (1. Ng4 $2 d1=Q 2. Nf6+ Kh8 $19) (1. Nf3 $2 d1=Q 2. Nhg5+ Kh6 $19) (1. Nc6 $2 d1=Q 2. Nxa7 Qd7+) (1. Nd3 $2 d1=Q 2. Ng5+ Kh6) (1. Ng6 $2 d1=Q 2. Ng5+ Kh6) (1. Nd7 $2 d1=Q 2. Nf6+ Kh6) (1. Kf6 $2 d1=Q 2. Ng5+ Kh6) Kh6 2. Ngf3 (2. Kf6 $2 d1=Q 3. Ngf3 Qd6+ $19) (2. Ne4 $2 Nxe4 $19 3. Ng4+ Kh5) (2. Nc6 $2 d1=Q 3. Nxa7 Kxg5) (2. Nh7 Kxh7) d1=Q 3. Ng4+ (3. Ke7 $2 Bc5+ 4. Kf7 Qd5+) (3. Kf6 $2 Qd6+ 4. Kf5 Qxa6 5. Ng4+ Kg7) (3. Ke6 $2 Qe2) (3. Nd3 $2 Qxf3+ 4. Nf4 Qxf4+ 5. Ke7 Nb5) (3. Nc6 $2 Qxf3+ 4. Ke6 Qd5+ 5. Ke7 Bc5+) (3. Nd4 Bxd4) (3. Ng5 Kxg5) (3. Nh4 Qd5+ 4. Kf6 Qd8+) Kh7 (Kh5 4. Nf6+ (4. Nf2 $2 Qxf3+ 5. Kg7 Qxf2 $19) (4. Ne3 $2 Qxf3+ 5. Ke6 Bxe3 $19 6. Kd6 Qd5+) (4. Nfe5 $2 Qf1+ 5. Kg7 Nd5) (4. Nge5 $2 Qd6 $19) (4. Ng5 $2 Qd7+ 5. Kf8 Bc5+) (4. Nd4 Qxd4 5. Nf6+ Kg5) Kh6 5. Ng4+ $10 $15 (5. Ng8+ Kh7 6. Nf6+ Kh6 $10 $15) (5. Ne5 $2 Qb3+ 6. Ke7 Bc5+) (5. Ne4 $2 Qd5+ 6. Kf6 Nxe4+ 7. Ke7 Bc5+) (5. Nd4 $2 Bxd4 6. Ng8+ Kg5) (5. Nh4 $2 Qb3+ 6. Ke7 Qb4+)) 4. Nf6+ (4. Ng5+ $2 Kh8 $19) (4. Nfe5 $2 Qf1+ 5. Nf6+ Kh6 6. Ned7 Qc4+) (4. Nf2 Qxf3+ 5. Ke6 Bxf2) (4. Ne3 Qxf3+ 5. Ke6 Bxe3) Kh8 5. Ne5 (5. Ng5 $2 Qd3 $19) (5. Nh4 $2 Qb3+ 6. Ke7 Bc5+ $19) (5. Nh2 $2 Qb3+ 6. Kg6 Qe6) (5. Ng4 Qxf3+ 6. Nf6 Bd4) (5. Kg6 Qxf3) (5. Ng8 Qd5+ 6. Ke7 Ne4) (5. Nh5 Qxf3+ 6. Nf6 Bd4) Qb3+ 6. Kg6 (6. Kf8 $2 Bc5+ 7. Ke8 Qe6+) (6. Ke7 $2 Bc5+ 7. Kd7 Bd4) (6. Ke8 $2 Qe6+ 7. Kf8 Bc5#) (6. Nc4 $2 Qxc4+ 7. Ke7 Qxa6) Qc2+ 7. Kf7 (7. Kh6 $2 Be3+ 8. Kh5 Qf5+) (7. Kh5 $2 Qf5+ 8. Kh6 Be3#) (7. Kg5 $2 Ne4+ 8. Kf5 Nxf6+ 9. Kxf6 Kg8) Qa2+ 8. Kg6 (8. Kf8 $2 Bc5+ 9. Ke8 Qe6+) (8. Nc4 $2 Qxc4+ 9. Ke7 Nb5) (8. Ke7 $2 Bc5+ 9. Kd7 Qxa6 10. Nf7+ Kg7) (8. Ke8 Qe6+ 9. Kd8 Bb6#) Qg2+ 9. Kf7 (9. Kf5 $2 Bd4 10. Ng6+ Kg7 $19) (9. Kh6 $2 Be3+ 10. Kh5 Qg5#) (9. Kh5 Qh2+ 10. Kg4 Qxe5) Qg7+ 10. Ke6 (10. Ke8 $2 Qxf6 11. Ng6+ Qxg6+ 12. Kd8 Nb5) Qg2 (Qc7 11. Ng6+ Kg7 12. Ne8+ $10) (Qg3 11. Nf7+ Kg7 12. Nh5+ $10) 11. Kf7 (11. Nf7+ $2 Kg7 12. Ne8+ Kf8 $19) (11. Nfg4 $2 Qf1 12. Nf7+ Kg7) (11. Ke7 $2 Qe2 $19) (11. Kf5 $2 Bd4 12. Ng6+ Kg7) (11. Kd6 Nb5+ 12. Ke7 Bc5+) Qg7+ 12. Ke6 $10 $15 (12. Ke8 $2 Qxf6 13. Ng6+ Qxg6+ 14. Kd8 Nb5) 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Birnov, Zinovy"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "k2N4/8/n7/8/1R6/p4K2/1Pb5/8 w - - 0 1"]
+
+1. Rb6 (1. bxa3 $2 Nxb4 2. a4 $10 Be4+ 3. Ke3) (1. Rb8+ $2 Kxb8 2. bxa3 $10 Bd1+ 3. Ke3) (1. Rb5 $2 Ba4 2. Ra5 $14 $10) (1. Ra4 $2 Bxa4 2. bxa3 $10 Bc6+ 3. Nxc6) (1. Rb3 $2 Bxb3 2. bxa3) (1. Nf7 a2 2. Rd4 a1=Q) Ka7 $4 (Bd1+ $5 2. Kf2 $16 $18) 2. Rb7+ (2. Rc6 $4 Bd1+ 3. Ke3 axb2 $19 4. Rc7+ Nxc7) (2. Rxa6+ $2 Kxa6 3. bxa3 Bd1+ 4. Ke3 $10) (2. Rb5 $2 Ba4 3. Nc6+) (2. Rb8 $4 Kxb8 3. bxa3 $10 Bd1+ 4. Ke3) (2. Nc6+ $4 Kxb6 3. bxa3 Kxc6) (2. bxa3 $2 Kxb6 3. Nf7) Ka8 3. bxa3 (3. Rb6 Bd1+ 4. Ke3 $16 $18) (3. Ra7+ $2 Kxa7 4. bxa3 Nb8 5. Ke3) (3. Rb8+ $2 Kxb8 4. bxa3 Bd1+ 5. Ke3) (3. Rb4 a2 4. Rc4 Bd1+) (3. Nc6 Kxb7 4. Na5+) Be4+ 4. Kxe4 (4. Ke3 $2 Bxb7 5. a4) (4. Kf4 $2 Bxb7 5. a4) (4. Ke2 Bxb7 5. Nxb7 Kxb7 6. Kf3) (4. Kg3 Bxb7 5. Nxb7) (4. Kf2 Bxb7 5. Nxb7 Kxb7 6. Kf3) Nc5+ 5. Kd5 (5. Kd4 $2 Nxb7 6. a4 $10 Nxd8 7. a5) (5. Ke3 Nxb7 6. a4) (5. Kf5 Nxb7 6. a4) Nxb7 6. Nc6 $18 (6. Nxb7 $2 Kxb7 7. a4 $10) (6. Kc6 $2 Nxd8+ 7. Kb6 $10) (6. Ne6 $2 Na5 7. a4) (6. a4 $2 Nxd8 7. a5) (6. Kc4 $2 Nxd8 7. a4) 1-0

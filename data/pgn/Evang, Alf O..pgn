@@ -1,0 +1,12 @@
+[Event "Arbeidermagasinet"]
+[Date "1938.12.24"]
+[Round "?"]
+[Composer "Evang, Alf O."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/2p5/7p/1PK4P/8/8/8/8 w - - 0 1"]
+
+1. Kd4 $1 Kc8 (Ke8 2. Ke4 Kf8 3. Kd5 $1 Ke7 (Ke8 4. Ke6) 4. Ke5) 2. Ke5 Kb7 3. Kf6 Kb6 4. Kg6 Kxb5 5. Kxh6 c5 6. Kg5 $1 c4 7. Kf4 Kb4 8. h6 c3 9. Ke3 Kb3 10. h7 c2 11. Kd2 Kb2 12. h8=Q+ 1-0

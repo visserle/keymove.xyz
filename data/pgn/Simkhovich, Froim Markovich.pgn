@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Simkhovich, Froim Markovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "7K/8/3q4/1B1b4/4k3/2Q1Pp2/6p1/8 w - - 0 1"]
+
+1. Bd3+ (1. Qd4+ $2 Kf5 2. Bd3+ Kg5 3. Qg7+ Kh5 $19) (1. Qc4+ $2 Bxc4 2. Bxc4 g1=Q $19) (1. Qd3+ $2 Ke5 2. Qd4+ Ke6 $19) (1. Qc2+ $2 Ke5 2. Qb2+ Ke6) (1. Qg7 Qh2+ 2. Qh7+ Qxh7+ 3. Kxh7 g1=Q) (1. Qc8 Qh6#) (1. Qe5+ Kxe5) (1. Qe1 Qh6#) Kxe3 2. Bh7+ (2. Bf5+ $2 Kf4 3. Qd2+ Kxf5 4. Qd3+ Kf6) (2. Qc1+ $2 Kxd3 3. Qb1+ Kd4) (2. Qg7 $2 Qd8+ 3. Kh7 Qh4+) (2. Qc7 Qh6+ 3. Qh7 Qf8+) (2. Qf6 Qxf6+ 3. Kh7 g1=Q) (2. Qe5+ Qxe5+ 3. Kh7 Kxd3) (2. Qd2+ Kxd2) (2. Kg7 g1=Q+ 3. Bg6+ Kf4) Kf4 3. Qd4+ (3. Qd2+ $2 Kg4 4. Qd4+ Qf4 $19) (3. Qc1+ $2 Kg4 4. Bf5+ Kxf5 5. Qc2+ Be4) (3. Qg7 $2 Qb8+ 4. Bg8 Qxg8+ 5. Qxg8 Bxg8 6. Kxg8 g1=Q+) (3. Kg7 $2 Qe7+ 4. Kh8 Qf8+) (3. Bg8 $2 Qh6+ 4. Bh7 Qf8+) (3. Qc2 Qf6#) (3. Qb4+ Qxb4) (3. Qc8 Qf6#) (3. Qe5+ Qxe5#) Kg3 4. Qg7+ (4. Qa1 $2 Qf8+ 5. Bg8 Qxg8#) (4. Qg4+ $2 Kxg4 5. Bf5+ Kg5) (4. Be4 $2 Qh6+ 5. Bh7 Qf8+ $19) (4. Bf5 $2 Qh6+ 5. Bh7 Qf8+ $19) (4. Bg8 $2 Qh6+ 5. Bh7 Qf8+ $19) (4. Qa7 Qf8+ 5. Bg8 Qxg8#) (4. Qd1 Qf6#) (4. Bg6 Qf8+ 5. Kh7 Bg8+) (4. Qxd5 Qxd5) (4. Qh4+ Kxh4) Kh2 5. Qh6+ (5. Bg8 $2 Bxg8 6. Kxg8 g1=Q 7. Qxg1+ Kxg1) (5. Qg5 $2 Qf8+ 6. Bg8 g1=Q 7. Qh5+ Kg2) (5. Bd3 $2 g1=Q 6. Qh7+ Kg2) (5. Qe7 Qxe7) (5. Qf7 Bxf7) (5. Qg6 Qxg6 6. Bxg6 f2) (5. Be4 Qd8+ 6. Kh7 Bxe4+ 7. Qg6 g1=Q) (5. Qxg2+ fxg2) Qxh6 1/2-1/2

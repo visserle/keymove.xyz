@@ -1,0 +1,55 @@
+[Event "L'Italia Scacchistica#169"]
+[Source "L'Italia Scacchistica/1"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Travasoni, Marco"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/8/1PK5/2P5/1P4pP/2r3P1/1pp5/3B4 w - - 0 1"]
+
+1. Kc7 $1 Rxc5+ 2. bxc5 b1=Q 3. Bxc2 Qb4 4. Ba4 Qb5 5. h5 1-0
+
+[Event "L'Italia Scacchistica#223"]
+[Source "L'Italia Scacchistica/5"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Travasoni, Marco"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2p5/1R6/pN1K4/Bk6/p7/8 w - - 0 1"]
+
+1. Nc2+ $1 cxb5 2. Na1+ Kxa3 3. Kc3 b4+ 4. Kc2 b3+ 5. Kc3 b2 6. Nc2# 1-0
+
+[Event "source unknown (pl)"]
+[Source "= Pogosyants=E c8f1 1962."]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Travasoni, Marco"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1B3K2/6P1/8/8/8/1p6/b7/N1kr4 w - - 0 1"]
+
+1. Bf4+ $1 Kb1 (Kb2 2. g8=Q Rd8+ 3. Kg7 Rxg8+ 4. Kxg8 Kxa1 5. Be5+ b2+ 6. Kf8) 2. g8=Q Rd8+ 3. Kg7 Rxg8+ 4. Kxg8 b2+ (Kxa1 5. Be5+ b2+ 6. Kf8) 5. Kf8 bxa1=Q 6. Be5 Qxe5 1/2-1/2
+
+[Event "3.c L'Italia Scacchistica#408"]
+[Source "L'Italia Scacchistica/3 EG#06258."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Travasoni, Marco"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5P2/8/p7/P7/1K3p2/4p2n/k2N4 w - - 0 1"]
+
+1. Ne3 $1 e1=Q 2. Nc2+ Kb1 3. Nxe1 f2 4. Nf3 $1 (4. f8=Q $2 f1=Q) Nxf3 5. f8=Q Nd2+ 6. Kc3 f1=Q 7. Qb8+ Kc1 8. Qb2+ Kd1 9. Qxd2# 1-0

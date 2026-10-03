@@ -1,0 +1,12 @@
+[Event "Advances in Computer Chess"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Clarke, M"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/8/p3p3/Pp2P3/1P2P3/8/8/7K w - - 0 1"]
+
+1. Kh2 $1 Kg8 2. Kg2 $1 Kf7 3. Kh3 $1 Kg7 4. Kg3 $1 Kf7 5. Kh4 Kg8 6. Kg4 Kg7 7. Kg5 Kf7 8. Kh6 1-0

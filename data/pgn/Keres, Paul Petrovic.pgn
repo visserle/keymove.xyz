@@ -1,0 +1,118 @@
+[Event "tn17"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Keres, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5B2/6p1/4pNPk/5p2/p3PR1K/P1p2p2/5P1p/8 w - - 0 1"]
+[PlyCount "14"]
+
+1. Kg3 h1=Q (e5 $143 2. exf5 exf4+ 3. Kg4 h1=Q 4. Ng8#) (c2 $144 2. Kxh2 c1=Q 3. Rxf3 Qd1 4. Rg3 $11) 2. Rh4+ Qxh4+ 3. Kxh4 c2 (Kxg6 $143 4. Nd7 c2 5. Ne5+ Kf6 6. Nd3 $18) 4. exf5 exf5 5. Ng4+ $1 (5. Bc5 $143 c1=Q 6. Be3+ Qxe3 7. fxe3 f2 $19) fxg4 6. Bd6 $1 c1=Q 7. Bf4+ Qxf4 $11 1/2-1/2
+
+[Event "tv53"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Keres, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1B1q4/8/r6b/1p3K1p/1P2B3/p1Q5/k3N3/n7 w - - 0 1"]
+[PlyCount "12"]
+
+1. Qxa1+ Kxa1 2. Be5+ Ka2 3. Nc1+ $1 Bxc1 4. Bd5+ $1 Kb1 5. Be4+ Ka2 6. Bd5+ Qxd5 $11 1/2-1/2
+
+[Event ".hm tm05#412"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Keres, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7b/8/8/7p/1pp5/7Q/k1K1N3 w - - 0 1"]
+[PlyCount "7"]
+
+1. Nc2+ $3 Ka2 (Bxc2 $144 2. Qb8 Bb1 3. Qxb3 Ba2 4. Qxc3#) 2. Nb4+ Ka1 (Ka3 $144 3. Nd3 $1 Bxd3 4. Qd6+ Ka2 5. Qd5 $3) 3. Qa2+ $3 bxa2 4. Nc6 $18 1-0
+
+[Event "tn17"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Keres, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5B2/3n4/1bbp4/p1PP4/2K5/kB6 w - - 0 1"]
+[PlyCount "11"]
+
+1. Bxd4 (1. cxb4 $143 Nxf6 2. Kc1 a2 3. Bxa2 Bxa2 $19) (1. dxc4 $143 Nxf6 2. cxb4 (2. cxd4 $144 a2 3. Bxa2 Kxa2 $19) d3+ 3. Kc1 d2+ 4. Kc2 d1=Q+ $19) Bxd3+ (Bxc3 $144 2. dxc4 $11) 2. Kxd3 Bxc3 3. Bxc3+ Nxc3 4. Kc2 $1 Nxb1 5. Kb3 a2 6. Kc2 $11 1/2-1/2
+
+[Event "td19"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Keres, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2N5/8/P4n2/3p2k1/p3p1P1/7K/4B3 w - - 0 1"]
+[PlyCount "16"]
+
+1. a6 $1 a2 2. a7 a1=Q 3. a8=Q Qxa8 (Qxe1 $144 4. Qe4+ Kg5 5. Qf4+ Kg6 6. Qg4+ Kf6 7. Ne8+ Ke7 8. Qxf5 Kxe8 $11) 4. Nxa8 d3 5. Nb6 $1 d2 6. Bxd2 exd2 7. Nc4 $1 (7. Nd5 $143 $2 Kf3 8. Nc3 Nxg3 $19) d1=Q 8. Ne3+ Nxe3 $11 1/2-1/2
+
+[Event "td19"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[Composer "Keres, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/7p/6pn/3nNPk1/8/3NP1P1/7P/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. fxg6 (1. e4 $143 Nf6+ 2. Ke7 Nxe4 3. fxg6 Nf5+ 4. Ke6 hxg6 $11) hxg6 (Nf6+ $144 2. Ke7 hxg6 3. Ke6 $18) 2. e4 Nf6+ (Nc3 $144 3. h4+ Kf6 (Kh5 $144 4. Nf4#) 4. Nd7+ Ke6 5. Nf4+ $18) 3. Ke7 Nxe4 (Nhg8+ $144 4. Kf7 Kh6 5. Nf4 Kh7 6. Nexg6 Nxe4 7. Nf8+ Kh6 8. Kxg8 $18) 4. h4+ Kf5 5. g4+ Nxg4 6. Nf7 g5 7. h5 Ne3 (Nef2 $144 8. Nd6#) 8. Nh6# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Keres, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "R7/8/8/7K/4p3/8/5r1k/8 w - - 0 1"]
+
+1. Kg4 (1. Re8 $2 Rf4 2. Kg5 Kg3 3. Re7 Kf3 4. Rxe4 Kxe4 $19) (1. Ra3 $2 Rf3 2. Ra2+ Kg3 $19) (1. Kh4 $2 e3 2. Ra1 Rf4+) e3 2. Ra3 (2. Rh8+ $2 Kg2 $19 3. Rh2+ Kxh2) (2. Re8 $2 e2 3. Rh8+ Kg2 $19) (2. Ra1 $2 Kg2 $19 3. Rg1+ Kxg1) (2. Rg8 $2 Rg2+ 3. Kf4 Rxg8 4. Kxe3 Rg4) (2. Rd8 $2 e2 3. Rh8+ Kg1) (2. Ra4 $2 Kg2) (2. Kh4 $2 e2) (2. Kh5 e2) (2. Ra6 Kg2) e2 3. Ra1 (3. Rh3+ $2 Kg2 4. Rg3+ Kf1 $19) (3. Re3 $2 Kg2 4. Rg3+ Kf1 $19) (3. Ra2 $2 e1=Q 4. Rxf2+ Qxf2 $19) (3. Rg3 $2 e1=Q 4. Rh3+ Kg2) (3. Rf3 $2 Rxf3 4. Kxf3 e1=Q 5. Kf4 Qe6) (3. Rb3 $2 e1=Q 4. Rh3+ Kg2) (3. Ra8 Rg2+ 4. Kf5 e1=Q) (3. Kh4 e1=Q 4. Rh3+ Kg1) (3. Rd3 e1=Q 4. Rh3+ Kg1) Kg2 (Rf1 4. Ra2 (4. Ra3 $2 e1=Q 5. Ra2+ Kh1) (4. Ra8 $2 e1=Q 5. Ra2+ Kh1) (4. Rd1 $2 exd1=Q+ 5. Kh4 Rf3) Rf2 5. Ra1 $1 $10 (5. Rd2 $2 e1=Q 6. Rxf2+ Qxf2 $19) (5. Ra3 $2 e1=Q 6. Rh3+ Kg2) (5. Ra8 $2 e1=Q 6. Rh8+ Kg2) (5. Rb2 e1=Q 6. Rxf2+ Qxf2) (5. Kh4 e1=Q 6. Rxf2+ Qxf2+ 7. Kg5 Qf7)) 4. Re1 (4. Rb1 $2 Rf6 $19 5. Rg1+ Kxg1) (4. Ra2 $2 e1=Q 5. Rxf2+ Qxf2) (4. Rc1 $2 Rf6 $19 5. Rg1+ Kxg1) (4. Kh4 $2 Rf1 5. Rxf1 exf1=Q) (4. Ra3 $2 e1=Q 5. Rg3+ Kf1) (4. Kg5 $2 Rf3) (4. Kh5 Rf1 5. Rxf1 exf1=Q) (4. Rh1 Kxh1) Kh2 5. Ra1 (5. Kh4 $2 Rf4+ 6. Kg5 Re4 7. Kf5 Re8 8. Kf4 Kg2 $19) Rf1 6. Ra2 Rf2 7. Ra1 $10 1/2-1/2
+
+[Event "Deutsche Schachzeitung"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Keres, Paul Petrovic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1b6/8/8/8/P2PPp2/3p4/3P3p/5K1k w - - 0 1"]
+
+1. a5 $1 (1. e5 $2 Bxe5 2. dxe5 f3 3. e6 f2 4. e7) (1. d5 $2 f3 2. a5 Ba7 3. d6 Bg1 4. d7 f2 5. d8=Q) f3 (Be5 2. a6 Bxd4 3. e5 f3 4. e6) 2. a6 $1 Ba7 3. e5 Bxd4 4. e6 Bg1 $1 5. a7 Bxa7 6. e7 1-0

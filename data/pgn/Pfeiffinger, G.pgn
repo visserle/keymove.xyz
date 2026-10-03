@@ -1,0 +1,13 @@
+[Event "Deutsche Schachzeitung"]
+[Source "Deutsche Schachzeitung/8"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Pfeiffinger, G"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p1q/5P2/7p/8/K3p1R1/1P2P1B1/k7 w - - 0 1"]
+
+1. Be4 $1 Qxe4 2. Rg1+ Qb1 3. Rxb1+ Kxb1 4. b4 h4 5. b5 h3 6. b6 h2 7. b7 h1=Q 8. b8=Q+ Kc2 9. Qb2+ Kd1 10. Qb1+ 1-0

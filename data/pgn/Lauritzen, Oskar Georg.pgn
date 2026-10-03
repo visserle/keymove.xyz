@@ -1,0 +1,27 @@
+[Event "Skakbladet#7323"]
+[Source "Skakbladet/3"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Lauritzen, Oskar Georg"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/1p6/1P5p/1P5P/4pp1K/7p/3p2PR/8 w - - 0 1"]
+
+1. gxh3 $1 d1=Q (d1=R {<main>} 2. Rg2 Rd8 3. Rg8 Rb8 4. Rg4 Rf8 5. Rg8 Rxg8) 2. Ra2+ Kb8 3. Ra8+ Kxa8 1/2-1/2
+
+[Event "7.p Scandinavian champ Stella Polaris ("]
+[Source "EG#00946."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Lauritzen, Oskar Georg"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5b2/5P2/5K2/5p2/5N2/8/8/5k2 w - - 0 1"]
+
+1. Ng6 $1 (1. Ne6 $2 Ba3 $1 2. Kxf5 Kf2 $1 3. Nf4 Bf8) Bh6 (Bb4 2. Ne7) 2. Ke7 Ke2 (Kg1 {<main>} 3. Ke8 $1 Bg7 (Kh2 4. Nh4 f4 5. Nf5 f3 6. Nxh6) 4. Nf4 Kf2 5. Ne6 Bh6 6. Nd4 f4 7. Nf5) (Ke1 3. Ke8 Kd2 4. Nh4 f4 5. Nf5 f3 6. Nxh6 f2 7. f8=Q) 3. Nh4 f4 4. Nf5 f3 5. Nxh6 f2 6. Nf5 Kf3 7. f8=Q 1-0

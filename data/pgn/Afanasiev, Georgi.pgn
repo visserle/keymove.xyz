@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Afanasiev, Georgi"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "1R6/8/8/3K3k/2n5/6pp/8/8 w - - 0 1"]
+
+1. Ke4 (1. Rh8+ $2 Kg4 2. Kxc4 g2 $19) (1. Rg8 $2 Nb6+ 2. Kc5 h2) (1. Rb4 $2 Ne3+ 2. Ke4 g2) (1. Rb6 $2 Nxb6+ 2. Kc5 g2) (1. Rf8 h2 2. Rh8+ Kg4) (1. Re8 g2 2. Rh8+ Kg4) h2 2. Kf4 (2. Rh8+ Kg5 3. Kf3 $10) (2. Kf3 $2 h1=Q+ 3. Kxg3 Qg1+ $19) (2. Kf5 $2 Nd6+ 3. Ke6 g2 $19) (2. Rb1 $2 Nd2+ 3. Kf4 Nxb1 4. Kxg3 h1=Q $19 5. Kf4 Nc3) (2. Rg8 $2 h1=Q+ 3. Kd4 Qa1+ $19) (2. Rb3 $2 Nd2+ 3. Kf4 Nxb3 4. Kxg3 h1=Q 5. Kf4 Nc5) (2. Kd3 $2 Ne5+ 3. Kc3 Ng6) (2. Kd4 $2 g2 3. Rh8+ Kg4) (2. Rb5+ Kg4) g2 3. Rh8+ (3. Kg3 $2 g1=Q+ 4. Kf3 h1=Q+ $19) (3. Kf5 $2 Ne3+ 4. Kf4 g1=Q) (3. Kf3 $2 g1=Q 4. Rh8+ Kg5) (3. Rb5+ $2 Kh6) (3. Rb3 $2 h1=Q 4. Rb5+ Kh6) (3. Rb1 $2 g1=Q 4. Rxg1 hxg1=Q) (3. Rg8 g1=Q 4. Rh8+ Kg6) Kg6 4. Rxh2 (4. Rg8+ $2 Kf6 5. Rxg2 h1=Q) (4. Rh4 $2 g1=Q 5. Rg4+ Qxg4+ 6. Kxg4 h1=Q) (4. Kg3 h1=Q 5. Rg8+ Kf7) (4. Kf3 g1=Q 5. Rg8+ Kf6) (4. Rf8 g1=Q 5. Rg8+ Kf6) g1=Q 5. Rg2+ (5. Rh8 $2 Qe3+ 6. Kg4 Ne5+ $19) (5. Rc2 $2 Qe3+ 6. Kg4 Ne5+) (5. Rh3 Qd4+ 6. Kf3 Ne5+) (5. Re2 Qf1+ 6. Ke4 Qxe2+ 7. Kd4 Nd6) Qxg2 1/2-1/2

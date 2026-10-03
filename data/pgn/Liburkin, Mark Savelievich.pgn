@@ -1,0 +1,948 @@
+[Event "5.p Shakhmatny Listok#335"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "2"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "5k2/8/4B3/8/n7/r7/p1K4R/8 w - - 0 1"]
+[PlyCount "10"]
+
+1. Rh8+ $1 (1. Rf2+ $2 Ke7 2. Rf7+ Kxe6 3. Rf6+ Kxf6) (1. Bxa2 $2 Rxa2+ 2. Kd3 Rxh2 $19) (1. Bd5 a1=Q 2. Rf2+ Ke7) (1. Rh1 $2 a1=Q 2. Rxa1 Rxa1) Kg7 $1 2. Rg8+ $1 (2. Ra8 $2 a1=Q 3. Rg8+ Kh6 $19) (2. Rh4 $2 a1=Q 3. Rg4+ Kf6 $19) (2. Rh3 $2 a1=Q 3. Rxa3 Qxa3 $19) (2. Rh1 $2 a1=Q 3. Rxa1 Rxa1 $19) (2. Rb8 $2 a1=Q 3. Rb7+ Kf6) (2. Bd7 Kxh8) (2. Bb3 a1=Q 3. Rg8+ Kh7) (2. Bxa2 $2 Kxh8 $1) Kh7 $1 3. Bxa2 $1 (3. Bf5+ $2 Kxg8 4. Be6+ Kf8 $19) (3. Rg4 $2 Rc3+ 4. Kd2 a1=Q) (3. Rh8+ $2 Kxh8 4. Bxa2 Rxa2+ 5. Kb3 Rb2+) (3. Rg7+ $2 Kxg7 4. Bxa2 Rxa2+ 5. Kb3 Rb2+) (3. Kd2 a1=Q 4. Bf5+ Kxg8 5. Be6+ Kf8) Rxa2+ 4. Kb1 $1 (4. Kb3 $2 Rb2+ 5. Kc4 (5. Kxa4 Kxg8) Kxg8 $19) (4. Kd1 Kxg8) Rb2+ (Nc3+ $144 (Rb2+ {<main>} 5. Ka1 $1 Kxg8) (Kxg8 5. Kxa2) 5. Kc1 $3 Kxg8 (Ra1+ (Kxg8 {<main>}) 6. Kb2 $1 Rb1+ 7. Ka3 $1 Kxg8 $11 (Ra1+ (Kxg8) 8. Kb2 Ra2+ 9. Kc1 Kxg8))) 5. Ka1 $1 Kxg8 $11 1/2-1/2
+
+[Event "3.p 64#481 {v}"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "2"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k1r4/8/3P4/5K2/R1p5/n4R2/5pb1/8 w - - 0 1"]
+[PlyCount "12"]
+
+1. Rb4+ Kc8 2. Rxf2 Rf8+ 3. Ke6 Rxf2 (Bh3+ $144 4. Ke7 Rxf2 5. Rxc4+ Nxc4 6. d7+ Bxd7 $11) 4. d7+ Kc7 $1 5. Rxc4+ Nxc4 6. d8=Q+ Kxd8 $11 1/2-1/2
+
+[Event "1.p 64#501 {c}"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "2"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2R5/k2Bn3/1pP5/6p1/b7/2K5/8/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. Rc7+ Kb8 2. Rb7+ Ka8 3. Be8 Nxc6 (Bxc6 $144 4. Rxe7 $18) 4. Rxb6 Nb4 $1 (Ka7 $144 5. Rb1 Ka6 6. Ra1 $18) 5. Bf7 (5. Bxa4 $143 Nd5+ $11) Be8 $1 6. Kxb4 (6. Be6 $143 Nc6 $1 7. Bd5 Ka7 $11) (6. Rh6 $144 Bxf7 7. Kxb4 {transpose}) Bxf7 (Ka7 $144 7. Rd6 $18) 7. Rh6 $1 Bd5 8. Kc5 Bb7 9. Kb6 $18 1-0
+
+[Event "64#538 {c}"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r7/p3PN2/k7/P4P2/pKPn4/8/8/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. Nd8 Rxd8 2. exd8=N $1 (2. exd8=Q $143 Nc6+ 3. Kxa4 Nxd8 $17) a3 3. Kxa3 Nxf5 4. Ka4 $1 (4. Kb4 $143 Ne3 5. c5 Nd5+ 6. Ka4 Nc3+ 7. Kb3 Kb5 $11) Nd6 5. c5 Nb7 (Nc8 $144 6. c6 Nb6+ $144 7. Kb4 (7. axb6 $143 Kxb6 $11) Nd5+ 8. Kc5 Nc7 9. Nb7 $18) 6. c6 $1 (6. Nxb7 $143 Kxb7 7. Kb5 Kc7 $1 $11) Nxd8 (Nc5+ $144 7. Ka3 Ne4 8. Kb4 Nf6 9. Kc4 $18) 7. c7 Nb7 8. c8=R $1 (8. c8=Q $143 $11) Nxa5 9. Rc5 Nb7 10. Rc6# 1-0
+
+[Event "2.p Shakhmaty v SSSR#540"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/8/2P5/1Pr5/8/8/N7/k2K4 w - - 0 1"]
+[PlyCount "11"]
+
+1. Nc1 (1. Nb4 $2 Rxb5 2. c7 $10) (1. b6 $2 Rxc6 2. b7 $10) (1. c7 $2 Rxc7 2. Nb4 $10) (1. Ke2 Kxa2) Rxb5 (Rd5+ $144 {main} 2. Kc2 (2. Nd3 $2 $143 Rxd3+ 3. Kc2 $10 Rd5 $11) (2. Ke2 $2 Rxb5 3. c7) (2. Ke1 $2 Rxb5 3. Kd2) Rc5+ (Rxb5 $144 3. Nb3+ Ka2 4. c7 $18) 3. Kd3 (3. Kd2 $2 $143 Rxb5 4. c7 $10 Rb2+ 5. Kd1 Rc2 6. Kxc2 $11) (3. Kb3 $2 Rxb5+ 4. Ka3 $10) (3. Kd1 Rd5+ 4. Kc2 Rc5+ $18) Rxb5 (Kb2 $144 4. Kd4 $1 Rxc1 5. Kd5 $1 $18) 4. c7 (4. Nb3+ $2 Rxb3+ 5. Kd4 $10) (4. Kc4 $2 Re5 5. c7 $10) (4. Kd4 $2 Rb8 5. c7) (4. Kc3 Rc5+ 5. Kd2) (4. Ne2 Ra5 5. c7) (4. Kc2 Rc5+ 5. Kd2) Rb8 $1 5. cxb8=B $3 $18 $1 (5. Nb3+ $2 Rxb3+ 6. Kd2 $10) (5. cxb8=R $2) (5. cxb8=Q $2 $143 $11) (5. Kc4 $2 Ra8 6. Nb3+) (5. Kd4 $2 Rd8+ $4 (Rg8 $5) 6. cxd8=Q) (5. Kc2 Rc8) (5. Kc3 Rc8 6. Nb3+ Ka2)) 2. c7 (2. Kc2 $2 Rc5+ 3. Kd2 $10) (2. Kd2 $2 Rd5+ 3. Nd3) (2. Nd3 $2 Rb8 3. c7) Rd5+ 3. Nd3 $1 (3. Ke2 $2 Re5+ 4. Kd2 $10) (3. Kc2 $2 Rc5+ 4. Kd2) (3. Ke1 $2 Re5+ 4. Kd2) Rxd3+ 4. Kc2 (4. Ke2 $4 Rc3) (4. Kc1 Rc3+ 5. Kd2 Rxc7) Rd4 5. c8=R $1 (5. c8=Q $4 $143 Rc4+ 6. Qxc4 $11) (5. Kc3 Rc4+ 6. Kxc4 $18) (5. c8=N $4 Rc4+ 6. Kd2 Rxc8 $19) (5. Kb3 Rd3+ 6. Kc2 $18) (5. Kc1 $4 Rc4+ 6. Kd2 Rxc7) Ra4 6. Kb3 $18 (6. Rb8 $4 Rc4+ 7. Kd2) (6. Kc1 $4 Ra3 7. Rb8) (6. Rh8 $4 Rc4+ 7. Kd2) (6. Rc3 $4 Ra2+ 7. Kc1) (6. Rd8 $4 Rc4+ 7. Kd2) (6. Kc3 Ra3+ 7. Kc2) 1-0
+
+[Event "3.p 64#573"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "N5b1/2p5/3k2B1/8/5K2/7N/8/8 w - - 0 1"]
+[PlyCount "9"]
+
+1. Nf2 $1 (1. Be4 $143 $2 Bd5 $11) Kc6 (Bd5 $144 2. Ne4+ Kc6 3. Nf6 Bg2 4. Ne8 $18) 2. Nd3 $1 (2. Be4+ $143 Bd5 $11) Kb7 (Bd5 3. Nb4+) 3. Be4+ c6 4. Nb4 $1 Kxa8 5. Nxc6 $18 $1 Ba2 (Bb3 6. Nd4+ Ka7 7. Nxb3) (Bc4 6. Na5+ Ka7 7. Nxc4) (Be6 6. Nd4+ Kb8 7. Nxe6) (Bf7 6. Ne5+ Kb8 7. Nxf7) 6. Nb4+ Ka7 7. Nxa2 1-0
+
+[Event "Vechernyaya Moskva {c}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4P3/N7/1p6/1P6/1k6/4PrN1/K7 w - - 0 1"]
+[PlyCount "7"]
+
+1. Nc5+ (1. Ne1 $143 Rxe2 2. Nc5+ Kc4 $11) Ka3 2. Ne1 Rxe2 (Rf1 $144 3. Ncd3 $18) 3. e8=R $1 (3. e8=Q $143 Rxe1+ 4. Qxe1 $11) Rxe8 4. Nc2# 1-0
+
+[Event "1.p Vechernyaya Moskva {v}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1b6/4P3/1P2PN2/8/8/P1k5/P1p2P2/K5B1 w - - 0 1"]
+[PlyCount "27"]
+
+1. Ne4+ Kd3 2. Nc5+ Kc3 3. Nb3 (3. Ne4+ $144 Kd3 4. Nc5+ Kc3 5. Nb3 $18 {loosing time dual}) Be5 4. f4 Bg7 5. e8=N $1 Bh8 6. f5 Be5 7. Bh2 Bxh2 8. b7 Be5 (Kd3 $144 9. Nc1+ Kd2 (Kc3 $144 10. Nc7 Be5 11. b8=Q $18) 10. Kb2 Be5+ 11. Kb3 Kxc1 12. Nc7 $1 Bxc7 13. e7 Kd2 14. e8=Q c1=Q 15. Qd7+ Ke3 16. Qd5 Kf4 17. f6 Qb1+ 18. Ka4 Qc2+ 19. Kb5 Qb1+ 20. Kc6 Qb6+ 21. Kd7 Be5 22. f7 Qc7+ 23. Ke8 Bg7 24. Qb5 Qb8+ 25. Kd7 Kg4 26. Qc4+ Kg5 27. Qc7 $18) 9. b8=B $1 (9. b8=Q $143 Kc4+ 10. Qxe5 c1=Q+ 11. Nxc1 $11) Bxb8 10. Nc7 $1 Bxc7 11. e7 Be5 12. e8=R $1 (12. e8=Q $143 Kc4+ 13. Qxe5 c1=Q+ 14. Nxc1 $11) Bg7 {eg} 13. Re6 Bd4 14. Rc6+ $18 1-0
+
+[Event "3.p 64#627"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b6/5k1B/1K6/8/8/n7/3p2R1/r7 w - - 0 1"]
+[PlyCount "12"]
+
+1. Bg8+ (1. Rxd2 $143 Nc4+ $19) Kf8 2. Rxd2 Rb1+ 3. Ka5 Kxg8 4. Ka4 Nc4 (Nb5 $144 5. Rd8+ Kg7 6. Rxb8 Nc3+ 7. Ka3 Rxb8 $11) (Ra1 $144 5. Rd8+ Kf7 6. Rxb8 Nc2+ (Nc4+ $144 7. Kb3 Rb1+ 8. Ka4 Rxb8 $11) 7. Kb3 Rb1+ 8. Ka2 Rxb8 $11) 5. Rd8+ Kf7 6. Rxb8 Rxb8 $11 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4n3/1K1N2P1/7B/b7/5n2/2N1k3/8 w - - 0 1"]
+[PlyCount "9"]
+
+1. Nd4+ Ke3 (Kf2 $144 2. Nxf3 Nxg6 3. Ne4+ Ke3 4. Bxg6 Kxf3 5. Nc5 $18) 2. Nxf3 Nxg6 (Kf4 $144 3. g7 Bd1 4. Kc7 Bxf3 5. Bxf3 Kxf3 $18) 3. Nc4+ Kf4 4. Bxg6 Kxf3 5. Ka5 $18 1-0
+
+[Event "2.p 64#621"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "4Nn2/8/3P4/kP2P3/5p2/5p2/8/2K5 w - - 0 1"]
+[PlyCount "15"]
+
+1. Kd1 $1 (1. Kd2 $143 Kxb5 2. d7 Nxd7 3. e6 Ne5 (Kc6 4. e7 Kc5 5. Nd6 Nf6 6. Ne4+ Nxe4+ $11) 4. Nf6 Nc4+ 5. Ke1 Nd6 $10) (1. d7 Nxd7 $10 2. Kd2) (1. e6 $4 f2 $19) (1. Nc7 $4 f2 $19) (1. b6 $4 f2 $19) (1. Nf6 $4 f2 $19) (1. Ng7 $4 f2 $19) (1. Kb2 $4 f2 $19) (1. Kc2 $4 f2 $19) Kxb5 2. d7 $1 (2. Ke1 $2 Kc5 3. Nf6 $10) (2. e6 $2 f2 3. Ke2 $10) (2. Nc7+ $2 Kc6 3. Ke1 $10) (2. Nf6 $2 Kc5 3. Ke1) (2. Kd2 $2 Kc5 3. Nf6) (2. Ng7 $2 Kc6 3. Ne8) Nxd7 $2 (f2 $5 3. Ke2 $18) 3. e6 (3. Nd6+ $2 Ka5 4. e6 $10) (3. Nc7+ $2 Ka5 4. e6 $10) (3. Ke1 $2 f2+ 4. Kf1 Nxe5 5. Ng7) (3. Nf6 $2 f2 4. Ke2) Kc6 $1 (Ne5 4. Nc7+ Kc6 5. e7 $18) 4. e7 (4. exd7 $2 f2 5. d8=Q $10) (4. Ng7 $2 f2 5. Ke2 $10) (4. Nc7 $2 f2 5. Ke2 $10) (4. Ke1 $2 f2+ 5. Kf1 $10) (4. Kd2 $2 f2 5. exd7 Kxd7 6. Nf6+) (4. Kc2 $4 f2 5. exd7 Kxd7 6. Nf6+ Ke6) (4. Nd6 $2 f2 5. Ke2) (4. Kc1 $4 f2 5. exd7 f1=Q+) f2 5. Ke2 (5. Nd6 $4 f1=Q+ 6. Kd2 Nf6) (5. Nf6 $4 f1=Q+ 6. Kd2 Nxf6 7. e8=Q+ Nxe8) (5. Nc7 $4 f1=Q+ 6. Kd2 Nf6) f3+ 6. Kf1 $1 (6. Kxf2 $2 $143 Ne5 (Kc5 7. Nd6 Nf6 8. Ne4+ Nxe4+ $11) 7. Nf6 Ng4+ $1 8. Nxg4 Kd7 $10) (6. Kxf3 $4 f1=Q+ 7. Ke3 Qe1+ $19) Kb6 (Kc5 $144 7. Nd6 $1 (7. Kxf2 $2 Kd4 8. Ng7 $10) (7. Nf6 $2 Nxf6 8. e8=Q Nxe8 9. Kxf2) (7. Ng7 $2 Nf6 8. e8=Q Nxe8 9. Nh5) (7. Nc7 $2 Nf6 8. e8=Q Nxe8 9. Nxe8) Nf6 8. Ne4+ $1 $18 (8. Kxf2 $2 Kd5 9. e8=Q) (8. Nb7+ $2 Kb5 9. e8=Q+ Nxe8 10. Nd8) (8. Nf5 $2 Ne8 9. Ng7) (8. Nf7 $2 Ne8 9. Nh8) (8. Nc8 $2 Ne8 9. Nd6) (8. Nc4 $2 Ne8 9. Nb6) (8. Ne8 $2 Nxe8 9. Kxf2)) 7. Nc7 $1 (7. Nd6 $2 Nf6 8. e8=Q Nxe8 9. Nxe8) (7. Kxf2 $2 Kc5 8. Ng7 $10) (7. Nf6 $2 Nxf6 8. e8=Q Nxe8 9. Kxf2) (7. Ng7 $2 Nf6 8. e8=Q Nxe8 9. Nxe8) Nf6 8. Nd5+ $18 (8. e8=Q $2 Nxe8 9. Nxe8 $10) 1-0
+
+[Event "3.p 64#649"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/P7/P7/P4B2/8/5k2/6bK w - - 0 1"]
+[PlyCount "21"]
+
+1. Bc7 Kf1 2. Bb6 $1 Bf2 $1 3. Kh2 $1 Ke2 4. Kg2 Be3 5. Kg3 $1 Kd3 6. Kf3 Bd4 7. Kf4 $1 Kc4 8. Ke4 Bc5 9. Ke5 $1 Kb4 10. Kd5 Bg1 11. Kc6 $18 (11. Bxg1 $143 Kxa5 $11) 1-0
+
+[Event "64"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1B6/6rP/k7/1p6/p2K4/P2P4/8/2b5 w - - 0 1"]
+[PlyCount "12"]
+
+1. h8=Q Bb2+ 2. Kc5 Rg5+ 3. Be5 $1 Rxe5+ 4. Kb4 Re4+ 5. d4 $1 Rxd4+ 6. Qxd4 Bxd4 $11 1/2-1/2
+
+[Event "64 {c}"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/2p3Q1/B1K5/8/N1p5/p3q3/2k5 w - - 0 1"]
+[PlyCount "23"]
+
+1. Qg1+ (1. Bxc3 $143 Qe3+ 2. Kc4 Qxc3+ 3. Kxc3 a1=Q+ 4. Kb4 Qb2+ 5. Ka4 Qd4+ 6. Ka5 Qb6+ 7. Ka4 Qd4+ $11) Kb2 (Qd1 $144 2. Qxd1+ Kxd1 3. Bxc3 $18) 2. Qa1+ $3 Kxa1 3. Bxc3+ Qb2 4. Kd4 c5+ (Qxc3+ $144 5. Kxc3 c5 6. Kc2 c4 7. Kc1 c3 8. Nc2#) 5. Kc4 c6 6. Kd3 c4+ 7. Kd4 (7. Kxc4 $143 c5 8. Kd3 c4+ 9. Kxc4 Qxc3+ 10. Kxc3 $11) c5+ 8. Kxc4 Qxc3+ 9. Kxc3 c4 10. Kc2 c3 11. Kc1 c2 12. Nxc2# 1-0
+
+[Event "2/3.p 64"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "R7/6N1/8/4p3/4k3/6n1/7b/3K4 w - - 0 1"]
+[PlyCount "17"]
+
+1. Ra2 (1. Ra4+ $2 Ke3 2. Nh5 $10) (1. Rh8 $2 Bg1 2. Nh5 $10) (1. Ra3 $2 Nf5 2. Nh5 $10 Ne3+ 3. Rxe3+ Kxe3 4. Ng7) (1. Ne8 $2 Kf3 2. Ng7) Bg1 $1 (Nf1 2. Ke1 $1 $18 (2. Ke2 Ng3+ 3. Ke1 $18) (2. Re2+ $2 Ne3+ 3. Rxe3+ Kxe3 4. Nh5 $10) (2. Nf5 $2 Bg3 3. Ne7) (2. Ra4+ $2 Kf3 3. Nh5) (2. Rxh2 $2 Nxh2 3. Nh5) (2. Rd2 Nxd2 3. Kxd2)) 2. Rg2 (2. Kd2 $2 Kd5 3. Ne8) (2. Ra4+ $2 Bd4 3. Ne6 Kd5 4. Nd8) (2. Re2+ $2 Nxe2 3. Kxe2) (2. Ra3 $2 Nf5 3. Nh5 Ne3+ 4. Rxe3+ Bxe3 5. Ng7) (2. Nh5 Nxh5 3. Re2+ Be3) (2. Rh2 Bxh2) (2. Rf2 Bxf2) Kf3 3. Rxg1 (3. Rd2 $2 e4 4. Ne6 $10) (3. Rxg3+ $2 Kxg3 4. Nh5+) (3. Ra2 e4 4. Ne6) (3. Ke1 Kxg2) Kf2 4. Re1 (4. Rxg3 $2 Kxg3 5. Nh5+) (4. Rf1+ $2 Nxf1 5. Nh5) (4. Ne6 $2 Kxg1 5. Nd8) (4. Nf5 $2 Nxf5 5. Re1) (4. Rh1 Nxh1 5. Nh5) (4. Nh5 e4 5. Re1) (4. Kc1 e4 5. Nh5) (4. Kc2 e4 5. Nh5) (4. Kd2 e4 5. Re1) (4. Rg2+ Kxg2 5. Ne6) e4 5. Ne6 (5. Nf5 $2 Nxf5 6. Rh1 $10 Ne3+ 7. Kc1) (5. Nh5 $2 Nxh5 6. Rh1 $10) (5. Kd2 $2 e3+ 6. Rxe3 Nf1+ 7. Kc2 $10) (5. Ne8 e3 6. Nc7) (5. Rxe4 Nxe4 6. Nh5) (5. Re2+ Nxe2 6. Nf5) (5. Re3 Kxe3 6. Ne6) e3 6. Nc5 $1 (6. Nf4 $2 $143 e2+ 7. Nxe2 $10 Nxe2 $4 (Nf1 $5 $11) 8. Rxe2+ Kf3 9. Re7) (6. Nd4 $2 e2+ 7. Nxe2 $10 Nxe2 $4 (Nf1 $5) 8. Rxe2+ Kf3 9. Re7) (6. Ng5 $2 e2+ 7. Rxe2+ Nxe2 8. Nf7 $10) (6. Nc7 $2 e2+ 7. Rxe2+ Nxe2 8. Ne8) (6. Rxe3 Kxe3 7. Nd8) (6. Re2+ Nxe2 7. Nc5) (6. Nf8 e2+ 7. Rxe2+ Nxe2 8. Nh7) e2+ 7. Kd2 (7. Kc1 $4 Kxe1 8. Nd3+ Kf1) (7. Rxe2+ $2 Nxe2 8. Nb7) (7. Kc2 $4 Kxe1 8. Nd3+ Kf1) Nf1+ 8. Kc1 (8. Kd3 $2 Kxe1 9. Ne4 $10) (8. Kc3 $2 Kxe1 9. Ne4 $10) (8. Kc2 $2 Ne3+ 9. Kb2) (8. Rxf1+ $4 exf1=Q 9. Ne4+ Kf3) Kxe1 9. Nd3# (9. Ne4 $4 Ne3 10. Ng3 $10) (9. Kc2 Ne3+ 10. Kc3 Ng4) (9. Nb3 Kf2) 1-0
+
+[Event "4.hm Moscow Ty"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2pn4/2KPk3/5r2/8/3P4/8/1b1B4 w - - 0 1"]
+[PlyCount "12"]
+
+1. Bb3+ $1 (1. dxc7 $143 $2 Bxd3 2. c8=Q (2. Bg4 $144 Be4#) (2. Bb3+ Ke7 3. c8=N+ Kd8 $19) Rc5+ 3. Kb7 Ba6+ $19) Kf6 (Ke5 $144 2. dxc7 Rf8 3. Kxd7 Bxd3 4. c8=Q Bf5+ 5. Be6 $1 Bxe6+ 6. Ke7 Rxc8 $11) 2. dxc7 Rc5+ 3. Kxd7 Bxd3 4. c8=Q Bf5+ 5. Be6 $3 $1 Bxe6+ 6. Kd6 Rxc8 $11 1/2-1/2
+
+[Event "3.p 64"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/2pb4/2p5/P1P5/P1P5/2r5/R7/6K1 w - - 0 1"]
+[PlyCount "47"]
+
+1. a6 Rg3+ (Bc8 $144 2. a7 Bb7 3. Rb2 $18) 2. Kh1 $1 (2. Kf1 $143 Bh3+ 3. Ke1 Rg1+ $19) Bc8 (Rg8 $144 3. Rh2+ Kg7 4. Rg2+ $18) 3. a7 Bb7 4. Rb2 Ba8 5. Rb8+ Rg8 6. Kh2 Kh7 7. Kh3 Kh8 8. Kh4 Kh7 9. Kh5 Kg7 (Kh8 $144 10. Kh6 $18) 10. Kg4 Rf8 11. Kg5 Kf7 (Kg8 $144 12. Kg6 $18) 12. Kf4 Re8 13. Kf5 Ke7 14. Ke4 Rd8 15. Ke5 Kd7 16. Kd4 Re8 17. Kc3 Re3+ 18. Kb4 Re8 19. Ka5 Rc8 20. Ka6 Re8 21. Rxa8 Rxa8 22. Kb7 Kd8 23. Kxa8 Kc8 24. a5 $18 1-0
+
+[Event "Shakhmaty v SSSR#031 {c}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4p3/2N1k1N1/3p4/n7/1Kb5/8/3n4 w - - 0 1"]
+[PlyCount "13"]
+
+1. Nf4+ (1. Ngxe7 $143 Nc5+ 2. Kc2 Bf6 3. Ng8 (3. Nxd5 $144 Kxd5 4. Nb4+ Kc4 $19) Ne3+ 4. Kd2 Bg5 $19) (1. Ncxe7 $143 Nb6 2. Kc2 Bf6 3. Nxd5 Nxd5 4. Kxd1 Kf7 $19) (1. Kxa4 $143 Bf6 $19) Kd6 2. Nxe7 d4 3. Nf5+ (3. Ned5 $143 Ke5 $1 4. Nxc3 Naxc3 $19) (3. Nfd5 $143 Nc5+ 4. Kc2 Ba5 5. Kxd1 d3 $1 (Bd8 $143 6. Ne3 $1 dxe3 7. Nf5+ $11) 6. Kc1 d2+ 7. Kd1 Nd3 8. Ke2 Nf2 9. Ne3 Kxe7 10. Kxf2 Bb6 $19) Ke5 4. Nxd4 Bxd4 (Kxd4 $144 5. Ne2+ $11) 5. Ne2 Nc5+ 6. Kc2 Ne3+ 7. Kb1 $11 1/2-1/2
+
+[Event "1234 (Dover edition)#0564 {c}"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p1pPp1pB/P1P1PpP1/3K4/8/6pp/5prk/R5bq w - - 0 1"]
+[PlyCount "41"]
+
+1. Rf1 f5 2. d8=N $1 f4 3. Nf7 f3 4. Nh6 gxh6 5. g7 h5 6. g8=N h4 7. Nf6 exf6 8. e7 f5 9. e8=N $1 f4 10. Nd6 cxd6 11. Ke6 d5 12. c7 d4 13. c8=N $1 d3 14. Nb6 d2 15. Bc2 axb6 16. a7 b5 17. a8=N $1 b4 18. Nb6 b3 19. Nc4 bxc2 20. Ne5 d1=Q 21. Ng4# 1-0
+
+[Event "4.p Shakhmaty v SSSR#019"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "1"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/1N6/2k1K2n/R3b3 w - - 0 1"]
+[PlyCount "31"]
+
+1. Nd4+ Kc3 2. Nb5+ Kc4 $1 3. Nd6+ (3. Na3+ $143 Kb3 4. Kxe1 Kb2 5. Nc2 Nf3+ 6. Kd1 g3 $11) Kc5 $1 4. Nb7+ $1 Kc6 5. Nd8+ Kc7 6. Ne6+ Kd7 $1 7. Nf8+ Ke7 8. Ng6+ Kf7 9. Nh8+ Kg7 10. Rxe1 Kxh8 11. Rh1 g3 12. Ke3 Kg7 13. Kf4 g2 14. Rg1 Nf1 15. Rxg2+ Kh6 16. Rf2 $18 1-0
+
+[Event "64#177"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5b2/1N4p1/6P1/1b5P/4k3/7K/8/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. h6 $1 gxh6 2. g7 Bf1+ 3. Kg3 Bxg7 4. Kf2 Bh3 5. Kg3 Bf1 6. Kf2 $11 1/2-1/2
+
+[Event "6.hm Shakhmaty v SSSR#098"]
+[Source "Shakhmaty v SSSR/6"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/pp1p4/bk1P4/1p6/3P4/K3B3 w - - 0 1"]
+[PlyCount "6"]
+
+1. d3+ $1 (1. Kb2 $143 Kc4 2. Bh4 b4 3. Bd8 Kb5 4. Be7 Ka6 5. Bc5 Be8 6. Kxb3 Kb5 $19) Ka3 2. Bb4+ $1 (2. Bc3 $143 $2 b2+ (b4 $143 3. Bb2#) 3. Bxb2+ Kb3 $19) axb4 (Kxb4 $144 {<main>} 3. Kb2 $11) 3. Kb1 b2 $11 1/2-1/2
+
+[Event "Shakhmaty v SSSR#085"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2N5/p7/q1p2p2/kp6/3P4/PP3K2/5P2/2B5 w - - 0 1"]
+[PlyCount "17"]
+
+1. Bd2+ b4 2. Bxb4+ Kb5 3. Nd6+ Kb6 4. Ba5+ $1 Kxa5 (Qxa5 $144 5. Nc4+ $18) 5. Nc4+ Kb5 6. Kf4 $1 c5 (f5 $144 7. Kg5 $1 f4 8. f3 c5 9. d5 $18) 7. d5 f5 8. Kg5 $1 (8. Kxf5 $143 Qh6 $19) f4 9. f3 $18 1-0
+
+[Event "4.hm Shakhmaty v SSSR#073"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7B/6N1/8/3n4/6kb/8/6K1/3b1N1B w - - 0 1"]
+[PlyCount "17"]
+
+1. Kg1 Nf4 $1 (Nc3 $144 2. Ne3+ Kf4 $1 3. Ng2+ Kg4 4. Nxh4 Kxh4 5. Nf5+ Kg5 6. Ne3 $18) 2. Ne3+ Kh3 $1 3. Nxd1 Ne2+ (Ng6 $144 4. Ne3 Nxh8 5. Ngf5 $18) 4. Kf1 Ng3+ 5. Kf2 $1 Nxh1+ 6. Kg1 $1 Bf6 $1 (Ng3 $144 7. Nf2#) 7. Kxh1 Bd4 $1 8. Nf5 $1 Bxh8 9. Nf2# 1-0
+
+[Event "sp.c Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/11"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/1P6/1P5p/1Pp1p2P/K1P1P2P/8/6Bk w - - 0 1"]
+[PlyCount "71"]
+
+1. Bf2 $1 Kg2 2. Be1 Kf3 3. Bd2 Ke2 (Kg2 $144 4. Kb2 Kxh3 5. Be1 Kg2 6. Kc1 Kf1 7. Kd2 $18) 4. Bc1 Kd1 (Kf2 $144 5. Kb2 Kg3 6. Kc2 Kxh4 7. Bd2 Kxh3 8. Be1 h4 9. Kd2 Kg4 10. Ke2 h3 11. Kf2 Kh4 (h2 $144 12. Kg2 h1=Q+ 13. Kxh1 Kf3 14. Kg1 Ke2 15. Bg3 Kd2 $1 16. Kf2 Kxc3 17. Ke2 Kb2 18. Kd1 c3 19. Be5 $18) 12. Bd2 $3 $1 (12. Kg1+ $143 Kg4 13. Kh2 Kf3 14. Kxh3 Ke2 $1 15. Bh4 Kxe3 16. Kg4 Kd2 17. Kf4 Kxc3 18. Kxe4 Kxb4 19. Kd5 (19. Be1+ $144 Kxb5 20. Bf2 Kc6 $1 21. Bd4 Kd7 22. Ke3 Kc8 $11) Kxb5 20. Bf2 c3 $11) Kg4 13. Bc1 Kh4 (h2 $144 14. Kg2 h1=Q+ 15. Kxh1 Kf3 16. Kh2 Ke2 17. Kg3 Kd1 (Kd3 $144 18. Kf4 Kxc3 19. Kxe4 Kc2 20. Kd4 $18) 18. Kf4 $1 $18) 14. Kg1 Kg3 (Kg4 $144 15. Kh2 Kh4 16. Bb2 $1 Kg4 17. Ba3 Kh4 18. Bc1 Kg4 19. Bd2 Kh4 20. Be1+ Kg4 21. Bg3 Kf3 22. Bf4 Ke2 23. Kxh3 Kd3 24. Kg4 Kxc3 25. Be5+ Kd3 26. Kf4 $18) 15. Kh1 Kf2 16. Kh2 Ke2 17. Kxh3 Kd1 18. Ba3 Kd2 19. Kg3 Kxe3 (Kxc3 $144 20. Kf4 Kb3 21. Bc1 $18) 20. Bc1+ Kd3 21. Kf4 Kxc3 22. Kxe4 Kxb4 23. Kd5 Kxb5 24. Be3 c3 25. Kd6 c2 26. Kc7 $18) 5. Kb2 Ke2 6. Kc2 Ke1 7. Bd2+ Ke2 8. Kc1 Kd3 $1 9. Be1 (9. Kd1 $143 $11 $2) Ke2 (Kxe3 $144 10. Kd1 Kd3 11. Bd2 e3 12. Bc1 $1 (12. Be1 $143 $2 e2+ 13. Kc1 Ke3 14. Kc2 Kf4 $1 15. Kd2 Kf3 $11) e2+ (Kxc3 $144 13. Bxe3 Kxb4 14. Kc2 $18) 13. Ke1 Kxc3 14. Kxe2 $18) 10. Bg3 Kf3 11. Bf4 Ke2 12. Kc2 Ke1 13. Bh2 Ke2 14. Bg3 Kf3 15. Be1 Ke2 16. Bd2 Kf1 17. Kd1 Kf2 18. Be1+ Kf1 19. Kd2 Kg2 $1 20. Ke2 Kg1 21. Bd2 $3 $1 (21. Bf2+ $143 $2 Kg2 22. Ke1 Kf3 23. Kf1 $11) (21. Bg3 $143 $2 Kh1 $1 22. Kf2 $11) Kg2 22. Bc1 $1 Kg1 23. Bb2 $1 Kg2 24. Ba3 $1 Kg1 25. Bc1 $1 Kg2 26. Bd2 Kg1 27. Be1 Kg2 28. Bf2 Kh2 29. Kf1 Kh1 30. Be1 (30. Bg3 $143 $11 $2) Kh2 31. Kf2 Kxh3 {<eg>} 32. Kg1 Kg4 33. Kg2 Kf5 34. Kh3 Ke5 35. Bg3+ Kf5 36. Bc7 $18 1-0
+
+[Event "1.p Shakhmaty v SSSR#169 {c}"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1N5n/7p/1k5p/4pQ2/7K/1q4p1/6Pb/5B2 w - - 0 1"]
+[PlyCount "37"]
+
+1. Qf6+ Kb7 (Ka7 $144 2. Nc6+ Kb6 3. Nd4+ $18) (Kc7 $144 2. Na6+ Kc8 3. Qxh8+ Kd7 4. Nc5+ $18) 2. Qxh8 Qa4+ (Qb4+ $144 3. Kh3 Qb6 (Qe4 $144 4. Ba6+ Kb6 5. Qd8+ Kc5 6. Qa5+ Kd6 7. Qb6+ Ke7 8. Nc6+ Kd7 9. Qd8+ Kxc6 10. Qa8+ $18) (Qd6 4. Ba6+ Kb6 5. Qc8 Qe7 6. Qc6+ Ka7 7. Nd7 Qxd7+ $18) 4. Qxe5 Qc7 5. Qxc7+ Kxc7 6. Na6+ $18) (Qd5 $144 $5 3. Ba6+ Kb6 4. Qc8 $18 {Wins in the long time}) 3. Kh3 Qa8 4. Ba6+ Ka7 5. Qg7+ Kxb8 6. Qxe5+ Ka7 7. Qa5 $1 h5 (Qf8 $144 8. Bc4+ Kb7 (Kb8 $144 9. Qb6+ Ka8 10. Bd5#) 9. Bd5+ Kb8 10. Qa8+ $18) (Bg1 $144 8. Be2+ Kb8 9. Qe5+ Ka7 10. Qa1+ Kb8 11. Qxg1 $18) 8. Bc8+ Kb8 9. Qd8 h4 (Qa1 $144 10. Be6+ Kb7 11. Bd5+ Ka7 12. Qa8+ $18) 10. Ba6+ Ka7 11. Qa5 h6 12. Bc8+ Kb8 13. Qd8 h5 14. Ba6+ Ka7 15. Qa5 Bg1 16. Be2+ Kb8 17. Qe5+ Ka7 18. Qa1+ Kb8 19. Qxg1 $18 1-0
+
+[Event "64"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/1KB4n/BP6/k6r w - - 0 1"]
+[PlyCount "11"]
+
+1. Ka3 $1 Rc1 2. Bd4 $1 (2. Be5 $143 Rc5 3. Bc3 (3. Bd4 $143 Ra5+ 4. Kb4 Rxa2 $18) Rxc3+ 4. bxc3 $11) Rd1 3. Be5 Re1 4. Bf6 Rf1 5. Bg7 Rg1 6. Bh8 $18 1-0
+
+[Event "Shakhmaty v SSSR#190"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2b4b/3P1k1p/2P3n1/5K2/4N1N1/5n2/8/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. Ng5+ (1. Nd6+ $143 Kg7 2. Nxc8 (2. Ne8+ $142 Kf8 $11) Nd4+ $17) Nxg5 (Kg7 $144 2. Ne6+ Kf7 3. Nh6+ Ke7 4. d8=Q#) 2. Nh6+ Kg7 3. Kxg5 Bxd7 4. cxd7 Nf8 5. d8=N $1 (5. d8=Q $143 Ne6+ $19) Ng6 6. Ne6# 1-0
+
+[Event ".hm Shakhmaty v SSSR#127"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/bp5P/8/B7/8/4k2K w - - 0 1"]
+[PlyCount "19"]
+
+1. h6 Bc3 (Bd2 $144 2. h7 Bc3 3. Bb4 $18) 2. Bf8 b4 3. Bg7 Kf1 4. Kh2 Kf2 5. Kh3 Kf3 6. Kh4 Kf4 (Ke3 $144 {EGTB} 7. Kg5 Kd3 8. Kf5 Ke3 9. Ke6 (9. Be5 $143 Bxe5 10. Kxe5 b3 11. h7 b2 12. h8=Q b1=Q $11) Kd2 10. Kd5 Kc2 (Kd3 $144 11. Be5 Bxe5 (b3 $144 12. Bxc3 Kxc3 13. h7 b2 14. h8=Q+ $18) 12. Kxe5 b3 13. h7 b2 14. h8=Q b1=Q 15. Qh7+ $18) 11. Kc4 Kd2 12. Bf8 Ke3 13. Bxb4 Bh8 14. Bc3 $1 $18) 7. Bxc3 $1 bxc3 8. h7 c2 9. h8=Q c1=Q 10. Qh6+ $18 1-0
+
+[Event ".p Shakhmaty v SSSR#210"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2B5/5b2/8/1n3P2/8/8/8/1k2K2n w - - 0 1"]
+[PlyCount "19"]
+
+1. Be6 Be8 (Bh5 $144 2. f6 Nd6 3. f7 Nxf7 4. Bd5 Ng3 5. Kf2 Nf5 6. Be4+ $11) 2. f6 Nd6 3. f7 Nxf7 4. Bf5+ Kc1 5. Bg6 (5. Be4 $143 Ng3 6. Bg6 Ne5 7. Bxe8 Nd3#) Kb2 (Ng3 $144 6. Kf2 Nh1+ 7. Ke1 $11) 6. Be4 Ng3 7. Bg6 Kc3 8. Kf2 Nh1+ 9. Kg1 Ng3 10. Kf2 $11 1/2-1/2
+
+[Event "1.p Shakhmaty v SSSR#02 {c}"]
+[Source "Shakhmaty v SSSR/1 (c): Kasparyan=G source unknown 1979."]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "R3K3/P7/4k2b/8/5R2/3b3r/8/8 w - - 0 1"]
+[PlyCount "8"]
+
+1. Rb4 $1 (1. Rg4 $2 Bg5) (1. Rf2 $2 Bf4 2. Kf8 Rh8+) Be3 (Bf4 2. Rb6+ Bd6 3. Rxd6+ Kxd6 4. Kf7) 2. Kd8 (2. Kf8 $143 $2 Bc5+ (Kf6 $1 (Rh8+ $2 3. Kg7 Rxa8 4. Re4+ Bxe4) 3. Kg8 Bh7+) 3. Kg7 Rg3+ 4. Kh6 Bxb4 5. Re8+ Kf6 6. Re6+ Kxe6 7. a8=Q Rh3+ 8. Kg7 Bc3+ 9. Kf8 Rh8#) Rh8+ (Kd6 $144 {main} {<main>} 3. Ke8 Rh8+ 4. Kf7 Rxa8 5. Rd4+ Bxd4 $11) (Rh7 $144 3. Rab8 $1 Bg5+ 4. Kc8 Ba6+ 5. R8b7 $11) 3. Kc7 Rxa8 4. Re4+ Bxe4 $11 1/2-1/2
+
+[Event "Sachové Umenie#14"]
+[Source "Sachové Umenie/4-9 also Shakhmaty v SSSR#01 Shakhmaty v SSSR/1 1964."]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6kr/8/5p2/P7/p5Kp/8/8/7R w - - 0 1"]
+[PlyCount "8"]
+
+1. a6 $1 (1. Rh3 $143 $2 Kf7 2. a6 Ra8 3. Kxh4 Rxa6 4. Ra3 Ke6 $19) Kg7 $1 (Rh7 $144 2. Rb1 $11) (Kf7 $144 2. Rxh4 Ra8 3. Kf5 $1 Rxa6 4. Rxa4 Rxa4 $11) (Rh6 $144 2. a7 f5+ 3. Kxf5 Ra6 4. Rxh4 Rxa7 $11) 2. Rxh4 Ra8 3. Kh5 Rxa6 4. Rxa4 $1 Rxa4 $11 1/2-1/2
+
+[Event "3.hm Práce"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2R5/8/8/1K1k3P/4rP1r/8/6P1/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. Rd8+ Ke6 2. Re8+ Kf5 3. Rf8+ Kg4 4. Rg8+ Kxh5 (Kxf4 $144 5. g3+ $11) 5. g4+ (5. Rh8+ $143 Kg4 6. Rg8+ Kf5 7. Rf8+ Kg6 $19) Rxg4 6. Rh8+ Kg6 7. Rg8+ Kf5 8. Rf8+ Ke6 9. Re8+ Kd5 10. Rd8+ $11 1/2-1/2
+
+[Event "Sachové Umenie#081"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2B1p3/7P/p4k2/1b6/7b/4PK2/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. h7 (1. Kg3 $143 Bc3 $19) Bc3 2. Bxa5 Be5 (Bd4+ $144 3. Kg3 Bf1 4. Bb6 Bb2 5. Kf2 Bh3 $11) 3. Bc7 Bd4+ 4. Kg3 Bf1 (Bg4 $144 5. e4+ Kg6 6. Kxg4 Kxh7 $11) 5. Bb6 Be5+ 6. Kf2 Bh3 7. Bc7 Bf6 8. Kg3 Bg4 9. e4+ Kg5 10. Bd8 $11 1/2-1/2
+
+[Event "Trud"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2bq4/4kp2/2B5/5P1Q/8/7K w - - 0 1"]
+[PlyCount "11"]
+
+1. Qh8+ Qf6 (Kf4 $144 2. Qh2+ $18) 2. Qb8+ Qd6 (Kd4 $144 3. Qb2+ $18) 3. Qb2+ Qd4 (Kf4 $144 4. Qh2+ $18) 4. Qh2+ Qf4 (Kf6 $144 5. Qh8+ $18) (f4 $144 5. Qh8+) 5. Qh8+ Kd6 6. Qb8+ $18 1-0
+
+[Event "Trud"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6bk/8/5P2/p3PP2/8/8/3K4/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. e6 a4 (Bh7 $144 2. e7 $18) (Kh7 $144 2. Kc3 Kh6 3. Kb2 Kh7 4. Ka3 $18) 2. Kd1 (2. Kc3 $143 a3 3. Kb3 Bh7 4. e7 Bg8+ 5. Kxa3 Bf7 6. Kb4 Kh7 7. Kc5 Kh6 8. Kd6 Kg5 9. Ke5 Kg4 $11) (2. Kc2 $143 Bh7 $11) (2. Kd3 $143 Bh7 3. Ke4 Kg8 4. Ke5 Kf8 5. f7 Ke7 6. f6+ Kf8 $11) (2. f7 $143 Bxf7 $11) a3 (Bh7 $144 3. e7 $18) (Kh7 $144 3. Kc2 a3 (Kh6 $144 4. Kb2 Kg5 5. f7 $18) 4. Kb3 $18) 3. Kc1 (3. Kc2 $143 Bh7 $11) Kh7 (Bh7 $144 4. e7 $18) (a2 $144 4. Kb2 Kh7 5. Kxa2 $18) 4. Kb1 Kh6 5. Ka1 (5. Ka2 $143 Bh7 6. e7 Bg8+ $11) (5. Kc2 $143 Bh7 $11) Kh7 (a2 $144 6. Kb2 a1=Q+ (Kg5 $144 7. f7 $18) (Bh7 $144 7. e7 $18) 7. Kxa1 $18) 6. Ka2 Kh6 7. Kxa3 $18 1-0
+
+[Event "2.hm Shakhmaty v SSSR#12"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1B4K1/4R3/5qk1/8/3n4/5PPP/8 w - - 0 1"]
+[PlyCount "11"]
+
+1. Bc8 Nf4 (Qd5 $144 2. Rg6+ Kf4 3. Rg4+ Ke5 4. Rg5+ $18) (Qxf2 $144 2. Rg6+ Kf4 (Kh5 $144 3. Bg4+ Kh4 4. g3+ $18) 3. Rf6+ Kg5 4. Rxf2 Nxf2 $18) (Nxf2 $144 2. h4+ Kxh4 3. Rh6+ Qh5 4. g3+ Kg5 5. Ra6 $1 $18) 2. h4+ Kxh4 (Kg4 $144 3. Rg6+ Nxg6 4. Bxf5+ Kxf5 5. g4+ Kxg4 6. Kxg6 Kxh4 7. f4 Kg4 8. f5 $18) 3. Rh6+ Nh5+ $1 (Qh5 $144 4. g3+ $18) 4. Rxh5+ $1 Qxh5 5. g3+ Kg5 6. f4# 1-0
+
+[Event "Magyar Sakkvilág#660"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5b2/8/2p5/5B2/4KP2/p2P4/7B/5k2 w - - 0 1"]
+[PlyCount "13"]
+
+1. Bh3+ Kf2 2. f5 a2 (Bg7 $144 3. f6 $1 Bxf6 4. Be6 $18) 3. Be5 Bd6 4. Bd4+ Kg3 5. Bf1 Bc5 (c5 $144 6. Ba1 Kf2 7. Kd5 Bf8 8. d4 $1 Kxf1 (Bg7 $144 9. Bc4 $18) 9. dxc5 $18) 6. Ba1 $1 (6. Be5+ $143 Kf2 7. Bh3 Bd6 $11) Kf2 7. d4 $18 1-0
+
+[Event "3.hm Shakhmaty v SSSR#68"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/3B4/3P4/7k/8/8/2p4p/Kb3N2 w - - 0 1"]
+[PlyCount "15"]
+
+1. Ng3+ (1. Kb2 $2 $143 c1=Q+ $1 2. Kxc1 h1=Q $19) (1. Be8+ $2 Kh6 2. Nxh2 c1=Q) Kh4 2. Kb2 (2. Nf5+ $2 Kg5 $19) (2. Bg4 c1=Q 3. Nf5+ Bxf5+ 4. Ka2 h1=Q) c1=Q+ (Kxg3 $144 3. Bc6 c1=Q+ 4. Kxc1 $11) 3. Kxc1 Be4 4. Nh1 (4. Nf5+ $2 Kg4 5. Nd4+ Kg5 $19) (4. Nxe4 $2 h1=Q+ 5. Kc2 Qxe4+ 6. Kc3 Qf4 $19) (4. Bf5 $2 $143 Bxf5 5. Nxf5+ (5. Nh1 Kh3 6. Kd1 Kg2 7. Ke2 Kxh1 8. Kf2 Bh3 $19) Kg4) (4. Bc6 $2 Bxc6 5. Nf5+ Kg4) (4. Kd1 Kxg3) Bxh1 5. Bh3 $3 (5. Be8 $2 Bb7 $19) (5. Bc8 $2 Bc6 $19) (5. Be6 $2 Bf3) (5. Kd2 $2 Bd5) (5. Kc2 $2 Be4+ 6. Kc3 h1=Q) Bc6 6. Bg2 $3 (6. d7 $2 h1=Q+ 7. Kc2 Be4+) (6. Kd1 $2 h1=Q+ 7. Bf1 Qxf1+ 8. Kd2 Qc4 9. d7 Bxd7) (6. Bd7 $2 h1=Q+ 7. Kc2 Bxd7) (6. Bc8 $2 h1=Q+ 7. Kc2 Qh2+) (6. Bf5 h1=Q+ 7. Kc2 Qh2+) Bxg2 7. d7 (7. Kd1 $2 h1=Q+ 8. Kd2 Bc6) (7. Kd2 Bc6) h1=Q+ 8. Kd2 $10 $1 $11 (8. Kb2 $2 Qd1 9. d8=Q+ Qxd8 $19) (8. Kc2 $2 Be4+ 9. Kd2 Qh2+) 1/2-1/2
+
+[Event "1.p All-Union Team champ USSR Ty Shakhm"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "R7/8/n2rP3/7p/kpP4P/7P/KP5r/R7 w - - 0 1"]
+[PlyCount "37"]
+
+1. e7 b3+ 2. Kb1+ Kb4 3. Ra4+ Kc5 (Kxa4 $144 4. e8=Q+ $18) 4. Rc8+ Nc7 $1 (Kd4 $144 5. c5+ Kd3 6. cxd6 $18) (Kb6 $144 5. c5+ Nxc5 6. Rb4+ Ka5 7. Rxb3 Rh1+ 8. Ka2 Ra1+ 9. Kxa1 Nxb3+ 10. Ka2 Re6 11. e8=Q Rxe8 12. Rxe8 $18) 5. Rxc7+ Kb6 6. c5+ Kxc7 7. cxd6+ Kxd6 8. e8=N+ Kd7 (Ke7 $144 9. Re4+ Kd7 10. Kc1 $18) 9. Nf6+ Ke7 (Ke6 $144 10. Ra6+ Kf5 11. Kc1 (11. Rc6 $143 Rh1+ 12. Rc1 Rxc1+ 13. Kxc1 Kxf6 14. Kd2 Ke5 15. Kc3 Kf4 16. Kxb3 Kg3 17. Kc3 Kxh4 $1 (Kxh3 $143 $18) 18. b4 Kxh3 19. b5 Kg2 $11) Rc2+ (Rxh3 $144 12. Nxh5 Rxh4 13. Ng3+ $18) 12. Kd1 Rxb2 13. Nxh5 Rh2 14. Ra5+ Ke4 15. Kc1 $18) 10. Ng8+ Kf7 (Kf8 $144 11. Ra8+ Kg7 12. Rc8 Rh1+ (Rxh3 $144 13. Kc1 $1 Rxh4 14. Ne7 Rh1+ 15. Kd2 Rh2+ 16. Kc3 Rc2+ 17. Kxb3 Rxc8 18. Nxc8 {EGTB} h4 19. Kc3 (19. Nd6 $143 Kf6 20. Ne4+ Ke5 21. Nf2 Kf4 22. Kc3 Kf3 23. Nh3 Kg3 24. Ng5 Kf4 $1 $11 (Kg4 $143 25. Ne4 $1 $18 Kf3 26. Kd4 Kf4 27. Nd2 h3 28. Nf1 Kf3 29. Ke5 $1 Ke2 30. Nh2 Kd3 31. Kd5 Ke3 32. b4 Kf4 33. Nf1 Kf3 34. Ke5 Kf2 35. Kf4 $18)) h3 20. Nd6 h2 21. Nf5+ Kg6 22. Ng3 $18) 13. Rc1 Rxh3 14. Rg1+ Kf7 (Kh8 $144 15. Nf6 Rg3 16. Rd1 $18) (Kh7 $144 15. Nf6+ Kh6 16. Kc1 Rxh4 17. Rg3 $18) 15. Nh6+ Kf6 16. Rf1+ Kg6 17. Nf5 Rh2 18. Nd4 Rxh4 19. Nxb3 $18) 11. Nh6+ Kg7 12. Nf5+ Kg6 13. Ng3 Rg2 14. Nf1 Rf2 15. Ne3 Re2 16. Nd1 Rd2 17. Nc3 Rh2 18. Rd4 Rh1+ 19. Nd1 $18 1-0
+
+[Event "2.p Shakhmaty v SSSR#45 {c}"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "5R2/1n6/P6k/8/1P5r/8/3K1p2/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. a7 (1. b5 $2 $143 Nd6 2. a7 Ra4 3. b6 Nc4+ $15 $11) (1. axb7 $2 $143 Rxb4 $11 2. Rf6+ $10) (1. Rh8+ $2 Kg7 2. Rxh4 f1=Q $10 3. Rg4+) (1. Kc3 $2 Rh3+ 2. Kd2 $14 $10) (1. Rxf2 $2 Rxb4 2. a7) (1. Ke2 $2 Rxb4 2. a7) (1. Rf6+ $2 Kg7 2. axb7 Rxb4 3. b8=Q Rxb8 4. Rf5) f1=Q $1 2. Rxf1 (2. a8=Q $4 Qg2+ 3. Ke3 Re4+ $19) (2. Rf2 $4 Qxf2+ 3. Kd3 Qf3+) Rh2+ 3. Kc1 $1 (3. Kc3 $2 Ra2 4. a8=Q $10) (3. Ke3 $2 Ra2 4. a8=Q $10) (3. Ke1 $2 Ra2 4. a8=Q $10) (3. Kd3 $2 Ra2 4. a8=Q $10) (3. Rf2 $4 Rxf2+ 4. Kd3 Ra2 $19 5. Kc4) (3. Kd1 $2 Ra2 4. a8=Q) Ra2 4. b5 $1 (4. Rf7 $2 Ra1+ 5. Kc2 $10) (4. Rf6+ $2 Kg7 5. a8=Q $10) (4. Kd1 $2 Nd8 5. a8=Q $10) (4. Rh1+ $2 Kg6 5. a8=Q $10) (4. Kb1 $2 Rxa7 5. b5) (4. Rf2 Ra1+ 5. Kc2) (4. Rf8 Ra1+ 5. Kc2) Ra1+ $1 (Rxa7 $144 5. Rf6+ Kg5 6. Ra6 Rxa6 7. bxa6 $18) (Kg7 $144 5. b6 Nc5 6. Rd1 $1 $18) 5. Kc2 $1 (5. Kb2 $2 $143 Rxa7 6. b6 $10 (6. Rf6+ Kg7 7. Ra6 Rxa6 8. bxa6 Nc5 9. a7 Na4+ 10. Ka3 Nb6 $11)) (5. Kd2 $2 Rxa7 6. b6 $10) Ra2+ $1 6. Kb1 $1 (6. Kc3 $2 Rxa7 7. b6 $10) (6. Kb3 $2 $143 Rxa7 7. b6 $10 (7. Rf6+ Kg7 8. Ra6 Rxa6 9. bxa6 Nc5+ $11)) (6. Kc1 Ra1+ 7. Kc2 Ra2+ $18) (6. Kd3 $2 Nc5+ 7. Kc3) (6. Kd1 $2 Kg7 7. a8=Q) Rxa7 7. Rf6+ (7. Rf7 $2 Nd6 8. Rxa7 Nxb5 9. Rb7 $10) (7. b6 $2 Ra6 8. Re1 $10) (7. Rh1+ $2 Kg6 8. b6) (7. Rc1 $2 Nd8 8. b6) Kg5 (Kg7 $144 8. Ra6 Nd6 9. Rxa7+ $18) 8. Ra6 $1 (8. Rf7 $2 Ra5 9. b6 $10) (8. b6 $2 Ra6 9. Re6) (8. Re6 $2 Nd8 9. b6) (8. Rb6 Nc5 9. Kc2) Rxa6 (Nd6 9. Rxa7 (9. Rxd6 $2 Rb7 10. b6 $10) (9. Rb6 Nc8 10. Ra6) Nxb5 10. Ra5 $1 $18 (10. Rd7 $2 Nc3+ 11. Ka1 $10) (10. Rg7+ Kf5 11. Rf7+) (10. Ra6 Nc7 11. Rb6) (10. Kb2 Nxa7 11. Ka2)) 9. bxa6 $18 (9. b6 Kf4) 1-0
+
+[Event "1.hm Tschigorin MT Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "B1k5/8/3b4/8/4p3/R1B1K1p1/5p1P/8 w - - 0 1"]
+[PlyCount "25"]
+
+1. Ke2 (1. Ra1 $143 Bc5+ 2. Ke2 g2 $19) (1. Bb7+ $143 Kc7 $1 (Kxb7 $143 2. Rb3+ Kc6 3. Ke2 $18) 2. Ba5+ Kxb7 3. Rb3+ Ka6 4. Ke2 gxh2 5. Rb1 Kxa5 $11) f1=Q+ (Bxa3 $144 2. hxg3 $18) 2. Kxf1 gxh2 3. Bb7+ Kd7 (Kc7 $144 4. Ba5+ Kxb7 5. Rh3 $18) 4. Bc8+ Ke8 5. Bd7+ Kf7 (Ke7 $144 6. Bf6+ Kxf6 7. Rh3 $18) 6. Be8+ Kg8 7. Bf7+ Kh7 (Kxf7 $144 8. Ra7+ Kg6 9. Kg2 $18) 8. Bg8+ Kg6 (Kh6 $144 9. Bd2+ Kg6 10. Rh3 $18) 9. Bh7+ Kh6 (Kh5 $144 10. Ra5+ $18) 10. Bd2+ e3 11. Bxe3+ Kxh7 12. Ra7+ Kg6 13. Kg2 $18 1-0
+
+[Event "1.p Dagestaner Committee Fizkultura i S"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3N4/n5Pk/q2NP3/ppp5/8/2K5/1P6/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. e7 b4+ 2. Kb3 (2. Kc2 Qe2+ $19) (2. Kd2 $143 Qxd6+ $19) a4+ 3. Ka2 b3+ 4. Ka3 Nb5+ (Qxd6 $144 5. g8=Q+ Kxg8 6. e8=Q+ $11) 5. Nxb5 Qxb5 6. Nc6 $3 Qe2 (Qxc6 $144 7. g8=Q+ Kxg8 8. e8=Q+ Qxe8 $11) 7. Ne5 $1 Qh5 (Qxe5 $144 8. g8=Q+ Kxg8 9. e8=Q+ Qxe8 $11) 8. Ng6 $1 (8. Nf7 $143 Qg4 $1 9. g8=Q+ Qxg8 10. Nd6 Qb8 $19) Qe2 9. Ne5 Qb5 10. Nc6 $11 1/2-1/2
+
+[Event "3.p Erevan Ty"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K6/2p5/1p6/qp1N4/b6P/BpP3P1/1P6/3k4 w - - 0 1"]
+[PlyCount "33"]
+
+1. Nb4 c5 2. h5 $1 (2. g4 $143 cxb4 3. cxb4 Kc2 $1 4. h5 Qxb4 5. Bxb4 Kxb2 6. h6 Ka2 $1 7. Bc3 b4 8. Bd4 b2 9. Bxb2 Bc2 10. Bd4 b3 11. Kc7 b5 12. Kc6 Bd3 $11) cxb4 3. cxb4 (3. Bxb4 $143 Kc1 4. h6 Kxb2 5. Bxa5 bxa5 6. h7 Ka2 7. h8=Q b2 $19) Qa6 (Qxb4 $144 4. Bxb4 Kc2 5. h6 $18) 4. g4 $1 (4. h6 $143 Ke2 5. h7 Kf3 6. h8=N (6. h8=Q $144 Kxg3 $11) Ke4 $1 7. Nf7 Kd5 8. g4 Ke6 9. Nd8+ Kd7 10. Nb7 Kc6 11. Nd8+ Kd7 12. Nb7 Ke7 13. g5 Kd7 14. g6 Ke7 15. g7 Qxb7+ 16. Kxb7 Kf7 $11) Ke2 5. g5 $1 Kf3 6. g6 $1 Kg4 7. g7 Kxh5 8. g8=N $1 (8. g8=Q $143 Kh6 9. Qg4 Kh7 10. Qg5 Kh8 11. Qg6 Qb7+ $11) Kg4 (Kg5 $144 9. Ne7 Kf4 10. Nd5+ Ke4 11. Nc7 $18) 9. Ne7 Kf3 10. Nd5 Ke2 11. Nc7 Qa5 12. Kb7 Kd2 13. bxa5 bxa5 14. Bf8 Kc2 15. Bg7 b4 16. Kb6 Bd7 17. Kxa5 $18 1-0
+
+[Event "1.p All-Union of Chess Section of Physi"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6Nn/5N2/6P1/8/Kp6/p4k2/8/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. Ng5+ (1. g7 $143 Nxf7 2. Kb3 Kf4 $11) (1. Ne5+ $143 Ke4 2. Nf6+ Kf5 3. g7 a2 4. gxh8=Q a1=Q+ 5. Kxb4 Qxe5 $11) Kf4 (Kg4 $144 2. g7 $18) (Ke3 $144 2. g7 Ng6 3. Kb3 Kd2 4. Nf6 Ne7 5. Nd5 Ng8 6. Ne4+ Kd3 7. Nef6 Nh6 8. Ne3 Kd2 9. Neg4 a2 10. Kxa2 Kc2 11. Ne3+ Kd3 12. Kb3 Kxe3 13. Ng4+ $18) (Ke2 $144 2. g7 Nf7 3. Kb3 $18) 2. g7 Nf7 (Ng6 $144 3. Kb3 (3. Ne6+ $143 Ke5 4. Nh6 Ne7 5. Nc5 Kf6 $11) Kxg5 4. Ka2 Kf4 5. Nf6 Ne7 6. Nd5+ Nxd5 7. g8=Q $18) 3. Ne6+ (3. Nh3+ $143 Kg3 4. Ne7 Nh6 5. Nf5+ Kxh3 6. Nxh6 a2 $11) Ke5 4. Kb3 Kxe6 5. Ka2 (5. Kc2 $143 a2 6. Kb2 b3 7. Ka1 Kd6 8. Ne7 Nh6 9. Nf5+ Nxf5 10. g8=Q Nd4 11. Kb2 Nc2 $11) Kd6 6. Ne7 Nh6 7. Nf5+ Nxf5 8. g8=Q $18 1-0
+
+[Event "2.p Erevan Ty"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p1pp4/P4K2/PkpP4/8/2P5/8/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. Ke7 $1 c4 (Kc4 $144 2. Kxd7 Kxc3 (Kxd5 $144 3. Kc8 $1 Kc6 4. Kb8 Kd7 5. Kxa7 Kc8 6. c4 c6 7. Kb6 $18) 3. Kxc7 Kb3 4. d6 $18) (d6 $144 2. Kd7 Kc4 3. Kxc7 Kxc3 4. Kb7 c4 5. Kxa7 Kd3 6. Kb8 c3 7. a7 c2 8. a8=Q c1=Q 9. a6 Qg5 10. Qc6 Qd8+ 11. Kb7 $18) 2. Kd8 $3 (2. Kxd7 $143 Kc5 3. Kxc7 (3. Kc8 $144 c6 $1 4. Kb7 cxd5 5. Kxa7 d4 6. cxd4+ Kxd4 7. Kb6 c3 8. a7 c2 9. a8=Q c1=Q $11) Kxd5 4. Kb7 Kd6 5. Kxa7 Kc7 $11) Kc5 3. Kc8 $1 (3. Kxc7 $143 Kxd5 4. Kxd7 $11) c6 $1 (Kxd5 $144 4. Kb7 $18) 4. d6 $3 (4. Kb7 $143 cxd5 5. Kxa7 d4 6. cxd4+ Kxd4 $11 {EGTB}) Kxd6 5. Kb8 $1 (5. Kb7 $143 c5 6. Kxa7 Kc7 $19) c5 6. Kb7 (6. Kxa7 $143 Kc7 $19) Kd5 7. Kxa7 $18 1-0
+
+[Event "Shakhmaty v SSSR {ph}"]
+[Source "Shakhmaty v SSSR/3"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7B/5nKP/3P3P/4k1n1/8/8/8/b7 w - - 0 1"]
+[PlyCount "13"]
+
+1. Kg8+ $3 $1 (1. d7 $143 $2 Ke6+ 2. Kg8 (2. Kg6 $144 Bxh8 3. d8=Q Nxd8 4. Kxg5 Kf7 $19) Nxh6+ 3. Kf8 Kxd7 $1 4. Bxa1 Ne6#) Nxh8 2. Kxh8 Kxd6+ (Ke6+ $144 3. Kg8 Nf7 4. d7 Nxh6+ 5. Kf8 Kxd7 (Nf7 $144 6. Kg8 $1 Nh6+ 7. Kf8 Nf7 8. Kg8 Ke7 9. d8=Q+ $11) 6. h8=Q Bxh8 $11) 3. Kg8 Ke7 4. h8=Q Bxh8 5. h7 $1 (5. Kxh8 $143 $2 Kf8 6. h7 Nf7#) Ba1 6. h8=Q Bxh8 7. Kxh8 $11 1/2-1/2
+
+[Event "Izbrannje Etjudi Kaminera i Liburkina#1"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/kp6/1Rp5/8/1KP3p1/1P6/PP6/8 w - - 0 1"]
+[PlyCount "16"]
+
+1. Ka5 g3 2. Rb5 $1 cxb5 (b6+ $144 3. Rxb6 g2 4. Rxc6 g1=Q $11) 3. cxb5 g2 (b6+ $144 4. Ka4 g2 5. b4 g1=Q 6. b3 Qg2 7. a3 Qa8 $11) 4. b6+ Kb8 5. b4 g1=Q 6. b5 Qg8 (Qe1+ $144 7. b4 $11) (Qb1 $144 7. a4 Qxb2 $11) 7. a4 Kc8 8. b4 Kd7 $11 1/2-1/2
+
+[Event "Izbrannje Etjudi Kaminera i Liburkina#1"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7B/6Pb/5P2/4P3/3P4/P1P5/1P6/K1k1n3 w - - 0 1"]
+[PlyCount "13"]
+
+1. g8=Q (1. Ka2 $143 Bg8+ 2. b3 Bh7 $1 3. b4 (3. a4 Bb1+ 4. Ka3 Nc2#) Bg8+ 4. f7 Bxf7+ 5. e6 Bxe6+ 6. d5 Bxd5+ 7. c4 Bxc4+ 8. Ka1 Nc2#) Bxg8 2. f7 Bxf7 3. e6 Bxe6 4. d5 Bxd5 5. c4 Bxc4 6. b3 Bxb3 7. Bb2+ $11 1/2-1/2
+
+[Event "Izbrannje Etjudi Kaminera i Liburkina#1"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p1p5/1bPp4/p1kPp3/P3P2p/P5P1/2K3P1/8 w - - 0 1"]
+[PlyCount "18"]
+
+1. Kd3 $1 (1. Kc3 $143 hxg3 2. Kd3 a6 3. Kc3 Ba7 4. Kd3 Bb8 5. Kc3 Kb6 6. Kd3 Ka7 7. Ke2 Ka8 8. Kf1 Ba7 $19) hxg3 2. Kc3 a6 3. Kd3 Ba7 4. Kc3 Bb8 5. Kd3 Kb6 6. Ke2 $1 Ka7 7. Kf1 Ka8 8. Kg1 Ba7+ 9. Kh1 Kb8 $11 (Bb8 $144 10. Kg1 Ka7 11. Kf1 Kb6 12. Ke2 Kc5 13. Kd3 $11) 1/2-1/2
+
+[Event "Izbrannje Etjudi Kaminera i Liburkina#1"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "NN2k3/6p1/8/r7/8/1B3n2/2P5/1K6 w - - 0 1"]
+[PlyCount "13"]
+
+1. Nc7+ Kf8 2. Ne6+ Ke8 (Kf7 $144 3. Nd4+ Kf6 4. Nxf3 $18) 3. Nxg7+ Kf8 4. Ne6+ Ke8 5. Nc6 Nd2+ (Ra3 $144 6. Kb2 Rxb3+ 7. Kxb3 $18) 6. Kb2 Nxb3 7. cxb3 $18 1-0
+
+[Event "64#154 {c}"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2N5/7N/p7/8/1K4p1/2P5/4k3 w - - 0 1"]
+[PlyCount "21"]
+
+1. Nf5 (1. Ne6 $143 g2 2. Nd4 Kd1 3. Nf3 a4+ 4. Kc3 a3 $11) (1. Ng4 $143 g2 2. Ne5 Ke2 $19) g2 2. Nh4 (2. Nd4 $143 Kf2 $19) g1=Q (g1=N $144 3. c4 Ne2 4. Ne6 $18) 3. Nf3+ Kd1 4. Nxg1 a4+ 5. Kc3 (5. Kb2 $143 a3+ $11) a3 6. Nd5 a2 7. Ne3+ Kc1 8. Ne2+ Kb1 9. Kd2 $1 a1=Q (Kb2 $144 10. Nc4+ Kb1 11. Nc3+ Ka1 12. Nxa2 $18) 10. Nc3+ Kb2 11. Nc4# 1-0
+
+[Event "Tschigorin MT"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "1k5b/p7/1P4K1/N7/3p4/3P4/8/8 w - - 0 1"]
+
+1. Nc6+ $1 (1. Kh7 $2 axb6 2. Nc4 $10) (1. b7 $2 a6 2. Kf7 $10) (1. bxa7+ $2 Kxa7 2. Nc6+ $10) (1. Nc4 $2 axb6 2. Nxb6 $10) (1. Nb3 $2 axb6 2. Nd2 $10) (1. Kf7 $2 axb6 2. Nb3) (1. Kg5 axb6 2. Nb3) (1. Nb7 Kxb7 2. bxa7 Kxa7) Kb7 (Ka8 2. bxa7) 2. bxa7 (2. Na5+ $4 Kxb6 3. Nc4+ Kb5 $19) (2. Ne5 $4 Bxe5 3. bxa7 Kxa7 $19) (2. Kf7 $4 Kxc6 3. bxa7 Kb7 $19) (2. Ne7 $4 a5) (2. Nxd4 $2 Kxb6 3. Nf5) (2. Nxa7 $2 Kxb6 3. Nc8+) (2. Kh7 axb6 3. Nd8+) Ka8 $1 3. Kf7 $1 (3. Kh7 $2 Bf6 4. Nb8 $10 Kxa7 5. Nd7) (3. Kf5 $2 Bg7 4. Nb8 $10 Kxa7 5. Nd7) (3. Nd8 $2 Be5 4. Nf7 $10) (3. Nb8 $2 Kxa7 4. Nc6+) (3. Nxd4 $2 Be5 4. Nc6) (3. Kh6 $2 Bf6 4. Nb8) (3. Ne7 Be5 4. Ng8) (3. Kg5 Bg7 4. Nb8) Kb7 4. a8=Q+ $1 (4. a8=R Kxa8 5. Kg6 $18) (4. Nd8+ Kxa7 5. Kg6 $18) (4. a8=B+ $18) (4. Kg8 $2 Bf6 5. a8=Q+ $10) (4. Ke6 $2 Bg7 5. a8=Q+ $10 Kxa8 6. Nxd4) (4. Kg6 Ka8 5. Kf7 Kb7 $18) (4. Nb4 Be5 5. a8=Q+) Kxa8 5. Kg6 $1 (5. Kg8 $2 Bf6 6. Nxd4 $10 Bxd4 7. Kf8) (5. Ke6 $2 Bg7 6. Nd8 $10) (5. Nd8 $2 Be5 6. Ne6 $10) (5. Ke7 $2 Bg7 6. Nd8 $10 Bf6+ $4 (Kb8 $5) 7. Kxf6) (5. Ne7 $2 Be5 6. Ng8 $10) (5. Nxd4 $2 Kb7 6. Nc6) (5. Nb4 $2 Be5 6. Na6) (5. Ke8 $2 Bg7 6. Nd8) (5. Na5 $2 Be5 6. Nc6) (5. Kf8 $2 Bf6 6. Ne7 Bg7+ $4 (Kb7 $5) 7. Kxg7) Kb7 6. Nd8+ (6. Kh7 $4 Kxc6 $19 7. Kxh8 Kc5) (6. Ne7 $2 Be5 7. Ng8 $10) (6. Nxd4 $2 Kc8 7. Nc6) (6. Nb4 $2 Be5 7. Nd5) (6. Na5+ $2 Ka7 7. Nc6+ $10) (6. Kh5 Kxc6) Kb6 7. Nf7 (7. Kf5 $2 Bg7 8. Nf7 $10) (7. Ne6 $2 Be5 8. Nd8) (7. Kh7 $2 Bf6 8. Nf7) (7. Kg5 $2 Bg7 8. Nf7) Kb5 8. Nxh8 $18 (8. Nd6+ $2 Ka4 9. Nc8) (8. Kf5 $2 Bg7 9. Ng5) (8. Kh7 $2 Bf6 9. Nh6) (8. Ng5 $2 Be5 9. Nf7) (8. Nh6 Be5 9. Nf7) (8. Ne5 Bxe5) Kb4 9. Kf5 1-0
+
+[Event "3.p 64#452 (c)"]
+[Source "(c): Murarasu=I Raican=P Quartz=22 Quartz/10-12 2002."]
+[Date "1903.04.15"]
+[Round "?"]
+[Composer "Liburkin, Mark Savelievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/3P1rN1/PP1r4/8/k1P5/8/8/8 w - - 0 1"]
+
+1. Ne6 $1 Rfxd7 (Rf6 2. a7 (2. c5 $2 Rxd7 3. c6 Re7 4. c7 Rfxe6 5. c8=Q Re8 6. b7 Rxa6+ 7. Kb8) Rfxe6 3. b7 Rxd7 4. b8=Q Ree7 5. Qb5+ Ka3 6. Qxd7 $1 Rxd7 7. c5) 2. Nc5+ Ka5 3. Nxd7 Rxd7 (Kxa6 {<main>} 4. b7 Rxd7 5. b8=N+ $1 Ka5 6. Nxd7) 4. b7 Rd8+ 5. b8=R $1 (5. b8=Q $2 Kxa6 6. Qxd8) (5. Ka7 $2 Rd6 6. b8=N Kb4 7. Kb7 Rxa6 8. Nxa6+ Kxc4) Rd7 (Rxb8+ 6. Kxb8 Kxa6 7. Kc7) 6. Rb7 Rd8+ 7. Ka7 Rc8 8. Rb5+ Ka4 9. Kb7 1-0
+
+[Event "3.p 64#452 (c)"]
+[Source "(c): Benko=P Magyar Sakkvilág=6 6/2011."]
+[Date "1930.04.15"]
+[Round "?"]
+[Composer "Liburkin, Mark Savelievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/3r4/P7/1P6/k1P5/8/8/8 w - - 0 1"]
+
+1. b6 $1 Ka5 2. b7 Rd8+ (Kxa6 3. b8=N+ Kb6 4. Nxd7+) 3. b8=R $1 (3. b8=Q $2 Kxa6 $1 4. Qxd8) Rd7 4. Rb7 1-0
+
+[Event "1.p Vechernyaya Moskva"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark Savelievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1b6/4P3/1P2PN2/8/2P5/P1k5/P1p2P2/K5B1 w - - 0 1"]
+
+1. Ne4+ $1 Kd3 2. Nc5+ (2. Kb2 $2 Be5+ 3. Kb3 c1=Q 4. Nc5+ Ke2 5. Kb4 Qb1+ 6. Nb3 Bd6+ 7. Kb5 Bxe7) Kc3 3. Nb3 Be5 $1 4. f4 Bg7 (Bf6 5. e8=N $1) 5. e8=N $1 (5. Be3 $2 Kxc4+ 6. Nd4 Bxd4+) Bh8 6. f5 Be5 7. Bh2 Bxh2 (Bd4 8. Bf4 Kxc4+ 9. Nxd4) 8. b7 $1 (8. Nf6 $2 Be5 9. Ng4 Bd4) Be5 (Kd3 9. Nc1+ Kd2 10. Kb2 Be5+ 11. Kb3 Kxc1 12. Nc7 $1 Bxc7 (Kb1 13. b8=Q c1=Q 14. Ka4+ Ka1 $1 (Bb2 15. Qb3) 15. e7 Bd6 (Qxc4+ 16. Qb4 Qc6+ 17. Kb3) 16. Kb3 Bxe7 17. Nd5) 13. e7 Kb1 (Kd2 14. e8=Q c1=Q 15. Qd7+ Ke3 16. Qxc7) 14. e8=Q c1=Q 15. Qe4+ Ka1 16. Qd4+ Kb1 17. Qd3+ Ka1 18. Qc3+) 9. b8=B $1 (9. b8=Q $2 Kxc4+ $1 10. Qxe5 c1=Q+ 11. Nxc1) Bxb8 10. Nc7 Bxc7 11. e7 Be5 12. e8=R $1 (12. e8=Q $2 Kxc4+ 13. Qxe5 c1=Q+ 14. Nxc1) Bg7 {<eg>} 13. Re6 Bd4 14. Re1 $1 Bf6 15. Rb1 $1 Kd3+ 16. Rb2 Ke2 17. c5 Kd1 18. a4 $1 c1=Q+ 19. Nxc1 Kxc1 20. a3 Bxb2+ 21. Ka2 1-0
+
+[Event "Shakhmaty v SSSR (tw)"]
+[Date "1933.01.15"]
+[Round "?"]
+[Composer "Liburkin, Mark Savelievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2B1N1k1/8/8/1N6/8/2K1p3/4b3 w - - 0 1"]
+
+1. Nd3 $1 (1. Nf5+ $2 Kf6 2. Nd3 Bf2 $1) Bb4 2. Nf5+ Kf6 3. Ne3 e1=Q 4. Nxe1 Bxe1 5. Kd1 Bh4 (Bf2 {<main>} 6. Ng4+ Kg5 7. Nxf2) (Bb4 {<main>} 6. Nd5+ Ke6 7. Nxb4) (Bc3 {<main>} 6. Nd5+ Ke6 7. Nxc3) 6. Bd8+ Ke5 7. Bxh4 1-0
+
+[Event "4/5.hm Communist Party Congress ty 64 ("]
+[Source "64/3 (c): Garcia=M Estudios Artisticos de Ajedrez - XII-49 2012."]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark Savelievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "nKQ5/8/8/4n3/2p5/8/BN4kb/7q w - - 0 1"]
+
+1. Nxc4 $1 (1. Qb7+ $2 Nf3+ 2. Kxa8 Qa1 $1 (c3 $2 3. Nd3 Bg3 4. Qg7 Kh2 5. Ka7 Qg1+ 6. Kb7) 3. Qa7 Qxb2 4. Bxc4 Qb4 5. Qg7+ (5. Qa2+ Nd2 6. Bd5+ Kh3 7. Ka7 Bb8+ 8. Ka8 Be5) Bg3 6. Qg8 Kf2 7. Ba6 Nd4 8. Qa2+ Ke3 9. Qg8 Qd6 10. Qc8 Kd2 11. Qb7 Be5 12. Qg2+ Kc3) Nxc4+ 2. Kxa8 Nb6+ (Kg3+ 3. Qb7) 3. Kb7 Nxc8 4. Bd5+ Kg1 5. Kxc8 $1 (5. Bxh1 $2 Nd6+ 6. Kc6 Kxh1) Qxd5 1/2-1/2
+
+[Event "64 (c)"]
+[Source "(c): Kasparyan=G 1979."]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark Savelievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/1pp5/8/3N4/5K2/pp1B4/k7 w - - 0 1"]
+
+1. Nc2+ $1 Kb1 2. Na3+ Ka1 3. Bc3 b5 4. Ke2 $1 (4. Ke3 $2 b4 5. Bxb4 b1=R $1 6. Bc3+ Rb2) b4 (c5 5. Nxb5 Kb1 6. Na3+ Ka1 (Kc1 7. Bd2#) 7. Kd2) 5. Bxb4 b1=Q (b1=R 6. Bc3+ Rb2+ 7. Kd1) (b1=N 6. Nc4 c5 7. Ba5 Nd2 8. Bc3+ Kb1 9. Nxd2+ Kc2 10. Be5 c4 11. Nxc4) (c5 6. Bc3 c4 7. Kd2 c5 8. Bh8 c3+ 9. Kxc3) 6. Bc3+ Qb2+ 7. Kd3 c5 8. Kc4 c6 9. Kd3 c4+ 10. Kd4 $1 (10. Kxc4 $2 c5 11. Kd3 c4+ 12. Kd4 Qxc3+ 13. Kxc3) c5+ 11. Kxc4 Qxc3+ 12. Kxc3 c4 13. Kc2 c3 14. Kc1 c2 15. Nxc2# 1-0
+
+[Event "Revista de Romana de Sah#0401"]
+[Source "Revista de Romana de Sah/1"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark Savelievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7b/8/PkN5/6K1/3p4/3P4/8/8 w - - 0 1"]
+
+1. a7 $1 Kb7 2. a8=Q+ $1 Kxa8 3. Kg6 Kb7 4. Nd8+ Kb6 5. Nf7 Kb5 6. Nxh8 Kb4 7. Nf7 Kc3 8. Ne5 1-0
+
+[Event "Trud (c)"]
+[Source "(c): Dolgov=V 64 Shakhmatnoye Obozrenye=7(678) 4/1983."]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark Savelievich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2r4k/7B/2p2K2/7p/8/B7/8/8 w - - 0 1"]
+
+1. Kg6 $1 Rg8+ (Rb8 2. Be7) 2. Kh6 Rg2 3. Bb4 (3. Bc5 $2 Rd2 4. Bb4 Rd4 5. Bc3 c5) Rg3 4. Bc5 Rg4 5. Bd6 Rg5 6. Be7 Rf5 7. Bxf5 1-0
+
+[Event "Trud"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark Savelievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6bN/7p/8/8/8/8/8/5k1K w - - 0 1"]
+
+1. Kh2 $1 Kf2 2. Kh3 Kf3 3. Kh4 Kf4 4. Kh5 Kf5 5. Kh6 Kf6 6. Ng6 $1 hxg6 1/2-1/2
+
+[Event "Bulletin Central Chess Club USSR (tw) ("]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Liburkin, Mark Savelievich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7r/P5k1/8/8/8/8/p6p/R3K3 w Q - 0 1"]
+
+1. Kf2 $1 Ra8 (h1=Q 2. Rxh1 Rxh1 3. a8=Q a1=Q 4. Qb7+) 2. Kg2 Rxa7 (h1=Q+ 3. Kxh1 Rxa7 4. Kg2) 3. Kh1 $1 Kf6 4. Rxa2 $1 Rxa2 1/2-1/2

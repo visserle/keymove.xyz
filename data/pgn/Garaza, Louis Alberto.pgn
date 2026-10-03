@@ -1,0 +1,13 @@
+[Event "British Chess Magazine#0711"]
+[Source "British Chess Magazine/11"]
+[Date "1945.??.??"]
+[Round "?"]
+[Composer "Garaza, Louis Alberto"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1Q6/4p1p1/pp2P3/kp4p1/1p4Pn/1P6/1PP2Kp1/7b w - - 0 1"]
+
+1. Qh2 $1 (1. c4 $2 Nf3 $1) Nf3 2. Qg1 $1 Nxg1 3. Kxg1 g6 4. c3 bxc3 5. bxc3 b4 6. c4 b5 7. c5 1/2-1/2

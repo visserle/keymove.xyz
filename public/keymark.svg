@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="45 -705 410 830" role="img" aria-label="keymove">
+  <title>keymove</title>
+  <!-- U+26B7 CHIRON, the key whose bit is a K — the mark without its tile, for
+       Safari's `rel="mask-icon"`, which masks the artwork and tints it with the
+       link's `color`. Single ink, exactly like lila's `lichess.svg`. The outline
+       is the STIX Two Math glyph, mirrored about its centre so the bow (ring)
+       sits at the top and the K's two arms form the bit at the bottom, the way a
+       key is normally drawn. -->
+  <path transform="translate(0,-582) scale(1,-1)" fill="#000" d="M236 115C334 115 414 36 414 -63C414 -151 350 -226 266 -240V-432L415 -334L445 -381L266 -497V-500L445 -616L415 -663L266 -565V-697H208V-241C119 -228 55 -152 55 -63C55 36 135 115 236 115ZM236 57C167 57 113 3 113 -63C113 -132 167 -186 236 -186C301 -186 356 -132 356 -63C356 4 302 57 236 57Z"/>
+</svg>

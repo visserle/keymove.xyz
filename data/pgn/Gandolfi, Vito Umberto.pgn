@@ -1,0 +1,109 @@
+[Event "L'Italia Scacchistica#034"]
+[Source "L'Italia Scacchistica/5"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Gandolfi, Vito Umberto"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4P3/4r3/8/3B3p/5K1N/7k w - - 0 1"]
+
+1. Ng4 $1 Rxe6 (h2 2. Be2 Rf5+ 3. Bf3+ Rxf3+ 4. Kxf3 Kg1 5. Nf2) 2. Kf1 Re7 3. Be4+ Rxe4 4. Nf2+ Kh2 5. Nxe4 Kh1 6. Kf2 Kh2 7. Nd2 Kh1 8. Nf1 h2 9. Ng3# 1-0
+
+[Event "L'Italia Scacchistica#076"]
+[Source "L'Italia Scacchistica/10"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Gandolfi, Vito Umberto"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2k5/8/8/1p1p2Pp/3K4/N7/8 w - - 0 1"]
+
+1. g5 $1 Kd6 2. g6 Ke6 3. Nxb4 h3 4. Nd5 h2 5. g7 Kf7 6. Nf6 Kxg7 7. Nh5+ Kg6 8. Ng3 Kg5 9. Kxd4 (9. Nh1 {<or>} Kg4 10. Kxd4) Kg4 10. Nh1 Kf3 11. Kd3 Kg2 12. Ke2 Kxh1 13. Kf1 1/2-1/2
+
+[Event "Casino di Saragossa#24 Jaque"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Gandolfi, Vito Umberto"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5Kpk/1N5p/4pp1P/8/8/8 w - - 0 1"]
+
+1. Nd6 $1 e3 (f3 2. Nxe4 g5 (f2 3. Nxf2 Kh7 4. Nh3 Kh6 5. Nf4 Kh7 6. Nxg6) 3. hxg5+ Kh7 4. g6+) 2. Nf7+ Kh7 3. Ng5+ Kh6 (Kh8 4. Kxg6 e2 5. Nf3 Kg8 6. Kg5 $1) 4. Kf7 $1 (4. Ke5 $2 e2 5. Nf3 e1=Q+ 6. Nxe1 g5) e2 5. Kg8 (5. Nf3 $2 e1=Q 6. Nxe1 g5) e1=Q 6. Nf7# 1-0
+
+[Event "L'Italia Scacchistica#181"]
+[Source "L'Italia Scacchistica/12"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Gandolfi, Vito Umberto"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2bB4/2Pp2k1/8/8/1p2P3/7K/8 w - - 0 1"]
+
+1. Be6 $1 d5+ (b2 2. Ba2 Kf5 (d5+ 3. Kg2 Kf6 4. Kf2 Ke6 5. Ke2 Be5 6. Kd3 Kd6 7. e4 d4 8. Kc2) 3. Kg3 Ke4 4. Kf2 Kd3 5. Bb1+ Kd2 6. Kf3 d5 7. Bf5 Kc1 8. Ke2 b1=Q 9. Bxb1 Kxb1 10. Kd3 Bb6 11. c7 Bxc7 12. Kd4) 2. Kh3 $1 b2 3. Bxd5 b1=Q 4. Be4+ Qxe4 1/2-1/2
+
+[Event "L'Italia Scacchistica#182"]
+[Source "L'Italia Scacchistica/12"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Gandolfi, Vito Umberto"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3P2K1/8/1R5P/1b5r/1b6/3k4 w - - 0 1"]
+
+1. d7 $1 Bc2+ 2. Kg5 Bc1+ 3. Kh5 Rd3 4. d8=Q Rxd8 5. Rd4+ Rxd4 1/2-1/2
+
+[Event "L'Italia Scacchistica#247 (c)"]
+[Source "L'Italia Scacchistica/9 (c): Garcia=M Estudios Artisticos de Ajedrez - VIII-36 2012."]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Gandolfi, Vito Umberto"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1Bk5/7p/5P2/2p2P2/2P1K3/P1p4R/p4p2/5rb1 w - - 0 1"]
+
+1. f7 $1 Re1+ (a1=Q 2. f8=Q+ Kd7 3. Rxh7+) 2. Kd5 Rd1+ 3. Kc6 Rd8 4. Rd3 $1 Rf8 $1 5. Re3 Kxb8 6. Re8+ Ka7 7. Rxf8 f1=Q 8. Ra8+ Kxa8 9. f8=Q+ Ka7 {<eg >} 10. Qe7+ Ka6 11. Qb7+ Ka5 12. Qb5# 1-0
+
+[Event "L'Italia Scacchistica#267"]
+[Source "L'Italia Scacchistica/11"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Gandolfi, Vito Umberto"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1pNP4/8/5nPK/1k6/8/2b5 w - - 0 1"]
+
+1. d7 $1 Ne6 2. Nd4+ Nxd4 3. d8=Q Bg5+ 4. Kxg5 $1 Ne6+ 5. Kf6 Nxd8 6. g5 Nb7 7. Ke7 1-0
+
+[Event "L'Italia Scacchistica"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Gandolfi, Vito Umberto"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5Bkr/4p1Pp/4p2p/8/4K3/8/4nN2/8 w - - 0 1"]
+
+1. Ng4 $1 Ng3+ 2. Ke5 Nf5 3. Nxh6+ Nxh6 4. gxh8=Q+ Kxh8 5. Bxh6 Kg8 6. Kxe6 Kh8 7. Kf7 e5 8. Bg7# 1-0

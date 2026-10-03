@@ -1,0 +1,13 @@
+[Event "3.hm Shakhmaty (Riga)#232"]
+[Source "EG#02601."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Moz Zhukin, Vitaly I"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3N1K2/3p3q/6pk/6p1/2B5/6P1/8 w - - 0 1"]
+
+1. Nf6+ $1 Kh4 2. Be1+ g3 3. Bd2 d5 4. Be3 $1 (4. Bc1 $2 d4 5. Bd2 d3 6. Be3 d2 7. Bxd2 g4 $1 8. Bxh6) d4 5. Bc1 d3 6. Bd2 g4 (Qh8 7. Kg6) 7. Bxh6 d2 8. Kg6 d1=Q 9. Bg5# 1-0

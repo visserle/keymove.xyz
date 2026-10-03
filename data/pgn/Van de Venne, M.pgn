@@ -1,0 +1,38 @@
+[Event "De Schaakwereld#161"]
+[Date "1938.04.22"]
+[Round "?"]
+[Composer "Van de Venne, M"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/6K1/p2p1P2/3p2Pp/6k1/R7 w - - 0 1"]
+
+1. Kh4 $1 (1. g4 $2 h2 2. Ra2+ Kg3) (1. f5 $2 h2 2. f6 h1=Q 3. Rxh1 Kxh1 4. f7 d2 5. f8=Q d1=Q) (1. Rxa4 $2 h2 2. Rxd4 (2. Kg4 h1=Q 3. Ra2+ Kg1 4. Ra1+ Kg2 5. Rxh1 Kxh1 6. Kf3 Kg1 7. f5 Kf1 8. f6 d2) h1=Q 3. Rxd3 Qb1 4. Rc3 Qb2 5. Re3 Kf2 6. Rd3 Qb5+) h2 2. Ra2+ Kg1 3. g4 $1 h1=Q+ 4. Kg3 Kf1 5. Ra1+ Ke2 6. Rxh1 d2 7. f5 $1 d1=Q 8. Rxd1 Kxd1 9. f6 a3 10. f7 a2 11. f8=Q a1=Q 12. Qf1+ 1-0
+
+[Event "De Schaakwereld#229"]
+[Date "1938.12.23"]
+[Round "?"]
+[Composer "Van de Venne, M"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4N3/4KN2/4P3/p6p/P3pp1k/1R6 w - - 0 1"]
+
+1. Ned4 $1 f1=Q 2. Re1 $1 Qxe1 (Qg2 3. Rxe2) (Kg2 3. Rxe2+ Kg1 4. Ng3) 3. Nf3+ Kg2 4. Nxe1+ Kf2 5. Nd3+ Kf3 6. Nd4+ Ke3 7. Nxe2 Kxe2 8. Nf4+ Kd2 9. Nxh3 Kc3 {<eg>} 10. Nf2 Kb2 11. Nd1+ Kxa2 12. Nc3+ Kb3 13. Kd4 1-0
+
+[Event "De Schaakwereld#368"]
+[Date "1940.07.25"]
+[Round "?"]
+[Composer "Van de Venne, M"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k3P3/2P2n2/8/Npp5/4p3/4P1K1/8 w - - 0 1"]
+
+1. c7 $1 (1. Nc5 $2 Ne8 $1 2. Ne6 Kb8 3. c7+ Kc8) Kb7 2. Nb6 Kxc7 3. Nd5+ Kd7 4. Nxf6+ Kxe7 5. Nd5+ Kd6 6. Nxb4 $1 (6. Nxe3 $2 c3 $1) Kc5 7. Nc2 c3 8. Nxe3 1-0

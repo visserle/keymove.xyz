@@ -1,0 +1,12 @@
+[Event "Nottingham Weekly Guardian"]
+[Date "1936.01.11"]
+[Round "?"]
+[Composer "Anderson, Gerald Frank"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/5K2/4P3/4N3/4p3/7p/6p1/8 w - - 0 1"]
+
+1. Nf3 $1 exf3 2. e7 g1=Q 3. e8=Q+ Kh7 4. Qe4+ Kh6 5. Qh4# 1-0

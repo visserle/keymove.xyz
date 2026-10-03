@@ -1,0 +1,96 @@
+[Event "(The) Guardian#0847"]
+[Date "1965.08.26"]
+[Round "?"]
+[Composer "Miller, Andrew C"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/5N2/p3B3/8/1k6/3K4 w - - 0 1"]
+
+1. Bd5 $1 a3 (Kb1 2. Nd4 Kb2 3. Nc2 a3 4. Nb4) 2. Ba2 Ka1 3. Kc1 Kxa2 4. Kc2 Ka1 5. Nd4 Ka2 6. Ne2 Ka1 7. Nc1 a2 8. Nb3# 1-0
+
+[Event "(The) Guardian#0863"]
+[Source "EG#00161."]
+[Date "1965.12.16"]
+[Round "?"]
+[Composer "Miller, Andrew C"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k1K/7P/3b3N/5P2/8/8/8/8 w - - 0 1"]
+
+1. f6 $1 (1. Ng8 $2 Be5+ 2. f6 Bd4 3. Ne7 Bxf6#) (1. Ng4 $2 Be7 2. f6 Bd8 3. f7 Bg5 4. Ne5 Bf6#) Be5 (Bg3 2. Nf5 (2. Ng4 $2 Bh4) Be5 3. Ng7 Bxf6 (Kf7 4. Nh5)) 2. Ng4 (2. Ng8 $2 Bb2) Bc3 3. Ne5 Bxe5 (Bb2 4. Nd7+) 1/2-1/2
+
+[Event "New Statesman {and Nation}"]
+[Source "EG#00763."]
+[Date "1966.02.18"]
+[Round "?"]
+[Composer "Miller, Andrew C"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K1B2/5P2/8/3k4/8/6pp/8/8 w - - 0 1"]
+
+1. Bc5 $1 (1. Bd6 $2 h2) (1. Bb4 $2 g2) h2 2. f8=Q h1=Q 3. Qd6+ Kc4 (Ke4 4. Qc6+) 4. Qd4+ Kb5 (Kb3 5. Qd3+ Kb2 (Ka4 6. Qa3+) (Ka2 6. Qc2+ Ka1 7. Bd4#) 6. Bd4+ Kc1 (Ka2 7. Qc2+) 7. Qc3+ Kd1 8. Qa1+) 5. Qb4+ Kc6 (Ka6 6. Qb6#) 6. Qb6+ Kd5 7. Qb7+ 1-0
+
+[Event "EG"]
+[Source "EG/10 EG#00427."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Miller, Andrew C"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/5K2/3R4/7p/3Nn2p/4k3 w - - 0 1"]
+
+1. Rb4 $1 (1. Nf3+ $2 Kf2 2. Nxh2 Nxd4+ 3. Kg4 Kg2 4. Nf1 Nf5) (1. Ra4 $2 Kxd2 2. Ra2+ Kd1 3. Ra1+ Nc1) Kxd2 (Kf2 2. Rb1 Ng1 3. Ne4+ Kf3 4. Rb3+ Kg2 5. Rb2+) 2. Rb1 Kc2 3. Rh1 $1 (3. Ra1 $2 Nc1) (3. Re1 $2 Ng1) (3. Rf1 $2 Ng3+) Ng3+ 4. Kg4 Nxh1 5. Kxh3 1/2-1/2
+
+[Event "4/6.c The Problemist#0154"]
+[Source "The Problemist/3-4 1975 EG#02860."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Miller, Andrew C"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4n3/5b2/P1K5/2P5/1k6/1P6/8/8 w - - 0 1"]
+
+1. a7 $1 (1. Kb6 $2 Nc7 2. a7 Na8+ 3. Kb7 Bd5+ 4. c6 Kb5) Bd5+ (Bh5 2. Kb6) (Nf6 2. Kc7 Nd5+ (Ne8+ 3. Kb6 Bd5 4. c6) 3. Kd6) 2. Kxd5 Kb5 (Nc7+ 3. Kc6 Na8 4. Kb7) 3. Ke6 (3. b4 $2 Nc7+ 4. Kd6 Na8 5. Kd7 (5. c6 Kb6 6. b5 Kxa7 7. c7 Kb7 8. Kd7 Nb6+) Ka6 6. Kc6 Kxa7 7. b5 Nb6) (3. Ke5 $2 Nc7 4. Kd6 Na8) Nc7+ 4. Kd7 Na8 5. Kc8 Kxc5 6. Kb8 (6. Kb7 $2 Nb6 7. b4+ (7. Kc7 Kb5 8. Kb7 Kc5 9. Kb8 Kc6 10. b4 Nd7+ (Kb5 $2 11. Kb7) 11. Kc8 Nb6+) Kb5) Nb6 7. Kb7 (7. b4+ $2 Kc6) Kb5 8. b4 1-0
+
+[Event "The Problemist#0163"]
+[Source "The Problemist/7-9"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Miller, Andrew C"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3n4/8/4PB2/8/7K/8/P3k3/1r6 w - - 0 1"]
+
+1. e7 $1 Rh1+ 2. Kg4 Rg1+ 3. Kf5 Rg8 4. exd8=Q Rxd8 5. Bxd8 Kd3 6. Ke6 Kc4 7. Kd7 Kb5 8. Kc8 Ka6 9. Kb8 1-0
+
+[Event "The Problemist#0183"]
+[Source "The Problemist/7-9"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Miller, Andrew C"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K1B2/1p6/5P2/3k4/5ppp/8/8/8 w - - 0 1"]
+
+1. f7 $1 h3 2. Bc5 h2 3. f8=Q h1=Q 4. Qd6+ Kc4 (Ke4 5. Qd4+ Kf5 6. Qd7+ Kg6 7. Qe6+ Kh7 8. Qf7+ Kh6 9. Qf6+ Kh7 10. Qf5+ Kg7 11. Bd4+ Kh6 12. Qf6+ Kh5 13. Qh8+) 5. Qd4+ Kb5 (Kb3 6. Qd3+ Kb2 7. Bd4+ Kc1 8. Qc3+ Kd1 9. Qa1+) 6. Qb4+ Kc6 7. Qb6+ Kd5 8. Qxb7+ 1-0

@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Kopach, Lubos"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "6BK/8/6pk/3N2p1/6P1/8/8/7r w - - 0 1"]
+
+1. Ne7 (1. Nf6 $2 Rf1 2. Nd7 $10) (1. Be6 $2 Rd1 2. Ne7 $10) (1. Bh7 $2 Ra1 2. Ne7 $10) (1. Ne3 $4 Re1 $10 $15 2. Nd5) (1. Bf7 $2 Ra1 2. Nf6 $10) (1. Nc7 $2 Ra1 2. Be6 $10) (1. Nc3 $4 Re1 $10 $15 2. Nd5) (1. Nf4 $4 gxf4 $19 2. g5+ Kxg5+ 3. Kg7 Re1 4. Bd5 Re7+) (1. Nb6 $4 Rg1) (1. Nb4 $4 Rg1) Rg1 $4 (Re1 2. Be6 (2. Nf5+ $4 gxf5 3. gxf5 g4) (2. Bf7 $4 Rxe7 $19 3. Bxg6 Kxg6) (2. Bh7 $4 Rxe7 $19 3. Bxg6 Kxg6) (2. Nd5 $4 Re4 3. Bf7) (2. Nxg6 $4 Kxg6 3. Bh7+ Kf7) (2. Nc8 $4 Re4) (2. Nc6 $4 Re4) Rxe6 3. Ng8# $1 (3. Nxg6 $4 Re8+ 4. Nf8 Rxf8#) (3. Nc6 Re8#) (3. Nd5 Re8#) (3. Nf5+ gxf5 4. gxf5 Re8#)) (Rh4 $5) 2. Be6 (2. Bd5 $2 Rxg4 3. Ng8+ $10) (2. Bf7 $2 Rxg4 3. Ng8+ $10) (2. Nf5+ $4 gxf5 3. gxf5 Rf1 $19) (2. Bh7 $2 Rxg4 3. Ng8+) (2. Nxg6 Kxg6) Rxg4 3. Ng8+ (3. Bxg4 $2) (3. Nxg6 $2 Kh5 4. Nf8 Kh6 5. Ng6) (3. Bf7 Rf4 4. Ng8+) (3. Bf5 gxf5) (3. Ba2 Rd4 4. Ng8+ Kh5) (3. Bg8 Re4 4. Nxg6 Re8) Kh5 4. Nf6+ (4. Bxg4+ $2 Kxg4 5. Nh6+ $10) (4. Kg7 $2 Rf4 5. Nh6 $10) (4. Ne7 $4 Re4 $19 5. Bg4+ Kxg4) (4. Kh7 $2 Rf4 5. Nh6) (4. Bf7 Rf4 5. Kg7) (4. Nh6 Re4) Kh6 5. Nxg4+ $18 1-0

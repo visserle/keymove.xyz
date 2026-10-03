@@ -1,0 +1,12 @@
+[Event "The Chess Player#073"]
+[Date "1852.02.21"]
+[Round "?"]
+[Composer "Roll, J. C."]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6r1/1p5b/pP6/6k1/1K1Q2r1/7p/7P/2R5 w - - 0 1"]
+
+1. Rg1 $1 Kh5 2. Rxg4 Rxg4 3. Ka5 $1 Rg5+ 4. Kb4 Rg4 5. Ka5 Rxd4 1/2-1/2

@@ -1,0 +1,25 @@
+[Event "3.hm Neue Leipziger Zeitung"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Stals, Augusts"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p2p2/p3p3/P2P4/1P2k3/7p/5KpP/8 w - - 0 1"]
+
+1. dxe6 $1 fxe6 2. b5 Kd5 3. bxa6 Kc6 4. Kg1 e5 5. Kf2 e4 6. Kg1 e3 7. a7 Kb7 8. a6+ Kxa7 1/2-1/2
+
+[Event "C. Behting MT Deutsche Zeitung im Ostla"]
+[Date "1944.01.24"]
+[Round "?"]
+[Composer "Stals, Augusts"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "n1k5/p7/1P2q3/N7/8/8/p7/K4B2 w - - 0 1"]
+
+1. b7+ $1 Kb8 2. Nc6+ Qxc6 3. bxa8=Q+ Qxa8 (Kxa8 {<main>} 4. Bg2 Qxg2) 4. Bg2 Qxg2 1/2-1/2

@@ -1,0 +1,12 @@
+[Event "Novi Temi#543"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Nikitin, Aleksandr Olegovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/3qp1pK/3p2P1/2pPP3/1pP4P/pP6/P7/8 w - - 0 1"]
+
+1. e6 $1 Qa4 2. bxa4 b3 3. a5 b2 4. a6 b1=Q 5. a7 Qb7 6. h5 Qxa7 7. h6 gxh6 8. g7+ Ke8 9. g8=Q# 1-0

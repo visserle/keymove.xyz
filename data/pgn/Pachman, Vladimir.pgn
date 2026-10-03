@@ -1,0 +1,82 @@
+[Event "Ceskoslovensky Sach#018"]
+[Source "Ceskoslovensky Sach/4-5"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Pachman, Vladimir"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/4Npp1/4p3/2N3K1/5p1B/5k2 w - - 0 1"]
+
+1. Ng4 $1 f4+ $1 2. Kh3 e3 3. Bxf4 $1 gxf4 (e2 { <main>} 4. Nh2+ Ke1 (Kg1 5. Nxe2+ Kh1 6. Ng3+ Kg1 7. Nf3#) 5. Nf3+ Kf1 6. Ne4 g4+ 7. Kh2 gxf3 8. Bd2 e1=Q 9. Ng3#) 4. Nh2+ Ke1 (Kg1 {<main>} 5. Ne2+ Kh1 6. Nf1 f3 7. Nfg3#) 5. Nf3+ Kf1 6. Kh2 e2 7. Kh1 e1=Q 8. Nh2# 1-0
+
+[Event "Magasinet"]
+[Date "1939.09.10"]
+[Round "?"]
+[Composer "Pachman, Vladimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/2p2p2/7k/7p/4N2K w - - 0 1"]
+
+1. Nf3 $1 c3 (Kg3 2. Nd2 c3 3. Ne4+) 2. Nd4 f3 3. Nxf3 c2 4. Ne1 c1=Q 1/2-1/2
+
+[Event "Sachové Umenie#053"]
+[Source "Sachové Umenie/8-9"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Pachman, Vladimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/8/8/2p1p2P/2K5/8/8/3n4 w - - 0 1"]
+
+1. Kd5 $1 (1. Kxc5 $2 Ne3 2. Kd6 Ng4 3. Kd5 Kh7 4. Ke4 Kh6 5. Kf5 Kxh5) Kh7 (c4 {<main>} 2. Kxc4 Nf2 (Ne3+ {<main>} 3. Kd3 Ng4 4. Ke4 Kh7 5. Kf5) (e4 3. Kd4 e3 4. Kd3 Kh7 5. Ke2) 3. Kd5 Ng4 (e4 4. Kd4 Kh7 5. Ke3) 4. Ke4 Kh7 5. Kf5) 2. Kxe5 Nc3 (c4 {<main>} 3. Kd4 c3 (Nb2 4. Kc3) 4. Kd3 Kh6 5. Kc2) 3. Kd6 Na4 4. Kd5 Kh6 5. Kc4 Kxh5 6. Kb5 1/2-1/2
+
+[Event "Ceskoslovensky Sach#3010"]
+[Source "Ceskoslovensky Sach/3 19.p Bohemian Ring ty 1951-1952."]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Pachman, Vladimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/pn6/4b3/4B3/1K6/8/8/8 w - - 0 1"]
+
+1. Kb5 $1 Nd8 $1 (Bc8 2. Bb8 a5 3. Bc7 Bd7+ 4. Ka6 a4 5. Kxb7) 2. Bb8 $1 (2. Ka6 $2 Bc4+ 3. Ka5 Nc6+) Bd7+ 3. Ka6 Bc8+ (Nc6 {<main>} 4. Bxa7 Bc8+ 5. Kb5 $1 (5. Kb6 $2 Kd7) Nxa7+ 6. Kb6) 4. Kxa7 Nc6+ 5. Kb6 $1 (5. Ka8 $2 Ba6 6. Bg3 Kd7 7. Bf4 Kc8) Nxb8 6. Kc7 1/2-1/2
+
+[Event "1.p Havel MT"]
+[Source "EG#01817."]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Pachman, Vladimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5R2/7k/4K3/8/2p1p3/8/3pP3/8 w - - 0 1"]
+
+1. Rf1 $1 (1. Rf7+ $2 Kh6 2. Rf1 c3 3. Kf6 Kh5 4. Kf5 Kh4 5. Kf4 Kh3 6. Ke3 Kh2 $1 7. Ra1 Kg2 $1) c3 2. Rh1+ $1 (2. Kf7 $2 Kh6 3. Kf6 Kh5 4. Kf5 Kh4 5. Kf4 Kh3 6. Ke3 Kh2 $1 7. Ra1 Kg2) Kg6 3. Rg1+ $1 Kh5 4. Kf5 $1 Kh4 5. Kf4 Kh3 6. Ke3 $1 Kh2 7. Rf1 $1 (7. Ra1 $2 Kg2) Kg2 (Kg3 8. Rg1+ $1 Kh3 9. Rh1+ $1) 8. Ra1 $1 (8. Rd1 $2 c2 9. Kxd2 cxd1=Q+ 10. Kxd1 e3 11. Kc2 Kf1 12. Kd3 Kf2) Kh2 9. Rf1 $1 1/2-1/2
+
+[Event ".c Die Schwalbe#071"]
+[Source "Die Schwalbe/8 1965"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Pachman, Vladimir"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "b7/rRPk4/8/1P1K4/8/8/8/8 w - - 0 1"]
+
+1. Kc5 $1 Bxb7 (Rxb7 2. b6) 2. Kb6 Ra8 3. Kxb7 Rc8 4. b6 Rh8 5. Ka7 Kc8 (Kc6 {<main>} 6. c8=Q+ Rxc8 7. b7 Rc7 8. Ka8 Rxb7) 6. Ka8 1/2-1/2

@@ -1,0 +1,12 @@
+[Event "Isvestia#165"]
+[Date "1926.03.14"]
+[Round "?"]
+[Composer "Rychagov, K"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6pp/5p1p/7k/2Q5/5KPq/8 w - - 0 1"]
+
+1. Qd4+ $1 f4 2. Qf6+ g5 3. Qc3 Qg3+ 4. Qxg3+ fxg3+ 5. Kf3 g4+ 6. Kf4 1/2-1/2

@@ -1,0 +1,27 @@
+[Event "1.hm Chervoni Girnik"]
+[Source "EG#01020."]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Kamensky, Vjacheslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5k2/2Pr4/K2p2p1/3P2P1/3P4/8/8 w - - 0 1"]
+
+1. Kb6 $1 Re6 2. Kb7 Re7+ 3. c7 Ke6 4. Kb8 Re8+ 5. c8=R (5. c8=Q+ $2 Kd6 6. Qxe8) Re7 6. Rc6+ Kf7 7. Rc7 1-0
+
+[Event "5.p USSR team champ VII (tt)"]
+[Source "USSR team champ VII 1970-1971"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Kamensky, Vjacheslav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4p3/8/1B1P4/p3K3/1k6/8 w - - 0 1"]
+
+1. Kd2 $1 a2 2. Bc3+ Kb1 3. Ba1 Kxa1 4. Kc2 e5 5. d5 e4 6. d6 e3 7. d7 e2 8. d8=Q e1=Q 9. Qd4+ (9. Qf6+ {<or>}) (9. Qh8+ {<or> }) 1-0

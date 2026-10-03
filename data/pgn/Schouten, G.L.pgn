@@ -1,0 +1,40 @@
+[Event "Orgaan Discendo Discumis#1"]
+[Source "Orgaan Discendo Discumis/4"]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Schouten, G.L"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/8/3N1p1P/8/7K/8/6pP/8 w - - 0 1"]
+
+1. h7 $1 Kg7 2. Nf7 (2. h8=Q+ $2 Kxh8) Kxh7 (Kxf7 3. h8=Q) 3. Ng5+ fxg5+ (Kg6 4. Nf3) 4. Kh3 g1=Q (g1=R) (g1=B 5. Kg4 Kg6 6. h4) (g1=N+ 5. Kg4 Kg6 6. h4) 1/2-1/2
+
+[Event "Orgaan Discendo Discumis#2"]
+[Source "Orgaan Discendo Discumis/1"]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Schouten, G.L"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3B4/Np2p3/8/1K6/3k4/pp6/P7/8 w - - 0 1"]
+
+1. Ka4 $1 (1. axb3 $2 e5 2. Kb6 a2 3. Kxb7 a1=Q 4. Nc6+ Kd5 5. Bf6 Qc3 6. Nxe5 Qxb3+ 7. Ka7 Ke6) bxa2 (b2 2. Nb5+ Kd3 3. Nxa3) (Kc3 2. Nb5+ Kc4 (Kd3 3. Kxb3) 3. Nxa3+ Kd5 4. axb3) 2. Bxe7 (2. Nc6+ $2 Ke4) Ke5 (b5+ 3. Nxb5+ Ke5 4. Bb4 a1=Q 5. Bc3+ Qxc3 6. Nxc3) 3. Nc6+ $1 bxc6 (Ke6 4. Nd4+ Kxe7 5. Nb3) (Kf5 4. Nd4+ Ke4 5. Nb3) (Ke4 4. Bf6) 4. Bb4 (4. Bf8 {<or>} Kf6 5. Bb4) a1=Q (Kd4 5. Bf8) 5. Bc3+ Qxc3 1/2-1/2
+
+[Event "De Telegraaf"]
+[Date "1927.02.17"]
+[Round "?"]
+[Composer "Schouten, G.L"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4N3/8/8/p7/K4Nk1/5b1R/1p6/8 w - - 0 1"]
+
+1. Nf6+ $1 Kxf4 (Kf5 2. Rxf3 b1=Q 3. N4d5+) 2. Nd5+ Bxd5 3. Rb3 Bxb3+ 4. Ka3 b1=Q (b1=R) 1/2-1/2

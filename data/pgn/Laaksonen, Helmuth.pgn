@@ -1,0 +1,13 @@
+[Event "Suomen Shakki#0054"]
+[Source "Suomen Shakki/7"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Laaksonen, Helmuth"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6K1/7P/3p4/8/3P4/k5b1 w - - 0 1"]
+
+1. h6 $1 (1. Kf5 $2 Be3 $1) d3 (Bh2 2. Kf5) 2. Kf5 (2. h7 $2 Bd4 3. Kf5 Kb2 $1 4. Ke4 Bh8 5. Kxd3 Kb3 6. Ke4 Kc4) Bd4 3. Ke4 Bh8 $1 (Bf6 4. Kxd3 Kb2 5. Ke4 Kb3 6. d4 Kc4 7. d5 Kc5 8. Kf5 Bh8 9. Ke6) 4. Kxd3 Kb2 5. Kc4 $1 1-0

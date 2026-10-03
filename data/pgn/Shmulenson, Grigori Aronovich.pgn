@@ -1,0 +1,41 @@
+[Event "2.p Fischer MT Schakend Nederland#0965"]
+[Source "Schakend Nederland/9 1965 EG#00083.5.p Belarussia champ 1962-1971."]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Shmulenson, Grigori Aronovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2pppp2/N2k4/8/B1PP1PPK/8/q7/8 w - - 0 1"]
+
+1. c5+ $1 Ke6 2. Kg5 $1 f6+ 3. Kg6 Qb1+ 4. Bc2 $1 Qb7 (Qxc2+ 5. f5+ Kd5 6. Nb4+) 5. Bb3+ $1 d5 6. Ba4 $1 c6 7. Bxc6 Qxc6 8. f5+ Kd7 9. Nb8+ Kc7 10. Nxc6 1-0
+
+[Event "Schakend Nederland#1005"]
+[Source "Schakend Nederland/5"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Shmulenson, Grigori Aronovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5B2/7r/1p6/r7/1p6/1P2k3/1P6/R3K2R w KQ - 0 1"]
+
+1. Bc5+ $1 (1. O-O-O $2 Ra1+ 2. Kc2 Rc7+) (1. O-O $2 Rg5#) bxc5 2. O-O-O $1 (2. O-O $2 Rg7+ 3. Kh2 Rxa1 4. Rxa1 Kd2) Rxh1 (Ra1+ 3. Kc2 Rxh1 4. Rxh1 Rxh1) 3. Rxh1 Ra1+ 4. Kc2 Rxh1 1/2-1/2
+
+[Event ".c Armenian Central Chess Club ty"]
+[Source "EG#00644."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Shmulenson, Grigori Aronovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3b4/7p/1P6/k3K1pn/8/7P/7B/8 w - - 0 1"]
+
+1. b7 $1 (1. Bg1 $2 Ka6 $1) Bc7+ 2. Kf5 $1 Bxh2 3. Kxg5 Ng7 (Nf4 4. b8=Q Nxh3+ 5. Kg4 Bxb8 6. Kxh3) 4. Kf6 $1 (4. Kh6 $2 Nf5+ 5. Kxh7 Nh4 6. Kh6 Ka6 7. Kh5 Nf3 8. h4 Kxb7 9. Kg4 Ne5+ 10. Kf5 Nf7 11. h5 Nh8) Ne8+ 5. Ke7 Ng7 6. Kf6 1/2-1/2

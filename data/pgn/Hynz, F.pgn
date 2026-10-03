@@ -1,0 +1,13 @@
+[Event "4.p Tidskrift for Schack#1217"]
+[Source "Tidskrift for Schack/12 EG#00091."]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Hynz, F"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2pN4/3P4/8/p7/8/k1K5 w - - 0 1"]
+
+1. Nf5 $1 cxd5 2. Nd4 Ka2 3. Kc2 Ka1 4. Nc6 Ka2 5. Nb4+ Ka1 6. Kc1 d4 7. Nc2+ Ka2 8. Nxd4 Ka1 9. Kc2 Ka2 10. Ne2 Ka1 11. Nc1 a2 12. Nb3# 1-0

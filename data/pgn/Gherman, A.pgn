@@ -1,0 +1,13 @@
+[Event "L'Italia Scacchistica#3090 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - XII-44 2012."]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Gherman, A"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p6N/k1K3P1/p3pp2/P1P5/2P1p2p/2B1P3/4r3 b - - 0 1"]
+
+h2 $1 2. Nf6 h1=Q+ 3. Nd5 Rg1 4. Bxf5 Rxg6+ 5. Bxg6 Qe4 $1 6. Bxe4 1/2-1/2

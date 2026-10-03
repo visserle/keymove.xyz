@@ -1,0 +1,13 @@
+[Event "Ceské Slovo"]
+[Source "Ceské Slovo/4"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Thelen, F"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/p7/5K2/8/6kp/1N5R w - - 0 1"]
+
+1. Ke3 $1 Kxh1 (a4 {<main>} 2. Nd2 a3 3. Nf1 a2 4. Rxh2+ Kxf1 5. Rxa2) 2. Kf2 a4 3. Nd2 a3 4. Nf1 a2 5. Ng3# 1-0

@@ -1,0 +1,13 @@
+[Event "Svobodné Slovo (pl)"]
+[Source "= Von_Janisch=C c1a1 1837."]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Zamecnik, B"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/5p2/5N1p/8/5K1k w - - 0 1"]
+
+1. Ne5 $1 Kh2 (f3 2. Ng4 f2 3. Nxf2+ Kh2 4. Ne4 Kh1 5. Kf2 Kh2 6. Nd2 Kh1 7. Nf1 h2 8. Ng3#) 2. Kf2 f3 3. Ng4+ Kh1 4. Kf1 f2 5. Nxf2+ Kh2 6. Ne4 Kh1 7. Kf2 Kh2 8. Nd2 Kh1 9. Nf1 h2 10. Ng3# 1-0

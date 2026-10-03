@@ -1,0 +1,12 @@
+[Event "Aseveli"]
+[Date "1944.01.27"]
+[Round "?"]
+[Composer "Laiho, Urho Valter"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2b3k1/1p1p3p/1P1P1KpP/6P1/2p2p2/1p3P2/p7/R7 w - - 0 1"]
+
+1. Re1 $1 Kf8 2. Re5 $1 a1=R $1 (a1=Q) (c3 3. Rc5) 3. Re7 (3. Rc5 $2 Re1 4. Rxc8+ Re8 5. Rxc4 Re6#) Re1 (Rd1 4. Rf7+ Kg8 5. Rg7+ Kf8 6. Rf7+ Ke8 7. Re7+) 4. Rf7+ (4. Rxe1 $2 b2 $1) Ke8 5. Rf8+ Kxf8 1/2-1/2

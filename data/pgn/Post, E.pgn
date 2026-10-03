@@ -1,0 +1,13 @@
+[Event "Deutsche Schachblätter#11"]
+[Source "also Schlesische Tageszeitung 15-6-1941."]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Post, Ehrhardt"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3pp3/2pN4/5B2/1pP1P3/2k3P1/2b5/2K5 w - - 0 1"]
+
+1. e5 $1 Bxf5 (exd6 {<main>} 2. Bxc2 (2. g4 $2 b3 3. Bxc2 bxc2 4. g5 d5 5. g6 d4 6. g7 d3 7. g8=Q d2#) Kxc4 (Kd4 3. e6 dxe6 4. g4 Ke5 5. g5 c5 (d5 6. c5) 6. Kb2 d5 7. Bh7 dxc4 8. Kc2 c3 9. Kb3 c4+ 10. Kc2 (10. Kxc4 $2 Kf4)) (b3 3. Bxb3 Kxb3 4. g4 Kxc4 5. e6 dxe6 6. g5) (dxe5 3. g4 Kxc4 4. g5 Kd5 5. Bb3+ Kd6 6. g6 Ke7 7. g7) 3. e6 dxe6 4. g4 Kd4 5. g5 Ke5 6. Kb2 d5 7. Bh7 c5 8. Kb3 d4 9. Kc4) (Bd3 2. Bxd3 Kxd3 3. g4 Kd4 4. e6 dxe6 5. g5 Ke5 6. c5 exd6 7. g6 Kf6 8. cxd6) (b3 2. Bxc2 bxc2 3. c5 (3. g4 $2 exd6 4. g5 d5) Kd4 4. e6 dxe6 5. g4 e5 6. g5 Kd5 7. g6 Ke6 8. g7) (Bb3 2. Ne4+ Kd4 (Kxc4 3. Nd2+) 3. Nd2 Bxc4 4. Nxc4 Kxc4 5. Bxd7 Kd5 6. e6 c5 7. Kc2 c4 8. g4 Ke5 9. Bb5 c3 10. Bd3 Kxe6 11. g5) 2. Nxf5 Kxc4 (Kd3 3. Nxe7 Kxc4 (c5 4. g4 Ke4 5. Ng6 Kf3 6. Nf8) 4. Nxc6 Kd5 5. Nxb4+ Kxe5 6. Nd3+ Ke4 7. Nf2+ Kf3 8. g4) 3. e6 (3. Nxe7 $2 c5 4. g4 Kd4 5. Ng6 Ke4) (3. Ne3+ $2 Kd4 4. e6 d5 5. Nf5+ Ke5 6. Nxe7 Kxe6 7. Nxc6 Kf5 8. Nd4+ Kg4 9. Ne2 Kf3 10. Kd2 b3) dxe6 4. Ne3+ Kd4 5. g4 Ke5 6. g5 c5 {<eg>} 7. Kc2 c4 8. Kb2 c3+ 9. Kb3 1-0

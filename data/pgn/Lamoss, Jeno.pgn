@@ -1,0 +1,99 @@
+[Event "?"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Lamoss, Jeno"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/4kpPr/2P4n/4PR2/8/6K1/7P/8 w - - 0 1"]
+
+1. g8=N+ (1. g8=Q $2 Rg7+ 2. Qxg7 Nxf5+ 3. Kf3 $10) (1. c7 $2 Rxg7+ 2. Kh3 Kd7 $10 $15) (1. g8=R $2 Nxf5+ 2. Kg2 Ne3+) Nxg8 2. c7 (2. Rg5 $2 Rh8 $10 $15 3. c7) (2. Rf6 $4 Nxf6 3. e6 Kxe6) (2. h4 Rh6 3. Rg5 Rxc6 4. Rxg8) (2. Kf4 Ke6 3. c7 Rh4+) Rg7+ 3. Kh3 (3. Kf4 $2 Kd7 $17) (3. Kf2 $2 Kd7 $17) (3. Kf3 $2 Kd7 $15 $17) (3. Kh4 $6 Rh7+ 4. Kg3 $16) (3. Rg5 $4 Rxg5+ 4. Kh4 Kd7 $19) Rh7+ 4. Kg2 (4. Kg4 $2 Kd7 5. Rxf7+ Rxf7 6. e6+ $10) (4. Kg3 $6 Rg7+ 5. Kh3 $16) (4. Rh5 $4 Rxh5+ 5. Kg4 Rh8 $19) Rg7+ $4 (Kd7 $5 5. Rxf7+ $16) 5. Kh1 (5. Kf3 $4 Kd7 $15 $17) (5. Kf2 $4 Kd7 $17) (5. Kf1 $4 Kd7 $17 6. e6+ fxe6) (5. Kh3 Rh7+ 6. Kg2 $16) (5. Rg5 $4 Rxg5+ 6. Kf3 Kd7) Kd7 6. Rxf7+ (6. Rf6 $4 Nxf6 7. exf6 Rg8 $19 8. c8=Q+ Kxc8) (6. Rg5 $4 Rxg5 7. c8=Q+ Kxc8) (6. Rf4 Kxc7) Rxf7 7. e6+ Kxc7 8. exf7 $18 (8. e7 Nxe7) 1-0
+
+[Event "2.hm Magyar Sakkélet#0825"]
+[Source "Magyar Sakkélet/9 EG#01482."]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Lamoss, Jeno"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6pB/3p4/3p4/kP6/P2K3p/2pP4/1N6 w - - 0 1"]
+
+1. Kxc2 $1 h2 2. Bg8 $1 h1=Q 3. Bxd5 Qh7+ (Qxd5 4. Nc3+) 4. Be4 $1 Qxe4+ 5. Kb2 1-0
+
+[Event "Shakhmaty v SSSR#45"]
+[Source "Shakhmaty v SSSR/9"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Lamoss, Jeno"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2B3N1/8/8/p6P/k1b1p3/P7/P2p4/K7 w - - 0 1"]
+
+1. Bg4 $1 e3 2. Nf6 e2 3. Bxe2 Bxe2 4. Ne4 $1 (4. Kb2 $2 Bf3 $1 5. Nd5 Bxd5 6. Kc2 Kxa3) d1=Q+ 5. Kb2 Qd4+ 6. Nc3+ Qxc3+ 7. Kxc3 Bxh5 8. Kb2 1/2-1/2
+
+[Event "Magyar Sakkélet#0920"]
+[Source "Magyar Sakkélet/7"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Lamoss, Jeno"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4p3/5N2/p2P4/k7/P1P2P2/K1PP1p2/8 w - - 0 1"]
+
+1. d6 $1 exd6 2. Ne4 f1=Q 3. c4 $1 Qxc4+ 4. Kb2 Qb5+ 5. Ka2 Qd5+ 6. Kb2 Qb7+ 7. Ka2 Qf7+ 8. Kb2 1/2-1/2
+
+[Event "Magyar Sakkélet#1126"]
+[Source "Magyar Sakkélet/3"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Lamoss, Jeno"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5r2/7P/1K1N4/5p2/1k5P/1p6/1P6/8 w - - 0 1"]
+
+1. Nf7 $1 (1. Nxf5 $2 Rh8) f4 2. h8=Q (2. Ng5 $2 Rf6+ 3. Kc7 Rh6) Rxh8 3. Nxh8 f3 4. Ng6 $1 f2 5. Ne7 $1 (5. Nf4 $2 Kc4 $1 6. Ng2 Kd4) f1=Q (Kc4 6. Nf5 Kd3 7. Ng3) 6. Nd5+ Ka4 7. Nc3+ Kb4 8. Nd5+ 1/2-1/2
+
+[Event "6.hm Magyar Sakkélet#1216"]
+[Source "Magyar Sakkélet/10 EG#03304."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Lamoss, Jeno"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p2kpb2/PP3p2/4p1p1/8/7K/4B2p/8 w - - 0 1"]
+
+1. Bf3 $1 g4+ $1 2. Kxg4 (2. Bxg4+ $2 Kc6 $1) e4 3. Bxe4 f5+ 4. Kxf5 Bd5 5. Bxd5 e6+ $1 6. Bxe6+ Kd6 7. Bd5 $1 (7. b7 $2 Kc7 8. Bd5 Kb8) axb6 8. a7 1-0
+
+[Event "1.p Hungarian Chess Federation ty Magya"]
+[Source "Magyar Sakkélet/3 1979 EG#03863."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Lamoss, Jeno"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/3P4/3PP3/3k2K1/3p2PP/2p3P1/2N5 w - - 0 1"]
+
+1. e6 $1 d2 2. Nb3+ Kxd5 (Kc3 3. Nxd2 c1=Q 4. Ne4+ Kd4 5. exd7) (Kd3 3. Nxd2 c1=Q 4. exd7 Qd1+ 5. Nf3 Qa4+ 6. Kg5 Qa5 7. Ne5+ Kd4 8. Nf7) 3. Nxd2 c1=Q 4. exd7 Qd1+ 5. Kh4 Qa4+ 6. Nc4 $1 Qxc4+ 7. Kg5 $1 (7. g4 $2 Qf4 8. d8=Q Qh6+ 9. Kg3 Qe3+ 10. Kh4 Qh6+ 11. Kg3 Qe3+ 12. Kh2 Qf4+ 13. Kg1 Qc1+ 14. Kf2 Qc2+ 15. Kf3 Qe4+) Qc1+ 8. Kh5 Qd1+ 9. g4 Qd3 10. d8=Q Qh7+ 11. Kg5 Qg7+ 12. Kf5 $1 Qh7+ 13. Kf4 1-0

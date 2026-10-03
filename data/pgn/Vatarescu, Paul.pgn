@@ -1,0 +1,122 @@
+[Event "Sah (Rumania)#08"]
+[Source "Sah (Rumania)/8"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Vatarescu, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/B3N3/8/kP6/p2p3P/p1p1pK2/2p5/8 w - - 0 1"]
+
+1. Nc6+ $1 Kxb5 2. Nxd4+ Kc4 3. Nxc2 Kb3 4. Na1+ $1 Kb2 5. Bd4 $1 Kxa1 6. Bxc3+ Kb1 7. h5 a2 8. h6 a1=Q 9. Bxa1 Kxa1 10. h7 a3 11. h8=Q+ 1-0
+
+[Event "Ceskoslovensky Sach#3406"]
+[Source "Ceskoslovensky Sach/1"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Vatarescu, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K4N1/5B1N/k1p1P3/8/PP6/1P4rP/q4b2/8 w - - 0 1"]
+
+1. e7 $1 Qe2 2. Bc4+ Qxc4 3. bxc4 Rxg8+ 4. Nf8 Bg3+ 5. Kc8 Bd6 6. e8=Q Rxf8 7. Qxf8 Bxf8 8. c5 1-0
+
+[Event "Revista de Romana de Sah#0264"]
+[Source "Revista de Romana de Sah/1"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Vatarescu, Paul"]
+[White "Vatarescu, P"]
+[Black " Voia, R."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1n5P/6pp/6p1/6K1/5P2/6k1 w - - 0 1"]
+
+1. h7 $1 (1. f4 $2 gxf3 2. Kxf3 Nd7 $1 3. h7 Ne5+ 4. Ke4 Nf7 $1) Nc4 $1 2. f4 $1 (2. h8=Q $2 Nd2 $1 3. Qxh5 Ne4+ 4. Kxg4 Nf6+ 5. Kxg5 Nxh5) Ne3 (Nd6 3. fxg5 Nf7 4. g6) 3. fxg5 Nf5+ 4. Kf4 Ne7 (Nh4 5. Ke4 $1 (5. Ke5 $2 g3 $1)) 5. Ke4 $1 (5. Ke5 $2 h4 $1 (g3 $2 6. Kf6)) Ng6 6. Kf5 h4 (Nh8 7. g6) 7. Kxg6 h3 8. h8=Q h2 9. Kf5 g3 {<eg>} 10. Kf4 g2 11. Kg3 h1=N+ 12. Kf3 1-0
+
+[Event "Revista de Romana de Sah#0290"]
+[Source "Revista de Romana de Sah/8"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Vatarescu, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p7/k1p2P2/2PbN1K1/P7/8/8 w - - 0 1"]
+
+1. Kg5 $1 (1. f6 $2 Bxf6 2. Nxf6 Ka4 3. Kf5 Kb3 $1) Ka4 2. f6 Bxf6+ (Kxa3 3. f7 Bg7 4. Nxc5 Bf8 5. Nd7 Be7+ 6. Kf5) 3. Kxf6 Kb3 4. Nd2+ Kc3 5. Ke5 $1 1-0
+
+[Event "Tidskrift for Schack#0737"]
+[Source "Tidskrift for Schack/9-10"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Vatarescu, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/3P4/4Bk2/5PrP/7P/1P2P3/p7/8 b - - 0 1"]
+
+Rxh5+ $1 2. Kg8 Ke7 3. f6+ Kd8 4. f7 Rh8+ 5. Kxh8 a1=Q+ 6. Kg8 Qg1+ 7. Kh7 Qf2 8. h5 $1 Qf6 9. e4 $1 Qe7 10. b4 Qf8 11. b5 Ke7 12. Bd5 Kxd7 (Kf6 13. h6 Kg5 14. b6 Qxh6+ 15. Kg8 Kg6 16. f8=N+ $1) 13. b6 Ke7 14. b7 Kf6 15. h6 Qb8 16. Bc4 Qxb7 17. Kg8 Kg6 18. e5 (18. Be6 {<or> }) 1/2-1/2
+
+[Event "L'Échiquier de France#11"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Vatarescu, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k1K/3p3P/p7/1p4p1/1P2p1Pn/3p4/4b2P/7Q w - - 0 1"]
+
+1. Qxe4 $1 Bf3 2. Qxd3 Bd5 $1 3. Qc2 Bc6 4. Qc5+ Kf7 5. Qf2+ Bf3 6. Qa2+ $1 d5 7. Qxa6 Ng6+ 8. Qxg6+ Kxg6 9. Kg8 1-0
+
+[Event "L'Échiquier de France#07"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Vatarescu, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/p5k1/P7/P7/8/p1p5/2K1B3 w - - 0 1"]
+
+1. Bc3 $1 Kf5 2. Kxc2 Ke4 (Ke6 3. Kb2 Kd7 4. Bd4 Kc6 5. Ba7) 3. Kb2 Kd5 4. Bf6 1-0
+
+[Event "L'Italia Scacchistica#2868"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Vatarescu, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "b7/K1kpp2p/P1P4P/P2PP3/7p/8/8/8 w - - 0 1"]
+
+1. d6+ $1 exd6 2. exd6+ Kc8 3. Kxa8 h3 4. a7 h2 5. cxd7+ Kxd7 6. Kb8 h1=Q 7. a8=Q Qh4 8. Qa6 Qh5 9. Qb6 Qe8+ 10. Ka7 Qc8 11. Qb7+ 1-0
+
+[Event "Revista de Romana de Sah"]
+[Source "Revista de Romana de Sah/2"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Vatarescu, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/4pp1p/7P/2P1P1P1/5p2/p7/6PK/8 w - - 0 1"]
+
+1. c6 $1 Ke8 2. e6 fxe6 3. g6 a2 4. g7 Kf7 5. c7 a1=Q 6. c8=Q 1-0

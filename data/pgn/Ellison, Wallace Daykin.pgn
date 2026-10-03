@@ -1,0 +1,94 @@
+[Event "L'Italia Scacchistica#4934"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Ellison, Wallace Daykin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "BK1brk2/P3p3/1nP1P3/P7/8/1p6/1P6/8 w - - 0 1"]
+
+1. c7 $1 (1. a6 $2 Kg7) (1. axb6 $2 Bxb6+) Bxc7+ 2. Kxc7 Nxa8+ 3. Kd7 $1 1-0
+
+[Event "Schakend Nederland#1172"]
+[Source "Schakend Nederland/10"]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Ellison, Wallace Daykin"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6bk/4n3/3KBr1p/3pN3/3R4/8/6P1/8 w - - 0 1"]
+
+1. Nf7+ $1 Rxf7 2. Bxf7 Nf5+ 3. Ke5 Nxd4 4. Bxg8 Nc6+ 5. Kxd5 Ne7+ 6. Ke6 Nxg8 7. Kf7 Kh7 8. g4 Ne7 (Kh8 9. Kg6) 9. Kxe7 Kg7 10. Ke8 Kg6 11. Kf8 1/2-1/2
+
+[Event "The Problemist#0014"]
+[Source "The Problemist/1 EG#00965."]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Ellison, Wallace Daykin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k5/8/2K5/1PBP4/8/8/8/r7 w - - 0 1"]
+
+1. b6 $1 Rb1 2. d6 Rb2 (Rd1 3. Be3) (Rb3 3. d7+) 3. d7+ Kd8 4. Bd4 Rc2+ 5. Kd6 Rd2 6. b7 Rxd4+ 7. Kc5 1-0
+
+[Event "The Problemist#0017"]
+[Source "The Problemist/3 EG#00966."]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Ellison, Wallace Daykin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p7/8/P7/pPk5/K1P5/8 w - - 0 1"]
+
+1. Ka1 $1 (1. Kxa3 $2 a5 2. Ka2 (2. b4 axb4+ 3. Ka2 Kxc2) Kxc2) a5 2. Kb1 a2+ 3. Ka1 $1 Kxc2 4. Kxa2 Kc3 5. Ka3 Kd4 6. b4 Kc4 7. b5 1-0
+
+[Event "EG"]
+[Source "EG/6 EG#00857."]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Ellison, Wallace Daykin"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/p1N5/2Kp4/P2P4/1p6/1k6 w - - 0 1"]
+
+1. Na4 $1 (1. Ne4 $2 Ka2 2. Nd2 Kxa3 3. Kxd4 Kb4) Ka2 2. Nxb2 Kxa3 (Kxb2 {<main>} 3. a4 (3. Kxd4 $2 Kxa3 4. Kc3 a4 5. d4 Ka2 6. d5 a3) Ka3 4. Kxd4 Kb4 (Kxa4 5. Kc4) 5. Kd5 Kxa4 6. Kc4 Ka3 7. d4 a4 8. d5 Kb2 9. d6 a3 10. d7 a2 11. d8=Q a1=Q 12. Qd4+ Kc1 13. Qg1+ Kb2 14. Qd4+ Kb1 15. Qd1+ Kb2 16. Qd2+ Kb1 17. Kb3) 3. Nd1 a4 4. Kc5 (4. Kxd4 $2 Kb3 5. Nc3 a3 6. Ne2 Kb2 7. Nc3 Kb3) (4. Kd5 $2 Kb4 5. Kxd4 a3 6. Nc3 Kb3) Kb3 (Ka2 5. Kb4 a3 6. Ka4 Kb1 7. Kxa3 Kc2 8. Nb2) 5. Kxd4 a3 6. Nc3 Kb4 7. Na2+ Kb3 8. Nc1+ Kb4 (Kb2 9. Kc4) 9. Kd5 (9. Ke3 $2 Kc3 10. d4 Kc2) Kc3 10. d4 Kb2 11. Kc4 Kxc1 12. Kb3 1-0
+
+[Event "Test Tube Chess#256a"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Ellison, Wallace Daykin"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5pb1/7p/6PK/7P/Pk6/8/8 w - - 0 1"]
+
+1. g6 $1 (1. a4 $2 Kxa4) f6 (f5 2. a4) 2. Kg4 Kxa3 3. h5 (3. Kf5 $2 h5 4. Ke6 Bh8 5. Kf5 Kb4 6. g7 Bxg7 7. Kg6 Bh8 8. Kxh5 Kc5 9. Kg6 Kd6 10. h5 Ke6 11. Kh7 f5) Kb4 4. Kf5 Kc5 5. Ke6 Bh8 6. Kf7 f5 7. g7 Bxg7 8. Kxg7 f4 9. Kxh6 1/2-1/2
+
+[Event "Test Tube Chess#254"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Ellison, Wallace Daykin"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3K1k2/5p2/8/P5Pp/7P/8/7b/8 w - - 0 1"]
+
+1. Kd7 $1 (1. a6 $2 Bg1 2. Kd7 f6 3. Ke6 fxg5 4. hxg5 h4) Kg7 (Bb8 2. a6) (f5 2. Ke6 f4 3. a6 Bg1 4. Ke5 f3 5. Ke4 f2 6. a7) (f6 2. Ke6 (2. gxf6 $2 Kf7 3. a6 Bg1 4. Kd6 Kxf6 5. Kd5 Kf5 6. Kc4 Kg4) fxg5 3. hxg5 h4 4. Kf5 h3 5. Kg4) 2. a6 Bg1 (Bb8 3. Kc6 Ba7 4. Kd5 Kg6 5. Ke5 Be3 (Bb8+ 6. Ke4) 6. Ke4 Bg1 7. Ke5) 3. Kd6 Kg6 4. Ke5 Bh2+ 5. Kd5 (5. Ke4 $2 Bb8 6. Ke3 Kf5 7. Kf3 Ba7) (5. Kd4 $2 Kf5 6. a7 Bg1+) Bb8 6. Ke4 1/2-1/2

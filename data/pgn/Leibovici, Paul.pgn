@@ -1,0 +1,13 @@
+[Event "3.hm Constructorul Revista de Romana de"]
+[Source "Revista de Romana de Sah/6 1956"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Leibovici, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2N1K3/8/5kBP/2p3p1/4p3/1P6/2p5/8 w - - 0 1"]
+
+1. h7 $1 Kg7 2. h8=Q+ Kxh8 3. Kf8 c1=Q 4. Nd6 Qf4+ 5. Nf7+ Qxf7+ 6. Kxf7 e3 7. Bh5 1-0

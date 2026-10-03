@@ -1,0 +1,13 @@
+[Event "La Stratégie#459"]
+[Source "La Stratégie/5"]
+[Date "1901.??.??"]
+[Round "?"]
+[Composer "Dagnino, Luigi Eduardo"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "b5rk/1q4pp/n1N5/2pQ2P1/5p2/3p4/3P1K2/4R3 w - - 0 1"]
+
+1. Ne5 $1 Qxd5 (h6 2. Nf7+ Kh7 3. g6+ Kxg6 4. Qe6+ Kh7 5. Ng5+ Kh8 6. Qxg8+ $1 (6. Nf7+ Kh7 7. Ng5+) Kxg8 7. Re8#) 2. Ng6+ hxg6 3. Rh1+ Qxh1 1/2-1/2

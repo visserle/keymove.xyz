@@ -1,0 +1,607 @@
+[Event "The Chess Amateur#0189"]
+[Source "The Chess Amateur/7"]
+[Date "1913.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/b1p5/KpP5/1P6/8/4P3/8/8 w - - 0 1"]
+
+1. e4 $1 Ka8 2. e5 Kb8 3. e6 Ka8 4. e7 Bb8 5. e8=N $1 1-0
+
+[Event "The Chess Amateur#0161 (c)"]
+[Source "The Chess Amateur/11 (c): Szachy/11 1949."]
+[Date "1913.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/8/1P1Pp3/4P1p1/2K5/5k2/8 w - - 0 1"]
+
+1. b6 $1 (1. d6 $2 g3 2. d7 g2 3. d8=Q g1=Q 4. Qf6+ Ke2 5. Qxe5 Qa1+) axb6 2. d6 g3 3. d7 g2 4. d8=Q g1=Q 5. Qxb6+ Kf1 6. Qxg1+ Kxg1 7. Kc4 Kf2 8. Kd5 1-0
+
+[Event "The Chess Amateur#0189"]
+[Source "The Chess Amateur/6"]
+[Date "1913.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7p/4pp1P/7K/8/2p2k1B/7P/8 w - - 0 1"]
+
+1. Bf5 $1 exf5 (e5 2. Bxh7 e4 3. Bxe4+ Kxe4 4. h7) 2. h4 c2 1/2-1/2
+
+[Event "East London Observer"]
+[Date "1913.05.16"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1P6/1P6/8/8/4p3/4P1p1/4K1kb w - - 0 1"]
+
+1. b8=R $1 (1. b8=Q $2) Kh2 2. Rh8+ Kg3 (Kg1 3. Rg8 Kh2 4. b7 g1=Q+ 5. Rxg1 Bxb7 6. Rg7) 3. Rg8+ Kf4 4. Kd1 Ke5 5. Kc1 Kd4 6. Kc2 Kc5 7. Kd3 1-0
+
+[Event "Falkirk Herald"]
+[Date "1913.07.30"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p6/1Pp2p1P/2P5/2Pp1P2/3P4/4p1p1/4Kbk1 w - - 0 1"]
+
+1. h7 $1 f5 (Kh2 2. h8=Q+ Kg3 3. Qg7+ Kxf4 4. Qxf6+) 2. h8=B (2. h8=Q $2) Kh2 3. Bxd4 g1=Q 4. Bxg1+ Kxg1 5. d4 Bg2 6. d5 cxd5 7. c6 d4 8. c7 d3 9. c8=Q d2+ 10. Kxe2 1-0
+
+[Event "The Chess Amateur#0277"]
+[Source "The Chess Amateur/8"]
+[Date "1914.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/1p6/6pP/6P1/5pPn/5P1K/p6P/8 w - - 0 1"]
+
+1. h7 $1 a1=B $1 (a1=Q 2. h8=Q+ Qxh8) 2. Kxh4 $1 (2. h8=Q+ $2 Bxh8 3. Kxh4 Bc3 4. h3 Be1#) Bc3 3. h8=Q+ Bxh8 4. h3 $1 Bd4 1/2-1/2
+
+[Event "The Chess Amateur#0300"]
+[Source "The Chess Amateur/2"]
+[Date "1915.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/pP2p3/P1p1P3/2PpK3/7B/8/2p5/2q5 w - - 0 1"]
+
+1. Bg3 $1 Qe3+ (Qg5+ 2. Kd4+ Qxg3) 2. Kf5+ Qxg3 1/2-1/2
+
+[Event "The Chess Amateur#0294"]
+[Source "The Chess Amateur/1"]
+[Date "1915.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k1K5/Pp2P3/qP6/P7/2P5/7p/7P/8 w - - 0 1"]
+
+1. e8=N $1 (1. e8=Q $2 Qb5 2. cxb5) Qxc4+ 2. Nc7+ Qxc7+ 3. bxc7 1-0
+
+[Event "The Chess Amateur#0360 (c)"]
+[Source "The Chess Amateur/3 (c): Dawson=T The Chess Amateur/8 1916."]
+[Date "1916.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7p/k2P1p1P/5p2/3p1p1K/5P1P/8 w - - 0 1"]
+
+1. d6 $1 d2 (Kb6 {<main>} 2. d7 Kc7 3. Kh4 d2 4. d8=Q+ Kxd8 5. h3 d1=Q) 2. d7 d1=R $1 (d1=Q 3. d8=Q+ Qxd8) 3. Kh4 $1 Rxd7 4. h3 Kb4 1/2-1/2
+
+[Event "The Chess Amateur#0470"]
+[Source "The Chess Amateur/3"]
+[Date "1918.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/1R2p3/4Pp2/p1k1pP2/Pp2P3/1P2b3/6p1/8 w - - 0 1"]
+
+1. Rd7 $1 Kc6 (g1=Q 2. Kb7 $1 Qd1 3. Rxd1 Bd4 4. Kc7 Be3 5. Rd5#) 2. Rc7+ $1 Kb6 (Kxc7) 3. Rb7+ Ka6 4. Ra7+ Bxa7 (Kb6 5. Rb7+) 1/2-1/2
+
+[Event "The Chess Amateur#0569"]
+[Source "The Chess Amateur/12"]
+[Date "1919.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4R3/3p1q2/2pP2p1/2P1Kpk1/2P1p1Pp/4PP1P/8/8 w - - 0 1"]
+
+1. f4+ $1 Kh6 2. g5+ (2. Re7 $2 Qg8 $1 (fxg4 $2 3. Rxf7 gxh3 4. Rxd7 h2 5. Rc7 h1=Q 6. d7) 3. gxf5 Qxc4 $1 4. Rxd7 Qxc5+ 5. Ke6 Qxf5+ 6. Ke7 g5 7. fxg5+ Qxg5+ 8. Kf8 Qf5+ 9. Ke8 Qe5+ 10. Kd8 Qa5+ 11. Kc8 Qa8+ 12. Kc7 c5 13. Re7 c4 14. d7 Qa7+ 15. Kc6 Qa6+ 16. Kd5 Qa5+ 17. Kxc4 Qd8) Kg7 3. Re7 Kf8 $1 (Qxe7+ 4. dxe7 Kf7 5. e8=Q+ Kxe8 6. Kf6) 4. Rxf7+ Kxf7 5. Kd4 Ke8 6. Kc3 Kd8 7. Kb3 $1 (7. Kb4 $2 Kc8 8. Ka5 Kb7) Kc8 8. Kb4 Kb7 (Kd8 9. Ka5 Kc8 10. Ka6 Kb8 11. Kb6 Kc8 12. Ka7 Kd8 13. Kb7) 9. Kc3 Kc8 10. Kd4 Kd8 11. Ke5 Ke8 12. Kf6 1-0
+
+[Event "The Chess Amateur#0705"]
+[Source "The Chess Amateur/11"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5p2/7b/7k/1p1p3p/1p1P1P1P/bK6 w - - 0 1"]
+
+1. f3 $1 (1. f4 $2 Bd1 2. f5 Bc2#) Bg6 2. f4 Kg4 3. f5 Bh7 (Kf3 4. fxg6 Ke2 5. g7 Kxd2 6. g8=Q) 1/2-1/2
+
+[Event "The Chess Amateur#0704"]
+[Source "The Chess Amateur/11"]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/k1B1N3/3Nb3/8/8/4q3/7K/8 w - - 0 1"]
+
+1. Bb6+ $1 Kxb6 (Qxb6 2. Ndc8+ Bxc8 3. Nxc8+) 2. Nc4+ $1 Bxc4 3. Nd5+ Bxd5 1/2-1/2
+
+[Event "The Chess Amateur#0637 (m)"]
+[Source "The Chess Amateur/1 (m): Dawson=T Le Monde des Échecs#18 Le Monde des Échecs=4 6/1946."]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K7/8/Pr6/8/pqpQ4/k7/8/8 w - - 0 1"]
+
+1. Qa1+ $1 Kb3 2. Qb1+ Kc3 3. Qe1+ Kd3 4. Qxb4 Rxb4 5. a7 c3 1/2-1/2
+
+[Event "The Chess Amateur#0746"]
+[Source "The Chess Amateur/3 composed 23-12-1921"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/P2k2P1/8/3P4/3b4/2b5/4K3 w - - 0 1"]
+
+1. a7 $1 (1. g7 $2 Bh7 2. a7 Bce4) Be4 2. g7 Bb3 3. d5 $1 Bexd5 (Bbxd5 {<main>} 4. a8=Q Bxa8 5. g8=Q) 4. g8=Q Bxg8 5. a8=Q 1-0
+
+[Event "Magyar Sakkvilág#013"]
+[Date "1922.07.01"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/Nq6/6B1/2p5/2k5/2P2P2/2K5 w - - 0 1"]
+
+1. Bd2+ $1 Kd4 2. Be3+ Kc3 3. Nb4 $1 (3. Bxb6 $2) Qxb4 (Qa5 4. Bd2+ Kd4 5. Nc6+) (Kxb4 4. Bxb6) (Qxe3+ 4. fxe3 Kxb4 5. Kd2) 4. Bd2+ Kd4 5. Bxb4 1-0
+
+[Event "Magyar Sakkvilág#015 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - XIV-76 2014."]
+[Date "1922.08.01"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p1P5/3kN3/p7/K7/1B1r4/8 w - - 0 1"]
+
+1. Nc4 $1 Rd3+ (Rxb2 2. c7) (Rc2 2. Ne3+ Kxc6 3. Nxc2) (Re2 2. c7 Re8 3. c8=Q Rxc8 4. Nb6+ Kc6 5. Nxc8) (Kxc4 2. c7) 2. Ka2 (2. Kxa4 $2 Rh3 3. Na5 Rh7) Kxc6 3. Ne5+ Kd5 4. Nxd3 1-0
+
+[Event "Magyar Sakkvilág#017"]
+[Date "1922.09.01"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6pp/8/6PP/7P/8/p2K4/k7 w - - 0 1"]
+
+1. Kc1 $1 h6 2. Kc2 g6 3. Kc1 gxh5 4. Kc2 hxg5 5. hxg5 h4 6. g6 h3 7. g7 h2 8. g8=Q h1=Q 9. Qg7# 1-0
+
+[Event "The Chess Amateur (tt)"]
+[Source "The Chess Amateur/11"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/4p3/2p3p1/1pP1k1Pp/1P2P2P/4K3 w - - 0 1"]
+
+1. Kd1 $1 (1. Kf1 $2 Kd2 2. e4 Kc2 3. Ke2 Kxb2 4. Kd2 Ka2) Kf2 2. e4 (2. Kd2 $2 e4) Kg2 (Ke3 {<main>} 3. Ke1 Kxe4 4. Ke2) 3. Ke2 Kxh2 4. Kf2 1/2-1/2
+
+[Event "The Chess Amateur#0887 (c)"]
+[Source "The Chess Amateur/5 (c): Dawson=T The Compositions of Dawson#099 (ph) 1997."]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "qk6/p7/P5p1/6p1/6Pp/7P/6BP/6K1 w - - 0 1"]
+
+1. Bf3 $1 Qxf3 1/2-1/2
+
+[Event "Magyar Sakkvilág#031"]
+[Source "Magyar Sakkvilág/6"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p5/p7/b7/kp4p1/1pPN1bP1/1P5K/8 w - - 0 1"]
+
+1. c4 $1 Bb6 2. Nc5+ Ka5 3. Nxb3+ Ka4 4. Nc5+ Ka5 5. Nb3+ Ka4 6. Nc5+ Bxc5 7. b3+ Ka3 1/2-1/2
+
+[Event "The Chess Amateur"]
+[Source "The Chess Amateur/12"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1q6/2N5/P7/P1k5/8/K1B5/8/8 w - - 0 1"]
+
+1. a7 $1 Qxa7 (Qxc7 2. a8=Q) 2. Bd4+ Kc6 (Kxd4 3. Nb5+) 3. Bxa7 Kxc7 4. a6 Kc6 5. Kb4 1-0
+
+[Event "The Chess Amateur#0887 (c)"]
+[Source "The Chess Amateur/5 (c): Grondijs=H Neverending Volume B-336 2003."]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "qk6/p7/P7/7p/7p/7P/4B2P/6K1 w - - 0 1"]
+
+1. Bf3 $1 Qxf3 1/2-1/2
+
+[Event "Magyar Sakkvilág#033 (c)"]
+[Source "Magyar Sakkvilág/7 (c): Dawson=T Falkirk Herald 13-2-1935."]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1p1p4/5k2/pP1p1P2/P2p4/P2P2P1/7K w - - 0 1"]
+
+1. b5 $1 (1. g3 $2 b5 2. Kg2 Ke4 3. Kh3 Kd5 4. f5 Kc4 5. f6 d5 6. f7) Kxf4 2. Kg1 Kg3 3. Kf1 Kg4 4. Kf2 Kf4 5. g3+ Kg4 6. Kg2 d5 7. Kf2 Kg5 8. Kf3 Kf5 9. g4+ Ke5 10. Kg3 Ke4 11. g5 Kf5 12. Kh4 1-0
+
+[Event "The Chess Amateur#0884 (m)"]
+[Source "The Chess Amateur/4 (m): Roycroft=A The Compositions of Dawson#112a 2007."]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p2p1P2/P2bp3/Pp2p3/b3p3/2KpP3/3P4/k7 w - - 0 1"]
+
+1. f8=Q $1 b4+ (Bxf8) 2. Kc4 Bb5+ (Bxf8) 3. Kb3 Bc4+ (Bxf8) 4. Ka4 Bb3+ (Bxf8) 5. Kb5 Ba4+ (Bxf8) 6. Kc4 1/2-1/2
+
+[Event "2.hm The Chess Amateur (tt) (c)"]
+[Source "The Chess Amateur/11 (c): Minski=M Die Schwalbe=225 6/2007."]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4K3/8/8/4N3/1p5p/1P2p2P/4k3 w - - 0 1"]
+
+1. Kd6 $1 (1. Kf6 $2 Kd1 2. Nc3+ Kd2 3. Nxe2 Kxe2 4. Kg5 Kd2 5. Kf4 Kc2 6. Ke3 Kxb2 7. Kd2 Ka2) Kf1 (Kd1 2. Nc3+ Kd2 3. Nxe2) 2. Ng3+ Kf2 3. Nxe2 $1 Kxe2 4. Kc5 Kd2 (Kf2 {<main>} 5. Kd4 Kg2 6. Ke3 Kxh2 7. Kf2) 5. Kb4 Kc2 6. Ka3 1/2-1/2
+
+[Event "The Chess Amateur#0910"]
+[Source "The Chess Amateur/7"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2q4R/8/4p3/3kP3/5K2/4P3/2P5/8 w - - 0 1"]
+
+1. e4+ $1 (1. Rxc8 $2) Kd4 2. c3+ Qxc3 3. Rd8+ Kc5 4. Rc8+ Kd4 5. Rxc3 Kxc3 6. Kg5 1-0
+
+[Event "De Oprechte Haarlemsche Courant#111"]
+[Date "1923.03.09"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p3pp1/1p2p3/kP2P3/P3P3/1P3Pp1/2P5/K7 w - - 0 1"]
+
+1. Kb2 $1 Kb4 (g2 2. Ka3 g1=Q 3. b4#) 2. c3+ Kc5 3. Kc2 $1 f6 $1 (g2 4. Kd3 $1 g1=Q 5. b4#) 4. Kd3 $1 (4. f4 $2 f5 5. Kd3 fxe4+ 6. Kxe4 g5 $1 (g2 $2 7. Kd3 g1=Q 8. b4+ Kd5 9. c4#) 7. Kf3 (7. b4+ Kc4 8. Ke3 gxf4+ 9. Kf3 Kd3 10. a5 g2 11. Kxg2 Ke2) gxf4 8. b4+ Kc4 (Kd5 $2 9. a5) 9. Kg2 Kd3) g2 (fxe5 5. Ke2 g2 6. Kf2) 5. b4# 1-0
+
+[Event "Pittsburgh Post"]
+[Date "1923.09.02"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p3p1/2Pp4/P2P2p1/6pk/6p1/2b3P1/4K3 w - - 0 1"]
+
+1. a6 $1 Bg6 2. a7 Bh5 3. a8=N $1 (3. a8=Q $2 g6 4. Ke2) g6 (Bg6 4. Nxc7 Be4 5. Ne8 Bxd5 6. c7 Bb7 7. Nxd6) 4. Nb6 cxb6 5. c7 b5 6. c8=Q b4 {<eg>} 7. Qa6 b3 8. Qf1 b2 9. Qh1# 1-0
+
+[Event "The Chess Amateur#1111 (m)"]
+[Source "The Chess Amateur/11 (m): Zinar=M Garmonia Peshechnogo Etyuda-139 1990."]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/P6p/8/8/1P4p1/K7/6P1/8 w - - 0 1"]
+
+1. Ka4 $1 h5 2. Kb5 Kxa7 (h4 3. Ka6 h3 4. b5) (Kb7 3. a8=Q+ Kxa8 4. Kc6 h4 (Kb8 5. Kd5) 5. Kc7 h3 6. b5 hxg2 7. b6 g1=Q 8. b7+ Ka7 9. b8=Q+ Ka6 10. Qc8+) 3. Kc6 $1 Kb8 (h4 4. Kc7 Ka6 5. Kc6 Ka7 6. Kc7) 4. Kd5 h4 5. Ke4 1/2-1/2
+
+[Event "Magyar Sakkvilág#060"]
+[Source "Magyar Sakkvilág/10"]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/P7/1p2P3/8/2n5/k1P1b3/2K5 w - - 0 1"]
+
+1. a7 $1 Bf3 2. e6 Ne2+ 3. Kd2 Ng3 4. e7 Ne4+ 5. Ke3 Nd6 6. Kxf3 1-0
+
+[Event "The Chess Amateur#1142 (c)"]
+[Source "The Chess Amateur/1 (c): Dawson=T The Chess Amateur/4 1925."]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/4p3/4p2p/pP6/P3p3/5p2/1K1P1P2/8 w - - 0 1"]
+
+1. Kc3 $1 (1. Kc1 $2 h5) e5 (h5 2. Kd4) 2. Kc4 e6 (h5 3. Kd5) 3. Kc5 h5 4. Kd6 $1 Kb7 (h4 5. Kc7 h3 6. b6 h2 7. b7+ Ka7 8. b8=Q+ Ka6 9. Qa8#) 5. Kxe5 h4 6. Kf4 1-0
+
+[Event "Tijdschrift v.d. KNSB#507"]
+[Source "Tijdschrift v.d. KNSB/11"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1P6/4p1pp/8/p3p1pK/6P1/k7 w - - 0 1"]
+
+1. b7 $1 (1. Kxg3 $2 e4 $1 2. b7 h4+ 3. Kg4 e2) e2 (Kb2 2. b8=Q+ Kc2 3. Qxe5) (g4+ 2. Kh4 e2 3. b8=Q e1=Q 4. Qxe5+ Qxe5) 2. b8=Q g4+ (e1=Q 3. Qb2+ Kxb2 (axb2)) (e1=R 3. Qb3) 3. Kh4 e1=Q 4. Qxe5+ Qxe5 1/2-1/2
+
+[Event "Chemnitzer Allgemeine Zeitung"]
+[Date "1925.04.05"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6q1/2p5/2P5/1pPk4/1P1b2N1/1P6/6KP/7B w - - 0 1"]
+
+1. Kh3+ $1 Ke6 2. Bd5+ Kxd5 3. Nf6+ Bxf6 (Ke6 4. Nxg8 Bg7 5. Kg4 Kf7 6. Kf5 Kxg8 7. Ke6 Bc3 8. Kd7 Be5 9. Kc8 Kf7 10. Kb7 Ke7 11. Ka6) 1/2-1/2
+
+[Event "Deutsche Schachblätter#330"]
+[Source "also Magyar Sakkvilág#098 Magyar Sakkvilág=12 Magyar Sakkvilág/12 1925."]
+[Date "1925.07.15"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p5P1/k4p1b/p1K5/8/BP6/8 w - - 0 1"]
+
+1. g7 $1 Bf7+ 2. Kc5 $1 Bxa2 3. b4+ axb3 4. g8=Q Ka4 {<eg>} 5. Qc4+ Ka3 6. Qc3 Bb1 7. Kc4 Ba2 8. Qa5+ Kb2 9. Qd2+ Ka3 10. Kc3 Ka4 11. Qd7+ Ka5 12. Qc6 1-0
+
+[Event "The Chess Amateur#1456"]
+[Source "The Chess Amateur/6"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/pp6/kq5R/p4p1K/P1p2P1P/2P5/8 w - - 0 1"]
+
+1. Rf5 $1 (1. Rxb5+ $2 axb5) Qxf5 (Qc5 2. Rxc5+) 1/2-1/2
+
+[Event "The Chess Amateur#1452"]
+[Source "The Chess Amateur/6"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "b7/k2p4/2p5/1P6/2P4P/8/1K6/8 w - - 0 1"]
+
+1. b6+ $1 Kxb6 (Kb8 2. c5 Bb7 3. h5 (3. Kc3 $2 d5) Ba6 4. Kc3) 2. c5+ Kxc5 3. h5 1-0
+
+[Event "The Evening News of London"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/8/8/3p1K1p/3P3P/4p1p1/3p3p/5R2 w - - 0 1"]
+
+1. Ke6+ $1 (1. Kg6+ $2 Ke8 2. Kg7 h1=Q 3. Rf8+ Kd7 4. Rf7+ Kc6 $1) Kg8 (Ke8 {<main>} 2. Ra1 $1 Kd8 3. Kd6 Kc8 4. Kc6 Kb8 5. Rb1+ Ka7 6. Ra1+ Kb8 7. Rb1+ Kc8 8. Ra1) 2. Ke7 d1=Q 3. Rf8+ Kh7 4. Rf7+ Kg6 5. Rf6+ 1/2-1/2
+
+[Event "British Chess Magazine#0258"]
+[Source "British Chess Magazine/5"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1p1P4/2P5/1P1n3k/7p/7p/4b2K w - - 0 1"]
+
+1. d7 $1 Ne6 (Nc6 2. b5 Nd8 3. c6 Bg3 4. c7 Bxc7) 2. c6 (2. b5 $2 Kg4) Bg3 3. d8=Q+ (3. b5 $2 Bc7 4. d8=Q+ Bxd8 5. c7 Nxc7) Nxd8 4. c7 Bxc7 5. b5 Nc6 6. bxc6 Bd8 7. c7 Bxc7 1/2-1/2
+
+[Event "British Chess Magazine#0301"]
+[Source "British Chess Magazine/3"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1k6/1P5p/1PP4P/P6K/8/4p3/2b1PNp1/4b3 w - - 0 1"]
+
+1. a6 $1 Bg6+ 2. Kh4 Bxf2+ 3. Kh3 Bf5+ 4. Kxg2 Be4+ 5. Kf1 Bxc6 6. a7+ Kxb7 7. a8=Q+ Kxa8 8. b7+ Kxb7 1/2-1/2
+
+[Event "British Chess Magazine#0347"]
+[Source "British Chess Magazine/2"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1Pn3nP/8/8/4K3/8/4k3 w - - 0 1"]
+
+1. h7 $1 (1. b7 $2 Nf8 $1) Na5 $1 (Kf1 2. Ke4 Ke2 3. Kf5 Nh8 4. Kf6 Kd3 5. Kg7 Ke4 6. Kxh8 Kf5 7. Kg7) 2. Kf3 $1 (2. Ke4 $2 Nc4 $1 3. Kf5 (3. b7 Nd6+ 4. Kd5 Nxb7) Nh8 4. b7 Nd6+ 5. Kf6 Nxb7 6. Kg7 Nd6 7. Kxh8 Ne8 $1 8. Kg8 Nf6+ 9. Kg7) Kd2 3. Kg4 Nh8 4. Kg5 Kd3 5. Kf6 Kd4 6. Kg7 1-0
+
+[Event "British Chess Magazine#0609"]
+[Source "British Chess Magazine/2"]
+[Date "1944.??.??"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/pk6/8/P1p5/P1P3K1/Pp6/1P5P/8 w - - 0 1"]
+
+1. a6+ $1 (1. h4 $2 Ka6 2. h5 Kxa5 3. h6 Kxa4 4. h7 a5 5. h8=Q) (1. Kf5 $2 Ka6) Kxa6 2. a5 $1 Kxa5 3. a4 $1 Kxa4 4. h4 1-0
+
+[Event "The Chess Problem#35"]
+[Source "EG#14019."]
+[Date "1944.12.06"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "Bk6/1P2p2p/RP2p2P/4P3/p2p4/P2R2P1/2KP4/8 w - - 0 1"]
+
+1. Rb3 $1 axb3+ (d3+ 2. Kb1) 2. Kb1 $1 d3 3. Ra5 b2 4. Rd5 $1 exd5 5. g4 d4 6. g5 e6 7. g6 hxg6 {<eg>} 8. h7 g5 9. h8=Q# 1-0
+
+[Event "The Chess Problem#34"]
+[Source "EG#14018."]
+[Date "1944.12.06"]
+[Round "?"]
+[Composer "Dawson, Thomas Rayner"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K1n5/4Pp2/8/3k4/8/6p1/5p2/8 w - - 0 1"]
+
+1. e8=Q $1 Nb6+ (f1=Q {<main>} 2. Qb5+ Qxb5) (Nd6) (f5 2. Qe2) 2. Kb8 f1=Q 3. Qxf7+ Qxf7 1/2-1/2

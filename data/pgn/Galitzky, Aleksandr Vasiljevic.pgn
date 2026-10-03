@@ -1,0 +1,54 @@
+[Event "La Stratégie#438"]
+[Source "La Stratégie/12"]
+[Date "1900.??.??"]
+[Round "?"]
+[Composer "Galitzky, Aleksandr Vasiljevic"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6pp/6pk/7P/6K1/7P/8 w - - 0 1"]
+
+1. h3 $1 gxh4+ 2. Kf4 g5+ 3. Kf5 g4 4. hxg4# 1-0
+
+[Event "Shakhmatnoye Obozrenye"]
+[Date "1902.??.??"]
+[Round "?"]
+[Composer "Galitzky, Aleksandr Vasiljevic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3p4/8/1p4p1/1p1p2p1/pP1P2P1/kb1KN3 w - - 0 1"]
+
+1. Kc1 $1 Bc2 2. Nxc2+ bxc2 (dxc2 3. d3 d5 4. d4) 3. b3 d5 1/2-1/2
+
+[Event "La Stratégie#534"]
+[Source "La Stratégie/1"]
+[Date "1903.??.??"]
+[Round "?"]
+[Composer "Galitzky, Aleksandr Vasiljevic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5p2/5P2/7K/6N1/5ppk/5bb1 w - - 0 1"]
+
+1. Ne2 $1 Kh1 (Bxe2) 2. Ng3+ Kh2 3. Ne2 Bxe2 1/2-1/2
+
+[Event "La Stratégie#610"]
+[Source "La Stratégie/4"]
+[Date "1904.??.??"]
+[Round "?"]
+[Composer "Galitzky, Aleksandr Vasiljevic"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/3p3p/3P3p/2p4P/4KR1p/b5kr w - - 0 1"]
+
+1. Kf3 $1 Bb2 $1 2. Rc2 Kf1 (Ba3 3. Rxc3 Kf1 4. Rc1+ Bxc1) 3. Rc1+ $1 Bxc1 1/2-1/2

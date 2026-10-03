@@ -1,0 +1,125 @@
+[Event "64#349"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Birnov, Zinovy Markovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4N3/1K6/p2P1P2/8/2kr4/8/5b2/8 w - - 0 1"]
+[PlyCount "10"]
+
+1. f7 Rf4 2. d7 Bh4 3. Nf6 Rxf6 4. d8=Q Rxf7+ 5. Kxa6 Bxd8 $11 1/2-1/2
+
+[Event "Isvestia#199 (c)"]
+[Source "(c): Garcia=M Krug=P Estudios Artisticos de Ajedrez - XIII-43 2014."]
+[Date "1926.11.17"]
+[Round "?"]
+[Composer "Birnov, Zinovy Markovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2b4k/1p2p3/3PppPK/2PP1p2/7b/8/8/8 w - - 0 1"]
+
+1. c6 $1 bxc6 (Bg5+ 2. Kh5 exd6 3. dxe6 bxc6 4. e7 Bd7 5. e8=Q+ Bxe8) (exd6 2. dxe6 bxc6 3. e7 Bd7 4. e8=Q+ Bxe8 5. g7+ Kg8) 2. dxe7 Bd7 3. dxe6 Be8 (Bg5+ {<main>} 4. Kh5 Be8) 4. g7+ Kg8 1/2-1/2
+
+[Event "Zadachy i Etyudy#12"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Birnov, Zinovy Markovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3K1k2/8/2P5/2p5/5P2/8/1B4p1/3b4 w - - 0 1"]
+
+1. c7 $1 Bg4 2. f5 Bxf5 3. c8=Q Bxc8 4. Ba3 g1=Q 5. Bxc5+ Qxc5 1/2-1/2
+
+[Event "64#629 (s)"]
+[Source "64/4"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Birnov, Zinovy Markovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7b/2P5/4P3/2BB4/K7/2kr4 w - - 0 1"]
+
+1. c6 $1 Bf4 2. e5 Bxe5 3. Bxe5 Rd2+ $1 (Rxd3 4. c7 Rd2+ 5. Kb3 Rc2 6. Bc3 Kb1 7. c8=Q) 4. Ka1 Rxd3 5. Bb2+ Kc2 6. c7 Rd1+ 7. Ka2 Rd8 8. cxd8=N $1 (8. cxd8=Q $2) 1-0
+
+[Event "Shakhmaty v SSSR#646"]
+[Source "Shakhmaty v SSSR/12"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Birnov, Zinovy Markovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/6PP/2p1K3/7p/8/4k3 w - - 0 1"]
+
+1. Kf3 $1 c3 2. g6 h2 3. Kg2 c2 4. g7 h1=Q+ 5. Kxh1 c1=Q 6. g8=Q Kf2+ 7. Kh2 Qf4+ 8. Kh3 Qf3+ 9. Kh4 Qh1+ 10. Kg5 Qg2+ 11. Kh6 Qxg8 1/2-1/2
+
+[Event "Shakhmaty v SSSR#03 (c)"]
+[Source "Shakhmaty v SSSR/2 (c): Garcia=M Krug=P Estudios Artisticos de Ajedrez - XIII-44 2014."]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Birnov, Zinovy Markovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2B5/4nNK1/8/8/6b1/B5k1/3p4/8 w - - 0 1"]
+
+1. Bd6+ $1 (1. Bxg4 $2 Kxg4 2. Ne5+ Kg3 3. Bxe7 d1=Q) Kh4 2. Bxe7+ Kh5 3. Bxg4+ Kxg4 4. Ne5+ Kh5 (Kg3 5. Bh4+ Kh3 (Kxh4 6. Nf3+ Kg3 7. Nxd2) 6. Nd3 d1=Q 7. Nf2+ Kxh4 8. Nxd1) 5. Nd7 d1=Q 6. Nf6+ Kh4 7. Ne4+ Kh5 8. Nf6+ Kg5 9. Nd5+ Kf5 10. Ne3+ Ke6 11. Nxd1 1/2-1/2
+
+[Event "Shakhmaty v SSSR#12"]
+[Source "Shakhmaty v SSSR/7"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Birnov, Zinovy Markovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/2K5/6p1/8/1BpN2P1/7P/4Pp2/8 w - - 0 1"]
+
+1. Nb5 $1 f1=Q 2. Kc8 Qf2 3. e3 $1 Qxe3 4. Nc7+ Ka7 5. Bc3 $1 Qf4 (Qxc3 6. Nb5+) (Kb6 6. Nd5+) 6. Bd4+ Qxd4 7. Nb5+ 1-0
+
+[Event "Shakhmaty v SSSR#05"]
+[Source "Shakhmaty v SSSR/4"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Birnov, Zinovy Markovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4K2k/7p/8/5R2/3P4/4p1b1/1p6/6B1 w - - 0 1"]
+
+1. Rb5 $1 e2 2. Bf2 Bxf2 3. Kf7 h6 4. Rxb2 e1=Q 5. Rb8+ Kh7 6. Rg8 Bxd4 7. Rg7+ Bxg7 1/2-1/2
+
+[Event "Shakhmaty v SSSR#02"]
+[Source "Shakhmaty v SSSR/1"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Birnov, Zinovy Markovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/R4p2/8/8/P7/pk5K/7n w - - 0 1"]
+
+1. Rb6+ $1 Kc2 (Kxa3 2. Ra6+) 2. Rc6+ Kd2 3. Rd6+ Ke2 4. Re6+ Kf1 5. Rxf6+ Nf2 6. Rg6 Nh3 $1 (Ke2 7. Rg1 Nd1 8. Rg2+) 7. Rf6+ Nf4 $1 8. Rxf4+ Ke2 9. Re4+ Kd2 10. Rd4+ Kc2 11. Rc4+ Kb2 12. Rg4 $1 (12. Rb4+ $2 Kc3) a1=Q 13. Rg1 Qxa3 14. Rg2+ Kb1 15. Rg1+ 1/2-1/2

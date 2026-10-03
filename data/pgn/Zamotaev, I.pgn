@@ -1,0 +1,27 @@
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/9"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Zamotaev, I"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1p6/6Pk/8/K7/8/3n4/8 w - - 0 1"]
+
+1. Kb5 $1 (1. Ka5 $2 Nc4+ 2. Kb5 Nd6+ 3. Kc5 Nc8) Ne4 2. Kb6 Nd6 3. Kc7 b5 4. Kxd6 b4 5. Ke5 $1 b3 6. Kf6 b2 7. g7 1/2-1/2
+
+[Event "Shakhmaty v SSSR (c)"]
+[Source "Shakhmaty v SSSR/9 (c): Garcia=M Estudios Artisticos de Ajedrez - XI-103 2012."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Zamotaev, I"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "N7/8/4N3/8/8/7K/p7/4k3 w - - 0 1"]
+
+1. Nd4 $1 Kd1 2. Nb3 Kc2 3. Na1+ Kb2 4. Nb6 $1 Kxa1 5. Na4 $1 Kb1 6. Nc3+ Kb2 7. Nxa2 1/2-1/2

@@ -1,0 +1,26 @@
+[Event "2.p Selman MT Schakend Nederland#1639"]
+[Source "Schakend Nederland/8-9 EG#04020."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Rol, Gustaaf Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/1B3P2/P4n2/p4p2/rp1RpN2/p3P3/Nk1K4 w - - 0 1"]
+
+1. Bc7 $1 (1. Ke1 $2 Kxa1 2. Bc7 Kb1 3. Be5 a1=Q 4. Rd1+ Kc2 5. Bxa1 Rxa1 6. Rxa1 b2 7. Ra2 a3) (1. Bc5 $2 b2 2. Bxa3 bxa1=Q) b2 2. Rxa3 (2. Be5 $2 Rxd3+) bxa1=R $1 (bxa1=Q 3. Be5 Qxe5 4. Nxe5 a1=Q 5. Rxa1+ Kxa1 6. a6) 3. Be5 Nd4 $1 4. Rb3+ $1 (4. Bxd4 $2) axb3 (Nxb3 5. a6 a3 6. Bc3 (6. a7 $2 Nd4 $1) Nc5 7. a7 Na4 8. Nd2+ exd2 9. a8=Q) 5. Bxd4 b2 6. Ne1 $1 f3 7. exf3 e2+ 8. Kxe2 Kc1 9. Be3+ (9. Nd3+ $2 Kc2 10. Bxb2 Rd1 $1) Kb1 10. Bc5 $1 Kc1 11. Ba3 Rb1 12. Bf8 $1 (12. f4 $2 a1=B (a1=Q $2 13. Bc5 $2 Qa3 14. Bxa3 Ra1 15. Nd3+ Kc2 16. Bxb2)) Ra1 13. Bh6+ Kb1 14. f4 Kc1 15. f5+ Kb1 16. Bf8 Kc1 17. Ba3 Rb1 18. Bb4 $1 Ra1 19. Bd2+ Kb1 20. Nf3 $1 Kc2 21. Nd4+ Kb1 22. Bb4 Kc1 23. Ba3 Rb1 (Kb1 $2 24. a6) 24. Bd6 $1 Ra1 25. Bf4+ Kb1 26. Be5 Kc1 27. Nb3+ Kc2 28. Nxa1+ Kc1 29. Bxb2+ Kxb2 30. a6 Kxa1 31. a7 Kb1 32. a8=Q a1=Q 33. Qxa1+ Kxa1 34. Kd3 1-0
+
+[Event "Het Parool"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Rol, Gustaaf Alexander"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6B1/5p2/7b/6p1/7R/3p1kp1/7p/4RK2 w - - 0 1"]
+
+1. Rh3 $1 g4 (d2 2. Rb1 g4 3. Rxg3+ Kxg3 4. Ke2 f5 5. Be6 f4 6. Kxd2 f3+ 7. Kd3 Kf4 8. Bd5 Bg5 9. Rh1 g3 10. Rf1 g2 11. Rxf3+ Kg4 12. Rf4+ Kg3 13. Rg4+ Kxg4 14. Bxg2) 2. Bxf7 h1=Q+ 3. Rxh1 g2+ 4. Kg1 d2 5. Rh3+ gxh3 6. Rb1 Be3+ 7. Kh2 Kg4 8. Be6+ (8. Be8 $2 g1=Q+ 9. Rxg1+ Bxg1+ 10. Kh1 d1=N 11. Kxg1 Kg3 12. Bc6 h2+ 13. Kf1 Ne3+) Kh4 9. Rb4+ Kh5 10. Rb1 (10. Kxh3 $2 g1=N+ 11. Kg3 Ne2+ 12. Kf3 d1=Q 13. Kxe3 Qe1) Kh4 11. Rb4+ Kg5 12. Rg4+ Kh5 13. Rg8 g1=Q+ (d1=Q {<main>} 14. Bg4+ Qxg4 15. Rxg4 Kxg4) 14. Rxg1 Bxg1+ 15. Kh1 d1=Q 16. Bg4+ Kxg4 1/2-1/2

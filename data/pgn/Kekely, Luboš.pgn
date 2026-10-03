@@ -1,0 +1,104 @@
+[Event "Priziv"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Kekely, Luboš"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/2Pnp3/K2R4/3p4/8/2p5/8/8 w - - 0 1"]
+
+1. Rxd7 $1 c2 2. Rd8+ Kxc7 3. Rxd5 Kc6 4. Rd8 Kc7 5. Rd5 c1=Q 6. Rc5+ Qxc5 1/2-1/2
+
+[Event "Pruboj"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Kekely, Luboš"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/PKn5/2P2k2/8/5b2/5P2/8 w - - 0 1"]
+
+1. a7 $1 Ne5 2. Kc7 Ke6 3. c6 Bxc6 4. f4 1/2-1/2
+
+[Event "Mat Pat"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Kekely, Luboš"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7K/5kP1/4N2b/5n2/3p4/8 w - - 0 1"]
+
+1. Nxd2 $1 Nxd2 2. g6 Ne4 3. g7 Nf6 4. g8=Q Nxg8+ 5. Kh5 Bg3 1/2-1/2
+
+[Event "2.p Nedelna Pravda#1599"]
+[Source "EG#06898."]
+[Date "1984.09.14"]
+[Round "?"]
+[Composer "Kekely, Luboš"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4r3/8/5P2/4P3/5B2/8/5k1K/8 w - - 0 1"]
+
+1. Bg3+ $1 (1. Kh3 $2 Kf3 $1 2. Bg3 Rh8+ 3. Bh4 Kf4 4. e6 Kf5 5. e7 Ke6) (1. Be3+ $2 Kxe3 $1 2. f7 Rf8 3. e6 Kf2 4. Kh3 Kf3 5. Kh4 Kf4) (1. Kh1 $2 Rf8 $1 2. Bh2 Kf3) Kf3 2. f7 (2. Kh3 $2 Rh8+ $1) Rh8+ 3. Bh4 $1 (3. Kg1 $2 Kxg3 $1 4. e6 Ra8 5. Kf1 Kf3 6. Ke1 Ke3 7. Kd1 Kd3 8. Kc1 Kc3 9. Kb1 Rb8+) Rxh4+ 4. Kg1 Rg4+ 5. Kf1 Rf4 6. e6 1-0
+
+[Event "Zemedelske Noviny"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Kekely, Luboš"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k4/7p/8/1K4p1/1R6/8/5p2/8 w - - 0 1"]
+
+1. Rb1 $1 g4 2. Kc5 g3 3. Kd6 Ke8 4. Ke6 Kf8 5. Kf6 Ke8 6. Ke6 Kd8 7. Kd6 Kc8 8. Rc1+ Kb7 9. Rb1+ Ka6 10. Kc6 Ka5 11. Kc5 Ka4 12. Kc4 Ka3 13. Kc3 Ka2 14. Rf1 1/2-1/2
+
+[Event "Ciel"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Kekely, Luboš"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/2p5/p1P3k1/7p/R3K3 w Q - 0 1"]
+
+1. O-O-O $1 Kg2 2. Kb1 h1=Q 3. Rxh1 Kxh1 4. Ka2 Kg2 5. Kxa3 Kf3 6. Kb4 1-0
+
+[Event "Nedelna Pravda#1952"]
+[Date "1987.05.22"]
+[Round "?"]
+[Composer "Kekely, Luboš"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p2p4/3p4/P4p2/2P5/4Rp1P/p4Pn1/3k1K2 w - - 0 1"]
+
+1. Ra3 $1 d5 $1 (Kc2 2. Rxa2+ Kc3 3. a6 Kxc4 4. Rb2 d5 5. Rb7) (f4 2. Rxa2 Ne3+ 3. fxe3 fxe3 4. Ra1+ Kd2 5. h4) 2. cxd5 Kc2 3. Rxa2+ Kb3 4. Ra1 Kb2 5. Re1 $1 Nxe1 6. Kxe1 Kc3 7. h4 Kd4 8. h5 Ke5 9. Kd2 Kf6 10. Ke3 Kg5 11. h6 $1 (11. Kxf3 $2 d6 $1) Kxh6 12. Kf4 Kg6 13. Ke5 Kf7 14. Kd6 Ke8 15. Kc7 1-0
+
+[Event "Zemedelske Noviny"]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Kekely, Luboš"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2K1k3/4p3/2P5/1P6/8/8/p6P/8 w - - 0 1"]
+
+1. b6 $1 (1. c7 $2 a1=Q 2. Kb7 Qh1+ 3. Kb8 Qxh2 4. Kb7 Qg2+ 5. Kb8 Qg3 6. Kb7 Qf3+ 7. Kb8 Qf4 8. Kb7 Qe4+ 9. Kb8 Qe5 10. Kb7 Qxb5+) a1=Q 2. b7 Qa6 3. c7 Kf7 4. h4 $1 (4. Kb8 $2 Qd6 5. Kc8 Qe6+ 6. Kd8 Qd5+ 7. Kc8 Qf5+ 8. Kd8 Qd3+ 9. Kc8 Qh3+ 10. Kb8 Qxh2 11. Kc8 Qh8+ 12. Kd7 Qe8#) Qe6+ 5. Kd8 Qd5+ 6. Kc8 Qf5+ 7. Kd8 Qd3+ 8. Kc8 Qh3+ 9. Kd8 1/2-1/2

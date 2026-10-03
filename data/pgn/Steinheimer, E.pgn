@@ -1,0 +1,13 @@
+[Event "Schach Echo#432"]
+[Source "Schach Echo/3-4"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Steinheimer, E"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/p7/2P1P1pp/PP1p2k1/3P4/3b2K1/8 w - - 0 1"]
+
+1. e6 $1 dxe6 2. c6 Bf4 3. b5 $1 (3. a5 $2 h4 $1 4. b5 h3+ 5. Kh1 Kf3 6. bxa6 g4 7. a7 g3 8. a8=Q g2+ 9. Kg1 h2#) axb5 (h4 4. bxa6 h3+ 5. Kh1 Kf3 6. c7 $1) 4. a5 h4 (b4 5. a6 b3 6. c7 $1 Bxc7 (b2 7. c8=Q b1=Q 8. Qxe6+ Kh4 9. Qh3#) 7. a7) 5. a6 h3+ 6. Kh1 Kf3 7. c7 (7. a7 $2 g4 8. a8=Q g3 9. c7+ Kf2 10. Qa2+ Kf3) g4 8. c8=Q g3 9. Qc6+ 1-0

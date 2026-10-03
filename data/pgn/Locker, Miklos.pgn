@@ -1,0 +1,25 @@
+[Event "Macedonski Sah"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Locker, Miklos"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "n7/P1p5/2K5/8/8/4k3/8/8 w - - 0 1"]
+
+1. Kb7 $1 c5 2. Kxa8 c4 3. Kb8 $1 c3 4. a8=Q c2 5. Qg2 c1=Q 6. Qg5+ 1-0
+
+[Event "Ukrain ty"]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Locker, Miklos"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p5/8/7P/3K1ppp/8/4P3/k7 w - - 0 1"]
+
+1. h6 $1 g3 2. h7 g2 3. h8=Q g1=Q+ 4. Kc3 Qb1 5. Qa8+ Qa2 6. Qh1+ 1/2-1/2

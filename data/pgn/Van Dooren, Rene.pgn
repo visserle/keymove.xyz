@@ -1,0 +1,12 @@
+[Event "Volksgazet (tw)"]
+[Date "1959.09.08"]
+[Round "?"]
+[Composer "Van Dooren, Rene"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/ppp5/7p/PPP4k/7P/7K/8 w - - 0 1"]
+
+1. b5 $1 axb5 (cxb5 2. a5 bxa5 (bxc4 3. axb6 c3 4. b7 c2 5. b8=Q c1=Q 6. Qg3#) 3. c5 b4 4. c6 b3 5. c7 b2 6. c8=Q b1=Q 7. Qd8#) 2. c5 bxc5 (bxa4 3. cxb6 a3 4. b7 a2 5. b8=Q a1=Q 6. Qf4#) 3. a5 c4 (b4 4. a6 b3 5. a7 b2 6. a8=Q b1=Q 7. Qd8#) 4. a6 c3 5. a7 c2 6. a8=Q c1=Q 7. Qd8+ Qg5 8. Qd4+ 1-0

@@ -1,0 +1,41 @@
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/7"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Khotyashev, M"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "B1K5/8/8/8/p1P1pk2/2P5/8/8 w - - 0 1"]
+
+1. Bxe4 $1 (1. c5 $2 e3 2. c6 e2 3. c7 e1=Q 4. Kb8 Qxc3 5. c8=Q Qxc8+ 6. Kxc8 Ke5 $1) Kxe4 2. Kb7 $1 (2. Kd7 $2 a3 3. c5 a2 4. c6 a1=Q 5. c7 Qd1+ 6. Ke7 Qg4 7. Kd8 Qg8+ 8. Kd7 Qd5+ 9. Kc8 Ke5 10. c4 Qa8+ 11. Kd7 Qb7) a3 3. c5 a2 4. c6 a1=Q 5. c7 Qb2+ 6. Kc6 $1 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/7"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Khotyashev, M"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2k5/8/1n6/3p4/3K4/8/3P4/8 w - - 0 1"]
+
+1. Kc5 $1 (1. d3 $2 Kb7 2. Kc5 Kc7 3. d4 Kb7 4. Kd6 Ka6 5. Kc6 Ka5 6. Kc5 Ka4 7. Kxb6 Kb4) Kc7 (Kb7 2. Kd6) 2. d3 $1 Kb7 3. Kd6 (3. Kb5 $2 Nd7) Ka6 4. Kc6 Ka5 5. Kc5 Ka4 6. Kxb6 Kb4 7. Kc6 1/2-1/2
+
+[Event "Shakhmaty v SSSR"]
+[Source "Shakhmaty v SSSR/7"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Khotyashev, M"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2P1n3/4k3/1K1p4/3P4/8/8/8 w - - 0 1"]
+
+1. Kc5 $1 (1. Kb6 $2 Kd7 2. Kb7 Nc8 3. Ka8 Kc6 4. Kb8 Nd6) Kd7 2. c8=Q+ $1 Kxc8 3. Kd6 Kd8 4. Ke6 Ke8 5. Kd6 Kf7 6. Ke5 $1 Kg7 7. Ke6 Kf8 8. Kf6 1/2-1/2

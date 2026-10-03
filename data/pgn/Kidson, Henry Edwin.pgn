@@ -1,0 +1,12 @@
+[Event "Illustrated London News"]
+[Date "1854.??.??"]
+[Round "?"]
+[Composer "Kidson, Henry Edwin"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p7/p1k5/3q4/b7/8/6Q1/5K2 w - - 0 1"]
+
+1. Ke1 $1 Qxg2 (Kc5 2. Qxd5+ Kxd5 3. Kd2) 1/2-1/2

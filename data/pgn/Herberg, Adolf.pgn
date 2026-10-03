@@ -1,0 +1,517 @@
+[Event "?"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/p7/8/7B/k7/P7/1K3p2/8 w - - 0 1"]
+
+1. Bd1+ (1. Be2 $2 a5 2. Bd1+ $10) (1. Be8+ $4 Ka5 $19) (1. Ka2 $4 f1=Q 2. Be8+ Ka5) (1. Bf3 $4 f1=Q 2. Bc6+ Ka5) (1. Bf7 $4 Kb5 2. Be8+ Kc4) (1. Bg4 $4 f1=Q 2. Bd7+ Ka5) (1. Kc3 $4 f1=Q 2. Be8+ Kxa3) (1. Kc2 $4 f1=Q 2. Be8+ Kxa3) (1. Bg6 f1=Q 2. Be8+ Ka5) Ka5 2. Be2 (2. Ba4 Kxa4) Ka4 3. Ba6 (3. Ka2 $2 a5 4. Bf1) (3. Bf1 $2 a5 4. Be2 $10) (3. Bd3 $2 a5 4. Be2 $10) (3. Bd1+ Kb5 4. Be2+) (3. Bc4 $2 a5 4. Bf1) (3. Kc2 $2 a6 4. Bf1 Kxa3 5. Be2) (3. Bb5+ $4 Kxb5 4. a4+ Kc4) (3. Kc3 $2 a6 4. Bf1) (3. Bf3 f1=Q 4. Bc6+ Ka5) (3. Bg4 f1=Q 4. Bd7+ Ka5) Ka5 4. Bf1 (4. Bd3 Ka4 5. Ba6 $18) (4. Be2 Ka4 5. Bd1+ $18) (4. Bc4 Ka4 5. Ba6 $18) (4. Bb5 $4 Kxb5 5. a4+ Kc4) Ka4 5. Bg2 (5. Bh3 Ka5 6. Kb3 $18) (5. Ba6 Ka5 6. Bf1 $18) (5. Be2 $2 a5 6. Bd1+ $10) (5. Ka2 $2 a5 6. Be2 $10) (5. Bc4 $2 a5 6. Bf1) (5. Bd3 $2 a5 6. Be2 $10) (5. Kc3 $2 a6 6. Kc2) (5. Kc2 a6 6. Kc3) (5. Bb5+ Kxb5 6. a4+ Kc4) a5 (Ka5 6. Kb3 $18) 6. Bc6# (6. Bf1 $4) (6. Bh3 $4 f1=Q 7. Bd7+ Qb5+ 8. Bxb5+ Kxb5 9. a4+) (6. Ka2 $4 f1=B 7. Bh1 Bc4+ 8. Kb2) (6. Bf3 $4 f1=Q 7. Bc6+) (6. Kc3 $4 f1=Q 7. Bxf1 Kxa3 8. Be2) (6. Ka1 f1=Q+ 7. Bxf1 Kxa3 8. Be2) (6. Be4 f1=Q 7. Bc6+) 1-0
+
+[Event "Deutsche Schachzeitung#1905"]
+[Source "Deutsche Schachzeitung/5"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/2p1P3/5P2/8/1p3K2/8/8/8 w - - 0 1"]
+
+1. Ke5 $1 Kf7 2. Kd4 $1 c6 $1 3. Kd3 $1 c5 4. Kc4 Ke8 5. Kxc5 b3 6. Kd6 b2 7. Ke6 b1=Q 8. f7# 1-0
+
+[Event "Deutsche Schachzeitung#1933"]
+[Source "Deutsche Schachzeitung/3"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/3p1p2/7k/1K2P3/8/8 w - - 0 1"]
+
+1. Kc2 $1 (1. Kb4 $2 Kg4 2. Kc3 Kg3) (1. Kb2 $2 Kh3 2. Kb3 Kh2 3. Kb2 Kh1 $1 4. Kb3 (4. Kb1 d4) Kg1 5. Kc3 Kf1) Kg4 2. Kd2 $1 Kh3 3. Kd3 $1 Kg2 (Kg3 4. Kc3 $1) 4. Kc2 $1 (4. Ke2 $2 Kg3) Kh1 5. Kd1 $1 Kg1 6. Kc1 $1 d4 7. Kd2 1/2-1/2
+
+[Event "Deutsche Schachzeitung#1945"]
+[Source "Deutsche Schachzeitung/7"]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2kp4/8/3KP3/8/3p4/3P4/8 w - - 0 1"]
+
+1. Kc5 $1 Kb7 2. Kc4 Kc6 3. Kd4 d6 4. e6 d5 5. Ke5 1-0
+
+[Event "Deutsche Schachzeitung#1975"]
+[Source "Deutsche Schachzeitung/2"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3K4/3P4/2k5/8/8/1P6/1b6 w - - 0 1"]
+
+1. b4+ $1 Kb6 2. Ke6 Kc6 3. b5+ Kb7 4. d7 Bf5+ 5. Kxf5 Kc7 6. Ke6 Kd8 7. Kd5 $1 Kxd7 (Kc7 8. d8=Q+) 8. b6 Kc8 9. Kc6 Kb8 10. b7 1-0
+
+[Event "Revista de Romana de Sah#0274"]
+[Date "1939.07.24"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4p3/1k6/1p1P4/8/2P5/2K5 w - - 0 1"]
+
+1. d5 $1 (1. Kd2 $2 Kc4 $1) (1. Kb2 $2 Kc4 $1) exd5 (e5 2. c3 bxc3 3. Kc2 e4 4. d6) 2. Kb1 $1 (2. Kd1 $2 Kc4 3. Kd2 Kd4) Kc5 3. Ka2 $1 Kc4 (Kd4 4. Kb3 Kc5 5. c3) 4. Kb2 d4 5. Kb1 (5. Kc1 $2 Kc3 6. Kd1 Kb2 7. Kd2 Kb1 8. Kd1 d3) Kc3 6. Kc1 1/2-1/2
+
+[Event "Deutsche Schachzeitung#2073"]
+[Source "Deutsche Schachzeitung/1"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4p1N1/8/3P4/7n/5r2/B4p1p/5K1k w - - 0 1"]
+
+1. Bb1 $1 (1. d6 $2 Ng2 2. Nf5 Rxf5) Ng2 (Re3 2. Nh5) (Rf4 2. Nh5) 2. Nf5 Rxf5 (Ne3+ 3. Nxe3 Rxe3 4. Bf5 Re5 5. Bg4 Re3 6. Kxf2) 3. Be4 Rg5 4. Bf3 (4. d6 $2 exd6) Rg4 5. d6 exd6 6. Ba8 Rg5 7. Be4 d5 8. Bf3 d4 9. Be4 d3 10. Bxg2+ Rxg2 1/2-1/2
+
+[Event "1.hm Sach#091"]
+[Source "Sach/11"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "q3Bk2/4p3/6PK/7P/7B/p7/8/8 w - - 0 1"]
+
+1. g7+ $1 Kg8 2. Bg6 a2 (Qc6 3. Bf6 Qc1+ 4. Bg5 Qc6 5. Bf6) 3. Bf6 $1 exf6 $1 4. Bf5 $1 Kf7 5. Be6+ Ke7 (Kxe6 6. g8=Q+ Qxg8) 6. Bxa2 Qxa2 7. g8=Q Qxg8 1/2-1/2
+
+[Event "Deutsche Schachzeitung#2138"]
+[Source "Deutsche Schachzeitung/2"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/7P/8/7p/4P3/6K1/8/8 w - - 0 1"]
+
+1. Kh4 $1 Kg7 2. Kg5 $1 (2. e5 $2 Kxh7) (2. h8=Q+ $2 Kxh8 3. Kxh5 Kh7) Kxh7 (h4 3. Kxh4 Kxh7 4. Kh5) (Kh8 3. Kg6) 3. Kxh5 Kg7 4. Kg5 Kf7 5. Kf5 Ke7 6. Ke5 Kf7 7. Kd6 1-0
+
+[Event "3.p Grossdeutscher Schachbund ty Deutsc"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6n1/7p/2p4k/8/6KP/7P/1B6/8 w - - 0 1"]
+
+1. h5 $1 c5 (Ne7 2. Ba3 $1 Nd5 3. Bf8#) 2. Be5 $1 c4 (Ne7 3. Bd6) 3. Bc3 $1 (3. Bd4 $2 c3 4. Bxc3 Nf6+ 5. Bxf6) Ne7 4. Bb4 Nf5 $1 5. Bd2+ $1 (5. Kxf5 $2 Kxh5 6. Be1 c3) (5. Bf8+ $2 Ng7 6. Kf3 c3) Kg7 6. Kxf5 1-0
+
+[Event "Deutsche Schachzeitung#2198"]
+[Source "Deutsche Schachzeitung/9"]
+[Date "1942.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/4R3/7b/K3B3/8/8/4p3/8 w - - 0 1"]
+
+1. Bf6 $1 Bd2+ 2. Kb6 Bc3 3. Bg5 (3. Bh4 $2 Be1 $1) (3. Re5+ $2 Kd7 4. Rd5+ Ke6) Bd2 4. Re3+ Kc8 5. Re8+ Kd7 6. Rd8+ Ke6 7. Bxd2 1-0
+
+[Event "5.p Grossdeutscher Schachbund ty Deutsc"]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4q3/8/8/1N2kP1p/8/n7/3B1PKP/8 w - - 0 1"]
+
+1. Bc3+ $1 Kf4 2. Bd2+ Kg4 3. h3+ Kh4 4. Nd4 Qg8+ 5. Kh2 Qd5 6. f4 Nc2 7. Bc3 Qxd4 8. Bxd4 Nxd4 9. f6 $1 Ne6 10. f7 Nf8 11. Kg2 Ne6 12. Kh2 1/2-1/2
+
+[Event "Schackvärlden#368"]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2P2R2/k6r/8/2P5/1K6/8 w - - 0 1"]
+
+1. c7 $1 Rc5 (Rh8 2. Rc6 Rc8 3. c4 $1 Kb4 4. Kc2 Ka4 (Ka5 5. Kb3) (Ka3 5. Kc3) 5. Kc3 Ka5 6. Kb3 Rb8+ 7. Kc2 $1 Rc8 8. Kc3 Ka4 9. Ra6#) 2. Rf5 (2. Rf7 $2 Kb6 3. Kb3 Rxc7) Ka4 3. Rf7 Ka5 $1 4. Kb3 Kb6 (Rc6 5. Rf5+ Kb6 6. Rf6) 5. Kb4 Rb5+ 6. Kc4 $1 Rc5+ 7. Kd4 Rc6 8. Rf6 Kxc7 9. Rxc6+ Kxc6 10. Kc4 1-0
+
+[Event "Schach#01881"]
+[Source "Schach/8"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6bk/1P5p/8/4P3/4r3/8/p7/K3N3 w - - 0 1"]
+
+1. Nd3 $1 Rg4 $1 2. e6 $1 Rg1+ 3. Ne1 $1 Rxe1+ 4. Kxa2 Rxe6 5. b8=Q Re3+ (Re8+ 6. Ka1 Rxb8) (Rb6+ 6. Ka1 Rxb8) 6. Kb2 Rb3+ 7. Ka1 $1 Rxb8 1/2-1/2
+
+[Event "Deutsche Schachzeitung#105"]
+[Source "Deutsche Schachzeitung/5"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2B4b/8/8/5P2/8/3p4/2p5/2K2k2 w - - 0 1"]
+
+1. Ba6 $1 Ke2 2. f6 $1 (2. Bxd3+ $2 Kxd3 3. f6 Kc3 4. f7 Bd4 5. f8=Q Be3#) Ke3 (Bxf6 3. Bxd3+ Kxd3) 3. Bb5 $1 (3. Bc4 $2 Kd4) (3. Bxd3 $2 Kxd3 4. f7 Bd4) (3. f7 $2 Bg7) Bxf6 (Kd4 4. Kd2 $1) 4. Bxd3 $1 Kxd3 1/2-1/2
+
+[Event "Schach#01866"]
+[Source "Schach/7"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2K5/8/8/3k4/6p1/p7/4PB1P/8 w - - 0 1"]
+
+1. e4+ $1 (1. Bh4 $2 g3 $1 2. hxg3 Ke6 $1) (1. Be1 $2 g3 $1 2. hxg3 Kd4 3. g4 a2 4. Bh4 Ke5 $1) Kxe4 2. Bh4 $1 g3 $1 3. hxg3 Ke5 4. Kd7 $1 a2 5. Ke7 Kf5 (a1=Q 6. Bf6+ Kf5 7. Bxa1) 6. Bf6 1/2-1/2
+
+[Event "Tijdschrift v.d. KNSB#445"]
+[Source "Tijdschrift v.d. KNSB/1 1956"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/8/1k6/5p2/8/2KP2P1/8 w - - 0 1"]
+
+1. Kd3 $1 c5 2. Kc3 Kb6 3. Kc4 Kc6 4. d3 Kd6 5. d4 cxd4 6. Kxd4 1-0
+
+[Event "Deutsche Schachzeitung#188"]
+[Source "Deutsche Schachzeitung/7"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4R3/1K6/8/2P5/kp6/8/2r5 w - - 0 1"]
+
+1. Kc5 $1 (1. c5 $2 b2 2. Re3+ Kb4 3. Re4+ Rc4 4. Re1 Rxc5) (1. Ra7+ $2 Kb4) (1. Kb5 $2 b2 2. Re3+ Ka2 3. Re2 Ka1 4. Rxb2 Kxb2 5. c5 Kc3 6. c6 Kd4) b2 2. Ra7+ Kb3 3. Rb7+ Kc3 (Ka3 4. Ra7+) 4. Kd6 $1 Rd1+ 5. Ke7 Rd4 6. Rxb2 Kxb2 7. c5 Rc4 8. Kd6 1/2-1/2
+
+[Event "Tidskrift for Schack#0666"]
+[Source "Tidskrift for Schack/5-6"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1N1k4/8/K1p2P2/8/8/7p/8/8 w - - 0 1"]
+
+1. f7 $1 Ke7 2. Nd7 Kxf7 3. Ne5+ Ke6 $1 (Kf6 4. Nf3) 4. Nf3 Kd5 $1 (Kd6 5. Ka5) 5. Kb6 c5 6. Kb5 Ke4 7. Ng5+ (7. Nh2 $2 Kd4 8. Nf3+ Kd5) Kd3 8. Nxh3 1/2-1/2
+
+[Event "Schach Echo#120"]
+[Date "1956.06.20"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p3/8/5P1k/p4K2/1p6/8/2B5 w - - 0 1"]
+
+1. Ba3 $1 (1. Ke5 $2 Kh4 $1 2. Ke6 (2. Kf4 Kh3) Kg4 $1) Kh6 2. Ke5 (2. Kg4 $2 Kg7) Kh5 (Kg5 3. Bxe7+) 3. Ke6 Kg4 4. Bc1 $1 a3 5. Bxa3 Kf4 $1 (Kg5 6. Bxe7+) 6. Bb2 Kg5 7. Bc3 Kf4 8. Bd4 Kg4 (Kg5 9. Bb2) 9. Be5 $1 Kg5 10. Bb2 $1 Kf4 11. Ba3 $1 Kg4 (Kg5 12. Bxe7+) 12. Bc1 $1 1-0
+
+[Event ".c L'Échiquier de France#06"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/3P4/8/8/pb1B1p1k/8/8/8 w - - 0 1"]
+
+1. Bb6 $1 Bc3 2. Ke7 Kg5 3. Ke8 Bf6 4. Bd4 Bxd4 5. d8=Q+ 1-0
+
+[Event "Schach Echo#155"]
+[Date "1957.06.20"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7q/8/1B2N3/3pp3/5P1k/2p4P/6PK/8 w - - 0 1"]
+
+1. g4 $1 d4 (c2 2. Bf2#) 2. Ng7 $1 (2. Ng5 $2 e4 3. Nxe4 Qa8 $1 (Qb8 $2 4. Ng3 $1 Qxf4 5. Bd8+) 4. Bxd4 $1 (4. Nxc3 Qb8 $1 5. Nd5 Qa8) (4. Nd2 cxd2 5. Bxd4 Qh1+ $1 6. Kxh1 d1=Q+) Qa2+ 5. Nf2 Qf7 6. Be3 (6. Be5 c2 7. Nd3 c1=Q 8. Nxc1 Qxf4+ 9. Bxf4) Qa2 $1 7. Bd4 Qf7 8. Nd3 Qa2+ 9. Bf2+ Qxf2+ 10. Nxf2 c2 11. Nd3 c1=Q 12. Nxc1) exf4 3. Bxd4 Qh6 (Qd8 4. Ne6) (Qf8 4. Ne6) (Kg5 4. Ne6+) 4. Nf5+ Kg5 5. Nxh6 c2 {<eg>} 6. Bb2 1-0
+
+[Event "2.hm Szachy#134"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6qk/3pp3/6PK/5P1P/4p3/1p6/2B5/R7 w - - 0 1"]
+
+1. f6 $1 exf6 2. Ra8 Qxa8 3. g7+ Kg8 4. Bxe4 d5 (Qxe4) 5. Bf5 Kf7 6. Be6+ Ke7 (Kxe6 7. g8=Q+ Qxg8) 7. g8=Q Qxg8 8. Bxg8 f5 9. Bxd5 b2 10. Ba2 f4 11. Kg7 f3 12. h6 1/2-1/2
+
+[Event "Schach Echo#187"]
+[Date "1958.05.20"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/8/7p/8/k7/8/2P5/8 w - - 0 1"]
+
+1. Kc7 $1 (1. c4 $2 Kb4 $1 2. Kc7 Kc5 $1 3. Kd7 h5) h5 2. c4 $1 (2. Kd6 $2 h4 3. c4 h3 4. c5 h2 5. c6 h1=Q 6. c7 Qh3) h4 (Kb4 3. Kd6 h4 4. c5) 3. c5 h3 4. c6 $1 (4. Kb7 $2 h2) h2 5. Kb8 $1 h1=Q 6. c7 1/2-1/2
+
+[Event "Schach Echo#232"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5R2/K7/5P2/8/2p5/8/1r2k3/8 w - - 0 1"]
+
+1. f7 $1 Kf1 $1 2. Rb8 $1 (2. Rh8 $2 Rf2 3. Rh1+ Kg2) (2. Rd8 $2 Rf2 3. Rd1+ Ke2) (2. Ra8 $2 Rf2 3. f8=Q Rxf8 4. Rxf8+ Ke2 5. Rc8 Kd3) Ra2+ $1 3. Kb6 $1 (3. Kb7 $2 Rf2 4. f8=Q Rxf8) Rb2+ $1 4. Kc7 Rf2 5. Rb1+ Kg2 6. Rb2 $1 Rxb2 7. f8=Q 1-0
+
+[Event "Tijdschrift v.d. KNSB#666"]
+[Source "Tijdschrift v.d. KNSB/9"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p3p1/7k/4P3/5K2/8/8/8 w - - 0 1"]
+
+1. Kf5 $1 Kh7 2. Ke6 c5 3. Kf7 c4 4. e6 c3 5. e7 c2 6. e8=Q c1=Q 7. Qe4+ Kh8 8. Qh4+ Qh6 9. Qd8+ Kh7 10. Qg8# 1-0
+
+[Event "Ceskoslovensky Sach#047"]
+[Source "Ceskoslovensky Sach/4"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/8/8/4p1p1/8/k4P2/8/8 w - - 0 1"]
+
+1. Kh7 $1 Kb4 2. Kh6 e4 3. fxe4 g4 4. e5 Kc5 5. e6 Kd6 6. Kg5 g3 7. Kf6 g2 8. e7 1/2-1/2
+
+[Event "Ceskoslovensky Sach#076"]
+[Source "Ceskoslovensky Sach/6"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1n6/1P2PK2/8/8/P5b1/8/8/3k4 w - - 0 1"]
+
+1. Ke8 $1 (1. e8=Q $2 Bh5+ 2. Ke7 Bxe8 3. Kxe8 Kc2) (1. a5 $2 Bh5+) Bd7+ 2. Kd8 Bxa4 3. Kc7 Na6+ 4. Kb6 Nb8 5. Ka7 Nc6+ 6. Ka8 1-0
+
+[Event "Szachy#183"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/4p3/5p2/k7/8/2KP2P1/8 w - - 0 1"]
+
+1. Kc3 $1 Kb5 (e5 2. Kc4) 2. Kd4 Kc6 3. Ke5 Kd7 4. d3 $1 Ke7 5. d4 Kf7 6. Kd6 Kf6 (f4 7. Ke5 f3 8. gxf3 Ke7 9. f4 $1) 7. g3 Kf7 8. Kd7 Kf6 9. Ke8 e5 10. d5 e4 11. d6 1-0
+
+[Event "Szachy#303"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4P3/4R3/8/2k3n1/8/1P2Kpp1/8 w - - 0 1"]
+
+1. Rc6+ $1 Kb3 2. Rc1 g1=Q 3. Rxg1 fxg1=Q 4. e8=Q Qf2+ 5. Kd1 Qf1+ 6. Kd2 Qf2+ 7. Kd1 Ne3+ 8. Qxe3+ Qxe3 1/2-1/2
+
+[Event "3.hm Havel MT"]
+[Source "EG#07952."]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p7/8/2p3Pk/K7/8/1Rp3P1/2r5 w - - 0 1"]
+
+1. Ra2 $1 (1. g4+ $2 Kxg5) c4 2. Ka3 a5 (Kxg5 3. Kb2 Rg1 4. Ra5+) 3. g3 (3. g4+ $2 Kg6) Kg6 (a4 4. Kxa4 Kxg5 5. Ka3 Kg4 6. Kb2) 4. g4 (4. Ka4 $2 Kxg5) Kf7 5. Ka4 Kg6 6. Ka3 (6. Kxa5 $2 Kxg5 7. Ka4 Kxg4) Kh7 7. Ka4 Kg7 8. Kxa5 Kg6 9. Ka4 Kxg5 10. Ka3 Kf4 11. Kb2 (11. g5 $2 Ke3 12. g6 Kd2 13. g7 Rg1) Rg1 12. Kxc2 Rg2+ 13. Kb1 Rxa2 14. Kxa2 Ke3 15. g5 1/2-1/2
+
+[Event "3.p L'Italia Scacchistica#2981"]
+[Source "L'Italia Scacchistica/1"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/Pr1k2P1/8/8/8/3N4/8/4r3 w - - 0 1"]
+
+1. Nc5+ $1 Kc7 2. Ne6+ Rxe6 3. a8=Q Rb8+ 4. Qxb8+ Kxb8 5. Kf7 1-0
+
+[Event "Revista de Romana de Sah#0402"]
+[Source "Revista de Romana de Sah/1"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/3p4/8/8/1P2p3/5k2/7n/6B1 w - - 0 1"]
+
+1. b5 $1 Ng4 2. b6 Ne5 3. b7 Nc6 4. Kxd7 Nb8+ 5. Kc7 Na6+ 6. Kb6 Nb8 7. Bh2 e3 8. Bxb8 e2 9. Bg3 Kxg3 10. b8=Q+ 1-0
+
+[Event "1.p L'Italia Scacchistica#3172"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K4b2/P1k1p3/2P5/1p6/7B/p7/8/8 w - - 0 1"]
+
+1. Bg3+ $1 e5 $1 2. Bxe5+ Kc8 3. Bb8 Bc5 4. c7 Bxa7 5. Bxa7 Kxc7 6. Bc5 a2 7. Bd4 Kc6 8. Ka7 b4 9. Ka6 Kd5 10. Ba1 1/2-1/2
+
+[Event "Deutsche Schachzeitung#462 (c)"]
+[Source "Deutsche Schachzeitung/12 (c): Garcia=M Estudios Artisticos de Ajedrez - XIV-24 2014."]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/K7/2p5/4N3/4P3/8/6p1/2k5 w - - 0 1"]
+
+1. Nf3 $1 Kd1 (c5 2. e5 c4 3. e6 c3 4. e7 c2 5. e8=Q Kb1 6. Qb5+ Ka1 7. Qc4 Kb1 8. Qb3+ Ka1 9. Qc3+ Kb1 10. Nd2+ Kc1 11. Nb3+ Kb1 12. Qa1#) 2. Ng1 (2. e5 $2 Ke2 3. Ng1+ Kf2 4. Nh3+ Kg3 5. Ng1 Kf2) Ke1 (c5 3. e5 c4 4. e6 c3 5. e7 c2 6. e8=Q c1=Q 7. Qe2#) 3. Nh3 Ke2 (c5 4. e5 c4 5. e6 c3 6. e7 c2 7. e8=Q+ Kd2 8. Qd7+ Kc3 9. Ng1) 4. e5 Kf3 5. e6 Kg3 6. Ng1 Kf2 7. e7 Kxg1 8. e8=Q 1-0
+
+[Event "Schach Echo#289"]
+[Date "1961.01.23"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/3p4/7p/5K2/8/8/5P2/8 w - - 0 1"]
+
+1. Kf6 $1 (1. Kg6 $2 d5 $1) (1. f4 $2 Kf7 $1) Kg8 (d6 2. f4 $1) (Ke8 2. Kg7 Ke7 3. f4) 2. f3 $1 (2. f4 $2 Kf8 3. f5 d6 $1 4. Kg6 (4. Ke6 h5) d5) (2. Ke7 $2 Kg7 3. f4 Kg6) Kf8 (d5 {<main>} 3. Ke7 $1 (3. Ke5 $2 h5 4. Kxd5 h4 5. Ke4 h3) d4 4. f4 d3 5. f5 d2 6. f6 d1=Q 7. f7+ Kh7 8. f8=Q Qe1+ (Qe2+ 9. Kd6) 9. Kd7 Kg6 (Qd2+ 10. Kc6 Qc3+ 11. Kd5) 10. Qf4 h5 11. Kd6) (h5 {<main>} 3. f4 $1 (3. Kg5 $2 d5 4. Kxh5 d4 5. Kg4 d3) (3. Ke7 $2 Kg7) Kf8 4. Kg5 d5 5. Kxh5 d4 6. Kg4) 3. f4 $1 d6 4. f5 $1 1/2-1/2
+
+[Event "Schach Echo#317"]
+[Date "1961.11.08"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1K6/1p6/8/8/2P4N/6p1/4k3 w - - 0 1"]
+
+1. c4 $1 (1. Kxb6 $2 Ke2 2. c4 (2. Nf4+ Kd2) Kf3) Ke2 (Kd2 2. Kxb6) 2. Nf4+ $1 (2. Kxb6 $2 Kf3) Ke3 3. Nxg2+ $1 Kd4 4. Ne3 Kc5 5. Ka6 $1 Kc6 6. Nd5 Kc5 7. Nxb6 1-0
+
+[Event "Schach Echo#493 (ph)"]
+[Date "1965.03.23"]
+[Round "?"]
+[Composer "Herberg, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "K1k5/P4p1n/2P5/8/2p3P1/8/7B/8 w - - 0 1"]
+
+1. g5 $1 Nf8 (c3 {<main>} 2. g6 $1 fxg6 3. Bb8 c2 4. c7 Kd7 5. Kb7 c1=Q 6. a8=Q Qc6+ 7. Ka7 Qa4+ 8. Kb7 Qb5+ 9. Ka7 Kc8 10. Qc6 $1 Qxc6) (Nxg5 2. Bb8 Ne6 3. c7) 2. g6 $1 fxg6 3. Bb8 Ne6 4. c7 Nxc7+ 5. Bxc7 Kxc7 (g5 6. Ba5 $1) 1/2-1/2

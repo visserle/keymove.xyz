@@ -1,0 +1,26 @@
+[Event "Shakhmatny Listok#475"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Kaem, Yury Mikhailovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3B4/7K/6p1/8/1k1p4/4N3/4p3/8 w - - 0 1"]
+
+1. Nc2+ $1 Kc3 2. Ne1 Kd2 3. Ba5+ Ke3 4. Kxg6 d3 5. Kf5 d2 (Kd4 6. Bd2) 6. Bb6# 1-0
+
+[Event "Shakhmaty v SSSR#01"]
+[Source "Shakhmaty v SSSR/1"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Kaem, Yury Mikhailovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3n4/8/8/1k3p2/3P1P2/3K4/6N1/3b4 w - - 0 1"]
+
+1. Ne3 $1 Bh5 (Bg4 2. Nxg4 fxg4 3. Ke4 Nf7 4. f5 Kc6 5. Kf4 Nh6 6. f6 Kd7 7. d5 Ke8 8. d6 Kd7 9. f7) 2. Nxf5 $1 Bg6 3. Ke4 Nc6 (Nf7 4. Kd5 Bxf5) 4. d5 Ne7 5. d6 Nxf5 6. d7 Ne7+ (Nd6+ 7. Ke5 Nb7 8. Kf6 Bh5 9. Ke7) 7. f5 $1 Bxf5+ 8. Ke5 Bxd7 9. Kd6 1/2-1/2

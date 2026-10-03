@@ -1,0 +1,13 @@
+[Event "Shahmat#487"]
+[Source "EG#07618.1/2.c Israel Ring ty 1985."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Sadger, Yochanan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/p1p3pp/1P4pk/2P3Rr/1P3K1P/8 w - - 0 1"]
+
+1. Kg1 $1 (1. bxc5 $2 Rxh2+ 2. Rg2 Kh3 $1 3. c6 Rxg2+ 4. Ke1 Rf2 $1 5. Kxf2 Kh2) (1. Kg2 $2 cxb4 (axb4 $2 2. c4 $1) 2. cxb4 axb4 3. b3 Rxh2+ $1 4. Kxh2) cxb4 2. cxb4 axb4 3. Kg2 $1 b3 $1 4. Rxh3+ gxh3+ 5. Kf3 g4+ 6. Kf4 g3 7. hxg3# 1-0

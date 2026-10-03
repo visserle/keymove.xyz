@@ -1,0 +1,13 @@
+[Event "Chess Life & Review#0901"]
+[Source "Chess Life & Review/1"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Baja, Victor"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/1pp4B/kq6/8/1PR3P1/8/2N5/8 w - - 0 1"]
+
+1. Rc6 $1 Qxc6 2. b5+ Qxb5 3. Bd3 Qxd3 4. Nb4+ Kb5 5. Nxd3 Kc6 (Kc4 6. Kxb7) 6. g5 Kd5 7. Kxb7 c5 8. Nxc5 $1 Ke5 {<eg>} 9. Kc6 Kf5 10. Ne4 1-0

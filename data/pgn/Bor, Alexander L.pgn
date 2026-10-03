@@ -1,0 +1,97 @@
+[Event "6.p USSR team champ VII (tt)"]
+[Source "EG#01601. USSR team champ VII 1970-1971."]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Bor, Alexander L"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/1pp5/8/8/P7/8/B3k3/8 w - - 0 1"]
+
+1. Bd5 $1 c6 2. Be4 $1 (2. Bxc6 $2 bxc6 3. a5 c5 4. a6 c4 5. a7 c3 6. a8=Q c2) Ke3 $1 (Kd2 3. Kf7 Kc3 4. Bxc6 bxc6 5. a5) 3. Bxc6 $1 bxc6 4. a5 c5 5. a6 c4 6. a7 c3 7. a8=Q c2 8. Qg2 $1 c1=Q (Kd3 9. Qg5) 9. Qg5+ $1 Kd3 10. Qxc1 1-0
+
+[Event "3.p Problem#274"]
+[Source "Problem/11 1972 EG#09857."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Bor, Alexander L"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "q6k/8/5P2/1Q4Pp/5r1b/8/5P1K/1N4B1 w - - 0 1"]
+
+1. g6 $1 (1. Qe5 $2 Qe4 2. Qb8+ Kh7 3. Qc7+ Kg6 4. Qg7+ Kf5 5. f7 Rxf2+ 6. Bxf2 Qf4+) (1. Qd7 $2 Qg8 $1) Bg3+ $1 2. fxg3 Rh4+ $1 (Qa2+ 3. Nd2 $1 (3. Kh1 $2 Rh4+ 4. gxh4 Qd5+ 5. Qxd5) (3. Kh3 $2 Qe6+ 4. Kg2 Qe4+ (Qa2+ $2 5. Nd2 Qxd2+ 6. Kh3 Rh4+ 7. Kxh4) 5. Kh2 Qc2+ 6. Kh3 (6. Nd2 Rh4+) Qc8+ 7. Kg2 Qa8+ 8. Kh2 Qa2+) Rh4+ 4. Kg2 $1 (4. gxh4 $2 Qxd2+) Qxd2+ 5. Bf2 Rh2+ 6. Kxh2 Qxf2+ 7. Kh3 Qxf6 8. Qxh5+ Kg7 9. Qh7+ Kf8 10. Qf7+ Qxf7 11. gxf7 Kxf7 12. Kh4) 3. gxh4 Qa2+ 4. Kg3 (4. Bf2 $2 Qxf2+ 5. Kh1 Qf3+ 6. Kg1 Qg4+ 7. Kf2 Qf4+ 8. Ke1 Qc1+ 9. Ke2 Qc4+ 10. Qxc4) (4. Nd2 $2 Qxd2+ 5. Kh3 Qc3+ 6. Kg2 Qd2+ 7. Kg3 Qd6+ 8. Kh3 (8. Kf2 Qf4+ 9. Ke1 Qc1+) Qe6+) Qb3+ $1 5. Nc3 $1 Qxc3+ 6. Kf4 $1 (6. Kf2 $2 Qd4+ 7. Ke1 Qc3+ 8. Kd1 Qb3+ 9. Qxb3) Qc4+ 7. Bd4 $1 Qxd4+ 8. Kg5 Qd5+ 9. Kh6 Qxb5 10. f7 1-0
+
+[Event ".hm 64#20"]
+[Source "EG#01891."]
+[Date "1971.02.19"]
+[Round "?"]
+[Composer "Bor, Alexander L"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/4Kpp1/2p4P/3N2NP/7P/8/6p1/8 w - - 0 1"]
+
+1. h7+ $1 Kh8 2. Nf6 $1 gxf6 3. Nh3 c5 4. Kxf6 c4 5. Kg5 $1 c3 6. Kh6 c2 (f6 7. Nf4 g1=Q 8. Ng6+) 7. Ng5 c1=Q 1/2-1/2
+
+[Event "1.c Problem#305"]
+[Source "Problem/8 1974 EG#09872."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Bor, Alexander L"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "b4R2/P2Q4/8/8/2q3Pp/8/5Kp1/7k w - - 0 1"]
+
+1. Qd1+ $1 Kh2 2. Qd6+ Kh3 3. Qa3+ Kxg4 4. Rg8+ Qxg8 5. Qg3+ hxg3+ 6. Kg1 Bc6 (Bd5 7. a8=Q Bc4 (Qxa8) 8. Qf3+ Kh4 9. Qxg3+ Qxg3) 7. a8=Q Qe8 8. Qc8+ Qxc8 (Qd7 9. Qg8+) (Bd7 9. Qc4+ Kf5 10. Qc5+) 1/2-1/2
+
+[Event ".c Shakhmaty v SSSR#43"]
+[Source "Shakhmaty v SSSR/11 EG#03493."]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Bor, Alexander L"]
+[White "Bor, A"]
+[Black " Herbstman, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/1r3Pb1/1N2pp1k/3P2p1/6P1/8/8/B7 w - - 0 1"]
+
+1. Nd7 $1 Rxd7 2. Bxf6 Kg6 3. dxe6 Rxf7 4. e7 Kxf6 5. e8=Q Rf8+ 6. Kh7 Rh8+ 7. Qxh8 Bxh8 8. Kh6 Bg7+ 9. Kh5 Bf8 1/2-1/2
+
+[Event "2.p Vecherni Leningrad"]
+[Source "EG#13284."]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Bor, Alexander L"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "Bb6/8/8/2K5/p4k2/8/3P4/3n4 w - - 0 1"]
+
+1. Kb4 $1 Nb2 2. Ka3 Nc4+ 3. Kxa4 Nb6+ 4. Kb5 Nxa8 5. Kc6 Be5 6. Kb7 Nc7 7. d4 Bd6 8. Kc6 Ne8 9. Kd7 1/2-1/2
+
+[Event "Revista de Romana de Sah#0889"]
+[Source "Revista de Romana de Sah/6"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Bor, Alexander L"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5pp1/8/6P1/4P1P1/5k2/5P1K/8 w - - 0 1"]
+
+1. g6 $1 (1. e5 $2 g6) f6 2. Kh3 (2. g5 $2 fxg5 3. Kh3 g4+ 4. Kh4 g3 5. fxg3 Kxe4) Kxf2 (Kxe4 3. Kg3 f5 4. f4 $1) 3. g5 fxg5 4. Kg4 Ke3 5. e5 Ke4 6. e6 Ke5 7. e7 Kf6 8. e8=R (8. e8=Q $2) 1-0

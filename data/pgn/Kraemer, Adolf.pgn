@@ -1,0 +1,62 @@
+[Event "Deutsche Tageszeitung"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Kraemer, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "7k/5K2/7P/6pP/8/8/8/8 w - - 0 1"]
+
+1. Kf6 $1 (1. Kg6 $2 g4 2. h7 g3 3. Kh6 g2 4. Kg6 g1=Q+ $19) (1. h7 $2 g4 $19) (1. Kf8 $2 g4 $19) (1. Ke6 $2 g4 $19) (1. Ke8 g4) (1. Ke7 g4) g4 2. Kg6 (2. Kg5 $2 g3 $19) (2. Kf5 $2 g3 $19) (2. Kf7 $2 g3) (2. Ke5 $2 g3) (2. Ke6 g3) (2. Ke7 g3) g3 (Kg8 $1 (g3 3. h7 g2 4. Kh6 g1=Q) 3. h7+ (3. Kg5 {<or>}) (3. Kf5 {<or>}) Kh8 4. Kg5 g3 5. Kg6 $1 g2 6. Kh6 g1=Q) 3. h7 (3. Kg5 $2 g2 $19) (3. Kf7 $2 g2 $19) (3. Kf5 g2) (3. Kf6 g2) g2 4. Kh6 (4. h6 $2 g1=Q+ 5. Kf6 Qe3 $19 6. Kf5 Kxh7) (4. Kg5 $2 g1=Q+ 5. Kf5 Qe3 $19) g1=Q 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Kraemer, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/8/8/2KB4/4r3/8/6pN/k7 w - - 0 1"]
+
+1. Nf3 (1. Bxe4 $2 g1=Q+ 2. Kb5 Qxh2) (1. Ng4 $2 g1=Q+ 2. Kc6 Rd4) (1. Kd6 g1=Q 2. Bxe4 Qxh2+ 3. Ke6 Qf2) Re1 2. Kb4 (2. Nd2 $2 g1=Q+ 3. Kc6 Qg5 4. Nb3+ Kb2) (2. Ng1 $2 Rxg1 3. Bxg2 Rxg2) (2. Bc6 Rf1 3. Ng1 Rxg1 4. Bxg2 Rxg2) Rf1 3. Ng1 (3. Nd2 $2 Rf4+ 4. Kc3 g1=Q $19) (3. Nh2 $2 Rb1+ 4. Bb3 g1=Q 5. Nf3 Qe3) (3. Ne5 g1=Q 4. Kc4 Rf4+) (3. Ka4 Rxf3 4. Bxf3 g1=Q) Rxg1 4. Ka3 (4. Kc4 $2 Rc1+ 5. Kd4 g1=Q+) (4. Bc4 $2 Rd1 5. Kb5 g1=Q) (4. Ka4 $2 Kb2) (4. Kb5 Rb1+ 5. Kc4 Rc1+) Kb1 5. Kb3 (5. Be4+ $2 Kc1 $19 6. Bxg2 Rxg2) (5. Ba2+ $2 Kc2) (5. Bf3 $2 Kc2 6. Bxg2 Kc3) (5. Bc4 $2 Re1 6. Bd3+ Kc1) (5. Bb3 $2 Rc1 6. Ba2+ Ka1) (5. Kb4 Kc2) Kc1 6. Kc3 (6. Be4 $2 Kd2 7. Bxg2 Rxg2) Kd1 7. Kd3 (7. Bf3+ $2 Ke1 8. Bxg2 Rxg2) (7. Bb3+ $2 Ke2 8. Bc4+ Ke3) Ke1 8. Ke3 (8. Kc3 $2 Ke2 9. Bxg2 Rxg2) Kf1 9. Bc4+ (9. Kd2 $2 Kf2 $19 10. Bxg2 Rxg2) (9. Be6 Rh1 10. Bc4+ Ke1) Ke1 10. Bd5 $10 (10. Kf3 Rf1+ 11. Kxg2 Rg1+ 12. Kh2 Rh1+ 13. Kg2 Rg1+ 14. Kxg1) (10. Be2 $2 Rf1 11. Bxf1 gxf1=Q) (10. Bb3 $2 Rh1 $19) (10. Kd3 $2 Rf1) (10. Bd3 $2 Rh1) 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Kraemer, Adolf"]
+[Composer2 "Holzhausen, Walther"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[Theme "Stalemate"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "1K6/1P6/1kP5/3P4/4P3/5P2/1p4P1/6b1 w - - 0 1"]
+
+1. Ka8 (1. c7 $2 Bh2 $19) (1. Kc8 $2 Bh2 2. b8=Q+ Bxb8 3. Kxb8 b1=Q $19) (1. g4 $2 Bh2+ 2. c7 Bxc7+ 3. Kc8 b1=Q $19) (1. d6 $2 Bh2 $15 $17) Bh2 2. g3 (2. b8=Q+ $2 Bxb8 3. Kxb8 b1=Q $19) (2. g4 $2 b1=Q 3. b8=Q+ Bxb8 4. Kxb8 Qb4 $19) (2. b8=N $2 b1=Q 3. Nd7+ Kc7) (2. c7 $2 Bxc7 3. b8=Q+ Bxb8 4. Kxb8 b1=Q $19) (2. e5 $2 Bxe5 3. b8=R+ Bxb8 4. Kxb8 b1=Q) (2. d6 $2 Bxd6 3. b8=R+ Bxb8 4. Kxb8 b1=Q) (2. f4 Bxf4 3. b8=R+ Bxb8 4. Kxb8 b1=Q) Bxg3 3. f4 (3. b8=N $2 b1=Q 4. Nd7+ Kc7) (3. c7 $2 Bxc7 4. b8=R+ Bxb8 5. Kxb8 b1=Q) Bxf4 4. e5 Bxe5 5. d6 Bxd6 6. b8=Q+ (6. b8=R+ $10) (6. c7 $2 Bxc7 7. b8=Q+ Bxb8 8. Kxb8 b1=Q $19) (6. b8=N $2 Bxb8 7. c7 $10) Bxb8 7. c7 Bxc7 1/2-1/2
+
+[Event "Schweizerische Schachzeitung#291"]
+[Source "Schweizerische Schachzeitung/3"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Kraemer, Adolf"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "K7/N7/N2Pr2P/p7/k7/b7/8/8 w - - 0 1"]
+
+1. d7 $1 Rd6 2. h7 Bb2 3. Nc5+ Kb4 4. Nd3+ $1 Rxd3 5. Nc6+ Kc4 6. Nd4 $1 Rxd4 (Bxd4 {<main>} 7. d8=Q Bc3 8. h8=Q Bxh8 9. Qxh8) (Kxd4 7. h8=Q+ Ke3 8. Qh3+ Kd2 9. Qxd3+) 7. h8=Q Rxd7 {<eg>} 8. Qc8+ 1-0

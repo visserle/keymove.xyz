@@ -1,0 +1,242 @@
+---
+export const prerender = false;
+
+import Base from "../layouts/Base.astro";
+import {
+  DEFAULT_SORT,
+  renderCatalogue,
+  sortList,
+  type State,
+} from "../lib/catalogue";
+
+import { database } from "../lib/d1";
+import {
+  libraryProgress,
+  accountFromHeaders,
+  applySessionCookies,
+} from "../lib/progress";
+import { runtimeCorpus } from "../lib/corpus";
+import { COLLECTIONS, collectionById } from "../lib/collections";
+import { readAccountPreferences } from "../lib/preferences-store";
+
+const [corpus, resolved] = await Promise.all([
+  runtimeCorpus(Astro.url),
+  accountFromHeaders(Astro.request.headers),
+]);
+applySessionCookies(Astro.response.headers, resolved.cookies);
+const account = resolved.account;
+const userId = account?.userId ?? null;
+const requestedCollection = Astro.url.searchParams.get("collection");
+const isPersonalSection = userId && (
+  requestedCollection === "bookmarks" ||
+  requestedCollection === "solved" ||
+  requestedCollection === "in-progress"
+);
+const selectedPersonalSection = isPersonalSection ? requestedCollection : null;
+const selected = collectionById(selectedPersonalSection ? null : requestedCollection) ?? COLLECTIONS[0]!;
+const requestedPage = Number(Astro.url.searchParams.get("page"));
+const state: State = {
+  stip: "all",
+  status: "",
+  composer: "",
+  level: "",
+  sort: DEFAULT_SORT,
+  page: Number.isFinite(requestedPage) && requestedPage >= 1
+    ? Math.floor(requestedPage)
+    : 1,
+};
+const [bookmarkRows, preferenceSnapshot, progress] = await Promise.all([
+  userId
+    ? database()
+        .prepare(
+          `SELECT composition_id FROM composition_bookmarks
+           WHERE user_id = ? ORDER BY bookmarked_at DESC, composition_id`,
+        )
+        .bind(userId)
+        .all<{ composition_id: string }>()
+    : Promise.resolve({ results: [] as { composition_id: string }[] }),
+  userId ? readAccountPreferences(userId) : Promise.resolve(undefined),
+  libraryProgress(userId),
+]);
+
+const catalogueById = corpus.byId;
+const bookmarks = bookmarkRows.results.flatMap((row) => {
+  const composition = catalogueById.get(row.composition_id);
+  return composition ? [composition] : [];
+});
+// This page needs `hideSolved` to filter its own lists, and the layout needs the
+// same row for the account menu, so it is read once here and passed down.
+const accountPreferenceSnapshot = preferenceSnapshot;
+const hideSolved = preferenceSnapshot?.preferences?.hideSolved === true;
+const collectionPageSize = 18;
+const collections = COLLECTIONS.map((collection) => {
+  const matching = sortList(corpus.list.filter(collection.matches), state.sort)
+    .filter((composition) => !hideSolved || progress.get(composition.id) !== "solved");
+  const page = !selectedPersonalSection && collection.id === selected.id
+    ? state.page
+    : 1;
+  const rendered = renderCatalogue(
+    matching,
+    { ...state, page },
+    (pageNumber) => {
+      const params = new URLSearchParams({ collection: collection.id, page: String(pageNumber) });
+      return `?${params}`;
+    },
+    progress,
+    `?collection=${collection.id}`,
+    collectionPageSize,
+  );
+  return { ...collection, ...rendered, compositionCount: matching.length };
+});
+const solved = corpus.list.filter((composition) => progress.get(composition.id) === "solved");
+const inProgress = corpus.list.filter((composition) => progress.get(composition.id) === "in-progress");
+const renderPersonalPage = (
+  items: typeof bookmarks,
+  section: "bookmarks" | "solved" | "in-progress",
+) => renderCatalogue(
+  items,
+  { ...state, page: selectedPersonalSection === section ? state.page : 1 },
+  (pageNumber) => `?${new URLSearchParams({ collection: section, page: String(pageNumber) })}`,
+  progress,
+  "",
+  collectionPageSize,
+);
+const bookmarkedPage = renderPersonalPage(bookmarks, "bookmarks");
+const solvedPage = renderPersonalPage(solved, "solved");
+const inProgressPage = renderPersonalPage(inProgress, "in-progress");
+---
+
+<Base
+  section="collections"
+  title="keymove.xyz • Collections"
+  description="Chess composition collections on keymove.xyz: themed sets of studies, short mates and endgame problems, plus your bookmarks and solved compositions."
+  accountPreferenceSnapshot={accountPreferenceSnapshot}
+  accountSession={account}
+>
+  <main class="collections">
+    <h1 class="sr-only">Collections</h1>
+    <div class="collection-browser">
+      {collections.map((collection, index) => (
+        <input
+          class="collection-selector sr-only"
+          type="radio"
+          name="collection"
+          id={`collection-${index}`}
+          value={collection.id}
+          checked={!selectedPersonalSection && collection.id === selected.id}
+          aria-label={`Select ${collection.title}`}
+        />
+      ))}
+      {userId && (["bookmarks", "solved", "in-progress"] as const).map((section) => (
+        <input
+          class="collection-selector sr-only"
+          type="radio"
+          name="collection"
+          id={`collection-${section}`}
+          value={section}
+          checked={selectedPersonalSection === section}
+          aria-label={`Select ${section === "in-progress" ? "In Progress" : section}`}
+        />
+      ))}
+      <div class="collection-sidebar">
+        <h2 class="collection-heading field__label">Collection</h2>
+        <div class="collection-list-shell">
+          <nav class="collection-options" aria-label="Collections">
+            {collections.map((collection, index) => (
+              <label class="collection-option" for={`collection-${index}`}>
+                <span>{collection.title}</span>
+              </label>
+            ))}
+          </nav>
+          {userId && (
+            <>
+              <div class="collection-list-separator" aria-hidden="true"></div>
+              <nav class="collection-options" aria-label="Your compositions">
+                <label class="collection-option" for="collection-bookmarks">
+                  <span>Bookmarked</span>
+                </label>
+                <label class="collection-option" for="collection-solved">
+                  <span>Solved</span>
+                </label>
+                <label class="collection-option" for="collection-in-progress">
+                  <span>In Progress</span>
+                </label>
+              </nav>
+            </>
+          )}
+        </div>
+      </div>
+      <div class="collection-panels">
+        {collections.map((collection) => (
+          <section class="collection-panel" aria-label={collection.title}>
+            <div class="collection-panel__header">
+              <h2 class="collection-heading field__label">Compositions</h2>
+              <span class="collection-count">{collection.compositionCount}</span>
+              {userId && (
+                <label class="hide-solved">
+                  <input type="checkbox" data-hide-solved checked={hideSolved} />
+                  <span>Hide solved</span>
+                </label>
+              )}
+            </div>
+            <div class="cards" set:html={collection.cards}></div>
+            <nav class="pager" aria-label={`${collection.title} pages`} set:html={collection.pager}></nav>
+          </section>
+        ))}
+        {userId && (
+          <>
+            <section class="collection-panel" aria-label="Bookmarked compositions">
+              <div class="collection-panel__header">
+                <h2 class="collection-heading field__label">Compositions</h2>
+                <span class="collection-count">{bookmarks.length}</span>
+              </div>
+              {bookmarks.length ? (
+                <div
+                  class="cards"
+                  set:html={bookmarkedPage.cards}
+                ></div>
+              ) : (
+                <p class="caption">No bookmarks yet.</p>
+              )}
+              <nav class="pager" aria-label="Bookmarked compositions pages" set:html={bookmarkedPage.pager}></nav>
+            </section>
+            <section class="collection-panel" aria-label="Solved compositions">
+              <div class="collection-panel__header">
+                <h2 class="collection-heading field__label">Compositions</h2>
+                <span class="collection-count">{solved.length}</span>
+              </div>
+              {solved.length ? (
+                <div
+                  class="cards"
+                  set:html={solvedPage.cards}
+                ></div>
+              ) : (
+                <p class="caption">No solved compositions yet.</p>
+              )}
+              <nav class="pager" aria-label="Solved compositions pages" set:html={solvedPage.pager}></nav>
+            </section>
+            <section class="collection-panel" aria-label="Compositions in progress">
+              <div class="collection-panel__header">
+                <h2 class="collection-heading field__label">Compositions</h2>
+                <span class="collection-count">{inProgress.length}</span>
+              </div>
+              {inProgress.length ? (
+                <div
+                  class="cards"
+                  set:html={inProgressPage.cards}
+                ></div>
+              ) : (
+                <p class="caption">No compositions in progress yet.</p>
+              )}
+              <nav class="pager" aria-label="In-progress compositions pages" set:html={inProgressPage.pager}></nav>
+            </section>
+          </>
+        )}
+      </div>
+    </div>
+  </main>
+</Base>
+
+<script>
+  import "../scripts/collections";
+</script>

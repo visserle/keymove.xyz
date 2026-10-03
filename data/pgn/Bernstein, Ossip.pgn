@@ -1,0 +1,15 @@
+[Event "Shakhmaty Vestnik (s)"]
+[Site "?"]
+[Date "1913.??.??"]
+[Round "?"]
+[Composer "Bernstein, Ossip"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "6k1/6p1/2P1ppK1/8/p2P4/P5B1/3r2P1/8 w - - 0 1"]
+
+1. c7 $1 (1. Bd6 $4 Rxg2+ 2. Kh5 g6+ $19) (1. Be5 $4 Rxg2+ 2. Kh5 fxe5) (1. Bb8 $4 Rxg2+ 2. Kh5 Rc2) (1. Be1 $4 Rxg2+ 2. Kh5 Rc2) (1. Bh4 $4 Rxg2+ 2. Bg3 Rxg3+ 3. Kh5 g6+) Rc2 2. Bd6 $1 (2. Bf4 $4 Rxg2+ 3. Kh5 Rc2 $19) (2. Kh5 $4 Kf7) (2. Be5 $4 fxe5 3. c8=Q+ Rxc8 4. dxe5 Rc3) (2. Bh2 $4 Rxg2+ 3. Bg3 Rxg3+ 4. Kh5 Rc3) Rc6 3. g4 $1 (3. g3 $4 f5 $17) (3. Kh5 $4 Kf7) (3. Bf8 $4 Kxf8 4. c8=Q+ Rxc8) (3. Bf4 $4 e5 4. c8=Q+ Rxc8 5. dxe5 Rc4) f5 (e5 (f5 {<main>} 4. gxf5 exf5 5. d5 Rc2 6. Bc5 $1 Rxc5 7. d6) 4. d5 Rc4 5. g5 $1 (5. Bc5 $2 Rxc5 6. d6 e4 $1 7. d7 Rg5#) fxg5 6. Bc5 $1 Rxc5 7. d6 Rc6 {<eg>} 8. Kxg5 Kf7 9. d7 Rxc7 10. d8=Q) 4. gxf5 (4. g5 $4 f4 5. c8=R+ Rxc8 6. Bxf4 Rc3 $19) (4. d5 $4 exd5 5. Kxf5 d4) exf5 5. d5 Rc2 6. Bc5 (6. Kxf5 $2 Kf7 7. Ke4 $10) (6. Bb4 $4 Rxc7 7. Kxf5 Kf7 $19) (6. Bf4 $4 Kf8 7. Kxf5 Ke7 $17 $19) (6. Be5 $4 Kf8 7. Kxf5 Ke7 $15 $17) (6. Bg3 $4 Kf8 7. Kxf5 Ke7) (6. Kg5 $4 Kf7 7. Kxf5 Rc4) (6. Bf8 $4 Kxf8 7. Kxf5 Rxc7) Rxc5 7. d6 $18 1-0

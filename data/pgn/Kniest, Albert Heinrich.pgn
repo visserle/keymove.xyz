@@ -1,0 +1,13 @@
+[Event "Magyar Sakkvilág#282"]
+[Source "Magyar Sakkvilág/11"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Kniest, Albert Heinrich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2R5/8/8/8/1p6/1kp5/8/4K3 w - - 0 1"]
+
+1. Rb8 $1 (1. Kd1 $2 Kb2 2. Rc4 b3 3. Rc8 c2+ 4. Kd2 Kb1 5. Rc3 Kb2 6. Rc8 Ka2) Ka3 2. Kd1 b3 3. Kc1 Ka4 (c2 4. Ra8+ Kb4 5. Kb2) 4. Rc8 Kb4 5. Kb1 $1 b2 {<eg>} 6. Kc2 Ka3 7. Rxc3+ Ka2 8. Rb3 1-0

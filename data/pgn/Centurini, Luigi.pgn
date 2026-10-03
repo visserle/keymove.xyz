@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1847.??.??"]
+[Round "?"]
+[Composer "Centurini, Luigi"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Positional fortresses and their destruction"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "2K5/1P2B3/8/1k6/8/6b1/8/8 w - - 0 1"]
+
+1. Bd8 (1. Bh4 Bd6 2. Bf2 $18) (1. Kd7 Kb6 2. Kc8 $18) (1. Bc5 $2 Kxc5 2. b8=Q $10) (1. Bf6 Bd6 2. Bd4 $18) (1. Bg5 Bd6 2. Be3 $18) (1. Kd8 Bh2 2. Bf6 $18) (1. Bd6 $2 Bxd6 2. b8=Q+) (1. b8=Q+ $2 Bxb8 2. Bf6) (1. Ba3 Bh2 2. Bb2) (1. Bf8 Bh2 2. Bg7) Kc6 2. Bh4 (2. Ba5 Bd6 3. Bb4 $18) (2. Be7 Bh2 3. Bg5 $18) (2. Bc7 $2 Bxc7 3. b8=Q $10) (2. Bg5 Kb6 3. Bd8+ $18) (2. Bf6 Kb6 3. Bd8+ $18) (2. b8=N+ $2 Bxb8 3. Be7) (2. b8=Q $2 Bxb8 3. Be7) (2. Bb6 $2 Kxb6 3. b8=Q+) Bh2 3. Bf2 (3. Bg3 $2 Bxg3 4. b8=Q $10) (3. Bf6 Kc5 4. Bg5 $18) (3. Bd8 Bd6 4. Be7 $18) (3. Be1 Kb6 4. Bf2+ $18) (3. Be7 Kb6 4. Bf6) (3. Bg5 Kb6 4. Be3+) Kb5 4. Ba7 (4. Bg1 Be5 5. Bd4 $18) (4. Bb6 $2 Kxb6 5. b8=Q+ $10) (4. Be3 Ka6 5. Bc5 $18) (4. Bh4 Bd6 5. Bf2 $18) (4. Bd4 Ka6 5. Bc5 $18) (4. Kd7 Bf4 5. Kc8) (4. Bg3 $2 Bxg3 5. b8=Q+) (4. Be1 Bd6 5. Bf2) Ka6 5. Bb8 (5. b8=Q $2 Bxb8 6. Bb6 Kxb6 7. Kxb8) (5. Bg1 Bg3 6. Bf2) (5. Bc5 Bg3 6. Be7) (5. Bf2 Bd6 6. Be3) Bg1 6. Bg3 Ba7 7. Bf2 $18 1-0

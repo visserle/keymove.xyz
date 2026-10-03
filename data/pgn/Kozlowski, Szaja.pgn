@@ -1,0 +1,58 @@
+[Event "?"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Kozlowski, Szaja"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Domination"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "1k4b1/5p2/5P2/4N3/8/5K2/8/8 w - - 0 1"]
+
+1. Nd7+ (1. Kf4 $2 Bh7 2. Nd7+ $10) (1. Nxf7 $2 Ka7 2. Nh8) (1. Kf2 Kc7 2. Ng4) Kc7 2. Nf8 (2. Ne5 $2 Bh7 3. Nxf7 $10 Be4+ $4 (Kb8 $5) 4. Kxe4) (2. Nc5 $2 Bh7 3. Ne6+) (2. Kg4 Kxd7) Kd8 (Kd6 3. Kg4 (3. Kf4 $2 Kd5 4. Nd7 $10) (3. Ke4 $2 Kc6 4. Kd4 $10) (3. Ke3 $2 Bh7 4. Nxh7) Kd5 4. Kh5 (4. Kh4 Ke4 5. Kg4 Kd5 $18) (4. Kf5 $2 Kd4 5. Nd7 $10) (4. Kg5 $2 Ke5 5. Ng6+ $10) (4. Kf4 $2 Kd4 5. Nd7) (4. Nd7 $2 Bh7 5. Nf8) Ke5 5. Kg5 (5. Kh6 $2 Kxf6 6. Ng6) (5. Nd7+ $2 Ke6 6. Nf8+) (5. Ng6+ $2 fxg6+ 6. Kxg6 Bh7+ 7. Kf7) (5. Kg4 $2 Ke4 6. Nd7) Ke4 6. Kh6 (6. Kg4 Kd5 $18 7. Kh5) (6. Nd7 $2 Bh7 7. Nf8) Kf5 7. Kg7 (7. Nd7 $18 Kf4 8. Kg7) (7. Kh5 $2 Kxf6 8. Nd7+) Ke5 8. Nd7+ $3 $18 (8. Kxg8 $2 Kxf6 9. Nh7+) (8. Ng6+ $2 fxg6 9. Kxg6 Bh7+ 10. Kf7) (8. Nh7 $2 Bxh7 9. Kxf7 Bg8+ 10. Ke7)) 3. Kf4 (3. Kg4 Kc7 4. Kg5 $18) Ke8 4. Kg5 (4. Ne6 $4 fxe6 5. f7+ Bxf7) Kxf8 5. Kh6 $18 (5. Kf5 Bh7+ 6. Kg4 Bb1) (5. Kh5 Bh7) 1-0
+
+[Event "Glos Poranny"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Kozlowski, Szaja"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "7k/6p1/N1K3P1/pP6/8/2p1p3/8/8 w - - 0 1"]
+
+1. Nb4 $1 (1. Kd6 $4 e2) (1. Kc5 $4 c2) (1. Nc5 $2 e2 2. Nd3 c2) axb4 (e2 2. Nc2) 2. b6 (2. Kc5 $4 c2) (2. Kd5 e2) c2 3. b7 (3. Kb7 $4 e2) (3. Kd6 c1=Q) (3. Kd5 c1=Q) (3. Kd7 c1=Q) c1=Q+ 4. Kb6 $1 (4. Kb5 $4 Qc7 5. b8=R+ Qxb8+ 6. Kc4 e2) (4. Kd7 $4 Qd2+ 5. Kc7 Qh2+) (4. Kd5 $4 Qc7 5. b8=R+ Qxb8) (4. Kd6 $4 Qd2+ 5. Kc7 Qh2+) Qc4 5. b8=Q+ (5. Ka7 $4 Qc7 6. Ka8 Qa5+) Qg8 6. Qh2+ (6. Qe5 $4 Qd8+ 7. Kb5 Qd3+) Qh7 7. Qxh7# (7. gxh7 $6 b3 8. Kc6) (7. Qh3 Qxh3) (7. Qh6 Qxh6) (7. Qb8+ Qg8 8. Qh2+) 1-0
+
+[Event "Swiat Szachowy"]
+[Date "1931.03.22"]
+[Round "?"]
+[Composer "Kozlowski, Szaja"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/pp6/8/kb3Np1/7P/1K6/4B3 w - - 0 1"]
+
+1. Bxb4 $1 gxh3 $1 (Kxb4 2. h4 $1) 2. Be7 $1 h2 3. Ne2 $1 h1=Q 4. Nc3+ Ka5 5. Kb3 $1 Qc6 (b5 {<main>} 6. Bd8#) 6. Bb4# 1-0
+
+[Event "Swiat Szachowy"]
+[Source "Swiat Szachowy/1"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Kozlowski, Szaja"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2Q1p3/8/2K5/7P/8/4q3/2k5 w - - 0 1"]
+
+1. Qf4+ $1 Kd1 (Kb1 2. Qb4+ Ka1 3. Qa5+ Kb1 4. Qb5+) 2. Qc4 $1 Qh2 3. Qa4+ Ke1 {<eg>} 4. Qa1+ Kf2 5. Qb2+ (5. Qa2+ {<or>}) Kg1 { <eg>} 6. Qxh2+ Kxh2 7. h5 1-0

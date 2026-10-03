@@ -1,0 +1,52 @@
+[Event "Shakhmatny Listok#037"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Filaretov, Sergey Pavlovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7b/2N5/1R4p1/3p4/7p/5kPP/7K w - - 0 1"]
+
+1. Rb2+ $1 (1. gxh3 $2 Be4#) Kf1 2. Nxd4 Be4 3. Nf3 hxg2+ 4. Rxg2 Bxf3 5. h4 $1 Bxg2+ 6. Kh2 gxh4 1/2-1/2
+
+[Event "Shakhmatny Listok#023 (c)"]
+[Source "(c): Garcia=M Krug=P Estudios Artisticos de Ajedrez - XIII-24 2014."]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Filaretov, Sergey Pavlovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/K7/8/b2N2P1/1p3pp1/2P2k2/2P5/8 w - - 0 1"]
+
+1. g6 $1 b3 2. cxb3 Bxc3 (g3 3. g7 g2 4. g8=Q Bxc3 5. Qxg2+ Kxg2 6. Nxc3) 3. Nxc3 g3 4. g7 g2 5. g8=R $1 (5. g8=Q $2 g1=Q+ 6. Qxg1) 1-0
+
+[Event "Shakhmatny Listok#111"]
+[Date "1925.08.31"]
+[Round "?"]
+[Composer "Filaretov, Sergey Pavlovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3pBn2/8/8/8/1P3K2/8/4k3 w - - 0 1"]
+
+1. Ke4 $1 Kd2 2. b4 Kc3 3. b5 Kc4 4. b6 Kb5 5. b7 Nd6+ 6. Bxd6 Kc6 7. b8=R (7. b8=Q $2) 1-0
+
+[Event "64#130"]
+[Date "1925.12.30"]
+[Round "?"]
+[Composer "Filaretov, Sergey Pavlovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2P1K2R/8/k7/5p1N/2p5/8 w - - 0 1"]
+
+1. Rh4+ $1 Kb3 2. Rc4 f2 3. Nxf2 Kxc4 4. c7 c1=Q 5. c8=R+ $1 (5. c8=Q+ $2 Kd4 6. Qxc1) 1-0

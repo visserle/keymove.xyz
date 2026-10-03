@@ -1,0 +1,12 @@
+[Event "Sovyetskaya Belorussia"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Mazel, Isaak Yakovlevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/P7/2Q5/K7/P6p/6qk w - - 0 1"]
+
+1. Qe4+ $1 Qg2 2. Qb1+ Qg1 3. Qb7+ Qg2 4. a6 $1 Qxb7 5. axb7 Kg1 (Kg2 6. b8=Q h1=Q 7. Qb7+) 6. b8=Q h1=Q 7. Qb1+ 1-0

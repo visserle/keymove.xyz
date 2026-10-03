@@ -1,0 +1,40 @@
+[Event "Problemas {SEPA}"]
+[Source "Problemas (SEPA /1-3"]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Moreno Ramos, Felipe"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/6bK/3P1pr1/4B1k1/8/8/8/8 w - - 0 1"]
+
+1. d7 $1 (1. Bf4+ $2 Kxf4 2. d7 (2. Kxg6 Bf8 3. d7 Be7) Bf8 3. d8=Q Rg7+ 4. Kh8 Rg6) fxe5 2. d8=Q+ Bf6 3. Qd2+ Kh5 4. Qh2+ Bh4 5. Qxe5+ Rg5 6. Qe2+ Rg4 7. Qe8+ Kg5 8. Qe5# 1-0
+
+[Event "Szachy#0813"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Moreno Ramos, Felipe"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p1p5/P4Bp1/p7/5p1p/5k2/8/6K1 w - - 0 1"]
+
+1. Bd4 $1 Ke4 2. Bxa7 Kd5 3. Bb6 Kc6 4. Bxa5 g5 5. Kg2 $1 (5. Kf2 $2 h3 6. Kg1 f3) (5. Kh2 $2 f3 6. Kg1 h3) g4 6. Kg1 $1 h3 7. Kh2 f3 8. Kg3 h2 9. Kxh2 f2 10. Kg2 g3 11. Kf1 g2+ 12. Kxg2 f1=Q+ 13. Kxf1 Kd7 14. a7 1-0
+
+[Event "4.hm Paros MT Magyar Sakkélet#1402"]
+[Source "Magyar Sakkélet/2 1980 EG#04679."]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Moreno Ramos, Felipe"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2RP2bK/4Rpr1/6k1/8/8/8/6r1 w - - 0 1"]
+
+1. Re1 $1 Rxe1 2. Rc5+ Re5 (Kf4 3. Kxg6) (Kh4 3. d8=Q Rg4 4. Qd2 Re5 $1 5. Qh2+ Kg5 6. Rxe5+ fxe5 7. Kxg7 Kf5+ 8. Kf7 e4 9. Qf2+ Rf4 10. Qc5+ Kg4+ 11. Ke6 Kf3 12. Qh5+ Kg3 13. Ke5 Rg4 14. Kd4 Kf3 15. Qf5+ Kg3 16. Ke3 Kh3 17. Kf2 Kh4 18. Qe5 Kh3 19. Qe6) 3. Rxe5+ fxe5 4. d8=Q+ Bf6 5. Qd2+ Kh5 6. Qh2+ Bh4 7. Qxe5+ Rg5 8. Qe2+ Rg4 9. Qe8+ Kg5 10. Qe5# 1-0

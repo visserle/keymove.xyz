@@ -1,0 +1,118 @@
+/* Keymove: base.
+
+   One module of the stylesheet; order is owned by
+   app.css, which imports every module. */
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+html {
+	-webkit-text-size-adjust: 100%;
+	/* lila's `html` (`ui/lib/css/base/_elements.scss`) pins the height; the
+     background is ours so the browser's own canvas is never its default
+     (pure black under `color-scheme: dark`, darker than the `--c-page-bg`
+     body) and can never show as a sliver during a refresh's layout shift. */
+	min-height: 100%;
+	background: var(--c-page-bg);
+	/* Use the browser's default root size; rem-based type tokens preserve the
+	   user's font-size preference instead of shrinking text on narrow screens. */
+	font-size: 100%;
+}
+
+/* The page scrolls on `body`, not on the root, so the scrollbar's lane can be
+   reserved *and* tinted. A reserved lane is "painted as an extension of the
+   padding" (MDN `scrollbar-gutter`), which for a non-root scroll container
+   means the element's own `background-image` reaches it: body's top gradient
+   simply carries on into the lane. On the root the lane lies outside the
+   root's box and only the canvas paints it, i.e. `html`'s flat
+   `background-color`, which is why `33deb1e` (reserving the lane on `html`)
+   showed a black column down the edge of every page that fitted the viewport.
+   Stopping the root and handing the scroller to `body` keeps the wordmark and
+   the board on one x on every page without that seam. `stable`, not `auto`, so
+   the lane is held even when the page fits; `Base.astro`'s topbar script reads
+   `body.scrollTop` for the same reason. */
+html {
+	height: 100%;
+	overflow: hidden;
+}
+
+body {
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	min-height: 100dvh;
+	/* The page colour with a tint over its first 116px, fading to the page
+     itself. It stays body's *own* background so the reserved scrollbar lane
+     gets painted with it: neither a descendant nor `background-attachment:
+     local` can reach the lane, which leaves a page-coloured strip beside the
+     tint. A scroller's own background would then be pinned to its box, so
+     Base.astro shifts `background-position` by the scroll and the tint travels
+     with the page instead (the lane shifts with it, staying seamless). */
+	background: var(--c-page-bg)
+		linear-gradient(to bottom, var(--c-body-gradient), var(--c-page-bg) 116px)
+		no-repeat;
+	background-position: 0 calc(-1 * var(--scroll-y, 0px));
+	/* `body` is the page's scroll container (see `html` above), and its box holds
+     the reserved scrollbar lane. `clip`
+     on the horizontal axis only: lila hides horizontal overflow
+     (`ui/lib/css/base/_elements.scss`), and a transient 1px overflow while the
+     island mounts would otherwise flash a horizontal scrollbar across the
+     bottom. `hidden` would make the axis scroll rather than clip. */
+	overflow-x: clip;
+	overflow-y: auto;
+	scrollbar-gutter: stable;
+	color: var(--c-font);
+	font-family: var(--serif);
+	line-height: 1.5;
+	/* Iowan has old-style figures; a chess page wants lining, tabular ones */
+	font-variant-numeric: lining-nums tabular-nums;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+a {
+	color: var(--c-link);
+	text-decoration: none;
+}
+
+a:hover {
+	color: var(--c-link-hover);
+}
+
+figure {
+	margin: 0;
+}
+
+button {
+	font: inherit;
+	color: inherit;
+	cursor: pointer;
+}
+
+input,
+select,
+textarea {
+	font: inherit;
+	color: inherit;
+}
+
+@media (max-width: 799.29px) and (orientation: portrait) {
+	html {
+		overflow-x: clip;
+	}
+}
+
+/* ==========================================================================
+   The site around the solver: home, catalogue and the cards.
+   Everything below is server-rendered; no part of it needs JavaScript.
+   ========================================================================== */
+h1,
+h2,
+h3,
+p {
+	margin-top: 0;
+}

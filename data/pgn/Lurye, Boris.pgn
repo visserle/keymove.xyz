@@ -1,0 +1,29 @@
+[Event ".c Shakhmaty v SSSR#17"]
+[Source "Shakhmaty v SSSR/5 EG#05993."]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Lurye, Boris"]
+[Composer2 "Mitrofanov, Leopold Adamovich"]
+[White "Lurye, B"]
+[Black " Mitrofanov, L."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4K1k1/7p/8/p7/1p5R/6P1/8 w - - 0 1"]
+
+1. Rg3+ $1 Kh8 (Kh7 2. Kf6 b2 3. Rg7+ Kh8 4. Rb7 a3 5. Kg6) 2. Rg6 (2. Kf7 $2 b2 3. Rg6 b1=Q 4. Rxh6+ Qh7+) b2 3. Rb6 a3 4. Kf7 Kh7 5. g4 a2 6. g5 hxg5 7. Rxb2 a1=Q 8. Rh2# 1-0
+
+[Event ".c Vecherni Leningrad"]
+[Source "EG#07276 EG#08752 EG#10178. also .c H 200 AT Leninske Plemja 1989."]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Lurye, Boris"]
+[Composer2 "Mitrofanov, Leopold Adamovich"]
+[White "Lurye, B"]
+[Black " Mitrofanov, L."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/p7/6k1/P7/KP4Pn/8 w - - 0 1"]
+
+1. b4 $1 axb4 2. a4 Nf1 3. a5 Nd2 4. a6 b3+ 5. Ka1 b2+ 6. Kxb2 Nc4+ 7. Ka2 (7. Kc3 $2 Nd6) Nb6 8. a7 Kg3 9. Kb3 Kxg2 10. Kb4 Kf3 11. Kb5 Na8 12. Kc6 Ke4 13. Kb7 1-0

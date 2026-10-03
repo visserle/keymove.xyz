@@ -1,0 +1,12 @@
+[Event "Östergötlands Dagblad"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Peterson, Filip Jacob"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5p2/3N1p2/8/8/3K1P2/5P1p/1B3k2 w - - 0 1"]
+
+1. Ne4 $1 f5 2. Ng3+ Kxf2 3. Nh1+ Kg2 (Kxf3 4. Ba2 $1) 4. Ke2 $1 (4. Ke3 $2 f4+) Kxh1 5. Kf2 (5. Kf1 $2 f6 $1) f4 (f6 6. Bd3 f4 7. Bf1 f5 8. Bg2#) 6. Bf5 $1 f6 7. Bh3 1-0

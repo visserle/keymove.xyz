@@ -1,0 +1,12 @@
+[Event "source unknown"]
+[Date "1867.??.??"]
+[Round "?"]
+[Composer "Goring"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/p7/8/P7/1P4N1/2PK1k1p/8 w - - 0 1"]
+
+1. Nh1+ $1 Kg2 2. Ke2 Kxh1 3. Kf2 a5 4. b4 axb4 5. a5 b3 6. a6 bxc2 7. a7 c1=Q 8. a8=Q+ 1-0

@@ -1,0 +1,13 @@
+[Event "4.p New Statesman {and Nation}"]
+[Source "EG#01757."]
+[Date "1971.??.??"]
+[Round "?"]
+[Composer "Jones, Christofer James Austin"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/8/1p1N3P/6P1/P3p3/pp2p1p1/1P6/1K6 w - - 0 1"]
+
+1. h7 $1 a2+ 2. Ka1 Kg7 3. Nf5+ Kxh7 (Kh8 4. Nxg3 Kxh7 5. Ne2) 4. g6+ $1 (4. Nxg3 $2 Kg6 5. Ne2 Kxg5 6. Nc3 Kf4 7. Nd5+ Kf3 8. Nc3 e2) Kxg6 (Kg8 5. Nxg3 Kg7 (Kf8 6. Ne2 Kg7 7. Nf4 Kh6 8. Ne2 Kxg6 9. Ng3) 6. Nf5+ Kxg6 7. Nxe3) 5. Nxg3 (5. Nxe3 $2 Kg5) Kf7 (Kg5 6. Nxe4+ Kf4 7. Nc3 Kf3 8. Nb5) (Kh6 6. Nf5+ Kg5 7. Nxe3) 6. Nxe4 (6. Ne2 $2 Ke6) e2 7. Ng5+ Kg6 8. Nf3 Kf6 9. Ne1 $1 Kf5 10. a5 (10. Nd3 $2 Ke4 11. Ne1 Ke3 12. a5 bxa5 13. Nd3 a4) bxa5 11. Nd3 a4 12. Nc1 e1=Q 1/2-1/2

@@ -1,0 +1,242 @@
+[Event "Magyar Sakkvilág#155 (c)"]
+[Source "Magyar Sakkvilág/11 (c): Garcia=M Krug=P Estudios Artisticos de Ajedrez - XIII-39 2014."]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Somov Nasimovitch, Evgenij Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3b1K2/3P3r/3P3p/4PN1p/5k1P/8/7P/8 w - - 0 1"]
+
+1. e6 $1 Kxf5 (Bf6 2. e7) 2. e7 Bxe7+ 3. dxe7 Kf6 4. e8=N+ (4. Kg8 $2 Kxe7 5. Kxh7 Kxd7) Kg6 5. d8=R $1 (5. d8=Q $2 Rf7+ 6. Kg8 Rg7+ 7. Nxg7) 1-0
+
+[Event "64#214"]
+[Date "1927.05.15"]
+[Round "?"]
+[Composer "Somov Nasimovitch, Evgenij Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6n1/7K/3k4/2p1p2N/2P5/8 w - - 0 1"]
+
+1. Ng1 $1 (1. Kxg6 $2 e2 2. Ng1 Ke3) Nf4+ 2. Kg4 (2. Kh4 $2 e2) Ke4 (e2 3. Kxf4) 3. Kg3 e2 4. Kf2 e1=Q+ 5. Kxe1 Ke3 6. Kd1 (6. Kf1 $2 Kd2) Kf2 7. Ne2 Nxe2 1/2-1/2
+
+[Event "64#220"]
+[Date "1927.05.30"]
+[Round "?"]
+[Composer "Somov Nasimovitch, Evgenij Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k1N4K/2R5/8/8/8/8/1p5P/8 w - - 0 1"]
+
+1. Nb6+ $1 (1. Ra7+ $2 Kb8 2. Nd6 Kxa7 3. Nb5+ Kb6 4. Nc3 Ka5 5. h4 Kb4) (1. Rc5 $2 b1=Q 2. Ra5+ Kb8 $1) (1. Rc6 $2 b1=Q 2. Ra6+ Kb7 3. Rb6+ Ka8 $1 4. Rxb1) (1. Ne7 $2 b1=Q 2. Nc6 Qb2+) Kb8 2. Rc3 b1=Q 3. Nd7+ Ka7 4. Ra3+ Kb7 5. Rb3+ Qxb3 6. Nc5+ 1-0
+
+[Event "Shakhmatny Listok#214"]
+[Date "1927.06.10"]
+[Round "?"]
+[Composer "Somov Nasimovitch, Evgenij Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2R3K1/6p1/6bk/8/5P2/5P2/6pP/8 w - - 0 1"]
+
+1. Rc1 $1 Bd3 (Bf5 2. Rc6+) 2. Rc6+ g6 (Bg6 3. f5 g1=Q 4. Rxg6+ Qxg6 5. fxg6 Kxg6 6. h3 $1 Kf6 7. h4 Kg6 8. f4 Kf6 9. h5 g5 10. h6) (Kh5 3. Rc5+ Kh4 4. Rg5) 3. Rc7 g5 4. Rc6+ Bg6 (Kh5 5. Kg7) 5. f5 g1=Q 6. Rxg6+ Kh5 7. Rg7 $1 g4 8. h4 $1 (8. f4 $2 g3 $1 9. h3 Qb6) Kxh4 9. Rxg4+ Qxg4+ 10. fxg4 1-0
+
+[Event "64#226"]
+[Date "1927.06.30"]
+[Round "?"]
+[Composer "Somov Nasimovitch, Evgenij Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B6/2K5/1p6/8/b3BkN1/8/8/8 w - - 0 1"]
+
+1. Nf6 $1 Ke5 2. Nd5 Bb3 3. Nc3 Kd4 4. Nb1 Kxe4 5. Nd2+ Kd3 6. Nxb3 Kc3 7. Nc1 $1 Kd2 8. Na2 1-0
+
+[Event "1.p 64#249"]
+[Date "1927.10.30"]
+[Round "?"]
+[Composer "Somov Nasimovitch, Evgenij Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3n4/P4P2/4p3/K1p5/8/2k4b/8 w - - 0 1"]
+
+1. a7 $1 Bg1 $1 (Nb6+ 2. Kb5 Na8 3. f7) (e4 2. Kb5) 2. a8=Q Nb6+ 3. Kb4 $1 (3. Kb5 $2 Nxa8 4. f7 Nc7+ 5. Kc6 Ne6) Nxa8 4. f7 Nc7 $1 (Bc5+ 5. Kxc5 Nc7 6. Kd6) 5. f8=Q Bc5+ $1 6. Kxc4 $1 (6. Kxc5 $2 Ne6+) (6. Qxc5 $2 Na6+) Bxf8 1/2-1/2
+
+[Event "64#286 (m)"]
+[Source "(m): Somov_Nasimovich=E 64=13-14 5-7-1928."]
+[Date "1928.04.05"]
+[Round "?"]
+[Composer "Somov Nasimovitch, Evgenij Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1R2p3/3Np3/4P2q/k5p1/3K2P1/p7/8 w - - 0 1"]
+
+1. Kc4 $1 Qxe5 2. Rb4+ Ka5 3. Nb7+ Ka6 4. Nc5+ Qxc5+ $1 5. Kxc5 a1=Q 6. Ra4+ Qxa4 1/2-1/2
+
+[Event "64#286"]
+[Date "1928.04.05"]
+[Round "?"]
+[Composer "Somov Nasimovitch, Evgenij Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4p3/1R1Np3/4q3/2K5/k7/p7/8 w - - 0 1"]
+
+1. Rb3+ $1 Ka4 2. Rb4+ Ka5 3. Nb7+ Ka6 4. Nc5+ Qxc5+ $1 5. Kxc5 a1=Q 6. Ra4+ Qxa4 1/2-1/2
+
+[Event "64#290"]
+[Date "1928.04.20"]
+[Round "?"]
+[Composer "Somov Nasimovitch, Evgenij Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b6/3P4/2k5/7P/4n3/1p6/1K4p1/8 w - - 0 1"]
+
+1. d8=Q $1 Be5+ (g1=Q 2. Qxb8 Nc5 3. Qc8+) 2. Kxb3 Nc5+ 3. Kc4 g1=Q 4. Qd5+ Kb6 5. Qxe5 Qf1+ 6. Kd5 Qf3+ 7. Kd6 $1 Qc6+ 8. Ke7 Qb7+ $1 9. Ke8 $1 Qd7+ 10. Kf8 Ne6+ 11. Kg8 Qe8+ 12. Kh7 Nf8+ 13. Kh6 Qxe5 1/2-1/2
+
+[Event "Zadachy i Etyudy#40"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Somov Nasimovitch, Evgenij Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/6N1/p5k1/3K4/1p1p4/1P6/8/2n5 w - - 0 1"]
+
+1. Ne6 $1 d3 2. Nf4+ Kf5 3. Nxd3 Nxd3 4. Kc4 1/2-1/2
+
+[Event "2.hm 64#348"]
+[Date "1929.01.20"]
+[Round "?"]
+[Composer "Somov Nasimovitch, Evgenij Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "b7/b1p1p3/8/2PpP1P1/1K6/5P2/3k4/8 w - - 0 1"]
+
+1. g6 $1 d4 2. Kc4 Bxf3 3. g7 c6 $1 4. g8=Q Bd5+ 5. Qxd5 cxd5+ 6. Kxd4 $1 e6 (Bxc5+ 7. Kxc5 e6 8. Kd6) 1/2-1/2
+
+[Event "64#641"]
+[Source "64/9-10"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Somov Nasimovitch, Evgenij Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/6Pp/7k/8/q7/p2Q4/K2n4 w - - 0 1"]
+
+1. g7 $1 Qb3 (Qa8 2. Qh2+ Kg6 3. Qg2+ Qxg2 4. g8=Q+ Kh5 5. Qxg2) 2. Qh2+ Kg6 3. Qg3+ Qxg3 4. g8=Q+ Kh5 5. Qxg3 1-0
+
+[Event "64#630 (c)"]
+[Source "64/4 (c): Garcia=M Estudios Artisticos de Ajedrez - X-37 2012."]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Somov Nasimovitch, Evgenij Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4r3/2N1B3/4p3/bPK2pP1/k2p1p1q/Pp4p1/1PP2n2/8 w - - 0 1"]
+
+1. Kc4 $1 Be1 $1 (bxc2 2. b3#) (Bxc7 2. Bb4) 2. Nxe8 Qxg5 $1 3. Nf6 $1 (3. Bxg5 $2 bxc2 4. Bxf4 g2) Qxf6 $1 4. Bb4 $1 (4. Bxf6 $2 bxc2) Bxb4 5. cxb3+ $1 Ka5 6. axb4+ Kb6 1/2-1/2
+
+[Event "1.p Moscow Leningrad match 64 (c)"]
+[Source "64/8 (c): Garcia=M Estudios Artisticos de Ajedrez - X-36 2012."]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Somov Nasimovitch, Evgenij Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p2pp1P1/2p4b/1k2P3/1p1K4/5R2/P1P1p1Pp/8 w - - 0 1"]
+
+1. g8=Q $1 c5+ $1 (e1=Q 2. Qb8+) 2. Kd3 $1 e1=N+ $1 3. Ke4 $1 (3. Ke2 $2 Nxf3 4. Qd5 h1=Q $1 5. Qxd7+ Kb6) h1=Q (Nxf3 4. Qd5 h1=Q $1 5. Qxd7+ Kb6 6. Qd8+) 4. c4+ Ka4 $1 5. Qe6 $1 dxe6 (Qh4+ {<main>} 6. g4 dxe6 7. Ra3+ Kxa3) (Ka5 6. Qxd7 $1) 6. Ra3+ Kxa3 1/2-1/2
+
+[Event "64#639"]
+[Source "64/7"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Somov Nasimovitch, Evgenij Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/6pk/7b/6PP/4K3/5B2/8 w - - 0 1"]
+
+1. Kf4 $1 g5+ 2. hxg5+ Kg6 3. Be3 $1 h6 4. gxh6 Kxh6 5. Kf5+ Kh7 6. gxh5 1-0
+
+[Event "64#651 (c)"]
+[Source "64/1-2"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Somov Nasimovitch, Evgenij Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/2p5/8/5N2/K3P3/1p3n2/2b1N3/4k3 w - - 0 1"]
+
+1. Ned4 $1 Nxd4 (Kd2 2. Nxf3+ Kc3 3. Ka3 b2 4. Nd2 Kxd2 5. Kxb2) 2. Nxd4 c5 $1 3. Nxb3 c4 4. e5 cxb3 (Bxb3+ 5. Kb4) 5. Ka3 Kd2 6. e6 Kc3 7. e7 Bg6 8. e8=Q Bxe8 1/2-1/2
+
+[Event "64#678"]
+[Source "64/3"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Somov Nasimovitch, Evgenij Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/8/3P2pk/P6p/7P/r2b1B2/8/8 w - - 0 1"]
+
+1. d7 $1 Bc4+ 2. Bd5 Bxd5+ 3. Kh8 Rxa5 4. d8=B $1 (4. d8=Q $2 Ra8 5. Qxa8 Bxa8) Ra8 1/2-1/2
+
+[Event "64#183 (c)"]
+[Source "(c): Copie=J Finales y Temas#02378 Finales y Temas=71 10/2012."]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Somov Nasimovitch, Evgenij Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7b/4RP2/4b1B1/4q3/8/8/1PP2k2/K7 w - - 0 1"]
+
+1. f8=Q+ $1 Kg1 $1 2. c3 Qe1+ 3. Bb1 Qxc3 $1 4. Rg7+ $1 (4. bxc3 $2 Bxc3#) Bxg7 5. Qf1+ $1 Kxf1 6. Bd3+ $1 Ke1 (Qxd3) 7. bxc3 Kd2 $1 8. Bc2 $1 Kc1 $1 (Kxc2) 9. Bb3 $1 Bxb3 1/2-1/2

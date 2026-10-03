@@ -1,0 +1,27 @@
+[Event ".c L'Italia Scacchistica#342"]
+[Source "L'Italia Scacchistica/6 EG#05202."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Raican, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/6pP/5bP1/5P2/K7/8/5B2/8 w - - 0 1"]
+
+1. Kb3 $1 (1. Kb5 $2 Bd4 2. Bh4 Bf2 3. Be7 Bc5 4. Bf6 Bd4) Bd4 2. Be1 Bc3 3. Bh4 Be1 (Be5 4. f6 $1) 4. Be7 Bb4 5. Bf6 Bc3 6. Kxc3 1-0
+
+[Event "2.c Buletin Problemistic#256"]
+[Source "Buletin Problemistic/1-6 EG#08585."]
+[Date "1988.??.??"]
+[Round "?"]
+[Composer "Raican, Paul"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3P4/p7/1pQ5/2p3pp/p6P/k1Kb4 w - - 0 1"]
+
+1. d7 $1 gxh2 (g2 {<main>} 2. d8=Q g1=Q 3. Qdd4 $1 Qe1 4. Qf1 $1 Qxf1 5. Qxc3+ bxc3) 2. d8=Q h1=Q 3. Qxa2+ $1 Kxa2 4. Qd5+ Qxd5 1/2-1/2

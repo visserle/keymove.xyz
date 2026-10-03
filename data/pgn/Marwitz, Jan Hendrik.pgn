@@ -1,0 +1,390 @@
+[Event "2.p tt23"]
+[Source "Tijdschrift v.d. KNSB/3 1939"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "k7/8/2p5/4P3/4B3/6p1/8/2n3K1 w - - 0 1"]
+[PlyCount "11"]
+
+1. Bd3 $3 $1 (1. e6 $2 $143 Ne2+ 2. Kf1 g2+ $1 3. Bxg2 (3. Kxg2 (3. Bxg2 Ng3+ 4. Kf2 Nf5) Nf4+) Ng3+ $10 $11) (1. Bf3 $2 Kb8 (Kb7) 2. e6 $10 Ne2+ $4 (Kc7 $5) 3. Bxe2) (1. Bc2 $2 c5 2. e6 $10) (1. Bh1 $2 g2 2. e6 Ne2+ 3. Kxg2 Nf4+ 4. Kf2) (1. Bxc6+ $143 $2 Kb8 $11) Kb7 (Nxd3 $144 2. e6 $18) 2. Bc4 $1 (2. e6 $2 $143 Kc7 (Kc8 $11) 3. e7 $10) (2. Be4 $2 g2 3. e6 $10 Ne2+ 4. Kxg2 Nf4+ 5. Kf2) (2. Bf1 $2 c5 3. e6 $10) (2. Bf5 $2 c5 3. e6) (2. Kg2 $4 Nxd3 3. Kxg3 Nxe5) (2. Bc2 $2 c5 3. e6) (2. Bg6 $4 Ne2+ 3. Kf1 g2+) (2. Be2 $4 Nxe2+ 3. Kg2 Kc7) (2. Bb1 $2 c5 3. e6) (2. Bh7 $2 c5 3. e6) Kb6 (Kc7 $144 3. Kg2 Kd7 4. Kxg3 Nd3 5. Bxd3 Ke6 6. Kf4 $18) 3. Kg2 $1 (3. e6 $2 $143 Kc7 4. e7 $10 (4. Kg2 Kd6 5. Kxg3 Nd3 $11)) (3. Kf1 $2 Kc5 4. e6) (3. Be6 $4 Ne2+ 4. Kf1 g2+) (3. Bf7 $2 c5 4. e6) (3. Bg8 $2 c5 4. e6) (3. Ba2 Nxa2) (3. Bd3 Nxd3) Kc5 4. Kxg3 $1 (4. e6 $2 Kd6 $1 5. e7 $10 (5. Kxg3 Ne2+ $1) Kxe7 6. Bf1) (4. Kf1 $2 g2+ 5. Kxg2 Kxc4 $4 (Ne2 $5) 6. e6) (4. Bg8 $2 Nd3 5. e6 Nf4+ 6. Kxg3 Nxe6 7. Bh7) (4. Ba6 $2 Nb3 5. e6) (4. Be2 Nxe2) (4. Bb3 Nxb3) Kxc4 5. e6 (5. Kf4 $4 Nd3+ 6. Ke4 Nc5+) (5. Kg4 Kd5) (5. Kh2 Kd5) (5. Kf3 Nb3) Ne2+ 6. Kh2 $18 $3 $1 (6. Kg4 $2 $143 Nc3 7. e7 $10 Ne4 (Nd5 8. e8=Q Nf6+) 8. e8=N $11) (6. Kf2 $4 $143 $2 Nc3 $19 7. e7 Ne4+ $19 8. Ke3 Nd6) (6. Kf3 $4 $143 $2 Nd4+ $19 7. Ke3 Nxe6 $19) (6. Kh4 $4 $143 Nd4 $19 7. e7 Nf5+ $19) (6. Kg2 $4 $143 $2 Nf4+ $19 7. Kf3 Nxe6) (6. Kh3 $4 $143 $2 Nf4+ $19 7. Kg3 Nxe6) 1-0
+
+[Event "tt23#263"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1B6/3P4/2n1b3/P2k4/1p6/1K6/8/8 w - - 0 1"]
+[PlyCount "12"]
+
+1. d8=N $1 (1. d8=Q+ $143 Kc5+ $19) Nxd8 2. Kxb4 Nc6+ 3. Kb5 Nxb8 4. a6 Bd7+ 5. Kb6 Bc6 6. Ka7 $1 (6. a7 $143 Nd7+ $19) Nd7 $11 1/2-1/2
+
+[Event "tr11 {v}"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/R5p1/pP6/8/pr5P/8/K6P/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. b7 Kh7 2. Ka3 (2. h5 $143 Rb3 $11) a5 (Rb5 $144 3. Kxa4 $18) 3. h5 Kh6 4. h3 Kh7 (g6 $144 5. hxg6 Kxg6 6. h4 Rb1 7. h5+ Kg5 8. h6 Kxh6 9. Kxa4 $18) 5. h4 Kh6 6. Ra8 Rxb7 7. Rh8# 1-0
+
+[Event "tt23"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k3K/8/1pbnB2R/p7/P7/8/8/8 w - - 0 1"]
+[PlyCount "9"]
+
+1. Bd5 Ba8 $3 (Ke7 $144 2. Bxc6 Nf7+ 3. Kg7 Nxh6 4. Kxh6 $18) 2. Rg6 $1 (2. Bxa8 $143 Nf7+ $11) (2. Rxd6+ $143 Kc7 3. Rxb6 Bxd5 $1 4. Ra6 Bc6 5. Rxa5 Kb6 $11) Bb7 3. Rxd6+ $1 Kc7 4. Bxb7 $1 Kxd6 5. Ba6 $18 1-0
+
+[Event "tt23#419 {tt}"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2K3k1/1p6/R3p1p1/1rB1P1P1/8/8/1Pb5/8 w - - 0 1"]
+[PlyCount "30"]
+
+1. Rc6 $1 bxc6 2. b4 Kf7 3. Kc7 Ke8 4. Kc8 (4. Kxc6 $143 Ba4 5. Kd6 Bb3 6. Kc6 Bc4 7. Kc7 Bd5 8. Kc8 Rb7 $19 9. Bd6 Rb6 10. Kc7 Rc6+ 11. Kb8 Rxd6 $19) Bd3 5. Kc7 Rxc5 6. bxc5 Bb5 (Ba6 $144 7. Kb6 Bc8 8. Kc7 Bd7 9. Kd6 Kd8 $11) 7. Kc8 Ke7 8. Kc7 Ba6 9. Kb6 Bc8 10. Kc7 Bd7 11. Kb8 Kd8 12. Kb7 Bc8+ 13. Kb8 Kd7 14. Ka8 $3 (14. Ka7 $143 Kc7 15. Ka8 Bb7+ 16. Ka7 Kc8 17. Kb6 Kb8 18. Ka5 Ka7 $19) Kc7 15. Ka7 Bb7 $11 1/2-1/2
+
+[Event "tt23#428"]
+[Site "?"]
+[Date "1942.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p1B1p1/n3P3/1k6/5K2/8/8/8 w - - 0 1"]
+[PlyCount "25"]
+
+1. Bc5 $3 Kc6 2. Ba3 $3 Nb8 3. Kf5 $1 Nd7 4. e7 $1 Nf6 5. Ke6 $1 Ne8 6. Bb2 {(3 coups de F gagnent)} g6 7. Be5 {(7 coups de F gagnent)} g5 8. Bf6 {(8 coups de F gagnent)} g4 9. Be5 g3 10. Bxg3 Ng7+ 11. Kf7 Kd7 12. Bxc7 Ne8 13. Be5 $18 1-0
+
+[Event "tt23#015"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1k2B1b1/2p3P1/K6b/R7/8/8/8 w - - 0 1"]
+[PlyCount "9"]
+
+1. Ra3 (1. Rb4+ $143 Kc8 2. Kb6 Kd7 3. Bc5 Ke6 4. Kxc6 Bxg6 $11) Be5 2. g7 Bxg7 3. Rh3 Bd1 4. Rh7 Bc3+ 5. Bb4+ $18 1-0
+
+[Event "tl28#29"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/5pp1/p7/2KP4/8/4P1P1/8/8 w - - 0 1"]
+[PlyCount "21"]
+
+1. Kc6 $1 (1. e4 $143 f6 2. Kb6 Kd7 3. g4 Kd6 4. Kxa6 g6 5. Kb6 f5 $11) Kd8 (a5 $144 2. Kc7 $18) 2. g4 $1 (2. Kb6 $143 Kd7 3. Kxa6 Kd6 4. e4 f5 $11) f6 (a5 $144 3. Kb5 Kd7 4. Kxa5 Kd6 5. e4 f6 (g6 $144 6. g5 $18) 6. Kb5 g6 7. Kc4 $18) 3. e4 g6 (Kc8 $144 4. Kb6 $18) 4. Kd6 $1 a5 5. g5 $1 fxg5 6. e5 g4 7. e6 g3 8. e7+ Ke8 9. Ke6 g2 10. d6 g1=Q 11. d7# 1-0
+
+[Event "1.p tt23#120"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2B5/2P4K/1r6/1Pk1r3/5b2/6R1/6P1/8 w - - 0 1"]
+[PlyCount "19"]
+
+1. Be6 $1 (1. Rg7 $143 Rh6+ 2. Kg8 Re8+ $19) Rh5+ (Rb7 $144 2. Rc3+ Kb6 3. Rc6+ Kxb5 4. Kg6 $1 $11 (4. Bd7 $143 Re7+ $1 5. Kg6 Bxc7 $1 6. Rxc7+ Rxd7 $19) (4. Bf7 $143 Rg5 5. g4 Rxc7 6. Rxc7 Bxc7 $19) Rxc7 5. Rxc7 $11) 2. Kg6 Rh6+ $1 (Bxc7 $144 3. Rc3+ Kd4 4. Rc4+ Ke5 5. Kxh5 Kxe6 $11) 3. Kg7 Bxc7 $1 4. Rg5+ (4. Rc3+ $143 Kd4 5. Rc4+ Kd3 6. Kxh6 Rxe6+ $19) Kd4 $1 5. Rg4+ (5. Kxh6 $143 Bf4 $19) Bf4 $1 6. Rxf4+ Ke5 7. Rf5+ Kxe6 8. g4 $3 Ke7 9. Rf7+ Ke6 10. Rf5 $11 1/2-1/2
+
+[Event "1.hm ts70#0770"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/N4b1R/B7/8/5K2/8/r7/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. Bb5+ Kd8 (Kf8 $144 2. Rxf7+ Kxf7 3. Bc4+ $18) (Ke7 $144 2. Rxf7+ Kxf7 3. Bc4+ $18) 2. Nc6+ Kc7 (Kc8 $144 3. Ke5 Bb3 (Rf2 $144 4. Nd4 Kd8 (Kb8 $144 5. Bd3 Rd2 6. Bf5 Be8 7. Rh8 $18) 5. Nf5 Ba2 (Bg6 $144 6. Rd7+ Kc8 7. Ne7+ $18) (Rb2 $144 6. Nd6 $18) 6. Rd7+ Kc8 7. Ne7+ Kb8 8. Bc6 Re2+ 9. Kd6 Rd2+ 10. Nd5 Kc8 11. Re7 Kb8 12. Re8+ Ka7 13. Ra8#) 4. Bd3 $18) 3. Nb4 Rb2 4. Rxf7+ Kb6 5. Nd5+ Kc5 6. Ke5 $3 Rxb5 7. Rc7# 1-0
+
+[Event "6.hm tn20"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1n1k4/p7/8/1P1N4/r7/P7/8/3K3R w - - 0 1"]
+[PlyCount "25"]
+
+1. Rh8+ Kd7 2. Kc2 $1 (2. Rxb8 $143 Rd4+ $11) Rc4+ (Rd4 $144 3. Nc3 Kc7 4. b6+ $18) 3. Kb3 Rc8 4. Nf6+ Kc7 5. b6+ $1 axb6 (Kb7 $144 6. Rxc8 Kxc8 7. bxa7 $18) 6. Nd5+ Kb7 7. Rh7+ Ka6 (Ka8 $144 8. Nxb6#) (Kc6 $144 8. Ne7+ Kb7 9. Nxc8+ Kxc8 $18) 8. Nb4+ Kb5 (Ka5 $144 9. Ra7+ Kb5 10. Ra8 Rf8 11. Rxb8 $1 Rxb8 12. a4+ Kc5 13. Na6+ $18) 9. Rh5+ Rc5 10. Rh8 $1 Nc6 (Na6 $144 11. a4+ Ka5 12. Ra8 $18) (Nd7 $144 11. a4+ Ka5 12. Ra8#) 11. a4+ Ka5 12. Ra8+ Na7 13. Rxa7# 1-0
+
+[Event "3.p ts70#1364"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2R5/8/3P4/4K1p1/6k1/7N/6r1/1b6 w - - 0 1"]
+[PlyCount "13"]
+
+1. Nf4 $1 (1. d7 $143 Re2+ 2. Kf6 Rd2 3. d8=Q Rxd8 4. Rxd8 Kxh3 5. Kxg5 $11) Rd2 (gxf4 $144 2. Rg8+ Kf3 3. Rxg2 Kxg2 4. Kxf4 $18) (Bf5 $144 2. Rc4 Rd2 3. Ne6+ Kg3 4. Nxg5 $18) 2. Nd5 Re2+ 3. Kf6 Re6+ $1 (Rf2+ $144 4. Kg7 Bf5 (Rd2 $144 5. Rc5 Bf5 6. Ne3+ Kf3 7. Nxf5 $18) 5. Ne3+ Kf4 6. Nxf5 $18) 4. Kxe6 Bf5+ 5. Kf6 $3 Bxc8 6. Nb6 Bf5 7. Ke5 $18 1-0
+
+[Event "7.hm ms05 tt21"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3R4/1r1P4/1kb1p1N1/2p5/R7/8/K7/1n6 w - - 0 1"]
+[PlyCount "21"]
+
+1. Ra6+ (1. Raa8 $143 Rxd7 2. Rxd7 Bxa8 3. Kxb1 Be4+ $11) Kc7 (Kb5 $144 2. Ne5 Nc3+ 3. Ka1 Rxd7 (Bxd7 $144 4. Rd6 $18) 4. Rxd7 Bxd7 5. Ra8 Bc6 6. Rb8+ Ka6 7. Nxc6 $18) 2. Rc8+ (2. Rxc6+ $143 Kxc6 3. Ne5+ Kd6 4. Ra8 Nc3+ 5. Ka3 Rxd7 6. Nxd7 Kxd7 $11) Kxd7 3. Raxc6 (3. Rcxc6 $143 Nc3+ 4. Ka3 Nb1+ 5. Ka4 Nc3+ 6. Ka3 (6. Ka5 $143 Rb5#) Nb1+ $11) Nc3+ 4. Ka3 Nb5+ 5. Ka4 Nc7 (Na7 $144 6. Ne5+ Ke7 7. R6c7+ Rxc7 8. Rxc7+ $18) 6. Rd6+ $1 (6. Ne7 $143 Rb4+ 7. Ka5 Rb5+ 8. Ka4 Rb4+ 9. Ka3 Nb5+ 10. Ka2 Nc3+ $11) Kxd6 (Kxc8 $144 7. Ne7+ Kb8 8. Nc6+ Ka8 (Kc8 $144 9. Rd8#) 9. Rd8+ Rb8 10. Rxb8#) 7. Rd8+ Kc6 8. Ne7+ Kb6 9. Nc8+ Ka6 (Kc6 $144 10. Rd6#) 10. Rd6+ Rb6 11. Rxb6# 1-0
+
+[Event "1.p ms02 ts70#1628"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1p1N4/2kn1R2/8/6p1/4r3/b2KB3 w - - 0 1"]
+[PlyCount "13"]
+
+1. Nb7+ Kc6 2. Nd8+ (2. Kxe2 $143 g2 $1 3. Nd8+ Kc7 4. Bg3+ Kc8 5. Bf2 Nc3+ 6. Kf3 Kxd8 7. Bxb6+ Kd7 8. Kxg2 $11) Kc7 $1 3. Bxg3+ (3. Kxe2 $143 g2 4. Bg3+ Kc8 $1 5. Kf2 Bd4+ 6. Kxg2 Ne3+ 7. Kf3 Nxf5 $11) Re5 $1 4. Bxe5+ Kxd8 5. Bd4 $3 (5. Bxa1 $143 Ne3+ $11) Kd7 $1 6. Rg5 $3 (6. Rxd5+ $143 Kc6 7. Rd8 Kc7 8. Rd5 Kc6 $11) (6. Rh5 $143 Nf6 $1 $11) (6. Re5 $143 Bc3 7. Kc2 Kd6 8. Bxc3 Nxc3 $11) Bc3 7. Kc2 $18 1-0
+
+[Event "1.c tm04#1422"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7P/1N2p3/1k2b1n1/8/8/2RK4/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. Nd7 Bf4+ (Bd4 $144 2. Rc5+) 2. Kd1 $1 Nxh7 3. Rc5+ Ka6 $1 (Kb4 $144 4. Rh5 Ng5 5. Rh4 $18) 4. Rh5 Ng5 5. Nc5+ Kb6 6. Nd3 Be3 7. Ke2 $18 1-0
+
+[Event "ts70#1865 {c}"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2r5/7b/2RPK3/6pp/4k3/8/8/3N4 w - - 0 1"]
+[PlyCount "27"]
+
+1. Nc3+ Kf4 {(Le Roi Noir doit toujours contrôler f5)} 2. Nd5+ Ke4 3. Nf6+ Kf4 4. Nxh5+ Kg4 5. Nf6+ Kf4 6. Nd5+ Ke4 7. Nc3+ Kf4 8. Ne2+ $1 Kg4 9. Rxc8 Bf5+ 10. Ke7 Bxc8 11. Kd8 Bf5 12. Nd4 $1 Kf4 13. Nxf5 Kxf5 14. Ke7 $18 1-0
+
+[Event "1.c tt25 tm04"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1R4B1/p5p1/b5P1/3p2P1/1K6/5r2/8/1k6 w - - 0 1"]
+[PlyCount "11"]
+
+1. Bxd5 (1. Ka5+ $143 Kc2 2. Kxa6 Ra3+ 3. Kb7 d4 4. Be6 d3 5. Rg8 Ra5 6. Rxg7 d2 7. Rc7+ Kb2 8. Rd7 Rxg5 9. Rxd2+ Kc3 10. Rd6 Rxg6 $11) Re3 $1 2. Ka5+ Ka1 $1 3. Kxa6 Re6+ $1 4. Bc6 $1 (4. Bxe6 $143 $2 $11) (4. Kxa7 $143 Rxg6 5. Rb1+ Kxb1 6. Be4+ Kb2 7. Bxg6 Kc3 8. Kb7 Kd4 9. Bb1 (9. Kc6 Ke5 10. Bb1 g6 $1) Ke5 10. g6 Kf6 11. Kc7 Ke7 12. Ba2 Kf8 $11) (4. Ka5 $143 Rxg6 5. Rb1+ Kxb1 6. Be4+ Kb2 7. Bxg6 Kc3 $11) Rxg6 (Rxc6+ $144 5. Kxa7 Rxg6 6. Rb5 $18) 5. Rb5 Rxc6+ 6. Kxa7 {+- Tablebases} 1-0
+
+[Event "2.hm ts70#1996 {v}"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1b6/2p5/5r2/1k2B3/2pRP2K/8 w - - 0 1"]
+[PlyCount "12"]
+
+1. Rxc2 $1 (1. Bxf4 $143 Bc7 2. Bxc7 c1=Q $19) Rh4+ $1 2. Kg3 Re4 3. Bxc5 $1 Bc7+ 4. Bd6 $1 (4. Kf3 $143 Rf4+ 5. Ke3 Kxc2 6. Bd6 Rc4 $19) Bxd6+ 5. Kf3 Rf4+ 6. Ke3 Kxc2 $11 1/2-1/2
+
+[Event "3.hm mh03 tt22"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5P2/7P/2k2r2/4p1Nb/8/4P3/7K w - - 0 1"]
+[PlyCount "13"]
+
+1. Nf6 (1. h7 $143 Rh5 2. Kg2 Be7 3. Nf6 Rh6 4. Nxe4+ (4. f8=Q $144 Bxf8 5. Nd7+ Kd4 6. Nxf8 Ke3 $19) Kd5 5. Ng5 Bf8 6. Kf3 Ke5 7. Kg4 Kf6 8. e4 Kg7 9. e5 Be7 10. f8=Q+ Kxf8 11. Ne6+ Kf7 12. Nd4 Rxh7 $19) Rxf6 2. h7 Bg5 (Rh6 $143 3. f8=Q+ Be7+ 4. Qxh6 $19) 3. Kg2 Be3 4. Kg3 (4. h8=Q $143 Rg6+ 5. Kh3 Rh6+ 6. Qxh6 Bxh6 $19) Kd5 5. Kg4 (5. h8=Q $143 Rg6+ 6. Kh4 Rh6+ $19) Rf4+ 6. Kg3 Rf6 7. Kg4 $11 1/2-1/2
+
+[Event "3.p ws02"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k1K/4RP2/7b/8/6p1/4n3/8/8 w - - 0 1"]
+[PlyCount "22"]
+
+1. Ra7 g3 2. Kh7 (2. Ra1 $143 Bg7+ $19) g2 3. Ra1 Bg5 (Bf4 $144 4. Kg6 Bb8 5. Kf6 $11) (Nf1 $144 4. Ra8+ Kxf7 5. Rg8 Ne3 6. Rg7+ Bxg7 $11) 4. Kg6 Bd8 5. Re1 (5. Rg1 $143 Nd5 6. Re1 Nf4+ 7. Kf5 Nh3 $19) Bb6 (Bc7 $144 6. Ra1 Ba5 $11) 6. Ra1 Ba7 7. Re1 Bd4 8. Rb1 Be5 9. Rc1 Bc7 10. Ra1 Ba5 11. Rb1 Bb4 $11 1/2-1/2
+
+[Event "3.p ww01"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2Kp1P2/1R1nk2B/r2r4/7N/3B4/8 w - - 0 1"]
+[PlyCount "13"]
+
+1. f7 (1. Rxd5+ $143 Rxd5 2. Bc3+ (2. f7 $144 Ra6+ $11) Ke6 3. Bf7+ Kxf7 4. Kxd5 Ra3 5. Ng5+ Kg6 6. f7 Ra8 7. Bd2 Kf6 8. Bf4 Rf8 $11) Rac4+ 2. Kd7 Rc7+ 3. Kd8 Rxf7 4. Rxd5+ Rxd5 5. Bc3+ Ke6 6. Bg4+ Rdf5 (Rff5 $144 7. Ng5#) 7. Nf4# 1-0
+
+[Event "4.hm mc02 ts18"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1r3Nb1/8/1P3p2/3Pp3/n7/3RK2k/8/8 w - - 0 1"]
+[PlyCount "14"]
+
+1. Nd7 (1. d6 $143 Rxf8 2. d7 (2. b7 $144 Nc5 $19) Nxb6 3. d8=Q Rxd8 4. Rxd8 Be6 5. Kf3 (5. Rd6 Nc4+) Kh4 6. Rd6 Bg4+ $19) Rxb6 (Rd8 $144 2. b7 Nb2 3. Rb3 Bxd5 4. Rxb2 Bxb7 5. Rxb7 $11) (Rb7 $144 2. Nxf6 Bh7 3. Nxh7 Rxh7 4. Ke4+ Kg4 5. Kxe5 $11) 2. d6 (2. Nxb6 $143 Nxb6 3. d6 Be6 $19) (2. Ra3 $143 Bxd5 3. Nxb6 (3. Nxf6 $144 Rxf6 4. Rxa4 Rf3+ 5. Ke2 Rf4 $19) (3. Nxe5 $144 fxe5 4. Rxa4 Kg3 5. Ra5 Rd6 $19) Nxb6 4. Kf2+ Kg4 5. Ra6 Nc8 6. Rxf6 $19 {(EGTB : Gain en 43 coups )}) (2. Ke4+ $143 Kg4 3. Ra3 Rb4+ 4. Ke3 Kf5 5. d6 Re4+ (Ke6 $144 6. Rxa4 $19) 6. Kf3 Rf4+ 7. Ke3 Ke6 8. Rxa4 Kxd7 $19) Be6 3. Nxf6 (3. Nxb6 Nxb6 $19) (3. Nf8 $143 Nc5 4. d7 (4. Rc3 $144 Rxd6 5. Rxc5 Bf5 $19) Nxd7 5. Nxd7 Bxd7 6. Rxd7 $19) (3. Ke4+ $143 Kh4 4. Nxf6 Nc5+ 5. Kxe5 Nxd3+ 6. Kxe6 $19) Nb2 (Nc5 $144 4. d7 Bxd7 5. Nxd7 Nxd7 6. Rxd7 $11) 4. d7 Bxd7 5. Nxd7 (5. Rxd7 $143 Rxf6 $19) Rb5 6. Nxe5 (6. Rd6 $143 Nc4+ $19) (6. Ra3 $143 Nc4+ $19) (6. Rd2 $143 Nc4+ $19) (6. Rc3 $143 Nd1+ 7. Kd2+ Nxc3 8. Kxc3 Kg3 9. Kc4 Ra5 10. Kb4 (10. Nc5 $144 Rxc5+ $19) Rd5 $19) Rxe5+ (Nxd3 $144 7. Nxd3 $11) 7. Kf3 (7. Kf4+ $143 Nxd3+ $19) Nxd3 $11 (Rf5+ $144 8. Ke4+ $11) 1/2-1/2
+
+[Event "4.p Tijdschrift v.d. KNSB"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/pP2k3/7r/1p6/1K6/7P/R7 w - - 0 1"]
+[PlyCount "15"]
+
+1. b7 $1 Rb5 2. Rxa6+ Kf7 (Kd7 $144 3. Rh6 Kc7 4. Kc4 Rg5 5. Rb6 $1 Kb8 6. Rxb4 $18) 3. Ra7 Kf6 4. h3 $3 (4. h4 $143 Kg6 5. h5+ Kh6 $11) Kg6 5. h4 Kh6 6. h5 $1 Kxh5 (Rb6 $144 7. Ra6 Rxa6 8. b8=Q $18) 7. Ra5 Rxa5 8. b8=Q $18 1-0
+
+[Event "2.p Aloni JT Chess in Israel"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan Hendrik"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/4p2K/2p3P1/P3Np1p/8/1P6/1p4Np/1bb5 w - - 0 1"]
+[PlyCount "19"]
+
+1. a6 (1. g7 $143 f4+ 2. Kh8 Bh7 $1 3. Kxh7 b1=Q+ 4. Kh8 Qxb3 5. a6 Be3 6. Nxe3 h1=Q 7. a7 Qa1 $1 $19) Be3 $1 2. Nxe3 h1=Q 3. a7 c5 4. g7 f4+ 5. Kh8 Bh7 6. Kxh7 b1=Q+ 7. Kh6 $1 Qbg1 (Qxb3 $144 {main} 8. Nd5 {Plachutta} Qbxd5 (Qhxd5 $144 {main} 9. g8=Q+ Qxg8 10. a8=Q+ Qb8 11. Qxb8#) 9. a8=Q+ Qxa8 10. g8=Q#) 8. Ng2 $1 {Novotny} Qhxg2 (Qgxg2 $144 {main} 9. a8=Q+ Qxa8 10. g8=Q#) 9. g8=Q+ Qxg8 10. a8=Q# 1-0
+
+[Event "Tijdschrift v.d. KNSB#175"]
+[Source "Tijdschrift v.d. KNSB/5"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan Hendrik"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2k5/Pp6/2P5/5pp1/P6p/6P1/6K1 w - - 0 1"]
+
+1. a7 $1 Kb7 2. cxb6 f3 3. g3 (3. gxf3 $2 gxf3 4. a4 Ka8 5. a5 Kb7 6. a6+ Ka8 7. b7+ Kxa7) (3. gxh3 $2 gxh3 4. a4 Ka8 5. a5 Kb7 6. a6+ Ka8) Ka8 4. a4 Kb7 5. a5 Ka8 6. a6 h2+ 7. Kxh2 f2 8. b7+ Kxa7 9. Kg2 1-0
+
+[Event "3.p Selman MT Schakend Nederland#1681"]
+[Source "Schakend Nederland/3 1979 EG#04021."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Marwitz, Jan Hendrik"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4r3/2p4P/3p4/2p3B1/6P1/6b1/2b3N1/R4K1k w - - 0 1"]
+
+1. Ra3 $1 Rf8+ (Kh2 2. Bf4 $1 Rf8 (Bxf4 3. Nxf4) 3. h8=Q+ Rxh8 4. Rxg3) 2. Nf4 $1 (2. Bf4 $2 Bxf4 3. h8=Q+ Rxh8 4. Nxf4 Be4) Kh2 $1 (Bxf4 3. h8=Q+ Rxh8 4. Bxf4) 3. Ra2 Bxf4 4. Rxc2+ (4. Bxf4+ $2 Rxf4+ 5. Ke1 $1 (5. Ke2 Rf8 6. Rxc2 Rh8) Re4+ (Rf8 $2 6. Rxc2+ Kg3 7. g5) 6. Kf2 Re8 7. Rxc2 Rh8 $1 8. Rd2 $1 (8. Kf3+ Kh3 9. Rc1 Kh4 10. Kf4 Rf8+ 11. Ke4 Kg5 $1 12. Rh1 Rh8) Kh3 $1 (Rxh7 9. Rd5 $1 Rf7+ 10. Rf5 $1) 9. Kf3 Rxh7 10. Rd5 Kh4 11. Kf4 Rf7+ 12. Rf5 Rxf5+ $1 13. gxf5 (13. Kxf5 c4) Kh5) (4. h8=Q+ $2 Rxh8 5. Bxf4+ Kh3 6. Rxc2 Kxg4) Bd2+ $1 (Kh3 5. Bxf4 Rxf4+ (Kxg4 6. Rg2+ Kf5 (Kxf4 7. Rf2+) 7. Rg8) 6. Kg1 $1) 5. Bf4+ $1 (5. Ke2 $2 Bxg5) Rxf4+ 6. Ke2 Rf8 7. Rxd2 Rh8 8. Kf3+ (8. Rd5 $2 Kg3) Kh3 (Kg1 {<main>} 9. Rd1+ Kh2 10. Rd5 Rxh7 11. Rh5+) 9. Rd5 Rxh7 10. Rh5+ Rxh5 11. gxh5 1-0

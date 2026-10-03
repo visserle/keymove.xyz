@@ -1,0 +1,25 @@
+[Event "source unknown"]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Chebotarev, Alexey Alexeevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3P4/2p2K2/7p/8/p4k1B/8 w - - 0 1"]
+
+1. Be5 $1 h3 2. d7 h2 3. d8=Q h1=Q 4. Qd2+ Kf1 5. Qd1+ Kg2 6. Qd5+ Kg1 7. Qxc5+ Kf1 8. Qc1+ Kg2 9. Qd2+ Kf1 10. Qd1+ Kg2 11. Qe2+ Kg1 (Kh3 12. Qg4#) 12. Bd4# 1-0
+
+[Event "Molodoj Leninets (Volgograd)"]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Chebotarev, Alexey Alexeevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/3r4/p7/Pb6/1P6/2K2kNR w - - 0 1"]
+
+1. Nh3+ $1 Kg2 2. Nf4+ Kxh1 3. Nxd5 Bxd5 4. b3 axb3 5. a4 Kg2 6. Kd2 Kf3 7. a5 Ke4 8. Kc3 1/2-1/2

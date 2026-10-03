@@ -1,0 +1,12 @@
+[Event "L'Échiquier de France#40"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Sychra, J"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7K/3P4/3N4/2b5/r2k4/8/8 w - - 0 1"]
+
+1. d7 $1 (1. Nb4+ $2 Ke4 2. Kg6 Ra7 3. Kf6 Rd7) (1. Nb6 $2 Ra7+ 2. Kg6 Ra6 3. Nc8 Be6) (1. Nf6 $2 Ra7+ 2. Kg6 Be6) (1. Kg6 $2 Bxd5 2. Kf6 Ra7 3. Ke5 Bc6) Ra7 (Ra8 2. Nb4+ Kc3 3. Nc6) 2. Nc7 Rxc7 3. Kh8 Rxd7 1/2-1/2

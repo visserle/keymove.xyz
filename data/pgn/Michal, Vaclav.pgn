@@ -1,0 +1,13 @@
+[Event "Ceskoslovensky Sach#325"]
+[Source "Ceskoslovensky Sach/4"]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Michal, Vaclav"]
+[White "Michal, V"]
+[Black " Hadac, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p2p1K1p/P2k4/P7/1P3p2/1P6/5P2/8 w - - 0 1"]
+
+1. b5 $1 Kc7 2. b6+ Kb8 (axb6 3. a7 Kb7 4. axb6 h5 5. Ke7 h4 6. Kxd7 h3 7. a8=Q+ Kxa8 8. Kc7) 3. Kf6 h6 (d6 4. Kf5 h5 5. Kg5 d5 6. Kxh5 d4 7. Kg4 d3 8. Kf3) 4. Kf5 d5 5. Ke5 h5 6. Kxd5 h4 7. Ke4 h3 8. Kf3 axb6 (Ka8 9. b7+ Kb8 10. b4 Kc7 11. b5 Kb8 12. b6 axb6 13. axb6 h2 14. a7+ Kxb7 15. Kg2) 9. axb6 Kc8 10. b4 Kb8 11. b7 Kc7 12. b5 Kb8 13. b6 h2 14. a7+ Kxb7 15. Kg2 1-0

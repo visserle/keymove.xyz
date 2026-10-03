@@ -1,0 +1,27 @@
+[Event "Schakend Nederland#1750"]
+[Source "Schakend Nederland/5 1980"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Van Atten, T"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6Bk/4p1pP/1p4P1/1P6/2K5/2P1P3/2P5/8 w - - 0 1"]
+
+1. Kd5 $1 e6+ (e5 2. c4 e4 3. c5 bxc5 4. Be6 c4 5. Bg4 c3 6. Bf3) 2. Kd6 e5 3. c4 e4 4. c5 bxc5 5. Be6 $1 c4 6. Bg4 c3 7. Bf3 exf3 8. b6 1-0
+
+[Event "Schakend Nederland#1757"]
+[Source "Schakend Nederland/6 1980"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Van Atten, T"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5B2/kP3P1p/3p1N1P/1p4P1/8/q5p1/6Pp/7K w - - 0 1"]
+
+1. b8=Q+ $1 Kxb8 2. Bxd6+ Qxd6 3. f8=Q+ Qxf8 4. Nd7+ Kc8 (Ka8 5. Nxf8 b4 6. Ne6 b3 7. Nc7+ Kb7 8. Nb5) (Kc7 5. Nxf8 b4 6. Ne6+ Kd6 7. Nd4 Ke5 8. g6 $1) (Ka7 5. Nxf8 b4 6. Ne6 b3 7. Nd4 b2 8. Nb5+ Kb6 9. Nc3) (Kb7 5. Nxf8 b4 6. Ne6 Kb6 7. Nd4 Kc5 8. g6) 5. Nxf8 b4 6. Ng6 $1 b3 7. Ne7+ Kd7 8. Nd5 Ke6 9. g6 $1 (9. Nc3 $2 Kf5 $1) b2 10. Nc3 Kf6 11. gxh7 1-0

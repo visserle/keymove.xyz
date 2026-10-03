@@ -1,0 +1,41 @@
+[Event "Deutsche Schachzeitung"]
+[Source "Deutsche Schachzeitung/12"]
+[Date "1983.??.??"]
+[Round "?"]
+[Composer "Koslowski, H. G."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "kn2K3/p2p4/2pP4/2P5/p1P2P2/P1P5/8/8 w - - 0 1"]
+
+1. f5 $1 Kb7 2. f6 Ka6 3. f7 Ka5 4. f8=N $1 (4. f8=Q $2 a6 5. Kf7) a6 5. Ne6 $1 (5. Nxd7 $2 Nxd7 6. Kxd7) dxe6 6. Kd8 e5 7. Kc8 e4 8. Kxb8 e3 9. d7 e2 10. d8=Q# 1-0
+
+[Event "Schach Echo"]
+[Source "Schach Echo/8"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Koslowski, H. G."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "kn3K2/p2p4/P1pP4/2P5/p1P5/P1P3p1/5P2/8 w - - 0 1"]
+
+1. fxg3 $1 Nxa6 2. g4 $1 (2. Ke7 $2 Nb8 3. g4 Kb7 4. g5 Ka6 5. g6 Ka5 6. g7 a6 7. g8=Q) Nb8 $1 (Nxc5 3. Ke7 Kb8 4. g5 Kc8 5. g6 Ne6 6. Kf7 Kd8 7. g7 Nxg7 8. Kxg7 Ke8 9. Kg8) 3. g5 Kb7 4. g6 Ka6 5. g7 Ka5 6. g8=Q $1 (6. g8=B $2 Na6 $1 7. Be6 Nxc5 8. Bh3 Kb6 9. Ke7 Nb7 10. Bxd7 Kc5 11. Be6 Nxd6) a6 7. Qe6 $1 dxe6 8. Ke8 e5 9. Kd8 e4 10. Kc8 e3 11. Kxb8 e2 12. d7 e1=Q 13. d8=Q# 1-0
+
+[Event "Deutsche Schachzeitung"]
+[Source "Deutsche Schachzeitung/8"]
+[Date "1985.??.??"]
+[Round "?"]
+[Composer "Koslowski, H. G."]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K6/1P4r1/1k4p1/R7/6P1/6P1/8/8 w - - 0 1"]
+
+1. Ka8 $1 Rxb7 (Rg8+ 2. b8=Q+ Rxb8+ 3. Kxb8 Kxa5 4. Kc7) 2. Rb5+ Kxb5 3. Kxb7 Kc5 (Kc4 4. Kc6 Kd4 5. Kd6 Ke4 6. Ke6 Kf3 7. g5) 4. Kc7 Kd5 5. Kd7 Ke5 6. Ke7 Ke4 7. Kf6 Kf3 8. g5 1-0

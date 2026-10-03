@@ -1,0 +1,131 @@
+[Event "1.p Shakhmatna Misl#28"]
+[Source "Shakhmatna Misl/3 EG#08468."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Minev, Nikolai Nikolaev"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "R4bk1/4p3/4PpK1/7P/1p4p1/5r2/6b1/n3R3 w - - 0 1"]
+
+1. Rd1 $1 Rd3 2. Rxf8+ Kxf8 3. Rxd3 Be4+ (Bc6 4. Rd8+ Be8+ 5. Rxe8+ Kxe8 6. h6) 4. Kh6 Bc6 (Bxd3) 5. Rd8+ Be8 6. Rd4 Nb3 (b3 7. Rxg4 b2 8. Rg8+ Kxg8) 7. Rxg4 Nc5 $1 8. Rg8+ Kxg8 1/2-1/2
+
+[Event "1.p Shakhmatna Misl#28 (v)"]
+[Source "Shakhmatna Misl/3 EG#03783."]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Minev, Nikolai Nikolaev"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "R4bk1/4p3/4PpK1/7P/1p4p1/5r2/6b1/4R3 w - - 0 1"]
+
+1. Rd1 $1 Rd3 2. Rxf8+ Kxf8 3. Rxd3 Be4+ 4. Kh6 Bc6 (Bxd3) 5. Rd8+ Be8 6. Rd4 b3 7. Rxg4 b2 8. Rg8+ Kxg8 1/2-1/2
+
+[Event "source unknown"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Minev, Nikolai Nikolaev"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/7b/5k2/5n1K/6R1/6p1/8 w - - 0 1"]
+
+1. Rxg2 $1 Nxg2+ 2. Kh5 Bf8 1/2-1/2
+
+[Event "Encyclopedia of Chess Endings Vol. I#11"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Minev, Nikolai Nikolaev"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3k4/1p6/1p2K3/8/2P5/8 w - - 0 1"]
+
+1. Kd4 $1 Kc6 2. c4 $1 (2. c3 $2 b3 3. Kd3 Kc5 4. Kd2 Kc4) (2. Ke3 $2 Kd5 3. Kd3 Kc5 4. Kd2 (4. c3 b3) Kc4 5. Kc1 Kc3 $1 (b3 6. Kb2 bxc2 7. Kxc2 Kb4 8. Kb2) 6. Kb1 b3 7. Kc1 b2+ 8. Kb1 b4 9. Ka2 b3+ 10. cxb3 Kc2) Kb6 (b3 3. cxb5+ Kxb5 4. Kc3) 3. Kd3 $1 b3 (Kc5 4. cxb5) 4. cxb5 (4. c5+ $2 Kxc5 5. Kc3 b2 6. Kc2 Kc4 7. Kxb2 Kb4) Kxb5 5. Kc3 1/2-1/2
+
+[Event "Encyclopedia of Chess Endings Vol. I#12"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Minev, Nikolai Nikolaev"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3Kpk1p/3p4/3P2P1/8/8/8/8 w - - 0 1"]
+
+1. Kc6 $1 (1. Kd8 $2 e6) (1. Kc7 $2 Ke8 $1 2. Kc6 (2. Kc8 e5) Kd8 3. Kb5 Kd7 4. Kc4 e6) e5 (e6 2. Kxd6 exd5 3. Kxd5 Kg6 4. Ke4) (Kg6 2. Kd7 Kf5 (Kxg5 3. Kxe7 h5 4. Kxd6 h4 5. Kc7) 3. Kxe7 Ke5 4. Kf7 Kf5 5. Ke7) (Ke8 2. Kc7 e5 3. Kxd6 e4 4. Kc7 e3 5. d6 e2 6. d7+ Kf7 7. d8=Q e1=Q 8. Qf6+) 2. Kxd6 e4 3. Kc6 (3. Kc7 $2 e3 4. d6 e2 5. d7 e1=Q 6. d8=Q Qa5+) e3 (Ke8 4. Kc7) 4. d6 e2 5. d7 e1=Q 6. d8=Q Qc3+ (Qe6+ 7. Kc5 Kg6 8. Qf6+) 7. Kb5 Kg6 8. Qg8+ Qg7 9. Qxg7+ Kxg7 10. Kc4 1/2-1/2
+
+[Event "Encyclopedia of Chess Endings Vol. I#11"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Minev, Nikolai Nikolaev"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1kp5/2p5/8/1P6/3K4/8/8 w - - 0 1"]
+
+1. Kd4 $1 (1. Kc4 $2 Kb6) (1. Kc3 $2 Ka6 2. Kc4 Kb6 3. Kc3 Kb5 (c5 $2 4. Kc4 cxb4 5. Kxb4 Kc6 6. Kc4) 4. Kb3 c5 5. bxc5 Kxc5 6. Kc3 c6) Kc8 (Kb6 2. Kc4 Ka6 3. Kc5 Kb7 4. b5 cxb5 5. Kxb5) 2. Kc5 Kd7 3. Kd4 Kd6 4. Kc4 1/2-1/2
+
+[Event "Encyclopedia of Chess Endings Vol. I#12"]
+[Date "1982.??.??"]
+[Round "?"]
+[Composer "Minev, Nikolai Nikolaev"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3k1p1p/5P1P/3K2P1/8/8/8/8 w - - 0 1"]
+
+1. Ke5 $1 Ke8 (Kc6 2. g6) 2. Kd6 Kf8 (Kd8 3. g6 fxg6 4. f7) 3. Kd7 Kg8 4. Ke7 Kh8 5. g6 hxg6 6. Kxf7 1-0
+
+[Event "source unknown"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Minev, Nikolai Nikolaev"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/4p3/7K/5k2/R7 w - - 0 1"]
+
+1. Ra2+ $1 Kf3 2. Ra8 e3 3. Rf8+ Ke2 4. Kg2 1-0
+
+[Event "source unknown"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Minev, Nikolai Nikolaev"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/K4k2/1Pp4r/8/8/8/8/8 w - - 0 1"]
+
+1. b7 $1 Rh1 2. Kb6 $1 c5 3. Kxc5 Rb1 4. Kc6 Ke7 5. Kc7 Rc1+ 6. Kb6 1/2-1/2
+
+[Event "source unknown"]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Minev, Nikolai Nikolaev"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/1k6/4K3/1p6/7p/PpR3p1/1P6/8 w - - 0 1"]
+
+1. Kd7 $1 g2 2. Rc7+ Kb6 3. Rc6+ Kb7 4. Rc7+ 1/2-1/2

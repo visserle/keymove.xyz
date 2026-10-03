@@ -1,0 +1,13 @@
+[Event "Problemista#2378"]
+[Source "Problemista/1-3"]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Kozłowski, Leszek"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/2pK4/p7/2P5/kP6/P7/8 w - - 0 1"]
+
+1. Kc5 $1 Kxa2 2. b4 axb4 (a4 {<main>} 3. b5 cxb5 4. cxb5 a3 5. b6 Kb2 6. b7 a2 7. b8=Q+ Kc2 8. Qh2+ Kb1 9. Kb4 a1=Q 10. Kb3) 3. Kxb4 Kb2 4. c5 Kc2 5. Ka5 Kc3 6. Kb6 1-0

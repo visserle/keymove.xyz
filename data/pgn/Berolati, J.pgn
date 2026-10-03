@@ -1,0 +1,12 @@
+[Event "Enroque"]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Berolati, J"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r1n1b1k1/2Ppb1P1/1p1p1QP1/1P3Pp1/2P5/8/p4K2/8 w - - 0 1"]
+
+1. Qa1 $1 Ra3 2. f6 Rh3 3. fxe7 g4 4. Kg2 Bxg6 5. Qf6 Be4+ 6. Kf2 Rf3+ 7. Qxf3 Bxf3 8. e8=Q+ Kxg7 9. Qxd7+ Kg6 10. Qe6+ Kg5 11. Qe3+ 1-0

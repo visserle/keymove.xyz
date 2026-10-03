@@ -1,0 +1,41 @@
+[Event "3.hm Roycroft JT EG"]
+[Source "EG/7 1979 EG#03804."]
+[Date "1978.??.??"]
+[Round "?"]
+[Composer "Melnikov, A"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/B7/p7/6p1/2P1k3/7K w - - 0 1"]
+
+1. Kg2 $1 (1. Kg1 $2 a3 2. Bd8 a2 3. Bf6 Ke3) a3 2. Bd8 (2. Bb6 $2 a2 3. Bd4 Kd2 4. c4 Kd3) (2. Bc7 $2 a2 3. Be5 Ke3 4. Kxg3 Kd2 5. c4 Kd3 6. c5 Ke4) a2 3. Bf6 Ke3 4. Kxg3 Kd2 5. c4 Kd3 6. c5 Ke4 7. c6 Kf5 8. c7 Kxf6 9. c8=Q a1=Q 10. Qh8+ 1-0
+
+[Event "Sachové Umenie#5439"]
+[Source "Sachové Umenie/7"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Melnikov, A"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/P1b3k1/7p/5p2/1B5K/8 w - - 0 1"]
+
+1. Be5 $1 Kg4 2. a6 h3 3. Bg3 Bg1+ (Bd6 4. Bxd6 f2 5. a7 f1=Q 6. a8=Q) 4. Kh1 Kxg3 5. a7 Bxa7 1/2-1/2
+
+[Event ".c Magyar Sakkélet#1490"]
+[Source "Magyar Sakkélet/11 EG#04863."]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Melnikov, A"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/8/2P3KP/8/3n3k/8/8 w - - 0 1"]
+
+1. c6 $1 Ne5 2. c7 Nf7+ 3. Kf6 (3. Kf5 {<or>}) Nd6 4. Ke6 $1 Nc8 5. h6 $1 Kg4 6. Kf6 $1 Nd6 7. Kg7 Ne8+ 8. Kxh7 Nxc7 9. Kg8 Ne8 10. Kf7 Nd6+ 11. Kg6 1-0

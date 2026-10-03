@@ -1,0 +1,12 @@
+[Event "Pester Lloyd"]
+[Date "1912.10.27"]
+[Round "?"]
+[Composer "Sermeziev"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7b/2k1K3/8/8/8/1p6/1P5P/2B5 w - - 0 1"]
+
+1. h4 $1 Kc6 2. h5 Kd5 3. h6 Kc4 4. h7 Be5 5. Kf7 Bd4 6. Kg8 Kd3 7. Bh6 Bxb2 8. Bg7 Bxg7 9. Kxg7 b2 10. h8=Q b1=Q 11. Qh7+ 1-0

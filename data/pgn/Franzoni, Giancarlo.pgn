@@ -1,0 +1,13 @@
+[Event "Schweizerische Schachzeitung#157"]
+[Source "Schweizerische Schachzeitung/10"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Franzoni, Giancarlo"]
+[White "Franzoni, G"]
+[Black " Neuenschwander, B."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4B3/8/8/p5p1/P1pp2k1/P6N/7K w - - 0 1"]
+
+1. Bb4 $1 (1. Bg5 $2 Kf2 $1 (d2 $2 2. Bxd2 cxd2 3. Nf1+) 2. Nxg4+ Ke2 3. Kg2 d2 4. Ne3 c2) d2 (c2 2. Be1+ $1 Kf4 3. Bd2+) 2. Nf1+ Kh4 $1 (Kf2 3. Nxd2 c2 4. Ne4+ Ke3 5. Bd2+ Kxe4 6. Kg2 Kd3 7. Bh6 Ke2 8. Kg3 Kd1 9. Kxg4 c1=Q 10. Bxc1 Kxc1 11. Kf3 Kb2 12. Ke2 Kxa3 13. Kd2 Kxa2 14. Kc2) (Kf4 3. Nxd2 c2 4. Nf1 c1=Q 5. Bd2+) (Kh3 3. Ne3 d1=Q+ 4. Nxd1 c2 5. Nf2+) (Kf3 3. Nxd2+) 3. Nxd2 (3. Ne3 $2 d1=Q+ 4. Nxd1 c2) c2 $1 4. Nf3+ $1 Kg3 (gxf3 5. Bd2 Kg3 6. Kg1) 5. Ng1 $1 (5. Bd2 $2 Kxf3 6. Kh2 Ke2 7. Bh6 Kd1) c1=Q 6. Be1+ $1 Qxe1 (Kf4 7. Ne2+) 1/2-1/2

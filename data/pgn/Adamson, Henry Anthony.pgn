@@ -1,0 +1,114 @@
+[Event "?"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "Adamson, Henry Anthony"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/4K3/8/2p3p1/8/8/1P2k2P/8 w - - 0 1"]
+
+1. Kd6 (1. Kf6 $2 Kd3 2. Kxg5 Kc2 3. h4 Kxb2 4. h5 c4 5. h6 c3 6. h7 c2 7. h8=Q+ Kb1 $10) (1. Ke6 $2 g4 2. b3 $10) (1. b3 $2 g4 2. Kd7 $10) (1. h3 $2 c4 2. Kd7 $10) (1. Kf7 $2 c4 2. h3 $10) (1. Ke8 $2 c4 2. Ke7) (1. Kd8 c4 2. Ke7) (1. Kd7 c4 2. Ke7) (1. Kf8 c4 2. Ke7) Kf3 (c4 2. Kd5 (2. Kc5 $2 c3 3. bxc3 $10) (2. Ke5 $2 g4 3. Kd5 $10) (2. h3 $2 Kd2 3. Kc6 $10) (2. b4 cxb3) (2. b3 cxb3) Kd3 3. h3 $3 $18 (3. Ke5 $2 g4 4. Kd5 $10) (3. Kc5 $2 g4 4. Kb5 $10) (3. Kc6 $2 g4 4. Kd5) (3. Ke6 g4 4. Kd5)) 2. Kxc5 (2. Ke6 $2 Kg4 3. b3) (2. Ke5 $2 c4 3. h3) (2. b3 $2 g4 3. Ke6) (2. Kd5 $2 g4 3. Ke5) (2. h3 $4 Kg3 3. Kxc5 Kxh3) (2. Kc6 $4 g4) (2. h4 gxh4) Kg2 3. b4 (3. Kd4 $4 g4) (3. Kd5 $2 g4 4. b4) (3. b3 $4 g4) (3. Kc4 g4 4. b4) Kxh2 4. b5 (4. Kd4 $4 g4 $19) (4. Kb5 g4) (4. Kd5 g4 5. b5) g4 5. b6 (5. Kd4 $4 g3) (5. Kb4 g3 6. b6) g3 6. b7 g2 7. b8=Q+ $18 (7. Kc6 g1=Q 8. b8=Q+) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Adamson, Henry Anthony"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/8/1p3k1p/8/P5pP/6P1/3K4/8 w - - 0 1"]
+
+1. Ke3 (1. Kd3 $2 Ke5 2. h5 $10) (1. Kc3 $2 Ke5 2. Kd3 $10) (1. Kd1 $4 Ke5 $19) (1. Ke1 $4 Ke5 $19) (1. h5 $2 Ke6 2. Ke3 $10) (1. Ke2 $2 Ke5 2. Kd3 $10) (1. Kc2 $2 Ke6 2. h5 $10) (1. Kc1 Ke5) Ke5 2. h5 (2. Kd3 $2 Kd5 3. h5 $10) (2. Kf2 $4 Ke4) (2. Ke2 Kd4) (2. a5 bxa5) (2. Kd2 Ke4) Kf5 3. Kd4 (3. Kd3 $6 Ke5 4. Ke3 $18) (3. Kf2 $4 Ke4) (3. Ke2 $4 Ke4) Kg5 4. Ke5 (4. Ke4 Kf6 5. Kf4 $18) (4. Ke3 Kxh5 5. Kf4 $10) Kxh5 5. Kf6 (5. Kf5 b5 6. a5 $18) (5. Kf4 $4 Kg6 6. Kxg4 h5+ 7. Kf4 $10) (5. Kd6 $4 Kg5 $19) (5. Kd5 $4 Kg5) (5. Ke6 $4 Kg5) (5. Kd4 $4 Kg5) (5. Ke4 Kg5) b5 6. a5 (6. axb5 $4) (6. Kf5 bxa4) b4 7. a6 b3 8. a7 b2 9. a8=Q (9. a8=R $18) (9. Ke5 b1=Q) (9. Kf5 b1=Q+ 10. Ke5 Qa1+) b1=Q 10. Qe8+ Qg6+ 11. Qxg6# 1-0
+
+[Event "The Chess Amateur#0338"]
+[Source "The Chess Amateur/9"]
+[Date "1915.??.??"]
+[Round "?"]
+[Composer "Adamson, Henry Anthony"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/pp6/kp6/2p5/K1P5/1P6/8 w - - 0 1"]
+
+1. b4+ $1 cxb3 2. Kxb3 b4 3. c4 b5 4. c5 1/2-1/2
+
+[Event "The Chess Amateur"]
+[Source "The Chess Amateur/1 after a game."]
+[Date "1921.??.??"]
+[Round "?"]
+[Composer "Adamson, Henry Anthony"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1p6/5p1p/p5p1/2KNk1P1/1P4P1/8 w - - 0 1"]
+
+1. Nf4 $1 h4 (Kf2 2. Nxh5 Kxg2 3. Kd4 Kf3 4. Kc4) 2. Nd5+ Kf2 (Ke4 3. Nf6+ Ke5 4. Nxg4+ fxg4 5. gxh4 g3 $1 6. h5 Kf5 7. Kb4 Kg5 8. Kxa4 Kxh5 9. Kb5) 3. gxh4 Kxg2 4. h5 Kf3 $1 5. h6 g3 6. Ne3 $1 Kxe3 7. h7 g2 8. h8=Q g1=Q 9. Qd4+ Ke2 10. Qxg1 1-0
+
+[Event "The Chess Amateur (m)"]
+[Source "The Chess Amateur/1 after Reti=R h8a6 1921. (m): Zinar=M Archakov=V Garmonia Peshechnogo Etyuda#024a 1990."]
+[Date "1922.??.??"]
+[Round "?"]
+[Composer "Adamson, Henry Anthony"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/k1P5/p7/8/7K/8/8 w - - 0 1"]
+
+1. Kg4 $1 a4 2. Kf5 $1 (2. Kf4 $2 a3 $1) a3 (Kb6 {<main>} 3. Ke5 $1 Kxc6 (a3 4. Kd6 a2 5. c7) 4. Kd4) 3. Ke6 a2 4. c7 Kb7 5. Kd7 1/2-1/2
+
+[Event "The Chess Amateur"]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Adamson, Henry Anthony"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/6p1/6K1/5P1P/8/8/8/8 w - - 0 1"]
+
+1. Kf7 $1 Kh7 2. Kf8 Kh8 3. h6 g5 4. f6 1-0
+
+[Event "The Chess Amateur#1200 (cr)"]
+[Source "The Chess Amateur/7 after Prokop=F f7a8 1924."]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Adamson, Henry Anthony"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/7p/7P/1p6/1P6/3k4/7K/8 w - - 0 1"]
+
+1. Kh3 $1 Kd4 (Kc4 2. Kg4 Kxb4 3. Kf5) 2. Kh4 Kd5 3. Kg3 $1 (3. Kh5 $2 Kd6) 1/2-1/2
+
+[Event "The Chess Amateur#1199"]
+[Source "The Chess Amateur/7 after Prokop=F f7a8 1924."]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Adamson, Henry Anthony"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/k7/8/6p1/6P1/p7/P7/8 w - - 0 1"]
+
+1. Ke7 $1 Ka6 2. Ke6 Ka5 3. Ke5 Ka4 4. Ke4 Kb5 5. Kd5 Kb4 6. Kd4 Kb5 7. Kc3 1-0

@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Filaretov, Sergey"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Other ideas and conjunction of ideas"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "8/4Kp1k/4B3/5P2/8/8/8/3n4 w - - 0 1"]
+
+1. f6 (1. Kxf7 $2 Nf2 2. f6 Ne4 3. Bf5+ Kh8 4. Bxe4) (1. Bxf7 $2 Ne3 2. f6 $10) (1. Kf8 $2 Kh8 2. f6 fxe6 $4 (Nf2 $5) 3. f7) (1. Kf6 $2 fxe6 2. fxe6) (1. Bb3 $2 Nc3 2. f6 Nd5+ $4 (Kh8 $5) 3. Bxd5) (1. Bd5 $2 f6 2. Be4) Nf2 (Ne3 2. Kxf7 $1 $18 (2. Bxf7 $2 Nf5+ 3. Kd7 $10) (2. Kf8 $2 fxe6 3. f7 $10) (2. Bf5+ $2 Nxf5+ 3. Kxf7 Nh6+ 4. Ke7) (2. Ke8 $2 Kh8 3. Bf5 Nxf5 4. Kxf7 Nh6+ 5. Ke7) (2. Bd7 $2 Nd5+ 3. Kxf7 Nxf6 4. Be6) (2. Kd8 $2 Ng2 3. Bf5+)) 2. Bxf7 (2. Kxf7 $2 Ne4 3. Bf5+ $10) (2. Bf5+ $2 Kh8 3. Bg4 $10 Nxg4 4. Kxf7 Nxf6 5. Ke7) (2. Bd7 $2 Kg6 3. Be6) (2. Bg4 $2 Nxg4 3. Kxf7 Nxf6 4. Ke7 Nd5+ 5. Kd7) (2. Bh3 $2 Nxh3 3. Kxf7 Ng5+ 4. Ke7) (2. Kf8 $2 fxe6 3. f7) (2. Kd7 Kh6 3. Bf5) Ng4 3. Bg6+ (3. Bg8+ $2 Kh8 $1 4. f7 Ne5 $10) (3. Be6 $2 Nxf6 4. Bf5+ $10) (3. Kf8 $2 Nxf6 4. Bg6+ $10) (3. Bh5 $2 Nxf6 4. Bg6+) (3. Be8 $2 Nxf6 4. Bf7) (3. Ke6 $2 Nxf6 4. Bg6+) (3. Ke8 $2 Nxf6+ 4. Ke7) Kh8 4. f7 (4. Bh5 Nxf6 5. Bg6) Nh6 $1 5. f8=B $18 (5. f8=Q+ $2 Ng8+ 6. Qxg8+ Kxg8 7. Bh5 $10) (5. f8=R+ $2 Kg7 6. Bc2 Ng8+ 7. Ke8 Nf6+ $10) (5. f8=N $2 Ng8+ 6. Kd7 $10) (5. Kf6 $2 Ng8+ 6. fxg8=Q+ Kxg8 7. Bh5) (5. Bh7 $2 Nxf7 6. Bg8 Kxg8 7. Kd7) (5. Bf5 $2 Ng8+ 6. fxg8=Q+ Kxg8 7. Bg4) (5. Bh5 Ng8+ 6. fxg8=Q+ Kxg8 7. Kf6) (5. Ke8 Nxf7 6. Bh5) (5. Kf8 Nf5 6. Bh5) 1-0

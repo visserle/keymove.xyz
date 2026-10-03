@@ -1,0 +1,54 @@
+[Event "source unknown"]
+[Date "1913.??.??"]
+[Round "?"]
+[Composer "Crum, John"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/P7/8/4k3/8/4P3/3K4 w - - 0 1"]
+
+1. Ke1 $1 Ke3 2. Kf1 $1 Kd4 3. Kf2 Kc5 4. e4 $1 Kb6 5. e5 Kc5 6. Ke3 Kd5 7. Kf4 Ke6 8. Ke4 Ke7 9. Kd5 Kd7 10. e6+ Ke7 11. Ke5 Ke8 12. Kd6 Kd8 13. Kc6 $1 Ke7 14. Kb7 Kxe6 15. Kxa7 1-0
+
+[Event "Glasgow Weekly Citizen"]
+[Source "also Deutsche Schachzeitung#1389 Deutsche Schachzeitung/1 1913."]
+[Date "1913.??.??"]
+[Round "?"]
+[Composer "Crum, John"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/P7/8/8/4k3/4P3/4K3 w - - 0 1"]
+
+1. Kf1 $1 Kd4 2. Kf2 Kc5 3. e4 Kd4 4. Kf3 Ke5 5. Ke3 Ke6 6. Kd4 Kd6 7. e5+ Ke6 8. Ke4 Ke7 9. Kd5 Kd7 10. e6+ Ke7 11. Ke5 Ke8 12. Kd6 Kd8 13. Kc6 1-0
+
+[Event "British Chess Magazine#178"]
+[Source "British Chess Magazine/12"]
+[Date "1914.??.??"]
+[Round "?"]
+[Composer "Crum, John"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/5p2/8/4P3/2K1P3/8/8/8 w - - 0 1"]
+
+1. e6 $1 fxe6 (Ke7 2. exf7 Kxf7 3. Kd5) (f6 2. Kc5 Ke7 3. Kd5 Ke8 4. Kd6 Kd8 5. e7+ Ke8 6. Ke6 f5 7. Kxf5 Kxe7 8. Ke5) 2. e5 $1 Kf7 (Ke7 3. Kc5 Kd7 4. Kb6) 3. Kc5 Kg6 4. Kc6 Kg5 5. Kd7 (5. Kd6 $2 Kf5) Kf5 6. Kd6 1-0
+
+[Event "British Chess Magazine#220"]
+[Source "British Chess Magazine/5"]
+[Date "1916.??.??"]
+[Round "?"]
+[Composer "Crum, John"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k1K5/8/8/p4P2/P7/8/3P1n2/8 w - - 0 1"]
+
+1. Kd7 $1 (1. Kc7 $2 Ng4 2. Kb6 Nf6 3. Kxa5 Kb7 4. Kb5 Ne4 5. Kb4 Kc6 6. d3 Nc5 7. d4 Ne4 8. a5 Kd5) Ne4 (Ng4 2. Ke6) (Nd3 2. f6) 2. Ke7 Kb7 3. f6 Ng5 4. f7 Nh7 5. f8=Q Nxf8 6. Kxf8 Kc6 7. Ke7 Kc5 8. Ke6 Kd4 (Kc4 9. Kd6 Kd4 10. Kc6 Kc4 11. Kb6 Kb4 12. d4) 9. Kd6 Kc4 10. Kc6 Kb4 11. Kd5 Kxa4 12. Kc4 Ka3 13. d4 a4 14. d5 Kb2 15. d6 a3 16. d7 a2 17. d8=Q a1=Q 18. Qd2+ Kb1 19. Kb3 $1 1-0

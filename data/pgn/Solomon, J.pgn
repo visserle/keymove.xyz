@@ -1,0 +1,12 @@
+[Event "Chess#164"]
+[Date "1939.06.20"]
+[Round "?"]
+[Composer "Solomon, J"]
+[White "Solomon, J"]
+[Black " Butterworth, J."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2r5/8/8/8/8/3K4/p2Q4/k7 w - - 0 1"]
+
+1. Qe1+ $1 Kb2 2. Qb4+ Kc1 3. Qd4 Kb1 4. Qb6+ (4. Qg1+ $2 Rc1) Ka1 5. Qg1+ Kb2 6. Qg7+ Ka3 7. Qa7+ Kb3 8. Qb7+ Ka3 9. Qxc8 a1=Q 10. Qa6+ Kb2 11. Qb5+ Kc1 12. Qc4+ Kb2 13. Qb4+ Ka2 14. Kc2 1-0

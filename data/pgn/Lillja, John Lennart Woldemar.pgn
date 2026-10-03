@@ -1,0 +1,13 @@
+[Event "Deutsche Schachzeitung#1706 (c)"]
+[Source "Deutsche Schachzeitung/10 (c): Breider=B."]
+[Date "1923.??.??"]
+[Round "?"]
+[Composer "Lillja, John Lennart Woldemar"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1N6/6p1/p2p4/P2p2Pk/B7/Kp2p3/6PP/8 w - - 0 1"]
+
+1. Be8+ $1 g6 $1 (Kxg5 2. Nc6 $1 e2 3. Nd4 $1 e1=Q 4. Nf3+) 2. g4+ $1 Kxg4 (Kh4 3. Nc6 e2 4. Nd4 e1=Q 5. Nf3+) 3. Bd7+ Kf4 (Kf3 4. h3 $1 e2 5. Bg4+) 4. Nxa6 e2 5. Nb4 $1 Ke4 6. Nd3 $1 Kxd3 7. Bb5+ Kc2 8. Bxe2 b2 9. Bd3+ 1-0

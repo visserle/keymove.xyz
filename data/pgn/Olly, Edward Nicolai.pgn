@@ -1,0 +1,12 @@
+[Event "The Brooklyn Daily Eagle"]
+[Date "1895.02.28"]
+[Round "?"]
+[Composer "Olly, Edward Nicolai"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/P7/1P1p4/7p/2P3p1/6K1/8/8 w - - 0 1"]
+
+1. Kf4 $1 Kb7 2. c5 $1 dxc5 3. Ke5 g3 4. Kd6 g2 5. a8=Q+ Kxa8 6. Kc7 g1=Q 7. b7+ Ka7 8. b8=Q+ Ka6 9. Qb6# 1-0

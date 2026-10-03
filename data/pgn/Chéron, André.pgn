@@ -1,0 +1,407 @@
+[Event "Journal de Genève"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/3K4/p7/6p1/5k1p/5B2/6P1/8 w - - 0 1"]
+[PlyCount "17"]
+
+1. Bc6 $1 (1. Kd6 $143 h3 2. Bd5 h2 3. g4 a5 4. Kc5 Kxg4 $19) (1. Be2 $143 a5 2. Bb5 g4 3. Kd6 h3 4. gxh3 g3 5. Bc6 a4 $19) (1. Bd5 $143 a5 2. Kc6 (2. Bc6 $144 Ke5 $1 3. Kc7 g4 4. Kb6 Kd6 $1 5. Bb5 h3 6. gxh3 gxh3 7. Bc6 h2 $19) a4 3. Kc5 Ke5 $1 4. Bc4 a3 5. Kb4 Kd4 $1 6. Be6 g4 7. Kxa3 h3 8. gxh3 g3 $19) Ke5 $1 (a5 $144 2. Kd6 $11 {simple draw}) 2. Kc7 (2. Ke7 $143 g4 $19) a5 $1 (g4 $144 3. Kb6 Kd6 4. Ba8 $11 {easy draw}) 3. Bd7 $3 (3. Kb6 $143 Kd6 $1 4. Bb5 g4 5. Kxa5 g3 (h3 $143 6. gxh3 gxh3 7. Kb6 $11) 6. Bf1 Kc5 7. Ka6 Kd4 8. Kb6 Ke3 9. Kc5 Kf2 $19) Kd5 $1 4. Kb7 $3 (4. Kd8 $143 Kd4 5. Ke8 (5. Kc7 $144 Kc5 $1 $19 {Diagramme # zz1W} 6. Bc6 (6. Kb7 $144 Kb4 7. Kc6 a4 8. Kd6 a3 9. Be6 g4 $19) (6. Kd8 $144 Kb4 7. Ke7 a4 8. Kf6 a3 9. Be6 g4 $19) g4 $19) (5. Ke7 $144 Ke5 {Diagramme # zz2W} 6. Kf7 Kf4 7. Kg6 (7. Ke6 $144 g4 8. Kd6 h3 9. gxh3 g3 10. Bc6 a4 $19) g4 8. Kh5 h3 9. gxh3 g3 $19) (5. Kc8 $144 Ke3 $19) Ke4 $1 (Ke5 $143 6. Ke7 $11 {Diagramme # zz2B} Kf4 (Kd4 $144 7. Kf6 $11) (Kd5 $143 7. Kf6 $18) 7. Kd6 g4 8. Kc5 $11) 6. Bc6+ (6. Kf7 $144 Kf4 $19) (6. Ke7 $144 Ke5 $19 {zz2B}) Ke5 $1 7. Bd7 Kf4 8. Ke7 g4 9. Kd6 h3 10. gxh3 g3 11. Bc6 a4 $19) (4. Bc6+ $143 Kc4 $1 (Kc5 $143 5. Bd7 {Diagramme # zz1B} Kb4 (Kd4 $144 6. Kb6 Ke3 7. Kxa5 Kf2 8. Bc6 $11) (Kd5 $144 6. Kb7 $1 {main line of the study} Kc4 (Kc5 7. Kc7 {no progress}) (Kd6 7. Kc8 $1 {no progress}) 7. Kc6 $11) (Kc4 $144 6. Be6+ (6. Kd6 $143 Kd4 7. Kc6 (7. Ke6 $144 g4 $19) (7. Ke7 $144 Ke5 $19 {Diagramme # zz2W}) (7. Kc7 $144 Kc5 $19 {Diagramme # zz1W}) a4 $19) (6. Kc6 $144 a4 (Kb4 $144 7. Kd5 a4 8. Bxa4 Kxa4 9. Ke4 $11) (Kd4 $144 7. Kb5 $11) 7. Kd6 a3 8. Ke5 $11) Kd4 $1 7. Kb6 (7. Bd7 $144 Kc5 $19 {Diagramme # zz1W}) a4 8. Kb5 a3 9. Kb4 g4 10. Kxa3 h3 $19) 6. Kd6 a4 7. Bxa4 Kxa4 8. Ke5 $11) 5. Kd6 (5. Kb6 $144 Kb4 $19) (5. Bd7 $144 Kc5 $19 {Diagramme # zz1W}) g4 6. Ke5 (6. Bd7 $144 h3 7. gxh3 g3 8. Bc6 a4 $19) Kc5 $1 7. Be4 h3 8. gxh3 gxh3 9. Kf4 Kd4 $1 10. Bc6 h2 11. Kg3 a4 $19) (4. Kb6 $143 Kd6 $1 5. Bc6 (5. Bb5 $144 g4) g4 $19 {See move 3 note}) (4. Kb8 $143 Kc4 5. Be6+ (5. Kc7 $144 Kc5 $19 {Diagramme # zz1W}) (5. Kc8 $144 Kb4 $19) (5. Kb7 Kb4 $19) Kd4 6. Bd7 Ke3 $19) (4. Kc8 $143 Kc4 $19) Kc4 (Kc5 $144 5. Kc7 $1 $11 {Diagramme # zz1B}) (Kd6 $144 5. Kc8 $1 Ke5 (Kc5 $144 6. Kc7 $11 {Diagramme # zz1B}) 6. Kc7 Kf4 7. Kd6 g4 8. Kc5 $11) 5. Kc6 $1 a4 6. Kd6 a3 7. Ke5 $1 Kd3 8. Be6 Ke3 9. Kf5 $11 1/2-1/2
+
+[Event "Journal de Genève"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/K7/1B1p1k2/P1p5/8/n7/8/8 w - - 0 1"]
+[PlyCount "27"]
+
+1. Bd8+ $1 (1. Kb7 $143 Ke6 2. Kc6 (2. a6 $144 Nb5 3. Kc6 Nd4+ 4. Kb7 $11) Nc2 $11) (1. a6 $143 Nb5+ 2. Kb7 Ke6 3. Bd8 (3. Kc6 $144 Nd4+ $11) Kd5 4. Kb6 Kc4 $11) Ke6 2. a6 (2. Kb7 $143 Kd5 3. a6 Nb5 $11) Kd7 (Nb5+ $144 3. Kb6 Kd7 4. Be7 $18 {transpose main line}) 3. Kb6 $3 (3. Kb7 $143 Nb5 4. Bf6 (4. Kb6 $143 Kxd8 5. Kxb5 Kc8 $19) (4. Bb6 $144 c4 5. Bd4 d5 6. Be5 Ke6 $11) c4 5. Bd4 d5 6. Be5 Ke6 7. Bd4 Kd7 $11) Nb5 4. Be7 $1 c4 $1 (Kc8 $144 5. Bxd6 $18) (Nc7 $144 5. a7 Kc8 (Nd5+ $144 6. Kb7 Nc7 7. Bf8 c4 8. Bg7 Kd8 9. Bc3 Kd7 10. Ba5 Na8 11. Kxa8 Kc8 12. Bc3 Kc7 13. Bb4 d5 14. Bc3 Kc8 15. Be5 $18) (c4 6. Bf6 $1 (6. Kb7 $143 c3 7. Bf6 c2 8. Bg5 d5 9. Bf4 d4 $11) Kc8 7. Kc6 Na8 8. Bc3 Nc7 9. Bd2 Na8 10. Ba5 d5 11. Bc3 Nc7 12. Bd4 Na8 13. Be5 $18) 6. Kc6 $1 (6. Bxd6 $143 Nd5+ 7. Kc6 Nb4+ $11) c4 7. Bxd6 Na8 8. Be5 c3 9. Bxc3 Nc7 10. Bd2 Na8 11. Ba5 Nc7 12. Kb6 Na8+ 13. Ka6 Kd7 14. Kb7 $18) 5. Kxb5 $3 Kc8 (c3 $144 6. a7 c2 7. Bg5 $18) 6. Bxd6 c3 7. Kb6 c2 8. a7 c1=Q 9. a8=Q+ Kd7 10. Qd5 $3 Qb1+ 11. Bb4+ Ke8 12. Qe6+ Kd8 13. Qd6+ Kc8 14. Qc7# 1-0
+
+[Event "tc32"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r1Q5/P1p2p2/5P1p/2p2K1k/2n1nR2/8/8/7b w - - 0 1"]
+[PlyCount "43"]
+
+1. Rh4+ $1 Kxh4 2. Qxa8 $3 Ng3+ 3. Kf4 Nh5+ 4. Kf5 Nd6+ 5. Ke5 Nc4+ 6. Kf5 Ne3+ 7. Ke5 Ng4+ 8. Kf5 Ng3+ 9. Kf4 Ne2+ 10. Kf5 Nd4+ 11. Kf4 Ne6+ 12. Kf5 Ne3+ 13. Ke5 Nc4+ 14. Kf5 Nd6+ 15. Ke5 Nc4+ 16. Kf5 Nd4+ 17. Kf4 Ne2+ 18. Kf5 Nd6+ 19. Ke5 Nc4+ 20. Kf5 Ne3+ 21. Ke5 Ng4+ 22. Kf5 $11 1/2-1/2
+
+[Event "tj03"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#8"]
+[SetUp "1"]
+[FEN "N7/PPPPPPPP/K1k3rB/b1pnnb1p/8/1r6/pp3p2/7q w - - 0 1"]
+[PlyCount "15"]
+
+1. b8=N+ $1 Rxb8 2. axb8=N+ $1 Kd6 3. c8=N+ $1 Ke6 4. d8=N+ $1 Bxd8 $1 5. exd8=N+ $1 Kf6 6. g8=N+ $1 Rxg8 7. hxg8=N+ $1 Kg6 8. f8=N# $1 1-0
+
+[Event "Schweizerische Schachzeitung#340"]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/8/8/8/5N2/8/2p5/2k5 w - - 0 1"]
+
+1. Ne2+ $1 (1. Nd3+ $2 Kd2 2. Nc5 Kc3 $1 3. Ne4+ Kb3 4. Nd2+ Ka2) Kd2 (Kd1 2. Nc3+ Kd2 3. Na2) 2. Nd4 $1 c1=Q 3. Nb3+ 1/2-1/2
+
+[Event "Schweizerische Schachzeitung#340 (m)"]
+[Source "(m): Selman=J De Schaakwereld 3-3-1941."]
+[Date "1924.??.??"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/8/8/4N3/8/8/2p5/2k5 w - - 0 1"]
+
+1. Nc4 $1 (1. Nd3+ $2 Kd2) (1. Nf3 $2 Kd1) (1. Nc6 $2 Kb1) Kd1 (Kb1 2. Na3+) 2. Ne3+ 1/2-1/2
+
+[Event "L'Échiquier (te)"]
+[Date "1926.??.??"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7r/1kP5/1P6/8/1K6/8/8/2R5 w - - 0 1"]
+
+1. Kb5 $1 Rh5+ 2. Rc5 Rh8 3. c8=Q+ Rxc8 4. Rxc8 Kxc8 5. Kc6 (5. Ka6 {<or>}) Kb8 6. b7 1-0
+
+[Event "Traité Complet d'Échecs#309b"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/7p/7K/7P/8/8/6P1/8 w - - 0 1"]
+
+1. g4 $1 Kg8 2. g5 Kh8 3. g6 hxg6 4. hxg6 Kg8 5. g7 Kf7 6. Kh7 1-0
+
+[Event "Traité Complet d'Échecs#031"]
+[Date "1927.??.??"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/8/4p3/8/2K1P3/8/8/8 w - - 0 1"]
+
+1. e5 $1 Kd7 (Kf7 {<main>} 2. Kc5 Kg6 3. Kc6 $1 Kg5 $1 4. Kd7 $1 Kf5 5. Kd6) 2. Kb5 $1 (2. Kc5 $2 Kc7 $1) Kc7 3. Kc5 Kd7 4. Kb6 1-0
+
+[Event "Genève ty"]
+[Source "Genève ty/7"]
+[Date "1951.08.14"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/1K6/8/1kpp4/7Q w - - 0 1"]
+
+1. Qh8+ $1 Ka2 (Kb1 {<main>} 2. Kb3 c1=N+ (d1=N 3. Qh7 Ne3 4. Qd3) 3. Ka3 $1 Nd3 (d1=Q 4. Qb2#) (d1=N 4. Qh7+ Ka1 5. Qc2) (Kc2 4. Qh7+ Kd1 (Nd3 5. Qc7+ Kd1 (Kb1 6. Qb7+) 6. Qc4) (Kc3 5. Qh3+ Nd3 (Kd4 6. Qf3) (Kc2 6. Qf5+) 6. Qf3) 5. Kb2) 4. Qb8+ Kc1 $1 5. Qc8+ Kb1 (Kd1 6. Qg4+) 6. Qb7+ Kc1 7. Qc6+ Kd1 (Kb1 8. Qb5+ Kc2 (Ka1 9. Qb3) 9. Qc4+) 8. Qe4 Nc5 (Nf2 9. Qf3+ Kc1 10. Qxf2 $1 d1=Q 11. Qb2#) (Nb2 9. Qb1+ Ke2 10. Qxb2) (Ne1 9. Kb2) (Nc1 9. Kb2) 9. Qe3 Na6 (Nd7 10. Kb2) (Nb7 10. Kb2) 10. Kb3 Nc7 11. Qf2 Kc1 12. Qc5+) 2. Qg8+ $1 (2. Qa8+ $2 Kb1 $1) Kb2 (Kb1 3. Qb3+) 3. Qg7+ Ka2 4. Qf7+ Kb2 5. Qf6+ Ka2 6. Qe6+ Kb2 7. Qe5+ Ka2 8. Qd5+ Kb1 $1 (Kb2 9. Qxd2) 9. Qb3+ Kc1 10. Kc3 d1=N+ 11. Kb4 $1 (11. Kd3 $2 Nb2+ $1 12. Kc3 (12. Ke2 Kb1) Nd1+) Kd2 (Nb2 12. Ka3 Nd1 $1 13. Qb4 Ne3 14. Qe1+ Nd1 15. Kb3 Kb1 16. Qe4 Ne3 17. Qxe3) 12. Qd5+ Ke2 (Ke1 13. Qg5) (Ke3 13. Qg5+) (Kc1 13. Kb3) 13. Qc4+ Kd2 14. Qf4+ Ne3 15. Qd4+ Ke2 16. Qa1 $1 (16. Qc3 $2 Nd5+) Kd2 17. Qc3+ Ke2 (Kd1 18. Qd3+ Kc1 19. Qxe3+) 18. Kb3 Kf2 19. Qd2+ 1-0
+
+[Event "Nouveau Traité complet d'Échecs#579"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/k7/3p1p2/p2P1P2/P2P1P2/8/5P2/K7 w - - 0 1"]
+
+1. Kb1 $1 (1. Kb2 $2 Ka8) (1. Ka2 $2 Kb8) Kb7 (Ka8 2. Kb2 Ka7 3. Kb3 Kb7 4. Kc3 Kc7 5. Kd3) (Kb8 2. Kc2 Kc8 3. Kd2) (Ka6 2. Kc2) 2. Kc1 Kc7 3. Kd1 $1 Kd7 (Kd8 4. Kc2) (Kc8 4. Kd2) (Kb6 4. Ke2) 4. Kc2 Kc8 (Kc7 5. Kd3) (Kd8 5. Kc3) 5. Kd2 $1 Kd7 6. Kc3 $1 Kc7 7. Kd3 $1 Kb6 (Kd8 8. Kc4) 8. Ke3 Kc7 9. Kf3 Kd7 10. Kg4 Ke7 11. Kh5 Kf7 12. Kh6 1-0
+
+[Event "Nouveau Traité complet d'Échecs#046i"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K1Q/8/8/8/8/8/1pkp4/8 w - - 0 1"]
+
+1. Qh7+ $1 Kc1 2. Qc7+ Kb1 3. Qd7 Kc1 4. Qc6+ Kb1 5. Qe4+ Kc1 6. Qc4+ Kb1 7. Qb3 Ka1 (Kc1 8. Qc3+) 8. Qa4+ Kb1 9. Qd1+ Ka2 10. Qxd2 1-0
+
+[Event "Nouveau Traité complet d'Échecs#497a"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3B4/8/2B5/1K6/8/8/3p4/3k4 w - - 0 1"]
+
+1. Ka6 $1 (1. Kc5 $2 Ke2 $1 2. Bb5+ Kf2 $1 3. Bh4+ Kf3 4. Be8 Kg4) (1. Ka4 $2 Ke2 2. Bb5+ Kf3) Ke2 (Kc2 2. Ba4+) (Ke1 2. Ba5 Kd1 3. Bb4 Kc2 4. Ba4+) 2. Bb5+ Kf2 (Kf3 3. Be8) 3. Bb6+ $1 (3. Bh4+ $2 Kf3 4. Be8 Kg4) Kf3 (Ke1 4. Ba5) 4. Be8 $1 d1=Q (Kg4 5. Ba4) 5. Bh5+ Kf4 6. Bxd1 1-0
+
+[Event "Nouveau Traité complet d'Échecs#584a"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/Pp6/1P6/8/5ppp/8/5K2/8 w - - 0 1"]
+
+1. Kg1 $1 (1. Kf1 $2 h3 2. Kf2 g3+ 3. Kg1 g2 4. Kh2 g1=Q+ 5. Kxg1 f3 6. Kf2 h2) (1. Kg2 $2 g3) (1. Ke1 $2 h3 2. Kf2 g3+) g3 2. Kg2 $1 1/2-1/2
+
+[Event "Journal de Genève"]
+[Date "1952.04.22"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/5P2/4p2K/5P1P/p3P2p/3p4/3P3P/8 w - - 0 1"]
+
+1. Kg6 $1 (1. fxe6 $2 a3 2. Kg6 (2. e7+ Kxf7) a2 3. Kf6 a1=Q+ 4. e5 Qf1+) a3 2. h6 a2 3. h7 a1=Q 4. h8=Q+ $1 (4. f6 $2 Qg1+ 5. Kh5 $1 (5. Kh6 Kxf7 6. h8=Q Qg6#) Qd1+ 6. Kg5 (6. Kg6 Qg4+ 7. Kh6 Kxf7) (6. Kxh4 Qe1+ 7. Kh3 Qf1+ 8. Kg3 Qxf6) Qxd2+ 7. Kh5 Qe2+ 8. Kh6 Qe3+ 9. Kh5 Qf3+ 10. Kg5 (10. Kh6 Qxf6+) (10. Kg6 Qg4+ 11. Kh6 Kxf7) Qg2+ 11. Kh5 (11. Kf4 Qd2+ 12. Kg4 Qh6) Kxf7 12. h8=Q Qg6+ 13. Kxh4 Qxf6+) Qxh8 5. f6 $1 h3 (e5 { <main>} 6. h3 Qxf6+ $1 7. Kxf6) 6. e5 Qh4 1/2-1/2
+
+[Event "Journal de Genève (pl)"]
+[Source "= Prokop=F d8a2 1952."]
+[Date "1952.10.21"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/b7/2P5/8/8/6N1/k7/8 w - - 0 1"]
+
+1. Kc7 $1 (1. Kc8 $2 Bd4) (1. c7 $2 Bb6) Bd4 (Be3 2. Ne2 $1 Bc5 $1 3. Nc1+ $1 Kb1 (Ka3 4. Nd3 Bg1 5. Ne5 $1 Bd4 6. Kd6) 4. Nd3 Bg1 5. Ne5 Bd4 6. Nc4 Bf2 7. Kd7 Bg3 8. Nd6) (Bg1 2. Kb7) (Bc5 2. Ne4 Be3 3. Kd7 Bb6 4. Nd2) 2. Ne4 $1 (2. Nf5 $2 Bc3 $1 3. Nd6 Ba5+ 4. Kd7 Kb3 $1) Kb3 3. Nd6 Bc5 (Bc3 4. Kb6 Ka4 5. Nc4 Bd4+ 6. Kb7) 4. Nc8 $1 Bf2 (Bb4 5. Kb7 Be1 (Ba5 6. Nb6) 6. c7 Bg3 7. Nd6) 5. Kd7 $1 Be1 6. c7 Ba5 (Bg3 7. Nd6 Bxd6 8. c8=Q) 7. Nb6 Bxb6 8. c8=Q 1-0
+
+[Event "Journal de Genève"]
+[Date "1955.08.30"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/8/7p/3k4/5pp1/8/5PPP/8 w - - 0 1"]
+
+1. Kg7 $1 (1. Kf7 $2 Ke4 2. Kg6 f3 3. gxf3+ (3. g3 Kd3) Kxf3 $1 (gxf3 $2 4. Kh5 $1 Kd3 5. Kg4 Ke2 6. Kg3 h5 7. h4) 4. Kh5 Kxf2 5. Kxg4 Ke3 $1) (1. Kh7 $2 h5 $1 2. Kg6 h4 $1) h5 (Ke4 2. Kxh6 f3 3. gxf3+ $1 gxf3 (Kxf3 4. Kg5) 4. Kg5 Kd3 5. Kf4 Ke2 6. Kg3) 2. Kf6 $1 (2. Kg6 $2 h4 $1 3. g3 hxg3 4. hxg3 fxg3 5. fxg3 Ke6 $1 6. Kg5 Kf7 7. Kxg4 Kg6) (2. h4 $2 gxh3 3. gxh3 Ke4 4. Kg6 Kf3 5. Kg5 h4 (Kxf2 6. Kxf4 h4 7. Kg4 Ke3 8. Kxh4 Kf4) 6. Kf5 Kg2 7. Kxf4 Kxh3 8. Kg5 $1 Kg2 $1 9. Kxh4 Kxf2) (2. f3 $2 gxf3 3. gxf3 Kd4) (2. h3 $2 f3 $1) (2. g3 $2 f3 3. Kg6 Ke4 4. Kxh5 Kd3 5. Kxg4 Ke2 6. h4 Kxf2 7. h5 Kg2 8. h6 f2 9. h7 f1=Q 10. h8=Q Qf3+) h4 (Ke4 3. Kg5 f3 (Kd3 4. Kxf4) 4. gxf3+ $1 Kxf3 (gxf3 5. Kxh5) 5. Kxh5 Kf4 6. Kg6) (f3 3. gxf3) 3. g3 $1 (3. Kg5 $2 g3 4. hxg3 (4. fxg3 h3 $1 5. gxh3 f3) f3 $1 5. gxf3 h3) (3. f3 $2 h3) (3. h3 $2 f3) hxg3 (fxg3 4. fxg3 hxg3 5. hxg3) 4. hxg3 fxg3 (Ke4 5. Kg5) 5. fxg3 Ke4 (Kd6 6. Kf5 Ke7 7. Kxg4 Kf6 8. Kh5) 6. Kg5 Kf3 7. Kh4 Ke4 8. Kxg4 1-0
+
+[Event "Journal de Genève"]
+[Source "after Vollmer=V f1h1 1933."]
+[Date "1955.09.13"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/5N2/8/p4p2/6p1/5p2/5P1p/5K1k w - - 0 1"]
+
+1. Nh6 $1 (1. Nd6 $2 f4 2. Nc4 (2. Ne4 a4) g3) f4 (g3 2. fxg3 a4 3. Nxf5 a3 4. g4 a2 5. Ng3#) 2. Nxg4 $1 a4 3. Ne5 a3 4. Nd3 $1 a2 5. Ne1 $1 a1=N (a1=Q) 6. Nd3 $1 (6. Nc2 $2 Nb3 7. Nb4 Nd2+ 8. Ke1 Kg1) (6. Nxf3 $2 Nb3 7. Ke2 Nd4+ 8. Nxd4 Kg2) Nb3 7. Nxf4 $1 Nd2+ 8. Ke1 Kg1 9. Nh3+ Kg2 10. Nf4+ Kh1 11. Nh3 $1 1/2-1/2
+
+[Event "Journal de Genève (v)"]
+[Source "(v): Cheron=A Journal de Genève=225 27-9-1955."]
+[Date "1955.09.13"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/1p6/1P6/8/8/5N2/8/1K6 w - - 0 1"]
+
+1. Ne5 $1 (1. Nd4 $2 Kd7 $1 2. Kb2 Kd6 3. Kc3 Kc5) (1. Nd2 $2 Kd7 2. Nc4 Kc6 3. Kc2 Kc5 4. Kc3 Kb5 $1 (Kd5 $2 5. Kb4 Kc6 6. Ka5 Kc5 7. Nb2 Kc6 8. Na4 Kd7 9. Kb5) 5. Kd4 (5. Kb3 Kc5) Kc6 $1 6. Ke5 Kc5 7. Nd6 (7. Ke6 Kxc4 8. Kd6 Kb5 9. Kc7 Ka6) Kxb6) Ke7 (Kc8 2. Kb2 Kd8 3. Kc3 Kc8 4. Kc4 Kd8 5. Kd5 Kc8 6. Ke6 Kd8 7. Kf7 Kc8 8. Ke7 Kb8 9. Kd8 Ka8 10. Nc6 bxc6 11. Kc7) 2. Nc6+ $1 (2. Nc4 $2 Kd7 3. Kb2 Kc6) Kd6 (bxc6 3. b7) 3. Na7 Kc5 4. Nc8 Kb5 (Kc6 5. Kb2 Kd7 6. Na7 Kd6 7. Kc3 Kc5 8. Nc8) 5. Kc2 Kc4 6. Kd2 Kd4 7. Ke2 Ke4 8. Kf2 (8. Nd6+ $2 Kd5 9. Nc8 (9. Nxb7 Kc6) Ke4) Kd4 (Kf4 9. Nd6 Ke5 10. Nxb7 Kd5 11. Na5) 9. Kf3 Kd5 (Kd3 10. Nd6 Kd4 11. Nxb7 Kd5 12. Na5) 10. Kf4 Kd4 11. Kf5 Kd5 12. Kf6 Kc6 13. Ke7 1-0
+
+[Event "Journal de Genève"]
+[Source "after Sarychev=A Sarychev=K g7g4 1929."]
+[Date "1955.10.11"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4B2n/6K1/8/8/2N3k1/6P1/1P5p/7b w - - 0 1"]
+
+1. Ne3+ $1 Kxg3 $1 (Kg5 2. Nf1 Be4 3. Nxh2 Bg6 (Ng6 4. Bxg6 Bxg6 5. Nf3+ Kh5 (Kf5 6. Nh4+) 6. g4+ Kxg4 7. Kxg6 Kxf3 8. Kf5) 4. Bxg6 Nxg6 5. Nf3+ Kf5 (Kh5 6. g4+ Kxg4 7. Kxg6 Kxf3 8. Kf5) 6. Nh4+ Nxh4 7. gxh4) (Kh3 2. Bd7+ Kxg3 3. Nf1+ Kg2 4. Bc6+) 2. Nf1+ Kh3 (Kf2 3. Nxh2 Bd5 4. Kxh8 Bb3 5. Bb5 Ke1 6. Nf3+ Kd1 7. Nd4 Bd5 8. Bc6 Bc4 9. b4 Kd2 10. b5 Kc3 11. b6 Ba6 12. Nf3) 3. Bd7+ $1 (3. Kxh8 $2 Bd5 4. Bd7+ Kg2 5. Nxh2 Kxh2) (3. b4 $2 Bd5 4. Nxh2 (4. Bd7+ Kg2) Kxh2 5. b5 Kg3 6. Bc6 Bc4 7. b6 Ba6) (3. Nxh2 $2 Kxh2 4. Kf6 Bd5) Kg2 (Kh4 4. Nxh2 Be4 (Bd5 5. Kxh8) 5. Kxh8) 4. Bc6+ $1 Kxf1 5. Bxh1 Kg1 $1 6. Bc6 $1 (6. Bd5 $2 Kf2 7. b4 Ke3 8. b5 Kd4 9. Bc6 Kc5 10. Kxh8 h1=Q+ 11. Bxh1 Kxb5) (6. Ba8 $2 Kf2 7. b4 Ke3 8. b5 Kd4 9. b6 Kc5) (6. Bb7 $2 Kf2 7. b4 Ke3 8. b5 Kd4 9. b6 Kc5) (6. Be4 $2 Kf2 7. b4 Ke3) Kf2 7. b4 Ke3 8. b5 Kd4 9. b6 Kc5 10. b7 Kxc6 11. b8=Q h1=Q 12. Qa8+ 1-0
+
+[Event "Journal de Genève"]
+[Date "1956.03.06"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/4N1k1/6P1/5K1P/8/3p4/3n4 w - - 0 1"]
+
+1. h5+ $1 (1. Kf3 $2 Nb2 2. Ke2 d1=Q+) Kxh5 (Kf7 2. h6 Kg6 (Kg8 3. g6 Nf2 4. h7+ Kh8 5. Nd8 d1=Q 6. Nf7+ Kg7 7. h8=Q+) 3. Nf8+ Kf7 4. Ne6 Kg6 5. Nf8+) (Kh7 2. g6+ Kh6 (Kh8 3. h6 Nf2 4. Nd8 d1=Q 5. Nf7+ Kg8 6. h7+ Kg7 7. h8=Q+) 3. g7 Kh7 4. Ng5+ Kxg7 5. Ne4) 2. Kf3 $1 Nf2 (Ne3 { <main>} 3. Nf4+ Kh4 4. Ng2+ $1 Nxg2 5. Ke2) 3. Nf4+ Kxg5 4. Nh3+ $1 (4. Ke2 $2 d1=Q+) Nxh3 5. Ke2 1/2-1/2
+
+[Event "Journal de Genève"]
+[Date "1956.09.04"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/5K2/8/1p5P/p7/8/2k5/8 w - - 0 1"]
+
+1. h6 $1 b4 $1 (a3 2. h7 a2 3. h8=Q Kb1 4. Qh1+ Kb2 5. Qg2+ Kb1 6. Qe4+ Kb2 7. Qb4+ Kc2 8. Qa3 Kb1 9. Qb3+ Ka1 10. Qc2 b4 11. Qc1#) 2. h7 b3 3. h8=Q b2 (a3 4. Qa1 $1) 4. Qh7+ $1 (4. Qc8+ $2 Kb3 5. Qf5 (5. Qe6+ Ka3 6. Qe4 b1=Q 7. Qxb1) Ka2 6. Qc2 a3 7. Ke6 Ka1 8. Qc3 Ka2 $1) (4. Qh2+ $2 Kb3) Kb3 (Kc1 5. Qh1+ Kc2 6. Qe4+ Kc1 7. Qf4+ $1 Kc2 (Kb1 8. Qxa4) 8. Qxa4+) 5. Qe4 $1 (5. Qb1 $2 a3 $1 6. Ke6 a2 7. Qd3+ Kb4 $1 8. Qd4+ Kb3 $1 9. Qd5+ Ka3 10. Qd3+ Kb4 $1) (5. Qd3+ $2 Ka2 $1 6. Qc4+ Ka3 7. Qc2 b1=Q $1 8. Qxb1) Ka3 (a3 6. Qd5+ Kc2 7. Qa2 $1 Kc1 (Kc3 8. Qxa3+) 8. Qxa3) 6. Qb1 $1 (6. Ke6 $2 b1=Q $1 7. Qxb1) Kb3 7. Ke6 $1 a3 8. Kd5 $1 a2 9. Qd3+ Kb4 10. Qc4+ Ka3 11. Qc3+ Ka4 12. Qxb2 1-0
+
+[Event "Journal de Genève (v)"]
+[Date "1956.09.04"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/5p2/6p1/8/5K1P/6P1/1k6 w - - 0 1"]
+
+1. Ke4 $1 Kc2 2. g3 $1 Kd2 3. h4 gxh4 4. gxh4 d5+ 5. Kxd5 $1 Ke3 6. h5 f5 7. h6 f4 8. h7 f3 9. h8=Q f2 10. Qe5+ $1 Kd3 11. Qb2 $1 f1=Q (Ke3 12. Qb5 Kf3 13. Qf1) 12. Qb5+ 1-0
+
+[Event "Journal de Genève"]
+[Date "1956.09.04"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3p4/5p2/6p1/8/4K2P/6P1/1k6 w - - 0 1"]
+
+1. Ke4 $1 (1. g3 $2 f5 $1 2. h4 f4+ $1 3. Kf3 (3. gxf4 gxh4 $1 4. f5 d5 $1 5. f6 d4+ $1 6. Kxd4 (6. Kf3 d3) h3) (3. Ke4 d5+ $1) (3. Ke2 gxh4 4. gxh4 d5 5. h5 d4 6. h6 f3+ 7. Kxf3 d3) (3. Kf2 fxg3+ 4. Kxg3 gxh4+ 5. Kxh4 d5) d5 $1 4. hxg5 (4. gxf4 gxh4 $1 5. f5 d4 6. f6 (6. Ke4 h3) d3) (4. h5 d4) d4 $1 5. g6 (5. Ke4 fxg3) d3 6. g7 d2 7. g8=Q d1=Q+ 8. Kxf4 Qd2+ 9. Kg4 (9. Ke4 Qe2+ 10. Kd4 Qd2+ 11. Kc5 Qc3+ 12. Kb5 Qb2+ 13. Ka4 Qd4+ 14. Ka3 Qb2+) Qe2+ 10. Kg5 (10. Kh4 Qh2+ 11. Kg4 Qe2+) (10. Kh3 Qh5+ 11. Kg2 Qe2+) Qd2+ 11. Kg6 Qc2+ 12. Kg7 Qb2+ 13. Kg6 (13. Kh7 Qh2+) (13. Kf8 Qb8+ 14. Kf7 Qb3+ 15. Kf8 Qb8+) Qc2+ 14. Kf6 Qf2+ 15. Ke7 Qe3+) (1. Kd4 $2 Kc2 2. g3 (2. Kd5 Kd3 3. Kd6 Ke3 4. Kxd7 Kf2 5. Ke6 Kxg2) f5 3. h4 (3. Ke5 f4 4. gxf4 gxf4 5. Kxf4 d5 6. Ke5 Kd3 $1 7. h4 (7. Kxd5 Ke3) d4) gxh4 4. gxh4 f4 5. h5 (5. Ke4 d5+ $1 6. Kxf4 d4) f3 6. Ke3 d5 7. h6 d4+ 8. Kxf3 (8. Kxd4 f2 9. h7 f1=Q 10. h8=Q Qa1+) d3) Kc2 (f5+ 2. Kxf5) 2. g3 $1 Kd2 (Kc3 3. h4 gxh4 4. gxh4 Kc4 5. h5 d5+ 6. Kf3 $1 (6. Ke3 $2 Kc3 $1 7. h6 d4+ 8. Ke2 Kc2 $1 9. h7 d3+) (6. Kf4 $2 d4 7. h6 d3 8. Ke3 Kc3) d4 7. h6 d3 8. h7 d2 9. Ke2) 3. h4 gxh4 4. gxh4 d5+ $1 5. Kxd5 $1 (5. Kd4 $2 f5) (5. Kf4 $2 d4) Ke3 $1 6. h5 $1 (6. Ke6 $2 Kf4) f5 7. h6 f4 8. h7 f3 9. h8=Q f2 10. Qe5+ $1 (10. Qh3+ $2 Ke2 11. Qh2 (11. Qg2 Ke1 12. Ke4 f1=Q) Kf3 $1) (10. Qh1 $2 Ke2) (10. Qd4+ $2 Ke2) (10. Qe8+ $2 Kd2) (10. Qa1 $2 Ke2) Kd3 (Kd2 11. Qh2 $1 Ke1 (Ke2 12. Ke4 Ke1 13. Kf3 f1=Q+ 14. Ke3) 12. Ke4 f1=Q 13. Ke3) (Kf3 11. Qe4+ Kg3 12. Qh1) 11. Qb2 $1 f1=Q (Ke3 12. Qb5) 12. Qb5+ Ke3 13. Qxf1 1-0
+
+[Event "Journal de Genève (v)"]
+[Source "(v): Cheron=A Journal de Genève=301 24-12-1956."]
+[Date "1956.12.18"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3Bn3/4PP2/PP4P1/4R3/1R2b3/1p2pp1p/pP3k1P/7K w - - 0 1"]
+
+1. Ra4 $1 (1. Ra5 $2 Bc6 $1 2. Rc4 (2. f8=Q e2) (2. fxe8=Q e2) (2. Rba4 Bxa4 3. Rxa4 e2) (2. Re4 Bxe4) (2. b7 Ke2 3. fxe8=Q f2+ 4. Qxc6 f1=Q#) e2 3. Rc1 e1=Q+ 4. Rxe1 Kxe1 5. Re5+ (5. fxe8=Q f2+ $1 6. Qxc6 f1=Q#) Kf1 6. fxe8=Q (6. Rc5 a1=Q) (6. Re6 a1=Q) a1=Q 7. Ra5 Qb1) Bc6 $1 (e2 2. Rexe4) (Bd3 2. f8=Q Bf1 3. Qxf3+ Kxf3 4. Kg1) (Ke2 2. Rexe4) 2. fxe8=Q $1 (2. Raa5 $2 Ke2 3. Rxe3+ (3. fxe8=Q f2+ 4. Qxc6 f1=Q#) Kxe3 4. Re5+ (4. fxe8=Q f2+) (4. Kg1 f2+) Kf2 5. Ra5 Ke2 6. Re5+ Kf1) (2. Ra3 $2 Ke2 3. Rxe3+ Kxe3 4. Rxb3+ Ke2) (2. Rc5 $2 e2 3. Rc1 e1=Q+ 4. Rxe1 Kxe1 5. fxe8=Q f2+ 6. Qxc6 f1=Q#) (2. f8=Q $2 Bxa4 3. Qxf3+ Kxf3 4. Rf5+ Ke2) (2. Rxe3 $2 Kxe3 3. fxe8=Q f2+) Bxe8 (Bxa4 3. Qxa4) 3. Raa5 $1 (3. Ra3 $2 Ke2 4. Rxe3+ Kxe3 5. b7 (5. Rxb3+ Ke2 6. Ra3 f2) f2 6. Bb6+ Ke2 7. Bxf2 Kxf2 8. b8=N Bxg6 9. e8=R $1 Bxe8 10. a7 Bg6 $1 11. a8=B Bd3 $1 12. Ra5 $1 (12. Bc6 Bf1) Bf1 13. Rf5+ Ke1 (Ke2 14. Ra5 $1) 14. Ra5 $1 Kf2 15. Rf5+ $1 Ke1) (3. Rc5 $2 Ke2 4. Rc1 f2 5. Rac4 (5. Rf4 Bc6+ 6. Rxc6 a1=Q+) (5. Rg4 Bc6+ 6. Rxc6 a1=Q+) f1=Q+ 6. Rxf1 Kxf1 7. Rc1+ Kf2) (3. Rd5 $2 Ke2 4. Rd1 Kxd1 5. Kg1 (5. a7 f2) (5. b7 f2) (5. g7 f2) f2+ 6. Kf1 Bb5+) (3. Rea5 $2 Ke2 4. Rc4 (4. Re4 f2) (4. Rf4 f2) (4. Rg4 f2) (4. Rxa2 f2) (4. a7 f2) f2 $1) (3. Ree4 $2 Ke2 4. Rxe3+ (4. b7 Bxa4 5. Rxe3+ (5. Rxa4 f2) (5. a7 f2) (5. g7 f2 6. g8=Q (6. Rxe3+ Kxe3 7. g8=Q Bc6+) f1=Q+ 7. Qg1 Qf3+) Kxe3) Kxe3 5. b7 (5. g7 f2) (5. a7 f2 6. Re4+ Kd3 $1) Bxa4 6. Bb6+ Ke2 7. b8=Q (7. e8=Q+ Bxe8) a1=Q+ 8. Bg1 Qxg1+ 9. Kxg1 f2+ 10. Kh1 f1=Q#) Ke2 (e2 4. b7 $1 Ba4 5. Bb6+ $1 (5. Rxa4 $2 a1=Q+ 6. Rxa1 e1=Q+ 7. Raxe1) (5. Rxe2+ $2 fxe2 6. Bb6+ (6. Rf5+ Ke3) Kf3)) (Ba4 4. Rxa4 e2 5. Rxe2+ $1 fxe2 6. e8=Q) 4. Rxe3+ $1 (4. b7 $2 f2 5. Rxe3+ Kd2 $1 (Kxe3 $2 6. Bb6+) 6. Rd5+ (6. Rf3 Bc6) Kxe3 7. Bb6+ Ke2) Kxe3 5. b7 $1 (5. Re5+ $2 Kf4 6. Re1 (6. Bc7 f2) f2) f2 (Bc6 6. Bb6+ Ke2 7. Kg1) 6. Bb6+ (6. Re5+ $2 Kf4) Kf3 7. Bxf2 (7. Rf5+ $2 Kg4 8. Rf4+ Kg5 $1) Kxf2 8. b8=N $1 (8. Rf5+ $2 Ke2 9. Ra5 $1 Kf2) Bxg6 9. e8=R $1 (9. e8=Q $2 Be4+ $1 10. Qxe4 a1=Q+ 11. Rxa1) Bxe8 10. a7 Bg6 $1 11. a8=B $1 (11. a8=Q $2 Be4+ 12. Qxe4 a1=Q+ 13. Rxa1) Bd3 $1 12. Bc6 $1 (12. Bb7 $2 Bf1 13. Rf5+ Ke1 $1 14. Re5+ (14. Ra5 Kf2 15. Rf5+ Ke1) (14. Kg1 Bb5 $1 15. Re5+ (15. Rxb5 a1=Q 16. Re5+ Kd2+ 17. Kf2 Qa7+) (15. Bc6 a1=Q 16. Bxb5 Qa7+) (15. Ba6 a1=Q 16. Bxb5 Qa7+) Kd2 16. Rd5+ (16. Rxb5 a1=Q+ 17. Kf2 Qe1+) Ke2 17. Re5+ Kd2) (14. Ba6 Bg2+ 15. Kg1 a1=Q)) (12. Bf3 $2 Bf1 13. Rf5 a1=Q 14. Bg2+ Ke3 15. Bxf1 (15. Rxf1 hxg2+ 16. Kxg2 Qxb2+ $1) Qa8+ 16. Kg1 Qxb8 17. Bxh3 Qc7 18. Rf2 Qc2 $1) (12. Nd7 $2 Bf1 13. Rf5+ Ke2 14. Re5+ $1 (14. Bc6 Bg2+ 15. Bxg2 hxg2+ 16. Kxg2 a1=Q) Kf2 15. Rf5+ Ke2) (12. Na6 $2 Bf1 13. Rf5+ Ke2 14. Re5+ $1 (14. Bc6 Bg2+ 15. Bxg2 hxg2+ 16. Kxg2 a1=Q) Kf2 15. Rf5+ Ke2) Bf1 13. Rf5+ $1 Ke1 (Ke2 14. Bb5+) (Ke3 14. Rxf1) 14. Kg1 $1 Bb5 (Bc4 15. Ra5 Kd2 16. Nd7 Kc2 17. Ne5 Bg8 $1 (Be6 18. Be4+ Kxb2 19. Nd3+ Kb1 20. Nc5+) (Bd3 18. Nxd3) 18. Be4+ Kxb2 19. Nd3+ Kb1 (Kc3 20. Ra3 Bc4 21. Kf2 Bxd3 22. Bxd3 Kxd3 23. Rxb3+ Kc2 24. Ra3 Kb2 25. Rxa2+ Kxa2 26. Kg3 Kb3 27. Kxh3 Kc4 28. Kg4) 20. Kf2 a1=Q 21. Nf4+ Kb2 22. Rxa1 Kxa1 23. Nxh3 b2 24. Nf4 b1=Q (Ba2 25. h4 Bb1 26. Bxb1 Kxb1 27. Nd3) 25. Bxb1 Kxb1 26. h4 Bf7 (Kb2 27. h5 Kc3 28. Ke3 Bh7 29. Ng6 $1) 27. Ke3 Kc1 28. Ke4 Kd2 (Bb3 29. h5 Kd2 30. Ke5 $1 (30. Ng6 $2 Bd1 $1 31. h6 Bc2+) Bc2 (Bd1 31. h6 Bc2 32. Kf6 Bh7 33. Kg7 Bc2 34. Ng6) 31. Ng6 Ke3 32. Kf6 Bb3 33. h6 Bg8 34. Kg7) 29. Kf5 Ke3 30. Ng6 Kf3 31. h5 Bg8 (Kg3 32. h6) 32. h6 Kg3 33. Kf6 Kg4 34. Kg7 Kg5 35. Ne7) (Be2 15. Ra5 Kd2 16. Bd5 Kc2 17. Nc6) (Bd3 15. Ra5 Kd2 16. Na6 Kc1 17. Nb4 Bc4 18. Nxa2+ bxa2 (Kxb2 19. Nc1) 19. b4 Kb2 20. b5 a1=Q+ 21. Rxa1 Kxa1 22. b6 Ba6 23. b7 Bxb7 24. Bxb7 Kb2 25. Kf2 Kc3 26. Ke3 Kc4 27. Ke4 Kc5 28. Ke5 Kb6 29. Bc8 Kc7 30. Bxh3 Kd8 31. Kf6 Ke8 32. Kg7) 15. Bxb5 a1=Q 16. Rf1+ Kd2 17. Rxa1 1-0
+
+[Event "Courrier de Leysin (v)"]
+[Source "(v): Cheron=A Journal de Genève=40 17-2-1959."]
+[Date "1957.01.04"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3Bn3/3PP3/PPP3P1/5b1R/1R4N1/1p2pp1p/pP2k2P/7K w - - 0 1"]
+
+1. Ra4 $1 Be4 $1 (f2 2. Rxf5) (Bxg4 2. dxe8=Q) 2. Nf2 $1 (2. Nxe3 $2 a1=Q+ 3. Rxa1 f2+) (2. Re5 $2 f2+ 3. Rexe4 f1=Q#) Kxf2 $1 (exf2 3. Rxe4+ Kd3 4. Rd5+ Kxe4 (Kc2 5. Rc4+ Kxb2 6. Rd1) 5. Rd1) (Bxc6 3. dxe8=Q $1 (3. Rha5 $2 exf2) (3. Rhh4 $2 exf2) (3. Raa5 $2 exf2) Bxe8 $1 (Bxa4 4. Qxa4) (exf2 4. Re5+ Kd3 5. Rd5+ Bxd5 (Ke3 6. Rd1 Bxe8 7. Rc4 Ke2 8. Rcc1) 6. Qb5+ Kc2 7. Qf1) 4. Rha5 $1 (4. Raa5 $2 exf2 5. Rhe5+ $1 Kd3 6. Red5+ $1 Ke2 7. Re5+) (4. Rhh4 $2 exf2) (4. Nxh3 $2 Bxa4) (4. Rg5 $2 Bxa4 5. Rg1 exf2 6. Rc1 f1=Q+) exf2 (Kxf2 5. Re4) (Bxa4 5. Rxa4 exf2 6. e8=Q+) 5. Re4+ Kd3 6. Rd5+ Kxe4 (Kc2 7. Rc4+ Kxb2 8. Rd1 a1=Q 9. Rxa1 Kxa1 10. Rc1+ Ka2 11. a7 Bc6 12. e8=Q Bxe8 13. a8=Q+) 7. Rd1 Ke3 (Kf4 8. b7) (Kf5 8. a7 Bc6 9. e8=Q Bxe8 10. a8=Q) 8. b7 $1 Ke2 (Bc6 9. e8=Q+ Bxe8 10. b8=Q) (f1=Q+ 9. Rxf1 f2 (a1=Q 10. Rxa1 f2 11. Bb6+ Ke2 12. Bxf2 Kxf2 13. Rc1 Bxg6 14. e8=R $1 Bxe8 15. b8=Q) 10. Bb6+ Ke2 11. Rxf2+ Ke1 12. Kg1) 9. b8=Q Kxd1 (Bc6 10. e8=Q+ Bxe8 11. Qd6) (f1=Q+ 10. Rxf1 Kxf1 (f2 11. Qd6) 11. Qxb3 a1=Q 12. Qxf3+ Ke1 13. Qe3+ Kf1 14. Qg1+) 10. Qxb3+ Kc1 $1 (Ke2 11. Qc2+ Ke3 12. Bb6+ Kf4 13. Qc1+) (Kd2 11. Qc3+ Kd1 12. Qxf3+ Kc1 13. Qxf2 a1=Q 14. Qe1+ Kxb2 15. Qxa1+ Kxa1 16. a7) (Ke1 11. Ba5+ Ke2 12. Qc2+) 11. Qc3+ Kb1 (Kd1 12. Qxf3+) 12. Qd3+ Kxb2 (Kc1 13. Qf1+ Kxb2 14. Qxf2+ Kb1 (Kb3 15. Qxf3+) 15. Kg1 a1=Q 16. Qe1+) 13. Qd4+ Ka3 (Kb1 14. Qxf2) (Kc1 14. Qxf2) (Kc2 14. Qxf2+) (Kb3 14. Qd1+ Kb2 15. Bb6) 14. Qc3+ Ka4 15. Qc4+ Ka3 16. Qc1+ Kb3 17. Bb6 f1=Q+ 18. Qxf1 f2 19. Bxf2 Bc6+ 20. Kg1) 3. Re5 $1 Bxc6 (Bd3 4. Rf5 $1) 4. dxe8=Q $1 Bxe8 5. Raa5 $1 (5. Ra3 $2 Ke2 $1) Ke2 (e2 6. b7 $1 Ba4 7. Bb6+ $1 (7. Rxa4 $2 a1=Q+ $1 8. Rxa1 e1=Q+ 9. Raxe1)) 6. Rxe3+ (6. b7 $2 f2 7. Rxe3+ Kd2 $1) Kxe3 7. b7 $1 f2 (Bc6 8. Bb6+ Ke2 9. Kg1) 8. Bb6+ Kf3 9. Bxf2 (9. Rf5+ $2 Kg4) Kxf2 10. b8=N $1 Bxg6 11. e8=R $1 (11. e8=Q $2 a1=Q+ 12. Rxa1 Be4+ 13. Qxe4) Bxe8 12. a7 Bg6 $1 13. a8=B $1 (13. a8=Q $2 a1=Q+ 14. Rxa1 Be4+ 15. Qxe4) Bd3 $1 14. Bc6 (14. Bb7 $2 Bf1 15. Rf5+ Ke1 16. Re5+ (16. Kg1 Bb5 $1) Kf2 17. Rf5+ Ke1) (14. Bf3 $2 Bf1 $1) (14. Nd7 $2 Bf1 $1) (14. Na6 $2 Bf1 $1) (14. Ra4 $2 Bf1 $1) Bf1 15. Rf5+ Ke1 (Ke2 16. Bb5+ Ke1 17. Rxf1+) 16. Kg1 $1 Bb5 17. Bxb5 a1=Q 18. Rf1+ Kd2 19. Rxa1 1-0
+
+[Event "Journal de Genève"]
+[Date "1958.01.07"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/8/4QK2/3p4/2p5/2k5 w - - 0 1"]
+
+1. Ke3 $1 (1. Qxd3 $2 Kb2) d2 $1 2. Qe5 (2. Qd4 $2 d1=N+ $1 3. Ke2 (3. Kd3 Kb1) Kb1 $1 4. Qd3 (4. Qb4+ Nb2 5. Qe4 Nc4 $1) (4. Qb6+ Nb2 5. Qg6 Nc4 $1) Nb2 $1 5. Qe4 (5. Qf5 Nc4 $1 6. Qb5+ Nb2 7. Qf5 Nc4) Nc4 6. Qf5 (6. Qh7 Kb2 7. Qb7+ Ka2 8. Qa6+ Kb2 9. Qb5+ Kc3 $1) Kb2 7. Qb5+ (7. Qf6+ Kb1 8. Qg6 Kb2 9. Qg7+ Kb1 10. Qh7 Kb2) Kc3 $1 8. Qg5 Kb2 9. Qg7+ Kb1 10. Qh7 Kb2 11. Qb7+ Ka2 12. Qa6+ Kb2 13. Qb5+ Kc3) (2. Qa8 $2 d1=N+ $1 3. Ke2 Kb1 4. Qb7+ (4. Qe4 Nc3+) Nb2 5. Qe4 (5. Qh7 Nc4 $1) Nc4 $1) (2. Qa4 $2 d1=N+ $1 3. Kd4 (3. Kd3 Nb2+) (3. Ke2 Nc3+) (3. Ke4 Nc3+) Kb2 4. Qb4+ Ka2 5. Qd2 Kb1 6. Qd3 Kb2) Kb1 (d1=N+ 3. Ke2 $1 Kb1 (Nb2 4. Qc3) 4. Qf5 $1) (d1=Q 3. Qa1#) (Kd1 3. Qh5+ Kc1 4. Qa5) 3. Qb5+ Kc1 4. Qa5 $1 (4. Qa4 $2 d1=N+ $1) (4. Qa6 $2 Kb1 5. Qb6+ Kc1) d1=N+ (d1=Q 5. Qa1#) (Kb1 5. Qb4+ Kc1 6. Qxd2+) 5. Ke2 $1 (5. Kd3 $2 Kb1 6. Qb4+ Nb2+) Kb1 (Kb2 6. Qb4+ Kc1 7. Qb3 Nb2 8. Qa2) 6. Qf5 $1 Nb2 (Kc1 {<eg>} 7. Qd3 Kb2 (Nb2 8. Qc3 Kb1 9. Kd2) (Nf2 8. Qa3+ Kb1 9. Qb3+ Kc1 10. Qa2) (Kb1 8. Kd2 Ne3 9. Kxe3) 8. Qb5+ Kc1 (Ka2 9. Kd2) (Kc3 9. Qc5+ Kb2 10. Kd2) 9. Qb3 Nb2 10. Qa2) (Nc3+ 7. Kd2) (Kb2 7. Qb5+) (Ne3 7. Kxe3) 7. Kd2 Nc4+ 8. Kc3 Ne3 (Na3 9. Kb3) 9. Qd3 Nd5+ (Ka2 10. Kd2 Kb1 11. Qb3+) 10. Kb3 Ne3 (Nb4 11. Kxb4) 11. Qxe3 c1=Q 12. Qe4+ Ka1 13. Qa4+ Kb1 14. Qa2# 1-0
+
+[Event "Lehr und Handbuch der Endspiele (2nd ed"]
+[Source "after Chekhover=V f7f1 1948."]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/R6K/8/7p/8/7k/5p2/8 w - - 0 1"]
+
+1. Rf7 $1 Kg2 2. Rg7+ Kf1 3. Kg8 $1 h4 4. Rh7 h3 5. Rxh3 Kg2 6. Rh7 f1=Q 7. Rg7+ Kh3 8. Rh7+ 1/2-1/2
+
+[Event "Journal de Genève"]
+[Date "1964.07.07"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7K/8/4N3/3p4/8/4p3/1k4B1 w - - 0 1"]
+
+1. Nd3 $1 (1. Nf3 $2 d3 2. Be3 (2. Bf2 Kc2) (2. Bb6 e1=Q 3. Nxe1 d2) Kc2 3. Bd2 (3. Kg6 Kd1 4. Bd2 e1=Q 5. Bxe1 Ke2) (3. Ne1+ Kd1 4. Nxd3 (4. Bf2 d2) e1=Q) Kd1 4. Ba5 (4. Kg6 e1=Q 5. Bxe1 Ke2) d2 5. Bxd2 e1=Q 6. Bxe1 Ke2) (1. Bf2 $2 Kc2 2. Nf3 (2. Kg6 d3) (2. Be1 d3 3. Nf3 Kd1) d3 3. Ne1+ (3. Be1 Kd1 4. Kg6 d2 5. Bxd2 e1=Q 6. Bxe1 Ke2) Kc3 4. Bb6 Kd2 5. Ba5+ (5. Nf3+ Kd1 6. Ba5 d2 7. Bxd2 e1=Q 8. Bxe1 Ke2) Ke3 6. Kg6 d2) Kc2 2. Ne1+ Kd2 (Kc3 3. Kg6 $1 d3 4. Bb6 $1) 3. Bf2 $1 (3. Nf3+ $2 Kd1 4. Bf2 d3) d3 4. Kg6 $1 Kc3 (Kd1 5. Nxd3 e1=Q 6. Nxe1 Ke2 7. Bh4) 5. Bb6 $1 Kd2 (d2 6. Ba5+ Kb3 7. Bxd2) (Kb4 6. Nxd3+) 6. Ba5+ $1 (6. Nf3+ $2 Kd1 7. Ba5 d2 8. Bxd2 e1=Q 9. Bxe1 Ke2) Ke3 7. Kf5 $1 d2 8. Bb6# 1-0
+
+[Event "Journal de Genève (m)"]
+[Source "(m): Cheron=A Journal de Genève=181 4-8-1964."]
+[Date "1964.07.07"]
+[Round "?"]
+[Composer "Chéron, André"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7K/8/3p4/7B/4p2N/8/1k6 w - - 0 1"]
+
+1. Nf4 $1 (1. Ng1 $2 d4 $1 2. Bg5 Kc2 3. Nf3 Kd1 4. Kg6 (4. Nxd4 e2) e2 5. Bh4 (5. Bd2 e1=Q 6. Bxe1 Ke2) d3 6. Be1 d2 7. Bxd2 e1=Q 8. Bxe1 Ke2) (1. Bf6 $2 e2 $1 2. Bh4 (2. Bc3 d4 3. Ba5 d3 4. Ng5 Kc2 5. Nf3 Kd1 6. Kg6 d2 7. Bxd2 e1=Q 8. Bxe1 Ke2) Kc2 3. Ng1 (3. Nf4 d4 $1 4. Nxe2 d3 5. Nd4+ Kc3 6. Nb5+ Kc2 7. Na3+ Kb3 8. Nb1 Kc2) d4 $1 4. Nf3 d3 $1 5. Be1 (5. Ne1+ Kc3 6. Bd8 Kd2 7. Ba5+ Ke3 8. Kg6 d2) Kd1 6. Kg6 d2) d4 (Kc2 2. Nxd5) 2. Bf6 $1 (2. Nd3 $2 Kc2 3. Nb4+ (3. Ne1+ Kd1 4. Kg6 (4. Ng2 d3 5. Nxe3+ Ke2) Ke2 5. Kf5 d3) Kd2 4. Bg5 d3 5. Nd5 Ke2 6. Nf4+ Kd2 7. Ng2 Ke2) (2. Ng2 $2 Kc2 $1 3. Kg6 (3. Bf6 Kd3 4. Kg6 Ke4 5. Bg5 d3 6. Nxe3 (6. Bxe3 Kf3) d2 7. Nd1 (7. Kh5 Kd3) Kd3) (3. Ne1+ Kd1 4. Nd3 Ke2 5. Nf4+ Kf3 6. Bg5 Ke4 7. Ng2 d3) (3. Bd8 Kd3 4. Bb6 Ke4) (3. Bg5 Kd1 4. Bh4 Ke2) Kd1 4. Kf5 (4. Ne1 Ke2) (4. Nf4 Kc2) d3 5. Ke4 (5. Nxe3+ Ke2) d2 6. Kd3 Kc1) (2. Kg6 $2 Kc2 3. Kf5 d3) e2 $1 (Kc2 3. Bxd4) (d3 3. Nxd3) 3. Nd3 $1 (3. Nxe2 $2 d3 4. Nc3+ Kc2 5. Nd5 d2) (3. Ng2 $2 d3 4. Bg5 Kc2 5. Ne1+ Kd1 6. Nxd3 e1=Q) (3. Bh4 $2 Kc2 4. Ng2 (4. Nxe2 d3) d3 5. Ne1+ Kc3 6. Bd8 Kd2 7. Ba5+ Ke3 8. Kg6 d2) Kc2 4. Ne1+ Kd2 (Kd1 5. Bh4) (Kc3 5. Kg6) 5. Bh4 (5. Nf3+ $2 Kd1 6. Bh4 d3 7. Be1 d2 8. Bxd2 e1=Q 9. Bxe1 Ke2) d3 (Kc3 6. Kg6) 6. Kg6 Kc3 (Ke3 7. Bg5+ Kf2 8. Bd2) 7. Bd8 Kd2 (d2 8. Ba5+ Kd4 9. Bxd2) 8. Ba5+ (8. Nf3+ $2 Kd1 9. Ba5 d2 10. Bxd2 e1=Q 11. Bxe1 Ke2) Ke3 9. Kf5 $1 (9. Ng2+ $2 Kf3 10. Ne1+ Ke3) (9. Bb6+ $2 Ke4 10. Ba5 Ke3) d2 10. Bb6# 1-0

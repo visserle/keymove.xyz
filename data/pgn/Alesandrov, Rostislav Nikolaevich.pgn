@@ -1,0 +1,107 @@
+[Event "64#347 (@2)"]
+[Source "î@: Ulrichsen=J HHdbIII#54975 4-3-2003."]
+[Date "1929.01.20"]
+[Round "?"]
+[Composer "Alesandrov, Rostislav Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p2p1N2/2P5/8/5rk1/8/8/K7 w - - 0 1"]
+
+1. c7 $1 Rf1+ 2. Kb2 Rf2+ 3. Kb3 Rf3+ 4. Kb4 Rf4+ 5. Kc5 Rf5+ 6. Kd6 (6. Kd4 $1 {<minor dual JU>} Rf4+ 7. Kd5 Rf5+ 8. Ne5+) Rf6+ 7. Ke7 Rc6 8. Ne5+ Kf5 9. Nxc6 1-0
+
+[Event "Shakhmatny Listok#407 (v)"]
+[Date "1929.12.10"]
+[Round "?"]
+[Composer "Alesandrov, Rostislav Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "q7/8/N2k4/8/5p2/8/8/1BK1R3 w - - 0 1"]
+
+1. Re6+ $1 Kd7 $1 (Kxe6 2. Nc7+ Kd7 3. Nxa8) 2. Bf5 Qd8 $1 (Qa7 3. Rh6+ Ke7 4. Rh7+) (Kd8 3. Re8+ Kxe8 4. Nc7+) 3. Bh3 $1 f3 4. Kd1 f2 5. Ke2 f1=Q+ 6. Kxf1 Qa8 7. Re8+ $1 Kxe8 8. Nc7+ Kd8 9. Nxa8 1-0
+
+[Event "L'Échiquier#068"]
+[Source "L'Échiquier/11"]
+[Date "1930.??.??"]
+[Round "?"]
+[Composer "Alesandrov, Rostislav Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5k2/5p2/5P2/5P2/r1p5/4R1K1 w - - 0 1"]
+
+1. Rc1 $1 Ke6 2. Kf2 Kd5 3. Ke3 Kc4 4. Rxc2+ Rxc2 1/2-1/2
+
+[Event "Shakhmatny Listok#422"]
+[Date "1930.04.25"]
+[Round "?"]
+[Composer "Alesandrov, Rostislav Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3R3K/k7/5pN1/5p2/8/8/b7/4b3 w - - 0 1"]
+
+1. Rd1 $1 Bc3 (Bf7 2. Rd7+) 2. Rd3 Bb4 (Bb2 3. Rd2) 3. Rd4 Ba5 4. Ra4 Bf7 5. Rxa5+ Kb6 6. Rxf5 Bxg6 7. Rxf6+ Kc7 8. Rxg6 1-0
+
+[Event "Neue Leipziger Zeitung"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Alesandrov, Rostislav Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B6/8/4N3/4p3/8/b2n4/K1k5/3N4 w - - 0 1"]
+
+1. Ne3+ $1 Kd2 2. Nc4+ Kc3 3. Nxa3 Nb4+ 4. Ka1 Kb3 5. Nb5 (5. Nb1 $2 Nc2#) Kc4 6. Nd6+ $1 (6. Na7 $2 Na6 7. Bxe5 Kd5) (6. Nbc7 $2 Nc6 $1) Kd5 7. Nc7+ $1 Kxd6 8. Na6+ Kc6 9. Nxb4+ 1-0
+
+[Event "Shakhmaty v SSSR"]
+[Date "1932.06.13"]
+[Round "?"]
+[Composer "Alesandrov, Rostislav Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/7p/2p2PP1/p1P5/p1K5/3P4/1k1B4 w - - 0 1"]
+
+1. Bc2+ $1 Kc1 2. Bb3 Kb1 3. Ba2+ Kxa2 4. Kc2 h5 5. g6 h4 6. g7 h3 7. g8=B (7. g8=Q $2 h2 8. Qd5 h1=Q 9. Qxh1) h2 8. Bd5 1-0
+
+[Event "Shakhmaty v SSSR#727"]
+[Source "Shakhmaty v SSSR/8"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Alesandrov, Rostislav Nikolaevich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3k1r2/1P1n4/P1p1p3/4p3/Kp2p3/1P2P3/8/8 w - - 0 1"]
+
+1. b8=Q+ $1 Nxb8 2. a7 Ke7 3. a8=Q Nd7 4. Qxc6 Rc8 $1 5. Qb7 $1 Ra8+ 6. Kb5 Rb8 7. Kc4 $1 Rxb7 1/2-1/2
+
+[Event "Shakhmaty v SSSR#774 (c)"]
+[Source "Shakhmaty v SSSR/7 (c): Shakhmaty v SSSR/12 1936."]
+[Date "1936.??.??"]
+[Round "?"]
+[Composer "Alesandrov, Rostislav Nikolaevich"]
+[White "Aleksandrov, R"]
+[Black " Troitzky, A."]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "k7/4p3/8/b2P4/3PK3/P7/8/8 w - - 0 1"]
+
+1. d6 $1 exd6 2. Kd5 Bc7 3. Kc6 Bb8 4. Kb6 Ba7+ 5. Kc6 Bb8 6. Kb6 1/2-1/2

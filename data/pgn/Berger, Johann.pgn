@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1890.??.??"]
+[Round "?"]
+[Composer "Berger, Johann"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "easy"]
+[SetUp "1"]
+[FEN "8/1pN2p2/1P6/8/2P5/5k2/b7/6K1 w - - 0 1"]
+
+1. c5 (1. Nb5 $4 Bxc4 2. Nd4+ Ke4) (1. Kf1 $4 Bxc4+ 2. Ke1 f5) Bb1 2. Ne6 (2. Nb5 $6 Be4 3. c6 $18) (2. c6 $6 Be4 3. Nb5 $18) (2. Nd5 $6 Be4 3. Ne7 $18) (2. Ne8 $2 Be4 3. Nd6 $10) (2. Na6 $2 Be4 3. Nb4 $10) (2. Kf1 $2 Be4 3. Ne8) (2. Na8 $4 Be4) (2. Kh2 $2 Be4 3. Nb5) (2. Kh1 $2 Ke4 3. Kh2) fxe6 3. c6 (3. Kf1 $4 e5 4. Ke1 Be4) Be4 4. c7 $18 (4. Kf1 $4 e5 5. cxb7 Bxb7) (4. cxb7 Bxb7) 1-0

@@ -1,0 +1,27 @@
+[Event "5.hm Shakhmaty v SSSR#082"]
+[Source "Shakhmaty v SSSR/4"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Dolukhanov, Alexander Pavlovich"]
+[White "Dolukhanov, A"]
+[Black " Korolkov, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4n2B/3b1PbP/5Pp1/2PP2p1/6Pp/2P4K/8/7k w - - 0 1"]
+
+1. c6 $1 (1. f8=Q $2 Bxf8 2. c4 Nc7 $1 3. f7 Nxd5 4. Be5 Ne3 5. h8=Q Bxg4#) Nxf6 (Bxg4+ 2. Kxg4 Nxf6+ 3. Kxg5) 2. cxd7 Ne4 3. f8=R (3. f8=Q $2 Bf6 4. Qc5 Bd4) Bxf8 4. Bd4 Bc5 5. h8=R $1 (5. d8=R $2 Bxd4 6. Rf8 Bf6 7. Rxf6 Nxf6 8. h8=R Nxd5 9. Rf8 Nf4+) (5. h8=Q $2 Bxd4 6. Qf8 Bf6 7. Qxf6 Nf2+ 8. Qxf2) Bxd4 6. Rf8 Bf6 $1 7. Rxf6 Nxf6 8. d8=R $1 (8. d8=Q $2 Ne4 9. Qf8 Nf2+ 10. Qxf2) Ne4 9. Rf8 1-0
+
+[Event "5.hm Shakhmaty v SSSR#082 (v)"]
+[Source "Shakhmaty v SSSR/4"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Dolukhanov, Alexander Pavlovich"]
+[White "Dolukhanov, A"]
+[Black " Korolkov, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7B/3P1PbP/6p1/3P2p1/4n1Pp/2P4K/8/7k w - - 0 1"]
+
+1. f8=R $1 (1. f8=Q $2 Bf6 2. Qxf6 Nf2+ 3. Qxf2) Bxf8 2. Bd4 Bc5 3. h8=R $1 (3. h8=Q $2 Bxd4 4. Qxd4 Nf2+ 5. Qxf2) (3. d8=R $2 Bxd4 4. Rf8 Bf6 5. Rxf6 Nxf6 6. h8=R Nxd5 7. Rf8 Nf4+) Bxd4 4. Rf8 Bf6 5. Rxf6 Nxf6 6. d8=R (6. d8=Q $2 Ne4 7. Qf8 Nf2+ 8. Qxf2) Ne4 7. Rf8 $1 1-0

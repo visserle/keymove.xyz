@@ -1,0 +1,263 @@
+[Event "Morgenzeitung"]
+[Date "1928.??.??"]
+[Round "?"]
+[Composer "Richter, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r1N3R1/8/6P1/4p3/p7/P7/4K1kp/8 w - - 0 1"]
+
+1. Rh8 $1 Rxc8 2. g7 Rg8 3. Rxg8 h1=Q 4. Rh8 Qf1+ 5. Kd2 Qf4+ 6. Kc2 Qc4+ 7. Kd2 1/2-1/2
+
+[Event "Cesky Svet"]
+[Date "1928.03.20"]
+[Round "?"]
+[Composer "Richter, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p7/p3P3/bp6/4b3/K7/BP6/2k5 w - - 0 1"]
+
+1. e7 $1 Bg6 2. b4 $1 (2. e8=Q $2 b4+ $1 3. Ka4 Bxe8+ 4. Kxa5 Kxb2 5. Kxb4 (5. Be6 Kc3 6. Kxa6 Bg6 7. Ka5 Bd3 8. Ka4 Bc4 9. Bf5 b3 10. Ka3 b2 11. Bg6 Bb3 12. Bb1 Bc2 13. Ba2 a6) Kxa2 6. Ka5 Bb5 7. Kb4 Be2 8. Ka5 Kb2 9. Kb4 a5+ $1 10. Kxa5 a6 11. Ka4 Bb5+ 12. Kb4 Ka2 13. Ka5 Ka3) Bb6 3. e8=Q Bxe8 4. Bf7 Bd7 5. Be6 Bc6 6. Bd5 Bxd5 1/2-1/2
+
+[Event "Ceskoslovenska Republika"]
+[Source "Ceskoslovenska Republika/3"]
+[Date "1929.??.??"]
+[Round "?"]
+[Composer "Richter, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3B4/pp6/2p3p1/3pk3/2P3PP/4K2B/1p6/8 w - - 0 1"]
+
+1. g5 $1 Kd6 (b1=Q 2. Bc7#) (d4+ 2. Kd2 $1 b1=Q 3. Bc7+ Ke4 4. Bg2+ Kf5 5. Bh3+) 2. c5+ $1 Kxc5 3. Be7+ Kb6 4. Bd8+ Kc5 (Ka6 5. Bf1+ b5 6. Bd3) 5. Be7+ 1/2-1/2
+
+[Event "Denken und Raten"]
+[Date "1931.??.??"]
+[Round "?"]
+[Composer "Richter, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5k2/6pB/6P1/6P1/8/p7/4K1PP/8 w - - 0 1"]
+
+1. Bg8 $1 Kxg8 2. Kf3 a2 3. Kg4 a1=Q 4. Kh5 $1 Qh1 5. h4 Qxg2 1/2-1/2
+
+[Event "Ceskoslovensky Sach#435"]
+[Source "Ceskoslovensky Sach/10-11"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Richter, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4Nk2/8/5K2/3B1p2/8/8/8/3b4 w - - 0 1"]
+
+1. Nc7 $1 (1. Bf7 $2 Ba4 $1 2. Nc7 Bd7 3. Nd5 Be8) (1. Ng7 $2 f4) Ba4 (f4 {<main>} 2. Bf7 Bg4 3. Nd5 f3 4. Ne7) 2. Ne6+ Ke8 3. Bf3 $1 f4 4. Bh5+ Kd7 5. Nc5+ Kc6 6. Nxa4 1-0
+
+[Event "Neue Leipziger Zeitung"]
+[Date "1938.??.??"]
+[Round "?"]
+[Composer "Richter, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5kb1/5Bp1/6P1/6P1/p7/8/6PP/6K1 w - - 0 1"]
+
+1. Bxg8 $1 Kxg8 2. Kf2 a3 3. Kg3 a2 4. Kh4 a1=Q 5. Kh5 1/2-1/2
+
+[Event "source unknown"]
+[Date "1939.??.??"]
+[Round "?"]
+[Composer "Richter, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/kp6/4R3/1P2K3/8/3pp3/8/8 w - - 0 1"]
+
+1. Kd6 $1 d2 2. Kc7 d1=Q (b6 3. Rxb6 d1=Q 4. Ra6#) 3. Ra6+ $1 bxa6 4. b6+ Ka8 5. b7+ Ka7 6. b8=Q# 1-0
+
+[Event "Národní Listy"]
+[Date "1940.04.07"]
+[Round "?"]
+[Composer "Richter, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1K6/3k4/P7/2BP4/4P3/1b6/8/7r w - - 0 1"]
+
+1. a7 $1 Rb1 (Rh8+ {<main>} 2. Kb7 Ra8 $1 3. Be3 $1 (3. Kxa8 $2 Kc8 4. d6 Ba4) Bc2 4. e5 Be4 5. e6+ Kd6 6. Bf4+ Kxd5 7. Kxa8) 2. Bb6 $1 (2. a8=Q $2 Bxd5+ 3. Ka7 Ra1+) Bxd5 3. exd5 Rxb6+ 4. Ka8 1/2-1/2
+
+[Event ".c Práce"]
+[Date "1950.07.23"]
+[Round "?"]
+[Composer "Richter, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7k/5B1p/5P1P/r5P1/pp6/1P6/P6K/8 w - - 0 1"]
+
+1. Be6 $1 axb3 (a3 2. f7 Ra8 3. Kg3 Rf8 4. Kg4 Rd8 (Rxf7 5. g6 $1) (Rc8 5. g6 $1) (Rb8 5. Kf4 Rf8 6. Ke5 Ra8 7. g6 hxg6 8. Kf6 Kh7 9. Ke7) 5. g6 hxg6 6. Kg5 Kh7 7. Kf6 Kxh6 8. Ke7) 2. f7 (2. Bxb3 $2 Rxg5 3. f7 Rg2+ 4. Kxg2) (2. axb3 $2 Rxg5 3. f7 Rg2+ 4. Kxg2) Rxa2+ 3. Kg3 $1 (3. Kg1 $2 Ra8 4. Bxb3 Ra1+ 5. Kf2 Rf1+ 6. Ke3 Rf3+ 7. Ke4 Rf4+ 8. Ke5 Rf5+ 9. Kd6 (9. Ke6 Rf6+ 10. Ke7 Rf2) Rf2 10. Ke7 Rf4 11. Be6 b3 12. f8=Q+ Rxf8 13. Kxf8 b2 14. Ba2 b1=Q 15. Bxb1) Ra8 4. Bxb3 Rd8 5. Kf4 $1 Rd4+ (Rf8 6. Ke5 Rb8 7. Kf6 Ra8 8. Ba4 Rf8 9. Ke7 b3 10. Kxf8 b2 11. Ke7 b1=Q 12. f8=Q#) 6. Ke5 Re4+ 7. Kd6 Rf4 (Rd4+ 8. Bd5) 8. Be6 $1 b3 9. Ke5 Rxf7 10. Bxf7 b2 11. Ba2 1-0
+
+[Event "Mlada fronta"]
+[Date "1951.02.22"]
+[Round "?"]
+[Composer "Richter, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/4R3/8/3P4/8/3B1k2/4pN2/4rq2 w - - 0 1"]
+
+1. Bxe2+ $1 Rxe2 2. Rf7+ Kg2 3. Rg7+ Kxf2 4. Rf7+ Ke1 5. Rxf1+ Kxf1 6. Kf7 1/2-1/2
+
+[Event "Práce"]
+[Date "1951.07.22"]
+[Round "?"]
+[Composer "Richter, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "r7/6Kp/B1P3p1/6p1/8/7P/6k1/8 w - - 0 1"]
+
+1. Bb7 $1 Rb8 (Re8 {<main>} 2. c7+ Kg3 (Kxh3 3. Kf7 Rh8 4. Bc6 h5 5. Kg7) 3. Kh6 $1 g4 4. hxg4 Kxg4 5. Bc6 Rg8 6. Kxh7) 2. Kh6 $1 Kxh3 $1 (Kg3 3. c7 Re8 4. c8=Q) 3. c7 Rg8 4. Bd5 Re8 5. Bc6 Rg8 6. Kxh7 Rf8 7. Kg7 Rc8 8. Bd7+ Kg3 9. Bxc8 1-0
+
+[Event "Sachové Koncici Hry#215"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Richter, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/7p/6p1/5k2/8/6P1/P7/7K w - - 0 1"]
+
+1. g4+ $1 (1. a4 $2 Ke4 2. Kg2 (2. g4 h5) h5 3. Kh3 g5) Ke5 2. g5 $1 Kd5 3. Kg2 1-0
+
+[Event "Zemedelske Noviny"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Richter, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4q1k1/6p1/4NP2/5n1P/8/8/6Q1/3K4 w - - 0 1"]
+
+1. f7+ $1 Kxf7 (Qxf7 2. Qa8+ Kh7 3. Ng5+) 2. Qg6+ $1 (2. Ng5+ $2 Kf8 3. Nh7+ Kg8 $1 4. Nf6+ Kh8 5. Nxe8 Ne3+) Ke7 3. Qxe8+ Kxe8 4. Nxg7+ Nxg7 5. h6 Kf7 6. h7 1-0
+
+[Event "Zemedelske Noviny"]
+[Date "1960.??.??"]
+[Round "?"]
+[Composer "Richter, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4K3/5p2/4k1b1/5Np1/6BP/8/8/8 w - - 0 1"]
+
+1. h5 $1 Bxf5 (Bxh5 2. Ng7+ Ke5 3. Bxh5 f5 4. Ke7) (Bh7 2. Kf8 Kf6 3. Ne7) 2. h6 Kf6 3. Bxf5 g4 4. Kf8 g3 5. h7 g2 6. h8=Q+ 1-0
+
+[Event "Ceskoslovensky Sport"]
+[Date "1960.04.22"]
+[Round "?"]
+[Composer "Richter, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5RR1/2p1kb1K/5bpP/8/8/7n/2P4P/8 w - - 0 1"]
+
+1. Rxf7+ $1 Kxf7 2. Rg7+ Bxg7 (Ke6 3. Rxc7) 3. hxg7 Kf6 4. Kh8 $1 (4. g8=Q $2 Ng5+ 5. Kh6 Nf7+ 6. Kh7 Ng5+ 7. Kh8 Nf7+) Ng5 5. h4 1-0
+
+[Event "6.p International Friendship Team ty (t"]
+[Source "EG#00135c."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Richter, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p3/8/4B3/p2K4/Np2P3/p2p4/kr6 w - - 0 1"]
+
+1. Kd3+ $1 Rb2 2. Ke2 e6 3. Bc3 e5 4. Kd1 e4 5. Nb5 Kb1 6. Bh8 Ka1 7. Bd4 Kb1 8. Nc3+ Ka1 9. Nxa4 Kb1 10. Bxb2 a1=Q 11. Bxa1 Kxa1 12. Kxd2 b2 13. Nc3 1-0
+
+[Event "6.p International Friendship Team ty (t"]
+[Source "EG#00135b."]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Richter, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4p3/8/4B3/p2K4/Np2P3/p1p5/kr6 w - - 0 1"]
+
+1. Kd3+ $1 Rb2 2. Kd2 e6 3. Bc3 e5 4. Kc1 e4 5. Bxb2# 1-0
+
+[Event "Práce"]
+[Date "1963.06.02"]
+[Round "?"]
+[Composer "Richter, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/pP6/1R6/K7/1n1r3N/1k6/8 w - - 0 1"]
+
+1. Rxb3+ $1 Rxb3 2. bxa7 Ra3+ 3. Kb4 Rb3+ 4. Ka5 Ra3+ 5. Kb6 Rb3+ 6. Kc7 Rc3+ 7. Kd7 Rd3+ 8. Ke7 Re3+ 9. Kf7 Rf3+ 10. Kg7 Rg3+ 11. Ng5 $1 Rxg5+ 12. Kf7 Rf5+ 13. Ke7 Re5+ 14. Kd7 Rd5+ 15. Kc7 Rc5+ 16. Kb7 Rb5+ 17. Kc6 1-0
+
+[Event "Ceskoslovensky Sport"]
+[Date "1964.04.29"]
+[Round "?"]
+[Composer "Richter, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1r4N1/ppR5/8/P1nk4/P4K2/8/8/4B3 w - - 0 1"]
+
+1. Nf6+ $1 (1. Ne7+ $2 Kd6 2. Rc8 Rxc8 3. Nxc8+ Kd7 4. Nxa7 Nd3+) Kd6 2. Rxc5 Kxc5 3. Nd7+ Kd6 4. Nxb8 Kc7 5. Na6+ $1 (5. Nd7 $2 Kxd7 6. Bf2 (6. Ke4 Kc6 7. Bf2 b6) b6 $1 7. Bxb6 Kc6) bxa6 6. Ke5 Kc6 7. Bf2 Kc7 8. Kd5 Kc8 9. Kc6 Kb8 10. Bb6 $1 Ka8 (axb6 11. axb6 a5 12. b7) 11. Kc7 axb6 12. axb6 a5 13. b7+ 1-0
+
+[Event "Zemedelske Noviny"]
+[Date "1970.11.14"]
+[Round "?"]
+[Composer "Richter, Emil"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/8/2P5/n2P4/2P3rk/8/b7/8 w - - 0 1"]
+
+1. c7 $1 Rxc4 2. d6 Rxc7 $1 (Nb7 3. d7) 3. d7 $1 Nb7 (Nc6 4. d8=Q+ Re7 5. Qc8) (Rxd7) 4. d8=Q+ Nxd8 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "Deutsche Schachzeitung#1611"]
+[Source "Deutsche Schachzeitung/6"]
+[Date "1917.??.??"]
+[Round "?"]
+[Composer "Eberle, Stefan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3K4/6p1/5k2/3P1N1P/6P1/1p6/7B w - - 0 1"]
+
+1. Nd5 $1 b1=Q 2. Be4+ Qxe4 (Kxe4 3. Nc3+) 3. g4+ Qxg4 (Kxg4 4. Nf6+) 4. Ne3+ 1-0

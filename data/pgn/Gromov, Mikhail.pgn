@@ -1,0 +1,13 @@
+[Event "1.p Galitzky MT Kommunist"]
+[Source "EG#07126."]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Gromov, Mikhail"]
+[White "Gromov, M"]
+[Black " Kozirev, V."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3B4/3P4/6Q1/4r3/5N2/pK6/2pq2P1/3k4 w - - 0 1"]
+
+1. Qg4+ $1 Kc1 $1 (Ke1 2. Bh4+ Kf1 3. Qf3+ Kg1 4. Nh3+ Kh2 5. Bg3+ Kh1 6. Qf1#) 2. Ka2 Qc3 $1 3. Nd3+ $1 Qxd3 4. Bg5+ Rxg5 (Re3 {<main>} 5. Bxe3+ (5. Qe6 $2 Qd5+ $1 6. Qxd5) Qxe3 6. d8=B $1 (6. d8=Q $2 Qe6+ $1 7. Qxe6) Kd2 7. Bg5 c1=Q 8. Bxe3+ Kxe3 9. Qg5+) 5. Qxg5+ Kd1 6. d8=R $1 (6. d8=Q $2 c1=N+ $1 7. Ka1 Nb3+ 8. Ka2 Nc1+ 9. Qxc1+ Kxc1 10. Qxd3) c1=N+ 7. Qxc1+ Kxc1 8. Rxd3 1-0

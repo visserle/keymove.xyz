@@ -1,0 +1,70 @@
+[Event "tl35"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Fuchs, Georges Mathieu"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3R4/p2P2b1/Pp1P1p1p/1P2p2P/p5Pp/kpP5/8/K7 w - - 0 1"]
+[PlyCount "7"]
+
+1. Rh8 $1 b2+ (h3 $144 2. d8=Q h2 3. Qa8 $18) 2. Kb1 Kb3 3. d8=Q a3 4. Qg8+ $18 1-0
+
+[Event "o000"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Fuchs, Georges Mathieu"]
+[Composer2 "Seneca, Camil"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1k6/1p4K1/PP3p2/1P6/8/p4P1p/Rp5P/8 w - - 0 1"]
+[PlyCount "9"]
+
+1. a7+ $1 Ka8 2. Kh8 $1 {A l'abri de tout échecs de la Q qui va être promue en b1} f5 3. Kh7 {A l'abri de tout échecs de la Q qui va être promue en b1} f4 4. Kh6 $1 {A l'abri de tout échecs de la Q qui va être promue en b1} b1=Q 5. Rd2 $18 1-0
+
+[Event "La Stratégie#1246"]
+[Source "La Stratégie/8"]
+[Date "1925.??.??"]
+[Round "?"]
+[Composer "Fuchs, Georges Mathieu"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4b3/8/8/7p/3Rn2K/2N3n1/7p/4k3 w - - 0 1"]
+
+1. Rd1+ $1 Kf2 2. Nxe4+ Nxe4 3. Rh1 Kg2 $1 4. Rxh2+ Kxh2 1/2-1/2
+
+[Event "Le Temps#381"]
+[Date "1934.03.04"]
+[Round "?"]
+[Composer "Fuchs, Georges Mathieu"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4nk2/2p2p2/7P/4B2p/2K2P1p/7p/5P2/8 w - - 0 1"]
+
+1. h7 $1 (1. Bg7+ $2 Ke7 2. h7 h2) (1. f5 $2 Kg8 $1) h2 (Ke7 2. f5 $1) 2. Bf6 $1 (2. h8=Q+ $2 Ke7 3. Bf6+ Kd7 $1 4. Qf8 Nd6+ $1 5. Kc5 h1=Q) Nxf6 3. h8=Q+ Ng8 (Ke7 4. Qa8 $1) 4. Qa1 1-0
+
+[Event "Chess#049"]
+[Date "1936.12.14"]
+[Round "?"]
+[Composer "Fuchs, Georges Mathieu"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k3N1/1p6/2p3P1/8/4K3/p5p1/5P2/8 w - - 0 1"]
+
+1. g7 $1 g2 (gxf2 2. Nf6 f1=Q 3. g8=Q+ Kc7 4. Qf7+ Kc8 $1 5. Qf8+ Kc7 6. Ne8+) (a2 2. Nf6 a1=Q 3. g8=Q+ Kc7 4. Qg7+ Kc8 $1 5. Qh8+ Kc7 6. Ne8+) 2. Ne7+ 1-0

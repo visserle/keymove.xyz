@@ -1,0 +1,67 @@
+[Event "1.p Neue Leipziger Zeitung"]
+[Source "Neue Leipziger Zeitung/6"]
+[Date "1932.??.??"]
+[Round "?"]
+[Composer "Vollmer, Willi"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1K6/p1pP4/k1q5/1pP5/1P3Q2/8/8/8 w - - 0 1"]
+
+1. Qh6 $1 (1. d8=N $2 Qb7+ $1 (Qg6 $2 2. Qc1 $1 Qb6+ 3. cxb6 cxb6 4. Qc8#) (Qb6+ $2 2. Kc8 $1 (2. cxb6 $2 cxb6) Qb8+ 3. Kd7 c6 4. Ne6 $1 Qxf4 5. Nxf4) 2. Nxb7 c6 3. Qc4 $1 (3. Qc1) bxc4 4. Kc7 Kb5 5. Na5 Kxb4 6. Nxc4 Kxc5) (1. Qxc7 $2 Qxc7+ 2. Kxc7) Qxh6 2. d8=Q Qe6 (Qh3 3. Qg8) 3. Qh8 $1 1-0
+
+[Event "Deutsche Schachzeitung#1843"]
+[Source "Deutsche Schachzeitung/8"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Vollmer, Willi"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/p7/k1K1P3/1p6/1P6/5p2/B4p2/8 w - - 0 1"]
+
+1. Bc4 $1 bxc4 2. e7 f1=Q 3. e8=N $1 (3. e8=Q $2 Qh3) f2 4. Nc7# 1-0
+
+[Event "Neue Leipziger Zeitung"]
+[Date "1933.??.??"]
+[Round "?"]
+[Composer "Vollmer, Willi"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/4N3/5p2/p4p2/5P1p/5K1k w - - 0 1"]
+
+1. Nd3 $1 a2 2. Ne1 a1=N 3. Nd3 $1 (3. Nxf3 $2 Nb3 $1) (3. Nc2 $2 Nb3) Nb3 4. Nxf4 Nd2+ 5. Ke1 Kg1 6. Nh3+ Kg2 7. Nf4+ Kh1 8. Nh3 1/2-1/2
+
+[Event "Südwest-Schach"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Vollmer, Willi"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b6/Nkp5/p7/P1P5/8/7p/5K1P/8 w - - 0 1"]
+
+1. c6+ $1 Kxa7 2. Kg1 $1 (2. Kg3 $2 Ka8 3. Kxh3 Ba7 4. Kg4 Bd4 5. h4 Bc3 6. h5 Bxa5 7. h6 Bc3) Ka8 3. Kh1 Ba7 1/2-1/2
+
+[Event "Schach Echo#445"]
+[Source "Schach Echo/7"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Vollmer, Willi"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/p6P/6r1/1BK3nk w - - 0 1"]
+
+1. Be4 $1 Ne2+ 2. Kc2 Nd4+ 3. Kc3 Nb5+ 4. Kb3 Kh2 5. Bxg2 Kxg2 6. h4 1/2-1/2

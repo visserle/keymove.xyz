@@ -1,0 +1,13 @@
+[Event "The Problemist#0198"]
+[Source "The Problemist/3-4"]
+[Date "1977.??.??"]
+[Round "?"]
+[Composer "Brown, David Leo"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/1N6/k1p1nKp1/p2q4/8/RP3nb1/1Q6 w - - 0 1"]
+
+1. Rxa4+ $1 Qxa4 2. Nxa4 Be4+ 3. Qxe4 Nxe4 4. Nxc5 Nxc5 5. b4+ Kb5 6. Kxg5 1/2-1/2

@@ -1,0 +1,82 @@
+[Event ".c Szachy"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Peckover, Joseph Edmund"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1B3k2/1P2p2K/5q2/8/8/3p3R/R7/8 w - - 0 1"]
+
+1. Rf2 $1 (1. Be5 $2 Qf5+ 2. Kh6 Qe6+ $1 3. Kg5 Qxe5+ 4. Kg4 Qe4+ 5. Kg5 Qxb7) (1. Rg3 $2 Qf7+ 2. Kh6 Qxa2) Qxf2 2. Bf4 $1 Qxf4 3. Rf3 $1 Qxf3 4. b8=Q+ Kf7 5. Qg8+ Kf6 6. Qf8+ Ke5 7. Qxf3 1-0
+
+[Event "Problem#104"]
+[Source "Problem/6"]
+[Date "1961.??.??"]
+[Round "?"]
+[Composer "Peckover, Joseph Edmund"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "3K4/3P4/8/8/5P2/3k4/8/b5r1 w - - 0 1"]
+
+1. Ke7 $1 Rg7+ 2. Ke6 Rg8 (Rg6+ 3. Kf7 Rd6 4. Ke7 Rd5 5. f5 Ke4 6. d8=Q Bf6+ 7. Kxf6 Rxd8 8. Ke7) 3. Ke7 Ke4 4. f5 Kf4 5. d8=Q Bf6+ 6. Kxf6 Rxd8 7. Ke7 Ra8 8. f6 Ke5 9. f7 Ra7+ 10. Ke8 Ke6 11. f8=N+ 1/2-1/2
+
+[Event "Tidskrift for Schack#1086"]
+[Source "Tidskrift for Schack/12"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Peckover, Joseph Edmund"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/4pR2/6K1/3k4/3p4/8 w - - 0 1"]
+
+1. Rf1 $1 e4 (Ke2 2. Ra1 e4 3. Kf4 e3 4. Ke4) 2. Ra1 $1 (2. Rb1 $2 e3 3. Kf3 e2 4. Rb3+ Kc2) e3 3. Kf3 e2 4. Ra3+ Kc2 5. Ra2+ Kc1 6. Ra1+ Kb2 7. Kxe2 1/2-1/2
+
+[Event "Tidskrift for Schack#1328"]
+[Source "Tidskrift for Schack/9"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Peckover, Joseph Edmund"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/1p1NN3/k1n5/2K5/Bpp5/8 w - - 0 1"]
+
+1. Bb3+ $1 Ka3 2. Nxc4+ bxc4 3. Bxc2 Ka2 4. Kd2 b1=N+ 5. Kc1 Na3 6. Nb4+ Ka1 7. Ba4 Nb1 (c3 8. Bb3 c2 9. Bd5 Nc4 10. Nxc2+ Ka2 11. Bxc4#) 8. Bb5 1-0
+
+[Event "Tidskrift for Schack#1337"]
+[Source "Tidskrift for Schack/11"]
+[Date "1966.??.??"]
+[Round "?"]
+[Composer "Peckover, Joseph Edmund"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5K2/8/2k5/4P3/4r1P1/8/8/8 w - - 0 1"]
+
+1. g5 $1 Rxe5 (Rg4 {<main>} 2. e6 Rxg5 3. e7 Rf5+ 4. Ke8 Kd6 5. Kd8 Ra5 6. e8=N+ $1) 2. g6 Kd7 3. g7 Rf5+ 4. Kg8 Ke7 5. Kh7 (5. Kh8 $2 Rh5+ 6. Kg8 Rg5) Kf6 6. g8=N+ $1 1/2-1/2
+
+[Event "Problem#185 (c)"]
+[Source "Problem/5 (c): Peckover=J Problem=120-123 10/1968."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Peckover, Joseph Edmund"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/4p3/8/8/8/6p1/1R1pk3/6K1 w - - 0 1"]
+
+1. Kg2 $1 e5 2. Kxg3 Kd3 3. Rb1 e4 4. Ra1 e3 5. Kf3 e2 6. Ra3+ Kc2 7. Ra2+ Kc1 8. Ra1+ Kb2 9. Kxe2 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[Composer "Rusek, Jan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Pawn promotion"]
+[Difficulty "medium"]
+[SetUp "1"]
+[FEN "8/8/B6P/8/5n2/5k2/3p4/3K4 w - - 0 1"]
+
+1. Be2+ (1. h7 $2 Ng6 2. Kxd2 $10) (1. Bd3 $2 Nh3 2. h7 $10 Nf2+ $4 (Ke3 $5) 3. Kxd2 Ne4+ 4. Bxe4+ Kxe4 5. h8=Q) (1. Kxd2 $2 Ng6 2. h7 $10) (1. Bb7+ $2 Ke3 2. h7 $10) (1. Bc8 $2 Ng6 2. h7) (1. Bf1 $2 Ng6 2. h7) (1. Bb5 $2 Ng6 2. h7) (1. Bc4 $2 Ng6 2. h7) (1. Kc2 d1=Q+ 2. Kxd1) Ke3 2. Bh5 (2. h7 $2 Ng6 3. h8=Q $10) (2. Bf3 $2 Ng6 3. h7 $10) (2. Bg4 $2 Ng6 3. h7) (2. Bc4 $4 Nh3) (2. Bf1 $4 Nd5) (2. Bb5 $4 Nh3) (2. Ba6 $4 Nh3) Kd3 3. h7 (3. Bf7 $4 Nh3 4. Bg6+ Kc3 $19) (3. Be2+ $4 Nxe2 4. h7 Nc3#) (3. Bg4 $4 Ng2 4. Bf5+ Kc3) (3. Be8 Nh3 4. Bg6+ Kc3) (3. Bf3 Nh3 4. Be4+ Kc3) Nh3 $1 4. Be2+ (4. Bg6+ Ke3 5. Kc2 $18) Ke3 5. h8=Q $18 (5. Bh5 Nf2+ $18 6. Kc2) (5. Bf3 $18) (5. Kc2 $2 Kxe2 6. h8=Q) (5. h8=N $4 Nf2+ 6. Kc2 Kxe2) (5. Bg4 $2 Nf2+ 6. Kc2) (5. Bf1 $4 Nf2+ 6. Kc2 d1=Q+) (5. Bd3 Kxd3 6. h8=Q Nf2#) (5. Ba6 Nf2+ 6. Kc2 d1=Q+) 1-0

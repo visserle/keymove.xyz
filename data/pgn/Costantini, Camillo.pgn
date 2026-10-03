@@ -1,0 +1,54 @@
+[Event "L'Italia Scacchistica#133a (tw)"]
+[Source "L'Italia Scacchistica/4"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Costantini, Camillo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/p7/3p4/8/6P1/k2K4 w - - 0 1"]
+
+1. Kc1 $1 a4 2. g4 a3 3. g5 a2 4. g6 d3 5. g7 d2+ 6. Kxd2 Kb1 7. g8=Q a1=Q 8. Qg6+ Ka2 9. Qa6+ Kb1 10. Qd3+ Ka2 11. Qc4+ Ka3 12. Qa6+ Kb2 13. Qb5+ Ka3 14. Qa5+ Kb2 15. Qb4+ Ka2 16. Kc2 1-0
+
+[Event "L'Italia Scacchistica#256"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Costantini, Camillo"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6k1/8/5p2/7p/8/4P3/5K2/8 w - - 0 1"]
+
+1. Kf3 $1 (1. Kg3 $2 Kf7 2. Kf4 (2. Kf3 Ke6 3. Kf4 Kd5 4. Kf5 h4 5. Kg4 Ke4 6. Kxh4 Kxe3) Ke6 3. Ke4 (3. e4 h4) h4 4. Kf4 Kd5) Kg7 (Kf7 2. Kg3 $1) 2. Kf4 (2. Ke4 $2 Kf7 3. Kf5 Ke7 4. Kf4 (4. e4 h4 5. Kg4 Ke6) Ke6 5. Ke4 h4) Kf7 3. Kg3 Kg6 (Ke6 4. Kh4) 4. Kf4 Kg7 5. Kf3 Kf8 6. Kg2 $1 (6. Kg3 $2 Kf7 $1) Ke7 7. Kh3 Kf7 8. Kg3 Kg6 9. Kf4 Kh6 10. Kf5 Kg7 11. Kf4 $1 (11. e4 $2 Kf7 12. e5 h4 13. Kg4 fxe5 14. Kxh4 Ke6) Kg6 12. e4 $1 Kh6 13. Kf5 Kg7 14. e5 1/2-1/2
+
+[Event "L'Italia Scacchistica#306"]
+[Source "L'Italia Scacchistica/7"]
+[Date "1980.??.??"]
+[Round "?"]
+[Composer "Costantini, Camillo"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4k3/2p5/2P5/8/2p5/8/6K1/8 w - - 0 1"]
+
+1. Kf2 $1 Kf8 2. Ke2 Kf7 3. Kf3 Kf6 4. Kf4 Ke6 5. Ke4 Ke7 6. Ke3 Kd6 7. Kd4 Kxc6 8. Kxc4 1/2-1/2
+
+[Event "L'Italia Scacchistica#465"]
+[Source "L'Italia Scacchistica/7"]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Costantini, Camillo"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5k2/8/7p/2pP3P/K7/8 w - - 0 1"]
+
+1. d4 $1 Kf5 2. Kb3 Kf4 3. Kc2 Ke4 4. Kxc3 Kf4 5. Kd3 1-0

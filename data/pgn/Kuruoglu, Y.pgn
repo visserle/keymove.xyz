@@ -1,0 +1,13 @@
+[Event "3.p Chervoni Girnik"]
+[Source "EG#06650."]
+[Date "1986.??.??"]
+[Round "?"]
+[Composer "Kuruoglu, Y"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p4p1/1P1P2P1/pKp2k2/8/8/6P1/4B2r w - - 0 1"]
+
+1. d7 $1 Rh8 2. Bh4 a4 3. Kc4 (3. Kxa4 $2 Rxh4+ 4. Kb5 Rd4) (3. Kxc5 $2 a3) Rxh4+ 4. Kxc5 a3 5. d8=Q a2 6. Qd5+ Kxg6 7. Qxa2 1-0

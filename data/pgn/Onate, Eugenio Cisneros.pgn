@@ -1,0 +1,41 @@
+[Event "3.p Tidskrift for Schack#1401"]
+[Source "Tidskrift for Schack/11 EG#01237."]
+[Date "1967.??.??"]
+[Round "?"]
+[Composer "Onate, Eugenio Cisneros"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5K1B/7r/8/5P1P/8/8/6kP/8 w - - 0 1"]
+
+1. f6 $1 Rxh5 (Rxh8+ 2. Kg7 Rxh5 3. f7 Rf5 4. h4) 2. f7 Rf5 3. Be5 $1 (3. h4 $2 Kh3 $1 4. Bf6 Rxf6 5. h5 Kg4 $1 6. h6 Rxh6 7. Kg7 Rh5 $1 8. f8=Q Rg5+ 9. Kh6 Rh5+) Rxe5 (Kh3 4. Bd6 Kg4 5. Be7) 4. Kg7 (4. h4 $2 Re3 $1 5. h5 Rh3 $1 6. h6 Rxh6 7. Kg7 Rh3 8. f8=Q Rg3+ 9. Kh6 Rh3+) Rg5+ (Rf5 5. h4) 5. Kf6 Rg4 6. Ke5 (6. Kf5 $2 Kf3) Rg5+ (Kf3 7. f8=Q+) 7. Kf4 (7. Ke4 {<or>} Rg4+ 8. Ke3) 1-0
+
+[Event "1.hm Schach Echo#032"]
+[Source "Schach Echo/8 EG#01649."]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Onate, Eugenio Cisneros"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1b6/8/8/2N5/6K1/4k1p1/8/8 w - - 0 1"]
+
+1. Kh3 $1 Kf3 2. Ne6 (2. Nd3 $2 Ke2 3. Nc5 Kf1 4. Ne4 g2 5. Nd2+ Kg1 6. Ne4 (6. Kg4 Kf2 7. Nf3 Bc7) Bf4) g2 3. Ng5+ Kf2 4. Kh4 $1 (4. Ne4+ $2 Kg1 5. Nd2 Bf4 6. Nf3+ Kf2 7. Kg4 Bb8) Ba7 5. Nh3+ Kf3 6. Ng5+ Ke2 7. Nh3 Bf2+ 8. Kg4 Ke3 9. Ng1 $1 Bxg1 10. Kg3 Bf2+ 11. Kxg2 1/2-1/2
+
+[Event "1.hm Lommer JT EG (c)"]
+[Source "EG/3 (c): Garcia=M Estudios Artisticos de Ajedrez - XII-63 2012."]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Onate, Eugenio Cisneros"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3n2B1/1p6/1Pp5/p3P2P/p7/5b2/K2k4/8 w - - 0 1"]
+
+1. h6 $1 Be4 2. e6 Nxe6 3. Bxe6 Kc3 4. Bd7 Kd4 5. Bxc6 Bh7 6. Bxb7 Kc5 7. Be4 Bg8+ 8. Bd5 Kxd5 9. h7 Bxh7 10. b7 1-0

@@ -1,0 +1,38 @@
+[Event "Manchester Guardian#038"]
+[Date "1950.01.12"]
+[Round "?"]
+[Composer "Wigan, Tomas Kelbe"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "2q5/2N5/1p1P4/1p3p2/1P1p3p/1P5k/2B3pP/6K1 w - - 0 1"]
+
+1. d7 $1 Qxd7 2. Ne6 Qxe6 (Kg4 3. Bd1+) (d3 3. Bxd3 Qxd3 4. Nf4+) 3. Bxf5+ Qxf5 1/2-1/2
+
+[Event "Public Opinion"]
+[Date "1950.07.14"]
+[Round "?"]
+[Composer "Wigan, Tomas Kelbe"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3q4/3k4/3p3R/7P/8/pp6/8/R3K3 w Q - 0 1"]
+
+1. Rxd6+ $1 Kxd6 2. O-O-O+ Ke7 3. Rxd8 Kxd8 4. h6 1-0
+
+[Event "Manchester Guardian#092"]
+[Date "1951.01.25"]
+[Round "?"]
+[Composer "Wigan, Tomas Kelbe"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1q5k/2p5/1P4P1/8/2b5/8/pR6/K7 w - - 0 1"]
+
+1. bxc7 $1 Qxc7 2. g7+ Kxg7 (Qxg7) (Kh7 3. g8=Q+ Kxg8 (Bxg8 4. Rb7 Qxb7) 4. Rb8+) 3. Rb7 Qxb7 1/2-1/2

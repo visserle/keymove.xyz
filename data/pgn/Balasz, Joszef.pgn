@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[Composer "Balasz, Joszef"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[Theme "Attacking the king"]
+[Difficulty "hard"]
+[SetUp "1"]
+[FEN "3Q4/3p4/P2p4/N2b4/8/4P3/5p1p/5Kbk w - - 0 1"]
+
+1. Qa8 (1. Qf6 $4 Bg2+ $4 (Be4 $5 2. Qxf2) 2. Ke2 $18) (1. Qf8 $4 Be4 2. Qxf2 Bd3+ 3. Qe2) (1. Ke2 $4 Bf3+ 2. Kxf3 f1=Q+) Bxa8 2. Nb7 (2. Nc4 $4 Bg2+ 3. Ke2 f1=Q+ $19) (2. Nb3 $4 Bg2+ 3. Ke2 f1=Q+ $19) (2. a7 $4 Bg2+ 3. Ke2 f1=Q+) (2. Ke2 Kg2) d5 3. Nd6 (3. Nc5 $4 Bc6 $19) (3. Nd8 $4 d4 4. exd4 Bg2+) (3. Na5 $4 d4 4. exd4 Bg2+) (3. Ke2 $4 Kg2 $19) Bc6 4. a7 (4. Ke2 $4 Kg2) (4. Nf7 Bb5#) (4. Nc4 Bb5) (4. Nc8 Bb5#) d4 5. e4 (5. exd4 $4 Bg2+ 6. Ke2 f1=Q+ $19) (5. a8=Q $4 Bxa8 6. exd4 Bg2+) (5. Nc4 $4 Bg2+ 6. Ke2 f1=Q+) (5. a8=B $4 Bxa8 6. exd4 Bg2+) (5. Nb7 Bb5#) d3 6. Nf5 (6. Nc4 $4 d2 $19) (6. Nb5 $4 Bxb5 7. e5 d2#) (6. a8=Q $4 d2 7. Qa1 $10) (6. Nf7 $4 Bb5) (6. Nc8 $4 Bb5 $19) (6. Nb7 $4 Bxe4 7. a8=Q Bg2#) d2 7. Ng3# (7. Ne3 $4 Bb5+ 8. Nc4 Bxc4#) (7. Ke2 $4 f1=Q+ 8. Kxd2 Qf2+) (7. Ne7 d1=Q#) 1-0

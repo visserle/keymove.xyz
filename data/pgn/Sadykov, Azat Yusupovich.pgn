@@ -1,0 +1,96 @@
+[Event "Shakhmaty v SSSR#35 (c)"]
+[Source "Shakhmaty v SSSR/9 (c): Sadykov=A Shakhmaty v SSSR/5 1966."]
+[Date "1965.??.??"]
+[Round "?"]
+[Composer "Sadykov, Azat Yusupovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "1B6/3p1K2/8/5N2/8/2P5/n2p1kP1/8 w - - 0 1"]
+
+1. Ba7+ $1 Ke1 $1 2. Ne3 Nxc3 3. Bc5 $1 Nd5 4. Nxd5 d1=Q 5. Bb4+ Kf2 6. Bc5+ Kg3 7. Bd6+ Kh4 8. Be7+ Kh5 9. g4+ Kh6 10. Bf8+ Kg5 11. Be7+ Kh6 12. Bf8+ 1/2-1/2
+
+[Event ".hm Uralski Rabochi (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - IX-81 2012."]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Sadykov, Azat Yusupovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/4B3/4P3/3r4/3k4/1p1N2Kp/8/8 w - - 0 1"]
+
+1. Bf6+ $1 Kxd3 2. e7 h2 3. Kxh2 Rh5+ 4. Kg3 (4. Kg2 $2 b2 5. e8=Q Rg5+ 6. Bxg5 b1=Q 7. Qg6+ Ke2 8. Qxb1) Rg5+ (b2 5. e8=Q Rg5+ 6. Kf4 b1=Q 7. Qe4+ Kd2 8. Qxb1) 5. Bxg5 b2 6. e8=B (6. e8=Q $2 b1=Q 7. Qg6+ Ke2 8. Qxb1) b1=Q 7. Bg6+ Ke2 8. Bxb1 1-0
+
+[Event "2.p Uralski Rabochi (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - IX-81 2012."]
+[Date "1968.??.??"]
+[Round "?"]
+[Composer "Sadykov, Azat Yusupovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "b2k4/4n3/1PP5/B6q/8/7N/5P1R/4K3 w - - 0 1"]
+
+1. Ng5 $1 (1. b7+ $2 Qxa5+) Qxg5 2. Rh8+ Ng8 3. Rxg8+ Qxg8 4. b7+ Ke7 5. Bd8+ $1 Qxd8 6. c7 1/2-1/2
+
+[Event "2.hm Shakhmaty v SSSR#50 (c)"]
+[Source "Shakhmaty v SSSR/10 EG#01256. (c): Sadykov=A Shakhmaty v SSSR/4 1970."]
+[Date "1969.??.??"]
+[Round "?"]
+[Composer "Sadykov, Azat Yusupovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "4R3/8/7P/8/2nk4/8/2p5/K1b5 w - - 0 1"]
+
+1. h7 $1 Bb2+ 2. Ka2 Kd3 3. Rd8+ Ke2 4. Re8+ Kf2 5. Rf8+ Kg2 6. Rg8+ Kh2 7. h8=Q+ Bxh8 8. Rxh8+ Kg2 9. Rg8+ Kf2 10. Rf8+ Ke2 11. Re8+ Kd2 12. Rd8+ Kc3 13. Rc8 c1=Q 14. Rxc4+ Kxc4 1/2-1/2
+
+[Event "3.c Chervoni Girnik"]
+[Source "EG#01731."]
+[Date "1972.??.??"]
+[Round "?"]
+[Composer "Sadykov, Azat Yusupovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1B6/8/2p3p1/7N/4K2p/8/5kr1 w - - 0 1"]
+
+1. Ba6+ $1 Ke1 2. Nf3+ Kd1 3. Nxg1 h2 4. Nh3 h1=N 5. Kf3 Ke1 6. Nxg5 Nf2 7. Kg3 $1 c4 8. Bxc4 Nd1 9. Nf3# 1-0
+
+[Event "1.hm Vserossiski ty"]
+[Date "1976.??.??"]
+[Round "?"]
+[Composer "Sadykov, Azat Yusupovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k3N3/p2n4/P1rP4/5K2/2b4p/7B/2r5/4R3 w - - 0 1"]
+
+1. Nc7+ $1 Rxc7 2. Re8+ Rc8 3. Rxc8+ Nb8 4. d7 Be6+ $1 5. Kxe6 Rxc8 6. dxc8=B $1 Nxa6 7. Bxa6 Kb8 8. Kd6 Ka8 9. Bg2+ Kb8 10. Kc6 h3 11. Bd5 h2 12. Bh1 Ka8 13. Kc7# 1-0
+
+[Event "Shakhmaty v SSSR#35"]
+[Source "Shakhmaty v SSSR/9"]
+[Date "1981.??.??"]
+[Round "?"]
+[Composer "Sadykov, Azat Yusupovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "r4n1K/2P3pP/2R1pk1P/8/6n1/8/6R1/8 w - - 0 1"]
+
+1. Rf2+ $1 (1. c8=Q $2 Ng6+ 2. Kg8 Nxh6#) Nxf2 2. c8=Q Ng6+ $1 3. Kg8 Ne7+ 4. Kf8 Nxc8 5. Rxe6+ $1 (5. h8=Q $2 Ne7+) Kxe6 6. h8=Q Ne7+ 7. Kxg7 Rxh8 8. h7 $1 (8. Kxh8 $2 Kf7) 1/2-1/2

@@ -1,0 +1,13 @@
+[Event "Le Palamède#32"]
+[Source "Le Palamède/7"]
+[Date "1836.??.??"]
+[Round "?"]
+[Composer "Calvi, Ignazio"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5n2/P3p3/3pP3/3P3P/1P2p3/4P1pk/1P4p1/6K1 w - - 0 1"]
+
+1. a8=R $1 (1. a8=Q $2 Nh7 2. Qg8 Ng5 3. Qxg5) Nh7 2. Rg8 $1 Ng5 3. Rxg5 1-0

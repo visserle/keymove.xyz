@@ -1,0 +1,55 @@
+[Event "6.c Shakhmaty v SSSR#09"]
+[Source "Shakhmaty v SSSR/2 EG#01518."]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Tolstoy, Stanislav Maximovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/3ppK1n/2pp4/P2k4/8/8/1P6/8 w - - 0 1"]
+
+1. a6 $1 Ng5+ 2. Kxe7 Ne6 3. a7 Nc7 4. Kd8 $1 (4. Kxd7 $2 Na8 5. Kc8 Ke6 $1 6. Kb7 Kd7 7. Kxa8 Kc8) Na8 5. Kc8 Kc5 6. Kb7 Nb6 7. Ka6 Nd5 8. b4+ Kxb4 9. Kb7 1-0
+
+[Event "Buletin Problemistic#042"]
+[Source "Buletin Problemistic/10-12 also Vlasenko=V Tolstoy=S Na Stradzje Rodinj 22-12-1973."]
+[Date "1973.??.??"]
+[Round "?"]
+[Composer "Tolstoy, Stanislav Maximovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/3P4/8/k7/8/1K4p1/2n5 w - - 0 1"]
+
+1. d7 $1 Nd3+ (g1=Q 2. d8=Q Qe3 3. Qd7+ Kb4 4. Qd6+ Ka4 5. Qc6+) 2. Kc3 g1=Q 3. d8=Q Qa1+ 4. Kc4 Ne5+ 5. Kd5 $1 (5. Kc5 $2 Qc3+ $1 6. Kd5 (6. Kb6 Qa5+) Qd3+ $1 7. Kc5 Qb5+ (Qxd8 $2) 8. Kd4 (8. Kd6 Nf7+) Nc6+) Qd1+ 6. Kc5 Qxd8 1/2-1/2
+
+[Event "Ribinskaja Pravda (c)"]
+[Source "(c): Shakhmatnaya Kompozitsia Ribinska#108a 2005."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Tolstoy, Stanislav Maximovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "5b2/4k3/4P3/8/3pN2R/5p1K/2p5/8 w - - 0 1"]
+
+1. Rh7+ $1 Kd8 2. Rd7+ $1 Kc8 3. e7 Bxe7 4. Rxd4 $1 c1=Q 5. Rc4+ Qxc4 6. Nd6+ Bxd6 1/2-1/2
+
+[Event "Mat {Yugoslavia} (pl)"]
+[Source "= Frankl=J b4d3 1947."]
+[Date "1984.??.??"]
+[Round "?"]
+[Composer "Tolstoy, Stanislav Maximovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/6P1/8/7K/N7/p2kb3/8 w - - 0 1"]
+
+1. g7 $1 a1=Q (a1=R {<main>} 2. Nb1+ Rxb1 3. g8=Q Rh1+ 4. Kg3 Rg1+ 5. Kf2 Rxg8) 2. Nb1+ Qxb1 3. g8=Q Qh1+ 4. Kg5 Qg2+ 5. Kh6 Qxg8 1/2-1/2

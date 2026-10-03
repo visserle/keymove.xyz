@@ -1,0 +1,12 @@
+[Event "2.p Rumanian champ Revista de Romana de"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Iliescu, I"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/8/8/3p4/3P4/4P3/8/6K1 w - - 0 1"]
+
+1. Kg2 $1 (1. Kh1 $2 Kf7) Ke7 (Kf7 2. Kf3 Ke7 (Kg7 3. e4 $1 dxe4+ 4. Kxe4 Kf6 5. Kd5) 3. Kg4 Ke6 4. Kg5) 2. Kg3 Ke6 3. Kg4 Kf6 4. Kf4 Ke6 5. Kg5 1-0

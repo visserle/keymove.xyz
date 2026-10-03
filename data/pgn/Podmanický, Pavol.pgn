@@ -1,0 +1,13 @@
+[Event "Sachová Skladba#01160"]
+[Source "Sachová Skladba/9"]
+[Date "1987.??.??"]
+[Round "?"]
+[Composer "Podmanický, Pavol"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3p3R/8/p2K4/p3p3/P2k4/8 w - - 0 1"]
+
+1. Rxd6 $1 e2 2. Kc4+ $1 Kc2 3. Re6 Kd1 4. Kb4 $1 e1=Q+ 5. Rxe1+ Kxe1 6. Kxa3 $1 (6. Kxa4 $2 Kd2 $1 7. Kxa3 Kc3) Kd2 7. Kxa4 Kc3 8. Kb5 $1 1-0

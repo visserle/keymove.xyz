@@ -1,0 +1,207 @@
+[Event "British Chess Magazine#0561"]
+[Source "British Chess Magazine/3"]
+[Date "1943.??.??"]
+[Round "?"]
+[Composer "Blandford, Hugh Francis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/Pp6/1PpP1P2/2P5/7b/1p6/pP6/K7 w - - 0 1"]
+
+1. f7 $1 Be7 2. d7 Bd8 3. f8=N Bf6 4. d8=Q+ (4. Ne6 $2 Bxb2+ 5. Kxb2 a1=Q+ 6. Kxa1 b2+ 7. Ka2 b1=Q+ 8. Kxb1) Bxd8 5. Ne6 1-0
+
+[Event "British Chess Magazine#0807 (c)"]
+[Source "British Chess Magazine/5 (c): Published Work and Notebooks#012 1998."]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Blandford, Hugh Francis"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5p1P/3P1p2/k1K1Pn2/1p6/8/8 w - - 0 1"]
+
+1. h7 $1 (1. exf5 $2 b2 2. h7 b1=Q 3. h8=Q Qb4#) (1. Kc3 $2 Ka3 2. exf5 b2 3. h7 b1=Q 4. h8=Q Qd3#) Ng6 2. exf5 Nh8 (Ne5+ 3. Kc3 Nf7 4. d6 Ka3 5. d7 b2 6. h8=Q Nxh8 7. d8=Q) 3. d6 b2 4. d7 b1=R (b1=Q 5. d8=Q Qc2+ 6. Kd5 Qd3+ 7. Ke6 Qxd8) 5. Kd5 (5. Kc5 $2 Rd1 6. Kc6 Nf7 7. Kc7 Rh1) Rd1+ (Re1 6. Kc6 (6. Kd6 $2 Rh1) Rd1 7. Kc7 Nf7 8. h8=Q Nxh8 9. d8=Q Rxd8 10. Kxd8) 6. Ke6 Kb5 7. Ke7 Kc6 8. d8=Q Rxd8 9. Kxd8 Kd6 10. Ke8 Ke5 11. Kf8 Kxf5 12. Kg7 Ng6 13. Kh6 Ne5 14. Kg7 1/2-1/2
+
+[Event "British Chess Magazine#0807"]
+[Source "British Chess Magazine/5"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Blandford, Hugh Francis"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/5p1P/3P4/k1K2P1n/1p6/8/8 w - - 0 1"]
+
+1. h7 $1 (1. Kc3 $2 Ka3 2. f5 b2 3. h7 b1=Q 4. h8=Q Qb3+ 5. Kd2 (5. Kd4 Nxf5+ 6. Ke4 Qc2+ 7. Kf3 Qc3+ 8. Kg4 Ne3+ 9. Kh3 Nxd5+) Nf3+ 6. Ke2 Nd4+ 7. Kd2 Qc2+ 8. Ke3 Nxf5+) Ng6 2. f5 Nh8 3. d6 b2 4. d7 b1=R $1 (b1=Q 5. d8=Q Qc2+ 6. Kd5 Qd3+ 7. Ke6 Qxd8) 5. Kd5 Rd1+ 6. Ke6 (6. Kc6 $2 Nf7 7. Kc7 Rc1+ 8. Kb6 Rh1) Kb5 7. Ke7 Kc6 8. d8=Q Rxd8 9. Kxd8 Kd6 10. Ke8 Ke5 11. Kf8 Kxf5 12. Kg7 Ng6 13. Kh6 Ne5 14. Kg7 Ng6 15. Kh6 1/2-1/2
+
+[Event "British Chess Magazine#0817"]
+[Source "British Chess Magazine/7"]
+[Date "1947.??.??"]
+[Round "?"]
+[Composer "Blandford, Hugh Francis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3N4/p6K/P7/7k/5p2/6pP/5P2/8 w - - 0 1"]
+
+1. fxg3 $1 f3 (fxg3 2. Ne6 g2 3. Nf4+ Kh4 4. Nxg2+ Kxh3 5. Ne1 $1 (5. Ne3 $2 Kg3 6. Kg6 Kf4 7. Nc2 Ke5)) 2. Ne6 f2 3. Nf4+ Kg5 4. Nd5 f1=Q (f1=N 5. g4) 5. h4+ Kh5 6. Kg7 Qxa6 7. Nf6+ Qxf6+ 8. Kxf6 a5 9. Ke5 1-0
+
+[Event "British Chess Magazine#0861 (c)"]
+[Source "British Chess Magazine/3 (c): Garcia=M Estudios Artisticos de Ajedrez - II-7 2012."]
+[Date "1948.??.??"]
+[Round "?"]
+[Composer "Blandford, Hugh Francis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/Pp3P2/pP6/K2p4/P2P4/2P2Pr1/k4bN1 w - - 0 1"]
+
+1. f7 $1 Rxf2 2. a7 Bg2 3. Nf3 Bxf3 4. f8=R $1 (4. f8=Q $2 Bd1 $1 5. Qxf2 Bxc2+ 6. Qxc2) Rxc2 5. Rxf3 Rc8 6. Rf6 1-0
+
+[Event "Tijdschrift v.d. KNSB#121"]
+[Source "Tijdschrift v.d. KNSB/2"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Blandford, Hugh Francis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "1R6/1P1rp3/8/4p3/5p2/4P1p1/6kP/1B2K1Nr w - - 0 1"]
+
+1. Be4+ $1 Kxg1 2. Bxh1 Kxh1 3. hxg3 Kg2 4. gxf4 Kf3 5. fxe5 Kxe3 6. e6 Rc7 7. Kd1 Ke4 8. Kd2 Ke5 9. Kd3 Kxe6 10. Kd4 Rd7+ 11. Kc5 Rd5+ 12. Kc6 Rd6+ 13. Kc7 Rd7+ 14. Kc8 Kd6 15. Ra8 Rc7+ 16. Kb8 Rc1 17. Ra5 Rb1 18. Ka8 Kc7 19. Ra7 Kd6 20. b8=Q+ Rxb8+ 21. Kxb8 e5 22. Ra5 1-0
+
+[Event "British Chess Magazine#1066"]
+[Source "British Chess Magazine/4"]
+[Date "1951.??.??"]
+[Round "?"]
+[Composer "Blandford, Hugh Francis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/1p4p1/8/P3p3/k4p2/3K1Pp1/1PP1P3/2B5 w - - 0 1"]
+
+1. a6 $1 (1. Be3 $2 fxe3 2. Kxe3 Kxa5 3. f4 e4) bxa6 2. Kc4 g2 3. b3+ Ka5 4. Bb2 g1=Q (Kb6 5. Bxe5) 5. Bxe5 Qa7 (Kb6 6. Bd4+) (Qb6 6. Bc3+) (Qe3 6. Bc7+) 6. Bc3+ Kb6 7. Bd4+ 1-0
+
+[Event "British Chess Magazine#1234"]
+[Source "British Chess Magazine/7"]
+[Date "1954.??.??"]
+[Round "?"]
+[Composer "Blandford, Hugh Francis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3k4/3p3p/7B/4RP1K/P1p5/8/5p2/8 w - - 0 1"]
+
+1. Bg5+ $1 Kc7 2. Rc5+ Kd6 3. Bh6 $1 Ke7 4. f6+ Ke6 5. Rf5 Kxf5 6. f7 1-0
+
+[Event "1/2.hm New Statesman {and Nation}"]
+[Date "1955.??.??"]
+[Round "?"]
+[Composer "Blandford, Hugh Francis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4R3/p3Np2/5P2/7p/8/Kpk5/P6p/8 w - - 0 1"]
+
+1. Nd5+ $1 Kd2 2. Nc3 h1=Q 3. Ne4+ Kc1 (Ke3 4. Ng3+) (Kd3 4. Nf2+) 4. Rc8+ Kb1 5. Nd2+ Ka1 6. Nxb3+ Kb1 7. Nd2+ Ka1 8. Rc2 Qh3+ 9. Nb3+ Kb1 10. Rb2# 1-0
+
+[Event "British Chess Magazine#1289 (c)"]
+[Source "British Chess Magazine/7 (c): Garcia=M Estudios Artisticos de Ajedrez - II-5 2012."]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Blandford, Hugh Francis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3K4/5q2/7n/3P4/4k3/2P4B/2P5/6R1 w - - 0 1"]
+
+1. Re1+ $1 Kxd5 2. Be6+ Qxe6 3. c4+ Kd6 4. c5+ Kd5 5. c4+ Kxc5 6. Rxe6 Nf7+ 7. Ke7 Ng5 8. Re5+ Kxc4 9. Rxg5 1-0
+
+[Event "4.p New Statesman {and Nation}"]
+[Date "1961.04.21"]
+[Round "?"]
+[Composer "Blandford, Hugh Francis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/P7/kP1N4/5p2/K7/1P1n3p/8 w - - 0 1"]
+
+1. a7 $1 Nc4+ 2. Ka2 $1 (2. Kb3 $2 Nb6 3. Nxb6 h1=Q 4. a8=Q+ Qxa8 5. Nxa8 f3 6. b6 f2 7. bxc7 (7. b7 f1=Q 8. b8=Q Qd1+ 9. Kc3 (9. Ka2 Qa4+) Qf3+ 10. Kc4 Qg4+ 11. Kd5 Qf5+ 12. Kc6 Qe6+ 13. Kxc7 (13. Kb7 Qe4+) Qe5+ 14. Kb7 Qb5+ 15. Kc8 Qe8+ 16. Kc7 Qe5+) f1=Q 8. c8=Q Qb5+ 9. Kc3 (9. Ka2 Qc4+ 10. Qxc4) Qc6+ 10. Qxc6) Nb6 (h1=Q 3. a8=Q+ Kxb5 4. Nc3+) 3. Nxb6 h1=Q 4. a8=Q+ Qxa8 5. Nxa8 f3 (Kxb5 6. Nxc7+ Kc4 7. Ne8 f3 8. Nd6+ Kd3 9. Nf5 f2 10. Ng3) 6. b6 $1 cxb6 (f2 7. b7 $1 (7. bxc7 $2 f1=Q 8. c8=Q Qc4+ 9. Qxc4) f1=Q 8. b8=Q Qc4+ 9. Qb3 c5 10. Ka3) 7. Nc7 f2 (b5 8. Nd5) (Kb4 8. Nd5+ Kc4 9. Ne3+ Kd3 10. Ng4 Ke2 (Kc2 11. Ka3 b5 (Kd2 12. Kb3 Kc1 (Kd3 13. Ne5+ Ke3 14. Nxf3 Kxf3 15. Kc4) (Kd1 13. Kc4 Kc2 14. b4 Kb2 15. Kd5 Kb3 16. b5 Kb4 17. Kc6 Ka5 18. Nf2) (Ke1 13. Kc4) 13. Ne5) 12. Ka2 Kd2 (Kd3 13. Ne5+) (Kc1 13. Ne5) (Kd1 13. Kb3 Kd2 14. Kb4 Kc2 (Kc1 15. Kc3 b4+ 16. Kb3 Kb1 17. Nf2 Kc1 18. Ne4) 15. b3 Kb2 16. Ne5 f2 17. Nd3+) (b4 13. Nf2 Kc1 (Kd2 14. Kb3 Kc1 15. Ne4 Kb1 (Kd1 16. Kxb4) 16. Nd2+) 14. Kb3 Kb1 15. Nd3 Ka1 16. Nxb4 f2 17. Nc2+ Kb1 18. Ne3) 13. Kb3 Kc1 (Kd1 14. Kc3) 14. Ne5 f2 15. Nd3+) 11. Kb3 f2 12. Nxf2 Kxf2 13. Kc4 Ke3 14. b4 Ke4 (Ke2 15. b5) 15. Kb5) 8. Ka3 f1=Q (b5 9. b4+ Kb6 10. Nd5+) 9. b4# 1-0
+
+[Event "British Chess Magazine#1381"]
+[Source "British Chess Magazine/8"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Blandford, Hugh Francis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k1K5/1p2p3/4P3/1b6/6r1/3RN3/8/8 w - - 0 1"]
+
+1. Ra3+ $1 Ra4 2. Nd5 Rxa3 (Ka7 3. Nc3 Rxa3 4. Nxb5+) 3. Nc7+ Ka7 4. Nxb5+ Kb6 5. Nxa3 Kc6 6. Nb5 1-0
+
+[Event "British Chess Magazine#1411 (c)"]
+[Source "British Chess Magazine/6 (c): Byway=P British Chess Magazine=12 12/2014."]
+[Date "1964.??.??"]
+[Round "?"]
+[Composer "Blandford, Hugh Francis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/8/RN1q3N/6p1/5k2/2KP4/8 w - - 0 1"]
+
+1. Nd4+ $1 Qxd4 2. Rf5+ Kg2 (Ke4 3. Ng3#) (Ke2 3. Ng3+ Ke1 4. Rf1#) 3. Nf4+ Kh2 (Kg1 4. Ne2+) (Kg3 4. Ne2+) (Kf3 4. Ne6+ Ke4 5. Rf4+ Ke5 6. Rxd4) (Kf1 4. Ne6+ Qf2 5. Rxf2+ Kxf2 6. Ng5) 4. Rh5+ Kg1 5. Ne2+ Kg2 6. Nxd4 1-0
+
+[Event "British Chess Magazine#1500 (c)"]
+[Source "British Chess Magazine/5 (c): Garcia=M Estudios Artisticos de Ajedrez - II-5 2012."]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Blandford, Hugh Francis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "q1NK4/p7/3p4/pk6/1Pp5/P6B/8/8 w - - 0 1"]
+
+1. Bd7+ $1 Ka6 (Qc6 2. Nxa7+ Ka4 3. Nxc6 axb4 (Kxa3 4. bxa5) 4. axb4 c3 5. Bf5 Kb5 6. Kc7) 2. b5+ Kb7 3. Bc6+ Kb8 4. Bxa8 (4. Nxd6 $2 c3 5. Nc4 (5. Bxa8 c2) c2 6. Ne5 Qxc6 7. Nxc6+ Kb7 8. Nxa5+ Kb6 9. Nb3 Kxb5) Kxa8 5. Nxd6 (5. Ne7 $2 c3 6. Kc8 c2 7. Nd5 c1=Q+ 8. Nc7+ Qxc7+ 9. Kxc7 d5) (5. Kc7 $2 c3 6. Nxa7 c2 7. b6 c1=Q+ 8. Nc6 Qb2) c3 (a6 6. b6 Kb8 7. Nxc4) 6. Kc8 c2 (a6 7. b6) 7. Ne8 c1=Q+ (a6 8. b6) 8. Nc7+ Qxc7+ 9. Kxc7 a4 10. Kc8 a5 $1 11. Kc7 (11. b6 $2) Ka7 {<eg>} 12. b6+ 1-0
+
+[Event "British Chess Magazine#1499"]
+[Source "British Chess Magazine/5"]
+[Date "1970.??.??"]
+[Round "?"]
+[Composer "Blandford, Hugh Francis"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2k5/R7/3K4/8/2pp4/8/3p4/2N5 w - - 0 1"]
+
+1. Rc7+ $1 Kb8 (Kd8 2. Rh7 Ke8 3. Rh1) 2. Na2 d1=Q 3. Nb4 Qa4 (Qa1 4. Nc6+ Ka8 5. Rc8+ Kb7 6. Rb8+ Ka6 7. Ra8+) 4. Nc6+ Ka8 5. Rc8+ Kb7 6. Rb8+ Ka6 7. Kc7 Qb5 (c3 8. Rb6#) 8. Ra8# 1-0

@@ -1,0 +1,27 @@
+[Event "The Chess Amateur (pl)"]
+[Source "= Walker=G g5e8"]
+[Date "1908.??.??"]
+[Round "?"]
+[Composer "Cunnington, Edward Ernest"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/8/2p5/2P3K1/8/8/8/8 w - - 0 1"]
+
+1. Kf6 $1 Kd7 2. Kf7 Kd8 3. Ke6 Kc7 4. Ke7 Kc8 5. Kd6 Kb7 6. Kd7 1-0
+
+[Event "The Chess Amateur (pl)"]
+[Source "= Mouret=J d6h6 1838."]
+[Date "1908.??.??"]
+[Round "?"]
+[Composer "Cunnington, Edward Ernest"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3K3k/1P6/6p1/8/8/8 w - - 0 1"]
+
+1. b6 $1 g3 2. b7 g2 3. b8=Q g1=Q 4. Qh8+ Kg5 5. Qg7+ 1-0

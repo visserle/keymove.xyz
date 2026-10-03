@@ -1,0 +1,26 @@
+[Event "2.hm Revista de Romana de Sah#0106 (c)"]
+[Source "(c): Garcia=M Estudios Artisticos de Ajedrez - X-10 2012."]
+[Date "1936.04.17"]
+[Round "?"]
+[Composer "Schneiderman, Boris"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/1pK1kP1p/2p5/8/2N2Nr1/8/2B5 w - - 0 1"]
+
+1. Ne5 $1 Kxe5 (Rxc3 2. f7) (Kxf6 2. Ne4+ Kxe5 3. Nxg3) 2. Bf4+ $1 Kxf4 3. f7 Rg6+ (Rxc3 4. f8=Q+ Ke3 5. Qxh6+ Kd3 6. Qe6) 4. Kb5 Rf6 5. Nd5+ Kf5 6. Nxf6 1-0
+
+[Event "Revista de Romana de Sah#0152"]
+[Date "1937.04.27"]
+[Round "?"]
+[Composer "Schneiderman, Boris"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k7/Bp1p2p1/1P1P2P1/1PpK4/8/8/8/8 w - c6 0 1"]
+
+1. bxc6 $1 bxc6+ (dxc6+ 2. Ke6) 2. Kc5 Kb7 3. Kb4 Ka8 4. Ka4 Kb7 5. Ka5 c5 $1 (Kc8 6. Ka6) 6. Kb5 c4 7. Kxc4 Ka8 (Kc6 8. b7 Kxb7 9. Bc5) 8. Kb5 Kb7 9. Ka5 Ka8 10. b7+ $1 Kxa7 11. b8=Q+ $1 Kxb8 12. Kb6 Kc8 13. Ka7 1-0

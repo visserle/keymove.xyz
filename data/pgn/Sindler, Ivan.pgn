@@ -1,0 +1,109 @@
+[Event "Ceskoslovensky Sach#3181"]
+[Source "Ceskoslovensky Sach/3"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Sindler, Ivan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7N/8/1P2P2k/8/8/8/5bK1/1r3N2 w - - 0 1"]
+[PlyCount "9"]
+
+1. e7 $1 Re1 2. Ne3 $1 {Novotny} (2. b7 $2 Ba7) Rxe3 (Bxe3 3. e8=Q) 3. b7 Bg3 4. Nf7+ Kh5 (Kg7 5. Ne5 $1 Bxe5 (Rxe5 {<main>} 6. Kxg3 $1 (6. b8=Q $2 Re2+ 7. Kf3 Bxb8 8. Kxe2 Kf7)) 6. e8=Q) 5. Ne5 $1 $11 {Novotny} 1-0
+
+[Event "Práce"]
+[Source "Práce/2"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Sindler, Ivan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7k/5K2/5p1P/5P1P/3p2p1/3P4/8/8 w - - 0 1"]
+
+1. Kg6 $1 g3 2. h7 g2 3. Kh6 g1=Q 1/2-1/2
+
+[Event "Svobodné Slovo (tw)"]
+[Source "17.p Bohemian Ring ty 1957-1959."]
+[Date "1957.??.??"]
+[Round "?"]
+[Composer "Sindler, Ivan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/5k2/1p1K1p2/P7/8/8/8 w - - 0 1"]
+
+1. a5 $1 b4 2. Kd4 f4 3. a6 f3 4. a7 f2 5. a8=Q f1=Q 6. Qf8+ 1-0
+
+[Event "L'Italia Scacchistica#2846"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Sindler, Ivan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "3B3k/1Q1b2pP/6P1/6PK/4R3/8/8/5q2 w - - 0 1"]
+
+1. Re8+ $1 Bxe8 2. Qxg7+ Kxg7 3. Bf6+ Qxf6 4. gxf6+ Kh8 5. f7 $1 Bxf7 6. gxf7 Kxh7 $1 7. f8=R $1 (7. f8=Q $2) 1-0
+
+[Event "L'Italia Scacchistica#2829"]
+[Source "L'Italia Scacchistica/1-2"]
+[Date "1959.??.??"]
+[Round "?"]
+[Composer "Sindler, Ivan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7K/8/2r1P1Pn/5P2/4k3/8/8/8 w - - 0 1"]
+
+1. f6 $1 Rc8+ 2. Kh7 Ke5 3. f7 Kxe6 (Nxf7 4. exf7 Kf6 5. f8=Q+ Rxf8 6. g7 Rf7 7. Kh8 Rxg7) 4. Kxh6 Kf6 5. Kh7 Ra8 6. f8=Q+ Rxf8 7. g7 Rf7 8. Kh8 Rxg7 1/2-1/2
+
+[Event "3.c Lelo"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Sindler, Ivan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/B6k/7P/8/1n3p2/r7/2pK1P2/2R5 w - - 0 1"]
+
+1. Bc5 $1 Rd3+ 2. Ke2 f3+ (Rd1 3. Rxd1 cxd1=Q+ 4. Kxd1) 3. Ke1 Rd1+ 4. Rxd1 Nd3+ (cxd1=Q+ 5. Kxd1) 5. Kd2 cxd1=Q+ 6. Kxd1 Nxc5 7. Kd2 Ne4+ 8. Ke3 Ng5 9. Kf4 Kxh6 10. Kg4 Kg6 11. Kf4 Kh5 12. Kg3 1/2-1/2
+
+[Event "5.hm Bohemian School-100 AT UV CSTV"]
+[Date "1962.??.??"]
+[Round "?"]
+[Composer "Sindler, Ivan"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/3P2P1/N2qP1k1/7p/7P/8/8/8 w - - 0 1"]
+
+1. Nc7 $1 Qxc7 (Qe7 2. Ne8 Qxe6+ 3. Kh8) 2. e7 Qxd7 3. Kh8 Qxe7 (Kh6 {<main>} 4. g8=N+ $1 (4. g8=Q $2 Qd4+ 5. Qg7+ Qxg7#) (4. e8=Q $2 Qxe8+ 5. g8=N+ Qxg8+ 6. Kxg8 Kg6 7. Kf8 Kf5) Kg6 5. e8=Q+ Qxe8) 4. g8=Q+ Kh6 5. Qe6+ $1 Qxe6 1/2-1/2
+
+[Event "2.hm Smena"]
+[Date "1962.08.18"]
+[Round "?"]
+[Composer "Sindler, Ivan"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4k3/8/6P1/4P3/1p4P1/bPp5/PpP5/1K6 w - - 0 1"]
+
+1. e6 $1 Kf8 2. g5 Kg8 $1 (Kg7 3. e7 Kxg6 4. e8=Q+) 3. e7 Kg7 4. e8=R $1 (4. e8=Q $2) Kxg6 5. Re5 $1 Kh5 6. Ra5 Kg6 7. Rxa3 bxa3 8. b4 1-0

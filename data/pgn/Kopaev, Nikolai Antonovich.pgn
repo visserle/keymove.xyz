@@ -1,0 +1,158 @@
+[Event "Shakhmaty v SSSR#173"]
+[Source "Shakhmaty v SSSR/9"]
+[Date "1940.??.??"]
+[Round "?"]
+[Composer "Kopaev, Nikolai Antonovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/Q6p/8/8/8/P7/pp6/k2K4 w - - 0 1"]
+
+1. Qg7 $1 Kb1 2. Qxh7+ Ka1 3. Qg7 Kb1 4. Qg6+ Ka1 5. Qf6 Kb1 6. Qf5+ Ka1 7. Qe5 Kb1 8. Qe4+ Ka1 9. Qd4 Kb1 10. Qd3+ Ka1 11. Qc3 Kb1 12. Ke2 $1 (12. Kd2 $2 a1=Q 13. Qb3 Qxa3 $1 14. Qxa3) a1=Q 13. Qb3 $1 Qa2 14. Qd1# 1-0
+
+[Event "Shakhmaty v SSSR (te)"]
+[Source "Shakhmaty v SSSR/1"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Kopaev, Nikolai Antonovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/8/3KP3/5R2/1k6/7p/r7/8 w - - 0 1"]
+
+1. Rf4+ $1 Ka5 2. e7 Rd2+ 3. Ke6 h2 4. Rf1 Re2+ 5. Kf7 Rf2+ 6. Rxf2 h1=Q 7. Rf5+ 1-0
+
+[Event "Shakhmaty v SSSR#12"]
+[Source "Shakhmaty v SSSR/4"]
+[Date "1950.??.??"]
+[Round "?"]
+[Composer "Kopaev, Nikolai Antonovich"]
+[White "Kopaev, N"]
+[Black " Sokolsky, A."]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2R5/8/8/1p1p4/8/1k6/5K2 w - - 0 1"]
+
+1. Ke2 $1 b3 2. Kd3 Ka2 $1 (Kb1 3. Kc4 b2 4. Kb3 d3 5. Rh7 Ka1 6. Ra7+ Kb1 7. Ra2) 3. Kc4 $1 b2 4. Ra7+ Kb1 5. Kb3 d3 6. Ra2 d2 7. Rxb2+ Kc1 8. Rc2+ $1 Kd1 9. Kc3 1-0
+
+[Event "Shakhmaty"]
+[Date "1953.??.??"]
+[Round "?"]
+[Composer "Kopaev, Nikolai Antonovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/4K3/3R4/8/p7/8/1p6/8 w - - 0 1"]
+
+1. Rg6+ $1 Kh8 2. Rb6 a3 3. Kf8 Kh7 4. Kf7 a2 5. Rxb2 a1=Q 6. Rh2# 1-0
+
+[Event "Okonchaniya - Kon protiv Slona, Ladejni"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Kopaev, Nikolai Antonovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5k2/3R4/5P2/3K4/8/4p3/6r1/8 w - - 0 1"]
+
+1. Ke6 $1 Kg8 2. f7+ Kg7 3. Ke7 Rf2 4. Ke8 Kg6 5. Re7 $1 Rxf7 6. Rxf7 Kg5 7. Rf3 e2 8. Re3 1-0
+
+[Event "Okonchaniya - Kon protiv Slona, Ladejni"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Kopaev, Nikolai Antonovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6K1/8/8/4p3/3k4/8/8/2R5 w - - 0 1"]
+
+1. Rd1+ $1 (1. Kf7 $2 e4 2. Ke6 e3 3. Kf5 e2 4. Kf4 Kd3 5. Kf3 Kd2) Kc3 (Ke3 2. Re1+ Kf4 3. Kf7 e4 4. Ke6 e3 5. Kd5 Kf3 6. Kd4) 2. Re1 Kd4 3. Kf7 e4 4. Ke6 e3 5. Kf5 Kd3 6. Kf4 e2 7. Kf3 1-0
+
+[Event "Okonchaniya - Kon protiv Slona, Ladejni"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Kopaev, Nikolai Antonovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6K1/8/8/8/8/7R/5pk1/8 w - - 0 1"]
+
+1. Rh7 $1 f1=Q 2. Rg7+ Kh3 3. Rh7+ Kg4 4. Rg7+ Kh5 5. Rh7+ Kg6 6. Rg7+ Kh6 7. Rh7+ 1/2-1/2
+
+[Event "Okonchaniya - Kon protiv Slona, Ladejni"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Kopaev, Nikolai Antonovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "7r/2k2P2/8/3K4/8/8/8/8 w - - 0 1"]
+
+1. Ke6 $1 Kd8 2. Kf6 Rf8 3. Ke6 Rh8 4. Kf6 1/2-1/2
+
+[Event "Okonchaniya - Kon protiv Slona, Ladejni"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Kopaev, Nikolai Antonovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "6R1/8/8/8/4p3/1K1k4/4p3/8 w - - 0 1"]
+
+1. Rg1 $1 e3 2. Ra1 Kd2 3. Ra2+ Ke1 4. Ra8 1/2-1/2
+
+[Event "Okonchaniya - Kon protiv Slona, Ladejni"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Kopaev, Nikolai Antonovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "5r2/3P4/k1K5/3P4/8/8/8/8 w - - 0 1"]
+
+1. d6 $1 Ra8 2. Kc7 Ra7+ 3. Kd8 Kb6 4. Ke8 1-0
+
+[Event "Okonchaniya - Kon protiv Slona, Ladejni"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Kopaev, Nikolai Antonovich"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2R5/8/8/8/8/8/3p1p2/3k1K2 w - - 0 1"]
+
+1. Ra8 $1 Kc2 2. Ra2+ Kd3 3. Ra1 Ke3 4. Rd1 $1 1-0
+
+[Event "Okonchaniya - Kon protiv Slona, Ladejni"]
+[Date "1958.??.??"]
+[Round "?"]
+[Composer "Kopaev, Nikolai Antonovich"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/2k2pK1/4p2p/R7 w - - 0 1"]
+
+1. Kf2 $1 Kc2 2. Kg3 Kd2 3. Ra2+ Kc3 4. Ra1 Kb2 5. Rh1 Kc2 6. Ra1 1/2-1/2

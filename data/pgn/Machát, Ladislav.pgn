@@ -1,0 +1,27 @@
+[Event "Sachové Umenie#4114 (@1)"]
+[Source "Sac@ové Umenie/1 î1: Sachové Umenie/7 1975."]
+[Date "1975.??.??"]
+[Round "?"]
+[Composer "Machát, Ladislav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "2K5/3R4/1pk1P3/8/P7/8/2pr4/8 w - - 0 1"]
+
+1. e7 $1 (1. Rc7+ $1 {<minor dual>} Kd6 2. e7 Re2 3. Rd7+ Kc6 4. Kd8 b5 5. Rc7+) Re2 (Rxd7 2. e8=Q c1=Q 3. Qxd7+ Kc5 4. Qc7+) 2. Kd8 b5 (Kc5 3. Rc7+ Kb4 4. Rxc2 Rxe7 5. Kxe7 Kxa4 6. Kd6 b5 7. Kc5) 3. Rc7+ (3. a5 $2 b4 4. a6 $1 c1=Q $1 5. Rc7+ Kb5 6. Rxc1 Kxa6) Kb6 4. Rxc2 Rxe7 5. a5+ $1 (5. Kxe7 $2 bxa4 6. Kd6 Kb5 7. Kd5 Kb4 8. Kd4 Kb3 9. Kd3 a3 10. Rc8 Kb2 $1 11. Rb8+ (11. Kd2 a2 12. Rb8+ Ka1) Kc1 12. Kc3 a2 13. Ra8 Kb1) Kxa5 6. Kxe7 b4 7. Rc8 $1 (7. Kd6 $2 b3 8. Rc8 Kb4 9. Kd5 b2 10. Kd4 Kb3 $1) b3 8. Rb8 Ka4 9. Kd6 Ka3 10. Kc5 b2 11. Kc4 Ka2 12. Ra8+ Kb1 13. Kb3 Kc1 14. Rc8+ Kb1 15. Rc7 Ka1 16. Ra7+ Kb1 17. Ra2 1-0
+
+[Event "Sachové Umenie#5311"]
+[Source "Sachové Umenie/2"]
+[Date "1979.??.??"]
+[Round "?"]
+[Composer "Machát, Ladislav"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "4r3/8/2pPPPPP/1p6/8/P7/KPk5/8 w - - 0 1"]
+
+1. d7 $1 (1. f7 $2 Ra8 2. f8=Q Rxf8 3. e7 Ra8 4. e8=Q Rxe8 5. d7 Ra8 6. d8=Q Rxd8 7. g7 b4) Ra8 2. d8=Q Rxd8 3. e7 Ra8 4. e8=Q Rxe8 5. f7 Ra8 6. f8=Q Rxf8 7. g7 Ra8 8. h7 b4 9. g8=Q 1-0

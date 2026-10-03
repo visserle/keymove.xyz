@@ -1,0 +1,39 @@
+[Event "Chess#228"]
+[Date "1940.11.25"]
+[Round "?"]
+[Composer "De N Clark, G"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7q/4p1pp/pB2K1k1/1p6/7P/P4P2/8/7R w - - 0 1"]
+
+1. h5+ $1 Kh6 2. Be3+ g5 3. hxg6+ Kxg6 4. Rh6+ Kg7 5. Bd4+ Kxh6 6. Bxh8 Kg5 7. Be5 (7. Ke5 $2 h5 8. Ke4 h4 9. Be5 a5 10. Kd4 Kf5) a5 8. Kd5 (8. Bc3 $2 Kf4) Kf5 9. Bh2 $1 (9. Bc3 $2 b4) b4 10. axb4 axb4 11. Kc4 e5 (Kg5 12. Bg3 $1) 12. Kxb4 e4 13. f4 e3 14. Kc3 Ke4 15. Kc2 Kf3 16. f5 e2 17. Kd2 Kf2 18. Bg3+ 1-0
+
+[Event "Chess#228 (m)"]
+[Source "(m): Chess=64 25-11-1940."]
+[Date "1940.11.25"]
+[Round "?"]
+[Composer "De N Clark, G"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "7q/p3p1pp/4K1k1/Bp6/7P/P4P2/8/7R w - - 0 1"]
+
+1. h5+ $1 Kh6 2. Bd2+ g5 3. hxg6+ Kxg6 4. Rh6+ Kg7 5. Bc3+ Kxh6 6. Bxh8 Kg5 7. Be5 (7. Ke5 $2 h5 8. Ke4 h4 9. Be5 a5 10. Kd4 Kf5) a5 8. Kd5 (8. Bc3 $2 Kf4) Kf5 9. Bh2 $1 (9. Bc3 $2 b4) b4 10. axb4 axb4 11. Kc4 e5 (Kg5 12. Bg3 $1) 12. Kxb4 e4 13. f4 e3 14. Kc3 Ke4 15. Kc2 Kf3 16. f5 e2 17. Kd2 Kf2 18. Bg3+ 1-0
+
+[Event "Chess#236"]
+[Date "1941.02.25"]
+[Round "?"]
+[Composer "De N Clark, G"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "8/2p5/2P5/8/1pP3k1/1p4P1/2p3PP/K7 w - - 0 1"]
+
+1. Kb2 $1 Kf5 2. Kc1 Ke4 3. Kd2 Kf5 (Kd4 4. h4 Kxc4 5. h5 Kb5 6. h6 Ka4 7. h7 Ka3 8. h8=Q Ka2 9. Kc1) 4. h3 Kg5 5. g4 Kh4 6. g3+ Kg5 7. Kc1 Kg6 8. h4 Kf6 9. g5+ Kf5 10. g4+ Kg6 11. Kb2 Kh7 12. h5 Kg7 13. g6 Kf6 14. g5+ Kg7 15. Kc1 Kg8 16. h6 Kf8 17. g7+ Kg8 18. Kb2 Kh7 19. g6+ Kg8 20. c5 c1=Q+ 21. Kxc1 b2+ 22. Kxb2 b3 23. h7+ Kxg7 24. Kxb3 1-0

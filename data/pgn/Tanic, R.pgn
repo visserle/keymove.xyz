@@ -1,0 +1,13 @@
+[Event "Szachy#0198"]
+[Source "Szachy/1"]
+[Date "1974.??.??"]
+[Round "?"]
+[Composer "Tanic, R"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "k4K2/8/1rP2p2/1P4P1/8/7P/8/8 w - - 0 1"]
+
+1. Ke7 $1 (1. c7 $2 Kb7 $1 2. Ke7 Rxb5) (1. g6 $2 Rb8+ $1 2. Kf7 f5 3. g7 f4 4. b6 Rd8 $1 5. Ke7 Rg8 6. Kf7 Rd8) Rxb5 (fxg5 {<main>} 2. c7 Rb7 3. Kd6 $1 Rb6+ 4. Kd7 Rb7 5. Kc6) (Rb8 {<main>} 2. gxf6 Rxb5 3. f7 Re5+ 4. Kf6) 2. g6 $1 Rb3 $1 3. h4 f5 4. h5 Rg3 5. Kf6 $1 f4 6. h6 f3 7. h7 Rh3 8. g7 $1 1-0

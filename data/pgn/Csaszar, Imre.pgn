@@ -1,0 +1,41 @@
+[Event "Magyar Sakkvilág#707"]
+[Source "Magyar Sakkvilág/5"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Csaszar, Imre"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "win"]
+[SetUp "1"]
+[FEN "6k1/8/5P1P/8/ppp5/8/2K5/8 w - - 0 1"]
+
+1. Kb1 $1 a3 (c3 2. Kc2) (b3 2. Kb2) 2. Ka2 $1 c3 3. Kb3 a2 (c2 4. Kxc2) 4. Kxa2 c2 5. Kb2 b3 6. Kc1 Kh7 (Kf7 { <main>} 7. h7) 7. f7 1-0
+
+[Event "Magyar Sakkvilág#711"]
+[Source "Magyar Sakkvilág/7"]
+[Date "1949.??.??"]
+[Round "?"]
+[Composer "Csaszar, Imre"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p7/8/8/4K3/1k6/2n4P/8 w - - 0 1"]
+
+1. h4 $1 Nd4 2. h5 Ne6 3. h6 a5 4. Kf5 Nf8 5. Kf6 a4 6. Kf7 $1 (6. Kg7 $2 Ne6+ $1 7. Kf7 (7. Kg6 a3 8. h7 Nf8+) (7. Kg8 Ng5) a3 8. h7 Ng5+) Nh7 (a3 7. Kxf8 a2 8. Kg8 a1=Q 9. h7) 7. Kg6 (7. Kg7 $2 Ng5) a3 (Nf8+ 8. Kf7) 8. Kxh7 a2 9. Kg8 a1=Q 10. h7 1/2-1/2
+
+[Event "Magyar Sakkélet#0839"]
+[Source "Magyar Sakkélet/10"]
+[Date "1952.??.??"]
+[Round "?"]
+[Composer "Csaszar, Imre"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Stipulation "draw"]
+[SetUp "1"]
+[FEN "8/p6p/p7/P1p5/2p1K1k1/2P3P1/P1P3P1/8 w - - 0 1"]
+
+1. Ke3 $1 Kxg3 2. Ke2 $1 Kxg2 3. Kd1 Kf2 (h5 {<main>} 4. Kc1 h4 5. Kb2 h3 6. Ka3 h2 7. Ka4 h1=Q 8. a3 Qh8) 4. Kc1 Ke2 5. Kb2 Kd2 6. Ka3 Kxc3 7. Ka4 Kd2 8. c3 $1 Kxc3 9. a3 Kd2 1/2-1/2
