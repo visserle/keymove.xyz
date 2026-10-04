@@ -10,9 +10,9 @@
  * the public half the Worker reads, and `data/answers.sql`, the key and the
  * movetext. A deploy publishes the first and never the second, because a visitor
  * who could read the solution set would have no reason to type a key move. So the
- * private half is loaded by hand (`npm run db:answers:remote`) and the withdrawn
- * rows used to stay behind it forever. This is that second half of the same drift,
- * and it is a separate command because its position in the pipeline is not free:
+ * private half is loaded by hand (`npm run db:answers:remote`). Pruning the
+ * withdrawn rows is a separate command because its position in the pipeline is
+ * not free:
  *
  *   load -> deploy -> prune
  *

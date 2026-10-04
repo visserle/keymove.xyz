@@ -100,17 +100,15 @@ export function createAuth(settings: AuthSettings) {
 		// rolls the expiry forward as the session is used; 400 days is the longest
 		// broadly supported persistent-cookie lifetime in browsers.
 		session: {
+			modelName: "auth_session",
 			expiresIn: 400 * 24 * 60 * 60,
 			updateAge: 24 * 60 * 60,
-			// Off, deliberately, and it is worth writing down why because it was on
-			// and measured. A session cache turns each identity lookup into a cookie
-			// read instead of a D1 read, and it costs nothing in rows written: a
-			// cache hit writes nothing, and the one write in the session path fires
-			// only in the last day of a 400-day session. So it buys reads and
-			// nothing else. Reads are not the scarce resource — the Free plan
-			// allows 5 million a day against 100,000 rows written, and a signed-in
-			// hour costs ~150 rows read and ~48 written, which puts reads about
-			// sixteen times further from their ceiling.
+			// Off, deliberately. A session cache turns each identity lookup into a
+			// cookie read instead of a D1 read, and it costs nothing in rows
+			// written: a cache hit writes nothing, and the one write in the session
+			// path fires only in the last day of a 400-day session. So it buys reads
+			// and nothing else, and reads are not the scarce resource — the Free
+			// plan allows 5 million a day against 100,000 rows written.
 			//
 			// What the cache would cost is an hour of stale identity: a session
 			// deleted here, an account deleted, a sign-out on another device, all
@@ -121,10 +119,18 @@ export function createAuth(settings: AuthSettings) {
 		},
 		trustedOrigins: [settings.baseURL],
 		emailAndPassword: { enabled: false },
-		user: { deleteUser: { enabled: true } },
+		// `auth_` is Keymove's prefix, set by `modelName`, which is what keeps
+		// these tables apart from this app's own `user_preferences` and `admins`.
+		//
+		// These names and data/schema.sql have to agree: this says where Better
+		// Auth looks, that says where the tables are. The columns stay Better
+		// Auth's; only the names are ours.
+		user: { modelName: "auth_user", deleteUser: { enabled: true } },
 		account: {
+			modelName: "auth_account",
 			accountLinking: { disableImplicitLinking: true },
 		},
+		verification: { modelName: "auth_verification" },
 		databaseHooks: {
 			account: {
 				create: { before: discardOAuthCredentials },
@@ -132,6 +138,7 @@ export function createAuth(settings: AuthSettings) {
 			},
 		},
 		rateLimit: {
+			modelName: "auth_rate_limit",
 			enabled: true,
 			storage: "database",
 			window: 60,
@@ -152,6 +159,7 @@ export function createAuth(settings: AuthSettings) {
 		advanced: {
 			useSecureCookies: settings.baseURL.startsWith("https://"),
 			ipAddress: { ipAddressHeaders: ["cf-connecting-ip"] },
+			database: { validateSchema: false },
 		},
 		plugins: [
 			genericOAuth({

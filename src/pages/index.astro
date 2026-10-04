@@ -9,18 +9,14 @@ import { taskFor } from "../lib/display";
 
 // The day's composition, read per request.
 //
-// It used to be frozen into this HTML at build time, which made "today" whatever
-// day the last push happened to be: the rebuild meant to turn it over was a cron
-// Worker that was never deployed, so the hero could sit on yesterday's
-// composition for a whole day. The pick itself has not changed -
-// `dailyComposition()` in src/lib/daily.ts is still the one function that decides
-// it, and it still counts days in UTC - it is simply asked per request now, so
-// the day rolls over at 00:00 UTC with nothing scheduled and nothing deployed.
+// `dailyComposition()` in src/lib/daily.ts is the one function that decides it,
+// and it counts days in UTC. Asking it per request is what makes the day roll
+// over at 00:00 UTC with nothing scheduled and nothing deployed.
 //
 // The cost is a page render rather than a file read, and the expensive half of
 // that is already done: the catalogue is parsed once per isolate (src/lib/
 // corpus.ts), so this is a Map lookup on a warm isolate. `/library` and
-// `/collections` have been rendered this way all along.
+// `/collections` render the same way.
 const corpus = await runtimeCorpus(Astro.url);
 // The home page shows nothing personal, but the topbar's account menu does, and
 // this page is rendered per request precisely because the Worker can answer that.

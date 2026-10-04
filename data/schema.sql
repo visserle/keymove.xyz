@@ -11,11 +11,9 @@
 -- That is a deliberate choice for a project with one operator and one database.
 -- A migration chain earns its keep when there are environments to keep in step,
 -- such as staging, preview branches or other people's forks, and when the schema
--- has to evolve under live data without pausing. Keymove has none of those: the
--- history was eighteen files whose own comments recorded that they were
--- correcting each other, and the only reader of that history was a person who
--- already knew the answer. What the reader needs is the shape and the reason for
--- it, and that is what the comments below carry.
+-- has to evolve under live data without pausing. Keymove has none of those.
+-- What the reader needs is the shape and the reason for it, and that is what
+-- the comments below carry.
 --
 -- **To change the schema:** edit this file, and run `db:init:remote` when you mean
 -- to. D1 has no migration ledger to reconcile; the schema is whatever this file
@@ -27,36 +25,42 @@
 -- ───────────────────────────────────────────────── auth ──────────────────────────────────
 --
 -- Better Auth's tables, generated rather than authored: `npx @better-auth/cli
--- generate` writes exactly these. Keymove configures the library in
--- src/lib/auth/config.ts and does not hand-edit them; if Better Auth changes its
--- schema, regenerate and copy the result back here.
+-- generate` writes these. Keymove configures the library in
+-- src/lib/auth/config.ts and does not hand-edit the columns; if Better Auth
+-- changes its schema, regenerate and copy the result back here.
+--
+-- The names are the exception. `auth_` is Keymove's prefix, set by `modelName` in
+-- src/lib/auth/config.ts, which is what keeps these tables apart from this app's
+-- own `user_preferences` and `admins`. The two files have to agree: config.ts
+-- says where Better Auth looks, this file says where the tables are. The columns
+-- are Better Auth's; the names are ours.
 --
 -- There is no email sign-in, and `email` is never a real address: the Lichess
 -- OAuth flow has no need for one, and Better Auth requires the column. The app
 -- stores a deterministic placeholder at the reserved, non-deliverable `.invalid`
--- domain (src/lib/auth/config.ts). `account` holds a Lichess account id and no
--- credential. The access token is used during the callback and revoked
+-- domain (src/lib/auth/config.ts). `auth_account` holds a Lichess account id
+-- and no credential. The access token is used during the callback and revoked
 -- immediately, and a database hook clears the fields before any write.
 
-DROP TABLE IF EXISTS "verification";
-DROP TABLE IF EXISTS "account";
-DROP TABLE IF EXISTS "session";
-DROP TABLE IF EXISTS "rateLimit";
-DROP TABLE IF EXISTS "user";
+DROP TABLE IF EXISTS "auth_verification";
+DROP TABLE IF EXISTS "auth_account";
+DROP TABLE IF EXISTS "auth_session";
+DROP TABLE IF EXISTS "auth_rate_limit";
+DROP TABLE IF EXISTS "auth_user";
 
-CREATE TABLE "user" ("id" text not null primary key, "name" text not null, "email" text not null unique, "emailVerified" integer not null, "image" text, "createdAt" date not null, "updatedAt" date not null);
+CREATE TABLE "auth_user" ("id" text not null primary key, "name" text not null, "email" text not null unique, "emailVerified" integer not null, "image" text, "createdAt" date not null, "updatedAt" date not null);
 
-CREATE TABLE "session" ("id" text not null primary key, "expiresAt" date not null, "token" text not null unique, "createdAt" date not null, "updatedAt" date not null, "ipAddress" text, "userAgent" text, "userId" text not null references "user" ("id") on delete cascade);
+CREATE TABLE "auth_session" ("id" text not null primary key, "expiresAt" date not null, "token" text not null unique, "createdAt" date not null, "updatedAt" date not null, "ipAddress" text, "userAgent" text, "userId" text not null references "auth_user" ("id") on delete cascade);
 
-CREATE TABLE "account" ("id" text not null primary key, "accountId" text not null, "providerId" text not null, "userId" text not null references "user" ("id") on delete cascade, "accessToken" text, "refreshToken" text, "idToken" text, "accessTokenExpiresAt" date, "refreshTokenExpiresAt" date, "scope" text, "password" text, "createdAt" date not null, "updatedAt" date not null);
+CREATE TABLE "auth_account" ("id" text not null primary key, "accountId" text not null, "providerId" text not null, "userId" text not null references "auth_user" ("id") on delete cascade, "accessToken" text, "refreshToken" text, "idToken" text, "accessTokenExpiresAt" date, "refreshTokenExpiresAt" date, "scope" text, "password" text, "createdAt" date not null, "updatedAt" date not null);
 
-CREATE TABLE "verification" ("id" text not null primary key, "identifier" text not null, "value" text not null, "expiresAt" date not null, "createdAt" date not null, "updatedAt" date not null);
+CREATE TABLE "auth_verification" ("id" text not null primary key, "identifier" text not null, "value" text not null, "expiresAt" date not null, "createdAt" date not null, "updatedAt" date not null);
 
-CREATE TABLE "rateLimit" ("id" text not null primary key, "key" text not null unique, "count" integer not null, "lastRequest" bigint not null);
+CREATE TABLE "auth_rate_limit" ("id" text not null primary key, "key" text not null unique, "count" integer not null, "lastRequest" bigint not null);
 
-CREATE INDEX IF NOT EXISTS "session_userId_idx" ON "session" ("userId");
-CREATE INDEX IF NOT EXISTS "account_userId_idx" ON "account" ("userId");
-CREATE INDEX IF NOT EXISTS "verification_identifier_idx" ON "verification" ("identifier");
+CREATE INDEX IF NOT EXISTS "auth_session_userId_idx" ON "auth_session" ("userId");
+CREATE INDEX IF NOT EXISTS "auth_account_userId_idx" ON "auth_account" ("userId");
+CREATE INDEX IF NOT EXISTS "auth_verification_identifier_idx" ON "auth_verification" ("identifier");
 
 -- ──────────────────────────────────────────────── admins ──────────────────────────────────
 --
@@ -73,7 +77,7 @@ CREATE INDEX IF NOT EXISTS "verification_identifier_idx" ON "verification" ("ide
 DROP TABLE IF EXISTS "admins";
 
 CREATE TABLE admins (
-  user_id    TEXT PRIMARY KEY REFERENCES "user" ("id") ON DELETE CASCADE,
+  user_id    TEXT PRIMARY KEY REFERENCES "auth_user" ("id") ON DELETE CASCADE,
   granted_at TEXT NOT NULL
 );
 
@@ -135,7 +139,7 @@ CREATE TABLE composition_solution (
 DROP TABLE IF EXISTS "composition_progress";
 
 CREATE TABLE composition_progress (
-  user_id             TEXT NOT NULL REFERENCES "user" ("id") ON DELETE CASCADE,
+  user_id             TEXT NOT NULL REFERENCES "auth_user" ("id") ON DELETE CASCADE,
   composition_id      TEXT NOT NULL,
   started_at          TEXT NOT NULL,
   solved_at           TEXT,
@@ -155,7 +159,7 @@ CREATE INDEX composition_progress_solved_idx ON composition_progress (solved_at)
 DROP TABLE IF EXISTS "composition_bookmarks";
 
 CREATE TABLE composition_bookmarks (
-  user_id        TEXT NOT NULL REFERENCES "user" ("id") ON DELETE CASCADE,
+  user_id        TEXT NOT NULL REFERENCES "auth_user" ("id") ON DELETE CASCADE,
   composition_id TEXT NOT NULL,
   bookmarked_at  TEXT NOT NULL,
   PRIMARY KEY (user_id, composition_id)
@@ -188,7 +192,7 @@ DROP TABLE IF EXISTS "key_attempts";
 
 CREATE TABLE key_attempts (
   id             INTEGER PRIMARY KEY AUTOINCREMENT,
-  user_id        TEXT NOT NULL REFERENCES "user" ("id") ON DELETE CASCADE,
+  user_id        TEXT NOT NULL REFERENCES "auth_user" ("id") ON DELETE CASCADE,
   composition_id TEXT NOT NULL,
   guess          TEXT NOT NULL,
   is_correct     INTEGER NOT NULL CHECK (is_correct IN (0, 1)),
@@ -235,7 +239,7 @@ DROP TABLE IF EXISTS "composition_curation";
 
 CREATE TABLE composition_curation (
   composition_id TEXT PRIMARY KEY,
-  user_id        TEXT NOT NULL REFERENCES "user" ("id") ON DELETE CASCADE,
+  user_id        TEXT NOT NULL REFERENCES "auth_user" ("id") ON DELETE CASCADE,
   rating         TEXT CHECK (rating IS NULL OR rating IN ('easy', 'medium', 'hard')),
   flagged        TEXT CHECK (flagged IS NULL OR flagged IN ('fix', 'drop')),
   updated_at     TEXT NOT NULL
@@ -254,7 +258,7 @@ CREATE TABLE composition_curation (
 DROP TABLE IF EXISTS "user_preferences";
 
 CREATE TABLE user_preferences (
-  user_id          TEXT PRIMARY KEY REFERENCES "user" ("id") ON DELETE CASCADE,
+  user_id          TEXT PRIMARY KEY REFERENCES "auth_user" ("id") ON DELETE CASCADE,
   preferences_json TEXT NOT NULL,
   updated_at       TEXT NOT NULL
 );

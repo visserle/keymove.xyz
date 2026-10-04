@@ -16,7 +16,7 @@ A branch build reaches production only if its deploy command is the one above, s
 
 ## Today's composition needs no schedule
 
-The home page is rendered by the Worker rather than prerendered, because it carries the day's composition: `dailyComposition()` is asked for the request's own date, so the day rolls over at 00:00 UTC with nothing scheduled and nothing deployed. A build used to be what turned it over, through a cron Worker that was never deployed, and the hero could sit on yesterday's composition for a whole day. The catalogue is parsed once per isolate, so the render is a lookup; `/` is served `max-age=0, must-revalidate` so no cache can hold a page labelled "today" into the next day.
+The home page is rendered by the Worker rather than prerendered, because it carries the day's composition: `dailyComposition()` is asked for the request's own date, so the day rolls over at 00:00 UTC with nothing scheduled and nothing deployed. The catalogue is parsed once per isolate, so the render is a lookup; `/` is served `max-age=0, must-revalidate` so no cache can hold a page labelled "today" into the next day.
 
 ## Cloudflare settings that live in the dashboard
 
