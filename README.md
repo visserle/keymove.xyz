@@ -53,7 +53,7 @@ Lichess sign-in only works against the live site, so locally you are a guest. Ev
 | `npm run corpus`  | Rebuild the catalogue from `data/pgn/`                           |
 | `npm run deploy`  | Build, load the answers, deploy, prune                           |
 
-Other unlisted commands cover mate verification, pruning and icon generation. [docs/architecture.md](docs/architecture.md) has the full table.
+Other commands cover mate verification, pruning and icon generation. [docs/architecture.md](docs/architecture.md) has the full table.
 
 ## Architecture
 
@@ -63,14 +63,10 @@ The studies are plain PGN text in `data/pgn/`. A single build step reads them an
 
 [docs/architecture.md](docs/architecture.md) covers every route, every table, and the reasoning behind the split.
 
-## Credit
-
-The solving screen is a port of the [lichess analysis board](https://lichess.org/analysis). The board is [chessground](https://github.com/lichess-org/chessground) and the rules are [chessops](https://github.com/niklasf/chessops). [lila](https://github.com/lichess-org/lila) is the site lichess runs on, and the move list, fork row, context menu, resize grip, topbar, settings drawer, touch handling, piece rendering, fonts and sounds all come from there, restyled into black and white with a serif face and square corners. Lila is AGPL-3.0-or-later, and so is this project.
-
 ## Contributing
 
 Issues and pull requests are welcome.
 
 ## Licence
 
-**AGPL-3.0-or-later**. See [LICENSE](LICENSE).
+AGPL-3.0-or-later
