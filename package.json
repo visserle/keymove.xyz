@@ -31,19 +31,19 @@
 	},
 	"dependencies": {
 		"@astrojs/svelte": "^9.0.1",
-		"@lichess-org/chessground": "10.2.0",
-		"astro": "^7.3.3",
+		"@lichess-org/chessground": "10.4.2",
+		"astro": "^7.3.8",
 		"better-auth": "^1.7.7",
 		"chessops": "^0.15.1",
-		"svelte": "^5.57.1"
+		"svelte": "^5.57.2"
 	},
 	"devDependencies": {
 		"@astrojs/check": "^0.9.10",
-		"@astrojs/cloudflare": "^14.3.2",
-		"@biomejs/biome": "2.5.14",
-		"@types/node": "^26.6.2",
+		"@astrojs/cloudflare": "^14.3.4",
+		"@biomejs/biome": "2.5.15",
+		"@types/node": "^26.6.4",
 		"tsx": "^4.23.15",
-		"typescript": "^5.9.0",
-		"wrangler": "^4.135.0"
+		"typescript": "^6.0.3",
+		"wrangler": "^4.149.0"
 	}
 }
