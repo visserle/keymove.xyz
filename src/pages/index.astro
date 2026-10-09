@@ -20,8 +20,8 @@ import { taskFor } from "../lib/display";
 const corpus = await runtimeCorpus(Astro.url);
 // The home page shows nothing personal, but the topbar's account menu does, and
 // this page is rendered per request precisely because the Worker can answer that.
-// Resolving the session here costs nothing on a cache hit and saves the browser
-// an auth request per visit.
+// Resolving the session here avoids a D1 read while Better Auth's five-minute
+// cookie cache is valid, and saves the browser a separate auth request per visit.
 const { account, cookies } = await accountFromHeaders(Astro.request.headers);
 applySessionCookies(Astro.response.headers, cookies);
 const dailyId = corpus.dailyId();

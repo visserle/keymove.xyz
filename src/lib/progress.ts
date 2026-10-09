@@ -36,21 +36,21 @@ export interface RequestAccount {
 export interface ResolvedAccount {
 	account: RequestAccount | null;
 	/**
-	 * `Set-Cookie` values Better Auth produced while answering. There is no session
-	 * cache, so the only one it produces is the expiry it sends when a cookie
-	 * arrives for a session that no longer exists; a page that drops that header
-	 * leaves a browser presenting a dead cookie until it is cleared by hand.
+	 * `Set-Cookie` values Better Auth produced while resolving the session,
+	 * including the five-minute session-cache cookie or cleanup of an invalid
+	 * session cookie. Callers must preserve these headers on the response.
 	 */
 	cookies: string[];
 }
 
 /**
- * The signed-in account for this request, or null for a guest.
+ * The signed-in account for this page render, or null for a guest.
  *
- * Authoritative: one primary-key read of `session` joined to `user` per request
- * that asks. There is no cookie cache (see `src/lib/auth/config.ts` for the
- * arithmetic), so a session deleted on another device, or an account deleted,
- * stops resolving on the very next request rather than when a cookie ages out.
+ * Better Auth's five-minute signed cookie cache avoids a D1 session lookup on a
+ * cache hit. A miss/expiry falls back to the database and returns any refreshed
+ * cache or cleanup cookies. As with any cache, a revoked session can still be
+ * reflected in page personalization until the cache expires. API authorization
+ * below bypasses the cookie cache and checks the database.
  */
 export async function accountFromHeaders(
 	headers: Headers,
@@ -72,14 +72,17 @@ export function applySessionCookies(
 }
 
 /**
- * Just the id, for the routes that authorize rather than render. The same
- * authoritative read, and the same header drop: a page render is what clears a
- * dead cookie, and a JSON endpoint has no page to clear it on.
+ * Just the id, for routes that authorize requests rather than render pages.
+ * These checks must remain authoritative: bypass Better Auth's five-minute
+ * cookie cache so a revoked session cannot authorize an API action.
  */
 export async function userIdFromHeaders(
 	headers: Headers,
 ): Promise<string | null> {
-	const result = await getAuth().api.getSession({ headers });
+	const result = await getAuth().api.getSession({
+		headers,
+		query: { disableCookieCache: true },
+	});
 	return result?.user.id ?? null;
 }
 

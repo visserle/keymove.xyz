@@ -33,7 +33,7 @@
 		"@astrojs/svelte": "^9.0.1",
 		"@lichess-org/chessground": "10.2.0",
 		"astro": "^7.3.3",
-		"better-auth": "^1.7.5",
+		"better-auth": "^1.7.7",
 		"chessops": "^0.15.1",
 		"svelte": "^5.57.1"
 	},

@@ -31,10 +31,11 @@ const client = createAuthClient();
 const ACCOUNT_HINT_KEY = "keymove.accountSignedIn";
 /**
  * The page resolved the session before it sent this HTML, so a Worker page knows
- * who is asking without asking again: that fetch would cost a round trip, a
- * `rateLimit` row and a session read on every page view to learn what the page
- * already rendered. A prerendered page has no such answer, so it passes nothing
- * and the fetch below is the only way to learn it.
+ * who is asking without another auth request. That extra fetch would add a
+ * round trip (and could require a D1 lookup if the five-minute cookie cache has
+ * expired) just to learn what the page already rendered. A prerendered page has
+ * no such answer, so it passes nothing and the fetch below is the only way to
+ * learn it.
  */
 let session = $state<Account | null>(
 	hasInitialAccount && initialAccount ? { user: initialAccount } : null,

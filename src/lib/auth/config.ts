@@ -103,19 +103,12 @@ export function createAuth(settings: AuthSettings) {
 			modelName: "auth_session",
 			expiresIn: 400 * 24 * 60 * 60,
 			updateAge: 24 * 60 * 60,
-			// Off, deliberately. A session cache turns each identity lookup into a
-			// cookie read instead of a D1 read, and it costs nothing in rows
-			// written: a cache hit writes nothing, and the one write in the session
-			// path fires only in the last day of a 400-day session. So it buys reads
-			// and nothing else, and reads are not the scarce resource — the Free
-			// plan allows 5 million a day against 100,000 rows written.
-			//
-			// What the cache would cost is an hour of stale identity: a session
-			// deleted here, an account deleted, a sign-out on another device, all
-			// of them still answered "signed in" until the cookie ages out. Paying
-			// an hour of that for rows nobody is short of is the wrong trade, so
-			// every request that authorizes reads the session row instead.
-			cookieCache: { enabled: false },
+			// Cache the signed session snapshot for five minutes to avoid a D1
+			// lookup on ordinary page renders. Server-side API authorization
+			// explicitly bypasses this cache, so revocation is authoritative there.
+			// A cached page identity can remain visible for at most five minutes
+			// after a session is revoked or the account is deleted.
+			cookieCache: { enabled: true, maxAge: 5 * 60 },
 		},
 		trustedOrigins: [settings.baseURL],
 		emailAndPassword: { enabled: false },
