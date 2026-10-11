@@ -1,0 +1,18 @@
+[Event "Neue Leipziger Zeitung"]
+[Site "?"]
+[Date "1934.12.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Brunner, Erich Anselm"]
+[Stipulation "#5"]
+[Source "Neue Leipziger Zeitung, 1934/12"]
+[Album "FIDE Album, 1914-1944/II, no. 1269, p. 234"]
+[Award "1st Prize; Neue Leipziger Zeitung (1934)"]
+[YACPDB "65299"]
+[URL "https://www.yacpdb.org/#65299"]
+[SetUp "1"]
+[FEN "8/6p1/3R2p1/6p1/6P1/4k3/8/2K2R2 w - - 0 1"]
+
+1. Ra6 1... Ke4 (1... Ke2 2. Rf7 (2. Rf8 2... Ke3 (2... Kd3 3. Ra4 3... Ke3 (3... Ke2 4. Ra3 4... Ke1 5. Re3#) 4. Kd1 (4. Kc2 4... Ke2 5. Re4#) 4... Kd3 5. Rf3#) 3. Ra4 3... Kd3 (3... Ke2 4. Ra3 (4. Re8+) 4... Ke1 5. Re3#) 4. Re8 4... Kc3 5. Re3#) 2... Ke3 (2... Kd3 3. Ra4 (3. Ra3+) 3... Ke3 (3... Ke2 4. Ra3 (4. Kc2) 4... Ke1 5. Re3#) 4. Kd1 (4. Kc2 4... Ke2 5. Re4#) 4... Kd3 5. Rf3#) 3. Ra4 3... Kd3 (3... Ke2 4. Ra3 (4. Re7+) 4... Ke1 5. Re3#) 4. Re7 4... Kc3 5. Re3#) (1... Kd4 2. Kc2 2... Ke4 (2... Kd5 3. Kd3 3... Ke5 (3... Kc5 4. Rb1 4... Kd5 5. Rb5#) 4. Kc4 (4. Rxg6) 4... Ke4 5. Re6# (5. Rf5)) (2... Kc4 3. Ra5 3... Kd4 (3... Kb4 4. Rfa1) 4. Re1 4... Kc4 5. Re4#) (2... Kc5 3. Kc3 3... Kd5 (3... Kb5 4. Rfa1) 4. Re1 4... Kc5 5. Re5# (5. Rae6)) (2... Ke5 3. Kc3 3... Kd5 (3... Ke4 4. Ra5 (4. Re6+) 4... Ke3 5. Re5#) 4. Re1 4... Kc5 5. Re5#) (2... Ke3 3. Kc3 3... Ke4 (3... Ke2 4. Raa1) 4. Ra5 4... Ke3 5. Re5#) 3. Kc3 3... Ke5 (3... Kd5 4. Re1 4... Kc5 5. Re5#) 4. Kc4 4... Ke4 5. Re6#) 2. Kd2 2... Kd4 (2... Kd5 3. Kd3 (3. Ra3) 3... Ke5 (3... Kc5 4. Rb1 (4. Ra5+) 4... Kd5 5. Rb5#) 4. Kc4 (4. Rxg6) 4... Ke4 5. Re6#) 3. Ra5 3... Ke4 (3... Kc4 4. Rb1 4... Kd4 5. Rb4# (5. Re5)) 4. Rxg5 (4. Kc3 4... Ke3 5. Re5# (5. Rff5)) 4... Kd4 5. Rf4# 1-0

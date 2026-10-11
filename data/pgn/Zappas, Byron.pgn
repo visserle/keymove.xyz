@@ -1,0 +1,18 @@
+[Event "The Problemist"]
+[Site "?"]
+[Date "1985.03.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Zappas, Byron"]
+[Stipulation "#2"]
+[Source "The Problemist, 1985/03, no. C7012"]
+[Album "FIDE Album, 1983-1985, no. 302, p. 111"]
+[Award "1st Prize, 1st half year; The Problemist (1985)"]
+[YACPDB "30727"]
+[URL "https://www.yacpdb.org/#30727"]
+[SetUp "1"]
+[FEN "2QN3B/1p5B/rn3p1K/7R/npPk1r1p/qP1NR2b/3PPP1b/8 w - - 0 1"]
+
+1. Nc1 (1. Rf5 1... Re4) (1. Bf5 1... Nd5) (1. Qf5 1... Qxb3) (1. Nxb4 1... Qxb3) (1. Nc5 1... Nb2) 1... Bf5 (1... Rf5 2. Ne6#) (1... Qxb3 2. Nxb3#) (1... Nb2 2. Qc5#) (1... Nc5 2. Qxc5#) (1... Rf3 2. Re4#) 2. Bxf6# 1-0

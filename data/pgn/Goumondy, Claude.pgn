@@ -1,0 +1,18 @@
+[Event "Schach"]
+[Site "?"]
+[Date "1977.05.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Goumondy, Claude"]
+[Stipulation "#5"]
+[Source "Schach, 1977/05, no. 230"]
+[Album "FIDE Album, 1977-1979, no. 440, p. 91"]
+[Award "1st Prize; Schach (1977)"]
+[YACPDB "188159"]
+[URL "https://www.yacpdb.org/#188159"]
+[SetUp "1"]
+[FEN "nR6/R3nN2/pPk5/4P3/Pp4r1/1Bpr1p1q/N2P1B1b/K4b2 w - - 0 1"]
+
+1. Rbb7 1... Rdd4 (1... Rgd4 2. Nxb4+ 2... Kc5 3. Nxa6+ 3... Kc6 4. Nd8+ 4... Rxd8 5. Nb4#) (1... Bxe5 2. Nxe5+ 2... Kd6 3. Nf7+ 3... Kc6 4. Rc7+ 4... Nxc7 5. Rxc7#) 2. Nd8+ 2... Kc5 3. Ne6+ 3... Kc6 4. Nxb4+ 4... Rxb4 5. Nd8# 1-0

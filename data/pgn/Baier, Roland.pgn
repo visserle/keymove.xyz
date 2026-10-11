@@ -1,0 +1,18 @@
+[Event "Basler Nachrichten"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Baier, Roland"]
+[Stipulation "#3"]
+[Source "Basler Nachrichten, 1975, no. 6707"]
+[Album "FIDE Album, 1974-1976, no. 382, p. 76"]
+[Award "1st Prize; Basler Nachrichten (1974-1975)"]
+[YACPDB "48568"]
+[URL "https://www.yacpdb.org/#48568"]
+[SetUp "1"]
+[FEN "2n5/b1pN1BpK/2N1p1R1/r4k1p/r4p2/pbPP1P2/q1pPR1P1/8 w - - 0 1"]
+
+1. d4 (1. Nc5) (1. c4) 1... Bxd4 (1... Rxd4 2. Nc5 2... Bxc5 (2... Rxc5 3. Nxd4#) (2... Rd5 3. Bxe6#) (2... Re4 3. fxe4#) 3. Re5#) 2. c4 2... Qa1 (2... Bxc4 3. Nxd4#) (2... Rxc4 3. Bxe6#) (2... Ba1 3. Bxe6# (3. Nd4+) (3. Re5+)) 3. Bxe6# 1-0

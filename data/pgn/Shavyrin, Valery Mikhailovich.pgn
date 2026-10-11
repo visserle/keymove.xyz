@@ -1,0 +1,18 @@
+[Event "8th WCCT"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Shavyrin, Valery Mikhailovich"]
+[Stipulation "#4"]
+[Source "8th WCCT, 2008, no. C65"]
+[Album "FIDE Album, 2007-2009, no. C54, p. 126"]
+[Award "1st Place, section C; 8th WCCT (2005-2008)"]
+[YACPDB "546488"]
+[URL "https://www.yacpdb.org/#546488"]
+[SetUp "1"]
+[FEN "5nK1/4BN1n/3R1Ppp/4PkPp/2p1r3/4p1R1/b1BP2NP/4r3 w - - 0 1"]
+
+1. e6 1... c3 (1... Rf1 2. Nh4+ 2... Kf4 3. dxe3+ 3... Rxe3 4. Ng2#) (1... hxg5 2. Rf3+ 2... Kg4 3. Ne5+ (3. Nh6+) 3... Rxe5 4. Rg3# (4. Nh4)) (1... Nxf6+ 2. Bxf6 2... hxg5 3. Bxg5) 2. Nxh6+ 2... Ke5 3. d4+ 3... Rxd4 4. Nf7# 1-0

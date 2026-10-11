@@ -1,0 +1,18 @@
+[Event "Schach-Echo"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Sladek, Gerald"]
+[Stipulation "#4"]
+[Source "Schach-Echo, 1967"]
+[Album "FIDE Album, 1965-1967, no. 355, p. 76"]
+[Award "1st Prize; Schach-Echo"]
+[YACPDB "64620"]
+[URL "https://www.yacpdb.org/#64620"]
+[SetUp "1"]
+[FEN "8/8/n5p1/1p2r3/3N2p1/2pB4/2Q4P/1K2k3 w - - 0 1"]
+
+1. Ne6 (1. Bxb5) 1... Rxe6 2. Bxb5 2... Re3 3. Qc1+ 3... Kf2 4. Qf1# 1-0

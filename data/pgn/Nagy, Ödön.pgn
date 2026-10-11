@@ -1,0 +1,18 @@
+[Event "The Problemist"]
+[Site "?"]
+[Date "1929.03.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Nagy, Ödön"]
+[Stipulation "#4"]
+[Source "The Problemist, 1929/03, no. 325"]
+[Album "FIDE Album, 1914-1944/II, no. 1191"]
+[Award "1st Prize; British Chess Problem Society Tourney No. 8 (1928-1929)"]
+[YACPDB "62329"]
+[URL "https://www.yacpdb.org/#62329"]
+[SetUp "1"]
+[FEN "n2b2b1/1p6/1p3PP1/1p6/1PpPK3/2P1PRP1/p1Q5/Rq2k3 w - - 0 1"]
+
+1. Rf2 1... Nc7 (1... Bd5+ 2. Ke5 2... Bxf6+ 3. Kxf6 3... Bf3 4. Qd2#) (1... Be6 2. Ke5 2... Bxf6+ 3. Kxf6 3... Bg4 4. Qd2#) (1... Bf7 2. gxf7) 2. Kf4 2... Nd5+ (2... Ne6+ 3. Kg4 3... Nxd4 (3... Nf4 4. Qd2#) 4. Qd2#) 3. Kf3 3... Nxc3 (3... Nf4 4. Qd2#) 4. Qd2# 1-0

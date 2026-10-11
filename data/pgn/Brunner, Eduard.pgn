@@ -1,0 +1,18 @@
+[Event "Schweizerische Schachzeitung"]
+[Site "?"]
+[Date "1957.07.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Brunner, Eduard"]
+[Stipulation "#3"]
+[Source "Schweizerische Schachzeitung, 1957/07, no. 8584, p. 143"]
+[Album "FIDE Album, 1956-1958, no. 238, p. 61"]
+[Award "1st Prize; Schweizerische Schachzeitung (1957)"]
+[YACPDB "85030"]
+[URL "https://www.yacpdb.org/#85030"]
+[SetUp "1"]
+[FEN "6r1/2n5/5B2/2P1N3/3N4/2k1Pp2/PR6/KB6 w - - 0 1"]
+
+1. Bd8 (1. Ndc6) (1. Ndxf3) 1... Rxd8 (1... Rg4 2. Ndxf3 2... Rb4 3. Rc2#) (1... Rg5 2. Nb5+ (2. Bxg5) 2... Nxb5 3. Ba5#) 2. Ndc6 2... Rd2 3. Rb3# 1-0

@@ -1,0 +1,18 @@
+[Event "British Chess Magazine"]
+[Site "?"]
+[Date "1947.07.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Byas, Walter Bill"]
+[Stipulation "#2"]
+[Source "British Chess Magazine, 1947/07, no. 7529"]
+[Album "FIDE Album, 1945-1955, no. 479"]
+[Award "1st Prize, 2nd half-year; British Chess Magazine (1947)"]
+[YACPDB "3749"]
+[URL "https://www.yacpdb.org/#3749"]
+[SetUp "1"]
+[FEN "3Nqr2/3P2N1/2Pp1bRn/1K1kP3/1PR2p2/2Bp1b1Q/B4r1n/8 w - - 0 1"]
+
+1. Nh5 1... Bd1 (1... Be2 2. Rxf4#) (1... Be4 2. Rc5#) (1... Bh4 2. Rxd6#) (1... Bxe5 2. Rd4#) (1... Be7 2. Qe6#) (1... Qxe5 2. Rd4#) (1... dxe5 2. Rd4#) 2. Qxd3# 1-0

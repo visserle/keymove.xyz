@@ -1,0 +1,18 @@
+[Event "Chemnitzer Tageblatt"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Mongrédien, Alfred Wornum"]
+[Stipulation "#5"]
+[Source "Chemnitzer Tageblatt, 1925"]
+[Album "FIDE Album, 1914-1944/II, no. 1111, p. 204"]
+[Award "1st Prize; Chemnitzer Tageblatt (1925-1926)"]
+[YACPDB "65277"]
+[URL "https://www.yacpdb.org/#65277"]
+[SetUp "1"]
+[FEN "q3bb1N/4p3/4Pp1p/2Np1k2/2pP1Pp1/4P3/p7/K6Q w - - 0 1"]
+
+1. Qg2 1... Ba4 2. Qh2 2... Qe8 3. Qh1 3... Bc6 4. Qg2 4... Ba4 (4... g3 5. Qh3#) 5. Qxd5# 1-0

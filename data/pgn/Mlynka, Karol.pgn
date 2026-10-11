@@ -1,0 +1,18 @@
+[Event "Smena (Bratislava)"]
+[Site "?"]
+[Date "1963.12.24"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Mlynka, Karol"]
+[Stipulation "#4"]
+[Source "Smena (Bratislava), 1963/12/24"]
+[Album "FIDE Album, 1962-1964, no. 438, p. 101"]
+[Award "1st Prize; Smena (Bratislava) (1963)"]
+[YACPDB "63992"]
+[URL "https://www.yacpdb.org/#63992"]
+[SetUp "1"]
+[FEN "8/p2p1B2/P2P2p1/3KR1P1/1k2P3/p1N1B3/rp2P3/bN6 w - - 0 1"]
+
+1. Bg8 1... Kb3 (1... Ka5 2. Kc4+ 2... Kxa6 3. Bd5 3... Ka5 4. Bb7#) 2. Kc5+ 2... Kc2 3. Rd5 3... Kb3 4. Rd2# 1-0

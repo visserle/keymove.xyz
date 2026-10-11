@@ -1,0 +1,14 @@
+[Event "The Illustrated London News"]
+[Site "?"]
+[Date "1873.10.25"]
+[Round "?"]
+[Composer "Collins, Francis Charles"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Stipulation "#4"]
+[Source "Issue 1782, problem 1548, p.399; https://archive.org/details/sim_illustrated-london-news_1873-10-25_63_1782/page/n22/mode/1up"]
+[SetUp "1"]
+[FEN "8/3p3p/3Pp1B1/2p1P2P/5Kpk/ppP1P1N1/P5P1/B7 w - - 0 1"]
+
+1. Bb1! h6 (1... c4 2. Ne2 h6 3. Ng1 g3 4. Nf3#) (1... bxa2 2. Bxh7 c4 3. Bf5 exf5 4. Nxf5#) (1... b2 2. Ne2 bxa1=Q 3. Ng1 h6 4. g3#) 2. Ne2 c4 (2... g3 3. Ng1 b2 4. Nf3#) (2... bxa2 3. Ng1 c4 4. g3#) (2... b2 3. Ng1 bxa1=Q 4. Nf3#) 3. Ng1 g3 4. Nf3# 1-0

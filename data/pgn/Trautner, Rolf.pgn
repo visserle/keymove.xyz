@@ -1,0 +1,18 @@
+[Event "Schach-Report"]
+[Site "?"]
+[Date "1996.02.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Trautner, Rolf"]
+[Stipulation "#4"]
+[Source "Schach-Report, 1996/02, no. 4581"]
+[Album "FIDE Album, 1995-1997, no. C36"]
+[Award "1st Prize; Schach-Report"]
+[YACPDB "195549"]
+[URL "https://www.yacpdb.org/#195549"]
+[SetUp "1"]
+[FEN "1n3b2/2p2r1b/q1Q1p2r/1Np1k1Pp/6PN/1B1pPP2/6p1/5nK1 w - - 0 1"]
+
+1. Nf5 1... Qa4 (1... Qxc6 2. f4+ 2... Ke4 3. Nc3+ 3... Kf3 4. Bd1#) (1... Nxc6 2. f4+ 2... Ke4 3. Nc3+ 3... Kf3 4. Bd1#) 2. Ne7 2... Qa7 (2... Qd4 3. Qxc7+ 3... Qd6 4. Qxd6#) (2... Rxf3 3. Qxc5+ 3... Ke4 4. Nc3#) (2... Na6 3. Qxc7+ (3. Qxc5+ 3... Nxc5 4. Nc6#) (3. Qd6+ 3... cxd6 4. Nc6#) 3... Nxc7 4. Nc6#) (2... Bxe7 3. Qxc7+ 3... Bd6 4. Qxd6#) 3. Ng6+ 3... Rxg6 (3... Bxg6 4. Qxe6#) 4. Qe4# 1-0

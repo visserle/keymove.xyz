@@ -1,0 +1,18 @@
+[Event "FIDE Revue"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Bakcsi, György"]
+[Stipulation "#3"]
+[Source "FIDE Revue, 1962, issue 3, p. 100"]
+[Album "FIDE Album, 1962-1964, no. 357"]
+[Award "1st Prize; 3rd FIDE Tourney (1960-1961)"]
+[YACPDB "48998"]
+[URL "https://www.yacpdb.org/#48998"]
+[SetUp "1"]
+[FEN "8/p4p2/K1QpP1p1/1P1p1p2/Nb1kNB2/1PpPRBP1/n1q5/5r2 w - - 0 1"]
+
+1. Qa8 1... Rh1 (1... Qh2 2. Ng5 2... Rxf3 (2... fxe6 3. Nxe6# (3. Qxd5+)) 3. Nxf3#) (1... f6 2. Nd2 2... Rxf3 (2... Qxb3 3. Nxb3#) 3. Nxf3#) (1... dxe4 2. Rxe4+ 2... Kxd3 (2... fxe4 3. Qxe4#) 3. Qd5#) (1... fxe6 2. Ng5) 2. Nec5 2... Qxb3 (2... fxe6 3. Nxe6# (3. Qxd5+)) 3. Nxb3# 1-0

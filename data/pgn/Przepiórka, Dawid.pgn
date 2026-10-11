@@ -1,0 +1,18 @@
+[Event "Schweizerische Schachzeitung"]
+[Site "?"]
+[Date "1916.01.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Przepiórka, Dawid"]
+[Stipulation "#4"]
+[Source "Schweizerische Schachzeitung, 1916/01, no. 2500, p. 9"]
+[Album "FIDE Album, 1914-1944/II, no. 1037"]
+[Award "1st Prize; Schweizerische Schachzeitung (1916)"]
+[YACPDB "62280"]
+[URL "https://www.yacpdb.org/#62280"]
+[SetUp "1"]
+[FEN "2q4r/3b1Qb1/2pR4/1pp1P1RN/1p2k2p/3n4/2r2p2/B4N1K w - - 0 1"]
+
+1. Re6 (1. Qg6+) (1. Rg4+) 1... Bxe6 (1... Kd5 2. Rg4 2... Nf4 (2... c4 3. Ne3+ (3. Rd6+)) 3. Rd6+ 3... Ke4 4. Qxf4# (4. Rxf4#)) (1... c4 2. Qf5+ 2... Kd5 3. Rd6+ 3... Kc5 4. Bd4#) (1... Nf4 2. Qxf4+ 2... Kd3 3. Qf3+ 3... Kc4 4. Rg4#) (1... Bf6 2. Qg6+ 2... Kd5 3. Rd6+ (3. Ne3+)) (1... Qf8 2. Qg6+ 2... Qf5 3. Qxf5+ 3... Kd5 4. Ne3#) (1... Rf8 2. Qg6+ 2... Rf5 3. Qxf5+ 3... Kd5 4. Ne3#) (1... Re2 2. Qf5+ (2. Qg6+) 2... Kd5 3. Rd6+ 3... Kc4 4. Qxd3#) 2. Rg4+ 2... Bxg4 (2... Nf4 3. Qxf4+ (3. Ne3)) 3. Qg6+ 3... Bf5 (3... Qf5 4. Qxc6#) (3... Kd5 4. Ne3#) (3... Kf3 4. Qxd3#) 4. Qg2# 1-0

@@ -1,0 +1,18 @@
+[Event "The Westminster Gazette"]
+[Site "?"]
+[Date "1919.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Heathcote, Godfrey F."]
+[Stipulation "#4"]
+[Source "The Westminster Gazette, 1919"]
+[Album "FIDE Album, 1914-1944/II, no. 869"]
+[Award "1st Prize; The Westminster Gazette (1919)"]
+[YACPDB "62131"]
+[URL "https://www.yacpdb.org/#62131"]
+[SetUp "1"]
+[FEN "8/5Rpp/1nn5/1p1k4/1p4PP/N2N1P2/PQ6/K7 w - - 0 1"]
+
+1. Rc7 1... b3 (1... bxa3 2. Qc3 2... b4 (2... Na4 3. Rd7+ (3. Qxc6+ 3... Kd4 4. Qe4#) 3... Ke6 4. Qxc6#) (2... Nc4 3. Rd7+ 3... Nd6 (3... Ke6 4. Nc5#) 4. Nf4#) (2... Nd4 3. Qc5+ 3... Ke6 4. Qe5#) 3. Qxc6+ (3. Qc5+ 3... Ke6 4. Qxc6#) 3... Kd4 4. Qe4#) (1... Kd6 2. Nxb5+ 2... Kd5 3. Qe5+ 3... Kc4 (3... Nxe5 4. Nf4#) 4. Nb2#) (1... Ke6 2. Qxg7 2... bxa3 (2... Kd6 3. Nxb5+ 3... Ke6 (3... Kd5 4. Qf7# (4. Qg8#)) 4. Qf7# (4. Nf4#)) (2... Kd5 3. Rd7+ 3... Ke6 (3... Nxd7 4. Qxd7#) 4. Qf7# (4. Nf4#) (4. Nc5#)) 3. Rxc6+ 3... Kd5 4. Nb4#) (1... Nc4 2. Rd7+ (2. Nxc4) 2... Nd6 3. Qb3+ 3... Kd4 4. Nc2# (4. Nc5)) (1... Nd4 2. Nxb5 2... Nc2+ (2... Nxf3 3. Qe2 3... Ne5 (3... Na4 4. Nf4# (4. Nxb4#)) (3... Nd7 4. Nf4# (4. Nxb4#)) (3... g5 4. Rc5# (4. Nxb4#)) 4. Nf4# (4. Qxe5#)) (2... Nc6 3. Qe5+ 3... Kc4 (3... Nxe5 4. Nf4#) 4. Nb2#) (2... Ke6 3. Nf4+ 3... Kf6 (3... Ke5 4. Qxd4#) 4. Qxd4#) (2... Nd7 3. Nf4+ 3... Ke5 4. Qxd4#) (2... g5 3. Qxd4+ 3... Ke6 4. Qe5# (4. Qd6#) (4. Nc5#)) 3. Qxc2 3... Nc4 4. Qxc4#) (1... g5 2. Qf6 2... b3 3. Qxc6+ 3... Kd4 4. Qe4#) 2. Nxb5 2... Nd4 3. Nf4+ (3. Qxd4+ 3... Ke6 4. Qe5# (4. Qd6#) (4. Nf4#) (4. Nc5#)) 3... Ke5 4. Qxd4# (4. Qc1) (4. Qxb3) (4. Qc2) 1-0

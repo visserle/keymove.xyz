@@ -1,0 +1,18 @@
+[Event "FIDE Revue"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Fossum, André Ferdinand"]
+[Stipulation "#3"]
+[Source "FIDE Revue, 1959, issue 3, p. 100"]
+[Album "FIDE Album, 1959-1961, no. 235"]
+[Award "1st Prize, (Böhmische Dreizüger); 2nd FIDE Tourney"]
+[YACPDB "60636"]
+[URL "https://www.yacpdb.org/#60636"]
+[SetUp "1"]
+[FEN "2rr4/3p3p/1QB1p2K/p7/3B4/p2k1p2/4bR2/4Rn2 w - - 0 1"]
+
+1. Ba1 1... Kc2 (1... Kd2 2. Qxa5+ 2... Ke3 (2... Kc2 3. Qc3#) (2... Kd3 3. Qc3#) 3. Rxf3#) (1... dxc6 2. Qb3+ 2... Ke4 3. Qxf3#) (1... Rxc6 2. Qd4+ 2... Kc2 3. Qd1#) 2. Ba4+ 2... Kd3 (2... Kd2 3. Rd1#) 3. Qd4# 1-0

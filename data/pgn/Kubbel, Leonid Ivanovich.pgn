@@ -3782,3 +3782,22 @@
 [FEN "8/1p1p4/p2P4/1Pk5/5B2/b1K5/2P5/8 w - - 0 1"]
 
 1. Kb3 $1 (1. bxa6 $2 Kb6) Bb4 2. bxa6 bxa6 3. Be3+ Kb5 4. c4+ Ka5 5. Bg5 Bc5 (Be1 6. Bd8#) 6. Bd8+ Bb6 7. Bc7 Bxc7 8. dxc7 1-0
+
+[Event "Il Problema"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Kubbel, Leonid Ivanovich"]
+[Stipulation "#5"]
+[Source "Il Problema, 1933"]
+[Album "FIDE Album, 1914-1944/II, no. 1210"]
+[Award "1st Prize; Il Problema, XXV Concorso (1933)"]
+[YACPDB "65928"]
+[URL "https://www.yacpdb.org/#65928"]
+[SetUp "1"]
+[FEN "3R2qr/bp2p1Rp/1k1Pb3/pPNp1p2/P2P1K2/8/8/8 w - - 0 1"]
+
+1. Rd7 1... Qa8 (1... Qc8 2. Rdxe7 2... Qd7 (2... Bd7 3. Rxd7 3... Qc7 4. Rxc7) (2... Qc7 3. Rxc7 3... Rb8 4. Rxb7+ 4... Rxb7 5. Rxb7#) 3. Rxd7 3... Rb8 4. Rxb7+ 4... Rxb7 5. Rxb7#) (1... Qb8 2. Rgxe7 2... Qc7 3. Rxc7) 2. Rdxe7 2... Rb8 (2... Bc8 3. Rxb7+ 3... Qxb7 4. Rxb7+ 4... Bxb7 5. Nd7#) 3. Rxh7 3... Bc8 4. Rd7 4... Bxd7 5. Nxd7# 1-0

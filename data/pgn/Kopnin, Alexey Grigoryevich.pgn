@@ -751,3 +751,22 @@
 [FEN "8/8/8/8/8/8/r2BKp2/7k w - - 0 1"]
 
 1. Kf1 $1 Kh2 (Rxd2) 2. Bf4+ Kh3 3. Bc7 $1 Rb2 4. Bd6 Rc2 5. Be5 Rd2 6. Bf4 Re2 7. Bb8 $1 Re8 8. Bg3 $1 Kxg3 1/2-1/2
+
+[Event "Šahs/Shakhmaty (Rīga)"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Kopnin, Alexey Grigoryevich"]
+[Stipulation "#4"]
+[Source "Šahs/Shakhmaty (Rīga), 1969, no. 174v"]
+[Album "FIDE Album, 1968-1970, no. 369, p. 76"]
+[Award "1st Prize; Kārlis Bētiņš MT (1967-1968)"]
+[YACPDB "64087"]
+[URL "https://www.yacpdb.org/#64087"]
+[SetUp "1"]
+[FEN "6bQ/5kB1/2P2p2/1pN4P/pPr4N/Pr6/BR4P1/KR6 w - - 0 1"]
+
+1. Bh6 1... Rg4 (1... Rg3) (1... Rxc5) 2. Re1 (2. Re2) 2... Rg3 (2... Rg5 3. Nf5 3... Rxf5 4. Qg7# (4. Qxf6+)) (2... f5 3. Re6 (3. Nxf5) (3. Qg7+) 3... Rg7 (3... Rg6 4. hxg6# (4. Qf6+) (4. Re4)) (3... Rf4 4. Qg7# (4. Qf6#)) 4. Qxg7#) 3. Re6 3... Rbf3 (3... Rgf3 4. Qg7#) (3... Rg6 4. hxg6#) (3... Rg7 4. Qxg7#) 4. Re3# 1-0

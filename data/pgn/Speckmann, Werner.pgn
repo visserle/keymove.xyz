@@ -39,3 +39,22 @@
 [FEN "8/5pp1/8/8/6K1/8/R6p/6k1 w - - 0 1"]
 
 1. Kh3 $1 (1. Kg3 $2 h1=N+) h1=Q+ 2. Kg3 1-0
+
+[Event "Die Schwalbe"]
+[Site "?"]
+[Date "1942.07.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Speckmann, Werner"]
+[Stipulation "#4"]
+[Source "Die Schwalbe, 1942/07, no. 6664"]
+[Album "FIDE Album, 1914-1944/II, no. 1011"]
+[Award "1st Prize; Die Schwalbe (1942-1943)"]
+[YACPDB "62255"]
+[URL "https://www.yacpdb.org/#62255"]
+[SetUp "1"]
+[FEN "2K5/5p2/7B/1R3P2/P1pPB3/2p4p/2Pr3P/2kb3Q w - - 0 1"]
+
+1. Rb8 1... f6 2. Ba8 2... Kxc2 3. Qb7 3... Kd3 4. Qe4# 1-0

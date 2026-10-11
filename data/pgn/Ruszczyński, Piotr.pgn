@@ -1,0 +1,18 @@
+[Event "Szachy"]
+[Site "?"]
+[Date "1972.07.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Ruszczyński, Piotr"]
+[Stipulation "#2"]
+[Source "Szachy, 1972/07, no. 2023"]
+[Album "FIDE Album, 1971-1973, no. 101, p. 26"]
+[Award "1st Prize; Szachy (1972)"]
+[YACPDB "22053"]
+[URL "https://www.yacpdb.org/#22053"]
+[SetUp "1"]
+[FEN "3n4/8/1P1R4/1r3P1q/2kN3R/Q3B1Pp/1n2N3/3Bb2K w - - 0 1"]
+
+1. Qa6 1... Kb4 (1... Kc5 2. Nxb5#) (1... Kd3 2. Nc2#) (1... Qe8 2. Ne6#) (1... Qxf5 2. Nxf5#) (1... Qf3+ 2. Nxf3#) (1... Qxe2 2. Nxe2#) 2. Nc6# 1-0

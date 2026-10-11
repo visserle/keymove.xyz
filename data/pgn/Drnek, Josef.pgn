@@ -1,0 +1,18 @@
+[Event "De Maasbode"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Drnek, Josef"]
+[Stipulation "#3"]
+[Source "De Maasbode, 1928"]
+[Album "FIDE Album, 1914-1944/II, no. 65, p. 26"]
+[Award "1st Prize; Netherlands - Czechoslovakia "]
+[YACPDB "47650"]
+[URL "https://www.yacpdb.org/#47650"]
+[SetUp "1"]
+[FEN "7R/5p1Q/8/4P3/5nk1/R6n/K4p2/5B2 w - - 0 1"]
+
+1. Ra4 1... Kg3 (1... Ng5 2. Be2+ 2... Kg3 (2... Nf3 3. Rg8#) 3. Qh2#) (1... f5 2. Qxh3+ 2... Kg5 3. Qg3#) 2. Qxh3+ 2... Nxh3 3. Rxh3# 1-0

@@ -1,0 +1,18 @@
+[Event "Die Schwalbe"]
+[Site "?"]
+[Date "1932.06.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "O'Keefe, John James"]
+[Stipulation "#4"]
+[Source "Die Schwalbe, 1932/06, no. 2071"]
+[Album "FIDE Album, 1914-1944/II, no. 1265"]
+[Award "1st Prize, 2nd quarter; Die Schwalbe (1932)"]
+[YACPDB "64190"]
+[URL "https://www.yacpdb.org/#64190"]
+[SetUp "1"]
+[FEN "8/5p1n/5B2/5P2/ppPPP3/kn2Q2R/1p4p1/1B4K1 w - - 0 1"]
+
+1. Qh6 1... Ng5 (1... Nxf6 2. Rxb3+ 2... Kxb3 (2... axb3 3. Qxf6) 3. Qe3+ (3. Qh3+ 3... Kxc4 4. Qd3#) 3... Kxc4 4. Qd3#) (1... Nf8 2. Rxb3+ 2... Kxb3 (2... axb3 3. Qxf8) 3. Qe3+ (3. Qh3+ 3... Kxc4 4. Qd3#) 3... Kxc4 4. Qd3#) 2. Bxg5 2... f6 3. Bc1 3... bxc1=Q+ 4. Qxc1# 1-0

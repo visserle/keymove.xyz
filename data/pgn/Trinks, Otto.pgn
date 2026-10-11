@@ -13,3 +13,22 @@
 [FEN "8/8/8/8/8/2K4B/5k1P/8 w - - 0 1"]
 
 1. Bd7 $1 (1. Bg4 $2 Ke3 2. h3 $10) (1. Bf1 $2 Kf3 2. h3 $10) (1. Kc2 $2 Ke2 2. Bg4+) (1. Kb4 Kg1 2. Kc3) Ke3 $1 (Kf3 2. Kd4 Kf4 3. h4) 2. h4 (2. h3 $2 Ke4 3. h4 $10) (2. Be8 $2 Kf3 3. h3 $10) (2. Bc6 $2 Kf4 3. h3 $10) Ke4 (Kf3 3. h5) 3. h5 (3. Kc4 $2 Ke5 4. h5 $10) (3. Be8 $2 Kf4 4. h5 $10) (3. Kd2 $2 Kf4 4. h5) (3. Bh3 Ke5 4. h5) (3. Bg4 Kf4 4. h5) Ke5 4. h6 (4. Be8 {<or>} Kd6 (Kf6 5. h6) 5. h6 $18) (4. Kd3 Kf6 5. h6) (4. Be6 Kxe6 5. h6) (4. Bg4 Kf6 5. h6) Kf6 5. Be8 $18 (5. Bf5 $4 Kf7 6. Bh7 Kf6 $10) (5. h7 $4 Kg7 6. h8=Q+ $10) (5. Bg4 $4 Kg6 6. h7 $10) (5. Be6 $4 Kg6 6. h7) (5. Kd4 $4 Kg6 6. h7) (5. Bb5 Kg6 6. h7) (5. Ba4 Kg6 6. h7) 1-0
+
+[Event "Chemnitzer Tageblatt"]
+[Site "?"]
+[Date "1926.01.16"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Trinks, Otto"]
+[Stipulation "#4"]
+[Source "Chemnitzer Tageblatt, 1926/01/16"]
+[Album "FIDE Album, 1914-1944/II, no. 1196, p. 218"]
+[Award "1st Prize; Chemnitzer Tageblatt (1926)"]
+[YACPDB "62334"]
+[URL "https://www.yacpdb.org/#62334"]
+[SetUp "1"]
+[FEN "1r1n2N1/6Bp/br5R/3qpp2/1P2pk1P/b1P1p2K/1N4B1/2R5 w - - 0 1"]
+
+1. Ne7 1... Qg8 (1... Qd7 2. Rd6 2... Qxd6 (2... Rxd6 3. Nd5+ 3... Rxd5 4. Bh6#) (2... Qe6 3. Bh6+ (3. Nd5+) (3. Rxe6)) (2... Qxe7 3. Bh6+) 3. Bh6+ 3... Qxh6 4. Nd5#) (1... Qa8 2. Rc6 2... Qxc6 3. Bh6+ 3... Qxh6 4. Nd5#) (1... Qa5 2. b5 2... Qxb5 3. Rf1+ 3... Qxf1 4. Nd5#) (1... Qa2 2. c4 2... Qxc4 (2... Bxc4 3. Nd5+ 3... Bxd5 4. Rf1#) 3. Rf1+ 3... Qxf1 4. Nd5#) (1... Qb3 2. Nc4 2... Qxc4 (2... Bxc4 3. Nd5+ 3... Bxd5 4. Rf1#) 3. Rf1+ 3... Qxf1 4. Nd5#) (1... Qd2 2. Nd3+ 2... Qxd3 3. Rf1+ 3... Qxf1 4. Nd5#) (1... Qd1 2. Nd3+ (2. Rxd1 2... Bc4 (2... Rd6 3. Rhxd6 (3. Rf6)) 3. Nd5+ (3. Nd3+) (3. Nxc4) (3. Rf1+))) (1... Qc5 2. bxc5) (1... Qe6 2. Rxe6) 2. Re6 2... Qxe6 3. Bh6+ 3... Qxh6 4. Nd5# 1-0

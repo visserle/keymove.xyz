@@ -1,0 +1,18 @@
+[Event "Variantim"]
+[Site "?"]
+[Date "2008.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Murashev, Pavel Aleksandrovich"]
+[Stipulation "#2"]
+[Source "Variantim, 2008, no. 1819"]
+[Album "FIDE Album, 2007-2009, no. A27"]
+[Award "1st Prize; Israel Ring Tourney"]
+[YACPDB "369115"]
+[URL "https://www.yacpdb.org/#369115"]
+[SetUp "1"]
+[FEN "3r4/2n3R1/2Bkp1Kn/R1p1N3/2pN2p1/4Q3/8/B1r5 w - - 0 1"]
+
+1. Qa3 (1. Ndf3 1... Na6 (1... Nb5) 2. Qd2#) (1. Qd2 1... Kxe5 (1... Rxa1 2. Nxc4#) (1... cxd4 2. Qb4#) (1... Rc3) 2. Nf3#) (1. Qg3 1... cxd4 (1... Nf7) 2. Qa3#) 1... Kxe5 (1... Na6 2. Nb5#) 2. Qg3# 1-0

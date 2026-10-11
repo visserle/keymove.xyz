@@ -11,3 +11,23 @@
 [FEN "8/8/7P/8/8/1k6/p3K3/4B3 w - - 0 1"]
 
 1. Bc3 $1 Kxc3 2. h7 Kc2 3. h8=Q Kb1 4. Qh1+ (4. Qb8+ $1 {<minor dual>}) (4. Qh7+ $1 { <minor dual>}) Kb2 5. Kd2 a1=Q 6. Qb7+ Ka3 7. Qa6+ Kb2 8. Qb5+ Ka3 9. Qa5+ Kb2 10. Qb4+ Ka2 11. Kc2 1-0
+
+[Event "Šahovski glasnik"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Pankratiev, Alexander Nikolayevich"]
+[Composer2 "Varga, Josip"]
+[Stipulation "#4"]
+[Source "Šahovski glasnik, 1991"]
+[Album "FIDE Album, 1989-1991, no. C27, p. 198"]
+[Award "1st Prize; Šahovski glasnik"]
+[YACPDB "195942"]
+[URL "https://www.yacpdb.org/#195942"]
+[SetUp "1"]
+[FEN "8/3N4/p2PK2b/B2Rpp2/B1kPp3/r4P2/n1P1P2q/1r1N4 w - - 0 1"]
+
+1. e3 1... Rxe3 (1... Bxe3 2. Bb3+ 2... Rbxb3 (2... Raxb3 3. Nb6+ 3... Rxb6 4. Nxe3#) 3. Nxe3+ 3... Rxe3 4. Nb6#) 2. f4 2... Qxf4 (2... Bxf4 3. Nxe5+ 3... Bxe5 4. Nxe3#) 3. Nxe3+ 3... Qxe3 4. Nxe5# 1-0

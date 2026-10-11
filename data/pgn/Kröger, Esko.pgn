@@ -1,0 +1,18 @@
+[Event "Suomen Tehtäväniekat"]
+[Site "?"]
+[Date "1965.05.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Kröger, Esko"]
+[Stipulation "#3"]
+[Source "Suomen Tehtäväniekat, 1965/05, issue 3"]
+[Album "FIDE Album, 1965-1967, no. 249, p. 54"]
+[Award "1st Prize; Nevanko-50 JT"]
+[YACPDB "195246"]
+[URL "https://www.yacpdb.org/#195246"]
+[SetUp "1"]
+[FEN "8/4K3/B1p2P2/p2kNp2/2R3p1/1n2PpBN/8/7n w - - 0 1"]
+
+1. Rf4 1... c5 (1... Nd4 2. Rxd4+ (2. exd4) 2... Kc5 3. Nd7#) (1... Kxe5 2. Rxf5+ 2... Ke4 (2... Kxf5 3. Bd3#) 3. Re5#) (1... Kc5 2. Nd7+ 2... Kd5 3. Bc4#) 2. Bb7+ 2... Kxe5 3. Re4# 1-0

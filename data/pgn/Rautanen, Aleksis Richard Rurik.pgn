@@ -1,0 +1,18 @@
+[Event "Suomen Shakki"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Rautanen, Aleksis Richard Rurik"]
+[Stipulation "#5"]
+[Source "Suomen Shakki, 1967"]
+[Album "FIDE Album, 1965-1967"]
+[Award "1st Prize; Veikko Tamminen 50 JT"]
+[YACPDB "65207"]
+[URL "https://www.yacpdb.org/#65207"]
+[SetUp "1"]
+[FEN "5k2/2N4p/1pPKBp1P/1P1P4/p2R4/1p2p2p/r4P1r/2R2b2 w - - 0 1"]
+
+1. Rf4 (1. Rg4) (1. Rxa4) 1... Raxf2 (1... Rhxf2 2. Rg4 2... Rg2 3. Rxf1 3... Raf2 4. Rxa4 4... Ra2 5. Rxf6#) 2. Rxa4 2... Ra2 3. Rxf1 3... Rhf2 4. Rg4 4... Rg2 5. Rxf6# 1-0

@@ -1,0 +1,18 @@
+[Event "Die Schwalbe"]
+[Site "?"]
+[Date "1953.04.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Matthews, Robin Charles Olivier"]
+[Stipulation "#3"]
+[Source "Die Schwalbe, 1953/04, issue 04-05, no. 8944"]
+[Album "FIDE Album, 1945-1955, no. 871, p. 167"]
+[Award "1st Prize; Die Schwalbe"]
+[YACPDB "50042"]
+[URL "https://www.yacpdb.org/#50042"]
+[SetUp "1"]
+[FEN "n1N5/PR2Rpp1/Kpk3rb/1p3P2/1p5q/1Q1NPbr1/6p1/8 w - - 0 1"]
+
+1. Red7 1... R3g4 (1... Bg5 2. f6 2... Rxf6 (2... Bxf6 3. Rd6# (3. Ne5+)) 3. Ne7#) (1... Bxe3 2. Qc2+) 2. e4 2... Rxe4 (2... Bxe4 3. Qc2# (3. Ne7+) (3. Rd6+)) 3. Qd5# 1-0

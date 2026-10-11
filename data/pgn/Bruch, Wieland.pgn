@@ -1,0 +1,18 @@
+[Event "Sächsische Zeitung"]
+[Site "?"]
+[Date "1997.05.31"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Bruch, Wieland"]
+[Stipulation "#3"]
+[Source "Sächsische Zeitung, 1997/05/31, no. 2538"]
+[Album "FIDE Album, 1995-1997, no. 28, p. 91"]
+[Award "1st Prize; Sächsische Zeitung"]
+[YACPDB "195548"]
+[URL "https://www.yacpdb.org/#195548"]
+[SetUp "1"]
+[FEN "8/1Q1R4/1p6/1p5b/1p4r1/1P6/K1kPP3/4RNb1 w - - 0 1"]
+
+1. Qh1 (1. Qc6+ 1... Rc4) (1. Rc7+ 1... Bc5) 1... Bd4 (1... Rd4 2. Rc7+ (2. Qe4+) 2... Rc4 3. Qe4#) (1... Rg3) 2. Qc6+ 2... Bc3 (2... Bc5 3. Ne3#) 3. Ne3# 1-0

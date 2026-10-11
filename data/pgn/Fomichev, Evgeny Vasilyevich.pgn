@@ -10,3 +10,22 @@
 [FEN "8/8/8/6p1/8/3NK3/6pp/1N4k1 w - - 0 1"]
 
 1. Nd2 $1 (1. Nf2 $2 h1=Q 2. Nd2 Qh5 $1 3. Nf3+ Kf1 4. Nd2+ Ke1 5. Nf3+ Qxf3+ $1) g4 $1 2. Nf2 (2. Ne5 $2 Kh1 $1) h1=Q 3. Nxg4 $1 Qh3+ 4. Nf3+ Qxf3+ $1 5. Kxf3 Kh1 6. Nf2+ Kh2 7. Ng4+ Kh1 8. Nf2+ 1/2-1/2
+
+[Event "Kudesnik"]
+[Site "?"]
+[Date "2015.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Fomichev, Evgeny Vasilyevich"]
+[Stipulation "#5"]
+[Source "Kudesnik, 2015"]
+[Album "FIDE Album, 2013-2015, no. C81"]
+[Award "1st Prize; Kudesniku-25"]
+[YACPDB "647607"]
+[URL "https://www.yacpdb.org/#647607"]
+[SetUp "1"]
+[FEN "6k1/8/5Q2/8/6q1/2B5/4P1B1/6K1 w - - 0 1"]
+
+1. Kh2 1... Qh5+ (1... Qd7 2. Qg6+ 2... Kf8 3. Bb4+ 3... Qe7 4. Bd5 4... Qd6+ 5. Bxd6#) (1... Kh7 2. Qf7+ 2... Kh6 3. Bd2+ 3... Qg5 4. Be4 4... Qf4+ 5. Bxf4#) 2. Kg3 2... Qg5+ (2... Qh6 3. Qxh6 (3. Bd5+ 3... Kh7 4. Qf7+ 4... Qg7+ 5. Qxg7# (5. Qg6+)) 3... Kf7 4. Qf6+ (4. Bc6 4... Kg8 (4... Ke7 5. Qf6#) 5. Qg7# (5. Bd5#)) 4... Kg8 (4... Ke8 5. Bc6#) 5. Qg7#) 3. Qxg5+ 3... Kf8 (3... Kf7 4. Qf6+ (4. Bc6 4... Ke6 (4... Kf8 5. Qg7#) 5. Qf6#) (4. Bd5+) 4... Kg8 (4... Ke8 5. Bc6#) 5. Qg7#) 4. Qf6+ 4... Ke8 (4... Kg8 5. Qg7#) 5. Bc6# 1-0

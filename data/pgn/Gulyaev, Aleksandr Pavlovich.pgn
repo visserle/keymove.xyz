@@ -1029,3 +1029,23 @@
 [FEN "6B1/8/8/7R/1kN5/pp1p4/p7/2K5 w - - 0 1"]
 
 1. Rb5+ $1 Kxb5 2. Nxa3+ Kb4 3. Kb2 a1=Q+ 4. Kxa1 d2 5. Bxb3 Kxb3 6. Nb1 d1=Q 1/2-1/2
+
+[Event "Vecherniy Sverdlovsk"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Gulyaev, Aleksandr Pavlovich"]
+[Composer2 "Lobusov, Andrey Yakovlevich"]
+[Stipulation "#3"]
+[Source "Vecherniy Sverdlovsk, 1973"]
+[Album "FIDE Album, 1971-1973, no. 246, p. 54"]
+[Award "1st-2nd Prize; YuK Sverdlovsk-250"]
+[YACPDB "56865"]
+[URL "https://www.yacpdb.org/#56865"]
+[SetUp "1"]
+[FEN "3Q4/7b/2p1B3/BnN1k3/3Rp3/q4p2/1p5K/6n1 w - - 0 1"]
+
+1. Bc8 1... Qxa5 (1... Qxc5 2. Qh8+ 2... Kf4 3. Bd2#) (1... Kf4 2. Bd2+ 2... Qe3 (2... Ke5 3. Qh8#) 3. Nd3#) 2. Nd3+ 2... exd3 3. Qh8# 1-0

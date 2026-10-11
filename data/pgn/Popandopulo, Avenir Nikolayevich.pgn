@@ -1,0 +1,18 @@
+[Event "Shakhmaty v SSSR"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Popandopulo, Avenir Nikolayevich"]
+[Stipulation "#4"]
+[Source "Shakhmaty v SSSR, 1957, issue 6, no. 44"]
+[Album "FIDE Album, 1956-1958, no. 346"]
+[Award "1st Prize; Shakhmaty v SSSR (1957)"]
+[YACPDB "97335"]
+[URL "https://www.yacpdb.org/#97335"]
+[SetUp "1"]
+[FEN "1k6/1p1K4/1b2B3/pP2P3/P6P/8/4Q2R/8 w - - 0 1"]
+
+1. Bd5 (1. Bh3) 1... Ka7 (1... Bg1 2. Bh1 2... Ka7 3. Qg2 3... Kb6 4. Qxg1# (4. Qg8)) (1... Ba7 2. Bh1 2... b6 3. Rg2) 2. Bh1 2... Bg1 (2... Bf2 3. Qf3 3... Kb6 4. Qxf2# (4. Qxb7+)) (2... Be3 3. Qf3 3... Kb6 4. Qxe3#) (2... Bd4 3. Qe4 3... Kb6 4. Qxd4#) 3. Qg2 3... Kb6 4. Qxg1# (4. Qxb7+) 1-0

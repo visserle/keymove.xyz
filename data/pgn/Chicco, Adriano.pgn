@@ -25,3 +25,22 @@
 [FEN "6K1/8/2p2P2/8/p7/4k2N/6B1/3b4 w - - 0 1"]
 
 1. Bd5 $1 Bb3 (Bh5 2. Bxc6 a3 3. Bd5 $1) 2. Bxb3 axb3 3. Nf2 Kd2 4. Nd3 Kxd3 5. f7 b2 6. f8=Q b1=Q 7. Qf5+ Kc3 8. Qxb1 1-0
+
+[Event "Vereenigd Amsterdamsch Schaakgenootschap"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Chicco, Adriano"]
+[Stipulation "#2"]
+[Source "Vereenigd Amsterdamsch Schaakgenootschap, 1932"]
+[Album "FIDE Album, 1914-44/I, no. 558"]
+[Award "1st-2nd Prize; Vereenigd Amsterdamsch Schaakgenootschap TT (1932)"]
+[YACPDB "4397"]
+[URL "https://www.yacpdb.org/#4397"]
+[SetUp "1"]
+[FEN "8/5p2/2pR1P1B/1pRn3P/1p2k3/pP6/P3pPN1/Q3K2B w - - 0 1"]
+
+1. Qc1 1... Kd3 (1... Kf5 2. Qf4#) (1... Kf3 2. Ne3#) (1... Kd4 2. Qe3#) (1... Ke5 2. Qf4#) (1... Ne3 2. Nxe3# (2. Qxe3#)) (1... Nf4 2. Nxf4# (2. Qxf4#) (2. Qe3#)) 2. Qe3# 1-0

@@ -1,0 +1,18 @@
+[Event "Satakunnan TT"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Laiho, Aulis"]
+[Stipulation "#2"]
+[Source "Satakunnan TT, 1977"]
+[Album "FIDE Album, 1977-1979, no. 41, p. 16"]
+[Award "1st Prize; Satakunnan TT (1977)"]
+[YACPDB "14014"]
+[URL "https://www.yacpdb.org/#14014"]
+[SetUp "1"]
+[FEN "8/8/1pprbQ1K/1pk4p/1n2Bn1r/4N3/1B1N4/8 w - - 0 1"]
+
+1. Bd5 1... cxd5 (1... Nbxd5 2. Qd4#) (1... Nfxd5 2. Nb3#) (1... Bxd5 2. Bd4#) (1... Rxd5 2. Ne4#) 2. Qc3# 1-0

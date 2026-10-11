@@ -1,0 +1,18 @@
+[Event "Schach"]
+[Site "?"]
+[Date "1963.11.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Oreshin, Alexander Georgievich"]
+[Stipulation "#3"]
+[Source "Schach, 1963/11, no. 4431"]
+[Album "FIDE Album, 1962-1964, no. 294, p. 72"]
+[Award "1st Prize; Schach"]
+[YACPDB "95849"]
+[URL "https://www.yacpdb.org/#95849"]
+[SetUp "1"]
+[FEN "R5K1/2pk4/2r1p3/1B2b3/4Np2/B2pN3/n7/4R3 w - - 0 1"]
+
+1. Be7 1... Bf6 (1... Bd6 2. Nf6+ 2... Kxe7 3. Ned5# (3. Re8+)) (1... Kxe7 2. Bxc6) 2. Nc5+ 2... Kxe7 3. Nf5# 1-0

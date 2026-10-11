@@ -1,0 +1,18 @@
+[Event "Probleemblad"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Visserman, Eeltje"]
+[Stipulation "#3"]
+[Source "Probleemblad, 1960, no. 4000"]
+[Album "FIDE Album, 1979-1961, no. 318, p. 74"]
+[Award "1st Prize; Probleemblad (1960)"]
+[YACPDB "59131"]
+[URL "https://www.yacpdb.org/#59131"]
+[SetUp "1"]
+[FEN "4n3/p3K3/3BN2p/1bR1PkpP/r2QpN2/r3p2P/1bP5/1n4R1 w - - 0 1"]
+
+1. Ng2 1... Rxd4 (1... Bxd4 2. c4) (1... Rc3 2. Qc4 2... Rxc2 3. Nxe3# (3. Nd4+)) (1... Bc4 2. Qc3 2... Bxe6 3. Rf1#) 2. c3 2... Rd3 3. Rf1# (3. Nd4+) 1-0

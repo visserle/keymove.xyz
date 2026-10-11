@@ -216,3 +216,22 @@
 [FEN "4B3/8/8/6p1/7k/pP6/5KPP/8 w - - 0 1"]
 
 1. g3+ $1 Kh3 (Kg4 2. Bg6 a2 3. Kg2 a1=Q 4. h3#) 2. Kg1 a2 (Kg4 3. Bg6 a2 4. Kg2 a1=Q 5. h3#) 3. Bd7+ g4 4. Bb5 a1=Q+ 5. Bf1+ Qxf1+ 6. Kxf1 Kxh2 7. Kf2 (7. b4 $2 Kxg3 8. Kg1 Kf4) 1-0
+
+[Event "Konkurs 50 let Sovetskim Vooruzhyonnym Silam"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Kalinin, Alexander Konstantinovich"]
+[Stipulation "#5"]
+[Source "Konkurs 50 let Sovetskim Vooruzhyonnym Silam, 1968"]
+[Album "FIDE Album, 1968-1970, no. 392, p. 80"]
+[Award "1st Prize; Konkurs 50 let Sovetskim Vooruzhyonnym Silam"]
+[YACPDB "91760"]
+[URL "https://www.yacpdb.org/#91760"]
+[SetUp "1"]
+[FEN "8/BKp1p3/2N1P2b/2Pk1Pp1/6P1/NP1PR3/8/q3n3 w - - 0 1"]
+
+1. Re2 1... Nc2 2. Re4 2... Bf8 3. Re5+ 3... Qxe5 4. Nb5 4... Qd4 (4... Qh2 5. Nc3#) (4... Na1 5. Nb4#) (4... Bh6 5. Nxe7#) 5. Nxc7# 1-0

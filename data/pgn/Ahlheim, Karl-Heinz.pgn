@@ -38,3 +38,22 @@
 [FEN "4N3/7N/6P1/8/2r3k1/8/8/7K w - - 0 1"]
 
 1. g7 $1 Kh5 $1 (Kh3 2. Ng5+ Kg3 3. Ne4+ Kh3 4. Nf2+) (Kf3 2. Ng5+ Kf2 3. Nh3+) (Kf5 2. Nd6+) 2. Nhf6+ $1 Kh6 $1 3. Kg2 $1 (3. g8=Q $2 Rc1+ 4. Kh2 Rh1+ 5. Kg2 Rg1+ 6. Kxg1) Rf4 $1 (Rc5 4. g8=Q Rg5+ 5. Ng4+ $1) 4. Ng8+ $1 Kh5 5. Nh6 Rf6 6. Nxf6+ Kxh6 7. Ne8 1-0
+
+[Event "stella polaris"]
+[Site "?"]
+[Date "1967.09.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Ahlheim, Karl-Heinz"]
+[Stipulation "#2"]
+[Source "stella polaris, 1967/09, no. 1199"]
+[Album "FIDE Album, 1965-1967, no. 46"]
+[Award "1st Prize; stella polaris (1967)"]
+[YACPDB "118"]
+[URL "https://www.yacpdb.org/#118"]
+[SetUp "1"]
+[FEN "5R2/8/4P1pp/QBK3k1/3P2pr/7p/8/8 w - - 0 1"]
+
+1. Kd6 (1. Kb4 1... h5) (1. Kb6 1... Rh5) (1. Kc4 1... g3) (1. Kc6 1... Kh5) 1... g3 (1... Rh5 2. Qd8#) (1... Kh5 2. Be8#) (1... h5 2. Qd2#) 2. Be2# 1-0

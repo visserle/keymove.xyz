@@ -1,0 +1,18 @@
+[Event "Schach"]
+[Site "?"]
+[Date "1986.05.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Schreckenbach, Michael"]
+[Stipulation "#3"]
+[Source "Schach, 1986/05, no. 10979, p. 230"]
+[Album "FIDE Album, 1986-1988, no. B30, p. 115"]
+[Award "1st Prize; Nationales Förderungsturnier des DSV der DDR (1985-1986)"]
+[YACPDB "187039"]
+[URL "https://www.yacpdb.org/#187039"]
+[SetUp "1"]
+[FEN "8/N1r1n3/1B1N4/r1P2QK1/3k1Pn1/q2b4/2PP1P2/7B w - - 0 1"]
+
+1. Qe6 1... Qxc5+ (1... Raxc5+ 2. Nf5+ 2... Bxf5 (2... Nxf5 3. Qd5#) 3. Nb5#) (1... Rcxc5+ 2. Qd5+ 2... Nxd5 3. Nc6#) 2. Qe5+ 2... Nxe5 3. c3# 1-0

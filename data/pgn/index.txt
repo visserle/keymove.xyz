@@ -12,6 +12,7 @@ Agostini, Valerio.pgn
 Ahlheim, Karl-Heinz.pgn
 Ahs, Carl Johann Mathias.pgn
 Ahues, Carl.pgn
+Ahues, Herbert Siegfried Oskar.pgn
 Aitov, Fatikh Sadikovich.pgn
 Aizenshtat, Mark Aronovich.pgn
 Aizenshtat, Mark.pgn
@@ -70,9 +71,11 @@ Bacque, Guy.pgn
 Badai, Boris Vladimirovich.pgn
 Badai, Boris.pgn
 Bagdasarian, Grzegorz.pgn
+Baier, Roland.pgn
 Baja, Victor.pgn
 Bajus, Istvan.pgn
 Bakay, Bela.pgn
+Bakcsi, György.pgn
 Bakhtadze, V.pgn
 Bakke, Nils Adrian.pgn
 Balanovsky, V.pgn
@@ -157,6 +160,7 @@ Boden, Samuel Standidge.pgn
 Bogdasaryan, F.pgn
 Bogomaz, Andrey Maximovich.pgn
 Bograd, Leib.pgn
+Bohdanov, Yevhenii Mykhailovych.pgn
 Boleslavski, Zbigniew.pgn
 Boman, Ragnar.pgn
 Bondar, Ivan.pgn
@@ -199,6 +203,9 @@ Bron, Vladimir Akimovich.pgn
 Bronstein, David Ionovich.pgn
 Bronstein, M.pgn
 Brown, David Leo.pgn
+Bruch, Wieland.pgn
+Brunner, Eduard.pgn
+Brunner, Erich Anselm.pgn
 Brynhammar, H.pgn
 Buchwald, Julius.pgn
 Bucina, Ladislav.pgn
@@ -214,6 +221,7 @@ Burt, John.pgn
 Busch, W.pgn
 Butkiewicz, N.pgn
 Buyannemek, Bizijagin.pgn
+Byas, Walter Bill.pgn
 Byuzandyan, Joseph.pgn
 Bähr, Walter.pgn
 Böttcher, Carl Johan Friedrich.pgn
@@ -246,6 +254,7 @@ Charlick, Arthur Robert Baker.pgn
 Chebotarev, Alexey Alexeevich.pgn
 Chekhover, Vitaly Alexandrovich.pgn
 Chepitski, P.pgn
+Chepizhny, Viktor Ivanovich.pgn
 Chernenko, A.pgn
 Chernev, Irving.pgn
 Chicco, Adriano.pgn
@@ -271,6 +280,7 @@ Cohen, D.pgn
 Cohn, Hans.pgn
 Cohn, S.pgn
 Collijn.pgn
+Collins, Francis Charles.pgn
 Colombo, D.pgn
 Cook, Eugene Beauharnais.pgn
 Cook, Eugene.pgn
@@ -311,6 +321,7 @@ Dankiewicz, Jerzy.pgn
 Dannberg, Wolf.pgn
 Darvall, Robert J.pgn
 Davi.pgn
+Davidenko, Fyodor Vasilyevich.pgn
 Davies, I.pgn
 Davletshin, I.pgn
 Davranyan, A.pgn
@@ -360,9 +371,11 @@ Donovan, J.pgn
 Dorasil, Carl.pgn
 Dorogov, Yuri Nikolaevich.pgn
 Doré, Marcel.pgn
+Doukhan, Gérard.pgn
 Dreijers, Alberts.pgn
 Drewitt, John Arthur James.pgn
 Driman, S.pgn
+Drnek, Josef.pgn
 Drtina, Jan.pgn
 Dubovski, M.pgn
 Dudakov, Mijal Ivanovich.pgn
@@ -387,6 +400,7 @@ Efron, Andrew.pgn
 Ehrat, Julius.pgn
 Ehrlich, Dov.pgn
 Eidem, Frode.pgn
+Eilers, Wolfgang.pgn
 Elekes, Béla.pgn
 Elekesh, Dezco.pgn
 Eliassen, Harald.pgn
@@ -422,6 +436,7 @@ Feigl, Maximilian.pgn
 Feinstein, A.pgn
 Fekete, Zoltan.pgn
 Feldmann, Tibor.pgn
+Feoktistov, Alexander Fyodorovich.pgn
 Fernhout, Johannes.pgn
 Ferrari, Aristide.pgn
 Fiedler, Frank.pgn
@@ -447,6 +462,7 @@ Forsberg, Henry Olof Axel.pgn
 Forster, Fritz.pgn
 Fort, Alois.pgn
 Fossum, Andre Ferdinand.pgn
+Fossum, André Ferdinand.pgn
 Frangoulis, Kiriakos.pgn
 Frank, A.pgn
 Frankenstein, Edward Nethan.pgn
@@ -481,6 +497,7 @@ Ganierchin, W.pgn
 Ganouma, J.pgn
 Ganshin, V.pgn
 Gantz, D.pgn
+Garai, Toma.pgn
 Garayazli, I.pgn
 Garaza, Louis Alberto.pgn
 Gavrilov, Constantin Grogoryevich.pgn
@@ -530,6 +547,7 @@ Gosman, Gheorghe.pgn
 Gostynski, Roman.pgn
 Gottfreund, G.pgn
 Goubeau, R.pgn
+Goumondy, Claude.pgn
 Graafland, J. C. N..pgn
 Graca, Jorge.pgn
 Granlund, E.pgn
@@ -595,6 +613,8 @@ Havel, Miroslav.pgn
 Hawes, Frederick Thomas.pgn
 Haywood, J.pgn
 Healey, Frank.pgn
+Heathcote, Godfrey F..pgn
+Hebelt, Wacław.pgn
 Heino, Olavi.pgn
 Heinrich, F.pgn
 Heinz, Jurgen.pgn
@@ -721,6 +741,7 @@ Kanonik, Dmitry Kirillovich.pgn
 Kantorovic, Inna.pgn
 Kapfer, Ewald.pgn
 Kaplan, M. D..pgn
+Kapusta, Viktor Lvovych.pgn
 Karhia, Veikko Sergei.pgn
 Karin, Alexej I..pgn
 Karlinsky, L.pgn
@@ -846,10 +867,12 @@ Kozakov, R.pgn
 Kozdon, Baldur.pgn
 Kozhakin, Vladimir Vladimirovich.pgn
 Kozirev, Vasily Evgienievich.pgn
+Koziura, Hennadii Volodymyrovych.pgn
 Kozlowski, Szaja.pgn
 Kozłowski, Leszek.pgn
 Košek, Vojtěch.pgn
 Krachunov, Krachun.pgn
+Kraemer, Adolf Herrmann Rudolf Ferdinand.pgn
 Kraemer, Adolf.pgn
 Kralin, Nikolai Ivanovich.pgn
 Kramarenko, Vladimir Nikandrovich.pgn
@@ -874,6 +897,7 @@ Krusius, P.pgn
 Kryuchkov, Georgy.pgn
 Kryutchkov, Sergei Petrovich.pgn
 Krzhivitsky, Oleg.pgn
+Kröger, Esko.pgn
 Kubbel, Arvid Ivanovich.pgn
 Kubbel, Leonid Ivanovich.pgn
 Kubicek, James Lawrence.pgn
@@ -894,11 +918,13 @@ Kuznetsov Matveev, AL.pgn
 Kuznetsov, Alexander Petrovich.pgn
 Kuznetsov, Anatoly Georgievich.pgn
 Kuznetsov, Anatoly.pgn
+Kuzovkov, Alexander Sergeyevich.pgn
 Kvekkenstedt, Wilhelm.pgn
 Kwiatkowski, Marek.pgn
 Laaksonen, Helmuth.pgn
 Lafora, Carlos Rodriguez.pgn
 Laib, Kurt Friedrich.pgn
+Laiho, Aulis.pgn
 Laiho, Urho Valter.pgn
 Laisaari, Mauno Kalervo.pgn
 Lamare, Marcel Joseph.pgn
@@ -934,6 +960,7 @@ Leik, Wilhelm.pgn
 Lemaire, Robert.pgn
 Leonhardt, Paul Saladin.pgn
 Leonteva, Nadazdha.pgn
+Lepuschütz, Hans.pgn
 Lerch, Jan.pgn
 Letzelter, Jean-Claude.pgn
 Leuchter, Pinkus.pgn
@@ -964,8 +991,10 @@ Loeventon, Leon.pgn
 Lolli, Giambatista.pgn
 Lommer, Harold Maurice.pgn
 Lommer, Harold.pgn
+Loshinsky, Lev Ilyich.pgn
 Louma, Josef.pgn
 Loustau, J.pgn
+Loustau, Jean-Marc.pgn
 Lovtsov, Vadim A.pgn
 Lowenthal, Johann Jacob.pgn
 Loyd, Samuel.pgn
@@ -1011,6 +1040,7 @@ Mansarliisky, Mykola Dmytrovych.pgn
 Mansarliisky, Nikolaj Dmitrovich.pgn
 Manvelyan, Alexander Artemovich.pgn
 Manyakhin, Aleksandr Petrovich.pgn
+Marandiuk, Mykhailo Nazarovych.pgn
 Mariani, Stefano.pgn
 Maric, Rudolf.pgn
 Mariltsev, A.pgn
@@ -1021,6 +1051,7 @@ Markov, B.pgn
 Marks, Edward.pgn
 Martens, D.pgn
 Martsvalashvili, Ruzvelt.pgn
+Maruta, Hidajat.pgn
 Marwitz, Jan Hendrik.pgn
 Marysko, Milos.pgn
 Mason, James.pgn
@@ -1033,6 +1064,7 @@ Matous, Mario.pgn
 Matrenin, Mikhail Vasilevich.pgn
 Mattei, Lucio.pgn
 Matthaus, Hans Georg.pgn
+Matthews, Robin Charles Olivier.pgn
 Mattison, Hermann K.pgn
 Matus, A.pgn
 Matzner, I.pgn
@@ -1083,10 +1115,12 @@ Missiaen, Roger Jules Adolphe.pgn
 Mitkovic, J.pgn
 Mitrofanov, Leopold Adamovich.pgn
 Mladenović, Slobodan.pgn
+Mlynka, Karol.pgn
 Moberg, Knut.pgn
 Mockel, Johann.pgn
 Molchanovsky, I.pgn
 Molenbroek, Hans.pgn
+Mongrédien, Alfred Wornum.pgn
 Monsky, Paul.pgn
 Mooren, Leo.pgn
 Moravec, Antonin.pgn
@@ -1107,14 +1141,17 @@ Mugnos, Jose.pgn
 Mui, M.pgn
 Muller, Erich.pgn
 Mundra, E.pgn
+Murashev, Pavel Aleksandrovich.pgn
 Murashov, Vassily.pgn
 Murasov, V.pgn
 Mushenko, S.pgn
 Myhre, Gunnar Frode.pgn
 Myllyniemi, Matti Arvo.pgn
+Müller, Dieter.pgn
 Nadareishvili, Gia Antonovich.pgn
 Naef, Wladimir.pgn
 Nagnibida, N.pgn
+Nagy, Ödön.pgn
 Napolitano, Mario.pgn
 Natucci, Giordano.pgn
 Nazanyan, Aramais.pgn
@@ -1152,6 +1189,7 @@ Nowakowski, Sebastian.pgn
 Noyes, F.pgn
 Nunn, John Denis Martin.pgn
 Nyeviczkey, Lorand.pgn
+O'Keefe, John James.pgn
 Ohman, Iancu.pgn
 Olimpiev, Bronislav Grigorievich.pgn
 Olin, Per Ingvar.pgn
@@ -1162,6 +1200,7 @@ Olson, C.pgn
 Olsson, R.pgn
 Omelyansky, Vasily Leonidovich.pgn
 Onate, Eugenio Cisneros.pgn
+Oreshin, Alexander Georgievich.pgn
 Ormond, Jean-Louis.pgn
 Ornstein, Axel Otto.pgn
 Orsi, P.pgn
@@ -1257,6 +1296,7 @@ Pollmacher, Hermann.pgn
 Pomogalov, Vasily.pgn
 Ponce Sala, Lorenzo.pgn
 Ponziani, Domenico Lorenzo.pgn
+Popandopulo, Avenir Nikolayevich.pgn
 Popkov, Nicolay.pgn
 Popov, Georgy Alexandrov.pgn
 Popov, Luben.pgn
@@ -1280,6 +1320,7 @@ Proskurowski, Wlodek.pgn
 Pruscha, Helmut.pgn
 Prytz, Rud.pgn
 Przepiorka, David.pgn
+Przepiórka, Dawid.pgn
 Pucher, Oliver.pgn
 Pudovkin, Vasily.pgn
 Puhakka, Errki Tapio.pgn
@@ -1297,6 +1338,7 @@ Rajna, Zoltán.pgn
 Rash-Nilsen, Poul.pgn
 Ratner, Evsay.pgn
 Ratz, Viliam.pgn
+Rautanen, Aleksis Richard Rurik.pgn
 Ravarini, Romolo.pgn
 Ravishankar, Shikaripur Naryana Murthy.pgn
 Razu, Ionel.pgn
@@ -1361,6 +1403,7 @@ Rusek, Jan A.pgn
 Rusek, Jan.pgn
 Rusenescu, Eugen.pgn
 Rusinek, Jan.pgn
+Ruszczyński, Piotr.pgn
 Rutz, Carl W..pgn
 Ruzinov, G.pgn
 Ryabinin, Nikolaj.pgn
@@ -1413,6 +1456,7 @@ Schoonhoven, G.pgn
 Schor, Laszlo.pgn
 Schottmuller, Fritz.pgn
 Schouten, G.L.pgn
+Schreckenbach, Michael.pgn
 Schubert, Oscar.pgn
 Schulz, J.pgn
 Schächter, Nuchim.pgn
@@ -1431,6 +1475,7 @@ Seleznyov, Alexei Sergeyevich.pgn
 Selman, Johan jr..pgn
 Selman, John.pgn
 Semisazhenov, L.pgn
+Seneca, Camil.pgn
 Senft, Adolf.pgn
 Seoane, J.pgn
 Sereda, Victor Viktorovich.pgn
@@ -1446,6 +1491,7 @@ Shablinsky, Mikhail Ivanovich.pgn
 Shakhtakhtinsky, G.pgn
 Shamkovich, Leonid Alexandrovich.pgn
 Shannon, J.pgn
+Shavyrin, Valery Mikhailovich.pgn
 Shaykin, N.pgn
 Shilkov, Leonid Vasilievich.pgn
 Shioshvili, A.pgn
@@ -1475,6 +1521,7 @@ Sivak, Bohuslav.pgn
 Sizonenko, Victor Nikolaevich.pgn
 Skalicka, Carlos.pgn
 Skuja, Roberts.pgn
+Sladek, Gerald.pgn
 Slepjan, Grigory Iakovlevich.pgn
 Smatana, Vojtech.pgn
 Smid, J.pgn
@@ -1530,8 +1577,10 @@ Stepanov, L.pgn
 Sterkenburg, S.pgn
 Stevenson, Edward.pgn
 Sticher, R.pgn
+Stocchi, Ottavio.pgn
 Stoichev, Konstantin.pgn
 Stojkovic, A.pgn
+Stojnic, Dragan.pgn
 Stolk, A.pgn
 Stolyarov, Vitaly Nestorovich.pgn
 Stosic, Miroslav.pgn
@@ -1553,6 +1602,7 @@ Sviridenko, Nikolay.pgn
 Svoboda, Rudolf.pgn
 Swindley, Cyril P.pgn
 Sychra, J.pgn
+Sygurov, Alexander Ilyich.pgn
 Szentai, Endre.pgn
 Szentmártoni, László.pgn
 Sziráki, Géza.pgn
@@ -1602,11 +1652,13 @@ Topko, Leonid Fedorovich.pgn
 Topko, Leonid Fedorovych.pgn
 Torner, A.pgn
 Trader, J.pgn
+Trautner, Rolf.pgn
 Travasoni, Marco.pgn
 Travesset, J.pgn
 Traxler, Karel Peter.pgn
 Tresling, Jan Diederik.pgn
 Tretyakov, I.pgn
+Tribowski, Marcel.pgn
 Trinks, Otto.pgn
 Troitsky, Alexey Alexeyevich.pgn
 Trzesowski, Andrzej.pgn
@@ -1675,6 +1727,7 @@ Verburg, Marinus Cornelus.pgn
 Verheijen, H.pgn
 Verhoeven, M.pgn
 Verkaik, E. P. W..pgn
+Vetter, Hans.pgn
 Veurman, Johannes Klaas.pgn
 Veurman, Johannes.pgn
 Vidmar, Milan.pgn
@@ -1686,6 +1739,7 @@ Vinokur, R.pgn
 Vishnevsky, Vyachevslav Konstantonovich.pgn
 Visser, Leonard Wilbert Heiko.pgn
 Visser, William M..pgn
+Visserman, Eeltje.pgn
 Vivas Font, Frantesc.pgn
 Vladimirov, Jakob Georgievic.pgn
 Vlasak, Emil.pgn
@@ -1751,6 +1805,7 @@ Wolk, Sigmund.pgn
 Wood, Walter John.pgn
 Wortel, Nicolaas.pgn
 Wotawa, Alois.pgn
+Wróbel, Marian.pgn
 Wójcik,Stanisław.pgn
 Yaacob, Y.pgn
 Yaacobi, Benjamin.pgn
@@ -1767,6 +1822,7 @@ Yurzinov, V.pgn
 Zababurin, Nikolay Fedorovich.pgn
 Zabinski, Josef.pgn
 Zadonski, Oleg Vasilievich.pgn
+Zagoruiko, Leonid Ivanovich.pgn
 Zahonyi, Ferenc.pgn
 Zaitsev, N.pgn
 Zakharov, Sergey Pavlovich.pgn
@@ -1778,6 +1834,7 @@ Zamecnik, B.pgn
 Zamostny, A.pgn
 Zamotaev, I.pgn
 Zanco, Vittorio.pgn
+Zappas, Byron.pgn
 Zaytsev, Igor Arkadyevich.pgn
 Zeller, Jean.pgn
 Zemlyanski, Yuri Ivanovich.pgn

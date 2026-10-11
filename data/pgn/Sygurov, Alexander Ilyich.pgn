@@ -1,0 +1,18 @@
+[Event "Shakhmatnaya kompozitsiya"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Sygurov, Alexander Ilyich"]
+[Stipulation "#4"]
+[Source "Shakhmatnaya kompozitsiya, 2005, issue 68, p. 38"]
+[Album "FIDE Album, 2004-2006, no. C63"]
+[Award "1st Place, TT; Otkrytyy chempionat Moskvy"]
+[YACPDB "232579"]
+[URL "https://www.yacpdb.org/#232579"]
+[SetUp "1"]
+[FEN "1qr1N1n1/1N1B4/2pp3b/3kPRp1/n2P1Pp1/1PPRP3/6b1/2K1B3 w - - 0 1"]
+
+1. Kd2 1... Rxe8 (1... gxf4 2. exd6+ 2... Ke4 3. Re5+ 3... Kf3 4. e4#) (1... dxe5 2. dxe5+ 2... Ke4 3. Rd4+ (3. c4) 3... Kf3 4. fxg5#) (1... Bg7 2. fxg5 2... Nb2 (2... Ke4 3. Rf4+ 3... Kd5 4. c4#) 3. exd6+ 3... Ke4 (3... Be5 4. Rxe5#) 4. Nc5#) (1... Nb2 2. exd6+ 2... Ke4 3. Nc5+ 3... Kf3 4. fxg5#) 2. e4+ 2... Kxe4 3. Re3+ 3... Kd5 4. e6# 1-0

@@ -1,0 +1,18 @@
+[Event "Sächsische Zeitung"]
+[Site "?"]
+[Date "1984.08.03"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Kuzovkov, Alexander Sergeyevich"]
+[Stipulation "#5"]
+[Source "Sächsische Zeitung, 1984/08/03, no. 1404"]
+[Album "FIDE Album, 1983-1985, no. 456, p. 173"]
+[Award "1st-2nd Prize; Sächsische Zeitung"]
+[YACPDB "92963"]
+[URL "https://www.yacpdb.org/#92963"]
+[SetUp "1"]
+[FEN "K2kb2Q/BB1p1n2/1p3p2/p2N1N2/2p1p1pp/8/8/q5b1 w - - 0 1"]
+
+1. Bb8 (1. Nd4 1... Qxd4 2. Bxb6+) (1. Qf8 1... Qe5) 1... Bh2 2. Qf8 2... Qa3 3. Nd6 3... Bxd6 (3... Qxd6 4. Bc7+ 4... Qxc7 5. Qe7#) 4. Qe7+ 4... Bxe7 5. Bc7# 1-0

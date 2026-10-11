@@ -1,0 +1,18 @@
+[Event "Probleemblad"]
+[Site "?"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Composer "Tribowski, Marcel"]
+[Stipulation "#5"]
+[Source "Probleemblad, 2007, no. 12151"]
+[Album "FIDE Album, 2007-2009, no. C79"]
+[Award "1st Prize; Probleemblad"]
+[YACPDB "222094"]
+[URL "https://www.yacpdb.org/#222094"]
+[SetUp "1"]
+[FEN "1B4B1/1p5p/4N1P1/1K1kPp2/1p2bR2/bP2n2r/4P3/1N6 w - - 0 1"]
+
+1. Bd6 1... hxg6 (1... Bb2 2. Nc5+ 2... Kd4 3. Nd3 3... b6 4. Nxb4 4... Nc2 5. Nxc2#) 2. Nf8+ 2... Kd4 3. Nxg6 3... b6 4. Ne7 (4. Bc5+) 4... Nc2 5. Nxf5# 1-0
