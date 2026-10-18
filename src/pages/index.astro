@@ -4,6 +4,7 @@ export const prerender = false;
 import Base from "../layouts/Base.astro";
 import Diagram from "../components/Diagram.svelte";
 import { runtimeCorpus } from "../lib/corpus";
+import { accountFromHeaders, applySessionCookies } from "../lib/progress";
 import { taskFor } from "../lib/display";
 
 // The day's composition, read per request.
@@ -17,8 +18,12 @@ import { taskFor } from "../lib/display";
 // corpus.ts), so this is a Map lookup on a warm isolate. `/library` and
 // `/collections` render the same way.
 const corpus = await runtimeCorpus(Astro.url);
-// The homepage is public. Its HTML must not wait on the account database just to
-// personalize the header; AccountMenu checks the session in the browser instead.
+// The home page shows nothing personal, but the topbar's account menu does, and
+// this page is rendered per request precisely because the Worker can answer that.
+// Resolving the session here avoids a D1 read while Better Auth's five-minute
+// cookie cache is valid, and saves the browser a separate auth request per visit.
+const { account, cookies } = await accountFromHeaders(Astro.request.headers);
+applySessionCookies(Astro.response.headers, cookies);
 const dailyId = corpus.dailyId();
 // Anything at all when nothing is rated `easy`, which is the one case the pick can
 // come back empty. An empty catalogue throws below, as it did at build time.
@@ -29,6 +34,7 @@ if (!featured) throw new Error("The catalogue holds no composition to feature");
 
 <Base
 	isHome
+	accountSession={account}
 	title="keymove.xyz • Chess Compositions for Connoisseurs"
 	description="keymove.xyz is a free collection of beautiful chess compositions: studies, short mates and endgame problems. Find the key move, then read the full solution."
 >
