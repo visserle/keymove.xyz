@@ -30,20 +30,20 @@
 		"db:answers:check:remote": "tsx scripts/prune-answers.ts --remote --check"
 	},
 	"dependencies": {
-		"@astrojs/svelte": "^9.0.1",
+		"@astrojs/svelte": "^9.1.0",
 		"@lichess-org/chessground": "10.4.2",
-		"astro": "^7.3.8",
-		"better-auth": "^1.7.7",
+		"astro": "^7.4.0",
+		"better-auth": "^1.7.10",
 		"chessops": "^0.15.1",
 		"svelte": "^5.57.2"
 	},
 	"devDependencies": {
 		"@astrojs/check": "^0.9.10",
-		"@astrojs/cloudflare": "^14.3.4",
+		"@astrojs/cloudflare": "^14.4.0",
 		"@biomejs/biome": "2.5.15",
-		"@types/node": "^26.6.4",
+		"@types/node": "^26.6.5",
 		"tsx": "^4.23.15",
 		"typescript": "^6.0.3",
-		"wrangler": "^4.149.0"
+		"wrangler": "^4.151.1"
 	}
 }
