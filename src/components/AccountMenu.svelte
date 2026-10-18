@@ -27,6 +27,7 @@ let {
 /** All this menu ever shows of a session: that there is one, and the name. */
 type Account = { user: { name: string } };
 
+const SESSION_CHECK_TIMEOUT_MS = 10_000;
 const client = createAuthClient();
 const ACCOUNT_HINT_KEY = "keymove.accountSignedIn";
 /**
@@ -56,14 +57,21 @@ function setHeaderAccountIcon(signedIn: boolean): void {
  * instead of flashing a "Checking account…" line it does not need.
  */
 let loading = $state(!hasInitialAccount);
+let sessionCheckFailed = $state(false);
+let sessionCheckId = 0;
 let busy = $state(false);
 let message = $state("");
 
 async function refreshSession(useInitialPreferences = false): Promise<void> {
+	const checkId = ++sessionCheckId;
 	try {
-		const result = await client.getSession();
+		const result = await client.getSession({
+			fetchOptions: { timeout: SESSION_CHECK_TIMEOUT_MS },
+		});
+		if (checkId !== sessionCheckId) return;
 		if (result.error) throw new Error(result.error.message);
 		session = result.data;
+		sessionCheckFailed = false;
 		setAccountPreferenceSession(
 			Boolean(session),
 			useInitialPreferences && hasInitialPreferences
@@ -72,13 +80,25 @@ async function refreshSession(useInitialPreferences = false): Promise<void> {
 		);
 		setHeaderAccountIcon(Boolean(session));
 	} catch {
-		session = null;
-		setAccountPreferenceSession(false);
-		// Keep the last-known icon hint on transport/API errors. A successful
-		// getSession() returning no session is what authoritatively clears it.
+		if (checkId !== sessionCheckId) return;
+		// A prerendered page has no authoritative session to fall back to. Keep
+		// its account state unknown and offer a retry rather than implying guest
+		// status. Worker-rendered pages retain the session they already resolved.
+		if (!hasInitialAccount) {
+			session = null;
+			sessionCheckFailed = true;
+			setAccountPreferenceSession(false);
+		}
 	} finally {
-		loading = false;
+		if (checkId === sessionCheckId) loading = false;
 	}
+}
+
+function retrySessionCheck(): void {
+	if (loading) return;
+	loading = true;
+	sessionCheckFailed = false;
+	void refreshSession(true);
 }
 
 async function signIn(): Promise<void> {
@@ -139,6 +159,18 @@ onMount(() => {
 
 {#if loading}
 	<p class="account-menu__status" aria-live="polite">Checking account…</p>
+{:else if sessionCheckFailed}
+	<p class="account-menu__message" role="status">
+		Couldn’t check account right now.
+		<button
+			class="account-menu__retry"
+			type="button"
+			onclick={retrySessionCheck}
+			disabled={busy}
+		>
+			Try again
+		</button>
+	</p>
 {:else if session}
 	<div class="account-menu__identity">
 		<span class="account-menu__name">{session.user.name}</span>

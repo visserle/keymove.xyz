@@ -1,5 +1,9 @@
 import { answerFor } from "./answers";
 import { getAuth } from "./auth/runtime";
+import {
+	AUTH_SESSION_LOOKUP_TIMEOUT_MS,
+	withSessionLookupTimeout,
+} from "./auth/timeout";
 import type { CatalogueComposition } from "./catalogue";
 import type { Corpus } from "./corpus";
 import { database } from "./d1";
@@ -34,7 +38,8 @@ export interface RequestAccount {
 }
 
 export interface ResolvedAccount {
-	account: RequestAccount | null;
+	/** null means a verified guest; undefined means lookup was unavailable. */
+	account: RequestAccount | null | undefined;
 	/**
 	 * `Set-Cookie` values Better Auth produced while resolving the session,
 	 * including the five-minute session-cache cookie or cleanup of an invalid
@@ -44,7 +49,8 @@ export interface ResolvedAccount {
 }
 
 /**
- * The signed-in account for this page render, or null for a guest.
+ * The signed-in account for this page render, null for a verified guest, or
+ * undefined when the session lookup cannot complete within its time budget.
  *
  * Better Auth's five-minute signed cookie cache avoids a D1 session lookup on a
  * cache hit. A miss/expiry falls back to the database and returns any refreshed
@@ -55,12 +61,28 @@ export interface ResolvedAccount {
 export async function accountFromHeaders(
 	headers: Headers,
 ): Promise<ResolvedAccount> {
-	const result = await getAuth().api.getSession({ headers, returnHeaders: true });
-	const user = result.response?.user;
-	return {
-		account: user ? { userId: user.id, name: user.name } : null,
-		cookies: result.headers.getSetCookie(),
-	};
+	try {
+		const lookup = await withSessionLookupTimeout(() =>
+			getAuth().api.getSession({ headers, returnHeaders: true }),
+		);
+		if (lookup.timedOut) {
+			console.warn(
+				`[auth] page session lookup exceeded ${AUTH_SESSION_LOOKUP_TIMEOUT_MS}ms; rendering without account data`,
+			);
+			return { account: undefined, cookies: [] };
+		}
+		const user = lookup.value.response?.user;
+		return {
+			account: user ? { userId: user.id, name: user.name } : null,
+			cookies: lookup.value.headers.getSetCookie(),
+		};
+	} catch (error) {
+		console.error(
+			"[auth] page session lookup failed; rendering without account data",
+			error instanceof Error ? error.name : "unknown error",
+		);
+		return { account: undefined, cookies: [] };
+	}
 }
 
 /** Put the session cookies Better Auth produced on an outgoing response. */
@@ -79,11 +101,27 @@ export function applySessionCookies(
 export async function userIdFromHeaders(
 	headers: Headers,
 ): Promise<string | null> {
-	const result = await getAuth().api.getSession({
-		headers,
-		query: { disableCookieCache: true },
-	});
-	return result?.user.id ?? null;
+	try {
+		const lookup = await withSessionLookupTimeout(() =>
+			getAuth().api.getSession({
+				headers,
+				query: { disableCookieCache: true },
+			}),
+		);
+		if (lookup.timedOut) {
+			console.warn(
+				`[auth] authoritative session lookup exceeded ${AUTH_SESSION_LOOKUP_TIMEOUT_MS}ms; denying this request`,
+			);
+			return null;
+		}
+		return lookup.value?.user.id ?? null;
+	} catch (error) {
+		console.error(
+			"[auth] authoritative session lookup failed; denying this request",
+			error instanceof Error ? error.name : "unknown error",
+		);
+		return null;
+	}
 }
 
 /**

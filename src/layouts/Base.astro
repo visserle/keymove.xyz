@@ -21,9 +21,8 @@ interface Props {
 	/** Meta description for this page; falls back to the site-wide one. */
 	description?: string;
 	/**
-	 * Who is asking, as the page resolved it. Passed so the account menu does not
-	 * have to ask Better Auth a second time; omitted by a prerendered page, which
-	 * cannot know.
+	 * A server-resolved account: null means a confirmed guest; undefined means
+	 * this render did not resolve the session and the browser should check.
 	 */
 	accountSession?: { userId: string; name: string } | null;
 	/**
@@ -43,12 +42,11 @@ const {
 } = Astro.props;
 
 // The account block, in one place: who is asking, and how they like the board.
-// A page that needed the preferences for its own rendering passes them in, and
-// everyone else lets this read the one row. A prerendered page has no session,
-// so it renders the menu with neither and the browser fetches both.
-// The read is a dynamic import because the module reaches `cloudflare:workers`,
-// which a prerendered page cannot load: /about and /blog never take this branch,
-// so they never evaluate it.
+// A page that needed preferences for its own rendering passes the snapshot in;
+// otherwise, a server-resolved signed-in account reads the row here. If the
+// session was not resolved during rendering, the browser checks it after load.
+// The read is a dynamic import because the module reaches `cloudflare:workers`;
+// static pages and the public homepage skip it.
 const preferences =
 	accountPreferenceSnapshot ??
 	(accountSession

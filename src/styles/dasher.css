@@ -223,6 +223,22 @@ html[data-account-signed-in="true"] .dasher__profile-icon {
 	color: var(--c-bad);
 }
 
+#dasher-app .account-menu__retry {
+	appearance: none;
+	padding: 0;
+	border: 0;
+	color: var(--c-font-clear);
+	background: none;
+	font: inherit;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+#dasher-app .account-menu__retry:focus-visible {
+	outline: 2px solid var(--c-primary);
+	outline-offset: 2px;
+}
+
 /* --------------------------------------------------------------- theme
 
    A three-step rail, as the panel's other selectors are; the chosen option is
