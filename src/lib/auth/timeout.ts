@@ -4,7 +4,7 @@ export type TimedResult<T> = { timedOut: false; value: T } | { timedOut: true };
 
 /**
  * Bound how long a caller waits for session resolution. This races rather than
- * aborts the underlying operation; Better Auth's internal D1 lookup has no signal.
+ * aborting the underlying operation, so a timed-out lookup may continue running.
  */
 export async function withSessionLookupTimeout<T>(
 	operation: () => Promise<T>,
